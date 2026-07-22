@@ -131,6 +131,7 @@ seasoning blends based only on what's actually on hand.
 | Montreal steak seasoning | Store bought | Coarse salt, black pepper, red pepper, garlic, onion, sunflower oil, natural flavor, extractives of paprika | In stock |
 | Blacken seasoning | Store bought | Salt, spices, paprika, dehydrated onion | In stock |
 | Creole seasoning | Store bought | Salt, red pepper, black pepper, chili powder, chili pepper, spices, garlic powder, dehydrated garlic, silicon dioxide | In stock |
+| Old Bay seasoning | Store bought (McCormick) | Celery salt (salt, celery seed), spices (including red pepper and black pepper), paprika | In stock — best by Aug 2022, consider replacing |
 
 ## Bar
 
