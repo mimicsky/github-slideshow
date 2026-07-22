@@ -70,6 +70,7 @@ seasoning blends based only on what's actually on hand.
 | Heavy whipping cream | | In stock |
 | Sour cream | | In stock |
 | Butter | | In stock |
+| Liquid margarine | | In stock |
 | Milk | | In stock |
 | Jack cheese | | In stock |
 | Parm cheese | | In stock |
@@ -98,6 +99,7 @@ seasoning blends based only on what's actually on hand.
 |---|---|---|
 | Sweet Baby Ray's | BBQ sauce | In stock |
 | Olive oil | | In stock |
+| Canola oil | | In stock |
 | Red hot sauce | | In stock |
 | Red wine vinegar | | In stock |
 | Steak sauce | | In stock |
