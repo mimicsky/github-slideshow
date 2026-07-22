@@ -128,6 +128,7 @@ seasoning blends based only on what's actually on hand.
 |---|---|---|---|
 | Garlic salt blend | Store bought | Salt, garlic, modified corn starch, sugar, parsley, garlic oil, extractives of carrot (color) | In stock |
 | Italian style seasoning | Store bought | Oregano, marjoram, thyme, basil, rosemary, sage | In stock |
+| Montreal steak seasoning | Store bought | Coarse salt, black pepper, red pepper, garlic, onion, sunflower oil, natural flavor, extractives of paprika | In stock |
 
 ## Bar
 
