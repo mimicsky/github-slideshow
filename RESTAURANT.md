@@ -30,7 +30,6 @@ seasoning blends based only on what's actually on hand.
 | Sirloin | 8oz | In stock |
 | Filet | 8oz | In stock |
 | Andouille sausage | | In stock |
-| Bacon bits | | In stock |
 
 ## Produce
 
@@ -90,7 +89,8 @@ seasoning blends based only on what's actually on hand.
 | Pecans | | In stock |
 | Flat bread | | In stock |
 | Croutons | | In stock |
-| Mac and cheese | | In stock |
+| Mac and cheese | side dish | In stock |
+| Bacon bits | topping — loaded baked potatoes | In stock |
 
 ## Sauces & Condiments
 
