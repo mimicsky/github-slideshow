@@ -61,7 +61,7 @@ seasoning blends based only on what's actually on hand.
 | Salad mix | | In stock |
 | Romaine lettuce | | In stock |
 | Ginger | minced | In stock |
-| Garlic | chopped | In stock |
+| Garlic | chopped, jarred in water | In stock |
 
 ## Dairy & Eggs
 
@@ -121,6 +121,9 @@ seasoning blends based only on what's actually on hand.
 | Iodized salt | | | | In stock |
 | Red pepper flakes | | 🌶🌶 | | In stock |
 | Whole black pepper | | | | In stock |
+| Chili powder | | | | In stock |
+| Ground cumin | | | | In stock |
+| Granulated garlic | | | | In stock |
 
 ### Store-Bought Seasoning Blends
 
