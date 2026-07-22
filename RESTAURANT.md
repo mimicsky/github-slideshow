@@ -160,16 +160,7 @@ seasoning blends based only on what's actually on hand.
 
 ## Blend Log
 
-Custom seasoning blends created from the above, logged so they can be repeated.
-
-```
-### Blend Name
-- **Date created:**
-- **Ingredients (ratio):**
-- **Used for:**
-- **Tasting notes:**
-- **Adjustments to try next time:**
-```
+Custom, in-house seasoning blends are now tracked in [`ALEX_SEASONING_MIXES.md`](./ALEX_SEASONING_MIXES.md).
 
 ## Specials & Menu Ideas Log
 
