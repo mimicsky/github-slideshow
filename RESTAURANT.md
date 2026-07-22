@@ -13,6 +13,12 @@ seasoning blends based only on what's actually on hand.
 3. Stock levels help flag what to use up soon vs. what's low and needs
    reordering.
 
+**Teaching mode:** This is a learning tool for Alex. When asked for help with
+a dish or seasoning blend (e.g. "help me make a dish using ___"), give
+pointers and suggestions only — flavor pairings, ratios/ranges to try,
+technique tips, and what in stock tends to combo well. Do NOT hand over a
+finished recipe or blend. Alex builds it themselves.
+
 ---
 
 ## Proteins
