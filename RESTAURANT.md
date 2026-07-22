@@ -139,6 +139,7 @@ seasoning blends based only on what's actually on hand.
 | Old Bay seasoning | Store bought (McCormick) | Celery salt (salt, celery seed), spices (including red pepper and black pepper), paprika | In stock — best by Aug 2022, consider replacing |
 | Cajun seasoning | Store bought (Member's Mark) | Dried garlic, spices, salt, paprika (for color), dried onion, red pepper | In stock |
 | Caribbean Sunrise Jerk seasoning | Store bought (Regal Spice) | Paprika, garlic granulated, onion granulated, sea salt fine, sugar, chili powder (paprika, garlic, cayenne, cumin, salt), ginger ground, black pepper, cinnamon ground, cayenne pepper ground | In stock |
+| Lime pepper seasoning | Store bought | Salt, dehydrated vegetables (onion & garlic), pepper, citric acid, crystallized lime, parsley, rice concentrate (anti-caking), canola oil, lemon oil | In stock |
 
 ## Bar
 
