@@ -126,6 +126,7 @@ seasoning blends based only on what's actually on hand.
 
 | Name | Source | Contains | Stock |
 |---|---|---|---|
+| Garlic salt blend | Store bought | Salt, garlic, modified corn starch, sugar, parsley, garlic oil, extractives of carrot (color) | In stock |
 
 ## Bar
 
