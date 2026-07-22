@@ -122,6 +122,11 @@ seasoning blends based only on what's actually on hand.
 | Red pepper flakes | | 🌶🌶 | | In stock |
 | Whole black pepper | | | | In stock |
 
+### Store-Bought Seasoning Blends
+
+| Name | Source | Contains | Stock |
+|---|---|---|---|
+
 ## Bar
 
 | Item | Notes | Stock |
