@@ -154,8 +154,9 @@ finished recipe or blend. Alex builds it themselves.
 |---|---|---|
 | Orange juice | mixer | In stock |
 | Lime juice | mixer | In stock |
+| Sycamore Lane Chardonnay | wine, California | In stock |
 
-*(Liquor, beer, wine, and garnishes not yet logged — tell me what's behind the bar and I'll add it.)*
+*(Liquor, beer, and garnishes not yet logged — tell me what's behind the bar and I'll add it.)*
 
 ## Other
 
