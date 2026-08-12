@@ -24,29 +24,34 @@ Photos work — I read the task screen, hideout, and stash directly.
 
 ---
 
-## 2. The Strategy
+## 2. What this file is for
 
-You have **~110 active tasks**. That is not a to-do list, it's noise. The entire job is
-picking correctly from it, so here's the logic I'm applying:
+500 hrs, two PvP wipes, now PvE. You don't need the game explained. The two things that
+actually cost you time are **recall** — 110 open tasks, where each objective physically
+is — and **drift**, BSG moving things between patches faster than memory updates.
 
-**Finish things that are already started.** A task at 66% is worth more than four at 0%,
-because rep and unlocks only pay on *completion*. Partial progress is stored value doing
-nothing until you cash it.
+So this is a lookup layer, not a coach:
 
-**Stack by map, not by trader.** One trip to Customs can move four tasks. Chasing one
-trader's list sends you across five maps.
+- **§4 Task Board** — everything open, grouped by map, so one trip clears several.
+- **§5 Objective Reference** — the *where* for individual tasks, built on demand.
+- **Ask me `prep <map>`** and I'll assemble every live objective on that map with
+  locations and required keys in one sheet.
 
-**Streets is a trap right now.** It's your biggest pile — 21 tasks — and every single one
-is at 0%. It's also the most punishing map to learn and the most expensive to die on.
-It'll be a goldmine later. It is not today's problem.
+### Sourcing and its limits
 
-### Priority order
+I look tasks up rather than answering from memory — memory is the thing that goes stale.
+tarkov.dev's API is currently down and direct wiki/tarkov.dev fetches are blocked from
+here, so lookups go through web search, which means **sources may themselves lag 1.1.0**.
 
-1. **Gunsmith – M4A1** and **Gunsmith – OP-SKS** — bench tasks. Zero raid risk, done in
-   the hideout, pays Mechanic rep. Do these before you queue anything.
-2. **Customs** — three partials, cheapest map to run, lowest kit risk.
-3. **Shoreline** — three partials and the best loot density of the two.
-4. Everything else after.
+Rule: **your in-game task text is authoritative.** I supply the *where*. If a lookup
+disagrees with your screen, your screen is right and I'll flag the conflict rather than
+paper over it.
+
+### Ordering logic (from your data, not game knowledge)
+
+Partial progress only pays on completion, so §3 ranks by how close each is. Streets is
+21 tasks at 0% — the largest pile with the least near-term payout, so it sorts last
+despite the volume.
 
 ---
 
@@ -165,9 +170,32 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 
 ---
 
-## 5. Character & Loadout
+## 5. Objective Reference
 
-**Health at last sync:** HP 440/440 · Hydration 47/100 · **Energy 9/100 ⚠️ eat before queuing**
+Built on demand — say `prep <map>` or name a task. Format below.
+
+### Chemical – Part 1 · Customs · 66%
+
+- **Objective:** locate the former Deputy Chief of Security's sleeping place on Customs,
+  recover the wanted/secure folder, extract with it, hand to Skier.
+- **Where:** isolated train carriage, western/boiler side of Customs, between the
+  **ZB-1012** and **ZB-1011** extracts.
+- **Spawns inside the carriage:** under the brick pallet in the NW corner · under the
+  pallet in the SE corner · between wall and pallet in the NE corner. Multiple possible
+  spawns — check all three.
+- **Keys:** none.
+- **Note:** must extract alive with it.
+- *Source: web lookup, [tarkov.dev](https://tarkov.dev/task/chemical-part-1) /
+  [ggrecon](https://www.ggrecon.com/guides/escape-from-tarkov-chemical-part-1-skier-quest/).
+  Verify trader against your in-game text — trader assignments shifted in recent patches.*
+
+<!-- more built on request -->
+
+---
+
+## 6. Character & Loadout
+
+**Health at last sync:** HP 440/440 · Hydration 47/100 · Energy **9/100**
 
 | Slot | Item | State |
 |---|---|---|
@@ -179,7 +207,7 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 | On sling | AKS-74U (5.45x39) | 20/30 |
 | On back | AK-74M (5.45x39) | 11/30 |
 | Holster | Glock 17 (9x19) | 17/17 |
-| Sheath | **empty** | ⚠️ free slot |
+| Sheath | empty | |
 | Backpack | Attack 2 | |
 | Secure | Gamma (3x3) | |
 
@@ -194,7 +222,7 @@ Prapor · Therapist · Skier · Peacekeeper · Mechanic · Ragman · Jaeger · F
 
 ---
 
-## 6. Stash — First Raid Haul
+## 7. Stash — First Raid Haul
 
 ### KEEP — hideout / build material
 
@@ -213,7 +241,7 @@ actually clear the Customs and Shoreline partials. Say the word and I'll flip it
 
 ---
 
-## 7. Hideout
+## 8. Hideout
 
 **Stash 4.** Utility modules mostly level 1–2.
 
@@ -225,7 +253,7 @@ whether the payback is worth it at your stage.
 
 ---
 
-## 8. Keep / Sell Doctrine
+## 9. Keep / Sell Doctrine
 
 Priority order — higher wins on conflict.
 
@@ -246,7 +274,7 @@ no task attached.
 
 ---
 
-## 9. Stash Doctrine
+## 10. Stash Doctrine
 
 - **Keep 15–20% free.** Below that you make bad panic calls on return.
 - **Quest items get their own container, nothing else in it.** Prevents the most
@@ -257,7 +285,7 @@ no task attached.
 
 ---
 
-## 10. Session Log
+## 11. Session Log
 
 ```
 [DATE] [MAP] [SURVIVED?] — brought back: … | quest progress: … | sold: … | net: …
@@ -268,7 +296,7 @@ no task attached.
 
 ---
 
-## 11. Maintaining this
+## 12. Maintaining this
 
 Tell me what happened and I edit, commit and push. Paste this file into any new
 conversation and I'm caught up instantly — that's why it lives in git and not in a chat
