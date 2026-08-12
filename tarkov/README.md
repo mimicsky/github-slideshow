@@ -8,6 +8,39 @@
 
 ---
 
+# ▶ NEXT RAID — CUSTOMS, DORMS
+
+**Bring:** AKS-74U (required for Punisher) · 1× corrugated hose (cheap, trader/flea)
+**Go:** Dorms. Stay there. Fight.
+
+Three tasks progress **simultaneously** from the same fight in the same place:
+
+| Doing this | Progresses | At |
+|---|---|---|
+| Kill Scavs **with the AKS-74U** | The Punisher – Part 1 | 40% → 25 total |
+| Kill PMCs **in the Dorms area** | Huntsman Path – Angry Watchman | 0% → 5 needed |
+| Kill **Reshala**, take his Golden TT | Huntsman Path – Trophy | 50% |
+
+Reshala spawns Dorms · new gas station · construction site by the railroad · Warehouse 4.
+Angry Watchman zone = both dorm buildings, the guard house, and the ground between them.
+So camping Dorms with the AKS-74U feeds all three at once.
+
+**Grab on the way out (2 min detour each):**
+
+- **Skier's wallet** → Warehouse 17, second floor, multiple spawns in the room → *Private Club*
+- **Secure folder** → isolated train carriage, west/boiler side between ZB-1012 and ZB-1011
+  extracts. Under the brick pallet NW · under pallet SE · between wall and pallet NE →
+  *Chemical – Part 1 (66%)*
+- **Drop the corrugated hose** → any table in the experiments area, 2nd floor of the lab
+  building → *Chemical Experiments*
+
+**Skip this trip:** *The Courier* needs 2× Trijicon REAP-IR thermal scopes placed as drops.
+That's a heavy rouble sink for a delivery task — not worth it until you're cash-comfortable.
+
+> One raid, one area, five tasks moving, and it's all shooting and looting.
+
+---
+
 ## 1. How to talk to me
 
 | You say | I do |
@@ -47,11 +80,27 @@ Rule: **your in-game task text is authoritative.** I supply the *where*. If a lo
 disagrees with your screen, your screen is right and I'll flag the conflict rather than
 paper over it.
 
-### Ordering logic (from your data, not game knowledge)
+### Ordering logic
 
-Partial progress only pays on completion, so §3 ranks by how close each is. Streets is
-21 tasks at 0% — the largest pile with the least near-term payout, so it sorts last
-despite the volume.
+Two filters, in this order:
+
+**1. Task shape.** You want to fight and loot; the admin is what burns you out. So every
+task gets classified:
+
+- **FIGHT** — kill X, kill boss, kill with weapon Y. Your preferred play *is* the
+  objective. Always front-loaded.
+- **LOOT** — find item, grab and extract. Happens on the way through.
+- **CHORE** — place item, stash item at location, survive-and-extract from a specific
+  point, gear restrictions. Batched so you do several per trip and think about them
+  as little as possible.
+- **EXPENSIVE** — requires buying costly items to hand in or drop. Deferred unless
+  something's gated behind it.
+
+**2. Overlap.** Tasks that progress from the *same action in the same place* get bundled
+into one raid. That's what the card at the top is — five tasks, one area, one fight.
+
+Partial progress only pays on completion, so near-done tasks outrank fresh ones. Streets
+is 21 tasks at 0% — biggest pile, least near-term payout, sorts last despite volume.
 
 ---
 
