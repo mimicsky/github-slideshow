@@ -11,22 +11,38 @@
 # ▶ NEXT RAID — CUSTOMS, DORMS
 
 **Bring:** AKS-74U (required for Punisher) · 1× corrugated hose (cheap — toolboxes, flea, or hideout craft) · **no keys needed**
-**Go:** Dorms. Stay there. Fight.
 
-📍 **Interactive map with quest markers:** [tarkov.dev/map/customs](https://tarkov.dev/map/customs)
-— filter by task name and it pins the exact spot.
+📍 [tarkov.dev/map/customs](https://tarkov.dev/map/customs) — filter by task name for pins.
 
-### FIGHT — just do it, nothing to look up
+---
 
-- Kill **25 Scavs with the AKS-74U** — 40% *(Punisher P1)*
+## 🥇 PRIORITY 1 — DORMS
+
+**Everything else on this card is optional. This is the raid.**
+
+Get to Dorms whenever your spawn allows — first, last, doesn't matter. Once there, stay
+and fight. Three tasks feed off the same fight:
+
+- Kill **Scavs with the AKS-74U** → Punisher P1, 40% → 25 total
 - Kill **5 PMCs inside the Dorms zone** — both dorm buildings, guard house, ground
-  between. AI PMCs on PvE. 0% *(Angry Watchman)*
-- Kill **Reshala**, take his Golden TT — 50%. Spawns Dorms · new gas · construction by
-  the railroad · Warehouse 4 *(Huntsman Trophy)*
+  between. AI PMCs on PvE → Angry Watchman, 0%
+- Kill **Reshala** if he spawns, take his Golden TT → Huntsman Trophy, 50%.
+  *(Also spawns new gas · construction by the railroad · Warehouse 4)*
 
-Camping Dorms with the AKS-74U feeds all three at once.
+Punisher needs ~15 more kills — that's likely more than one raid. Dorms is the anchor
+until it's done.
 
-### 🔎 LOOK THESE UP — location-specific, you'll want the map
+---
+
+## 🥈 IF YOU'RE NEAR IT — opportunistic, in value order
+
+Don't route for these. Grab them if your spawn or your exit puts you nearby.
+
+**a. `Chemical - Part 1`** — closest to done at 66%, highest value pickup
+**b. `Supplements` + `Chemical Experiments`** — same building, two tasks one stop
+**c. `Private Club`** — furthest from done, lowest priority
+
+### Where they are
 
 | # | Task name to search | What | My note on where |
 |---|---|---|---|
@@ -78,14 +94,33 @@ you need 23 between them.
 | You say | I do |
 |---|---|
 | `raid report: <map>, lived/died, <what I got>` — or just a screenshot | Update progress, keep/sell verdicts, build the next card |
+| **`<item>?`** — mid-raid | **GRAB / SKIP / IF SPACE** + one line. Fast, no essay |
 | `keep or sell: <item>` | Verdict + reason + sell channel |
-| `what now` | Next task, which map, what to bring |
 | `prep <map>` | Kit budget, keys, every live objective on that map |
 | `stash check` | What to purge, ranked by roubles-per-slot |
 | `hideout` | Next module worth building and what's missing |
 | `done: <task>` | Move it to completed, re-rank the board |
 
 Photos work — I read the task screen, hideout, and stash directly.
+
+### Mid-raid price checks
+
+Type the item name and a `?`. Nothing else needed. You get one of:
+
+- **GRAB** — worth the slots, or it's on the watch list
+- **IF SPACE** — decent but not worth displacing better loot
+- **SKIP** — not worth the slots
+
+Plus one line of why. No preamble, no hedging paragraph — you're in a raid.
+
+**What I can and can't tell you:** I don't have live flea prices, and the tarkov.dev API
+is down, so exact roubles are out. What I *can* judge reliably is **value per slot** and
+**whether it's a quest or hideout input** — and those are the two things that actually
+decide whether it goes in the bag. If something's genuinely borderline on price alone,
+I'll say "borderline, your call" instead of inventing a number.
+
+**Always GRAB regardless of price** — anything on the watch list. Quest inputs beat
+rouble value every time.
 
 ---
 
@@ -149,14 +184,17 @@ takes priority over the errand. Classification:
 **3. Overlap.** Tasks progressing from the *same action in the same place* get bundled
 into one raid. That's what the card at the top is — seven tasks, one area, one fight.
 
-### Card format rule
+### Card format rules
 
-**Task names and lookup links go only on tasks that send you to a specific spot** — fetch
-an item, place an item, investigate a point. Those are the ones worth pulling a map
-picture for.
+**1. Priority 1, then optional.** Spawn decides the route, so cards never prescribe one.
+Every card leads with a single **Priority 1** — the one thing that makes the raid a
+success — then lists everything else as opportunistic, in value order. Hit Priority 1
+whenever the map lets you; take the rest only if you pass them.
 
-Kill tasks, weapon-restriction tasks, skill tasks get **no name and no link**. "Kill 25
-Scavs with an AKS-74U" is the whole instruction; looking it up is wasted time.
+**2. Names only where you need a map.** Task names and lookup links go on tasks that send
+you to a *specific spot* — fetch, place, investigate. Kill tasks, weapon-restriction
+tasks and skill tasks get **no name and no link**: "kill 25 Scavs with an AKS-74U" is the
+whole instruction, and looking it up wastes time.
 
 Partial progress only pays on completion, so near-done tasks outrank fresh ones. Streets
 is 21 tasks at 0% — biggest pile, least near-term payout, sorts last despite volume.
