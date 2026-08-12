@@ -89,6 +89,68 @@ you need 23 between them.
 
 ---
 
+# 🌙 TONIGHT — 3 RAID PLAN
+
+## 🛒 Buy before you play
+
+| Item | For | Note |
+|---|---|---|
+| 1× **corrugated hose** | Chemical Experiments | toolboxes, flea, or hideout craft |
+| **Suppressor / suppressed gun** | Punisher P2 | raid 3 is dead without it |
+| **Health Resort west wing 219 key** *(or 220 key)* | I Need More Power | raid 3 is dead without it |
+| MS2000 marker | Anesthesia | you already have 1 in your special slot — need 1 more placement |
+
+---
+
+## Raids 1–2 · CUSTOMS, DORMS
+
+Punisher P1 needs ~15 more Scav kills. That's realistically two trips, so Customs gets
+both. Same card, run it twice.
+
+**Priority 1:** Dorms. Scav kills with the AKS-74U · 5 PMCs inside the Dorms zone ·
+Reshala if he spawns.
+
+**Opportunistic, in value order:** `Chemical - Part 1` (66%) → `Supplements` +
+`Chemical Experiments` (same building) → `Private Club`.
+
+Whatever you don't pick up in raid 1, grab in raid 2.
+
+**Clears if it all goes right:** Punisher P1 · Angry Watchman · Huntsman Trophy *(Reshala
+is RNG — may take more)* · Chemical P1 · Chemical Experiments · Supplements · Private Club
+
+---
+
+## Raid 3 · SHORELINE
+
+**Bring:** suppressed weapon · MS2000 marker · Health Resort west wing key
+
+**Priority 1 — `I Need More Power` (33%).** Strict rules, so do it first:
+- Generators in **two** rooms, both in the **same raid**, and you must **extract**.
+- **East wing room 220**, 2nd floor — always unlocked.
+- **West wing room 219**, 2nd floor — needs the west wing 219 key, *or* look in from the
+  joint balcony in room 220 (needs the 220 key).
+- ⚠️ Find only one room and leave, **the whole task resets**.
+
+**Priority 2 — Punisher P2 (26%).** Kill **12 Scavs with a suppressed gun** on Shoreline,
+and collect **10 lower half masks** in raid. The masks come off the same Scavs you're
+shooting — one activity, both objectives.
+
+**Priority 3 — `Anesthesia` (66%).** One trading post left to mark with the MS2000. Must
+extract for it to count. In-game quest tracker pins the exact spot.
+
+**Clears if it all goes right:** I Need More Power · Anesthesia · Punisher P2 *(12 kills
+plus 10 masks may run long)*
+
+---
+
+## Realistic call
+
+Three raids clears **Customs entirely** and probably two of three Shoreline tasks.
+Punisher P2's mask collection and Reshala's spawn RNG are the two things most likely to
+push into a fourth trip.
+
+---
+
 ## 1. How to talk to me
 
 | You say | I do |
