@@ -3,7 +3,7 @@
 **You play. I track.** Shared brain for tasks, stash, and keep/sell calls.
 
 > **Mode:** PvE · **Patch:** 1.1.0.1.46699 · **Edition:** Unheard (Gamma, Unheard armband)
-> **Level:** 21 · **Faction:** USEC · **Stash:** Level 4
+> **Level:** 21 (confirmed) · **Faction:** USEC · **Stash:** Level 4
 > **Synced from screenshots 1–17.** ~110 active tasks logged below.
 
 ---
@@ -18,7 +18,7 @@ Three tasks progress **simultaneously** from the same fight in the same place:
 | Doing this | Progresses | At |
 |---|---|---|
 | Kill Scavs **with the AKS-74U** | The Punisher – Part 1 | 40% → 25 total |
-| Kill PMCs **in the Dorms area** | Huntsman Path – Angry Watchman | 0% → 5 needed |
+| Kill PMCs **in the Dorms area** (AI PMCs on PvE) | Huntsman Path – Angry Watchman | 0% → 5 needed |
 | Kill **Reshala**, take his Golden TT | Huntsman Path – Trophy | 50% |
 
 Reshala spawns Dorms · new gas station · construction site by the railroad · Warehouse 4.
@@ -63,6 +63,11 @@ Photos work — I read the task screen, hideout, and stash directly.
 actually cost you time are **recall** — 110 open tasks, where each objective physically
 is — and **drift**, BSG moving things between patches faster than memory updates.
 
+**Nothing here gets dropped.** You want all ~110 done eventually. The full list stays as
+the queue — §4 is the backlog, not a shortlist. The card at the top is just the next
+slice served to you, so you're reading five lines instead of a hundred and ten. When a
+card clears, the next one gets built from what's left.
+
 So this is a lookup layer, not a coach:
 
 - **§4 Task Board** — everything open, grouped by map, so one trip clears several.
@@ -70,15 +75,25 @@ So this is a lookup layer, not a coach:
 - **Ask me `prep <map>`** and I'll assemble every live objective on that map with
   locations and required keys in one sheet.
 
-### Sourcing and its limits
+### Sourcing — what to trust, and what we proved wrong
 
-I look tasks up rather than answering from memory — memory is the thing that goes stale.
-tarkov.dev's API is currently down and direct wiki/tarkov.dev fetches are blocked from
-here, so lookups go through web search, which means **sources may themselves lag 1.1.0**.
+I look tasks up rather than answering from memory. tarkov.dev's API is down and direct
+wiki/tarkov.dev fetches are blocked from here, so lookups go through web search.
 
-Rule: **your in-game task text is authoritative.** I supply the *where*. If a lookup
-disagrees with your screen, your screen is right and I'll flag the conflict rather than
-paper over it.
+**Confirmed drift in 1.1.0:** at level **21** you have *The Courier* and *Private Club*
+active. Guide sites list those at level **52** and **24**. Quests don't appear before
+their gate, so 1.1 moved the level requirements and the guides haven't caught up.
+
+That splits web data cleanly:
+
+| Trust | Don't trust |
+|---|---|
+| **Objective locations** — map geometry barely moves | **Level gates** — proven stale |
+| Spawn spots, room/building names | **Trader assignments** — reshuffled in recent patches |
+| Extract names | Item values, rewards |
+
+Rule: **your in-game task text is authoritative.** I supply the *where*. When a lookup
+disagrees with your screen, your screen wins and I'll say so rather than paper over it.
 
 ### Ordering logic
 
