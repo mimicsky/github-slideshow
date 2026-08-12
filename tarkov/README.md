@@ -13,43 +13,46 @@
 **Bring:** AKS-74U (required for Punisher) · 1× corrugated hose (cheap, trader/flea)
 **Go:** Dorms. Stay there. Fight.
 
-Three tasks progress **simultaneously** from the same fight in the same place:
+📍 **Interactive map with quest markers:** [tarkov.dev/map/customs](https://tarkov.dev/map/customs)
+— filter by task name and it pins the exact spot.
 
-| Doing this | Progresses | At |
-|---|---|---|
-| Kill Scavs **with the AKS-74U** | The Punisher – Part 1 | 40% → 25 total |
-| Kill PMCs **in the Dorms area** (AI PMCs on PvE) | Huntsman Path – Angry Watchman | 0% → 5 needed |
-| Kill **Reshala**, take his Golden TT | Huntsman Path – Trophy | 50% |
+### FIGHT — just do it, nothing to look up
 
-Reshala spawns Dorms · new gas station · construction site by the railroad · Warehouse 4.
-Angry Watchman zone = both dorm buildings, the guard house, and the ground between them.
-So camping Dorms with the AKS-74U feeds all three at once.
+- Kill **25 Scavs with the AKS-74U** — 40% *(Punisher P1)*
+- Kill **5 PMCs inside the Dorms zone** — both dorm buildings, guard house, ground
+  between. AI PMCs on PvE. 0% *(Angry Watchman)*
+- Kill **Reshala**, take his Golden TT — 50%. Spawns Dorms · new gas · construction by
+  the railroad · Warehouse 4 *(Huntsman Trophy)*
 
-**Grab on the way out (2 min detour each):**
+Camping Dorms with the AKS-74U feeds all three at once.
 
-- **Skier's wallet** → Warehouse 17, second floor, multiple spawns in the room → *Private Club*
-- **Secure folder** → isolated train carriage, west/boiler side between ZB-1012 and ZB-1011
-  extracts. Under the brick pallet NW · under pallet SE · between wall and pallet NE →
-  *Chemical – Part 1 (66%)*
-- **Lab building, 2nd floor — two jobs in one stop:**
-  - drop the corrugated hose on any table in the experiments area → *Chemical Experiments*
-  - grab the **chemical vial** in the med lab → *Supplements (37%)*
+### 🔎 LOOK THESE UP — location-specific, you'll want the map
 
-**Skip this trip:** *The Courier* needs 2× Trijicon REAP-IR thermal scopes placed as drops.
-Heavy rouble sink for a delivery errand — not until you're cash-comfortable.
+| # | Task name to search | What | My note on where |
+|---|---|---|---|
+| 1 | **`Chemical - Part 1`** | grab secure folder | isolated train carriage, west/boiler side, between ZB-1012 and ZB-1011 extracts |
+| 2 | **`Private Club`** | grab Skier's wallet | Warehouse 17, second floor |
+| 3 | **`Supplements`** | grab chemical vial | med lab |
+| 4 | **`Chemical Experiments`** | **place** corrugated hose | experiments area, 2nd floor of the lab building |
+
+⚠️ **`Angry Watchman` is listed as `Evil Watchman` on every guide site** — renamed in 1.1.
+Only matters if you look it up, and you shouldn't need to.
+
+**Skipping:** `The Courier` — needs 2× Trijicon REAP-IR thermals placed as drops. Heavy
+rouble sink for a delivery errand, not until you're cash-comfortable.
 
 ### 👁 WATCH LIST — grab on sight, any raid, never sell
 
 These are quest inputs that must be **found in raid**. Selling one throws away the FiR
 status and you have to find it again.
 
-| Item | Need | Have | For |
+| Item | Need | Have | Task to look up |
 |---|---|---|---|
-| **Graphics card** | 3 | **1** | Semiconductor Crisis (50%) |
-| **CPU fan** | 15 | 0 | Semiconductor Crisis (50%) |
-| **Car battery** | 4 | **1** | Car Repair (62%) |
-| **Spark plug** | 8 | 0 | Car Repair (62%) |
-| **Respirator** | 4 | **1** | Supplements (37%) |
+| **Graphics card** | 3 | **1** | `Semiconductor Crisis` (50%) |
+| **CPU fan** | 15 | 0 | `Semiconductor Crisis` (50%) |
+| **Car battery** | 4 | **1** | `Car Repair` (62%) |
+| **Spark plug** | 8 | 0 | `Car Repair` (62%) |
+| **Respirator** | 4 | **1** | `Supplements` (37%) |
 
 CPU fans and spark plugs are the grind — take every single one you see, they're small and
 you need 23 between them.
@@ -132,7 +135,16 @@ takes priority over the errand. Classification:
   something's gated behind it.
 
 **3. Overlap.** Tasks progressing from the *same action in the same place* get bundled
-into one raid. That's what the card at the top is — six tasks, one area, one fight.
+into one raid. That's what the card at the top is — seven tasks, one area, one fight.
+
+### Card format rule
+
+**Task names and lookup links go only on tasks that send you to a specific spot** — fetch
+an item, place an item, investigate a point. Those are the ones worth pulling a map
+picture for.
+
+Kill tasks, weapon-restriction tasks, skill tasks get **no name and no link**. "Kill 25
+Scavs with an AKS-74U" is the whole instruction; looking it up is wasted time.
 
 Partial progress only pays on completion, so near-done tasks outrank fresh ones. Streets
 is 21 tasks at 0% — biggest pile, least near-term payout, sorts last despite volume.
