@@ -31,13 +31,30 @@ So camping Dorms with the AKS-74U feeds all three at once.
 - **Secure folder** → isolated train carriage, west/boiler side between ZB-1012 and ZB-1011
   extracts. Under the brick pallet NW · under pallet SE · between wall and pallet NE →
   *Chemical – Part 1 (66%)*
-- **Drop the corrugated hose** → any table in the experiments area, 2nd floor of the lab
-  building → *Chemical Experiments*
+- **Lab building, 2nd floor — two jobs in one stop:**
+  - drop the corrugated hose on any table in the experiments area → *Chemical Experiments*
+  - grab the **chemical vial** in the med lab → *Supplements (37%)*
 
 **Skip this trip:** *The Courier* needs 2× Trijicon REAP-IR thermal scopes placed as drops.
-That's a heavy rouble sink for a delivery task — not worth it until you're cash-comfortable.
+Heavy rouble sink for a delivery errand — not until you're cash-comfortable.
 
-> One raid, one area, five tasks moving, and it's all shooting and looting.
+### 👁 WATCH LIST — grab on sight, any raid, never sell
+
+These are quest inputs that must be **found in raid**. Selling one throws away the FiR
+status and you have to find it again.
+
+| Item | Need | Have | For |
+|---|---|---|---|
+| **Graphics card** | 3 | **1** | Semiconductor Crisis (50%) |
+| **CPU fan** | 15 | 0 | Semiconductor Crisis (50%) |
+| **Car battery** | 4 | **1** | Car Repair (62%) |
+| **Spark plug** | 8 | 0 | Car Repair (62%) |
+| **Respirator** | 4 | **1** | Supplements (37%) |
+
+CPU fans and spark plugs are the grind — take every single one you see, they're small and
+you need 23 between them.
+
+> One raid, one area, six tasks moving, all of it shooting and looting.
 
 ---
 
@@ -45,7 +62,7 @@ That's a heavy rouble sink for a delivery task — not worth it until you're cas
 
 | You say | I do |
 |---|---|
-| `raid report: <map>, <survived/died>, <what I brought back>` | Update stash, flag quest progress, tell you what to sell |
+| `raid report: <map>, lived/died, <what I got>` — or just a screenshot | Update progress, keep/sell verdicts, build the next card |
 | `keep or sell: <item>` | Verdict + reason + sell channel |
 | `what now` | Next task, which map, what to bring |
 | `prep <map>` | Kit budget, keys, every live objective on that map |
@@ -99,8 +116,11 @@ disagrees with your screen, your screen wins and I'll say so rather than paper o
 
 Two filters, in this order:
 
-**1. Task shape.** You want to fight and loot; the admin is what burns you out. So every
-task gets classified:
+**1. What you actually need.** Near-complete first, then anything gating a trader LL or a
+hideout module, then the rest. Fun does not move a task up the list.
+
+**2. Task shape — tiebreaker only.** Between two equally-worth-doing tasks, the fight
+takes priority over the errand. Classification:
 
 - **FIGHT** — kill X, kill boss, kill with weapon Y. Your preferred play *is* the
   objective. Always front-loaded.
@@ -111,8 +131,8 @@ task gets classified:
 - **EXPENSIVE** — requires buying costly items to hand in or drop. Deferred unless
   something's gated behind it.
 
-**2. Overlap.** Tasks that progress from the *same action in the same place* get bundled
-into one raid. That's what the card at the top is — five tasks, one area, one fight.
+**3. Overlap.** Tasks progressing from the *same action in the same place* get bundled
+into one raid. That's what the card at the top is — six tasks, one area, one fight.
 
 Partial progress only pays on completion, so near-done tasks outrank fresh ones. Streets
 is 21 tasks at 0% — biggest pile, least near-term payout, sorts last despite volume.
@@ -297,11 +317,14 @@ alkaline cleaner · medical tools
 
 Flash drive · HDD · Cat figurine · Ushanka · Augmentin · Tushonka ×2 · Salewa · Vaseline
 
-### On the GPU
+### On the GPU — corrected, do not sell
 
-Bitcoin Farm is locked, so it earns you nothing sitting there, and you're at ~40k. **My
-call: sell it.** You're task-blocked, not farm-blocked — cash buys the kits that let you
-actually clear the Customs and Shoreline partials. Say the word and I'll flip it to hold.
+Earlier call was **wrong**. *Semiconductor Crisis* (50%) needs **3 graphics cards found
+in raid**. Selling yours destroys the FiR status and you'd have to find a replacement.
+The car battery is the same story — *Car Repair* (62%) wants 4 of them.
+
+Rule this reinforces: **check the watch list before any sale.** Rouble value is
+irrelevant if the item is a quest input.
 
 ---
 
