@@ -10,7 +10,7 @@
 
 # ▶ NEXT RAID — CUSTOMS, DORMS
 
-**Bring:** AKS-74U (required for Punisher) · 1× corrugated hose (cheap, trader/flea)
+**Bring:** AKS-74U (required for Punisher) · 1× corrugated hose (cheap — toolboxes, flea, or hideout craft) · **no keys needed**
 **Go:** Dorms. Stay there. Fight.
 
 📍 **Interactive map with quest markers:** [tarkov.dev/map/customs](https://tarkov.dev/map/customs)
@@ -30,10 +30,22 @@ Camping Dorms with the AKS-74U feeds all three at once.
 
 | # | Task name to search | What | My note on where |
 |---|---|---|---|
-| 1 | **`Chemical - Part 1`** | grab secure folder | isolated train carriage, west/boiler side, between ZB-1012 and ZB-1011 extracts |
-| 2 | **`Private Club`** | grab Skier's wallet | Warehouse 17, second floor |
-| 3 | **`Supplements`** | grab chemical vial | med lab |
-| 4 | **`Chemical Experiments`** | **place** corrugated hose | experiments area, 2nd floor of the lab building |
+| 1 | **`Chemical - Part 1`** | grab secure folder | isolated train carriage, west/boiler side, between ZB-1012 and ZB-1011 extracts. Under brick pallet NW · under pallet SE · wall/pallet NE |
+| 2 | **`Private Club`** | grab Skier's wallet | Warehouse 17, 2nd floor room. 4 spawns: floor under the shelf by the door · floor under the table · on the table · behind the TV on the desk |
+| 3 | **`Supplements`** | grab chemical vial | **med lab — two-storey building near Scav Stronghold**, lab is upstairs |
+| 4 | **`Chemical Experiments`** | **place** corrugated hose | any table in the experiments area, **same building as #3**, 2nd floor |
+
+### 🔑 Keys — none needed
+
+No source lists a key for any of the four. The lab building and the train carriage are
+open access, and Warehouse 17's second floor isn't gated as far as any guide shows.
+
+Caveat I can't clear from here: absence of a mention isn't proof. **Warehouse 17** is the
+only one I'd hold any doubt on — if you get there and it's locked, that's `Private Club`
+lost for the trip and nothing else. Everything else on this card is keyless for certain.
+
+> `Chemical Experiments` is the renamed **`Spa Tour - Part 7`** — if a guide gives you
+> nothing under the new name, search the old one.
 
 ⚠️ **`Angry Watchman` is listed as `Evil Watchman` on every guide site** — renamed in 1.1.
 Only matters if you look it up, and you shouldn't need to.
