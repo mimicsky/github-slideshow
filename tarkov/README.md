@@ -10,7 +10,7 @@
 
 # ▶ RAID 2 — CUSTOMS, DORMS
 
-**Bring:** AKS-74U · **Dorm 220 key** — needed for Chemical P2
+**Bring:** AKS-74U · **Dorm 220 key** (Chemical P2) · **Company director's room key** (Shipment Tracking — buy on flea)
 
 All four pickups are done. **This raid is only a fight.**
 
@@ -39,6 +39,20 @@ on accepting, so you may have a spare.
 
 ⚠️ Kappa chain: `Chemical - Part 4` is a Collector requirement, so this line matters more
 than its size suggests. *(Objectives sourced pre-1.1 — verify against your task text.)*
+
+## 🥉 IF YOU BUY THE KEY — `Shipment Tracking`
+
+**Buy: Company director's room key** (flea, cheap).
+
+**TerraGroup shipment lists** — director's room, **2nd floor of the boiler building**,
+west side near the train carriage you already know.
+4 spawns: bookshelf · floor by the packages · shelf next to the desk · under the desk.
+
+Skip only if you don't want to buy the key — then it waits for raid 3.
+
+**Deferred:** `The Courier` — 2× REAP-IR thermals as drops, ~₽1M for a small payout.
+
+> With Shipment Tracking, this raid can clear **all of Customs** except The Courier.
 
 ## 👁 GRAB ON SIGHT
 
