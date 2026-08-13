@@ -10,7 +10,7 @@
 
 # ▶ RAID 2 — CUSTOMS, DORMS
 
-**Bring:** AKS-74U · Dorm 220 key *(you own it — reusable, worth having)*
+**Bring:** AKS-74U · **Dorm 220 key** — needed for Chemical P2
 
 All four pickups are done. **This raid is only a fight.**
 
@@ -26,6 +26,19 @@ All four pickups are done. **This raid is only a fight.**
   Dorms · new gas · construction by the railroad · Warehouse 4.
 - **Kill Scavs with the AKS-74U** → `Punisher P1`, ~23 to go. Counts map-wide, so keep it
   up while you sweep for Reshala.
+
+## 🥈 SAME TRIP — `Chemical - Part 2` 🆕
+
+**Dorm room 220** — the room you just did P1 in. You own the key.
+
+- **Flash drive** — plugged into the laptop on the desk
+- **Letter** — tucked between the binders on the metal shelf
+
+Both, then hand over to Skier. Check your messages first — Skier normally mails a 220 key
+on accepting, so you may have a spare.
+
+⚠️ Kappa chain: `Chemical - Part 4` is a Collector requirement, so this line matters more
+than its size suggests. *(Objectives sourced pre-1.1 — verify against your task text.)*
 
 ## 👁 GRAB ON SIGHT
 
