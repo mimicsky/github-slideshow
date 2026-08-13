@@ -57,10 +57,17 @@ Skip only if you don't want to buy the key — then it waits for raid 3.
 
 ## ➕ ALSO PROGRESSES ON CUSTOMS TONIGHT
 
-**`Capturing Outposts`** — eliminate PMCs at the **Scav base / Scav Stronghold** on
-Customs. 12 total, and Woods + Shoreline Scav bases also count toward the same pool.
-So after Angry Watchman's 3 in Dorms, move to the Stronghold and keep killing.
-*(Sites say level 42 required; you have it at 26 — stale gate.)*
+**`Capturing Outposts`** — **8 PMCs at the Scav base** on Customs (separate 8s on Woods
+and Shoreline). After Angry Watchman's 3 in Dorms, move to the Stronghold and keep going.
+
+**`Every Hunter Knows This`** — locate a **tripwire installation spot** on Customs. You
+already got a partial prompt for this here.
+
+**`Informed Means Armed`** + **`Is This a Reference`** — both want a **WI-FI camera**
+installed on Customs (Informed's watches the **road to the port**). Buy 2 cameras.
+
+**`Seizing the Initiative`** — leave via the **transit to Shoreline** instead of a normal
+extract. Starts the task and drops you where raid 3 is going anyway.
 
 **`Chumming`** — stash **3× Golden neck chain** in the **microwave, 3rd floor of Dorms**.
 Buy the chains on flea before you queue. The rest of the task (Interchange, Woods, and
@@ -139,6 +146,50 @@ plus 10 masks may run long)*
 Three raids clears **Customs entirely** and probably two of three Shoreline tasks.
 Punisher P2's mask collection and Reshala's spawn RNG are the two things most likely to
 push into a fourth trip.
+
+---
+
+## 0c. 🗺 MULTI-MAP TASKS — the trip-wasters
+
+These don't live on one map. Miss a piece and you go back later for one objective.
+*(Scraped from gamemaps — pre-1.1, so treat as a map index, not gospel.)*
+
+| Task | Trader | Maps |
+|---|---|---|
+| `Is This a Reference` | Fence | **all 9 maps** — 27 objectives, WI-FI cameras everywhere |
+| `Needle in a Haystack` | Mechanic | Ground Zero · Interchange · Streets · Shoreline |
+| `Chumming` | Skier | Interchange · **Customs** · Woods |
+| `Informed Means Armed` | Skier | Woods · **Customs** · Interchange |
+| `Capturing Outposts` | Prapor | **Customs** · Woods · Shoreline |
+| `Every Hunter Knows This` | Jaeger | Factory · **Customs** |
+| `Seizing the Initiative` | Peacekeeper | **Customs → Shoreline** (transit) |
+| `Special Comms` | Prapor | Woods → Reserve (transit) |
+| `Rough Tarkov` | Jaeger | Woods · Ground Zero |
+| `Scout` | Mechanic | Factory · Night Factory |
+| `Black Swan` | Mechanic | Factory · Night Factory |
+| `Postman Pat - Part 1` | Prapor | Factory · Night Factory |
+
+### Customs pieces — do these while you're there
+
+- `Chumming` — stash 3 Golden neck chains, **microwave, 3rd floor Dorms**
+- `Informed Means Armed` — install a **WI-FI camera watching the road to the port**
+- `Is This a Reference` — also wants a **WI-FI camera** on Customs
+- `Capturing Outposts` — **8 PMCs at the Scav base** *(8 per map, 24 total — not 12)*
+- `Every Hunter Knows This` — **locate a tripwire installation spot** *(you already got a
+  partial prompt for this on Customs)*
+- `Seizing the Initiative` — **take the transit from Customs to Shoreline**, then survive
+  and extract there
+
+> 🔗 **`Seizing the Initiative` chains raid 2 into raid 3.** Finish Customs, take the
+> transit to Shoreline instead of extracting normally, and you start the Shoreline trip
+> with a task already half done.
+
+### Elsewhere, worth knowing now
+
+- `Special Comms` wants a **Bulbex cable cutter** stashed at the boulder by RUAF gate on
+  Woods — **you looted one in raid 1.** Don't sell it.
+- `Capturing Outposts` and `Needle in a Haystack` both have Shoreline pieces — bank them
+  during raid 3.
 
 ---
 
