@@ -167,18 +167,26 @@ Locations from eftboss.com. **Live spawn % is JS-rendered so I can't read it —
 [eftboss.com](https://eftboss.com) yourself before a hunt and tell me the number**, and
 I'll fold it into the card.
 
-| Boss | Map | Where |
-|---|---|---|
-| **Reshala** | Customs | Dorms 3-story · Gas Station · Stronghold/Fortress ← *active in Trophy* |
-| Killa | Interchange | Mall |
-| Glukhar | Reserve | |
-| Shturman | Woods | Sawmill |
-| Sanitar | Shoreline | Resort · Pier |
-| Tagilla | Factory, Interchange | |
-| Kaban | Streets of Tarkov | |
-| Kollontay | Streets, Ground Zero | |
-| Zryachiy | Lighthouse | Island |
-| The Goons | Roaming | Customs · Woods · Shoreline · Lighthouse |
+| Boss | Map | Where | Killed? |
+|---|---|---|---|
+| **The Goons** ×3 | Roaming | Customs · Woods · Shoreline · Lighthouse | ✅ |
+| **Partizan** | Woods / Ground Zero | roamer | ✅ |
+| **Reshala** | Customs | Dorms 3-story · Gas Station · Stronghold/Fortress | ❌ ← *active in Trophy* |
+| Killa | Interchange | Mall | ❌ |
+| Glukhar | Reserve | | ❌ |
+| Shturman | Woods | Sawmill | ❌ |
+| Sanitar | Shoreline | Resort · Pier | ❌ |
+| Tagilla | Factory, Interchange | | ❌ |
+| Kaban | Streets of Tarkov | | ❌ |
+| Kollontay | Streets, Ground Zero | | ❌ |
+| Zryachiy | Lighthouse | Island | ❌ |
+
+**2 down, 9 to go.** The Goons were the hard one — three at once, roaming, and you've
+already done them.
+
+**Reading eftboss:** the per-location split is evenly divided across his spawns
+(33.3% each, site truncates to 33). The headline % is whether he spawns *at all*.
+Reshala tonight: **45%.**
 
 **Overlaps worth planning around:**
 - **Sanitar is on Shoreline** — raid 3 territory. Free progress if he spawns.
