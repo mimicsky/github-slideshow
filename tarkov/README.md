@@ -51,7 +51,7 @@ Don't route for these. Grab them if your spawn or your exit puts you nearby.
 |---|---|---|---|
 | 1 | **`Chemical - Part 1`** | grab secure folder | isolated train carriage, west/boiler side, between ZB-1012 and ZB-1011 extracts. Under brick pallet NW · under pallet SE · wall/pallet NE |
 | 2 | **`Private Club`** | grab Skier's wallet | Warehouse 17, 2nd floor room. 4 spawns: floor under the shelf by the door · floor under the table · on the table · behind the TV on the desk |
-| 3 | **`Supplements`** | grab chemical vial | **med lab — two-storey building near Scav Stronghold**, lab is upstairs |
+| 3 
 | 4 | **`Chemical Experiments`** | **place** corrugated hose | any table in the experiments area, **same building as #3**, 2nd floor |
 
 ### 🔑 Keys — none needed
@@ -95,7 +95,7 @@ the counter keeps moving.
 
 Quest inputs that must be **found in raid**. Selling one throws away the FiR status.
 
-**Graphics card · CPU fan · car battery · spark plug · respirator**
+**Graphics card · CPU fan · car battery · spark plug · respirator ×3 ← confirmed count**
 
 *(for `Semiconductor Crisis`, `Car Repair`, `Supplements`)*
 
@@ -451,7 +451,6 @@ is 21 tasks at 0% — biggest pile, least near-term payout, sorts last despite v
 
 | Task | Progress |
 |---|---|
-| Chemical – Part 1 | **66%** |
 | The Huntsman Path – Trophy | **50%** |
 | The Punisher – Part 1 | **40%** |
 | The Huntsman Path – Angry Watchman | 0% |
@@ -538,6 +537,8 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 - Break the Deal — Customs
 - **Chemical Experiments** — Customs ✅
 - **Private Club** — Customs ✅
+- **Chemical – Part 1** — Customs ✅ *(second item was behind **Dorm room 220** — key
+  bought on flea. You own that key now, it's reusable.)*
 
 ---
 
@@ -545,27 +546,17 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 
 Built on demand — say `prep <map>` or name a task. Format below.
 
-### ⚠️ Chemical – Part 1 · Customs · BLOCKED
+### ✅ Chemical – Part 1 · Customs · DONE
 
-**You have the folder but can't hand in — because the task needs TWO items, not one.**
+Needed **two** items, which is why the handover stayed locked:
+1. **Information** — secure folder, train carriage west side between ZB-1012/ZB-1011
+2. **Investigation item** — behind **Dorm room 220**, the deputy chief's "sleeping place"
 
-Five objectives:
-1. Locate and obtain **information** about the deputy chief's past life ← the secure folder ✅
-2. *(Optional)* Locate the **sleeping place** of the former Deputy Chief of Security
-3. Locate and obtain **any item that could help with the investigation** ← ❌ missing
-4. Hand over the information
-5. Hand over the item
+**Key learning:** when a task won't let you hand in, check for a second *locate and
+obtain* objective before assuming a bug. Optional objectives often point at the missing one.
 
-Objective 3 is what's blocking you. The task text mentions him "sleeping on some
-pissed-through mattresses" — so the second item is at the sleeping place, wherever that
-is on Customs.
+### Chemical – Part 1 — original notes
 
-**I could not find what that item is or where the sleeping place is.** No reachable
-source covers it — this looks like 1.1 content the guide sites haven't documented.
-**Check the fandom wiki page for `Chemical - Part 1` and paste me objective 3** and I'll
-fold it into the card.
-
-### Chemical – Part 1 — original notes · 66%
 
 - **Objective:** locate the former Deputy Chief of Security's sleeping place on Customs,
   recover the wanted/secure folder, extract with it, hand to Skier.
