@@ -92,19 +92,17 @@ the counter keeps moving.
 
 ### 👁 WATCH LIST — grab on sight, any raid, never sell
 
-These are quest inputs that must be **found in raid**. Selling one throws away the FiR
-status and you have to find it again.
+Quest inputs that must be **found in raid**. Selling one throws away the FiR status.
 
-| Item | Need | Have | Task to look up |
-|---|---|---|---|
-| **Graphics card** | 3 | **1** | `Semiconductor Crisis` (50%) |
-| **CPU fan** | 15 | 0 | `Semiconductor Crisis` (50%) |
-| **Car battery** | 4 | **1** | `Car Repair` (62%) |
-| **Spark plug** | 8 | 0 | `Car Repair` (62%) |
-| **Respirator** | 4 | **1** | `Supplements` (37%) |
+**Graphics card · CPU fan · car battery · spark plug · respirator**
 
-CPU fans and spark plugs are the grind — take every single one you see, they're small and
-you need 23 between them.
+*(for `Semiconductor Crisis`, `Car Repair`, `Supplements`)*
+
+**No counts tracked.** You have four junkboxes I've never seen, so any tally I kept would
+be wrong. Grab them on sight and let the in-game task screen do the counting.
+
+> If you ever want real numbers, one screenshot of the junkboxes and I can tell you what
+> you've already got and what to stop bothering with. Entirely optional.
 
 > One raid, one area, six tasks moving, all of it shooting and looting.
 
