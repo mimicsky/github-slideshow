@@ -39,12 +39,19 @@ under desk)
 **Scav kills do double duty:** every one counts toward `Punisher P1` (6 left, needs the
 AKS-74U) *and* `All This Filth` (95%). Keep the AKS up and both finish this raid.
 
-## 💰 Decision — `The Courier`
+## 💰 `The Courier` — ON
 
-The only thing standing between you and a **fully cleared Customs.** Needs 2× Trijicon
-REAP-IR placed as drops, ~₽1M of your ₽2.7M.
+Buy **2× Trijicon REAP-IR** (~₽1M). Two drop spots:
 
-Not efficient, but it's the last piece. Your call — say the word and it goes on the card.
+1. **Under the base of the yellow crane** — construction site *(the yellow crane IS the
+   landmark you didn't recognise)*
+2. **Behind the "new" gas station**, at the pile of barrels / trash containers
+
+⚠️ **The scope cannot go in the secure container.** Two of them are ~8 rig slots, which
+fights the no-backpack plan — bring a Day Pack purely as scope transport, or run Courier
+separately.
+
+🔗 **New Gas is already on your route.** Crane is the only detour.
 
 ## 👁 GRAB ON SIGHT
 
