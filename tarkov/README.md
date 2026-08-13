@@ -69,6 +69,24 @@ Only matters if you look it up, and you shouldn't need to.
 **Skipping:** `The Courier` — needs 2× Trijicon REAP-IR thermals placed as drops. Heavy
 rouble sink for a delivery errand, not until you're cash-comfortable.
 
+### 🎒 GAMMA RULE — you almost never need to dip
+
+Your Gamma is **3×3** and survives death. Every quest item on this card fits:
+secure folder · Skier's wallet · chemical vial · Golden TT (2×1) · graphics card (2×1) ·
+CPU fans and spark plugs (1×1).
+
+**Pocket quest items into the Gamma the instant you pick them up, then keep playing.** No
+early extract, no babysitting a haul.
+
+Two exceptions:
+- **Car batteries don't fit** — bulky, and genuinely at risk in your backpack.
+- **Items you're carrying in to place** (corrugated hose) may not be allowed in a secure
+  container — The Courier's scope explicitly isn't. Carry the hose in your rig or pack.
+
+Also worth knowing: **Punisher Scav kills count anywhere on Customs**, not just Dorms.
+Only the 5 PMC kills are zone-locked. Keep the AKS-74U up while you roam for pickups and
+the counter keeps moving.
+
 ### 👁 WATCH LIST — grab on sight, any raid, never sell
 
 These are quest inputs that must be **found in raid**. Selling one throws away the FiR
