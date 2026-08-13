@@ -562,7 +562,41 @@ Disease History — *all 0%*
 The Huntsman Path – Woods Keeper · Swift · Steady Signal · Metal Birds ·
 The Survivalist Path – Thrifty · Shipping Delay – Part 1 · A Helping Hand — *all 0%*
 
-### ⭐ Factory (10) — strongest next map after Customs
+### ⭐ Factory (10) — FULL PRE-LOAD
+
+**🛒 Buy before you go:** **AUG** *(you don't own one — One-Way Ticket needs it)* ·
+**3× MS2000 marker** *(Black Swan)*
+
+| # | Task | Trader | What you actually do |
+|---|---|---|---|
+| 1 | **`Chemical - Part 3`** | Skier | Grab the **bright yellow syringe — looks like a pen** ✅*verified* |
+| 2 | **`Every Hunter Knows This`** | Jaeger | Locate tripwire spot in the **breach room** ✅*verified* |
+| 3 | **`Dragnet`** | Jaeger | Grab the **chemical container** at the **TerraGroup warehouse** → hand over |
+| 4 | **`Possessor`** | Prapor | Grab the **helicopter logbook** → hand over |
+| 5 | **`All Is Revealed`** | Therapist | Take a **chemical sample from the damaged tank container** → hand over |
+| 6 | **`Postman Pat - Part 1`** | Prapor | Grab the **letter off the messenger's body** → extract → hand to Therapist |
+| 7 | **`Scout`** | Mechanic | **Find all 3 Factory extractions**, then survive & extract |
+| 8 | **`Exit Here`** | Skier | **Extract through the main exit** |
+| 9 | **`Black Swan`** | Mechanic | **Mark 3 heat exchangers** with MS2000 markers |
+| 10 | **`One-Way Ticket`** | Peacekeeper | **15 headshot kills using an AUG** ⚠️ needs the gun |
+
+### 🔗 Overlaps that save you trips
+
+- **`Scout` + `Exit Here` are one action.** Find all three extracts, then leave via the
+  **main exit** — both complete together.
+- **`Scout`, `Postman Pat` and `Exit Here`** all need survive-and-extract. One good run
+  covers all three.
+- **Four are simple item grabs** (syringe, chemical container, logbook, letter) — do them
+  on the same loop.
+- **`One-Way Ticket` is the long one.** 15 headshots with a specific gun won't finish in a
+  raid; treat it as background across every Factory trip.
+
+### 🌙 Night Factory
+
+`Scout`, `Black Swan` and `Postman Pat` all list Night Factory too. Budget a night run.
+
+⚠️ Sourced from gamemaps (pre-1.1) except the two marked verified. Given tonight's error
+rate, **check each against your in-game text before committing to it.**
 
 | Task | Note |
 |---|---|
@@ -577,9 +611,8 @@ The Survivalist Path – Thrifty · Shipping Delay – Part 1 · A Helping Hand 
 | One-Way Ticket | |
 | Postman Pat – Part 1 | letter on messenger's body (+ Night Factory) |
 
-**Why Factory next:** smallest map in the game, short raids, and ten tasks stacked on it.
-Highest task-per-minute on your whole board. Several also want **Night Factory**, so plan
-a night run too.
+**Why Factory next:** smallest map in the game, short raids, ten tasks stacked on it, and
+heavy overlap between them. Highest task-per-minute on your whole board.
 
 ⚠️ `Chemical - Part 3` rewards **Documents case · Medicine case · Ammunition case**, with
 **Grenade case · Magazine case** in follow-ups. Five containers — that's a bigger deal for
