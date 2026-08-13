@@ -41,17 +41,16 @@ AKS-74U) *and* `All This Filth` (95%). Keep the AKS up and both finish this raid
 
 ## 💰 `The Courier` — ON
 
-Buy **2× Trijicon REAP-IR** (~₽1M). Two drop spots:
+Buy **1× Trijicon REAP-IR** (~₽500k) — *in-game verified: one scope, not two. Sources say
+two, they're wrong.*
 
-1. **Under the base of the yellow crane** — construction site *(the yellow crane IS the
-   landmark you didn't recognise)*
-2. **Behind the "new" gas station**, at the pile of barrels / trash containers
+**Carries in your pockets** — no backpack needed, the no-bag run works fine.
 
-⚠️ **The scope cannot go in the secure container.** Two of them are ~8 rig slots, which
-fights the no-backpack plan — bring a Day Pack purely as scope transport, or run Courier
-separately.
+Candidate drop spots (sources list both; your in-game marker will show which):
+- **Under the base of the yellow crane**, construction site
+- **Behind the "new" gas station**, at the barrels / trash containers
 
-🔗 **New Gas is already on your route.** Crane is the only detour.
+🔗 Both are on or near your route anyway.
 
 ## 👁 GRAB ON SIGHT
 
@@ -232,6 +231,7 @@ Anything in this section beats any lookup I do.
 | `Capturing Outposts` | **12** PMCs | scraped data said 8 |
 | `Chemical Experiments` | place corrugated hose, med lab 2F | renamed from `Spa Tour - Part 7` |
 | `All This Filth` | **kill Scavs, any location** | wiki says "eliminate Shturman 20×" — completely wrong for 1.1 |
+| `The Courier` | **1** REAP-IR, fits in pockets | sources say 2 scopes and no-secure-container |
 | `Every Hunter Knows This` | 2 tripwire spots: **Factory breach room** + **Customs 3-story dorm stairs** | — |
 | `Informed Means Armed` | 2 cameras only: **Woods** sawmill dock + **Interchange** Kiba Arms | gamemaps lists a third on Customs — removed in 1.1 |
 
