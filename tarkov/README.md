@@ -23,7 +23,7 @@ Seven Customs tasks live. Six are doable this raid.
 | ~~`All This Filth…`~~ | ✅ **DONE** | |
 | `The Punisher - Part 1` | **76%** | **6 Scav kills** with the AKS-74U, map-wide |
 | ~~`Every Hunter Knows This`~~ | 50% | ✅ **Customs half done** — remaining objective is on **Factory** |
-| `The Huntsman Path - Trophy` | 50% | **kill Reshala** — Dorms 3-story · New Gas · Fortress |
+| ~~`The Huntsman Path - Trophy`~~ | ✅ **DONE** | Reshala killed |
 | `The Huntsman Path - Angry Watchman` | 33% | **2 more PMCs**, inside the Dorms zone |
 | `Capturing Outposts` | 16% | **10 more PMCs** at the Scav base |
 | `Shipment Tracking` | 0% | TerraGroup lists, boiler building 2F director's room |
@@ -133,7 +133,7 @@ I'll fold it into the card.
 |---|---|---|---|
 | **The Goons** ×3 | Roaming | Customs · Woods · Shoreline · Lighthouse | ✅ |
 | **Partizan** | Woods / Ground Zero | roamer | ✅ |
-| **Reshala** | Customs | Dorms 3-story · Gas Station · Stronghold/Fortress | ❌ ← *active in Trophy* |
+| **Reshala** | Customs | Dorms 3-story · Gas Station · Stronghold/Fortress | ✅ |
 | Killa | Interchange | Mall | ❌ |
 | Glukhar | Reserve | | ❌ |
 | Shturman | Woods | Sawmill | ❌ |
@@ -143,7 +143,7 @@ I'll fold it into the card.
 | Kollontay | Streets, Ground Zero | | ❌ |
 | Zryachiy | Lighthouse | Island | ❌ |
 
-**2 down, 9 to go.** The Goons were the hard one — three at once, roaming, and you've
+**3 down, 8 to go.** The Goons were the hard one — three at once, roaming, and you've
 already done them.
 
 **Reading eftboss:** the per-location split is evenly divided across his spawns
@@ -621,7 +621,8 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 - **Private Club** — Customs ✅
 - **Chemical – Part 1** — Customs ✅
 - **Chemical – Part 2** — Customs ✅
-- **All This Filth…** ✅ *(second item was behind **Dorm room 220** — key
+- **All This Filth…** ✅
+- **The Huntsman Path – Trophy** ✅ *(Reshala killed)* *(second item was behind **Dorm room 220** — key
   bought on flea. You own that key now, it's reusable.)*
 
 ---
@@ -759,6 +760,9 @@ no task attached.
 ```
 [DATE] [MAP] [SURVIVED?] — brought back: … | quest progress: … | sold: … | net: …
 ```
+
+- **Raid 4 (Customs)** — **killed Reshala**, died to his guards straight after. `Trophy`
+  complete, boss credit banked. Grenades still the answer for the guards.
 
 - **Raid 3 (Customs)** — **died to Reshala.** Closed `All This Filth`. Lesson: bring
   grenades — the guards hold the rooms, not Reshala himself.
