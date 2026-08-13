@@ -66,8 +66,9 @@ already got a partial prompt for this here.
 **`Informed Means Armed`** + **`Is This a Reference`** — both want a **WI-FI camera**
 installed on Customs (Informed's watches the **road to the port**). Buy 2 cameras.
 
-**`Seizing the Initiative`** — leave via the **transit to Shoreline** instead of a normal
-extract. Starts the task and drops you where raid 3 is going anyway.
+**`Seizing the Initiative`** — transit to Shoreline. ⚠️ **Not this raid** — transit
+continues the raid, so a loaded run stays at risk. Extract normally with your loot; the
+transit gets its own trip (see raid 3).
 
 **`Chumming`** — stash **3× Golden neck chain** in the **microwave, 3rd floor of Dorms**.
 Buy the chains on flea before you queue. The rest of the task (Interchange, Woods, and
@@ -118,9 +119,17 @@ Private Club
 
 ---
 
-## Raid 3 · SHORELINE
+## Raid 3 · CUSTOMS → TRANSIT → SHORELINE
 
-**Bring:** **MP5 SD** · MS2000 marker · Health Resort west wing key
+**Enter Customs light**, head straight for the transit, cross to Shoreline, then run the
+Shoreline card. Clears `Seizing the Initiative` on the way in and costs you nothing —
+you're going to Shoreline regardless.
+
+**Bring:** **MP5 SD** · MS2000 marker · **Health Resort west wing 219 key** *(buy — you
+only own 306)*
+
+**Priority 0 — `Seizing the Initiative`:** use the transit from Customs to Shoreline, then
+survive and extract from Shoreline. Done automatically by running this route.
 
 **Priority 1 — `I Need More Power` (33%).** Strict rules, so do it first:
 - Generators in **two** rooms, both in the **same raid**, and you must **extract**.
