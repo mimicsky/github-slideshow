@@ -10,7 +10,8 @@
 
 # ▶ RAID 2 — CUSTOMS, DORMS
 
-**Bring:** AKS-74U · **Dorm 220 key** (Chemical P2) · **Company director's room key** (Shipment Tracking — buy on flea)
+**Buy first:** Company director's room key · **3× Golden neck chain**
+**Bring:** AKS-74U · Dorm 220 key · director's room key · the 3 chains
 
 All four pickups are done. **This raid is only a fight.**
 
@@ -53,6 +54,21 @@ Skip only if you don't want to buy the key — then it waits for raid 3.
 **Deferred:** `The Courier` — 2× REAP-IR thermals as drops, ~₽1M for a small payout.
 
 > With Shipment Tracking, this raid can clear **all of Customs** except The Courier.
+
+## ➕ ALSO PROGRESSES ON CUSTOMS TONIGHT
+
+**`Capturing Outposts`** — eliminate PMCs at the **Scav base / Scav Stronghold** on
+Customs. 12 total, and Woods + Shoreline Scav bases also count toward the same pool.
+So after Angry Watchman's 3 in Dorms, move to the Stronghold and keep killing.
+*(Sites say level 42 required; you have it at 26 — stale gate.)*
+
+**`Chumming`** — stash **3× Golden neck chain** in the **microwave, 3rd floor of Dorms**.
+Buy the chains on flea before you queue. The rest of the task (Interchange, Woods, and
+5 PMCs on Interchange 22:00–10:00) waits for those maps.
+
+> 🎯 **Zone-kill rule:** the **PMC** has to be inside the marked zone when it dies. Where
+> *you* are standing doesn't matter. This likely explains why raid 1's five kills didn't
+> count — they died outside Dorms.
 
 ## 👁 GRAB ON SIGHT
 
