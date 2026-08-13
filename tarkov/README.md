@@ -8,91 +8,42 @@
 
 ---
 
-# ▶ RAID 2 — CUSTOMS, DORMS
+# ▶ RAID 3 — CUSTOMS (finish it)
 
-**Buy first:** Company director's room key · **3× Golden neck chain**
-*(WI-FI camera only if you confirm `Is This a Reference` still wants one on Customs)*
-**Bring:** AKS-74U · Dorm 220 key · director's room key · the 3 chains
+**Bring:** AKS-74U · Dorm 220 key · **Company director's room key** *(you have it — Gamma)*
 
-All four pickups are done. **This raid is only a fight.**
+Seven Customs tasks live. Six are doable this raid.
 
----
+| Task | At | What's left |
+|---|---|---|
+| `All This Filth…` | **95%** | ❓ one action — **tell me what the task says** |
+| `The Punisher - Part 1` | **76%** | **6 Scav kills** with the AKS-74U, map-wide |
+| `Every Hunter Knows This` | 50% | tripwire installation spot |
+| `The Huntsman Path - Trophy` | 50% | **kill Reshala** — Dorms 3-story · New Gas · Fortress |
+| `The Huntsman Path - Angry Watchman` | 33% | **2 more PMCs**, inside the Dorms zone |
+| `Capturing Outposts` | 16% | **10 more PMCs** at the Scav base |
+| `Shipment Tracking` | 0% | TerraGroup lists, boiler building 2F director's room |
 
-## 🥇 PRIORITY 1 — THE DORMS ZONE
+## Route
 
-- **Kill 3 PMCs INSIDE the Dorms zone** → `Angry Watchman`, **1/3** *(verified in-game — sources said 5, they were wrong)*
-  Both dorm buildings, the guard house, and the ground between them.
-  ⚠️ Last raid you killed 5 PMCs elsewhere on Customs and **none counted.** The zone is
-  the whole objective.
-- **Kill Reshala** → `Huntsman Trophy`, 50%. Kill only, nothing to loot.
-  Spawns: **Dorms 3-story · New Gas · Fortress** *(player-verified)*.
-  ❌ **Not Warehouse 4** — sources claim it, it's wrong.
-  🔗 Fortress is the Scav base area, so a Reshala sweep there doubles as
-  `Capturing Outposts` farming.
-- **Kill Scavs with the AKS-74U** → `Punisher P1`, **19/25 — only 6 left.** Counts
-  map-wide, so keep it up while you sweep for Reshala.
+**Dorms** → 2 PMCs in the zone, check 3-story for Reshala, Scavs with the AKS throughout
+**New Gas** → Reshala check
+**Fortress / Scav base** → Reshala check + grind the 10 `Capturing Outposts` PMCs
+**Boiler building 2F** → TerraGroup lists (bookshelf · floor by packages · shelf by desk ·
+under desk)
 
-## 🥈 SAME TRIP — `Chemical - Part 2` 🆕
+Six Scav kills anywhere on the map finishes Punisher P1.
 
-**Dorm room 220** — the room you just did P1 in. You own the key.
+## 💰 Decision — `The Courier`
 
-- **Flash drive** — plugged into the laptop on the desk
-- **Letter** — tucked between the binders on the metal shelf
+The only thing standing between you and a **fully cleared Customs.** Needs 2× Trijicon
+REAP-IR placed as drops, ~₽1M of your ₽2.7M.
 
-Both, then hand over to Skier. Check your messages first — Skier normally mails a 220 key
-on accepting, so you may have a spare.
-
-⚠️ Kappa chain: `Chemical - Part 4` is a Collector requirement, so this line matters more
-than its size suggests. *(Objectives sourced pre-1.1 — verify against your task text.)*
-
-## 🥉 IF YOU BUY THE KEY — `Shipment Tracking`
-
-**Buy: Company director's room key** (flea, cheap).
-
-**TerraGroup shipment lists** — director's room, **2nd floor of the boiler building**,
-west side near the train carriage you already know.
-4 spawns: bookshelf · floor by the packages · shelf next to the desk · under the desk.
-
-Skip only if you don't want to buy the key — then it waits for raid 3.
-
-**Deferred:** `The Courier` — 2× REAP-IR thermals as drops, ~₽1M for a small payout.
-
-> With Shipment Tracking, this raid can clear **all of Customs** except The Courier.
-
-## ➕ ALSO PROGRESSES ON CUSTOMS TONIGHT
-
-**`Capturing Outposts`** — **12 PMCs at the Scav base**, currently **2/12** *(in-game
-verified — scraped data said 8, wrong)*. Fortress/Stronghold, same place you sweep for
-Reshala.
-
-**`Every Hunter Knows This`** — locate a **tripwire installation spot** on Customs. You
-already got a partial prompt for this here.
-
-**`Is This a Reference`** — *may* want a WI-FI camera on Customs. ⚠️ **Unverified** — same
-stale source that got Informed Means Armed wrong. Check the wiki before buying a camera.
-
-❌ **`Informed Means Armed` — NOT on Customs.** Wiki-verified: only 2 objectives, both
-elsewhere — sawmill dock on **Woods**, Kiba Arms entrance on **Interchange**. The old
-Customs "road to the port" camera was removed in 1.1.
-
-**`Seizing the Initiative`** — transit to Shoreline. ⚠️ **Not this raid** — transit
-continues the raid, so a loaded run stays at risk. Extract normally with your loot; the
-transit gets its own trip (see raid 3).
-
-**`Chumming`** — stash **3× Golden neck chain** in the **microwave, 3rd floor of Dorms**.
-Buy the chains on flea before you queue. The rest of the task (Interchange, Woods, and
-5 PMCs on Interchange 22:00–10:00) waits for those maps.
-
-> 🎯 **Zone-kill rule:** the **PMC** has to be inside the marked zone when it dies. Where
-> *you* are standing doesn't matter. This likely explains why raid 1's five kills didn't
-> count — they died outside Dorms.
+Not efficient, but it's the last piece. Your call — say the word and it goes on the card.
 
 ## 👁 GRAB ON SIGHT
 
-**Respirator ×3** ← confirmed, that's all `Supplements` still needs
-Graphics card · CPU fan · car battery · spark plug
-
-Gamma everything except car batteries.
+**Respirator ×2 more** · graphics card · CPU fan · car battery · spark plug
 
 ---
 
