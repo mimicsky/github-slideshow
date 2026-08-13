@@ -20,7 +20,7 @@ All four pickups are done. **This raid is only a fight.**
 
 ## 🥇 PRIORITY 1 — THE DORMS ZONE
 
-- **Kill 3 PMCs INSIDE the Dorms zone** → `Angry Watchman`, **0/3** *(verified in-game — sources said 5, they were wrong)*
+- **Kill 3 PMCs INSIDE the Dorms zone** → `Angry Watchman`, **1/3** *(verified in-game — sources said 5, they were wrong)*
   Both dorm buildings, the guard house, and the ground between them.
   ⚠️ Last raid you killed 5 PMCs elsewhere on Customs and **none counted.** The zone is
   the whole objective.
@@ -29,8 +29,8 @@ All four pickups are done. **This raid is only a fight.**
   ❌ **Not Warehouse 4** — sources claim it, it's wrong.
   🔗 Fortress is the Scav base area, so a Reshala sweep there doubles as
   `Capturing Outposts` farming.
-- **Kill Scavs with the AKS-74U** → `Punisher P1`, ~23 to go. Counts map-wide, so keep it
-  up while you sweep for Reshala.
+- **Kill Scavs with the AKS-74U** → `Punisher P1`, **19/25 — only 6 left.** Counts
+  map-wide, so keep it up while you sweep for Reshala.
 
 ## 🥈 SAME TRIP — `Chemical - Part 2` 🆕
 
@@ -61,8 +61,9 @@ Skip only if you don't want to buy the key — then it waits for raid 3.
 
 ## ➕ ALSO PROGRESSES ON CUSTOMS TONIGHT
 
-**`Capturing Outposts`** — **8 PMCs at the Scav base** on Customs (separate 8s on Woods
-and Shoreline). After Angry Watchman's 3 in Dorms, move to the Stronghold and keep going.
+**`Capturing Outposts`** — **12 PMCs at the Scav base**, currently **2/12** *(in-game
+verified — scraped data said 8, wrong)*. Fortress/Stronghold, same place you sweep for
+Reshala.
 
 **`Every Hunter Knows This`** — locate a **tripwire installation spot** on Customs. You
 already got a partial prompt for this here.
@@ -265,7 +266,7 @@ Anything in this section beats any lookup I do.
 | `Anesthesia` | 3 trading posts w/ MS2000, must extract | ✅ matched |
 | `The Huntsman Path - Trophy` | kill Reshala only — TT already handed in | sites list 3 objectives |
 | **Reshala spawns** | **Dorms 3-story · New Gas · Fortress** | sites also claim Warehouse 4 and a "construction site" — both wrong |
-| `Capturing Outposts` | 8 PMCs per map, 24 total | search summary said 12 |
+| `Capturing Outposts` | **12** PMCs | scraped data said 8 |
 | `Chemical Experiments` | place corrugated hose, med lab 2F | renamed from `Spa Tour - Part 7` |
 | `Informed Means Armed` | 2 cameras only: **Woods** sawmill dock + **Interchange** Kiba Arms | gamemaps lists a third on Customs — removed in 1.1 |
 
@@ -642,7 +643,8 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 - Break the Deal — Customs
 - **Chemical Experiments** — Customs ✅
 - **Private Club** — Customs ✅
-- **Chemical – Part 1** — Customs ✅ *(second item was behind **Dorm room 220** — key
+- **Chemical – Part 1** — Customs ✅
+- **Chemical – Part 2** — Customs ✅ *(second item was behind **Dorm room 220** — key
   bought on flea. You own that key now, it's reusable.)*
 
 ---
@@ -780,6 +782,12 @@ no task attached.
 ```
 [DATE] [MAP] [SURVIVED?] — brought back: … | quest progress: … | sold: … | net: …
 ```
+
+- **Raid 2 (Customs)** — survived. Cleared `Chemical - Part 2`, all 3 Customs cameras for
+  `Is This a Reference`, and the `Chumming` chain stash. Progress: Punisher **19/25** ·
+  Angry Watchman **1/3** · Capturing Outposts **2/12**. No Reshala.
+  Haul: respirator · magnet · wires ×2 · ES lamp ×2 · nails ×3 · bolts · mech parts ×2 ·
+  RAM · 3 dogtags · SRD9 suppressor · RSh-12 · AK-12 · BAC Bastion · ₽75k cash.
 
 - **Raid 1 (Customs)** — survived. Picked up **all four**: secure folder, Skier's wallet,
   chemical vial, and stashed the hose. Only 2 Scav kills. Killed 5 PMCs but **none inside
