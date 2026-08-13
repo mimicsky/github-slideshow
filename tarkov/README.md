@@ -3,7 +3,7 @@
 **You play. I track.** Shared brain for tasks, stash, and keep/sell calls.
 
 > **Mode:** PvE · **Patch:** 1.1.0.1.46699 · **Edition:** Unheard (Gamma, Unheard armband)
-> **Level:** 26 · **Faction:** USEC · **Stash:** Level 4 · **Bank:** ₽2,377,110
+> **Level:** 26 · **Faction:** USEC · **Stash:** Level 4 · **Bank:** ₽2,701,934
 > **Synced from screenshots 1–17.** ~110 active tasks logged below.
 
 ---
@@ -597,10 +597,27 @@ Disease History — *all 0%*
 The Huntsman Path – Woods Keeper · Swift · Steady Signal · Metal Birds ·
 The Survivalist Path – Thrifty · Shipping Delay – Part 1 · A Helping Hand — *all 0%*
 
-### Factory (8)
+### ⭐ Factory (9) — strongest next map after Customs
 
-Dragnet · Scout · Black Swan · All Is Revealed · Exit Here · Possessor ·
-One-Way Ticket · Postman Pat – Part 1 — *all 0%*
+| Task | Note |
+|---|---|
+| **`Chemical - Part 3`** 🆕 | **bright yellow syringe, looks like a pen.** Kappa chain |
+| Dragnet | |
+| Scout | find all 3 Factory extracts (+ Night Factory) |
+| Black Swan | mark 3 heat exchangers w/ MS2000 (+ Night Factory) |
+| All Is Revealed | |
+| Exit Here | |
+| Possessor | |
+| One-Way Ticket | |
+| Postman Pat – Part 1 | letter on messenger's body (+ Night Factory) |
+
+**Why Factory next:** smallest map in the game, short raids, and nine tasks stacked on it.
+Highest task-per-minute on your whole board. Several also want **Night Factory**, so plan
+a night run too.
+
+⚠️ `Chemical - Part 3` rewards **Documents case · Medicine case · Ammunition case**, with
+**Grenade case · Magazine case** in follow-ups. Five containers — that's a bigger deal for
+you than the roubles.
 
 ### Interchange (5)
 
