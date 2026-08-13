@@ -21,12 +21,12 @@ Seven Customs tasks live. Six are doable this raid.
 | Task | At | What's left |
 |---|---|---|
 | ~~`All This Filth…`~~ | ✅ **DONE** | |
-| `The Punisher - Part 1` | **76%** | **6 Scav kills** with the AKS-74U, map-wide |
+| ~~`The Punisher - Part 1`~~ | ✅ **DONE** | |
 | ~~`Every Hunter Knows This`~~ | 50% | ✅ **Customs half done** — remaining objective is on **Factory** |
 | ~~`The Huntsman Path - Trophy`~~ | ✅ **DONE** | Reshala killed |
 | `The Huntsman Path - Angry Watchman` | 33% | **2 more PMCs**, inside the Dorms zone |
 | `Capturing Outposts` | 16% | **10 more PMCs** at the Scav base |
-| `Shipment Tracking` | 0% | TerraGroup lists, boiler building 2F director's room |
+| `Shipment Tracking` | 📦 **list obtained** | **hand over to Therapist** |
 
 ## Route
 
@@ -622,7 +622,8 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 - **Chemical – Part 1** — Customs ✅
 - **Chemical – Part 2** — Customs ✅
 - **All This Filth…** ✅
-- **The Huntsman Path – Trophy** ✅ *(Reshala killed)* *(second item was behind **Dorm room 220** — key
+- **The Huntsman Path – Trophy** ✅ *(Reshala killed)*
+- **The Punisher – Part 1** ✅ *(second item was behind **Dorm room 220** — key
   bought on flea. You own that key now, it's reusable.)*
 
 ---
@@ -760,6 +761,11 @@ no task attached.
 ```
 [DATE] [MAP] [SURVIVED?] — brought back: … | quest progress: … | sold: … | net: …
 ```
+
+- **Raid 5 (Customs)** — **survived, killed Reshala again** (TT Gold looted). Finished
+  `Punisher P1`, obtained the TerraGroup shipment list.
+  Haul: **Altyn 81/81 · ZSh-1-2M 113/113 · A18 Skanda 150/186 · Granit 4 Back · HAMR
+  scope · HS401G5 · SAS drive · TT Gold · wallet** + meds and ammo.
 
 - **Raid 4 (Customs)** — **killed Reshala**, died to his guards straight after. `Trophy`
   complete, boss credit banked. Grenades still the answer for the guards.
