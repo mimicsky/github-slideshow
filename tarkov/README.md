@@ -3,7 +3,7 @@
 **You play. I track.** Shared brain for tasks, stash, and keep/sell calls.
 
 > **Mode:** PvE · **Patch:** 1.1.0.1.46699 · **Edition:** Unheard (Gamma, Unheard armband)
-> **Level:** 21 (confirmed) · **Faction:** USEC · **Stash:** Level 4
+> **Level:** 26 · **Faction:** USEC · **Stash:** Level 4 · **Bank:** ₽2,377,110
 > **Synced from screenshots 1–17.** ~110 active tasks logged below.
 
 ---
@@ -241,7 +241,7 @@ The old Collector was a huge item hoard. **1.1.0.0 replaced it.** New requiremen
 
 | Requirement | You |
 |---|---|
-| Character level **40** | 21 |
+| Character level **40** | **26** |
 | **LL4 with all traders** | LL3 on six · Ragman ~2–3 · **Ref 2** · **Fence 1** |
 | **Fence rep 3.0** | Fence at LL1 — the furthest gap on the board |
 | `Chemical - Part 4` | Part 1 at **66%** ✅ started |
@@ -261,7 +261,15 @@ star — it's not a separate grind, it's the thing your current task list alread
 
 ### Goal ladder
 
-**1. Level 40 + LL4 everywhere.** Everything else is downstream. Completions, not raids.
+**1. Level 40 + LL4 everywhere.** Everything else is downstream.
+
+> 💰 **LL4 has a price tag, and it's the answer to "how much money do I need."**
+> Skier's LL4 panel reads: **Lvl 38 · ₽4.5M spent · 5.80 rep.** That "spent" figure is
+> cumulative purchases *at that trader*. Nine traders at roughly that scale means the
+> Kappa run costs somewhere near **₽30–40M in trader spending** on top of everything else.
+>
+> This reframes your money goal completely. You don't need "a lot" — you need roughly
+> **₽40M routed through traders**, and buying from them is progress, not waste.
 **2. Fence rep 3.0.** Scav karma and task rep — slow burn, start noticing it now.
 **3. The four Kappa chains.** Already started; don't let them stall.
 **4. Bosses.** Your own goal, not a Kappa requirement anymore. Reshala's already live in
@@ -448,8 +456,6 @@ is 21 tasks at 0% — biggest pile, least near-term payout, sorts last despite v
 | The Punisher – Part 1 | **40%** |
 | The Huntsman Path – Angry Watchman | 0% |
 | The Courier | 0% |
-| Chemical Experiments | 0% |
-| Private Club | 0% |
 | Shipment Tracking | 0% |
 
 ### ★ Shoreline — run second (12)
@@ -508,6 +514,10 @@ Glory to CPSU · District Patrol · You've Got Mail · Properties All Around ·
 Pets Won't Need It · Urban Medicine · Ballet Lover ·
 Create a Distraction – Part 2 [PVE ZONE] — *all 0%*
 
+### 🆕 New — appeared after raid 1 (Peacekeeper LL1)
+
+`One Less Loose End` · `Master Key` · `Hiking` — all 0%, not yet slotted into a card.
+
 ### Any location (27) — these tick passively
 
 **Bench / no raid needed:** Gunsmith – M4A1 · Gunsmith – OP-SKS
@@ -526,6 +536,8 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 ### Completed
 
 - Break the Deal — Customs
+- **Chemical Experiments** — Customs ✅
+- **Private Club** — Customs ✅
 
 ---
 
@@ -533,7 +545,27 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 
 Built on demand — say `prep <map>` or name a task. Format below.
 
-### Chemical – Part 1 · Customs · 66%
+### ⚠️ Chemical – Part 1 · Customs · BLOCKED
+
+**You have the folder but can't hand in — because the task needs TWO items, not one.**
+
+Five objectives:
+1. Locate and obtain **information** about the deputy chief's past life ← the secure folder ✅
+2. *(Optional)* Locate the **sleeping place** of the former Deputy Chief of Security
+3. Locate and obtain **any item that could help with the investigation** ← ❌ missing
+4. Hand over the information
+5. Hand over the item
+
+Objective 3 is what's blocking you. The task text mentions him "sleeping on some
+pissed-through mattresses" — so the second item is at the sleeping place, wherever that
+is on Customs.
+
+**I could not find what that item is or where the sleeping place is.** No reachable
+source covers it — this looks like 1.1 content the guide sites haven't documented.
+**Check the fandom wiki page for `Chemical - Part 1` and paste me objective 3** and I'll
+fold it into the card.
+
+### Chemical – Part 1 — original notes · 66%
 
 - **Objective:** locate the former Deputy Chief of Security's sleeping place on Customs,
   recover the wanted/secure folder, extract with it, hand to Skier.
