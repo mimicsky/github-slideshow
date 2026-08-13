@@ -16,7 +16,7 @@ Seven Customs tasks live. Six are doable this raid.
 
 | Task | At | What's left |
 |---|---|---|
-| `All This Filth…` | **95%** | ❓ one action — **tell me what the task says** |
+| `All This Filth…` | **95%** | **kill Scavs** — any location. Ticks off the same kills as Punisher |
 | `The Punisher - Part 1` | **76%** | **6 Scav kills** with the AKS-74U, map-wide |
 | `Every Hunter Knows This` | 50% | tripwire installation spot |
 | `The Huntsman Path - Trophy` | 50% | **kill Reshala** — Dorms 3-story · New Gas · Fortress |
@@ -32,7 +32,8 @@ Seven Customs tasks live. Six are doable this raid.
 **Boiler building 2F** → TerraGroup lists (bookshelf · floor by packages · shelf by desk ·
 under desk)
 
-Six Scav kills anywhere on the map finishes Punisher P1.
+**Scav kills do double duty:** every one counts toward `Punisher P1` (6 left, needs the
+AKS-74U) *and* `All This Filth` (95%). Keep the AKS up and both finish this raid.
 
 ## 💰 Decision — `The Courier`
 
@@ -219,6 +220,7 @@ Anything in this section beats any lookup I do.
 | **Reshala spawns** | **Dorms 3-story · New Gas · Fortress** | sites also claim Warehouse 4 and a "construction site" — both wrong |
 | `Capturing Outposts` | **12** PMCs | scraped data said 8 |
 | `Chemical Experiments` | place corrugated hose, med lab 2F | renamed from `Spa Tour - Part 7` |
+| `All This Filth` | **kill Scavs, any location** | wiki says "eliminate Shturman 20×" — completely wrong for 1.1 |
 | `Informed Means Armed` | 2 cameras only: **Woods** sawmill dock + **Interchange** Kiba Arms | gamemaps lists a third on Customs — removed in 1.1 |
 
 **Known renames in 1.1:** `Angry Watchman` ← `Evil Watchman` · `Chemical Experiments` ←
