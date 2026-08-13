@@ -26,8 +26,11 @@ and fight. Three tasks feed off the same fight:
 - Kill **Scavs with the AKS-74U** → Punisher P1, 40% → 25 total
 - Kill **5 PMCs inside the Dorms zone** — both dorm buildings, guard house, ground
   between. AI PMCs on PvE → Angry Watchman, 0%
-- Kill **Reshala** if he spawns, take his Golden TT → Huntsman Trophy, 50%.
-  *(Also spawns new gas · construction by the railroad · Warehouse 4)*
+- **Kill Reshala** → Huntsman Trophy, 50%. Golden TT is already handed in, so the kill is
+  all that's left — no item to carry or protect.
+  Spawns: **Dorms · new gas station · construction site by the railroad · Warehouse 4.**
+  If he's not at Dorms, sweep the other three — Scav kills count map-wide, so a hunt
+  costs you nothing.
 
 Punisher needs ~15 more kills — that's likely more than one raid. Dorms is the anchor
 until it's done.
@@ -72,8 +75,8 @@ rouble sink for a delivery errand, not until you're cash-comfortable.
 ### 🎒 GAMMA RULE — you almost never need to dip
 
 Your Gamma is **3×3** and survives death. Every quest item on this card fits:
-secure folder · Skier's wallet · chemical vial · Golden TT (2×1) · graphics card (2×1) ·
-CPU fans and spark plugs (1×1).
+secure folder · Skier's wallet · chemical vial · graphics card (2×1) · CPU fans and
+spark plugs (1×1).
 
 **Pocket quest items into the Gamma the instant you pick them up, then keep playing.** No
 early extract, no babysitting a haul.
@@ -134,7 +137,8 @@ Reshala if he spawns.
 Whatever you don't pick up in raid 1, grab in raid 2.
 
 **Clears if it all goes right:** Punisher P1 · Angry Watchman · Huntsman Trophy *(Reshala
-is RNG — may take more)* · Chemical P1 · Chemical Experiments · Supplements · Private Club
+spawn is RNG — may take more)* · Chemical P1 · Chemical Experiments · Supplements ·
+Private Club
 
 ---
 
