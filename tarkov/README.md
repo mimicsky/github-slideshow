@@ -203,8 +203,19 @@ economy" off the 40k in your pocket. That was in-raid cash. You actually have **
 a full weapon locker, and LL3 with six traders. That's a comfortable account, not a
 struggling one.
 
-**Money:** ₽2,258,350 *(snapshot — will drift, not tracked)* · €872 · $21,304 — kit cost is not a constraint for you. Stop
-running scared kits; you can afford to lose good gear repeatedly.
+**Money:** ₽2,258,350 *(snapshot — will drift, not tracked)*
+
+**Money is a real goal, not a solved problem.** You want to run ~1M kits — that makes
+your bank about **two kits deep**. That's a working balance, not wealth. Treat rouble
+generation as an actual objective alongside the tasks, and never assume a sale is
+"not worth bothering with."
+
+**The wealth lever is the Bitcoin Farm.** It's the only thing that earns while you're
+offline, and it's still locked. Everything else is trading time for roubles.
+
+⚠️ **Tension to resolve:** Bitcoin Farm eats graphics cards, and `Semiconductor Crisis`
+needs 3 GPUs found in raid. Same item, two goals. Quest first — FiR status can't be
+rebought — then farm.
 
 **Trader LLs:**
 
@@ -255,8 +266,9 @@ star — it's not a separate grind, it's the thing your current task list alread
 **3. The four Kappa chains.** Already started; don't let them stall.
 **4. Bosses.** Your own goal, not a Kappa requirement anymore. Reshala's already live in
 Huntsman Trophy — bank them opportunistically as maps come up.
-**5. Money.** Byproduct of the above, but **Bitcoin Farm is the lever** — it's the one
-locked module that pays rent while you sleep.
+**5. Money — a goal in its own right, not a byproduct.** No target number, just "a lot."
+**Bitcoin Farm is the lever** — the only module that earns while you're offline. Getting
+it unlocked and fed is the single highest-value economic move available to you.
 **6. Prestige — LAST, and only when you're truly done.**
 
 ### ⚠️ On prestige — it does wipe you
