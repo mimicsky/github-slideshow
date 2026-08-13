@@ -18,7 +18,7 @@ All four pickups are done. **This raid is only a fight.**
 
 ## 🥇 PRIORITY 1 — THE DORMS ZONE
 
-- **Kill 5 PMCs INSIDE the Dorms zone** → `Angry Watchman`, 0%
+- **Kill 3 PMCs INSIDE the Dorms zone** → `Angry Watchman`, **0/3** *(verified in-game — sources said 5, they were wrong)*
   Both dorm buildings, the guard house, and the ground between them.
   ⚠️ Last raid you killed 5 PMCs elsewhere on Customs and **none counted.** The zone is
   the whole objective.
@@ -109,6 +109,36 @@ plus 10 masks may run long)*
 Three raids clears **Customs entirely** and probably two of three Shoreline tasks.
 Punisher P2's mask collection and Reshala's spawn RNG are the two things most likely to
 push into a fourth trip.
+
+---
+
+## 0b. ✅ VERIFIED OBJECTIVES — ground truth from your screen
+
+**This is the fix for the data problem.** No public database is current for 1.1 (patch is
+~10 days old; community sites lag weeks). Your game is the only accurate source.
+
+So: **every time you open a task for a card, we verify it once and it lands here
+permanently.** No bulk effort — it accumulates from work you're already doing. Over a few
+weeks this becomes a personal, patch-accurate task database that no website has.
+
+Anything in this section beats any lookup I do.
+
+| Task | Verified objective | Source correction |
+|---|---|---|
+| `Angry Watchman` | **3** PMCs in the Dorms zone | sites said 5 |
+| `Chemical - Part 1` | 2 items: folder (train carriage) + item in **Dorm 220** | sites listed only the folder |
+| `Supplements` | chemical vial + **4 respirators** | not documented anywhere |
+| `Punisher - Part 1` | 25 Scavs w/ AKS-74U, map-wide | ✅ matched |
+| `I Need More Power` | 2 generator rooms, one raid, must extract | ✅ matched |
+| `Anesthesia` | 3 trading posts w/ MS2000, must extract | ✅ matched |
+| `The Huntsman Path - Trophy` | kill Reshala only — TT already handed in | sites list 3 objectives |
+| `Chemical Experiments` | place corrugated hose, med lab 2F | renamed from `Spa Tour - Part 7` |
+
+**Known renames in 1.1:** `Angry Watchman` ← `Evil Watchman` · `Chemical Experiments` ←
+`Spa Tour - Part 7`
+
+**Known stale level gates:** sites say Private Club 24, The Courier 52 — both active for
+you well before that.
 
 ---
 
