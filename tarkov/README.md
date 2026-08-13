@@ -41,10 +41,11 @@ AKS-74U) *and* `All This Filth` (95%). Keep the AKS up and both finish this raid
 
 ## 💰 `The Courier` — ON
 
-Buy **1× Trijicon REAP-IR** (~₽500k) — *in-game verified: one scope, not two. Sources say
-two, they're wrong.*
+**Costs nothing.** The REAP-IR **comes with the quest** — Mechanic supplies it. One scope,
+carries in your pockets.
 
-**Carries in your pockets** — no backpack needed, the no-bag run works fine.
+*(Earlier advice to defer this as a ~₽1M sink was wrong on every count: sources said two
+scopes, purchased, not secure-container-able. It's one, free, and pocketable.)*
 
 Candidate drop spots (sources list both; your in-game marker will show which):
 - **Under the base of the yellow crane**, construction site
@@ -231,7 +232,7 @@ Anything in this section beats any lookup I do.
 | `Capturing Outposts` | **12** PMCs | scraped data said 8 |
 | `Chemical Experiments` | place corrugated hose, med lab 2F | renamed from `Spa Tour - Part 7` |
 | `All This Filth` | **kill Scavs, any location** | wiki says "eliminate Shturman 20×" — completely wrong for 1.1 |
-| `The Courier` | **1** REAP-IR, fits in pockets | sources say 2 scopes and no-secure-container |
+| `The Courier` | **1** REAP-IR, **supplied by the quest**, fits in pockets | sources say 2 scopes, bought, non-secure-container |
 | `Every Hunter Knows This` | 2 tripwire spots: **Factory breach room** + **Customs 3-story dorm stairs** | — |
 | `Informed Means Armed` | 2 cameras only: **Woods** sawmill dock + **Interchange** Kiba Arms | gamemaps lists a third on Customs — removed in 1.1 |
 
