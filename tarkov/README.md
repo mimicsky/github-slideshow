@@ -69,8 +69,9 @@ lost for the trip and nothing else. Everything else on this card is keyless for 
 ⚠️ **`Angry Watchman` is listed as `Evil Watchman` on every guide site** — renamed in 1.1.
 Only matters if you look it up, and you shouldn't need to.
 
-**Skipping:** `The Courier` — needs 2× Trijicon REAP-IR thermals placed as drops. Heavy
-rouble sink for a delivery errand, not until you're cash-comfortable.
+**`The Courier`** — 2× Trijicon REAP-IR thermals placed as drops. With ₽2.26M this is
+now genuinely affordable (~1M for the pair). Still not tonight — it competes with nothing
+and pays little — but it's your call, not a money problem.
 
 ### 🎒 GAMMA RULE — you almost never need to dip
 
@@ -115,7 +116,7 @@ be wrong. Grab them on sight and let the in-game task screen do the counting.
 | Item | For | Note |
 |---|---|---|
 | 1× **corrugated hose** | Chemical Experiments | toolboxes, flea, or hideout craft |
-| **Suppressor / suppressed gun** | Punisher P2 | raid 3 is dead without it |
+| ~~Suppressor~~ | Punisher P2 | ✅ **you own an MP5 SD** — nothing to buy |
 | **Health Resort west wing 219 key** *(or 220 key)* | I Need More Power | raid 3 is dead without it |
 | MS2000 marker | Anesthesia | you already have 1 in your special slot — need 1 more placement |
 
@@ -142,7 +143,7 @@ Private Club
 
 ## Raid 3 · SHORELINE
 
-**Bring:** suppressed weapon · MS2000 marker · Health Resort west wing key
+**Bring:** **MP5 SD** · MS2000 marker · Health Resort west wing key
 
 **Priority 1 — `I Need More Power` (33%).** Strict rules, so do it first:
 - Generators in **two** rooms, both in the **same raid**, and you must **extract**.
@@ -171,20 +172,57 @@ push into a fourth trip.
 
 ---
 
+## 0a. Stash policy — NOT tracked
+
+Your stash turns over constantly and you're not going to narrate it. **So I don't track
+inventory.** No counts, no "you have 3 of these." I'll see fragments in raid reports and
+that's fine.
+
+What I *do* keep is the durable stuff below — gear you own that changes what a card can
+ask of you, and quest inputs you should never sell. For anything else, ask
+`keep or sell: <item>` and I'll answer on the spot.
+
+### Gear on hand that matters for cards
+
+- **Suppressed:** MP5 SD — covers Punisher P2, no purchase needed
+- **Rifles:** MDR ×4 · HK 416A5 ×3 · RD-704 · MCX · SA58 · Mk 16 · TX-15 DML · AK-545
+  Short · RPK-16 · NL545 GP · M700 · SR-25 · SR-2M
+- **Armor:** THOR CRV · AVS · TV-110 · Korund-VM · Defender-2 · Thunderbolt · Osprey MK4A
+- **Rigs/packs:** JPC ×2 · Commando · Poyas · LBCR ×2 · Blackjack 50 · 6Sh118 · Berkut · Day Pack
+- **Containers:** Items case · Weapons case · **4× Junk box** · Gamma 3×3
+- **Keys on hand:** LexOs · Iron gate · Key tool *(no Health Resort key seen — check before raid 3)*
+
+---
+
 ## 0. Goals & Where You Actually Are
 
 ### Honest read at level 21
 
-You're not behind on **level** — PvE has no race and 21 is fine. What's actually limiting
-you is **completion rate**: ~110 tasks open, very few finished. Everything you want is
-gated behind finishing tasks, not behind playing more raids.
+**Corrected after seeing the real numbers.** My first read said "cash-poor, underdeveloped
+economy" off the 40k in your pocket. That was in-raid cash. You actually have **₽2.26M**,
+a full weapon locker, and LL3 with six traders. That's a comfortable account, not a
+struggling one.
 
-The supporting signals: ~40k roubles, hideout mostly level 1–2, Bitcoin Farm / Scav Case /
-Gym / Library all locked. That's an underdeveloped economy, and it's downstream of the
-same thing — completions drive trader rep, rep drives LL, LL drives everything.
+**Money:** ₽2,258,350 *(snapshot — will drift, not tracked)* · €872 · $21,304 — kit cost is not a constraint for you. Stop
+running scared kits; you can afford to lose good gear repeatedly.
 
-Caveat: I can't fully grade this without your trader LLs. That one screenshot changes the
-picture more than anything else you could send.
+**Trader LLs:**
+
+| Trader | LL | | Trader | LL |
+|---|---|---|---|---|
+| Prapor | **3** | | Ragman | ~2–3 |
+| Therapist | **3** | | Jaeger | **3** |
+| Skier | **3** | | Ref | **2** |
+| Peacekeeper | **3** | | Fence | **1** |
+| Mechanic | **3** | | | |
+
+**So what's actually holding you back:** nothing but **level and LL4**. You're one loyalty
+tier from Kappa's trader requirement across most of the board, and LL4 needs level 40.
+Completion rate is still the lever — it drives both — but you're better positioned than
+either of us thought.
+
+**The genuinely weak spots:** Fence at LL1 (Kappa wants rep 3.0), Ref at 2, and the
+hideout still mostly level 1–2 with Bitcoin Farm locked. Those are the gaps.
 
 ### 🏆 The Kappa path — reworked in 1.1, and it's now your umbrella goal
 
@@ -193,8 +231,8 @@ The old Collector was a huge item hoard. **1.1.0.0 replaced it.** New requiremen
 | Requirement | You |
 |---|---|
 | Character level **40** | 21 |
-| **LL4 with all traders** | unknown — need that screenshot |
-| **Fence rep 3.0** | unknown |
+| **LL4 with all traders** | LL3 on six · Ragman ~2–3 · **Ref 2** · **Fence 1** |
+| **Fence rep 3.0** | Fence at LL1 — the furthest gap on the board |
 | `Chemical - Part 4` | Part 1 at **66%** ✅ started |
 | `A Shooter Born in Heaven` | **50%** ✅ started |
 | `The Tarkov Shooter - Part 4` | **6%** ✅ started |
