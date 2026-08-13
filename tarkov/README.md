@@ -24,7 +24,10 @@ All four pickups are done. **This raid is only a fight.**
   ⚠️ Last raid you killed 5 PMCs elsewhere on Customs and **none counted.** The zone is
   the whole objective.
 - **Kill Reshala** → `Huntsman Trophy`, 50%. Kill only, nothing to loot.
-  Dorms · new gas · construction by the railroad · Warehouse 4.
+  Spawns: **Dorms 3-story · New Gas · Fortress** *(player-verified)*.
+  ❌ **Not Warehouse 4** — sources claim it, it's wrong.
+  🔗 Fortress is the Scav base area, so a Reshala sweep there doubles as
+  `Capturing Outposts` farming.
 - **Kill Scavs with the AKS-74U** → `Punisher P1`, ~23 to go. Counts map-wide, so keep it
   up while you sweep for Reshala.
 
@@ -222,6 +225,8 @@ Anything in this section beats any lookup I do.
 | `I Need More Power` | 2 generator rooms, one raid, must extract | ✅ matched |
 | `Anesthesia` | 3 trading posts w/ MS2000, must extract | ✅ matched |
 | `The Huntsman Path - Trophy` | kill Reshala only — TT already handed in | sites list 3 objectives |
+| **Reshala spawns** | **Dorms 3-story · New Gas · Fortress** | sites also claim Warehouse 4 and a "construction site" — both wrong |
+| `Capturing Outposts` | 8 PMCs per map, 24 total | search summary said 12 |
 | `Chemical Experiments` | place corrugated hose, med lab 2F | renamed from `Spa Tour - Part 7` |
 
 **Known renames in 1.1:** `Angry Watchman` ← `Evil Watchman` · `Chemical Experiments` ←
