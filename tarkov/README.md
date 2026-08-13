@@ -171,6 +171,71 @@ push into a fourth trip.
 
 ---
 
+## 0. Goals & Where You Actually Are
+
+### Honest read at level 21
+
+You're not behind on **level** — PvE has no race and 21 is fine. What's actually limiting
+you is **completion rate**: ~110 tasks open, very few finished. Everything you want is
+gated behind finishing tasks, not behind playing more raids.
+
+The supporting signals: ~40k roubles, hideout mostly level 1–2, Bitcoin Farm / Scav Case /
+Gym / Library all locked. That's an underdeveloped economy, and it's downstream of the
+same thing — completions drive trader rep, rep drives LL, LL drives everything.
+
+Caveat: I can't fully grade this without your trader LLs. That one screenshot changes the
+picture more than anything else you could send.
+
+### 🏆 The Kappa path — reworked in 1.1, and it's now your umbrella goal
+
+The old Collector was a huge item hoard. **1.1.0.0 replaced it.** New requirements:
+
+| Requirement | You |
+|---|---|
+| Character level **40** | 21 |
+| **LL4 with all traders** | unknown — need that screenshot |
+| **Fence rep 3.0** | unknown |
+| `Chemical - Part 4` | Part 1 at **66%** ✅ started |
+| `A Shooter Born in Heaven` | **50%** ✅ started |
+| `The Tarkov Shooter - Part 4` | **6%** ✅ started |
+| `Sew It Good - Part 4` | Part 1 at 0% |
+
+**Three of the four chains are already in progress.** This is why Kappa is the right north
+star — it's not a separate grind, it's the thing your current task list already points at.
+
+> ⚠️ Verify against the in-game Collector task. Guide sites were already proven stale on
+> level gates, and this rework is recent.
+
+> **Worth knowing before you commit:** post-rework Kappa is reportedly around 3×3 — and
+> your Unheard Gamma is already 3×3. So the container upgrade may be marginal. Chase it
+> as a trophy and a progression spine, not for the slots.
+
+### Goal ladder
+
+**1. Level 40 + LL4 everywhere.** Everything else is downstream. Completions, not raids.
+**2. Fence rep 3.0.** Scav karma and task rep — slow burn, start noticing it now.
+**3. The four Kappa chains.** Already started; don't let them stall.
+**4. Bosses.** Your own goal, not a Kappa requirement anymore. Reshala's already live in
+Huntsman Trophy — bank them opportunistically as maps come up.
+**5. Money.** Byproduct of the above, but **Bitcoin Farm is the lever** — it's the one
+locked module that pays rent while you sleep.
+**6. Prestige — LAST, and only when you're truly done.**
+
+### ⚠️ On prestige — it does wipe you
+
+You were right to be wary. Prestige resets you to **level 1, empty stash, hideout reset,
+quests gone, traders reset.**
+
+You keep: profile stats, achievements, a percentage of skills and weapon mastering, Arena
+rating, and prestige rewards permanently. Each prestige level lets you carry a few more
+items across. Requires **level 55**.
+
+So it's a deliberate new-game-plus, not a bonus. Do Kappa, the bosses and the money
+**first** — prestige is the thing you do when you want to play it all again, not a reward
+you collect along the way.
+
+---
+
 ## 1. How to talk to me
 
 | You say | I do |
