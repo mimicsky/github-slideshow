@@ -564,14 +564,14 @@ The Survivalist Path – Thrifty · Shipping Delay – Part 1 · A Helping Hand 
 
 ### ⭐ Factory (10) — FULL PRE-LOAD
 
-**🛒 Buy before you go:** **AUG** *(you don't own one — One-Way Ticket needs it)* ·
-**3× MS2000 marker** *(Black Swan)*
+**🛒 Buy before you go:** **AUG** *(One-Way Ticket)* · **3× MS2000 marker** *(Black Swan)*
+· **TerraGroup storage keycard** *(Dragnet — price it first, may not be worth run one)*
 
 | # | Task | Trader | What you actually do |
 |---|---|---|---|
 | 1 | **`Chemical - Part 3`** | Skier | Grab the **bright yellow syringe — looks like a pen** ✅*verified* |
 | 2 | **`Every Hunter Knows This`** | Jaeger | Locate tripwire spot in the **breach room** ✅*verified* |
-| 3 | **`Dragnet`** | Jaeger | Grab the **chemical container** at the **TerraGroup warehouse** → hand over |
+| 3 | **`Dragnet`** | Jaeger | Chemical container at the **TerraGroup warehouse** → hand over. ⚠️ **needs a TerraGroup storage keycard — expensive** *(player-flagged; source listed no key at all)* |
 | 4 | **`Possessor`** | Prapor | Grab the **helicopter logbook** → hand over |
 | 5 | **`All Is Revealed`** | Therapist | Take a **chemical sample from the damaged tank container** → hand over |
 | 6 | **`Postman Pat - Part 1`** | Prapor | Grab the **letter off the messenger's body** → extract → hand to Therapist |
@@ -586,8 +586,9 @@ The Survivalist Path – Thrifty · Shipping Delay – Part 1 · A Helping Hand 
   **main exit** — both complete together.
 - **`Scout`, `Postman Pat` and `Exit Here`** all need survive-and-extract. One good run
   covers all three.
-- **Four are simple item grabs** (syringe, chemical container, logbook, letter) — do them
-  on the same loop.
+- **Three are simple item grabs** (syringe, logbook, letter) — one loop, no keys.
+- **`Dragnet` is the exception** — keycard-gated. Price it on flea first; skip it on the
+  first Factory run and decide once you see the cost.
 - **`One-Way Ticket` is the long one.** 15 headshots with a specific gun won't finish in a
   raid; treat it as background across every Factory trip.
 
