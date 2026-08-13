@@ -653,8 +653,14 @@ no task attached.
 [DATE] [MAP] [SURVIVED?] — brought back: … | quest progress: … | sold: … | net: …
 ```
 
-- **First raid** — GPU, PSU, car battery, HDD, flash drive, Cat figurine + hideout
-  hardware. Strong run.
+- **Raid 1 (Customs)** — survived. Picked up **all four**: secure folder, Skier's wallet,
+  chemical vial, and stashed the hose. Only 2 Scav kills. Killed 5 PMCs but **none inside
+  the Dorms zone**, so Angry Watchman stayed at 0%. Partial progress prompt on
+  `Every Hunter Knows This`.
+  Haul: toolset · Bulbex cutters · pressure gauge · awl · nuts · PCB · flash drive ·
+  Iskra ×2 · DVD ×2 · 3-24x42 scope · TGP-A · RK-2 grip · 2 dogtags · stims · AFAKs.
+
+  **Lesson banked:** Angry Watchman PMC kills only count inside the Dorms zone.
 
 ---
 
