@@ -341,8 +341,24 @@ So this is a lookup layer, not a coach:
 
 ### Sourcing — what to trust, and what we proved wrong
 
-I look tasks up rather than answering from memory. tarkov.dev's API is down and direct
-wiki/tarkov.dev fetches are blocked from here, so lookups go through web search.
+I look tasks up rather than answering from memory. Access tested 2026-08-13:
+
+| Source | Status |
+|---|---|
+| **Fandom wiki** | ❌ 403/402 — blocked at the proxy, both WebFetch and curl |
+| tarkov.dev API | ❌ GraphQL server down |
+| tarkov.dev pages | ❌ 403 |
+| tarkovforge, tarkov.help | ❌ 200 but JS shells, no readable content |
+| **gamemaps.net** | ✅ works via curl — full structured quest data |
+| **WebSearch** | ✅ works |
+
+**But gamemaps is pre-1.1.** Validated against known drift: it lists Private Club at
+level 24 and The Courier at 52 (both active for you at 21), and it has **no entry at all**
+for `Chemical Experiments` or `Supplements` — because those are 1.1 tasks.
+
+**So: no reachable source is current for 1.1.** The genuinely current material comes from
+web search surfacing articles explicitly dated to this patch. That's the workflow —
+search, and prefer 1.1-specific results over database sites.
 
 **Confirmed drift in 1.1.0:** at level **21** you have *The Courier* and *Private Club*
 active. Guide sites list those at level **52** and **24**. Quests don't appear before
