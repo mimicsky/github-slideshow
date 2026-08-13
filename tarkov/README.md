@@ -117,7 +117,7 @@ be wrong. Grab them on sight and let the in-game task screen do the counting.
 |---|---|---|
 | 1× **corrugated hose** | Chemical Experiments | toolboxes, flea, or hideout craft |
 | ~~Suppressor~~ | Punisher P2 | ✅ **you own an MP5 SD** — nothing to buy |
-| **Health Resort west wing 219 key** *(or 220 key)* | I Need More Power | raid 3 is dead without it |
+| **Health Resort west wing 219 key** *(or 220)* | I Need More Power | ⚠️ you own **306** — wrong room, wrong floor. Still need to buy |
 | MS2000 marker | Anesthesia | you already have 1 in your special slot — need 1 more placement |
 
 ---
@@ -190,7 +190,7 @@ ask of you, and quest inputs you should never sell. For anything else, ask
 - **Armor:** THOR CRV · AVS · TV-110 · Korund-VM · Defender-2 · Thunderbolt · Osprey MK4A
 - **Rigs/packs:** JPC ×2 · Commando · Poyas · LBCR ×2 · Blackjack 50 · 6Sh118 · Berkut · Day Pack
 - **Containers:** Items case · Weapons case · **4× Junk box** · Gamma 3×3
-- **Keys on hand:** LexOs · Iron gate · Key tool *(no Health Resort key seen — check before raid 3)*
+- **Keys on hand:** LexOs · Iron gate · Key tool · **Health Resort west wing 306** *(3rd floor — NOT the 219/220 needed for I Need More Power)*
 
 ---
 
