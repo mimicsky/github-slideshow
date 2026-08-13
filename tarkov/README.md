@@ -10,13 +10,17 @@
 
 # ▶ RAID 3 — CUSTOMS (finish it)
 
-**Bring:** AKS-74U · Dorm 220 key · **Company director's room key** *(you have it — Gamma)*
+**Bring:** AKS-74U · Dorm 220 key · Company director's key · **grenades ×3+**
+
+> 💣 **Grenades are mandatory for Reshala.** His guards are the actual fight — they hold
+> dorm rooms and stairwells and will trade you down in a doorway. Frag the rooms before
+> entering. *(Learned the hard way, raid 3.)*
 
 Seven Customs tasks live. Six are doable this raid.
 
 | Task | At | What's left |
 |---|---|---|
-| `All This Filth…` | **95%** | **kill Scavs** — any location. Ticks off the same kills as Punisher |
+| ~~`All This Filth…`~~ | ✅ **DONE** | |
 | `The Punisher - Part 1` | **76%** | **6 Scav kills** with the AKS-74U, map-wide |
 | ~~`Every Hunter Knows This`~~ | 50% | ✅ **Customs half done** — remaining objective is on **Factory** |
 | `The Huntsman Path - Trophy` | 50% | **kill Reshala** — Dorms 3-story · New Gas · Fortress |
@@ -616,7 +620,8 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 - **Chemical Experiments** — Customs ✅
 - **Private Club** — Customs ✅
 - **Chemical – Part 1** — Customs ✅
-- **Chemical – Part 2** — Customs ✅ *(second item was behind **Dorm room 220** — key
+- **Chemical – Part 2** — Customs ✅
+- **All This Filth…** ✅ *(second item was behind **Dorm room 220** — key
   bought on flea. You own that key now, it's reusable.)*
 
 ---
@@ -754,6 +759,9 @@ no task attached.
 ```
 [DATE] [MAP] [SURVIVED?] — brought back: … | quest progress: … | sold: … | net: …
 ```
+
+- **Raid 3 (Customs)** — **died to Reshala.** Closed `All This Filth`. Lesson: bring
+  grenades — the guards hold the rooms, not Reshala himself.
 
 - **Raid 2 (Customs)** — survived. Cleared `Chemical - Part 2`, all 3 Customs cameras for
   `Is This a Reference`, and the `Chumming` chain stash. Progress: Punisher **19/25** ·
