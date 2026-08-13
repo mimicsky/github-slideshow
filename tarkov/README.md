@@ -18,7 +18,7 @@ Seven Customs tasks live. Six are doable this raid.
 |---|---|---|
 | `All This Filth…` | **95%** | **kill Scavs** — any location. Ticks off the same kills as Punisher |
 | `The Punisher - Part 1` | **76%** | **6 Scav kills** with the AKS-74U, map-wide |
-| `Every Hunter Knows This` | 50% | tripwire installation spot |
+| ~~`Every Hunter Knows This`~~ | 50% | ✅ **Customs half done** — remaining objective is on **Factory** |
 | `The Huntsman Path - Trophy` | 50% | **kill Reshala** — Dorms 3-story · New Gas · Fortress |
 | `The Huntsman Path - Angry Watchman` | 33% | **2 more PMCs**, inside the Dorms zone |
 | `Capturing Outposts` | 16% | **10 more PMCs** at the Scav base |
@@ -221,6 +221,7 @@ Anything in this section beats any lookup I do.
 | `Capturing Outposts` | **12** PMCs | scraped data said 8 |
 | `Chemical Experiments` | place corrugated hose, med lab 2F | renamed from `Spa Tour - Part 7` |
 | `All This Filth` | **kill Scavs, any location** | wiki says "eliminate Shturman 20×" — completely wrong for 1.1 |
+| `Every Hunter Knows This` | 2 tripwire spots: **Factory breach room** + **Customs 3-story dorm stairs** | — |
 | `Informed Means Armed` | 2 cameras only: **Woods** sawmill dock + **Interchange** Kiba Arms | gamemaps lists a third on Customs — removed in 1.1 |
 
 **Known renames in 1.1:** `Angry Watchman` ← `Evil Watchman` · `Chemical Experiments` ←
@@ -550,11 +551,12 @@ Disease History — *all 0%*
 The Huntsman Path – Woods Keeper · Swift · Steady Signal · Metal Birds ·
 The Survivalist Path – Thrifty · Shipping Delay – Part 1 · A Helping Hand — *all 0%*
 
-### ⭐ Factory (9) — strongest next map after Customs
+### ⭐ Factory (10) — strongest next map after Customs
 
 | Task | Note |
 |---|---|
 | **`Chemical - Part 3`** 🆕 | **bright yellow syringe, looks like a pen.** Kappa chain |
+| **`Every Hunter Knows This`** | tripwire spot in the **breach room** — 50%, Customs half done |
 | Dragnet | |
 | Scout | find all 3 Factory extracts (+ Night Factory) |
 | Black Swan | mark 3 heat exchangers w/ MS2000 (+ Night Factory) |
@@ -564,7 +566,7 @@ The Survivalist Path – Thrifty · Shipping Delay – Part 1 · A Helping Hand 
 | One-Way Ticket | |
 | Postman Pat – Part 1 | letter on messenger's body (+ Night Factory) |
 
-**Why Factory next:** smallest map in the game, short raids, and nine tasks stacked on it.
+**Why Factory next:** smallest map in the game, short raids, and ten tasks stacked on it.
 Highest task-per-minute on your whole board. Several also want **Night Factory**, so plan
 a night run too.
 
