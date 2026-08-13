@@ -161,6 +161,32 @@ push into a fourth trip.
 
 ---
 
+## 0d. 👹 BOSSES — your "kill them all" goal
+
+Locations from eftboss.com. **Live spawn % is JS-rendered so I can't read it — check
+[eftboss.com](https://eftboss.com) yourself before a hunt and tell me the number**, and
+I'll fold it into the card.
+
+| Boss | Map | Where |
+|---|---|---|
+| **Reshala** | Customs | Dorms 3-story · Gas Station · Stronghold/Fortress ← *active in Trophy* |
+| Killa | Interchange | Mall |
+| Glukhar | Reserve | |
+| Shturman | Woods | Sawmill |
+| Sanitar | Shoreline | Resort · Pier |
+| Tagilla | Factory, Interchange | |
+| Kaban | Streets of Tarkov | |
+| Kollontay | Streets, Ground Zero | |
+| Zryachiy | Lighthouse | Island |
+| The Goons | Roaming | Customs · Woods · Shoreline · Lighthouse |
+
+**Overlaps worth planning around:**
+- **Sanitar is on Shoreline** — raid 3 territory. Free progress if he spawns.
+- **The Goons roam Customs, Woods, Shoreline, Lighthouse** — four maps you're already
+  working. Bank them opportunistically rather than hunting.
+
+---
+
 ## 0c. 🗺 MULTI-MAP TASKS — the trip-wasters
 
 These don't live on one map. Miss a piece and you go back later for one objective.
