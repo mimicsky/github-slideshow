@@ -11,6 +11,7 @@
 # ▶ RAID 2 — CUSTOMS, DORMS
 
 **Buy first:** Company director's room key · **3× Golden neck chain**
+*(WI-FI camera only if you confirm `Is This a Reference` still wants one on Customs)*
 **Bring:** AKS-74U · Dorm 220 key · director's room key · the 3 chains
 
 All four pickups are done. **This raid is only a fight.**
@@ -66,8 +67,12 @@ and Shoreline). After Angry Watchman's 3 in Dorms, move to the Stronghold and ke
 **`Every Hunter Knows This`** — locate a **tripwire installation spot** on Customs. You
 already got a partial prompt for this here.
 
-**`Informed Means Armed`** + **`Is This a Reference`** — both want a **WI-FI camera**
-installed on Customs (Informed's watches the **road to the port**). Buy 2 cameras.
+**`Is This a Reference`** — *may* want a WI-FI camera on Customs. ⚠️ **Unverified** — same
+stale source that got Informed Means Armed wrong. Check the wiki before buying a camera.
+
+❌ **`Informed Means Armed` — NOT on Customs.** Wiki-verified: only 2 objectives, both
+elsewhere — sawmill dock on **Woods**, Kiba Arms entrance on **Interchange**. The old
+Customs "road to the port" camera was removed in 1.1.
 
 **`Seizing the Initiative`** — transit to Shoreline. ⚠️ **Not this raid** — transit
 continues the raid, so a loaded run stays at risk. Extract normally with your loot; the
@@ -205,7 +210,7 @@ These don't live on one map. Miss a piece and you go back later for one objectiv
 | `Is This a Reference` | Fence | **all 9 maps** — 27 objectives, WI-FI cameras everywhere |
 | `Needle in a Haystack` | Mechanic | Ground Zero · Interchange · Streets · Shoreline |
 | `Chumming` | Skier | Interchange · **Customs** · Woods |
-| `Informed Means Armed` | Skier | Woods · **Customs** · Interchange |
+| `Informed Means Armed` | Skier | Woods · Interchange — **no Customs piece** (wiki-verified) |
 | `Capturing Outposts` | Prapor | **Customs** · Woods · Shoreline |
 | `Every Hunter Knows This` | Jaeger | Factory · **Customs** |
 | `Seizing the Initiative` | Peacekeeper | **Customs → Shoreline** (transit) |
@@ -262,6 +267,7 @@ Anything in this section beats any lookup I do.
 | **Reshala spawns** | **Dorms 3-story · New Gas · Fortress** | sites also claim Warehouse 4 and a "construction site" — both wrong |
 | `Capturing Outposts` | 8 PMCs per map, 24 total | search summary said 12 |
 | `Chemical Experiments` | place corrugated hose, med lab 2F | renamed from `Spa Tour - Part 7` |
+| `Informed Means Armed` | 2 cameras only: **Woods** sawmill dock + **Interchange** Kiba Arms | gamemaps lists a third on Customs — removed in 1.1 |
 
 **Known renames in 1.1:** `Angry Watchman` ← `Evil Watchman` · `Chemical Experiments` ←
 `Spa Tour - Part 7`
