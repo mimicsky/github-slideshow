@@ -8,104 +8,31 @@
 
 ---
 
-# ▶ NEXT RAID — CUSTOMS, DORMS
+# ▶ RAID 2 — CUSTOMS, DORMS
 
-**Bring:** AKS-74U (required for Punisher) · 1× corrugated hose (cheap — toolboxes, flea, or hideout craft) · **no keys needed**
+**Bring:** AKS-74U · Dorm 220 key *(you own it — reusable, worth having)*
 
-📍 [tarkov.dev/map/customs](https://tarkov.dev/map/customs) — filter by task name for pins.
-
----
-
-## 🥇 PRIORITY 1 — DORMS
-
-**Everything else on this card is optional. This is the raid.**
-
-Get to Dorms whenever your spawn allows — first, last, doesn't matter. Once there, stay
-and fight. Three tasks feed off the same fight:
-
-- Kill **Scavs with the AKS-74U** → Punisher P1, 40% → 25 total
-- Kill **5 PMCs inside the Dorms zone** — both dorm buildings, guard house, ground
-  between. AI PMCs on PvE → Angry Watchman, 0%
-- **Kill Reshala** → Huntsman Trophy, 50%. Golden TT is already handed in, so the kill is
-  all that's left — no item to carry or protect.
-  Spawns: **Dorms · new gas station · construction site by the railroad · Warehouse 4.**
-  If he's not at Dorms, sweep the other three — Scav kills count map-wide, so a hunt
-  costs you nothing.
-
-Punisher needs ~15 more kills — that's likely more than one raid. Dorms is the anchor
-until it's done.
+All four pickups are done. **This raid is only a fight.**
 
 ---
 
-## 🥈 IF YOU'RE NEAR IT — opportunistic, in value order
+## 🥇 PRIORITY 1 — THE DORMS ZONE
 
-Don't route for these. Grab them if your spawn or your exit puts you nearby.
+- **Kill 5 PMCs INSIDE the Dorms zone** → `Angry Watchman`, 0%
+  Both dorm buildings, the guard house, and the ground between them.
+  ⚠️ Last raid you killed 5 PMCs elsewhere on Customs and **none counted.** The zone is
+  the whole objective.
+- **Kill Reshala** → `Huntsman Trophy`, 50%. Kill only, nothing to loot.
+  Dorms · new gas · construction by the railroad · Warehouse 4.
+- **Kill Scavs with the AKS-74U** → `Punisher P1`, ~23 to go. Counts map-wide, so keep it
+  up while you sweep for Reshala.
 
-**a. `Chemical - Part 1`** — closest to done at 66%, highest value pickup
-**b. `Supplements` + `Chemical Experiments`** — same building, two tasks one stop
-**c. `Private Club`** — furthest from done, lowest priority
+## 👁 GRAB ON SIGHT
 
-### Where they are
+**Respirator ×3** ← confirmed, that's all `Supplements` still needs
+Graphics card · CPU fan · car battery · spark plug
 
-| # | Task name to search | What | My note on where |
-|---|---|---|---|
-| 1 | **`Chemical - Part 1`** | grab secure folder | isolated train carriage, west/boiler side, between ZB-1012 and ZB-1011 extracts. Under brick pallet NW · under pallet SE · wall/pallet NE |
-| 2 | **`Private Club`** | grab Skier's wallet | Warehouse 17, 2nd floor room. 4 spawns: floor under the shelf by the door · floor under the table · on the table · behind the TV on the desk |
-| 3 
-| 4 | **`Chemical Experiments`** | **place** corrugated hose | any table in the experiments area, **same building as #3**, 2nd floor |
-
-### 🔑 Keys — none needed
-
-No source lists a key for any of the four. The lab building and the train carriage are
-open access, and Warehouse 17's second floor isn't gated as far as any guide shows.
-
-Caveat I can't clear from here: absence of a mention isn't proof. **Warehouse 17** is the
-only one I'd hold any doubt on — if you get there and it's locked, that's `Private Club`
-lost for the trip and nothing else. Everything else on this card is keyless for certain.
-
-> `Chemical Experiments` is the renamed **`Spa Tour - Part 7`** — if a guide gives you
-> nothing under the new name, search the old one.
-
-⚠️ **`Angry Watchman` is listed as `Evil Watchman` on every guide site** — renamed in 1.1.
-Only matters if you look it up, and you shouldn't need to.
-
-**`The Courier`** — 2× Trijicon REAP-IR thermals placed as drops. With ₽2.26M this is
-now genuinely affordable (~1M for the pair). Still not tonight — it competes with nothing
-and pays little — but it's your call, not a money problem.
-
-### 🎒 GAMMA RULE — you almost never need to dip
-
-Your Gamma is **3×3** and survives death. Every quest item on this card fits:
-secure folder · Skier's wallet · chemical vial · graphics card (2×1) · CPU fans and
-spark plugs (1×1).
-
-**Pocket quest items into the Gamma the instant you pick them up, then keep playing.** No
-early extract, no babysitting a haul.
-
-Two exceptions:
-- **Car batteries don't fit** — bulky, and genuinely at risk in your backpack.
-- **Items you're carrying in to place** (corrugated hose) may not be allowed in a secure
-  container — The Courier's scope explicitly isn't. Carry the hose in your rig or pack.
-
-Also worth knowing: **Punisher Scav kills count anywhere on Customs**, not just Dorms.
-Only the 5 PMC kills are zone-locked. Keep the AKS-74U up while you roam for pickups and
-the counter keeps moving.
-
-### 👁 WATCH LIST — grab on sight, any raid, never sell
-
-Quest inputs that must be **found in raid**. Selling one throws away the FiR status.
-
-**Graphics card · CPU fan · car battery · spark plug · respirator ×3 ← confirmed count**
-
-*(for `Semiconductor Crisis`, `Car Repair`, `Supplements`)*
-
-**No counts tracked.** You have four junkboxes I've never seen, so any tally I kept would
-be wrong. Grab them on sight and let the in-game task screen do the counting.
-
-> If you ever want real numbers, one screenshot of the junkboxes and I can tell you what
-> you've already got and what to stop bothering with. Entirely optional.
-
-> One raid, one area, six tasks moving, all of it shooting and looting.
+Gamma everything except car batteries.
 
 ---
 
