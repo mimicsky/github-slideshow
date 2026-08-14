@@ -693,10 +693,29 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 > killed the other. Before completing anything that reads like a "side you're picking,"
 > check whether it locks out something else. This will happen again.
 
-### 🆕 New — not yet placed on any card
+### 🆕 New — researched
 
-`The Tarkov Butcher` · `King of the Rooftops` · `Job for a Patriot` · `A Fuel Matter` ·
-`Audiophile` · `Know Your Place` · `Booze` · `Drip Out - Part 1` *(second item was behind **Dorm room 220** — key
+| Task | Trader | Map | What you do |
+|---|---|---|---|
+| **`The Tarkov Butcher`** | Therapist | Ground Zero → Shoreline | Chemical container from the **truck with hanging meat carcasses** on Ground Zero → stash it in the **ambulance by the cottages** on Shoreline *(interact with the bush next to it)*. **Rewards a Key case** |
+| **`A Fuel Matter`** | Ragman | Reserve | Mark **2 groups of fuel tanks** with MS2000 → survive & extract |
+| **`Audiophile`** | Ragman | Streets | Find the **musician gathering spot** → grab the **engraved guitar pick** → hand over |
+| **`Know Your Place`** | Ragman | Streets → Interchange | **5 kills on Streets → transit → 5 kills on Interchange, ALL IN ONE RAID** |
+| **`Job for a Patriot`** | Prapor | Lighthouse/Customs/Reserve | **10 PMCs with an AK-12** + its **proprietary suppressor** + **PS-320 scope** |
+| **`Drip Out - Part 1`** | Ragman | Reserve / Labs | **Kill 100 Raiders** + hand over **50 FiR WARTECH items** |
+| **`Booze`** | Ragman | any | Collect FiR: **10 Tarkovskaya vodka · 10 Dan Jackiel whiskey · 3 canisters purified water · 20 Pevko Light beer** |
+| **`King of the Rooftops`** | ? | ? | ❓ **undocumented anywhere — send me the in-game text** |
+
+### ⚡ Act on these now
+
+- **`Booze` — start hoarding immediately.** 43 drink items found-in-raid. This is a
+  months-long passive collection; every one you sell today is one you re-find later.
+- **`Drip Out` — stop selling WARTECH gear.** You need 50 FiR pieces, and you already
+  own a WARTECH TV-110 plate carrier.
+- **`Job for a Patriot` — you looted an AK-12.** Keep it, and buy the **AK-12 proprietary
+  suppressor + PS-320 scope** to build the required gun.
+- **MS2000 demand is stacking:** Anesthesia (1) · Black Swan (3) · A Fuel Matter (2).
+  **Buy 6.** *(second item was behind **Dorm room 220** — key
   bought on flea. You own that key now, it's reusable.)*
 
 ---
