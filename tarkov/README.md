@@ -22,7 +22,7 @@ Seven Customs tasks live. Six are doable this raid.
 |---|---|---|
 | ~~`All This Filth…`~~ | ✅ **DONE** | |
 | ~~`The Punisher - Part 1`~~ | ✅ **DONE** | |
-| ~~`Every Hunter Knows This`~~ | 50% | ✅ **Customs half done** — remaining objective is on **Factory** |
+| `Every Hunter Knows This` | 50% | 2 tripwire spots — **Factory breach room** + **Customs 3-story dorm stairs**. *Which half is done: unconfirmed* |
 | ~~`The Huntsman Path - Trophy`~~ | ✅ **DONE** | Reshala killed |
 | `The Huntsman Path - Angry Watchman` | 33% | **2 more PMCs**, inside the Dorms zone |
 | `Capturing Outposts` | 16% | **10 more PMCs** at the Scav base |
@@ -584,9 +584,9 @@ The Survivalist Path – Thrifty · Shipping Delay – Part 1 · A Helping Hand 
 | 1 | **`Chemical - Part 3`** | Skier | Grab the **bright yellow syringe — looks like a pen** ✅*verified* |
 | 2 | **`Every Hunter Knows This`** | Jaeger | Locate tripwire spot in the **breach room** ✅*verified* |
 | 3 | **`Dragnet`** | Jaeger | Chemical container at the **TerraGroup warehouse** → hand over. ⚠️ **needs a TerraGroup storage keycard — expensive** *(player-flagged; source listed no key at all)* |
-| 4 | **`Possessor`** | Prapor | Grab the **helicopter logbook** → hand over |
-| 5 | **`All Is Revealed`** | Therapist | Take a **chemical sample from the damaged tank container** → hand over |
-| 6 | **`Postman Pat - Part 1`** | Prapor | Grab the **letter off the messenger's body** → extract → hand to Therapist |
+| 4 | ~~**`Possessor`**~~ | Prapor | ✅ **DONE** |
+| 5 | ~~**`All Is Revealed`**~~ | Therapist | ✅ **DONE** |
+| 6 | ~~**`Postman Pat - Part 1`**~~ | Prapor | ✅ **DONE** |
 | 7 | **`Scout`** | Mechanic | **Find all 3 Factory extractions**, then survive & extract |
 | 8 | **`Exit Here`** | Skier | **Extract through the main exit** |
 | 9 | **`Black Swan`** | Mechanic | **Mark 3 heat exchangers** with MS2000 markers |
@@ -614,7 +614,7 @@ rate, **check each against your in-game text before committing to it.**
 | Task | Note |
 |---|---|
 | **`Chemical - Part 3`** 🆕 | **bright yellow syringe, looks like a pen.** Kappa chain |
-| **`Every Hunter Knows This`** | tripwire spot in the **breach room** — 50%, Customs half done |
+| **`Every Hunter Knows This`** | tripwire spot in the **breach room** — 50%, unconfirmed which half |
 | Dragnet | |
 | Scout | find all 3 Factory extracts (+ Night Factory) |
 | Black Swan | mark 3 heat exchangers w/ MS2000 (+ Night Factory) |
@@ -667,7 +667,9 @@ Capturing Outposts · Weapons Circulation · Regulated Materials · Is This a Re
 Postman Pat – Part 2 · Informed Means Armed · Seizing the Initiative · Rough Tarkov ·
 Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 
-### Completed
+### Completed — *only what you've explicitly confirmed*
+
+**Rule: nothing gets marked done unless you say so.** No inference from progress prompts.
 
 - Break the Deal — Customs
 - **Chemical Experiments** — Customs ✅
@@ -676,7 +678,25 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 - **Chemical – Part 2** — Customs ✅
 - **All This Filth…** ✅
 - **The Huntsman Path – Trophy** ✅ *(Reshala killed)*
-- **The Punisher – Part 1** ✅ *(second item was behind **Dorm room 220** — key
+- **The Punisher – Part 1** ✅
+- **Postman Pat – Part 1** ✅ *(Prapor)*
+- **Postman Pat – Part 2** ✅ *(Therapist)*
+- **Possessor** ✅
+- **All Is Revealed** ✅
+- **A Healthy Alternative** ✅
+
+### ❌ Failed
+
+- **`One Less Loose End`** — failed by completing **`A Healthy Alternative`**.
+
+> ⚠️ **Mutually exclusive quests exist.** These two were a choice branch, and taking one
+> killed the other. Before completing anything that reads like a "side you're picking,"
+> check whether it locks out something else. This will happen again.
+
+### 🆕 New — not yet placed on any card
+
+`The Tarkov Butcher` · `King of the Rooftops` · `Job for a Patriot` · `A Fuel Matter` ·
+`Audiophile` · `Know Your Place` · `Booze` · `Drip Out - Part 1` *(second item was behind **Dorm room 220** — key
   bought on flea. You own that key now, it's reusable.)*
 
 ---
