@@ -808,8 +808,11 @@ no task attached.
 [DATE] [MAP] [SURVIVED?] — brought back: … | quest progress: … | sold: … | net: …
 ```
 
-- **Raid 6 (Customs)** — died, **lost the quest REAP-IR** (carried in pockets).
-  Lesson: quest items go in the Gamma if they'll fit; pockets are not safe storage.
+- **Raid 6 (Customs)** — killed Reshala again, was loaded, **went MIA at the wrong
+  extract.** Lost the kit and the quest REAP-IR.
+  Two lessons: quest items belong in the Gamma, not pockets. And **pick your extract at
+  raid start from the map screen** — Customs exits are spawn-dependent, and defaulting to
+  a familiar one while loaded is how good raids die.
 
 - **Raid 5 (Customs)** — **survived, killed Reshala again** (TT Gold looted). Finished
   `Punisher P1`, obtained the TerraGroup shipment list.
