@@ -41,8 +41,12 @@ AKS-74U) *and* `All This Filth` (95%). Keep the AKS up and both finish this raid
 
 ## 💰 `The Courier` — ON
 
-**Costs nothing.** The REAP-IR **comes with the quest** — Mechanic supplies it. One scope,
-carries in your pockets.
+**Costs nothing.** The REAP-IR **comes with the quest** — Mechanic supplies it. One scope.
+
+⚠️ **LOST ONE TO DEATH — it was in pockets.** Pockets don't survive; the Gamma does.
+**Next attempt: try the Gamma first.** Sources claim the scope can't go in a secure
+container, but those sources were wrong about the count, the cost and the carry, so test
+it yourself. If it fits, this stops being a risk.
 
 *(Earlier advice to defer this as a ~₽1M sink was wrong on every count: sources said two
 scopes, purchased, not secure-container-able. It's one, free, and pocketable.)*
@@ -803,6 +807,9 @@ no task attached.
 ```
 [DATE] [MAP] [SURVIVED?] — brought back: … | quest progress: … | sold: … | net: …
 ```
+
+- **Raid 6 (Customs)** — died, **lost the quest REAP-IR** (carried in pockets).
+  Lesson: quest items go in the Gamma if they'll fit; pockets are not safe storage.
 
 - **Raid 5 (Customs)** — **survived, killed Reshala again** (TT Gold looted). Finished
   `Punisher P1`, obtained the TerraGroup shipment list.
