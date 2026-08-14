@@ -192,7 +192,7 @@ These don't live on one map. Miss a piece and you go back later for one objectiv
 | `Special Comms` | Prapor | Woods → Reserve (transit) |
 | `Rough Tarkov` | Jaeger | Woods · Ground Zero |
 | `Scout` | Mechanic | Factory · Night Factory |
-| `Black Swan` | Mechanic | Factory · Night Factory |
+| `Black Swan` | Mechanic | Factory · Night Factory — **1 marker, not 3** |
 | `Postman Pat - Part 1` | Prapor | Factory · Night Factory |
 
 ### Customs pieces — do these while you're there
@@ -237,7 +237,9 @@ Anything in this section beats any lookup I do.
 | `Supplements` | chemical vial + **4 respirators** | not documented anywhere |
 | `Punisher - Part 1` | 25 Scavs w/ AKS-74U, map-wide | ✅ matched |
 | `I Need More Power` | 2 generator rooms, one raid, must extract | ✅ matched |
-| `Anesthesia` | 3 trading posts w/ MS2000, must extract | ✅ matched |
+| `Anesthesia` | 3 trading posts w/ MS2000 on **Shoreline**, must extract | ✅ matched |
+| `Black Swan` | **1** heat exchanger marked | sources say 3 |
+| `A Fuel Matter` | 2 fuel tank groups on **Reserve** | ✅ matched |
 | `The Huntsman Path - Trophy` | kill Reshala only — TT already handed in | sites list 3 objectives |
 | **Reshala spawns** | **Dorms 3-story · New Gas · Fortress** | sites also claim Warehouse 4 and a "construction site" — both wrong |
 | `Capturing Outposts` | **12** PMCs | scraped data said 8 |
@@ -589,7 +591,7 @@ The Survivalist Path – Thrifty · Shipping Delay – Part 1 · A Helping Hand 
 | 6 | ~~**`Postman Pat - Part 1`**~~ | Prapor | ✅ **DONE** |
 | 7 | **`Scout`** | Mechanic | **Find all 3 Factory extractions**, then survive & extract |
 | 8 | **`Exit Here`** | Skier | **Extract through the main exit** |
-| 9 | **`Black Swan`** | Mechanic | **Mark 3 heat exchangers** with MS2000 markers |
+| 9 | **`Black Swan`** | Mechanic | **Mark 1 heat exchanger** with an MS2000 ✅*player-verified — source said 3* |
 | 10 | **`One-Way Ticket`** | Peacekeeper | **15 headshot kills using an AUG** ⚠️ needs the gun |
 
 ### 🔗 Overlaps that save you trips
@@ -714,8 +716,8 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
   own a WARTECH TV-110 plate carrier.
 - **`Job for a Patriot` — you looted an AK-12.** Keep it, and buy the **AK-12 proprietary
   suppressor + PS-320 scope** to build the required gun.
-- **MS2000 demand is stacking:** Anesthesia (1) · Black Swan (3) · A Fuel Matter (2).
-  **Buy 6.** *(second item was behind **Dorm room 220** — key
+- **MS2000 demand:** Black Swan **1** · A Fuel Matter **2** *(Reserve)* · Anesthesia **1**
+  *(Shoreline)* = **4 total**, and you already own one. **Buy 3.** *(second item was behind **Dorm room 220** — key
   bought on flea. You own that key now, it's reusable.)*
 
 ---
