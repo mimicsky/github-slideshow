@@ -39,7 +39,14 @@ under desk)
 **Scav kills do double duty:** every one counts toward `Punisher P1` (6 left, needs the
 AKS-74U) *and* `All This Filth` (95%). Keep the AKS up and both finish this raid.
 
-## 💰 `The Courier` — ON
+## 🚫 `The Courier` — BLOCKED
+
+**Scope lost to death, and it can't be re-bought.** Parked until you either reach
+Mechanic LL4 or loot a REAP-IR in raid (Goons and high-tier PMCs drop them).
+
+*Original notes below.*
+
+## `The Courier` — reference
 
 **Costs nothing.** The REAP-IR **comes with the quest** — Mechanic supplies it. One scope.
 
