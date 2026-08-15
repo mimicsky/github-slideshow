@@ -206,7 +206,7 @@ I'll fold it into the card.
 | **The Goons** ×3 | Roaming | Customs · Woods · Shoreline · Lighthouse | ✅ |
 | **Partizan** | Woods / Ground Zero | roamer | ✅ |
 | **Reshala** | Customs | Dorms 3-story · Gas Station · Stronghold/Fortress | ✅ |
-| **Tagilla** | **Factory** (also Interchange) | **~50% spawn — expect him most Factory raids** | ❌ |
+| **Tagilla** | **Factory** (also Interchange) | ~50% spawn | ✅ *(5.56 straight through him)* |
 | Killa | Interchange | Mall | ❌ |
 | Glukhar | Reserve | | ❌ |
 | Shturman | Woods | Sawmill | ❌ |
@@ -215,7 +215,7 @@ I'll fold it into the card.
 | Kollontay | Streets, Ground Zero | | ❌ |
 | Zryachiy | Lighthouse | Island | ❌ |
 
-**3 down, 8 to go.** The Goons were the hard one — three at once, roaming, and you've
+**4 down, 7 to go.** The Goons were the hard one — three at once, roaming, and you've
 already done them.
 
 **Reading eftboss:** the per-location split is evenly divided across his spawns
@@ -630,7 +630,12 @@ Disease History — *all 0%*
 The Huntsman Path – Woods Keeper · Swift · Steady Signal · Metal Birds ·
 The Survivalist Path – Thrifty · Shipping Delay – Part 1 · A Helping Hand — *all 0%*
 
-### ⭐ Factory (10) — FULL PRE-LOAD
+### ⭐ Factory — essentially CLEARED
+
+Only `One-Way Ticket` (15 AUG headshots) remains open; `Dragnet` is shelved on cost.
+Tagilla killed here.
+
+### Factory (10) — full pre-load, for reference
 
 **🛒 Buy before you go:** **AUG** *(One-Way Ticket)* · **3× MS2000 marker** *(Black Swan)*
 · **TerraGroup storage keycard** *(Dragnet — price it first, may not be worth run one)*
@@ -643,7 +648,7 @@ The Survivalist Path – Thrifty · Shipping Delay – Part 1 · A Helping Hand 
 | 4 | ~~**`Possessor`**~~ | Prapor | ✅ **DONE** |
 | 5 | ~~**`All Is Revealed`**~~ | Therapist | ✅ **DONE** |
 | 6 | ~~**`Postman Pat - Part 1`**~~ | Prapor | ✅ **DONE** |
-| 7 | **`Scout`** | Mechanic | **Find all 3 Factory extractions**, then survive & extract |
+| 7 | ~~**`Scout`**~~ | Mechanic | ✅ **DONE** |
 | 8 | **`Exit Here`** | Skier | **Extract through the main exit** |
 | 9 | **`Black Swan`** | Mechanic | **Mark 1 heat exchanger** with an MS2000 ✅*player-verified — source said 3* |
 | 10 | **`One-Way Ticket`** | Peacekeeper | **15 headshot kills using an AUG** ⚠️ needs the gun |
@@ -745,6 +750,7 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 - **Black Swan** ✅
 - **Every Hunter Knows This** ✅
 - **Supplements** ✅
+- **Scout** ✅
 
 ### ❌ Failed
 
