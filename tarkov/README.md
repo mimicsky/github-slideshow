@@ -38,6 +38,18 @@ territory).
 
 ---
 
+# 📌 MILESTONES — things that unlock at a level
+
+### Level 30
+- **Lion statue barter (~₽86k) → documents case.** Cheap permanent stash relief.
+- **TerraGroup keycard purchasable** *(₽3.5–4.5M)* — unblocks `Dragnet` **if** you're rich
+  enough by then. Still poor value; revisit, don't commit.
+
+### Level 42
+- **Ragman LL4** — the real Kappa level gate, not 40.
+
+---
+
 # 🏆 Kappa requirements — community-confirmed (post-1.1)
 
 - `A Shooter Born in Heaven` — Mechanic
@@ -627,7 +639,7 @@ The Survivalist Path – Thrifty · Shipping Delay – Part 1 · A Helping Hand 
 |---|---|---|---|
 | 1 | **`Chemical - Part 3`** | Skier | Grab the **bright yellow syringe — looks like a pen** ✅*verified* |
 | 2 | **`Every Hunter Knows This`** | Jaeger | Locate tripwire spot in the **breach room** ✅*verified* |
-| 3 | 🚫 **`Dragnet`** | Jaeger | **SHELVED — keycard is ₽3.5–4.5M**, more than your whole bank. Not Kappa-required; only pays Jaeger rep, which is cheaper to earn elsewhere. Revisit only if you loot a TerraGroup keycard. |
+| 3 | 🚫 **`Dragnet`** | Jaeger | **SHELVED — keycard needs level 30 AND ₽3.5–4.5M**, more than your whole bank. Not Kappa-required; only pays Jaeger rep, which is cheaper to earn elsewhere. Revisit only if you loot a TerraGroup keycard. |
 | 4 | ~~**`Possessor`**~~ | Prapor | ✅ **DONE** |
 | 5 | ~~**`All Is Revealed`**~~ | Therapist | ✅ **DONE** |
 | 6 | ~~**`Postman Pat - Part 1`**~~ | Prapor | ✅ **DONE** |
