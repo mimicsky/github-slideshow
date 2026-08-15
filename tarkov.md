@@ -127,7 +127,7 @@ beats anything I look up.**
 | `All This Filth` | kill Scavs anywhere | wiki says "kill Shturman 20×" — wrong |
 | `The Courier` | **1** REAP-IR, **quest gives it to you**, fits in pockets, **can NOT go in a secure container** | said 2, bought, and got the container part wrong |
 | `The Punisher - Part 2` | **15 Scavs with an AKM series weapon, on Shoreline** | this file said "12 suppressed + 10 lower half masks" — completely wrong |
-| `Health Care Privacy - Part 2` | **needs a key** *(name not recorded — tell me and I'll log it)* | no source mentions a key at all |
+| `Health Care Privacy - Part 2` | needs the **Health Resort west wing 306** key | no source mentions a key at all |
 | `Every Hunter Knows This` | Factory breach room + Customs 3-story dorm stairs | — |
 | `Informed Means Armed` | **2 cameras only** — Woods + Interchange | lists a third on Customs |
 | `Black Swan` | **1** heat exchanger | said 3 |
@@ -141,55 +141,87 @@ beats anything I look up.**
 
 ---
 
-# ▶ NEXT RAID — Shoreline again, and it's a fight trip
+# ▶ NEXT RAID — Shoreline, fight trip
 
-Six quests cleared last raid. What's left on Shoreline is **almost all killing**, which is
-the good kind of list.
+Six cleared last raid. What's left is mostly killing, plus three quests I just researched
+that were blank before.
 
-**⚠️ Two different guns, two different quests.** They don't overlap any more:
+## 🛒 Before you load in
 
-- **`The Punisher – Part 2`** wants an **AKM series** weapon
-- **`Wet Job – Part 1`** wants a **suppressed M4A1, ADAR or TX-15**
+| | |
+|---|---|
+| **AKM series weapon** | ✅ you have one — **this is the primary**, 15 scav kills |
+| **Suppressed TX-15 / M4A1 / ADAR** | secondary, 10 scav kills |
+| **Grenades** | Sanitar has guards, same as Reshala. Guards hold rooms. |
+| **Food + water** | no transit this time, so normal load is fine |
+| **Insure** | helmet · armor/rig · headphones · both guns · backpack |
 
-**Bring both** — AKM series as primary since it's the bigger count, suppressed TX-15 as
-secondary. Or split them across two raids if the weight is bad.
+### 🔑 Keys
 
----
+| Key | For | Own it? |
+|---|---|---|
+| **Cottage back door key** | the ophthalmoscope in the villa — `Tarkov-Style Diplomacy` | ❌ **not on your list — buy it or skip that half** |
+| Health Resort west wing 306 | nothing this raid *(it was Health Care Privacy, done)* | ✅ |
 
-**The Punisher – Part 2** · Shoreline · FIGHT
-(kill **15 scavs with an AKM series weapon** — Shoreline only)
+## 🎯 Priority 1 — `The Punisher – Part 2`
 
-**Wet Job – Part 1** · Shoreline · FIGHT
-(kill 10 scavs with a suppressed M4A1, ADAR or TX-15 specifically)
-
-**Capturing Outposts** · Customs · Woods · Shoreline · FIGHT · **2/12**
-(kill 12 PMCs at the scav base — Shoreline's is the Health Resort)
-
-**No Swiping** · Shoreline · FIND + FIGHT
-(find the smugglers' base, then 25 kills in that area)
-
-**👹 Sanitar** · Shoreline · FIGHT
-(spawns Resort or Pier — **boss #5**, still not killed)
-
-**Needle in a Haystack** · Ground Zero · Interchange · Streets · Shoreline · FIND · **33%**
-(look up on fandom — has a Shoreline piece)
-
-**Thirsty – Hounds** · Shoreline · ?
-(look up on fandom)
-
-**Tracker** · Shoreline · ?
-(look up on fandom)
-
-**Tarkov-Style Diplomacy** · Shoreline · ?
-(look up on fandom)
+**15 scavs with the AKM series gun, on Shoreline.** Biggest count on the list, and it's
+map-locked so it only progresses here. Everything else is opportunistic.
 
 ---
 
-**Nothing here resets if you die** — no markers, no survive-and-extract. So you can play
-this one aggressive. The Health Resort is still the place to be: PMCs for Capturing
-Outposts and Sanitar both live there.
+## By location — route around these
 
-**No keys needed.** You already own everything this trip wants.
+### 🏥 Health Resort
+
+- **`Tracker`** — ⚠️ *newly researched, unverified* — multi-part:
+  - locate the **room with reservoirs**
+  - **secure folder on top of blue barrels, room 108, east wing**
+  - the second part of the cargo is in the **west wing basement**
+  - hidden TerraGroup cargo in the resort
+- **`Capturing Outposts`** 2/12 — PMCs. The resort **is** the scav base.
+- **`Needle in a Haystack`** — **children's playground, north-east of the resort building**
+- **👹 Sanitar** — spawns here or the pier. **Boss #5.**
+
+### ⚓ Pier
+
+- **`Tarkov-Style Diplomacy`** — **Sanitar's surgery kit**, second floor of the office
+  building, **on top of a wardrobe**
+- **👹 Sanitar** — alternate spawn
+
+### 🏚 Villa — west side, by the swamp
+
+- **`Tarkov-Style Diplomacy`** — **Sanitar's ophthalmoscope**, second floor, **left-hand
+  room, inside a potted plant on the table**
+- 🔑 **needs the Cottage back door key**
+
+### 🏗 South-east coast
+
+- **`Needle in a Haystack`** — **construction site with blue fences**
+
+### 🚬 Smugglers' base
+
+- **`No Swiping`** — find the base, then kills inside the base area
+- ⚠️ **Count is disputed:** this file says **25**, web sources say **10**. **Read your
+  screen and tell me which.**
+- Scavs spawn there but not often, so don't camp it
+
+---
+
+## 🔫 Background, all raid
+
+- **`The Punisher – Part 2`** — 15 scavs, **AKM series**
+- **`Wet Job – Part 1`** — 10 scavs, **suppressed** M4A1/ADAR/TX-15
+- Both are scav kills, so swap guns depending on which counter you want to move
+
+## ⚠️ Notes
+
+- **Nothing on this list resets if you die.** No markers, no survive-and-extract. Play it
+  aggressive.
+- **`Thirsty – Hounds`** is still unknown — send me the in-game text.
+- Everything in the location list above came from **pre-1.1 web sources**. Locations are
+  the one thing those sites get right, but **counts and objectives are exactly what they
+  get wrong.** Check each against your screen.
 
 ---
 
@@ -228,6 +260,22 @@ re-issues before you plan this)
 ## SHORELINE — 6 left
 
 All written out in the Next Raid card above. **Sanitar** spawns Resort or Pier.
+
+**Tarkov-Style Diplomacy** · Shoreline · FIND
+🔑 **Cottage back door key** *(you don't own it)*
+(2 Sanitar items — surgery kit on a wardrobe, pier office 2F · ophthalmoscope in a potted
+plant, villa 2F left room)
+
+**Tracker** · Shoreline · FIND
+(Health Resort — reservoir room, secure folder on blue barrels in room 108 east wing,
+second cargo part in the west wing basement)
+
+**No Swiping** · Shoreline · FIND + FIGHT
+(find the smugglers' base, then kills in the base area — ⚠️ **25 or 10? check your screen**)
+
+**Needle in a Haystack** · Shoreline piece · FIND
+(construction site with blue fences on the south-east coast, and the children's playground
+north-east of the Health Resort)
 
 ## FACTORY — 1 left
 
@@ -605,8 +653,7 @@ I don't track your stash. This is just the durable stuff that changes what a car
 
 - **Suppressed:** **TX-15 DML** *(Wet Job P1)* · MP5 SD *(no longer covers anything —
   Punisher P2 turned out to need an AKM series gun)*
-- **⚠️ Do you own an AKM series weapon?** `The Punisher – Part 2` needs one and it isn't
-  on this list. Tell me, or buy one.
+- **AKM series** ✅ owned — required for `The Punisher – Part 2`
 - **Rifles:** MDR ×4 · HK 416A5 ×3 · RD-704 · MCX · SA58 · Mk 16 · AK-545 Short · RPK-16 ·
   NL545 GP · M700 · SR-25 · SR-2M · **AK-12** *(quest build)*
 - **Armor:** THOR CRV · AVS · **WARTECH TV-110** *(quest)* · Korund-VM · Defender-2 ·
@@ -763,8 +810,11 @@ screen)
 (find Sanitar's office)
 
 **Health Care Privacy – Part 2** · Shoreline · FIND
-🔑 **needs a key — name not recorded**, found one in raid on the day
+🔑 **Health Resort west wing 306** — the key you already owned
 (find TerraGroup documents in a room, hand them over)
+
+**Seizing the Initiative** · Customs → Shoreline · CHORE
+(customs transit shoreline, survive and extract there)
 
 **Nothing Fishy About This** · Shoreline · FIND
 (find Ragman's SUV)
