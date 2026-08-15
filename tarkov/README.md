@@ -62,65 +62,61 @@ territory).
 
 ---
 
-# ▶ RAID 3 — CUSTOMS (finish it)
+# ▶ NEXT — CUSTOMS → TRANSIT → SHORELINE
 
-**Bring:** AKS-74U · Dorm 220 key · Company director's key · **grenades ×3+**
+**🛒 Buy:** **4× MS2000 marker** *(Rigged Game 3 + Anesthesia 1)* · **Health Resort west
+wing 219 key** *(you only own 306 — without this `I Need More Power` is dead)*
 
-> 💣 **Grenades are mandatory for Reshala.** His guards are the actual fight — they hold
-> dorm rooms and stairwells and will trade you down in a doorway. Frag the rooms before
-> entering. *(Learned the hard way, raid 3.)*
+**🔫 Bring a SUPPRESSED TX-15.** You own one, and it does double duty:
+- `Wet Job - Part 1` — needs a **suppressed M4A1, ADAR or TX-15** specifically
+- `Punisher - Part 2` — needs any suppressed gun
 
-Seven Customs tasks live. Six are doable this raid.
+One gun, two kill-count tasks, and the **10 lower half masks** drop off the same Scavs.
 
-| Task | At | What's left |
-|---|---|---|
-| ~~`All This Filth…`~~ | ✅ **DONE** | |
-| ~~`The Punisher - Part 1`~~ | ✅ **DONE** | |
-| `Every Hunter Knows This` | 50% | 2 tripwire spots — **Factory breach room** + **Customs 3-story dorm stairs**. *Which half is done: unconfirmed* |
-| ~~`The Huntsman Path - Trophy`~~ | ✅ **DONE** | Reshala killed |
-| `The Huntsman Path - Angry Watchman` | 33% | **2 more PMCs**, inside the Dorms zone |
-| `Capturing Outposts` | 16% | **10 more PMCs** at the Scav base |
-| `Shipment Tracking` | 📦 **list obtained** | **hand over to Therapist** |
+---
 
-## Route
+## 🚪 Entry — `Seizing the Initiative`
 
-**Dorms** → 2 PMCs in the zone, check 3-story for Reshala, Scavs with the AKS throughout
-**New Gas** → Reshala check
-**Fortress / Scav base** → Reshala check + grind the 10 `Capturing Outposts` PMCs
-**Boiler building 2F** → TerraGroup lists (bookshelf · floor by packages · shelf by desk ·
-under desk)
+Enter Customs light → **take the transit to Shoreline** → survive & extract there.
+Completes just by running this route.
 
-**Scav kills do double duty:** every one counts toward `Punisher P1` (6 left, needs the
-AKS-74U) *and* `All This Filth` (95%). Keep the AKS up and both finish this raid.
+---
 
-## 🚫 `The Courier` — BLOCKED
+## 🏥 HEALTH RESORT — five tasks and a boss in one building
 
-**Scope lost to death, and it can't be re-bought.** Parked until you either reach
-Mechanic LL4 or loot a REAP-IR in raid (Goons and high-tier PMCs drop them).
+| Task | What |
+|---|---|
+| **`I Need More Power`** 33% | Generators in **east wing room 220** *(open)* + **west wing room 219** *(key)*. **Both in ONE raid, must extract, or it resets** |
+| **`Chemistry Closet`** | Find **Sanitar's office** |
+| **`Health Care Privacy - Part 2`** | Search a room for **TerraGroup research documents** → hand over |
+| **`Rigged Game`** | MS2000 on the **medical container at the Health Resort** |
+| **`Capturing Outposts`** | PMCs — the Health Resort **is** Shoreline's Scav base |
+| 👹 **Sanitar** | spawns Resort / Pier — **boss #5** |
 
-*Original notes below.*
+## 📍 Elsewhere on the map
 
-## `The Courier` — reference
+| Task | Where |
+|---|---|
+| **`Rigged Game`** ×2 more | MS2000 on medical containers **by the cottages** and **at the pier** |
+| **`Anesthesia`** 66% | last **trading post** — MS2000, must extract |
+| **`Nothing Fishy About This`** | locate **Ragman's SUV** |
+| **`No Swiping`** | locate the **smugglers' base** + **25 kills** in the base area |
 
-**Costs nothing.** The REAP-IR **comes with the quest** — Mechanic supplies it. One scope.
+## 🔫 While you move
 
-⚠️ **LOST ONE TO DEATH — it was in pockets.** Pockets don't survive; the Gamma does.
-**Next attempt: try the Gamma first.** Sources claim the scope can't go in a secure
-container, but those sources were wrong about the count, the cost and the carry, so test
-it yourself. If it fits, this stops being a risk.
+- **`Wet Job - Part 1`** — 10 Scavs with the suppressed TX-15
+- **`Punisher - Part 2`** 26% — 12 Scavs suppressed + **10 lower half masks**
 
-*(Earlier advice to defer this as a ~₽1M sink was wrong on every count: sources said two
-scopes, purchased, not secure-container-able. It's one, free, and pocketable.)*
+## ❓ Couldn't find — send me the in-game text
 
-Candidate drop spots (sources list both; your in-game marker will show which):
-- **Under the base of the yellow crane**, construction site
-- **Behind the "new" gas station**, at the barrels / trash containers
+`Thirsty` · `Tracker` · `Tarkov-Style Diplomacy` · `The Wall Has Eyes`
 
-🔗 Both are on or near your route anyway.
+## 🔗 Overlaps
 
-## 👁 GRAB ON SIGHT
-
-**Respirator ×2 more** · graphics card · CPU fan · car battery · spark plug
+- **Health Resort is the hub** — five tasks and Sanitar without leaving one building.
+- **Cottages** serves `Rigged Game` and later `The Tarkov Butcher` (ambulance drop, once
+  you have the container from Ground Zero).
+- **Suppressed Scav kills feed three tasks at once** — Wet Job, Punisher P2, and the masks.
 
 ---
 
