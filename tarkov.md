@@ -447,9 +447,11 @@ check before a hunt and tell me.
 | `The Tarkov Shooter - Part 4` | 6% |
 | `Sew It Good - Part 4` | Part 1 at 0% |
 
-> **What LL4 costs.** Skier's panel: level 38 · **₽4.5M spent** · 5.80 rep. That's money
-> spent *at that trader*. Nine traders means roughly **₽30–40M through traders**. So
-> buying from traders is progress, not waste. That's your money target.
+> ⚠️ **LL4 costs no money.** The "₽4.5M spent" requirement was **removed in 1.0** —
+> loyalty now scales off **level and rep only**. There is nothing to grind money for here.
+>
+> *(This file used to say Kappa needed ₽30–40M routed through traders. That was wrong and
+> it's deleted. Don't buy things just to move the number.)*
 
 **Level 30 unlocks:** lion statue barter (~₽86k) → documents case, cheap stash relief.
 **Level 42:** Ragman LL4, the real Kappa gate.
@@ -470,6 +472,55 @@ check before a hunt and tell me.
 
 **Only level and LL4 are holding you back.** Weak spots: Fence at 1, Ref at 2, hideout.
 
+**PvE vs PvP:** the *only* difference is **boss spawns**. Everything else — quests, loot,
+flea, insurance, rep — works the same. So normal Tarkov knowledge applies here.
+
+---
+
+# Fence rep — goal #2, and the furthest gap
+
+Kappa wants **3.0** and you're at **LL1**. Three ways to raise it:
+
+1. **As a scav, kill PMCs who have killed scavs.** Not any PMC — ones already marked for
+   it.
+2. **Extract as a scav.** Simple and repeatable.
+3. **As a PMC, extract by car.** Costs money and **depends on your spawn**, so it's not
+   always available — take it when the map offers it.
+
+> **This is the slowest thing on your board and the only fix is doing it regularly.**
+> Scav runs are free, so every one you skip is rep you don't get. When you report a raid,
+> tell me if it was a scav run and I'll track the trend.
+
+---
+
+# Insurance
+
+**Insured gear comes back 100% of the time, after 24 hours.** It costs money, and the
+pricier the gear the pricier the premium.
+
+**What you insure:** helmet, rig/armor, headphones, gun, backpack — always. Good mags too;
+cheap ones no.
+
+**What this means for advice:** running expensive kits is much less risky than it looks,
+so I shouldn't be telling you to play poor. The real losses are **what's in your bag** and
+**quest items**, not your kit.
+
+> ❓ **Confirm for me:** you said "some things can[']t be insured, like the REAP" — I read
+> that as quest items being uninsurable, which would explain why the REAP-IR was gone for
+> good. Is that right? It changes how hard I push the "quest items in the Gamma" rule.
+
+---
+
+# Skills
+
+**No quest requires a skill level** — but plenty of quests raise skills for you as a
+reward, and skills matter a lot over time. They level from normal play.
+
+**The one thing needing attention: the Gym.** It speeds up physical skill training, so
+it's worth keeping up with. It's listed as locked below — tell me if that's changed.
+
+Skills also partly carry through a prestige, so time in them isn't wasted.
+
 ---
 
 # Goals, in order
@@ -478,8 +529,9 @@ check before a hunt and tell me.
 2. **Fence rep 3.0.** Scav karma and quest rep. Slow burn, start noticing it now.
 3. **The four Kappa chains.** Three are already moving.
 4. **Bosses.** 7 left, take them as maps come up.
-5. **Money.** ~₽40M through traders. **Bitcoin Farm is the lever** — only thing that earns
-   while you're offline, still locked.
+5. **Money.** No fixed target — LL4 doesn't need any. What money actually buys is kits,
+   keys, insurance premiums and hideout materials. **Bitcoin Farm is the lever** — the
+   only thing that earns while you're offline, and still locked.
 6. **Prestige — last.** Resets you to level 1, empty stash, hideout reset, quests gone,
    traders reset. You keep stats, achievements, some skills and mastering, Arena rating,
    and prestige rewards, and each level lets you carry a few more items over. Needs level
@@ -487,15 +539,33 @@ check before a hunt and tell me.
 
 ---
 
-# Hideout
+# Hideout — materials counter
 
 **Stash 4.** Most modules still level 1–2.
 
-**Locked:** Bitcoin Farm · Booze Generator · Gear Rack · Gym · Library · Scav Case ·
+**Locked:** Bitcoin Farm · Booze Generator · Gear Rack · **Gym** · Library · Scav Case ·
 Solar Power
 
-Send a photo of a module's requirement panel and I'll work out what's missing and whether
-it's worth building yet.
+## What you asked for: a running count of what's still needed
+
+**How we build it:**
+
+1. You send the reference image of everything needed to 100% the hideout.
+2. You go through your stash and tell me what you already have.
+3. I turn that into a **need / have / short by** table, sorted so you know what to grab in
+   raid and what to stop selling.
+
+**Nothing here until you send the image** — I'm not going to guess at material lists.
+
+Once it exists, item names from it get added to the never-sell list automatically, same as
+quest items.
+
+**Priorities I already know:** **Bitcoin Farm** is the money lever. **Gym** matters for
+skill training speed.
+
+> ⚠️ **Graphics cards are a conflict.** The Bitcoin Farm eats them and
+> `Semiconductor Crisis` needs 3 found in raid. **Quest first** — found-in-raid can't be
+> bought back — then feed the farm.
 
 ---
 
@@ -593,6 +663,17 @@ Photos work — I read your quest screen, hideout and stash directly.
 | Extract names | Item values and rewards |
 
 **Your in-game text wins every time.** I supply the where.
+
+## Your department, not mine
+
+Two things you know better than I do. **I don't advise on these unless you ask:**
+
+- **Ammo.** You have it covered and have everything marked for what penetrates what.
+  I won't hand you pen charts.
+- **Flea market.** You already understand it and how you trade. I won't second-guess a
+  sale.
+
+If I ever start giving advice in either lane, tell me to stop.
 
 ---
 
