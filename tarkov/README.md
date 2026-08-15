@@ -8,25 +8,41 @@
 
 ---
 
-# 🚨 DO NOT MISPLAY THIS — Chemical Part 4
+# ⚖️ Chemical Part 4 — a real choice
 
-**`Chemical - Part 4` (Skier), `Out of Curiosity` (Therapist) and `Big Customer` (Prapor)
-are MUTUALLY EXCLUSIVE.** All three want information on the same chemical transport
-vehicle. **Completing any one FAILS the other two.**
+**Any of the three satisfies Kappa.** Collector lists it as
+**"Chemical – Part 4 — Skier / Therapist / Prapor choice."** *(Corrected — I'd wrongly
+insisted it had to be Skier's.)*
 
-## ✅ Do `Chemical - Part 4`. Not the other two.
+They remain **mutually exclusive** — completing one fails the other two. So pick on
+rewards alone.
 
-**`Chemical - Part 4` is one of the four Kappa requirements.** The alternatives pay an
-injector case (Out of Curiosity) or ₽200k + Prapor rep (Big Customer). Neither is worth
-trading Kappa away for — and the failure is permanent.
+| Branch | Rewards | Verdict |
+|---|---|---|
+| **Therapist** *(Out of Curiosity)* | med case *(own 1)* + **documents case** | ✅ only unique permanent item on offer |
+| **Skier** *(Chemical P4)* | key case *(own 1)* · mag case *(own 2, cheap)* · **2× Labs access keycard** | cash or 2 Labs runs |
+| **Prapor** *(Big Customer)* | ammo case *(own 2, cheap)* · grenade case | weakest |
 
-> Verify in-game that Collector still lists Chemical Part 4. But the risk is one-sided:
-> picking wrong costs you Kappa for the wipe, picking "wrong" the other way costs an
-> injector case.
+**My pick: Therapist, for the documents case.** You're carrying five-plus keys already
+(Dorm 220, Company, Health Resort 306, LexOs, Iron gate) and that number only grows —
+a documents case is permanent stash relief you'd otherwise pay for. The Labs cards are
+~₽700k or two raids, and you can buy Labs access later with money you're accumulating
+anyway; you can't easily conjure the case back.
 
-⚠️ **This is the second exclusive branch you've hit** — `A Healthy Alternative` already
-cost you `One Less Loose End`. Assume any task that reads like picking a side is one of
-these, and ask before completing it.
+**Take Skier instead if** you want Labs access soon — `Drip Out - Part 1` needs 100 Raider
+kills and Labs is Raider territory.
+
+---
+
+# 🏆 Kappa requirements — community-confirmed (post-1.1)
+
+- `A Shooter Born in Heaven` — Mechanic
+- `Chemical – Part 4` — **Skier / Therapist / Prapor choice**
+- `The Tarkov Shooter – Part 4` — Jaeger
+- `Sew It Good – Part 4` — Ragman
+- **Level 40** — but **Ragman needs 42 for LL4, so effectively level 42**
+- **All traders LL4**
+- **Fence rep 3.0**
 
 ---
 
@@ -348,7 +364,7 @@ The old Collector was a huge item hoard. **1.1.0.0 replaced it.** New requiremen
 
 | Requirement | You |
 |---|---|
-| Character level **40** | **26** |
+| Character level **40** *(really 42 — Ragman's LL4 gate)* | **26** |
 | **LL4 with all traders** | LL3 on six · Ragman ~2–3 · **Ref 2** · **Fence 1** |
 | **Fence rep 3.0** | Fence at LL1 — the furthest gap on the board |
 | `Chemical - Part 4` | Part 1 at **66%** ✅ started |
