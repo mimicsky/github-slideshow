@@ -2,9 +2,19 @@
 
 **You play. I track.** Shared brain for tasks, stash, and keep/sell calls.
 
-> **Mode:** PvE · **Patch:** 1.1.0.1.46699 · **Edition:** Unheard (Gamma, Unheard armband)
-> **Level:** 27 · **Faction:** USEC · **Stash:** Level 4 · **Bank:** ₽2,396,005
-> **Synced from screenshots 1–17.** ~110 active tasks logged below.
+> **PvE · Patch 1.1.0.1.46699 · Unheard edition · Level 27 · USEC · Stash 4 · ~₽2.4M**
+
+## 🚀 Starting a fresh chat? Paste this whole file in first.
+
+That's the entire handoff — state, decisions, verified objectives and standing rules all
+live here. Nothing important is in chat history.
+
+**Read in this order:** the cards below → §3 verified objectives → §11 keep/sell rules.
+
+**Two standing rules:**
+1. **Nothing is marked complete unless the player says so.** No inference from progress.
+2. **The player's in-game text beats every source.** It has been right every single time
+   they've disagreed — a dozen-plus corrections logged in §3.
 
 ---
 
@@ -72,7 +82,9 @@ Gunsmiths are **stat-based**, so any parts hitting the numbers work.
 | ~~`Gunsmith - OP-SKS`~~ | OP-SKS | | ✅ **DONE** |
 | ~~`Gunsmith - Model 870`~~ | Remington 870 | | ✅ **DONE** |
 | ~~`Gunsmith - M4A1`~~ | M4A1 | | ✅ **DONE** |
-| **`Gunsmith - P226R`** 🆕 | P226R *(own one; base from Peacekeeper LL1)* | ergo **≥77** *(some sources say 80)* · recoil **≤610** · durability 60. **Parts:** threaded barrel · TJ's Custom compensator · Stainless Elite slide · Stainless Elite wooden grip · 20-rd extended mag · any tactical device | in progress |
+| ~~`Gunsmith - P226R`~~ | P226R | | ✅ **DONE** |
+
+**All four Gunsmiths complete.**
 
 💡 **Model 870 wants a tactical foregrip — you have the P-2** you nearly sold. Keep it.
 
@@ -93,8 +105,6 @@ Both start on Customs, both go somewhere different. **Separate raids.**
 **Run B is the shorter one and doubles up:** the med lab is the building you already know
 from `Supplements`, and landing on Factory lets you chip at `One-Way Ticket` AUG headshots
 before extracting.
-
-**`Gunsmith - Model 870`** 🆕 — bench build, no raid, free Mechanic rep. Do it now.
 
 ---
 
@@ -156,78 +166,7 @@ Completes just by running this route.
 
 ---
 
-# 🌙 TONIGHT — 3 RAID PLAN
-
-## 🛒 Buy before you play
-
-| Item | For | Note |
-|---|---|---|
-| 1× **corrugated hose** | Chemical Experiments | toolboxes, flea, or hideout craft |
-| ~~Suppressor~~ | Punisher P2 | ✅ **you own an MP5 SD** — nothing to buy |
-| **Health Resort west wing 219 key** *(or 220)* | I Need More Power | ⚠️ you own **306** — wrong room, wrong floor. Still need to buy |
-| MS2000 marker | Anesthesia | you already have 1 in your special slot — need 1 more placement |
-
----
-
-## Raids 1–2 · CUSTOMS, DORMS
-
-Punisher P1 needs ~15 more Scav kills. That's realistically two trips, so Customs gets
-both. Same card, run it twice.
-
-**Priority 1:** Dorms. Scav kills with the AKS-74U · 5 PMCs inside the Dorms zone ·
-Reshala if he spawns.
-
-**Opportunistic, in value order:** `Chemical - Part 1` (66%) → `Supplements` +
-`Chemical Experiments` (same building) → `Private Club`.
-
-Whatever you don't pick up in raid 1, grab in raid 2.
-
-**Clears if it all goes right:** Punisher P1 · Angry Watchman · Huntsman Trophy *(Reshala
-spawn is RNG — may take more)* · Chemical P1 · Chemical Experiments · Supplements ·
-Private Club
-
----
-
-## Raid 3 · CUSTOMS → TRANSIT → SHORELINE
-
-**Enter Customs light**, head straight for the transit, cross to Shoreline, then run the
-Shoreline card. Clears `Seizing the Initiative` on the way in and costs you nothing —
-you're going to Shoreline regardless.
-
-**Bring:** **MP5 SD** · MS2000 marker · **Health Resort west wing 219 key** *(buy — you
-only own 306)*
-
-**Priority 0 — `Seizing the Initiative`:** use the transit from Customs to Shoreline, then
-survive and extract from Shoreline. Done automatically by running this route.
-
-**Priority 1 — `I Need More Power` (33%).** Strict rules, so do it first:
-- Generators in **two** rooms, both in the **same raid**, and you must **extract**.
-- **East wing room 220**, 2nd floor — always unlocked.
-- **West wing room 219**, 2nd floor — needs the west wing 219 key, *or* look in from the
-  joint balcony in room 220 (needs the 220 key).
-- ⚠️ Find only one room and leave, **the whole task resets**.
-
-**Priority 2 — Punisher P2 (26%).** Kill **12 Scavs with a suppressed gun** on Shoreline,
-and collect **10 lower half masks** in raid. The masks come off the same Scavs you're
-shooting — one activity, both objectives.
-
-**Priority 3 — `Anesthesia` (66%).** One trading post left to mark with the MS2000. Must
-extract for it to count. In-game quest tracker pins the exact spot.
-
-**Clears if it all goes right:** I Need More Power · Anesthesia · Punisher P2 *(12 kills
-plus 10 masks may run long)*
-
----
-
-## Realistic call
-
-Three raids clears **Customs entirely** and probably two of three Shoreline tasks.
-Punisher P2's mask collection and Reshala's spawn RNG are the two things most likely to
-push into a fourth trip.
-
----
-
-## 0d. 👹 BOSSES — your "kill them all" goal
+## 1. 👹 BOSSES — your "kill them all" goal
 
 Locations from eftboss.com. **Live spawn % is JS-rendered so I can't read it — check
 [eftboss.com](https://eftboss.com) yourself before a hunt and tell me the number**, and
@@ -261,7 +200,7 @@ Reshala tonight: **45%.**
 
 ---
 
-## 0c. 🗺 MULTI-MAP TASKS — the trip-wasters
+## 2. 🗺 MULTI-MAP TASKS — the trip-wasters
 
 These don't live on one map. Miss a piece and you go back later for one objective.
 *(Scraped from gamemaps — pre-1.1, so treat as a map index, not gospel.)*
@@ -305,7 +244,7 @@ These don't live on one map. Miss a piece and you go back later for one objectiv
 
 ---
 
-## 0b. ✅ VERIFIED OBJECTIVES — ground truth from your screen
+## 3. ✅ VERIFIED OBJECTIVES — ground truth from your screen
 
 **This is the fix for the data problem.** No public database is current for 1.1 (patch is
 ~10 days old; community sites lag weeks). Your game is the only accurate source.
@@ -343,7 +282,7 @@ you well before that.
 
 ---
 
-## 0a. Stash policy — NOT tracked
+## 4. Stash policy — NOT tracked
 
 Your stash turns over constantly and you're not going to narrate it. **So I don't track
 inventory.** No counts, no "you have 3 of these." I'll see fragments in raid reports and
@@ -365,7 +304,7 @@ ask of you, and quest inputs you should never sell. For anything else, ask
 
 ---
 
-## 0. Goals & Where You Actually Are
+## 5. Goals & Where You Actually Are
 
 ### Honest read at level 21
 
@@ -465,7 +404,7 @@ you collect along the way.
 
 ---
 
-## 1. How to talk to me
+## 6. How to talk to me
 
 | You say | I do |
 |---|---|
@@ -500,7 +439,7 @@ rouble value every time.
 
 ---
 
-## 2. What this file is for
+## 7. What this file is for
 
 500 hrs, two PvP wipes, now PvE. You don't need the game explained. The two things that
 actually cost you time are **recall** — 110 open tasks, where each objective physically
@@ -593,30 +532,7 @@ is 21 tasks at 0% — biggest pile, least near-term payout, sorts last despite v
 
 ---
 
-## 3. Near-Complete — cash these first
-
-| Task | Map | Progress |
-|---|---|---|
-| Chemical – Part 1 | Customs | **66%** |
-| Anesthesia | Shoreline | **66%** |
-| Car Repair | Any | **62%** |
-| Semiconductor Crisis | Any | **50%** |
-| Shooter Born in Heaven | Any | **50%** |
-| Revision – Lighthouse | Lighthouse | **50%** |
-| The Huntsman Path – Trophy | Customs | **50%** |
-| All This Filth… | Any | **50%** |
-| The Punisher – Part 1 | Customs | **40%** |
-| Supplements | Any | **37%** |
-| Aid Stations | Any | **33%** |
-| I Need More Power | Shoreline | **33%** |
-| Needle in a Haystack | Any | **33%** |
-| The Punisher – Part 2 | Shoreline | **26%** |
-| Dressed to Kill | Any | **12%** |
-| The Tarkov Shooter – Part 4 | Any | **6%** |
-
----
-
-## 4. Task Board
+## 8. Task Board
 
 ### ★ Customs — run this first (8)
 
@@ -786,6 +702,7 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 - **Gunsmith – OP-SKS** ✅
 - **Gunsmith – Model 870** ✅
 - **Gunsmith – M4A1** ✅
+- **Gunsmith – P226R** ✅
 
 ### ❌ Failed
 
@@ -828,91 +745,21 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 
 ---
 
-## 5. Objective Reference
+## 9. Character
 
-Built on demand — say `prep <map>` or name a task. Format below.
+**Level 27 · USEC · PvE · Unheard (Gamma 3×3) · Stash 4 · ~₽2.4M**
 
-### ✅ Chemical – Part 1 · Customs · DONE
+**Trader LLs:** Prapor 3 · Therapist 3 · Skier 3 · Peacekeeper 3 · Mechanic 3 · Jaeger 3 ·
+Ragman ~2–3 · Ref 2 · **Fence 1**
 
-Needed **two** items, which is why the handover stayed locked:
-1. **Information** — secure folder, train carriage west side between ZB-1012/ZB-1011
-2. **Investigation item** — behind **Dorm room 220**, the deputy chief's "sleeping place"
+**Skier LL4 gate (representative):** level 38 · ₽4.5M spent · 5.80 rep.
 
-**Key learning:** when a task won't let you hand in, check for a second *locate and
-obtain* objective before assuming a bug. Optional objectives often point at the missing one.
-
-### Chemical – Part 1 — original notes
-
-
-- **Objective:** locate the former Deputy Chief of Security's sleeping place on Customs,
-  recover the wanted/secure folder, extract with it, hand to Skier.
-- **Where:** isolated train carriage, western/boiler side of Customs, between the
-  **ZB-1012** and **ZB-1011** extracts.
-- **Spawns inside the carriage:** under the brick pallet in the NW corner · under the
-  pallet in the SE corner · between wall and pallet in the NE corner. Multiple possible
-  spawns — check all three.
-- **Keys:** none.
-- **Note:** must extract alive with it.
-- *Source: web lookup, [tarkov.dev](https://tarkov.dev/task/chemical-part-1) /
-  [ggrecon](https://www.ggrecon.com/guides/escape-from-tarkov-chemical-part-1-skier-quest/).
-  Verify trader against your in-game text — trader assignments shifted in recent patches.*
-
-<!-- more built on request -->
+**Loadout is not tracked** — see the stash policy. Durable gear that changes what a card
+can ask of you is listed there.
 
 ---
 
-## 6. Character & Loadout
-
-**Health at last sync:** HP 440/440 · Hydration 47/100 · Energy **9/100**
-
-| Slot | Item | State |
-|---|---|---|
-| Earpiece | ComTac II | |
-| Headwear | ULACH | 54/66 |
-| Face cover | Momex balaclava | |
-| Eyewear | AFGlass | 25/25 |
-| Body armor | THOR CRV | 161/183 |
-| On sling | AKS-74U (5.45x39) | 20/30 |
-| On back | AK-74M (5.45x39) | 11/30 |
-| Holster | Glock 17 (9x19) | 17/17 |
-| Sheath | empty | |
-| Backpack | Attack 2 | |
-| Secure | Gamma (3x3) | |
-
-Rig: AFAK, bandage, splint, CMS, Zippo, MS2000, paracord, spare mags, SSA AP 50.
-
-### Trader Loyalty — *still need this from you*
-
-Prapor · Therapist · Skier · Peacekeeper · Mechanic · Ragman · Jaeger · Fence · Ref
-
-> LL gates are the real bottleneck at 21, not character level. One screenshot of the
-> trader screen and I can tell you which tasks actually unlock something.
-
----
-
-## 7. Stash — First Raid Haul
-
-### KEEP — hideout / build material
-
-GPU · PSU · car battery · magnet · nails · round pliers · energy-saving lamp ·
-alkaline cleaner · medical tools
-
-### KEEP — quest & barter
-
-Flash drive · HDD · Cat figurine · Ushanka · Augmentin · Tushonka ×2 · Salewa · Vaseline
-
-### On the GPU — corrected, do not sell
-
-Earlier call was **wrong**. *Semiconductor Crisis* (50%) needs **3 graphics cards found
-in raid**. Selling yours destroys the FiR status and you'd have to find a replacement.
-The car battery is the same story — *Car Repair* (62%) wants 4 of them.
-
-Rule this reinforces: **check the watch list before any sale.** Rouble value is
-irrelevant if the item is a quest input.
-
----
-
-## 8. Hideout
+## 10. Hideout
 
 **Stash 4.** Utility modules mostly level 1–2.
 
@@ -924,7 +771,7 @@ whether the payback is worth it at your stage.
 
 ---
 
-## 9. Keep / Sell Doctrine
+## 11. Keep / Sell Doctrine
 
 Priority order — higher wins on conflict.
 
@@ -945,7 +792,7 @@ no task attached.
 
 ---
 
-## 10. Stash Doctrine
+## 12. Stash Doctrine
 
 - **Keep 15–20% free.** Below that you make bad panic calls on return.
 - **Quest items get their own container, nothing else in it.** Prevents the most
@@ -956,7 +803,7 @@ no task attached.
 
 ---
 
-## 11. Session Log
+## 13. Session Log
 
 ```
 [DATE] [MAP] [SURVIVED?] — brought back: … | quest progress: … | sold: … | net: …
@@ -996,7 +843,7 @@ no task attached.
 
 ---
 
-## 12. Maintaining this
+## 14. Maintaining this
 
 Tell me what happened and I edit, commit and push. Paste this file into any new
 conversation and I'm caught up instantly — that's why it lives in git and not in a chat
