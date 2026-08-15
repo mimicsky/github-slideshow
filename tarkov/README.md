@@ -67,11 +67,12 @@ territory).
 No raid, no risk, pure Mechanic rep — which feeds **Mechanic LL4**, a Kappa requirement.
 Gunsmiths are **stat-based**, so any parts hitting the numbers work.
 
-| Task | Gun | Requirements |
-|---|---|---|
-| **`Gunsmith - OP-SKS`** | OP-SKS | **silencer** + **optic scope** · 20+ round mag · ergo **>35** · recoil **≤350** |
-| **`Gunsmith - Model 870`** 🆕 | Remington 870 | **tactical device** + **Magpul MOE handguard** + **tactical foregrip** · ergo **>60** · recoil **<500** |
-| **`Gunsmith - M4A1`** | M4A1 | **silencer** · **60-round mag** · ergo **~37+** · recoil **≤300** · sighting range **800+** · weight **≤3.8kg** |
+| Task | Gun | Requirements | |
+|---|---|---|---|
+| ~~`Gunsmith - OP-SKS`~~ | OP-SKS | | ✅ **DONE** |
+| ~~`Gunsmith - Model 870`~~ | Remington 870 | | ✅ **DONE** |
+| ~~`Gunsmith - M4A1`~~ | M4A1 | | ✅ **DONE** |
+| **`Gunsmith - P226R`** 🆕 | P226R *(own one; base from Peacekeeper LL1)* | ergo **≥77** *(some sources say 80)* · recoil **≤610** · durability 60. **Parts:** threaded barrel · TJ's Custom compensator · Stainless Elite slide · Stainless Elite wooden grip · 20-rd extended mag · any tactical device | in progress |
 
 💡 **Model 870 wants a tactical foregrip — you have the P-2** you nearly sold. Keep it.
 
@@ -782,6 +783,9 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 - **Every Hunter Knows This** ✅
 - **Supplements** ✅
 - **Scout** ✅
+- **Gunsmith – OP-SKS** ✅
+- **Gunsmith – Model 870** ✅
+- **Gunsmith – M4A1** ✅
 
 ### ❌ Failed
 
@@ -794,7 +798,7 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 ### 🆕 Newest batch
 
 `The Wall Has Eyes` · **`Chemical - Part 4`** ⭐*Kappa* · `Secrets of Polikhim` ·
-`Gunsmith - Model 870` · ~~`Out of Curiosity`~~ ·
+`Gunsmith - P226R` · `The Door` · ~~`Out of Curiosity`~~ ·
 ~~`Big Customer`~~ *(the last two must NOT be completed — see the warning at the top)*
 
 ### 🆕 New — researched
