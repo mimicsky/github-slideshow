@@ -67,7 +67,12 @@ You take the transit *instead of extracting*.
 and after a long first leg your **food and water are empty**. No restocking from the
 hideout between legs.
 
-> **On any transit run: pack extra food, water, meds and ammo for both legs.**
+> **How bad this is depends on how long the first leg runs.** A short first leg costs you
+> almost nothing. A full 30 minutes on the first map and you land on the second one empty.
+> **Pack for both legs whenever the first leg is going to be long.**
+>
+> **Use the stash send at the transit** — dump the first map's loot so you arrive with a
+> clean bag and free slots.
 
 ### "Do it in one raid" quests
 
@@ -165,6 +170,7 @@ beats anything I look up.**
 (kill 12 PMCs at the scav base on each map — Shoreline's is the Health Resort)
 
 **Chemistry Closet** · Shoreline · FIND
+🔑 Health Resort **office key, blue tape** *(bought)*
 (find Sanitar's office)
 
 **Health Care Privacy – Part 2** · Shoreline · FIND
