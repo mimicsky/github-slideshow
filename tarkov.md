@@ -120,7 +120,7 @@ beats anything I look up.**
 | `Anesthesia` | 3 trading posts, must extract | matched |
 | `A Fuel Matter` | 2 fuel tank groups | matched |
 | `All This Filth` | kill Scavs anywhere | wiki says "kill Shturman 20×" — wrong |
-| `The Courier` | **1** REAP-IR, **quest gives it to you**, fits in pockets | said 2, bought |
+| `The Courier` | **1** REAP-IR, **quest gives it to you**, fits in pockets, **can NOT go in a secure container** | said 2, bought, and got the container part wrong |
 | `Every Hunter Knows This` | Factory breach room + Customs 3-story dorm stairs | — |
 | `Informed Means Armed` | **2 cameras only** — Woods + Interchange | lists a third on Customs |
 | `Black Swan` | **1** heat exchanger | said 3 |
@@ -505,13 +505,29 @@ cheap ones no.
 so I shouldn't be telling you to play poor. The real losses are **what's in your bag** and
 **quest items**, not your kit.
 
-**Some things can't be insured at all.** The REAP-IR is the known example — and note it's
-**not a quest item**, it's a normal thermal sight that happens to be what `The Courier`
-hands you. Best guess is that rare items can't be insured, but that isn't confirmed.
+**Some things can't be insured at all.** The REAP-IR is the known example — and it's **not
+a quest item**, it's a normal thermal sight that happens to be what `The Courier` hands
+you. Best guess is rare items can't be insured, but that isn't confirmed.
 
-> **So the rule isn't "quest items in the Gamma."** It's **"anything you can't insure or
-> can't rebuy goes in the Gamma."** That covers rare gear and quest items both, which is
-> the real lesson from losing the REAP-IR.
+## Three tiers of risk — this is the rule
+
+| Tier | What | Protection |
+|---|---|---|
+| **1. Insurable** | helmet, armor, rig, gun, headphones, backpack, good mags | **Comes back in 24h.** Don't play scared with it. |
+| **2. Uninsurable but fits the Gamma** | quest items, small rare loot | **Put it in the Gamma.** Solved. |
+| **3. Uninsurable AND can't go in the Gamma** | **the REAP-IR** — it's flagged non-secure-container | **No safety net exists.** |
+
+**Tier 3 is the dangerous one and there's no container answer for it.** The REAP-IR could
+never have been saved by the Gamma — it isn't allowed in one. The only protection is how
+you run the raid:
+
+- **Pick your extract from the map screen before you spawn**, not when you're loaded and
+  heading out.
+- **Go in light.** Don't stack a tier-3 item with a greed run.
+- **Do the objective first, then leave.** Every extra minute is pure downside.
+
+> That's the actual lesson from raid 6. It wasn't a container mistake — it was a route
+> mistake, and no amount of Gamma discipline would have changed it.
 
 ---
 
@@ -638,9 +654,10 @@ a number up.
 
 # Hard lessons already paid for
 
-- **Anything you can't insure or can't rebuy goes in the Gamma.** Quest items and rare
-  gear both. That's how the REAP-IR died — it wasn't a quest item, it was an uninsurable
-  thermal sight riding in your pockets.
+- **Gamma anything uninsurable that's allowed in one** — but check first, because some
+  items are barred from secure containers entirely. The REAP-IR is one of them.
+- **For anything that can't go in the Gamma, the only protection is the route.** Light
+  kit, objective first, extract known before you spawn. That's what lost the REAP-IR.
 - **Pick your extract at raid start from the map screen.** Customs extracts depend on your
   spawn, and defaulting to a familiar one while loaded is how good raids die.
 - **Reshala's guards hold the rooms, not Reshala.** Bring grenades.
