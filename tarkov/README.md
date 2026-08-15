@@ -627,7 +627,7 @@ The Survivalist Path – Thrifty · Shipping Delay – Part 1 · A Helping Hand 
 |---|---|---|---|
 | 1 | **`Chemical - Part 3`** | Skier | Grab the **bright yellow syringe — looks like a pen** ✅*verified* |
 | 2 | **`Every Hunter Knows This`** | Jaeger | Locate tripwire spot in the **breach room** ✅*verified* |
-| 3 | **`Dragnet`** | Jaeger | Chemical container at the **TerraGroup warehouse** → hand over. ⚠️ **needs a TerraGroup storage keycard — expensive** *(player-flagged; source listed no key at all)* |
+| 3 | 🚫 **`Dragnet`** | Jaeger | **SHELVED — keycard is ₽3.5–4.5M**, more than your whole bank. Not Kappa-required; only pays Jaeger rep, which is cheaper to earn elsewhere. Revisit only if you loot a TerraGroup keycard. |
 | 4 | ~~**`Possessor`**~~ | Prapor | ✅ **DONE** |
 | 5 | ~~**`All Is Revealed`**~~ | Therapist | ✅ **DONE** |
 | 6 | ~~**`Postman Pat - Part 1`**~~ | Prapor | ✅ **DONE** |
@@ -643,8 +643,8 @@ The Survivalist Path – Thrifty · Shipping Delay – Part 1 · A Helping Hand 
 - **`Scout`, `Postman Pat` and `Exit Here`** all need survive-and-extract. One good run
   covers all three.
 - **Three are simple item grabs** (syringe, logbook, letter) — one loop, no keys.
-- **`Dragnet` is the exception** — keycard-gated. Price it on flea first; skip it on the
-  first Factory run and decide once you see the cost.
+- **`Dragnet` is shelved.** Priced at ₽3.5–4.5M — more than the bank, for one task's rep.
+  Only back on the table if a TerraGroup keycard drops for you.
 - **`One-Way Ticket` is the long one.** 15 headshots with a specific gun won't finish in a
   raid; treat it as background across every Factory trip.
 
