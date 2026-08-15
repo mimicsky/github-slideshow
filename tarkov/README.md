@@ -8,6 +8,28 @@
 
 ---
 
+# 🚨 DO NOT MISPLAY THIS — Chemical Part 4
+
+**`Chemical - Part 4` (Skier), `Out of Curiosity` (Therapist) and `Big Customer` (Prapor)
+are MUTUALLY EXCLUSIVE.** All three want information on the same chemical transport
+vehicle. **Completing any one FAILS the other two.**
+
+## ✅ Do `Chemical - Part 4`. Not the other two.
+
+**`Chemical - Part 4` is one of the four Kappa requirements.** The alternatives pay an
+injector case (Out of Curiosity) or ₽200k + Prapor rep (Big Customer). Neither is worth
+trading Kappa away for — and the failure is permanent.
+
+> Verify in-game that Collector still lists Chemical Part 4. But the risk is one-sided:
+> picking wrong costs you Kappa for the wipe, picking "wrong" the other way costs an
+> injector case.
+
+⚠️ **This is the second exclusive branch you've hit** — `A Healthy Alternative` already
+cost you `One Less Loose End`. Assume any task that reads like picking a side is one of
+these, and ask before completing it.
+
+---
+
 # ▶ RAID 3 — CUSTOMS (finish it)
 
 **Bring:** AKS-74U · Dorm 220 key · Company director's key · **grenades ×3+**
@@ -152,11 +174,11 @@ I'll fold it into the card.
 | **The Goons** ×3 | Roaming | Customs · Woods · Shoreline · Lighthouse | ✅ |
 | **Partizan** | Woods / Ground Zero | roamer | ✅ |
 | **Reshala** | Customs | Dorms 3-story · Gas Station · Stronghold/Fortress | ✅ |
+| **Tagilla** | **Factory** (also Interchange) | **~50% spawn — expect him most Factory raids** | ❌ |
 | Killa | Interchange | Mall | ❌ |
 | Glukhar | Reserve | | ❌ |
 | Shturman | Woods | Sawmill | ❌ |
 | Sanitar | Shoreline | Resort · Pier | ❌ |
-| Tagilla | Factory, Interchange | | ❌ |
 | Kaban | Streets of Tarkov | | ❌ |
 | Kollontay | Streets, Ground Zero | | ❌ |
 | Zryachiy | Lighthouse | Island | ❌ |
@@ -686,6 +708,11 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 - **Possessor** ✅
 - **All Is Revealed** ✅
 - **A Healthy Alternative** ✅
+- **Exit Here** ✅
+- **Chemical – Part 3** ✅
+- **Black Swan** ✅
+- **Every Hunter Knows This** ✅
+- **Supplements** ✅
 
 ### ❌ Failed
 
@@ -694,6 +721,11 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 > ⚠️ **Mutually exclusive quests exist.** These two were a choice branch, and taking one
 > killed the other. Before completing anything that reads like a "side you're picking,"
 > check whether it locks out something else. This will happen again.
+
+### 🆕 Newest batch
+
+`The Wall Has Eyes` · **`Chemical - Part 4`** ⭐*Kappa* · ~~`Out of Curiosity`~~ ·
+~~`Big Customer`~~ *(the last two must NOT be completed — see the warning at the top)*
 
 ### 🆕 New — researched
 
