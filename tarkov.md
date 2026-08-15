@@ -505,21 +505,27 @@ cheap ones no.
 so I shouldn't be telling you to play poor. The real losses are **what's in your bag** and
 **quest items**, not your kit.
 
-> ❓ **Confirm for me:** you said "some things can[']t be insured, like the REAP" — I read
-> that as quest items being uninsurable, which would explain why the REAP-IR was gone for
-> good. Is that right? It changes how hard I push the "quest items in the Gamma" rule.
+**Some things can't be insured at all.** The REAP-IR is the known example — and note it's
+**not a quest item**, it's a normal thermal sight that happens to be what `The Courier`
+hands you. Best guess is that rare items can't be insured, but that isn't confirmed.
+
+> **So the rule isn't "quest items in the Gamma."** It's **"anything you can't insure or
+> can't rebuy goes in the Gamma."** That covers rare gear and quest items both, which is
+> the real lesson from losing the REAP-IR.
 
 ---
 
 # Skills
 
-**No quest requires a skill level** — but plenty of quests raise skills for you as a
-reward, and skills matter a lot over time. They level from normal play.
+Skills level from normal play, and plenty of quests raise them for you as a reward. They
+matter a lot over time, and they **partly carry through a prestige**, so the time isn't
+wasted.
 
-**The one thing needing attention: the Gym.** It speeds up physical skill training, so
-it's worth keeping up with. It's listed as locked below — tell me if that's changed.
+**Gym is unlocked** — it speeds up physical skill training. Keep up with it.
 
-Skills also partly carry through a prestige, so time in them isn't wasted.
+> ❓ **Unconfirmed:** there may be some quests gated behind a skill level — more like a
+> checkpoint partway through than the whole quest. Neither of us is certain. If you hit
+> one, send me the text and it goes in the confirmed table.
 
 ---
 
@@ -543,19 +549,29 @@ Skills also partly carry through a prestige, so time in them isn't wasted.
 
 **Stash 4.** Most modules still level 1–2.
 
-**Locked:** Bitcoin Farm · Booze Generator · Gear Rack · **Gym** · Library · Scav Case ·
+**Unlocked recently:** ✅ **Gym**
+
+**Still locked:** Bitcoin Farm · Booze Generator · Gear Rack · Library · Scav Case ·
 Solar Power
 
 ## What you asked for: a running count of what's still needed
 
-**How we build it:**
+**Every reference image online is pre-1.0, so they're useless.** Same problem as the quest
+databases. So we build this the way we built the confirmed-objectives table — **off your
+own screen, one station at a time.**
 
-1. You send the reference image of everything needed to 100% the hideout.
-2. You go through your stash and tell me what you already have.
-3. I turn that into a **need / have / short by** table, sorted so you know what to grab in
-   raid and what to stop selling.
+**How:**
 
-**Nothing here until you send the image** — I'm not going to guess at material lists.
+1. Open a station's upgrade panel, screenshot it. Whatever order you like — no need to do
+   them all at once.
+2. I record what that level needs.
+3. When you have a stash pass to spare, tell me what you already own and I turn it into a
+   **need / have / short by** table.
+
+It builds up from work you're already doing. After a few sessions it's a materials list no
+website has, current for your patch.
+
+**Nothing recorded yet — send the first station whenever.**
 
 Once it exists, item names from it get added to the never-sell list automatically, same as
 quest items.
@@ -622,7 +638,9 @@ a number up.
 
 # Hard lessons already paid for
 
-- **Quest items go in the Gamma, not your pockets.** That's how the REAP-IR died.
+- **Anything you can't insure or can't rebuy goes in the Gamma.** Quest items and rare
+  gear both. That's how the REAP-IR died — it wasn't a quest item, it was an uninsurable
+  thermal sight riding in your pockets.
 - **Pick your extract at raid start from the map screen.** Customs extracts depend on your
   spawn, and defaulting to a familiar one while loaded is how good raids die.
 - **Reshala's guards hold the rooms, not Reshala.** Bring grenades.
