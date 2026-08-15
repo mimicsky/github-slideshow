@@ -596,18 +596,102 @@ Photos work — I read your quest screen, hideout and stash directly.
 
 ---
 
+# ✅ COMPLETE
+
+Kept on purpose. These only come back if you **prestige or wipe**, and when that day comes
+this is the shortcut — you'll already know what each one wants.
+
+## Customs
+
+**Break the Deal** · Customs · ?
+(no details recorded)
+
+**Private Club** · Customs · ?
+(no details recorded — ⚠️ sites list this at level 24, it was active for you at 21)
+
+**Chemical – Part 1** · Customs · FIND
+🔑 Dorm room 220 *(you own it, reusable)*
+(2 items — secure folder in the train carriage, plus one inside Dorm 220)
+
+**Chemical – Part 2** · Customs · ?
+(no details recorded)
+
+**Chemical Experiments** · Customs · CHORE
+(place the corrugated hose on the 2nd floor of the med lab — was called
+`Spa Tour - Part 7`)
+
+**Supplements** · Customs · FIND
+(chemical vial + **4 respirators** — undocumented anywhere, we worked it out from your
+screen)
+
+**Huntsman Path – Trophy** · Customs · FIGHT
+(kill Reshala — the TT had already been handed in, so this was the only objective left)
+
+**The Punisher – Part 1** · Customs · FIGHT
+(25 scavs with an AKS-74U, anywhere on the map)
+
+## Factory
+
+**Chemical – Part 3** · Factory · FIND
+(grab the bright yellow syringe — **looks like a pen**)
+
+**Postman Pat – Part 1** · Factory · FIND
+(letter off the messenger's body)
+
+**Scout** · Factory · FIND
+(find all 3 Factory extracts)
+
+**Exit Here** · Factory · CHORE
+(extract through the main exit — pairs with Scout, one run did both)
+
+**Black Swan** · Factory · CHORE
+(mark **1** heat exchanger with an MS2000 — sources said 3, they were wrong)
+
+**Possessor** · Factory · ?
+(no details recorded)
+
+**All Is Revealed** · Factory · ?
+(no details recorded)
+
+## Multi-map
+
+**Every Hunter Knows This** · Factory + Customs · FIND
+(2 tripwire spots — Factory breach room, and the Customs 3-story dorm stairs)
+
+**All This Filth** · any · FIGHT
+(kill scavs, any location — ⚠️ the wiki says "kill Shturman 20×", which is completely
+wrong for 1.1)
+
+**A Healthy Alternative** · ? · ?
+(⚠️ **this is the one that failed `One Less Loose End`** — they were a choice branch)
+
+**Postman Pat – Part 2** · ? · ?
+(⚠️ **unconfirmed** — this was listed as both done and not started. Check your screen and
+tell me which)
+
+## Gunsmith — all four done at the bench
+
+**Gunsmith – OP-SKS** · hideout · CHORE
+**Gunsmith – Model 870** · hideout · CHORE
+**Gunsmith – M4A1** · hideout · CHORE
+**Gunsmith – P226R** · hideout · CHORE
+
+(no raid, no risk, pure Mechanic rep — which feeds Mechanic LL4 for Kappa. They're
+stat-based, so any parts that hit the numbers work. **Keep the P-2 foregrip** for the next
+tier.)
+
+## ❌ Failed
+
+**One Less Loose End** · ? · ?
+(killed by finishing `A Healthy Alternative` — they were mutually exclusive)
+
+> ⚠️ **This will happen again.** Before finishing anything that reads like picking a side,
+> check what it locks out. `Chemical - Part 4` is the live example: three branches, and
+> taking one fails the other two.
+
+---
+
 # Keeping this updated
 
 Tell me what happened and I edit, commit and push. Paste this file into any new chat and
 I'm caught up straight away.
-
-**Open question:** is `Postman Pat – Part 2` actually done? It was listed both ways.
-
-### Finished — names only
-
-Break the Deal · Chemical Experiments · Private Club · Chemical Parts 1, 2, 3 ·
-All This Filth · Huntsman Path – Trophy · Punisher Part 1 · Postman Pat Part 1 ·
-Possessor · All Is Revealed · A Healthy Alternative · Exit Here · Black Swan ·
-Every Hunter Knows This · Supplements · Scout · Gunsmith OP-SKS, Model 870, M4A1, P226R
-
-**Failed:** `One Less Loose End` — killed by finishing `A Healthy Alternative`.
