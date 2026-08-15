@@ -126,6 +126,8 @@ beats anything I look up.**
 | `A Fuel Matter` | 2 fuel tank groups | matched |
 | `All This Filth` | kill Scavs anywhere | wiki says "kill Shturman 20×" — wrong |
 | `The Courier` | **1** REAP-IR, **quest gives it to you**, fits in pockets, **can NOT go in a secure container** | said 2, bought, and got the container part wrong |
+| `The Punisher - Part 2` | **15 Scavs with an AKM series weapon, on Shoreline** | this file said "12 suppressed + 10 lower half masks" — completely wrong |
+| `Health Care Privacy - Part 2` | **needs a key** *(name not recorded — tell me and I'll log it)* | no source mentions a key at all |
 | `Every Hunter Knows This` | Factory breach room + Customs 3-story dorm stairs | — |
 | `Informed Means Armed` | **2 cameras only** — Woods + Interchange | lists a third on Customs |
 | `Black Swan` | **1** heat exchanger | said 3 |
@@ -139,48 +141,35 @@ beats anything I look up.**
 
 ---
 
-# ▶ NEXT RAID — Customs into Shoreline
+# ▶ NEXT RAID — Shoreline again, and it's a fight trip
 
-**Buy first:** 4× MS2000 · **Health Resort west wing 219 key**
-**Pack:** extra food, water, meds, ammo — it's a transit
-**Bring:** the **suppressed TX-15**, the only gun that pays two quests at once
+Six quests cleared last raid. What's left on Shoreline is **almost all killing**, which is
+the good kind of list.
+
+**⚠️ Two different guns, two different quests.** They don't overlap any more:
+
+- **`The Punisher – Part 2`** wants an **AKM series** weapon
+- **`Wet Job – Part 1`** wants a **suppressed M4A1, ADAR or TX-15**
+
+**Bring both** — AKM series as primary since it's the bigger count, suppressed TX-15 as
+secondary. Or split them across two raids if the weight is bad.
 
 ---
 
-**Seizing the Initiative** · Customs → Shoreline · CHORE
-(customs transit shoreline, then survive and extract there)
-
-**I Need More Power** · Shoreline · CHORE · **33%**
-🔑 Health Resort west wing 219 — **you don't own it, buy it**
-(turn on 2 generators, east wing 220 and west wing 219, one raid, must extract)
-
-**Anesthesia** · Shoreline · CHORE · **66%**
-(plant marker at the last trading post, must extract)
-
-**Rigged Game** · Shoreline · CHORE
-(plant markers on 3 medical containers — resort, cottages, pier)
-
-**The Punisher – Part 2** · Shoreline · FIGHT · **26%**
-(kill 12 scavs with any suppressed gun, grab 10 lower half masks off them)
+**The Punisher – Part 2** · Shoreline · FIGHT
+(kill **15 scavs with an AKM series weapon** — Shoreline only)
 
 **Wet Job – Part 1** · Shoreline · FIGHT
 (kill 10 scavs with a suppressed M4A1, ADAR or TX-15 specifically)
 
 **Capturing Outposts** · Customs · Woods · Shoreline · FIGHT · **2/12**
-(kill 12 PMCs at the scav base on each map — Shoreline's is the Health Resort)
-
-**Chemistry Closet** · Shoreline · FIND
-🔑 Health Resort **office key, blue tape** *(bought)*
-(find Sanitar's office)
-
-**Health Care Privacy – Part 2** · Shoreline · FIND
-(find TerraGroup documents in a room, hand them over)
-
-**Nothing Fishy About This** · Shoreline · FIND
-(find Ragman's SUV)
+(kill 12 PMCs at the scav base — Shoreline's is the Health Resort)
 
 **No Swiping** · Shoreline · FIND + FIGHT
 (find the smugglers' base, then 25 kills in that area)
+
+**👹 Sanitar** · Shoreline · FIGHT
+(spawns Resort or Pier — **boss #5**, still not killed)
 
 **Needle in a Haystack** · Ground Zero · Interchange · Streets · Shoreline · FIND · **33%**
 (look up on fandom — has a Shoreline piece)
@@ -196,9 +185,11 @@ beats anything I look up.**
 
 ---
 
-**Why this trip:** the Health Resort alone is five quests plus **Sanitar** without leaving
-one building. Suppressed scav kills feed three quests at once. Cottages also matter later
-for `The Tarkov Butcher`.
+**Nothing here resets if you die** — no markers, no survive-and-extract. So you can play
+this one aggressive. The Health Resort is still the place to be: PMCs for Capturing
+Outposts and Sanitar both live there.
+
+**No keys needed.** You already own everything this trip wants.
 
 ---
 
@@ -234,9 +225,9 @@ re-issues before you plan this)
 *Also here: `Seizing the Initiative`, `Secrets of Polikhim`, `Capturing Outposts`.*
 **Reshala** — Dorms 3-story · New Gas · Fortress. **Guards hold the rooms — bring nades.**
 
-## SHORELINE
+## SHORELINE — 6 left
 
-All 12 are written out in the Next Raid card above. **Sanitar** spawns Resort or Pier.
+All written out in the Next Raid card above. **Sanitar** spawns Resort or Pier.
 
 ## FACTORY — 1 left
 
@@ -407,8 +398,9 @@ water, 20 Pevko Light beer — **start hoarding now, this takes months**)
 
 # DO THESE NOW
 
-- **Buy 5 MS2000 markers.** Rigged Game 3 + Anesthesia 1 + A Fuel Matter 2 = 6, you own 1.
-- **Buy the Health Resort west wing 219 key** — `I Need More Power` is dead without it.
+- **MS2000: only 2 left to need.** Rigged Game and Anesthesia are done. The last 2 are for
+  `A Fuel Matter` on Reserve — check what you have left over before buying more.
+- **Get an AKM series weapon** for `The Punisher – Part 2`.
 - **Buy an AUG** — nothing on Factory moves without it.
 - **Buy the AK-12 proprietary suppressor + PS-320 scope** for `Job for a Patriot`.
 - **Start hoarding drinks** for `Booze`. 43 items, all found-in-raid, months of collecting.
@@ -611,8 +603,10 @@ skill training speed.
 
 I don't track your stash. This is just the durable stuff that changes what a card can ask.
 
-- **Suppressed:** **TX-15 DML** *(Wet Job P1 **and** Punisher P2)* · MP5 SD *(Punisher P2
-  only)*
+- **Suppressed:** **TX-15 DML** *(Wet Job P1)* · MP5 SD *(no longer covers anything —
+  Punisher P2 turned out to need an AKM series gun)*
+- **⚠️ Do you own an AKM series weapon?** `The Punisher – Part 2` needs one and it isn't
+  on this list. Tell me, or buy one.
 - **Rifles:** MDR ×4 · HK 416A5 ×3 · RD-704 · MCX · SA58 · Mk 16 · AK-545 Short · RPK-16 ·
   NL545 GP · M700 · SR-25 · SR-2M · **AK-12** *(quest build)*
 - **Armor:** THOR CRV · AVS · **WARTECH TV-110** *(quest)* · Korund-VM · Defender-2 ·
@@ -751,6 +745,29 @@ screen)
 
 **The Punisher – Part 1** · Customs · FIGHT
 (25 scavs with an AKS-74U, anywhere on the map)
+
+## Shoreline
+
+**I Need More Power** · Shoreline · CHORE
+🔑 Health Resort west wing **219**
+(turn on 2 generators — east wing 220 and west wing 219 — one raid, must extract)
+
+**Anesthesia** · Shoreline · CHORE
+(plant MS2000 markers at 3 trading posts, must extract)
+
+**Rigged Game** · Shoreline · CHORE
+(plant MS2000 markers on 3 medical containers — Health Resort, cottages, pier)
+
+**Chemistry Closet** · Shoreline · FIND
+🔑 Health Resort **office key, blue tape**
+(find Sanitar's office)
+
+**Health Care Privacy – Part 2** · Shoreline · FIND
+🔑 **needs a key — name not recorded**, found one in raid on the day
+(find TerraGroup documents in a room, hand them over)
+
+**Nothing Fishy About This** · Shoreline · FIND
+(find Ragman's SUV)
 
 ## Factory
 
