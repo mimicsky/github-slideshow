@@ -62,6 +62,24 @@ territory).
 
 ---
 
+# 🔧 GUNSMITH — all bench builds, do them at the hideout
+
+No raid, no risk, pure Mechanic rep — which feeds **Mechanic LL4**, a Kappa requirement.
+Gunsmiths are **stat-based**, so any parts hitting the numbers work.
+
+| Task | Gun | Requirements |
+|---|---|---|
+| **`Gunsmith - OP-SKS`** | OP-SKS | **silencer** + **optic scope** · 20+ round mag · ergo **>35** · recoil **≤350** |
+| **`Gunsmith - Model 870`** 🆕 | Remington 870 | **tactical device** + **Magpul MOE handguard** + **tactical foregrip** · ergo **>60** · recoil **<500** |
+| **`Gunsmith - M4A1`** | M4A1 | **silencer** · **60-round mag** · ergo **~37+** · recoil **≤300** · sighting range **800+** · weight **≤3.8kg** |
+
+💡 **Model 870 wants a tactical foregrip — you have the P-2** you nearly sold. Keep it.
+
+⚠️ Specs from web sources; **check each against your in-game task text** before buying
+parts. Numbers move between patches.
+
+---
+
 # ⚠️ TWO TRANSIT RUNS — they can't be combined
 
 Both start on Customs, both go somewhere different. **Separate raids.**
