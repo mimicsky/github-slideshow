@@ -23,14 +23,18 @@ rewards alone.
 | **Skier** *(Chemical P4)* | key case *(own 1)* · mag case *(own 2, cheap)* · **2× Labs access keycard** | cash or 2 Labs runs |
 | **Prapor** *(Big Customer)* | ammo case *(own 2, cheap)* · grenade case | weakest |
 
-**My pick: Therapist, for the documents case.** You're carrying five-plus keys already
-(Dorm 220, Company, Health Resort 306, LexOs, Iron gate) and that number only grows —
-a documents case is permanent stash relief you'd otherwise pay for. The Labs cards are
-~₽700k or two raids, and you can buy Labs access later with money you're accumulating
-anyway; you can't easily conjure the case back.
+## ✅ Decision: **Skier — `Chemical - Part 4`**
 
-**Take Skier instead if** you want Labs access soon — `Drip Out - Part 1` needs 100 Raider
-kills and Labs is Raider territory.
+The documents case **barters from Therapist for a lion statue (~₽86k) at level 30**, so
+taking it as a reward is only worth ~86k. **2× Labs keycard is ₽400–600k.** Not close.
+
+You end up with both: Labs cards now, documents case in four levels for pocket change.
+
+*(My earlier pick of Therapist priced the doc case as expensive-to-buy. It isn't — the
+barter path makes it cheap, which flips the whole comparison.)*
+
+**Bonus:** Labs access feeds `Drip Out - Part 1` (100 Raider kills — Labs is Raider
+territory).
 
 ---
 
