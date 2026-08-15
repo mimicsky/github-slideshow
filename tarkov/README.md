@@ -3,7 +3,7 @@
 **You play. I track.** Shared brain for tasks, stash, and keep/sell calls.
 
 > **Mode:** PvE · **Patch:** 1.1.0.1.46699 · **Edition:** Unheard (Gamma, Unheard armband)
-> **Level:** 26 · **Faction:** USEC · **Stash:** Level 4 · **Bank:** ₽2,701,934
+> **Level:** 27 · **Faction:** USEC · **Stash:** Level 4 · **Bank:** ₽2,396,005
 > **Synced from screenshots 1–17.** ~110 active tasks logged below.
 
 ---
@@ -62,7 +62,24 @@ territory).
 
 ---
 
-# ▶ NEXT — CUSTOMS → TRANSIT → SHORELINE
+# ⚠️ TWO TRANSIT RUNS — they can't be combined
+
+Both start on Customs, both go somewhere different. **Separate raids.**
+
+| Run | Task | Route |
+|---|---|---|
+| **A** | `Seizing the Initiative` | Customs → **Shoreline**, survive & extract |
+| **B** | `Secrets of Polikhim` 🆕 | grab the **precision tools package in the med lab** on Customs → transit to **Factory**, one raid |
+
+**Run B is the shorter one and doubles up:** the med lab is the building you already know
+from `Supplements`, and landing on Factory lets you chip at `One-Way Ticket` AUG headshots
+before extracting.
+
+**`Gunsmith - Model 870`** 🆕 — bench build, no raid, free Mechanic rep. Do it now.
+
+---
+
+# ▶ RUN A — CUSTOMS → TRANSIT → SHORELINE
 
 **🛒 Buy:** **4× MS2000 marker** *(Rigged Game 3 + Anesthesia 1)* · **Health Resort west
 wing 219 key** *(you only own 306 — without this `I Need More Power` is dead)*
@@ -758,7 +775,8 @@ Arena Business [PVE ZONE] · Professional Fitness – Part 1 [PVE ZONE]
 
 ### 🆕 Newest batch
 
-`The Wall Has Eyes` · **`Chemical - Part 4`** ⭐*Kappa* · ~~`Out of Curiosity`~~ ·
+`The Wall Has Eyes` · **`Chemical - Part 4`** ⭐*Kappa* · `Secrets of Polikhim` ·
+`Gunsmith - Model 870` · ~~`Out of Curiosity`~~ ·
 ~~`Big Customer`~~ *(the last two must NOT be completed — see the warning at the top)*
 
 ### 🆕 New — researched
