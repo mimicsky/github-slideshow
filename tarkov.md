@@ -691,13 +691,9 @@ databases. We build this off your own screen instead.
 Then every raid report ends with **"keep this for the hideout"** — which is what you
 actually asked for.
 
-## 📋 SHORTFALL TALLY — 15 modules recorded
+## 📋 SHORTFALL TALLY — named, 15 modules
 
-*(Item names read off icons. Confirm the big ones and I'll relabel.)*
-
-### 🔴 #1 by a mile: WIRES — you need 50
-
-**Red / blue / yellow coiled wire**, wanted by five modules:
+### 🔴 WIRES — 50
 
 | Module | Short |
 |---|---|
@@ -706,49 +702,61 @@ actually asked for.
 | Heating 3 | 10 |
 | Rest Space 3 | 10 |
 | Shooting Range 2 | 6 |
-| **TOTAL** | **50** |
 
-**Never sell a wire.** Nothing else is remotely close.
+**Never sell a wire.** Five modules want them and nothing else is close.
 
-### 🥇 #2 surprise: the Scav Case eats VALUABLES
+### The full named list
 
-**Scav Case wants gold**, not scrap — the stuff you'd normally vendor without thinking:
-
-| Item | Short |
-|---|---|
-| Gold figurine / statuette | **3** |
-| Gold skull | **4** |
-| Green bottle | **2** |
-| Gold ring | **1** |
-| Gold horse figurine | **1** |
-
-> ⚠️ **This changes your sell habits.** Gold items were pure vendor fodder before. **Stop
-> selling them** until the Scav Case is built.
-
-### Everything else
-
-| Item *(icon read)* | Modules | Short |
+| Item | Modules | **Short** |
 |---|---|---|
-| **White/grey folded filter** | Generator 3 (12) · Heating 3 (4) | **16** |
-| **Spark plug / metal rod** | Generator 3 | **14** |
-| **White corrugated hose** | Lavatory 3 (10) · Rest Space 3 (5) | **15** |
-| **Glass jar / canister** | Security 3 (5) · Workbench 3 (4) · Shooting Range 2 (1) | **10** |
-| **Yellow book / folder** | Gear Rack | **9** |
-| **Screws / bolts** | Gear Rack | **9** |
-| **White bottle** | Medstation 3 | **8** |
-| **Silver cylinder** | Intelligence Center 3 | **5** |
-| **Gold coil** | Intelligence Center 3 | **5** |
-| **Green tube** | Rest Space 3 | **3** |
-| **Metal can · orange package · cardboard box** | Nutrition 3 · Vents 3 | **3** each |
-| **Flat grey panel** | Security 3 (2) · Intelligence Center 3 (2) | **4** |
-| **Plastic bottle · grey device** | Nutrition 3 · Intelligence Center 3 | **2** each |
-| **Motor · circuit board · disc · purple device · gold figurine** | various | **1** each |
+| **Wires** | Vents · Security · Heating · Rest Space · Shooting Range | **50** |
+| **Phase control relay** | Generator 12 · Heating 4 | **16** |
+| **Spark plug** | Generator | **14** |
+| **Corrugated hose** | Lavatory | **10** |
+| **Fleece fabric** | Gear Rack | **9** |
+| **Bolts** | Gear Rack | **9** |
+| **Bottle of saline** | Medstation | **8** |
+| **NIXXOR lens** | Security | **5** |
+| **Power cord** | Rest Space | **5** |
+| **Can of thermite** | Workbench | **4** |
+| **Gold skull ring** | Scav Case | **4** |
+| **Bronze lion** | Scav Case | **3** |
+| **Car battery** | Vents | **3** |
+| **Greenbat** | Rest Space | **3** |
+| **Sodium bicarbonate** | Nutrition | **3** |
+| **Coffee beans** | Nutrition | **3** |
+| **Working LCD** | Security | **2** |
+| **Drain cleaner** | Nutrition | **2** |
+| **Moonshine** | Scav Case | **2** |
+| **🐓 Golden rooster** | **Hall of Fame 1 + Scav Case 1** | **2** |
+| **Measuring tape** | Shooting Range | **1** |
+| **Electric motor** | Vents | **1** |
+| **Power supply unit (PSU)** | Generator | **1** |
+| **Gold wrist watch** | Scav Case | **1** |
 
-### ₿ Bitcoin Farm — 43 items, nothing started
+### 🧠 Intelligence Center 3 — 16 items, mapping unconfirmed
 
-Tool **15** · silver plate **12** · orange coil **8** · drive/PSU **6** · flat board **2**
+The six are **magnetic tape · military flash drive · VPX · GPS amplifier · COFDM ·
+military cable**. Counts needed are **5, 5, 2, 2, 1, 1** — but I don't know which name
+goes with which number. **Tell me and I'll finish this row.**
 
-## 🔗 The dependency tree — this is the real bottleneck
+### ₿ Bitcoin Farm — 43 items, still unnamed
+
+tool-like **15** · silver plate **12** · orange coil **8** · drive/PSU **6** · flat board
+**2**. *(Might overlap with PSU and military cable — send me the names.)*
+
+## ⚠️ Two collisions worth knowing
+
+> 🐓 **You need TWO golden roosters.** One finishes **Hall of Fame 2** *(it's the only
+> thing that module is missing)* and one goes into the **Scav Case**. Finding one and
+> spending it on the wrong module costs you the other.
+
+> 🦁 **Bronze lion is double-booked.** The Scav Case wants **3** — and the
+> **documents case barters from Therapist for a lion statue at level 30**, which this file
+> has been recommending as cheap stash relief. **That's 4 total.** Don't spend your third
+> one on the barter and stall the Scav Case.
+
+## 🔗 Dependency tree — the real bottleneck
 
 ```
 Illumination 3 ──► Shooting Range 2
@@ -760,18 +768,14 @@ Workbench 3 ──────────────────────�
 Water Collector 2 ──► Lavatory 3
 ```
 
-> 💰 **Intelligence Center 3 is the money prize: Flea Market fee −30% and Scav cooldown
-> −20%.** But it sits **four levels deep** — Illumination 3 → Security 3 → Generator 3 →
-> Intelligence Center 3, plus Workbench 3 on the side. That's the longest chain in the
-> hideout and it ends in the single best economic bonus available to you.
->
-> **Illumination 3 is the keystone** and it's building now.
+> 💰 **Intelligence Center 3 gives Flea Market fee −30% and Scav cooldown −20%** — the best
+> economic upgrade available to you, sitting **four deep** behind Illumination 3.
+> **Illumination 3 is building now** and unblocks the whole chain.
 
-## ✅ Fully stocked — don't buy these
+## ✅ Don't buy these — already stocked
 
-**Hall of Fame 2** needs only **1 gold figurine** — everything else is done. **Gear Rack**
-has its roubles and 5 of its 8 item types complete. Roubles are met on Workbench 3,
-Nutrition 3, Medstation 3 and Gear Rack.
+**Hall of Fame 2** needs only the golden rooster. **Gear Rack** roubles and 5 of 8 item
+types done. Roubles met on Workbench 3, Nutrition 3, Medstation 3, Gear Rack.
 
 **Once this table exists, everything in it joins the never-sell list automatically**, same
 as quest items.
@@ -793,7 +797,17 @@ Higher rule wins.
 5. **Where you sell matters** — trader for thin margins, flea when it covers fee and wait.
 6. **Rare and unsure → keep one, sell the rest.**
 
-**Never sell:** Bulbex cable cutter · AK-12 · WARTECH gear · Booze drinks · any key.
+**Never sell — quest:** Bulbex cable cutter · AK-12 · WARTECH gear · Booze drinks · any key.
+
+**Never sell — hideout** *(see the tally for counts)*: **Wires** *(50!)* · phase control
+relay · spark plugs · corrugated hose · fleece fabric · bolts · saline · NIXXOR lens ·
+power cord · can of thermite · car battery · Greenbat · sodium bicarbonate · coffee beans ·
+Working LCD · drain cleaner · measuring tape · electric motor · PSU · magnetic tape ·
+military flash drive · VPX · GPS amplifier · COFDM · military cable
+
+**Never sell — valuables the Scav Case eats:** 🐓 **golden rooster ×2** · gold skull ring ·
+**bronze lion** · gold wrist watch · moonshine. **These used to be pure vendor fodder.
+Not any more.**
 
 **Standing sell:** spare low-tier armor past one · attachments that don't fit the AK-74M,
 AKS-74U or Glock · ammo you don't run · bulky stuff under 10k a slot with no quest on it.
