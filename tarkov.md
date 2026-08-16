@@ -207,8 +207,12 @@ have the ophthalmoscope, so this one item closes the quest.
 - **`Job for a Patriot`** — the same PMCs, if you built the AK-12
 - **👹 Sanitar** — **boss #5, still alive**
 
-### 🚬 Smugglers' base
-- **`No Swiping`** — **10 kills** in the base area ✅*verified*
+### 🚬 Smugglers' base — **and it's a loot spot**
+
+> 💰 **You can spawn here, and the loot is excellent** — a single pass filled a 70lb bag.
+> Worth routing through even on raids that aren't about `No Swiping`.
+
+- **`No Swiping`** **3/10** — kills in the base area
 
 ## 🔫 Background
 
@@ -287,7 +291,7 @@ top of a wardrobe**)
 (find the **fishermen's dwelling on the island** and **mark the fishing table with an
 MS2000** — **no need to survive**) ⭐ *sources call it Kappa-required — verify*
 
-**No Swiping** · Shoreline · FIND + FIGHT ✅*verified*
+**No Swiping** · Shoreline · FIND + FIGHT · **3/10** ✅*verified*
 (find the smugglers' base, then **10 kills** in the base area)
 
 ## FACTORY — 1 left
