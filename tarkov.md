@@ -143,6 +143,7 @@ beats anything I look up.**
 | `All This Filth` | kill Scavs anywhere | wiki says "kill Shturman 20×" — wrong |
 | `The Courier` | **1** REAP-IR, **quest gives it to you**, fits in pockets, **can NOT go in a secure container** | said 2, bought, and got the container part wrong |
 | `The Punisher - Part 2` | **15 Scavs with an AKM series weapon, on Shoreline** | this file said "12 suppressed + 10 lower half masks" — completely wrong |
+| `Thirsty - Hounds` | **12 Scavs between 22:00–07:00 on Shoreline** — night only | matched |
 | `Health Care Privacy - Part 2` | needs the **Health Resort west wing 306** key | no source mentions a key at all |
 | `Every Hunter Knows This` | Factory breach room + Customs 3-story dorm stairs | — |
 | `Informed Means Armed` | **2 cameras only** — Woods + Interchange | lists a third on Customs |
@@ -157,85 +158,68 @@ beats anything I look up.**
 
 ---
 
-# ▶ NEXT RAID — Shoreline, 11 quests
+# ▶ NEXT RAID — Shoreline cleanup, then Customs is next
 
-Straight off your quest screen. Everything below is either Shoreline-tagged or Any
-location, so it all counts on this one raid.
+Five done last raid. What's left on Shoreline is **small and grouped** — one good run
+closes the map out.
 
 ## 🛒 Before you load in
 
 | | |
 |---|---|
-| **AKM series** | ✅ owned — **primary**, 15 scav kills |
-| **Suppressed TX-15 / M4A1 / ADAR** | secondary, 10 scav kills |
-| **1× MS2000** | `Weapons Circulation` ritual spot |
-| **Grenades** | Sanitar's guards hold rooms, same as Reshala's |
-| **Insure** | helmet · armor/rig · headphones · both guns · backpack |
+| **2× MS2000** | fishing table *(Wet Job P2)* + ritual spot *(Weapons Circulation)* |
+| **A PMC-killing kit** | `Capturing Outposts` needs 10 more PMCs |
+| **Grenades** | Sanitar's guards, if he shows |
+| **Insure** | the usual |
 
-### 🔑 Keys
+**No keys needed.** The cottage key already did its job.
 
-| Key | For | |
-|---|---|---|
-| **Cottage back door** | villa ophthalmoscope, `Tarkov-Style Diplomacy` | ❌ **don't own — buy or skip that half** |
+## 🎯 Priority 1 — finish `Tarkov-Style Diplomacy`
 
-> ⚠️ **Three quests want three different guns and you only have two slots.**
-> `Punisher P2` wants an **AKM series**, `Wet Job P1` wants a **suppressed M4A1/ADAR/TX-15**,
-> `Job for a Patriot` wants an **AK-12 + proprietary suppressor + PS-320**.
-> **Take the AKM and the suppressed gun this raid** — those two are both scav kills, which
-> is the bulk of the work. `Job for a Patriot` is PMC kills and needs parts you haven't
-> bought yet, so give it its own raid later.
-
-## 🎯 Priority 1 — `The Punisher – Part 2`
-
-**15 scavs with the AKM.** Map-locked to Shoreline, biggest single count on the board.
+You have the ophthalmoscope. **The surgery kit is on top of a wardrobe, 2nd floor of the
+pier office building.** One item and a whole quest closes.
 
 ---
 
-## 🎯 FIGHT — swap guns as needed
+## By location
 
-- **`The Punisher – Part 2`** — 15 scavs, **AKM series**
-- **`Wet Job – Part 1`** — 10 scavs, **suppressed** M4A1/ADAR/TX-15
-- **`Thirsty – Hounds`** 🆕 🌙 **needs a NIGHT raid** — elimination, count unknown
-- **`No Swiping`** — kills inside the smugglers' base *(⚠️ 25 or 10? check your screen)*
-- **`A Shooter Born in Heaven`** 50% ⭐Kappa — long-range headshots. Resort-to-pier
-  sightlines are good for this.
-- **`Capturing Outposts`** 2/12 — PMCs at the Health Resort
-- **👹 Sanitar** — Resort or Pier. **Boss #5.**
+### ⚓ Pier
+- **`Tarkov-Style Diplomacy`** 50% — **surgery kit, 2F office, on the wardrobe**
+- **👹 Sanitar** — alternate spawn
 
-## 🔍 FIND
+### 🏝 Fishermen's dwelling — the island
+- **`Wet Job – Part 2`** 🆕 — find it, **mark the fishing table with an MS2000**
 
-- **`Tracker`** — Health Resort: reservoir room · **secure folder on blue barrels, room 108
-  east wing** · second cargo part in the **west wing basement**
-- **`Master Key`** 🆕 — **key on a chair in the bunker NORTH of the resort.** Only spawns
-  while the quest is active. **Must extract with it.**
-- **`Needle in a Haystack`** 33% — **children's playground NE of the resort** + **blue-fenced
-  construction site, SE coast**
-- **`Tarkov-Style Diplomacy`** — **surgery kit** on a wardrobe, pier office 2F ·
-  **ophthalmoscope** in a potted plant, villa 2F left room 🔑
+### 🏥 Health Resort
+- **`Capturing Outposts`** 2/12 — PMCs, this is the scav base
+- **`Needle in a Haystack`** — **children's playground, NE of the building**
+- **👹 Sanitar** — Resort or Pier. **Boss #5, still alive.**
 
-## 📍 CHORE
+### 🏗 South-east coast
+- **`Needle in a Haystack`** — **blue-fenced construction site**
 
-- **`Weapons Circulation`** 🆕 — mark **1 ritual spot** with MS2000. Shoreline spot isn't
-  documented — if you find it, tell me and it goes in the confirmed table.
+### 🚬 Smugglers' base
+- **`No Swiping`** — kills in the base area *(⚠️ 25 or 10? check your screen)*
+- Also a **propane tank** spawn if you ever need more
+
+### ❓ Somewhere on Shoreline
+- **`Weapons Circulation`** — 1 ritual spot, MS2000. **Undocumented — tell me if you find
+  it.**
 
 ---
 
-**Only `Master Key` needs you to survive** — it's a physical key you carry out. Everything
-else is safe to die on.
+## ⏭ After this: Customs, and it's a big one
 
-**The bunker north of the resort is a new stop** — it wasn't on any previous card.
+Customs has quietly filled up while you were on Shoreline:
 
-## 🌙 Running it at night — what changes
+- **`The Punisher – Part 3`** 🆕 — **25 scavs with an AKS-74U.** Rewards a **DVL-10 sniper**
+- **`Angry Watchman`** 1/3 — PMCs, **Dorms zone only**
+- **`Thirsty – Delivery`** 🆕 — stash a propane tank in the **little store by the crossroads**
+- **`Capturing Outposts`** — Customs has its own 12
+- **`Secrets of Polikhim`** — the Factory transit
+- **`The Courier`** · **`Shipment Tracking`**
 
-- **NVGs or a thermal.** ⚠️ **Neither is on your gear list** — check you actually have one
-  before you commit to a night raid.
-- **The FIND quests get harder, not easier.** A folder on blue barrels, an item in a potted
-  plant, a key on a chair in a bunker — all small objects in dark rooms. A flashlight
-  finds them but announces you.
-- **`A Shooter Born in Heaven` is worse at night.** Long-range headshots need to see
-  distance. Consider leaving that one for a day raid.
-- **Suppressed + night is your best combo** — `Wet Job` and `Punisher` both benefit.
-- **Sanitar still spawns at night.** Boss #5 is still live.
+**Bring an AKS-74U** — that's the anchor for the whole trip.
 
 ---
 
@@ -268,6 +252,15 @@ re-issues before you plan this)
 **Shipment Tracking** · Customs · ?
 (look up on fandom)
 
+**The Punisher – Part 3** · Customs · FIGHT 🆕
+(**25 scavs with an AKS-74U** — AKS-74U, AKS-74UN, AKS-74UB or SAG AK Short all count.
+Rewards a **DVL-10 bolt-action sniper**)
+
+**Thirsty – Delivery** · Customs + Woods · CHORE 🆕
+(Skier mails you **2 propane tanks** — stash one in the **little store by the crossroads**
+on Customs, the other in the **Scav bunker with the radio tower** in the Woods nature
+reserve. **Check your in-game mail for the tanks.**)
+
 **Supervisor** · Customs *(or flea)* · FIND 🆕
 (get the **Goshan cash register key** and hand it to Ragman — it's on a **bus seat behind
 the gas station**, or just **buy it on flea**. Pays **₽250k**)
@@ -279,14 +272,13 @@ the gas station**, or just **buy it on flea**. Pays **₽250k**)
 
 All written out in the Next Raid card above. **Sanitar** spawns Resort or Pier.
 
-**Tarkov-Style Diplomacy** · Shoreline · FIND
-🔑 **Cottage back door key** *(you don't own it)*
-(2 Sanitar items — surgery kit on a wardrobe, pier office 2F · ophthalmoscope in a potted
-plant, villa 2F left room)
+**Tarkov-Style Diplomacy** · Shoreline · FIND · **50%**
+(✅ ophthalmoscope done — **still need the surgery kit: pier office building, 2nd floor, on
+top of a wardrobe**)
 
-**Tracker** · Shoreline · FIND
-(Health Resort — reservoir room, secure folder on blue barrels in room 108 east wing,
-second cargo part in the west wing basement)
+**Wet Job – Part 2** · Shoreline · CHORE 🆕
+(find the **fishermen's dwelling on the island** and **mark the fishing table with an
+MS2000**) ⭐ *sources call it Kappa-required — pre-rework data, verify*
 
 **No Swiping** · Shoreline · FIND + FIGHT
 (find the smugglers' base, then kills in the base area — ⚠️ **25 or 10? check your screen**)
@@ -294,15 +286,6 @@ second cargo part in the west wing basement)
 **Needle in a Haystack** · Shoreline piece · FIND 🔍
 (construction site with blue fences on the south-east coast, and the children's playground
 north-east of the Health Resort)
-
-**Master Key** · Shoreline · FIND ✋ 🆕
-(grab the **key to the closed premises of the Health Resort** — it's on a **chair in the
-bunker north of the resort**, and **only spawns while the quest is active** — then extract
-and hand it to Peacekeeper)
-
-**Thirsty – Hounds** · Shoreline · FIGHT 🎯 🆕
-🌙 **NIGHT RAID REQUIRED**
-(elimination quest — **count and target still unknown, send me the in-game text**)
 
 **Weapons Circulation** · Shoreline + Woods · CHORE 🆕
 (mark **3 ritual spots** with MS2000 — **1 on Shoreline** *(spot not documented)*, 2 on
@@ -355,6 +338,10 @@ is no Customs one**)
 
 **Chumming** · Customs · Interchange · Woods · CHORE
 (stash 3 golden neck chains in a microwave — **Customs piece already done**)
+
+**Thirsty – Delivery** · Woods + Customs · CHORE 🆕
+(stash a propane tank in the **Scav bunker with the radio tower**, nature reserve — tanks
+come from Skier by mail)
 
 **Health Care Privacy – Part 3** · Woods · FIND 🆕
 (take a **blood sample** from the **van of the Health Resort medical services director** —
@@ -494,9 +481,12 @@ water, 20 Pevko Light beer — **start hoarding now, this takes months**)
 
 # DO THESE NOW
 
-- **MS2000: 8 total now.** `Weapons Circulation` **1 Shoreline + 2 Woods** · `Minibus`
-  **3 Interchange** · `A Fuel Matter` **2 Reserve**. Buy in batches per trip, not all at
-  once.
+- **MS2000: 9 total.** Shoreline **2** *(Weapons Circulation 1 + Wet Job P2 1)* · Woods
+  **2** *(Weapons Circulation)* · Interchange **3** *(Minibus)* · Reserve **2**
+  *(A Fuel Matter)*. Buy per trip, not all at once.
+- **Check your in-game mail** — Skier sends the 2 propane tanks for `Thirsty – Delivery`.
+- **Do you own an AKS-74U?** `The Punisher – Part 3` needs one (or AKS-74UN / AKS-74UB /
+  SAG AK Short). You used one for Part 1, so probably yes.
 - **Buy the Goshan cash register key on flea** — that's `Supervisor` done for ₽250k profit,
   no raid required.
 - **Buy the Cottage back door key** if you want the `Tarkov-Style Diplomacy` villa half.
@@ -874,6 +864,27 @@ screen)
 
 **Nothing Fishy About This** · Shoreline · FIND
 (find Ragman's SUV)
+
+**The Punisher – Part 2** · Shoreline · FIGHT
+(15 scavs with an **AKM series** weapon)
+
+**Wet Job – Part 1** · Shoreline · FIGHT
+(10 scavs with a **suppressed** M4A1, ADAR or TX-15)
+
+**Tracker** · Shoreline · FIND
+(Health Resort — reservoir room, secure folder on blue barrels room 108 east wing, second
+cargo part in the west wing basement)
+
+**Master Key** · Shoreline · FIND
+(key to the closed premises, **on a chair in the bunker north of the resort** — only spawns
+while active, must extract with it)
+
+**Thirsty – Hounds** · Shoreline · FIGHT 🌙
+(**12 scavs between 22:00 and 07:00** — night raid only)
+
+**Thirsty – Breadwinner** · any · FIND
+(**2× Propane tank 5L found in raid** — OLI on Interchange, the smugglers' base on
+Shoreline, or any fuel/building material spawn)
 
 ## Factory
 
