@@ -195,7 +195,7 @@ location, so it all counts on this one raid.
 
 - **`The Punisher – Part 2`** — 15 scavs, **AKM series**
 - **`Wet Job – Part 1`** — 10 scavs, **suppressed** M4A1/ADAR/TX-15
-- **`Thirsty – Hounds`** 🆕 — elimination, **count unknown — send me the text**
+- **`Thirsty – Hounds`** 🆕 🌙 **needs a NIGHT raid** — elimination, count unknown
 - **`No Swiping`** — kills inside the smugglers' base *(⚠️ 25 or 10? check your screen)*
 - **`A Shooter Born in Heaven`** 50% ⭐Kappa — long-range headshots. Resort-to-pier
   sightlines are good for this.
@@ -224,6 +224,18 @@ location, so it all counts on this one raid.
 else is safe to die on.
 
 **The bunker north of the resort is a new stop** — it wasn't on any previous card.
+
+## 🌙 Running it at night — what changes
+
+- **NVGs or a thermal.** ⚠️ **Neither is on your gear list** — check you actually have one
+  before you commit to a night raid.
+- **The FIND quests get harder, not easier.** A folder on blue barrels, an item in a potted
+  plant, a key on a chair in a bunker — all small objects in dark rooms. A flashlight
+  finds them but announces you.
+- **`A Shooter Born in Heaven` is worse at night.** Long-range headshots need to see
+  distance. Consider leaving that one for a day raid.
+- **Suppressed + night is your best combo** — `Wet Job` and `Punisher` both benefit.
+- **Sanitar still spawns at night.** Boss #5 is still live.
 
 ---
 
@@ -289,7 +301,8 @@ bunker north of the resort**, and **only spawns while the quest is active** — 
 and hand it to Peacekeeper)
 
 **Thirsty – Hounds** · Shoreline · FIGHT 🎯 🆕
-(elimination quest — **count and target unknown, send me the in-game text**)
+🌙 **NIGHT RAID REQUIRED**
+(elimination quest — **count and target still unknown, send me the in-game text**)
 
 **Weapons Circulation** · Shoreline + Woods · CHORE 🆕
 (mark **3 ritual spots** with MS2000 — **1 on Shoreline** *(spot not documented)*, 2 on
