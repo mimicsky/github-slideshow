@@ -729,6 +729,8 @@ actually asked for.
 | **Drain cleaner** | Nutrition | **2** |
 | **Moonshine** | Scav Case | **2** |
 | **🐓 Golden rooster** | **Hall of Fame 1 + Scav Case 1** | **2** |
+| **Sealing foam** | Water Collector 3 | **1** |
+| **Ratchet wrench** | Water Collector 3 | **1** |
 | **Measuring tape** | Shooting Range | **1** |
 | **Electric motor** | Vents | **1** |
 | **Power supply unit (PSU)** | Generator | **1** |
@@ -740,10 +742,30 @@ The six are **magnetic tape · military flash drive · VPX · GPS amplifier · C
 military cable**. Counts needed are **5, 5, 2, 2, 1, 1** — but I don't know which name
 goes with which number. **Tell me and I'll finish this row.**
 
-### ₿ Bitcoin Farm — 43 items, still unnamed
+### ₿ Bitcoin Farm — 43 items, names in, **mapping inferred**
 
-tool-like **15** · silver plate **12** · orange coil **8** · drive/PSU **6** · flat board
-**2**. *(Might overlap with PSU and military cable — send me the names.)*
+The five are **power cord · CPU fan · T plug · PSU · VPX**. Matching them to counts in the
+order you listed them:
+
+| Item | Short | |
+|---|---|---|
+| T plug | **15** | ⚠️ inferred |
+| Power cord | **12** | ⚠️ inferred |
+| VPX | **8** | ⚠️ inferred |
+| CPU fan | **6** | ⚠️ inferred |
+| PSU | **2** | ⚠️ inferred |
+
+**Confirm this order** — if I've paired them wrong the numbers are all shuffled.
+
+### 🔁 Three items are wanted by more than one module
+
+| Item | Where | Combined |
+|---|---|---|
+| **Power cord** | Rest Space **5** + Bitcoin Farm **12** | **17** |
+| **PSU** | Generator **1** + Bitcoin Farm **2** | **3** |
+| **VPX** | Intelligence Center **?** + Bitcoin Farm **8** | **8+** |
+
+Power cord quietly becomes your **#2 item after wires**.
 
 ## ⚠️ Two collisions worth knowing
 
@@ -761,16 +783,22 @@ tool-like **15** · silver plate **12** · orange coil **8** · drive/PSU **6** 
 ```
 Illumination 3 ──► Shooting Range 2
                └─► Security 3 ──┐
-                                 ├──► Generator 3 ──┐
-Vents 3 ─────────────────────────┘                  ├──► Intelligence Center 3
-Workbench 3 ─────────────────────────────────────────┘
-
+                                 ├──► GENERATOR 3 ──┬──► Intelligence Center 3
+Vents 3 ─────────────────────────┘                  │    (+ Workbench 3)
+                                                     └──► Water Collector 3
 Water Collector 2 ──► Lavatory 3
 ```
 
+> ⚡ **Generator 3 is the hub of the entire hideout.** It gates **Intelligence Center 3**
+> *and* **Water Collector 3**, and it's itself gated behind **Vents 3 + Security 3**.
+> Everything funnels through it.
+>
 > 💰 **Intelligence Center 3 gives Flea Market fee −30% and Scav cooldown −20%** — the best
 > economic upgrade available to you, sitting **four deep** behind Illumination 3.
-> **Illumination 3 is building now** and unblocks the whole chain.
+> **Illumination 3 is building now** and starts the whole chain.
+>
+> **Generator 3's own materials:** 14 spark plugs · 12 phase control relays · 1 PSU. That's
+> the gate to unlock.
 
 ## ✅ Don't buy these — already stocked
 
@@ -802,8 +830,9 @@ Higher rule wins.
 **Never sell — hideout** *(see the tally for counts)*: **Wires** *(50!)* · phase control
 relay · spark plugs · corrugated hose · fleece fabric · bolts · saline · NIXXOR lens ·
 power cord · can of thermite · car battery · Greenbat · sodium bicarbonate · coffee beans ·
-Working LCD · drain cleaner · measuring tape · electric motor · PSU · magnetic tape ·
-military flash drive · VPX · GPS amplifier · COFDM · military cable
+Working LCD · drain cleaner · measuring tape · electric motor · **PSU** · magnetic tape ·
+military flash drive · **VPX** · GPS amplifier · COFDM · military cable · **CPU fan** ·
+**T plug** · sealing foam · ratchet wrench · pliers elite
 
 **Never sell — valuables the Scav Case eats:** 🐓 **golden rooster ×2** · gold skull ring ·
 **bronze lion** · gold wrist watch · moonshine. **These used to be pure vendor fodder.
