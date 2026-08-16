@@ -705,6 +705,17 @@ actually asked for.
 
 **Never sell a wire.** Five modules want them and nothing else is close.
 
+### 🏆 Top 6 — these are 121 of everything you need
+
+| Rank | Item | Short |
+|---|---|---|
+| 1 | **Wires** | **50** |
+| 2 | **Power cord** | **20** |
+| 3 | **Phase control relay** | **16** |
+| 4 | **Spark plug** | **14** |
+| 5 | **CPU fan** | **12** |
+| 6 | **Corrugated hose** | **10** |
+
 ### The full named list
 
 | Item | Modules | **Short** |
@@ -717,7 +728,11 @@ actually asked for.
 | **Bolts** | Gear Rack | **9** |
 | **Bottle of saline** | Medstation | **8** |
 | **NIXXOR lens** | Security | **5** |
-| **Power cord** | Rest Space | **5** |
+| **Power cord** | Bitcoin Farm 15 · Rest Space 5 | **20** |
+| **CPU fan** | Bitcoin Farm | **12** |
+| **T plug** | Bitcoin Farm | **8** |
+| **PSU** | Bitcoin Farm 6 · Generator 1 | **7** |
+| **VPX** | Bitcoin Farm 2 · Intelligence Center ? | **2+** |
 | **Can of thermite** | Workbench | **4** |
 | **Gold skull ring** | Scav Case | **4** |
 | **Bronze lion** | Scav Case | **3** |
@@ -742,30 +757,25 @@ The six are **magnetic tape · military flash drive · VPX · GPS amplifier · C
 military cable**. Counts needed are **5, 5, 2, 2, 1, 1** — but I don't know which name
 goes with which number. **Tell me and I'll finish this row.**
 
-### ₿ Bitcoin Farm — 43 items, names in, **mapping inferred**
+### ₿ Bitcoin Farm — 43 items ✅*confirmed*
 
-The five are **power cord · CPU fan · T plug · PSU · VPX**. Matching them to counts in the
-order you listed them:
-
-| Item | Short | |
+| Item | Have | Short |
 |---|---|---|
-| T plug | **15** | ⚠️ inferred |
-| Power cord | **12** | ⚠️ inferred |
-| VPX | **8** | ⚠️ inferred |
-| CPU fan | **6** | ⚠️ inferred |
-| PSU | **2** | ⚠️ inferred |
-
-**Confirm this order** — if I've paired them wrong the numbers are all shuffled.
+| **Power cord** | 0/15 | **15** |
+| **CPU fan** | 3/15 | **12** |
+| **T plug** | 2/10 | **8** |
+| **PSU** | 4/10 | **6** |
+| **VPX** | 0/2 | **2** |
 
 ### 🔁 Three items are wanted by more than one module
 
-| Item | Where | Combined |
+| Item | Where | **Combined** |
 |---|---|---|
-| **Power cord** | Rest Space **5** + Bitcoin Farm **12** | **17** |
-| **PSU** | Generator **1** + Bitcoin Farm **2** | **3** |
-| **VPX** | Intelligence Center **?** + Bitcoin Farm **8** | **8+** |
+| **Power cord** | Bitcoin Farm **15** + Rest Space **5** | **20** |
+| **PSU** | Bitcoin Farm **6** + Generator **1** | **7** |
+| **VPX** | Bitcoin Farm **2** + Intelligence Center **?** | **2+** |
 
-Power cord quietly becomes your **#2 item after wires**.
+**Power cord is your #2 item after wires.**
 
 ## ⚠️ Two collisions worth knowing
 
