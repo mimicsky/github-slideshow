@@ -204,7 +204,7 @@ have the ophthalmoscope, so this one item closes the quest.
 - **`Wet Job – Part 2`** — **mark the fishing table with an MS2000**
 
 ### 🏥 Health Resort
-- **`Capturing Outposts`** **2/12** — PMCs, **and this is the only zone that counts**
+- **`Capturing Outposts`** **5/12** — PMCs, **and this is the only zone that counts**
 - **`Job for a Patriot`** **3/10** — the same PMCs, with the Prapor AK-12
 - **👹 Sanitar** — **boss #5, still alive**
 
