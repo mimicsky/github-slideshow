@@ -691,13 +691,79 @@ databases. We build this off your own screen instead.
 Then every raid report ends with **"keep this for the hideout"** — which is what you
 actually asked for.
 
-## 📋 NEED / HAVE / SHORT BY
+## 📋 RUNNING SHORTFALL TALLY
 
-*(empty — send the first module panel and this fills in)*
+*(10 modules recorded. Item names are read off icons — confirm the big ones and I'll
+relabel.)*
 
-| Item | Needed for | Need | Have | Short |
-|---|---|---|---|---|
-| — | — | — | — | — |
+### 🔴 The one that dominates: WIRES
+
+**Red / blue / yellow coiled wire** — needed by four separate modules:
+
+| Module | Short |
+|---|---|
+| Vents 3 | 14 |
+| Security 3 | 10 |
+| Heating 3 | 10 |
+| Shooting Range 2 | 6 |
+| **TOTAL** | **40** |
+
+**Never sell wires. Ever.** Nothing else on the board comes close.
+
+### Everything else, by item
+
+| Item *(icon read)* | Modules | Short |
+|---|---|---|
+| **White/grey folded filter thing** | Generator 3 (12) · Heating 3 (4) | **16** |
+| **Spark plug / metal rod** | Generator 3 | **14** |
+| **White corrugated hose** | Lavatory 3 | **10** |
+| **Glass jar / canister** | Security 3 (5) · Workbench 3 (4) · Shooting Range 2 (1) — *may be different items* | **10** |
+| **White bottle** | Medstation 3 | **8** |
+| **Metal can** | Nutrition 3 | **3** |
+| **Orange package** | Nutrition 3 | **3** |
+| **Cardboard box** | Vents 3 | **3** |
+| **Plastic bottle** | Nutrition 3 | **2** |
+| **Flat grey panel** | Security 3 | **2** |
+| **Motor / pump** | Vents 3 | **1** |
+| **Circuit board / disc** | Generator 3 | **1** |
+
+### ₿ Bitcoin Farm — its own beast
+
+| Item *(icon read)* | Short |
+|---|---|
+| Tool | **15** |
+| Silver plate / board | **12** |
+| Orange coil / wiring | **8** |
+| Drive / PSU | **6** |
+| Flat board | **2** |
+| **TOTAL** | **43 items** |
+
+Nothing on it is close to done. It's the money lever, but it's the furthest away.
+
+## 🔗 Prerequisite chain — this matters more than materials
+
+Several modules aren't blocked by items at all:
+
+```
+Illumination 3  ──►  Shooting Range 2
+                └─►  Security 3  ──┐
+                                    ├──►  Generator 3
+Vents 3  ───────────────────────────┘
+
+Water Collector 2  ──►  Lavatory 3
+```
+
+> **Illumination 3 is the keystone.** It's building now, and finishing it unblocks
+> **Shooting Range 2** and **Security 3** — and Security 3 is half of what Generator 3
+> needs. **Water Collector 2**, also building, unblocks **Lavatory 3**.
+>
+> So two builds already in progress open up four more modules.
+
+## ✅ Already fully stocked — don't buy these
+
+Generator 3 and Vents 3 both have their **gold/tan branching item** at 10/10, and Heating 3
+has its **corrugated hose** at 10/10 and **grey tube** at 2/2. Money and roubles
+requirements are all met on Workbench 3, Nutrition 3 and Medstation 3.
 
 **Once this table exists, everything in it joins the never-sell list automatically**, same
 as quest items.
