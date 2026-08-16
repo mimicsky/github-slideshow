@@ -145,6 +145,8 @@ beats anything I look up.**
 | `The Punisher - Part 2` | **15 Scavs with an AKM series weapon, on Shoreline** | this file said "12 suppressed + 10 lower half masks" — completely wrong |
 | `Thirsty - Hounds` | **12 Scavs between 22:00–07:00 on Shoreline** — night only | matched |
 | `The Punisher - Part 3` | **Reserve.** 12 Scavs with **9x39 caliber** weapons · **7 Lower half-masks found in raid** · hand over | every source said Customs, 25 Scavs, AKS-74U, DVL-10 reward — **wrong on all four** |
+| `Needle in a Haystack` | **6 investigate spots, not 4.** Ground Zero courtyard park by TerraGroup HQ ✅ · Shoreline coast-side construction ✅ · Shoreline playground by the Health Resort ✅ · **Interchange kart track** · **Interchange indoor children's playground** · **Streets playground by Concordia** | sources listed 4 maps and missed the Interchange kart track entirely |
+| `Weapons Circulation` | **3 cultist ritual spots, MS2000.** Shoreline ✅ · **2 on Woods** | matched |
 | `Health Care Privacy - Part 2` | needs the **Health Resort west wing 306** key | no source mentions a key at all |
 | `Every Hunter Knows This` | Factory breach room + Customs 3-story dorm stairs | — |
 | `Informed Means Armed` | **2 cameras only** — Woods + Interchange | lists a third on Customs |
@@ -159,80 +161,74 @@ beats anything I look up.**
 
 ---
 
-# ▶ NEXT RAID — Shoreline cleanup
+# ▶ NEXT RAID — Shoreline, last pass
 
-Everything left here is **small and grouped**. One good run closes the map.
+**Only 4 things left here.** After this, Shoreline is done and Interchange becomes the
+big trip.
 
-## 🛒 Buy before you load in
+## 🛒 Buy
 
 | Item | For |
 |---|---|
-| **2× MS2000** | fishing table *(Wet Job P2)* · ritual spot *(Weapons Circulation)* |
-| **WI-FI camera** | `Is This a Reference` has Shoreline spots — Customs is done, Shoreline isn't |
-| **AK-12 proprietary suppressor + PS-320 scope** | see the loadout note below — this is the big one |
+| **1× MS2000** | fishing table *(Wet Job P2)* — that's the only marker left on this map |
+| **AK-12 proprietary suppressor + PS-320 scope** | doubles your PMC kills, see below |
 
-## 🔫 Loadout — build the AK-12 and two quests move at once
+## 🔫 Build the AK-12
 
-> 💡 **`Capturing Outposts` needs 10 more PMCs. `Job for a Patriot` needs 10 PMCs with an
-> AK-12 + proprietary suppressor + PS-320.** Same kills, same map, same trip — **if** you
-> build that gun. You already own the AK-12; you just need the two parts.
+> **`Capturing Outposts` needs 10 more PMCs. `Job for a Patriot` needs 10 PMCs with an
+> AK-12 + proprietary suppressor + PS-320.** Same kills, same map, same raid — but only if
+> you build that gun. You already own the AK-12.
 >
-> `Job for a Patriot` is **Any location** *(confirmed on your quest screen)*, so there's no
-> reason to save it for Lighthouse.
+> `Job for a Patriot` is **Any location**, confirmed on your screen, so there's no reason
+> to save it.
 
-**Bring:** the AK-12 build as primary · grenades for Sanitar's guards · insure the usual.
-
-**No keys needed.**
+Grenades for Sanitar's guards. Insure the usual. **No keys needed.**
 
 ## 🎯 Priority 1 — finish `Tarkov-Style Diplomacy`
 
-You have the ophthalmoscope. **The surgery kit is on top of a wardrobe, 2nd floor of the
-pier office building.** One item, whole quest closes.
+**Surgery kit — 2nd floor of the pier office building, on top of a wardrobe.** You already
+have the ophthalmoscope, so this one item closes the quest.
 
 ---
 
-## By location
+## The 4 remaining
 
 ### ⚓ Pier
-- **`Tarkov-Style Diplomacy`** 50% — **surgery kit, 2F office building, on the wardrobe**
+- **`Tarkov-Style Diplomacy`** 50% — **surgery kit, on the wardrobe, 2F office**
 - **👹 Sanitar** — alternate spawn
 
 ### 🏝 The island — fishermen's dwelling
 - **`Wet Job – Part 2`** — **mark the fishing table with an MS2000**
 
 ### 🏥 Health Resort
-- **`Capturing Outposts`** 2/12 — PMCs. This is the scav base, so it's where they are.
-- **`Job for a Patriot`** — same PMCs, if you built the AK-12
-- **`Needle in a Haystack`** — **children's playground, NE of the building**
+- **`Capturing Outposts`** 2/12 — PMCs. This is the scav base.
+- **`Job for a Patriot`** — the same PMCs, if you built the AK-12
 - **👹 Sanitar** — **boss #5, still alive**
-
-### 🏗 South-east coast
-- **`Needle in a Haystack`** — **blue-fenced construction site**
 
 ### 🚬 Smugglers' base
 - **`No Swiping`** — kills in the base area. ⚠️ **25 or 10? Check your screen.**
-- Scavs spawn here but thinly — don't camp it
 
-### ❓ Unmarked on my map
-- **`Weapons Circulation`** — 1 ritual spot, MS2000
-- **`Is This a Reference`** — WI-FI camera spots
+## 🔫 Background
 
-> 💡 **Both of those show up in your in-game quest tracker once the task is active.** I
-> don't have locations, but the game will point you at them. **Tell me where they are and
-> they go in the confirmed table permanently.**
+- **`A Shooter Born in Heaven`** 50% ⭐Kappa — resort-to-pier has the best long sightlines
+  on the map
+- **`Booze`** drinks · **GPUs** for `Semiconductor Crisis`
 
-## 🔫 Background all raid
+---
 
-- **`A Shooter Born in Heaven`** 50% ⭐Kappa — long-range headshots. Resort-to-pier
-  sightlines are the best on the map for this.
-- **`Booze`** — grab every drink you see, found-in-raid
-- **`Semiconductor Crisis`** 50% — GPUs
+## ⏭ Then Interchange, and it's stacked
 
-## ⚠️ Before you leave
+| Quest | What |
+|---|---|
+| **`Minibus`** | 3 yellow minibuses, MS2000, extract as PMC |
+| **`The Key to Success`** | 2 design books — History Museum store, Knigoed bookstore |
+| **`Needle in a Haystack`** | **2 of the 3 remaining spots are here** — kart track + indoor children's playground |
+| **`Informed Means Armed`** | camera at Kiba Arms |
+| **`Chumming`** | Interchange piece |
+| **👹 Killa** | in the mall |
 
-**Check whether the two marker quests need you to survive.** `Anesthesia` and
-`A Fuel Matter` both do. If `Wet Job P2` or `Weapons Circulation` say "survive and
-extract," don't die after marking.
+**Buy 3 MS2000 for that trip.** Two of those are Ragman quests, and Ragman is your Kappa
+gate.
 
 ---
 
@@ -291,15 +287,6 @@ MS2000**) ⭐ *sources call it Kappa-required — pre-rework data, verify*
 
 **No Swiping** · Shoreline · FIND + FIGHT
 (find the smugglers' base, then kills in the base area — ⚠️ **25 or 10? check your screen**)
-
-**Needle in a Haystack** · Shoreline piece · FIND 🔍
-(construction site with blue fences on the south-east coast, and the children's playground
-north-east of the Health Resort)
-
-**Weapons Circulation** · Shoreline + Woods · CHORE 🆕
-(mark **3 ritual spots** with MS2000 — **1 on Shoreline** *(spot not documented)*, 2 on
-Woods: west of the sawmill near the checkpoint, and north of the church in the dilapidated
-village)
 
 ## FACTORY — 1 left
 
@@ -463,6 +450,25 @@ Biggest pile, everything at 0%, so it pays last.
 (collect found in raid: 10 Tarkovskaya vodka, 10 Dan Jackiel whiskey, 3 canisters purified
 water, 20 Pevko Light beer — **start hoarding now, this takes months**)
 
+**Needle in a Haystack** · any location · FIND · **3/6** ✅*verified*
+(investigate 6 spots — **3 done**)
+- ✅ Ground Zero — courtyard park by TerraGroup HQ
+- ✅ Shoreline — coast-side construction site
+- ✅ Shoreline — children's playground by the Health Resort
+- ❌ **Interchange — the kart track**
+- ❌ **Interchange — the indoor children's playground**
+- ❌ **Streets — the children's playground by Concordia**
+**Reward: Ammunition case** · 10,000 EXP
+
+**Weapons Circulation** · any location · CHORE · **1/3** ✅*verified*
+(mark cultist ritual spots with an MS2000)
+- ✅ Shoreline
+- ❌ **Woods — first spot:** west of the sawmill near the checkpoint. Stand at the barrier
+  and line up with the big stone south of it.
+- ❌ **Woods — second spot:** dilapidated village in the north, **north of the church** in
+  a house's backyard
+**Reward: HK 416A5 · 2× Military flash drive · Peacekeeper +0.25 rep** · 10,000 EXP
+
 **Semiconductor Crisis** · any · FIND · **50%**
 (3 graphics cards found in raid — ⚠️ same item the Bitcoin Farm eats, quest first)
 
@@ -498,9 +504,8 @@ water, 20 Pevko Light beer — **start hoarding now, this takes months**)
 
 # DO THESE NOW
 
-- **MS2000: 9 total.** Shoreline **2** *(Weapons Circulation 1 + Wet Job P2 1)* · Woods
-  **2** *(Weapons Circulation)* · Interchange **3** *(Minibus)* · Reserve **2**
-  *(A Fuel Matter)*. Buy per trip, not all at once.
+- **MS2000: 8 left.** Shoreline **1** *(Wet Job P2)* · Woods **2** *(Weapons Circulation)*
+  · Interchange **3** *(Minibus)* · Reserve **2** *(A Fuel Matter)*. Buy per trip.
 - **Check your in-game mail** — Skier sends the 2 propane tanks for `Thirsty – Delivery`.
 - **🔫 You need a 9x39 weapon for `The Punisher – Part 3`** — VSS Vintorez, AS VAL, 9A-91,
   SR-3M or VSK-94. **Nothing on your gear list is 9x39** *(the SR-2M is 9x21)*. The quest
