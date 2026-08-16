@@ -39,6 +39,17 @@ Quest name · Map · TYPE
 **Fandom is blocked for me but works fine for you.** When a quest is complicated and I
 don't have confirmed details, I'll say **(look up on fandom)** rather than guess.
 
+**The in-game quest screen tells you the type directly** — the icon in the Type column:
+
+| Icon | Means | My type |
+|---|---|---|
+| 🎯 crosshair | Elimination | **FIGHT** |
+| 🔍 magnifier | Search / locate | **FIND** |
+| ✋ hand | Pick up or hand over | **FIND / CHORE** |
+
+The **Location** column is authoritative too — it's already corrected several map
+assignments I had wrong.
+
 ---
 
 # How quests are shaped
@@ -141,87 +152,73 @@ beats anything I look up.**
 
 ---
 
-# ▶ NEXT RAID — Shoreline, fight trip
+# ▶ NEXT RAID — Shoreline, 11 quests
 
-Six cleared last raid. What's left is mostly killing, plus three quests I just researched
-that were blank before.
+Straight off your quest screen. Everything below is either Shoreline-tagged or Any
+location, so it all counts on this one raid.
 
 ## 🛒 Before you load in
 
 | | |
 |---|---|
-| **AKM series weapon** | ✅ you have one — **this is the primary**, 15 scav kills |
+| **AKM series** | ✅ owned — **primary**, 15 scav kills |
 | **Suppressed TX-15 / M4A1 / ADAR** | secondary, 10 scav kills |
-| **Grenades** | Sanitar has guards, same as Reshala. Guards hold rooms. |
-| **Food + water** | no transit this time, so normal load is fine |
+| **1× MS2000** | `Weapons Circulation` ritual spot |
+| **Grenades** | Sanitar's guards hold rooms, same as Reshala's |
 | **Insure** | helmet · armor/rig · headphones · both guns · backpack |
 
 ### 🔑 Keys
 
-| Key | For | Own it? |
+| Key | For | |
 |---|---|---|
-| **Cottage back door key** | the ophthalmoscope in the villa — `Tarkov-Style Diplomacy` | ❌ **not on your list — buy it or skip that half** |
-| Health Resort west wing 306 | nothing this raid *(it was Health Care Privacy, done)* | ✅ |
+| **Cottage back door** | villa ophthalmoscope, `Tarkov-Style Diplomacy` | ❌ **don't own — buy or skip that half** |
+
+> ⚠️ **Three quests want three different guns and you only have two slots.**
+> `Punisher P2` wants an **AKM series**, `Wet Job P1` wants a **suppressed M4A1/ADAR/TX-15**,
+> `Job for a Patriot` wants an **AK-12 + proprietary suppressor + PS-320**.
+> **Take the AKM and the suppressed gun this raid** — those two are both scav kills, which
+> is the bulk of the work. `Job for a Patriot` is PMC kills and needs parts you haven't
+> bought yet, so give it its own raid later.
 
 ## 🎯 Priority 1 — `The Punisher – Part 2`
 
-**15 scavs with the AKM series gun, on Shoreline.** Biggest count on the list, and it's
-map-locked so it only progresses here. Everything else is opportunistic.
+**15 scavs with the AKM.** Map-locked to Shoreline, biggest single count on the board.
 
 ---
 
-## By location — route around these
-
-### 🏥 Health Resort
-
-- **`Tracker`** — ⚠️ *newly researched, unverified* — multi-part:
-  - locate the **room with reservoirs**
-  - **secure folder on top of blue barrels, room 108, east wing**
-  - the second part of the cargo is in the **west wing basement**
-  - hidden TerraGroup cargo in the resort
-- **`Capturing Outposts`** 2/12 — PMCs. The resort **is** the scav base.
-- **`Needle in a Haystack`** — **children's playground, north-east of the resort building**
-- **👹 Sanitar** — spawns here or the pier. **Boss #5.**
-
-### ⚓ Pier
-
-- **`Tarkov-Style Diplomacy`** — **Sanitar's surgery kit**, second floor of the office
-  building, **on top of a wardrobe**
-- **👹 Sanitar** — alternate spawn
-
-### 🏚 Villa — west side, by the swamp
-
-- **`Tarkov-Style Diplomacy`** — **Sanitar's ophthalmoscope**, second floor, **left-hand
-  room, inside a potted plant on the table**
-- 🔑 **needs the Cottage back door key**
-
-### 🏗 South-east coast
-
-- **`Needle in a Haystack`** — **construction site with blue fences**
-
-### 🚬 Smugglers' base
-
-- **`No Swiping`** — find the base, then kills inside the base area
-- ⚠️ **Count is disputed:** this file says **25**, web sources say **10**. **Read your
-  screen and tell me which.**
-- Scavs spawn there but not often, so don't camp it
-
----
-
-## 🔫 Background, all raid
+## 🎯 FIGHT — swap guns as needed
 
 - **`The Punisher – Part 2`** — 15 scavs, **AKM series**
 - **`Wet Job – Part 1`** — 10 scavs, **suppressed** M4A1/ADAR/TX-15
-- Both are scav kills, so swap guns depending on which counter you want to move
+- **`Thirsty – Hounds`** 🆕 — elimination, **count unknown — send me the text**
+- **`No Swiping`** — kills inside the smugglers' base *(⚠️ 25 or 10? check your screen)*
+- **`A Shooter Born in Heaven`** 50% ⭐Kappa — long-range headshots. Resort-to-pier
+  sightlines are good for this.
+- **`Capturing Outposts`** 2/12 — PMCs at the Health Resort
+- **👹 Sanitar** — Resort or Pier. **Boss #5.**
 
-## ⚠️ Notes
+## 🔍 FIND
 
-- **Nothing on this list resets if you die.** No markers, no survive-and-extract. Play it
-  aggressive.
-- **`Thirsty – Hounds`** is still unknown — send me the in-game text.
-- Everything in the location list above came from **pre-1.1 web sources**. Locations are
-  the one thing those sites get right, but **counts and objectives are exactly what they
-  get wrong.** Check each against your screen.
+- **`Tracker`** — Health Resort: reservoir room · **secure folder on blue barrels, room 108
+  east wing** · second cargo part in the **west wing basement**
+- **`Master Key`** 🆕 — **key on a chair in the bunker NORTH of the resort.** Only spawns
+  while the quest is active. **Must extract with it.**
+- **`Needle in a Haystack`** 33% — **children's playground NE of the resort** + **blue-fenced
+  construction site, SE coast**
+- **`Tarkov-Style Diplomacy`** — **surgery kit** on a wardrobe, pier office 2F ·
+  **ophthalmoscope** in a potted plant, villa 2F left room 🔑
+
+## 📍 CHORE
+
+- **`Weapons Circulation`** 🆕 — mark **1 ritual spot** with MS2000. Shoreline spot isn't
+  documented — if you find it, tell me and it goes in the confirmed table.
+
+---
+
+**Only `Master Key` needs you to survive** — it's a physical key you carry out. Everything
+else is safe to die on.
+
+**The bunker north of the resort is a new stop** — it wasn't on any previous card.
 
 ---
 
@@ -277,9 +274,22 @@ second cargo part in the west wing basement)
 **No Swiping** · Shoreline · FIND + FIGHT
 (find the smugglers' base, then kills in the base area — ⚠️ **25 or 10? check your screen**)
 
-**Needle in a Haystack** · Shoreline piece · FIND
+**Needle in a Haystack** · Shoreline piece · FIND 🔍
 (construction site with blue fences on the south-east coast, and the children's playground
 north-east of the Health Resort)
+
+**Master Key** · Shoreline · FIND ✋ 🆕
+(grab the **key to the closed premises of the Health Resort** — it's on a **chair in the
+bunker north of the resort**, and **only spawns while the quest is active** — then extract
+and hand it to Peacekeeper)
+
+**Thirsty – Hounds** · Shoreline · FIGHT 🎯 🆕
+(elimination quest — **count and target unknown, send me the in-game text**)
+
+**Weapons Circulation** · Shoreline + Woods · CHORE 🆕
+(mark **3 ritual spots** with MS2000 — **1 on Shoreline** *(spot not documented)*, 2 on
+Woods: west of the sawmill near the checkpoint, and north of the church in the dilapidated
+village)
 
 ## FACTORY — 1 left
 
@@ -466,8 +476,9 @@ water, 20 Pevko Light beer — **start hoarding now, this takes months**)
 
 # DO THESE NOW
 
-- **MS2000: 5 needed again.** `Minibus` wants **3** on Interchange, `A Fuel Matter` wants
-  **2** on Reserve. Check what you have left from the Shoreline trip first.
+- **MS2000: 8 total now.** `Weapons Circulation` **1 Shoreline + 2 Woods** · `Minibus`
+  **3 Interchange** · `A Fuel Matter` **2 Reserve**. Buy in batches per trip, not all at
+  once.
 - **Buy the Goshan cash register key on flea** — that's `Supervisor` done for ₽250k profit,
   no raid required.
 - **Buy the Cottage back door key** if you want the `Tarkov-Style Diplomacy` villa half.
