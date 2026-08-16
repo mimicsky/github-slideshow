@@ -254,6 +254,10 @@ re-issues before you plan this)
 **Shipment Tracking** · Customs · ?
 (look up on fandom)
 
+**Supervisor** · Customs *(or flea)* · FIND 🆕
+(get the **Goshan cash register key** and hand it to Ragman — it's on a **bus seat behind
+the gas station**, or just **buy it on flea**. Pays **₽250k**)
+
 *Also here: `Seizing the Initiative`, `Secrets of Polikhim`, `Capturing Outposts`.*
 **Reshala** — Dorms 3-story · New Gas · Fortress. **Guards hold the rooms — bring nades.**
 
@@ -324,6 +328,12 @@ is no Customs one**)
 **Chumming** · Customs · Interchange · Woods · CHORE
 (stash 3 golden neck chains in a microwave — **Customs piece already done**)
 
+**Health Care Privacy – Part 3** · Woods · FIND 🆕
+(take a **blood sample** from the **van of the Health Resort medical services director** —
+a white minivan — then hand over and **survive and extract**)
+⚠️ sources call this **Kappa-required**, but that's pre-rework data. **Check the Collector
+task in game.**
+
 **Huntsman Path – Woods Keeper** · Woods · FIGHT
 (kill Shturman — he's at the sawmill)
 
@@ -362,6 +372,16 @@ you looted the AK-12 already, buy the two parts)
 
 **Chumming** · Interchange · CHORE
 (Interchange piece)
+
+**The Key to Success** · Interchange · FIND 🆕
+(2 books of clothes design — **History Museum store, on the floor across from the arcade
+machines** · **Knigoed bookstore, central shelf, bottom level**)
+
+**Minibus** · Interchange · CHORE 🆕
+(mark **3 yellow minibuses** with MS2000, then **extract as a PMC**)
+- southwest of the mall at the **container lot**
+- western parking garage, **section B into section C**, by the blocked down-ramp
+- **section C next to the Saferoom Exfil**, by the hole in the wall between garages
 
 **Hot Delivery** · **A Big Loss** · **Pathfinder** · **Fuel Crisis** · **Irresistible**
 — all Interchange · ? · all 0%
@@ -446,9 +466,11 @@ water, 20 Pevko Light beer — **start hoarding now, this takes months**)
 
 # DO THESE NOW
 
-- **MS2000: only 2 left to need.** Rigged Game and Anesthesia are done. The last 2 are for
-  `A Fuel Matter` on Reserve — check what you have left over before buying more.
-- **Get an AKM series weapon** for `The Punisher – Part 2`.
+- **MS2000: 5 needed again.** `Minibus` wants **3** on Interchange, `A Fuel Matter` wants
+  **2** on Reserve. Check what you have left from the Shoreline trip first.
+- **Buy the Goshan cash register key on flea** — that's `Supervisor` done for ₽250k profit,
+  no raid required.
+- **Buy the Cottage back door key** if you want the `Tarkov-Style Diplomacy` villa half.
 - **Buy an AUG** — nothing on Factory moves without it.
 - **Buy the AK-12 proprietary suppressor + PS-320 scope** for `Job for a Patriot`.
 - **Start hoarding drinks** for `Booze`. 43 items, all found-in-raid, months of collecting.
@@ -517,6 +539,11 @@ check before a hunt and tell me.
 | Mechanic | 3 | | | |
 
 **Only level and LL4 are holding you back.** Weak spots: Fence at 1, Ref at 2, hideout.
+
+> ⭐ **Ragman is the one that matters most.** He gates Kappa at LL4 (level 42) and he's
+> your weakest real trader. **Three of the four quests you just unlocked are his** —
+> `The Key to Success`, `Minibus` and `Supervisor`. Doing Ragman work is straight-line
+> Kappa progress, so favour him when two quests are otherwise equal.
 
 **PvE vs PvP:** the *only* difference is **boss spawns**. Everything else — quests, loot,
 flea, insurance, rep — works the same. So normal Tarkov knowledge applies here.
