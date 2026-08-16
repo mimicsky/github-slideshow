@@ -159,68 +159,80 @@ beats anything I look up.**
 
 ---
 
-# ▶ NEXT RAID — Shoreline cleanup, then Customs is next
+# ▶ NEXT RAID — Shoreline cleanup
 
-Five done last raid. What's left on Shoreline is **small and grouped** — one good run
-closes the map out.
+Everything left here is **small and grouped**. One good run closes the map.
 
-## 🛒 Before you load in
+## 🛒 Buy before you load in
 
-| | |
+| Item | For |
 |---|---|
-| **2× MS2000** | fishing table *(Wet Job P2)* + ritual spot *(Weapons Circulation)* |
-| **A PMC-killing kit** | `Capturing Outposts` needs 10 more PMCs |
-| **Grenades** | Sanitar's guards, if he shows |
-| **Insure** | the usual |
+| **2× MS2000** | fishing table *(Wet Job P2)* · ritual spot *(Weapons Circulation)* |
+| **WI-FI camera** | `Is This a Reference` has Shoreline spots — Customs is done, Shoreline isn't |
+| **AK-12 proprietary suppressor + PS-320 scope** | see the loadout note below — this is the big one |
 
-**No keys needed.** The cottage key already did its job.
+## 🔫 Loadout — build the AK-12 and two quests move at once
+
+> 💡 **`Capturing Outposts` needs 10 more PMCs. `Job for a Patriot` needs 10 PMCs with an
+> AK-12 + proprietary suppressor + PS-320.** Same kills, same map, same trip — **if** you
+> build that gun. You already own the AK-12; you just need the two parts.
+>
+> `Job for a Patriot` is **Any location** *(confirmed on your quest screen)*, so there's no
+> reason to save it for Lighthouse.
+
+**Bring:** the AK-12 build as primary · grenades for Sanitar's guards · insure the usual.
+
+**No keys needed.**
 
 ## 🎯 Priority 1 — finish `Tarkov-Style Diplomacy`
 
 You have the ophthalmoscope. **The surgery kit is on top of a wardrobe, 2nd floor of the
-pier office building.** One item and a whole quest closes.
+pier office building.** One item, whole quest closes.
 
 ---
 
 ## By location
 
 ### ⚓ Pier
-- **`Tarkov-Style Diplomacy`** 50% — **surgery kit, 2F office, on the wardrobe**
+- **`Tarkov-Style Diplomacy`** 50% — **surgery kit, 2F office building, on the wardrobe**
 - **👹 Sanitar** — alternate spawn
 
-### 🏝 Fishermen's dwelling — the island
-- **`Wet Job – Part 2`** 🆕 — find it, **mark the fishing table with an MS2000**
+### 🏝 The island — fishermen's dwelling
+- **`Wet Job – Part 2`** — **mark the fishing table with an MS2000**
 
 ### 🏥 Health Resort
-- **`Capturing Outposts`** 2/12 — PMCs, this is the scav base
+- **`Capturing Outposts`** 2/12 — PMCs. This is the scav base, so it's where they are.
+- **`Job for a Patriot`** — same PMCs, if you built the AK-12
 - **`Needle in a Haystack`** — **children's playground, NE of the building**
-- **👹 Sanitar** — Resort or Pier. **Boss #5, still alive.**
+- **👹 Sanitar** — **boss #5, still alive**
 
 ### 🏗 South-east coast
 - **`Needle in a Haystack`** — **blue-fenced construction site**
 
 ### 🚬 Smugglers' base
-- **`No Swiping`** — kills in the base area *(⚠️ 25 or 10? check your screen)*
-- Also a **propane tank** spawn if you ever need more
+- **`No Swiping`** — kills in the base area. ⚠️ **25 or 10? Check your screen.**
+- Scavs spawn here but thinly — don't camp it
 
-### ❓ Somewhere on Shoreline
-- **`Weapons Circulation`** — 1 ritual spot, MS2000. **Undocumented — tell me if you find
-  it.**
+### ❓ Unmarked on my map
+- **`Weapons Circulation`** — 1 ritual spot, MS2000
+- **`Is This a Reference`** — WI-FI camera spots
 
----
+> 💡 **Both of those show up in your in-game quest tracker once the task is active.** I
+> don't have locations, but the game will point you at them. **Tell me where they are and
+> they go in the confirmed table permanently.**
 
-## ⏭ After this: Customs, and it's a big one
+## 🔫 Background all raid
 
-Customs has quietly filled up while you were on Shoreline:
+- **`A Shooter Born in Heaven`** 50% ⭐Kappa — long-range headshots. Resort-to-pier
+  sightlines are the best on the map for this.
+- **`Booze`** — grab every drink you see, found-in-raid
+- **`Semiconductor Crisis`** 50% — GPUs
 
-- **`The Punisher – Part 3`** 🆕 — **25 scavs with an AKS-74U.** Rewards a **DVL-10 sniper**
-- **`Angry Watchman`** 1/3 — PMCs, **Dorms zone only**
-- **`Thirsty – Delivery`** 🆕 — stash a propane tank in the **little store by the crossroads**
-- **`Capturing Outposts`** — Customs has its own 12
-- **`Secrets of Polikhim`** — the Factory transit
-- **`The Courier`** · **`Shipment Tracking`**
+## ⚠️ Before you leave
 
-**Bring an AKS-74U** — that's the anchor for the whole trip.
+**Check whether the two marker quests need you to survive.** `Anesthesia` and
+`A Fuel Matter` both do. If `Wet Job P2` or `Weapons Circulation` say "survive and
+extract," don't die after marking.
 
 ---
 
