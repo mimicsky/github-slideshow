@@ -691,79 +691,87 @@ databases. We build this off your own screen instead.
 Then every raid report ends with **"keep this for the hideout"** — which is what you
 actually asked for.
 
-## 📋 RUNNING SHORTFALL TALLY
+## 📋 SHORTFALL TALLY — 15 modules recorded
 
-*(10 modules recorded. Item names are read off icons — confirm the big ones and I'll
-relabel.)*
+*(Item names read off icons. Confirm the big ones and I'll relabel.)*
 
-### 🔴 The one that dominates: WIRES
+### 🔴 #1 by a mile: WIRES — you need 50
 
-**Red / blue / yellow coiled wire** — needed by four separate modules:
+**Red / blue / yellow coiled wire**, wanted by five modules:
 
 | Module | Short |
 |---|---|
 | Vents 3 | 14 |
 | Security 3 | 10 |
 | Heating 3 | 10 |
+| Rest Space 3 | 10 |
 | Shooting Range 2 | 6 |
-| **TOTAL** | **40** |
+| **TOTAL** | **50** |
 
-**Never sell wires. Ever.** Nothing else on the board comes close.
+**Never sell a wire.** Nothing else is remotely close.
 
-### Everything else, by item
+### 🥇 #2 surprise: the Scav Case eats VALUABLES
+
+**Scav Case wants gold**, not scrap — the stuff you'd normally vendor without thinking:
+
+| Item | Short |
+|---|---|
+| Gold figurine / statuette | **3** |
+| Gold skull | **4** |
+| Green bottle | **2** |
+| Gold ring | **1** |
+| Gold horse figurine | **1** |
+
+> ⚠️ **This changes your sell habits.** Gold items were pure vendor fodder before. **Stop
+> selling them** until the Scav Case is built.
+
+### Everything else
 
 | Item *(icon read)* | Modules | Short |
 |---|---|---|
-| **White/grey folded filter thing** | Generator 3 (12) · Heating 3 (4) | **16** |
+| **White/grey folded filter** | Generator 3 (12) · Heating 3 (4) | **16** |
 | **Spark plug / metal rod** | Generator 3 | **14** |
-| **White corrugated hose** | Lavatory 3 | **10** |
-| **Glass jar / canister** | Security 3 (5) · Workbench 3 (4) · Shooting Range 2 (1) — *may be different items* | **10** |
+| **White corrugated hose** | Lavatory 3 (10) · Rest Space 3 (5) | **15** |
+| **Glass jar / canister** | Security 3 (5) · Workbench 3 (4) · Shooting Range 2 (1) | **10** |
+| **Yellow book / folder** | Gear Rack | **9** |
+| **Screws / bolts** | Gear Rack | **9** |
 | **White bottle** | Medstation 3 | **8** |
-| **Metal can** | Nutrition 3 | **3** |
-| **Orange package** | Nutrition 3 | **3** |
-| **Cardboard box** | Vents 3 | **3** |
-| **Plastic bottle** | Nutrition 3 | **2** |
-| **Flat grey panel** | Security 3 | **2** |
-| **Motor / pump** | Vents 3 | **1** |
-| **Circuit board / disc** | Generator 3 | **1** |
+| **Silver cylinder** | Intelligence Center 3 | **5** |
+| **Gold coil** | Intelligence Center 3 | **5** |
+| **Green tube** | Rest Space 3 | **3** |
+| **Metal can · orange package · cardboard box** | Nutrition 3 · Vents 3 | **3** each |
+| **Flat grey panel** | Security 3 (2) · Intelligence Center 3 (2) | **4** |
+| **Plastic bottle · grey device** | Nutrition 3 · Intelligence Center 3 | **2** each |
+| **Motor · circuit board · disc · purple device · gold figurine** | various | **1** each |
 
-### ₿ Bitcoin Farm — its own beast
+### ₿ Bitcoin Farm — 43 items, nothing started
 
-| Item *(icon read)* | Short |
-|---|---|
-| Tool | **15** |
-| Silver plate / board | **12** |
-| Orange coil / wiring | **8** |
-| Drive / PSU | **6** |
-| Flat board | **2** |
-| **TOTAL** | **43 items** |
+Tool **15** · silver plate **12** · orange coil **8** · drive/PSU **6** · flat board **2**
 
-Nothing on it is close to done. It's the money lever, but it's the furthest away.
-
-## 🔗 Prerequisite chain — this matters more than materials
-
-Several modules aren't blocked by items at all:
+## 🔗 The dependency tree — this is the real bottleneck
 
 ```
-Illumination 3  ──►  Shooting Range 2
-                └─►  Security 3  ──┐
-                                    ├──►  Generator 3
-Vents 3  ───────────────────────────┘
+Illumination 3 ──► Shooting Range 2
+               └─► Security 3 ──┐
+                                 ├──► Generator 3 ──┐
+Vents 3 ─────────────────────────┘                  ├──► Intelligence Center 3
+Workbench 3 ─────────────────────────────────────────┘
 
-Water Collector 2  ──►  Lavatory 3
+Water Collector 2 ──► Lavatory 3
 ```
 
-> **Illumination 3 is the keystone.** It's building now, and finishing it unblocks
-> **Shooting Range 2** and **Security 3** — and Security 3 is half of what Generator 3
-> needs. **Water Collector 2**, also building, unblocks **Lavatory 3**.
+> 💰 **Intelligence Center 3 is the money prize: Flea Market fee −30% and Scav cooldown
+> −20%.** But it sits **four levels deep** — Illumination 3 → Security 3 → Generator 3 →
+> Intelligence Center 3, plus Workbench 3 on the side. That's the longest chain in the
+> hideout and it ends in the single best economic bonus available to you.
 >
-> So two builds already in progress open up four more modules.
+> **Illumination 3 is the keystone** and it's building now.
 
-## ✅ Already fully stocked — don't buy these
+## ✅ Fully stocked — don't buy these
 
-Generator 3 and Vents 3 both have their **gold/tan branching item** at 10/10, and Heating 3
-has its **corrugated hose** at 10/10 and **grey tube** at 2/2. Money and roubles
-requirements are all met on Workbench 3, Nutrition 3 and Medstation 3.
+**Hall of Fame 2** needs only **1 gold figurine** — everything else is done. **Gear Rack**
+has its roubles and 5 of its 8 item types complete. Roubles are met on Workbench 3,
+Nutrition 3, Medstation 3 and Gear Rack.
 
 **Once this table exists, everything in it joins the never-sell list automatically**, same
 as quest items.
