@@ -135,7 +135,8 @@ beats anything I look up.**
 | Quest | Confirmed | What sites got wrong |
 |---|---|---|
 | `Angry Watchman` | **3** PMCs, **only Dorms-zone kills count** | said 5 |
-| `Capturing Outposts` | **12** PMCs | said 8 |
+| `Capturing Outposts` | **12** PMCs, and on Shoreline **only kills at the Health Resort count** — smugglers'-base kills do nothing | said 8 |
+| `Job for a Patriot` | **Prapor gives you the built AK-12** *(suppressor + PS-320 included)*. Any location. | sources imply you source the parts yourself |
 | `Supplements` | chemical vial + **4 respirators** | undocumented |
 | `I Need More Power` | 2 rooms, **one raid, must extract** | matched |
 | `Anesthesia` | 3 trading posts, must extract | matched |
@@ -203,8 +204,8 @@ have the ophthalmoscope, so this one item closes the quest.
 - **`Wet Job – Part 2`** — **mark the fishing table with an MS2000**
 
 ### 🏥 Health Resort
-- **`Capturing Outposts`** 2/12 — PMCs. This is the scav base.
-- **`Job for a Patriot`** — the same PMCs, if you built the AK-12
+- **`Capturing Outposts`** **2/12** — PMCs, **and this is the only zone that counts**
+- **`Job for a Patriot`** **3/10** — the same PMCs, with the Prapor AK-12
 - **👹 Sanitar** — **boss #5, still alive**
 
 ### 🚬 Smugglers' base — **and it's a loot spot**
