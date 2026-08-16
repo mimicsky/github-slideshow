@@ -164,78 +164,52 @@ beats anything I look up.**
 
 ---
 
-# ▶ NEXT RAID — Shoreline, last pass
+# ▶ NEXT RAID — Shoreline, closing run
 
-**Only 4 things left here.** After this, Shoreline is done and Interchange becomes the
-big trip.
+**Three quests closed last raid.** Two left plus the boss, and one of them is a single
+drive-by.
 
 ## 🛒 Buy
 
-| Item | For |
-|---|---|
-| **1× MS2000** | fishing table *(Wet Job P2)* — that's the only marker left on this map |
-| **AK-12 proprietary suppressor + PS-320 scope** | doubles your PMC kills, see below |
+Nothing. **No markers, no keys.** Bring the **Prapor AK-12** and insure it.
 
-## 🔫 Build the AK-12
+## 🎯 Priority 1 — `Capturing Outposts` 7/12
 
-> **`Capturing Outposts` needs 10 more PMCs. `Job for a Patriot` needs 10 PMCs with an
-> AK-12 + proprietary suppressor + PS-320.** Same kills, same map, same raid — but only if
-> you build that gun. You already own the AK-12.
->
-> `Job for a Patriot` is **Any location**, confirmed on your screen, so there's no reason
-> to save it.
+**5 more PMCs, and only Health Resort kills count.** Park yourself there rather than
+roaming — this is the one long job left on the map.
 
-Grenades for Sanitar's guards. Insure the usual. **No keys needed.**
-
-## 🎯 Priority 1 — finish `Tarkov-Style Diplomacy`
-
-**Surgery kit — 2nd floor of the pier office building, on top of a wardrobe.** You already
-have the ophthalmoscope, so this one item closes the quest.
+`Job for a Patriot` **5/10** rides along on the same kills, anywhere on the map.
 
 ---
 
-## The 4 remaining
+## The rest
 
-### ⚓ Pier
-- **`Tarkov-Style Diplomacy`** 50% — **surgery kit, on the wardrobe, 2F office**
-- **👹 Sanitar** — alternate spawn
-
-### 🏝 The island — fishermen's dwelling
-- **`Wet Job – Part 2`** — **mark the fishing table with an MS2000**
+### 🚗 Main road along the shore
+- **`Wet Job – Part 3`** 🆕 — find **Artyom's car**: **yellow, next to a yellow bus and a
+  police car**, near the **tunnel before the barge**. ⚠️ **Survive and extract.**
+- **Reward: NcSTAR ADO P4 3-9x42 scope** · Peacekeeper rep · $1,500
 
 ### 🏥 Health Resort
-- **`Capturing Outposts`** **5/12** — PMCs, **and this is the only zone that counts**
-- **`Job for a Patriot`** **3/10** — the same PMCs, with the Prapor AK-12
-- **👹 Sanitar** — **boss #5, still alive**
+- **`Capturing Outposts`** 7/12 — the only zone that counts
+- **👹 Sanitar** — Resort or Pier. **Boss #5, still alive.**
 
-### 🚬 Smugglers' base — **and it's a loot spot**
-
-> 💰 **You can spawn here, and the loot is excellent** — a single pass filled a 70lb bag.
-> Worth routing through even on raids that aren't about `No Swiping`.
-
-- **`No Swiping`** **3/10** — kills in the base area
+### 🚬 Smugglers' base
+- No quest here any more, but **the loot is still excellent.** Worth a pass if the route
+  works.
 
 ## 🔫 Background
+**`A Shooter Born in Heaven`** 50% ⭐Kappa · **`Booze`** drinks · **GPUs**
 
-- **`A Shooter Born in Heaven`** 50% ⭐Kappa — resort-to-pier has the best long sightlines
-  on the map
-- **`Booze`** drinks · **GPUs** for `Semiconductor Crisis`
+## ⚠️ One caution
+**`Wet Job – Part 3` needs you to survive.** Find the car early, then play the rest of the
+raid knowing you're carrying a completion.
 
 ---
 
-## ⏭ Then Interchange, and it's stacked
+## ⏭ After Shoreline: Interchange
 
-| Quest | What |
-|---|---|
-| **`Minibus`** | 3 yellow minibuses, MS2000, extract as PMC |
-| **`The Key to Success`** | 2 design books — History Museum store, Knigoed bookstore |
-| **`Needle in a Haystack`** | **2 of the 3 remaining spots are here** — kart track + indoor children's playground |
-| **`Informed Means Armed`** | camera at Kiba Arms |
-| **`Chumming`** | Interchange piece |
-| **👹 Killa** | in the mall |
-
-**Buy 3 MS2000 for that trip.** Two of those are Ragman quests, and Ragman is your Kappa
-gate.
+`Minibus` (3 MS2000) · `The Key to Success` (2 books) · **2 of your 3 remaining `Needle`
+spots** · Kiba Arms camera · `Chumming` piece · **👹 Killa**. **Buy 3 MS2000.**
 
 ---
 
@@ -280,20 +254,17 @@ the gas station**, or just **buy it on flea**. Pays **₽250k**)
 *Also here: `Seizing the Initiative`, `Secrets of Polikhim`, `Capturing Outposts`.*
 **Reshala** — Dorms 3-story · New Gas · Fortress. **Guards hold the rooms — bring nades.**
 
-## SHORELINE — 6 left
+## SHORELINE — 2 left
 
-All written out in the Next Raid card above. **Sanitar** spawns Resort or Pier.
+**Capturing Outposts** · Shoreline · FIGHT · **7/12**
+(PMCs — **Health Resort only**, other zones don't count)
 
-**Tarkov-Style Diplomacy** · Shoreline · FIND · **50%**
-(✅ ophthalmoscope done — **still need the surgery kit: pier office building, 2nd floor, on
-top of a wardrobe**)
+**Wet Job – Part 3** · Shoreline · FIND 🆕
+(locate **Artyom's car** — yellow, on the **main road along the shore next to a yellow bus
+and a police car**, near the **tunnel before the barge** — then **survive and extract**)
+**Reward: NcSTAR ADO P4 3-9x42 scope** · Peacekeeper rep · $1,500
 
-**Wet Job – Part 2** · Shoreline · CHORE ✅*verified*
-(find the **fishermen's dwelling on the island** and **mark the fishing table with an
-MS2000** — **no need to survive**) ⭐ *sources call it Kappa-required — verify*
-
-**No Swiping** · Shoreline · FIND + FIGHT · **3/10** ✅*verified*
-(find the smugglers' base, then **10 kills** in the base area)
+**👹 Sanitar** — Resort or Pier. **Boss #5, still alive.**
 
 ## FACTORY — 1 left
 
@@ -923,6 +894,18 @@ while active, must extract with it)
 **Thirsty – Breadwinner** · any · FIND
 (**2× Propane tank 5L found in raid** — OLI on Interchange, the smugglers' base on
 Shoreline, or any fuel/building material spawn)
+
+**No Swiping** · Shoreline · FIND + FIGHT
+(find the smugglers' base, **10 kills** in the base area — the base is also excellent loot)
+
+**Wet Job – Part 2** · Shoreline · CHORE
+(mark the fishing table at the island fishermen's dwelling with an MS2000 — no need to
+survive)
+
+**Tarkov-Style Diplomacy** · Shoreline · FIND
+🔑 Cottage back door key *(for the villa half)*
+(**surgery kit** on top of a wardrobe, pier office 2F · **ophthalmoscope** in a potted
+plant, villa 2F left room)
 
 ## Factory
 
