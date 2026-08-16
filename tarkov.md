@@ -50,6 +50,11 @@ don't have confirmed details, I'll say **(look up on fandom)** rather than guess
 The **Location** column is authoritative too — it's already corrected several map
 assignments I had wrong.
 
+> ❓ **The Class column (I / II / III) is probably the trader loyalty level** the quest
+> sits behind — that's your read, unconfirmed. The boxed vs unboxed styling may just be
+> whether you already meet it. **Confirm next time a quest shows up that you can't take
+> yet.**
+
 ---
 
 # How quests are shaped
