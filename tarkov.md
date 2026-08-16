@@ -656,60 +656,55 @@ wasted.
 
 # Hideout — materials counter
 
-**Stash 4.** Most modules still level 1–2.
+## Current state
 
-**Unlocked recently:** ✅ **Gym**
+**Stash 4** · **Gym** unlocked
+
+**Upgrading / upgraded:**
+
+| Module | Level |
+|---|---|
+| **Generator** | **2** |
+| **Intelligence Center** | **2** |
+| **Lighting** | **3** |
+| **Water Collector** | **2** |
+
+> 💰 **Intelligence Center 2 raises the rouble payout on quest rewards.** That's a real
+> economic boost on top of everything else — worth remembering when weighing which modules
+> to push next.
 
 **Still locked:** Bitcoin Farm · Booze Generator · Gear Rack · Library · Scav Case ·
 Solar Power
 
-## What you asked for: a running count of what's still needed
+## The materials tally — building it next
 
 **Every reference image online is pre-1.0, so they're useless.** Same problem as the quest
-databases. So we build this the way we built the confirmed-objectives table — **off your
-own screen, one station at a time.**
+databases. We build this off your own screen instead.
 
-**How:**
+**Plan, once the current upgrades finish:**
 
-1. Open a station's upgrade panel, screenshot it. Whatever order you like — no need to do
-   them all at once.
-2. I record what that level needs.
-3. When you have a stash pass to spare, tell me what you already own and I turn it into a
-   **need / have / short by** table.
+1. Go through the remaining modules and screenshot each requirement panel.
+2. I record what each one needs.
+3. You do one stash pass and tell me what you already have.
+4. I turn it into a **need / have / short by** table.
 
-It builds up from work you're already doing. After a few sessions it's a materials list no
-website has, current for your patch.
+Then every raid report ends with **"keep this for the hideout"** — which is what you
+actually asked for.
 
-**Nothing recorded yet — send the first station whenever.**
+## 📋 NEED / HAVE / SHORT BY
 
-Once it exists, item names from it get added to the never-sell list automatically, same as
-quest items.
+*(empty — send the first module panel and this fills in)*
 
-**Priorities I already know:** **Bitcoin Farm** is the money lever. **Gym** matters for
-skill training speed.
+| Item | Needed for | Need | Have | Short |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
-> ⚠️ **Graphics cards are a conflict.** The Bitcoin Farm eats them and
+**Once this table exists, everything in it joins the never-sell list automatically**, same
+as quest items.
+
+> ⚠️ **Graphics cards are the one known conflict.** The Bitcoin Farm eats them and
 > `Semiconductor Crisis` needs 3 found in raid. **Quest first** — found-in-raid can't be
 > bought back — then feed the farm.
-
----
-
-# Gear that matters for quests
-
-I don't track your stash. This is just the durable stuff that changes what a card can ask.
-
-- **Suppressed:** **TX-15 DML** *(Wet Job P1)* · MP5 SD *(no longer covers anything —
-  Punisher P2 turned out to need an AKM series gun)*
-- **AKM series** ✅ owned — required for `The Punisher – Part 2`
-- **Rifles:** MDR ×4 · HK 416A5 ×3 · RD-704 · MCX · SA58 · Mk 16 · AK-545 Short · RPK-16 ·
-  NL545 GP · M700 · SR-25 · SR-2M · **AK-12** *(quest build)*
-- **Armor:** THOR CRV · AVS · **WARTECH TV-110** *(quest)* · Korund-VM · Defender-2 ·
-  Thunderbolt · Osprey MK4A
-- **Rigs and packs:** JPC ×2 · Commando · Poyas · LBCR ×2 · Blackjack 50 · 6Sh118 ·
-  Berkut · Day Pack
-- **Containers:** Items case · Weapons case · 4× Junk box · Gamma 3×3
-- **Keys:** LexOs · Iron gate · Key tool · Dorm room 220 · **Health Resort west wing 306**
-  *(3rd floor — NOT the 219 you need)*
 
 ---
 
