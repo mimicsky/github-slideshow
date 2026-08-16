@@ -144,6 +144,7 @@ beats anything I look up.**
 | `The Courier` | **1** REAP-IR, **quest gives it to you**, fits in pockets, **can NOT go in a secure container** | said 2, bought, and got the container part wrong |
 | `The Punisher - Part 2` | **15 Scavs with an AKM series weapon, on Shoreline** | this file said "12 suppressed + 10 lower half masks" — completely wrong |
 | `Thirsty - Hounds` | **12 Scavs between 22:00–07:00 on Shoreline** — night only | matched |
+| `The Punisher - Part 3` | **Reserve.** 12 Scavs with **9x39 caliber** weapons · **7 Lower half-masks found in raid** · hand over | every source said Customs, 25 Scavs, AKS-74U, DVL-10 reward — **wrong on all four** |
 | `Health Care Privacy - Part 2` | needs the **Health Resort west wing 306** key | no source mentions a key at all |
 | `Every Hunter Knows This` | Factory breach room + Customs 3-story dorm stairs | — |
 | `Informed Means Armed` | **2 cameras only** — Woods + Interchange | lists a third on Customs |
@@ -252,10 +253,6 @@ re-issues before you plan this)
 **Shipment Tracking** · Customs · ?
 (look up on fandom)
 
-**The Punisher – Part 3** · Customs · FIGHT 🆕
-(**25 scavs with an AKS-74U** — AKS-74U, AKS-74UN, AKS-74UB or SAG AK Short all count.
-Rewards a **DVL-10 bolt-action sniper**)
-
 **Thirsty – Delivery** · Customs + Woods · CHORE 🆕
 (Skier mails you **2 propane tanks** — stash one in the **little store by the crossroads**
 on Customs, the other in the **Scav bunker with the radio tower** in the Woods nature
@@ -307,6 +304,14 @@ Everything else on Factory is done, **including the Night Factory halves — no 
 needed.** Tagilla killed here.
 
 ## RESERVE
+
+**The Punisher – Part 3** · Reserve · FIGHT + FIND 🆕 ✅*verified from your screen*
+🔫 **needs a 9x39 caliber weapon** — VSS Vintorez · AS VAL · 9A-91 · SR-3M · VSK-94
+(**12 scavs with 9x39 on Reserve** · **7 Lower half-masks found in raid** · hand over)
+**Rewards: KBP VSK-94 9x39 rifle · 5× 7.62x39 PS gzh ammo packs · ₽289,987 · 28,000 EXP**
+
+> 💡 **The two objectives feed each other** — scavs drop lower half-masks, so the same
+> kills that fill the 12 also fill the 7. One trip does both.
 
 **A Fuel Matter** · Reserve · CHORE
 (plant markers at 2 groups of fuel tanks, survive and extract)
@@ -485,8 +490,9 @@ water, 20 Pevko Light beer — **start hoarding now, this takes months**)
   **2** *(Weapons Circulation)* · Interchange **3** *(Minibus)* · Reserve **2**
   *(A Fuel Matter)*. Buy per trip, not all at once.
 - **Check your in-game mail** — Skier sends the 2 propane tanks for `Thirsty – Delivery`.
-- **Do you own an AKS-74U?** `The Punisher – Part 3` needs one (or AKS-74UN / AKS-74UB /
-  SAG AK Short). You used one for Part 1, so probably yes.
+- **🔫 You need a 9x39 weapon for `The Punisher – Part 3`** — VSS Vintorez, AS VAL, 9A-91,
+  SR-3M or VSK-94. **Nothing on your gear list is 9x39** *(the SR-2M is 9x21)*. The quest
+  rewards a VSK-94, but you need one first to earn it.
 - **Buy the Goshan cash register key on flea** — that's `Supervisor` done for ₽250k profit,
   no raid required.
 - **Buy the Cottage back door key** if you want the `Tarkov-Style Diplomacy` villa half.
@@ -791,6 +797,14 @@ Photos work — I read your quest screen, hideout and stash directly.
 | Extract names | Item values and rewards |
 
 **Your in-game text wins every time.** I supply the where.
+
+> 🔴 **The Punisher chain is fully reworked in 1.1 and every source is wrong about it.**
+> Part 2 was wrong (said 12 suppressed + 10 masks, really 15 with an AKM series). Part 3
+> was wrong on **map, count, weapon and reward** — all four. **Do not trust any lookup for
+> Punisher Part 4 or later.** Open it in game and send me the text.
+>
+> Interesting detail: the "lower half-masks" this file once attached to Part 2 were real —
+> they just belong to **Part 3**, and it's 7, not 10.
 
 ## Your department, not mine
 
