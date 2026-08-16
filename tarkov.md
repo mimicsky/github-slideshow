@@ -147,6 +147,8 @@ beats anything I look up.**
 | `The Punisher - Part 3` | **Reserve.** 12 Scavs with **9x39 caliber** weapons · **7 Lower half-masks found in raid** · hand over | every source said Customs, 25 Scavs, AKS-74U, DVL-10 reward — **wrong on all four** |
 | `Needle in a Haystack` | **6 investigate spots, not 4.** Ground Zero courtyard park by TerraGroup HQ ✅ · Shoreline coast-side construction ✅ · Shoreline playground by the Health Resort ✅ · **Interchange kart track** · **Interchange indoor children's playground** · **Streets playground by Concordia** | sources listed 4 maps and missed the Interchange kart track entirely |
 | `Weapons Circulation` | **3 cultist ritual spots, MS2000.** Shoreline ✅ · **2 on Woods** | matched |
+| `No Swiping` | **10 kills** in the smugglers' base area | the old version of this file said 25 — **web sources were right for once** |
+| `Wet Job - Part 2` | mark the fishing table — **no survive-and-extract needed** | — |
 | `Health Care Privacy - Part 2` | needs the **Health Resort west wing 306** key | no source mentions a key at all |
 | `Every Hunter Knows This` | Factory breach room + Customs 3-story dorm stairs | — |
 | `Informed Means Armed` | **2 cameras only** — Woods + Interchange | lists a third on Customs |
@@ -206,7 +208,7 @@ have the ophthalmoscope, so this one item closes the quest.
 - **👹 Sanitar** — **boss #5, still alive**
 
 ### 🚬 Smugglers' base
-- **`No Swiping`** — kills in the base area. ⚠️ **25 or 10? Check your screen.**
+- **`No Swiping`** — **10 kills** in the base area ✅*verified*
 
 ## 🔫 Background
 
@@ -281,12 +283,12 @@ All written out in the Next Raid card above. **Sanitar** spawns Resort or Pier.
 (✅ ophthalmoscope done — **still need the surgery kit: pier office building, 2nd floor, on
 top of a wardrobe**)
 
-**Wet Job – Part 2** · Shoreline · CHORE 🆕
+**Wet Job – Part 2** · Shoreline · CHORE ✅*verified*
 (find the **fishermen's dwelling on the island** and **mark the fishing table with an
-MS2000**) ⭐ *sources call it Kappa-required — pre-rework data, verify*
+MS2000** — **no need to survive**) ⭐ *sources call it Kappa-required — verify*
 
-**No Swiping** · Shoreline · FIND + FIGHT
-(find the smugglers' base, then kills in the base area — ⚠️ **25 or 10? check your screen**)
+**No Swiping** · Shoreline · FIND + FIGHT ✅*verified*
+(find the smugglers' base, then **10 kills** in the base area)
 
 ## FACTORY — 1 left
 
