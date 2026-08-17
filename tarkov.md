@@ -136,7 +136,7 @@ beats anything I look up.**
 |---|---|---|
 | `Angry Watchman` | **3** PMCs, **only Dorms-zone kills count** | said 5 |
 | `Capturing Outposts` | **12** PMCs, and on Shoreline **only kills at the Health Resort count** — smugglers'-base kills do nothing | said 8 |
-| `Job for a Patriot` | **Prapor gives you the built AK-12** *(suppressor + PS-320 included)*. Any location. | sources imply you source the parts yourself |
+| `Job for a Patriot` | **Prapor gives you the built AK-12** *(suppressor + PS-320 included)*. Any location. **Boss kills count** — the 3 Goons gave 3 progress. | sources imply you source the parts yourself |
 | `Supplements` | chemical vial + **4 respirators** | undocumented |
 | `I Need More Power` | 2 rooms, **one raid, must extract** | matched |
 | `Anesthesia` | 3 trading posts, must extract | matched |
@@ -165,52 +165,60 @@ beats anything I look up.**
 
 ---
 
-# ▶ NEXT RAID — Shoreline, closing run
+# ▶ NEXT RAID — Interchange
 
-**Three quests closed last raid.** Two left plus the boss, and one of them is a single
-drive-by.
+**Shoreline is done** except Sanitar, who's a spawn gamble not a plan. `Capturing Outposts`
+travels — its scav bases are on **Customs and Woods**, so it doesn't hold you here.
+
+Interchange is the biggest stack on the board and **two of its quests are Ragman's**, who
+gates Kappa at LL4.
 
 ## 🛒 Buy
+**3× MS2000** *(Minibus)* · a **WI-FI camera** *(Informed Means Armed — Kiba Arms)*
 
-Nothing. **No markers, no keys.** Bring the **Prapor AK-12** and insure it.
+## 🎯 Priority 1 — `Minibus`
 
-## 🎯 Priority 1 — `Capturing Outposts` 7/12
+Mark **3 yellow minibuses**, then **extract as a PMC**:
+- southwest of the mall at the **container lot**
+- western parking garage, **section B into C**, by the blocked down-ramp
+- **section C next to the Saferoom Exfil**, by the hole in the wall between garages
 
-**5 more PMCs, and only Health Resort kills count.** Park yourself there rather than
-roaming — this is the one long job left on the map.
-
-`Job for a Patriot` **5/10** rides along on the same kills, anywhere on the map.
+⚠️ **Extraction required** — don't die after marking.
 
 ---
 
-## The rest
+## 🛍 In the mall
 
-### 🚗 Main road along the shore
-- **`Wet Job – Part 3`** 🆕 — find **Artyom's car**: **yellow, next to a yellow bus and a
-  police car**, near the **tunnel before the barge**. ⚠️ **Survive and extract.**
-- **Reward: NcSTAR ADO P4 3-9x42 scope** · Peacekeeper rep · $1,500
+- **`The Key to Success`** — 2 design books: **History Museum store, on the floor across
+  from the arcade machines** · **Knigoed bookstore, central shelf, bottom level**
+- **`Needle in a Haystack`** 3/6 — **the indoor children's playground**
+- **`Informed Means Armed`** — WI-FI camera at **Kiba Arms**. This is the **second of two**,
+  so it finishes the quest.
+- **`Chumming`** — the Interchange piece
+- **👹 Killa** — in the mall. **Boss #6.**
 
-### 🏥 Health Resort
-- **`Capturing Outposts`** 7/12 — the only zone that counts
-- **👹 Sanitar** — Resort or Pier. **Boss #5, still alive.**
-
-### 🚬 Smugglers' base
-- No quest here any more, but **the loot is still excellent.** Worth a pass if the route
-  works.
+## 🏎 Outside
+- **`Needle in a Haystack`** — **the kart track**
 
 ## 🔫 Background
-**`A Shooter Born in Heaven`** 50% ⭐Kappa · **`Booze`** drinks · **GPUs**
+- **`Job for a Patriot`** **8/10** — 2 more PMCs with the Prapor AK-12, anywhere
+- **`A Shooter Born in Heaven`** 50% ⭐Kappa
 
-## ⚠️ One caution
-**`Wet Job – Part 3` needs you to survive.** Find the car early, then play the rest of the
-raid knowing you're carrying a completion.
+## 🎒 Hideout grabs
+🔌 **Wires (50) · power cord (20)** · ⚡ **phase control relay (16) · spark plug (14) ·
+CPU fan (12) · corrugated hose (10)**
+🥇 **Any gold** · 🍺 **drinks** · 💻 **GPUs**
+
+> 💡 **OLI is a propane tank spawn** if `Thirsty` ever needs more.
 
 ---
 
-## ⏭ After Shoreline: Interchange
+## ⏭ Still open elsewhere
 
-`Minibus` (3 MS2000) · `The Key to Success` (2 books) · **2 of your 3 remaining `Needle`
-spots** · Kiba Arms camera · `Chumming` piece · **👹 Killa**. **Buy 3 MS2000.**
+- **Shoreline** — `Capturing Outposts` 7/12 · **Sanitar** never spawned
+- **Customs** — `Angry Watchman` 1/3 · `The Courier` · `Shipment Tracking` ·
+  `Thirsty – Delivery` · `Secrets of Polikhim` · scav base for `Capturing Outposts`
+- **Reserve** — `The Punisher – Part 3` **needs a 9x39 gun you don't own**
 
 ---
 
@@ -255,16 +263,10 @@ the gas station**, or just **buy it on flea**. Pays **₽250k**)
 *Also here: `Seizing the Initiative`, `Secrets of Polikhim`, `Capturing Outposts`.*
 **Reshala** — Dorms 3-story · New Gas · Fortress. **Guards hold the rooms — bring nades.**
 
-## SHORELINE — 2 left
+## SHORELINE — 1 left
 
 **Capturing Outposts** · Shoreline · FIGHT · **7/12**
 (PMCs — **Health Resort only**, other zones don't count)
-
-**Wet Job – Part 3** · Shoreline · CHORE ✅*verified*
-🎯 **needs an MS2000 — you MARK the car, not just find it**
-(**Artyom's car** — yellow, on the **main road along the shore next to a yellow bus and a
-police car**, near the **tunnel before the barge** — mark it, then **survive and extract**)
-**Reward: NcSTAR ADO P4 3-9x42 scope** · Peacekeeper rep · $1,500
 
 **👹 Sanitar** — Resort or Pier. **Boss #5, still alive.**
 
@@ -1005,6 +1007,10 @@ survive)
 🔑 Cottage back door key *(for the villa half)*
 (**surgery kit** on top of a wardrobe, pier office 2F · **ophthalmoscope** in a potted
 plant, villa 2F left room)
+
+**Wet Job – Part 3** · Shoreline · CHORE
+(mark **Artyom's car** with an MS2000 — yellow, by a yellow bus and a police car near the
+tunnel before the barge — then survive and extract)
 
 ## Factory
 
