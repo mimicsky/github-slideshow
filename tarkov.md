@@ -167,82 +167,64 @@ beats anything I look up.**
 
 ---
 
-# ▶ NEXT RAID — Interchange · 9 quests
+# ▶ NEXT RAID — Interchange again, to close it out
 
-**Six of the nine are Ragman**, and Ragman is the trader gating Kappa at LL4. This is the
-highest-value raid on your board.
+Three down last raid. **Six left, and they're all cheap** — you know the map now and most
+of these are walk-ups.
 
-⚠️ **Two keys gate two quests.** Price the **#21WS keycard** before you commit — if it's
-expensive, `Irresistible` can wait and the other eight still make the trip worth it.
+## 🛒 Buy
 
-## 🛒 Buy before you load in
+| Qty | Item | For |
+|---|---|---|
+| **2** | **MS2000** | `Fuel Crisis` *(if the quest didn't hand you its own 2 — check)* |
+| 🔑 | **#21WS keycard** | `Irresistible` — **price it first, skip if steep** |
 
-| Item | For |
-|---|---|
-| **5× MS2000** | `Minibus` 3 + `Fuel Crisis` 2 |
-| **OLI logistics key** 🔑 | `A Big Loss` |
-| **#21WS keycard** 🔑 | `Irresistible` |
-| **WI-FI camera** | `Informed Means Armed` — Kiba Arms |
-| **6B47 helmet (Olive Drab)** | `Hot Delivery` |
-| **Peltor ComTac 2 headset** | `Hot Delivery` |
-| **Gzhel-K body armor** | `Hot Delivery` |
+**Nothing else.** No armor to stash, no chains, no camera.
 
-## 🎯 Priority 1 — `Hot Delivery` *(₽192,225 · Ragman +0.25)*
+## 🎯 Priority 1 — `Long Line` 🆕
 
-Biggest Ragman rep on the map, and it's pure errand once you've bought the gear.
-
-- **6B47 helmet + ComTac 2 headset** → the **trash at Avokado**
-- **Gzhel-K body armor** → the **trash near the outdoor stage, directly across from
-  Ultra's main entrance**
+**Kill 4 PMC operatives on Interchange.** Ragman rep, and it's the only thing here that
+needs a fight, so build the route around where PMCs actually are.
 
 ---
 
-## 📍 By area
+## What's left
 
-### 🛍 Avokado
-- **`Hot Delivery`** — helmet + headset in the trash
+| Quest | What | Where |
+|---|---|---|
+| **`Long Line`** 🆕 | **4 PMC kills** | anywhere on the map |
+| **`Pathfinder`** | visit **Railway Exfil · Emercom Checkpoint · Power Station V-Ex** | extracts — pure walking |
+| **`Fuel Crisis`** | mark fuel tank **by the power station** + one in the **northern territory** | German-flagged tankers near Ultra |
+| **`The Key to Success`** | 2 design books | **History Museum store** floor by the arcade machines · **Knigoed bookstore** central shelf, bottom |
+| **`Needle in a Haystack`** | 2 spots | **kart track** + **indoor children's playground** |
+| **`Irresistible`** 🔑 | lost weapon crate | near **Ultra** |
+| **👹 Killa** | boss #6 | the mall |
 
-### 🏬 Ultra
-- **`Irresistible`** — the **lost weapon crate near Ultra**. **Best payout on the map:**
-  MPS Auto Assault-12 shotgun, 2 flechette packs, €1,922, 28k EXP, plus an unknown reward.
-- **`Hot Delivery`** — Gzhel-K in the trash across from Ultra's main entrance
-- **`Fuel Crisis`** — tankers with **German flags** near Ultra
-
-### 🏢 Logistics office
-- **`A Big Loss`** — the **OLI cargo route documents**
-
-### 🛒 Mall interior
-- **`The Key to Success`** — **History Museum store**, floor across from the arcade
-  machines · **Knigoed bookstore**, central shelf, bottom level
-- **`Informed Means Armed`** — camera at **Kiba Arms**. **This finishes the quest.**
-- **`Needle in a Haystack`** — the **indoor children's playground**
-- **👹 Killa** — **boss #6**
-
-### 🚗 Outside
-- **`Minibus`** — 3 yellow minibuses: **container lot SW of the mall** · **west garage,
-  section B into C** by the blocked down-ramp · **section C by the Saferoom Exfil**
-- **`Needle in a Haystack`** — the **kart track**
-- **`Fuel Crisis`** — fuel tank by the **power station**, and one in the **northern
-  territory**
-
-### 🚪 Extracts
-- **`Pathfinder`** — visit **Railway Exfil**, **Emercom Checkpoint**, **Power Station
-  V-Ex**. Free money, just walk to them.
-
----
-
-## ⚠️ Extraction matters here
-
-**`Minibus` requires extracting as a PMC.** Do the marking early and don't get greedy.
+**`Pathfinder` alone is ₽93,200 for walking to three extracts.** Do it on the way out.
 
 ## 🎒 Hideout grabs
 🔌 **Wires (50) · power cord (20)** · ⚡ **relay (16) · spark plug (14) · CPU fan (12) ·
 corrugated hose (10)** · 🥇 **gold** · 🍺 **drinks** · 💻 **GPUs**
-💡 **OLI is a propane tank spawn.**
 
-## 🔫 Background
-**`A Shooter Born in Heaven`** 50% ⭐Kappa · **`Is This a Reference`** cameras
-⚠️ **`Job for a Patriot` does NOT count here** — Streets, Shoreline, Ground Zero only.
+---
+
+## ⏭ Then Woods — it's stacked now, and three quests share one spot
+
+**The sawmill docks alone hold three objectives:**
+
+- **`Informed Means Armed`** — the sawmill dock camera **finishes the quest**
+- **`Gratitude`** 🆕 — stash the **Shemagh (Green)** and **RayBench sunglasses** there
+  *(both supplied by the quest)*
+- **`Weapons Circulation`** — one ritual spot is **west of the sawmill near the checkpoint**
+
+**Plus:** `Small Things, Big Help` 🆕 *(3 fuel stashes, **3 MS2000 supplied**)* ·
+`Chumming` · `Thirsty – Delivery` *(scav bunker with the radio tower)* · `Special Comms`
+*(Bulbex cutter at the RUAF boulder)* · `Health Care Privacy – Part 3` · **Shturman** ·
+7 unknowns.
+
+> 💰 **Two of the new Woods quests supply their own equipment.** Woods needs almost no
+> shopping — just **2 MS2000** for `Weapons Circulation` and **3 golden neck chains** for
+> `Chumming`.
 
 ---
 
@@ -342,9 +324,22 @@ you Labs keycards, and Labs is full of raiders)
 (stash the Bulbex cable cutter at the boulder by RUAF gate, then transit to Reserve —
 **you already own the cutter, don't sell it**)
 
-**Informed Means Armed** · Woods + Interchange · CHORE
-(plant 2 wifi cameras — sawmill dock on Woods, Kiba Arms on Interchange. **Only 2, there
-is no Customs one**)
+**Informed Means Armed** · Woods · CHORE · **1/2**
+(✅ Kiba Arms done — **only the sawmill dock camera on Woods remains**, and it finishes the
+quest)
+
+**Gratitude** · Woods · CHORE 🆕 ✅*verified* — *Ragman*
+🎒 **the quest supplies the Shemagh (Green) and RayBench Hipster Reserve sunglasses**
+(stash **both at the sawmill docks**)
+**Reward: ₽93,200 · Ragman +0.1**
+
+**Small Things, Big Help** · Woods · CHORE 🆕 ✅*verified* — *Ragman*
+🎯 **the quest supplies 3 MS2000 — don't buy them**
+(mark **3 fuel stashes** — barrels in the forest)
+**Reward: ₽93,200 · Ragman +0.1**
+
+**Survivalist Path – Tough Guy** · ? · ? 🆕
+(send me the in-game text)
 
 **Chumming** · Woods + Customs · CHORE ✅*verified*
 (stash 3 golden neck chains — **no Interchange piece**, sources say otherwise and are
@@ -390,8 +385,9 @@ you looted the AK-12 already, buy the two parts)
 
 ## INTERCHANGE
 
-**Informed Means Armed** · Interchange · CHORE
-(plant the wifi camera at Kiba Arms — this plus the Woods one finishes it)
+**Long Line** · Interchange · FIGHT 🆕 ✅*verified* — *Ragman*
+(**eliminate 4 PMC operatives on Interchange** — 0/4)
+**Reward: ₽93,200 · Ragman +0.1**
 
 **Know Your Place** · Streets → Interchange · FIGHT
 (5 kills on streets, transit, 5 kills on interchange — **all one raid**)
@@ -399,24 +395,6 @@ you looted the AK-12 already, buy the two parts)
 **The Key to Success** · Interchange · FIND 🆕
 (2 books of clothes design — **History Museum store, on the floor across from the arcade
 machines** · **Knigoed bookstore, central shelf, bottom level**)
-
-**Minibus** · Interchange · CHORE 🆕
-(mark **3 yellow minibuses** with MS2000, then **extract as a PMC**)
-- southwest of the mall at the **container lot**
-- western parking garage, **section B into section C**, by the blocked down-ramp
-- **section C next to the Saferoom Exfil**, by the hole in the wall between garages
-
-**Hot Delivery** · Interchange · CHORE + BUY ✅*verified* — *Ragman*
-🛒 **You must buy and carry in: 6B47 helmet (Olive Drab) · Peltor ComTac 2 headset ·
-Gzhel-K body armor**
-(stash the **helmet and headset in the trash at Avokado**, and the **Gzhel-K in the trash
-near the outdoor stage, directly across from Ultra's main entrance**)
-**Reward: ₽192,225 · Ragman +0.25** — the biggest Ragman rep on the map
-
-**A Big Loss** · Interchange · FIND ✅*verified* — *Ragman*
-🔑 **OLI logistics key — required**
-(**locate and obtain the OLI cargo route documents** from the **logistics office**)
-**Reward: ₽93,200 · Ragman +0.1**
 
 **Pathfinder** · Interchange · CHORE ✅*verified* — *Ragman*
 (visit 3 extracts: **Railway Exfil · Emercom Checkpoint · Power Station V-Ex**)
@@ -1069,6 +1047,20 @@ office** at the Health Resort)
 **Wet Job – Part 3** · Shoreline · CHORE
 (mark **Artyom's car** with an MS2000 — yellow, by a yellow bus and a police car near the
 tunnel before the barge — then survive and extract)
+
+**Hot Delivery** · Interchange · CHORE
+(6B47 helmet + ComTac 2 headset in the trash at Avokado · Gzhel-K in the trash by the
+outdoor stage across from Ultra's main entrance)
+
+**Minibus** · Interchange · CHORE
+(3 yellow minibuses marked with MS2000, extract as PMC)
+
+**A Big Loss** · Interchange · FIND
+🔑 OLI logistics key
+(OLI cargo route documents from the logistics office)
+
+**Survivalist Path – Wounded Beast** · ? · ?
+(no details recorded)
 
 ## Factory
 
