@@ -136,7 +136,7 @@ beats anything I look up.**
 |---|---|---|
 | `Angry Watchman` | **3** PMCs, **only Dorms-zone kills count** | said 5 |
 | `Capturing Outposts` | **12** PMCs, and on Shoreline **only kills at the Health Resort count** — smugglers'-base kills do nothing | said 8 |
-| `Job for a Patriot` | **Prapor gives you the built AK-12** *(suppressor + PS-320 included)*. Any location. **Boss kills count** — the 3 Goons gave 3 progress. | sources imply you source the parts yourself |
+| `Job for a Patriot` | **Prapor gives you the built AK-12** *(suppressor + PS-320 included)*. **Streets · Shoreline · Ground Zero only** — not any location, and **not Interchange**. | sources say you buy the parts and list Lighthouse/Customs/Reserve — wrong on both |
 | `Supplements` | chemical vial + **4 respirators** | undocumented |
 | `I Need More Power` | 2 rooms, **one raid, must extract** | matched |
 | `Anesthesia` | 3 trading posts, must extract | matched |
@@ -201,8 +201,10 @@ Mark **3 yellow minibuses**, then **extract as a PMC**:
 - **`Needle in a Haystack`** — **the kart track**
 
 ## 🔫 Background
-- **`Job for a Patriot`** **8/10** — 2 more PMCs with the Prapor AK-12, anywhere
 - **`A Shooter Born in Heaven`** 50% ⭐Kappa
+
+> ⚠️ **`Job for a Patriot` does NOT count here.** It only progresses on **Streets,
+> Shoreline and Ground Zero**. Your last 2 PMCs have to come from one of those.
 
 ## 🎒 Hideout grabs
 🔌 **Wires (50) · power cord (20)** · ⚡ **phase control relay (16) · spark plug (14) ·
