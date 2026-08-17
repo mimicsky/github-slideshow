@@ -595,6 +595,9 @@ check before a hunt and tell me.
 >
 > *(This file used to say Kappa needed ₽30–40M routed through traders. That was wrong and
 > it's deleted. Don't buy things just to move the number.)*
+>
+> The **"(spent)" figure on the trader panel is a stat display, not a gate** — confirmed.
+> Ignore it.
 
 **Level 30 unlocks:** lion statue barter (~₽86k) → documents case, cheap stash relief.
 **Level 42:** Ragman LL4, the real Kappa gate.
