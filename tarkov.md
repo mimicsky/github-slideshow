@@ -194,7 +194,8 @@ Mark **3 yellow minibuses**, then **extract as a PMC**:
 - **`Needle in a Haystack`** 3/6 — **the indoor children's playground**
 - **`Informed Means Armed`** — WI-FI camera at **Kiba Arms**. This is the **second of two**,
   so it finishes the quest.
-- **`Chumming`** — the Interchange piece
+- **`Chumming`** — stash **3 golden neck chains** under the **mattress by the BTR-82A in
+  the Generic Store** *(next to Avokado)*. **Bring the chains — buy on flea.**
 - **👹 Killa** — in the mall. **Boss #6.**
 
 ## 🏎 Outside
@@ -374,7 +375,9 @@ you looted the AK-12 already, buy the two parts)
 (5 kills on streets, transit, 5 kills on interchange — **all one raid**)
 
 **Chumming** · Interchange · CHORE
-(Interchange piece)
+(stash **3 golden neck chains** under the **mattress next to the BTR-82A in the Generic
+Store** — the Generic Store is right beside **Avokado**)
+⚠️ **Bring the chains with you** — buy on flea if you don't have 3
 
 **The Key to Success** · Interchange · FIND 🆕
 (2 books of clothes design — **History Museum store, on the floor across from the arcade
@@ -824,6 +827,9 @@ military flash drive · can of thermite · VPX · car battery · Greenbat · sod
 bicarbonate · coffee beans · Working LCD · drain cleaner · COFDM · measuring tape ·
 electric motor · GPS amplifier · magnetic tape · sealing foam · ratchet wrench ·
 pliers elite
+
+**Never sell — quest valuables:** 🔗 **golden neck chains** *(Chumming needs 3 per stash
+point)*
 
 **Never sell — valuables the Scav Case eats:** 🐓 **golden rooster ×2** · gold skull ring ·
 **bronze lion** · gold wrist watch · moonshine. **These used to be pure vendor fodder.
