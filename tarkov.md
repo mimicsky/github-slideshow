@@ -2,7 +2,7 @@
 
 **You play. I track.** Quests, stash, and keep/sell calls.
 
-> **PvE · Patch 1.1.0.1.46699 · Unheard · Level 27 · USEC · Stash 4 · ~₽2.4M**
+> **PvE · Patch 1.1.0.1.46699 · Unheard · Level 30 · USEC · Stash 4 · ~₽3.85M**
 
 ## Starting a fresh chat? Paste this whole file in first.
 
@@ -288,7 +288,7 @@ the gas station**, or just **buy it on flea**. Pays **₽250k**)
 *Also here: `Seizing the Initiative`, `Secrets of Polikhim`, `Capturing Outposts`.*
 **Reshala** — Dorms 3-story · New Gas · Fortress. **Guards hold the rooms — bring nades.**
 
-## SHORELINE — 1 left
+## SHORELINE — 2 left
 
 **Capturing Outposts** · Shoreline · FIGHT · **7/12**
 (PMCs — **Health Resort only**, other zones don't count)
@@ -582,7 +582,7 @@ check before a hunt and tell me.
 
 | Requirement | You |
 |---|---|
-| Level **40** *(really 42 — Ragman's LL4 gate)* | **27** |
+| Level **40** *(really 42 — Ragman's LL4 gate)* | **30** |
 | **LL4 with every trader** | LL3 on six · Ragman ~2–3 · Ref 2 · **Fence 1** |
 | **Fence rep 3.0** | Fence at LL1 — biggest gap |
 | `Chemical - Part 4` | Parts 1–3 done, Part 4 live |
@@ -603,7 +603,7 @@ check before a hunt and tell me.
 
 # Character
 
-**Level 27 · USEC · PvE · Unheard (Gamma 3×3) · Stash 4 · ~₽2.4M**
+**Level 30 · USEC · PvE · Unheard (Gamma 3×3) · Stash 4 · ₽3,850,137 · €8,088 · $26,475**
 
 | Trader | LL | | Trader | LL |
 |---|---|---|---|---|
@@ -1061,6 +1061,12 @@ survive)
 🔑 Cottage back door key *(for the villa half)*
 (**surgery kit** on top of a wardrobe, pier office 2F · **ophthalmoscope** in a potted
 plant, villa 2F left room)
+
+**Wet Job – Part 4** · Shoreline · FIND 🆕 ✅*verified*
+(**locate and obtain the list of Health Resort tenants** — it's in the **administration
+office** at the Health Resort)
+**Reward: $2,215 · 7.62x51 M80A1 + 5× 20-round packs · M67 grenade · 28,000 EXP**
+**Next in the chain pays a Remington R11 RSASS and an FN40GL Mk2 grenade launcher**
 
 **Wet Job – Part 3** · Shoreline · CHORE
 (mark **Artyom's car** with an MS2000 — yellow, by a yellow bus and a police car near the
