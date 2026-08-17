@@ -150,6 +150,7 @@ beats anything I look up.**
 | `Weapons Circulation` | **3 cultist ritual spots, MS2000.** Shoreline ✅ · **2 on Woods** | matched |
 | `No Swiping` | **10 kills** in the smugglers' base area | the old version of this file said 25 — **web sources were right for once** |
 | `Wet Job - Part 2` | mark the fishing table — **no survive-and-extract needed** | — |
+| `Wet Job - Part 3` | **MARK Artyom's car with an MS2000** — not just locate it | sources say "locate", which cost a raid |
 | `Health Care Privacy - Part 2` | needs the **Health Resort west wing 306** key | no source mentions a key at all |
 | `Every Hunter Knows This` | Factory breach room + Customs 3-story dorm stairs | — |
 | `Informed Means Armed` | **2 cameras only** — Woods + Interchange | lists a third on Customs |
@@ -259,9 +260,10 @@ the gas station**, or just **buy it on flea**. Pays **₽250k**)
 **Capturing Outposts** · Shoreline · FIGHT · **7/12**
 (PMCs — **Health Resort only**, other zones don't count)
 
-**Wet Job – Part 3** · Shoreline · FIND 🆕
-(locate **Artyom's car** — yellow, on the **main road along the shore next to a yellow bus
-and a police car**, near the **tunnel before the barge** — then **survive and extract**)
+**Wet Job – Part 3** · Shoreline · CHORE ✅*verified*
+🎯 **needs an MS2000 — you MARK the car, not just find it**
+(**Artyom's car** — yellow, on the **main road along the shore next to a yellow bus and a
+police car**, near the **tunnel before the barge** — mark it, then **survive and extract**)
 **Reward: NcSTAR ADO P4 3-9x42 scope** · Peacekeeper rep · $1,500
 
 **👹 Sanitar** — Resort or Pier. **Boss #5, still alive.**
@@ -693,7 +695,8 @@ actually asked for.
 
 ## 📋 THE COMPLETE SHORTFALL TALLY
 
-**16 modules, every item named, no unknowns. 222 items to finish the hideout.**
+**16 modules, every item named. 214 items left** *(Medstation 3's 8 saline are spent —
+it's upgrading now)*. **Weapon Rack 2 not yet recorded.**
 
 ### 🏆 The big six — 122 of the 222
 
@@ -714,7 +717,6 @@ actually asked for.
 |---|---|---|
 | **Fleece fabric** | **9** | Gear Rack |
 | **Bolts** | **9** | Gear Rack |
-| **Bottle of saline** | **8** | Medstation |
 | **T plug** | **8** | Bitcoin Farm |
 | **PSU** | **7** | Bitcoin Farm 6 · Generator 1 |
 | **NIXXOR lens** | **5** | Security |
@@ -771,6 +773,12 @@ Water Collector 2 ──► Lavatory 3
 > 💰 **Intelligence Center 3 pays Flea Market fee −30% and Scav cooldown −20%** — your best
 > economic upgrade, four deep behind Illumination 3, which is building now.
 
+## 🏗 In progress / not yet recorded
+
+- **Medstation 3** — **upgrading now.** Its 8 saline are spent, so it's off the shortfall.
+- **Weapon Rack 1** — built. **Requirements for level 2 not recorded yet** — send the panel
+  when you're ready and it joins the tally.
+
 ## 🎯 Nearly done — cheap wins
 
 | Module | Needs |
@@ -778,7 +786,6 @@ Water Collector 2 ──► Lavatory 3
 | **Hall of Fame 2** | 1 golden rooster |
 | **Water Collector 3** | 1 sealing foam · 1 ratchet wrench *(+ Generator 3)* |
 | **Nutrition 3** | 2 drain cleaner · 3 sodium bicarbonate · 3 coffee beans |
-| **Medstation 3** | 8 saline |
 | **Workbench 3** | 4 cans of thermite |
 
 **Once this table exists, everything in it joins the never-sell list automatically**, same
@@ -808,7 +815,7 @@ Higher rule wins.
 **Wires (50) · power cord (20) · phase control relay (16) · spark plug (14) · CPU fan
 (12) · corrugated hose (10)** — the big six.
 
-Then: fleece fabric · bolts · saline · T plug · PSU · NIXXOR lens · military cable ·
+Then: fleece fabric · bolts · T plug · PSU · NIXXOR lens · military cable ·
 military flash drive · can of thermite · VPX · car battery · Greenbat · sodium
 bicarbonate · coffee beans · Working LCD · drain cleaner · COFDM · measuring tape ·
 electric motor · GPS amplifier · magnetic tape · sealing foam · ratchet wrench ·
