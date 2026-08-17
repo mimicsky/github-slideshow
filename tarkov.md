@@ -172,19 +172,20 @@ beats anything I look up.**
 **Six of the nine are Ragman**, and Ragman is the trader gating Kappa at LL4. This is the
 highest-value raid on your board.
 
+⚠️ **Two keys gate two quests.** Price the **#21WS keycard** before you commit — if it's
+expensive, `Irresistible` can wait and the other eight still make the trip worth it.
+
 ## 🛒 Buy before you load in
 
 | Item | For |
 |---|---|
-| **3× MS2000** | `Minibus` *(`Fuel Crisis` supplies its own 2 — don't overbuy)* |
+| **5× MS2000** | `Minibus` 3 + `Fuel Crisis` 2 |
+| **OLI logistics key** 🔑 | `A Big Loss` |
+| **#21WS keycard** 🔑 | `Irresistible` |
 | **WI-FI camera** | `Informed Means Armed` — Kiba Arms |
-| **3× golden neck chain** | `Chumming` |
 | **6B47 helmet (Olive Drab)** | `Hot Delivery` |
 | **Peltor ComTac 2 headset** | `Hot Delivery` |
 | **Gzhel-K body armor** | `Hot Delivery` |
-
-⚠️ **`A Big Loss` may need a key** — the quest says the logistics office is locked and the
-key is missing. Check your in-game tracker before you go.
 
 ## 🎯 Priority 1 — `Hot Delivery` *(₽192,225 · Ragman +0.25)*
 
@@ -198,10 +199,8 @@ Biggest Ragman rep on the map, and it's pure errand once you've bought the gear.
 
 ## 📍 By area
 
-### 🛍 Avokado / Generic Store
+### 🛍 Avokado
 - **`Hot Delivery`** — helmet + headset in the trash
-- **`Chumming`** — 3 golden neck chains under the **mattress by the BTR-82A in the Generic
-  Store**, right beside Avokado
 
 ### 🏬 Ultra
 - **`Irresistible`** — the **lost weapon crate near Ultra**. **Best payout on the map:**
@@ -347,8 +346,9 @@ you Labs keycards, and Labs is full of raiders)
 (plant 2 wifi cameras — sawmill dock on Woods, Kiba Arms on Interchange. **Only 2, there
 is no Customs one**)
 
-**Chumming** · Customs · Interchange · Woods · CHORE
-(stash 3 golden neck chains in a microwave — **Customs piece already done**)
+**Chumming** · Woods + Customs · CHORE ✅*verified*
+(stash 3 golden neck chains — **no Interchange piece**, sources say otherwise and are
+wrong)
 
 **Thirsty – Delivery** · Woods + Customs · CHORE 🆕
 (stash a propane tank in the **Scav bunker with the radio tower**, nature reserve — tanks
@@ -396,11 +396,6 @@ you looted the AK-12 already, buy the two parts)
 **Know Your Place** · Streets → Interchange · FIGHT
 (5 kills on streets, transit, 5 kills on interchange — **all one raid**)
 
-**Chumming** · Interchange · CHORE
-(stash **3 golden neck chains** under the **mattress next to the BTR-82A in the Generic
-Store** — the Generic Store is right beside **Avokado**)
-⚠️ **Bring the chains with you** — buy on flea if you don't have 3
-
 **The Key to Success** · Interchange · FIND 🆕
 (2 books of clothes design — **History Museum store, on the floor across from the arcade
 machines** · **Knigoed bookstore, central shelf, bottom level**)
@@ -419,9 +414,8 @@ near the outdoor stage, directly across from Ultra's main entrance**)
 **Reward: ₽192,225 · Ragman +0.25** — the biggest Ragman rep on the map
 
 **A Big Loss** · Interchange · FIND ✅*verified* — *Ragman*
-(**locate and obtain the OLI cargo route documents** — they're in the **logistics office**)
-⚠️ quest text says the office is **locked and the key is missing** — may need a key,
-unconfirmed
+🔑 **OLI logistics key — required**
+(**locate and obtain the OLI cargo route documents** from the **logistics office**)
 **Reward: ₽93,200 · Ragman +0.1**
 
 **Pathfinder** · Interchange · CHORE ✅*verified* — *Ragman*
@@ -435,6 +429,7 @@ territory** — the tankers have **German flags** on them, near Ultra)
 **Reward: ₽93,200 · Ragman +0.1**
 
 **Irresistible** · Interchange · FIND ✅*verified*
+🔑 **#21WS keycard — required**
 (**find the lost weapon crate near the Ultra mall**, hand over the cargo)
 **Reward: MPS Auto Assault-12 Gen 1 shotgun · 2× 12/70 flechette packs · €1,922 ·
 28,000 EXP · + an unknown reward** — best single payout on the map
