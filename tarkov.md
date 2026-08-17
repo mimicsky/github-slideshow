@@ -203,6 +203,7 @@ needs a fight, so build the route around where PMCs actually are.
 | **`The Key to Success`** | 2 design books | **History Museum store** floor by the arcade machines · **Knigoed bookstore** central shelf, bottom |
 | **`Needle in a Haystack`** | 2 spots | **kart track** + **indoor children's playground** |
 | **`Irresistible`** 🔑 | lost weapon crate | near **Ultra** |
+| **`The Huntsman Path – Sellout`** | **kill Killa + carry out his Maska-1SCh helmet** | the mall |
 | **👹 Killa** | boss #6 | the mall |
 
 **`Pathfinder` alone is ₽93,200 for walking to three extracts.** Do it on the way out.
