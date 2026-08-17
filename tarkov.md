@@ -119,9 +119,11 @@ All three are mutually exclusive.
 
 ## Take Skier's `Chemical - Part 4`
 
-The documents case barters from Therapist for a lion statue (~₽86k) at level 30, so taking
-it as a reward is only worth about 86k. **Two Labs keycards are ₽400–600k.** Not close.
-You end up with both anyway. Labs access also feeds `Drip Out - Part 1`.
+**✅ You already own the documents case**, so the Therapist branch now offers **nothing you
+don't have** — its only unique reward is redundant. That settles it beyond argument.
+
+**Two Labs keycards are ₽400–600k**, and Labs access also feeds `Drip Out - Part 1`
+(100 Raider kills).
 
 > ⚠️ **Do not finish `Out of Curiosity` or `Big Customer`.** Either kills this.
 
@@ -756,8 +758,8 @@ it's upgrading now)*. **Weapon Rack 2 not yet recorded.**
 > missing)*, one goes in the **Scav Case**. Spend the first on the wrong one and you stall
 > the other.
 
-> 🦁 **Bronze lion ×4, not 3.** Scav Case wants 3, and the **documents case barters from
-> Therapist for a lion statue at level 30** — the cheap stash relief this file recommends.
+> 🦁 **Bronze lion — 3, collision resolved.** You bought the documents case, so the lion
+> statue barter is no longer needed. All 3 go to the **Scav Case**.
 
 > 🔌 **Power cord and PSU each serve two modules.** Easy to under-collect if you only
 > remember one.
