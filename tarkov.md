@@ -167,7 +167,7 @@ beats anything I look up.**
 
 ---
 
-# ▶ NEXT RAID — Interchange again, to close it out
+# ▶ NEXT RAID — Interchange · 7 quests + Killa
 
 Three down last raid. **Six left, and they're all cheap** — you know the map now and most
 of these are walk-ups.
@@ -177,9 +177,13 @@ of these are walk-ups.
 | Qty | Item | For |
 |---|---|---|
 | **2** | **MS2000** | `Fuel Crisis` *(if the quest didn't hand you its own 2 — check)* |
+| **1** | **Goshan cash register key** | `Supervisor` |
+| **1** | **IDEA cash register key** | `Supervisor` |
+| **1** | **OLI cash register key** | `Supervisor` |
 | 🔑 | **#21WS keycard** | `Irresistible` — **price it first, skip if steep** |
 
-**Nothing else.** No armor to stash, no chains, no camera.
+**The three cash register keys are cheap and don't need to be found in raid** — buy all
+three on flea.
 
 ## 🎯 Priority 1 — `Long Line` 🆕
 
@@ -192,6 +196,7 @@ needs a fight, so build the route around where PMCs actually are.
 
 | Quest | What | Where |
 |---|---|---|
+| **`Supervisor`** 🆕 | stash **3 cash register keys** | Goshan → **BIZARRO fitting rooms** · IDEA → **Register #9** · OLI → **Register #7-8** |
 | **`Long Line`** 🆕 | **4 PMC kills** | anywhere on the map |
 | **`Pathfinder`** | visit **Railway Exfil · Emercom Checkpoint · Power Station V-Ex** | extracts — pure walking |
 | **`Fuel Crisis`** | mark fuel tank **by the power station** + one in the **northern territory** | German-flagged tankers near Ultra |
@@ -261,10 +266,6 @@ re-issues before you plan this)
 (Skier mails you **2 propane tanks** — stash one in the **little store by the crossroads**
 on Customs, the other in the **Scav bunker with the radio tower** in the Woods nature
 reserve. **Check your in-game mail for the tanks.**)
-
-**Supervisor** · Customs *(or flea)* · FIND 🆕
-(get the **Goshan cash register key** and hand it to Ragman — it's on a **bus seat behind
-the gas station**, or just **buy it on flea**. Pays **₽250k**)
 
 *Also here: `Seizing the Initiative`, `Secrets of Polikhim`, `Capturing Outposts`.*
 **Reshala** — Dorms 3-story · New Gas · Fortress. **Guards hold the rooms — bring nades.**
@@ -384,6 +385,18 @@ you looted the AK-12 already, buy the two parts)
 **Zryachiy** on the island.
 
 ## INTERCHANGE
+
+**Supervisor** · Interchange · CHORE ✅*verified* — *Ragman*
+🛒 **carry in 3 keys — all buyable on flea, none need to be found in raid**
+(stash each cash register key at its spot)
+- **Goshan key** → **BIZARRO store fitting rooms**
+- **IDEA key** → **Register #9**
+- **OLI key** → **Register #7-8**
+
+*Where the keys spawn if you'd rather find them:* **Goshan** — bus seat behind the gas
+station on **Customs** · **IDEA** — seat of the white bus outside the IDEA store, or the
+front registers · **OLI** — table in the office at the back of the OLI store, or the front
+registers. All three also drop from Scav pockets and jackets.
 
 **Long Line** · Interchange · FIGHT 🆕 ✅*verified* — *Ragman*
 (**eliminate 4 PMC operatives on Interchange** — 0/4)
