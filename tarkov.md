@@ -691,104 +691,69 @@ databases. We build this off your own screen instead.
 Then every raid report ends with **"keep this for the hideout"** — which is what you
 actually asked for.
 
-## 📋 SHORTFALL TALLY — named, 15 modules
+## 📋 THE COMPLETE SHORTFALL TALLY
 
-### 🔴 WIRES — 50
+**16 modules, every item named, no unknowns. 222 items to finish the hideout.**
 
-| Module | Short |
-|---|---|
-| Vents 3 | 14 |
-| Security 3 | 10 |
-| Heating 3 | 10 |
-| Rest Space 3 | 10 |
-| Shooting Range 2 | 6 |
+### 🏆 The big six — 122 of the 222
 
-**Never sell a wire.** Five modules want them and nothing else is close.
+| | Item | Short | Where |
+|---|---|---|---|
+| **1** | **Wires** | **50** | Vents 14 · Security 10 · Heating 10 · Rest Space 10 · Shooting Range 6 |
+| **2** | **Power cord** | **20** | Bitcoin Farm 15 · Rest Space 5 |
+| **3** | **Phase control relay** | **16** | Generator 12 · Heating 4 |
+| **4** | **Spark plug** | **14** | Generator |
+| **5** | **CPU fan** | **12** | Bitcoin Farm |
+| **6** | **Corrugated hose** | **10** | Lavatory |
 
-### 🏆 Top 6 — these are 121 of everything you need
+**If you remember nothing else in a raid: wires and power cords.**
 
-| Rank | Item | Short |
+### Everything else
+
+| Item | Short | Where |
 |---|---|---|
-| 1 | **Wires** | **50** |
-| 2 | **Power cord** | **20** |
-| 3 | **Phase control relay** | **16** |
-| 4 | **Spark plug** | **14** |
-| 5 | **CPU fan** | **12** |
-| 6 | **Corrugated hose** | **10** |
+| **Fleece fabric** | **9** | Gear Rack |
+| **Bolts** | **9** | Gear Rack |
+| **Bottle of saline** | **8** | Medstation |
+| **T plug** | **8** | Bitcoin Farm |
+| **PSU** | **7** | Bitcoin Farm 6 · Generator 1 |
+| **NIXXOR lens** | **5** | Security |
+| **Military cable** | **5** | Intelligence Center |
+| **Military flash drive** | **5** | Intelligence Center |
+| **Can of thermite** | **4** | Workbench |
+| **Gold skull ring** | **4** | Scav Case |
+| **VPX** | **4** | Bitcoin Farm 2 · Intelligence Center 2 |
+| **Bronze lion** | **3** | Scav Case |
+| **Car battery** | **3** | Vents |
+| **Greenbat** | **3** | Rest Space |
+| **Sodium bicarbonate** | **3** | Nutrition |
+| **Coffee beans** | **3** | Nutrition |
+| **Working LCD** | **2** | Security |
+| **Drain cleaner** | **2** | Nutrition |
+| **Moonshine** | **2** | Scav Case |
+| **COFDM** | **2** | Intelligence Center |
+| **🐓 Golden rooster** | **2** | Hall of Fame 1 · Scav Case 1 |
+| **Measuring tape** | **1** | Shooting Range |
+| **Electric motor** | **1** | Vents |
+| **Gold wrist watch** | **1** | Scav Case |
+| **GPS amplifier** | **1** | Intelligence Center |
+| **Magnetic tape** | **1** | Intelligence Center |
+| **Sealing foam** | **1** | Water Collector 3 |
+| **Ratchet wrench** | **1** | Water Collector 3 |
 
-### The full named list
+## ⚠️ Three collisions
 
-| Item | Modules | **Short** |
-|---|---|---|
-| **Wires** | Vents · Security · Heating · Rest Space · Shooting Range | **50** |
-| **Phase control relay** | Generator 12 · Heating 4 | **16** |
-| **Spark plug** | Generator | **14** |
-| **Corrugated hose** | Lavatory | **10** |
-| **Fleece fabric** | Gear Rack | **9** |
-| **Bolts** | Gear Rack | **9** |
-| **Bottle of saline** | Medstation | **8** |
-| **NIXXOR lens** | Security | **5** |
-| **Power cord** | Bitcoin Farm 15 · Rest Space 5 | **20** |
-| **CPU fan** | Bitcoin Farm | **12** |
-| **T plug** | Bitcoin Farm | **8** |
-| **PSU** | Bitcoin Farm 6 · Generator 1 | **7** |
-| **VPX** | Bitcoin Farm 2 · Intelligence Center ? | **2+** |
-| **Can of thermite** | Workbench | **4** |
-| **Gold skull ring** | Scav Case | **4** |
-| **Bronze lion** | Scav Case | **3** |
-| **Car battery** | Vents | **3** |
-| **Greenbat** | Rest Space | **3** |
-| **Sodium bicarbonate** | Nutrition | **3** |
-| **Coffee beans** | Nutrition | **3** |
-| **Working LCD** | Security | **2** |
-| **Drain cleaner** | Nutrition | **2** |
-| **Moonshine** | Scav Case | **2** |
-| **🐓 Golden rooster** | **Hall of Fame 1 + Scav Case 1** | **2** |
-| **Sealing foam** | Water Collector 3 | **1** |
-| **Ratchet wrench** | Water Collector 3 | **1** |
-| **Measuring tape** | Shooting Range | **1** |
-| **Electric motor** | Vents | **1** |
-| **Power supply unit (PSU)** | Generator | **1** |
-| **Gold wrist watch** | Scav Case | **1** |
+> 🐓 **TWO golden roosters.** One completes **Hall of Fame 2** *(the only thing it's
+> missing)*, one goes in the **Scav Case**. Spend the first on the wrong one and you stall
+> the other.
 
-### 🧠 Intelligence Center 3 — 16 items, mapping unconfirmed
+> 🦁 **Bronze lion ×4, not 3.** Scav Case wants 3, and the **documents case barters from
+> Therapist for a lion statue at level 30** — the cheap stash relief this file recommends.
 
-The six are **magnetic tape · military flash drive · VPX · GPS amplifier · COFDM ·
-military cable**. Counts needed are **5, 5, 2, 2, 1, 1** — but I don't know which name
-goes with which number. **Tell me and I'll finish this row.**
+> 🔌 **Power cord and PSU each serve two modules.** Easy to under-collect if you only
+> remember one.
 
-### ₿ Bitcoin Farm — 43 items ✅*confirmed*
-
-| Item | Have | Short |
-|---|---|---|
-| **Power cord** | 0/15 | **15** |
-| **CPU fan** | 3/15 | **12** |
-| **T plug** | 2/10 | **8** |
-| **PSU** | 4/10 | **6** |
-| **VPX** | 0/2 | **2** |
-
-### 🔁 Three items are wanted by more than one module
-
-| Item | Where | **Combined** |
-|---|---|---|
-| **Power cord** | Bitcoin Farm **15** + Rest Space **5** | **20** |
-| **PSU** | Bitcoin Farm **6** + Generator **1** | **7** |
-| **VPX** | Bitcoin Farm **2** + Intelligence Center **?** | **2+** |
-
-**Power cord is your #2 item after wires.**
-
-## ⚠️ Two collisions worth knowing
-
-> 🐓 **You need TWO golden roosters.** One finishes **Hall of Fame 2** *(it's the only
-> thing that module is missing)* and one goes into the **Scav Case**. Finding one and
-> spending it on the wrong module costs you the other.
-
-> 🦁 **Bronze lion is double-booked.** The Scav Case wants **3** — and the
-> **documents case barters from Therapist for a lion statue at level 30**, which this file
-> has been recommending as cheap stash relief. **That's 4 total.** Don't spend your third
-> one on the barter and stall the Scav Case.
-
-## 🔗 Dependency tree — the real bottleneck
+## 🔗 Dependency tree
 
 ```
 Illumination 3 ──► Shooting Range 2
@@ -799,21 +764,22 @@ Vents 3 ────────────────────────
 Water Collector 2 ──► Lavatory 3
 ```
 
-> ⚡ **Generator 3 is the hub of the entire hideout.** It gates **Intelligence Center 3**
-> *and* **Water Collector 3**, and it's itself gated behind **Vents 3 + Security 3**.
-> Everything funnels through it.
+> ⚡ **Generator 3 is the hub.** It gates **Intelligence Center 3** and **Water Collector
+> 3**, and is itself behind **Vents 3 + Security 3**. Its own cost: **14 spark plugs · 12
+> phase control relays · 1 PSU**.
 >
-> 💰 **Intelligence Center 3 gives Flea Market fee −30% and Scav cooldown −20%** — the best
-> economic upgrade available to you, sitting **four deep** behind Illumination 3.
-> **Illumination 3 is building now** and starts the whole chain.
->
-> **Generator 3's own materials:** 14 spark plugs · 12 phase control relays · 1 PSU. That's
-> the gate to unlock.
+> 💰 **Intelligence Center 3 pays Flea Market fee −30% and Scav cooldown −20%** — your best
+> economic upgrade, four deep behind Illumination 3, which is building now.
 
-## ✅ Don't buy these — already stocked
+## 🎯 Nearly done — cheap wins
 
-**Hall of Fame 2** needs only the golden rooster. **Gear Rack** roubles and 5 of 8 item
-types done. Roubles met on Workbench 3, Nutrition 3, Medstation 3, Gear Rack.
+| Module | Needs |
+|---|---|
+| **Hall of Fame 2** | 1 golden rooster |
+| **Water Collector 3** | 1 sealing foam · 1 ratchet wrench *(+ Generator 3)* |
+| **Nutrition 3** | 2 drain cleaner · 3 sodium bicarbonate · 3 coffee beans |
+| **Medstation 3** | 8 saline |
+| **Workbench 3** | 4 cans of thermite |
 
 **Once this table exists, everything in it joins the never-sell list automatically**, same
 as quest items.
@@ -837,12 +803,16 @@ Higher rule wins.
 
 **Never sell — quest:** Bulbex cable cutter · AK-12 · WARTECH gear · Booze drinks · any key.
 
-**Never sell — hideout** *(see the tally for counts)*: **Wires** *(50!)* · phase control
-relay · spark plugs · corrugated hose · fleece fabric · bolts · saline · NIXXOR lens ·
-power cord · can of thermite · car battery · Greenbat · sodium bicarbonate · coffee beans ·
-Working LCD · drain cleaner · measuring tape · electric motor · **PSU** · magnetic tape ·
-military flash drive · **VPX** · GPS amplifier · COFDM · military cable · **CPU fan** ·
-**T plug** · sealing foam · ratchet wrench · pliers elite
+**Never sell — hideout.** The full list, 222 items across 16 modules:
+
+**Wires (50) · power cord (20) · phase control relay (16) · spark plug (14) · CPU fan
+(12) · corrugated hose (10)** — the big six.
+
+Then: fleece fabric · bolts · saline · T plug · PSU · NIXXOR lens · military cable ·
+military flash drive · can of thermite · VPX · car battery · Greenbat · sodium
+bicarbonate · coffee beans · Working LCD · drain cleaner · COFDM · measuring tape ·
+electric motor · GPS amplifier · magnetic tape · sealing foam · ratchet wrench ·
+pliers elite
 
 **Never sell — valuables the Scav Case eats:** 🐓 **golden rooster ×2** · gold skull ring ·
 **bronze lion** · gold wrist watch · moonshine. **These used to be pure vendor fodder.
