@@ -900,6 +900,12 @@ a number up.
 - **Pick your extract at raid start from the map screen.** Customs extracts depend on your
   spawn, and defaulting to a familiar one while loaded is how good raids die.
 - **Reshala's guards hold the rooms, not Reshala.** Bring grenades.
+- **🔴 Do NOT shoot Killa in the legs.** Two raids proved it — 30–40 rounds, then a full
+  60-round mag, and he shrugged both off. Once a limb blacks out, further hits to it deal
+  hugely reduced damage to his health pool, so you're firing into a dead limb. His head is
+  behind the **Maska-1SCh helmet and face shield**. **Aim thorax.**
+- **Never fight Killa while carrying quest items.** He appears without warning and pushes
+  hard. Do the errands first, bank them, then decide whether to take him.
 - **Angry Watchman only counts Dorms-zone kills.** Five PMCs elsewhere gave zero progress.
 
 ---
