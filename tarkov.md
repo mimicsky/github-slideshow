@@ -903,14 +903,16 @@ requirement and Basic Kit is picking from the rotation, favour them. Good defaul
 **AS VAL** *(9x39)* · **MP7A1** · **MP7A2** · **Vector .45** · **MP9 / MP9-N** · **MP-153** · **Saiga-12** ·
 **M590A1** · **DVL-10** · **T-5000** · **AXMC** · **MK-18 Mjölnir** ·
 **Glock 17** · **Glock 18C** · **P226R** · **FN 5-7** ·
-**USP** 💛 *(player's words: "I freaking love this gun")* · **SAG AK** · **SAG AK Short**
+**USP** 💛 *(player's words: "I freaking love this gun")* · **SAG AK** · **SAG AK Short** ·
+**Glock 19x** · **Sako TRG M10** · **M32A1** · **FN40GL** *(both grenade launchers)*
 
 ### 👍 I'LL USE
 **MCX** · **SA-58** · **TX-15 DML** · **AK-545 Short** · **SR-3M** *(9x39)* ·
 **Vector 9x19** · **P90** · **MPX** · **UMP 45** · **PP-19-01 Vityaz** · **M870** ·
 **MPS AA-12** · **RSASS** · **SVDS** · **G28** · **DMR .338** · **Mosin** ·
 **RPD** · **PKM** · **PKP** · **Pecheneg-SP** *(all LMGs)* · **M9A3** · **1911** ·
-**M45A1** · **Desert Eagle** · **Benelli M3** · **VSS Vintorez** · **MP-155**
+**M45A1** · **Desert Eagle** · **Benelli M3** · **VSS Vintorez** · **MP-155** · **RSh-12** · **PL-15** · **RPDN** ·
+**AKS-74N**
 
 ### 😐 MID
 **M700** · **SR-25** · **SR-2M** · **AKM series**
@@ -924,17 +926,24 @@ AK-101 · AK-102 · AK-103 · AK-104 · AK-12 · AKMN · AKMS · AKMSN.
 **RFB** · **MP5** · **MP5K** · **MP5SD** · **OP-SKS** · **SKS** · **9A-91** · **VSK-94** ·
 **MP-133** · **KS-23M** · **MP-43 sawed-off** · **M1A** · **SV-98** · **MP-443 Grach** ·
 **SR-1MP** · **SVT-40** · **AVT-40** · **Chiappa Rhino 50DS / 200DS** · **AUG A3** ·
-**ADAR 2-15** · **VPO-215 Gornostay**
+**ADAR 2-15** · **VPO-215 Gornostay** · **MP-43-1C**
 
 ### 🚫 HATE
 **AUG A1** · **G36** · **Vepr KM** · **VPO-209** · **VPO-101** · **ASh-12** · **STM-9** ·
 **Saiga-9** · **PP-91 Kedr** · **Kedr-B** · **PP-9 Klin** · **PPSh-41** ·
 **MTs-255-12** · **TOZ-106** · **PM** · **PB** · **TT** · **APS** · **APB** · **MP-18**
 
-## 📊 COMMUNITY TIER LIST — full roster, dated 06.08.2026
+## 📊 COMMUNITY TIER LIST — dated 06.08.2026, but the content is older
 
-Player-supplied. **This is the complete gun list** — it replaces the assistant's
-memory-based attempt, which was ~30 short and contained two guns that don't exist.
+Player-supplied. Far better than the assistant's memory-based attempt, which was ~30 short
+and contained two guns that don't exist.
+
+> ⚠️ **The list predates 1.0 and the Season 1 Kord breach**, per the player. So it's
+> missing every gun added since — **the NL545 GP is the confirmed example**, and there are
+> probably others. Balance changes since then may have moved tiers too.
+>
+> **Treat it as a strong guide, not a current roster.** A verified up-to-date weapon list
+> is still a `begin research` job.
 
 **This is meta performance, not the player's taste.** The two disagree a lot. Optimal mode
 uses this; Basic Kit uses the preference tiers above.
@@ -960,11 +969,7 @@ uses this; Basic Kit uses the preference tiers above.
 | **DVL-10 · T-5000 are D-tier** | player likes both |
 | **G36 is B-tier** | player hates it |
 
-### ❓ New from the tier list — not yet ranked by the player
-
-**RSh-12** *(C)* · **Glock 19x** *(D)* · **PL-15** *(D)* · **M32A1** *(A, grenade
-launcher)* · **FN40GL** *(A, grenade launcher — the Wet Job chain reward)* ·
-**Sako TRG M10** *(B)* · **RPDN** *(C)* · **MP-43-1C** *(F)* · **AKS-74N** *(C)*
+### ✅ All ranked
 
 **Variants the player ranked as one gun — may want splitting:**
 - **DT MDR 7.62x51** *(S)* vs **DT MDR 5.56x45** *(B)*
@@ -973,11 +978,14 @@ launcher)* · **FN40GL** *(A, grenade launcher — the Wet Job chain reward)* ·
 
 ### ⚠️ On the player's list but absent from the tier list
 
-**NL545 GP** *(a top favourite!)* · **Desert Eagle** · **SR-3M** · **MP-153** ·
-**MK-18 Mjölnir** *(possibly the "Mk 18" in C)* · **DMR .338** *(possibly the Sako TRG
-M10)* · **Benelli M3** *(the "M3 Super 90m" in C)* · **RPD** *(the "RPDN" in C)*
+**NL545 GP** — ✅ explained: **it's a new gun added after this list was made.** A top
+favourite with no meta ranking available.
 
-Either the tier list is incomplete or these are named differently. **Worth a check.**
+**Desert Eagle · SR-3M · MP-153** — unexplained. Either also post-list additions, or named
+differently.
+
+**Probably just naming:** MK-18 Mjölnir = "Mk 18" · DMR .338 = Sako TRG M10 ·
+Benelli M3 = "M3 Super 90m" · RPD = "RPDN"
 
 - **SP-81 signal pistol** — exists but can't kill anyone, so it never belongs in a kit
 
