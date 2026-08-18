@@ -21,10 +21,16 @@ Everything is here. Nothing important lives in chat history.
 Every quest is written the same way:
 
 ```
-Quest name · Map · TYPE
-🔑 key needed, if any
-(what you actually do, in one line)
+Quest name · Map
+what you're doing, in one line
+🔍 LOOK UP  or  ✓ NOTHING TO LOOK UP
+🔑 key or item to bring, if any
 ```
+
+**The tag is the point.** 🔍 means the objective names a *place* you have to find —
+"the logistics office", "the kart track", "Artyom's car". ✓ means the objective is the
+whole instruction — "15 scavs with an AKM", "4 PMCs", "kill Killa". **Don't waste time
+opening Fandom for a ✓.**
 
 **Types:**
 
@@ -167,70 +173,34 @@ beats anything I look up.**
 
 ---
 
-# ▶ NEXT RAID — Interchange · 7 quests + Killa
+# ▶ NEXT RAID — Interchange
 
-Three down last raid. **Six left, and they're all cheap** — you know the map now and most
-of these are walk-ups.
+## 🛒 Bring
+2× MS2000 *(check if Fuel Crisis supplies its own)* · **Goshan + IDEA + OLI cash register
+keys** · **#21WS keycard** *(only if it prices cheap)*
 
-## 🛒 Buy
+## ✓ Nothing to look up — just do these
 
-| Qty | Item | For |
-|---|---|---|
-| **2** | **MS2000** | `Fuel Crisis` *(if the quest didn't hand you its own 2 — check)* |
-| **1** | **Goshan cash register key** | `Supervisor` |
-| **1** | **IDEA cash register key** | `Supervisor` |
-| **1** | **OLI cash register key** | `Supervisor` |
-| 🔑 | **#21WS keycard** | `Irresistible` — **price it first, skip if steep** |
+| Quest | What |
+|---|---|
+| **Long Line** | kill 4 PMCs |
+| **Pathfinder** | visit Railway Exfil, Emercom Checkpoint, Power Station V-Ex |
+| **Huntsman Path – Sellout** | kill Killa, carry out his Maska helmet 🔴 **thorax, not legs** |
 
-**The three cash register keys are cheap and don't need to be found in raid** — buy all
-three on flea.
+## 🔍 Look these up
 
-## 🎯 Priority 1 — `Long Line` 🆕
+| Quest | What you're finding |
+|---|---|
+| **Supervisor** | 3 stash points for the cash register keys |
+| **The Key to Success** | 2 design books, 2 different stores |
+| **Fuel Crisis** | 2 fuel tanks — power station + northern territory |
+| **Needle in a Haystack** | kart track + indoor children's playground |
+| **Irresistible** | the lost weapon crate near Ultra |
 
-**Kill 4 PMC operatives on Interchange.** Ragman rep, and it's the only thing here that
-needs a fight, so build the route around where PMCs actually are.
+**Five lookups, three you can just run.**
 
----
-
-## What's left
-
-| Quest | What | Where |
-|---|---|---|
-| **`Supervisor`** 🆕 | stash **3 cash register keys** | Goshan → **BIZARRO fitting rooms** · IDEA → **Register #9** · OLI → **Register #7-8** |
-| **`Long Line`** 🆕 | **4 PMC kills** | anywhere on the map |
-| **`Pathfinder`** | visit **Railway Exfil · Emercom Checkpoint · Power Station V-Ex** | extracts — pure walking |
-| **`Fuel Crisis`** | mark fuel tank **by the power station** + one in the **northern territory** | German-flagged tankers near Ultra |
-| **`The Key to Success`** | 2 design books | **History Museum store** floor by the arcade machines · **Knigoed bookstore** central shelf, bottom |
-| **`Needle in a Haystack`** | 2 spots | **kart track** + **indoor children's playground** |
-| **`Irresistible`** 🔑 | lost weapon crate | near **Ultra** |
-| **`The Huntsman Path – Sellout`** | **kill Killa + carry out his Maska-1SCh helmet** | the mall |
-| **👹 Killa** | boss #6 | the mall |
-
-**`Pathfinder` alone is ₽93,200 for walking to three extracts.** Do it on the way out.
-
-## 🎒 Hideout grabs
-🔌 **Wires (50) · power cord (20)** · ⚡ **relay (16) · spark plug (14) · CPU fan (12) ·
-corrugated hose (10)** · 🥇 **gold** · 🍺 **drinks** · 💻 **GPUs**
-
----
-
-## ⏭ Then Woods — it's stacked now, and three quests share one spot
-
-**The sawmill docks alone hold three objectives:**
-
-- **`Informed Means Armed`** — the sawmill dock camera **finishes the quest**
-- **`Gratitude`** 🆕 — stash the **Shemagh (Green)** and **RayBench sunglasses** there
-  *(both supplied by the quest)*
-- **`Weapons Circulation`** — one ritual spot is **west of the sawmill near the checkpoint**
-
-**Plus:** `Small Things, Big Help` 🆕 *(3 fuel stashes, **3 MS2000 supplied**)* ·
-`Chumming` · `Thirsty – Delivery` *(scav bunker with the radio tower)* · `Special Comms`
-*(Bulbex cutter at the RUAF boulder)* · `Health Care Privacy – Part 3` · **Shturman** ·
-7 unknowns.
-
-> 💰 **Two of the new Woods quests supply their own equipment.** Woods needs almost no
-> shopping — just **2 MS2000** for `Weapons Circulation` and **3 golden neck chains** for
-> `Chumming`.
+⚠️ **Only the Killa helmet needs you to survive.** Everything else banks the moment you do
+it, so do the errands first and take the fight last.
 
 ---
 
@@ -699,144 +669,34 @@ wasted.
 
 ---
 
-# Hideout — materials counter
+# Hideout — PAUSED
 
-## Current state
-
-**Stash 4** · **Gym** unlocked
-
-**Upgrading / upgraded:**
-
-| Module | Level |
-|---|---|
-| **Generator** | **2** |
-| **Intelligence Center** | **2** |
-| **Lighting** | **3** |
-| **Water Collector** | **2** |
-
-> 💰 **Intelligence Center 2 raises the rouble payout on quest rewards.** That's a real
-> economic boost on top of everything else — worth remembering when weighing which modules
-> to push next.
+**Stash 4** · Gym unlocked · Generator 2 · Intelligence Center 2 · Lighting 3 ·
+Water Collector 2 · Weapon Rack 1 · Medstation upgrading
 
 **Still locked:** Bitcoin Farm · Booze Generator · Gear Rack · Library · Scav Case ·
 Solar Power
 
-## The materials tally — building it next
+## Why it's paused
 
-**Every reference image online is pre-1.0, so they're useless.** Same problem as the quest
-databases. We build this off your own screen instead.
+The tally we built counted **shortfalls**, but every module panel reads X/Y from the
+**same stash** — so a ✓ in three modules can be the same ten items, and building one
+empties the other two. The real number is the **sum of every requirement**, ticked or not,
+which is roughly **400 items**, not the 214 the old tally said.
 
-**Plan, once the current upgrades finish:**
+**Rebuilding it properly needs names for the items that showed as satisfied** — the
+gold/tan branching thing (28 across Shooting Range, Vents and Generator), the blue/white
+tool (18), the battery (11), and about a dozen smaller ones.
 
-1. Go through the remaining modules and screenshot each requirement panel.
-2. I record what each one needs.
-3. You do one stash pass and tell me what you already have.
-4. I turn it into a **need / have / short by** table.
+**Say the word and we pick it back up.** Until then the useful bits:
 
-Then every raid report ends with **"keep this for the hideout"** — which is what you
-actually asked for.
-
-## 📋 THE COMPLETE SHORTFALL TALLY
-
-**16 modules, every item named. 214 items left** *(Medstation 3's 8 saline are spent —
-it's upgrading now)*. **Weapon Rack 2 not yet recorded.**
-
-### 🏆 The big six — 122 of the 222
-
-| | Item | Short | Where |
-|---|---|---|---|
-| **1** | **Wires** | **50** | Vents 14 · Security 10 · Heating 10 · Rest Space 10 · Shooting Range 6 |
-| **2** | **Power cord** | **20** | Bitcoin Farm 15 · Rest Space 5 |
-| **3** | **Phase control relay** | **16** | Generator 12 · Heating 4 |
-| **4** | **Spark plug** | **14** | Generator |
-| **5** | **CPU fan** | **12** | Bitcoin Farm |
-| **6** | **Corrugated hose** | **10** | Lavatory |
-
-**If you remember nothing else in a raid: wires and power cords.**
-
-### Everything else
-
-| Item | Short | Where |
-|---|---|---|
-| **Fleece fabric** | **9** | Gear Rack |
-| **Bolts** | **9** | Gear Rack |
-| **T plug** | **8** | Bitcoin Farm |
-| **PSU** | **7** | Bitcoin Farm 6 · Generator 1 |
-| **NIXXOR lens** | **5** | Security |
-| **Military cable** | **5** | Intelligence Center |
-| **Military flash drive** | **5** | Intelligence Center |
-| **Can of thermite** | **4** | Workbench |
-| **Gold skull ring** | **4** | Scav Case |
-| **VPX** | **4** | Bitcoin Farm 2 · Intelligence Center 2 |
-| **Bronze lion** | **3** | Scav Case |
-| **Car battery** | **3** | Vents |
-| **Greenbat** | **3** | Rest Space |
-| **Sodium bicarbonate** | **3** | Nutrition |
-| **Coffee beans** | **3** | Nutrition |
-| **Working LCD** | **2** | Security |
-| **Drain cleaner** | **2** | Nutrition |
-| **Moonshine** | **2** | Scav Case |
-| **COFDM** | **2** | Intelligence Center |
-| **🐓 Golden rooster** | **2** | Hall of Fame 1 · Scav Case 1 |
-| **Measuring tape** | **1** | Shooting Range |
-| **Electric motor** | **1** | Vents |
-| **Gold wrist watch** | **1** | Scav Case |
-| **GPS amplifier** | **1** | Intelligence Center |
-| **Magnetic tape** | **1** | Intelligence Center |
-| **Sealing foam** | **1** | Water Collector 3 |
-| **Ratchet wrench** | **1** | Water Collector 3 |
-
-## ⚠️ Three collisions
-
-> 🐓 **TWO golden roosters.** One completes **Hall of Fame 2** *(the only thing it's
-> missing)*, one goes in the **Scav Case**. Spend the first on the wrong one and you stall
-> the other.
-
-> 🦁 **Bronze lion — 3, collision resolved.** You bought the documents case, so the lion
-> statue barter is no longer needed. All 3 go to the **Scav Case**.
-
-> 🔌 **Power cord and PSU each serve two modules.** Easy to under-collect if you only
-> remember one.
-
-## 🔗 Dependency tree
-
-```
-Illumination 3 ──► Shooting Range 2
-               └─► Security 3 ──┐
-                                 ├──► GENERATOR 3 ──┬──► Intelligence Center 3
-Vents 3 ─────────────────────────┘                  │    (+ Workbench 3)
-                                                     └──► Water Collector 3
-Water Collector 2 ──► Lavatory 3
-```
-
-> ⚡ **Generator 3 is the hub.** It gates **Intelligence Center 3** and **Water Collector
-> 3**, and is itself behind **Vents 3 + Security 3**. Its own cost: **14 spark plugs · 12
-> phase control relays · 1 PSU**.
->
-> 💰 **Intelligence Center 3 pays Flea Market fee −30% and Scav cooldown −20%** — your best
-> economic upgrade, four deep behind Illumination 3, which is building now.
-
-## 🏗 In progress / not yet recorded
-
-- **Medstation 3** — **upgrading now.** Its 8 saline are spent, so it's off the shortfall.
-- **Weapon Rack 1** — built. **Requirements for level 2 not recorded yet** — send the panel
-  when you're ready and it joins the tally.
-
-## 🎯 Nearly done — cheap wins
-
-| Module | Needs |
-|---|---|
-| **Hall of Fame 2** | 1 golden rooster |
-| **Water Collector 3** | 1 sealing foam · 1 ratchet wrench *(+ Generator 3)* |
-| **Nutrition 3** | 2 drain cleaner · 3 sodium bicarbonate · 3 coffee beans |
-| **Workbench 3** | 4 cans of thermite |
-
-**Once this table exists, everything in it joins the never-sell list automatically**, same
-as quest items.
-
-> ⚠️ **Graphics cards are the one known conflict.** The Bitcoin Farm eats them and
-> `Semiconductor Crisis` needs 3 found in raid. **Quest first** — found-in-raid can't be
-> bought back — then feed the farm.
+- 🔴 **Wires — 50.** Five modules. Never sell one.
+- 🐓 **Two golden roosters** — Hall of Fame and Scav Case both want one.
+- 🥃 **Moonshine ×3** for the Scav Case — or **build the Booze Generator** and make it.
+- 🚱 **`Booze` needs purified water FOUND IN RAID.** Water Collector output won't count.
+- 💻 **GPUs — quest before farm.** Found-in-raid can't be bought back.
+- ⚡ **Generator 3 is the hub** — gates Intelligence Center 3 *and* Water Collector 3.
+  Intelligence Center 3 pays **Flea fee −30%**.
 
 ---
 
