@@ -888,9 +888,9 @@ instruction set — follow it exactly.
 
 ### Scope: EVERY active quest, not just the blanks
 
-**Do not skip a quest because this file already has details for it.** The file has been
-wrong before — `Punisher Part 3` was wrong on map, count, weapon and reward all at once.
-**Assume every unverified line might be wrong and check it.**
+**Do not skip a quest because this file already has details for it.** Lines in here that
+came from search summaries have been wrong before — `Punisher Part 3` was wrong on map,
+count, weapon and reward at once. **Check every line that isn't marked as player-confirmed.**
 
 Work in this order:
 
@@ -939,8 +939,15 @@ lines came from their own screen and which came from a wiki.
 | Boss spawn spots and behaviour | Rewards |
 | Chain order — what unlocks next | |
 
-**Locations survive patches. Everything else drifts, and the player's screen is the only
-current source.**
+**Why the split:** it isn't that Fandom is unreliable — the player uses it constantly and
+finds it accurate. It's that **the in-game screen is a primary source and a wiki is a
+secondary one.** When they agree, nothing is lost. When they disagree, the screen is the
+one that definitely reflects this patch and this account.
+
+**Note on this file's error history:** the wrong answers logged here came from *search-
+result summaries* that blended Fandom with gamemaps, tarkov101 and other sites, then
+compressed them. **They were never confirmed to be Fandom's errors.** Reading the actual
+page should be substantially more accurate than anything in that error table suggests.
 
 ### When the player comes back
 
