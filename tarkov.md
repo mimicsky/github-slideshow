@@ -857,8 +857,9 @@ Two things decide it: **how big the map is** and **whether it's a fight or a cho
 | **Ice Breaker** 🔒 | Endgame. Bosses spawn regularly. **Big and heavy.** |
 | **The Labyrinth** 🔒 | Endgame. Bosses spawn regularly. **Big and heavy.** |
 
-🔒 **= not unlocked yet, and carries no quests.** Endgame content — nothing to plan for
-until it opens up.
+🔒 **= endgame, not unlocked yet.** **They do have quests** — the player just doesn't have
+access to them at this level. Nothing to plan around now, but they're a real future chunk
+of the board, so `begin research` should cover them under *upcoming quests*.
 
 ### Everything else
 
@@ -867,9 +868,7 @@ until it opens up.
 | **Big map** *(Woods · Streets · Shoreline · Lighthouse · Customs)* | **Lightest.** Lots of walking, little contact. Cheap kit, stay fast, don't risk value. | **Medium.** Mobility still matters — you have ground to cover between fights. |
 | **Small map** *(Reserve · Interchange interior · Ground Zero)* | **Light-medium.** Short raid, but contact is likely anyway. | **Heaviest.** Close quarters, constant contact. Armor over speed. |
 
-### ❓ One left to confirm
-
-**Customs** is placed as big on assumption, not confirmation.
+*(**Customs is big** — confirmed by the player.)*
 
 **The four ways to get it wrong**, in the player's own words:
 
@@ -972,8 +971,9 @@ count, weapon and reward at once. **Check every line that isn't marked as player
 Work in this order:
 
 1. **Every ACTIVE quest** on the board, one at a time
-2. **Upcoming quests** — the next part of every chain currently in progress, so the player
-   knows what's coming before it unlocks
+2. **Upcoming quests** — the next part of every chain currently in progress, plus the
+   quest lines on the **locked endgame maps (Terminal, Ice Breaker, The Labyrinth)**, so
+   the player knows what's coming before it unlocks
 3. **Anything else this folder needs** — key requirements and prices, boss mechanics and
    spawn locations, item spawn spots, what unlocks what, trader loyalty requirements
 
