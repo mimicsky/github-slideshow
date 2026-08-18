@@ -882,22 +882,56 @@ of the board, so `begin research` should cover them under *upcoming quests*.
 **The player picks ammo. Always.** They know it better than any source available here and
 have everything marked. Kit blocks name the **gun** and leave the ammo line for them.
 
-## ⚠️ PREFERENCES — NOT YET RECORDED
+## 🔫 GUN PREFERENCES
 
-The kit builder can't do **Basic Kit** or **For Fun** properly until this is filled in.
-**Ask the player for:**
+Player's own ranking. **Basic Kit rotates through Like and I'll Use. For Fun draws from
+Don't Like and Hate.**
 
-- **Guns they actually reach for**, and which ones are just sitting in the locker
+### ❤️ LIKE — the rotation pool
+**MDR** · **HK 416A5** · **RD-704** · **M4A1** · **MCX SPEAR** · **Mk16 (SCAR-L)** ·
+**Mk17 / SCAR-H** *(same gun)* · **Mk47 Mutant** · **RPK-16** · **NL545 GP**
+
+### 👍 I'LL USE
+**MCX** · **SA-58** · **TX-15 DML** · **AK-545 Short**
+
+### 😐 MID
+**M700** · **SR-25** · **SR-2M** · **AKM series**
+
+**Every AK variant** — AK-74 · 74N · 74M · AKS-74 · AKS-74U · AKS-74UB/UN · AK-105 ·
+AK-101 · AK-102 · AK-103 · AK-104 · AK-12 · AKMN · AKMS · AKMSN.
+> *"All the same variants so I don't really care for them."* Functional, not exciting.
+> Don't build a card around one unless a quest demands it.
+
+### 👎 DON'T LIKE
+**RFB** · **MP5** · **OP-SKS** · **SKS**
+
+### 🚫 HATE
+**AUG A1** · **G36** · **Vepr KM** · **VPO-209** · **VPO-101** · **ASh-12** · **STM-9** ·
+**Saiga-9**
+
+### ❓ STILL UNRANKED
+- **9x39** — VSS Vintorez · AS VAL · 9A-91 · VSK-94 · SR-3M
+  ⚠️ **`Punisher P3` requires one of these and the player owns none.** Rank these first.
+- SAG AK · SAG AK Short · AUG A3 · ADAR 2-15
+- **All SMGs** — MP5K · MP5SD · MP7A1/A2 · MP9 · MP9-N · UMP 45 · Vector 9x19 · Vector .45
+  · P90 · PP-19-01 Vityaz · PPSh-41 · MPX · Kedr · Kedr-B · PP-9 Klin
+- **All shotguns** — MP-133 · MP-153 · MP-155 · M870 · Saiga-12 · MTs-255-12 · TOZ-106 ·
+  KS-23M · M590A1 · MP-43 sawed-off · MPS AA-12
+- **All snipers/DMRs** — Mosin · DVL-10 · T-5000 · SV-98 · AXMC · SVDS · RSASS · M1A ·
+  G28 · MK-18 Mjölnir · DMR .338
+- **LMGs** — RPD · PKM · PKP
+- **Pistols** — Glock 17 · Glock 18C · M9A3 · P226R · USP · MP-443 · PM · PB · TT · APS ·
+  APB · SR-1MP · FN 5-7 · Desert Eagle · M45A1
+
+> ⚠️ **This weapon list came from the assistant's memory, not a source** — Fandom and
+> NamuWiki are both blocked here. **Anything added in 1.0 is probably missing.** A verified
+> full list is a `begin research` job.
+
+## ⚠️ STILL NEEDED FOR THE KIT BUILDER
+
 - **Armor style** — heavy and slow, or light and fast
-- **Budget tiers** — what they call cheap, normal, and full send, in roubles
-- **Anything they refuse to run** — guns they hate, calibers they don't stock
-
-*(Current locker, for reference: MDR ×4 · HK 416A5 ×3 · RD-704 · MCX · SA58 · Mk 16 ·
-TX-15 DML · AK-545 Short · RPK-16 · NL545 GP · M700 · SR-25 · SR-2M · AK-12 (quest) ·
-AKM series · MP5 SD. Armor: THOR CRV · AVS · WARTECH TV-110 · Korund-VM · Defender-2 ·
-Thunderbolt · Osprey MK4A.)*
-
----
+- **Budget tiers** — cheap / normal / full send, in roubles
+- Rankings for the categories above, especially **9x39**
 
 # What I actually can and can't do
 
