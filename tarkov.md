@@ -892,12 +892,12 @@ Don't Like and Hate.**
 **MDR** · **HK 416A5** · **RD-704** · **M4A1** · **MCX SPEAR** · **Mk16 (SCAR-L)** ·
 **Mk17 / SCAR-H** *(same gun)* · **Mk47 Mutant** · **RPK-16** · **NL545 GP** ·
 **AS VAL** *(9x39)* · **MP7A1** · **MP7A2** · **Vector .45** · **MP9 / MP9-N** · **MP-153** · **Saiga-12** ·
-**M590A1**
+**M590A1** · **DVL-10** · **T-5000** · **AXMC** · **MK-18 Mjölnir**
 
 ### 👍 I'LL USE
 **MCX** · **SA-58** · **TX-15 DML** · **AK-545 Short** · **SR-3M** *(9x39)* ·
 **Vector 9x19** · **P90** · **MPX** · **UMP 45** · **PP-19-01 Vityaz** · **M870** ·
-**MPS AA-12**
+**MPS AA-12** · **RSASS** · **SVDS** · **G28** · **DMR .338** · **Mosin**
 
 ### 😐 MID
 **M700** · **SR-25** · **SR-2M** · **AKM series**
@@ -909,7 +909,7 @@ AK-101 · AK-102 · AK-103 · AK-104 · AK-12 · AKMN · AKMS · AKMSN.
 
 ### 👎 DON'T LIKE
 **RFB** · **MP5** · **MP5K** · **MP5SD** · **OP-SKS** · **SKS** · **9A-91** · **VSK-94** ·
-**MP-133** · **KS-23M** · **MP-43 sawed-off**
+**MP-133** · **KS-23M** · **MP-43 sawed-off** · **M1A** · **SV-98**
 
 ### 🚫 HATE
 **AUG A1** · **G36** · **Vepr KM** · **VPO-209** · **VPO-101** · **ASh-12** · **STM-9** ·
@@ -920,8 +920,6 @@ AK-101 · AK-102 · AK-103 · AK-104 · AK-12 · AKMN · AKMS · AKMSN.
 - **VSS Vintorez** — the only 9x39 left unranked
 - SAG AK · SAG AK Short · AUG A3 · ADAR 2-15
 - **MP-155** — the only shotgun left unranked
-- **All snipers/DMRs** — Mosin · DVL-10 · T-5000 · SV-98 · AXMC · SVDS · RSASS · M1A ·
-  G28 · MK-18 Mjölnir · DMR .338
 - **LMGs** — RPD · PKM · PKP
 - **Pistols** — Glock 17 · Glock 18C · M9A3 · P226R · USP · MP-443 · PM · PB · TT · APS ·
   APB · SR-1MP · FN 5-7 · Desert Eagle · M45A1
@@ -1251,6 +1249,7 @@ plant, villa 2F left room)
 office** at the Health Resort)
 **Reward: $2,215 · 7.62x51 M80A1 + 5× 20-round packs · M67 grenade · 28,000 EXP**
 **Next in the chain pays a Remington R11 RSASS and an FN40GL Mk2 grenade launcher**
+✅ **The RSASS is a keep** — it's on the player's *I'll use* list.
 
 **Wet Job – Part 3** · Shoreline · CHORE
 (mark **Artyom's car** with an MS2000 — yellow, by a yellow bus and a police car near the
