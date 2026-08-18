@@ -775,19 +775,165 @@ a number up.
 
 ---
 
-# How to talk to me
+# How this works
+
+## The split
+
+**You supply facts. I do bookkeeping.**
+
+| You give me | I give you |
+|---|---|
+| Quest text and screenshots from your screen | The board, grouped by map |
+| What you finished, what progressed | 🔍 / ✓ tags so you only look up what needs it |
+| Hideout panels, stash contents | Buy lists across every live quest at once |
+| Which map you're running | Overlaps — same kill, same place, same item |
+| | What banks permanently vs what resets on death |
+| | Memory that survives a fresh chat or a prestige |
+
+**I do not tell you where things are unless you told me first.** That rule exists because
+every location I've looked up has been wrong or half-wrong.
+
+## The 🔍 / ✓ tag
+
+Every quest gets one:
+
+- **✓ NOTHING TO LOOK UP** — the objective is the whole instruction. "15 scavs with an
+  AKM." "4 PMCs." "Visit 3 extracts." Don't open a wiki for these.
+- **🔍 LOOK UP** — the objective names a place you have to find. "The logistics office."
+  "The kart track." "Artyom's car."
+
+Roughly a third of the board is ✓. That's the time this saves.
+
+## Commands
 
 | You say | I do |
 |---|---|
-| `raid report: <map>, lived or died, what I got` — or a screenshot | Update progress, keep/sell calls, build the next card |
-| `<item>?` mid-raid | GRAB / IF SPACE / SKIP and one line |
-| `keep or sell: <item>` | Verdict, reason, where to sell |
-| `prep <map>` | Kit, keys, every live quest on that map |
-| `stash check` | What to dump, ranked by money per slot |
-| `hideout` | Next module worth building and what's missing |
-| `done: <quest>` | Delete it from the list, rebuild the board |
+| `raid report: <map>, lived/died, what happened` | Update the board, rebuild the next card |
+| screenshot of a quest | File it — name, map, type, objective, tag |
+| `<item>?` mid-raid | GRAB / IF SPACE / SKIP, one line |
+| `prep <map>` | Buy list, everything live there, split by 🔍 / ✓ |
+| `done: <quest>` | Move it to Complete, re-rank |
+| `research` | Work the lookup queue below while you're away |
 
-Photos work — I read your quest screen, hideout and stash directly.
+---
+
+# What I actually can and can't do
+
+Written down because it explains every mistake in this file's history.
+
+## Can't
+
+- **I don't render web pages.** No JavaScript, no images, no layout. A page becomes plain
+  text. **If a wiki shows a location as a map screenshot with a marker on it, I see
+  nothing** — only the caption. This is why my locations have been vague or wrong.
+- **Fandom is blocked** — HTTP 402 through this environment's proxy. Tested again and
+  still failing. It's the best Tarkov source and I cannot read it.
+- **tarkov.dev, tarkovforge, tarkov.help** — blocked, dead, or JS shells with no readable
+  content.
+- **Live JS data** — eftboss.com spawn percentages and anything else generated in the
+  browser are invisible.
+
+## Can
+
+- **Web search** — but it returns a *summary written by a small model from search
+  snippets*, not the page. Third-hand. That channel produced every one of these:
+
+| What I said | What was true |
+|---|---|
+| `Punisher P3` — Customs, 25 Scavs, AKS-74U, DVL-10 | Reserve, 12 Scavs, 9x39, VSK-94 — **wrong on all four** |
+| `Chumming` has an Interchange stash point | It doesn't. Woods and Customs only. |
+| `Supervisor` — hand a key to Ragman on Customs | Stash 3 keys on Interchange |
+| `Wet Job P3` — *locate* Artyom's car | **Mark** it. Cost a raid. |
+| `Job for a Patriot` — any location | Streets, Shoreline, Ground Zero only |
+| `Needle in a Haystack` — 4 spots | 6. Missed the Interchange kart track. |
+
+- **Drive a headless browser and read the screenshot visually.** Proven working in this
+  environment — the loop is fine, the network policy is what blocks Fandom.
+- **Read your screenshots.** This has never once been wrong, because it's your screen.
+
+---
+
+# Moving to desktop
+
+**Why it's worth it:** Claude Code on your PC uses *your* network. No proxy, no 402 —
+Fandom loads. And with a browser tool I can screenshot a page and **see the map images**,
+which is the exact thing I'm blind to now.
+
+**What it fixes:** the 🔍 lookups, and only those. Locations are the one category where
+wiki data holds up, because map geometry barely changes between patches.
+
+**What it does NOT fix:** staleness. Reading a 0.14 page perfectly still returns 0.14
+answers. `Punisher P3` would still say Customs/25/AKS-74U — I'd just be quoting it
+accurately instead of garbling it. **Your in-game text stays authoritative for objectives,
+counts, weapons and maps. Forever.**
+
+## Setup
+
+1. Claude Code installed locally
+2. A browser tool wired in (Playwright MCP or equivalent) so I can load and screenshot
+3. This file in a folder I can read and write
+
+## The research protocol
+
+When you say `research` and leave:
+
+- **I look up LOCATIONS ONLY.** Which building, which floor, which room, what landmark.
+- **I never write objectives, counts, weapons or maps from the web.** Those come from you.
+- **Everything I add is tagged `⚠️ web-sourced, unverified`** so you always know which
+  lines are mine and which are yours.
+- I work the queue below and you come back to a filled board.
+
+## The better async job — no internet needed
+
+**Screenshot your whole quest list before you go.** Every page. I transcribe and file all
+of it: names, maps, types, objectives, tags.
+
+Zero staleness, zero verification burden, and it clears the entire `?` list in one pass
+using the only source that has never been wrong. **Do this one first.**
+
+---
+
+# 📋 RESEARCH QUEUE
+
+~50 quests where I have a name and a map and nothing else.
+
+## Streets of Tarkov — ~20
+`Huntsman Path – Big Game` · `Cease Fire!` · `Dandies` · `Surveillance` ·
+`The Secret to Productivity` · `Watching You` · `Your Car Needs a Service` · `Road Closed` ·
+`Secret Message` · `House Arrest` · `The Secret Recipe` · `Beyond the Red Meat` ·
+`Paramedic` · `Glory to CPSU` · `District Patrol` · `You've Got Mail` ·
+`Properties All Around` · `Pets Won't Need It` · `Urban Medicine` · `Ballet Lover` ·
+`Create a Distraction – Part 2`
+
+## Reserve — 11
+`Reserve` · `Surplus Goods` · `Back Door` · `Demonstration Model` ·
+`Classified Technologies` · `Safe Corridor` · `Documents` · `No Place for Renegades` ·
+`Revision – Reserve` · `The Bunker` · `Disease History`
+
+## Lighthouse — 8
+`Revision – Lighthouse` *(50%)* · `The Hermit` · `Missing Cargo` · `Lost Contact` ·
+`Drug Trafficking` · `Easy Job` · `Energy Crisis` · `Corporate Secrets` ·
+`Broadcast – Part 1`
+
+## Woods — 7
+`Swift` · `Steady Signal` · `Metal Birds` · `Survivalist Path – Thrifty` ·
+`Shipping Delay – Part 1` · `A Helping Hand` · `Rough Tarkov`
+
+## Customs — 1
+`Shipment Tracking`
+
+## Any map — ~8
+`Car Repair` *(62%)* · `Aid Stations` *(33%)* · `Dressed to Kill` *(12%)* ·
+`Sew it Good – Part 1` · `Tarkov Shooter – Part 4` *(6%)* · `Fishing Place` ·
+`Easy-Breezy` · `Regulated Materials` · `Arena Business` ·
+`Professional Fitness – Part 1` · `Hiking` · `The Wall Has Eyes` · `The Door` ·
+`King of the Rooftops` · `Survivalist Path – Tough Guy`
+
+## Also needed
+- **Locations for live 🔍 quests** — `Fuel Crisis` tanks · `Irresistible` crate ·
+  `Supervisor` stash points · `The Key to Success` stores · `Needle` kart track and indoor
+  playground
+- **`King of the Rooftops`** — undocumented anywhere. Only your screen will have it.
 
 ---
 
