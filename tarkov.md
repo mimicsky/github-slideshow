@@ -847,10 +847,24 @@ Player picks, or says nothing and gets **Basic Kit**.
 
 Two things decide it: **how big the map is** and **whether it's a fight or a chore.**
 
+### 🔴 Always heavy — the matrix doesn't apply
+
+| Map | Why |
+|---|---|
+| **Factory** | Fighting is essentially unavoidable. Always heavy, no exceptions. |
+| **Labs** | Raiders. Same reasoning. |
+
+### Everything else
+
 | | **Chore raid** *(markers, stashes, finds)* | **Fight raid** *(kill counts, bosses, PMCs)* |
 |---|---|---|
-| **Big map** *(Woods · Streets · Shoreline · Lighthouse · Reserve)* | **Lightest.** Lots of walking, little contact. Cheap kit, stay fast, don't risk value. | **Medium.** Mobility still matters — you have ground to cover between fights. |
-| **Small map** *(Factory · Interchange interior · Ground Zero)* | **Light-medium.** Short raid, but contact is likely anyway. | **Heaviest.** Close quarters, constant contact. Armor over speed. |
+| **Big map** *(Woods · Streets · Shoreline · Lighthouse · Customs)* | **Lightest.** Lots of walking, little contact. Cheap kit, stay fast, don't risk value. | **Medium.** Mobility still matters — you have ground to cover between fights. |
+| **Small map** *(Reserve · Interchange interior · Ground Zero)* | **Light-medium.** Short raid, but contact is likely anyway. | **Heaviest.** Close quarters, constant contact. Armor over speed. |
+
+### ❓ Unclassified — ask the player
+
+**Terminal · Ice Breaker · The Labyrinth** — size and fight-likelihood unknown. Also
+**Customs** is placed as big on assumption, not confirmation.
 
 **The four ways to get it wrong**, in the player's own words:
 
@@ -863,6 +877,13 @@ Two things decide it: **how big the map is** and **whether it's a fight or a cho
 
 **The player picks ammo. Always.** They know it better than any source available here and
 have everything marked. Kit blocks name the **gun** and leave the ammo line for them.
+
+## ⚠️ MAP GAP — bigger than the kit section
+
+**Terminal, Ice Breaker and The Labyrinth appear nowhere in this file.** No quest lists, no
+map sections, nothing. If they carry quests, those quests are missing from the entire
+board — not just from the kit logic. **Get the player's quest screen filtered to each of
+these three.**
 
 ## ⚠️ PREFERENCES — NOT YET RECORDED
 
