@@ -109,6 +109,11 @@ can mark and leave, or spread over several raids, and dying doesn't matter.
 - **Mutually exclusive quests.** Finishing one kills the other. Already cost you
   `One Less Loose End`. **Before finishing anything that reads like picking a side, check
   what it locks out.**
+- **🔴 Kill counts only tick while the quest is active.** Killing a boss before you have
+  its quest is wasted — you'll have to kill it again. **Items are the exception:** loot
+  taken out of a raid keeps found-in-raid status in your stash and still counts later.
+  *(This is why `Huntsman Path – Trophy` only needed the Reshala kill — the TT was already
+  handed in.)*
 
 ---
 
@@ -185,7 +190,7 @@ keys** · **#21WS keycard** *(only if it prices cheap)*
 |---|---|
 | **Long Line** | kill 4 PMCs |
 | **Pathfinder** | visit Railway Exfil, Emercom Checkpoint, Power Station V-Ex |
-| **Huntsman Path – Sellout** | kill Killa, carry out his Maska helmet 🔴 **thorax, not legs** |
+| **👹 Killa** | ⛔ **not a quest yet** — `Sellout` isn't unlocked, so the kill counts for nothing. Fight him for loot or skip him. If you do kill him, **take the helmet** — it keeps FiR status for when the quest unlocks. 🔴 **thorax, not legs** |
 
 ## 🔍 Look these up
 
@@ -199,8 +204,8 @@ keys** · **#21WS keycard** *(only if it prices cheap)*
 
 **Five lookups, three you can just run.**
 
-⚠️ **Only the Killa helmet needs you to survive.** Everything else banks the moment you do
-it, so do the errands first and take the fight last.
+✅ **Nothing on this card needs you to survive.** Everything banks the moment you do it, so
+play it aggressive. Killa is optional — and right now, nearly pointless.
 
 ---
 
