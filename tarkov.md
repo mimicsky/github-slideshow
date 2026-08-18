@@ -888,6 +888,15 @@ have everything marked. Kit blocks name the **gun** and leave the ammo line for 
 Player's own ranking. **Basic Kit rotates through Like and I'll Use. For Fun draws from
 Don't Like and Hate.**
 
+### ⭐ TOP FAVOURITES — lead with these when nothing else decides it
+
+- **NL545 GP** and **Mk47 Mutant** — the player owns the real-life equivalent
+- **HK 416A5** — they've fired a real one
+
+**These three carry personal weight, not just stats.** When a raid has no weapon
+requirement and Basic Kit is picking from the rotation, favour them. Good default for a
+"just go have fun" raid.
+
 ### ❤️ LIKE — the rotation pool
 **MDR** · **HK 416A5** · **RD-704** · **M4A1** · **MCX SPEAR** · **Mk16 (SCAR-L)** ·
 **Mk17 / SCAR-H** *(same gun)* · **Mk47 Mutant** · **RPK-16** · **NL545 GP** ·
