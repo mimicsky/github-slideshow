@@ -931,15 +931,53 @@ AK-101 · AK-102 · AK-103 · AK-104 · AK-12 · AKMN · AKMS · AKMSN.
 **Saiga-9** · **PP-91 Kedr** · **Kedr-B** · **PP-9 Klin** · **PPSh-41** ·
 **MTs-255-12** · **TOZ-106** · **PM** · **PB** · **TT** · **APS** · **APB** · **MP-18**
 
-### ❓ STILL UNRANKED
+## 📊 COMMUNITY TIER LIST — full roster, dated 06.08.2026
 
-**Nothing on the assistant's list.** But that list is roughly **25–30 guns short of the
-real roster** — the wiki counts 43 assault rifles, 16 assault carbines, 22 SMGs, 17
-shotguns and 10 bolt-actions, and this file names about 95 weapons total against a true
-count well over 120. **The missing ones are concentrated in rifles and carbines.**
+Player-supplied. **This is the complete gun list** — it replaces the assistant's
+memory-based attempt, which was ~30 short and contained two guns that don't exist.
 
-**`begin research` should pull the complete weapon list and bring back only the names that
-aren't already ranked here.**
+**This is meta performance, not the player's taste.** The two disagree a lot. Optimal mode
+uses this; Basic Kit uses the preference tiers above.
+
+| Tier | Weapons |
+|---|---|
+| **S** | AUG A1 · AUG A3 · DT MDR 7.62x51 · SA-58 · MCX SPEAR · MK47 Mutant |
+| **A** | FN40GL · M32A1 · ADAR 2-15 · TX-15 DML · .300 Blackout MCX · HK 416A5 · SKS · OP-SKS |
+| **B** | Vector 9x19 · Vector 45 · MPX · PP-19-01 Vityaz-SN · MP5 · P90 · MP7A1 · MP7A2 · SCAR-H · SCAR-L · AS VAL · VSS Vintorez · AKS-74UB · DT MDR 5.56x45 · ASh-12 · SAG AK · SAG AK Short · HK G36 · PKP · PKM · SVDS · Sako TRG M10 |
+| **C** | Glock 18C · FN 5-7 · RSh-12 · AXMC · Mk 18 · Saiga-12 · M3 Super 90m · MP-155 · VSK-94 · 9A-91 · SR-2M · VPO-101 · M1A · RFB · RD-704 · AK-103 · AKMN · AKMS · AKMSN · SVT-40 · AVT-40 · VPO-136 · MP-9 · MP9-N · STM-9 · M4A1 · AK-74 · AK-74N · AK-74M · AKS-74 · AKS-74N · AKS-74UN · AKS-74U · AK-12 · AK-105 · KS-23M · AK-101 · AK-102 · AK-104 · RSASS · HK G28 · RPDN |
+| **D** | USP-45 · M45A1 · M1911A1 · Glock 17 · Glock 19x · P226R · SR-1MP Gyurza · M9A3 · MP-443 · PL-15 · M700 · VPO-215 · SV-98 · T-5000 · Mosin (Sniper) · Mosin (Infantry) · DVL-10 · MP-18 · UMP-45 · MP5-k · Kedr-B · Klin · Kedr · PPSh-41 · RPK-16 · Saiga-9 · VPO-209 |
+| **F** | MP-43 sawed off · APB · APS · MP-43-1C · PB · PM · CR 200DS · CR 50DS · TT · MP-133 · M590A1 · M870 · TOZ-106 · MTs-255-12 |
+
+### 🔀 Where taste and meta disagree — the interesting bits
+
+| | |
+|---|---|
+| **AUG A1 / AUG A3 are S-tier** | and the player **hates** both. The single biggest gap. Optimal would always pick one; Basic Kit never will. |
+| **USP is D-tier** | and it's the player's favourite pistol *("I freaking love this gun")*. Taste wins. |
+| **M590A1 · M870 are F-tier** | player likes/uses both |
+| **SKS · OP-SKS are A-tier** | player doesn't like either |
+| **RPK-16 is D-tier** | player likes it |
+| **DVL-10 · T-5000 are D-tier** | player likes both |
+| **G36 is B-tier** | player hates it |
+
+### ❓ New from the tier list — not yet ranked by the player
+
+**RSh-12** *(C)* · **Glock 19x** *(D)* · **PL-15** *(D)* · **M32A1** *(A, grenade
+launcher)* · **FN40GL** *(A, grenade launcher — the Wet Job chain reward)* ·
+**Sako TRG M10** *(B)* · **RPDN** *(C)* · **MP-43-1C** *(F)* · **AKS-74N** *(C)*
+
+**Variants the player ranked as one gun — may want splitting:**
+- **DT MDR 7.62x51** *(S)* vs **DT MDR 5.56x45** *(B)*
+- **MCX SPEAR** *(S)* vs **.300 Blackout MCX** *(A)*
+- **Mosin (Sniper)** vs **Mosin (Infantry)** *(both D)*
+
+### ⚠️ On the player's list but absent from the tier list
+
+**NL545 GP** *(a top favourite!)* · **Desert Eagle** · **SR-3M** · **MP-153** ·
+**MK-18 Mjölnir** *(possibly the "Mk 18" in C)* · **DMR .338** *(possibly the Sako TRG
+M10)* · **Benelli M3** *(the "M3 Super 90m" in C)* · **RPD** *(the "RPDN" in C)*
+
+Either the tier list is incomplete or these are named differently. **Worth a check.**
 
 - **SP-81 signal pistol** — exists but can't kill anyone, so it never belongs in a kit
 
