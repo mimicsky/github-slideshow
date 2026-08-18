@@ -897,7 +897,8 @@ Don't Like and Hate.**
 ### 👍 I'LL USE
 **MCX** · **SA-58** · **TX-15 DML** · **AK-545 Short** · **SR-3M** *(9x39)* ·
 **Vector 9x19** · **P90** · **MPX** · **UMP 45** · **PP-19-01 Vityaz** · **M870** ·
-**MPS AA-12** · **RSASS** · **SVDS** · **G28** · **DMR .338** · **Mosin**
+**MPS AA-12** · **RSASS** · **SVDS** · **G28** · **DMR .338** · **Mosin** ·
+**RPD** · **PKM** · **PKP** *(all LMGs)*
 
 ### 😐 MID
 **M700** · **SR-25** · **SR-2M** · **AKM series**
@@ -920,7 +921,6 @@ AK-101 · AK-102 · AK-103 · AK-104 · AK-12 · AKMN · AKMS · AKMSN.
 - **VSS Vintorez** — the only 9x39 left unranked
 - SAG AK · SAG AK Short · AUG A3 · ADAR 2-15
 - **MP-155** — the only shotgun left unranked
-- **LMGs** — RPD · PKM · PKP
 - **Pistols** — Glock 17 · Glock 18C · M9A3 · P226R · USP · MP-443 · PM · PB · TT · APS ·
   APB · SR-1MP · FN 5-7 · Desert Eagle · M45A1
 
