@@ -889,10 +889,11 @@ Don't Like and Hate.**
 
 ### ❤️ LIKE — the rotation pool
 **MDR** · **HK 416A5** · **RD-704** · **M4A1** · **MCX SPEAR** · **Mk16 (SCAR-L)** ·
-**Mk17 / SCAR-H** *(same gun)* · **Mk47 Mutant** · **RPK-16** · **NL545 GP**
+**Mk17 / SCAR-H** *(same gun)* · **Mk47 Mutant** · **RPK-16** · **NL545 GP** ·
+**AS VAL** *(9x39)*
 
 ### 👍 I'LL USE
-**MCX** · **SA-58** · **TX-15 DML** · **AK-545 Short**
+**MCX** · **SA-58** · **TX-15 DML** · **AK-545 Short** · **SR-3M** *(9x39)*
 
 ### 😐 MID
 **M700** · **SR-25** · **SR-2M** · **AKM series**
@@ -903,15 +904,14 @@ AK-101 · AK-102 · AK-103 · AK-104 · AK-12 · AKMN · AKMS · AKMSN.
 > Don't build a card around one unless a quest demands it.
 
 ### 👎 DON'T LIKE
-**RFB** · **MP5** · **OP-SKS** · **SKS**
+**RFB** · **MP5** · **OP-SKS** · **SKS** · **9A-91** · **VSK-94**
 
 ### 🚫 HATE
 **AUG A1** · **G36** · **Vepr KM** · **VPO-209** · **VPO-101** · **ASh-12** · **STM-9** ·
 **Saiga-9**
 
 ### ❓ STILL UNRANKED
-- **9x39** — VSS Vintorez · AS VAL · 9A-91 · VSK-94 · SR-3M
-  ⚠️ **`Punisher P3` requires one of these and the player owns none.** Rank these first.
+- **VSS Vintorez** — the only 9x39 left unranked
 - SAG AK · SAG AK Short · AUG A3 · ADAR 2-15
 - **All SMGs** — MP5K · MP5SD · MP7A1/A2 · MP9 · MP9-N · UMP 45 · Vector 9x19 · Vector .45
   · P90 · PP-19-01 Vityaz · PPSh-41 · MPX · Kedr · Kedr-B · PP-9 Klin
