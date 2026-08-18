@@ -900,8 +900,8 @@ Don't Like and Hate.**
 **MCX** · **SA-58** · **TX-15 DML** · **AK-545 Short** · **SR-3M** *(9x39)* ·
 **Vector 9x19** · **P90** · **MPX** · **UMP 45** · **PP-19-01 Vityaz** · **M870** ·
 **MPS AA-12** · **RSASS** · **SVDS** · **G28** · **DMR .338** · **Mosin** ·
-**RPD** · **PKM** · **PKP** *(all LMGs)* · **M9A3** · **1911** · **M45A1** ·
-**Desert Eagle**
+**RPD** · **PKM** · **PKP** · **Pecheneg-SP** *(all LMGs)* · **M9A3** · **1911** ·
+**M45A1** · **Desert Eagle** · **Benelli M3**
 
 ### 😐 MID
 **M700** · **SR-25** · **SR-2M** · **AKM series**
@@ -914,20 +914,21 @@ AK-101 · AK-102 · AK-103 · AK-104 · AK-12 · AKMN · AKMS · AKMSN.
 ### 👎 DON'T LIKE
 **RFB** · **MP5** · **MP5K** · **MP5SD** · **OP-SKS** · **SKS** · **9A-91** · **VSK-94** ·
 **MP-133** · **KS-23M** · **MP-43 sawed-off** · **M1A** · **SV-98** · **MP-443 Grach** ·
-**SR-1MP**
+**SR-1MP** · **SVT-40** · **AVT-40** · **Chiappa Rhino 50DS / 200DS**
 
 ### 🚫 HATE
 **AUG A1** · **G36** · **Vepr KM** · **VPO-209** · **VPO-101** · **ASh-12** · **STM-9** ·
 **Saiga-9** · **PP-91 Kedr** · **Kedr-B** · **PP-9 Klin** · **PPSh-41** ·
-**MTs-255-12** · **TOZ-106** · **PM** · **PB** · **TT** · **APS** · **APB**
+**MTs-255-12** · **TOZ-106** · **PM** · **PB** · **TT** · **APS** · **APB** · **MP-18**
 
 ### ❓ STILL UNRANKED
 - **VSS Vintorez** · **MP-155** · SAG AK · SAG AK Short · AUG A3 · ADAR 2-15
-- **Probably missing from this list entirely** *(assistant's memory, unverified)*:
-  **OTs-14 Groza-1 / Groza-4** · **SVT-40** · **AVT-40** · **VPO-215 Gornostay** ·
-  **MP-18** · **OTs-38 silent revolver** · **Chiappa Rhino 50DS / 200DS** ·
-  **SP-81 signal pistol** · **Benelli M3** · **Pecheneg-SP / Pecheneg-N**
-- SAG AK · SAG AK Short · AUG A3 · ADAR 2-15
+- **VPO-215 Gornostay** — unranked
+- **SP-81 signal pistol** — exists but can't kill anyone, so it never belongs in a kit
+
+> 🔴 **The assistant invented two guns that don't exist in Tarkov: the OTs-14 Groza and
+> the OTs-38 silent revolver.** Both were offered confidently from memory. Add this to the
+> reasons the weapon list needs verifying from a real source rather than recall.- SAG AK · SAG AK Short · AUG A3 · ADAR 2-15
 - **MP-155** — the only shotgun left unranked
 
 > ⚠️ **This weapon list came from the assistant's memory, not a source** — Fandom and
