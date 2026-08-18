@@ -406,6 +406,7 @@ territory** — the tankers have **German flags** on them, near Ultra)
 (**find the lost weapon crate near the Ultra mall**, hand over the cargo)
 **Reward: MPS Auto Assault-12 Gen 1 shotgun · 2× 12/70 flechette packs · €1,922 ·
 28,000 EXP · + an unknown reward** — best single payout on the map
+✅ **Keep the AA-12** — it's on the player's *I'll use* list.
 
 **Killa** in the mall.
 
@@ -890,11 +891,13 @@ Don't Like and Hate.**
 ### ❤️ LIKE — the rotation pool
 **MDR** · **HK 416A5** · **RD-704** · **M4A1** · **MCX SPEAR** · **Mk16 (SCAR-L)** ·
 **Mk17 / SCAR-H** *(same gun)* · **Mk47 Mutant** · **RPK-16** · **NL545 GP** ·
-**AS VAL** *(9x39)* · **MP7A1** · **MP7A2** · **Vector .45** · **MP9 / MP9-N**
+**AS VAL** *(9x39)* · **MP7A1** · **MP7A2** · **Vector .45** · **MP9 / MP9-N** · **MP-153** · **Saiga-12** ·
+**M590A1**
 
 ### 👍 I'LL USE
 **MCX** · **SA-58** · **TX-15 DML** · **AK-545 Short** · **SR-3M** *(9x39)* ·
-**Vector 9x19** · **P90** · **MPX** · **UMP 45** · **PP-19-01 Vityaz**
+**Vector 9x19** · **P90** · **MPX** · **UMP 45** · **PP-19-01 Vityaz** · **M870** ·
+**MPS AA-12**
 
 ### 😐 MID
 **M700** · **SR-25** · **SR-2M** · **AKM series**
@@ -905,17 +908,18 @@ AK-101 · AK-102 · AK-103 · AK-104 · AK-12 · AKMN · AKMS · AKMSN.
 > Don't build a card around one unless a quest demands it.
 
 ### 👎 DON'T LIKE
-**RFB** · **MP5** · **MP5K** · **MP5SD** · **OP-SKS** · **SKS** · **9A-91** · **VSK-94**
+**RFB** · **MP5** · **MP5K** · **MP5SD** · **OP-SKS** · **SKS** · **9A-91** · **VSK-94** ·
+**MP-133** · **KS-23M** · **MP-43 sawed-off**
 
 ### 🚫 HATE
 **AUG A1** · **G36** · **Vepr KM** · **VPO-209** · **VPO-101** · **ASh-12** · **STM-9** ·
-**Saiga-9** · **PP-91 Kedr** · **Kedr-B** · **PP-9 Klin** · **PPSh-41**
+**Saiga-9** · **PP-91 Kedr** · **Kedr-B** · **PP-9 Klin** · **PPSh-41** ·
+**MTs-255-12** · **TOZ-106**
 
 ### ❓ STILL UNRANKED
 - **VSS Vintorez** — the only 9x39 left unranked
 - SAG AK · SAG AK Short · AUG A3 · ADAR 2-15
-- **All shotguns** — MP-133 · MP-153 · MP-155 · M870 · Saiga-12 · MTs-255-12 · TOZ-106 ·
-  KS-23M · M590A1 · MP-43 sawed-off · MPS AA-12
+- **MP-155** — the only shotgun left unranked
 - **All snipers/DMRs** — Mosin · DVL-10 · T-5000 · SV-98 · AXMC · SVDS · RSASS · M1A ·
   G28 · MK-18 Mjölnir · DMR .338
 - **LMGs** — RPD · PKM · PKP
