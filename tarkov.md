@@ -823,6 +823,64 @@ About a third of the board is ✓. Those are the trips to Fandom you can stop ma
 
 ---
 
+# 🎒 KIT BUILDER
+
+Every raid card ends with a kit block. Two parts:
+
+**MUST BRING** — quest-mandated. Keys, markers, items to stash, required weapons. Miss one
+and the raid is wasted. Never optional.
+
+**RECOMMENDED KIT** — the loadout, built for the raid and to the player's taste.
+
+## The four modes
+
+Player picks, or says nothing and gets **Basic Kit**.
+
+| Mode | What it is |
+|---|---|
+| **Optimal** | Best thing for the job. Repetitive but it works. |
+| **Basic Kit** | Guns the player likes, on rotation so it's not the same build every week, with armor/rig/backpack picked optimally. **The default.** |
+| **For Fun** | Something they'd never pick on purpose. A goofy build, a gun they dislike, a self-imposed handicap. |
+| **Themed / RP** | Built to a script. Full Russian, full NATO, army surplus, sniper, budget scav-hunter. |
+
+## Weight rule — match the kit to the raid, not to the wallet
+
+Two things decide it: **how big the map is** and **whether it's a fight or a chore.**
+
+| | **Chore raid** *(markers, stashes, finds)* | **Fight raid** *(kill counts, bosses, PMCs)* |
+|---|---|---|
+| **Big map** *(Woods · Streets · Shoreline · Lighthouse · Reserve)* | **Lightest.** Lots of walking, little contact. Cheap kit, stay fast, don't risk value. | **Medium.** Mobility still matters — you have ground to cover between fights. |
+| **Small map** *(Factory · Interchange interior · Ground Zero)* | **Light-medium.** Short raid, but contact is likely anyway. | **Heaviest.** Close quarters, constant contact. Armor over speed. |
+
+**The four ways to get it wrong**, in the player's own words:
+
+- ❌ Huge load on a big map — it hinders you badly
+- ❌ Light kit on a small map where fights happen constantly
+- ❌ Light kit on a fight-based raid
+- ❌ Super heavy kit on a chore raid — you're carrying protection you'll never use
+
+## Ammo
+
+**The player picks ammo. Always.** They know it better than any source available here and
+have everything marked. Kit blocks name the **gun** and leave the ammo line for them.
+
+## ⚠️ PREFERENCES — NOT YET RECORDED
+
+The kit builder can't do **Basic Kit** or **For Fun** properly until this is filled in.
+**Ask the player for:**
+
+- **Guns they actually reach for**, and which ones are just sitting in the locker
+- **Armor style** — heavy and slow, or light and fast
+- **Budget tiers** — what they call cheap, normal, and full send, in roubles
+- **Anything they refuse to run** — guns they hate, calibers they don't stock
+
+*(Current locker, for reference: MDR ×4 · HK 416A5 ×3 · RD-704 · MCX · SA58 · Mk 16 ·
+TX-15 DML · AK-545 Short · RPK-16 · NL545 GP · M700 · SR-25 · SR-2M · AK-12 (quest) ·
+AKM series · MP5 SD. Armor: THOR CRV · AVS · WARTECH TV-110 · Korund-VM · Defender-2 ·
+Thunderbolt · Osprey MK4A.)*
+
+---
+
 # What I actually can and can't do
 
 Written down because it explains every mistake in this file's history.
