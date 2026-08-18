@@ -879,25 +879,75 @@ counts, weapons and maps. Forever.**
 2. A browser tool wired in (Playwright MCP or equivalent) so I can load and screenshot
 3. This file in a folder I can read and write
 
-## The research protocol
+## ▶ THE `BEGIN RESEARCH` PROTOCOL
 
-When you say `research` and leave:
+**Trigger phrase: `begin research`**
 
-- **I look up LOCATIONS ONLY.** Which building, which floor, which room, what landmark.
-- **I never write objectives, counts, weapons or maps from the web.** Those come from you.
-- **Everything I add is tagged `⚠️ web-sourced, unverified`** so you always know which
-  lines are mine and which are yours.
-- I work the queue below and you come back to a filled board.
+When the player says this and walks away, work until they're back. This is the standing
+instruction set — follow it exactly.
 
-## The better async job — no internet needed
+### Scope: EVERY active quest, not just the blanks
 
-**Screenshot your whole quest list before you go.** Every page. I transcribe and file all
-of it: names, maps, types, objectives, tags.
+**Do not skip a quest because this file already has details for it.** The file has been
+wrong before — `Punisher Part 3` was wrong on map, count, weapon and reward all at once.
+**Assume every unverified line might be wrong and check it.**
 
-Zero staleness, zero verification burden, and it clears the entire `?` list in one pass
-using the only source that has never been wrong. **Do this one first.**
+Work in this order:
 
----
+1. **Every ACTIVE quest** on the board, one at a time
+2. **Upcoming quests** — the next part of every chain currently in progress, so the player
+   knows what's coming before it unlocks
+3. **Anything else this folder needs** — key requirements and prices, boss mechanics and
+   spawn locations, item spawn spots, what unlocks what, trader loyalty requirements
+
+### For each quest
+
+- Open the Fandom page in the browser
+- **Screenshot it and read the screenshot** — the map images are the whole point, and they
+  don't come through as text
+- Record **where things are**: which building, which floor, which room, what landmark, what
+  the thing looks like
+- Note any key or item that has to be carried in
+
+### 🔴 The three rules that keep this from ruining the file
+
+**1. NEVER overwrite a player-confirmed line.** Anything in *Confirmed objectives*, or
+anything the player stated directly, is ground truth. Web data does not replace it, ever.
+
+**2. Disagreements become CONFLICTS, not corrections.** If the wiki contradicts something
+the player confirmed, write it up like this and leave both standing:
+
+```
+⚠️ CONFLICT — Punisher Part 3
+  Player screen: Reserve · 12 Scavs · 9x39 · 7 lower half-masks
+  Fandom:        Customs · 25 Scavs · AKS-74U · DVL-10 reward
+  → Player's screen wins. Flagged only so it can be re-checked in game.
+```
+
+**3. Tag everything web-sourced.** Every line added by research carries
+**`⚠️ web-sourced, unverified`**. The player must always be able to see at a glance which
+lines came from their own screen and which came from a wiki.
+
+### What research is allowed to write
+
+| ✅ Write these | ❌ Never write these from the web |
+|---|---|
+| Locations — building, floor, room, landmark | Objective counts *(how many kills, how many items)* |
+| Which key opens what | Weapon or gear restrictions |
+| What an item looks like | Which map a quest is on |
+| Key prices and where keys spawn | Whether it needs an extract |
+| Boss spawn spots and behaviour | Rewards |
+| Chain order — what unlocks next | |
+
+**Locations survive patches. Everything else drifts, and the player's screen is the only
+current source.**
+
+### When the player comes back
+
+Report:
+1. How many quests were researched
+2. **Every conflict found**, listed — these are the ones to check in game
+3. What's still missing or undocumented anywhere
 
 # 📋 RESEARCH QUEUE
 
