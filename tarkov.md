@@ -894,14 +894,14 @@ Don't Like and Hate.**
 **AS VAL** *(9x39)* · **MP7A1** · **MP7A2** · **Vector .45** · **MP9 / MP9-N** · **MP-153** · **Saiga-12** ·
 **M590A1** · **DVL-10** · **T-5000** · **AXMC** · **MK-18 Mjölnir** ·
 **Glock 17** · **Glock 18C** · **P226R** · **FN 5-7** ·
-**USP** 💛 *(player's words: "I freaking love this gun")*
+**USP** 💛 *(player's words: "I freaking love this gun")* · **SAG AK** · **SAG AK Short**
 
 ### 👍 I'LL USE
 **MCX** · **SA-58** · **TX-15 DML** · **AK-545 Short** · **SR-3M** *(9x39)* ·
 **Vector 9x19** · **P90** · **MPX** · **UMP 45** · **PP-19-01 Vityaz** · **M870** ·
 **MPS AA-12** · **RSASS** · **SVDS** · **G28** · **DMR .338** · **Mosin** ·
 **RPD** · **PKM** · **PKP** · **Pecheneg-SP** *(all LMGs)* · **M9A3** · **1911** ·
-**M45A1** · **Desert Eagle** · **Benelli M3**
+**M45A1** · **Desert Eagle** · **Benelli M3** · **VSS Vintorez** · **MP-155**
 
 ### 😐 MID
 **M700** · **SR-25** · **SR-2M** · **AKM series**
@@ -914,7 +914,8 @@ AK-101 · AK-102 · AK-103 · AK-104 · AK-12 · AKMN · AKMS · AKMSN.
 ### 👎 DON'T LIKE
 **RFB** · **MP5** · **MP5K** · **MP5SD** · **OP-SKS** · **SKS** · **9A-91** · **VSK-94** ·
 **MP-133** · **KS-23M** · **MP-43 sawed-off** · **M1A** · **SV-98** · **MP-443 Grach** ·
-**SR-1MP** · **SVT-40** · **AVT-40** · **Chiappa Rhino 50DS / 200DS**
+**SR-1MP** · **SVT-40** · **AVT-40** · **Chiappa Rhino 50DS / 200DS** · **AUG A3** ·
+**ADAR 2-15** · **VPO-215 Gornostay**
 
 ### 🚫 HATE
 **AUG A1** · **G36** · **Vepr KM** · **VPO-209** · **VPO-101** · **ASh-12** · **STM-9** ·
@@ -922,8 +923,15 @@ AK-101 · AK-102 · AK-103 · AK-104 · AK-12 · AKMN · AKMS · AKMSN.
 **MTs-255-12** · **TOZ-106** · **PM** · **PB** · **TT** · **APS** · **APB** · **MP-18**
 
 ### ❓ STILL UNRANKED
-- **VSS Vintorez** · **MP-155** · SAG AK · SAG AK Short · AUG A3 · ADAR 2-15
-- **VPO-215 Gornostay** — unranked
+
+**Nothing on the assistant's list.** But that list is roughly **25–30 guns short of the
+real roster** — the wiki counts 43 assault rifles, 16 assault carbines, 22 SMGs, 17
+shotguns and 10 bolt-actions, and this file names about 95 weapons total against a true
+count well over 120. **The missing ones are concentrated in rifles and carbines.**
+
+**`begin research` should pull the complete weapon list and bring back only the names that
+aren't already ranked here.**
+
 - **SP-81 signal pistol** — exists but can't kill anyone, so it never belongs in a kit
 
 > 🔴 **The assistant invented two guns that don't exist in Tarkov: the OTs-14 Groza and
