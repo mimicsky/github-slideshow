@@ -27,10 +27,16 @@ what you're doing, in one line
 🔑 key or item to bring, if any
 ```
 
-**The tag is the point.** 🔍 means the objective names a *place* you have to find —
-"the logistics office", "the kart track", "Artyom's car". ✓ means the objective is the
-whole instruction — "15 scavs with an AKM", "4 PMCs", "kill Killa". **Don't waste time
-opening Fandom for a ✓.**
+**The tag answers one question: do you need a map for this?**
+
+**✓ JUST GO DO IT** — the quest already told you everything.
+> *"Kill 15 scavs with an AKM."* You know what an AKM is. You know what a scav is. Go.
+
+**🔍 LOOK IT UP** — the quest points at one specific spot and never says where it is.
+> *"Find the logistics office."* Where's the logistics office? Exactly. That's a lookup.
+
+About a third of your board is ✓. **Those are the ones you've been opening Fandom for and
+didn't need to.**
 
 **Types:**
 
@@ -795,14 +801,14 @@ every location I've looked up has been wrong or half-wrong.
 
 ## The 🔍 / ✓ tag
 
-Every quest gets one:
+Every quest gets one, and it answers **"do I need a map for this?"**
 
-- **✓ NOTHING TO LOOK UP** — the objective is the whole instruction. "15 scavs with an
-  AKM." "4 PMCs." "Visit 3 extracts." Don't open a wiki for these.
-- **🔍 LOOK UP** — the objective names a place you have to find. "The logistics office."
-  "The kart track." "Artyom's car."
+- **✓ JUST GO DO IT** — you already know everything. *"Kill 4 PMCs."* *"Visit 3
+  extracts."* Nothing to find, no wiki needed.
+- **🔍 LOOK IT UP** — there's one specific spot and the quest doesn't say where.
+  *"The kart track."* *"Artyom's car."* *"The logistics office."*
 
-Roughly a third of the board is ✓. That's the time this saves.
+About a third of the board is ✓. Those are the trips to Fandom you can stop making.
 
 ## Commands
 
