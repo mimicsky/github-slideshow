@@ -878,10 +878,62 @@ of the board, so `begin research` should cover them under *upcoming quests*.
 - ❌ Light kit on a fight-based raid
 - ❌ Super heavy kit on a chore raid — you're carrying protection you'll never use
 
-## Ammo
+## 🔫 AMMO DOCTRINE — the player's own rules
 
-**The player picks ammo. Always.** They know it better than any source available here and
-have everything marked. Kit blocks name the **gun** and leave the ammo line for them.
+**Never name a specific round.** The player has every round marked and knows them cold.
+**Name the TYPE** — HP, AA or AP — based on what the raid is actually made of.
+
+### Standard load
+**1 primary + 4–5 mags**, depending on round capacity. That's the baseline for every kit.
+
+### What each type is for
+
+**🩸 HP — high damage, low pen**
+- Best on **scavs**, and on **limbs of armored targets** *(unarmored zones take the full
+  damage)*
+- Mostly **cheap**. The very high-damage HP can cost, but still under AP.
+- ⚠️ **HP vs armor is NOT an automatic loss.** A 79-damage round into unarmored areas
+  kills fast regardless of what they're wearing. It only loses when you hit **armor
+  directly**.
+- Why it isn't the default: **too situational.** Good for scav killing or a fast gun,
+  worse than the alternatives the rest of the time.
+- *Scavs wear class 0–1, occasionally 2–3.*
+
+**⚖️ AA — all-around. THE DEFAULT.**
+- Player has it marked at **class 3 pen**. **Used almost every raid.**
+- Mid damage, mid pen, **average price**. Handles scavs and PMCs both.
+- This is what a normal raid gets unless there's a reason to change.
+- *PMCs mostly wear class 3–4. Class 5–6 happens but is rare, mostly on endgame maps like
+  Labs.*
+
+**🛡 AP — expensive, low damage, high pen**
+- Only for **heavily armored targets**.
+- ❌ **Bad against scavs.** Five rounds to kill one unarmored scav is a terrible trade and
+  the cost hurts the economy more than the raid helps.
+- **Only when it's necessary, or on a critical raid that has to go right.**
+- 💡 **When running AP, bring a sidearm or second gun for scav killing.** Don't spend AP
+  on trash.
+
+### Picking it for a raid
+
+| Raid is mostly | Bring |
+|---|---|
+| Scavs *(kill counts, scav-base work)* | **HP** |
+| Mixed, or unknown | **AA** — the default |
+| PMCs | **AA**, or AP if the raid matters |
+| Raiders / bosses / class 5–6 | **AP** + a sidearm loaded HP or AA for scavs |
+
+### Against the current board
+
+| Quest | Target | Type |
+|---|---|---|
+| `Punisher P3` — 12 scavs, 9x39 | scavs | **HP** |
+| `Wet Job P1` — 10 scavs suppressed | scavs | **HP** |
+| `Long Line` — 4 PMCs | PMCs | **AA** |
+| `Capturing Outposts` — PMCs at the resort | PMCs | **AA** |
+| `Job for a Patriot` — 10 PMCs, AK-12 | PMCs | **AA** |
+| `Drip Out P1` — 100 Raiders | heavily armored | **AP** + sidearm |
+| **Killa** | class 6 | **AP**, thorax only |
 
 ## 🔫 GUN PREFERENCES
 
