@@ -1393,6 +1393,34 @@ Report:
 2. **Every conflict found**, listed — these are the ones to check in game
 3. What's still missing or undocumented anywhere
 
+# 🗂 THE PLAN — in order
+
+**1. Quest screenshot dump** ← *doing this now*
+Player sends their whole quest list, page by page. Assistant transcribes and files every
+unknown — Reserve's 11, Lighthouse's 8, most of Streets, Woods' 7. **No verification
+needed; it's their screen.**
+
+**2. Hideout tally rebuild**
+The old tally counted shortfalls, but every panel reads X/Y from the **same stash** — a ✓
+in three modules can be the same ten items. Needs **names for the items that showed as
+satisfied**, especially the gold/tan branching thing *(28 across Shooting Range, Vents and
+Generator)*, the blue/white tool *(18)*, the battery *(11)*. **Turns the broken 214 into
+the real ~400.**
+
+**3. Desktop setup**
+Claude Code + a browser tool on the player's PC.
+
+**4. `begin research`** — everything the desktop session can do that this one can't:
+- **Armor** — every carrier, armored rig, vest and plate: slot, class, material, weight,
+  penalties, price. Plus which of the player's seven is which type.
+- **Budget tiers** — the player has **delegated this decision to the desktop session**,
+  which will have gun prices, armor prices and stash contents in front of it. Work out
+  what cheap / normal / full send actually mean in roubles and write them in.
+- **The post-1.0 weapon roster** — return only guns not already ranked.
+- **Locations** for every 🔍 quest, and the upcoming-chain and endgame-map quests.
+
+---
+
 # 📋 RESEARCH QUEUE
 
 ~50 quests where I have a name and a map and nothing else.
