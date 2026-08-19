@@ -1164,6 +1164,36 @@ Something from the **Hate** list, on purpose.
 Free kit, **Fence rep**, zero risk. The cheapest progress on the board and it never costs
 a rouble.
 
+### 👹 Boss Hunt
+**Pick one boss. Go only for him. Ignore every quest on the map.**
+
+Seven left — Sanitar, Killa, Glukhar, Shturman, Kaban, Kollontay, Zryachiy. It's the
+player's own goal, it's a pure fight, and it's the kind of raid where dying costs nothing
+but the kit. **Sanitar has never once spawned for them**, so that's an easy one to keep
+offering.
+
+### 🔩 Hideout Run
+**No quests. Loot for the hideout only.**
+
+There are **400+ items** outstanding — 50 wires, 20 power cords, 16 relays. Nothing else
+on the board addresses that backlog, and it quietly gates the Bitcoin Farm and
+Intelligence Center 3 *(flea fee −30%)*. Pick a map with good industrial loot and fill the
+bag.
+
+### 💎 Full Send
+**Take the single most expensive kit in the stash and actually use it.**
+
+The mirror image of Stash Rotation. That one says *use the gun you never touch* — this one
+says **use the gun you're saving.** Both attack the same disease: gear sitting in a locker
+doing nothing. If it's too good to lose, it's already wasted.
+
+### 🗺 Map Tourist
+**Go somewhere never run, with no objectives at all.** Just learn the place.
+
+**Streets is 21 quests at 0%. Lighthouse is 10.** That's roughly a third of the board sat
+untouched because the maps are unfamiliar. A casual no-pressure lap removes that barrier
+far better than showing up cold with a quest list.
+
 ## What the assistant should track
 
 - **Which guns have actually been run**, so Stash Rotation can name one that hasn't
