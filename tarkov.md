@@ -1191,11 +1191,21 @@ The mirror image of Stash Rotation. That one says *use the gun you never touch* 
 says **use the gun you're saving.** Both attack the same disease: gear sitting in a locker
 doing nothing. **If it's too good to lose, it's already wasted.**
 
-### 🥋 Hobo Run
-**Go in with nothing.** No armor, no rig, a starter gun or fists. **Kill someone and wear
-what they were wearing**, then extract in it.
+### 🥋 Hobo Streak
+**The assistant assigns a cheap kit. Run it until it gets you killed.**
 
-Pure skill, zero investment, and the best story of the week when it works.
+- Survive and extract → **run the same kit again next raid.** Repair it, restock the mags,
+  go back in.
+- Die → **the streak ends.** Report the number.
+- Quests still count while it's running — this isn't instead of progress, it's a
+  constraint on how you make it.
+
+**Why it works:** cheap gear the player would never otherwise touch gets used, and every
+extract raises the stakes on the next one. A 5-raid streak on a ₽80k kit is a better story
+than any single good raid.
+
+> **Track the streak. Say the number every time.** *"Hobo Streak: raid 4."* That counter is
+> the whole point.
 
 ### 🌙 Night Run
 **Force a night raid.** Different map entirely once the lights go out — different routes,
@@ -1205,8 +1215,15 @@ went well.
 ## What the assistant should track
 
 - **Which guns have actually been run**, so Stash Rotation can name one that hasn't
-- **How many raids since the last curveball**
 - **Whether the stash is growing** — a growing stash means gear isn't being used
+- **The active Hobo Streak**, if one is running, and the best streak so far
+
+### 🏆 Hobo Streak record
+
+| | |
+|---|---|
+| **Current streak** | none running |
+| **Best streak** | — |
 
 ## Tone
 
