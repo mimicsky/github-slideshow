@@ -612,7 +612,7 @@ Kappa wants **3.0** and you're at **LL1**. Three ways to raise it:
 > tell me if it was a scav run and I'll track the trend.
 >
 > 🎲 **Scav runs are the cheap way to move this.** Free kit, free rep, no risk. Offer them
-> often — and note the Pistol Transit Run is a **PMC** run, so it's a different tool.
+> often — and note the Pistol Factory Run is a **PMC** run, so it's a different tool.
 
 ---
 
@@ -1133,14 +1133,14 @@ no schedule at all.**
 
 ## The curveball types
 
-### 🃏 The Pistol Transit Run — *the player's own invention, and the best one*
-**PMC only. Pistol only.** Transit from map to map doing whatever looks fun until you die.
+### 🃏 Pistol Factory Run
+**Factory. PMC. Pistol only.** No primary. Go fight.
 
-⚠️ **This is a PMC run, not a scav run.** A scav gives you whatever it gives you — that's
-a different thing entirely. The point here is going in *deliberately* underequipped.
+⚠️ **PMC, not scav** — a scav gives you whatever it gives you. The point is walking into
+the most violent map in the game *deliberately* underequipped.
 
-**Why it's the best one:** costs almost nothing, pays out in money and rep, and forces
-stash items into play. Fun that's also progress.
+Costs almost nothing, and Factory guarantees the fight so there's no wandering. Pure
+skill test in the shortest raid available.
 
 ### 🔫 Stash Rotation Run
 **The assistant picks a gun from the locker that hasn't been used.** Not a favourite. That
@@ -1157,8 +1157,16 @@ one pass — start there.
 Go hunting PMCs. No objectives, no marker to place, no item to find.
 
 ### 🎯 Challenge Run
-A self-imposed handicap. Shotgun only. One mag. Pistol on Factory. Scav-kit-only PMC run.
-Something from the **Hate** list, on purpose.
+A self-imposed handicap. Pick one and commit:
+
+- **Sniper only** — bolt-action, no backup
+- **Shotgun only**
+- **Iron sights only** — no optics on anything
+- **One mag** — what you load is what you get
+- **Scav-kit-only PMC run** — dress like a scav, fight like a PMC
+- **Something off the Hate list**, on purpose
+
+The assistant picks, the player doesn't get a vote.
 
 ### 🧟 Scav Run
 Free kit, **Fence rep**, zero risk. The cheapest progress on the board and it never costs
