@@ -611,8 +611,8 @@ Kappa wants **3.0** and you're at **LL1**. Three ways to raise it:
 > Scav runs are free, so every one you skip is rep you don't get. When you report a raid,
 > tell me if it was a scav run and I'll track the trend.
 >
-> 🎲 **The Pistol Transit Run under Curveballs feeds this directly** — it's the player's
-> own idea and it happens to target their weakest goal. Offer it often.
+> 🎲 **Scav runs are the cheap way to move this.** Free kit, free rep, no risk. Offer them
+> often — and note the Pistol Transit Run is a **PMC** run, so it's a different tool.
 
 ---
 
@@ -1115,24 +1115,32 @@ the player.**
 
 ## The rule
 
-**Mostly quests — that's still the spine.** But **every 4th or 5th raid, throw a
-curveball** instead of another card. Don't ask permission, just offer it as the next raid
-and say why.
+**Mostly quests — that's still the spine.** But curveballs are **the assistant's call, on
+no schedule at all.**
 
-**Also throw one whenever a pattern shows up:**
-- Same gun three raids running
-- Three or more pure-quest raids back to back
+> 🔴 **NO FIXED CADENCE. The player wants to be surprised.** Never say "it's been four
+> raids." Never telegraph one coming. Just decide, and hand it over as the next raid.
+>
+> **If one lands well, throw another right after.** Two or three in a row is fine when
+> they're working. Judge the moment, not a counter.
+
+**Signals worth reading** — not rules, just things that suggest it's time:
+- Same gun several raids running
+- A long stretch of pure-quest raids
 - Reports that read tired, or a run of deaths
 - A stash that's clearly filling up
+- A big win worth riding
 
 ## The curveball types
 
 ### 🃏 The Pistol Transit Run — *the player's own invention, and the best one*
-Go in as **PMC with only a pistol** *(or as a scav)* and **transit from map to map** doing
-whatever looks fun until you die.
+**PMC only. Pistol only.** Transit from map to map doing whatever looks fun until you die.
 
-**Why it's the best one:** it pays **Fence rep** — goal #2 and the furthest gap on the
-board — costs nothing, and forces stash items into play. Fun that's also progress.
+⚠️ **This is a PMC run, not a scav run.** A scav gives you whatever it gives you — that's
+a different thing entirely. The point here is going in *deliberately* underequipped.
+
+**Why it's the best one:** costs almost nothing, pays out in money and rep, and forces
+stash items into play. Fun that's also progress.
 
 ### 🔫 Stash Rotation Run
 **The assistant picks a gun from the locker that hasn't been used.** Not a favourite. That
