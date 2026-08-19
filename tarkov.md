@@ -134,6 +134,8 @@ All three are mutually exclusive.
 | **Therapist** — `Out of Curiosity` | med case *(own 1)* + documents case |
 | **Prapor** — `Big Customer` | ammo case *(own 2, cheap)* · grenade case |
 
+**📍 `Chemical - Part 4` is on CUSTOMS** ✅*verified from the quest screen*
+
 ## Take Skier's `Chemical - Part 4`
 
 **✅ You already own the documents case**, so the Therapist branch now offers **nothing you
@@ -327,8 +329,11 @@ quest)
 (mark **3 fuel stashes** — barrels in the forest)
 **Reward: ₽93,200 · Ragman +0.1**
 
-**Survivalist Path – Tough Guy** · ? · ? 🆕
-(send me the in-game text)
+**The Survivalist Path – Tough Guy** · Woods · FIGHT ✅*verified* — *Jaeger*
+✓ **NOTHING TO LOOK UP**
+(**kill 3 Scavs in a single raid without using ANY medicine**)
+⚠️ **One raid, and one painkiller ruins it.** Don't heal, don't pop a stim, nothing.
+**Reward: CMS surgical kit ×3 · Pile of meds ×3 · Surv12 field surgical kit · 28,000 EXP**
 
 **Chumming** · Woods + Customs · CHORE ✅*verified*
 (stash 3 golden neck chains — **no Interchange piece**, sources say otherwise and are
@@ -421,6 +426,12 @@ the ambulance by the cottages on Shoreline — interact with the bush next to it
 ## STREETS — 21 open, deferred
 
 Biggest pile, everything at 0%, so it pays last.
+
+**Kings of the Rooftops** · Streets · FIGHT ✅*verified* — *Prapor*
+✓ **NOTHING TO LOOK UP**
+(**kill 8 Sniper Scavs** — they sit on the rooftops)
+**Reward: SV-98 · Toolset · ₽192,225 · Prapor +0.25 · 10,000 EXP**
+> 😏 The SV-98 is on the player's *don't like* list — take it to sell.
 
 **Audiophile** · Streets · FIND
 (find the musician gathering spot, grab the engraved guitar pick, hand it over)
@@ -1416,13 +1427,12 @@ Report:
 `Sew it Good – Part 1` · `Tarkov Shooter – Part 4` *(6%)* · `Fishing Place` ·
 `Easy-Breezy` · `Regulated Materials` · `Arena Business` ·
 `Professional Fitness – Part 1` · `Hiking` · `The Wall Has Eyes` · `The Door` ·
-`King of the Rooftops` · `Survivalist Path – Tough Guy`
+`Survivalist Path – Tough Guy`
 
 ## Also needed
 - **Locations for live 🔍 quests** — `Fuel Crisis` tanks · `Irresistible` crate ·
   `Supervisor` stash points · `The Key to Success` stores · `Needle` kart track and indoor
   playground
-- **`King of the Rooftops`** — undocumented anywhere. Only your screen will have it.
 
 ---
 
