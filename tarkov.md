@@ -2,7 +2,7 @@
 
 **You play. I track.** Quests, stash, and keep/sell calls.
 
-> **PvE · Patch 1.1.0.1.46699 · Unheard · Level 30 · USEC · Stash 4 · ~₽3.85M**
+> **PvE · Patch 1.1.0.1.46699 · Unheard · Level 30 · USEC · Stash 4 · ~₽3.2M**
 
 ## Starting a fresh chat? Paste this whole file in first.
 
@@ -184,34 +184,40 @@ beats anything I look up.**
 
 ---
 
-# ▶ NEXT RAID — Interchange
+# ▶ NEXT RAID — Interchange · 5 left
+
+`Fuel Crisis` and `Pathfinder` done. **No markers needed any more.**
 
 ## 🛒 Bring
-2× MS2000 *(check if Fuel Crisis supplies its own)* · **Goshan + IDEA + OLI cash register
-keys** · **#21WS keycard** *(only if it prices cheap)*
+**Goshan + IDEA + OLI cash register keys** *(all flea-buyable, cheap)*
+**#21WS keycard** — price it, skip `Irresistible` if it's steep
 
-## ✓ Nothing to look up — just do these
-
+## ✓ Just go do it
 | Quest | What |
 |---|---|
-| **Long Line** | kill 4 PMCs |
-| **Pathfinder** | visit Railway Exfil, Emercom Checkpoint, Power Station V-Ex |
-| **👹 Killa** | ⛔ **not a quest yet** — `Sellout` isn't unlocked, so the kill counts for nothing. Fight him for loot or skip him. If you do kill him, **take the helmet** — it keeps FiR status for when the quest unlocks. 🔴 **thorax, not legs** |
+| **Long Line** | kill 4 PMCs · **AA ammo** |
 
 ## 🔍 Look these up
-
 | Quest | What you're finding |
 |---|---|
-| **Supervisor** | 3 stash points for the cash register keys |
+| **Supervisor** | Goshan → BIZARRO fitting rooms · IDEA → Register #9 · OLI → Registers #7-8 |
 | **The Key to Success** | 2 design books, 2 different stores |
-| **Fuel Crisis** | 2 fuel tanks — power station + northern territory |
-| **Needle in a Haystack** | kart track + indoor children's playground |
-| **Irresistible** | the lost weapon crate near Ultra |
+| **Needle in a Haystack** | kart track *(outside)* + indoor children's playground |
+| **Irresistible** 🔑 | the lost weapon crate near Ultra |
 
-**Five lookups, three you can just run.**
+## 🎒 Kit
+**Small map, mixed raid** → light-medium. Interchange interior is close-quarters but
+you'll cover ground between the garages and Ultra.
 
-✅ **Nothing on this card needs you to survive.** Everything banks the moment you do it, so
-play it aggressive. Killa is optional — and right now, nearly pointless.
+**Ammo: AA** — `Long Line` is PMCs, the rest is errands.
+**1 primary + 4–5 mags.** Ammo choice yours as always.
+
+⚠️ **Walk past Killa.** `Sellout` isn't unlocked, so the kill counts for nothing — and
+he's already taken two kits off you.
+
+## 🎒 Hideout grabs
+🔌 **Wires (50) · power cord (20)** · ⚡ **relay · spark plug · CPU fan · corrugated hose**
+· 🥇 **gold** · 🍺 **drinks** · 💻 **GPUs**
 
 ---
 
@@ -391,16 +397,6 @@ registers. All three also drop from Scav pockets and jackets.
 (2 books of clothes design — **History Museum store, on the floor across from the arcade
 machines** · **Knigoed bookstore, central shelf, bottom level**)
 
-**Pathfinder** · Interchange · CHORE ✅*verified* — *Ragman*
-(visit 3 extracts: **Railway Exfil · Emercom Checkpoint · Power Station V-Ex**)
-**Reward: ₽93,200 · Ragman +0.1** — pure walking, no fighting
-
-**Fuel Crisis** · Interchange · CHORE ✅*verified* — *Ragman*
-🎯 **the quest gives you 2 MS2000 — don't buy them**
-(mark **any fuel tank near the power station** and **any fuel tank in the northern
-territory** — the tankers have **German flags** on them, near Ultra)
-**Reward: ₽93,200 · Ragman +0.1**
-
 **Irresistible** · Interchange · FIND ✅*verified*
 🔑 **#21WS keycard — required**
 (**find the lost weapon crate near the Ultra mall**, hand over the cargo)
@@ -575,7 +571,7 @@ check before a hunt and tell me.
 
 # Character
 
-**Level 30 · USEC · PvE · Unheard (Gamma 3×3) · Stash 4 · ₽3,850,137 · €8,088 · $26,475**
+**Level 30 · USEC · PvE · Unheard (Gamma 3×3) · Stash 4 · ₽3,195,691** *(moves fast)*
 
 | Trader | LL | | Trader | LL |
 |---|---|---|---|---|
@@ -599,13 +595,20 @@ flea, insurance, rep — works the same. So normal Tarkov knowledge applies here
 
 # Fence rep — goal #2, and the furthest gap
 
-Kappa wants **3.0** and you're at **LL1**. Three ways to raise it:
+Kappa wants **3.0** and you're at **LL1**.
 
-1. **As a scav, kill PMCs who have killed scavs.** Not any PMC — ones already marked for
-   it.
+### ✅ Goes up
+1. **As a scav, kill PMCs who have killed scavs.** Not any PMC — ones already marked.
 2. **Extract as a scav.** Simple and repeatable.
-3. **As a PMC, extract by car.** Costs money and **depends on your spawn**, so it's not
-   always available — take it when the map offers it.
+3. **As a PMC, extract by car.** Costs money and **depends on your spawn**.
+
+### ❌ Goes down
+1. **Killing scavs while you're a scav** — straight rep loss.
+2. **Killing a boss while you're a scav** — **costs a lot.** Don't.
+
+> ⚠️ **Bosses will attack you as a scav if you annoy them**, and you can't meaningfully
+> fight back in a scav kit. So on a scav run: **don't shoot scavs, don't shoot bosses,
+> don't linger near one.** Walk, loot, extract.
 
 > **This is the slowest thing on your board and the only fix is doing it regularly.**
 > Scav runs are free, so every one you skip is rep you don't get. When you report a raid,
@@ -1565,6 +1568,12 @@ office** at the Health Resort)
 **Wet Job – Part 3** · Shoreline · CHORE
 (mark **Artyom's car** with an MS2000 — yellow, by a yellow bus and a police car near the
 tunnel before the barge — then survive and extract)
+
+**Fuel Crisis** · Interchange · CHORE
+(marked the fuel tank by the power station and one in the northern territory)
+
+**Pathfinder** · Interchange · CHORE
+(visited Railway Exfil, Emercom Checkpoint and Power Station V-Ex)
 
 **Hot Delivery** · Interchange · CHORE
 (6B47 helmet + ComTac 2 headset in the trash at Avokado · Gzhel-K in the trash by the
