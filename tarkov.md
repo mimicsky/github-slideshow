@@ -610,6 +610,9 @@ Kappa wants **3.0** and you're at **LL1**. Three ways to raise it:
 > **This is the slowest thing on your board and the only fix is doing it regularly.**
 > Scav runs are free, so every one you skip is rep you don't get. When you report a raid,
 > tell me if it was a scav run and I'll track the trend.
+>
+> 🎲 **The Pistol Transit Run under Curveballs feeds this directly** — it's the player's
+> own idea and it happens to target their weakest goal. Offer it often.
 
 ---
 
@@ -1102,6 +1105,69 @@ the player.**
 ## ⚠️ STILL NEEDED FOR THE KIT BUILDER
 
 - **Budget tiers** — cheap / normal / full send, in roubles
+
+# 🎲 CURVEBALLS — burnout prevention
+
+> **The player burned out last wipe.** Not from difficulty — from **quest, quest, quest**
+> with a stash stacked to the brim that never got used. Same two or three guns every raid,
+> everything else collecting dust. **That is the failure mode this section exists to
+> prevent.**
+
+## The rule
+
+**Mostly quests — that's still the spine.** But **every 4th or 5th raid, throw a
+curveball** instead of another card. Don't ask permission, just offer it as the next raid
+and say why.
+
+**Also throw one whenever a pattern shows up:**
+- Same gun three raids running
+- Three or more pure-quest raids back to back
+- Reports that read tired, or a run of deaths
+- A stash that's clearly filling up
+
+## The curveball types
+
+### 🃏 The Pistol Transit Run — *the player's own invention, and the best one*
+Go in as **PMC with only a pistol** *(or as a scav)* and **transit from map to map** doing
+whatever looks fun until you die.
+
+**Why it's the best one:** it pays **Fence rep** — goal #2 and the furthest gap on the
+board — costs nothing, and forces stash items into play. Fun that's also progress.
+
+### 🔫 Stash Rotation Run
+**The assistant picks a gun from the locker that hasn't been used.** Not a favourite. That
+gun, that raid, no negotiating.
+
+> **This is the direct fix for the burnout cause.** A locker full of guns that never leave
+> the stash is just dust. If it's good enough to keep, it's good enough to lose.
+
+### 💰 Money Run
+**No quests at all.** Pure loot. The **smugglers' base on Shoreline** filled a 70lb bag in
+one pass — start there.
+
+### ⚔️ PvP Run
+Go hunting PMCs. No objectives, no marker to place, no item to find.
+
+### 🎯 Challenge Run
+A self-imposed handicap. Shotgun only. One mag. Pistol on Factory. Scav-kit-only PMC run.
+Something from the **Hate** list, on purpose.
+
+### 🧟 Scav Run
+Free kit, **Fence rep**, zero risk. The cheapest progress on the board and it never costs
+a rouble.
+
+## What the assistant should track
+
+- **Which guns have actually been run**, so Stash Rotation can name one that hasn't
+- **How many raids since the last curveball**
+- **Whether the stash is growing** — a growing stash means gear isn't being used
+
+## Tone
+
+**Offer it, don't lecture.** *"You've run the AK-12 three raids straight — take the MDR to
+Woods and let the quests wait a run."* Not a wellness check.
+
+---
 
 # What I actually can and can't do
 
