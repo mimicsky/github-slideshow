@@ -238,276 +238,194 @@ While you're there, chip at `One-Way Ticket`.
 
 ---
 
-# QUESTS BY MAP
-
-## CUSTOMS
-
-**Angry Watchman** · Customs · FIGHT · **1/3**
-(kill 3 PMCs — **only counts inside the Dorms zone**)
-
-**The Courier** · Customs · CHORE
-(the quest hands you a REAP-IR — deliver it. ⚠️ yours was lost going MIA, check whether it
-re-issues before you plan this)
-
-**Shipment Tracking** · Customs · ?
-(look up on fandom)
-
-**Thirsty – Delivery** · Customs + Woods · CHORE 🆕
-(Skier mails you **2 propane tanks** — stash one in the **little store by the crossroads**
-on Customs, the other in the **Scav bunker with the radio tower** in the Woods nature
-reserve. **Check your in-game mail for the tanks.**)
-
-*Also here: `Seizing the Initiative`, `Secrets of Polikhim`, `Capturing Outposts`.*
-**Reshala** — Dorms 3-story · New Gas · Fortress. **Guards hold the rooms — bring nades.**
-
-## SHORELINE — 2 left
-
-**Capturing Outposts** · Shoreline · FIGHT · **7/12**
-(PMCs — **Health Resort only**, other zones don't count)
-
-**👹 Sanitar** — Resort or Pier. **Boss #5, still alive.**
-
-## FACTORY — 1 left
-
-**One-Way Ticket** · Factory · FIGHT
-(15 headshots with an AUG — ⚠️ you have to buy the gun. Won't finish in one raid, treat it
-as background on every Factory trip)
-
-**Dragnet** · Factory · BUSY WORK — **SHELVED**
-🔑 TerraGroup storage keycard — level 30 **and** ₽3.5–4.5M
-(more than your whole bank for one quest's Jaeger rep. Only worth it if a keycard drops
-free)
-
-Everything else on Factory is done, **including the Night Factory halves — no night run
-needed.** Tagilla killed here.
-
-## RESERVE
-
-**The Punisher – Part 3** · Reserve · FIGHT + FIND 🆕 ✅*verified from your screen*
-🔫 **needs a 9x39 caliber weapon** — VSS Vintorez · AS VAL · 9A-91 · SR-3M · VSK-94
-(**12 scavs with 9x39 on Reserve** · **7 Lower half-masks found in raid** · hand over)
-**Rewards: KBP VSK-94 9x39 rifle · 5× 7.62x39 PS gzh ammo packs · ₽289,987 · 28,000 EXP**
-
-> 💡 **The two objectives feed each other** — scavs drop lower half-masks, so the same
-> kills that fill the 12 also fill the 7. One trip does both.
-
-**A Fuel Matter** · Reserve · CHORE
-(plant markers at 2 groups of fuel tanks, survive and extract)
-
-**Drip Out – Part 1** · Reserve / Labs · FIGHT + BUSY WORK
-(kill 100 raiders, hand over 50 WARTECH items found in raid — Skier's Chemical P4 gives
-you Labs keycards, and Labs is full of raiders)
-
-**Special Comms** · Woods → Reserve · CHORE
-(arrives here by transit — see Woods)
-
-**Reserve** · **Surplus Goods** · **Back Door** · **Demonstration Model** ·
-**Classified Technologies** · **Safe Corridor** · **Documents** ·
-**No Place for Renegades** · **Revision – Reserve** · **The Bunker** · **Disease History**
-— all Reserve · ? · all 0%
-(look up on fandom, or screenshot them and I'll fill these in properly)
-
-**Glukhar** lives here.
-
-## WOODS
-
-**Special Comms** · Woods → Reserve · CHORE
-(stash the Bulbex cable cutter at the boulder by RUAF gate, then transit to Reserve —
-**you already own the cutter, don't sell it**)
-
-**Informed Means Armed** · Woods · CHORE · **1/2**
-(✅ Kiba Arms done — **only the sawmill dock camera on Woods remains**, and it finishes the
-quest)
-
-**Gratitude** · Woods · CHORE 🆕 ✅*verified* — *Ragman*
-🎒 **the quest supplies the Shemagh (Green) and RayBench Hipster Reserve sunglasses**
-(stash **both at the sawmill docks**)
-**Reward: ₽93,200 · Ragman +0.1**
-
-**Small Things, Big Help** · Woods · CHORE 🆕 ✅*verified* — *Ragman*
-🎯 **the quest supplies 3 MS2000 — don't buy them**
-(mark **3 fuel stashes** — barrels in the forest)
-**Reward: ₽93,200 · Ragman +0.1**
-
-**The Survivalist Path – Tough Guy** · Woods · FIGHT ✅*verified* — *Jaeger*
-✓ **NOTHING TO LOOK UP**
-(**kill 3 Scavs in a single raid without using ANY medicine**)
-⚠️ **One raid, and one painkiller ruins it.** Don't heal, don't pop a stim, nothing.
-**Reward: CMS surgical kit ×3 · Pile of meds ×3 · Surv12 field surgical kit · 28,000 EXP**
-
-**Chumming** · Woods + Customs · CHORE ✅*verified*
-(stash 3 golden neck chains — **no Interchange piece**, sources say otherwise and are
-wrong)
-
-**Thirsty – Delivery** · Woods + Customs · CHORE 🆕
-(stash a propane tank in the **Scav bunker with the radio tower**, nature reserve — tanks
-come from Skier by mail)
-
-**Health Care Privacy – Part 3** · Woods · FIND 🆕
-(take a **blood sample** from the **van of the Health Resort medical services director** —
-a white minivan — then hand over and **survive and extract**)
-⚠️ sources call this **Kappa-required**, but that's pre-rework data. **Check the Collector
-task in game.**
-
-**Huntsman Path – Woods Keeper** · Woods · FIGHT
-(kill Shturman — he's at the sawmill)
-
-**Swift** · **Steady Signal** · **Metal Birds** · **Survivalist Path – Thrifty** ·
-**Shipping Delay – Part 1** · **A Helping Hand** — all Woods · ? · all 0%
-(look up on fandom)
-
-**Shturman** at the sawmill.
-
-## LIGHTHOUSE
-
-**Job for a Patriot** · Lighthouse · Customs · Reserve · FIGHT
-(kill 10 PMCs with an AK-12 built with **its own proprietary suppressor + PS-320 scope** —
-you looted the AK-12 already, buy the two parts)
-
-**Revision – Lighthouse** · Lighthouse · ? · **50%**
-(look up on fandom)
-
-**Huntsman Path – Administrator** · Lighthouse · FIGHT
-(kill Zryachiy — he's on the island)
-
-**The Hermit** · **Missing Cargo** · **Lost Contact** · **Drug Trafficking** ·
-**Easy Job** · **Energy Crisis** · **Corporate Secrets** · **Broadcast – Part 1**
-— all Lighthouse · ? · all 0%
-(look up on fandom)
-
-**Zryachiy** on the island.
-
-## INTERCHANGE
-
-**Supervisor** · Interchange · CHORE ✅*verified* — *Ragman*
-🛒 **carry in 3 keys — all buyable on flea, none need to be found in raid**
-(stash each cash register key at its spot)
-- **Goshan key** → **BIZARRO store fitting rooms**
-- **IDEA key** → **Register #9**
-- **OLI key** → **Register #7-8**
-
-*Where the keys spawn if you'd rather find them:* **Goshan** — bus seat behind the gas
-station on **Customs** · **IDEA** — seat of the white bus outside the IDEA store, or the
-front registers · **OLI** — table in the office at the back of the OLI store, or the front
-registers. All three also drop from Scav pockets and jackets.
-
-**Long Line** · Interchange · FIGHT 🆕 ✅*verified* — *Ragman*
-(**eliminate 4 PMC operatives on Interchange** — 0/4)
-**Reward: ₽93,200 · Ragman +0.1**
-
-**Know Your Place** · Streets → Interchange · FIGHT
-(5 kills on streets, transit, 5 kills on interchange — **all one raid**)
-
-**The Key to Success** · Interchange · FIND 🆕
-(2 books of clothes design — **History Museum store, on the floor across from the arcade
-machines** · **Knigoed bookstore, central shelf, bottom level**)
-
-**Irresistible** · Interchange · FIND ✅*verified*
-🔑 **#21WS keycard — required**
-(**find the lost weapon crate near the Ultra mall**, hand over the cargo)
-**Reward: MPS Auto Assault-12 Gen 1 shotgun · 2× 12/70 flechette packs · €1,922 ·
-28,000 EXP · + an unknown reward** — best single payout on the map
-✅ **Keep the AA-12** — it's on the player's *I'll use* list.
-
-**Killa** in the mall.
-
-## GROUND ZERO
-
-**The Tarkov Butcher** · Ground Zero → Shoreline · FIND + CHORE
-(grab the chemical container from the truck with hanging meat carcasses, then stash it in
-the ambulance by the cottages on Shoreline — interact with the bush next to it.
-**Rewards a key case**)
-
-**Rough Tarkov** · Woods + Ground Zero · ?
-(look up on fandom)
-
-**Partizan** roams here and on Woods.
-
-## STREETS — 21 open, deferred
-
-Biggest pile, everything at 0%, so it pays last.
-
-**Kings of the Rooftops** · Streets · FIGHT ✅*verified* — *Prapor*
-✓ **NOTHING TO LOOK UP**
-(**kill 8 Sniper Scavs** — they sit on the rooftops)
-**Reward: SV-98 · Toolset · ₽192,225 · Prapor +0.25 · 10,000 EXP**
-> 😏 The SV-98 is on the player's *don't like* list — take it to sell.
-
-**Audiophile** · Streets · FIND
-(find the musician gathering spot, grab the engraved guitar pick, hand it over)
-
-**Know Your Place** · Streets → Interchange · FIGHT
-(5 kills streets, transit, 5 kills interchange, one raid)
-
-**Huntsman Path – Big Game** · Streets · FIGHT
-(kill Kaban)
-
-**Cease Fire!** · **Dandies** · **Surveillance** · **The Secret to Productivity** ·
-**Watching You** · **Your Car Needs a Service** · **Road Closed** · **Secret Message** ·
-**House Arrest** · **The Secret Recipe** · **Beyond the Red Meat** · **Paramedic** ·
-**Glory to CPSU** · **District Patrol** · **You've Got Mail** ·
-**Properties All Around** · **Pets Won't Need It** · **Urban Medicine** ·
-**Ballet Lover** · **Create a Distraction – Part 2**
-— all Streets · ? · all 0%
-(look up on fandom)
-
-**Kaban** and **Kollontay** here.
-
-## ANY MAP
-
-**Booze** · any · BUSY WORK
-(collect found in raid: 10 Tarkovskaya vodka, 10 Dan Jackiel whiskey, 3 canisters purified
-water, 20 Pevko Light beer — **start hoarding now, this takes months**)
-
-**Needle in a Haystack** · any location · FIND · **3/6** ✅*verified*
-(investigate 6 spots — **3 done**)
-- ✅ Ground Zero — courtyard park by TerraGroup HQ
-- ✅ Shoreline — coast-side construction site
-- ✅ Shoreline — children's playground by the Health Resort
-- ❌ **Interchange — the kart track**
-- ❌ **Interchange — the indoor children's playground**
-- ❌ **Streets — the children's playground by Concordia**
-**Reward: Ammunition case** · 10,000 EXP
-
-**Weapons Circulation** · any location · CHORE · **1/3** ✅*verified*
-(mark cultist ritual spots with an MS2000)
-- ✅ Shoreline
-- ❌ **Woods — first spot:** west of the sawmill near the checkpoint. Stand at the barrier
-  and line up with the big stone south of it.
-- ❌ **Woods — second spot:** dilapidated village in the north, **north of the church** in
-  a house's backyard
-**Reward: HK 416A5 · 2× Military flash drive · Peacekeeper +0.25 rep** · 10,000 EXP
-
-**Semiconductor Crisis** · any · FIND · **50%**
-(3 graphics cards found in raid — ⚠️ same item the Bitcoin Farm eats, quest first)
-
-**Is This a Reference** · all 9 maps · CHORE
-(plant wifi cameras, 27 objectives total — **Customs cameras already done**)
-
-**A Shooter Born in Heaven** · any · FIGHT · **50%** ⭐ Kappa
-(long-range headshots — look up on fandom for the exact range)
-
-**The Tarkov Shooter – Part 4** · any · FIGHT · **6%** ⭐ Kappa
-(sniper kills at range — look up on fandom)
-
-**Car Repair** · any · ? · **62%**
-(look up on fandom)
-
-**Aid Stations** · any · ? · **33%**
-(look up on fandom)
-
-**Dressed to Kill** · any · ? · **12%**
-(look up on fandom)
-
-**Sew it Good – Part 1** · any · ? · 0% ⭐ Kappa chain
-(look up on fandom)
-
-**Survivalist Path – Wounded Beast** · **Fishing Place** · **Easy-Breezy** ·
-**Weapons Circulation** · **Regulated Materials** · **Arena Business** ·
-**Professional Fitness – Part 1** · **Master Key** · **Hiking** · **The Wall Has Eyes** ·
-**The Door** · **King of the Rooftops**
-— any · ? · all 0%
-(look up on fandom — `King of the Rooftops` isn't documented anywhere, send me its text)
+# QUESTS BY MAP — full board, ~100 active
+
+**Transcribed from the player's quest screen.** Class = trader loyalty level. Type icon:
+🎯 elimination · 🔍 search · ✋ pickup/handover · ⭐ unknown icon.
+
+> ⚠️ **"Any location" in the Location column means "not tied to one map" — NOT "works
+> anywhere."** Confirmed: `Job for a Patriot` shows Any but is Streets/Shoreline/Ground
+> Zero only. `Supervisor` shows Any but is Interchange. `Chumming` shows Any but is Woods
+> + Customs. **Always read the objectives, never the column.**
+
+---
+
+## 🏭 CUSTOMS — 5
+
+| Quest | Class | Type | |
+|---|---|---|---|
+| **The Huntsman Path – Angry Watchman** **1/3** | I | ✋ | ✓ 3 PMCs, **Dorms zone only** |
+| **The Courier** | I | ⭐ | 🔍 quest supplies a REAP-IR · **can't go in a container** · one was lost MIA |
+| **Chemical – Part 4** ⭐*Kappa* | III | ✋ | 🔍 **the Skier branch — see the decision section** |
+| ~~Big Customer~~ | III | ✋ | 🚫 **NEVER COMPLETE** — kills Chemical P4 |
+| ~~Out of Curiosity~~ | III | ✋ | 🚫 **NEVER COMPLETE** — kills Chemical P4 |
+
+## 🌲 WOODS — 12
+
+| Quest | Class | Type | |
+|---|---|---|---|
+| **Gratitude** | I | ✋ | 🔍 stash Shemagh + RayBench sunglasses at the **sawmill docks** · *quest supplies both* |
+| **Small Things, Big Help** | I | ✋ | 🔍 mark **3 fuel stashes** · *quest supplies 3 MS2000* |
+| **Informed Means Armed** **1/2** | I | ✋ | 🔍 camera at the **sawmill dock** — finishes the quest |
+| **The Survivalist Path – Tough Guy** | III | ✋ | ✓ **3 Scavs, one raid, NO medicine at all** |
+| **Health Care Privacy – Part 3** | III | 🔍 | 🔍 blood sample from the **director's white minivan** · survive & extract |
+| **The Huntsman Path – Woods Keeper** | I | ✋ | ✓ kill **Shturman** (sawmill) |
+| **Hiking** | I | 🎯 | ✓ |
+| **Swift** | I | 🎯 | ✓ |
+| **Steady Signal** | I | 🔍 | 🔍 |
+| **Metal Birds** | I | ✋ | 🔍 |
+| **The Survivalist Path – Thrifty** | III | ✋ | 🔍 |
+| **Shipping Delay – Part 1** | III | ✋ | 🔍 |
+| **A Helping Hand** | III | 🔍 | 🔍 |
+
+*Also here: `Weapons Circulation` 2 ritual spots · `Chumming` · `Thirsty – Delivery`
+(Scav bunker with the radio tower) · `Special Comms` (Bulbex cutter at the RUAF boulder).*
+
+## 🏖 SHORELINE — 1
+
+| Quest | Class | Type | |
+|---|---|---|---|
+| **Wet Job – Part 4** | III | ✋ | 🔍 **list of Health Resort tenants — administration office** |
+
+*Plus `Capturing Outposts` **7/12** (Health Resort only) and **Sanitar**, still unspawned.*
+
+## 🛍 INTERCHANGE — 3
+
+| Quest | Class | Type | |
+|---|---|---|---|
+| **Long Line** | I | 🎯 | ✓ **4 PMCs** |
+| **The Key to Success** | II | ✋ | 🔍 2 design books — History Museum store · Knigoed bookstore |
+| **Irresistible** | III | 🔍 | 🔍 lost weapon crate near Ultra · 🔑 **#21WS keycard** |
+
+*Plus `Supervisor` — 3 cash register keys: Goshan → BIZARRO fitting rooms · IDEA →
+Register #9 · OLI → Registers #7-8.*
+**👹 Killa** — `Sellout` not unlocked, so the kill is worthless right now.
+
+## 🏰 RESERVE — 13
+
+| Quest | Class | Type | |
+|---|---|---|---|
+| **The Punisher – Part 3** | III | 🎯 | ✓ **12 Scavs w/ 9x39** + 7 lower half-masks FiR · 🔫 **buy an AS VAL** |
+| **A Fuel Matter** | III | ✋ | 🔍 mark 2 fuel tank groups · survive & extract |
+| **Reserve** | III | ✋ | 🔍 |
+| **Demonstration Model** | III | 🎯 | ✓ |
+| **Classified Technologies** | III | ✋ | 🔍 |
+| **Safe Corridor** | III | 🎯 | ✓ |
+| **Documents** | III | ✋ | 🔍 |
+| **No Place for Renegades** | III | 🎯 | ✓ |
+| **Surplus Goods** | III | 🔍 | 🔍 |
+| **Back Door** | III | ✋ | 🔍 |
+| **Revision – Reserve** | III | ✋ | 🔍 |
+| **The Bunker** | III | ✋ | 🔍 |
+| **Disease History** | III | ✋ | 🔍 |
+
+**👹 Glukhar.** *Also `Drip Out – Part 1` (100 Raiders) and `Special Comms` arrives here.*
+
+## 🗼 LIGHTHOUSE — 10
+
+| Quest | Class | Type | |
+|---|---|---|---|
+| **The Huntsman Path – Administrator** | III | ✋ | ✓ kill **Zryachiy** (island) |
+| **Revision – Lighthouse** **50%** | III | 🔍 | 🔍 |
+| **The Hermit** | III | 🔍 | 🔍 |
+| **Missing Cargo** | III | 🔍 | 🔍 |
+| **Lost Contact** | III | 🔍 | 🔍 |
+| **Drug Trafficking** | III | ✋ | 🔍 |
+| **Easy Job** | III | 🔍 | 🔍 |
+| **Energy Crisis** | III | 🔍 | 🔍 |
+| **Corporate Secrets** | III | 🔍 | 🔍 |
+| **Broadcast – Part 1** | III | ✋ | 🔍 |
+
+## 🏭 FACTORY — 3
+
+| Quest | Class | Type | |
+|---|---|---|---|
+| **One-Way Ticket** | II | 🎯 | ✓ **15 AUG headshots** — ⚠️ buy the gun |
+| **The Walls Have Eyes** | II | 🔍 | 🔍 *(was mis-recorded as "The Wall Has Eyes")* |
+| **Dragnet** | II | 🔍 | 🚫 **shelved** — keycard is ₽3.5–4.5M |
+
+## 🌆 STREETS OF TARKOV — 24
+
+| Quest | Class | Type | |
+|---|---|---|---|
+| **Kings of the Rooftops** | II | ✋ | ✓ **8 Sniper Scavs** · reward SV-98 *(sell)* |
+| **The Huntsman Path – Big Game** | II | 🎯 | ✓ kill **Kaban** |
+| **Audiophile** | III | ✋ | 🔍 musician spot → engraved guitar pick |
+| **The Door** | III | 🔍 | 🔍 |
+| **Cease Fire!** | II | ✋ | 🔍 |
+| **Dandies** | II | 🎯 | ✓ |
+| **Surveillance** | II | ✋ | 🔍 |
+| **The Secret to Productivity** | II | 🔍 | 🔍 |
+| **Watching You** | II | ✋ | 🔍 |
+| **Your Car Needs a Service** | II | ✋ | 🔍 |
+| **Road Closed** | II | ✋ | 🔍 |
+| **Secret Message** | II | 🎯 | ✓ |
+| **House Arrest** | II | ✋ | 🔍 |
+| **The Secret Recipe** | II | ✋ | 🔍 |
+| **Beyond the Red Meat** | II | ✋ | 🔍 |
+| **Paramedic** | II | ✋ | 🔍 |
+| **Glory to CPSU** | II | ✋ | 🔍 |
+| **District Patrol** | II | 🎯 | ✓ |
+| **You've Got Mail** | II | ✋ | 🔍 |
+| **Properties All Around** | II | ✋ | 🔍 |
+| **Pets Won't Need It** | II | 🔍 | 🔍 |
+| **Urban Medicine** | II | ✋ | 🔍 |
+| **Ballet Lover** | II | ✋ | 🔍 |
+| **Create a Distraction – Part 2** [PVE ZONE] | III | 🎯 | ✓ |
+
+**👹 Kaban · Kollontay.** *Plus `Know Your Place!` arrives here and `Job for a Patriot`
+counts here.*
+
+## 🚉 TRANSITION — 4
+
+| Quest | Class | Type | |
+|---|---|---|---|
+| **Secrets of Polikhim** | II | 🎯 | 🔍 precision tools package in the **Customs med lab** → transit to Factory |
+| **New Paths** | I | 🔍 | 🔍 |
+| **Know Your Place!** | III | 🎯 | ✓ **5 kills Streets → transit → 5 kills Interchange, ONE RAID** |
+| **Special Comms** | III | 🔍 | 🔍 Bulbex cutter at the RUAF boulder on Woods → transit to Reserve |
+
+## 🌍 ANY LOCATION — 25
+
+> **Read the objectives. "Any location" ≠ anywhere.**
+
+| Quest | Class | Type | |
+|---|---|---|---|
+| **Capturing Outposts** **7/12** | II | 🎯 | ✓ PMCs, **scav bases only** — Customs · Woods · Shoreline |
+| **Job for a Patriot** **8/10** | II | 🎯 | ✓ 10 PMCs w/ the Prapor AK-12 — **Streets · Shoreline · Ground Zero only** |
+| **Supervisor** | II | ✋ | 🔍 **Interchange** — 3 cash register keys |
+| **Chumming** | II | ✋ | 🔍 **Woods + Customs** — 3 golden neck chains |
+| **Thirsty – Delivery** | III | ✋ | 🔍 **Customs + Woods** — Skier mails 2 propane tanks |
+| **The Tarkov Butcher** | II | ✋ | 🔍 Ground Zero meat truck → Shoreline ambulance |
+| **Informed Means Armed** | I | ✋ | 🔍 **Woods camera left** |
+| **Weapons Circulation** **1/3** | II | 🔍 | 🔍 **2 Woods ritual spots left** |
+| **Needle in a Haystack** **3/6** | III | 🔍 | 🔍 Interchange kart track · Interchange indoor playground · Streets playground by Concordia |
+| **Drip-Out – Part 1** | III | ✋ | ✓ **100 Raiders** + 50 WARTECH FiR · **AP ammo + sidearm** |
+| **Booze** | III | ✋ | ✓ 10 vodka · 10 whiskey · 3 purified water · 20 Pevko — **all FiR** |
+| **Semiconductor Crisis** **50%** | III | ✋ | ✓ 3 GPUs FiR — ⚠️ **before the Bitcoin Farm eats them** |
+| **Shooter Born in Heaven** **50%** ⭐*Kappa* | ⭐ | 🎯 | ✓ long-range headshots |
+| **The Tarkov Shooter – Part 4** ⭐*Kappa* | III | 🎯 | ✓ |
+| **Sew it Good – Part 1** ⭐*Kappa chain* | III | ✋ | 🔍 |
+| **Is This a Reference?** | III | ⭐ | 🔍 WI-FI cameras, all 9 maps — **Customs done** |
+| **Car Repair** **62%** | III | ✋ | 🔍 |
+| **Aid Stations** **33%** | II | ✋ | 🔍 |
+| **Dressed to Kill** **12%** | I | ✋ | 🔍 |
+| **Rough Tarkov** | I | 🔍 | 🔍 Woods + Ground Zero |
+| **Fishing Place** | III | ✋ | 🔍 |
+| **Easy-Breezy** | III | 🎯 | ✓ |
+| **Regulated Materials** | ? | ✋ | 🔍 |
+| **Arena Business** [PVE ZONE] | III | ✋ | 🔍 |
+| **Professional Fitness – Part 1** [PVE ZONE] | III | ✋ | 🔍 |
+
+---
+
+## ❓ Two icons I can't read
+
+**⭐ in the Type column** — on `The Courier` and `Is This a Reference?`. Not the crosshair,
+magnifier or hand. **Ask the player.**
+
+**⭐ in the Class column** — on `Shooter Born in Heaven` and `Semiconductor Crisis` it looks
+like an arrow rather than I/II/III. Possibly "Elite" or a special tier. **Ask.**
 
 ---
 
