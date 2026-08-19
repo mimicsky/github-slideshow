@@ -1167,10 +1167,12 @@ a rouble.
 ### 👹 Boss Hunt
 **Pick one boss. Go only for him. Ignore every quest on the map.**
 
-Seven left — Sanitar, Killa, Glukhar, Shturman, Kaban, Kollontay, Zryachiy. It's the
-player's own goal, it's a pure fight, and it's the kind of raid where dying costs nothing
-but the kit. **Sanitar has never once spawned for them**, so that's an easy one to keep
-offering.
+Seven left — Sanitar, Killa, Glukhar, Shturman, Kaban, Kollontay, Zryachiy.
+
+⚠️ **Always name a fallback, because he might not spawn.** Check
+[eftboss.com](https://eftboss.com) first if possible. If the boss isn't there, the raid
+becomes a **loot run or a PvP run** — never a wasted trip. Say the fallback up front so it
+doesn't feel like a bust.
 
 ### 🔩 Hideout Run
 **No quests. Loot for the hideout only.**
@@ -1181,18 +1183,24 @@ Intelligence Center 3 *(flea fee −30%)*. Pick a map with good industrial loot 
 bag.
 
 ### 💎 Full Send
-**Take the single most expensive kit in the stash and actually use it.**
+**Take the single most expensive kit in the stash to the hardest map available.** Labs,
+Reserve, wherever the fight is real. **Not somewhere easy** — a best-in-slot kit on a soft
+map proves nothing and risks nothing.
 
 The mirror image of Stash Rotation. That one says *use the gun you never touch* — this one
 says **use the gun you're saving.** Both attack the same disease: gear sitting in a locker
-doing nothing. If it's too good to lose, it's already wasted.
+doing nothing. **If it's too good to lose, it's already wasted.**
 
-### 🗺 Map Tourist
-**Go somewhere never run, with no objectives at all.** Just learn the place.
+### 🥋 Hobo Run
+**Go in with nothing.** No armor, no rig, a starter gun or fists. **Kill someone and wear
+what they were wearing**, then extract in it.
 
-**Streets is 21 quests at 0%. Lighthouse is 10.** That's roughly a third of the board sat
-untouched because the maps are unfamiliar. A casual no-pressure lap removes that barrier
-far better than showing up cold with a quest list.
+Pure skill, zero investment, and the best story of the week when it works.
+
+### 🌙 Night Run
+**Force a night raid.** Different map entirely once the lights go out — different routes,
+different fights, different pace. The player already ran one for `Thirsty – Hounds` and it
+went well.
 
 ## What the assistant should track
 
