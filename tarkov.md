@@ -10,9 +10,34 @@ Everything is here. Nothing important lives in chat history.
 
 **Two standing rules:**
 
-1. **Nothing is done unless you say so.** I never guess from a progress bar.
-2. **Your in-game text beats every source.** It has been right every single time we've
-   disagreed.
+1. **Nothing is done unless you say so.** Never guess from a progress bar.
+2. **The player's in-game text beats every source.** It has been right every single time
+   the two disagreed — a dozen-plus corrections are logged in *Confirmed objectives*.
+
+### What this file contains
+
+| Section | |
+|---|---|
+| **Quest format** · **How quests are shaped** | the 🔍/✓ rule and the four quest types |
+| **Chemical Part 4** | the decision — settled, take Skier's |
+| **Confirmed objectives** | ground truth from the player's screen. **Beats everything.** |
+| **Next raid** · **Quests by map** | the card, and all ~100 active quests |
+| **Bosses · Kappa · Character · Fence rep · Insurance · Skills · Goals** | state and targets |
+| **Hideout** | paused — see the note for why |
+| **Keep or sell · Stash rules · Hard lessons** | including the Killa and REAP-IR lessons |
+| **How this works** | the working model — player supplies facts, assistant does bookkeeping |
+| **🎒 Kit builder** | 4 modes, weight matrix, full gun rankings, ammo doctrine |
+| **🎲 Curveballs** | 11 raid types, to stop the burnout that killed last wipe |
+| **What I can and can't do** | capability limits and the error log that produced them |
+| **Moving to desktop** · **`begin research`** | setup and the standing research protocol |
+| **The plan** · **Research queue** | what's done, what's next |
+| **✅ Complete** | every finished quest, kept for the prestige run |
+
+### Where things stand
+
+**Level 30 · ₽3.2M · ~100 active quests · 4 of 11 bosses · hideout ~400 items short**
+
+**Next:** the hideout tally rebuild, then desktop setup, then `begin research`.
 
 ---
 
@@ -1313,12 +1338,10 @@ Report:
 
 # 🗂 THE PLAN — in order
 
-**1. Quest screenshot dump** ← *doing this now*
-Player sends their whole quest list, page by page. Assistant transcribes and files every
-unknown — Reserve's 11, Lighthouse's 8, most of Streets, Woods' 7. **No verification
-needed; it's their screen.**
+**1. Quest screenshot dump** — ✅ **DONE**
+All ~100 quests transcribed from the player's screen. Every map filled in, no blanks.
 
-**2. Hideout tally rebuild**
+**2. Hideout tally rebuild** ← *next*
 The old tally counted shortfalls, but every panel reads X/Y from the **same stash** — a ✓
 in three modules can be the same ten items. Needs **names for the items that showed as
 satisfied**, especially the gold/tan branching thing *(28 across Shooting Range, Vents and
@@ -1341,44 +1364,52 @@ Claude Code + a browser tool on the player's PC.
 
 # 📋 RESEARCH QUEUE
 
-~50 quests where I have a name and a map and nothing else.
+> ✅ **The name-gathering job is DONE.** The screenshot dump filled every blank — all ~100
+> quests now have a name, map, class and type. **Research is no longer about finding
+> quests. It's about finding places.**
 
-## Streets of Tarkov — ~20
-`Huntsman Path – Big Game` · `Cease Fire!` · `Dandies` · `Surveillance` ·
-`The Secret to Productivity` · `Watching You` · `Your Car Needs a Service` · `Road Closed` ·
-`Secret Message` · `House Arrest` · `The Secret Recipe` · `Beyond the Red Meat` ·
-`Paramedic` · `Glory to CPSU` · `District Patrol` · `You've Got Mail` ·
-`Properties All Around` · `Pets Won't Need It` · `Urban Medicine` · `Ballet Lover` ·
-`Create a Distraction – Part 2`
+## What research still needs to produce
 
-## Reserve — 11
-`Reserve` · `Surplus Goods` · `Back Door` · `Demonstration Model` ·
-`Classified Technologies` · `Safe Corridor` · `Documents` · `No Place for Renegades` ·
-`Revision – Reserve` · `The Bunker` · `Disease History`
+### 1. Locations for every 🔍 quest
+Roughly **75 quests are tagged 🔍**, meaning the objective names a spot the text doesn't
+locate. That's the whole job now. **Biggest untouched blocks:**
 
-## Lighthouse — 8
-`Revision – Lighthouse` *(50%)* · `The Hermit` · `Missing Cargo` · `Lost Contact` ·
-`Drug Trafficking` · `Easy Job` · `Energy Crisis` · `Corporate Secrets` ·
-`Broadcast – Part 1`
+- **Streets — 20 of its 24 are 🔍.** Almost nothing is known about any of them.
+- **Lighthouse — 10 of 10 are 🔍.** Nothing known.
+- **Reserve — 11 of 13 are 🔍.** Only Punisher P3 and A Fuel Matter have detail.
+- **Woods — 6 unknowns** *(Steady Signal, Metal Birds, Thrifty, Shipping Delay P1, A
+  Helping Hand, Hiking, Swift)*
 
-## Woods — 7
-`Swift` · `Steady Signal` · `Metal Birds` · `Survivalist Path – Thrifty` ·
-`Shipping Delay – Part 1` · `A Helping Hand` · `Rough Tarkov`
+### 2. The full armor system
+Every carrier, armored rig, vest and plate — slot, class, material, weight,
+movement/turn/ergo penalty, price. Plus **which of the player's seven is which type**:
+THOR CRV · AVS · WARTECH TV-110 · Korund-VM · Defender-2 · Thunderbolt · Osprey MK4A.
 
-## Customs — 1
-`Shipment Tracking`
+### 3. Budget tiers
+**Delegated to the desktop session.** With gun prices, armor prices and stash contents
+available, work out what **cheap / normal / full send** actually mean in roubles and write
+them in. Also defines "cheap kit" for the Hobo Streak.
 
-## Any map — ~8
-`Car Repair` *(62%)* · `Aid Stations` *(33%)* · `Dressed to Kill` *(12%)* ·
-`Sew it Good – Part 1` · `Tarkov Shooter – Part 4` *(6%)* · `Fishing Place` ·
-`Easy-Breezy` · `Regulated Materials` · `Arena Business` ·
-`Professional Fitness – Part 1` · `Hiking` · `The Wall Has Eyes` · `The Door` ·
-`Survivalist Path – Tough Guy`
+### 4. The post-1.0 weapon roster
+The player's tier list predates 1.0 and the Season 1 Kord breach. **Return only guns not
+already ranked** — confirmed missing so far: **NL545 GP**, and unexplained absences of
+**Desert Eagle · SR-3M · MP-153**.
 
-## Also needed
-- **Locations for live 🔍 quests** — `Fuel Crisis` tanks · `Irresistible` crate ·
-  `Supervisor` stash points · `The Key to Success` stores · `Needle` kart track and indoor
-  playground
+### 5. Upcoming and endgame quests
+Next part of every chain in progress, plus the quest lines on **Terminal, Ice Breaker and
+The Labyrinth** — locked endgame maps that do carry quests.
+
+## ❓ Open questions for the player
+
+- **⭐ Type-column icon** on `The Courier` and `Is This a Reference?` — not crosshair,
+  magnifier or hand. What is it?
+- **⭐ Class-column icon** on `Shooter Born in Heaven` — looks like an arrow, not I/II/III.
+  Elite tier?
+- Are any quests **gated behind a skill level**?
+- Did `Fuel Crisis` supply its own MS2000s? *(academic now — it's done)*
+- **Hideout:** names for the items that showed as ✓ — the gold/tan branching thing
+  *(28 across Shooting Range, Vents, Generator)*, the blue/white tool *(18)*, the battery
+  *(11)*, and about a dozen smaller ones.
 
 ---
 
