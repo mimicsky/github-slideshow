@@ -1000,11 +1000,56 @@ Benelli M3 = "M3 Super 90m" · RPD = "RPDN"
 > NamuWiki are both blocked here. **Anything added in 1.0 is probably missing.** A verified
 > full list is a `begin research` job.
 
+## 🛡 ARMOR — the system, as far as it's understood
+
+**Two ways to wear it:**
+
+1. **Plate carrier** *(armor slot)* + a separate rig on top — flexible, pick material and
+   class per plate slot
+2. **Armored rig** *(rig slot)* — storage and protection in one, locked to what it takes
+
+**Soft armor is the baseline.** Every rig and carrier has built-in fabric armor, but it's
+only **class 2–3**. **The plates are the real protection**, and they're where the weight
+comes from. Rigs take **2–4 plates** depending on the model.
+
+**Material decides heavy vs light:**
+
+| Heavy | Light |
+|---|---|
+| Steel · Ceramic · Combined Materials · Titan | Aramid · Aluminum · UHMWPE |
+
+*(Hover any insert to read its material.)*
+
+**Since 0.14, armor only protects the exact zones shown on the model** — no more blanket
+coverage.
+
+> 💰 **The key reframe: heavy vs light is a money question, not a protection one.**
+> **UHMWPE reaches class 6 while still counting as light**, and holds durability far better
+> than ceramic. Steel gets you class 5–6 cheap and slow; UHMWPE gets you class 6 light and
+> fast for a lot more roubles. So the armor decision and the budget decision are the same
+> decision.
+>
+> Reported 2026 meta: **LBT-6094A Slick plate carrier** — takes class 6, **0% movement,
+> turn and ergonomics penalty** — with UHMWPE class 6 plates *(KITECO SC-IV SA, GAC
+> 4sss2)*. ⚠️ web-sourced, unverified.
+
+### 🔬 ARMOR IS A RESEARCH JOB — handed to the desktop session
+
+The player has deferred this. **`begin research` should cover the full armor system:**
+
+- Every **plate carrier**, **armored rig** and **armor vest** — which slot, how many plate
+  slots, soft armor class, weight, movement/turn/ergo penalty
+- Every **plate** — class, material, weight, durability, price
+- **Which of the player's seven are carriers vs armored rigs vs vests:** THOR CRV · AVS ·
+  WARTECH TV-110 · Korund-VM · Defender-2 · Thunderbolt · Osprey MK4A
+- Which plates the player owns, and their material
+
+**Until that's done the kit builder names guns and quest items only, and leaves armor to
+the player.**
+
 ## ⚠️ STILL NEEDED FOR THE KIT BUILDER
 
-- **Armor style** — heavy and slow, or light and fast
 - **Budget tiers** — cheap / normal / full send, in roubles
-- Rankings for the categories above, especially **9x39**
 
 # What I actually can and can't do
 
@@ -1081,7 +1126,12 @@ Work in this order:
 2. **Upcoming quests** — the next part of every chain currently in progress, plus the
    quest lines on the **locked endgame maps (Terminal, Ice Breaker, The Labyrinth)**, so
    the player knows what's coming before it unlocks
-3. **Anything else this folder needs** — key requirements and prices, boss mechanics and
+3. **The full armor system** — see the Armor section. Carriers, armored rigs, vests,
+   plates: slot, class, material, weight, penalties, price. This one is explicitly
+   delegated to research.
+4. **The current weapon roster** — the player's tier list predates 1.0, so anything added
+   since is missing. Return **only guns not already ranked** in this file.
+5. **Anything else this folder needs** — key requirements and prices, boss mechanics and
    spawn locations, item spawn spots, what unlocks what, trader loyalty requirements
 
 ### For each quest
