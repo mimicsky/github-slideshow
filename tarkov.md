@@ -904,7 +904,8 @@ requirement and Basic Kit is picking from the rotation, favour them. Good defaul
 **M590A1** · **DVL-10** · **T-5000** · **AXMC** · **MK-18 Mjölnir** ·
 **Glock 17** · **Glock 18C** · **P226R** · **FN 5-7** ·
 **USP** 💛 *(player's words: "I freaking love this gun")* · **SAG AK** · **SAG AK Short** ·
-**Glock 19x** · **Sako TRG M10** · **M32A1** · **FN40GL** *(both grenade launchers)*
+**Glock 19x** · **Sako TRG M10** · **M32A1** · **FN40GL** *(both grenade launchers)* ·
+**AUG A3** ⚠️ *only when it can be modded — that's the whole appeal*
 
 ### 👍 I'LL USE
 **MCX** · **SA-58** · **TX-15 DML** · **AK-545 Short** · **SR-3M** *(9x39)* ·
@@ -927,9 +928,10 @@ AK-101 · AK-102 · AK-103 · AK-104 · AK-12 · AKMN · AKMS · AKMSN.
 **MP-133** · **KS-23M** · **MP-43 sawed-off** · **M1A** · **SV-98** · **MP-443 Grach** ·
 **SR-1MP** · **SVT-40** · **AVT-40** · **Chiappa Rhino 50DS / 200DS** · **AUG A3** ·
 **ADAR 2-15** · **VPO-215 Gornostay** · **MP-43-1C**
+*(AUG A3 moved to Like — it was here.)*
 
 ### 🚫 HATE
-**AUG A1** · **G36** · **Vepr KM** · **VPO-209** · **VPO-101** · **ASh-12** · **STM-9** ·
+**AUG A1** *(the look, and it can't really be modded)* · **G36** · **Vepr KM** · **VPO-209** · **VPO-101** · **ASh-12** · **STM-9** ·
 **Saiga-9** · **PP-91 Kedr** · **Kedr-B** · **PP-9 Klin** · **PPSh-41** ·
 **MTs-255-12** · **TOZ-106** · **PM** · **PB** · **TT** · **APS** · **APB** · **MP-18**
 
@@ -961,7 +963,7 @@ uses this; Basic Kit uses the preference tiers above.
 
 | | |
 |---|---|
-| **AUG A1 / AUG A3 are S-tier** | and the player **hates** both. The single biggest gap. Optimal would always pick one; Basic Kit never will. |
+| **AUG A1 is S-tier** | and the player **hates** it — the look, and it can't meaningfully be modded. Optimal would pick it; Basic Kit never will. *(AUG A3 is fine, and liked, as long as it's modded.)* |
 | **USP is D-tier** | and it's the player's favourite pistol *("I freaking love this gun")*. Taste wins. |
 | **M590A1 · M870 are F-tier** | player likes/uses both |
 | **SKS · OP-SKS are A-tier** | player doesn't like either |
