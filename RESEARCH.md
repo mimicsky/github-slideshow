@@ -50,11 +50,6 @@ all six are done.
 
 ---
 
-### 3. ⚔️ CURRENT META KITS AND BUILDS
-
-What people are actually running right now — gun builds, armor setups, the standard
-"good kit" at various budgets. **Community sources over wiki.**
-
 ### 4. 📊 THE THREE 1.0 TIER LISTS — guns · armor · ammo
 
 The gun tier list in `tarkov.md` **predates 1.0 and the Kord breach** — it's missing the
@@ -164,7 +159,76 @@ permanently. ✅*player-confirmed*
 
 ## 🔬 RESULTS — researched, waiting to be read
 
-*(empty — requests 1 and 2 were read and merged 20 Aug)*
+### ✅ REQUEST 3 — CURRENT META KITS AND BUILDS
+
+⚠️ **web-sourced, unverified** · community build guides, current for 1.0.x.
+
+#### 🔴 The principle every source repeats
+
+> **"Ammo is significantly more important than the weapon itself."**
+
+**This is the same conclusion request 1 reached from the other direction.** Your guns are
+fine. Your **45–48 pen ceiling** is the problem. Every rouble spent on a fancier handguard
+is a rouble not spent on better rounds.
+
+⭐ **And a mechanic change that saves you money:** **patch 1.0.4.5 decoupled recoil from
+handguards.** Expensive handguards no longer carry the build. **Stop paying for them.**
+
+---
+
+#### 🏆 THE S-TIER LIST — and you already own most of it
+
+| Meta gun | ~Cost | Your status |
+|---|---|---|
+| **DT MDR 7.62x51** | ~250k | 🔴 **"The undisputed best gun in the game."** ⚠️ **Your MDRs are the 5.56 version** — the 7.62x51 is a different, better gun. **Worth buying** |
+| **Mk47 Mutant** | ~350k | ✅ **OWNED · top favourite ·** and it fires **7.62x39 BP, your best round at 47 pen.** Your best gun *is* meta |
+| **AUG A3** | ~200k | ✅ owned-ish — **"exceptional ergonomics."** Your note says it's only worth it modded; the meta agrees |
+| **Vector 9x19** | ~120k | ✅ on your "I'll use" list — **"undisputed king of SMGs," 1100 RPM** |
+| **DVL-10 Saboteur** | ~220k | ✅ **OWNED** — **integrally suppressed bolt-action.** S-tier and quiet |
+| **RSASS** | ~350k | ⭐ **"Best semi-auto DMR."** **Your `Wet Job` chain rewards one** — already flagged as a keep in your file |
+| **RPK-16** | ~280k | ✅ **OWNED ×2** — S-tier **with 95-round drums and BS ammo.** ⚠️ BS is **Prapor LL4 = level 36** |
+| **FN Five-seveN MK2** | ~60k | ✅ **"The best pistol in Tarkov,"** 20-round mags. You have the 5-7 |
+| **MP-155 Ultima** | ~180k | ✅ MP-155 is on your list — **"the absolute best shotgun in Tarkov"** |
+
+> ⭐ **Read that table again: you are already holding the meta.** Mutant, DVL-10, RPK-16 ×2,
+> AUG, 5-7. **The only genuine gap is the 7.62x51 MDR** — and the RSASS arrives free via
+> `Wet Job`.
+
+---
+
+#### 💰 THE BUDGET TIER — what "cheap kit" actually means
+
+- **Mosin Infantry + PS ammo — under ₽20,000 total.** **Kills any armour tier with a
+  headshot.** This is the real answer to your Hobo Streak and to `Swift`-style no-armor runs
+- **7.62x39 PS — 32 pen, 57 damage.** The budget gold standard; handles early armor and
+  drops unarmoured targets instantly
+- **PP-19-01 Vityaz — ₽21,000 at Prapor LL2**, and it has a **built-in dovetail** so you skip
+  the sight adapter. **EKP-8-02 reflex for ₽9,900** and you have a complete CQB gun for
+  ~₽31k. *(Vityaz is on your "I'll use" list)*
+
+---
+
+#### 🛡 ARMOR SIDE — nothing to buy
+
+Your armor research already settled this: **you own the two best carriers in the game
+(CPC MOD.1 and CPC Goons)** plus a **class 6 Zhuk**, and **no trader sells a class 6 plate at
+any loyalty level.** There is no armor upgrade available to you for money — only for loot.
+
+**So the meta kit for you, concretely:**
+
+| Budget | Gun | Armor | Head |
+|---|---|---|---|
+| **Hobo** | **Mosin + PS** *(₽20k)* | Thunderbolt | none |
+| **Normal** | **Mutant + 7.62x39 BP** | **CPC MOD.1** | MTEK FLUX |
+| **Fight / boss** | **Mutant BP** or **DVL-10** | **Zhuk** | Altyn *(accept the sound loss)* |
+| **Quiet** | **DVL-10** *(integrally suppressed)* | CPC MOD.1 | FLUX + headset |
+
+---
+
+### 📋 THE ONE-LINE TAKEAWAY
+
+**Stop shopping for guns. You own the meta.** The two things worth buying are **a 7.62x51
+MDR** and **better ammo at level 36** — and the second one matters more than the first.
 
 ---
 
@@ -183,6 +247,7 @@ permanently. ✅*player-confirmed*
 
 | Date | Session | What changed |
 |---|---|---|
+| 2026-08-20 | desktop | **REQUEST 3 DONE → RESULTS.** Meta kits/builds. Finding: **the player already owns most of the S-tier** — Mutant *(their favourite, and it fires their best round)*, DVL-10, RPK-16 ×2, AUG, 5-7. **Only real gap: the 7.62x51 MDR** — their MDRs are the 5.56 version. Every source repeats **"ammo matters more than the gun,"** confirming request 1's pen-ceiling conclusion. Also: **1.0.4.5 decoupled recoil from handguards — stop paying for them.** Budget tier documented *(Mosin+PS under ₽20k, Vityaz ₽21k)*. **Requests 4–11 queued.** |
 | 2026-08-20 | **phone** | **Marked #1 and #2 read — both merged into `tarkov.md`.** Boss guide went into the Bosses section, loot runs replaced the old stub. Player correction added: **Kollontay's club jams your weapon**, and asked the desktop to check whether other bosses have disarm mechanics the research missed. **Next up: #3 meta kits.** |
 | 2026-08-20 | desktop | **REQUEST 2 DONE → RESULTS.** Top 5 loot runs. Finding: **three of the five are raids already on the schedule** — Reserve D-2 *(₽400–900k, buy RB-PSP1/PSP2/VO)*, Interchange `Supervisor` *(₽500k–1M, key-free sweep works)*, Streets quest block *(₽1M+, LexOs/Chekannaya/Pinewood/Concordia are quest sites)*. **Dorm 314 key arrives free** via `Controller`. **Labs entry arrives free** via `Chemical P4`. Also added the requested **🆕 WHAT CHANGED block at the top of `tarkov.md`.** |
 | 2026-08-20 | desktop | **REQUEST 1 DONE → RESULTS.** Full boss-killing guide, all 11, built around the player's actual guns/ammo/armor. Headline: their ammo caps at 45–48 pen, boss guards wear class 5–6, so they're a heads-and-legs player until **level 36 → Prapor LL4 → 5.45 BS (54 pen)**. Take now: Reshala, Kaban *(north via Chek 15, guards have no helmets)*, Shturman. Wait: Killa, Tagilla, Zryachiy *(175 head, guards respawn 3× unless he dies first)*. **Requests 2–6 still queued.** |

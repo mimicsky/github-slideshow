@@ -7,7 +7,11 @@
 *(Five lines max. This file is 2,500+ lines and gets read on a phone — the new stuff lives
 here so you never have to diff it.)*
 
-1. **20 Aug ·** ⭐ **BOSS KILL GUIDE + LOOT RUNS MERGED.** Key finds: **Kaban is takeable
+1. **20 Aug ·** ⚔️ **META CHECK — you already own most of the S-tier** *(Mutant, DVL-10,
+   RPK-16 ×2, AUG, 5-7)*. **Only real gap: the 7.62x51 MDR.** Every source says **ammo
+   matters more than the gun**, and **1.0.4.5 decoupled recoil from handguards — stop
+   paying for them.** *(→ `RESEARCH.md` RESULTS)*
+2. **20 Aug ·** ⭐ **BOSS KILL GUIDE + LOOT RUNS MERGED.** Key finds: **Kaban is takeable
    now** *(his guards have no helmets)* · **Glukhar is softer than his own guards** ·
    **Kollontay's club JAMS YOUR GUN** ✅*player* · **you're capped at 45–48 pen until level
    36**, which is the unlock that changes everything.
@@ -17,8 +21,6 @@ here so you never have to diff it.)*
    decides each fight. **Zryachiy's guards respawn 3× unless he dies first.**
 4. **20 Aug ·** **Levelling + skills** — quests dominate XP, **run-through forfeits the
    survival bonus AND Found-in-Raid status**, skill-fatigue curve documented.
-5. **20 Aug ·** **Loot runs by map** + a **"what to focus on right now"** priority list.
-6. **20 Aug ·** **Woods nearly cleared** — Swift, Tough Guy, Gratitude, Weapons Circulation,
    Thrifty, Small Things, Steady Signal, Metal Birds, HCP P3/P4, Zhivchik, Woods Keeper all ✅.
 
 > **PvE · Patch 1.1.0.1.46699 · Unheard · Level 30 · USEC · Stash 4 · ~₽3.2M**
