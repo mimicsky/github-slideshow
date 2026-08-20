@@ -7,19 +7,18 @@
 *(Five lines max. This file is 2,500+ lines and gets read on a phone — the new stuff lives
 here so you never have to diff it.)*
 
-1. **20 Aug ·** 🏟 **ARENA VERDICT: worth it.** **Ref LL3 is 0.10 rep away** *(AVS, HighCom TFO, Strandhogg behind it)*, and after `To Great Heights! – Part 3` Ref opens a **₽1M/day Arena→main transfer with zero gear risk.** *(→ Kappa section)*
-2. **20 Aug ·** ⚔️ **META CHECK — you already own most of the S-tier** *(Mutant, DVL-10,
+1. **20 Aug ·** 🏗 **BEST CRAFT: Bundle of Wires ×8 at Workbench L1 — ≈₽74,470/hr**, and it produces the **50 wires** your hideout upgrades need. *(→ Hideout crafts section)*
+2. **20 Aug ·** 🏟 **ARENA VERDICT: worth it.** **Ref LL3 is 0.10 rep away** *(AVS, HighCom TFO, Strandhogg behind it)*, and after `To Great Heights! – Part 3` Ref opens a **₽1M/day Arena→main transfer with zero gear risk.** *(→ Kappa section)*
+3. **20 Aug ·** ⚔️ **META CHECK — you already own most of the S-tier** *(Mutant, DVL-10,
    RPK-16 ×2, AUG, 5-7)*. **Only real gap: the 7.62x51 MDR.** Every source says **ammo
    matters more than the gun**, and **1.0.4.5 decoupled recoil from handguards — stop
    paying for them.** *(→ `RESEARCH.md` RESULTS)*
-3. **20 Aug ·** ⭐ **BOSS KILL GUIDE + LOOT RUNS MERGED.** Key finds: **Kaban is takeable
+4. **20 Aug ·** ⭐ **BOSS KILL GUIDE + LOOT RUNS MERGED.** Key finds: **Kaban is takeable
    now** *(his guards have no helmets)* · **Glukhar is softer than his own guards** ·
    **Kollontay's club JAMS YOUR GUN** ✅*player* · **you're capped at 45–48 pen until level
    36**, which is the unlock that changes everything.
-4. **20 Aug ·** 🧊 **Ice Breaker is PvE and reachable** — Boreas unlock starts from your
+5. **20 Aug ·** 🧊 **Ice Breaker is PvE and reachable** — Boreas unlock starts from your
    **Intelligence Center 3 radio.** Insurance doesn't work there. *(→ its own section)*
-5. **20 Aug ·** **Levelling + skills** — quests dominate XP, **run-through forfeits the
-   survival bonus AND Found-in-Raid status**, skill-fatigue curve documented.
 
 > **PvE · Patch 1.1.0.1.46699 · Unheard · Level 30 · USEC · Stash 4 · ~₽3.2M**
 
@@ -1252,6 +1251,52 @@ wasted.
    traders reset. You keep stats, achievements, some skills and mastering, Arena rating,
    and prestige rewards, and each level lets you carry a few more items over. Needs level
    55. It's a deliberate restart, not a bonus.
+
+---
+
+# 🏗 HIDEOUT CRAFTS — ranked ⚠️*web-sourced*
+
+> 🔴 **THE METRIC IS PROFIT PER HOUR, NOT PROFIT.** A craft paying ₽200k over 12 hours is
+> ₽16k/hr. One paying ₽50k in 2 hours is ₽25k/hr. **Short cycles you can re-run beat big
+> slow ones.**
+
+### 🥇 START HERE — **Bundle of Wires ×8, Workbench L1**
+
+| | |
+|---|---|
+| **Profit** | **≈ ₽146,872 per craft** |
+| **Time** | 1h 58m |
+| **Rate** | **≈ ₽74,470/hr — the best available at this stage** |
+| **Station** | **Workbench level 1** — you already have it |
+
+> ⭐ **AND IT DOUBLE-DIPS.** Your hideout needs **50 wires** across five modules, and your own
+> rule says **never sell one.** This craft pays the best rate in the hideout *and* produces
+> the item blocking your upgrades. **Run it constantly.**
+
+### 🥈 The three crafts worth building the hideout around
+
+| Craft | Why |
+|---|---|
+| 🍺 **Moonshine — Booze Generator** | **Highest expected value per craft**, and it feeds **the Scav Case (needs 3)** and the best barters. ⚠️ **`Booze` needs purified water FOUND IN RAID** — the Water Collector's output does not count |
+| ₿ **Bitcoin Farm** | Passive roubles, **scales to 50 GPUs.** ⚠️ **Do `Semiconductor Crisis` FIRST — it needs 3 GPUs found in raid, and the farm eats them** |
+| 💻 **Intelligence Center — high-value electronics** | ⭐ **This is also where Labs keycards are crafted** *(UHF RFID Reader + Intelligence folder → ×3)*. Int Center earns twice |
+
+### ✅ What you already run — keep or drop
+
+| Yours ✅*player-confirmed* | Verdict |
+|---|---|
+| **Gas mask → gas canisters** | ✅ **Keep** — steady money, cheap inputs |
+| **CMS kits** | ✅ Keep — personal use, saves buying meds |
+| **Ammo** | ✅ Personal use only — **not a profit craft** |
+
+### 🚫 Never sell what these produce
+
+**Moonshine** *(Scav Case ×3)* · **Wires** *(50 for the hideout)* · **GPUs** *(quest before
+farm)* · **purified water** *(FiR only for `Booze`)*.
+
+> ⚠️ **Flea prices move daily, so exact rankings rot fast.** The live tools are
+> **tarkov.dev/hideout-profit** and **TimmyTracker's craft finder** — check those before a
+> big batch. *(I could not pull live numbers: tarkov.dev's API has been down all session.)*
 
 ---
 

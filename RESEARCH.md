@@ -104,18 +104,6 @@ all six are done.
 
 ---
 
-### 10. 🏗 HIDEOUT CRAFTS — rank them all by profit
-
-**No need to price barters — the game already shows rouble value in-game.**
-
-**Currently being run** ✅*player-confirmed*: **gas mask → gas canisters** *(decent
-money)* · **CMS kits** · **ammo for personal use**
-
-**Wanted:** every craft in the hideout, ranked by **profit per hour and per slot**. Which
-are worth running constantly, which are only worth it for personal use, which are a waste.
-Flag any craft that produces something on the **never-sell list** — e.g. the **Booze
-Generator makes moonshine**, and the **Scav Case needs 3**.
-
 ### 11. 💱 BEST BARTERS — just the good ones
 
 The game shows what a barter is worth in roubles, so **skip the pricing analysis**. Just
@@ -157,6 +145,7 @@ permanently. ✅*player-confirmed*
 
 | Date | Request | Where it landed |
 |---|---|---|
+| 2026-08-20 | **#10 Hideout crafts** | `tarkov.md` → new **🏗 Hideout crafts — ranked** section above *Hideout*. 🥇 **Bundle of Wires ×8 at Workbench L1 — ₽74,470/hr AND it makes the 50 wires blocking their upgrades.** Moonshine / Bitcoin Farm / Int Center are the three to build around. Their existing gas-canister and CMS crafts confirmed as keepers. |
 | 2026-08-20 | **#1 Full boss-killing guide** | `tarkov.md` → *Bosses* → **"How to actually kill them"**. Includes the 45–48 pen ceiling, the take-now / doable / wait split, and the level-36 unlock. **Player correction folded in: Kollontay's club jams your weapon.** |
 | 2026-08-20 | **#9 Arena** | ✅ **Worth it.** Ref LL3 is **0.10 rep away** *(2nd AVS, Trooper TFO, Strandhogg)*, and `To Great Heights P3` opens **₽1M/day transfer** with zero gear risk. |
 | 2026-08-20 | **#7 Fence rep / scav karma** | 🚨 **The biggest find so far.** Car extract **+0.2 first time per location**, co-op **+0.25**, vs the **+0.01** the player was farming. ~7 car extracts covers the whole 1.434 gap. Dying as a scav costs nothing. Scav dailies are available and switched off. |
@@ -173,6 +162,7 @@ permanently. ✅*player-confirmed*
 
 | Date | Session | What changed |
 |---|---|---|
+| 2026-08-20 | desktop | **REQUEST 10 DONE + MERGED.** Hideout crafts ranked. **Best available to them right now: Bundle of Wires ×8 at Workbench L1 — ≈₽74,470/hr, and it double-dips because their hideout needs 50 wires.** Metric is profit/hour not profit. Moonshine, Bitcoin Farm and Intelligence Center are the three to build around *(Int Center also crafts the Labs keycards)*. Flagged that live prices couldn't be pulled — **tarkov.dev's API has been down all session.** |
 | 2026-08-20 | **phone** | 🔴 **FILE OWNERSHIP SPLIT.** Phone writes `RESEARCH.md` only; desktop owns all writes to `tarkov.md`. Caused by a concurrent Arena merge that duplicated a block and silently deleted a standing rule. Added a **PLAYER FACTS** table for desktop to merge. **Desktop: check for duplicates from requests 1/2/4/5/6/7/9, which the phone already merged.** |
 | 2026-08-20 | desktop | **REQUEST 9 DONE → RESULTS.** Arena verdict: **YES, for two reasons.** (1) **Ref LL3 is 0.10 rep away** and holds a second AVS, HighCom TFO and Strandhogg — their armor research already found that. (2) **The transfer pipe: ₽1,000,000/day from Arena to the main game at a 15% fee, with zero gear risk** — more than the best loot run in the game. **Gated behind `To Great Heights! – Part 3`.** Verdict: worth it as a parallel income stream, not worth dropping questing for. |
 | 2026-08-20 | desktop | **REQUEST 8 DONE → RESULTS.** Quest tree. 🏆 **Found why goal #2 is 3.0: Kappa requires Scav karma +3** — the file had the target without the reason. **Full Kappa gate: karma +3 · LL4 with SEVEN traders · the four ⭐Kappa quests.** The seven LL4s are the real wall — **level 42 minimum**, with **Jaeger rep (2.55/7.30) and Ragman rep (3.35/6.50) as the true bottlenecks.** Active chains mapped *(HCP P5 branches to Decontamination Service AND P6; Sew it Good **P2** is the Kappa gate, not P1)*. ⚠️ **Correction: Network Provider P1 is NOT obtainable in any game mode right now** — I was wrong last check. |
