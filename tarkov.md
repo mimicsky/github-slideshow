@@ -11,11 +11,11 @@ here so you never have to diff it.)*
    RPK-16 ×2, AUG, 5-7)*. **Only real gap: the 7.62x51 MDR.** Every source says **ammo
    matters more than the gun**, and **1.0.4.5 decoupled recoil from handguards — stop
    paying for them.** *(→ `RESEARCH.md` RESULTS)*
-2. **20 Aug ·** ⭐ **BOSS KILL GUIDE + LOOT RUNS MERGED.** Key finds: **Kaban is takeable
+8. **20 Aug ·** ⭐ **BOSS KILL GUIDE + LOOT RUNS MERGED.** Key finds: **Kaban is takeable
    now** *(his guards have no helmets)* · **Glukhar is softer than his own guards** ·
    **Kollontay's club JAMS YOUR GUN** ✅*player* · **you're capped at 45–48 pen until level
    36**, which is the unlock that changes everything.
-3. **20 Aug ·** 🧊 **Ice Breaker is PvE and reachable** — Boreas unlock starts from your
+8. **20 Aug ·** 🧊 **Ice Breaker is PvE and reachable** — Boreas unlock starts from your
    **Intelligence Center 3 radio.** Insurance doesn't work there. *(→ its own section)*
 5. **20 Aug ·** **Levelling + skills** — quests dominate XP, **run-through forfeits the
    survival bonus AND Found-in-Raid status**, skill-fatigue curve documented.
@@ -1052,9 +1052,17 @@ minimal contact, and it pairs with `Angry Watchman` and the Customs propane tank
 
 > 🔑 **LABS KEYCARDS ARE CRAFTABLE — you can do it today.**
 > **UHF RFID Reader + Intelligence folder → Intelligence Center 2 → 40 min → ×3 cards.**
-> ⭐ **Check the stash first — `Woods Keeper` rewards 3× Labs keycard and it's done.**
+> ✅ **Player confirms holding at least 2 Labs keycards already.**
 > 🔴 **Never sell Bulbex cable cutters** — barter ingredient *and* `Special Comms` needs one.
 > ⚠️ **Keys now break after ~25–50 uses.** They're consumables. Don't buy the ₽2.8M one.
+
+> 🏟 **ARENA IS WORTH IT — for the money, not the gameplay.**
+> **1.** **Ref LL3 is 0.10 rep away** *(0.40 → 0.50)* — unlocks a 2nd **Crye AVS**,
+> **HighCom Trooper TFO**, **Strandhogg**. One or two quests.
+> **2.** ⭐ **After `To Great Heights! – Part 3`, Ref opens Arena↔main transfer:
+> ₽1,000,000/day**, plus GP coins, Lega Medals and **locked crates**. 15% fee on roubles,
+> 5% on items, reduced by Charisma and Ref LL.
+> **That beats the best loot run in the game and carries zero gear risk.**
 
 > 🎫 **KORD BREACH — 501 docs, ends 7 Dec, ~4.6/day needed vs a 15/day PvE cap.**
 > Achievable, **but only if collection starts now.** Free, works in PvE, unlocks permanently.
