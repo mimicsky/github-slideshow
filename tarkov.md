@@ -7,7 +7,8 @@
 *(Five lines max. This file is 2,500+ lines and gets read on a phone — the new stuff lives
 here so you never have to diff it.)*
 
-1. **20 Aug ·** ⚔️ **META CHECK — you already own most of the S-tier** *(Mutant, DVL-10,
+1. **20 Aug ·** 🏟 **ARENA VERDICT: worth it.** **Ref LL3 is 0.10 rep away** *(AVS, HighCom TFO, Strandhogg behind it)*, and after `To Great Heights! – Part 3` Ref opens a **₽1M/day Arena→main transfer with zero gear risk.** *(→ Kappa section)*
+2. **20 Aug ·** ⚔️ **META CHECK — you already own most of the S-tier** *(Mutant, DVL-10,
    RPK-16 ×2, AUG, 5-7)*. **Only real gap: the 7.62x51 MDR.** Every source says **ammo
    matters more than the gun**, and **1.0.4.5 decoupled recoil from handguards — stop
    paying for them.** *(→ `RESEARCH.md` RESULTS)*
@@ -1021,6 +1022,26 @@ minimal contact, and it pairs with `Angry Watchman` and the Customs propane tank
 ---
 
 # Kappa
+
+> 🏟 **ARENA IS A KAPPA TOOL — verdict: WORTH IT** ⚠️*web-sourced*
+>
+> **1. Ref LL3 is 0.10 rep away** *(needs 0.50, you're at 0.40; level 25 already cleared)*.
+> Behind it: a second **Crye AVS (MultiCam)**, **HighCom Trooper TFO**, **Strandhogg**.
+> **Ref LL4 = level 35 + rep 1.20.**
+>
+> **2. 💰 The transfer pipe.** After **`To Great Heights! – Part 3`**, Ref moves currency and
+> items **from Arena into the main game**: **₽1,000,000/day** *(₽1.5M Ryzhy)* · 350 GP coins
+> · 5 Lega Medals · **locked crates**. **Fees 15% roubles / 5% items**, reduced by Charisma
+> and Ref loyalty.
+> ⭐ **That's more per day than the best loot run in the game, with ZERO gear risk.**
+>
+> **3.** BattlePass rewards earned there **unlock in PvE too** — and several Ref-shop items
+> in the armor section are gated behind *"unlocking it in the Arena BattlePass."*
+>
+> ⚠️ **Access chain:** Ref needs **`Easy Money – Part 1`** (Skier) · transfers need
+> **`To Great Heights! – Part 3`.**
+> **Verdict: a parallel income stream, not a replacement for questing. Clear the 0.10 to
+> LL3 first, then decide.**
 
 | Requirement | You |
 |---|---|

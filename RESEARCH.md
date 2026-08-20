@@ -95,70 +95,7 @@ permanently. ✅*player-confirmed*
 
 ## 🔬 RESULTS — researched, waiting to be read
 
-### ✅ REQUEST 9 — ARENA: WORTH IT OR NOT?
-
-⚠️ **web-sourced, unverified.**
-
-## ✅ ANSWER: YES — for two specific reasons, neither of which is the gameplay
-
-### 1. 🔴 REF LL3 IS WORTH MORE THAN YOU THINK — and you're 0.10 away
-
-**Ref's loyalty requirements** ⚠️*web-sourced*:
-
-| LL | Level | Rep |
-|---|---|---|
-| LL2 | 15 | 0.25 |
-| **LL3** | **25** ✅ | **0.50** ← **you're at 0.40** |
-| LL4 | 35 | 1.20 |
-
-**Your armor research already found what's behind that door:** a second **Crye AVS
-(MultiCam)**, **HighCom Trooper TFO**, and **First Spear Strandhogg** all sit at **Ref LL3**.
-**0.10 rep is one or two quests.**
-
-### 2. 💰 THE TRANSFER PIPE — this is the real prize
-
-**After completing `To Great Heights! – Part 3`, Ref opens item and currency transfer
-between Arena and your main game.** Daily limits for a main character:
-
-| Transferable | Daily cap |
-|---|---|
-| **Roubles** | **₽1,000,000** *(₽1.5M on the Ryzhy edition)* |
-| GP coins | 350 |
-| Lega Medals | 5 |
-| **Locked crates** | ✅ transferable |
-
-**Fees: 15% on roubles, 5% on items** — reduced by **Charisma** and **Ref loyalty level**.
-
-> ⭐ **₽1,000,000 per day is more than the best loot run in the game** *(Interchange tops out
-> around ₽1M on a good raid, with a real chance of dying)*. **Arena money carries no gear
-> risk at all** — you can't lose your stash in an Arena match.
->
-> **The catch: you have to actually earn it in Arena, and 15% comes off the top.**
-
----
-
-### 🎫 Third reason, smaller: the BattlePass crosses over
-
-**BattlePass rewards earned unlock in PvE mode too**, including trade offers and clothing.
-And your armor research already turned up several items gated behind *"unlocking it in the
-Arena BattlePass"* — **Thunderbolt (Ranger Green)**, **WARTECH TV-115**, **Strandhogg
-variants**, **Stich Profi V2** and others sit behind Arena BattlePass seasons in Ref's shop.
-
----
-
-### 📋 THE HONEST VERDICT
-
-| Question | Answer |
-|---|---|
-| **Are Arena quests worth doing?** | ✅ **Yes** — Ref rep is the only route to LL3/LL4, and **LL3 is 0.10 away** |
-| **Are the crates/rewards worth it?** | ✅ **Yes, but conditionally** — the value is the **₽1M/day transfer**, not the crates themselves. **Unlocked only after `To Great Heights! – Part 3`** |
-| **Should you drop everything for it?** | ❌ **No.** It's a **parallel income stream with zero gear risk**, not a replacement for questing |
-
-**Practical: do enough Arena to clear the 0.10 to Ref LL3, then decide whether the ₽1M/day
-pipe is worth your play time.** ⚠️ **Note the access chain: Ref himself requires `Easy Money
-– Part 1` from Skier**, and the transfer service requires **`To Great Heights! – Part 3`.**
-
-*(empty — requests 1–7 all read and merged)*
+*(empty — all requests through #9 read and merged)*
 
 ---
 
@@ -166,6 +103,7 @@ pipe is worth your play time.** ⚠️ **Note the access chain: Ref himself requ
 
 | Date | Request | Where it landed |
 |---|---|---|
+| 2026-08-20 | **#9 Arena** | `tarkov.md` → *Kappa* → **"Arena is a Kappa tool."** Ref LL3 is 0.10 away and holds an AVS/TFO/Strandhogg; the **₽1M-per-day transfer pipe** unlocks after `To Great Heights! – Part 3`. Verdict: parallel income, zero gear risk, not a questing replacement. |
 | 2026-08-20 | **#1 Full boss-killing guide** | `tarkov.md` → *Bosses* → **"How to actually kill them"**. Includes the 45–48 pen ceiling, the take-now / doable / wait split, and the level-36 unlock. **Player correction folded in: Kollontay's club jams your weapon.** |
 | 2026-08-20 | **#7 Fence rep / scav karma** | 🚨 **The biggest find so far.** Car extract **+0.2 first time per location**, co-op **+0.25**, vs the **+0.01** the player was farming. ~7 car extracts covers the whole 1.434 gap. Dying as a scav costs nothing. Scav dailies are available and switched off. |
 | 2026-08-20 | **#6 Kord Breach** | 501 docs, 109 days, **~4.6/day vs a 15/day PvE cap** — achievable if started now. 8 doc types mapped. |
