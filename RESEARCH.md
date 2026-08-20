@@ -6,6 +6,38 @@ The player is at work. They post requests here. Research gets done and posted ba
 
 ---
 
+# 🔴 FILE OWNERSHIP — READ THIS FIRST
+
+**As of 20 Aug, the two sessions no longer share files.**
+
+| File | Who writes it |
+|---|---|
+| **`RESEARCH.md`** *(this file)* | **the phone session ONLY** |
+| **`tarkov.md`** | **the desktop session ONLY** |
+
+**Why:** both sessions merged the Arena research at the same time. The conflict resolution
+silently **dropped a standing rule** from `tarkov.md` and left the Arena block duplicated.
+It took a manual grep to catch. Second time something vanished in a merge.
+
+### What each session does now
+
+**📱 Phone session:**
+- Posts requests here · reads results · marks them read
+- Records **player-confirmed facts** in the *PLAYER FACTS* section below
+- **Never edits `tarkov.md`.** Not even a one-line fix.
+
+**💻 Desktop session:**
+- Does the research, posts results here
+- **Owns all writes to `tarkov.md`** — merges the research, merges the player facts
+- **Reads *PLAYER FACTS* every cycle** and folds anything new into `tarkov.md`
+
+> ⚠️ **Desktop: check for duplication from before this rule.** The phone session already
+> merged requests **1, 2, 4, 5, 6, 7 and 9** into `tarkov.md` directly. If you merge them
+> again you'll get two copies. **Also verify the "Fence daily done today?" standing rule is
+> still present** — it has now been lost once and restored twice.
+
+---
+
 ## 📖 HOW THIS WORKS — read this first if you're a fresh session
 
 You are working with **`tarkov.md`** in this same repo — a large, self-contained Tarkov
@@ -39,6 +71,22 @@ Just add a line under **📥 REQUESTS** — no format required, plain English is
 - [ ] what's the best ammo for the Mutant right now
 - [ ] where do I find LEDX on Interchange
 ```
+
+---
+
+## 🧾 PLAYER FACTS — desktop, merge these into `tarkov.md`
+
+**Written by the phone session from what the player says. ✅ These beat every website.**
+**Desktop: fold them in, then mark the row merged.**
+
+| Date | Fact | Merged? |
+|---|---|---|
+| 20 Aug | **Kollontay's club JAMS YOUR WEAPON.** Never let him close — the danger is being disarmed while 4 guards are up. Makes the "push the academy door" tactic risky. | ✅ done |
+| 20 Aug | **Player holds at least 2 Labs keycards already.** Don't tell them to craft more until they check. | ✅ done |
+| 20 Aug | **Player is MISSING the Financial documentation type** for Kord Breach. It drops on **Customs · Streets · Interchange** — all maps already in rotation. | ✅ done |
+| 20 Aug | **Fence rep from an assisted PMC kill reads +0.01 on the player's screen**, not the +0.02–0.03 the wiki claims. Their 0.06 for 5 kills matches +0.01 exactly. | ✅ done |
+| 20 Aug | 🔔 **STANDING: remind the player to do their Fence scav daily EVERY DAY.** They asked directly. Must be the first line of every raid card. | ✅ done |
+| 20 Aug | **Player will test a car extract and report the real rep number** — sources disagree *(+0.2 vs +0.4, ÷uses vs halving)*. **Pending.** | ⏳ |
 
 ---
 
@@ -125,6 +173,7 @@ permanently. ✅*player-confirmed*
 
 | Date | Session | What changed |
 |---|---|---|
+| 2026-08-20 | **phone** | 🔴 **FILE OWNERSHIP SPLIT.** Phone writes `RESEARCH.md` only; desktop owns all writes to `tarkov.md`. Caused by a concurrent Arena merge that duplicated a block and silently deleted a standing rule. Added a **PLAYER FACTS** table for desktop to merge. **Desktop: check for duplicates from requests 1/2/4/5/6/7/9, which the phone already merged.** |
 | 2026-08-20 | desktop | **REQUEST 9 DONE → RESULTS.** Arena verdict: **YES, for two reasons.** (1) **Ref LL3 is 0.10 rep away** and holds a second AVS, HighCom TFO and Strandhogg — their armor research already found that. (2) **The transfer pipe: ₽1,000,000/day from Arena to the main game at a 15% fee, with zero gear risk** — more than the best loot run in the game. **Gated behind `To Great Heights! – Part 3`.** Verdict: worth it as a parallel income stream, not worth dropping questing for. |
 | 2026-08-20 | desktop | **REQUEST 8 DONE → RESULTS.** Quest tree. 🏆 **Found why goal #2 is 3.0: Kappa requires Scav karma +3** — the file had the target without the reason. **Full Kappa gate: karma +3 · LL4 with SEVEN traders · the four ⭐Kappa quests.** The seven LL4s are the real wall — **level 42 minimum**, with **Jaeger rep (2.55/7.30) and Ragman rep (3.35/6.50) as the true bottlenecks.** Active chains mapped *(HCP P5 branches to Decontamination Service AND P6; Sew it Good **P2** is the Kappa gate, not P1)*. ⚠️ **Correction: Network Provider P1 is NOT obtainable in any game mode right now** — I was wrong last check. |
 | 2026-08-20 | desktop | **REQUEST 7 DONE → RESULTS.** Fence rep. 🚨 **It is NOT slow — they're using the worst source.** PMC kills pay +0.01–0.03; a **first-time car extraction pays +0.2 and a co-op extraction +0.25, counted PER LOCATION.** Their 1.434 gap to 3.0 is **≈7 car extracts**, and **`Paramedic` already requires one** *(Primorsky Ave Taxi V-Ex)*. **Fence Scav daily tasks (+0.01–0.05) need the Intelligence Center, which they have.** **Dying as a Scav costs nothing.** ⚠️ CONFLICT logged: their +0.01/kill vs wiki's +0.02–0.03. |
