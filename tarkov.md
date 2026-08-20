@@ -17,7 +17,7 @@ here so you never have to diff it.)*
    36**, which is the unlock that changes everything.
 3. **20 Aug ·** 🧊 **Ice Breaker is PvE and reachable** — Boreas unlock starts from your
    **Intelligence Center 3 radio.** Insurance doesn't work there. *(→ its own section)*
-4. **20 Aug ·** **Levelling + skills** — quests dominate XP, **run-through forfeits the
+5. **20 Aug ·** **Levelling + skills** — quests dominate XP, **run-through forfeits the
    survival bonus AND Found-in-Raid status**, skill-fatigue curve documented.
 5. **20 Aug ·** **Woods nearly cleared** — Swift, Tough Guy, Gratitude, Weapons Circulation,
    Thrifty, Small Things, Steady Signal, Metal Birds, HCP P3/P4, Zhivchik, Woods Keeper ✅.
@@ -1050,6 +1050,22 @@ minimal contact, and it pairs with `Angry Watchman` and the Customs propane tank
 
 **Level 30 · USEC · PvE · Unheard (Gamma 3×3) · Stash 4 · ₽3,195,691** *(moves fast)*
 
+> 🔑 **LABS KEYCARDS ARE CRAFTABLE — you can do it today.**
+> **UHF RFID Reader + Intelligence folder → Intelligence Center 2 → 40 min → ×3 cards.**
+> ⭐ **Check the stash first — `Woods Keeper` rewards 3× Labs keycard and it's done.**
+> 🔴 **Never sell Bulbex cable cutters** — barter ingredient *and* `Special Comms` needs one.
+> ⚠️ **Keys now break after ~25–50 uses.** They're consumables. Don't buy the ₽2.8M one.
+
+> 🎫 **KORD BREACH — 501 docs, ends 7 Dec, ~4.6/day needed vs a 15/day PvE cap.**
+> Achievable, **but only if collection starts now.** Free, works in PvE, unlocks permanently.
+> ⚠️ **Player is missing FINANCIAL documentation** — it drops on **Customs · Streets ·
+> Interchange**, all maps in the rotation. **Start looking.**
+> The other gap is **Medical + User docs** — both from **Ground Zero, Streets or Labs.**
+
+> ✅ **ARMOR: nothing to buy.** Community meta is Slick + class 6 UHMWPE; budget is Hexgrid
+> + GAC 3s15m. **Your CPC MOD.1 already runs GAC 3s15m at 0% penalty and the Zhuk is class
+> 6 all round.** No purchase improves you.
+
 | Trader | LL | | Trader | LL |
 |---|---|---|---|---|
 | Prapor | 3 | | Ragman | ~2–3 |
@@ -1070,7 +1086,28 @@ flea, insurance, rep — works the same. So normal Tarkov knowledge applies here
 
 ---
 
-# Fence rep — goal #2, and the furthest gap
+# Fence rep — goal #2 · ⭐ SOLVED, the method was wrong
+
+> 🚨 **THE FIX: car extractions.** **+0.2 first time PER LOCATION** *(co-op extract:
+> +0.25)*. The player was farming assisted PMC kills at **+0.01**.
+>
+> **At 1.566, goal 3.0, gap 1.434 → ~7 first-time car extracts covers almost all of it.**
+> Car extracts exist on Customs *(Dorms V-Ex)*, Interchange *(Power Station V-Ex)*, Woods
+> *(Bridge, ₽5k)*, Shoreline, Lighthouse, Ground Zero, Streets *(Primorsky Ave Taxi)*.
+>
+> ⭐ **`Paramedic` REQUIRES the Primorsky Ave Taxi V-Ex** — that quest pays +0.2 free.
+>
+> ⚠️ **It never resets — it decays per use, per location.** Sources disagree on the curve
+> *(÷ uses vs halving)* and even the base value *(+0.2 vs +0.4)*. **Watch your own rep
+> before/after the next one and record the real number.**
+>
+> ✅ **Dying as a scav costs NOTHING.** Neither does leaving early.
+> 🔴 **Killing a scav boss as a scav is −0.2** — one of those erases a car extract.
+> 📋 **Turn on Fence's scav dailies** — you have the Intelligence Center, they're available
+> and currently unused. +0.01–0.05 each, daily, forever.
+> ⭐ **+2 karma is only 0.43 away** and unlocks `Network Provider – Part 1`.
+
+# Fence rep — the old detail
 
 Kappa wants **3.0** and you're at **LL1**.
 
