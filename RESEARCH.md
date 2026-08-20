@@ -305,6 +305,17 @@ for the chest and must play for heads and legs instead.**
 - **Bonus:** this is the same map as your **D-2 chain**, so you may meet him anyway
 
 #### **Kollontay** — 1055 HP · Streets · 4 guards
+> 🔴 **CORRECTION FROM THE PLAYER — the research missed this.** ✅*player-confirmed*
+>
+> **Kollontay carries a club, and his melee hits JAM YOUR WEAPON.** That reframes the whole
+> fight: the danger isn't his damage, it's being disarmed mid-engagement while four guards
+> with AP rounds and flashbangs are still up.
+>
+> **So: never let him close.** Hold distance, and if he's pushing, back off rather than
+> trade. Know your malfunction fix before you go in — you may need it under fire.
+>
+> ⚠️ **Fold this into the merge, and check whether any other boss has a disarm/jam or
+> similar mechanic that got missed the same way.**
 - ⚠️ **His guards use armor-piercing rounds AND flashbangs.** Expect to be blinded
 - **He wears a PSh-97 DJETA riot helmet** — class 2 top/nape/ears, **eyes class 1.** Weak
   head protection for a boss; headshots are live

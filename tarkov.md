@@ -747,7 +747,7 @@ working** — take them if they show, don't hunt them.
 | **Reshala** ✅ | 752 | 62 | **Brown sweater** — guards wear blue jackets w/ white cuffs. **Kill him before he sees you** or he hides behind the guards |
 | **Partisan** ✅ | 950 | 80 | Roams Customs · Woods · Shoreline — "expected everywhere" |
 | **Glukhar** | **1010** | 70 | **Black T-shirt, grey pants, light armor** vs guards in heavy camo. **Get close, kill HIM first** — Reserve storage "K" + repair building |
-| **Kollontay** | 1055 | 65 | Klimov shopping mall **or** Ministry of Interior academy. Push the academy door while holding an angle on his guards |
+| **Kollontay** | 1055 | 65 | 🔴 **HIS CLUB JAMS YOUR GUN.** Never let him close. Klimov mall **or** Ministry academy — push the academy door holding an angle on the guards |
 | **Sanitar** | **1270** | 70 | 🔴 **His guards HEAL THEMSELVES with injectors.** Burst them down — anything slow gets undone. Shoreline port/pier + cottages |
 | **Kaban** | **1300** | **85** | 🔴 **LexOs dealership is RIGGED WITH CLAYMORES.** **Approach from the NORTH via Chek 15** — that AGS-30 has a blindspot; the southern one has long sightlines. **Stay off grass and curbs** |
 | **Zryachiy** | **1655** | **175** ⚠️ | 🔴 **KILL ZRYACHIY FIRST.** If you kill the guards first they **respawn up to 3× each.** Lighthouse peninsula. That 175 head means headshots are not the shortcut here |
