@@ -934,6 +934,22 @@ Kappa wants **3.0** and you're at **LL1**.
 2. **Extract as a scav.** Simple and repeatable.
 3. **As a PMC, extract by car.** Costs money and **depends on your spawn**.
 
+### 📊 The player's current method and its actual rate ✅*player-confirmed*
+
+Go in as a **scav**, hunt PMCs who have **already killed a scav**, kill them — **+0.01
+each**. Transit to another map, repeat, return to Factory, repeat. Ends in either a death
+to **Tagilla** *(who aggros scavs)* or an extract loaded with loot.
+
+> 🔴 **Best result so far: 0.06 for FIVE PMC kills and one extraction.**
+>
+> **That's a painful rate for a 3.0 target.** Three problems: the PMC must kill a scav
+> *first*, the player must land the kill *themselves*, and the PMC is often gone by the
+> time they get there.
+>
+> **Research request #7 is open on this** — full source table and the fastest realistic
+> path. Until it comes back, assume this is a long background grind and don't build raids
+> around it.
+
 ### ❌ Goes down
 1. **Killing scavs while you're a scav** — straight rep loss.
 2. **Killing a boss while you're a scav** — **costs a lot.** Don't.
