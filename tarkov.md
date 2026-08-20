@@ -1075,14 +1075,6 @@ minimal contact, and it pairs with `Angry Watchman` and the Customs propane tank
 > 🔴 **Never sell Bulbex cable cutters** — barter ingredient *and* `Special Comms` needs one.
 > ⚠️ **Keys now break after ~25–50 uses.** They're consumables. Don't buy the ₽2.8M one.
 
-> 🏟 **ARENA IS WORTH IT — for the money, not the gameplay.**
-> **1.** **Ref LL3 is 0.10 rep away** *(0.40 → 0.50)* — unlocks a 2nd **Crye AVS**,
-> **HighCom Trooper TFO**, **Strandhogg**. One or two quests.
-> **2.** ⭐ **After `To Great Heights! – Part 3`, Ref opens Arena↔main transfer:
-> ₽1,000,000/day**, plus GP coins, Lega Medals and **locked crates**. 15% fee on roubles,
-> 5% on items, reduced by Charisma and Ref LL.
-> **That beats the best loot run in the game and carries zero gear risk.**
-
 > 🎫 **KORD BREACH — 501 docs, ends 7 Dec, ~4.6/day needed vs a 15/day PvE cap.**
 > Achievable, **but only if collection starts now.** Free, works in PvE, unlocks permanently.
 > ⚠️ **Player is missing FINANCIAL documentation** — it drops on **Customs · Streets ·
