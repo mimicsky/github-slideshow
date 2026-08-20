@@ -50,18 +50,6 @@ all six are done.
 
 ---
 
-### 8. 🌳 QUEST DEPENDENCY TREE — the whole graph
-
-**Fandom makes this easy:** every quest page lists what comes **before** it and what it
-**leads to**. Walk those links and build the full tree.
-
-**What it's for:** the player has ~100 active quests and picks them by map. With a tree
-they could pick by **consequence** — *"these three unlock `Sellout`"*, *"this chain ends in
-the FN40GL."*
-
-**Deliverable:** each chain from start to end, which quests gate the **Kappa four**, and
-which lead to rewards the player actually wants *(their gun rankings are in `tarkov.md`)*.
-
 ### 9. 🏟 ARENA — worth it or not?
 
 **The player already has Arena access.** Two questions only:
@@ -106,6 +94,87 @@ permanently. ✅*player-confirmed*
 ---
 
 ## 🔬 RESULTS — researched, waiting to be read
+
+### ✅ REQUEST 8 — QUEST DEPENDENCY TREE
+
+⚠️ **web-sourced, unverified.**
+
+## 🏆 THE KAPPA GATE — the complete requirement list
+
+**`Collector` is the Kappa quest. Its full requirements:** ⚠️*web-sourced*
+
+**1. 🔴 Scav karma of at least +3** ← ⭐ **THIS IS WHY YOUR GOAL #2 IS 3.0.** Your file set
+that target without recording why. **Kappa is the why.**
+
+**2. 🔴 LEVEL 4 LOYALTY WITH SEVEN TRADERS:**
+**Therapist · Prapor · Peacekeeper · Mechanic · Jaeger · Skier · Ragman**
+
+**3. The four quests your file already flags ⭐Kappa:**
+- **`Chemical - Part 4`** *(or Big Customer, or Out of Curiosity — you've chosen Chemical)*
+- **`Sew it Good - Part 2`**
+- **`Shooter Born in Heaven`**
+- **`The Tarkov Shooter - Part 4`**
+
+**4. Then hand over a long list of found-in-raid collectibles** — 42× Signature Blend
+English Tea, Antique axe, Axel parrot figurine, BEAR Buddy plush toy, and many more.
+
+### 🔢 WHAT THAT ACTUALLY COSTS YOU
+
+**The seven LL4s are the real wall, and they're level-gated:**
+
+| Trader | LL4 needs | Your gap |
+|---|---|---|
+| **Jaeger** | lvl 33 + **rep 7.30** | 🔴 **rep 2.55 — the rep is the wall, not the level** |
+| **Prapor** | lvl 36 | ✅ rep already met — **6 levels** |
+| **Peacekeeper** | lvl 37 | 7 levels |
+| **Therapist · Skier** | lvl 38 | 8 levels |
+| **Mechanic** | lvl 40 | 10 levels |
+| **Ragman** | lvl 42 + **rep 6.50** | 🔴 **rep 3.35 — 12 levels AND a rep grind** |
+
+> ⭐ **Kappa is a level-42 project minimum**, with **Jaeger and Ragman rep as the true
+> bottlenecks.** Every Huntsman Path quest you do feeds Jaeger; Ragman rep comes from his
+> chain. **Your karma target of 3.0 is only one of eight gates — and it's the easiest one**
+> now that you know car extracts pay 0.2.
+
+---
+
+### 🌳 YOUR ACTIVE CHAINS — what comes next
+
+| Chain | You're on | Next |
+|---|---|---|
+| **Health Care Privacy** | **P5** 🆕 | → **`Decontamination Service`** AND **`HCP P6`** *(it branches)* |
+| **Wet Job** | **P4** | → **P5** *(P4 pays the RSASS lead-in your file already flagged)* |
+| **The Punisher** | **P3** | → **P4** *(a 6-part chain)* |
+| **The Tarkov Shooter** | **P4** ⭐Kappa | → **P5** — ⚠️ **P4 is a Kappa gate, so this one matters** |
+| **Broadcast** | **P1** | → **P2** |
+| **Sew it Good** | **P1** ⭐*(level 25)* | → **P2** ⚠️ **P2 is the Kappa gate, not P1** |
+| **Shipping Delay** | **P1** | → `A Helping Hand` *(same package, BTR-gated)* |
+| **Establish Contact** | locked | needs **karma +4**, objective is **"reach 5.0 standing with Fence"** → leads to `Friend Among Strangers` |
+
+---
+
+### ⚠️ CORRECTION TO MY LAST ANSWER
+
+```
+⚠️ CORRECTION — Network Provider - Part 1
+  I said last check that karma +2 would unlock it.
+  Fandom carries a seasonal notice: "this task cannot currently be
+  obtained in ANY game mode."
+  → It is not available to chase right now, regardless of karma.
+```
+
+**The +4 karma target still matters** — that's `Establish Contact`, and **+3 is Kappa.**
+
+---
+
+### 📋 TAKEAWAY
+
+**Kappa reframes everything.** It's not four quests — it's **karma +3, seven trader LL4s,
+and four quests.** The quests are the easy part. **Levels 36–42 and the Jaeger/Ragman rep
+grinds are the real project**, which means **your levelling and your Huntsman Path work
+are Kappa progress**, even though nothing labels them that way.
+
+---
 
 ### ✅ REQUEST 7 — FENCE REP / SCAV KARMA
 
@@ -501,6 +570,7 @@ MDR** and **better ammo at level 36** — and the second one matters more than t
 
 | Date | Session | What changed |
 |---|---|---|
+| 2026-08-20 | desktop | **REQUEST 8 DONE → RESULTS.** Quest tree. 🏆 **Found why goal #2 is 3.0: Kappa requires Scav karma +3** — the file had the target without the reason. **Full Kappa gate: karma +3 · LL4 with SEVEN traders · the four ⭐Kappa quests.** The seven LL4s are the real wall — **level 42 minimum**, with **Jaeger rep (2.55/7.30) and Ragman rep (3.35/6.50) as the true bottlenecks.** Active chains mapped *(HCP P5 branches to Decontamination Service AND P6; Sew it Good **P2** is the Kappa gate, not P1)*. ⚠️ **Correction: Network Provider P1 is NOT obtainable in any game mode right now** — I was wrong last check. |
 | 2026-08-20 | desktop | **REQUEST 7 DONE → RESULTS.** Fence rep. 🚨 **It is NOT slow — they're using the worst source.** PMC kills pay +0.01–0.03; a **first-time car extraction pays +0.2 and a co-op extraction +0.25, counted PER LOCATION.** Their 1.434 gap to 3.0 is **≈7 car extracts**, and **`Paramedic` already requires one** *(Primorsky Ave Taxi V-Ex)*. **Fence Scav daily tasks (+0.01–0.05) need the Intelligence Center, which they have.** **Dying as a Scav costs nothing.** ⚠️ CONFLICT logged: their +0.01/kill vs wiki's +0.02–0.03. |
 | 2026-08-20 | desktop | **REQUEST 6 DONE → RESULTS.** Kord Breach battle pass. ⏰ **TIME-LIMITED: 3 Aug → 7 Dec 2026**, free, works in PvE, rewards permanent. **501 documents total, PvE cap 15/day (shared across modes) — works out to ~4.6/day over the 109 days left, so achievable without changing how they play.** Their current map rotation already covers **6 of the 8 document types**; the two missing *(Medical, User)* both come from **Ground Zero or The Lab — and they're about to have craftable Labs keycards.** |
 | 2026-08-20 | desktop | **REQUEST 5 DONE → RESULTS.** Labs keycards + valuable keys. 🚨 **Headline: they can CRAFT Labs keycards NOW — UHF RFID Reader + Intelligence folder → Intelligence Center 2 → 40 min → ×3.** They have Int Center 2. **And `Woods Keeper` (just completed) rewards 3 — check the stash.** Also: barter via Mechanic LL3 needs a **Bulbex cutter, which `Special Comms` also needs — do not sell them.** Most valuable key is Chek 13 at ~₽2.8M, but **keys now break after 25–50 uses**, so buying them is a bad deal. |
