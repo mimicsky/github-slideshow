@@ -50,15 +50,6 @@ all six are done.
 
 ---
 
-### 5. 🔑 THE MILLION-ROUBLE KEYS — Labs keycards and marked/locked rooms
-
-- **How to get Labs access keycards** — every route: spawn locations, drops, barters, prices
-- **The locked rooms worth real money** — marked rooms on Customs and elsewhere
-- **Top 5 most valuable keys in the game**, what they open, what they're worth
-- **Which keys to look out for while looting** — the ones worth stopping for
-
-*(Note: the player is taking Skier's `Chemical - Part 4`, which rewards 2× Labs keycard.)*
-
 ### 6. 🎫 THE KORD BREACH SEASON + BATTLE PASS
 
 - What the season is, what the battle pass contains, how it progresses
@@ -151,6 +142,80 @@ permanently. ✅*player-confirmed*
 ---
 
 ## 🔬 RESULTS — researched, waiting to be read
+
+### ✅ REQUEST 5 — LABS KEYCARDS AND THE MILLION-ROUBLE KEYS
+
+⚠️ **web-sourced, unverified.**
+
+#### 🚨 START HERE — you can CRAFT Labs keycards, and you already can
+
+> ### **UHF RFID Reader + Intelligence folder → Intelligence Center LEVEL 2 → 40 minutes → 3× TerraGroup Labs access keycard**
+>
+> **You have Intelligence Center 2.** That craft is available to you **right now**, and it
+> returns **three** cards for two items. **This is the cheapest Labs access in the game and
+> nobody told you it existed.**
+
+**And you may already be holding some:** ⭐ **`The Huntsman Path – Woods Keeper` rewards
+3× Labs keycard** — the quest you completed with the F1 grenade. **Check your stash.**
+
+#### 🔑 Every route to a Labs keycard
+
+| Route | Detail |
+|---|---|
+| 🏗 **CRAFT** | **UHF RFID Reader + Intelligence folder** → Int Center 2 → 40 min → **×3** |
+| 🎁 **Woods Keeper** ✅*done* | **×3** |
+| 🎁 **Camera, Action!** | ×3 |
+| 🎁 **Beneath The Streets** · **Quality Standard** | ×1 each, as starting equipment |
+| 💱 **Barter** | **Bulbex cable cutter + Pipe grip wrench + 2× Pliers Elite** → **Mechanic LL3** *(you have LL3)* |
+| 🛒 **Buy** | **Therapist LL4** or **Ref LL4** — both out of reach for now |
+| 🔮 **Cultist Circle** | 1 via a special sacrifice |
+| 🎒 **Loot** | drawers · common fund stash · scav pockets · **bosses** · rare valuables crates · **every marked room** |
+
+> 🔴 **DO NOT SELL BULBEX CABLE CUTTERS.** They're the barter ingredient above **and**
+> `Special Comms` needs one at the RUAF boulder. Your file already lists that quest.
+
+**Rules on the card itself:** consumed on entering Labs · **not** consumed in practice mode
+· max **5 in raid inventory** · fits in **wallets, docs cases, SICC and secure containers**
+· **`Fishing Place` needs 2 found in raid.**
+
+**One barter worth knowing:** **1× Labs keycard → Peacekeeper LL3 → HK G28** *(a gun on your
+"I'll use" list)*.
+
+---
+
+#### 💎 THE MOST VALUABLE KEYS
+
+| Key | Worth / why |
+|---|---|
+| 🥇 **Mysterious room marked key** *(Chekannaya 13, Streets)* | **~₽2,800,000 on the flea** — the most expensive key in the game |
+| 🥈 **Reserve bunker keys — PS81 · PS82 · PSP1 · PSP2** | **Community S-tier.** Rooms full of tech loot — **VPX cards** — plus quest items |
+| 🥉 **Reserve marked rooms — RB-BK · RB-VO** | Better loot than **RB-PKPM** by consensus |
+| **Labs Weapons Testing room key** | Best value *inside* Labs right now |
+| **Customs Dorm 314 marked key** | ⭐ **arriving free** via `Controller` |
+
+**Marked rooms have a 1.5–2% roll for high-tier loot** — keycards, GPUs, LEDX. That's the
+whole reason they're worth the key.
+
+⚠️ **Keys now have limited uses — roughly 25–50 before they break.** So a key is a
+consumable, not a permanent asset. Factor that into whether a ₽2.8M key is ever worth buying
+*(it isn't, for you)*.
+
+#### 👀 WHAT TO STOP FOR WHILE LOOTING
+
+**Any keycard** · **RB-** anything on Reserve · **marked-room keys** · **Bulbex cable
+cutters** *(barter + quest)* · **Intelligence folders** and **UHF RFID Readers** — those two
+are your keycard craft, so they're worth more to you than their sell price.
+
+---
+
+### 📋 TAKEAWAY
+
+**You don't need to buy Labs access — you can craft it three at a time, and Woods Keeper may
+have already handed you three.** The expensive keys *(₽2.8M Chek 13)* are not worth buying,
+especially now that keys wear out. **Loot Reserve RB keys when you see them, and never sell
+a Bulbex cutter.**
+
+---
 
 ### ✅ REQUEST 4 — THE THREE 1.0 TIER LISTS
 
@@ -298,6 +363,7 @@ MDR** and **better ammo at level 36** — and the second one matters more than t
 
 | Date | Session | What changed |
 |---|---|---|
+| 2026-08-20 | desktop | **REQUEST 5 DONE → RESULTS.** Labs keycards + valuable keys. 🚨 **Headline: they can CRAFT Labs keycards NOW — UHF RFID Reader + Intelligence folder → Intelligence Center 2 → 40 min → ×3.** They have Int Center 2. **And `Woods Keeper` (just completed) rewards 3 — check the stash.** Also: barter via Mechanic LL3 needs a **Bulbex cutter, which `Special Comms` also needs — do not sell them.** Most valuable key is Chek 13 at ~₽2.8M, but **keys now break after 25–50 uses**, so buying them is a bad deal. |
 | 2026-08-20 | desktop | **REQUEST 4 DONE → RESULTS.** Three 1.0 tier lists. **Guns: only 3 missing from the player's list** — QBZ-191 and Howa Type 20 *(both new in 1.0, community calls them unproven)* plus the NL545 they'd already spotted. Their list is in better shape than assumed. **Armor: community meta = Slick + UHMWPE class 6 — which validates the file's "stock Slick is a trap" finding**, and the player's CPC MOD.1 already runs the named budget plate. **Ammo: best-in-game is M995 (53) and MAI AP (58)** — the two rounds directly above their ceiling. **Third independent confirmation that ammo, not gear, is the constraint.** |
 | 2026-08-20 | desktop | **REQUEST 3 DONE → RESULTS.** Meta kits/builds. Finding: **the player already owns most of the S-tier** — Mutant *(their favourite, and it fires their best round)*, DVL-10, RPK-16 ×2, AUG, 5-7. **Only real gap: the 7.62x51 MDR** — their MDRs are the 5.56 version. Every source repeats **"ammo matters more than the gun,"** confirming request 1's pen-ceiling conclusion. Also: **1.0.4.5 decoupled recoil from handguards — stop paying for them.** Budget tier documented *(Mosin+PS under ₽20k, Vityaz ₽21k)*. **Requests 4–11 queued.** |
 | 2026-08-20 | **phone** | **Marked #1 and #2 read — both merged into `tarkov.md`.** Boss guide went into the Bosses section, loot runs replaced the old stub. Player correction added: **Kollontay's club jams your weapon**, and asked the desktop to check whether other bosses have disarm mechanics the research missed. **Next up: #3 meta kits.** |
