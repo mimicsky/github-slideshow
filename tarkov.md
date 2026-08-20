@@ -7,18 +7,17 @@
 *(Five lines max. This file is 2,500+ lines and gets read on a phone — the new stuff lives
 here so you never have to diff it.)*
 
-1. **20 Aug ·** 🏗 **BEST CRAFT: Bundle of Wires ×8 at Workbench L1 — ≈₽74,470/hr**, and it produces the **50 wires** your hideout upgrades need. *(→ Hideout crafts section)*
-2. **20 Aug ·** 🏟 **ARENA VERDICT: worth it.** **Ref LL3 is 0.10 rep away** *(AVS, HighCom TFO, Strandhogg behind it)*, and after `To Great Heights! – Part 3` Ref opens a **₽1M/day Arena→main transfer with zero gear risk.** *(→ Kappa section)*
-3. **20 Aug ·** ⚔️ **META CHECK — you already own most of the S-tier** *(Mutant, DVL-10,
+1. **20 Aug ·** 💱 **BARTERS: get the GSh118 backpack** *(barter-only, biggest in the game)* **and the HK G28 for one Labs keycard** — you craft those. **Skip the Medicine Case, HCP P5 gives you one.** *(→ Barters section)*
+2. **20 Aug ·** 🏗 **BEST CRAFT: Bundle of Wires ×8 at Workbench L1 — ≈₽74,470/hr**, and it produces the **50 wires** your hideout upgrades need. *(→ Hideout crafts section)*
+3. **20 Aug ·** 🏟 **ARENA VERDICT: worth it.** **Ref LL3 is 0.10 rep away** *(AVS, HighCom TFO, Strandhogg behind it)*, and after `To Great Heights! – Part 3` Ref opens a **₽1M/day Arena→main transfer with zero gear risk.** *(→ Kappa section)*
+4. **20 Aug ·** ⚔️ **META CHECK — you already own most of the S-tier** *(Mutant, DVL-10,
    RPK-16 ×2, AUG, 5-7)*. **Only real gap: the 7.62x51 MDR.** Every source says **ammo
    matters more than the gun**, and **1.0.4.5 decoupled recoil from handguards — stop
    paying for them.** *(→ `RESEARCH.md` RESULTS)*
-4. **20 Aug ·** ⭐ **BOSS KILL GUIDE + LOOT RUNS MERGED.** Key finds: **Kaban is takeable
+5. **20 Aug ·** ⭐ **BOSS KILL GUIDE + LOOT RUNS MERGED.** Key finds: **Kaban is takeable
    now** *(his guards have no helmets)* · **Glukhar is softer than his own guards** ·
    **Kollontay's club JAMS YOUR GUN** ✅*player* · **you're capped at 45–48 pen until level
    36**, which is the unlock that changes everything.
-5. **20 Aug ·** 🧊 **Ice Breaker is PvE and reachable** — Boreas unlock starts from your
-   **Intelligence Center 3 radio.** Insurance doesn't work there. *(→ its own section)*
 
 > **PvE · Patch 1.1.0.1.46699 · Unheard · Level 30 · USEC · Stash 4 · ~₽3.2M**
 
@@ -1251,6 +1250,33 @@ wasted.
    traders reset. You keep stats, achievements, some skills and mastering, Arena rating,
    and prestige rewards, and each level lets you carry a few more items over. Needs level
    55. It's a deliberate restart, not a bonus.
+
+---
+
+# 💱 BARTERS WORTH DOING ⚠️*web-sourced*
+
+**The rule: a barter is good when you get back far more than you hand over.** Three do that
+by a wide margin — **UZI PRO · MP7A2 · HK G28.**
+
+### ✅ DO THESE
+
+| Barter | From | Why it's worth it |
+|---|---|---|
+| 🥇 **GSh118 backpack** | **Prapor** | **The biggest container in the game, and BARTER-ONLY — there is no rouble price.** ⭐ Straight upgrade to every loot run, especially the ₽1M Interchange tech circuit |
+| 🥈 **HK G28** | **Peacekeeper LL3** | **Costs 1× Labs keycard** — ⭐ **and you can CRAFT those three at a time at Intelligence Center 2.** A gun on your *I'll use* list for an item you manufacture |
+| **UZI PRO / MP7A2** | — | Named as the best value-for-input barters in the game. **You already own an MP7A2**, so this is only worth it as a spare |
+
+### ❌ SKIP THESE — reasons specific to you
+
+| Barter | Why not |
+|---|---|
+| **Medicine Case** *(Therapist)* | 🚫 **You're getting one FREE.** `Health Care Privacy P5`'s next-task rewards include a **Medicine case** ✅*player-confirmed from screen* |
+| **6B43 Zabralo** *(Prapor)* | Class 6 armor — **but you already own the Zhuk**, which is class 6 all round at 11.5 kg. Zabralo is **10.8 kg with -9% movement.** No gain |
+| **KS-23M** *(Prapor)* | 🚫 **It's on your HATE list.** Cheap and effective, and you will never use it |
+
+> 💡 **The pattern: barter for things that cannot be bought** — the GSh118 has no rouble
+> price at all, and the G28 costs an item you can manufacture on demand. **Don't barter for
+> anything a quest is about to hand you.**
 
 ---
 

@@ -98,17 +98,8 @@ Just add a line under **📥 REQUESTS** — no format required, plain English is
 > ✅ **Player confirms holding at least 2 Labs keycards.**
 > 📋 **Player will test the car extract and report the real rep number.**
 
-**Posted 2026-08-20 from the phone session.** Six jobs, roughly in priority order.
-**Take them one at a time and post each into RESULTS as it finishes** — don't wait until
-all six are done.
-
----
-
-### 11. 💱 BEST BARTERS — just the good ones
-
-The game shows what a barter is worth in roubles, so **skip the pricing analysis**. Just
-answer: **which barters are actually worth doing?** The standouts, what they cost in items,
-and what they'd cost in cash instead.
+✅ **QUEUE EMPTY — all 11 requests delivered and merged into `tarkov.md`.**
+*(Post new requests below this line.)*
 
 ---
 
@@ -145,6 +136,7 @@ permanently. ✅*player-confirmed*
 
 | Date | Request | Where it landed |
 |---|---|---|
+| 2026-08-20 | **#11 Best barters** | `tarkov.md` → new **💱 Barters worth doing** section. **DO: GSh118 backpack (barter-only, biggest in game) · HK G28 for 1 Labs keycard (which they can craft ×3).** **SKIP: Medicine Case (HCP P5 gives one free) · Zabralo (they own the Zhuk) · KS-23M (on their hate list).** |
 | 2026-08-20 | **#10 Hideout crafts** | `tarkov.md` → new **🏗 Hideout crafts — ranked** section above *Hideout*. 🥇 **Bundle of Wires ×8 at Workbench L1 — ₽74,470/hr AND it makes the 50 wires blocking their upgrades.** Moonshine / Bitcoin Farm / Int Center are the three to build around. Their existing gas-canister and CMS crafts confirmed as keepers. |
 | 2026-08-20 | **#1 Full boss-killing guide** | `tarkov.md` → *Bosses* → **"How to actually kill them"**. Includes the 45–48 pen ceiling, the take-now / doable / wait split, and the level-36 unlock. **Player correction folded in: Kollontay's club jams your weapon.** |
 | 2026-08-20 | **#9 Arena** | ✅ **Worth it.** Ref LL3 is **0.10 rep away** *(2nd AVS, Trooper TFO, Strandhogg)*, and `To Great Heights P3` opens **₽1M/day transfer** with zero gear risk. |
@@ -162,6 +154,7 @@ permanently. ✅*player-confirmed*
 
 | Date | Session | What changed |
 |---|---|---|
+| 2026-08-20 | desktop | **REQUEST 11 DONE + MERGED — QUEUE NOW EMPTY.** Barters. **Do: GSh118 backpack** *(barter-only, no rouble price, biggest container in the game)* **and the HK G28 for one Labs keycard** — which they craft three at a time. **Skip: Medicine Case** *(HCP P5 hands one over free)*, **Zabralo** *(they own the Zhuk)*, **KS-23M** *(hate list)*. Principle recorded: **barter for what can't be bought, never for what a quest is about to give you.** |
 | 2026-08-20 | desktop | **REQUEST 10 DONE + MERGED.** Hideout crafts ranked. **Best available to them right now: Bundle of Wires ×8 at Workbench L1 — ≈₽74,470/hr, and it double-dips because their hideout needs 50 wires.** Metric is profit/hour not profit. Moonshine, Bitcoin Farm and Intelligence Center are the three to build around *(Int Center also crafts the Labs keycards)*. Flagged that live prices couldn't be pulled — **tarkov.dev's API has been down all session.** |
 | 2026-08-20 | **phone** | 🔴 **FILE OWNERSHIP SPLIT.** Phone writes `RESEARCH.md` only; desktop owns all writes to `tarkov.md`. Caused by a concurrent Arena merge that duplicated a block and silently deleted a standing rule. Added a **PLAYER FACTS** table for desktop to merge. **Desktop: check for duplicates from requests 1/2/4/5/6/7/9, which the phone already merged.** |
 | 2026-08-20 | desktop | **REQUEST 9 DONE → RESULTS.** Arena verdict: **YES, for two reasons.** (1) **Ref LL3 is 0.10 rep away** and holds a second AVS, HighCom TFO and Strandhogg — their armor research already found that. (2) **The transfer pipe: ₽1,000,000/day from Arena to the main game at a 15% fee, with zero gear risk** — more than the best loot run in the game. **Gated behind `To Great Heights! – Part 3`.** Verdict: worth it as a parallel income stream, not worth dropping questing for. |
