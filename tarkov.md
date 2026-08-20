@@ -953,7 +953,11 @@ Kappa wants **3.0** and you're at **LL1**.
 
 # Insurance
 
-**Insured gear comes back 100% of the time, after 24 hours.** It costs money, and the
+> 🔴 **INSURANCE DOES NOT WORK ON LABS OR ICEBREAKER.** Anything you take in there and
+> lose is **gone permanently**. Kit those two maps as if there's no safety net, because
+> there isn't. ✅*player-confirmed*
+
+**Everywhere else: insured gear comes back 100% of the time, after 24 hours.** It costs money, and the
 pricier the gear the pricier the premium.
 
 **What you insure:** helmet, rig/armor, headphones, gun, backpack — always. Good mags too;
