@@ -15,13 +15,12 @@ here so you never have to diff it.)*
    now** *(his guards have no helmets)* · **Glukhar is softer than his own guards** ·
    **Kollontay's club JAMS YOUR GUN** ✅*player* · **you're capped at 45–48 pen until level
    36**, which is the unlock that changes everything.
-2. **20 Aug ·** 🧊 **Ice Breaker is PvE and reachable** — Boreas unlock starts from your
+3. **20 Aug ·** 🧊 **Ice Breaker is PvE and reachable** — Boreas unlock starts from your
    **Intelligence Center 3 radio.** Insurance doesn't work there. *(→ its own section)*
-3. **20 Aug ·** **Boss stat + tactics table added** — all 9, HP and the one thing that
-   decides each fight. **Zryachiy's guards respawn 3× unless he dies first.**
 4. **20 Aug ·** **Levelling + skills** — quests dominate XP, **run-through forfeits the
    survival bonus AND Found-in-Raid status**, skill-fatigue curve documented.
-   Thrifty, Small Things, Steady Signal, Metal Birds, HCP P3/P4, Zhivchik, Woods Keeper all ✅.
+5. **20 Aug ·** **Woods nearly cleared** — Swift, Tough Guy, Gratitude, Weapons Circulation,
+   Thrifty, Small Things, Steady Signal, Metal Birds, HCP P3/P4, Zhivchik, Woods Keeper ✅.
 
 > **PvE · Patch 1.1.0.1.46699 · Unheard · Level 30 · USEC · Stash 4 · ~₽3.2M**
 
