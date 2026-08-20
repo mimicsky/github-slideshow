@@ -50,14 +50,6 @@ all six are done.
 
 ---
 
-### 2. 💰 TOP 5 LOOT RUNS — go beyond the wiki
-
-**Search Reddit, YouTube, and anywhere else you can reach.** The wiki is poor for this;
-the good routes live in community posts and video guides.
-
-Want: **the top 5 money runs in the current patch**, with the actual route, what to grab,
-what it's worth per raid, keys needed, and how risky it is.
-
 ### 3. ⚔️ CURRENT META KITS AND BUILDS
 
 What people are actually running right now — gun builds, armor setups, the standard
@@ -171,6 +163,77 @@ permanently. ✅*player-confirmed*
 ---
 
 ## 🔬 RESULTS — researched, waiting to be read
+
+### ✅ REQUEST 2 — TOP 5 LOOT RUNS
+
+⚠️ **web-sourced, unverified** · figures are community estimates for patch 1.0.5, so treat
+them as ranges not promises.
+
+> ⭐ **The headline: three of the five are raids you're already scheduled to run.** You
+> don't need a separate "money night" — you need to bring a backpack to the quests you're
+> doing anyway.
+
+#### 🥇 1. Interchange — the tech-store circuit · **₽500k–1M+**
+- **Route:** **OLI → Techlight/Rasmussen → Goshan → IDEA → Kiba Arms → EMERCOM Medical**
+- **Grab:** graphics cards, electronics, **Tetriz**, meds, **LEDX** from the pharmacies
+- **Keys:** none needed for the bulk of it — **the register-and-tech sweep is key-free and
+  still clears several hundred thousand.** EMERCOM / Ultra Medical / Kiba Arms outer+inner
+  raise the ceiling past a million
+- **Risk:** medium — **and it's Killa's floor**
+- ⭐ **This is your `Supervisor` + books raid.** Identical route. Bring a bag
+
+#### 🥈 2. Streets — the keyed run · **₽1M+, exceptional runs 2–3M**
+- **Route:** **LexOs dealership (Kaban's stash) → Chekannaya 15 / 13 marked-room block →
+  Concordia apartment 64 → Pinewood Hotel rooms** → extract **Crash Site or Courtyard**
+- **Grab:** GPUs · **LEDX** · **VPX Flash Storage** · **Intelligence folders**
+- **Keys:** several — this is the run that most rewards owning keys
+- ⭐ **Overlaps your Streets quest board hard:** `Your Car Needs a Service` is at LexOs,
+  `House Arrest` is Chekannaya 15, `Watching You` is Pinewood 215, `Surveillance` is
+  Concordia. **Same buildings, quests and money together**
+
+#### 🥉 3. Reserve — RB-key bunker rooms · **₽400k–900k**
+- **Route:** **King / Knight / Bishop structures → train station → D-2 bunker → server rooms**
+- **Grab:** supply crates, weapon mods, military tech, intelligence folders
+- **Keys:** **RB-PSP1 · RB-PSP2 · RB-VO** *(and you already need **RB-ST** for `Surplus Goods`)*
+- **Risk:** medium-high — **Raider AI patrols underground**
+- ⭐ **This IS the D-2 chain raid.** Five or six quests plus 400–900k on the same trip.
+  **Buy the RB keys before you go**
+
+#### 4. Labs · **₽1M+** — but read the warning
+- **Grab:** GPUs, LEDX, keycards, Bitcoin, meta weapons — the densest loot in the game
+- **Keys:** a **Labs access keycard, consumed on entry**
+- 🔴 **INSURANCE DOES NOT WORK ON LABS** ✅*player-confirmed* — everything you carry in can
+  be lost permanently
+- ⭐ **`Chemical - Part 4` (Skier branch) rewards 2× Labs keycard** — so your entry fee is
+  already on its way. **Go in cheap the first time**
+
+#### 5. Customs — Dorm 314 marked room · **₽200k–700k**
+- **Route:** three-storey dorms **room 314** + the crackhouse perimeter
+- **Grab:** **keycards spawn here**, guaranteed meds
+- **Keys:** **Dorm room 314 marked key**
+- ⭐ **You're getting that key free** — it's the next-task reward on `Controller`, the
+  Zarya stun quest you just picked up
+- **Risk:** high, most contested area on the map. ✅ **Safer alternative: the Customs stash
+  circuit, ₽300k–800k with almost no player contact**
+
+#### 🍯 Honourable mention — Shoreline Resort · **₽300k–700k**
+East and West wing rooms — safes, meds, weapons, keycards. Needs wing keys. Medium risk.
+
+---
+
+### 📋 WHAT THIS MEANS FOR YOU
+
+| Raid you're already doing | Money it also pays |
+|---|---|
+| **Reserve D-2 chain** | **₽400–900k** — buy RB-PSP1, RB-PSP2, RB-VO first |
+| **Interchange `Supervisor` + books** | **₽500k–1M** — bring a backpack, sweep registers |
+| **Streets quest block** | **₽1M+** — LexOs, Chekannaya, Pinewood, Concordia are all quest sites |
+
+**The one genuinely new activity worth adding: the Customs stash circuit** — ₽300–800k with
+minimal contact, and it pairs with `Angry Watchman` *(Dorms-zone PMCs)* and the Customs
+propane tank for `Thirsty – Delivery`.
+
+---
 
 ### ✅ REQUEST 1 — FULL BOSS-KILLING GUIDE
 
@@ -325,6 +388,7 @@ against boss guards.** Everything changes at **level 36** with 5.45 BS.
 
 | Date | Session | What changed |
 |---|---|---|
+| 2026-08-20 | desktop | **REQUEST 2 DONE → RESULTS.** Top 5 loot runs. Finding: **three of the five are raids already on the schedule** — Reserve D-2 *(₽400–900k, buy RB-PSP1/PSP2/VO)*, Interchange `Supervisor` *(₽500k–1M, key-free sweep works)*, Streets quest block *(₽1M+, LexOs/Chekannaya/Pinewood/Concordia are quest sites)*. **Dorm 314 key arrives free** via `Controller`. **Labs entry arrives free** via `Chemical P4`. Also added the requested **🆕 WHAT CHANGED block at the top of `tarkov.md`.** |
 | 2026-08-20 | desktop | **REQUEST 1 DONE → RESULTS.** Full boss-killing guide, all 11, built around the player's actual guns/ammo/armor. Headline: their ammo caps at 45–48 pen, boss guards wear class 5–6, so they're a heads-and-legs player until **level 36 → Prapor LL4 → 5.45 BS (54 pen)**. Take now: Reshala, Kaban *(north via Chek 15, guards have no helmets)*, Shturman. Wait: Killa, Tagilla, Zryachiy *(175 head, guards respawn 3× unless he dies first)*. **Requests 2–6 still queued.** |
 | 2026-08-20 | **phone** | **Posted 5 more requests** — Fence rep source table + fastest path *(current rate is 0.06/raid, painful)* · full quest dependency tree from Fandom's before/after links · Arena worth-it check · hideout craft profit ranking · best barters. Also asked for a **WHAT CHANGED block** on every push. |
 | 2026-08-20 | **phone** | **Posted 6 research requests** — full boss-killing guide (kit/ammo/tactics for all 11) · top 5 loot runs from Reddit/YouTube · current meta kits · the three 1.0 tier lists · Labs keycards + million-rouble keys · Kord breach season & battle pass. Also recorded **Labs has no insurance** into `tarkov.md`. |
