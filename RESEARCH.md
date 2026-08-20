@@ -50,33 +50,6 @@ all six are done.
 
 ---
 
-### 7. 🔴 FENCE REP — the full source table and the fastest realistic path
-
-**This is goal #2 and the player is grinding it at a terrible rate. Fix that.**
-
-**What they're doing now** ✅*player-confirmed*:
-> Go in as a **scav**, find PMCs who have **already killed a scav**, and kill them —
-> **+0.01 per kill**. Transit to another map, repeat, come back to Factory, repeat. Ends
-> either dying to **Tagilla** *(who aggros scavs)* or extracting loaded with loot.
->
-> **Best result so far: 0.06 for FIVE PMC kills plus one extraction.**
-
-**The problems with it, in their words:** the PMC has to kill a scav *first*, the player
-has to land the kill *themselves*, and the PMC may be gone by the time they arrive.
-
-**What's needed:**
-- **Every source of Fence rep, with its exact value** — scav extract, PMC-killed-a-scav
-  kills, car extract, quest rewards, anything else that exists
-- **Every penalty, with its value** — killing scavs as a scav, killing a boss as a scav,
-  dying as a scav *(does that even cost anything?)*, leaving early
-- **Is 0.01 per assisted PMC kill really the rate, or is something being missed?**
-- **The fastest realistic path from their current standing to 3.0** — how many raids, of
-  what kind
-- Does anything **passively** raise it? Any quest that pays a chunk?
-
-> ⚠️ **If the honest answer is "it's just slow," say so plainly.** Better to know it's a
-> months-long background task than to keep optimising a dead end.
-
 ### 8. 🌳 QUEST DEPENDENCY TREE — the whole graph
 
 **Fandom makes this easy:** every quest page lists what comes **before** it and what it
@@ -133,6 +106,105 @@ permanently. ✅*player-confirmed*
 ---
 
 ## 🔬 RESULTS — researched, waiting to be read
+
+### ✅ REQUEST 7 — FENCE REP / SCAV KARMA
+
+⚠️ **web-sourced, unverified.** **Fence reputation IS Scav karma** — same number, two names.
+
+## 🚨 THE ANSWER: IT IS NOT SLOW. YOU ARE USING THE WORST SOURCE.
+
+> **Your method pays +0.01–0.03 per PMC kill.**
+> **A first-time car extraction pays +0.2. A first-time co-op extraction pays +0.25.**
+> **And the count is PER LOCATION — so every map has its own untouched first-time bonus.**
+
+**You are at 1.566. Goal is 3.0. That gap is 1.434.**
+**≈ SEVEN first-time car extractions covers almost the whole thing.**
+
+---
+
+### 📈 EVERY SOURCE OF FENCE REP
+
+| Action | Change | Notes |
+|---|---|---|
+| 🥇 **Co-op extraction** *(as Scav OR PMC)* | **+0.25** | **first time per location.** Later uses = `0.25 ÷ total uses` |
+| 🥈 **Vehicle/car extraction as PMC** | **+0.2** | **first time per location.** Later uses = `0.2 ÷ total uses` *(4th ≈ 0.05)* |
+| **Help a Scav Boss** | **+0.05** | fight alongside him as a Scav |
+| **Complete a Scav task** *(Fence dailies)* | **+0.01 to +0.05** | 🔑 **requires Intelligence Center — YOU HAVE IT** |
+| Kill a traitor Scav as Scav | +0.03 | a Scav who harmed any Scav/boss/guard becomes a traitor for the raid — **no penalty for killing them** |
+| **Kill a PMC who killed a Scav** | **+0.02** | **+0.03 if that PMC killed 2 or more** ⚠️*see conflict* |
+| Help a Scav Boss guard | +0.02 | |
+| Help a Scav | +0.01–0.02 | |
+| Extract or transit as a Scav | +0.01 | |
+| Kill Raider · Rogue · Cultist as Scav | **none** | no gain, **no penalty** |
+
+### 📉 EVERY PENALTY
+
+| Action | Change |
+|---|---|
+| **Kill a Scav Boss as a Scav** | **−0.2** |
+| **Kill a player Scav as a Scav** | **−0.1** |
+| Kill a Scav Boss guard as Scav | −0.05 |
+| Kill an AI Scav as Scav | −0.03 to −0.05 |
+| ✅ **DYING as a Scav** | **NOTHING — it is not a penalty.** *(answers your question directly)* |
+| ✅ **Leaving early** | **not a listed penalty** |
+
+*(Above +6, penalties are calculated as if you were at +6. Above +8, an extra −2 applies.)*
+
+---
+
+### ⚠️ CONFLICT — your rate vs the wiki
+
+```
+⚠️ CONFLICT — Fence rep per assisted PMC kill
+  Player screen: +0.01 per kill  (0.06 total for 5 kills + 1 extraction)
+  Fandom:        +0.02, or +0.03 if the PMC killed 2+ Scavs
+  → Player's screen wins. Your 0.06 matches +0.01/kill exactly.
+  Possible causes: PvE differs from PvP, or some of those PMCs hadn't
+  actually killed a Scav. Worth one check in game.
+```
+
+**Either way it doesn't change the conclusion** — even at the wiki's +0.03, a car extract is
+**7× better** and a co-op extract is **8×**.
+
+---
+
+### 🎯 THE FASTEST REALISTIC PATH FROM 1.566 → 3.0
+
+**1. 🚗 Use the car extract once on every map you play.** +0.2 each, and **it stacks with
+raids you're already running**:
+- **Customs — Dorms V-Ex** · **Interchange — Power Station V-Ex** · **Woods — Bridge car
+  (₽5k)** · **Shoreline · Lighthouse · Ground Zero · Streets — Primorsky Ave Taxi V-Ex**
+- ⭐ **`Paramedic` REQUIRES extracting via Primorsky Ave Taxi V-Ex.** That quest pays you
+  **+0.2 Fence rep for free.**
+- **Seven maps ≈ +1.4.** That is essentially your entire remaining gap
+
+**2. 🤝 Co-op extracts — +0.25 each, the single best source.** ⚠️ These normally need a
+Scav and a PMC to cooperate; **whether they trigger in PvE with AI Scavs needs testing.**
+**Try one and tell me** — if it works, it's better than the car extracts
+
+**3. 📋 Turn on Fence's Scav daily tasks.** You have the **Intelligence Center**, so they're
+already available. **+0.01–0.05 each, every day, forever.** This is your passive source
+
+**4. Keep the PMC-killing method as a bonus, not a plan.** It's the slowest thing on the
+list
+
+**5. 🚫 Never kill an AI Scav, player Scav or boss while playing Scav.** One boss kill
+(−0.2) erases a car extract
+
+---
+
+### 🎁 WHAT KARMA ACTUALLY BUYS
+
+Car extract fees ↓ · **BTR trunk size** ↑ · transit delivery size ↑ · **Scav case turnaround**
+↓ · Fence payout ↑ · **Scav cooldown** ↓ · Scav gear quality ↑ · AI Scavs obey commands ·
+**at +6: a 30% discount sales tab, AI Scavs fight for you, and Scav bosses treat you as an ally**
+
+**Quest gates:** **+1** → `Is This a Reference?` *(you're past it)* · **+2** → `Network
+Provider – Part 1` · **+4** → `Establish Contact` **and** the **Savior ending route**
+
+> ⭐ **Note +2 is only 0.43 away** — one or two car extracts unlocks `Network Provider`.
+
+---
 
 ### ✅ REQUEST 6 — KORD BREACH SEASON + BATTLE PASS
 
@@ -429,6 +501,7 @@ MDR** and **better ammo at level 36** — and the second one matters more than t
 
 | Date | Session | What changed |
 |---|---|---|
+| 2026-08-20 | desktop | **REQUEST 7 DONE → RESULTS.** Fence rep. 🚨 **It is NOT slow — they're using the worst source.** PMC kills pay +0.01–0.03; a **first-time car extraction pays +0.2 and a co-op extraction +0.25, counted PER LOCATION.** Their 1.434 gap to 3.0 is **≈7 car extracts**, and **`Paramedic` already requires one** *(Primorsky Ave Taxi V-Ex)*. **Fence Scav daily tasks (+0.01–0.05) need the Intelligence Center, which they have.** **Dying as a Scav costs nothing.** ⚠️ CONFLICT logged: their +0.01/kill vs wiki's +0.02–0.03. |
 | 2026-08-20 | desktop | **REQUEST 6 DONE → RESULTS.** Kord Breach battle pass. ⏰ **TIME-LIMITED: 3 Aug → 7 Dec 2026**, free, works in PvE, rewards permanent. **501 documents total, PvE cap 15/day (shared across modes) — works out to ~4.6/day over the 109 days left, so achievable without changing how they play.** Their current map rotation already covers **6 of the 8 document types**; the two missing *(Medical, User)* both come from **Ground Zero or The Lab — and they're about to have craftable Labs keycards.** |
 | 2026-08-20 | desktop | **REQUEST 5 DONE → RESULTS.** Labs keycards + valuable keys. 🚨 **Headline: they can CRAFT Labs keycards NOW — UHF RFID Reader + Intelligence folder → Intelligence Center 2 → 40 min → ×3.** They have Int Center 2. **And `Woods Keeper` (just completed) rewards 3 — check the stash.** Also: barter via Mechanic LL3 needs a **Bulbex cutter, which `Special Comms` also needs — do not sell them.** Most valuable key is Chek 13 at ~₽2.8M, but **keys now break after 25–50 uses**, so buying them is a bad deal. |
 | 2026-08-20 | desktop | **REQUEST 4 DONE → RESULTS.** Three 1.0 tier lists. **Guns: only 3 missing from the player's list** — QBZ-191 and Howa Type 20 *(both new in 1.0, community calls them unproven)* plus the NL545 they'd already spotted. Their list is in better shape than assumed. **Armor: community meta = Slick + UHMWPE class 6 — which validates the file's "stock Slick is a trap" finding**, and the player's CPC MOD.1 already runs the named budget plate. **Ammo: best-in-game is M995 (53) and MAI AP (58)** — the two rounds directly above their ceiling. **Third independent confirmation that ammo, not gear, is the constraint.** |
