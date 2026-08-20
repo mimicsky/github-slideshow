@@ -50,14 +50,6 @@ all six are done.
 
 ---
 
-### 9. 🏟 ARENA — worth it or not?
-
-**The player already has Arena access.** Two questions only:
-
-1. **Are the Arena quests worth doing?** What do they pay, and does any of it help the main
-   game — especially **Ref rep**, since Ref LL3 is **0.10 rep away**
-2. **Are the crates/rewards you unlock worth the loot?** Straight yes-or-no with reasoning
-
 ### 10. 🏗 HIDEOUT CRAFTS — rank them all by profit
 
 **No need to price barters — the game already shows rouble value in-game.**
@@ -103,6 +95,69 @@ permanently. ✅*player-confirmed*
 
 ## 🔬 RESULTS — researched, waiting to be read
 
+### ✅ REQUEST 9 — ARENA: WORTH IT OR NOT?
+
+⚠️ **web-sourced, unverified.**
+
+## ✅ ANSWER: YES — for two specific reasons, neither of which is the gameplay
+
+### 1. 🔴 REF LL3 IS WORTH MORE THAN YOU THINK — and you're 0.10 away
+
+**Ref's loyalty requirements** ⚠️*web-sourced*:
+
+| LL | Level | Rep |
+|---|---|---|
+| LL2 | 15 | 0.25 |
+| **LL3** | **25** ✅ | **0.50** ← **you're at 0.40** |
+| LL4 | 35 | 1.20 |
+
+**Your armor research already found what's behind that door:** a second **Crye AVS
+(MultiCam)**, **HighCom Trooper TFO**, and **First Spear Strandhogg** all sit at **Ref LL3**.
+**0.10 rep is one or two quests.**
+
+### 2. 💰 THE TRANSFER PIPE — this is the real prize
+
+**After completing `To Great Heights! – Part 3`, Ref opens item and currency transfer
+between Arena and your main game.** Daily limits for a main character:
+
+| Transferable | Daily cap |
+|---|---|
+| **Roubles** | **₽1,000,000** *(₽1.5M on the Ryzhy edition)* |
+| GP coins | 350 |
+| Lega Medals | 5 |
+| **Locked crates** | ✅ transferable |
+
+**Fees: 15% on roubles, 5% on items** — reduced by **Charisma** and **Ref loyalty level**.
+
+> ⭐ **₽1,000,000 per day is more than the best loot run in the game** *(Interchange tops out
+> around ₽1M on a good raid, with a real chance of dying)*. **Arena money carries no gear
+> risk at all** — you can't lose your stash in an Arena match.
+>
+> **The catch: you have to actually earn it in Arena, and 15% comes off the top.**
+
+---
+
+### 🎫 Third reason, smaller: the BattlePass crosses over
+
+**BattlePass rewards earned unlock in PvE mode too**, including trade offers and clothing.
+And your armor research already turned up several items gated behind *"unlocking it in the
+Arena BattlePass"* — **Thunderbolt (Ranger Green)**, **WARTECH TV-115**, **Strandhogg
+variants**, **Stich Profi V2** and others sit behind Arena BattlePass seasons in Ref's shop.
+
+---
+
+### 📋 THE HONEST VERDICT
+
+| Question | Answer |
+|---|---|
+| **Are Arena quests worth doing?** | ✅ **Yes** — Ref rep is the only route to LL3/LL4, and **LL3 is 0.10 away** |
+| **Are the crates/rewards worth it?** | ✅ **Yes, but conditionally** — the value is the **₽1M/day transfer**, not the crates themselves. **Unlocked only after `To Great Heights! – Part 3`** |
+| **Should you drop everything for it?** | ❌ **No.** It's a **parallel income stream with zero gear risk**, not a replacement for questing |
+
+**Practical: do enough Arena to clear the 0.10 to Ref LL3, then decide whether the ₽1M/day
+pipe is worth your play time.** ⚠️ **Note the access chain: Ref himself requires `Easy Money
+– Part 1` from Skier**, and the transfer service requires **`To Great Heights! – Part 3`.**
+
 *(empty — requests 1–7 all read and merged)*
 
 ---
@@ -126,6 +181,7 @@ permanently. ✅*player-confirmed*
 
 | Date | Session | What changed |
 |---|---|---|
+| 2026-08-20 | desktop | **REQUEST 9 DONE → RESULTS.** Arena verdict: **YES, for two reasons.** (1) **Ref LL3 is 0.10 rep away** and holds a second AVS, HighCom TFO and Strandhogg — their armor research already found that. (2) **The transfer pipe: ₽1,000,000/day from Arena to the main game at a 15% fee, with zero gear risk** — more than the best loot run in the game. **Gated behind `To Great Heights! – Part 3`.** Verdict: worth it as a parallel income stream, not worth dropping questing for. |
 | 2026-08-20 | desktop | **REQUEST 8 DONE → RESULTS.** Quest tree. 🏆 **Found why goal #2 is 3.0: Kappa requires Scav karma +3** — the file had the target without the reason. **Full Kappa gate: karma +3 · LL4 with SEVEN traders · the four ⭐Kappa quests.** The seven LL4s are the real wall — **level 42 minimum**, with **Jaeger rep (2.55/7.30) and Ragman rep (3.35/6.50) as the true bottlenecks.** Active chains mapped *(HCP P5 branches to Decontamination Service AND P6; Sew it Good **P2** is the Kappa gate, not P1)*. ⚠️ **Correction: Network Provider P1 is NOT obtainable in any game mode right now** — I was wrong last check. |
 | 2026-08-20 | desktop | **REQUEST 7 DONE → RESULTS.** Fence rep. 🚨 **It is NOT slow — they're using the worst source.** PMC kills pay +0.01–0.03; a **first-time car extraction pays +0.2 and a co-op extraction +0.25, counted PER LOCATION.** Their 1.434 gap to 3.0 is **≈7 car extracts**, and **`Paramedic` already requires one** *(Primorsky Ave Taxi V-Ex)*. **Fence Scav daily tasks (+0.01–0.05) need the Intelligence Center, which they have.** **Dying as a Scav costs nothing.** ⚠️ CONFLICT logged: their +0.01/kill vs wiki's +0.02–0.03. |
 | 2026-08-20 | desktop | **REQUEST 6 DONE → RESULTS.** Kord Breach battle pass. ⏰ **TIME-LIMITED: 3 Aug → 7 Dec 2026**, free, works in PvE, rewards permanent. **501 documents total, PvE cap 15/day (shared across modes) — works out to ~4.6/day over the 109 days left, so achievable without changing how they play.** Their current map rotation already covers **6 of the 8 document types**; the two missing *(Medical, User)* both come from **Ground Zero or The Lab — and they're about to have craftable Labs keycards.** |
