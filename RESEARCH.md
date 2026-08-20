@@ -50,13 +50,6 @@ all six are done.
 
 ---
 
-### 4. 📊 THE THREE 1.0 TIER LISTS — guns · armor · ammo
-
-The gun tier list in `tarkov.md` **predates 1.0 and the Kord breach** — it's missing the
-NL545 GP and probably others. **Find current 1.0 versions of all three.**
-
-For guns: **return only what isn't already ranked** in the kit section.
-
 ### 5. 🔑 THE MILLION-ROUBLE KEYS — Labs keycards and marked/locked rooms
 
 - **How to get Labs access keycards** — every route: spawn locations, drops, barters, prices
@@ -159,6 +152,64 @@ permanently. ✅*player-confirmed*
 
 ## 🔬 RESULTS — researched, waiting to be read
 
+### ✅ REQUEST 4 — THE THREE 1.0 TIER LISTS
+
+⚠️ **web-sourced, unverified** · community rankings, most recent dated **16 Aug 2026**.
+
+#### 🔫 GUNS — only what your list is MISSING *(as asked)*
+
+Your tier list already covers the entire current S-tier. **Genuinely new since 1.0:**
+
+| Gun | Verdict |
+|---|---|
+| **Norinco QBZ-191** 🆕 | New in 1.0. **"Unproven — not fully optimised yet."** No settled ranking |
+| **Howa Type 20** 🆕 | New in 1.0. Same verdict — **community hasn't worked it out** |
+| **NL545 GP** | *(already flagged missing in your file)* — now confirmed **top-tier**, listed alongside the MDR as the current standout |
+
+**That's it. Two new guns, neither of them settled.** Everything else the community ranks
+S-tier — **MDR 7.62x51 · Mk47 · M4A1 · RSASS · AK-103** — is already in your list, and
+**A-tier AUG A1/A3 and SA-58** are too.
+
+> ✅ **Your tier list is in better shape than the file assumed.** It was flagged as
+> "predates 1.0 and is missing guns" — in practice it's missing **three**, and you'd already
+> found one of them yourself.
+
+#### 🛡 ARMOR
+
+| Tier | Setup |
+|---|---|
+| **Meta** | **LBT-6094A Slick** + **class 6 UHMWPE** — **KITECO SC-IV SA** or **GAC 4sss2** |
+| **Budget** | **5.11 Hexgrid** + **GAC 3s15m** *(class 5 UHMWPE)* |
+| **Rule** | **Class 5 minimum for rifle fights, class 6 ideal** |
+
+> ⭐ **This validates your armor research exactly.** The community meta is *"Slick **plus
+> UHMWPE class 6 plates**"* — **not a stock Slick**, which your file correctly identified as
+> a trap because it ships with Kiba Arms Steel *(95 effective, 5.1 kg)*.
+>
+> ⭐ **And you're already at budget-meta or above:** your **CPC MOD.1 runs GAC 3s15m** — the
+> exact plate named as the budget pick — at **0% movement penalty**, while your **Zhuk is
+> class 6 all round**. **No armor purchase would improve you.**
+
+#### 🔸 AMMO
+
+**Community "best right now": 5.56 M995 · 7.62x39 MAI AP · .45 RIP.**
+
+**Lobby armor expectations:** mid-raid players wear **class 4–5**, late kits **class 5–6**.
+
+> 🔴 **Third independent confirmation of the same problem.** The two rifle rounds named as
+> best are **M995 (53 pen)** and **MAI AP (58 pen)** — precisely the two sitting above your
+> **45–48 ceiling.** Requests 1, 3 and 4 have now each arrived at this from a different
+> direction.
+
+---
+
+### 📋 TAKEAWAY
+
+**Nothing to buy. Two guns to watch.** Your guns are meta, your armor is meta-or-better,
+and **the only gap on all three lists is ammunition** — which resolves at **level 36**.
+
+---
+
 ### ✅ REQUEST 3 — CURRENT META KITS AND BUILDS
 
 ⚠️ **web-sourced, unverified** · community build guides, current for 1.0.x.
@@ -247,6 +298,7 @@ MDR** and **better ammo at level 36** — and the second one matters more than t
 
 | Date | Session | What changed |
 |---|---|---|
+| 2026-08-20 | desktop | **REQUEST 4 DONE → RESULTS.** Three 1.0 tier lists. **Guns: only 3 missing from the player's list** — QBZ-191 and Howa Type 20 *(both new in 1.0, community calls them unproven)* plus the NL545 they'd already spotted. Their list is in better shape than assumed. **Armor: community meta = Slick + UHMWPE class 6 — which validates the file's "stock Slick is a trap" finding**, and the player's CPC MOD.1 already runs the named budget plate. **Ammo: best-in-game is M995 (53) and MAI AP (58)** — the two rounds directly above their ceiling. **Third independent confirmation that ammo, not gear, is the constraint.** |
 | 2026-08-20 | desktop | **REQUEST 3 DONE → RESULTS.** Meta kits/builds. Finding: **the player already owns most of the S-tier** — Mutant *(their favourite, and it fires their best round)*, DVL-10, RPK-16 ×2, AUG, 5-7. **Only real gap: the 7.62x51 MDR** — their MDRs are the 5.56 version. Every source repeats **"ammo matters more than the gun,"** confirming request 1's pen-ceiling conclusion. Also: **1.0.4.5 decoupled recoil from handguards — stop paying for them.** Budget tier documented *(Mosin+PS under ₽20k, Vityaz ₽21k)*. **Requests 4–11 queued.** |
 | 2026-08-20 | **phone** | **Marked #1 and #2 read — both merged into `tarkov.md`.** Boss guide went into the Bosses section, loot runs replaced the old stub. Player correction added: **Kollontay's club jams your weapon**, and asked the desktop to check whether other bosses have disarm mechanics the research missed. **Next up: #3 meta kits.** |
 | 2026-08-20 | desktop | **REQUEST 2 DONE → RESULTS.** Top 5 loot runs. Finding: **three of the five are raids already on the schedule** — Reserve D-2 *(₽400–900k, buy RB-PSP1/PSP2/VO)*, Interchange `Supervisor` *(₽500k–1M, key-free sweep works)*, Streets quest block *(₽1M+, LexOs/Chekannaya/Pinewood/Concordia are quest sites)*. **Dorm 314 key arrives free** via `Controller`. **Labs entry arrives free** via `Chemical P4`. Also added the requested **🆕 WHAT CHANGED block at the top of `tarkov.md`.** |
