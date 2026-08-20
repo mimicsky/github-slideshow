@@ -7,14 +7,18 @@
 *(Five lines max. This file is 2,500+ lines and gets read on a phone — the new stuff lives
 here so you never have to diff it.)*
 
-1. **20 Aug ·** 🧊 **Ice Breaker is PvE and reachable** — Boreas unlock starts from your
+1. **20 Aug ·** ⭐ **BOSS KILL GUIDE + LOOT RUNS MERGED.** Key finds: **Kaban is takeable
+   now** *(his guards have no helmets)* · **Glukhar is softer than his own guards** ·
+   **Kollontay's club JAMS YOUR GUN** ✅*player* · **you're capped at 45–48 pen until level
+   36**, which is the unlock that changes everything.
+2. **20 Aug ·** 🧊 **Ice Breaker is PvE and reachable** — Boreas unlock starts from your
    **Intelligence Center 3 radio.** Insurance doesn't work there. *(→ its own section)*
-2. **20 Aug ·** **Boss stat + tactics table added** — all 9, HP and the one thing that
+3. **20 Aug ·** **Boss stat + tactics table added** — all 9, HP and the one thing that
    decides each fight. **Zryachiy's guards respawn 3× unless he dies first.**
-3. **20 Aug ·** **Levelling + skills** — quests dominate XP, **run-through forfeits the
+4. **20 Aug ·** **Levelling + skills** — quests dominate XP, **run-through forfeits the
    survival bonus AND Found-in-Raid status**, skill-fatigue curve documented.
-4. **20 Aug ·** **Loot runs by map** + a **"what to focus on right now"** priority list.
-5. **20 Aug ·** **Woods nearly cleared** — Swift, Tough Guy, Gratitude, Weapons Circulation,
+5. **20 Aug ·** **Loot runs by map** + a **"what to focus on right now"** priority list.
+6. **20 Aug ·** **Woods nearly cleared** — Swift, Tough Guy, Gratitude, Weapons Circulation,
    Thrifty, Small Things, Steady Signal, Metal Birds, HCP P3/P4, Zhivchik, Woods Keeper all ✅.
 
 > **PvE · Patch 1.1.0.1.46699 · Unheard · Level 30 · USEC · Stash 4 · ~₽3.2M**
@@ -762,6 +766,89 @@ Reshala's body-block him. **Killa is the exception — he's the fight himself.**
 numbers are that split evenly across spawn points. I can't read the live number myself, so
 check before a hunt and tell me.
 
+## 🎯 HOW TO ACTUALLY KILL THEM — merged from research ⚠️*web-sourced unless marked*
+
+### 🔴 The ammo ceiling frames everything
+
+| Round | Pen | Guns you own |
+|---|---|---|
+| **7.62x39 BP gzh** | **47** | Mk47 Mutant · RD-704 |
+| **5.45 BP gs** | 45 | NL545 GP · AK-12 · RPK-16 · AKS-74N |
+| **5.56 M855A1** | 44 | HK 416A5 · MDR · Mk16 · TX-15 |
+| **9x39 SP-6** | **48** | needs the AS VAL you're buying for `Punisher P3` |
+
+**Boss guards routinely wear class 5. Glukhar's wear class 5–6 with visors.** At 45–48 pen
+you are **under-penned for the chest and must play heads and legs.**
+
+> ⭐ **Level 36 → Prapor LL4 → 5.45 BS at 54 pen.** Rep already clears it. **Six levels
+> turns half this list from "wait" into "go".**
+
+### ✅ TAKE NOW at level 30
+
+**Reshala** · 752 HP — M855A1 or 5.45 BP is plenty. **Open on HIM, not the guards** — once
+spotted he hides behind them. **Brown sweater; guards wear blue jackets with white cuffs.**
+2 grenades for the rooms.
+
+**Kaban** · 1300 HP — ⭐ **softer than his reputation: most guards wear NO helmets** and
+silhouette against the sky. **🔴 LexOs is rigged with claymores — stay off grass and curbs,
+avoid the southern approach.** ✅ **Come from the NORTH via Chek 15** — that AGS-30 has a
+blindspot. **The mines kill more people than he does.**
+
+**Shturman** ✅*done* — grenades work on him ✅*player-confirmed*. His guards run
+armor-shredding ammo; don't trade in the open.
+
+### 🟡 DOABLE WITH THE RIGHT PREP
+
+**Glukhar** · 1010 HP · 6 guards — ⭐ **he is softer than his own guards.** Black T-shirt,
+grey pants, at most a light carrier, while the guards are class 5–6 with visored helmets.
+**Get close, kill the boss first, then clean up.** Storage buildings marked "K" and the
+repair building. Same map as your D-2 chain.
+
+**Kollontay** · 1055 HP · 4 guards —
+🔴 **HIS CLUB JAMS YOUR WEAPON** ✅*player-confirmed*. **Never let him close.** The danger
+isn't his damage, it's being disarmed while four guards with AP rounds and flashbangs are
+still up. **Know your malfunction fix before you go in.** This makes the "push the academy
+door" tactic risky — a doorway is exactly where he gets close.
+His **eyes are class 1**, so headshots are live. **Bring your own Zaryas** — his guards use
+flashbangs and you need 2 stunned PMC kills for `Controller` anyway.
+
+**Sanitar** · 1270 HP — 🔴 **his guards heal themselves with injectors**, wear class 5, and
+carry lots of grenades. **Burst, don't trade** — slow damage gets undone. Needs your
+highest pen: **7.62x39 BP in the Mutant.** M855A1 will not do it. Port/pier and cottages.
+
+### 🔴 WAIT
+
+**Zryachiy** · **1655 HP · head 175** — kill him FIRST; killing guards first makes them
+**respawn up to 3× each.** That 175 head means headshots aren't the shortcut. The wiki's
+strategy assumes **3 players.** Solo at 45 pen this is a kit donation.
+
+**Killa** · 890 HP — **face is class 6, nothing you own cracks it.** Thorax only
+✅*player-confirmed*. Worth fighting at **level 32** when `Sellout` opens — and **his Maska
+is already sitting FiR in your stash.**
+
+**Tagilla** · 1220 HP — all 12ga + a **one-shot hammer.** Distance wins, closing loses.
+**Avoid him on the Factory night raid** — you'll be carrying quest items.
+
+**The Goons** ✅*done* — **Birdeye is the one that kills you**, he's the accurate one at
+range. Break line of sight rather than duel him.
+
+### 📋 The short version
+
+| Boss | Now? | The one thing |
+|---|---|---|
+| Reshala | ✅ | Open on him, not the guards |
+| Kaban | ✅ | North via Chek 15. Guards have no helmets |
+| Shturman | ✅ | Grenades work |
+| Glukhar | 🟡 | He's softer than his guards — kill him first |
+| Kollontay | 🟡 | **His club jams your gun.** Never let him close |
+| Sanitar | 🟡 | Burst or they heal it back |
+| Killa | 🔴 | Wait for 32 |
+| Tagilla | 🔴 | Distance only |
+| Zryachiy | 🔴 | Wait — 175 head, respawning guards |
+
+> **At 45 pen you are a headshot-and-legs player against boss guards. Everything changes at
+> level 36.**
+
 ---
 
 # 🧊 ICE BREAKER — ✅ IT IS PvE, AND IT'S REACHABLE
@@ -851,18 +938,60 @@ after finishing the questline **`Stick to It`** *(the fee still applies)*.
 
 ---
 
-# 💰 LOOT RUNS — where the roubles are ⚠️*web-sourced*
+# 💰 LOOT RUNS — merged from research ⚠️*web-sourced, 1.0.5 community estimates*
 
-| Map | The run | Take |
-|---|---|---|
-| 🥇 **Interchange** | **The tech circuit** — sweep **OLI · IDEA · Goshan** cash registers, hit the **PC blocks in OLI and Techlight** for GPUs, then **NecrusPharm + medical points** for LEDX. Extract Emercom or Power Station V-Ex | **₽500k–1,000,000+** per raid, and **most of it needs no keys** |
-| 🥈 **Reserve** | **RB-key bunker rooms** — military tech, supply crates, weapon mods | High value, **but one bad bunker fight loses the kit, the keys and the loot** |
-| 🥉 **Woods** | **Scattered stashes** most players ignore | Modest, but the safest money on the board |
-| **Customs** | **Dorm 314 marked room** | Keycard + guaranteed meds — ⭐ **and `Controller`'s next-task reward is the Dorm 314 marked key** |
+> ⭐ **The headline: three of the five are raids you're already scheduled to run.** You
+> don't need a money night — you need to bring a backpack to the quests you're doing anyway.
 
-> 💡 **The joke here: your best money map is the one Killa lives on.** The Interchange tech
-> circuit is the top rouble run in the game **and you already have to go there for
-> `Supervisor` and the books.** Same route, same risk — just bring a backpack.
+### 🥇 Interchange — the tech circuit · **₽500k–1M+**
+**OLI → Techlight/Rasmussen → Goshan → IDEA → Kiba Arms → EMERCOM Medical.**
+GPUs, electronics, Tetriz, meds, **LEDX** from the pharmacies.
+**The register-and-tech sweep needs NO keys** and still clears several hundred thousand.
+⭐ **This is your `Supervisor` + books raid. Identical route. Bring a bag.**
+⚠️ It's Killa's floor.
+
+### 🥈 Streets — the keyed run · **₽1M+, exceptional runs 2–3M**
+**LexOs dealership → Chekannaya 15/13 marked rooms → Concordia apt 64 → Pinewood Hotel**,
+extract Crash Site or Courtyard. GPUs · LEDX · VPX · intelligence folders.
+⭐ **Overlaps your quest board almost exactly:** LexOs is `Your Car Needs a Service`,
+Chekannaya 15 is `House Arrest`, Pinewood 215 is `Watching You`, Concordia is
+`Surveillance`. **Same buildings — quests and money together.**
+
+### 🥉 Reserve — RB-key bunker rooms · **₽400k–900k**
+**King/Knight/Bishop → train station → D-2 bunker → server rooms.**
+🔑 **RB-PSP1 · RB-PSP2 · RB-VO** *(plus RB-ST, already needed for `Surplus Goods`)*
+⚠️ Raider AI patrols underground.
+⭐ **This IS the D-2 chain raid.** 5–6 quests plus 400–900k on one trip. **Buy the RB keys
+before you go.**
+
+### 4. Labs · **₽1M+**
+Densest loot in the game — GPUs, LEDX, keycards, Bitcoin, meta weapons.
+🔑 Labs access keycard, **consumed on entry**.
+🔴 **INSURANCE DOES NOT WORK ON LABS** ✅*player-confirmed*.
+⭐ `Chemical - Part 4` (Skier) rewards **2× Labs keycard** — your entry fee is already
+coming. **Go in cheap the first time.**
+
+### 5. Customs — Dorm 314 marked room · **₽200k–700k**
+Keycards spawn here, guaranteed meds. 🔑 Dorm 314 marked key — ⭐ **you're getting it free
+as the next-task reward on `Controller`.**
+⚠️ Most contested area on the map.
+✅ **Safer alternative: the Customs stash circuit — ₽300–800k with almost no player
+contact.**
+
+### 🍯 Honourable mention
+**Shoreline Resort** east/west wing rooms — ₽300–700k. Needs wing keys.
+
+## 📋 What this means
+
+| Raid you're already doing | Money it also pays |
+|---|---|
+| **Reserve D-2 chain** | **₽400–900k** — buy RB-PSP1, RB-PSP2, RB-VO first |
+| **Interchange `Supervisor` + books** | **₽500k–1M** — bring a backpack |
+| **Streets quest block** | **₽1M+** — LexOs, Chekannaya, Pinewood, Concordia are all quest sites |
+
+**The one genuinely new activity worth adding: the Customs stash circuit.** ₽300–800k,
+minimal contact, and it pairs with `Angry Watchman` and the Customs propane tank for
+`Thirsty – Delivery`.
 
 ---
 
