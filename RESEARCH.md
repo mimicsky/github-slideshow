@@ -50,26 +50,6 @@ all six are done.
 
 ---
 
-### 1. 🥇 FULL BOSS-KILLING GUIDE — all 11, the complete writeup
-
-The stat table you already added is a great start. **Now do the practical half for every
-boss**, including the four already killed *(they come back every raid, and there's a
-prestige ahead)*:
-
-For each boss: **the kit · the ammo · the tactics · the full loadout · a written
-description of how the fight actually goes.**
-
-- What ammo actually cracks them — **name the round and the pen value**, and say what fails
-- Armor/helmet worth wearing for that specific fight
-- Grenades — how many, when, which type
-- **Where to fight them from**, and where NOT to
-- Guard handling *(the file already notes the hardest bosses are guard problems)*
-- Whether to take them at all at level 30, or wait
-
-**Player context:** level 30, PvE, prefers thorax shots, uses AA ammo by default, keeps AP
-for armored targets. Their gun rankings and ammo doctrine are in `tarkov.md` — **build the
-recommendations around guns they actually like.**
-
 ### 2. 💰 TOP 5 LOOT RUNS — go beyond the wiki
 
 **Search Reddit, YouTube, and anywhere else you can reach.** The wiki is poor for this;
@@ -117,7 +97,144 @@ permanently. ✅*player-confirmed*
 
 ## 🔬 RESULTS — researched, waiting to be read
 
-*(empty)*
+### ✅ REQUEST 1 — FULL BOSS-KILLING GUIDE
+
+⚠️ **web-sourced, unverified** unless marked otherwise. Built around **your** guns, ammo
+and armor as recorded in `tarkov.md`.
+
+#### 🔴 First: the ammo problem, stated plainly
+
+**Your best available rounds right now:**
+
+| Round | Pen | Guns you own |
+|---|---|---|
+| **7.62x39 BP gzh** | **47** | **Mk47 Mutant · RD-704** |
+| **5.45 BP gs** | **45** | NL545 GP · AK-12 · RPK-16 · AKS-74N |
+| **5.56 M855A1** | **44** | HK 416A5 · MDR · Mk16 · TX-15 |
+| **9x39 SP-6** | **48** | *needs an AS VAL — you're buying one for `Punisher P3` anyway* |
+
+**That caps you around 45–48 pen.** Boss guards routinely wear **class 5**, and Glukhar's
+wear **class 5–6 with visored helmets**. So against the hard ones you are **under-penned
+for the chest and must play for heads and legs instead.**
+
+> ⭐ **The unlock that fixes this is level 36 → Prapor LL4 → 5.45 BS at 54 pen.** Your rep
+> already clears it. **Six levels turns half this list from "wait" into "go".**
+
+---
+
+### 🟢 TAKE THESE NOW at level 30
+
+#### **Reshala** — 752 HP · Customs
+- **Ammo:** M855A1 or 5.45 BP is plenty. He and his 4 guards are the lightest boss group
+- **Kit:** CPC MOD.1, FLUX, HK 416A5. No special prep
+- **Grenades:** 2 — **his guards hold rooms, he doesn't** *(already in your hard-lessons)*
+- **The fight:** find him before he sees you. **Brown sweater; guards wear blue jackets with
+  white striped cuffs.** Once spotted he runs behind the guards and you have to chew through
+  them first. **Open on Reshala, not the guards**
+- **Where:** Scav base (ZB-013 building with mounted weapons) · Dorms · New Gas · Fortress
+
+#### **Shturman** ✅ *(you did this with an F1)*
+- **Keep the method.** 3 followers, and the wiki warns his guards run **armor-shredding
+  ammo** — do not trade in the open with them
+- **Grenades work on him** ✅*player-confirmed* — unlike Killa
+- **Where:** sawmill. **Loot his stash key if you ever need it again**
+
+#### **Kaban** — 1300 HP · Streets
+- ⭐ **The soft target hiding behind a scary reputation: most of his guards wear NO helmets**
+  and silhouette against the sky. **Headshots delete them**
+- **Ammo:** M855A1 is fine for heads. Bring the **DVL-10 or M700** if you want to do it from
+  distance
+- **🔴 Where NOT to go:** the **LexOs dealership is rigged with Claymores** — stay off the
+  grass and curbs, and avoid the southern approach, which has long AGS-30 sightlines
+- **✅ Where to fight from: the NORTH, around Chek 15.** That AGS-30 has a blindspot and
+  cannot turn to face you there
+- **Verdict:** very doable at 30 *if* you approach correctly. The mines kill more people
+  than he does
+
+---
+
+### 🟡 DOABLE, BUT BRING THE RIGHT THING
+
+#### **Glukhar** — 1010 HP · Reserve · **6 followers, the most of any boss**
+- **Ammo:** ⚠️ **his guards wear class 5–6 armor and tier 3–6 helmets, some with visors.**
+  Your 44–47 pen will struggle on their chests. **Play heads, or fight at contact range**
+- **Kit:** **Zhuk** — this is the fight it exists for. Six guards means shots from several
+  angles at once
+- **The fight:** ⭐ **Get close and make Glukhar himself the first target.** He wears only a
+  **black T-shirt, grey pants and at most a light plate carrier** — he is *far* softer than
+  his own guards. Kill the boss, then clean up
+- **Where:** storage buildings marked **"K"** · the repair building (white knight)
+- **Bonus:** this is the same map as your **D-2 chain**, so you may meet him anyway
+
+#### **Kollontay** — 1055 HP · Streets · 4 guards
+- ⚠️ **His guards use armor-piercing rounds AND flashbangs.** Expect to be blinded
+- **He wears a PSh-97 DJETA riot helmet** — class 2 top/nape/ears, **eyes class 1.** Weak
+  head protection for a boss; headshots are live
+- **Where:** Klimov shopping mall **or** the Ministry of Interior academy
+- **The fight:** at the academy, **push the main door while holding an angle on the guards
+  behind cover.** Let them trickle out and whittle them — but that backfires if Kollontay
+  pushes with them
+- ⭐ **Bring your own Zaryas** — you need 2 stunned PMC kills for `Controller` anyway, and
+  fighting a flashbang user without flashbangs is a choice
+
+#### **Sanitar** — 1270 HP · Shoreline
+- 🔴 **The defining problem: his guards HEAL THEMSELVES with injectors**, wear **class 5
+  armor and helmets**, and carry **lots of grenades**. Slow damage gets undone
+- **Ammo:** the highest pen you have — **7.62x39 BP in the Mutant.** M855A1 will not do it
+- **Kit:** **Zhuk** + grenades. He also pulls ordinary scavs in to fight for him
+- **The fight:** **burst, don't trade.** Kill each guard in one engagement or they reset to
+  full. **Do not let them break contact**
+- **Where:** port/pier area · near the cottages
+
+---
+
+### 🔴 WAIT — not worth it at level 30
+
+#### **Zryachiy** — **1655 HP · head 175** · Lighthouse
+- 🔴 **KILL ZRYACHIY FIRST.** Kill his 2 guards first and **they respawn up to 3× each**
+- **That 175 head HP means headshots are not the shortcut** — this is the only boss where
+  the head is genuinely armored past your ammo
+- **He sits on the lighthouse peninsula** — the whole approach is Rogue territory
+- **Verdict: wait.** The wiki's own strategy assumes **3 players.** Solo at 45-pen this is a
+  kit donation. You need `Administrator` eventually, but not now
+
+#### **Killa** — 890 HP · Interchange
+- Full writeup already in `tarkov.md`. **Thorax only** ✅*player-confirmed*, AP loaded,
+  cover you reached first, **never re-peek the angle he holds**
+- **Face is class 6** — nothing you own cracks it. **Wait for 5.45 BS at level 36**
+- **He becomes worth fighting at level 32** when `Sellout` opens
+
+#### **Tagilla** — 1220 HP · Factory / Interchange garage
+- **All 12ga + a one-shot hammer.** Buckshot does little to class 5–6, so **distance wins
+  and closing loses**
+- **Verdict: avoid on the Factory night raid** for `HCP P5` — you'll have quest items on you
+
+#### **The Goons** ✅ *(done)* — roaming
+- **Knight** wears a **CPC Goons Edition** *(the same rig you own)* · **Birdeye** wears a
+  **THOR CRV class 4** · **Big Pipe** is lightly armored — bandana and glasses
+- **Birdeye is the one that kills you** — he's the accurate one at range. Break line of
+  sight rather than duel him
+
+---
+
+### 📋 THE SHORT VERSION
+
+| Boss | Now? | The one thing |
+|---|---|---|
+| **Reshala** | ✅ | Open on him, not the guards |
+| **Kaban** | ✅ | North via Chek 15. Guards have no helmets |
+| **Shturman** | ✅ | Grenades work |
+| **Glukhar** | 🟡 | He's softer than his guards — kill him first |
+| **Kollontay** | 🟡 | Bring flashbangs, his eyes are class 1 |
+| **Sanitar** | 🟡 | Burst or they heal it back |
+| **Killa** | 🔴 | Wait for 32 |
+| **Tagilla** | 🔴 | Distance only |
+| **Zryachiy** | 🔴 | Wait — 175 head, respawning guards |
+
+**Universal rule this research confirms: at 45-pen you are a headshot-and-legs player
+against boss guards.** Everything changes at **level 36** with 5.45 BS.
+
+**Requests 2–6 still queued** — next check takes #2 *(loot runs)*.
 
 ---
 
@@ -133,6 +250,7 @@ permanently. ✅*player-confirmed*
 
 | Date | Session | What changed |
 |---|---|---|
+| 2026-08-20 | desktop | **REQUEST 1 DONE → RESULTS.** Full boss-killing guide, all 11, built around the player's actual guns/ammo/armor. Headline: their ammo caps at 45–48 pen, boss guards wear class 5–6, so they're a heads-and-legs player until **level 36 → Prapor LL4 → 5.45 BS (54 pen)**. Take now: Reshala, Kaban *(north via Chek 15, guards have no helmets)*, Shturman. Wait: Killa, Tagilla, Zryachiy *(175 head, guards respawn 3× unless he dies first)*. **Requests 2–6 still queued.** |
 | 2026-08-20 | **phone** | **Posted 6 research requests** — full boss-killing guide (kit/ammo/tactics for all 11) · top 5 loot runs from Reddit/YouTube · current meta kits · the three 1.0 tier lists · Labs keycards + million-rouble keys · Kord breach season & battle pass. Also recorded **Labs has no insurance** into `tarkov.md`. |
 | 2026-08-20 | desktop | **Big research drop into `tarkov.md`:** boss stat/tactics table (all 9, HP + the one thing that matters for each) · **Ice Breaker is PvE and reachable** — Boreas unlock runs through Intelligence Center 3 · levelling + skills mechanics (skill fatigue curve, what trains what) · loot runs by map · **"What to focus on right now"** priority list. |
 | 2026-08-20 | desktop | Set up this file. Pushed a large `tarkov.md` update: full armor system + economy + doctrine, exposure rule, Killa/Tagilla intel, Lighthouse (10/10), Reserve D-2 chain, Woods, 12 Streets quests, ammo pen tables, helmets, and ~14 completed quests logged. |
