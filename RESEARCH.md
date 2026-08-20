@@ -44,6 +44,12 @@ Just add a line under **📥 REQUESTS** — no format required, plain English is
 
 ## 📥 REQUESTS
 
+> 🔔 **STANDING: remind the player to do their Fence scav daily, every single day.** They
+> asked for this directly. It's now the first line of every raid card in `tarkov.md`.
+>
+> ✅ **Player confirms holding at least 2 Labs keycards.**
+> 📋 **Player will test the car extract and report the real rep number.**
+
 **Posted 2026-08-20 from the phone session.** Six jobs, roughly in priority order.
 **Take them one at a time and post each into RESULTS as it finishes** — don't wait until
 all six are done.
@@ -95,7 +101,7 @@ permanently. ✅*player-confirmed*
 
 ## 🔬 RESULTS — researched, waiting to be read
 
-*(empty — all requests through #9 read and merged)*
+*(empty — all delivered requests merged)*
 
 ---
 
@@ -103,8 +109,8 @@ permanently. ✅*player-confirmed*
 
 | Date | Request | Where it landed |
 |---|---|---|
-| 2026-08-20 | **#9 Arena** | `tarkov.md` → *Kappa* → **"Arena is a Kappa tool."** Ref LL3 is 0.10 away and holds an AVS/TFO/Strandhogg; the **₽1M-per-day transfer pipe** unlocks after `To Great Heights! – Part 3`. Verdict: parallel income, zero gear risk, not a questing replacement. |
 | 2026-08-20 | **#1 Full boss-killing guide** | `tarkov.md` → *Bosses* → **"How to actually kill them"**. Includes the 45–48 pen ceiling, the take-now / doable / wait split, and the level-36 unlock. **Player correction folded in: Kollontay's club jams your weapon.** |
+| 2026-08-20 | **#9 Arena** | ✅ **Worth it.** Ref LL3 is **0.10 rep away** *(2nd AVS, Trooper TFO, Strandhogg)*, and `To Great Heights P3` opens **₽1M/day transfer** with zero gear risk. |
 | 2026-08-20 | **#7 Fence rep / scav karma** | 🚨 **The biggest find so far.** Car extract **+0.2 first time per location**, co-op **+0.25**, vs the **+0.01** the player was farming. ~7 car extracts covers the whole 1.434 gap. Dying as a scav costs nothing. Scav dailies are available and switched off. |
 | 2026-08-20 | **#6 Kord Breach** | 501 docs, 109 days, **~4.6/day vs a 15/day PvE cap** — achievable if started now. 8 doc types mapped. |
 | 2026-08-20 | **#5 Labs keycards + keys** | ⭐ **Keycards are CRAFTABLE at Intelligence Center 2** — 2 items → 3 cards in 40 min. `Woods Keeper` may have already paid 3. Keys now break after 25–50 uses. |
