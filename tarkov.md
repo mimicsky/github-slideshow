@@ -234,6 +234,21 @@ beats anything I look up.**
 
 ---
 
+# 🔔 STANDING RULE — START EVERY CARD WITH THIS
+
+> ## **"Fence daily done today?"**
+>
+> **Ask it every single time, before anything else on the card.** The player asked directly
+> to be reminded every day.
+>
+> **Why it matters:** scav dailies pay **+0.01–0.05 each**, they're **available right now**
+> via the Intelligence Center, and **Fence rep is goal #2 and the furthest gap on the
+> board.** It costs one line and it's free rep they'd otherwise skip.
+>
+> ⚠️ **This rule has already been lost once in a merge. If it goes missing, put it back.**
+
+---
+
 # ▶ NEXT RAID — Interchange · 2 left
 
 `Fuel Crisis` and `Pathfinder` done. **No markers needed any more.**
