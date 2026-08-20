@@ -50,15 +50,6 @@ all six are done.
 
 ---
 
-### 6. 🎫 THE KORD BREACH SEASON + BATTLE PASS
-
-- What the season is, what the battle pass contains, how it progresses
-- **Every item needed to upgrade it** — and for each one: **which map it's on and where to
-  find it**
-- Anything time-limited the player might miss
-
----
-
 ### 7. 🔴 FENCE REP — the full source table and the fastest realistic path
 
 **This is goal #2 and the player is grinding it at a terrible rate. Fix that.**
@@ -142,6 +133,81 @@ permanently. ✅*player-confirmed*
 ---
 
 ## 🔬 RESULTS — researched, waiting to be read
+
+### ✅ REQUEST 6 — KORD BREACH SEASON + BATTLE PASS
+
+⚠️ **web-sourced, unverified.**
+
+#### ⏰ THE TIME-LIMITED PART — read this first
+
+> **Season 1 "KORD BREACH" runs 3 Aug → 7 DEC 2026.**
+> **It is FREE**, works in **PvE**, progression is **shared across all modes**, and
+> **rewards unlock permanently on all characters — including your PvE one.**
+
+**Today is 20 Aug. You have ~109 days left.**
+
+#### 🔢 The maths that decides whether you bother
+
+- **501 documents total** to claim every reward
+- 🔴 **PvE daily cap: 15 documents/day** *(Seasonal 30, PvP 20 — and the cap is **shared**;
+  15 in PvE means 0 left if you switch modes)*
+- **501 ÷ 109 days = ~4.6 documents per day.** **That's about a third of your daily cap.**
+
+> ✅ **Verdict: comfortably achievable without changing how you play** — but only if you
+> start collecting now. Leave it two months and the daily cap makes it impossible.
+
+#### 📄 How progression works
+
+**You find TerraGroup documentation in raids.** It behaves like a quest item — **everyone
+can pick up the same one**, so no competition — and it drops for **PMC and Scav alike.**
+Each reward requires a **specific type**, so the maps you run decide what you can unlock.
+
+#### 🗺 THE EIGHT DOCUMENT TYPES AND THEIR MAPS
+
+| Documentation type | Found on |
+|---|---|
+| **Blueprints & technical** | **Interchange · Factory** · The Labyrinth |
+| **Financial** | **Customs · Streets · Interchange** |
+| **Medical** | The Lab · **Ground Zero** · The Labyrinth |
+| **PMC personnel files** | **Reserve · Lighthouse** · Icebreaker |
+| **User documentation** | **Ground Zero · Streets** · The Lab |
+| **Test documentation** | **Shoreline · Woods** · Icebreaker |
+| **Technical documentation** | **Shoreline · Woods · Lighthouse** |
+| **Project documentation** | **Factory · Reserve · Customs** |
+
+**Plus:** **Classified documents** — purchasable in the Expansion Hub, count as **any** type.
+**And:** **exchange any 5 documents → 1 of your choice**, which covers any shortfall.
+
+#### ⭐ WHAT THIS MEANS FOR YOUR ROTATION
+
+**Your current maps — Woods, Reserve, Interchange, Factory, Customs — already cover 6 of the
+8 types.** You'd be collecting most of this by accident.
+
+**The two you'd miss: Medical and User documentation.** Both come from **Ground Zero, Streets
+and The Lab.**
+
+> 🔑 **And you're about to have Labs access** *(craftable keycards — request 5)*. **A Labs
+> run covers BOTH missing types at once**, on top of being the densest loot map in the game.
+> **Ground Zero is the safe alternative** — it's a low-level map and covers the same two.
+
+#### 🎁 What's actually in it
+
+Early pages: **Marked dogtag · TarCoin ×50 · BURN poster · Black Division gear crates ·
+hideout customisations** *(Black wood ceiling, Scorpion target)* **· Red Hawaii clothing ·
+trade offers** *(Gentex Ops-Core SOTR respirator, Mystery Ranch NICE Frame Load Sling)*.
+
+⚠️ **Structural rule: you must claim all but one reward on a page before the next page
+opens** — so you can't cherry-pick the good stuff and skip ahead.
+
+---
+
+### 📋 TAKEAWAY
+
+**Start picking up documents now.** It's free, it's permanent, it works in PvE, you're
+already running 6 of the 8 map types, and **~4.6 documents a day gets you the lot before
+7 December.** The only genuine gap is Medical/User — **which one Labs trip solves.**
+
+---
 
 ### ✅ REQUEST 5 — LABS KEYCARDS AND THE MILLION-ROUBLE KEYS
 
@@ -363,6 +429,7 @@ MDR** and **better ammo at level 36** — and the second one matters more than t
 
 | Date | Session | What changed |
 |---|---|---|
+| 2026-08-20 | desktop | **REQUEST 6 DONE → RESULTS.** Kord Breach battle pass. ⏰ **TIME-LIMITED: 3 Aug → 7 Dec 2026**, free, works in PvE, rewards permanent. **501 documents total, PvE cap 15/day (shared across modes) — works out to ~4.6/day over the 109 days left, so achievable without changing how they play.** Their current map rotation already covers **6 of the 8 document types**; the two missing *(Medical, User)* both come from **Ground Zero or The Lab — and they're about to have craftable Labs keycards.** |
 | 2026-08-20 | desktop | **REQUEST 5 DONE → RESULTS.** Labs keycards + valuable keys. 🚨 **Headline: they can CRAFT Labs keycards NOW — UHF RFID Reader + Intelligence folder → Intelligence Center 2 → 40 min → ×3.** They have Int Center 2. **And `Woods Keeper` (just completed) rewards 3 — check the stash.** Also: barter via Mechanic LL3 needs a **Bulbex cutter, which `Special Comms` also needs — do not sell them.** Most valuable key is Chek 13 at ~₽2.8M, but **keys now break after 25–50 uses**, so buying them is a bad deal. |
 | 2026-08-20 | desktop | **REQUEST 4 DONE → RESULTS.** Three 1.0 tier lists. **Guns: only 3 missing from the player's list** — QBZ-191 and Howa Type 20 *(both new in 1.0, community calls them unproven)* plus the NL545 they'd already spotted. Their list is in better shape than assumed. **Armor: community meta = Slick + UHMWPE class 6 — which validates the file's "stock Slick is a trap" finding**, and the player's CPC MOD.1 already runs the named budget plate. **Ammo: best-in-game is M995 (53) and MAI AP (58)** — the two rounds directly above their ceiling. **Third independent confirmation that ammo, not gear, is the constraint.** |
 | 2026-08-20 | desktop | **REQUEST 3 DONE → RESULTS.** Meta kits/builds. Finding: **the player already owns most of the S-tier** — Mutant *(their favourite, and it fires their best round)*, DVL-10, RPK-16 ×2, AUG, 5-7. **Only real gap: the 7.62x51 MDR** — their MDRs are the 5.56 version. Every source repeats **"ammo matters more than the gun,"** confirming request 1's pen-ceiling conclusion. Also: **1.0.4.5 decoupled recoil from handguards — stop paying for them.** Budget tier documented *(Mosin+PS under ₽20k, Vityaz ₽21k)*. **Requests 4–11 queued.** |
