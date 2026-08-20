@@ -86,6 +86,7 @@ Just add a line under **📥 REQUESTS** — no format required, plain English is
 | 20 Aug | **Player is MISSING the Financial documentation type** for Kord Breach. It drops on **Customs · Streets · Interchange** — all maps already in rotation. | ✅ done |
 | 20 Aug | **Fence rep from an assisted PMC kill reads +0.01 on the player's screen**, not the +0.02–0.03 the wiki claims. Their 0.06 for 5 kills matches +0.01 exactly. | ✅ done |
 | 20 Aug | 🔔 **STANDING: remind the player to do their Fence scav daily EVERY DAY.** They asked directly. Must be the first line of every raid card. | ✅ done |
+| 20 Aug | 🔴 **KILLA CANNOT BE AVOIDED ON INTERCHANGE.** He **left the mall entirely and killed the player at the EMERCOM CHECKPOINT extract.** Reddit reports he is **far more aggressive in 1.1 than previously** — unclear if intentional or a bug. **"Walk past Killa" is dead advice — he hunts across the whole map, including extracts.** Every Interchange card must assume contact. | ⏳ |
 | 20 Aug | **Player will test a car extract and report the real rep number** — sources disagree *(+0.2 vs +0.4, ÷uses vs halving)*. **Pending.** | ⏳ |
 
 ---
@@ -154,6 +155,7 @@ permanently. ✅*player-confirmed*
 
 | Date | Session | What changed |
 |---|---|---|
+| 2026-08-20 | **phone** | 🔴 **Posted request #13 — KILLA'S 1.1 AGGRESSION, marked highest priority.** He left the mall and killed the player at the Emercom Checkpoint extract; Reddit reports increased aggression in 1.1. **Avoidance is not viable, so every Interchange card is affected.** Asks whether to simply defer Interchange to level 36. |
 | 2026-08-20 | desktop | **REQUEST 11 DONE + MERGED — QUEUE NOW EMPTY.** Barters. **Do: GSh118 backpack** *(barter-only, no rouble price, biggest container in the game)* **and the HK G28 for one Labs keycard** — which they craft three at a time. **Skip: Medicine Case** *(HCP P5 hands one over free)*, **Zabralo** *(they own the Zhuk)*, **KS-23M** *(hate list)*. Principle recorded: **barter for what can't be bought, never for what a quest is about to give you.** |
 | 2026-08-20 | desktop | **REQUEST 10 DONE + MERGED.** Hideout crafts ranked. **Best available to them right now: Bundle of Wires ×8 at Workbench L1 — ≈₽74,470/hr, and it double-dips because their hideout needs 50 wires.** Metric is profit/hour not profit. Moonshine, Bitcoin Farm and Intelligence Center are the three to build around *(Int Center also crafts the Labs keycards)*. Flagged that live prices couldn't be pulled — **tarkov.dev's API has been down all session.** |
 | 2026-08-20 | **phone** | **Posted request #12** — best post-processing / visual settings, general baseline plus what to tune per map and for night raids. Community sources preferred; call out placebo. |
