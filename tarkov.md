@@ -198,6 +198,8 @@ beats anything I look up.**
 | `Weapons Circulation` | **3 cultist ritual spots, MS2000.** Shoreline ✅ · **2 on Woods** | matched |
 | `No Swiping` | **10 kills** in the smugglers' base area | the old version of this file said 25 — **web sources were right for once** |
 | `Wet Job - Part 2` | mark the fishing table — **no survive-and-extract needed** | — |
+| `Health Care Privacy - Part 4` | **Gain Fatigue by exhausting leg stamina, hold it 8 minutes** · **₽320,787 + 28,000 EXP + 3 aluminum splints** | ⚠️ **CONFLICT — Fandom says "Reach Health skill level 4" and lists ₽29,000 + 2 Grizzly + saline.** Wrong objective *and* wrong rewards by 10×. **First time a directly-read Fandom page has been wrong — it's stale for 1.1** |
+| `The Key to Success` | **Book 1** — МУЗЕЙ ИСТОРИИ, 2F south end, pile of books on the floor at the back · **Book 2** — "Books" store, 1F next to TTS, yellow book on the lowest stocked row | **matched.** First desktop lookup — read off the real Fandom page and its annotated Ultra maps, player confirmed both on sight |
 | `Wet Job - Part 3` | **MARK Artyom's car with an MS2000** — not just locate it | sources say "locate", which cost a raid |
 | `Health Care Privacy - Part 2` | needs the **Health Resort west wing 306** key | no source mentions a key at all |
 | `Every Hunter Knows This` | Factory breach room + Customs 3-story dorm stairs | — |
@@ -213,26 +215,26 @@ beats anything I look up.**
 
 ---
 
-# ▶ NEXT RAID — Interchange · 5 left
+# ▶ NEXT RAID — Interchange · 2 left
 
 `Fuel Crisis` and `Pathfinder` done. **No markers needed any more.**
 
 ## 🛒 Bring
 **Goshan + IDEA + OLI cash register keys** *(all flea-buyable, cheap)*
-**#21WS keycard** — price it, skip `Irresistible` if it's steep
+~~**#21WS keycard**~~ — ✅ `Irresistible` done
 
 ## ✓ Just go do it
 | Quest | What |
 |---|---|
-| **Long Line** | kill 4 PMCs · **AA ammo** |
+| ~~**Long Line**~~ | ✅ **DONE** — 4 PMCs killed. Banked even though the raid ended in a death; **no extract required** |
 
 ## 🔍 Look these up
 | Quest | What you're finding |
 |---|---|
-| **Supervisor** | Goshan → BIZARRO fitting rooms · IDEA → Register #9 · OLI → Registers #7-8 |
-| **The Key to Success** | 2 design books, 2 different stores |
-| **Needle in a Haystack** | kart track *(outside)* + indoor children's playground |
-| **Irresistible** 🔑 | the lost weapon crate near Ultra |
+| **Supervisor** **1/3** | ✅ ~~IDEA → Register #9~~ **DONE** · **Goshan → BIZARRO fitting rooms** · **OLI → Registers #7-8** ✅*player-confirmed* |
+| **The Key to Success** ✅ | **Book 1** — МУЗЕЙ ИСТОРИИ *(2F, south end, past ЛАДУШКА)* — **pile of books on the floor at the back**, left of the red partition. **Book 2** — "Books" store *(1F, north side, next to TTS)* — **yellow book on the lowest row that has books**, shelf against the green pillar. ✅*player-confirmed* |
+| ~~**Needle in a Haystack**~~ | ✅ **Interchange spots DONE** — kart track + indoor playground. **Quest still open: Streets playground by Concordia** |
+| ~~**Irresistible**~~ 🔑 | ✅ **DONE.** Outside, **south car park** off OLI's SW corner — **never enter the mall for this one.** ⚠️ **The wiki omits a step: you must TURN THE POWER ON FIRST**, then unlock the crate, get in, and extract with it. ✅*player-confirmed — tedious but no Killa exposure* |
 
 ## 🎒 Kit
 **Small map, mixed raid** → light-medium. Interchange interior is close-quarters but
@@ -241,8 +243,111 @@ you'll cover ground between the garages and Ultra.
 **Ammo: AA** — `Long Line` is PMCs, the rest is errands.
 **1 primary + 4–5 mags.** Ammo choice yours as always.
 
-⚠️ **Walk past Killa.** `Sellout` isn't unlocked, so the kill counts for nothing — and
-he's already taken two kits off you.
+## 👹 KILLA IS NOT AVOIDABLE ON THIS RAID — corrected
+
+❌ ~~"Walk past Killa."~~ **Wrong, and the player said so.** *"You can't just walk past any
+boss if you're in their area."*
+
+**His patrol route is literally the objective list** ⚠️*web-sourced*:
+> *"In the **IDEA, OLI and Goshan** stores... around the **center stores on the first and
+> second floor** of the ULTRA shopping mall."*
+
+That's **all three `Supervisor` key drops** and **both `Key to Success` books.** Every
+remaining objective is inside his zone. **Plan the raid as a fight, not a chore.**
+
+| Killa | |
+|---|---|
+| **Health** | **890** — head 70 · thorax 210 · stomach 170 · legs **120** each |
+| **Armor** | 6B13 M Killa Edition — class 3 soft, **Granit 4 class 5 plates** front/back |
+| **Weapons** | **RPK-16** *(95-rd drum)* · AKMS 7.62x39 · suppressed Vityaz · Deagle · TT |
+| **Grenades** | **F-1 · RGD-5 · smoke** — he throws them, and he uses smoke to push |
+| **Behavior** | suppresses, zig-zags cover to cover, **follows you a long way once locked on** |
+
+**How he dies** ⚠️*web-sourced*: **high-pen ammo — 5.45 BS · 5.56 M995 · 7.62x51.** Failing
+that, **shred his armor durability** or **shoot his legs** *(120 HP each, unarmored)*.
+**Grenades won't kill him** — too mobile to pin.
+
+## 👹👹 AND TAGILLA IS ON INTERCHANGE TOO
+
+**Spawn odds — PvE, player-supplied:** ✅*player-confirmed*
+| Boss | Interchange spawn |
+|---|---|
+| **Killa** | **75%** |
+| **Tagilla** | **50%** |
+
+**Three raids in four have Killa. One in two has both.**
+
+> ✅ **The good news: Tagilla IS avoidable.** ⚠️*web-sourced* — on Interchange he sits
+> **in the parking garage below the Goshan store**, and that's it. He does not roam the
+> mall. **None of your four remaining objectives are down there.**
+> **Stay out of the Goshan garage and he never happens.** *(Killa is the opposite — the
+> mall interior is his.)*
+
+| Tagilla | |
+|---|---|
+| **Health** | **1220** — head 100 · thorax **320** · stomach 260 · legs 140 each |
+| **Weapons** | **all 12ga** — Saiga-12K · Saiga-12K ver.10 · **AA-12 Gen 1 / Gen 2** |
+| **Melee** | Dead Blow Hammer — **unlootable, and it one-shots.** Never let him close |
+| **Where** | Interchange: **Goshan parking garage only** · Factory: everywhere |
+| **Quests** | `Huntsman Path - Factory Chief` **and** `Relentless` |
+
+**Fighting him:** 1220 HP is a lot of AP. His shotguns are **short-range** — buckshot does
+little against class 5–6 plates, so **distance beats him** and closing distance kills you.
+
+> 😤 **PLAYER STANDING ORDER: the player hates Killa.** ✅*player-stated, 19 Aug 2026*
+> Three kits taken, the last one **a long walk outside the mall, near EMERCOM, out of
+> nowhere.** Treat him as a personal grudge in the tone of this file. **He is not a
+> "walk past" any more — he is a problem to be solved**, and the moment `Sellout` opens at
+> **level 32**, he becomes a payday instead of a mugging.
+
+### ⚠️ KILLA'S ZONE IS THE WHOLE MAP — player-confirmed the hard way
+
+**He does not stay in the mall.** ✅*player-confirmed* — he pursued to the **EMERCOM
+checkpoint, outside**, and killed the player yards from extract, mid-heal, after a 3-PMC
+fight. The wiki agrees: *"he will follow his target large distances out of his patrol
+route."*
+
+**So the Interchange rule is not "avoid his floor" — it's:**
+1. **Assume he is coming, from the moment you fire a shot.** Gunfire is what brings him.
+2. **Never heal in the open.** Break line of sight, move, *then* heal.
+3. **Don't take the trade without AP and cover you got to first.** Thorax is the right aim
+   point *(legs are player-confirmed useless on him)* — but the right aim point loses
+   anyway if he sees you first.
+4. **The extract is not safe.** Yards from EMERCOM is where this death happened.
+
+> ⭐ **THE STRATEGIC POINT: you are being forced to fight Killa for free.**
+> `Sellout` and `Relentless` *(both Jaeger, Huntsman Path)* each need **one Killa kill**.
+> He's unavoidable on every Interchange raid — so **unlocking `Sellout` before the next
+> Interchange trip converts a fight you can't dodge into quest progress.**
+> ✅ **ANSWERED — `Sellout` needs LEVEL 32. You are 30.** ⚠️*web-sourced*
+
+### 🏹 THE JAEGER HUNTSMAN PATH — what gates the boss quests
+
+| Quest | Gate | Objectives |
+|---|---|---|
+| **Sellout** | **level 32 — 2 levels away** 🔥 | Kill **Killa** + find his **Maska-1SCh helmet** in raid + hand over |
+| **Factory Chief** | **no level requirement listed** — check if it's already available | Kill **Tagilla** + find a **BOSS cap** in raid + hand over |
+| **Forest Cleaning** | ❌ **NOT on the player's board** ✅*player-confirmed* — so either already completed, or gated behind something the wiki doesn't list *(it claims only Jaeger LL3, which the player has)* | 50 Scavs, any map |
+| **Relentless** | **Jaeger LL4** *(lvl 33 + rep 7.30; you're at 2.55)* | Kill **Tagilla · Killa · Reshala · Shturman · Glukhar · Sanitar — all in ONE life, then extract** |
+| ~~Woods Keeper~~ | ✅ **DONE** | Shturman + stash key ✅ — **F1 grenade worked on him** |
+| ~~Trophy~~ | ✅ **DONE** ✅*player-confirmed* | Reshala + Golden TT |
+| **Controller** 🆕 | **ACTIVE** ✅*player* | **Kill 2 PMCs while they have the STUN status** — i.e. **flashbang them with a Zarya, then shoot them.** Any location. Pays a **3-9x42 scope + M80 ammo + unlocks the M700 AICS** · next task rewards the **Dorm room 314 marked key** |
+
+> ⚠️ **STATUS OF THE REST IS UNVERIFIED.** `Factory Chief` and `Sellout` were listed above
+> from **wiki data, not from the player's board** — the assistant does not know whether
+> they're active, locked or already done. **Don't plan around them until the player says.**
+> *(`Forest Cleaning` is the cautionary example: the wiki said it should be available, and
+> it isn't on the board at all.)*
+
+> 🔥 **Two levels from now, every Killa kill starts paying.** At **32**, `Sellout` opens and
+> the 75%-spawn boss you can't avoid becomes quest progress — **but the helmet must be
+> found in raid, so you have to kill him *and* loot the Maska.**
+>
+> ⚠️ **Don't chase `Relentless`.** Six bosses in a single life *and* Jaeger LL4, which needs
+> **rep 7.30 against your 2.55.** That's a long-term goal, not a plan.
+>
+> ✅ **`Forest Cleaning` is free progress** — 50 scavs anywhere, and Jaeger rep is exactly
+> what `Relentless` is short on. **Check whether it's active.**
 
 ## 🎒 Hideout grabs
 🔌 **Wires (50) · power cord (20)** · ⚡ **relay · spark plug · CPU fan · corrugated hose**
@@ -291,22 +396,60 @@ While you're there, chip at `One-Way Ticket`.
 
 | Quest | Class | Type | |
 |---|---|---|---|
-| **Gratitude** | I | ✋ | 🔍 stash Shemagh + RayBench sunglasses at the **sawmill docks** · *quest supplies both* |
-| **Small Things, Big Help** | I | ✋ | 🔍 mark **3 fuel stashes** · *quest supplies 3 MS2000* |
-| **Informed Means Armed** **1/2** | I | ✋ | 🔍 camera at the **sawmill dock** — finishes the quest |
-| **The Survivalist Path – Tough Guy** | III | ✋ | ✓ **3 Scavs, one raid, NO medicine at all** |
-| **Health Care Privacy – Part 3** | III | 🔍 | 🔍 blood sample from the **director's white minivan** · survive & extract |
-| **The Huntsman Path – Woods Keeper** | I | ✋ | ✓ kill **Shturman** (sawmill) |
-| **Hiking** | I | 🎯 | ✓ |
-| **Swift** | I | 🎯 | ✓ |
-| **Steady Signal** | I | 🔍 | 🔍 |
-| **Metal Birds** | I | ✋ | 🔍 |
-| **The Survivalist Path – Thrifty** | III | ✋ | 🔍 |
-| **Shipping Delay – Part 1** | III | ✋ | 🔍 |
-| **A Helping Hand** | III | 🔍 | 🔍 |
+| ~~**Gratitude**~~ | I | ✋ | ✅ **DONE** |
+| ~~**Small Things, Big Help**~~ | I | ✋ | ✅ **DONE** |
+| ~~**Informed Means Armed**~~ | I | ✋ | ✅ **DONE** — sawmill dock camera completed it |
+| ~~**The Survivalist Path – Tough Guy**~~ | III | ✋ | ✅ **DONE** |
+| ~~**Health Care Privacy – Part 3**~~ | III | 🔍 | ✅ **DONE** |
+| ~~**Health Care Privacy – Part 4**~~ | III | 💡 | ✅ **DONE** — ₽320,787 banked |
+| ~~**The Huntsman Path – Woods Keeper**~~ | I | ✋ | ✅ **DONE** — Shturman killed **with an F1 grenade**, stash key looted ✅*player-confirmed* |
+| **Hiking** **40%** | I | 🎯 | ✓ **10 Scavs at: USEC camp · Scav camp · sawmill · abandoned village** *(those four zones only)* |
+| ~~**Swift**~~ | I | 🎯 | ✅ **DONE** — 15 PMCs killed with no armor |
+| ~~**Steady Signal**~~ | I | 🔍 | ✅ **DONE** |
+| ~~**Metal Birds**~~ | I | ✋ | ✅ **DONE** |
+| ~~**The Survivalist Path – Thrifty**~~ | III | ✋ | ✅ **DONE** — both bunkers stocked |
+| **Shipping Delay – Part 1** | III | ✋ | ✓ **Prapor's package — 1 of 2 spots in the NW building of the train depot.** 🚌 **Depot is ONLY reachable via the BTR Driver's taxi** |
+| **A Helping Hand** | III | 🔍 | ✓ **Same package, same depot** — but requires **Shipping Delay P1 completed first** + survive & extract |
 
 *Also here: `Weapons Circulation` 2 ritual spots · `Chumming` · `Thirsty – Delivery`
 (Scav bunker with the radio tower) · `Special Comms` (Bulbex cutter at the RUAF boulder).*
+
+> 🃏 **`Swift` IS THE HOBO STREAK QUEST.** 15 PMCs with **no armor, no rig armor, no helmet,
+> no face cover** — that is the **Thunderbolt kit** *(0.62 kg, 16 slots, zero armor)*, which
+> the file already defines as the hobo loadout. **The burnout-prevention curveball and a
+> real quest are the same activity.** Run it when the quest grind gets heavy — it's the one
+> objective where dying cheap costs nothing.
+>
+> 🚌 **`Shipping Delay P1` and `A Helping Hand` both gate on the BTR Driver's taxi** — the
+> train depot has no walking route. **They're the same package in the same NW depot
+> building, so P1 must be finished before A Helping Hand's copy can be collected.**
+>
+> ## 🔥 WOODS IS A 20-QUEST MAP — ✅*player-confirmed from the in-game task filter*
+>
+> **12 Woods-tagged + 8 "Any location" that count here.** It is the densest map on the
+> board, and several of the Any-location ones are **already part-finished**, so a properly
+> loaded Woods raid chips a dozen quests at once:
+>
+> | Any-location quest | Progress | What Woods gives it |
+> |---|---|---|
+> | **Capturing Outposts** | **58%** | **PMC kills count here** |
+> | **Informed Means Armed** | **50%** | the **last** camera — sawmill dock ✅ finishes it |
+> | **Chumming** | **50%** | golden neck chains |
+> | **Weapons Circulation** | **33%** | **2 ritual spots**, both on Woods |
+> | **Is This a Reference?** | **14%** | a WI-FI camera counts here |
+> | **Thirsty – Delivery** | 0% | propane tanks |
+> | **Rough Tarkov** | 0% | Woods half of Woods + Ground Zero |
+> | **Tough Guy** | 0% | **3 Scavs in one raid, carrying NO medicine at all** |
+>
+> ### 🛒 THE FULL WOODS LOADOUT — bring all of this or you waste the trip
+> - **MS2000 × 3+** — 1 `Steady Signal` · **2 `Weapons Circulation`** *(3 more supplied by
+>   `Small Things`)*
+> - **WI-FI Camera × 2** — `Informed Means Armed` *(sawmill dock)* + `Is This a Reference?`
+> - **2× Iskra ration pack · 2× 0.6L water** — `Thrifty`, split across ZB-016 and ZB-014
+> - **Propane tanks × 2** — `Thirsty – Delivery`
+> - **Shemagh + RayBench sunglasses** — `Gratitude` *(quest supplies both)*
+> - ⚠️ **`Tough Guy` means NO meds in the entire kit** — run it as its own raid, or accept
+>   you can't heal.
 
 ## 🏖 SHORELINE — 1
 
@@ -324,9 +467,9 @@ it's on the *I'll use* list.
 
 | Quest | Class | Type | |
 |---|---|---|---|
-| **Long Line** | I | 🎯 | ✓ **4 PMCs** |
-| **The Key to Success** | II | ✋ | 🔍 2 design books — History Museum store · Knigoed bookstore |
-| **Irresistible** | III | 🔍 | 🔍 lost weapon crate near Ultra · 🔑 **#21WS keycard** |
+| ~~**Long Line**~~ | I | 🎯 | ✅ **DONE** — 4 PMCs |
+| **The Key to Success** | II | ✋ | ✓ 2 design books — МУЗЕЙ ИСТОРИИ **2F** *(floor pile at the back)* · "Books" store **1F** by TTS *(yellow book, lowest stocked row)* ✅*player-confirmed* |
+| ~~**Irresistible**~~ | III | 🔍 | ✅ **DONE** — outside, south car park · power on first |
 
 *Plus `Supervisor` — 3 cash register keys: Goshan → BIZARRO fitting rooms · IDEA →
 Register #9 · OLI → Registers #7-8.*
@@ -338,42 +481,92 @@ Register #9 · OLI → Registers #7-8.*
 |---|---|---|---|
 | **The Punisher – Part 3** | III | 🎯 | ✓ **12 Scavs w/ 9x39** + 7 lower half-masks FiR · 🔫 **buy an AS VAL** |
 | **A Fuel Matter** | III | ✋ | 🔍 mark 2 fuel tank groups · survive & extract |
-| **Reserve** | III | ✋ | 🔍 |
-| **Demonstration Model** | III | 🎯 | ✓ |
-| **Classified Technologies** | III | ✋ | 🔍 |
-| **Safe Corridor** | III | 🎯 | ✓ |
-| **Documents** | III | ✋ | 🔍 |
-| **No Place for Renegades** | III | 🎯 | ✓ |
-| **Surplus Goods** | III | 🔍 | 🔍 |
-| **Back Door** | III | ✋ | 🔍 |
-| **Revision – Reserve** | III | ✋ | 🔍 |
-| **The Bunker** | III | ✋ | 🔍 |
-| **Disease History** | III | ✋ | 🔍 |
+| **Reserve** | III | ✋ | ✓ **NW underground warehouse marked "Д"** — down a ramp, **right-side food storage cages** *(wooden crates inside)*. **Survive & extract** |
+| **Safe Corridor** | III | 🎯 | ✓ **10 Scavs in that same "Д" warehouse** + its ramps |
+| **Documents** | III | ✋ | ✓ **3 military folders — command part of the underground bunker** |
+| **No Place for Renegades** | III | 🎯 | ✓ **5 Raiders in the command bunker.** Spawn at raid start, **more after the D-2 switch** |
+| **Back Door** | III | ✋ | ✓ **Extract via D-2.** Power lever is in the **command part of the bunker** *(can spawn Raiders)* |
+| **Classified Technologies** | III | ✋ | ✓ **Behind the dismantled rusty pipe in the underground workshop you pass through to reach D-2** → Peacekeeper |
+| **The Bunker** | III | ✋ | ✓ **Control room = centre of the bunker**, any staircase · then hermetic doors to **hospital (White Bishop)** + **academy** |
+| **Disease History** | III | ✋ | ✓ **2 locked rooms, 2nd floor of the hospital (White Bishop)** |
+| **Surplus Goods** | III | 🔍 | ✓ **Locked room in the bigger of the two garages at the repair centre (White Knight)** · 🔑 **RB-ST key** |
+| **Revision – Reserve** | III | ✋ | ✓ **4× BMP-2, mark with MS2000** — one needs 🔑 **RB-ST** |
+| **Demonstration Model** | III | 🎯 | 🔍 *no wiki page found under that name — re-check spelling in game* |
 
 **👹 Glukhar.** *Also `Drip Out – Part 1` (100 Raiders) and `Special Comms` arrives here.*
+
+> ⭐ **RESERVE IS ONE RAID, NOT THIRTEEN — the D-2 chain.**
+> **Everything underground links through the same run:**
+> **1.** Enter the bunker → **`The Bunker`** control room *(centre, any staircase)*
+> **2.** **`Documents`** — 3 folders in the command part
+> **3.** **Throw the D-2 power lever** *(command part)* — **this spawns Raiders**
+> **4.** **`No Place for Renegades`** — kill 5 of the Raiders you just spawned ✅
+> …and the same Raiders feed **`Drip Out – Part 1`** *(100 Raiders)*
+> **5.** Head for D-2 → grab **`Classified Technologies`** off the rusty pipe in the
+> workshop **on the way**
+> **6.** **Extract through D-2 → `Back Door` ✅** *(and it extracts the folders + package)*
+>
+> **That is 5–6 quests in a single underground run, and the quest that spawns the enemies
+> is the quest that needs them killed.**
+>
+> **Separate surface trip:** `Reserve` + `Safe Corridor` share the **"Д" warehouse** *(NW,
+> underground storage — do both at once)*; `Disease History` + `The Bunker`'s hermetic door
+> share **White Bishop**; `Surplus Goods` + one BMP share the **RB-ST key**.
+>
+> 🛒 **Bring: 6× MS2000** *(4 BMPs + 2 fuel tank groups)* **· RB-ST key.**
 
 ## 🗼 LIGHTHOUSE — 10
 
 | Quest | Class | Type | |
 |---|---|---|---|
-| **The Huntsman Path – Administrator** | III | ✋ | ✓ kill **Zryachiy** (island) |
-| **Revision – Lighthouse** **50%** | III | 🔍 | 🔍 |
-| **The Hermit** | III | 🔍 | 🔍 |
-| **Missing Cargo** | III | 🔍 | 🔍 |
-| **Lost Contact** | III | 🔍 | 🔍 |
-| **Drug Trafficking** | III | ✋ | 🔍 |
-| **Easy Job** | III | 🔍 | 🔍 |
-| **Energy Crisis** | III | 🔍 | 🔍 |
-| **Corporate Secrets** | III | 🔍 | 🔍 |
-| **Broadcast – Part 1** | III | ✋ | 🔍 |
+✅ **RESEARCHED — all 10 located.** ⚠️*web-sourced, unverified*
+
+| Quest | Where | Bring |
+|---|---|---|
+| **Revision – Lighthouse** **50%** | **4 vehicles: 2 BRDMs + 2 Strykers.** Both BRDMs at the **water treatment plant** *(west basin + north)* | **4× MS2000** |
+| **Easy Job** | Helicopter **in one of the basins, water treatment plant (north)** · then **kill 10** Rogues/Scavs/PMCs **in that area** | **MS2000** |
+| **Corporate Secrets** | **Two different buildings at the water treatment plant (north)** — water pump data + pumping station data | — |
+| **Broadcast – Part 1** | **Office building #1, 1st floor, water treatment plant** | 🔑 **Operating room key** + **Signal Jammer** |
+| **Energy Crisis** | Fuel tank group **NE of the northern freight yard** + **3 tanker trucks** | **4× MS2000** |
+| **Drug Trafficking** | **Inside a group of stacked shipping containers**, container area of the **northern train yard** | **WI-FI Camera** |
+| **Missing Cargo** | Crashed helicopter **on a hill, south-southeast** · folder is on the **1st floor of the chalet** on that hill | — |
+| **Lost Contact** | Dead group on the **tennis court** of the **south-east chalet** · **survive & extract** | — |
+| **The Hermit** | **Village on the eastern island** — message is **below the door** of the hideout · **must extract with it** | — |
+| **Administrator** | Kill **Zryachiy** (island) · ⚠️ also requires **firing a yellow flare** *(RSP-30)* skyward **inside the train area** — must reach height or it won't count | **RSP-30 flare** |
+
+> 🗺 **LIGHTHOUSE IS TWO RAIDS, NOT TEN.**
+> **RAID 1 — NORTH:** water treatment plant + freight/train yard covers **6 quests**
+> *(Revision · Easy Job · Corporate Secrets · Broadcast P1 · Energy Crisis · Drug Trafficking)*.
+> **Bring: 8× MS2000, WI-FI Camera, Signal Jammer, Operating room key.**
+> **RAID 2 — SOUTH-EAST:** the chalet hill covers **Missing Cargo + Lost Contact** — same
+> hill, and Lost Contact needs you to survive and extract anyway.
+> **The Hermit** *(eastern island)* and **Administrator** *(Zryachiy, island)* pair up.
+
+> 🔴 **CAVEAT ON THE NORTH RUN — and it's a big one.**
+> **The water treatment plant is the ROGUE stronghold.** `Easy Job` literally asks you to
+> kill 10 **Rogues**, Scavs or PMCs *in that area* — that's how many are there by design.
+> Rogues are USEC-hostile, well-armed, use high-pen ammo and hold mounted positions.
+> **"Six quests in one raid" is the efficient route, not the survivable one.**
+> **Plan it as the most dangerous raid on the board**, not a chore run — and consider
+> chipping it two or three quests at a time from the south/east rather than committing to
+> the whole cluster in one go. ⚠️*web-sourced · player already expects Lighthouse to be hell*
 
 ## 🏭 FACTORY — 3
 
 | Quest | Class | Type | |
 |---|---|---|---|
+| **Health Care Privacy – Part 5** 🆕 | III | 🔍 | ⭐ **NIGHT-TIME Factory only.** Drop spot = **the BREACH ROOM — top floor / rafters, WEST side, by the office window** ⚠️*web-sourced* · **Stash 3× Gunpowder** *(any type)* · Pays **₽320,787** + 28k EXP + 3 IFAKs · **next task rewards a Medicine case** |
 | **One-Way Ticket** | II | 🎯 | ✓ **15 AUG headshots** — ⚠️ buy the gun |
 | **The Walls Have Eyes** | II | 🔍 | 🔍 *(was mis-recorded as "The Wall Has Eyes")* |
 | **Dragnet** | II | 🔍 | 🚫 **shelved** — keycard is ₽3.5–4.5M |
+
+> ⭐ **THE BREACH ROOM DOES DOUBLE DUTY.** `Health Care Privacy P5`'s drop spot **and**
+> `Every Hunter Knows This`' Factory objective are **the same room** — top floor rafters,
+> west side by the office window. **One night Factory raid clears both**, and if you've
+> bought the AUG, `One-Way Ticket`'s headshots tick up while you're in there.
+> 🛒 **Bring: 3× Gunpowder** *(any type — Kite/Hawk/Eagle all count)* **+ the AUG if you have it.**
+> ⚠️ **Factory is Tagilla's home map — "expected everywhere", not a fixed spot like his
+> Interchange garage.** And it's night, so bring night vision or a torch.
 
 ## 🌆 STREETS OF TARKOV — 24
 
@@ -381,20 +574,20 @@ Register #9 · OLI → Registers #7-8.*
 |---|---|---|---|
 | **Kings of the Rooftops** | II | ✋ | ✓ **8 Sniper Scavs** · reward SV-98 *(sell)* |
 | **The Huntsman Path – Big Game** | II | 🎯 | ✓ kill **Kaban** |
-| **Audiophile** | III | ✋ | 🔍 musician spot → engraved guitar pick |
-| **The Door** | III | 🔍 | 🔍 |
-| **Cease Fire!** | II | ✋ | 🔍 |
+| ⭐ **Audiophile** | III | ✋ | ✓ **Music room, apartment no. 10, 4th floor** *(building name truncated in source — verify)* → guitar pick · 🎁 **UNLOCKS Osprey MK4A (Assault) at Ragman LL3** |
+| **The Door** | III | 🔍 | ✓ **Klimova 16A** — 2× WI-FI Camera, one in the **stairwell**, one on the door · 🔑 **Rusted bloody key** |
+| **Cease Fire!** | II | ✋ | ✓ **Extract via "Klimov Street" with SURVIVED status** — ⚠️ the extract only opens if you **fire a green flare** |
 | **Dandies** | II | 🎯 | ✓ |
-| **Surveillance** | II | ✋ | 🔍 |
-| **The Secret to Productivity** | II | 🔍 | 🔍 |
-| **Watching You** | II | ✋ | 🔍 |
-| **Your Car Needs a Service** | II | ✋ | 🔍 |
-| **Road Closed** | II | ✋ | 🔍 |
+| **Surveillance** | II | ✋ | ✓ **Hard drive — Concordia security room, in the basement parking garage** |
+| **The Secret to Productivity** | II | 🔍 | ✓ **"Hive" hookah lounge, Malevicha street no. 5** · 🔑 **Relaxation room key** · survive & extract |
+| **Watching You** | II | ✋ | ✓ **Flash drive — room 215, 2nd floor, NORTHERN Pinewood hotel building** |
+| **Your Car Needs a Service** | II | ✋ | ✓ **Flash drive on the desk in the LexOs dealership director's office** *(closed section)* |
+| **Road Closed** | II | ✋ | ✓ **Convoy sits between the LexOs dealership and the Pinewood hotel** → then find the ambush spot · survive & extract |
 | **Secret Message** | II | 🎯 | ✓ |
-| **House Arrest** | II | ✋ | 🔍 |
-| **The Secret Recipe** | II | ✋ | 🔍 |
-| **Beyond the Red Meat** | II | ✋ | 🔍 |
-| **Paramedic** | II | ✋ | 🔍 |
+| **House Arrest** | II | ✋ | ✓ **Prison cell no. 1, 3rd floor, Chekannaya 15** apartment building · then the debtor · hand over the **Chekannaya 15 apartment key** |
+| **The Secret Recipe** | II | ✋ | ✓ **TerraGroup office** — chemical additive · ✅ **key NOT required** *(some spawns need it, but it's completable without)* |
+| **Beyond the Red Meat** | II | ✋ | ✓ **Chef's diary in the Beluga restaurant** · ✅ **key NOT required** *(same — optional spawns)* |
+| **Paramedic** | II | ✋ | ✓ **Ambulance paramedic's smartphone** → ⚠️ **must extract via "Primorsky Ave Taxi V-Ex"** with it in raid inventory |
 | **Glory to CPSU** | II | ✋ | 🔍 |
 | **District Patrol** | II | 🎯 | ✓ |
 | **You've Got Mail** | II | ✋ | 🔍 |
@@ -420,16 +613,43 @@ counts here.*
 
 > **Read the objectives. "Any location" ≠ anywhere.**
 
+> 💡 **THE STATUS-EFFECT RAID — two quests, one trip, zero gear risk.**
+> **`Health Care Privacy P4`** = Fatigue, hold **8 min** *(₽320,787)*
+> **`Survivalist Path – Zhivchik`** = Dehydration, hold **5 min** *(any map but Factory)*
+> **Both come from the same behaviour: sprint until your legs and your water are gone.**
+> Sprinting burns hydration *and* stamina, so one long run produces both effects — then you
+> simply survive the timers.
+> 🎒 **Run it in the cheapest kit you own** *(Thunderbolt, no armor)* — nothing here needs
+> gear, and **₽320k for a jog** is the best rouble-per-risk on the entire board.
+> ⚠️ **Dehydration drains HP the whole time** — bring a medkit *(which is why this can NOT
+> be combined with `Tough Guy`, which forbids carrying any medicine)*.
+>
+> ### ⭐ THE PLAYER'S TECH — faster and safer than running it down
+> ✅*player method*
+> **1. Eat mayonnaise.** Foods that give energy while **costing hydration** crash your water
+> bar far faster than waiting for it to drain naturally. **Dehydration on demand.**
+> **2. Then sit still somewhere safe and heal through the timer.** Dehydration ticks HP
+> down; a medkit out-heals it. **You are not surviving a raid, you are running a clock.**
+> **→ Pick a corner nothing walks past, eat, sit, heal, wait out the 5 minutes.**
+> No sprinting across the map, no exposure, no risk to the kit.
+>
+> ### ✅ CONFIRMED IN RAID — **Fatigue persists while sitting still**
+> ✅*player-tested* — so **both timers stack in the same corner.** Sprint briefly to blow
+> out your legs, eat the mayo, then sit and heal through it. **One 8-minute sit cleared
+> `Health Care Privacy P4` AND `Zhivchik` together.**
+> **Keep this pattern** — any future "maintain a status effect" quest is the same corner,
+> the same mayo, the same medkit.
+
 | Quest | Class | Type | |
 |---|---|---|---|
-| **Capturing Outposts** **7/12** | II | 🎯 | ✓ 12 PMCs · Customs · Woods · 🔴 **Shoreline = HEALTH RESORT ONLY** — smugglers'-base kills count for nothing ✅*player-confirmed* |
+| **Capturing Outposts** **75% (9/12)** | II | 🎯 | ✓ 12 PMCs · Customs · Woods · 🔴 **Shoreline = HEALTH RESORT ONLY** — smugglers'-base kills count for nothing ✅*player-confirmed* |
 | **Job for a Patriot** **8/10** | II | 🎯 | ✓ 10 PMCs w/ the Prapor AK-12 — **Streets · Shoreline · Ground Zero only** |
 | **Supervisor** | II | ✋ | 🔍 **Interchange** — 3 cash register keys |
-| **Chumming** | II | ✋ | 🔍 **Woods + Customs** — 3 golden neck chains |
-| **Thirsty – Delivery** | III | ✋ | 🔍 **Customs + Woods** — Skier mails 2 propane tanks |
+| ~~**Chumming**~~ | II | ✋ | ✅ **DONE** |
+| **Thirsty – Delivery** **1/2** | III | ✋ | ✅ **Woods tank stashed** · ⏳ **CUSTOMS tank still to do** ✅*player-confirmed* |
 | **The Tarkov Butcher** | II | ✋ | 🔍 Ground Zero meat truck → Shoreline ambulance |
 | **Informed Means Armed** | I | ✋ | 🔍 **Woods camera left** |
-| **Weapons Circulation** **1/3** | II | 🔍 | 🔍 **2 Woods ritual spots left** |
+| ~~**Weapons Circulation**~~ | II | 🔍 | ✅ **DONE** — both Woods ritual spots marked |
 | **Needle in a Haystack** **3/6** | III | 🔍 | 🔍 Interchange kart track · Interchange indoor playground · Streets playground by Concordia |
 | **Drip-Out – Part 1** | III | ✋ | ✓ **100 Raiders** + 50 WARTECH FiR · **AP ammo + sidearm** |
 | **Booze** | III | ✋ | ✓ 10 vodka · 10 whiskey · 3 purified water · 20 Pevko — **all FiR** |
@@ -441,7 +661,9 @@ counts here.*
 | **Car Repair** **62%** | III | ✋ | 🔍 |
 | **Aid Stations** **33%** | II | ✋ | 🔍 |
 | **Dressed to Kill** **12%** | I | ✋ | 🔍 |
-| **Rough Tarkov** | I | 🔍 | 🔍 Woods + Ground Zero |
+| **Rough Tarkov** | I | 🔍 | ✓ **Locate the heavily mined area on Woods** + **the Claymore mine on Ground Zero** — locate only ⚠️*web-sourced* |
+| **The Huntsman Path – Controller** 🆕 | I | 🎯 | ⭐ **Kill 2 PMCs suffering the STUN effect** — 🛒 **bring Zarya stun grenades.** Stacks with `Swift` + `Capturing Outposts` — **the same PMC kill counts for all three** ✅*player-confirmed from screen* |
+| ~~**The Survivalist Path – Zhivchik**~~ | I | 💡 | ✅ **DONE** — same raid as HCP P4 |
 | **Fishing Place** | III | ✋ | 🔍 |
 | **Easy-Breezy** | III | 🎯 | ✓ |
 | **Regulated Materials** | ? | ✋ | 🔍 |
@@ -749,6 +971,22 @@ a number up.
 - **Never fight Killa while carrying quest items.** He appears without warning and pushes
   hard. Do the errands first, bank them, then decide whether to take him.
 - **Angry Watchman only counts Dorms-zone kills.** Five PMCs elsewhere gave zero progress.
+- **🔴 KILLA LEAVES THE MALL. He hunted the player to the EMERCOM checkpoint — outside,
+  yards from extract.** ✅*player-confirmed* Three PMCs killed, healing up, arm taken off
+  from nowhere, and it was Killa walking in. **"Avoid his zone" is not a plan** — once he
+  locks on he follows a long way *(the wiki says the same: "he will follow his target large
+  distances out of his patrol route")*. **On Interchange there is no safe side of the map.**
+- **🔴 KILLA HOLDS THE ANGLE. The re-peek is what kills you.** ✅*player-confirmed*
+  Full sequence: arm blown off from nowhere → **player got behind cover** → **healed to
+  full** → peeked and fired → **dead instantly.** Everything was done right except the
+  last step. **He waits, pre-aimed, on the angle he last saw you.**
+  → **Once he knows where you are, that angle is dead ground. Move to a different one or
+  leave — never re-peek the same spot.**
+- **Full HP does not save you from him.** The player peeked at 100% and died in the
+  exchange. His time-to-kill is effectively instant, so survival is decided by **not being
+  seen**, not by how much health or armor you brought.
+- **⚠️ OPEN QUESTION: what killed him through a full-health, armored player so fast?**
+  If it was a **head shot**, headgear is the gap — **helmets are not researched yet.**
 
 ---
 
@@ -848,6 +1086,130 @@ of the board, so `begin research` should cover them under *upcoming quests*.
 - ❌ Light kit on a fight-based raid
 - ❌ Super heavy kit on a chore raid — you're carrying protection you'll never use
 
+## 🛡 ARMOR DOCTRINE — what to bring, by raid
+
+**Same shape as the ammo doctrine: the threat decides the class, the map decides the kilos.**
+
+### Class is decided by what's shooting at you
+
+| Shooting at you | They use | You need |
+|---|---|---|
+| **Scavs** | low-pen — buckshot, PS, US | **class 4.** Anything more is weight you carry for nothing |
+| **PMCs** | AA-tier, class 3–4 pen | **class 5** front + back |
+| **Raiders · bosses · Killa** | AP, class 5–6 pen | **class 6 + side plates** |
+
+### Weight is decided by the matrix above
+
+| | **Chore raid** | **Fight raid** |
+|---|---|---|
+| **Big map** | **≤ 3 kg · class 4–5 · 0% movement** | **≤ 4 kg · class 5 + sides** |
+| **Small map** | **≤ 4 kg · class 5** | **Weight stops mattering · class 6 + sides** |
+| **Factory · Labs · endgame** | — | **Class 6 all round, no argument** |
+
+**The hard rule: movement penalty ≤ -2% on a chore raid, ≤ -3% on a fight raid.** Above
+that you are trading the thing that keeps you alive on a big map for protection you won't
+be shot with.
+
+### 👉 Which of yours, specifically
+
+| Raid | Wear | Why |
+|---|---|---|
+| **Default — 90% of raids** | 🥇 **CPC MOD.1** | **2.75 kg, 0% movement, class 5 front/back/sides.** There is no reason to wear less than this — it costs you nothing to wear |
+| **Fight raid, PMCs** | 🥈 **CPC MOD.1 again** — or **CPC (Goons)** | Goons has tougher plates *(147 vs 133 eff)* but **only 18 slots vs 23, and +0.95 kg.** Take it when you want the plates, not by default |
+| **Killa · bosses · raiders · Factory · Labs** | 🛡 **Zhuk** | class **6** all round. Accept -7% and 11.5 kg — this is the raid you brought it for |
+| **Hobo streak · curveball** | 🎒 **Thunderbolt** | 620 g, 16 slots, nothing to lose |
+| **Quest errand, want pouches + a vest** | **THOR CRV + Thunderbolt** | 2.3 kg, **0% movement**, class 4 |
+
+### ⏱ EXPOSURE — the player's rule, and it overrides the matrix
+
+> *"It should matter which one I spend more time on and which is more dangerous — danger
+> over time."* ✅**player's rule**
+
+**Risk is not a property of a map. It's `minutes there × threat per minute × what you're
+carrying at the time`.** Three things fall out of that, and they change kit calls:
+
+**1. Weight compounds — it buys damage resistance by spending exposure.**
+A -7% movement penalty doesn't just make you slower, it keeps you **on the map longer**.
+On a big map that's more minutes under threat, so heavy kit is **wrong twice over**:
+worse mobility *and* a bigger exposure window.
+
+**2. Late danger costs more than early danger.**
+Dying in minute 5 costs a kit. Dying in minute 30 costs the kit **plus everything the raid
+was for** — the package, the books, the loot. **Weight the back half of a raid heavier.**
+
+**3. 🔴 THE RULE THIS PRODUCES:**
+> **Armor pays where contact is UNAVOIDABLE. Mobility pays where contact is OPTIONAL.**
+>
+> A big map with avoidable fights is a **mobility** problem — you win by choosing which
+> fights happen. A small map, a boss patrol, or a forced corridor is an **armor** problem —
+> you can't opt out, so you'd better survive the opening burst.
+
+**Worked against the two live cards:**
+
+| | Interchange | Run B *(Customs → Factory)* |
+|---|---|---|
+| Long leg | small map throughout | **Customs — most of the raid** |
+| Threat density | **Killa 75%, in your objectives** | Customs low-moderate · Factory very high |
+| Avoidable? | ❌ **his patrol IS the objective list** | ✅ Customs — you pick fights · ❌ Factory |
+| Dangerous leg is… | the whole raid | **short** — Factory is minutes |
+| **Verdict** | **🛡 Armor. Zhuk earns it here** | **🏃 Mobility. CPC MOD.1** — don't pay -7% across all of Customs to buy class 6 for a five-minute run to an extract |
+
+**The class 5 → 6 upgrade is small. The 0% → -7% cost is not.** Only buy it when the
+unavoidable-contact leg is most of the raid.
+
+### 🎒 SPACE — the other half of the decision
+
+**A rig you can't fit a fight into is the wrong rig.** Full frontier of what you own:
+
+| Setup | Weight | **Slots** | Class | Move |
+|---|---|---|---|---|
+| **Thunderbolt** alone | **0.62 kg** | 16 | none | 0% |
+| **THOR CRV + Thunderbolt** | 2.32 kg | 16 | 4 | **0%** |
+| **JPC** *(re-plated)* | **1.83 kg** | **24** | 5–6 F/B | -0.5% |
+| **A18 Skanda** | 2.45 kg | **25** | 4 | — |
+| 🥇 **CPC MOD.1** | 2.75 kg | **23** | **5 + sides** | **0%** |
+| **AVS** | 2.88 kg | 23 | 4 | -2% |
+| **CPC (Goons)** | 3.7 kg | **18** ⚠️ | 5 + sides | 0% |
+| **Zhuk + Thunderbolt** | 12.14 kg | 16 | **6 + sides** | -7% |
+| **Zhuk + LBCR** | 12.88 kg | 18 | **6 + sides** | -7% |
+
+### 🔑 The three space rules
+
+1. **Rig slots are for what you use *during* a fight** — mags, meds, grenades. **Loot goes
+   in the backpack.** Never plan rig space around loot.
+2. **Floor is ~12 slots for a fight kit:** 5 mags · 4 meds *(IFAK, Salewa, splint,
+   painkillers)* · 2 grenades · 1 spare. Below that you're reloading out of a backpack
+   mid-fight.
+3. **Keys and markers belong in the secure container**, not the rig — that's what saves
+   `Supervisor`'s three register keys and the #21WS keycard from a bad raid.
+
+> 🔴 **A vest does NOT block a rig — only an armored rig does.**
+> That's why **Zhuk keeps your storage**: it's a vest, so you still wear a rig under it.
+> The heavy option costs you movement and kilos, **not slots**.
+
+**The upshot: CPC MOD.1 wins on both axes at once** — 23 slots *and* class 5 all round
+*and* 0% movement *and* under 3 kg. Nothing else you own is better at both. The only reason
+to leave it home is the Zhuk raid.
+
+### ❌ What to stop wearing
+
+**These are strictly beaten by the two CPCs — same or worse protection, real penalties:**
+
+- **Bagariy** — **-6% movement** for class 5 the CPCs give you at **0%**
+- **Osprey Assault** — **6.4 kg** for only class 4
+- **Defender-2** — **-4% turn speed**, the worst turn penalty you own. Never in close quarters
+- **JPC ×2** — ceramic SAPI plates *(83 effective, the worst material)*. Re-plate before use
+
+### 🔩 And the plates themselves
+
+1. **Class 4 is the floor.** Below that you're wearing weight, not armor.
+2. **Class 5 is the default.** It covers everything except AP.
+3. **Class 6 only when AP is coming back at you** — Killa, raiders, Labs.
+4. **Sides are for fight raids only.** ~1.3 kg each for 15–25 durability — good when you're
+   getting flanked, dead weight on a marker run.
+5. **Material beats class at the margin.** Given a choice, take **UHMWPE or Titan** over
+   ceramic or steel — same class, a third of the weight, far more effective durability.
+
 ## 🔫 AMMO DOCTRINE — the player's own rules
 
 **Never name a specific round.** The player has every round marked and knows them cold.
@@ -883,6 +1245,33 @@ of the board, so `begin research` should cover them under *upcoming quests*.
 - **Only when it's necessary, or on a critical raid that has to go right.**
 - 💡 **When running AP, bring a sidearm or second gun for scav killing.** Don't spend AP
   on trash.
+
+### 📊 PENETRATION VALUES — researched ⚠️*web-sourced*
+
+**Higher pen = beats higher armor class. Your HP/AA/AP tiers map onto this scale.**
+
+| 5.56x45 | pen | 7.62x39 | pen | 9x39 | pen |
+|---|---|---|---|---|---|
+| SSA AP | **57** | MAI AP | **58** | BP gs | **54** |
+| M995 | **53** | **BP gzh** | **47** | **SP-6** | **48** |
+| **M855A1** ← *player's best* | **44** | PP gzh | 41 | PAB-9 | 43 |
+| M856A1 | 38 | PS gzh | 35 | SPP | 35 |
+| MK 318 SOST | 33 | T-45M1 | 30 | — | — |
+| M855 | 31 | US gzh | 29 | FMJ | 17 |
+| FMJ | 23 | FMJ | 26 | | |
+| M856 | 18 | | | | |
+| MK 255 RRLP | 11 | | | | |
+
+> ✅ **M855A1 at 44 pen is genuinely good** — the player's assumption that it's the best
+> 5.56 they own is correct, and it's upper-mid for the whole game. **The only real 5.56
+> upgrades are M995 (53) and SSA AP (57).**
+>
+> ⚠️ **Marginal upgrades the player already owns guns for:**
+> **7.62x39 BP (47)** in the **Mk47 Mutant** or **RD-704** · **9x39 SP-6 (48)** in an
+> **AS VAL** *(also needed for `Punisher P3`)*. Both beat M855A1 — **by 3–4 points, which
+> is not what decides a fight.**
+
+**Still to research: 5.45x39 · 7.62x51 · 9x19 · 12ga · prices for all of it.**
 
 ### Picking it for a raid
 
@@ -1034,13 +1423,46 @@ Benelli M3 = "M3 Super 90m" · RPD = "RPDN"
 only **class 2–3**. **The plates are the real protection**, and they're where the weight
 comes from. Rigs take **2–4 plates** depending on the model.
 
-**Material decides heavy vs light:**
+**🔴 THE RULE THAT DECIDES EVERY KIT: an armored rig BLOCKS the armor slot.**
+Every armored rig you own — AVS, TV-110, Osprey — has **Blocks Armor = Yes**. You wear a
+**vest OR an armored rig, never both.** The only rig that combines with a vest is the
+**Thunderbolt**, because it has no armor in it at all. ⚠️*web-sourced*
 
-| Heavy | Light |
-|---|---|
-| Steel · Ceramic · Combined Materials · Titan | Aramid · Aluminum · UHMWPE |
+**Material decides how much damage a plate eats — and it's not close.**
 
-*(Hover any insert to read its material.)*
+The wiki lists an **effective durability** for every plate: raw durability × a material
+multiplier. That multiplier *is* the whole heavy-vs-light argument, in one number:
+
+| Material | Multiplier | Verdict |
+|---|---|---|
+| **UHMWPE** | **×2.96** | best in the game, and light |
+| Combined materials | ×2.67 | heavy but excellent |
+| Titan | ×2.43 | light-ish, very good |
+| Aluminum | ×2.22 | mid |
+| Armor steel | ×1.90 | heavy and mediocre |
+| **Ceramic** | **×1.67** | worst — and most Russian plates are ceramic |
+
+*(Derived from the wiki's own durability → effective-durability columns; consistent across
+all 39 plates.)* ⚠️*web-sourced*
+
+> **A UHMWPE plate absorbs ~1.8× the damage of a ceramic plate of the same class, at half
+> the weight.** Class is only "what stops the bullet" — **effective durability is how many
+> times it stops it.** Two class 5 plates are not the same plate.
+
+**Best plate per class — by effective durability:**
+
+| Class | Best pick | Mat | Eff. dur | Weight |
+|---|---|---|---|---|
+| 4 | **Kiba Arms Titan** | Titan | 133 | 2.25 kg |
+| 5 | **GAC 3s15m** | UHMWPE | **133** | **0.97 kg** ← featherweight |
+| 5 | TallCom Guardian | Combined | 147 | 3.5 kg |
+| 5 | Cult Locust | Titan | 146 | 2.56 kg |
+| 6 | **GAC 4sss2** | UHMWPE | **148** | 2.7 kg |
+| 6 | NESCO 4400-SA-MC | Combined | 160 | 3.6 kg |
+| 6 | Cult Termite | Titan | 158 | 3.85 kg |
+
+**Avoid: Kiba Arms Steel** — class 6 but only **95** effective and **5.1 kg**. It is the
+**default plate in the Slick**, which is why a stock Slick is a trap. ⚠️*web-sourced*
 
 **Since 0.14, armor only protects the exact zones shown on the model** — no more blanket
 coverage.
@@ -1051,27 +1473,258 @@ coverage.
 > fast for a lot more roubles. So the armor decision and the budget decision are the same
 > decision.
 >
-> Reported 2026 meta: **LBT-6094A Slick plate carrier** — takes class 6, **0% movement,
-> turn and ergonomics penalty** — with UHMWPE class 6 plates *(KITECO SC-IV SA, GAC
-> 4sss2)*. ⚠️ web-sourced, unverified.
+> The Slick reputation is **half right**: the carrier really is 0%/0%/0% and 1.3 kg, but it
+> ships with **steel** plates. It's a great *frame* wearing bad glass. ⚠️*web-sourced*
 
-### 🔬 ARMOR IS A RESEARCH JOB — handed to the desktop session
+### ✅ YOUR SEVEN — identified
 
-The player has deferred this. **`begin research` should cover the full armor system:**
+**Three are vests *(armor slot)*, three are armored rigs *(rig slot, block the vest)*, and
+one is not armor at all.** ⚠️*all web-sourced, unverified*
 
-- Every **plate carrier**, **armored rig** and **armor vest** — which slot, how many plate
-  slots, soft armor class, weight, movement/turn/ergo penalty
-- Every **plate** — class, material, weight, durability, price
-- **Which of the player's seven are carriers vs armored rigs vs vests:** THOR CRV · AVS ·
-  WARTECH TV-110 · Korund-VM · Defender-2 · Thunderbolt · Osprey MK4A
-- Which plates the player owns, and their material
+| # | Yours | Slot | Soft | Dur | Default plates | Move/Turn/Ergo | Weight | Storage |
+|---|---|---|---|---|---|---|---|---|
+| 1 | **NFM THOR CRV** | vest | cls 3 | 70 | 2× SPRTN Omega **cls 4** | **0% / -1% / 0%** | **1.7 kg** | — |
+| 2 | **Korund-VM** *(Black)* | vest | cls 2 | 160 | Korund-VM **cls 5** — F + B **+ 2 sides** | -5% / -2.5% / -3% | 1.9 kg | — |
+| 3 | **FORT Defender-2** | vest | cls 3 | 210 | 2× Granit Br4 **cls 5** | -1% / **-4%** / -1% | 5.7 kg | — |
+| 4 | **Crye AVS** | rig 🚫 | cls 3 | 112 | 2× SPRTN Omega **cls 4** | -2% / 0% / 0% | 2.88 kg | **23** |
+| 5 | **WARTECH TV-110** | rig 🚫 | cls 2 | 70 | 2× GA Steel **cls 4** | -1% / 0% / 0% | 3.5 kg | **23** |
+| 6 | **Osprey MK4A** *(Prot.)* | rig 🚫 | cls 3 | 132 | TallCom **cls 5** + 2 side | -3% / -1% / -2% | 6.9 kg | **24** |
+| 7 | **Thunderbolt** | rig ✅ | **none** | — | **none** | 0% / 0% / 0% | **0.62 kg** | 16 |
 
-**Until that's done the kit builder names guns and quest items only, and leaves armor to
-the player.**
+🚫 = blocks the armor slot · ✅ = wearable *with* a vest
+
+**Three things this changes:**
+
+1. **The Thunderbolt is not armor.** It's a 16-slot bag weighing 620 g. It's the rig you
+   wear **with** THOR CRV or Defender-2 — that combo is the only way to have a vest *and*
+   pouches.
+2. ~~The AVS is your best frame.~~ **Corrected below — you own two better ones.** The AVS
+   is still excellent *(2.88 kg, 23 slots, -2%, accepts class 6)*, but it is not the top.
+3. **Korund-VM is the only thing you own with side plates** — and its coverage list is the
+   longest *(throat, neck, groin, buttocks)*. It's your "expect to get shot" vest, at the
+   cost of -5% movement.
+
+### ✅ THE REAL ROSTER — from the player's stash screen, 3 pages
+
+**"Seven" was wrong. You own twelve armored rigs.** ✅*player-confirmed — read off screen*
+*(Durability shown as current/max, soft armor + fitted plates combined.)*
+
+| Rig | Soft | Default plates | Move/Turn/Ergo | Weight | Yours |
+|---|---|---|---|---|---|
+| 🥇 **CPC (Goons Ed.)** | cls 3 | TallCom Guardian **cls 5** *(147 eff)* **+ sides** | **0% / 0% / 0%** | 3.7 kg | 187/219 |
+| 🥈 **CPC MOD.1** | cls 3 | GAC 3s15m **cls 5** *(133 eff, 0.97 kg)* **+ sides** | **0% / 0% / -1%** | **2.75 kg** | 226/240 |
+| 🥉 **AVS** | cls 3 | SPRTN Omega cls 4 *(133 eff)* | -2% / 0% / 0% | 2.88 kg | 210/212 |
+| **RBAV-AF** | cls 2 | cls 4 | — | — | **218/218** *(pristine)* |
+| **Osprey MK4A (Assault)** | cls 2 | NewSphereTech cls 4 | -3% / -1% / -2% | 6.4 kg | 248/252 |
+| **Bagariy** | cls 3 | Korund-VM cls 5 | **-6%** / -1.5% / -2% | 5.1 kg | 147/172 |
+| **SP PC V2** | cls 2 | cls 4 | — | — | 181/198 |
+| **A18 Skanda** | cls 2 | cls 4 | — | — | 93/175 |
+| **TV-110** ×2 | cls 2 | GA Steel cls 4 | -1% / 0% / 0% | 3.5 kg | 151/160 · 108/153 |
+| **JPC** ×2 | cls 0 | SAPI III+ cls 5 *(ceramic, 83 eff)* | -0.5% / 0% / -0.5% | 1.83 kg | 83/100 · 29/100 |
+
+**Plus unarmored storage:** Thunderbolt · LBCR ×3 *(incl. Goons Ed.)* · BlackRock ×2 ·
+Commando ×2 · Zhuk · Poyas combo
+
+> 🥇 **The two CPCs are the best carriers in the game and you already own both.**
+> Zero movement penalty, **class 5 front, back AND sides**, and the MOD.1 does it at
+> **2.75 kg** because its GAC 3s15m plates are UHMWPE and weigh under a kilo each.
+> **Nothing you can buy at level 30 comes close.** Stop thinking about buying armor.
+
+⚠️ **Two are damaged and worth re-plating, not retiring:** A18 Skanda *(93/175)* and
+**JPC 29/100** — the JPCs run ceramic SAPI plates, the worst material in the game.
+
+### 🛡 AND THE HEAVIEST THING YOU OWN — BNTI Zhuk (EMR)
+
+✅*player-confirmed, read off the item panel*
+
+| | |
+|---|---|
+| **Armor points** | **295.3** |
+| **Armor class** | **6 — front, back AND both sides** |
+| Weight | **11.52 kg** |
+| Penalties | **-7% move · -4% turn · -3% ergo** |
+| Plates | FR **45/55** · BK **45/45** · L **20/20** · R **20/20** — all class VI |
+| Soft | chest 60/60 · back 60/60 · sides 15/15 · **neck 15/15** |
+| Flea | ❌ cannot be listed |
+
+**This is the most protection you own, full stop** — and the back plate is a **KITECO
+SC-IV SA**, UHMWPE class 6, one of the best plates in the game and unbuyable anywhere.
+
+> ⚖️ **The real decision it creates:** Zhuk gives you **class 6 all round for -7% movement
+> and 11.5 kg**. The **CPC (Goons)** gives you **class 5 all round for 0% and 3.7 kg**.
+> **That is the entire heavy-vs-light choice, and you own both ends of it.**
+> → **Zhuk for bosses, Labs-tier PvP and anything with Killa in it. CPC for everything else.**
+
+### 🔴 THE PLATE DATA BELOW IS THEORETICAL — YOURS ARE SWAPPED
+
+**The player has swapped plates in most vests and rigs.** ✅*player-stated*
+Every "default plates" figure in this section is **what the item ships with**, not what
+yours contains. **Do not cost or rank a kit off the default column.**
+
+**The fix is one number.** The item panel shows **ARMOR POINTS** — a single figure that
+already folds in class, durability, material and coverage *(Zhuk = 295.3)*. **Open a piece,
+read three things — armor points, weight, movement % — and the whole stash ranks itself.**
+👉 Player: that panel screenshot, per piece, is all research needs.
+
+### 🎒 ARMOR BY MODE — slots into the kit builder
+
+| Mode | Wear | Why |
+|---|---|---|
+| **Hobo / cheap** | Thunderbolt only | 620 g, 16 slots, nothing to lose |
+| **Light / quest errands** | **THOR CRV + Thunderbolt** | 2.3 kg total, **zero movement penalty**, still class 4 plates |
+| **Normal** | **AVS** *(re-plated cls 5–6)* | 23 slots, -2%, best protection-per-kg you own |
+| **Heavy / PvP · boss** | **Osprey Protection** or **Korund-VM** | side plates + shoulders; you accept -3% to -5% |
+
+⚠️ **Never** Defender-2 for anything that needs looking around fast — **-4% turn speed** is
+the worst turn penalty of your seven.
+
+## 🪖 HELMETS — researched ⚠️*web-sourced*
+
+**The thing nobody tells you: class 4 helmets cover `Head top` + `Nape` ONLY.**
+Not ears. **Not the face.** A "class 4 helmet" is not a class 4 head — it's a class 4 *lid*
+over an unprotected face. That is very likely how the EMERCOM death happened.
+
+**Class 5 is where coverage widens — and there are only six in the game:**
+
+| Helmet | Class | Covers | Dur | Move/Turn/Ergo | Sound | Weight |
+|---|---|---|---|---|---|---|
+| **Rys-T** | 5 | Head top · Nape · **Ears** | **90** | 0% / -2% / -3% | ⚠️ High | **2.5 kg** |
+| **Altyn** | 5 | Head top · Nape · **Ears** | 81 | -1% / **-4%** / -3% | ⚠️ High | 2.5 kg |
+| **Vulkan-5** ×4 | 5 | Head top · Nape · **Ears** | 75 | 0% / -2% / -3% | ⚠️ High | **4.5 kg** |
+
+**🏆 Rys-T is the best of them** — most durability, lightest tier, smallest penalties.
+**Vulkan-5 weighs 4.5 kg for less protection.** Altyn's -4% turn is the worst.
+
+⚠️ **All class 5 helmets carry `Sound reduction: High`** — you trade hearing for armor,
+which on Interchange is the sense that tells you Killa is coming.
+
+**Best class 4s, if staying light:** **Crye AirFrame** *(0.88 kg, dur 48, 0%/0%/-2%)* and
+**MTEK FLUX** *(1 kg, dur 50, **0%/0%/0%** — zero penalties)*. All class 4s have **High
+ricochet**, which is real value: glancing hits skate off.
+
+**🔴 Nothing in the game armors the face except face shields and visors.**
+
+### 🚨 YOUR HELMETS — and the one you must NOT wear
+
+✅*player-confirmed from stash screen*
+
+**You own 22 helmets. Three matter:**
+
+| Yours | Class | Covers | Dur | Cost |
+|---|---|---|---|---|
+| 🚨 **Maska-1SCh KE** **158/158** ✅FiR | **4** helmet **+ class 6 face shield** | Head top · Nape · **Ears** · **FACE · EYES · JAWS** | 108 + **50** | -4% ergo helmet **-13% ergo shield** · High sound reduction |
+| **Altyn** 81/81 | **5** | Head top · Nape · Ears | 81 | -1% mv / -4% turn / -3% ergo · High sound reduction |
+| **ZSh-1-2M** 113/113 | 4 | + **face shield available** *(class **3** face, Ragman LL3, only -4% ergo)* | 113 | light |
+
+> 🚨 **DO NOT TAKE THE MASKA-1SCh KE INTO A RAID.**
+> **That is the `Sellout` handover item** — the quest needs *Killa's Maska-1SCh, found in
+> raid*, and **yours already carries the FiR checkmark.** You are sitting on the hand-in
+> for a quest that opens at **level 32**. Bringing a FiR item into a raid risks stripping
+> the flag, and losing it means killing Killa again to get another.
+> **Lock it in the stash until `Sellout` is active.** ⚠️*verify the FiR rule in game*
+
+**The bitter joke: the only class 6 face protection in the game is Killa's own mask, and
+he already gave you one.**
+
+**So for actually wearing:**
+- **Face protection → ZSh-1-2M + its face shield.** Class 3 face, **only -4% ergo**. Not
+  class 6, but it's the difference between a face hit landing and glancing.
+- **Max head armor → Altyn.** Class 5, ears covered — but **-4% turn and high sound
+  reduction**, and hearing is what warns you he's coming.
+- **Light raids → MTEK FLUX** *(50 dur, **zero penalties**)* or **Crye AirFrame** *(0.88 kg)*.
+  You own three FLUX and three AirFrames.
 
 ## ⚠️ STILL NEEDED FOR THE KIT BUILDER
 
-- **Budget tiers** — cheap / normal / full send, in roubles
+- **💰 Exact roubles.** See the economy section below — the *structure* is known, the price
+  tags are not. tarkov.dev's API is **down** *(GraphQL server unavailable)*, Cloudflare
+  blocks direct fetches, and **Fandom does not publish trader prices as text** — only
+  screenshots of each trader's stock, where icons can't be matched to items reliably.
+  👉 **Player: read armor prices off your own trader screens.** Primary source, beats every
+  site, and it's the last piece before cheap/normal/full-send become numbers.
+
+# 💰 ARMOR ECONOMY — what you can actually buy at 30
+
+### ✅ YOUR ACTUAL STANDING — read off the trading screen
+
+**₽3,304,403 · €8,088 · $28,598 · Level 30 · spent ₽4.1M with Prapor**
+✅*player-confirmed*
+
+| Trader | LL | Rep | Next level needs |
+|---|---|---|---|
+| **Prapor** | III | **8.403** | **LL4 = lvl 36 + rep 7.90 → 🔥 REP ALREADY MET, pure level gate** |
+| Mechanic | III | 7.067 | lvl 40 + 7.60 |
+| Therapist | III | 7.03 | lvl 38 + 7.30 |
+| Skier | III | 5.674 | lvl 38 + 5.80 — **rep almost there** |
+| Peacekeeper | III | 4.877 | lvl 37 + 6.00 |
+| Ragman | III | 3.35 | lvl 42 + 6.50 — furthest on both |
+| Jaeger | III | 2.55 | lvl 33 + 7.30 — rep is the wall, not level |
+| **Ref** | **II** | **0.40** | **LL3 = lvl 25 ✅ + rep 0.50 → 🔥 0.10 REP AWAY** |
+| Fence | I | 1.566 | — |
+
+> 🔥 **Two unlocks are close and both matter for armor:**
+> **1. Ref LL3 is 0.10 rep away** *(Ref rep comes from Arena)* — unlocks a second **AVS**,
+> **HighCom Trooper TFO**, and **Strandhogg**.
+> **2. Prapor LL4 needs only level 36** — your rep already clears it. That's the one that
+> opens **class 5 Korund-VM front + side plates** and **Granit 4**. Six levels.
+
+**The gates, in full** *(wiki-derived — and the Prapor line above matched the game screen
+exactly, which is a good sign for the rest)*
+
+| Trader | LL3 | LL4 | You at **30** |
+|---|---|---|---|
+| Jaeger | 17 | **33** | LL4 in **3 levels** |
+| Ref | 25 | **35** | 5 levels |
+| Prapor | 21 | **36** | 6 levels |
+| Peacekeeper | 19 | 37 | 7 levels |
+| Skier | 22 | 38 | 8 levels |
+| Mechanic | 26 | 40 | 10 levels |
+| **Ragman** | 27 | **42** | **12 levels — the armor trader is the furthest away** |
+
+### 🔴 Three rules that decide the whole armor economy
+
+**1. No trader sells a class 6 plate. At any loyalty level. Ever.**
+Class 5 is the purchasable ceiling, and at *your* level it's worse than that.
+
+**2. Almost every good plate is flea-banned.** Cannot be listed:
+GAC 3s15m · GAC 4sss2 · KITECO SC-IV SA · Cult Termite · Cult Locust · TallCom Guardian ·
+NESCO 4400-SA-MC · Granit Br4. **Only two decent plates are flea-tradeable: Kiba Arms
+Titan** *(cls 4, 133 eff, 2.25 kg)* **and SPRTN Omega** *(cls 4, 133 eff, 4.39 kg)*.
+
+**3. Therefore the good armor is looted, not bought.** Every class 6 plate in the game, and
+the best class 5s, reach you exactly two ways: **found in raid, or pre-installed in a
+carrier you found.**
+
+### What you can buy *right now* at LL3
+
+| Plate | Class | Mat | Eff. dur | Where |
+|---|---|---|---|---|
+| **SPRTN Omega** | 4 | Combined | **133** ← best buyable | **Skier LL3** |
+| NewSphereTech III | 4 | Aluminum | 100 | Peacekeeper LL3 |
+| 6B33 *(front)* | 4 | Steel | 95 | Prapor LL3 |
+| Global Armor's Steel | 4 | Steel | 86 | Skier LL3 |
+| SPRTN Elaphros | 4 | Ceramic | 75 | Peacekeeper LL3 |
+| Korund-VM *(back)* | 5 | Steel | 76 | Prapor LL3 |
+| SSAPI III+ *(side)* | 5 | Ceramic | 25 | Peacekeeper LL3 |
+
+**Note what this means: your AVS and THOR CRV already ship with SPRTN Omega** — the single
+best plate purchasable at your level. You are not under-plated; the shop just has nothing
+better to sell you.
+
+**Locked behind LL4** *(and therefore behind levelling)*: Korund-VM front + sides
+*(Prapor 36)* · Granit 4 *(Prapor 36 / Ref 35)* · SAPI III+ *(Ref 35)*.
+
+### 💡 The money conclusions
+
+- **Do not sell looted plates.** Most can't be flea'd, so they're worth little in roubles
+  but a lot in kit. **A looted GAC 4sss2 or Cult Termite is free class 6 you cannot buy at
+  any price.** Stash them.
+- **Buy frames, loot glass.** Carriers are purchasable; the plates that matter aren't.
+- **The AVS is where looted plates go** — it takes class 6, weighs 2.88 kg, carries 23 slots.
+- **⭐ Check `Audiophile`** — completing that Ragman task puts the **Osprey MK4A (Assault)**
+  in reach at **Ragman LL3**, which you already have. *(Also at Ref LL3.)*
+- **Ragman LL4 at level 42 is the long-term armor goal** — it's 12 levels out, further than
+  every other trader. Nothing about armor buying improves much until then.
 
 # 🎲 CURVEBALLS — burnout prevention
 
