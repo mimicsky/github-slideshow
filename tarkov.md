@@ -722,10 +722,156 @@ like an arrow rather than I/II/III. Possibly "Elite" or a special tier. **Ask.**
 
 The Goons were the hard one and they're done. **The Goons roam four maps you're already
 working** — take them if they show, don't hunt them.
+**Update:** Shturman ✅ *(F1 grenade)* and Reshala ✅ are both down — `Woods Keeper` and
+`Trophy` complete.
+
+## 📊 BOSS STAT + TACTICS TABLE — researched ⚠️*web-sourced*
+
+| Boss | HP | Head | The one thing that matters |
+|---|---|---|---|
+| **Reshala** ✅ | 752 | 62 | **Brown sweater** — guards wear blue jackets w/ white cuffs. **Kill him before he sees you** or he hides behind the guards |
+| **Partisan** ✅ | 950 | 80 | Roams Customs · Woods · Shoreline — "expected everywhere" |
+| **Glukhar** | **1010** | 70 | **Black T-shirt, grey pants, light armor** vs guards in heavy camo. **Get close, kill HIM first** — Reserve storage "K" + repair building |
+| **Kollontay** | 1055 | 65 | Klimov shopping mall **or** Ministry of Interior academy. Push the academy door while holding an angle on his guards |
+| **Sanitar** | **1270** | 70 | 🔴 **His guards HEAL THEMSELVES with injectors.** Burst them down — anything slow gets undone. Shoreline port/pier + cottages |
+| **Kaban** | **1300** | **85** | 🔴 **LexOs dealership is RIGGED WITH CLAYMORES.** **Approach from the NORTH via Chek 15** — that AGS-30 has a blindspot; the southern one has long sightlines. **Stay off grass and curbs** |
+| **Zryachiy** | **1655** | **175** ⚠️ | 🔴 **KILL ZRYACHIY FIRST.** If you kill the guards first they **respawn up to 3× each.** Lighthouse peninsula. That 175 head means headshots are not the shortcut here |
+| **Killa** | 890 | 70 | See his own section — **holds angles, hunts you across the map, thorax only** |
+| **Tagilla** | **1220** | 100 | All 12ga + **one-shot hammer.** Distance beats him. Interchange = Goshan garage only |
+
+**Pattern worth noting: the hardest bosses are guard problems, not boss problems.**
+Sanitar's guards heal, Zryachiy's respawn, Kaban's are behind autocannons and mines,
+Reshala's body-block him. **Killa is the exception — he's the fight himself.**
 
 **Reading eftboss.com:** the headline % is whether he spawns at all; the per-location
 numbers are that split evenly across spawn points. I can't read the live number myself, so
 check before a hunt and tell me.
+
+---
+
+# 🧊 ICE BREAKER — ✅ IT IS PvE, AND IT'S REACHABLE
+
+⚠️*web-sourced* — **the file previously listed this as a locked endgame map. That's wrong.**
+
+**Icebreaker is Tarkov's first dedicated PvE map.** Max **1–3 PMC players** — your own squad
+only, no random matchmaking. Every enemy is AI: **Rogues · Black Division · The Wedge ·
+Knight**. 50-minute raids, enemy count scales with squad size.
+
+### 🔑 How to unlock it — and it runs through YOUR HIDEOUT
+
+**The `Boreas` story chapter unlocks it. Two ways to start it:**
+1. Find a **Paradigm shipping poster** in any TerraGroup-related location, **or**
+2. ⭐ **Have Intelligence Center 3 — then just use the radio in your hideout.**
+
+> 🔴 **THIS IS A REASON TO UNPAUSE THE HIDEOUT.** You're on **Intelligence Center 2**, and
+> the file already notes **Generator 3 gates Intelligence Center 3**. That chain now buys
+> you a whole map, not just a flea discount.
+
+**Then:** talk to Mechanic → **Woods: fix equipment under the tower near the Scav bunker
+with a Toolset** → Mechanic reviews documents → vehicle access → **the chain branches based
+on which traders you've favoured.**
+
+**Entry:** transit from the **Shoreline pier — ₽700,000.** Direct map-select access unlocks
+after finishing the questline **`Stick to It`** *(the fee still applies)*.
+
+| Icebreaker boss | Where | Drops |
+|---|---|---|
+| **The Wedge** | **level 3, in the gym** · 3–6 heavily armed guards | LV-119 carrier, ComTac VI, MP7 parts |
+| **Knight** | **level 0** · 2 Rogue guards | **Death Knight mask**, **CPC Goons Edition**, Desert Eagle L6 |
+
+> 🚨 **INSURANCE DOES NOT WORK ON ICEBREAKER.** Anything you lose is gone permanently.
+> Traders take your money and then tell you their people wouldn't go. **Do not bring the
+> Zhuk or the CPCs on a first trip.**
+>
+> 🔑 Keys/items in play: BBQ-S43 gas torch · Boreas crew quarters keycard · Boreas engine
+> room keycard · Compartment C-1 and C-3 keycards · SZ-1 explosive charge.
+
+---
+
+# 📈 LEVELLING & SKILLS — researched ⚠️*web-sourced*
+
+## The fastest XP, in order
+
+1. **🥇 Trader quests are BY FAR the biggest XP source.** Nothing else is close. Chain them.
+2. **🥈 SURVIVE.** The survival bonus multiplies the whole raid's XP.
+3. **🔴 Don't Run-Through.** Extracting too early having done too little tags the raid
+   **Run Through** instead of Survived — **you lose the survival bonus AND your loot loses
+   Found-in-Raid status.** That last part breaks quest hand-ins.
+4. **Loot and examine everything** — examining unknown items is free XP.
+5. **Headshots** — more XP, less ammo.
+6. **🚫 Scav runs give you NO character XP.** They're for loot only. If the goal is levels,
+   play PMC.
+
+> 💡 **For this player specifically: quests ARE the levelling plan.** You're 2 levels from
+> `Sellout` and 6 from Prapor LL4. The board you're already clearing is the fastest route to
+> both — no grinding required.
+
+## Skills
+
+**Every skill maxes at 51 (Elite).** There is a **per-raid fatigue cap** on skill gain:
+
+| Points earned this raid | Gain rate |
+|---|---|
+| 0 *(first point)* | **129%** |
+| 1 | 100% |
+| 2 | 60% |
+| 3 | 36% — and falling |
+
+🔴 **So spread training across several skills per raid rather than grinding one.**
+
+**How the ones that matter level:**
+
+| Skill | Trained by | Elite payoff |
+|---|---|---|
+| **Strength** | Sprinting/jumping **near max carry weight**, melee, throwing grenades | **+30% carry (100kg) · +20% move/sprint · +20% jump** — and **weapons weigh 0kg in slots** |
+| **Endurance** | **Sprinting long distances**, holding breath while aiming | **+50% stamina · +100% breath hold** *(huge for the DVL/M700 long shots)* |
+| **Metabolism** | Eating and drinking | boosts hydration/energy retention |
+| **Vitality · Health** | Level themselves through normal play | big survivability gains |
+
+**The Gym in your hideout trains Strength and Endurance directly.**
+
+> ⭐ **Endurance and Strength first.** Endurance for stamina and breath-hold, Strength so
+> you can carry loot out. **Both level for free during the raids you're already running** —
+> sprint everywhere, hold your breath when you scope, and carry heavy on the way out.
+
+---
+
+# 💰 LOOT RUNS — where the roubles are ⚠️*web-sourced*
+
+| Map | The run | Take |
+|---|---|---|
+| 🥇 **Interchange** | **The tech circuit** — sweep **OLI · IDEA · Goshan** cash registers, hit the **PC blocks in OLI and Techlight** for GPUs, then **NecrusPharm + medical points** for LEDX. Extract Emercom or Power Station V-Ex | **₽500k–1,000,000+** per raid, and **most of it needs no keys** |
+| 🥈 **Reserve** | **RB-key bunker rooms** — military tech, supply crates, weapon mods | High value, **but one bad bunker fight loses the kit, the keys and the loot** |
+| 🥉 **Woods** | **Scattered stashes** most players ignore | Modest, but the safest money on the board |
+| **Customs** | **Dorm 314 marked room** | Keycard + guaranteed meds — ⭐ **and `Controller`'s next-task reward is the Dorm 314 marked key** |
+
+> 💡 **The joke here: your best money map is the one Killa lives on.** The Interchange tech
+> circuit is the top rouble run in the game **and you already have to go there for
+> `Supervisor` and the books.** Same route, same risk — just bring a backpack.
+
+---
+
+# 🎯 WHAT TO FOCUS ON RIGHT NOW
+
+**In order, with reasons:**
+
+1. **🥇 Finish Woods** — the BTR pair *(`Shipping Delay P1` → `A Helping Hand`)* and
+   `Hiking`. It's nearly done and it's the safest board you have.
+2. **🥈 Reserve's D-2 chain** — **5–6 quests in ONE underground run**, fully mapped, still
+   untouched. **Highest quest-per-raid on the board.** Bring 6× MS2000 + the RB-ST key.
+3. **🥉 Night Factory** — `HCP P5` + `Every Hunter Knows This` share the **breach room**.
+   Bring 3× Gunpowder. **₽320,787.**
+4. **Level to 32** → `Sellout` opens, and **Killa's Maska is already sitting FiR in your
+   stash.** Every forced Killa fight starts paying.
+5. **Level to 36** → **Prapor LL4** *(rep already met)* → **5.45 BS at 54 pen**, which
+   finally cracks Killa's class 6 face shield.
+6. **Unpause the hideout for Generator 3 → Intelligence Center 3** → the Boreas radio →
+   **Icebreaker access**, plus Flea fee −30%.
+7. **Interchange last** — `Supervisor` 2/3 and the two books. It's the most dangerous board
+   for the least reward, and nothing there is time-sensitive.
+
+> **The through-line: everything above levels you, and levelling is what unlocks the two
+> things you actually want — Sellout and Prapor LL4.** There is no separate grind.
 
 ---
 
