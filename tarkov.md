@@ -7,15 +7,14 @@
 *(Five lines max. This file is 2,500+ lines and gets read on a phone — the new stuff lives
 here so you never have to diff it.)*
 
-1. **20 Aug ·** 🐓 **YOU NOW NEED FOUR GOLDEN ROOSTERS** *(Hall of Fame 1 · Scav Case 1 · Skier jewellery job 2)* — **stop selling figurines, watches and eggs.** 📊 **Skier LL4 corrected from your screen: level 37 + rep 6.00** — you are at **5.977, so it is a level problem only.** ✅ Surplus Goods, A Fuel Matter, Demonstration Model, Punisher P3+P4 all done.
-2. **20 Aug ·** ⛓ **DO `From Hand to Hand` BEFORE `Gunsmith – Vector`** — it rewards **2× KRISS Vector 9x19 AND 2× 33-round mags**, which are exactly what the Gunsmith build requires. **Lighthouse now 13 quests.** `Classified Technologies` ✅, Fence daily ✅.
-3. **20 Aug ·** 🔑 **KEY RING LOGGED — you already hold keys for 3 Streets quests** *(`Watching You`, `Surveillance`, `Your Car Needs a Service`)* **plus both remaining `Supervisor` drops.** Those three Streets quests sit on the **₽1M keyed loot route.** ⚠️ **No RB-ST** — buy before Reserve. 🗑 **`Company` key is 0/10, dead — bin it.**
-4. **20 Aug ·** 🔥 **THE WIRE CRAFT TRIPLE-DIPS** — `Fertilizers` needs **10 wires FiR**, crafts count as FiR. **₽80k of cords → ₽240–304k of wires: a 3–3.8× return, ₽81–113k/hr** ✅*player-priced*. Same craft = **₽320k quest + 50 hideout wires + best income you have.** Reserve D-2 chain: **The Bunker, Documents, Reserve, Back Door all ✅.**
-5. **20 Aug ·** 💱 **BARTERS: get the GSh118 backpack** *(barter-only, biggest in the game)* **and the HK G28 for one Labs keycard** — you craft those. **Skip the Medicine Case, HCP P5 gives you one.** *(→ Barters section)*
-   **Kollontay's club JAMS YOUR GUN** ✅*player* · **you're capped at 45–48 pen until level
+1. **20 Aug ·** 🚨 **LEVEL 33 — `SELLOUT` IS LIVE, KILLA PAYS NOW** *(Maska already FiR in stash)*. **Prapor LL4 is 3 levels away, rep smashed → 5.45 BS at 54 pen.** Skier LL4 rep also cleared. **₽6.9M, up ₽3.6M tonight.**
+2. **20 Aug ·** 🐓 **YOU NOW NEED FOUR GOLDEN ROOSTERS** *(Hall of Fame 1 · Scav Case 1 · Skier jewellery job 2)* — **stop selling figurines, watches and eggs.** 📊 **Skier LL4 corrected from your screen: level 37 + rep 6.00** — you are at **5.977, so it is a level problem only.** ✅ Surplus Goods, A Fuel Matter, Demonstration Model, Punisher P3+P4 all done.
+3. **20 Aug ·** ⛓ **DO `From Hand to Hand` BEFORE `Gunsmith – Vector`** — it rewards **2× KRISS Vector 9x19 AND 2× 33-round mags**, which are exactly what the Gunsmith build requires. **Lighthouse now 13 quests.** `Classified Technologies` ✅, Fence daily ✅.
+4. **20 Aug ·** 🔑 **KEY RING LOGGED — you already hold keys for 3 Streets quests** *(`Watching You`, `Surveillance`, `Your Car Needs a Service`)* **plus both remaining `Supervisor` drops.** Those three Streets quests sit on the **₽1M keyed loot route.** ⚠️ **No RB-ST** — buy before Reserve. 🗑 **`Company` key is 0/10, dead — bin it.**
+5. **20 Aug ·** 🔥 **THE WIRE CRAFT TRIPLE-DIPS** — `Fertilizers` needs **10 wires FiR**, crafts count as FiR. **₽80k of cords → ₽240–304k of wires: a 3–3.8× return, ₽81–113k/hr** ✅*player-priced*. Same craft = **₽320k quest + 50 hideout wires + best income you have.** Reserve D-2 chain: **The Bunker, Documents, Reserve, Back Door all ✅.**
    36**, which is the unlock that changes everything.
 
-> **PvE · Patch 1.1.0.1.46699 · Unheard · Level 30 · USEC · Stash 4 · ~₽3.2M**
+> **PvE · Patch 1.1.0.1.46699 · Unheard · LEVEL 33 · USEC · Stash 4 · ₽6.9M** ✅*20 Aug*
 
 ## Starting a fresh chat?
 
@@ -1204,7 +1203,7 @@ minimal contact, and it pairs with `Angry Watchman` and the Customs propane tank
 
 # Character
 
-**Level 30 · USEC · PvE · Unheard (Gamma 3×3) · Stash 4 · ₽3,195,691** *(moves fast)*
+**LEVEL 33 · USEC · PvE · Unheard (Gamma 3×3) · Stash 4 · ₽6,897,431 · €13,823 · $32,608** ✅*20 Aug*
 
 > 🔑 **LABS KEYCARDS ARE CRAFTABLE — you can do it today.**
 > **UHF RFID Reader + Intelligence folder → Intelligence Center 2 → 40 min → ×3 cards.**
@@ -2276,20 +2275,35 @@ he already gave you one.**
 
 ### ✅ YOUR ACTUAL STANDING — read off the trading screen
 
-**₽3,304,403 · €8,088 · $28,598 · Level 30 · spent ₽4.1M with Prapor**
-✅*player-confirmed*
+**₽6,897,431 · €13,823 · $32,608 · LEVEL 33 · spent ₽4.8M with Prapor**
+✅*player-confirmed, 20 Aug — up 3 levels and ₽3.6M in one night*
 
 | Trader | LL | Rep | Next level needs |
 |---|---|---|---|
-| **Prapor** | III | **8.403** | **LL4 = lvl 36 + rep 7.90 → 🔥 REP ALREADY MET, pure level gate** |
-| Mechanic | III | 7.067 | lvl 40 + 7.60 |
-| Therapist | III | 7.03 | lvl 38 + 7.30 |
-| Skier | III | 5.674 | lvl 38 + 5.80 — **rep almost there** |
-| Peacekeeper | III | 4.877 | lvl 37 + 6.00 |
-| Ragman | III | 3.35 | lvl 42 + 6.50 — furthest on both |
-| Jaeger | III | 2.55 | lvl 33 + 7.30 — rep is the wall, not level |
-| **Ref** | **II** | **0.40** | **LL3 = lvl 25 ✅ + rep 0.50 → 🔥 0.10 REP AWAY** |
-| Fence | I | 1.566 | — |
+| 🔥 **Prapor** | III | **9.963** | **LL4 = lvl 36 + rep 7.90 → REP SMASHED. THREE LEVELS AWAY.** ⭐ *this is 5.45 BS* |
+| 🔥 **Skier** | III | **6.774** | **LL4 = lvl 37 + rep 6.00 → REP CLEARED. Four levels.** |
+| Mechanic | III | **8.707** | lvl 40 + 7.60 — **rep cleared**, 7 levels |
+| Therapist | III | 7.03 | lvl 38 + 7.30 — 0.27 rep short |
+| Peacekeeper | III | **5.977** | lvl 37 + 6.00 — **0.023 rep short** |
+| Ragman | III | **4.41** | lvl 42 + 6.50 |
+| Jaeger | III | **3.50** | lvl 33 ✅ **cleared** + rep 7.30 — **rep is the whole wall now** |
+| **Ref** | **II** | **0.40** | **LL3 = rep 0.50 → still 🔥 0.10 AWAY** *(unchanged — Arena)* |
+| Fence | I | **1.596** | +0.03 tonight — **car extracts still untested** |
+
+> ## 🚨 YOU PASSED 32 — `SELLOUT` IS LIVE
+> **Killa now pays.** You're **level 33**, `Sellout` needs 32, and **the Maska is already
+> sitting FiR in your stash.** Every forced Interchange encounter is quest progress from
+> tonight onward.
+>
+> ## ⭐ THREE LEVELS TO PRAPOR LL4
+> **Rep 9.963 against a 7.90 requirement — it is purely level 36 now.** That unlocks
+> **5.45 BS at 54 pen**, which is the round that breaks your 45–48 ceiling and cracks
+> Killa's class 6 face shield. **Three levels from a different game.**
+>
+> ## 📈 Four of seven Kappa LL4s are now rep-cleared
+> **Prapor · Skier · Mechanic** have the rep and need only levels. **Jaeger cleared its
+> level (33) and is now pure rep** — which the Huntsman Path feeds. **Ragman remains the
+> long pole.**
 
 > 🔥 **Two unlocks are close and both matter for armor:**
 > **1. Ref LL3 is 0.10 rep away** *(Ref rep comes from Arena)* — unlocks a second **AVS**,
