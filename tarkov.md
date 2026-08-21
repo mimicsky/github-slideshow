@@ -7,12 +7,11 @@
 *(Five lines max. This file is 2,500+ lines and gets read on a phone — the new stuff lives
 here so you never have to diff it.)*
 
-1. **20 Aug ·** 🔥 **THE WIRE CRAFT TRIPLE-DIPS** — `Fertilizers` needs **10 wires FiR**, crafts count as FiR. **₽80k of cords → ₽240–304k of wires: a 3–3.8× return, ₽81–113k/hr** ✅*player-priced*. Same craft = **₽320k quest + 50 hideout wires + best income you have.** Reserve D-2 chain: **The Bunker, Documents, Reserve, Back Door all ✅.**
-2. **20 Aug ·** 💱 **BARTERS: get the GSh118 backpack** *(barter-only, biggest in the game)* **and the HK G28 for one Labs keycard** — you craft those. **Skip the Medicine Case, HCP P5 gives you one.** *(→ Barters section)*
-3. **20 Aug ·** 🏗 **BEST CRAFT: Bundle of Wires ×8 at Workbench L1 — ≈₽74,470/hr**, and it produces the **50 wires** your hideout upgrades need. *(→ Hideout crafts section)*
-4. **20 Aug ·** 🏟 **ARENA VERDICT: worth it.** **Ref LL3 is 0.10 rep away** *(AVS, HighCom TFO, Strandhogg behind it)*, and after `To Great Heights! – Part 3` Ref opens a **₽1M/day Arena→main transfer with zero gear risk.** *(→ Kappa section)*
-5. **20 Aug ·** ⚔️ **META CHECK — you already own most of the S-tier** *(Mutant, DVL-10,
-   RPK-16 ×2, AUG, 5-7)*. **Only real gap: the 7.62x51 MDR.** Every source says **ammo
+1. **20 Aug ·** 🔑 **KEY RING LOGGED — you already hold keys for 3 Streets quests** *(`Watching You`, `Surveillance`, `Your Car Needs a Service`)* **plus both remaining `Supervisor` drops.** Those three Streets quests sit on the **₽1M keyed loot route.** ⚠️ **No RB-ST** — buy before Reserve. 🗑 **`Company` key is 0/10, dead — bin it.**
+2. **20 Aug ·** 🔥 **THE WIRE CRAFT TRIPLE-DIPS** — `Fertilizers` needs **10 wires FiR**, crafts count as FiR. **₽80k of cords → ₽240–304k of wires: a 3–3.8× return, ₽81–113k/hr** ✅*player-priced*. Same craft = **₽320k quest + 50 hideout wires + best income you have.** Reserve D-2 chain: **The Bunker, Documents, Reserve, Back Door all ✅.**
+3. **20 Aug ·** 💱 **BARTERS: get the GSh118 backpack** *(barter-only, biggest in the game)* **and the HK G28 for one Labs keycard** — you craft those. **Skip the Medicine Case, HCP P5 gives you one.** *(→ Barters section)*
+4. **20 Aug ·** 🏗 **BEST CRAFT: Bundle of Wires ×8 at Workbench L1 — ≈₽74,470/hr**, and it produces the **50 wires** your hideout upgrades need. *(→ Hideout crafts section)*
+5. **20 Aug ·** 🏟 **ARENA VERDICT: worth it.** **Ref LL3 is 0.10 rep away** *(AVS, HighCom TFO, Strandhogg behind it)*, and after `To Great Heights! – Part 3` Ref opens a **₽1M/day Arena→main transfer with zero gear risk.** *(→ Kappa section)*
    matters more than the gun**, and **1.0.4.5 decoupled recoil from handguards — stop
    paying for them.** *(→ `RESEARCH.md` RESULTS)*
    **Kollontay's club JAMS YOUR GUN** ✅*player* · **you're capped at 45–48 pen until level
@@ -1329,6 +1328,48 @@ wasted.
    traders reset. You keep stats, achievements, some skills and mastering, Arena rating,
    and prestige rewards, and each level lets you carry a few more items over. Needs level
    55. It's a deliberate restart, not a bonus.
+
+---
+
+# 🔑 YOUR KEY RING — ✅*player-confirmed from screen, 20 Aug*
+
+## 🚨 YOU ALREADY OWN KEYS FOR QUESTS ON YOUR BOARD
+
+| Key you hold | Unlocks | Quest |
+|---|---|---|
+| **Pnwd 215** *(40/40)* | Pinewood room 215 | ⭐ **`Watching You`** — the flash drive, 2nd floor northern Pinewood |
+| **Conc sec.** *(40/40)* | Concordia security room | ⭐ **`Surveillance`** — the hard drive, basement parking garage |
+| **LexOs** *(20/20)* | LexOs dealership office | ⭐ **`Your Car Needs a Service`** — flash drive on the director's desk |
+| **Goshan reg.** *(40/40)* · **OLI reg.** *(40/40)* | the cash registers | ⭐ **`Supervisor`** — **both remaining drops, keys in hand** |
+| **W306 San** *(40/40 ×2)* | Health Resort west wing 306 | ⭐ **`Health Care Privacy P2`** — your file flags this key as required |
+| **#21WS** *(7/10)* | Interchange secret container | ~~`Irresistible`~~ ✅ done — **7 uses left, sell or keep** |
+| **ZB-014** *(39/40)* | Woods bunker | ~~`Thrifty`~~ ✅ done — **you had this all along** |
+
+> 🔴 **THREE STREETS QUESTS ARE KEY-READY.** `Watching You`, `Surveillance` and `Your Car
+> Needs a Service` are all in the **same keyed loot route** research flagged as the **₽1M+
+> Streets run** — LexOs → Chekannaya → Concordia → Pinewood. **You can do the money run and
+> three quests on one trip, with keys you already own.**
+
+## 🗝 The rest of the ring
+
+**Reserve:** RB-MP12 · RB-RS — ⚠️ **you do NOT have RB-ST** *(needed for `Surplus Goods`)*,
+nor RB-PSP1/PSP2/VO *(the loot rooms)*. **Buy those before the next Reserve trip.**
+
+**Customs dorms:** 103 · 105 · 114 · 203 · 206 ×2 · 214 · 220 · 303 ×2 · 306 · Director's ·
+WSafe · Safe · GDesk — ⚠️ **no Dorm 314 marked key yet.** That's `Controller`'s reward.
+
+**Shoreline:** W219 · W220 · W306 ×2 · E314 · San tape · Cottage · Cabin
+**Other:** Iron gate · Power · Bunkhouse · Danex · Zm.3 · Cult victim · Factory · TGL ASR ·
+UC reg. · OLI Log. · Machinery *(5/5)* · Overseer ×3 *(2/2)* · **Key tool**
+
+## 🗑 DISCARD
+
+**`Company` key — 0/10 uses. It's spent.** Keys break now; that one is dead weight in the
+case. **Bin it.**
+
+⚠️ **Watch the low-use keys:** **#21WS 7/10** · **Overseer 2/2 ×3** · **Machinery 5/5** ·
+**LexOs 20/20** · **Zm.3 20/20** · **Cult victim 20/20** · **Factory 20/20**. Spend those
+deliberately — **once they're gone they're gone.**
 
 ---
 
