@@ -7,12 +7,11 @@
 *(Five lines max. This file is 2,500+ lines and gets read on a phone — the new stuff lives
 here so you never have to diff it.)*
 
-1. **20 Aug ·** ⛓ **DO `From Hand to Hand` BEFORE `Gunsmith – Vector`** — it rewards **2× KRISS Vector 9x19 AND 2× 33-round mags**, which are exactly what the Gunsmith build requires. **Lighthouse now 13 quests.** `Classified Technologies` ✅, Fence daily ✅.
-2. **20 Aug ·** 🔑 **KEY RING LOGGED — you already hold keys for 3 Streets quests** *(`Watching You`, `Surveillance`, `Your Car Needs a Service`)* **plus both remaining `Supervisor` drops.** Those three Streets quests sit on the **₽1M keyed loot route.** ⚠️ **No RB-ST** — buy before Reserve. 🗑 **`Company` key is 0/10, dead — bin it.**
-3. **20 Aug ·** 🔥 **THE WIRE CRAFT TRIPLE-DIPS** — `Fertilizers` needs **10 wires FiR**, crafts count as FiR. **₽80k of cords → ₽240–304k of wires: a 3–3.8× return, ₽81–113k/hr** ✅*player-priced*. Same craft = **₽320k quest + 50 hideout wires + best income you have.** Reserve D-2 chain: **The Bunker, Documents, Reserve, Back Door all ✅.**
-4. **20 Aug ·** 💱 **BARTERS: get the GSh118 backpack** *(barter-only, biggest in the game)* **and the HK G28 for one Labs keycard** — you craft those. **Skip the Medicine Case, HCP P5 gives you one.** *(→ Barters section)*
-5. **20 Aug ·** 🏗 **BEST CRAFT: Bundle of Wires ×8 at Workbench L1 — ≈₽74,470/hr**, and it produces the **50 wires** your hideout upgrades need. *(→ Hideout crafts section)*
-   paying for them.** *(→ `RESEARCH.md` RESULTS)*
+1. **20 Aug ·** 🐓 **YOU NOW NEED FOUR GOLDEN ROOSTERS** *(Hall of Fame 1 · Scav Case 1 · Skier jewellery job 2)* — **stop selling figurines, watches and eggs.** 📊 **Skier LL4 corrected from your screen: level 37 + rep 6.00** — you are at **5.977, so it is a level problem only.** ✅ Surplus Goods, A Fuel Matter, Demonstration Model, Punisher P3+P4 all done.
+2. **20 Aug ·** ⛓ **DO `From Hand to Hand` BEFORE `Gunsmith – Vector`** — it rewards **2× KRISS Vector 9x19 AND 2× 33-round mags**, which are exactly what the Gunsmith build requires. **Lighthouse now 13 quests.** `Classified Technologies` ✅, Fence daily ✅.
+3. **20 Aug ·** 🔑 **KEY RING LOGGED — you already hold keys for 3 Streets quests** *(`Watching You`, `Surveillance`, `Your Car Needs a Service`)* **plus both remaining `Supervisor` drops.** Those three Streets quests sit on the **₽1M keyed loot route.** ⚠️ **No RB-ST** — buy before Reserve. 🗑 **`Company` key is 0/10, dead — bin it.**
+4. **20 Aug ·** 🔥 **THE WIRE CRAFT TRIPLE-DIPS** — `Fertilizers` needs **10 wires FiR**, crafts count as FiR. **₽80k of cords → ₽240–304k of wires: a 3–3.8× return, ₽81–113k/hr** ✅*player-priced*. Same craft = **₽320k quest + 50 hideout wires + best income you have.** Reserve D-2 chain: **The Bunker, Documents, Reserve, Back Door all ✅.**
+5. **20 Aug ·** 💱 **BARTERS: get the GSh118 backpack** *(barter-only, biggest in the game)* **and the HK G28 for one Labs keycard** — you craft those. **Skip the Medicine Case, HCP P5 gives you one.** *(→ Barters section)*
    **Kollontay's club JAMS YOUR GUN** ✅*player* · **you're capped at 45–48 pen until level
    36**, which is the unlock that changes everything.
 
@@ -554,8 +553,8 @@ Register #9 · OLI → Registers #7-8.*
 
 | Quest | Class | Type | |
 |---|---|---|---|
-| **The Punisher – Part 3** | III | 🎯 | ✓ **12 Scavs w/ 9x39** + 7 lower half-masks FiR · 🔫 **buy an AS VAL** |
-| **A Fuel Matter** | III | ✋ | 🔍 mark 2 fuel tank groups · survive & extract |
+| ~~**The Punisher – Part 3**~~ | III | 🎯 | ✅ **DONE** — and **Part 4 done too** |
+| ~~**A Fuel Matter**~~ | III | ✋ | ✅ **DONE** |
 | ~~**Reserve**~~ | III | ✋ | ✅ **DONE** |
 | **Safe Corridor** | III | 🎯 | ✓ **10 Scavs in that same "Д" warehouse** + its ramps |
 | ~~**Documents**~~ | III | ✋ | ✅ **DONE** |
@@ -564,9 +563,9 @@ Register #9 · OLI → Registers #7-8.*
 | ~~**Classified Technologies**~~ | III | ✋ | ✅ **DONE** |
 | ~~**The Bunker**~~ | III | ✋ | ✅ **DONE** |
 | **Disease History** | III | ✋ | ✓ **2 locked rooms, 2nd floor of the hospital (White Bishop)** |
-| **Surplus Goods** | III | 🔍 | ✓ **Locked room in the bigger of the two garages at the repair centre (White Knight)** · 🔑 **RB-ST key** |
+| ~~**Surplus Goods**~~ | III | 🔍 | ✅ **DONE** |
 | **Revision – Reserve** | III | ✋ | ✓ **4× BMP-2, mark with MS2000** — one needs 🔑 **RB-ST** |
-| **Demonstration Model** | III | 🎯 | 🔍 *no wiki page found under that name — re-check spelling in game* |
+| ~~**Demonstration Model**~~ | III | 🎯 | ✅ **DONE** — never did find a wiki page for it |
 
 **👹 Glukhar.** *Also `Drip Out – Part 1` (100 Raiders) and `Special Comms` arrives here.*
 
@@ -593,6 +592,7 @@ Register #9 · OLI → Registers #7-8.*
 ## 🗼 LIGHTHOUSE — 13
 
 | 🆕 **Reconnaissance** *(Prapor)* | III | 🔍 | ⭐ **Investigate the roof of ANY water treatment plant facility** — no kills, no items, just get on a roof. **Rewards: military power filter · unlocks the Tokarev AVT-40 · ₽320,787** ✅*player-confirmed* |
+| 🆕 **Overpopulation** *(Peacekeeper)* | III | 🎯 | **Kill 10 targets around the CHALETS** *(Cape Dalniy, the old USEC base)* + **hand over 5 FiR: Topographic survey maps · Intelligence folder · TerraGroup "Blue Folders"** ✅*player-confirmed* |
 | 🆕 **Top Secret** *(Skier)* | III | 🔍 | **Locate the radar station commandant's office** → grab the **HDD with archived flight routes** inside → hand over. ⚠️ **The radar station is on the ISLAND — Zryachiy's ground.** Rewards: **2× golden neck chain** · **TX-15 DML** *(item + unlock)* · Magpul MOE stock · M856A1 ammo ✅*player-confirmed* |
 | 🆕 **From Hand to Hand** *(Skier)* | III | ✋ | **Stash a Virtex programmable processor AND a Military COFDM Wireless Signal Transmitter inside the "makeshift lab."** ⭐ Rewards: **2× KRISS Vector Gen.2 9x19** · **2× Glock 33-round "Big Stick" mags** · 9x19 PBP ✅*player-confirmed* |
 
@@ -618,6 +618,17 @@ Register #9 · OLI → Registers #7-8.*
 | **Lost Contact** | Dead group on the **tennis court** of the **south-east chalet** · **survive & extract** | — |
 | **The Hermit** | **Village on the eastern island** — message is **below the door** of the hideout · **must extract with it** | — |
 | **Administrator** | Kill **Zryachiy** (island) · ⚠️ also requires **firing a yellow flare** *(RSP-30)* skyward **inside the train area** — must reach height or it won't count | **RSP-30 flare** |
+
+> ## 🏔 THE CHALET CLUSTER IS NOW THREE QUESTS
+> **`Missing Cargo`** *(crashed heli on the hill + folder on the chalet's 1st floor)* ·
+> **`Lost Contact`** *(dead group on the tennis court)* · 🆕 **`Overpopulation`**
+> *(10 kills around the chalets + 5 FiR documents)*.
+> **One trip to the south-east hill clears all three** — and `Overpopulation` supplies the
+> combat that the other two don't need but will attract anyway.
+>
+> ⚠️ **`Overpopulation` wants Intelligence folders** — **so does your Labs keycard craft.**
+> You need **5 documents** *(any mix of topographic maps / intel folders / Blue Folders)*.
+> **Spend the maps and Blue Folders here, keep the Intelligence folders for keycards.**
 
 > 🗺 **LIGHTHOUSE IS TWO RAIDS, NOT TEN.**
 > **RAID 1 — NORTH:** water treatment plant + freight/train yard covers **6 quests**
@@ -701,6 +712,8 @@ counts here.*
 | Quest | Trader | What |
 |---|---|---|
 | 🔥 **Fertilizers** | Mechanic | **10× Bundle of wires FOUND IN RAID** *(2/10)* + **6× Capacitors** *(6/6 ✅ done)* · **₽320,787** · Mechanic +0.75 |
+| 🆕 **Cargo X** *(Peacekeeper)* | **Shoreline** | **Health Resort EAST WING computer room** — locate and obtain the data. *(Dialogue places the coordination centre on the **3rd floor of the east wing**.)* ✅*player-confirmed* |
+| 🆕 **Skier's jewellery job** *(name cut off)* | Any | 🔴 **Hand over FiR, 2 of EACH: Bronze lion · Horse figurine · GOLDEN ROOSTER · Cat figurine · Golden egg · Roler Submariner gold watch** ✅*player-confirmed* |
 | 🆕 **Pyramid Scheme** *(Skier)* | **Streets** | **Mark any ATM on Klimov Street with an MS2000** — that's the only required step. **10 optional "locate ATM" objectives** around **Klimov Street + Klimov Shopping Mall**. Rewards: **2× golden neck chain** · **KRISS Vector .45 unlock** · 2× G30 30-rd mags · **2× .45 RIP ammo packs** ✅*player-confirmed* |
 | **Gunsmith – Vector 9x19** | Mechanic | Build a **KRISS Vector 9x19**: **Mk.5 Modular Rail · Tactical Dynamics Skeletonized Foregrip · optic or irons · 33+ round mag · suppressor** · **ergo ≥48, recoil <240** · ₽320,787 |
 | **Ironclad Proof** | Prapor | **Quest supplies a GP-25 + VOG-25.** Hand over **10 FiR Russian grenades** · **10 kills with the GP-25** · Reward: **Korund-VM front plates** + military power filter + ₽320,787 |
@@ -718,6 +731,24 @@ counts here.*
 > **Start it now and keep it running.** It is simultaneously your best income, a quest
 > hand-in, and the thing unblocking Generator 3 → Intelligence Center 3 → Ice Breaker.
 > ⚠️ *Verify the FiR flag on the first batch before handing in.*
+
+> ## 🐓 GOLDEN ROOSTER CRISIS — you now need FOUR
+> **Hall of Fame: 1** · **Scav Case: 1** · 🆕 **Skier's jewellery job: 2**
+> Your file already said *"two golden roosters"* — **it's four now.** Same for anything else
+> on that list. **🔴 STOP SELLING FIGURINES.** Bronze lions, horses, cats, golden eggs and
+> **Roler Submariner watches** are all quest hand-ins at **2 each, found in raid.**
+
+> ## 📊 SKIER LL4 — CORRECTED FROM THE PLAYER'S SCREEN
+> ```
+> ⚠️ CORRECTION — Skier LL4 requirement
+>   My earlier table: level 38, rep 5.80
+>   Player's screen:  PLAYER LEVEL 37, REPUTATION 6.00
+>   → Player's screen wins.
+> ```
+> **Current standing: rep 5.977 — you are 0.023 off the rep requirement.**
+> ⭐ **Skier LL4 is effectively a LEVEL problem only, and it's the closest LL4 you have.**
+> Every Skier quest *(`Pyramid Scheme`, `Top Secret`, `From Hand to Hand`, the jewellery job)*
+> pushes rep past the line while you climb to 37.
 
 > ## ⛓ THE SKIER CHAIN FEEDS ITSELF — do `From Hand to Hand` before `Gunsmith – Vector`
 >
