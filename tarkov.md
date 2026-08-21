@@ -7,7 +7,7 @@
 *(Five lines max. This file is 2,500+ lines and gets read on a phone — the new stuff lives
 here so you never have to diff it.)*
 
-1. **20 Aug ·** 🔥 **THE WIRE CRAFT NOW TRIPLE-DIPS** — new quest `Fertilizers` needs **10 Bundle of wires FiR**, and hideout crafts count as FiR. **Same craft = ₽320k quest + 50 hideout wires + ₽74k/hr.** Reserve D-2 chain: **The Bunker, Documents, Reserve, Back Door all ✅.**
+1. **20 Aug ·** 🔥 **THE WIRE CRAFT TRIPLE-DIPS** — `Fertilizers` needs **10 wires FiR**, crafts count as FiR. **₽80k of cords → ₽240–304k of wires: a 3–3.8× return, ₽81–113k/hr** ✅*player-priced*. Same craft = **₽320k quest + 50 hideout wires + best income you have.** Reserve D-2 chain: **The Bunker, Documents, Reserve, Back Door all ✅.**
 2. **20 Aug ·** 💱 **BARTERS: get the GSh118 backpack** *(barter-only, biggest in the game)* **and the HK G28 for one Labs keycard** — you craft those. **Skip the Medicine Case, HCP P5 gives you one.** *(→ Barters section)*
 3. **20 Aug ·** 🏗 **BEST CRAFT: Bundle of Wires ×8 at Workbench L1 — ≈₽74,470/hr**, and it produces the **50 wires** your hideout upgrades need. *(→ Hideout crafts section)*
 4. **20 Aug ·** 🏟 **ARENA VERDICT: worth it.** **Ref LL3 is 0.10 rep away** *(AVS, HighCom TFO, Strandhogg behind it)*, and after `To Great Heights! – Part 3` Ref opens a **₽1M/day Arena→main transfer with zero gear risk.** *(→ Kappa section)*
@@ -1369,10 +1369,20 @@ by a wide margin — **UZI PRO · MP7A2 · HK G28.**
 
 | | |
 |---|---|
-| **Profit** | **≈ ₽146,872 per craft** |
+| **Input** | **2× power cord ≈ ₽38–43k each = ~₽80,000** ✅*player-confirmed* |
+| **Output** | **8× Bundle of wires** — market **₽30–38k each** ✅*player-confirmed* = **₽240,000–304,000** |
+| **Profit** | **≈ ₽160,000–224,000 per craft** — a **3–3.8× return** |
 | **Time** | 1h 58m |
-| **Rate** | **≈ ₽74,470/hr — the best available at this stage** |
+| **Rate** | **≈ ₽81,000–113,000/hr** |
+| **Cost per wire** | **≈ ₽10,000 crafted vs ₽30–38k bought** |
 | **Station** | **Workbench level 1** — you already have it |
+
+```
+⚠️ CORRECTION — wire craft profit
+  Web-sourced figure: ₽146,872 profit, ₽74,470/hr
+  Player's live prices: ₽160–224k profit, ₽81–113k/hr
+  → Player's market check wins. The community number was stale/low.
+```
 
 > ⭐ **AND IT DOUBLE-DIPS.** Your hideout needs **50 wires** across five modules, and your own
 > rule says **never sell one.** This craft pays the best rate in the hideout *and* produces
