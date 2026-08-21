@@ -7,15 +7,14 @@
 *(Five lines max. This file is 2,500+ lines and gets read on a phone — the new stuff lives
 here so you never have to diff it.)*
 
-1. **20 Aug ·** 💱 **BARTERS: get the GSh118 backpack** *(barter-only, biggest in the game)* **and the HK G28 for one Labs keycard** — you craft those. **Skip the Medicine Case, HCP P5 gives you one.** *(→ Barters section)*
-2. **20 Aug ·** 🏗 **BEST CRAFT: Bundle of Wires ×8 at Workbench L1 — ≈₽74,470/hr**, and it produces the **50 wires** your hideout upgrades need. *(→ Hideout crafts section)*
-3. **20 Aug ·** 🏟 **ARENA VERDICT: worth it.** **Ref LL3 is 0.10 rep away** *(AVS, HighCom TFO, Strandhogg behind it)*, and after `To Great Heights! – Part 3` Ref opens a **₽1M/day Arena→main transfer with zero gear risk.** *(→ Kappa section)*
-4. **20 Aug ·** ⚔️ **META CHECK — you already own most of the S-tier** *(Mutant, DVL-10,
+1. **20 Aug ·** 🔥 **THE WIRE CRAFT NOW TRIPLE-DIPS** — new quest `Fertilizers` needs **10 Bundle of wires FiR**, and hideout crafts count as FiR. **Same craft = ₽320k quest + 50 hideout wires + ₽74k/hr.** Reserve D-2 chain: **The Bunker, Documents, Reserve, Back Door all ✅.**
+2. **20 Aug ·** 💱 **BARTERS: get the GSh118 backpack** *(barter-only, biggest in the game)* **and the HK G28 for one Labs keycard** — you craft those. **Skip the Medicine Case, HCP P5 gives you one.** *(→ Barters section)*
+3. **20 Aug ·** 🏗 **BEST CRAFT: Bundle of Wires ×8 at Workbench L1 — ≈₽74,470/hr**, and it produces the **50 wires** your hideout upgrades need. *(→ Hideout crafts section)*
+4. **20 Aug ·** 🏟 **ARENA VERDICT: worth it.** **Ref LL3 is 0.10 rep away** *(AVS, HighCom TFO, Strandhogg behind it)*, and after `To Great Heights! – Part 3` Ref opens a **₽1M/day Arena→main transfer with zero gear risk.** *(→ Kappa section)*
+5. **20 Aug ·** ⚔️ **META CHECK — you already own most of the S-tier** *(Mutant, DVL-10,
    RPK-16 ×2, AUG, 5-7)*. **Only real gap: the 7.62x51 MDR.** Every source says **ammo
    matters more than the gun**, and **1.0.4.5 decoupled recoil from handguards — stop
    paying for them.** *(→ `RESEARCH.md` RESULTS)*
-5. **20 Aug ·** ⭐ **BOSS KILL GUIDE + LOOT RUNS MERGED.** Key finds: **Kaban is takeable
-   now** *(his guards have no helmets)* · **Glukhar is softer than his own guards** ·
    **Kollontay's club JAMS YOUR GUN** ✅*player* · **you're capped at 45–48 pen until level
    36**, which is the unlock that changes everything.
 
@@ -559,13 +558,13 @@ Register #9 · OLI → Registers #7-8.*
 |---|---|---|---|
 | **The Punisher – Part 3** | III | 🎯 | ✓ **12 Scavs w/ 9x39** + 7 lower half-masks FiR · 🔫 **buy an AS VAL** |
 | **A Fuel Matter** | III | ✋ | 🔍 mark 2 fuel tank groups · survive & extract |
-| **Reserve** | III | ✋ | ✓ **NW underground warehouse marked "Д"** — down a ramp, **right-side food storage cages** *(wooden crates inside)*. **Survive & extract** |
+| ~~**Reserve**~~ | III | ✋ | ✅ **DONE** |
 | **Safe Corridor** | III | 🎯 | ✓ **10 Scavs in that same "Д" warehouse** + its ramps |
-| **Documents** | III | ✋ | ✓ **3 military folders — command part of the underground bunker** |
+| ~~**Documents**~~ | III | ✋ | ✅ **DONE** |
 | **No Place for Renegades** | III | 🎯 | ✓ **5 Raiders in the command bunker.** Spawn at raid start, **more after the D-2 switch** |
-| **Back Door** | III | ✋ | ✓ **Extract via D-2.** Power lever is in the **command part of the bunker** *(can spawn Raiders)* |
+| ~~**Back Door**~~ | III | ✋ | ✅ **DONE** — D-2 extract |
 | **Classified Technologies** | III | ✋ | ✓ **Behind the dismantled rusty pipe in the underground workshop you pass through to reach D-2** → Peacekeeper |
-| **The Bunker** | III | ✋ | ✓ **Control room = centre of the bunker**, any staircase · then hermetic doors to **hospital (White Bishop)** + **academy** |
+| ~~**The Bunker**~~ | III | ✋ | ✅ **DONE** |
 | **Disease History** | III | ✋ | ✓ **2 locked rooms, 2nd floor of the hospital (White Bishop)** |
 | **Surplus Goods** | III | 🔍 | ✓ **Locked room in the bigger of the two garages at the repair centre (White Knight)** · 🔑 **RB-ST key** |
 | **Revision – Reserve** | III | ✋ | ✓ **4× BMP-2, mark with MS2000** — one needs 🔑 **RB-ST** |
@@ -593,7 +592,15 @@ Register #9 · OLI → Registers #7-8.*
 >
 > 🛒 **Bring: 6× MS2000** *(4 BMPs + 2 fuel tank groups)* **· RB-ST key.**
 
-## 🗼 LIGHTHOUSE — 10
+## 🗼 LIGHTHOUSE — 11
+
+| 🆕 **Reconnaissance** *(Prapor)* | III | 🔍 | ⭐ **Investigate the roof of ANY water treatment plant facility** — no kills, no items, just get on a roof. **Rewards: military power filter · unlocks the Tokarev AVT-40 · ₽320,787** ✅*player-confirmed* |
+
+> ⭐ **This joins the NORTH RUN — now 7 quests in one trip.** Same water treatment plant as
+> `Revision`, `Easy Job`, `Corporate Secrets` and `Broadcast P1`. **But it's still Rogue
+> territory** — and this one asks you to climb onto a roof *in* their compound, which is
+> exactly where their mounted guns are pointed. **Do it last, or do it quiet.**
+
 
 | Quest | Class | Type | |
 |---|---|---|---|
@@ -688,6 +695,32 @@ counts here.*
 | **Special Comms** | III | 🔍 | 🔍 Bulbex cutter at the RUAF boulder on Woods → transit to Reserve |
 
 ## 🌍 ANY LOCATION — 25
+
+### 🆕 NEW FROM THE RESERVE RAID ✅*player-confirmed from screen*
+
+| Quest | Trader | What |
+|---|---|---|
+| 🔥 **Fertilizers** | Mechanic | **10× Bundle of wires FOUND IN RAID** *(2/10)* + **6× Capacitors** *(6/6 ✅ done)* · **₽320,787** · Mechanic +0.75 |
+| **Gunsmith – Vector 9x19** | Mechanic | Build a **KRISS Vector 9x19**: **Mk.5 Modular Rail · Tactical Dynamics Skeletonized Foregrip · optic or irons · 33+ round mag · suppressor** · **ergo ≥48, recoil <240** · ₽320,787 |
+| **Ironclad Proof** | Prapor | **Quest supplies a GP-25 + VOG-25.** Hand over **10 FiR Russian grenades** · **10 kills with the GP-25** · Reward: **Korund-VM front plates** + military power filter + ₽320,787 |
+
+> ## 🔥 THE WIRE CRAFT NOW TRIPLE-DIPS
+>
+> **`Fertilizers` needs 10 Bundle of wires FOUND IN RAID — and hideout-crafted items carry
+> FiR status.** Your **Workbench L1 craft makes 8 per run.**
+>
+> **Two crafts = 16 wires, which covers:**
+> **1.** ✅ `Fertilizers` — the 10 hand-in *(**₽320,787**)*
+> **2.** ✅ Your hideout's **50-wire requirement** across five modules
+> **3.** ✅ **≈₽74,470/hr** as the best craft available to you
+>
+> **Start it now and keep it running.** It is simultaneously your best income, a quest
+> hand-in, and the thing unblocking Generator 3 → Intelligence Center 3 → Ice Breaker.
+> ⚠️ *Verify the FiR flag on the first batch before handing in.*
+
+> 💣 **`Ironclad Proof` is free grenade-launcher practice** — the quest hands you the GP-25.
+> Your file has **FN40GL and M32A1 in the Like list**, so this is a gun type you enjoy.
+> **Russian grenades (F-1, RGD-5) must be FOUND IN RAID — stop selling them.**
 
 > **Read the objectives. "Any location" ≠ anywhere.**
 
