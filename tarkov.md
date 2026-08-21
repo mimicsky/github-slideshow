@@ -249,6 +249,30 @@ beats anything I look up.**
 
 # ▶ NEXT RAID — Interchange · 2 left
 
+> ## 🔴 SHOULD INTERCHANGE BE DEFERRED TO LEVEL 36? — **SPLIT IT, DON'T DEFER IT ALL**
+>
+> **The two remaining objectives have completely different risk profiles:**
+>
+> | Objective | Lost on death? | Verdict |
+> |---|---|---|
+> | **`Supervisor`** — Goshan→BIZARRO fitting rooms · OLI→Registers #7-8 | ❌ **NO — stashing completes it on placement** | ✅ **GO NOW, cheap kit** |
+> | **`The Key to Success`** — the 2 books | ✅ **YES — quest items, lost if you don't extract** | ⏳ **DEFER** |
+>
+> ### ✅ Do `Supervisor` now, in a kit you don't mind losing
+> **The drops are permanent the moment you place them.** Killa can kill you *afterwards* and
+> you keep the progress. **That makes it nearly risk-free even at 75% spawn** — the only
+> thing you lose is a cheap kit. **Two drops, both in the big anchor stores, then leave.**
+>
+> ### ⏳ Defer the books
+> **They're the only thing he can actually take from you.** Two failed attempts already.
+> **Come back for them at 32+**, when `Sellout` makes the fight pay, and ideally at **36**
+> when **5.45 BS (54 pen)** finally cracks his class 6 face shield.
+>
+> ### 🎯 The level-36 Interchange trip is the real plan
+> At 36 you arrive able to **kill him for quest credit**, with **BS ammo**, and you run the
+> **tech circuit (₽500k–1M)** on the same raid. **Books, Sellout, and the best money run in
+> the game in one trip.** That's worth waiting for. **The two key drops are not.**
+
 `Fuel Crisis` and `Pathfinder` done. **No markers needed any more.**
 
 ## 🛒 Bring
@@ -331,6 +355,28 @@ little against class 5–6 plates, so **distance beats him** and closing distanc
 > nowhere.** Treat him as a personal grudge in the tone of this file. **He is not a
 > "walk past" any more — he is a problem to be solved**, and the moment `Sellout` opens at
 > **level 32**, he becomes a payday instead of a mugging.
+
+### 🔬 WHY HE BEHAVES LIKE THIS IN 1.1 — researched ⚠️*web-sourced*
+
+**Community claim:** Killa is *"far more aggressive in 1.1"* — possibly a bug.
+**What research actually found: it's most likely INTENDED, not broken.**
+
+There is a documented **2026 AI overhaul** across all bosses ⚠️*web-sourced*:
+
+> **"Boss awareness expands with sound and line of sight; once triggered they reposition
+> rather than anchor."** Bosses now *"use aggression, flanking and suppression"* instead of
+> holding a fixed patrol.
+
+**That is exactly what happened to you** — you fired, his awareness expanded to include you,
+and he **repositioned rather than anchoring**, all the way to the EMERCOM checkpoint.
+
+> 🔴 **CONCLUSION: "avoid his area" is dead as a concept, not just for Killa but for every
+> boss.** The old model — bosses sit in a zone you can route around — **no longer applies.**
+> Plan for pursuit, and treat your first shot as the thing that starts the fight.
+
+⚠️ **One alternative aim point surfaced:** some guides now say **aim for the neck** on Killa.
+**Your own thorax rule is player-confirmed and stays primary** — but if you get a clean look
+at his neck, it bypasses both the class 6 face shield and the class 5 chest plates.
 
 ### ⚠️ KILLA'S ZONE IS THE WHOLE MAP — player-confirmed the hard way
 
