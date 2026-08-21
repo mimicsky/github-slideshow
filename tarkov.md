@@ -7,12 +7,11 @@
 *(Five lines max. This file is 2,500+ lines and gets read on a phone — the new stuff lives
 here so you never have to diff it.)*
 
-1. **20 Aug ·** 🔑 **KEY RING LOGGED — you already hold keys for 3 Streets quests** *(`Watching You`, `Surveillance`, `Your Car Needs a Service`)* **plus both remaining `Supervisor` drops.** Those three Streets quests sit on the **₽1M keyed loot route.** ⚠️ **No RB-ST** — buy before Reserve. 🗑 **`Company` key is 0/10, dead — bin it.**
-2. **20 Aug ·** 🔥 **THE WIRE CRAFT TRIPLE-DIPS** — `Fertilizers` needs **10 wires FiR**, crafts count as FiR. **₽80k of cords → ₽240–304k of wires: a 3–3.8× return, ₽81–113k/hr** ✅*player-priced*. Same craft = **₽320k quest + 50 hideout wires + best income you have.** Reserve D-2 chain: **The Bunker, Documents, Reserve, Back Door all ✅.**
-3. **20 Aug ·** 💱 **BARTERS: get the GSh118 backpack** *(barter-only, biggest in the game)* **and the HK G28 for one Labs keycard** — you craft those. **Skip the Medicine Case, HCP P5 gives you one.** *(→ Barters section)*
-4. **20 Aug ·** 🏗 **BEST CRAFT: Bundle of Wires ×8 at Workbench L1 — ≈₽74,470/hr**, and it produces the **50 wires** your hideout upgrades need. *(→ Hideout crafts section)*
-5. **20 Aug ·** 🏟 **ARENA VERDICT: worth it.** **Ref LL3 is 0.10 rep away** *(AVS, HighCom TFO, Strandhogg behind it)*, and after `To Great Heights! – Part 3` Ref opens a **₽1M/day Arena→main transfer with zero gear risk.** *(→ Kappa section)*
-   matters more than the gun**, and **1.0.4.5 decoupled recoil from handguards — stop
+1. **20 Aug ·** ⛓ **DO `From Hand to Hand` BEFORE `Gunsmith – Vector`** — it rewards **2× KRISS Vector 9x19 AND 2× 33-round mags**, which are exactly what the Gunsmith build requires. **Lighthouse now 13 quests.** `Classified Technologies` ✅, Fence daily ✅.
+2. **20 Aug ·** 🔑 **KEY RING LOGGED — you already hold keys for 3 Streets quests** *(`Watching You`, `Surveillance`, `Your Car Needs a Service`)* **plus both remaining `Supervisor` drops.** Those three Streets quests sit on the **₽1M keyed loot route.** ⚠️ **No RB-ST** — buy before Reserve. 🗑 **`Company` key is 0/10, dead — bin it.**
+3. **20 Aug ·** 🔥 **THE WIRE CRAFT TRIPLE-DIPS** — `Fertilizers` needs **10 wires FiR**, crafts count as FiR. **₽80k of cords → ₽240–304k of wires: a 3–3.8× return, ₽81–113k/hr** ✅*player-priced*. Same craft = **₽320k quest + 50 hideout wires + best income you have.** Reserve D-2 chain: **The Bunker, Documents, Reserve, Back Door all ✅.**
+4. **20 Aug ·** 💱 **BARTERS: get the GSh118 backpack** *(barter-only, biggest in the game)* **and the HK G28 for one Labs keycard** — you craft those. **Skip the Medicine Case, HCP P5 gives you one.** *(→ Barters section)*
+5. **20 Aug ·** 🏗 **BEST CRAFT: Bundle of Wires ×8 at Workbench L1 — ≈₽74,470/hr**, and it produces the **50 wires** your hideout upgrades need. *(→ Hideout crafts section)*
    paying for them.** *(→ `RESEARCH.md` RESULTS)*
    **Kollontay's club JAMS YOUR GUN** ✅*player* · **you're capped at 45–48 pen until level
    36**, which is the unlock that changes everything.
@@ -562,7 +561,7 @@ Register #9 · OLI → Registers #7-8.*
 | ~~**Documents**~~ | III | ✋ | ✅ **DONE** |
 | **No Place for Renegades** | III | 🎯 | ✓ **5 Raiders in the command bunker.** Spawn at raid start, **more after the D-2 switch** |
 | ~~**Back Door**~~ | III | ✋ | ✅ **DONE** — D-2 extract |
-| **Classified Technologies** | III | ✋ | ✓ **Behind the dismantled rusty pipe in the underground workshop you pass through to reach D-2** → Peacekeeper |
+| ~~**Classified Technologies**~~ | III | ✋ | ✅ **DONE** |
 | ~~**The Bunker**~~ | III | ✋ | ✅ **DONE** |
 | **Disease History** | III | ✋ | ✓ **2 locked rooms, 2nd floor of the hospital (White Bishop)** |
 | **Surplus Goods** | III | 🔍 | ✓ **Locked room in the bigger of the two garages at the repair centre (White Knight)** · 🔑 **RB-ST key** |
@@ -591,9 +590,11 @@ Register #9 · OLI → Registers #7-8.*
 >
 > 🛒 **Bring: 6× MS2000** *(4 BMPs + 2 fuel tank groups)* **· RB-ST key.**
 
-## 🗼 LIGHTHOUSE — 11
+## 🗼 LIGHTHOUSE — 13
 
 | 🆕 **Reconnaissance** *(Prapor)* | III | 🔍 | ⭐ **Investigate the roof of ANY water treatment plant facility** — no kills, no items, just get on a roof. **Rewards: military power filter · unlocks the Tokarev AVT-40 · ₽320,787** ✅*player-confirmed* |
+| 🆕 **Top Secret** *(Skier)* | III | 🔍 | **Locate the radar station commandant's office** → grab the **HDD with archived flight routes** inside → hand over. ⚠️ **The radar station is on the ISLAND — Zryachiy's ground.** Rewards: **2× golden neck chain** · **TX-15 DML** *(item + unlock)* · Magpul MOE stock · M856A1 ammo ✅*player-confirmed* |
+| 🆕 **From Hand to Hand** *(Skier)* | III | ✋ | **Stash a Virtex programmable processor AND a Military COFDM Wireless Signal Transmitter inside the "makeshift lab."** ⭐ Rewards: **2× KRISS Vector Gen.2 9x19** · **2× Glock 33-round "Big Stick" mags** · 9x19 PBP ✅*player-confirmed* |
 
 > ⭐ **This joins the NORTH RUN — now 7 quests in one trip.** Same water treatment plant as
 > `Revision`, `Easy Job`, `Corporate Secrets` and `Broadcast P1`. **But it's still Rogue
@@ -700,6 +701,7 @@ counts here.*
 | Quest | Trader | What |
 |---|---|---|
 | 🔥 **Fertilizers** | Mechanic | **10× Bundle of wires FOUND IN RAID** *(2/10)* + **6× Capacitors** *(6/6 ✅ done)* · **₽320,787** · Mechanic +0.75 |
+| 🆕 **Pyramid Scheme** *(Skier)* | **Streets** | **Mark any ATM on Klimov Street with an MS2000** — that's the only required step. **10 optional "locate ATM" objectives** around **Klimov Street + Klimov Shopping Mall**. Rewards: **2× golden neck chain** · **KRISS Vector .45 unlock** · 2× G30 30-rd mags · **2× .45 RIP ammo packs** ✅*player-confirmed* |
 | **Gunsmith – Vector 9x19** | Mechanic | Build a **KRISS Vector 9x19**: **Mk.5 Modular Rail · Tactical Dynamics Skeletonized Foregrip · optic or irons · 33+ round mag · suppressor** · **ergo ≥48, recoil <240** · ₽320,787 |
 | **Ironclad Proof** | Prapor | **Quest supplies a GP-25 + VOG-25.** Hand over **10 FiR Russian grenades** · **10 kills with the GP-25** · Reward: **Korund-VM front plates** + military power filter + ₽320,787 |
 
@@ -716,6 +718,19 @@ counts here.*
 > **Start it now and keep it running.** It is simultaneously your best income, a quest
 > hand-in, and the thing unblocking Generator 3 → Intelligence Center 3 → Ice Breaker.
 > ⚠️ *Verify the FiR flag on the first batch before handing in.*
+
+> ## ⛓ THE SKIER CHAIN FEEDS ITSELF — do `From Hand to Hand` before `Gunsmith – Vector`
+>
+> **`From Hand to Hand` rewards 2× KRISS Vector Gen.2 9x19 AND 2× Glock 33-round "Big
+> Stick" magazines.**
+> **`Gunsmith – Vector 9x19` requires a KRISS Vector 9x19 and a "33-round mag or larger."**
+>
+> ⭐ **The quest hands you both halves of the next quest.** Don't buy a Vector — do
+> `From Hand to Hand` first and the Gunsmith build costs you nothing but the rail, foregrip,
+> optic and suppressor.
+
+> 💰 **FOUR FREE GOLDEN NECK CHAINS** — 2 from `Pyramid Scheme`, 2 from `Top Secret`.
+> ~~`Chumming`~~ is done, but your file lists these on the **never-sell** list. **Bank them.**
 
 > 💣 **`Ironclad Proof` is free grenade-launcher practice** — the quest hands you the GP-25.
 > Your file has **FN40GL and M32A1 in the Like list**, so this is a gun type you enjoy.
