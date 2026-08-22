@@ -7,12 +7,11 @@
 *(Five lines max. This file is 2,500+ lines and gets read on a phone — the new stuff lives
 here so you never have to diff it.)*
 
-1. **20 Aug ·** 🔴 **`Sellout` is NOT on the board — level 32 was necessary, not sufficient.** New standing rule: **never assume a quest is available.** 📊 **LL4 reqs corrected from trader panels: FIVE of seven Kappa traders are rep-done** *(Therapist needed 5.80 not 7.30)*. **Only Jaeger and Ragman rep remain. Prapor LL4 = 3 levels.**
-2. **20 Aug ·** 🚨 **LEVEL 33 — `SELLOUT` IS LIVE, KILLA PAYS NOW** *(Maska already FiR in stash)*. **Prapor LL4 is 3 levels away, rep smashed → 5.45 BS at 54 pen.** Skier LL4 rep also cleared. **₽6.9M, up ₽3.6M tonight.**
-3. **20 Aug ·** 🐓 **YOU NOW NEED FOUR GOLDEN ROOSTERS** *(Hall of Fame 1 · Scav Case 1 · Skier jewellery job 2)* — **stop selling figurines, watches and eggs.** 📊 **Skier LL4 corrected from your screen: level 37 + rep 6.00** — you are at **5.977, so it is a level problem only.** ✅ Surplus Goods, A Fuel Matter, Demonstration Model, Punisher P3+P4 all done.
-4. **20 Aug ·** ⛓ **DO `From Hand to Hand` BEFORE `Gunsmith – Vector`** — it rewards **2× KRISS Vector 9x19 AND 2× 33-round mags**, which are exactly what the Gunsmith build requires. **Lighthouse now 13 quests.** `Classified Technologies` ✅, Fence daily ✅.
-5. **20 Aug ·** 🔑 **KEY RING LOGGED — you already hold keys for 3 Streets quests** *(`Watching You`, `Surveillance`, `Your Car Needs a Service`)* **plus both remaining `Supervisor` drops.** Those three Streets quests sit on the **₽1M keyed loot route.** ⚠️ **No RB-ST** — buy before Reserve. 🗑 **`Company` key is 0/10, dead — bin it.**
-
+1. **21 Aug ·** 🌆 **STREETS FULLY RESEARCHED — 10 more located.** ⭐ **`Audiophile` + `Ballet Lover` are the SAME apartment** *(Primorsky 48, apt 10, 4th floor)*. ⭐ **`Urban Medicine` is ALSO at LexOs** — two quests there, both Kaban-gated. `Watching You` ✅.
+2. **20 Aug ·** 🔴 **`Sellout` is NOT on the board — level 32 was necessary, not sufficient.** New standing rule: **never assume a quest is available.** 📊 **LL4 reqs corrected from trader panels: FIVE of seven Kappa traders are rep-done** *(Therapist needed 5.80 not 7.30)*. **Only Jaeger and Ragman rep remain. Prapor LL4 = 3 levels.**
+3. **20 Aug ·** 🚨 **LEVEL 33 — `SELLOUT` IS LIVE, KILLA PAYS NOW** *(Maska already FiR in stash)*. **Prapor LL4 is 3 levels away, rep smashed → 5.45 BS at 54 pen.** Skier LL4 rep also cleared. **₽6.9M, up ₽3.6M tonight.**
+4. **20 Aug ·** 🐓 **YOU NOW NEED FOUR GOLDEN ROOSTERS** *(Hall of Fame 1 · Scav Case 1 · Skier jewellery job 2)* — **stop selling figurines, watches and eggs.** 📊 **Skier LL4 corrected from your screen: level 37 + rep 6.00** — you are at **5.977, so it is a level problem only.** ✅ Surplus Goods, A Fuel Matter, Demonstration Model, Punisher P3+P4 all done.
+5. **20 Aug ·** ⛓ **DO `From Hand to Hand` BEFORE `Gunsmith – Vector`** — it rewards **2× KRISS Vector 9x19 AND 2× 33-round mags**, which are exactly what the Gunsmith build requires. **Lighthouse now 13 quests.** `Classified Technologies` ✅, Fence daily ✅.
 > **PvE · Patch 1.1.0.1.46699 · Unheard · LEVEL 33 · USEC · Stash 4 · ₽6.9M** ✅*20 Aug*
 
 ## Starting a fresh chat?
@@ -666,12 +665,12 @@ Register #9 · OLI → Registers #7-8.*
 
 | Quest | Class | Type | |
 |---|---|---|---|
-| **Kings of the Rooftops** | II | ✋ | ✓ **8 Sniper Scavs** · reward SV-98 *(sell)* |
+| **Kings of the Rooftops** **12%** | II | ✋ | ✓ **8 Sniper Scavs, on the rooftops** · reward SV-98 *(sell)* |
 | **The Huntsman Path – Big Game** | II | 🎯 | ✓ kill **Kaban** |
 | ⭐ **Audiophile** | III | ✋ | ✓ **Music room, apartment no. 10, 4th floor** *(building name truncated in source — verify)* → guitar pick · 🎁 **UNLOCKS Osprey MK4A (Assault) at Ragman LL3** |
 | **The Door** | III | 🔍 | ✓ **Klimova 16A** — 2× WI-FI Camera, one in the **stairwell**, one on the door · 🔑 **Rusted bloody key** |
 | **Cease Fire!** | II | ✋ | ✓ **Extract via "Klimov Street" with SURVIVED status** — ⚠️ the extract only opens if you **fire a green flare** |
-| **Dandies** | II | 🎯 | ✓ |
+| **Dandies** | II | 🎯 | ✓ Kill enemies **while wearing a Bomber beanie + RayBench Hipster Reserve sunglasses**, then **stash both in the BARBER SHOP** · ⚠️ *objectives read 15, the guide says 30 — trust your screen* ⚠️*web-sourced* |
 | **Surveillance** | II | ✋ | ✓ **Hard drive — Concordia security room, in the basement parking garage** |
 | **The Secret to Productivity** | II | 🔍 | ✓ **"Hive" hookah lounge, Malevicha street no. 5** · 🔑 **Relaxation room key** · survive & extract |
 | ~~**Watching You**~~ | II | ✋ | ✅ **DONE** |
@@ -682,18 +681,31 @@ Register #9 · OLI → Registers #7-8.*
 | **The Secret Recipe** | II | ✋ | ✓ **TerraGroup office** — chemical additive · ✅ **key NOT required** *(some spawns need it, but it's completable without)* |
 | **Beyond the Red Meat** | II | ✋ | ✓ **Chef's diary in the Beluga restaurant** · ✅ **key NOT required** *(same — optional spawns)* |
 | **Paramedic** | II | ✋ | ✓ **Ambulance paramedic's smartphone** → ⚠️ **must extract via "Primorsky Ave Taxi V-Ex"** with it in raid inventory |
-| **Glory to CPSU** | II | ✋ | 🔍 |
-| **District Patrol** | II | 🎯 | ✓ |
-| **You've Got Mail** | II | ✋ | 🔍 |
-| **Properties All Around** | II | ✋ | 🔍 |
-| **Pets Won't Need It** | II | 🔍 | 🔍 |
-| **Urban Medicine** | II | ✋ | 🔍 |
-| **Ballet Lover** | II | ✋ | 🔍 |
+| **Glory to CPSU** | II | ✋ | ✓ **Prapor's friend's journal — the MUSEUM, a room on the 2nd floor** *(multiple spawns)* ⚠️*web-sourced* |
+| **District Patrol** **50%** | II | 🎯 | ✓ **20 kills using ASSAULT RIFLES or ASSAULT CARBINES only** ⚠️*web-sourced* |
+| **You've Got Mail** | II | ✋ | ✓ **Registered mail — the POST OFFICE**, multiple spawns through the building ⚠️*web-sourced* |
+| **Properties All Around** | II | ✋ | ✓ **Cadastral registry records — the REAL ESTATE AGENCY building** · ✅ **key NOT required** *(some spawns need one, completable without)* ⚠️*web-sourced* |
+| **Pets Won't Need It** **16%** | II | 🔍 | ✓ Scout the **VET CLINIC** · the **X-RAY room inside the children's polyclinic** · **3 pharmacies on Primorsky Ave** · + hand over 5 FiR items ⚠️*web-sourced* |
+| **Urban Medicine** **35%** | II | ✋ | ✓ **Chemical laboratory INSIDE A GARAGE AT THE LEXOS CAR WORKSHOP** — multiple containers · 🔴 **SAME KABAN CONFLICT** ⚠️*web-sourced* |
+| **Ballet Lover** | II | ✋ | ✓ **Balletmeister's apartment — PRIMORSKY 48, apartment no. 10, 4th floor** 🔑 Primorsky key · survive & extract ⚠️*web-sourced* |
 | **Create a Distraction – Part 2** [PVE ZONE] | III | 🎯 | ✓ |
 
 **👹 Kaban · Kollontay.** *Plus `Know Your Place!` arrives here and `Job for a Patriot`
 counts here.*
 
+> ## ⭐ TWO LOCATION OVERLAPS FOUND — 21 Aug research
+>
+> **1. `Audiophile` and `Ballet Lover` are the SAME APARTMENT.**
+> `Ballet Lover` = **Primorsky 48, apartment no. 10, 4th floor.**
+> `Audiophile` = *"music room, apartment no. 10, 4th floor"* — the building name was cut off
+> in the earlier source. **It's Primorsky 48.** ⚠️*web-sourced — confirm with your marker*
+> ⭐ **One apartment, two quests** — and `Audiophile` is the one that unlocks the **Osprey
+> MK4A at Ragman LL3.**
+>
+> **2. `Urban Medicine` is ALSO at LexOs** — the chemical laboratory is **inside a garage at
+> the LexOs car workshop.** So **LexOs holds TWO quests**, not one.
+> ⭐ **That doubles the payoff of a Kaban-free run** — and doubles the cost of him spawning.
+>
 > ## 🔴 LEXOS IS KABAN'S HOUSE — `Your Car Needs a Service` is gated on his spawn
 > ✅*player-confirmed 21 Aug: Kaban spawned, the AGS-30 opened up, player correctly backed off.*
 >
