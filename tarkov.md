@@ -674,7 +674,7 @@ Register #9 · OLI → Registers #7-8.*
 | **Dandies** | II | 🎯 | ✓ |
 | **Surveillance** | II | ✋ | ✓ **Hard drive — Concordia security room, in the basement parking garage** |
 | **The Secret to Productivity** | II | 🔍 | ✓ **"Hive" hookah lounge, Malevicha street no. 5** · 🔑 **Relaxation room key** · survive & extract |
-| **Watching You** | II | ✋ | ✓ **Flash drive — room 215, 2nd floor, NORTHERN Pinewood hotel building** |
+| ~~**Watching You**~~ | II | ✋ | ✅ **DONE** |
 | **Your Car Needs a Service** | II | ✋ | ✓ **Flash drive on the desk in the LexOs dealership director's office** *(closed section)* |
 | **Road Closed** | II | ✋ | ✓ **Convoy sits between the LexOs dealership and the Pinewood hotel** → then find the ambush spot · survive & extract |
 | **Secret Message** | II | 🎯 | ✓ |
@@ -1381,7 +1381,7 @@ wasted.
 
 | Key you hold | Unlocks | Quest |
 |---|---|---|
-| **Pnwd 215** *(40/40)* | Pinewood room 215 | ⭐ **`Watching You`** — the flash drive, 2nd floor northern Pinewood |
+| ~~**Pnwd 215**~~ *(40/40)* | Pinewood room 215 | ~~`Watching You`~~ ✅ **DONE** — key now free to sell or keep |
 | **Conc sec.** *(40/40)* | Concordia security room | ⭐ **`Surveillance`** — the hard drive, basement parking garage |
 | **LexOs** *(20/20)* | LexOs dealership office | ⭐ **`Your Car Needs a Service`** — flash drive on the director's desk |
 | **Goshan reg.** *(40/40)* · **OLI reg.** *(40/40)* | the cash registers | ⭐ **`Supervisor`** — **both remaining drops, keys in hand** |
