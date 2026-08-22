@@ -675,7 +675,7 @@ Register #9 · OLI → Registers #7-8.*
 | **Surveillance** | II | ✋ | ✓ **Hard drive — Concordia security room, in the basement parking garage** |
 | **The Secret to Productivity** | II | 🔍 | ✓ **"Hive" hookah lounge, Malevicha street no. 5** · 🔑 **Relaxation room key** · survive & extract |
 | ~~**Watching You**~~ | II | ✋ | ✅ **DONE** |
-| **Your Car Needs a Service** | II | ✋ | ✓ **Flash drive on the desk in the LexOs dealership director's office** *(closed section)* |
+| **Your Car Needs a Service** | II | ✋ | ✓ **Flash drive on the desk in the LexOs dealership director's office** *(closed section)* · 🔴 **CONTESTED BY KABAN — see below** |
 | **Road Closed** | II | ✋ | ✓ **Convoy sits between the LexOs dealership and the Pinewood hotel** → then find the ambush spot · survive & extract |
 | **Secret Message** | II | 🎯 | ✓ |
 | **House Arrest** | II | ✋ | ✓ **Prison cell no. 1, 3rd floor, Chekannaya 15** apartment building · then the debtor · hand over the **Chekannaya 15 apartment key** |
@@ -693,6 +693,27 @@ Register #9 · OLI → Registers #7-8.*
 
 **👹 Kaban · Kollontay.** *Plus `Know Your Place!` arrives here and `Job for a Patriot`
 counts here.*
+
+> ## 🔴 LEXOS IS KABAN'S HOUSE — `Your Car Needs a Service` is gated on his spawn
+> ✅*player-confirmed 21 Aug: Kaban spawned, the AGS-30 opened up, player correctly backed off.*
+>
+> **The dealership is his spawn AND the quest location.** So the quest has two states:
+>
+> **❌ Kaban is home →** you're walking into a **mounted AGS-30 grenade launcher** plus
+> **claymores in the grass and along the curbs.** Backing off is the right call.
+>
+> **✅ Kaban isn't home →** it's an unguarded office. Walk in, take the flash drive.
+>
+> ### If you DO want him — the approach matters
+> **Come from the NORTH, around Chek 15.** ⚠️*web-sourced* — **that AGS-30 has a blindspot
+> and physically cannot turn to face you there.** The **southern** approach is the one with
+> long sightlines, and that's where the grenades came from.
+> **Stay off the grass and off the curbs — that's where the claymores are.**
+>
+> ⭐ **And he's worth taking eventually:** **1300 HP but most of his guards wear NO helmets**
+> and silhouette against the sky, so headshots delete them. **`The Huntsman Path – Big Game`
+> needs him dead**, and Huntsman quests are your Jaeger rep engine — the one rep wall
+> standing between you and Kappa.
 
 ## 🚉 TRANSITION — 4
 
