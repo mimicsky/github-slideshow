@@ -798,9 +798,10 @@ counts here.*
 > **Take the gear off scavs you kill** — that's 3–4 categories per body, and **75 items is
 > roughly 20 scavs' worth of kit.**
 >
-> ⭐ **It stacks with everything else you're already doing.** `Punisher P3` wants **7 lower
-> half-masks FiR** — those are **Facecovers**, so the same loot serves both. And `Hiking`,
-> `Safe Corridor` and `District Patrol` all have you killing scavs anyway.
+> ⭐ **It stacks with everything else you're already doing** — `Hiking`, `Safe Corridor`,
+> `District Patrol` and `Kings of the Rooftops` all have you killing scavs regardless. Every
+> one of those bodies is 3–4 categories of `Scavenger` progress.
+> *(❌ Not Punisher P3 — that chain is finished through Part 4.)*
 
 > ## 🔴 `IMPORT` WANTS YOUR LABS KEYCARD INGREDIENT
 >
