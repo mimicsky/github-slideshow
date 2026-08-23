@@ -7,12 +7,11 @@
 *(Five lines max. This file is 2,500+ lines and gets read on a phone — the new stuff lives
 here so you never have to diff it.)*
 
-1. **21 Aug ·** ✅ **`Fertilizers` + `Semiconductor Crisis` DONE** — **Bitcoin Farm is now unblocked.** 🆕 `Import` + `Gunsmith – MPX`. 🔴 **`Import` wants a UHF RFID Reader — that is the Labs keycard ingredient.** Hand it over *(you hold 5 cards)* but **never vendor one again.** **VPX Flash Storage drops on Streets.**
-2. **21 Aug ·** 🌆 **STREETS FULLY RESEARCHED — 10 more located.** ⭐ **`Audiophile` + `Ballet Lover` are the SAME apartment** *(Primorsky 48, apt 10, 4th floor)*. ⭐ **`Urban Medicine` is ALSO at LexOs** — two quests there, both Kaban-gated. `Watching You` ✅.
-3. **20 Aug ·** 🔴 **`Sellout` is NOT on the board — level 32 was necessary, not sufficient.** New standing rule: **never assume a quest is available.** 📊 **LL4 reqs corrected from trader panels: FIVE of seven Kappa traders are rep-done** *(Therapist needed 5.80 not 7.30)*. **Only Jaeger and Ragman rep remain. Prapor LL4 = 3 levels.**
-4. **20 Aug ·** 🚨 **LEVEL 33 — `SELLOUT` IS LIVE, KILLA PAYS NOW** *(Maska already FiR in stash)*. **Prapor LL4 is 3 levels away, rep smashed → 5.45 BS at 54 pen.** Skier LL4 rep also cleared. **₽6.9M, up ₽3.6M tonight.**
-5. **20 Aug ·** 🐓 **YOU NOW NEED FOUR GOLDEN ROOSTERS** *(Hall of Fame 1 · Scav Case 1 · Skier jewellery job 2)* — **stop selling figurines, watches and eggs.** 📊 **Skier LL4 corrected from your screen: level 37 + rep 6.00** — you are at **5.977, so it is a level problem only.** ✅ Surplus Goods, A Fuel Matter, Demonstration Model, Punisher P3+P4 all done.
-
+1. **21 Aug ·** 🔥 **`Scavenger` = THE RAGMAN REP FIX** — 75 FiR gear items *(15 each: facecovers, headgear, headsets, eyewear, body armor)*. **STOP SELLING SCAV GEAR — strip every body.** Ragman is 1 of your 2 remaining Kappa walls. ✅ **Pyramid Scheme · Needle in a Haystack · Ballet Lover · Audiophile · You've Got Mail all DONE** *(Osprey MK4A now unlocked at Ragman LL3)*.
+2. **21 Aug ·** ✅ **`Fertilizers` + `Semiconductor Crisis` DONE** — **Bitcoin Farm is now unblocked.** 🆕 `Import` + `Gunsmith – MPX`. 🔴 **`Import` wants a UHF RFID Reader — that is the Labs keycard ingredient.** Hand it over *(you hold 5 cards)* but **never vendor one again.** **VPX Flash Storage drops on Streets.**
+3. **21 Aug ·** 🌆 **STREETS FULLY RESEARCHED — 10 more located.** ⭐ **`Audiophile` + `Ballet Lover` are the SAME apartment** *(Primorsky 48, apt 10, 4th floor)*. ⭐ **`Urban Medicine` is ALSO at LexOs** — two quests there, both Kaban-gated. `Watching You` ✅.
+4. **20 Aug ·** 🔴 **`Sellout` is NOT on the board — level 32 was necessary, not sufficient.** New standing rule: **never assume a quest is available.** 📊 **LL4 reqs corrected from trader panels: FIVE of seven Kappa traders are rep-done** *(Therapist needed 5.80 not 7.30)*. **Only Jaeger and Ragman rep remain. Prapor LL4 = 3 levels.**
+5. **20 Aug ·** 🚨 **LEVEL 33 — `SELLOUT` IS LIVE, KILLA PAYS NOW** *(Maska already FiR in stash)*. **Prapor LL4 is 3 levels away, rep smashed → 5.45 BS at 54 pen.** Skier LL4 rep also cleared. **₽6.9M, up ₽3.6M tonight.**
 ## Starting a fresh chat?
 
 **This file now lives in git** — `mimicsky/github-slideshow`, branch
@@ -550,6 +549,7 @@ Register #9 · OLI → Registers #7-8.*
 | Quest | Class | Type | |
 |---|---|---|---|
 | ~~**The Punisher – Part 3**~~ | III | 🎯 | ✅ **DONE** — and **Part 4 done too** |
+| 🆕 **Reserve Expert** | III | 🔍 | **Check 5 rooms: eastern barracks (BLACK PAWN) — 1st armory, duty room, 2nd armory · southern barracks (WHITE PAWN) — 1st + 2nd armory.** Then **hand over 3 pieces of gear found in those rooms** · optional 3 Russian gear *(1/3)* ✅*player-confirmed* |
 | ~~**A Fuel Matter**~~ | III | ✋ | ✅ **DONE** |
 | ~~**Reserve**~~ | III | ✋ | ✅ **DONE** |
 | **Safe Corridor** | III | 🎯 | ✓ **10 Scavs in that same "Д" warehouse** + its ramps |
@@ -666,7 +666,7 @@ Register #9 · OLI → Registers #7-8.*
 |---|---|---|---|
 | **Kings of the Rooftops** **12%** | II | ✋ | ✓ **8 Sniper Scavs, on the rooftops** · reward SV-98 *(sell)* |
 | **The Huntsman Path – Big Game** | II | 🎯 | ✓ kill **Kaban** |
-| ⭐ **Audiophile** | III | ✋ | ✓ **Music room, apartment no. 10, 4th floor** *(building name truncated in source — verify)* → guitar pick · 🎁 **UNLOCKS Osprey MK4A (Assault) at Ragman LL3** |
+| ~~**Audiophile**~~ | III | ✋ | ✅ **DONE** — Primorsky 48, apt 10, 4th floor. 🎁 **Osprey MK4A (Assault) now unlocked at Ragman LL3** |
 | **The Door** | III | 🔍 | ✓ **Klimova 16A** — 2× WI-FI Camera, one in the **stairwell**, one on the door · 🔑 **Rusted bloody key** |
 | **Cease Fire!** | II | ✋ | ✓ **Extract via "Klimov Street" with SURVIVED status** — ⚠️ the extract only opens if you **fire a green flare** |
 | **Dandies** | II | 🎯 | ✓ Kill enemies **while wearing a Bomber beanie + RayBench Hipster Reserve sunglasses**, then **stash both in the BARBER SHOP** · ⚠️ *objectives read 15, the guide says 30 — trust your screen* ⚠️*web-sourced* |
@@ -682,11 +682,11 @@ Register #9 · OLI → Registers #7-8.*
 | **Paramedic** | II | ✋ | ✓ **Ambulance paramedic's smartphone** → ⚠️ **must extract via "Primorsky Ave Taxi V-Ex"** with it in raid inventory |
 | **Glory to CPSU** | II | ✋ | ✓ **Prapor's friend's journal — the MUSEUM, a room on the 2nd floor** *(multiple spawns)* ⚠️*web-sourced* |
 | **District Patrol** **50%** | II | 🎯 | ✓ **20 kills using ASSAULT RIFLES or ASSAULT CARBINES only** ⚠️*web-sourced* |
-| **You've Got Mail** | II | ✋ | ✓ **Registered mail — the POST OFFICE**, multiple spawns through the building ⚠️*web-sourced* |
+| ~~**You've Got Mail**~~ | II | ✋ | ✅ **DONE** |
 | **Properties All Around** | II | ✋ | ✓ **Cadastral registry records — the REAL ESTATE AGENCY building** · ✅ **key NOT required** *(some spawns need one, completable without)* ⚠️*web-sourced* |
 | **Pets Won't Need It** **16%** | II | 🔍 | ✓ Scout the **VET CLINIC** · the **X-RAY room inside the children's polyclinic** · **3 pharmacies on Primorsky Ave** · + hand over 5 FiR items ⚠️*web-sourced* |
 | **Urban Medicine** **35%** | II | ✋ | ✓ **Chemical laboratory INSIDE A GARAGE AT THE LEXOS CAR WORKSHOP** — multiple containers · 🔴 **SAME KABAN CONFLICT** ⚠️*web-sourced* |
-| **Ballet Lover** | II | ✋ | ✓ **Balletmeister's apartment — PRIMORSKY 48, apartment no. 10, 4th floor** 🔑 Primorsky key · survive & extract ⚠️*web-sourced* |
+| ~~**Ballet Lover**~~ | II | ✋ | ✅ **DONE** — same apartment as Audiophile, theory confirmed |
 | **Create a Distraction – Part 2** [PVE ZONE] | III | 🎯 | ✓ |
 
 **👹 Kaban · Kollontay.** *Plus `Know Your Place!` arrives here and `Job for a Patriot`
@@ -743,10 +743,12 @@ counts here.*
 |---|---|---|
 | ~~**Fertilizers**~~ | Mechanic | ✅ **DONE** — the wire craft worked exactly as planned |
 | 🆕 **Import** | Mechanic | **UHF RFID Reader** ✅ *found* + hand over · **VPX Flash Storage Module** + hand over · 🔴 **SEE THE RFID CONFLICT BELOW** ✅*player-confirmed* |
+| 🔥 **Scavenger** *(Ragman)* | Any | 🔴 **15 FiR items from EACH of: Facecovers · Headgear · Headsets · Eyewear · Body Armor = 75 ITEMS.** ⭐ **RAGMAN REP — one of your two Kappa walls** ✅*player-confirmed* |
+| 🆕 **Hidden Layer** | Any | **"Locate a good lead related to Knossos LLC."** Rewards: **FN SCAR-H FDE** *(your Like list)* + 3 mags + 4× M80 · **next tasks give a S I C C pouch, Ballistic plate case, Sacred Amulet, PMAG D-60** ✅*player-confirmed* |
 | 🆕 **Gunsmith – MPX** | Mechanic | Build a **SIG MPX**: **Tactical Dynamics Skeletonized pistol grip · Annihilator flash hider · Steiner LAS/TAC 2 flashlight** · **sighting range >300 · ergo ≥47 · weight <4 kg · recoil <225** · Rewards: **M4A1 SAI + M4A1 SOPMOD I unlocks**, Tech manual, ₽320,787 ✅*player-confirmed* |
 | 🆕 **Cargo X** *(Peacekeeper)* | **Shoreline** | **Health Resort EAST WING computer room** — locate and obtain the data. *(Dialogue places the coordination centre on the **3rd floor of the east wing**.)* ✅*player-confirmed* |
 | 🆕 **Skier's jewellery job** *(name cut off)* | Any | 🔴 **Hand over FiR, 2 of EACH: Bronze lion · Horse figurine · GOLDEN ROOSTER · Cat figurine · Golden egg · Roler Submariner gold watch** ✅*player-confirmed* |
-| 🆕 **Pyramid Scheme** *(Skier)* | **Streets** | **Mark any ATM on Klimov Street with an MS2000** — that's the only required step. **10 optional "locate ATM" objectives** around **Klimov Street + Klimov Shopping Mall**. Rewards: **2× golden neck chain** · **KRISS Vector .45 unlock** · 2× G30 30-rd mags · **2× .45 RIP ammo packs** ✅*player-confirmed* |
+| ~~**Pyramid Scheme**~~ *(Skier)* | **Streets** | ✅ **DONE** |
 | **Gunsmith – Vector 9x19** | Mechanic | Build a **KRISS Vector 9x19**: **Mk.5 Modular Rail · Tactical Dynamics Skeletonized Foregrip · optic or irons · 33+ round mag · suppressor** · **ergo ≥48, recoil <240** · ₽320,787 |
 | **Ironclad Proof** | Prapor | **Quest supplies a GP-25 + VOG-25.** Hand over **10 FiR Russian grenades** · **10 kills with the GP-25** · Reward: **Korund-VM front plates** + military power filter + ₽320,787 |
 
@@ -781,6 +783,24 @@ counts here.*
 > ⭐ **Skier LL4 is effectively a LEVEL problem only, and it's the closest LL4 you have.**
 > Every Skier quest *(`Pyramid Scheme`, `Top Secret`, `From Hand to Hand`, the jewellery job)*
 > pushes rep past the line while you climb to 37.
+
+> ## 🔥 `SCAVENGER` IS THE RAGMAN REP FIX — AND IT CHANGES YOUR LOOTING
+>
+> **75 found-in-raid items: 15 each of Facecovers · Headgear · Headsets · Eyewear · Body
+> Armor.** It's a Ragman quest, and **Ragman rep (4.41 / 6.50) is one of only two walls left
+> between you and Kappa** — the other being Jaeger.
+>
+> ### 🔴 NEW LOOTING RULE, EFFECTIVE NOW
+> **Every scav wears four of these five categories.** You have been walking past your own
+> Kappa progress all wipe.
+>
+> **STOP SELLING:** balaclavas · masks · caps · helmets · headsets · glasses · any armor.
+> **Take the gear off scavs you kill** — that's 3–4 categories per body, and **75 items is
+> roughly 20 scavs' worth of kit.**
+>
+> ⭐ **It stacks with everything else you're already doing.** `Punisher P3` wants **7 lower
+> half-masks FiR** — those are **Facecovers**, so the same loot serves both. And `Hiking`,
+> `Safe Corridor` and `District Patrol` all have you killing scavs anyway.
 
 > ## 🔴 `IMPORT` WANTS YOUR LABS KEYCARD INGREDIENT
 >
@@ -853,7 +873,7 @@ counts here.*
 | **The Tarkov Butcher** | II | ✋ | 🔍 Ground Zero meat truck → Shoreline ambulance |
 | **Informed Means Armed** | I | ✋ | 🔍 **Woods camera left** |
 | ~~**Weapons Circulation**~~ | II | 🔍 | ✅ **DONE** — both Woods ritual spots marked |
-| **Needle in a Haystack** **3/6** | III | 🔍 | 🔍 Interchange kart track · Interchange indoor playground · Streets playground by Concordia |
+| ~~**Needle in a Haystack**~~ | III | 🔍 | ✅ **DONE** — all 6 spots |
 | **Drip-Out – Part 1** | III | ✋ | ✓ **100 Raiders** + 50 WARTECH FiR · **AP ammo + sidearm** |
 | **Booze** | III | ✋ | ✓ 10 vodka · 10 whiskey · 3 purified water · 20 Pevko — **all FiR** |
 | ~~**Semiconductor Crisis**~~ | III | ✋ | ✅ **DONE** — ⭐ **the Bitcoin Farm is now unblocked, GPUs are free to feed it** |
