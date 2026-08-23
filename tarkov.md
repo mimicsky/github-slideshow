@@ -7,12 +7,11 @@
 *(Five lines max. This file is 2,500+ lines and gets read on a phone — the new stuff lives
 here so you never have to diff it.)*
 
-1. **21 Aug ·** 🌆 **STREETS FULLY RESEARCHED — 10 more located.** ⭐ **`Audiophile` + `Ballet Lover` are the SAME apartment** *(Primorsky 48, apt 10, 4th floor)*. ⭐ **`Urban Medicine` is ALSO at LexOs** — two quests there, both Kaban-gated. `Watching You` ✅.
-2. **20 Aug ·** 🔴 **`Sellout` is NOT on the board — level 32 was necessary, not sufficient.** New standing rule: **never assume a quest is available.** 📊 **LL4 reqs corrected from trader panels: FIVE of seven Kappa traders are rep-done** *(Therapist needed 5.80 not 7.30)*. **Only Jaeger and Ragman rep remain. Prapor LL4 = 3 levels.**
-3. **20 Aug ·** 🚨 **LEVEL 33 — `SELLOUT` IS LIVE, KILLA PAYS NOW** *(Maska already FiR in stash)*. **Prapor LL4 is 3 levels away, rep smashed → 5.45 BS at 54 pen.** Skier LL4 rep also cleared. **₽6.9M, up ₽3.6M tonight.**
-4. **20 Aug ·** 🐓 **YOU NOW NEED FOUR GOLDEN ROOSTERS** *(Hall of Fame 1 · Scav Case 1 · Skier jewellery job 2)* — **stop selling figurines, watches and eggs.** 📊 **Skier LL4 corrected from your screen: level 37 + rep 6.00** — you are at **5.977, so it is a level problem only.** ✅ Surplus Goods, A Fuel Matter, Demonstration Model, Punisher P3+P4 all done.
-5. **20 Aug ·** ⛓ **DO `From Hand to Hand` BEFORE `Gunsmith – Vector`** — it rewards **2× KRISS Vector 9x19 AND 2× 33-round mags**, which are exactly what the Gunsmith build requires. **Lighthouse now 13 quests.** `Classified Technologies` ✅, Fence daily ✅.
-> **PvE · Patch 1.1.0.1.46699 · Unheard · LEVEL 33 · USEC · Stash 4 · ₽6.9M** ✅*20 Aug*
+1. **21 Aug ·** ✅ **`Fertilizers` + `Semiconductor Crisis` DONE** — **Bitcoin Farm is now unblocked.** 🆕 `Import` + `Gunsmith – MPX`. 🔴 **`Import` wants a UHF RFID Reader — that is the Labs keycard ingredient.** Hand it over *(you hold 5 cards)* but **never vendor one again.** **VPX Flash Storage drops on Streets.**
+2. **21 Aug ·** 🌆 **STREETS FULLY RESEARCHED — 10 more located.** ⭐ **`Audiophile` + `Ballet Lover` are the SAME apartment** *(Primorsky 48, apt 10, 4th floor)*. ⭐ **`Urban Medicine` is ALSO at LexOs** — two quests there, both Kaban-gated. `Watching You` ✅.
+3. **20 Aug ·** 🔴 **`Sellout` is NOT on the board — level 32 was necessary, not sufficient.** New standing rule: **never assume a quest is available.** 📊 **LL4 reqs corrected from trader panels: FIVE of seven Kappa traders are rep-done** *(Therapist needed 5.80 not 7.30)*. **Only Jaeger and Ragman rep remain. Prapor LL4 = 3 levels.**
+4. **20 Aug ·** 🚨 **LEVEL 33 — `SELLOUT` IS LIVE, KILLA PAYS NOW** *(Maska already FiR in stash)*. **Prapor LL4 is 3 levels away, rep smashed → 5.45 BS at 54 pen.** Skier LL4 rep also cleared. **₽6.9M, up ₽3.6M tonight.**
+5. **20 Aug ·** 🐓 **YOU NOW NEED FOUR GOLDEN ROOSTERS** *(Hall of Fame 1 · Scav Case 1 · Skier jewellery job 2)* — **stop selling figurines, watches and eggs.** 📊 **Skier LL4 corrected from your screen: level 37 + rep 6.00** — you are at **5.977, so it is a level problem only.** ✅ Surplus Goods, A Fuel Matter, Demonstration Model, Punisher P3+P4 all done.
 
 ## Starting a fresh chat?
 
@@ -742,7 +741,9 @@ counts here.*
 
 | Quest | Trader | What |
 |---|---|---|
-| 🔥 **Fertilizers** | Mechanic | **10× Bundle of wires FOUND IN RAID** *(2/10)* + **6× Capacitors** *(6/6 ✅ done)* · **₽320,787** · Mechanic +0.75 |
+| ~~**Fertilizers**~~ | Mechanic | ✅ **DONE** — the wire craft worked exactly as planned |
+| 🆕 **Import** | Mechanic | **UHF RFID Reader** ✅ *found* + hand over · **VPX Flash Storage Module** + hand over · 🔴 **SEE THE RFID CONFLICT BELOW** ✅*player-confirmed* |
+| 🆕 **Gunsmith – MPX** | Mechanic | Build a **SIG MPX**: **Tactical Dynamics Skeletonized pistol grip · Annihilator flash hider · Steiner LAS/TAC 2 flashlight** · **sighting range >300 · ergo ≥47 · weight <4 kg · recoil <225** · Rewards: **M4A1 SAI + M4A1 SOPMOD I unlocks**, Tech manual, ₽320,787 ✅*player-confirmed* |
 | 🆕 **Cargo X** *(Peacekeeper)* | **Shoreline** | **Health Resort EAST WING computer room** — locate and obtain the data. *(Dialogue places the coordination centre on the **3rd floor of the east wing**.)* ✅*player-confirmed* |
 | 🆕 **Skier's jewellery job** *(name cut off)* | Any | 🔴 **Hand over FiR, 2 of EACH: Bronze lion · Horse figurine · GOLDEN ROOSTER · Cat figurine · Golden egg · Roler Submariner gold watch** ✅*player-confirmed* |
 | 🆕 **Pyramid Scheme** *(Skier)* | **Streets** | **Mark any ATM on Klimov Street with an MS2000** — that's the only required step. **10 optional "locate ATM" objectives** around **Klimov Street + Klimov Shopping Mall**. Rewards: **2× golden neck chain** · **KRISS Vector .45 unlock** · 2× G30 30-rd mags · **2× .45 RIP ammo packs** ✅*player-confirmed* |
@@ -780,6 +781,21 @@ counts here.*
 > ⭐ **Skier LL4 is effectively a LEVEL problem only, and it's the closest LL4 you have.**
 > Every Skier quest *(`Pyramid Scheme`, `Top Secret`, `From Hand to Hand`, the jewellery job)*
 > pushes rep past the line while you climb to 37.
+
+> ## 🔴 `IMPORT` WANTS YOUR LABS KEYCARD INGREDIENT
+>
+> **`Import` asks you to hand over a UHF RFID Reader.**
+> **That is one of the two ingredients in the Labs keycard craft** *(UHF RFID Reader +
+> Intelligence folder → Int Center 2 → 40 min → **3× keycards**)*.
+>
+> ✅ **Hand it over anyway — you already hold 5 Labs keycards**, which is the maximum you
+> can carry into a raid. **You do not need more cards right now.**
+> ⚠️ **But from now on, treat UHF RFID Readers as dual-purpose loot** — every one you find
+> is either a quest hand-in or three Labs entries. **Never vendor one.**
+>
+> 🎯 **The other half — VPX Flash Storage Module — drops on STREETS**, which is where you're
+> headed. It's on the ₽1M keyed loot route alongside GPUs, LEDX and Intelligence folders.
+> **Grab every VPX you see.**
 
 > ## ⛓ THE SKIER CHAIN FEEDS ITSELF — do `From Hand to Hand` before `Gunsmith – Vector`
 >
@@ -840,7 +856,7 @@ counts here.*
 | **Needle in a Haystack** **3/6** | III | 🔍 | 🔍 Interchange kart track · Interchange indoor playground · Streets playground by Concordia |
 | **Drip-Out – Part 1** | III | ✋ | ✓ **100 Raiders** + 50 WARTECH FiR · **AP ammo + sidearm** |
 | **Booze** | III | ✋ | ✓ 10 vodka · 10 whiskey · 3 purified water · 20 Pevko — **all FiR** |
-| **Semiconductor Crisis** **50%** | III | ✋ | ✓ 3 GPUs FiR — ⚠️ **before the Bitcoin Farm eats them** |
+| ~~**Semiconductor Crisis**~~ | III | ✋ | ✅ **DONE** — ⭐ **the Bitcoin Farm is now unblocked, GPUs are free to feed it** |
 | **Shooter Born in Heaven** **50%** ⭐*Kappa* | ⭐ | 🎯 | ✓ long-range headshots |
 | **The Tarkov Shooter – Part 4** ⭐*Kappa* | III | 🎯 | ✓ |
 | **Sew it Good – Part 1** ⭐*Kappa chain* | III | ✋ | 🔍 |
