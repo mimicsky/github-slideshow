@@ -7,12 +7,11 @@
 *(Five lines max. This file is 2,500+ lines and gets read on a phone — the new stuff lives
 here so you never have to diff it.)*
 
-1. **21 Aug ·** 🔥 **`Scavenger` = THE RAGMAN REP FIX** — 75 FiR gear items *(15 each: facecovers, headgear, headsets, eyewear, body armor)*. **STOP SELLING SCAV GEAR — strip every body.** Ragman is 1 of your 2 remaining Kappa walls. ✅ **Pyramid Scheme · Needle in a Haystack · Ballet Lover · Audiophile · You've Got Mail all DONE** *(Osprey MK4A now unlocked at Ragman LL3)*.
-2. **21 Aug ·** ✅ **`Fertilizers` + `Semiconductor Crisis` DONE** — **Bitcoin Farm is now unblocked.** 🆕 `Import` + `Gunsmith – MPX`. 🔴 **`Import` wants a UHF RFID Reader — that is the Labs keycard ingredient.** Hand it over *(you hold 5 cards)* but **never vendor one again.** **VPX Flash Storage drops on Streets.**
-3. **21 Aug ·** 🌆 **STREETS FULLY RESEARCHED — 10 more located.** ⭐ **`Audiophile` + `Ballet Lover` are the SAME apartment** *(Primorsky 48, apt 10, 4th floor)*. ⭐ **`Urban Medicine` is ALSO at LexOs** — two quests there, both Kaban-gated. `Watching You` ✅.
-4. **20 Aug ·** 🔴 **`Sellout` is NOT on the board — level 32 was necessary, not sufficient.** New standing rule: **never assume a quest is available.** 📊 **LL4 reqs corrected from trader panels: FIVE of seven Kappa traders are rep-done** *(Therapist needed 5.80 not 7.30)*. **Only Jaeger and Ragman rep remain. Prapor LL4 = 3 levels.**
-5. **20 Aug ·** 🚨 **LEVEL 33 — `SELLOUT` IS LIVE, KILLA PAYS NOW** *(Maska already FiR in stash)*. **Prapor LL4 is 3 levels away, rep smashed → 5.45 BS at 54 pen.** Skier LL4 rep also cleared. **₽6.9M, up ₽3.6M tonight.**
-## Starting a fresh chat?
+1. **21 Aug ·** ✅ **`Dandies` · `The Secret Recipe` · `Surveillance` DONE.** Streets is down to ~13. **Conc sec. key now spare.** Still open there: LexOs pair *(Kaban-gated)*, `Paramedic` + the car-extract Fence test, `Pets Won't Need It`, `House Arrest`, `Glory to CPSU`, `Properties All Around`.
+2. **21 Aug ·** 🔥 **`Scavenger` = THE RAGMAN REP FIX** — 75 FiR gear items *(15 each: facecovers, headgear, headsets, eyewear, body armor)*. **STOP SELLING SCAV GEAR — strip every body.** Ragman is 1 of your 2 remaining Kappa walls. ✅ **Pyramid Scheme · Needle in a Haystack · Ballet Lover · Audiophile · You've Got Mail all DONE** *(Osprey MK4A now unlocked at Ragman LL3)*.
+3. **21 Aug ·** ✅ **`Fertilizers` + `Semiconductor Crisis` DONE** — **Bitcoin Farm is now unblocked.** 🆕 `Import` + `Gunsmith – MPX`. 🔴 **`Import` wants a UHF RFID Reader — that is the Labs keycard ingredient.** Hand it over *(you hold 5 cards)* but **never vendor one again.** **VPX Flash Storage drops on Streets.**
+4. **21 Aug ·** 🌆 **STREETS FULLY RESEARCHED — 10 more located.** ⭐ **`Audiophile` + `Ballet Lover` are the SAME apartment** *(Primorsky 48, apt 10, 4th floor)*. ⭐ **`Urban Medicine` is ALSO at LexOs** — two quests there, both Kaban-gated. `Watching You` ✅.
+5. **20 Aug ·** 🔴 **`Sellout` is NOT on the board — level 32 was necessary, not sufficient.** New standing rule: **never assume a quest is available.** 📊 **LL4 reqs corrected from trader panels: FIVE of seven Kappa traders are rep-done** *(Therapist needed 5.80 not 7.30)*. **Only Jaeger and Ragman rep remain. Prapor LL4 = 3 levels.**
 
 **This file now lives in git** — `mimicsky/github-slideshow`, branch
 `claude/tarkov-desktop-helper-3b88yo`. Point a session at that folder, or paste the whole
@@ -669,15 +668,15 @@ Register #9 · OLI → Registers #7-8.*
 | ~~**Audiophile**~~ | III | ✋ | ✅ **DONE** — Primorsky 48, apt 10, 4th floor. 🎁 **Osprey MK4A (Assault) now unlocked at Ragman LL3** |
 | **The Door** | III | 🔍 | ✓ **Klimova 16A** — 2× WI-FI Camera, one in the **stairwell**, one on the door · 🔑 **Rusted bloody key** |
 | **Cease Fire!** | II | ✋ | ✓ **Extract via "Klimov Street" with SURVIVED status** — ⚠️ the extract only opens if you **fire a green flare** |
-| **Dandies** | II | 🎯 | ✓ Kill enemies **while wearing a Bomber beanie + RayBench Hipster Reserve sunglasses**, then **stash both in the BARBER SHOP** · ⚠️ *objectives read 15, the guide says 30 — trust your screen* ⚠️*web-sourced* |
-| **Surveillance** | II | ✋ | ✓ **Hard drive — Concordia security room, in the basement parking garage** |
+| ~~**Dandies**~~ | II | 🎯 | ✅ **DONE** |
+| ~~**Surveillance**~~ | II | ✋ | ✅ **DONE** |
 | **The Secret to Productivity** | II | 🔍 | ✓ **"Hive" hookah lounge, Malevicha street no. 5** · 🔑 **Relaxation room key** · survive & extract |
 | ~~**Watching You**~~ | II | ✋ | ✅ **DONE** |
 | **Your Car Needs a Service** | II | ✋ | ✓ **Flash drive on the desk in the LexOs dealership director's office** *(closed section)* · 🔴 **CONTESTED BY KABAN — see below** |
 | **Road Closed** | II | ✋ | ✓ **Convoy sits between the LexOs dealership and the Pinewood hotel** → then find the ambush spot · survive & extract |
 | **Secret Message** | II | 🎯 | ✓ |
 | **House Arrest** | II | ✋ | ✓ **Prison cell no. 1, 3rd floor, Chekannaya 15** apartment building · then the debtor · hand over the **Chekannaya 15 apartment key** |
-| **The Secret Recipe** | II | ✋ | ✓ **TerraGroup office** — chemical additive · ✅ **key NOT required** *(some spawns need it, but it's completable without)* |
+| ~~**The Secret Recipe**~~ | II | ✋ | ✅ **DONE** — key was indeed not needed |
 | **Beyond the Red Meat** | II | ✋ | ✓ **Chef's diary in the Beluga restaurant** · ✅ **key NOT required** *(same — optional spawns)* |
 | **Paramedic** | II | ✋ | ✓ **Ambulance paramedic's smartphone** → ⚠️ **must extract via "Primorsky Ave Taxi V-Ex"** with it in raid inventory |
 | **Glory to CPSU** | II | ✋ | ✓ **Prapor's friend's journal — the MUSEUM, a room on the 2nd floor** *(multiple spawns)* ⚠️*web-sourced* |
@@ -1452,7 +1451,7 @@ wasted.
 | Key you hold | Unlocks | Quest |
 |---|---|---|
 | ~~**Pnwd 215**~~ *(40/40)* | Pinewood room 215 | ~~`Watching You`~~ ✅ **DONE** — key now free to sell or keep |
-| **Conc sec.** *(40/40)* | Concordia security room | ⭐ **`Surveillance`** — the hard drive, basement parking garage |
+| ~~**Conc sec.**~~ *(40/40)* | Concordia security room | ~~`Surveillance`~~ ✅ **DONE** — key now spare |
 | **LexOs** *(20/20)* | LexOs dealership office | ⭐ **`Your Car Needs a Service`** — flash drive on the director's desk |
 | **Goshan reg.** *(40/40)* · **OLI reg.** *(40/40)* | the cash registers | ⭐ **`Supervisor`** — **both remaining drops, keys in hand** |
 | **W306 San** *(40/40 ×2)* | Health Resort west wing 306 | ⭐ **`Health Care Privacy P2`** — your file flags this key as required |
