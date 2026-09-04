@@ -15,7 +15,13 @@ once there are enough.
 
 | # | Question | Answer |
 |---|----------|--------|
-| _(seeding in progress — see about-alexei.md)_ | | |
+| S1 | What time do you wake up when nothing's set? | 12:00-1:00 PM |
+| S2 | What time do you go into work? | 1:30-2:00 PM |
+| S3 | What time do you get off work? | 9:00 PM |
+| S4 | What chore did you tell me you actually need to do? | Laundry |
+| S5 | Who did you say you want to see you waking up? | His parents |
+| S6 | In your words, what's the cost of sleeping in? | "I basically waste my day" |
+| S7 | How many hours before work do you get if you're up at 7? | 6.5 |
 
 ## Section 2 — Yesterday recall (verifiable from this chat's history)
 
