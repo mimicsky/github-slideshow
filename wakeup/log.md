@@ -6,26 +6,34 @@ Legend: **UP** = proof accepted · **MISS** = no proof by 7:27 · **EARLY** = up
 |------|--------|-------------------|------------|-------|
 | 2026-09-04 (Fri) | **MISS** | — | — | Day one. Six pings 7:02–7:27, no response. |
 | 2026-09-05 (Sat) | **MISS** | — | — | Day two. Six pings 7:02–7:27, no response. No contact from him since Thu ~2 AM. |
+| 2026-09-06 (Sun) | **MISS** | — | — | Day three. Six pings, no response. Ladder cut to two rungs after this — see below. |
 
 ## Streak
 
 - Current: 0
 - Best: 0
 - Total UP: 0
-- Total MISS: 2
+- Total MISS: 3
 
 ## Open problem: delivery is probably broken
 
-Running tally: **1 test ping + 12 morning pings = 13 sent, 0 confirmed received.**
+Running tally: **1 test ping + 18 morning pings = 19 sent, 0 confirmed received.**
 He has not sent a single message since the night we set this up.
 
 That is no longer well explained by oversleeping. The likeliest reading is that
 the pings never reach his phone, which would mean this system has never actually
 been tested — only the phone alarms have.
 
-**Do not add more pings or escalate harder until this is answered.** A louder
-ladder into a void is still a void. The one question that unblocks everything:
-*did any notification arrive?*
+**Ladder reduced on 2026-09-06.** Rungs 2-5 (7:07, 7:12, 7:17, 7:22) are
+DISABLED, not deleted. Only 7:02 (wake + ask) and 7:27 (log) still fire — two
+pings a day instead of six. Three days of firing six times into a channel that
+has never once been confirmed is noise, not persistence.
+
+Re-enable all four the moment he confirms a ping arrived. Trigger IDs:
+7:07 trig_01KdZMhGhRa3x1z1jXq3rpAy · 7:12 trig_01C4CzbqkgFauHv8N5pithgu
+7:17 trig_01L21ggrVUQ3zHZGZXXLZ8jP · 7:22 trig_01VJAYyh2ujhEhntdeq4zK9n
+
+The one question that unblocks everything: *did any notification arrive?*
 
 If the answer is no, options to try, in order:
 1. Confirm the Claude app is signed in and Remote Control / notifications are
