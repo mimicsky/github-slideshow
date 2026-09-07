@@ -7,17 +7,18 @@ Legend: **UP** = proof accepted · **MISS** = no proof by 7:27 · **EARLY** = up
 | 2026-09-04 (Fri) | **MISS** | — | — | Day one. Six pings 7:02–7:27, no response. |
 | 2026-09-05 (Sat) | **MISS** | — | — | Day two. Six pings 7:02–7:27, no response. No contact from him since Thu ~2 AM. |
 | 2026-09-06 (Sun) | **MISS** | — | — | Day three. Six pings, no response. Ladder cut to two rungs after this — see below. |
+| 2026-09-07 (Mon) | **MISS** | — | — | Day four, first on the reduced ladder. Two pings, no response. |
 
 ## Streak
 
 - Current: 0
 - Best: 0
 - Total UP: 0
-- Total MISS: 3
+- Total MISS: 4
 
 ## Open problem: delivery is probably broken
 
-Running tally: **1 test ping + 18 morning pings = 19 sent, 0 confirmed received.**
+Running tally: **1 test ping + 20 morning pings = 21 sent, 0 confirmed received.**
 He has not sent a single message since the night we set this up.
 
 That is no longer well explained by oversleeping. The likeliest reading is that
