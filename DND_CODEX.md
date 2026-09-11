@@ -410,7 +410,26 @@ Scope of the rule:
 - A natural 1 on an ability check is still just a low roll, not an auto-fail,
   so the near-miss band never triggers off it.
 
-<!-- 2. -->
+**2. Variant ability pairing on skills.**
+
+A skill is normally locked to one ability. Under this rule, when the *way* a
+character attempts something clearly runs on a different ability, I swap the
+ability and keep the skill.
+
+| Pairing | When it applies |
+| --- | --- |
+| STR + Intimidation | Menacing through raw physical threat rather than words |
+| INT + Stealth | Planning a route around patrols rather than moving quietly |
+| CON + Performance | An endurance act: an all-night song, a drinking contest |
+| WIS + Deception | Reading what someone wants to hear and feeding it back |
+
+How it works:
+
+- Skill proficiency still applies normally. Only the ability modifier changes.
+- **I call it, not the player.** The default pairing stands unless the action
+  clearly isn't the standard one. This is not a menu to shop from for whichever
+  ability happens to be highest.
+- A player may suggest a pairing, and I either take it or name the one that fits.
 
 ### Rulings made at the table
 
