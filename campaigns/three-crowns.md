@@ -142,6 +142,8 @@ linen strips.
 | Ketil | Crewman of the *Sea-Wolf* | Waystation yard | Ally | Alive. Beaten badly, cut free by Hallvard |
 | Dominion officer | Commands the search party. No helmet, long coat, speaks fluent Norse | Waystation | Hostile | **Escaped east on horseback with the bundled tubes.** Never entered the fight |
 | Three Dominion soldiers | Silk-laced lamellar, curved two-handed swords | Waystation | Hostile | All three killed by Hallvard |
+| Emeric | Concord courier, ~17 | Waystation cellar | Owes Hallvard his life | Alive. Two days without water in a burning building. Carries a satchel he will not put down |
+| Brannoc | Senior Concord courier, Emeric's superior | Waystation cellar | — | Dead two days, still in the cellar |
 
 ## Places
 
@@ -188,8 +190,15 @@ know about yet.
   Ketil they would be paid on delivery.
 - **The Dominion took this waystation two days ago and waited.** They knew the
   ship was coming.
-- **A loose Dominion horse** is standing at the far corner of the yard, spooked
-  but catchable.
+- **The horse** is caught and held.
+- **Twelve tubes existed.** The rack in the cellar has twelve slots. The Dominion
+  counted them aloud in the dark and found eleven. The twelfth left by sea four
+  days ago with Sigvard. **The officer knows he is short one and knows who has
+  it.** He did not ride east because he won.
+- **Emeric's satchel.** He has not let go of it once, including while being
+  hauled out of a hole on a rope. Contents unrevealed.
+- **Whoever told the Dominion the ship was coming.** They were waiting two days
+  early and knew the count.
 
 ---
 
