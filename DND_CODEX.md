@@ -121,6 +121,13 @@ Everyone rolls **initiative** once at the start: d20 + DEX modifier. Highest
 goes first. That order repeats every round. One round is six seconds of game
 time.
 
+**At our table:** the player rolls individually. Monsters roll in groups, so all
+six goblins share one initiative count and act together. Ties break in the
+player's favor.
+
+**Surprise:** a surprised creature can't move or act on its first turn and can't
+take reactions until that turn ends. It is one lost turn, not a free round.
+
 ### What you get on your turn
 
 | Resource | How many | Notes |
@@ -374,6 +381,8 @@ change any line and I play by the new version from then on.
 | Ability score generation | Standard array: 15, 14, 13, 12, 10, 8 | Confirmed |
 | Are DCs shown | Hidden, always | Confirmed |
 | Saving throws | I describe the threat before calling the save | Confirmed |
+| Initiative | You roll individually; monsters roll in groups | Confirmed |
+| Initiative ties | Break in the player's favor | Confirmed |
 | Difficulty pacing | Adaptive by encounter, never by moving a fixed DC | Confirmed |
 | Leveling | Milestone, when the story earns it | |
 | Who rolls your dice | You roll physical dice; say the number and I take it | Confirmed |
