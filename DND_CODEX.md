@@ -383,6 +383,8 @@ change any line and I play by the new version from then on.
 | Saving throws | I describe the threat before calling the save | Confirmed |
 | Initiative | You roll individually; monsters roll in groups | Confirmed |
 | Initiative ties | Break in the player's favor | Confirmed |
+| Free object interaction | Lenient on trivial actions, strict when tactically relevant | Confirmed |
+| Rules development | Playtest mode: rules get made and logged during play | Confirmed |
 | Difficulty pacing | Adaptive by encounter, never by moving a fixed DC | Confirmed |
 | Leveling | Milestone, when the story earns it | |
 | Who rolls your dice | You roll physical dice; say the number and I take it | Confirmed |
@@ -458,6 +460,16 @@ instead. I compensate by describing obstacles in enough detail to judge them.
 ### Rulings made at the table
 
 When the book is silent or unclear, I rule once and then stick to it.
+
+**Playtest mode is on.** Rather than settling every rule up front, we're
+building the rest of the book during play. When something comes up that isn't
+decided yet, I explain the default, we choose, and I log it here or promote it
+to a house rule above if it's big enough.
+
+Walked through so far: rules 1 to 9, core mechanics through turn structure.
+Still undecided and due to come up in play: actions, opportunity attacks, crits,
+death saves, cover, movement, conditions, exhaustion, spellcasting, concentration,
+rests, and leveling.
 
 | Situation | Ruling | Session |
 | --- | --- | --- |
