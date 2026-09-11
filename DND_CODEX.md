@@ -1,11 +1,11 @@
 # D&D Codex
 
-My personal reference for Dungeons & Dragons. Rules I keep forgetting, plus notes
-from my own campaign.
+The rulebook for our game. I am the DM, you are the player. This file is what I
+run from and what I keep our campaign state in, so nothing gets lost between
+sessions.
 
-Based on **D&D 5th Edition (2014 rules)**, which is what most games and most AI
-dungeon masters default to. The 2024 revision changes some details; the biggest
-one is exhaustion, noted below.
+Based on **D&D 5th Edition (2014 rules)**. Parts 1 to 5 are the rules I play by.
+Part 6 is the part you control. Parts 7 and 8 are mine to maintain.
 
 ---
 
@@ -358,41 +358,56 @@ to two scores, or a feat instead if your table uses them.
 
 ---
 
-## Part 6 — My Table
+## Part 6 — Table Rules (Our Game)
 
-Things specific to how *we* play. Fill this in as they come up.
+These are the settings I run our game under. They are the part you own — change
+any line and I'll play by the new version.
+
+| Setting | Default | Your call |
+| --- | --- | --- |
+| Edition | 5e, 2014 rules | |
+| Leveling | Milestone, when the story earns it | |
+| Who rolls your dice | You roll; say the number and I take it | |
+| Who rolls monster dice | I do, with a real random roll, shown to you | |
+| Do I fudge results | No. The dice stand, including against you | |
+| Lethality | Real. You can die, but not from nothing | |
+| Critical fumbles on a nat 1 | No, just a miss | |
+| Tracking rations and encumbrance | No | |
+| Tracking ammunition and spell slots | Yes | |
+| Tone | Set in session 1 | |
 
 ### House rules
 
-<!-- Replace these with the rulings from your own game. -->
+Rules we changed on purpose. I add a line here every time we make a ruling that
+differs from the book, so we stay consistent later.
 
-- [ ] Rule:
-- [ ] Rule:
-- [ ] Rule:
+<!-- 1. -->
+<!-- 2. -->
 
-### How we roll dice
+### Rulings made at the table
 
-<!-- e.g. physical dice, a dice roller site, the DM rolls, etc. -->
+When the book is silent or unclear, I rule once and then stick to it.
 
-- Method:
-- Who rolls for NPCs and monsters:
-- Do we use critical fumbles?
-
-### Table conventions
-
-- XP or milestone leveling:
-- Do we track rations, encumbrance, ammunition?
-- Session length and schedule:
+| Situation | Ruling | Session |
+| --- | --- | --- |
+| | | |
 
 ---
 
-## Part 7 — The Campaign
+## Part 7 — Campaign State
 
-### Campaign name
+I maintain this section. After each session I update it so nothing gets lost
+between sessions, and I re-read it before we start the next one.
 
-<!-- TODO -->
+### Campaign
 
-### My character
+- **Name:**
+- **Setting:**
+- **Tone:**
+- **Current level:**
+- **Sessions played:** 0
+
+### Player character
 
 | Field | Value |
 | --- | --- |
@@ -400,11 +415,10 @@ Things specific to how *we* play. Fill this in as they come up.
 | Race / species | |
 | Class and level | |
 | Background | |
-| Alignment | |
 | AC | |
 | HP (current / max) | |
 | Speed | |
-| Hit Dice | |
+| Hit Dice (total / spent) | |
 | Proficiency bonus | |
 | Spell save DC | |
 | Passive Perception | |
@@ -415,32 +429,34 @@ Things specific to how *we* play. Fill this in as they come up.
 | --- | --- | --- | --- | --- | --- |
 | | | | | | |
 
-**Proficiencies:**
+**Skill proficiencies:**
 
-**Key features and abilities:**
+**Saving throw proficiencies:**
 
-**Goal / motivation:**
+**Features and abilities:**
 
-### The party
+**Spells known / prepared:**
 
-| Name | Player | Class & level | Notes |
-| --- | --- | --- | --- |
-| | | | |
-| | | | |
-| | | | |
+**Spell slots remaining:**
+
+**Goal:**
+
+### Party and companions
+
+| Name | Type | Class & level | Status | Notes |
+| --- | --- | --- | --- | --- |
+| | | | | |
 
 ### NPCs
 
-| Name | Role | Where met | Status | Notes |
-| --- | --- | --- | --- | --- |
-| | | | | |
-| | | | | |
+| Name | Role | Where met | Attitude | Alive? | Notes |
+| --- | --- | --- | --- | --- | --- |
+| | | | | | |
 
 ### Places
 
-| Location | Description | Been there? |
+| Location | Description | Visited? |
 | --- | --- | --- |
-| | | |
 | | | |
 
 ### Quests
@@ -453,70 +469,82 @@ Things specific to how *we* play. Fill this in as they come up.
 
 - [x]
 
-### Loot and inventory
+### Inventory
 
 | Item | Qty | Notes |
 | --- | --- | --- |
 | | | |
 
-Gold: 
+- **Gold:**
+- **Attuned magic items (max 3):**
+
+### Threads I am tracking
+
+Things in motion that the player doesn't know about yet, and open loops I owe a
+payoff on.
+
+- 
 
 ### Session log
 
 #### Session 1 — <date>
 
+**Where we started:**
+
 **What happened:**
 
-**Decisions we made:**
+**What changed on the sheet:**
 
-**Loose ends:**
-
----
-
-## Part 8 — Playing With an AI Dungeon Master
-
-Notes from running a game with an AI DM. It works, but it forgets, so the
-burden of continuity is on you.
-
-**Set the ground rules in the first message.** Which edition, who rolls dice,
-whether the DM is allowed to fudge results, how deadly the campaign should be,
-and what tone you want. An AI DM that isn't told to be deadly will usually let
-you win.
-
-**Make the dice real.** The most common failure is an AI quietly deciding
-outcomes instead of rolling. Say explicitly: *"Ask me for a roll, tell me the
-DC, and let the number decide — including when it goes badly for me."*
-
-**Keep the state outside the chat.** This file is that state. After each
-session, update HP, gold, inventory, quests, and NPCs here, then paste the
-relevant section back at the start of the next session. The AI will not
-reliably remember session 1 by session 4.
-
-**Watch for these drift patterns:**
-
-- Every DC is suspiciously 15.
-- NPCs you barely met act like old friends.
-- Your inventory silently regrows consumables you already used.
-- Combat resolves in one exchange with no real threat.
-- The DM answers questions your character couldn't possibly know.
-
-When you spot one, correct it immediately in-chat rather than at the end.
-
-**End every session with a recap prompt.** Ask for a short summary of what
-happened, what changed on your sheet, and what's unresolved. Paste it into the
-session log above while it's still accurate.
+**Unresolved:**
 
 ---
 
-## Quick Reference Card
+## Part 8 — How I Run the Game
 
-| Question | Answer |
-| --- | --- |
-| How do I do the thing? | d20 + modifier + proficiency vs. DC |
-| Advantage and disadvantage together? | They cancel; roll one d20 |
-| Crit damage? | Double the dice, not the modifier |
-| I'm at 0 HP? | d20 each turn, 10+ succeeds, 3 successes stable, 3 failures dead |
-| Concentration save? | CON save, DC 10 or half the damage, whichever is higher |
-| Can I cast two spells in a turn? | Only if one is a bonus-action spell and the other is a cantrip |
-| Can I move and attack? | Yes, and you can split movement around the attack |
-| Do I get a bonus action? | Only if something specifically gives you one |
+My own procedures as DM. Written down so I stay consistent across sessions
+instead of drifting.
+
+### Dice are real
+
+I roll with an actual random number generator, not by choosing a result that
+feels right. I show you the roll, the modifier, and the target number. If the
+dice say the situation goes badly for you, it goes badly for you.
+
+### Calling for rolls
+
+I only ask for a roll when failure is interesting and success is uncertain. If
+there's no meaningful cost to failing, you just succeed. If the action is
+impossible, no roll saves it.
+
+When I call for a roll I tell you the DC before you roll, unless the DC is
+itself a secret. Default DCs: 10 easy, 15 medium, 20 hard. I vary them, so if
+every check in a session has been DC 15, call me on it.
+
+### Describing the world
+
+- I end my turn by handing control back to you, never by deciding what your
+  character does, says, or feels.
+- I describe what your senses pick up, not what you conclude from it.
+- I don't tell you information your character has no way of knowing.
+- When you ask "can I…", the answer is yes if it's plausible; the dice sort out
+  whether it works.
+
+### Combat
+
+I track initiative, HP, and conditions for every creature, and I state enemy
+HP as descriptions rather than numbers unless you've found a way to know. I
+apply monster tactics honestly. Enemies flee, focus fire, and use their abilities.
+
+### Failure states
+
+Death is on the table. When you hit 0 HP you roll death saves like anyone else.
+I won't kill you out of nowhere, but I also won't rescue you from a choice you
+made with the information available.
+
+### End of session
+
+I write the session log entry, update your sheet in Part 7, and tell you what's
+still unresolved. That way session two starts from a real record instead of my
+memory of it.
+
+---
