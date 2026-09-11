@@ -91,13 +91,18 @@ because it's a melee attack using Strength.
 
 ### Equipment
 
-| Item | Qty |
-| --- | --- |
-| Handaxe | 2 |
-| Javelin | 4 |
-| Explorer's pack | 1 |
+| Item | Qty | Notes |
+| --- | --- | --- |
+| Handaxe | 2 | Signature weapons |
+| Javelin | 4 | Thrown, 30/120 |
+| Explorer's pack | 1 | |
+| Seax | 1 | Sigvard's. Treated as a shortsword: 1d6 slashing, finesse, light |
+| Waterskin | 1 | Half full |
+| Sling and stone pouch | 1 | The boy's. 1d4 bludgeoning, 30/120 |
+| Sealed bronze tube | 1 | **Plot item.** Concord casting and seal, wax intact, worn hidden under Sigvard's tunic |
+| Lacquered black bead, red silk cord | 1 | **Plot item.** Dominion work. Cord snapped. Was in the boy's fist |
 
-Gold: 10 gp. No magic items. No attunement slots used.
+Gold: 10 gp, 11 sp. No magic items. No attunement slots used.
 
 > Simplification for the first run: RAW starting equipment would also include a
 > battleaxe. Dropped, because it can't be dual-wielded and would only add
@@ -115,13 +120,17 @@ Gold: 10 gp. No magic items. No attunement slots used.
 
 | Name | Role | Where met | Attitude | Alive? |
 | --- | --- | --- | --- | --- |
-| | | | | |
+| Sigvard | Crewman of the *Sea-Wolf*, known to Hallvard 20 years | The beach | — | Dead. Narrow clean puncture through the back, not drowning |
+| The boy | Crewman, name never learned | The beach | — | Dead. Died gripping a Dominion bead |
+| Nine unaccounted crew | Crew of the *Sea-Wolf* | — | — | Unknown |
 
 ## Places
 
 | Location | Description | Visited? |
 | --- | --- | --- |
-| | | |
+| The shingle beach | Wreck site of the *Sea-Wolf*, rocky shore, Concord coast | Yes |
+| The smoke inland | Steady windless column, roughly a mile past the treeline. Not a cooking fire | No |
+| The drag furrow | Something heavy hauled out of the surf and into the scrub | No |
 
 ## Quests
 
@@ -140,7 +149,15 @@ Gold: 10 gp. No magic items. No attunement slots used.
 DM-side. Open loops I owe a payoff on, and things in motion the player doesn't
 know about yet.
 
--
+- **What's in the bronze tube**, and why a forty-year Jarldoms man was carrying
+  a sealed Concord dispatch hidden against his skin.
+- **Who killed Sigvard.** Narrow clean thrust through the back. Not the rocks,
+  not the sea. Whoever it was, it happened on or near the ship.
+- **The Dominion bead** the boy tore off something as he died. All three
+  factions are now present in one shipwreck.
+- **The drag furrow.** Something heavy came out of the water and went inland.
+- **The nine missing crew.** Some should be alive.
+- **The smoke.** Steady, straight, windless.
 
 ---
 
