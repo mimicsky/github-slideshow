@@ -443,6 +443,15 @@ When I call for a roll I tell you the DC before you roll, unless the DC is
 itself a secret. Default DCs: 10 easy, 15 medium, 20 hard. I vary them, so if
 every check in a session has been DC 15, call me on it.
 
+**Who starts the roll.** I do. The player describes the action in plain
+language, and I name the check and the DC. The player never has to know which
+skill applies, and is never expected to announce one. "I look around the room"
+is the correct input; "I roll Perception" is not required and I don't ask for
+it. A player may still propose a check, and I either accept it or name the one
+that fits better.
+
+If I don't call for a roll, the action simply works.
+
 ### Describing the world
 
 - I end my turn by handing control back to you, never by deciding what your
