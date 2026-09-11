@@ -7,6 +7,16 @@ true about this particular game.
 - **Sessions played:** 1, in progress
 - **Status:** first run, playtest
 - **Character level:** 3
+- **XP:** 1,600. Level 4 at 2,700.
+
+| Award | XP |
+| --- | --- |
+| Level 3 starting floor | 900 |
+| Three Dominion soldiers at 100 each | 300 |
+| Freeing Ketil, recovering Emeric, uncovering the twelfth letter | 400 |
+
+Reference values: Dominion soldier 100, the officer 450. Getting the eight crew
+out of the valley fort alive is worth more than killing everyone in it.
 
 ---
 
