@@ -371,6 +371,7 @@ change any line and I play by the new version from then on.
 | Setting | Default | Your call |
 | --- | --- | --- |
 | Edition | 5e, 2014 rules | |
+| Ability score generation | Standard array: 15, 14, 13, 12, 10, 8 | Confirmed |
 | Leveling | Milestone, when the story earns it | |
 | Who rolls your dice | You roll physical dice; say the number and I take it | Confirmed |
 | Who rolls monster dice | I do, with a real random roll, shown to you | |
