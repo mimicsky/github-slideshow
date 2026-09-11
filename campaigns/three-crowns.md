@@ -53,6 +53,21 @@ Pronouns unset; using they/them until the player says otherwise.
   Ingvar at Kolstad. Not coincidence: the Concord needed a crew that could get
   into that fjord, so Brannoc chose a ship with a Kolstad man aboard.
 
+### Goal
+
+Sworn at the burned waystation, dusk of day one:
+
+> No alliance is formed. Every hall in the north hears that the Concord's offer
+> is a trap. If Jarl Ingvar takes the separate peace and lets the other eleven
+> burn, Hallvard cuts him down himself.
+
+This replaces the earlier intent to simply deliver the letter to Ingvar. The
+letter is now evidence to be spread, not a message to be delivered.
+
+The practical problem: Hallvard cannot read or write, there is one page, and
+there are twelve halls. Emeric can read, write, knows all twelve routes by
+heart, and carries Brannoc's courier seal.
+
 ### Ability scores
 
 | | STR | DEX | CON | INT | WIS | CHA |
@@ -123,7 +138,7 @@ Gold: 10 gp, 11 sp. No magic items. No attunement slots used.
 
 | Name | Type | Status | Notes |
 | --- | --- | --- | --- |
-| Ketil | Crewman, companion | Badly beaten, fighting fit-ish | Left eye swollen shut, two broken fingers on the right hand set at the well, concussed from a blade flat to the skull. Fights left-handed |
+| Ketil | Crewman, companion. **From Hafnstad, not Kolstad.** Mother, sister and her two children there | Badly beaten, fighting fit-ish | Left eye swollen shut, two broken fingers on the right hand set at the well, concussed from a blade flat to the skull. Fights left-handed |
 
 **Ketil's kit**
 
@@ -169,7 +184,13 @@ linen strips.
 
 **Active**
 
-- [ ]
+- [ ] **Break the letter to the north.** Get the twelfth letter's contents in
+      front of all twelve halls before spring.
+- [ ] **Get the eight crew out of the valley fort.** Three miles east, old
+      Concord stone curtain, 26+ Dominion counted outside the walls.
+- [ ] **Find out whether Hafnstad is one of the eleven.** Ketil's mother, sister
+      and her two children are there. Emeric wrote the routes and knows.
+- [ ] **Decide what Ingvar is.** Mentor, or the man who sells the north.
 
 **Completed**
 
@@ -210,6 +231,14 @@ know about yet.
   hauled out of a hole on a rope. Contents unrevealed.
 - **Whoever told the Dominion the ship was coming.** They were waiting two days
   early and knew the count.
+- **Lord Aldous, the King's brother**, wrote all twelve letters: eleven offers
+  under the Crown's seal and the twelfth betrayal under his own hawk-on-a-broken-
+  wheel device. Emeric named him unprompted.
+- **Brannoc's courier seal** is in the satchel. It can close a tube so nobody
+  knows it was opened. Forty exist and all forty are counted.
+- **Emeric's crossbow**, three bolts, recovered from the cellar.
+- **Ketil has asked whether Hafnstad is on the list of eleven.** Emeric knows the
+  answer and has not been asked yet.
 
 ---
 
