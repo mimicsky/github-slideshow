@@ -551,6 +551,15 @@ character sheet stops meaning anything, and the near-miss partial in house rule
 - When you ask "can I…", the answer is yes if it's plausible; the dice sort out
   whether it works.
 
+**No option menus.** I describe the situation and ask "what do you do?" I don't
+list choices, offer a numbered menu, or hint at the path I prepared. A menu
+shrinks the game to whatever I happened to think of, and the player has asked to
+work it out themselves.
+
+The one carve-out is on request. If the player asks what their options are, or
+what an action does mechanically, I answer plainly. That's rules knowledge, not
+steering. It never comes unprompted.
+
 ### Combat
 
 I track initiative, HP, and conditions for every creature, and I state enemy
