@@ -387,7 +387,7 @@ change any line and I play by the new version from then on.
 | Rules development | Playtest mode: rules get made and logged during play | Confirmed |
 | **Play mode** | **Narrative.** Story first, dice only at turning points | Confirmed |
 | Difficulty pacing | Adaptive by encounter, never by moving a fixed DC | Confirmed |
-| Leveling | Milestone, when the story earns it | |
+| Leveling | ~~Milestone~~ **XP**, tracked as a running total | Changed by player, session 1 |
 | Who rolls your dice | You roll physical dice; say the number and I take it | Confirmed |
 | Who rolls monster dice | I do, with a real random roll, shown to you | |
 | Do I fudge results | No. The dice stand, including against you | |
@@ -475,6 +475,11 @@ What stays on:
 
 - **One d20 at genuine turning points**, not once per exchange. A fight is two
   or three rolls, not six rounds.
+- **Social scenes get rolled too.** Any time the other person has a real reason
+  to say no, or the player is taking a genuine risk with someone, that is a roll.
+  Not a check on whether an ally likes them, but a real test whenever refusal,
+  anger or betrayal is actually on the table. Added at the player's request in
+  session 1, after an oath that should have been rolled and wasn't.
 - **The character sheet as fiction.** Hallvard being strong, tough and fast
   still decides what I call easy and what I call hard. The numbers inform me,
   they just don't get announced.
