@@ -114,7 +114,23 @@ Gold: 10 gp, 11 sp. No magic items. No attunement slots used.
 
 | Name | Type | Status | Notes |
 | --- | --- | --- | --- |
-| | | | |
+| Ketil | Crewman, companion | Badly beaten, fighting fit-ish | Left eye swollen shut, two broken fingers on the right hand set at the well, concussed from a blade flat to the skull. Fights left-handed |
+
+**Ketil's kit**
+
+| Item | Notes |
+| --- | --- |
+| Concord spear, ash haft | Primary weapon. Held one-handed, left |
+| Sigvard's seax | Through his belt. Given to him by Hallvard |
+| Dominion curved sword | Slung across his back. Kept for resale, not use |
+| Dominion boots | Off a dead soldier. His own were taken when captured |
+| Clothes he was captured in | No armor. The lamellar was left behind |
+
+**Shared supplies** (Hallvard carries the pack): dry blankets, 40 ft rope, hard
+travel cakes, a wax-sealed cheese wheel, two full waterskins, lamp oil, clean
+linen strips.
+
+**Transport:** one Dominion cavalry horse, skittish, caught and held.
 
 ## NPCs
 
