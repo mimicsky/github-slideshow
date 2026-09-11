@@ -44,6 +44,15 @@ Pronouns unset; using they/them until the player says otherwise.
 | Passive Perception | 13 |
 | Initiative | +2 |
 
+### Background (player-established)
+
+- **Home:** Kolstad, on the Vatn fjord. Brothers and sisters still living there.
+- **Jarl Ingvar of Kolstad** taught Hallvard the twin-axe style himself, and is
+  still better at it than Hallvard is.
+- The twelfth dispatch tube, the one Hallvard is carrying, is addressed to Jarl
+  Ingvar at Kolstad. Not coincidence: the Concord needed a crew that could get
+  into that fjord, so Brannoc chose a ship with a Kolstad man aboard.
+
 ### Ability scores
 
 | | STR | DEX | CON | INT | WIS | CHA |
@@ -143,12 +152,14 @@ linen strips.
 | Dominion officer | Commands the search party. No helmet, long coat, speaks fluent Norse | Waystation | Hostile | **Escaped east on horseback with the bundled tubes.** Never entered the fight |
 | Three Dominion soldiers | Silk-laced lamellar, curved two-handed swords | Waystation | Hostile | All three killed by Hallvard |
 | Emeric | Concord courier, ~17 | Waystation cellar | Owes Hallvard his life | Alive. Two days without water in a burning building. Carries a satchel he will not put down |
-| Brannoc | Senior Concord courier, Emeric's superior | Waystation cellar | — | Dead two days, still in the cellar |
+| Brannoc | Senior Concord courier, Emeric's superior | Waystation cellar | — | Dead two days, still in the cellar. Chose the *Sea-Wolf* for the twelfth run |
+| Jarl Ingvar | Jarl of Kolstad. Taught Hallvard the twin-axe style and is better at it | Hallvard's home | Kin-adjacent | Alive as far as Hallvard knows. The twelfth tube is addressed to him |
 
 ## Places
 
 | Location | Description | Visited? |
 | --- | --- | --- |
+| Kolstad, Vatn fjord | Hallvard's home hall. Jarl Ingvar's seat. Siblings living there | Home |
 | The shingle beach | Wreck site of the *Sea-Wolf*, rocky shore, Concord coast | Yes |
 | The smoke inland | Steady windless column, roughly a mile past the treeline. Not a cooking fire | No |
 | The drag furrow | Something heavy hauled out of the surf and into the scrub | No |
