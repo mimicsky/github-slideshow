@@ -385,6 +385,7 @@ change any line and I play by the new version from then on.
 | Initiative ties | Break in the player's favor | Confirmed |
 | Free object interaction | Lenient on trivial actions, strict when tactically relevant | Confirmed |
 | Rules development | Playtest mode: rules get made and logged during play | Confirmed |
+| **Play mode** | **Narrative.** Story first, dice only at turning points | Confirmed |
 | Difficulty pacing | Adaptive by encounter, never by moving a fixed DC | Confirmed |
 | Leveling | Milestone, when the story earns it | |
 | Who rolls your dice | You roll physical dice; say the number and I take it | Confirmed |
@@ -454,6 +455,49 @@ arithmetic.
 The trade-off is deliberate: the player can't calculate whether a resource is
 worth spending, and decides on instinct and my description of the situation
 instead. I compensate by describing obstacles in enough detail to judge them.
+
+---
+
+**4. Narrative mode.**
+
+The default way we play. The rules in Parts 1 to 5 stay in this book as
+reference, but they are not run at the table unless we switch modes.
+
+What is switched off:
+
+- Initiative, turn order, and rounds
+- The action / bonus action / movement economy
+- Armor Class and to-hit arithmetic
+- Opportunity attacks, cover, and positioning in feet
+- Hit points as a running number
+
+What stays on:
+
+- **One d20 at genuine turning points**, not once per exchange. A fight is two
+  or three rolls, not six rounds.
+- **The character sheet as fiction.** Hallvard being strong, tough and fast
+  still decides what I call easy and what I call hard. The numbers inform me,
+  they just don't get announced.
+- **Real rolls, real consequences.** I still roll honestly and a bad roll still
+  costs something. Death is still possible, it just arrives through the story
+  rather than through a hit point total.
+- **Hidden DCs, told saves, no option menus.** All unchanged.
+
+**Health as a state, not a number:**
+
+| State | Meaning |
+| --- | --- |
+| Fine | Untouched or scratched |
+| Hurt | Bleeding, slowed, still dangerous |
+| Badly hurt | One more bad exchange from going down |
+| Down | Unconscious or dying. The story decides which |
+
+The honest trade-off, stated so it isn't a surprise later: when dice stop
+deciding every exchange, the DM decides more. Some tension becomes theatrical.
+Rolling at the real turning points is what keeps it from becoming a story the
+player is merely watching.
+
+Switching back to full rules is a sentence at any time.
 
 ---
 

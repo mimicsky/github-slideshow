@@ -37,7 +37,7 @@ Pronouns unset; using they/them until the player says otherwise.
 | Class | Barbarian 3, Path of the Berserker |
 | Background | Raider |
 | Armor Class | 14 (Unarmored Defense: 10 + DEX + CON) |
-| Hit Points | 32 / 32 |
+| Health | Badly hurt (narrative mode; full-rules equivalent 12/32) |
 | Speed | 30 ft. |
 | Hit Dice | 3d12, none spent |
 | Proficiency bonus | +2 |
