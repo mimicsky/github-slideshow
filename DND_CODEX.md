@@ -1,11 +1,13 @@
 # D&D Codex
 
-The rulebook for our game. I am the DM, you are the player. This file is what I
-run from and what I keep our campaign state in, so nothing gets lost between
-sessions.
+The standing rulebook for any game I run for you. I am the DM, you are the
+player. This is not tied to one campaign: it carries across every game we play.
 
-Based on **D&D 5th Edition (2014 rules)**. Parts 1 to 5 are the rules I play by.
-Part 6 is the part you control. Parts 7 and 8 are mine to maintain.
+Based on **D&D 5th Edition (2014 rules)**. Parts 1 to 5 are the rules. Part 6 is
+the part you control. Part 7 is how I run a table.
+
+Campaign-specific things — your character sheet, NPCs, session logs — live in a
+separate file per campaign, not in here.
 
 ---
 
@@ -358,10 +360,10 @@ to two scores, or a feat instead if your table uses them.
 
 ---
 
-## Part 6 — Table Rules (Our Game)
+## Part 6 — Standing Table Rules
 
-These are the settings I run our game under. They are the part you own — change
-any line and I'll play by the new version.
+These apply to every game we play, not one campaign. They are the part you own —
+change any line and I play by the new version from then on.
 
 | Setting | Default | Your call |
 | --- | --- | --- |
@@ -394,112 +396,7 @@ When the book is silent or unclear, I rule once and then stick to it.
 
 ---
 
-## Part 7 — Campaign State
-
-I maintain this section. After each session I update it so nothing gets lost
-between sessions, and I re-read it before we start the next one.
-
-### Campaign
-
-- **Name:**
-- **Setting:**
-- **Tone:**
-- **Current level:**
-- **Sessions played:** 0
-
-### Player character
-
-| Field | Value |
-| --- | --- |
-| Name | |
-| Race / species | |
-| Class and level | |
-| Background | |
-| AC | |
-| HP (current / max) | |
-| Speed | |
-| Hit Dice (total / spent) | |
-| Proficiency bonus | |
-| Spell save DC | |
-| Passive Perception | |
-
-**Ability scores**
-
-| STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- |
-| | | | | | |
-
-**Skill proficiencies:**
-
-**Saving throw proficiencies:**
-
-**Features and abilities:**
-
-**Spells known / prepared:**
-
-**Spell slots remaining:**
-
-**Goal:**
-
-### Party and companions
-
-| Name | Type | Class & level | Status | Notes |
-| --- | --- | --- | --- | --- |
-| | | | | |
-
-### NPCs
-
-| Name | Role | Where met | Attitude | Alive? | Notes |
-| --- | --- | --- | --- | --- | --- |
-| | | | | | |
-
-### Places
-
-| Location | Description | Visited? |
-| --- | --- | --- |
-| | | |
-
-### Quests
-
-**Active**
-
-- [ ]
-
-**Completed**
-
-- [x]
-
-### Inventory
-
-| Item | Qty | Notes |
-| --- | --- | --- |
-| | | |
-
-- **Gold:**
-- **Attuned magic items (max 3):**
-
-### Threads I am tracking
-
-Things in motion that the player doesn't know about yet, and open loops I owe a
-payoff on.
-
-- 
-
-### Session log
-
-#### Session 1 — <date>
-
-**Where we started:**
-
-**What happened:**
-
-**What changed on the sheet:**
-
-**Unresolved:**
-
----
-
-## Part 8 — How I Run the Game
+## Part 7 — How I Run the Game
 
 My own procedures as DM. Written down so I stay consistent across sessions
 instead of drifting.
@@ -543,8 +440,22 @@ made with the information available.
 
 ### End of session
 
-I write the session log entry, update your sheet in Part 7, and tell you what's
-still unresolved. That way session two starts from a real record instead of my
-memory of it.
+I write the session log entry, update your character sheet in that campaign's
+own file, and tell you what's still unresolved. That way the next session starts
+from a real record instead of my memory of it.
 
 ---
+
+## Quick Reference Card
+
+| Question | Answer |
+| --- | --- |
+| How do I do the thing? | d20 + modifier + proficiency vs. DC |
+| Advantage and disadvantage together? | They cancel; roll one d20 |
+| Crit damage? | Double the dice, not the modifier |
+| I'm at 0 HP? | d20 each turn, 10+ succeeds, 3 successes stable, 3 failures dead |
+| Concentration save? | CON save, DC 10 or half the damage, whichever is higher |
+| Can I cast two spells in a turn? | Only if one is a bonus-action spell and the other is a cantrip |
+| Can I move and attack? | Yes, and you can split movement around the attack |
+| Do I get a bonus action? | Only if something specifically gives you one |
+| Does a nat 1 fail a skill check? | No. Nat 20 and nat 1 are automatic only on attacks and death saves |
