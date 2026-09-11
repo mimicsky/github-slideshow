@@ -25,6 +25,9 @@ The target number is either a **DC** (Difficulty Class, set by the DM) or an
 **AC** (Armor Class, when you attack something). Meet it or beat it and you
 succeed. Ties go to the roller: rolling exactly the DC is a success.
 
+> **House rule 1 applies here.** On ability checks, missing by 1 or 2 is a
+> partial success rather than a flat failure. See Part 6.
+
 There are three flavors of this roll, and they are mechanically identical:
 
 | Roll | Used for |
@@ -383,7 +386,29 @@ change any line and I play by the new version from then on.
 Rules we changed on purpose. I add a line here every time we make a ruling that
 differs from the book, so we stay consistent later.
 
-<!-- 1. -->
+**1. Near-miss partial success on ability checks.**
+
+If an ability check misses the DC by **1 or 2**, it is not a flat failure. You
+get what you wanted in a reduced or costly form, and I narrate the cost.
+
+| Check | DC 15, you roll 13 or 14 |
+| --- | --- |
+| Athletics to climb | You reach the top, winded, and something falls from your pack |
+| Perception to scan a room | You catch one thing, not everything |
+| Stealth past a guard | You get through, but he half-noticed something |
+| Persuasion on a merchant | He agrees, at a worse price or with a condition |
+
+Scope of the rule:
+
+- **Ability checks only.** Attack rolls and saving throws are untouched.
+- **Attack rolls** keep meet-it-beats-it. A tie hits. Attacks already have
+  granular outcomes through damage rolls and crits, and shaving 5% off every
+  attack would quietly punish martial characters far more than casters.
+- **Saving throws** are untouched. Half damage on a successful save is already
+  a partial-success system.
+- A natural 1 on an ability check is still just a low roll, not an auto-fail,
+  so the near-miss band never triggers off it.
+
 <!-- 2. -->
 
 ### Rulings made at the table
@@ -459,3 +484,4 @@ from a real record instead of my memory of it.
 | Can I move and attack? | Yes, and you can split movement around the attack |
 | Do I get a bonus action? | Only if something specifically gives you one |
 | Does a nat 1 fail a skill check? | No. Nat 20 and nat 1 are automatic only on attacks and death saves |
+| I missed the DC by 1? | House rule 1: partial success on ability checks, with a cost |
