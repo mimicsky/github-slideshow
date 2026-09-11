@@ -123,6 +123,9 @@ Gold: 10 gp, 11 sp. No magic items. No attunement slots used.
 | Sigvard | Crewman of the *Sea-Wolf*, known to Hallvard 20 years | The beach | — | Dead. Narrow clean puncture through the back, not drowning |
 | The boy | Crewman, name never learned | The beach | — | Dead. Died gripping a Dominion bead |
 | Nine unaccounted crew | Crew of the *Sea-Wolf* | — | — | Unknown |
+| Ketil | Crewman of the *Sea-Wolf* | Waystation yard | — | Alive, beaten, wrists bound behind him |
+| Dominion officer | Commands the search party. No helmet, long coat | Waystation | Hostile | Alive |
+| Three Dominion soldiers | Silk-laced lamellar, curved two-handed swords | Waystation | Hostile | Alive |
 
 ## Places
 
@@ -131,6 +134,7 @@ Gold: 10 gp, 11 sp. No magic items. No attunement slots used.
 | The shingle beach | Wreck site of the *Sea-Wolf*, rocky shore, Concord coast | Yes |
 | The smoke inland | Steady windless column, roughly a mile past the treeline. Not a cooking fire | No |
 | The drag furrow | Something heavy hauled out of the surf and into the scrub | No |
+| The waystation | Concord build, burned, palisade breached on the east side. Held by a Dominion search party | Observed from 60 yds |
 
 ## Quests
 
@@ -158,6 +162,9 @@ know about yet.
 - **The drag furrow.** Something heavy came out of the water and went inland.
 - **The nine missing crew.** Some should be alive.
 - **The smoke.** Steady, straight, windless.
+- **The Dominion is collecting sealed bronze tubes** out of a burned Concord
+  waystation. Hallvard is carrying one of those tubes. They do not know that yet.
+- **Ketil is alive.** One of the nine accounted for. Eight still missing.
 
 ---
 

@@ -507,6 +507,11 @@ that fits better.
 
 If I don't call for a roll, the action simply works.
 
+**The player reports the raw die, I do the math.** The player rolls the physical
+d20 and tells me the number on the face. I apply the ability modifier,
+proficiency, and any advantage or situational bonus, and I say what happens.
+They are never expected to total their own modifiers.
+
 **Saving throws are told, not blind.** DCs stay hidden, but the threat does not.
 I describe what is coming before I call the save: "the vial shatters and green
 fog rolls out, give me a Constitution save," never a bare "make a Constitution
