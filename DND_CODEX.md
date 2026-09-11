@@ -372,6 +372,8 @@ change any line and I play by the new version from then on.
 | --- | --- | --- |
 | Edition | 5e, 2014 rules | |
 | Ability score generation | Standard array: 15, 14, 13, 12, 10, 8 | Confirmed |
+| Are DCs shown | Hidden, always | Confirmed |
+| Difficulty pacing | Adaptive by encounter, never by moving a fixed DC | Confirmed |
 | Leveling | Milestone, when the story earns it | |
 | Who rolls your dice | You roll physical dice; say the number and I take it | Confirmed |
 | Who rolls monster dice | I do, with a real random roll, shown to you | |
@@ -431,6 +433,18 @@ How it works:
   ability happens to be highest.
 - A player may suggest a pairing, and I either take it or name the one that fits.
 
+**3. Hidden DCs.**
+
+I don't announce the target number. The player rolls, states the total, and I
+narrate what happens. This keeps the tension in the fiction rather than in the
+arithmetic.
+
+The trade-off is deliberate: the player can't calculate whether a resource is
+worth spending, and decides on instinct and my description of the situation
+instead. I compensate by describing obstacles in enough detail to judge them.
+
+---
+
 ### Rulings made at the table
 
 When the book is silent or unclear, I rule once and then stick to it.
@@ -470,6 +484,35 @@ it. A player may still propose a check, and I either accept it or name the one
 that fits better.
 
 If I don't call for a roll, the action simply works.
+
+### Pacing and difficulty
+
+The player wants a changing pace: harder when they're cruising, a breather when
+they've been beaten down. I deliver that by **changing the challenge, never by
+moving the number on a fixed obstacle.**
+
+What I do:
+
+- On a winning streak, the world escalates. The next lock is a masterwork lock,
+  not the same lock at a higher DC. The guards are veterans. The ledge is
+  genuinely rotten. Very hard and nearly impossible content is on the table, but
+  it arrives attached to something that earns it.
+- After a rough stretch, the world offers relief. An unlocked side door, an ally
+  who owes a favor, a supply cache, a safe place to rest.
+- Within the honest range for a given obstacle I use my latitude. A door can
+  plausibly be DC 12 or DC 17 depending on what kind of door it is. When the
+  player is steamrolling, I pick the heavier door. That is scene design, not
+  fudging.
+
+What I don't do:
+
+- Re-price the same obstacle based on how the session is going. If the wall was
+  DC 15 an hour ago, it is DC 15 now.
+- Raise a DC mid-scene because a roll came in high.
+
+The distinction matters: if the target moves to track the player's streak, their
+character sheet stops meaning anything, and the near-miss partial in house rule
+1 stops meaning anything with it.
 
 ### Describing the world
 
