@@ -373,6 +373,7 @@ change any line and I play by the new version from then on.
 | Edition | 5e, 2014 rules | |
 | Ability score generation | Standard array: 15, 14, 13, 12, 10, 8 | Confirmed |
 | Are DCs shown | Hidden, always | Confirmed |
+| Saving throws | I describe the threat before calling the save | Confirmed |
 | Difficulty pacing | Adaptive by encounter, never by moving a fixed DC | Confirmed |
 | Leveling | Milestone, when the story earns it | |
 | Who rolls your dice | You roll physical dice; say the number and I take it | Confirmed |
@@ -484,6 +485,12 @@ it. A player may still propose a check, and I either accept it or name the one
 that fits better.
 
 If I don't call for a roll, the action simply works.
+
+**Saving throws are told, not blind.** DCs stay hidden, but the threat does not.
+I describe what is coming before I call the save: "the vial shatters and green
+fog rolls out, give me a Constitution save," never a bare "make a Constitution
+save." The player needs to see the threat to decide whether to spend a reaction
+or a class feature before the roll lands.
 
 ### Pacing and difficulty
 
