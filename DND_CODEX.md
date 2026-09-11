@@ -367,7 +367,7 @@ any line and I'll play by the new version.
 | --- | --- | --- |
 | Edition | 5e, 2014 rules | |
 | Leveling | Milestone, when the story earns it | |
-| Who rolls your dice | You roll; say the number and I take it | |
+| Who rolls your dice | You roll physical dice; say the number and I take it | Confirmed |
 | Who rolls monster dice | I do, with a real random roll, shown to you | |
 | Do I fudge results | No. The dice stand, including against you | |
 | Lethality | Real. You can die, but not from nothing | |
