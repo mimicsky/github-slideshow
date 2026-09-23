@@ -47,7 +47,7 @@ _Last updated: 2026-09-23_
 | Chaos / Fall of Cadia | Haarken, Angrax, Archimatos, Maladus, Rotbone (bench: Corrodius) |
 | Imperial campaign | Azrael, Lucien, Certus, Tigurius, Bellator |
 | Octarius (Orks) | Gulgortz, Snappawrecka, Snotflogga, Gibbascrapz |
-| Tournament (Common cap) idea | Archimatos, Aleph-Null, Aethana, Sibyll + 1 (Re'vas if owned – unconfirmed; otherwise Godswyl) |
+| Tournament (Common cap) idea | Archimatos, Aleph-Null, Aethana, Sibyll + **Re'vas** (owned, confirmed). Backup: Godswyl (a true Common, use him if the tournament blocks Uncommons) |
 
 Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator are capped and wait on shards. Bellator replaces Tigurius once his power passes 4,533.
 
@@ -64,6 +64,7 @@ Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator 
 **Astra Militarum:** Kut Skoden · Rare · 895 · 36/40 shards · Sibyll · Common · 270
 **Necrons:** Imospekh · Epic · 2,839 · Thutmose · Epic · 2,264 · Makhotep · Rare · 1,968 · Aleph-Null · Rare · 1,368
 **Aeldari:** Eldryon · Epic · 1,272 · Aethana · Epic · 1,235 · lvl 19 · Calandis · Uncommon · 820 · 78/20 shards
+**T'au:** Re'vas · Uncommon · 539 · 4★, lvl 17 capped for rarity, rank I, abilities 11/10, 16/20 shards, orbs 0/10, flame melee + Pulse ranged (range 2)
 **Orks:** Gulgortz · Epic · 1,872 · Snappawrecka · Rare · 982 · Snotflogga · Rare · 903 · 65/50 shards · Gibbascrapz · Uncommon · 768 · 94/20 shards
 **Tyranids:** Winged Prime · Rare · 612 · lvl 25, rank I, abilities 9/8, 9/50 shards, orbs 1/10
 **Machines of War:** **Biovore** · Common · 82 · 2★, MAIN MoW (PvE + PvP), primary lvl 1 / secondary lvl 4, 8/15 shards, orbs 18/10, needs 3/5 plates + 0/1 item for next primary upgrade · Storm Speeder · Common · 64 · 2★, Dark Angels, 0/15 shards · Galatian · Common · 106 · Forgefiend · Common · 50 · Exorcist · Common · 55
@@ -83,7 +84,9 @@ Anuphet 141/250 · Plagueburst Crawler 20/40 · Volk 50/130 · Titus 60/250 · R
 
 **Black Templars (locked):** Burchard · Uncommon · 37/80 · Thoread · Rare · 28/130 · Jaeger · Epic · 3/250 · Helbrecht · Legendary · 0/500
 
+**T'au (locked):** Shadowsun · Legendary · 39/500 · Aun'Shi · Legendary · 24/500 · Darkstrider · Rare · 1/130 · Sho'syl · Uncommon · 0/80
+
 **Wallet (2026-09-23):** 243k coins · 1,191 Blackstone · 50/150 munitions
 
 ## Not yet sent
-Other locked Thousand Sons (if any), Space Wolves, Tau, Genestealer Cults, Custodes, Mechanicus, Emperor's Children, Votann. Send as: **Name – rarity – power**.
+Other locked Thousand Sons (if any), Space Wolves, Genestealer Cults, Custodes, Mechanicus, Emperor's Children, Votann. Send as: **Name – rarity – power**.
