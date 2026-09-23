@@ -171,14 +171,14 @@ You own 3 Aeldari. Thin team, but the kits fit together.
 - **In between:** keep **Haarken** (Flying + snowball kit is great at any level) and **Imospekh** (6 hits both ways), and fill the rest from the kit team.
 
 ## 7. Raids (Celestine node raids)
-Use the **Chaos team** unless the raid locks your alliance. Raids are pure damage checks: Haarken, Archimatos and Maladus (armour shred) matter most. Rotbone stays only if you're losing units.
+No team needed. Raiding a 3★ campaign battle is an **instant sweep**: it just spends energy and rolls the drop. The team only matters the first time you clear the battle.
 
 ---
 
 ## Quick reference
 | Mode | Team |
 |---|---|
-| Fall of Cadia / Chaos Onslaught / Raids | Haarken · Angrax · Maladus · Archimatos · Rotbone |
+| Fall of Cadia / Chaos Onslaught | Haarken · Angrax · Maladus · Archimatos · Rotbone |
 | PvP (top 5, any faction) | Haarken · Lucien · Azrael · Tigurius · Imospekh |
 | Arena high tier | Same as PvP |
 | Arena low tier | Re'vas · Aethana · Archimatos · Aleph-Null · Sibyll |
