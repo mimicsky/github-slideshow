@@ -40,6 +40,8 @@ _Last updated: 2026-09-23_
 
 **Watch the guild shop for:** Lucien shards (5 for 525 credits).
 
+**Watch for event:** Heroes of the Chapter → unlocks Lysander (Legendary).
+
 **MoW rule:** the silver plates (3/5 right now) are shared. Spend them on **Biovore's primary first**, never on Storm Speeder.
 
 ## Teams
@@ -62,6 +64,7 @@ Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator 
 **Ultramarines:** Tigurius · Rare · 4,533 · capped · Certus · Epic · 2,360 · Bellator · Rare · 2,166 · capped · Incisus · Rare · 1,779 · healer
 **Black Templars:** Godswyl · Common · 271 · 2★, lvl 8 + rank I (both capped for rarity), abilities 8/locked, 11/15 shards, orbs 39/10
 **Space Wolves:** Tjark · Rare · 1,203 · red 1★, lvl 17, rank II, abilities 14/14, 4/50 shards, orbs 15/10 (enough – don't buy more)
+**Adeptus Astartes (other chapters):** Nubari (Salamanders) · Uncommon · 652 · 3★, lvl 17 capped for rarity, rank II, abilities 12/10, blue crystal 47/60, Melta melee + Melta ranged (range 2)
 **Sisters:** Isabella · Rare · 975 · healer · Vindicta · Uncommon · 730 · capped
 **Astra Militarum:** Kut Skoden · Rare · 895 · 36/40 shards · Sibyll · Common · 270
 **Mechanicus:** Exitor-Rho · Uncommon · 709 · 4★, lvl 17 capped for rarity, rank II, abilities 11/11, 37/20 shards, orbs 2/10
@@ -95,6 +98,8 @@ Anuphet 141/250 · Plagueburst Crawler 20/40 · Volk 50/130 · Titus 60/250 · R
 **Mechanicus (locked):** Actus · Rare · 86/130 (closest!) · Vitruvius · Legendary · 150/500 · Tan Gi'da · Rare · 36/130 · Sy-gex · Uncommon · 0/80
 
 **Genestealer Cults (locked):** Isaak · Rare · 0/130 · Hollan · Uncommon · 0/80 · Judh · Epic · 0/250 · Patermine · Legendary · 0/500
+
+**Adeptus Astartes (locked):** Lysander (Imperial Fists) · Legendary · 0/400 · unlocks in the **Heroes of the Chapter** event · Cyrus (Blood Ravens) · Epic · 10/250
 
 **Wallet (2026-09-23):** 243k coins · 1,191 Blackstone · 50/150 munitions
 
