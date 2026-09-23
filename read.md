@@ -33,7 +33,8 @@ _Last updated: 2026-09-23_
 2. **Snotflogga** – needs 9 rare Xenos orbs
 3. **Calandis** / **Gibbascrapz** – need 10 uncommon Xenos orbs each
 4. **Wrask** – needs 6 uncommon Chaos orbs (4/10; shards already 26/20)
-5. **Vindicta** – needs 8 uncommon Imperial orbs
+5. **Exitor-Rho** – needs 8 uncommon Imperial orbs (2/10; shards already 37/20). Beats Vindicta: Mechanicus team is forming (Actus 86/130, Vitruvius 150/500)
+6. **Vindicta** – needs 8 uncommon Imperial orbs
 
 **Ability badges:** Save uncommon Chaos badges for **Angrax** (left ability needs 4, right needs 5). Craft in Forge: 3 common + 1 token + 1,000 coins each. Commend Archimatos/Angrax after Chaos Onslaught fights.
 
@@ -63,6 +64,7 @@ Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator 
 **Space Wolves:** Tjark · Rare · 1,203 · red 1★, lvl 17, rank II, abilities 14/14, 4/50 shards, orbs 15/10 (enough – don't buy more)
 **Sisters:** Isabella · Rare · 975 · healer · Vindicta · Uncommon · 730 · capped
 **Astra Militarum:** Kut Skoden · Rare · 895 · 36/40 shards · Sibyll · Common · 270
+**Mechanicus:** Exitor-Rho · Uncommon · 709 · 4★, lvl 17 capped for rarity, rank II, abilities 11/11, 37/20 shards, orbs 2/10
 **Necrons:** Imospekh · Epic · 2,839 · Thutmose · Epic · 2,264 · Makhotep · Rare · 1,968 · Aleph-Null · Rare · 1,368
 **Aeldari:** Eldryon · Epic · 1,272 · Aethana · Epic · 1,235 · lvl 19 · Calandis · Uncommon · 820 · 78/20 shards
 **T'au:** Re'vas · Uncommon · 539 · 4★, lvl 17 capped for rarity, rank I, abilities 11/10, 16/20 shards, orbs 0/10, flame melee + Pulse ranged (range 2)
@@ -89,7 +91,9 @@ Anuphet 141/250 · Plagueburst Crawler 20/40 · Volk 50/130 · Titus 60/250 · R
 
 **Space Wolves (locked):** Ragnar · Legendary · 12/500 · Baldr · Rare · 10/130 · Arjac · Rare · 8/130 · Njal · Epic · 5/250
 
+**Mechanicus (locked):** Actus · Rare · 86/130 (closest!) · Vitruvius · Legendary · 150/500 · Tan Gi'da · Rare · 36/130 · Sy-gex · Uncommon · 0/80
+
 **Wallet (2026-09-23):** 243k coins · 1,191 Blackstone · 50/150 munitions
 
 ## Not yet sent
-Other locked Thousand Sons (if any), Genestealer Cults, Custodes, Mechanicus, Emperor's Children, Votann. Send as: **Name – rarity – power**.
+Other locked Thousand Sons (if any), Genestealer Cults, Custodes, Emperor's Children, Votann. Send as: **Name – rarity – power**.
