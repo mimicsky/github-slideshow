@@ -10,6 +10,17 @@ _Updated 2026-09-23 · Mission level 26 (285/550 XP). Changes a lot, so it lives
 4. **Bring Galatian as your Machine of War** in those Imperial arena fights. He needs **21 damage** to finish his mission (25 shards, 5 Imperial badges, 5 MoW parts). One use does it.
 5. **Use Wrask** in Chaos fights until he's dealt 1,376 more damage (25 Wrask shards + 5 Chaos badges).
 
+## 🎯 Deploy lists (Onslaught lets you deploy anyone)
+**Chaos track** (gives Xenos badges – needed for the Ork/Aeldari/Necron missions):
+Haarken (carry) · Archimatos · **Yazaghor** (use active on Archimatos) · **Toth** · **Wrask** · Rotbone.
+→ progresses Yazaghor, Toth, Wrask, Rotbone missions → **up to 10 Chaos badges** for Angrax's passive.
+
+**Imperial track** (gives Chaos badges + all-Imperial wins for Know No Fear):
+Lucien (commend) · Azrael · Tigurius + fillers **Cezare · Sibyll · Kut · Nubari** (keep Nubari alive).
+→ Galatian as MoW until his 21 damage is done.
+
+**Rule:** carries take the fight, mission units **last-hit** low enemies and **fire their active every battle**.
+
 ## Timed
 | Mission | Needs | Progress | Time left | Reward |
 |---|---|---|---|---|
@@ -60,7 +71,14 @@ _Updated 2026-09-23 · Mission level 26 (285/550 XP). Changes a lot, so it lives
 | **Wrask 3/3** | 4,000 dmg with Wrask | 2,624/4,000 | 25 Wrask shards, 5 Chaos badges, 50 XP | Swap Wrask in for Maladus in easy Chaos fights |
 | **Storm Speeder 3/3** | 1,000 dmg with Storm Speeder | 3/1,000 | 25 shards, 5 Imperial badges, 5 MoW parts, 50 XP | After Galatian's done, use it as the Imperial MoW |
 | **Exorcist 3/3** | 1,000 dmg with Exorcist | 0/1,000 | Same as above | After Storm Speeder |
-| **Cezare 2/3** | Defeat 50 enemies with Cezare | ? | ? | _(cut off – send rest)_ |
+| **Cezare 2/3** | 50 kills · 10 ability uses | 7/50 · 1/10 | 15 shards, 3 Imperial badges, 30 XP | Imperial filler |
+| **Sibyll 2/3** | 50 kills · 10 ability uses | 6/50 · 2/10 | 15 shards, 3 Imperial badges, 30 XP | Imperial filler |
+| **Kut Skoden 2/3** | 50 kills · 10 ability uses | 6/50 · 2/10 | 15 shards, 3 Imperial badges, 30 XP | Imperial filler (36/40 shards → next star) |
+| **Nubari 1/3** | Win 5 with Nubari alive · 5 Arena | 2/5 · ✅ 5/5 | 10 shards, 2 Imperial badges, 20 XP | Keep him in the back line |
+| **Winged Prime 2/3** | 50 kills · 10 ability uses | 0/50 · 2/10 | 15 shards, 3 Xenos badges, 30 XP | Low priority |
+| **Yazaghor 2/3** | 50 kills · 10 ability uses | **42/50** · 0/10 | 15 shards, **3 Chaos badges**, 30 XP | His active needs a friendly **psyker** → deploy with **Archimatos** and use it every fight |
+| **Toth 2/3** | 50 kills · 10 ability uses | **35/50** · ✅ 10/10 | 15 shards, **3 Chaos badges**, 30 XP | Only kills left |
+| **Rotbone 2/3** | 50 kills · 10 ability uses | **37/50** · ✅ 10/10 | 3 shards, 1 Chaos badge, 30 XP | Already in main team – happens naturally |
 
 ## Patterns
 - **Machine of War missions** pay shards + badges + MoW parts for just *using* them. In fights where Biovore isn't needed (easy Imperial fights), rotate Galatian → Storm Speeder → Exorcist.
