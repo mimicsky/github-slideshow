@@ -56,7 +56,7 @@ Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator 
 **World Eaters:** Macer · Rare · 829 · 5★, lvl 17, rank II, abilities 10/10, 12/40 shards · Wrask · Uncommon · 814 · 4★, lvl 16, rank II, abilities 11/12, 26/20 shards, orbs 4/10
 **Death Guard:** Maladus · Epic · 1,119 · lvl 17 · Corrodius · Rare · 1,173 · Rotbone · Epic · 1,259 · healer
 **Thousand Sons:** Toth · Uncommon · 556 · Yazaghor · Uncommon · 481
-**Blood Angels:** Lucien · Rare · 6,420 · capped, 20/50 shards
+**Blood Angels:** Lucien · Rare · 6,420 · capped, 20/50 shards · Cezare · Uncommon · 636 · 3★, lvl 17 capped for rarity, rank II, abilities 10/11, 7/15 shards
 **Dark Angels:** Azrael · Legendary · 4,596 · rank I, lvl 29
 **Ultramarines:** Tigurius · Rare · 4,533 · capped · Certus · Epic · 2,360 · Bellator · Rare · 2,166 · capped · Incisus · Rare · 1,779 · healer
 **Sisters:** Isabella · Rare · 975 · healer · Vindicta · Uncommon · 730 · capped
@@ -78,7 +78,9 @@ Anuphet 141/250 · Plagueburst Crawler 20/40 · Volk 50/130 · Titus 60/250 · R
 
 **World Eaters (locked):** Azkor · Rare · 52/130 · Tarvakh · Rare · 2/130 · Khârn · Legendary · 0/500
 
+**Blood Angels (locked):** Mataneo · Uncommon · 30/80 · Nicodemus · Rare · 0/130 · Dante · Legendary · 0/500 · Mephiston · Legendary · 0/500
+
 **Wallet (2026-09-23):** 243k coins · 1,191 Blackstone · 50/150 munitions
 
 ## Not yet sent
-Other locked Thousand Sons (if any), Space Wolves, Tau, Genestealer Cults, Custodes, Mechanicus, Black Templars, Emperor's Children, Votann, plus other Blood Angels. Send as: **Name – rarity – power**.
+Other locked Thousand Sons (if any), Space Wolves, Tau, Genestealer Cults, Custodes, Mechanicus, Black Templars, Emperor's Children, Votann. Send as: **Name – rarity – power**.
