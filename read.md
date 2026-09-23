@@ -39,7 +39,9 @@ _Last updated: 2026-09-23_
 5. **Exitor-Rho** – needs 8 uncommon Imperial orbs (2/10; shards already 37/20). Beats Vindicta: Mechanicus team is forming (Actus 86/130, Vitruvius 150/500)
 6. **Vindicta** – needs 8 uncommon Imperial orbs
 
-**Ability badges:** Uncommon Chaos badges: **0** (spent on Angrax active → lvl 16). Next target: Angrax **passive** – needs **5** uncommon Chaos badges. Craft in Forge: 3 common + 1 token + 1,000 coins each. **To farm Chaos badges for Angrax, play the IMPERIAL Onslaught track.**
+**Ability badges:** Uncommon Chaos badges: **0** (spent on Angrax active → lvl 16). Archimatos active → lvl 15 (3 badges). Next target: Angrax **passive** – needs **5** uncommon Chaos badges. Have: 5 **common** Chaos badges (craft 1 uncommon, keep 2). Craft in Forge: 3 common + 1 token + 1,000 coins each. **To farm Chaos badges for Angrax, play the IMPERIAL Onslaught track.**
+
+**Saved:** 1 **Legendary Imperial orb** → hold for **Azrael** (your only Imperial Legendary). Celestine shards: **29/500**.
 
 **Watch the guild shop for:** Lucien shards (5 for 525 credits).
 
@@ -63,7 +65,7 @@ _Last updated: 2026-09-23_
 Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator are capped and wait on shards. Bellator replaces Tigurius once his power passes 4,533.
 
 ## Roster (unlocked) – Name · rarity · power · notes
-**Black Legion:** Haarken · Legendary · 12,795 · main carry, lvl 33 · Angrax · Rare · 2,412 · 84/50 shards, orbs 7/10, active (Bringer of Despair) lvl 16 · Archimatos · Rare · 1,714 · lvl 26, active ability 14
+**Black Legion:** Haarken · Legendary · 12,795 · main carry, lvl 33 · Angrax · Rare · 2,412 · 84/50 shards, orbs 7/10, active (Bringer of Despair) lvl 16 · Archimatos · Rare · 1,714 · lvl 26, active ability 15, passive 12
 **World Eaters:** Macer · Rare · 829 · 5★, lvl 17, rank II, abilities 10/10, 12/40 shards · Wrask · Uncommon · 814 · 4★, lvl 16, rank II, abilities 11/12, 26/20 shards, orbs 4/10
 **Death Guard:** Maladus · Epic · 1,119 · lvl 17 · Corrodius · Rare · 1,173 · Rotbone · Epic · 1,259 · healer
 **Thousand Sons:** Toth · Uncommon · 556 · Yazaghor · Uncommon · 481
