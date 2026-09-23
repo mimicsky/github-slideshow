@@ -14,6 +14,7 @@ _Last updated: 2026-09-23_
 - Raids have a **Mercy system** (odds rise after each miss).
 - "Random unit shards" missions are random – don't plan around them. A circle with no character picture usually means this.
 - Guild shop orbs are "Draft" = you pick the alliance. Guild shop resets daily and can have character shards, orbs, equipment. Alex's clan is strong, so shop currency stacks fast.
+- Machine of War primary (left) ability costs **1 munition per use**.
 - Tournament Arena caps rarity, so kit matters more than investment.
 
 ## Priorities
