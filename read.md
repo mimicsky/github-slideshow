@@ -74,7 +74,7 @@ Anuphet 141/250 · Plagueburst Crawler 20/40 · Volk 50/130 · Titus 60/250 · R
 
 **Tyranids (locked):** Deathleaper · Epic · 41/250 · Neurothrope · Rare · 20/130 · Tyrant Guard · Uncommon · 7/80 · Parasite of Mortrex · Epic · 0/250
 
-**Wallet (2026-09-23):** 239k coins · 966 Blackstone
+**Wallet (2026-09-23):** 240k coins · 966 Blackstone · 50/150 munitions
 
 ## Not yet sent
 Other locked Thousand Sons (if any), Space Wolves, World Eaters, Tau, Genestealer Cults, Custodes, Mechanicus, Black Templars, Emperor's Children, Votann, plus other Blood Angels. Send as: **Name – rarity – power**.
