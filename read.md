@@ -65,6 +65,7 @@ Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator 
 **Sisters:** Isabella · Rare · 975 · healer · Vindicta · Uncommon · 730 · capped
 **Astra Militarum:** Kut Skoden · Rare · 895 · 36/40 shards · Sibyll · Common · 270
 **Mechanicus:** Exitor-Rho · Uncommon · 709 · 4★, lvl 17 capped for rarity, rank II, abilities 11/11, 37/20 shards, orbs 2/10
+**Genestealer Cults:** Xybia · Rare · 605 · 5★, lvl 26 capped for rarity, rank I, abilities 8/8, 0/40 shards, psychic melee + psychic ranged (range 2)
 **Necrons:** Imospekh · Epic · 2,839 · Thutmose · Epic · 2,264 · Makhotep · Rare · 1,968 · Aleph-Null · Rare · 1,368
 **Aeldari:** Eldryon · Epic · 1,272 · Aethana · Epic · 1,235 · lvl 19 · Calandis · Uncommon · 820 · 78/20 shards
 **T'au:** Re'vas · Uncommon · 539 · 4★, lvl 17 capped for rarity, rank I, abilities 11/10, 16/20 shards, orbs 0/10, flame melee + Pulse ranged (range 2)
@@ -93,7 +94,9 @@ Anuphet 141/250 · Plagueburst Crawler 20/40 · Volk 50/130 · Titus 60/250 · R
 
 **Mechanicus (locked):** Actus · Rare · 86/130 (closest!) · Vitruvius · Legendary · 150/500 · Tan Gi'da · Rare · 36/130 · Sy-gex · Uncommon · 0/80
 
+**Genestealer Cults (locked):** Isaak · Rare · 0/130 · Hollan · Uncommon · 0/80 · Judh · Epic · 0/250 · Patermine · Legendary · 0/500
+
 **Wallet (2026-09-23):** 243k coins · 1,191 Blackstone · 50/150 munitions
 
 ## Not yet sent
-Other locked Thousand Sons (if any), Genestealer Cults, Custodes, Emperor's Children, Votann. Send as: **Name – rarity – power**.
+Other locked Thousand Sons (if any), Custodes, Emperor's Children, Votann. Send as: **Name – rarity – power**.
