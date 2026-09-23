@@ -74,7 +74,7 @@ Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator 
 **Ultramarines:** Tigurius · Rare · 4,533 · capped · Certus · Epic · 2,360 · Bellator · Rare · 2,166 · capped · Incisus · Rare · 1,779 · healer
 **Black Templars:** Godswyl · Common · 271 · 2★, lvl 8 + rank I (both capped for rarity), abilities 8/locked, 11/15 shards, orbs 39/10
 **Space Wolves:** Tjark · Rare · 1,203 · red 1★, lvl 17, rank II, abilities 14/14, 4/50 shards, orbs 15/10 (enough – don't buy more)
-**Adeptus Astartes (other chapters):** Nubari (Salamanders) · Uncommon · 652 · 3★, lvl 17 capped for rarity, rank II, abilities 12/10, blue crystal 47/60, Melta melee + Melta ranged (range 2)
+**Adeptus Astartes (other chapters):** Nubari (Salamanders) · Uncommon · ~680 · **4★** (promoted via Know No Fear medals; HP 328, DMG 90, ARM 72), lvl 17 capped for rarity, rank II, abilities 12/10, blue crystal 47/60, Melta melee + Melta ranged (range 2)
 **Sisters:** Isabella · Rare · 975 · healer · Vindicta · Uncommon · 730 · capped
 **Astra Militarum:** Kut Skoden · Rare · 895 · 36/40 shards · Sibyll · Common · 270
 **Mechanicus:** Exitor-Rho · Uncommon · 709 · 4★, lvl 17 capped for rarity, rank II, abilities 11/11, 37/20 shards, orbs 2/10
