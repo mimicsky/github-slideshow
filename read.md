@@ -16,6 +16,7 @@ _Last updated: 2026-09-23_
 - Guild shop orbs are "Draft" = you pick the alliance. Guild shop resets daily and can have character shards, orbs, equipment. Alex's clan is strong, so shop currency stacks fast.
 - Machine of War primary (left) ability costs **1 munition per use**.
 - Tournament Arena caps rarity, so kit matters more than investment.
+- **PvP and Arena are NOT faction locked.** PvP = your top 5. Arena bumps characters **down** to its level cap, so a high-level Haarken becomes the cap level in low arenas.
 
 ## Priorities
 **Energy:** 1) Push new campaign battles → 2) Farm Haarken upgrades when stuck → 3) Celestine raids with leftovers.
@@ -50,6 +51,7 @@ _Last updated: 2026-09-23_
 | Mode | Team |
 |---|---|
 | Chaos / Fall of Cadia | Haarken, Angrax, Archimatos, Maladus, Rotbone (bench: Corrodius) |
+| PvP (top 5, any faction) | Haarken, Lucien, Azrael, Tigurius, Imospekh |
 | Imperial campaign | Azrael, Lucien, Certus, Tigurius, Bellator |
 | Octarius (Orks only) | Gulgortz, Snappawrecka, Snotflogga, Gibbascrapz |
 | Indomitus Mirror (Necrons only) | Imospekh, Thutmose, Makhotep, Aleph-Null |

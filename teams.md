@@ -11,7 +11,7 @@ _Built 2026-09-23 from your roster + ability kits in `wiki.md`. Written like Ove
 
 ---
 
-## 1. Chaos – main team (Fall of Cadia, Chaos Onslaught, Arena default)
+## 1. Chaos – main team (Fall of Cadia, Chaos Onslaught)
 | Slot | Character | Role | Job |
 |---|---|---|---|
 | 1 | **Haarken** | DPS (hyper-carry) | Flies in, gets kills, snowballs |
@@ -140,15 +140,37 @@ You own 3 Aeldari. Thin team, but the kits fit together.
 
 ---
 
-## 5. Arena / PvP (normal)
-**Default: the Chaos team (#1).** It's your strongest and most synergistic team. Haarken alone outclasses most things at your level.
-- On defense, the AI plays your team. Chaos works well there because Angrax's passive and Rotbone's revives don't need smart play.
-- If enemies are **psyker-heavy**, swap **Maladus → Corrodius** (enemy psykers hurt themselves).
-- If Arena lets you mix alliances, **Imospekh** is the best non-Chaos add (Overwatch + 6 hits). Swap him in for Maladus. Rotbone won't heal him, though, because Imospekh isn't Chaos.
+## 5. PvP (no faction lock – your top 5)
+**Fact:** PvP and Arena are **not faction locked**. PvP uses your top 5.
+
+| Slot | Character | Power | Role | Job |
+|---|---|---|---|---|
+| 1 | **Haarken** | 12,795 | DPS (hyper-carry) | Flies in, first kill, snowballs |
+| 2 | **Lucien** | 6,420 | DPS (diver) | Second dive; free bolter shot after every attack |
+| 3 | **Azrael** | 4,596 | Tank / anchor | Lion Helm: nearby allies block more |
+| 4 | **Tigurius** | 4,533 | AoE + support | Hits up to 6 enemies; allies take less psychic damage |
+| 5 | **Imospekh** | 2,839 | DPS (Overwatch) | Punishes anyone who walks in; regenerates |
+
+**Weak spot:** no healer. Rotbone only heals Chaos, and Incisus is too low power to replace anyone here. Just win fast.
+
+**Game plan**
+1. **Turn 1 – hold.** Azrael front-center. Tigurius 1 hex behind him (inside Lion Helm). Imospekh on the path the enemy must take, **ending his turn without attacking** so he's on Overwatch.
+2. **Turn 1–2 – first blood.** Haarken flies to the **lowest-HP enemy** and kills it. Every kill makes him stronger.
+3. **Turn 2 – follow-up.** Lucien dives the next weakest target. Move + attack in the same turn for the Rapid Assault bonus.
+4. **When 3+ enemies group:** Tigurius uses **Storm of Wrath**. Azrael uses **Dark Talon Strike** on a target with enemies behind it in a line.
+5. **Finisher only:** Lucien's **Black Rage** (the AI controls him after).
 
 ---
 
-## 6. Raids (Celestine node raids)
+## 6. Arena (level/rarity capped – any faction)
+**How the cap works:** your characters get **bumped down** to the arena's cap. A capped Haarken is no stronger than anyone else's capped character, so **kit matters more than investment**. Characters already below the cap stay where they are.
+
+**Rule:**
+- **High arena tiers** (cap near your top units' level): use the **PvP team (#5)**.
+- **Low arena tiers** (everyone's stats flattened): use the **kit team (#4)**: Re'vas, Aethana, Archimatos, Aleph-Null, Sibyll. Three summoners win flattened fights because the enemy runs out of actions first.
+- **In between:** keep **Haarken** (Flying + snowball kit is great at any level) and **Imospekh** (6 hits both ways), and fill the rest from the kit team.
+
+## 7. Raids (Celestine node raids)
 Use the **Chaos team** unless the raid locks your alliance. Raids are pure damage checks: Haarken, Archimatos and Maladus (armour shred) matter most. Rotbone stays only if you're losing units.
 
 ---
@@ -156,7 +178,10 @@ Use the **Chaos team** unless the raid locks your alliance. Raids are pure damag
 ## Quick reference
 | Mode | Team |
 |---|---|
-| Fall of Cadia / Chaos Onslaught / Arena / Raids | Haarken · Angrax · Maladus · Archimatos · Rotbone |
+| Fall of Cadia / Chaos Onslaught / Raids | Haarken · Angrax · Maladus · Archimatos · Rotbone |
+| PvP (top 5, any faction) | Haarken · Lucien · Azrael · Tigurius · Imospekh |
+| Arena high tier | Same as PvP |
+| Arena low tier | Re'vas · Aethana · Archimatos · Aleph-Null · Sibyll |
 | Battle 61 (3 slots) | Haarken · Angrax · Rotbone |
 | Indomitus / Imperial Onslaught | Azrael · Lucien · Tigurius · Certus · Bellator (Incisus swap) |
 | Indomitus Mirror (Necrons) | Imospekh · Thutmose · Makhotep · Aleph-Null |
