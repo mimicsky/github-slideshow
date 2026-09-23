@@ -11,7 +11,7 @@ _Built 2026-09-23 from your roster + ability kits in `wiki.md`. Written like Ove
 
 ---
 
-## 1. Chaos – main team (Fall of Cadia, Chaos Onslaught)
+## 1. Chaos – main team (Fall of Cadia, Chaos Onslaught → Xenos badges)
 | Slot | Character | Role | Job |
 |---|---|---|---|
 | 1 | **Haarken** | DPS (hyper-carry) | Flies in, gets kills, snowballs |
@@ -42,7 +42,7 @@ _Built 2026-09-23 from your roster + ability kits in `wiki.md`. Written like Ove
 
 ---
 
-## 2. Imperial (Indomitus, Imperial Onslaught)
+## 2. Imperial (Indomitus, Imperial Onslaught → **Chaos badges for Angrax**)
 | Slot | Character | Role | Job |
 |---|---|---|---|
 | 1 | **Azrael** | Tank / anchor | Lion Helm: nearby allies block more |
@@ -178,15 +178,15 @@ No team needed. Raiding a 3★ campaign battle is an **instant sweep**: it just 
 ## Quick reference
 | Mode | Team |
 |---|---|
-| Fall of Cadia / Chaos Onslaught | Haarken · Angrax · Maladus · Archimatos · Rotbone |
+| Fall of Cadia / Chaos Onslaught (gives Xenos badges) | Haarken · Angrax · Maladus · Archimatos · Rotbone |
 | PvP (top 5, any faction) | Haarken · Lucien · Azrael · Tigurius · Imospekh |
 | Arena high tier | Same as PvP |
 | Arena low tier | Re'vas · Aethana · Archimatos · Aleph-Null · Sibyll |
 | Battle 61 (3 slots) | Haarken · Angrax · Rotbone |
-| Indomitus / Imperial Onslaught | Azrael · Lucien · Tigurius · Certus · Bellator (Incisus swap) |
+| Indomitus / Imperial Onslaught (gives **Chaos** badges) | Azrael · Lucien · Tigurius · Certus · Bellator (Incisus swap) |
 | Indomitus Mirror (Necrons) | Imospekh · Thutmose · Makhotep · Aleph-Null |
 | Octarius (Orks) | Gulgortz · Snappawrecka · Snotflogga · Gibbascrapz |
 | Saim-Hann (Aeldari) | Aethana · Eldryon · Calandis |
-| Xenos Onslaught (mixed Xenos, if allowed) | Imospekh · Gulgortz · Makhotep · Thutmose · Aleph-Null |
+| Xenos Onslaught (gives Imperial badges; mixed Xenos if allowed) | Imospekh · Gulgortz · Makhotep · Thutmose · Aleph-Null |
 | Tournament (Common) | Re'vas · Aethana · Archimatos · Aleph-Null · Sibyll |
 | Machine of War | Biovore |
