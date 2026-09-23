@@ -16,6 +16,7 @@ _Last updated: 2026-09-23_
 - Guild shop orbs are "Draft" = you pick the alliance. Guild shop resets daily and can have character shards, orbs, equipment. Alex's clan is strong, so shop currency stacks fast.
 - Machine of War primary (left) ability costs **1 munition per use**.
 - **Onslaught badges are cross-faction:** Imperial track → **Chaos** badges · Chaos track → **Xenos** badges · Xenos track → **Imperial** badges. Common and uncommon further down each track.
+- **Onslaught Commend:** you can deploy anyone from that track's faction (power doesn't matter; even if they die you can still commend them). Commend = ~5–7 shards + 40% chance at an orb that character needs. **Commend targets:** Imperial track → **Lucien** (capped, blocked on shards) · Chaos track → **Angrax** (only needs orbs) · Xenos track → **Snotflogga** (needs 9 rare orbs).
 - Tournament Arena caps rarity, so kit matters more than investment.
 - **PvP and Arena are NOT faction locked.** PvP = your top 5. Arena bumps characters **down** to its level cap, so a high-level Haarken becomes the cap level in low arenas.
 
