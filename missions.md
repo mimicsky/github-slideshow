@@ -4,11 +4,10 @@ _Updated 2026-09-23 · Mission level 26 (285/550 XP). Changes a lot, so it lives
 
 ## 🔥 Do now (cheap, overlapping)
 1. **Arena ×4 with an ALL-IMPERIAL team** (Lucien · Azrael · Tigurius · Certus · Bellator).
-   One set of battles counts toward three things: Merciless Fighters "Play 3 Arena", Know No Fear "Play 4 Arena", and Know No Fear "win with all-Imperial" (for every win).
-2. ~~Power damage~~ ✅ done.
-3. **Imperial Onslaught** tokens → all-Imperial wins for Know No Fear **and** Chaos badges **and** Lucien commends.
-4. **Bring Galatian as your Machine of War** in those Imperial arena fights. He needs **21 damage** to finish his mission (25 shards, 5 Imperial badges, 5 MoW parts). One use does it.
-5. **Use Wrask** in Chaos fights until he's dealt 1,376 more damage (25 Wrask shards + 5 Chaos badges).
+   Counts toward Know No Fear "Play 4 Arena" and "win with all-Imperial" (every win).
+2. **Imperial Onslaught** tokens → all-Imperial wins for Know No Fear **and** Chaos badges **and** Lucien commends.
+3. **Bring Galatian as your Machine of War** in those Imperial arena fights. He needs **21 damage** to finish his mission (25 shards, 5 Imperial badges, 5 MoW parts). One use does it.
+4. **Use Wrask** in Chaos fights until he's dealt 1,376 more damage (25 Wrask shards + 5 Chaos badges).
 
 ## 🎯 Deploy lists (Onslaught lets you deploy anyone)
 **Chaos track** (gives Xenos badges – needed for the Ork/Aeldari/Necron missions):
@@ -24,7 +23,6 @@ Lucien (commend) · Azrael · Tigurius + fillers **Cezare · Sibyll · Kut · Nu
 ## Timed
 | Mission | Needs | Progress | Time left | Reward |
 |---|---|---|---|---|
-| ~~**Merciless Fighters**~~ | ✅ DONE (Power damage + 3 Arena) | | | Scroll ×1, 30 mission XP |
 | **Know No Fear 10/20** | Win 15 battles with an all-Imperial lineup | 3/15 | **3d 0h** | 100 seals, 20 mission XP |
 | | Play 4 Arena battles | 0/4 | | |
 
