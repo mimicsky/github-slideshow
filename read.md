@@ -60,6 +60,7 @@ Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator 
 **Dark Angels:** Azrael · Legendary · 4,596 · rank I, lvl 29
 **Ultramarines:** Tigurius · Rare · 4,533 · capped · Certus · Epic · 2,360 · Bellator · Rare · 2,166 · capped · Incisus · Rare · 1,779 · healer
 **Black Templars:** Godswyl · Common · 271 · 2★, lvl 8 + rank I (both capped for rarity), abilities 8/locked, 11/15 shards, orbs 39/10
+**Space Wolves:** Tjark · Rare · 1,203 · red 1★, lvl 17, rank II, abilities 14/14, 4/50 shards, orbs 15/10 (enough – don't buy more)
 **Sisters:** Isabella · Rare · 975 · healer · Vindicta · Uncommon · 730 · capped
 **Astra Militarum:** Kut Skoden · Rare · 895 · 36/40 shards · Sibyll · Common · 270
 **Necrons:** Imospekh · Epic · 2,839 · Thutmose · Epic · 2,264 · Makhotep · Rare · 1,968 · Aleph-Null · Rare · 1,368
@@ -86,7 +87,9 @@ Anuphet 141/250 · Plagueburst Crawler 20/40 · Volk 50/130 · Titus 60/250 · R
 
 **T'au (locked):** Shadowsun · Legendary · 39/500 · Aun'Shi · Legendary · 24/500 · Darkstrider · Rare · 1/130 · Sho'syl · Uncommon · 0/80
 
+**Space Wolves (locked):** Ragnar · Legendary · 12/500 · Baldr · Rare · 10/130 · Arjac · Rare · 8/130 · Njal · Epic · 5/250
+
 **Wallet (2026-09-23):** 243k coins · 1,191 Blackstone · 50/150 munitions
 
 ## Not yet sent
-Other locked Thousand Sons (if any), Space Wolves, Genestealer Cults, Custodes, Mechanicus, Emperor's Children, Votann. Send as: **Name – rarity – power**.
+Other locked Thousand Sons (if any), Genestealer Cults, Custodes, Mechanicus, Emperor's Children, Votann. Send as: **Name – rarity – power**.
