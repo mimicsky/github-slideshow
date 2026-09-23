@@ -130,7 +130,7 @@ _Built 2026-09-23 from [Fextralife Tacticus Wiki](https://warhammer40ktacticus.w
 **Galatian** · Machine of War · Ultramarines
 - **Primary – Duty Eternal:** drops Galatian as a big stationary unit on the field.
 - **Secondary – Macro Plasma Incinerator:** marks hexes; plasma to enemies ending there.
-- **Take:** Area denial. Low priority.
+- **Take:** Area denial. Low priority. **Tip:** enemies only get hit if they *end* their move in the marked hexes, so mark the hexes next to your tank (where melee enemies must stand to attack), not open ground.
 
 ### Black Templars (Imperial)
 **Godswyl** · base Common · yours: Common 271

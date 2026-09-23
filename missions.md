@@ -6,7 +6,7 @@ _Updated 2026-09-23 · Mission level 26 (285/550 XP). Changes a lot, so it lives
 1. **Arena ×4 with an ALL-IMPERIAL team** (Lucien · Azrael · Tigurius · Certus · Bellator).
    Counts toward Know No Fear "Play 4 Arena" and "win with all-Imperial" (every win).
 2. **Imperial Onslaught** tokens → all-Imperial wins for Know No Fear **and** Chaos badges **and** Lucien commends.
-3. **Bring Galatian as your Machine of War** in those Imperial arena fights. He needs **21 damage** to finish his mission (25 shards, 5 Imperial badges, 5 MoW parts). One use does it.
+3. **Bring Galatian as your Machine of War** in those Imperial arena fights. He needs **21 damage** (25 shards, 5 Imperial badges, 5 MoW parts). **How:** mark the hexes **right next to your front-liner (Azrael)**. Melee enemies have to end their move there to hit him, so they walk into it. Or use his **primary** to drop Galatian himself onto the field near enemies.
 4. **Use Wrask** in Chaos fights until he's dealt 1,376 more damage (25 Wrask shards + 5 Chaos badges).
 
 ## 🎯 Deploy lists (Onslaught lets you deploy anyone)
@@ -24,7 +24,7 @@ Lucien (commend) · Azrael · Tigurius + fillers **Cezare · Sibyll · Kut · Nu
 | Mission | Needs | Progress | Time left | Reward |
 |---|---|---|---|---|
 | **Know No Fear 10/20** | Win 15 battles with an all-Imperial lineup | 3/15 | **3d 0h** | 100 seals, 20 mission XP |
-| | Play 4 Arena battles | 0/4 | | |
+| | Play 4 Arena battles | 2/4 | | |
 
 ## Campaign missions
 | Mission | Step | Progress | Plan |
