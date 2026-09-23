@@ -45,6 +45,8 @@ _Last updated: 2026-09-23_
 **MoW rule:** the silver plates (3/5 right now) are shared. Spend them on **Biovore's primary first**, never on Storm Speeder.
 
 ## Teams
+**Full team guides with turn-by-turn plans: see `teams.md`.** Xenos team updated there to Imospekh, Gulgortz, Makhotep, Thutmose, Aleph-Null (Makhotep gives summons extra actions).
+
 | Mode | Team |
 |---|---|
 | Chaos / Fall of Cadia | Haarken, Angrax, Archimatos, Maladus, Rotbone (bench: Corrodius) |
