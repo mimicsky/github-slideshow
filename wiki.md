@@ -410,7 +410,7 @@ _Your shard progress is in brackets. Format: attacks · move · traits → **A**
 - **Creed** · Legendary [—] – summons Guardsmen who act immediately; bodyguard absorbs hits. **Take:** strong.
 - **Yarrick** · Rare [—] – summons Guardsmen. **Take:** ok.
 - **Dreir** · Epic [—] – Move 4 · charge + summons 4 riders. **Take:** strong.
-- **Malleus Rocket Launcher** · MoW [12/40] – delayed rocket barrage + summons a Guardsman. **Take:** ok.
+- **Malleus Rocket Launcher** · MoW [32/40] – delayed rocket barrage + summons a Guardsman. **Take:** ok.
 - **Tan Gi'da** · Rare [36/130] – switches Mechanical allies between armour and damage modes; summons. **Take:** good with Actus.
 - **Sy-gex** · Uncommon [0/80] – heavy gun, bonus vs Terminators/Mechanical. **Take:** far.
 

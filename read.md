@@ -83,7 +83,7 @@ Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator 
 **Machines of War:** **Biovore** · Common · 82 · 2★, MAIN MoW (PvE + PvP), primary lvl 1 / secondary lvl 4, 8/15 shards, orbs 18/10, needs 3/5 plates + 0/1 item for next primary upgrade · Storm Speeder · Common · 64 · 2★, Dark Angels, 0/15 shards · Galatian · Common · 106 · Forgefiend · Common · 50 · Exorcist · Common · 55
 
 ## Locked – closest
-Anuphet 141/250 · Plagueburst Crawler 20/40 · Volk 50/130 · Titus 60/250 · Roswitha 23/80 · Thaddeus 37/130 · Malleus 12/40 · Reanimator 10/40
+Anuphet 141/250 · Plagueburst Crawler 20/40 · Volk 50/130 · Titus 60/250 · Roswitha 23/80 · Thaddeus 37/130 · Malleus Rocket Launcher 32/40 (MoW, 8 to go) · Reanimator 10/40
 
 **Thousand Sons (locked):** Z'Kar · Common · 12/40 · Sekhetar Robot · Uncommon · 11/80 · Abraxas · Rare · 41/130 · Thaumachus · Epic · 0/250
 
