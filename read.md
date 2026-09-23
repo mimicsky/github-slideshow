@@ -40,7 +40,7 @@ _Last updated: 2026-09-23_
 
 **Watch the guild shop for:** Lucien shards (5 for 525 credits).
 
-**Watch for event:** Heroes of the Chapter → unlocks Lysander (Legendary). Any event offering **Lucius** shards → tell Claude.
+**Watch for event:** Heroes of the Chapter → unlocks Lysander (Legendary). The Ancestors Are Watching → unlocks Ûthar (Legendary). Any event offering **Lucius** shards → tell Claude.
 
 **MoW rule:** the silver plates (3/5 right now) are shared. Spend them on **Biovore's primary first**, never on Storm Speeder.
 
@@ -105,7 +105,9 @@ Anuphet 141/250 · Plagueburst Crawler 20/40 · Volk 50/130 · Titus 60/250 · R
 
 **Emperor's Children (locked):** Lucius · Legendary · 0/500 (Alex wants him – Chaos, fits with Haarken; only realistic via an event) · Laviscus · Epic · 0/250 · Adamatar · Rare · 0/130 · Hascule · Rare · 0/130 · Shiron · Uncommon · 0/80
 
+**Votann (locked):** Kîmm · Epic · 114/250 · Ûthar · Legendary · 0/400 · unlocks in the **The Ancestors Are Watching** event · Âmmuk · Rare · 0/130 · Vynn · Rare · 0/130 · Hâvyr · Uncommon · 0/80
+
 **Wallet (2026-09-23):** 243k coins · 1,191 Blackstone · 50/150 munitions
 
-## Not yet sent
-Other locked Thousand Sons (if any), Votann. Send as: **Name – rarity – power**.
+## Roster status
+Full roster sent as of 2026-09-23. Update entries here as things change.
