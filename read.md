@@ -40,7 +40,7 @@ _Last updated: 2026-09-23_
 
 **Watch the guild shop for:** Lucien shards (5 for 525 credits).
 
-**Watch for event:** Heroes of the Chapter → unlocks Lysander (Legendary).
+**Watch for event:** Heroes of the Chapter → unlocks Lysander (Legendary). Any event offering **Lucius** shards → tell Claude.
 
 **MoW rule:** the silver plates (3/5 right now) are shared. Spend them on **Biovore's primary first**, never on Storm Speeder.
 
@@ -103,7 +103,9 @@ Anuphet 141/250 · Plagueburst Crawler 20/40 · Volk 50/130 · Titus 60/250 · R
 
 **Custodes (locked):** Atlacoya (Sisters of Silence) · Rare · 15/130 · Tyrith · Rare · 0/130 · Aesoth · Uncommon · 0/80 · Kariyan · Epic · 0/250 · Trajann · Legendary · 0/500
 
+**Emperor's Children (locked):** Lucius · Legendary · 0/500 (Alex wants him – Chaos, fits with Haarken; only realistic via an event) · Laviscus · Epic · 0/250 · Adamatar · Rare · 0/130 · Hascule · Rare · 0/130 · Shiron · Uncommon · 0/80
+
 **Wallet (2026-09-23):** 243k coins · 1,191 Blackstone · 50/150 munitions
 
 ## Not yet sent
-Other locked Thousand Sons (if any), Emperor's Children, Votann. Send as: **Name – rarity – power**.
+Other locked Thousand Sons (if any), Votann. Send as: **Name – rarity – power**.
