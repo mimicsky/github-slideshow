@@ -66,7 +66,9 @@ Anuphet 141/250 · Plagueburst Crawler 20/40 · Volk 50/130 · Titus 60/250 · R
 
 **Thousand Sons (locked):** Z'Kar · Common · 12/40 · Sekhetar Robot · Uncommon · 11/80 · Abraxas · Rare · 41/130 · Thaumachus · Epic · 0/250
 
+**Dark Angels (locked):** Sarquael · Uncommon · 45/80 · Asmodai · Epic · 43/250 · Forcas · Rare · 20/130 · Baraqiel · Uncommon · 8/80 · Ramus · Rare · 0/130
+
 **Wallet (2026-09-23):** 239k coins · 966 Blackstone
 
 ## Not yet sent
-Other locked Thousand Sons (if any), Space Wolves, World Eaters, Tau, Tyranids, Genestealer Cults, Custodes, Mechanicus, Black Templars, Emperor's Children, Votann, plus other Blood/Dark Angels. Send as: **Name – rarity – power**.
+Other locked Thousand Sons (if any), Space Wolves, World Eaters, Tau, Tyranids, Genestealer Cults, Custodes, Mechanicus, Black Templars, Emperor's Children, Votann, plus other Blood Angels. Send as: **Name – rarity – power**.
