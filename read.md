@@ -51,7 +51,9 @@ _Last updated: 2026-09-23_
 |---|---|
 | Chaos / Fall of Cadia | Haarken, Angrax, Archimatos, Maladus, Rotbone (bench: Corrodius) |
 | Imperial campaign | Azrael, Lucien, Certus, Tigurius, Bellator |
-| Octarius (Orks) | Gulgortz, Snappawrecka, Snotflogga, Gibbascrapz |
+| Octarius (Orks only) | Gulgortz, Snappawrecka, Snotflogga, Gibbascrapz |
+| Indomitus Mirror (Necrons only) | Imospekh, Thutmose, Makhotep, Aleph-Null |
+| Saim-Hann (Aeldari only) | Aethana, Eldryon, Calandis |
 | Tournament (Common cap) idea | Archimatos, Aleph-Null, Aethana, Sibyll + **Re'vas** (owned, confirmed). Backup: Godswyl (a true Common, use him if the tournament blocks Uncommons) |
 
 Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator are capped and wait on shards. Bellator replaces Tigurius once his power passes 4,533.
