@@ -18,8 +18,8 @@ _Built 2026-09-23 from [Fextralife Tacticus Wiki](https://warhammer40ktacticus.w
 **Angrax** · base Common · yours: Rare 2,412
 - Melee: Power ×4 · Move 2 · Traits: Let the Galaxy Burn, **Deep Strike**, Terminator Armour
 - **Active – Bringer of Despair:** power hit on target + a random adjacent enemy, Battle Fatigue ×2.
-- **Passive – Hateful Assault:** free power attack on any enemy that walks away from him.
-- **Take:** 🔥 Tank + zone lock. Deep Strike him next to the enemy backline. Correct #1 orb priority.
+- **Passive – Hateful Assault:** free power attack on an enemy that is **adjacent to him and moves away** (like a parting shot). Walking past him doesn't trigger it.
+- **Take:** 🔥 Tank + pin. Get him adjacent to ranged/squishy enemies: they either stay in melee with him or eat a hit leaving. Correct #1 orb priority.
 
 **Archimatos** · base Uncommon · yours: Rare 1,714
 - Melee: Psychic ×2 · Ranged: Psychic ×1, range 2 · Move 3 · Trait: Psyker (splash to an adjacent enemy)

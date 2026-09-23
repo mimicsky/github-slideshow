@@ -15,18 +15,19 @@ _Built 2026-09-23 from your roster + ability kits in `wiki.md`. Written like Ove
 | Slot | Character | Role | Job |
 |---|---|---|---|
 | 1 | **Haarken** | DPS (hyper-carry) | Flies in, gets kills, snowballs |
-| 2 | **Angrax** | Tank / zone | Deep Strikes in, punishes anyone who walks away |
+| 2 | **Angrax** | Tank / zone | Deep Strikes in, sticks to enemies; anyone who leaves his side gets hit |
 | 3 | **Maladus** | Off-tank | Armour-shred aura, won't die (Resilient) |
 | 4 | **Archimatos** | Ranged DPS / summoner | Psychic damage ignores armour, spawns daemons |
 | 5 | **Rotbone** | Support (healer) | Heals + revives adjacent Chaos |
 | Bench | Corrodius | Swap for Maladus vs psyker enemies (they hurt themselves) |
 
 **Game plan**
-1. **Turn 1 – set up.** Angrax deploys from Deep Strike. Put him 2 hexes from the enemy's squishy units (he can't land adjacent). Now any enemy that walks past or away from him eats a free hit. Maladus and Rotbone walk forward **together**.
-2. **Turn 1–2 – first blood.** Haarken flies over terrain to the **lowest-HP enemy** and kills it. Every kill = more damage, every *character* kill = +1 hit. This is the whole team's win condition.
-3. **Turn 2 – add bodies.** Archimatos uses **Daemonic Incursion** to drop Bloodletters on enemies. Enemies waste attacks on summons (like OW tank space). Finish low targets with his **ranged** attack for a Blue Horror, or melee for a Bloodletter.
-4. **Turn 2+ – grind.** Maladus stands in the middle. His aura lowers enemy armour and grows each turn, so everyone hits harder the longer he lives.
-5. **Always:** Rotbone ends every turn **adjacent to Haarken and/or Angrax**. His heal only works on adjacent Chaos allies, and his passive can revive an adjacent fallen ally.
+1. **Turn 1 – set up.** Angrax deploys from Deep Strike. He can't land adjacent to enemies, so put him **1 hex away** from the enemy's ranged/squishy units. Maladus and Rotbone walk forward **together**.
+2. **Turn 2 – stick.** Angrax walks **into contact** with those units. His passive only fires when an enemy that is **already adjacent moves away**. Now they're stuck: stay and trade melee with a Terminator, or leave and take a free power hit. Ranged units hate this because they want to back off to shoot. Walking past him does **not** trigger it.
+3. **Turn 1–2 – first blood.** Haarken flies over terrain to the **lowest-HP enemy** and kills it. Every kill = more damage, every *character* kill = +1 hit. This is the whole team's win condition.
+4. **Turn 2 – add bodies.** Archimatos uses **Daemonic Incursion** to drop Bloodletters on enemies. Enemies waste attacks on summons (like OW tank space). Finish low targets with his **ranged** attack for a Blue Horror, or melee for a Bloodletter.
+5. **Turn 2+ – grind.** Maladus stands in the middle. His aura lowers enemy armour and grows each turn, so everyone hits harder the longer he lives.
+6. **Always:** Rotbone ends every turn **adjacent to Haarken and/or Angrax**. His heal only works on adjacent Chaos allies, and his passive can revive an adjacent fallen ally.
 
 **Ability timing**
 - **Haarken – Herald of the Apocalypse:** when two enemies stand **in a line** (target + the one behind).
