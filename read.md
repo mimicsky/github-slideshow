@@ -32,7 +32,8 @@ _Last updated: 2026-09-23_
 1. **Angrax** – 7/10 rare Chaos orbs → buy last 3, then ascend
 2. **Snotflogga** – needs 9 rare Xenos orbs
 3. **Calandis** / **Gibbascrapz** – need 10 uncommon Xenos orbs each
-4. **Vindicta** – needs 8 uncommon Imperial orbs
+4. **Wrask** – needs 6 uncommon Chaos orbs (4/10; shards already 26/20)
+5. **Vindicta** – needs 8 uncommon Imperial orbs
 
 **Ability badges:** Save uncommon Chaos badges for **Angrax** (left ability needs 4, right needs 5). Craft in Forge: 3 common + 1 token + 1,000 coins each. Commend Archimatos/Angrax after Chaos Onslaught fights.
 
@@ -52,6 +53,7 @@ Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator 
 
 ## Roster (unlocked) – Name · rarity · power · notes
 **Black Legion:** Haarken · Legendary · 12,795 · main carry, lvl 33 · Angrax · Rare · 2,412 · 84/50 shards, orbs 7/10 · Archimatos · Rare · 1,714 · lvl 26, active ability 14
+**World Eaters:** Macer · Rare · 829 · 5★, lvl 17, rank II, abilities 10/10, 12/40 shards · Wrask · Uncommon · 814 · 4★, lvl 16, rank II, abilities 11/12, 26/20 shards, orbs 4/10
 **Death Guard:** Maladus · Epic · 1,119 · lvl 17 · Corrodius · Rare · 1,173 · Rotbone · Epic · 1,259 · healer
 **Thousand Sons:** Toth · Uncommon · 556 · Yazaghor · Uncommon · 481
 **Blood Angels:** Lucien · Rare · 6,420 · capped, 20/50 shards
@@ -74,7 +76,9 @@ Anuphet 141/250 · Plagueburst Crawler 20/40 · Volk 50/130 · Titus 60/250 · R
 
 **Tyranids (locked):** Deathleaper · Epic · 41/250 · Neurothrope · Rare · 20/130 · Tyrant Guard · Uncommon · 7/80 · Parasite of Mortrex · Epic · 0/250
 
-**Wallet (2026-09-23):** 240k coins · 966 Blackstone · 50/150 munitions
+**World Eaters (locked):** Azkor · Rare · 52/130 · Tarvakh · Rare · 2/130 · Khârn · Legendary · 0/500
+
+**Wallet (2026-09-23):** 243k coins · 1,191 Blackstone · 50/150 munitions
 
 ## Not yet sent
-Other locked Thousand Sons (if any), Space Wolves, World Eaters, Tau, Genestealer Cults, Custodes, Mechanicus, Black Templars, Emperor's Children, Votann, plus other Blood Angels. Send as: **Name – rarity – power**.
+Other locked Thousand Sons (if any), Space Wolves, Tau, Genestealer Cults, Custodes, Mechanicus, Black Templars, Emperor's Children, Votann, plus other Blood Angels. Send as: **Name – rarity – power**.
