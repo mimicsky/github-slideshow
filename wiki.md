@@ -23,7 +23,7 @@ _Built 2026-09-23 from [Fextralife Tacticus Wiki](https://warhammer40ktacticus.w
 
 **Archimatos** · base Uncommon · yours: Rare 1,714
 - Melee: Psychic ×2 · Ranged: Psychic ×1, range 2 · Move 3 · Trait: Psyker (splash to an adjacent enemy)
-- **Active – Daemonic Incursion:** summons Bloodletters next to enemies that keep attacking.
+- **Active – Daemonic Incursion:** range 2. Summons a Bloodletter next to the target, and keeps summoning (max 6) while the target is alive, in range and has free adjacent hexes. Use on a tanky enemy in the open.
 - **Passive – Possession:** melee kill → Bloodletter; ranged kill → Blue Horror.
 - **Take:** Extra bodies every fight. Psychic ignores armour. Great in Common-cap tournament.
 
