@@ -47,7 +47,7 @@ _Last updated: 2026-09-23_
 | Chaos / Fall of Cadia | Haarken, Angrax, Archimatos, Maladus, Rotbone (bench: Corrodius) |
 | Imperial campaign | Azrael, Lucien, Certus, Tigurius, Bellator |
 | Octarius (Orks) | Gulgortz, Snappawrecka, Snotflogga, Gibbascrapz |
-| Tournament (Common cap) idea | Archimatos, Aleph-Null, Aethana, Sibyll + 1 (Re'vas if owned – unconfirmed) |
+| Tournament (Common cap) idea | Archimatos, Aleph-Null, Aethana, Sibyll + 1 (Re'vas if owned – unconfirmed; otherwise Godswyl) |
 
 Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator are capped and wait on shards. Bellator replaces Tigurius once his power passes 4,533.
 
@@ -59,6 +59,7 @@ Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator 
 **Blood Angels:** Lucien · Rare · 6,420 · capped, 20/50 shards · Cezare · Uncommon · 636 · 3★, lvl 17 capped for rarity, rank II, abilities 10/11, 7/15 shards
 **Dark Angels:** Azrael · Legendary · 4,596 · rank I, lvl 29
 **Ultramarines:** Tigurius · Rare · 4,533 · capped · Certus · Epic · 2,360 · Bellator · Rare · 2,166 · capped · Incisus · Rare · 1,779 · healer
+**Black Templars:** Godswyl · Common · 271 · 2★, lvl 8 + rank I (both capped for rarity), abilities 8/locked, 11/15 shards, orbs 39/10
 **Sisters:** Isabella · Rare · 975 · healer · Vindicta · Uncommon · 730 · capped
 **Astra Militarum:** Kut Skoden · Rare · 895 · 36/40 shards · Sibyll · Common · 270
 **Necrons:** Imospekh · Epic · 2,839 · Thutmose · Epic · 2,264 · Makhotep · Rare · 1,968 · Aleph-Null · Rare · 1,368
@@ -80,7 +81,9 @@ Anuphet 141/250 · Plagueburst Crawler 20/40 · Volk 50/130 · Titus 60/250 · R
 
 **Blood Angels (locked):** Mataneo · Uncommon · 30/80 · Nicodemus · Rare · 0/130 · Dante · Legendary · 0/500 · Mephiston · Legendary · 0/500
 
+**Black Templars (locked):** Burchard · Uncommon · 37/80 · Thoread · Rare · 28/130 · Jaeger · Epic · 3/250 · Helbrecht · Legendary · 0/500
+
 **Wallet (2026-09-23):** 243k coins · 1,191 Blackstone · 50/150 munitions
 
 ## Not yet sent
-Other locked Thousand Sons (if any), Space Wolves, Tau, Genestealer Cults, Custodes, Mechanicus, Black Templars, Emperor's Children, Votann. Send as: **Name – rarity – power**.
+Other locked Thousand Sons (if any), Space Wolves, Tau, Genestealer Cults, Custodes, Mechanicus, Emperor's Children, Votann. Send as: **Name – rarity – power**.
