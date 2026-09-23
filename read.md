@@ -59,7 +59,8 @@ Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator 
 **Necrons:** Imospekh · Epic · 2,839 · Thutmose · Epic · 2,264 · Makhotep · Rare · 1,968 · Aleph-Null · Rare · 1,368
 **Aeldari:** Eldryon · Epic · 1,272 · Aethana · Epic · 1,235 · lvl 19 · Calandis · Uncommon · 820 · 78/20 shards
 **Orks:** Gulgortz · Epic · 1,872 · Snappawrecka · Rare · 982 · Snotflogga · Rare · 903 · 65/50 shards · Gibbascrapz · Uncommon · 768 · 94/20 shards
-**Machines of War:** Galatian · Common · 106 · Forgefiend · Common · 50 · Exorcist · Common · 55
+**Tyranids:** Winged Prime · Rare · 612 · lvl 25, rank I, abilities 9/8, 9/50 shards, orbs 1/10
+**Machines of War:** Storm Speeder · Common · 64 · 2★, Dark Angels, 0/15 shards · Galatian · Common · 106 · Forgefiend · Common · 50 · Exorcist · Common · 55
 
 ## Locked – closest
 Anuphet 141/250 · Plagueburst Crawler 20/40 · Volk 50/130 · Titus 60/250 · Roswitha 23/80 · Thaddeus 37/130 · Malleus 12/40 · Reanimator 10/40
@@ -68,7 +69,9 @@ Anuphet 141/250 · Plagueburst Crawler 20/40 · Volk 50/130 · Titus 60/250 · R
 
 **Dark Angels (locked):** Sarquael · Uncommon · 45/80 · Asmodai · Epic · 43/250 · Forcas · Rare · 20/130 · Baraqiel · Uncommon · 8/80 · Ramus · Rare · 0/130
 
+**Tyranids (locked):** Deathleaper · Epic · 41/250 · Neurothrope · Rare · 20/130 · Tyrant Guard · Uncommon · 7/80
+
 **Wallet (2026-09-23):** 239k coins · 966 Blackstone
 
 ## Not yet sent
-Other locked Thousand Sons (if any), Space Wolves, World Eaters, Tau, Tyranids, Genestealer Cults, Custodes, Mechanicus, Black Templars, Emperor's Children, Votann, plus other Blood Angels. Send as: **Name – rarity – power**.
+Other locked Thousand Sons (if any), Space Wolves, World Eaters, Tau, Genestealer Cults, Custodes, Mechanicus, Black Templars, Emperor's Children, Votann, plus other Blood Angels. Send as: **Name – rarity – power**.
