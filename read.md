@@ -64,5 +64,9 @@ Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator 
 ## Locked – closest
 Anuphet 141/250 · Plagueburst Crawler 20/40 · Volk 50/130 · Titus 60/250 · Roswitha 23/80 · Thaddeus 37/130 · Malleus 12/40 · Reanimator 10/40
 
+**Thousand Sons (locked):** Z'Kar · Common · 12/40 · Sekhetar Robot · Uncommon · 11/80 · Abraxas · Rare · 41/130 · Thaumachus · Epic · 0/250
+
+**Wallet (2026-09-23):** 239k coins · 966 Blackstone
+
 ## Not yet sent
-Space Wolves, World Eaters, Tau, Tyranids, Genestealer Cults, Custodes, Mechanicus, Black Templars, Emperor's Children, Votann, plus other Blood/Dark Angels. Send as: **Name – rarity – power**.
+Other locked Thousand Sons (if any), Space Wolves, World Eaters, Tau, Tyranids, Genestealer Cults, Custodes, Mechanicus, Black Templars, Emperor's Children, Votann, plus other Blood/Dark Angels. Send as: **Name – rarity – power**.
