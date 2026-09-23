@@ -39,7 +39,7 @@ _Last updated: 2026-09-23_
 5. **Exitor-Rho** – needs 8 uncommon Imperial orbs (2/10; shards already 37/20). Beats Vindicta: Mechanicus team is forming (Actus 86/130, Vitruvius 150/500)
 6. **Vindicta** – needs 8 uncommon Imperial orbs
 
-**Ability badges:** Save uncommon Chaos badges for **Angrax** (left ability needs 4, right needs 5). Craft in Forge: 3 common + 1 token + 1,000 coins each. **To farm Chaos badges for Angrax, play the IMPERIAL Onslaught track.**
+**Ability badges:** Uncommon Chaos badges: **0** (spent on Angrax active → lvl 16). Next target: Angrax **passive**. Craft in Forge: 3 common + 1 token + 1,000 coins each. **To farm Chaos badges for Angrax, play the IMPERIAL Onslaught track.**
 
 **Watch the guild shop for:** Lucien shards (5 for 525 credits).
 
