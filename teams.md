@@ -135,14 +135,13 @@ You own 3 Aeldari. Thin team, but the kits fit together.
 - **Volk / Morvenn Vahl** (range 3) outrange your Overwatch (range 2) – they never walk in. Morvenn's missile blasts target + adjacent, punishing a clumped wall. → **Spread out** and **dive** them: Aethana (move 5, flying) onto Volk; Archimatos psychic at range 2.
 - **Khârn** heals his momentum on kills (bonus attack + move after each kill, less psychic damage per melee kill). Bloodletters = free kills for him. → **No summons near Khârn**; focus him at range before his first kill; Godswyl stun if you bring him.
 
-**Pick the team per fight – check the enemy lineup first:**
-| Enemy looks like | Bring |
-|---|---|
-| Melee that walks in | **Overwatch:** Re'vas · Imospekh · Archimatos · Aethana · Sibyll |
-| Long range (Volk, Morvenn) | Same core, spread out, **Aethana dives** the shooter |
-| **Super tanky / high armour** | **Anti-armour:** Archimatos · Sibyll · Thutmose · Snappawrecka · Maladus |
-
-**Why the anti-armour team:** armour is subtracted **per hit**, so many small hits (Imospekh, Re'vas) do almost nothing to tanks. Psychic (Archimatos, Sibyll) and **direct** damage (Thutmose) ignore armour; Snappawrecka's normal attacks **ignore armour**; Maladus's aura **lowers enemy armour** for your whole team.
+**Blind pick – you can't see the enemy before locking in.** So run one balanced team:
+**Archimatos · Sibyll · Re'vas · Thutmose · Aethana**
+- vs **walk-in melee:** Re'vas Overwatch + drones.
+- vs **long range:** Aethana dives (move 5, flying), Thutmose flies too.
+- vs **tanks:** Archimatos + Sibyll psychic and Thutmose direct damage all **ignore armour** (armour is subtracted per hit, so many small hits like Imospekh's fall off vs tanks).
+- vs **Khârn/Kariyan:** hold Archimatos's summons, focus them at range.
+- Imospekh = swap back in if you're losing mostly to melee rushes.
 
 **Why kit wins here:** at a rarity cap, everyone's stats are close. Summons, taunts and free actions decide fights. This team has **three summoners** (Re'vas, Archimatos, Aleph-Null). The enemy runs out of actions before you run out of bodies.
 
