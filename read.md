@@ -23,7 +23,7 @@ _Last updated: 2026-09-23_
 
 ## Priorities
 **Energy:** 1) Push new campaign battles → 2) Farm Haarken upgrades when stuck → 3) Celestine raids with leftovers.
-**Free modes (no energy):** Arena tokens, **Tournament Arena tokens (12 max)**, Onslaught tokens, Salvage Run. Never let tokens/energy sit full.
+**Free modes (no energy):** Arena tokens, **Tournament Arena tokens (12 max, 1 per 1h40m = full in 20h)**, Onslaught tokens, Salvage Run. Never let tokens/energy sit full.
 
 ## Current status
 - **Fall of Cadia:** next is **Battle 61** (3 deploy slots, enemy power 8,304). Battle 60 cleared (3★), raidable for Celestine shards.
