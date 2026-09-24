@@ -33,10 +33,9 @@ _Last updated: 2026-09-23_
 
 ## Shopping / resource queue
 **Guild shop orbs (in order):**
-1. **Angrax** – 7/10 rare Chaos orbs → buy last 3, then ascend
 1. **Snotflogga** – needs **Epic** Xenos orbs; +3 bought 2026-09-24 (check count)
-2. **Calandis** / **Gibbascrapz** – need 10 uncommon Xenos orbs each
-3. **Wrask** – needs 6 uncommon Chaos orbs (4/10; shards already 26/20)
+2. **Calandis** / **Gibbascrapz** – need 10 Xenos orbs each (likely **Rare** – Uncommon→Rare; you have Rare Xenos from 2026-09-24, check orb icon)
+3. **Wrask** – 4/10 Chaos orbs (likely **Rare**; you bought Rare Chaos 2026-09-24 – check orb icon), shards 26/20 ready
 4. **Exitor-Rho** – needs 8 uncommon Imperial orbs (2/10; shards already 37/20). Beats Vindicta: Mechanicus team is forming (Actus 86/130, Vitruvius 150/500)
 5. **Vindicta** – needs 8 uncommon Imperial orbs
 
