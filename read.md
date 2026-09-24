@@ -35,7 +35,7 @@ _Last updated: 2026-09-23_
 **Guild shop orbs (in order):**
 1. **Snotflogga** – needs **Epic** Xenos orbs; +3 bought 2026-09-24 (check count)
 2. **Calandis** / **Gibbascrapz** – need 10 Xenos orbs each (likely **Rare** – Uncommon→Rare; you have Rare Xenos from 2026-09-24, check orb icon)
-3. **Wrask** – 4/10 Chaos orbs (likely **Rare**; you bought Rare Chaos 2026-09-24 – check orb icon), shards 26/20 ready
+3. **Wrask** – **8/10 Rare Chaos orbs** (confirmed), shards 26/20 ready → 1 Rare Orbs draft (Chaos) at next guild-shop reset → ascend
 4. **Exitor-Rho** – needs 8 uncommon Imperial orbs (2/10; shards already 37/20). Beats Vindicta: Mechanicus team is forming (Actus 86/130, Vitruvius 150/500)
 5. **Vindicta** – needs 8 uncommon Imperial orbs
 
@@ -71,7 +71,7 @@ Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator 
 
 ## Roster (unlocked) – Name · rarity · power · notes
 **Black Legion:** Haarken · Legendary · 12,795 · main carry, lvl 33 · Angrax · **Epic** · 2,549 · ascended 2026-09-24 · lvl 26 (348/5,500 XP), shards 34/65 (next star), both abilities lvl 16 · Archimatos · Rare · 1,714 · lvl 26, active ability 15, passive 12
-**World Eaters:** Macer · Rare · 829 · 5★, lvl 17, rank II, abilities 10/10, 12/40 shards · Wrask · Uncommon · 814 · 4★, lvl 16, rank II, abilities 11/12, 26/20 shards, orbs 4/10
+**World Eaters:** Macer · Rare · 829 · 5★, lvl 17, rank II, abilities 10/10, 12/40 shards · Wrask · Uncommon · 814 · 4★, lvl 16, rank II, abilities 11/12, 26/20 shards, orbs 8/10 (Rare)
 **Death Guard:** Maladus · Epic · 1,119 · lvl 17 · Corrodius · Rare · 1,173 · Rotbone · Epic · 1,259 · healer
 **Thousand Sons:** Toth · Uncommon · 556 · Yazaghor · Uncommon · 481
 **Blood Angels:** Lucien · Rare · 6,420 · capped, 25/50 shards · Cezare · Uncommon · 636 · 3★, lvl 17 capped for rarity, rank II, abilities 10/11, 7/15 shards
