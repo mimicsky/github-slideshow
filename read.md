@@ -40,7 +40,7 @@ _Last updated: 2026-09-23_
 4. **Exitor-Rho** – needs 8 uncommon Imperial orbs (2/10; shards already 37/20). Beats Vindicta: Mechanicus team is forming (Actus 86/130, Vitruvius 150/500)
 5. **Vindicta** – needs 8 uncommon Imperial orbs
 
-**Ability badges:** Uncommon Chaos badges: **12+** (2026-09-24: +3 war shop, +9 Galatian mission) – was 0 (spent on Angrax active → lvl 16). Archimatos active → lvl 15 (3 badges). Next target: Angrax **passive** – needs **5** uncommon Chaos badges. Have: 5 **common** Chaos badges (craft 1 uncommon, keep 2). Craft in Forge: 3 common + 1 token + 1,000 coins each. **To farm Chaos badges for Angrax, play the IMPERIAL Onslaught track.**
+**Ability badges:** Chaos uncommon + rare badges spent on Angrax passive 16→22 (2026-09-24). Next: Angrax **active** (16). (spent on Angrax active → lvl 16). Archimatos active → lvl 15 (3 badges). Next target: Angrax **passive** – needs **5** uncommon Chaos badges. Have: 5 **common** Chaos badges (craft 1 uncommon, keep 2). Craft in Forge: 3 common + 1 token + 1,000 coins each. **To farm Chaos badges for Angrax, play the IMPERIAL Onslaught track.**
 
 **Saved:** 1 **Legendary Imperial orb** → hold for **Azrael** (your only Imperial Legendary). Celestine shards: **29/500**.
 
@@ -73,7 +73,7 @@ _Last updated: 2026-09-23_
 Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator are capped and wait on shards. Bellator replaces Tigurius once his power passes 4,533.
 
 ## Roster (unlocked) – Name · rarity · power · notes
-**Black Legion:** Haarken · Legendary · 12,795 · main carry, lvl 33 · Angrax · **Epic** · 2,549 · ascended 2026-09-24 · lvl 26 (348/5,500 XP), shards 34/65 (next star), both abilities lvl 16 · Archimatos · Rare · **1,935** · red 1★ (promoted 2026-09-24), lvl 26 capped, active 15, passive 12, shards 4/50, **Epic Chaos orbs 0/10**
+**Black Legion:** Haarken · Legendary · 12,795 · main carry, lvl 33 · Angrax · **Epic** · **2,822** · lvl 26 (348/5,500 XP), shards 34/65, active 16, **passive 22** · Archimatos · Rare · **1,935** · red 1★ (promoted 2026-09-24), lvl 26 capped, active 15, passive 12, shards 4/50, **Epic Chaos orbs 0/10**
 **World Eaters:** Macer · Rare · 829 · 5★, lvl 17, rank II, abilities 10/10, 12/40 shards · Wrask · Uncommon · 814 · 4★, lvl 16, rank II, abilities 11/12, 26/20 shards, orbs 8/10 (Rare)
 **Death Guard:** Maladus · Epic · 1,119 · lvl 17 · Corrodius · Rare · 1,173 · Rotbone · Epic · 1,259 · healer
 **Thousand Sons:** Toth · Uncommon · 556 · Yazaghor · Uncommon · 481
