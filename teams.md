@@ -125,18 +125,18 @@ You own 3 Aeldari. Thin team, but the kits fit together.
 | 1 | **Re'vas** | Tank / DPS | 6 hits both ways, drones + Overwatch |
 | 2 | **Aethana** | DPS (diver) + support | Move 5, line strike, buffs nearby allies |
 | 3 | **Archimatos** | DPS / summoner | Psychic ignores armour, daemons |
-| 4 | **Aleph-Null** | Summoner / sustain | Scarabs + repairs Re'vas (Mechanical) |
+| 4 | **Imospekh** | DPS (Overwatch) | 6 hits melee + ranged, Overwatch, regen. (Replaced Aleph-Null: Scarab Hive only fires as an attack on an enemy, low value.) |
 | 5 | **Sibyll** | Support + burst | Adjacent allies get Infiltrate + damage reduction; big psychic nuke |
 | Backup | Godswyl | Use if Uncommons aren't allowed. Stun + armour shred |
 
 **Why kit wins here:** at a rarity cap, everyone's stats are close. Summons, taunts and free actions decide fights. This team has **three summoners** (Re'vas, Archimatos, Aleph-Null). The enemy runs out of actions before you run out of bodies.
 
 **Game plan**
-1. **Turn 1 – wall.** Re'vas uses **Early Warning Override** to summon 2 drones and go into Overwatch. Aleph-Null goes next to him and uses **Scarab Hive**. The enemy now has 4 extra targets to chew through.
+1. **Turn 1 – wall.** Re'vas uses **Early Warning Override** to summon 2 drones and go into Overwatch. Imospekh sets up on **Overwatch** covering the approach (end his turn without attacking).
 2. **Turn 1 – buff.** Sibyll stands adjacent to Archimatos and Aethana. Nightshroud gives them Infiltrate (no Overwatch triggers) and damage reduction.
 3. **Turn 2 – dive.** Aethana uses **Swooping Hawk** through up to 3 enemies in a line. Keep allies near her for Path of Command.
 4. **Turn 2 – nuke.** Sibyll uses **Psychic Maelstrom** on the highest-value target. Archimatos uses **Daemonic Incursion**.
-5. Aleph-Null repairs Re'vas every turn.
+5. Imospekh stays on Overwatch until enemies are in range, then unloads 6 hits.
 
 ---
 
@@ -181,12 +181,12 @@ No team needed. Raiding a 3★ campaign battle is an **instant sweep**: it just 
 | Fall of Cadia / Chaos Onslaught (gives Xenos badges) | Haarken · Angrax · Maladus · Archimatos · Rotbone |
 | PvP (top 5, any faction) | Haarken · Lucien · Azrael · Tigurius · Imospekh |
 | Arena high tier | Same as PvP |
-| Arena low tier | Re'vas · Aethana · Archimatos · Aleph-Null · Sibyll |
+| Arena low tier | Re'vas · Aethana · Archimatos · Imospekh · Sibyll |
 | Battle 61 (3 slots) | Haarken · Angrax · Rotbone |
 | Indomitus / Imperial Onslaught (gives **Chaos** badges) | Azrael · Lucien · Tigurius · Certus · Bellator (Incisus swap) |
 | Indomitus Mirror (Necrons) | Imospekh · Thutmose · Makhotep · Aleph-Null |
 | Octarius (Orks) | Gulgortz · Snappawrecka · Snotflogga · Gibbascrapz |
 | Saim-Hann (Aeldari) | Aethana · Eldryon · Calandis |
 | Xenos Onslaught (gives Imperial badges; mixed Xenos if allowed) | Imospekh · Gulgortz · Makhotep · Thutmose · Aleph-Null |
-| Tournament (Common) | Re'vas · Aethana · Archimatos · Aleph-Null · Sibyll |
+| Tournament (Common) | Re'vas · Aethana · Archimatos · Imospekh · Sibyll |
 | Machine of War | Biovore |

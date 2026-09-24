@@ -212,7 +212,7 @@ _Built 2026-09-23 from [Fextralife Tacticus Wiki](https://warhammer40ktacticus.w
 
 **Aleph-Null** · base Uncommon · yours: Rare 1,368
 - Melee: Particle ×5 · Move 3 · Traits: Living Metal, Explodes, Mechanical, Flying, Mechanic
-- **Active – Scarab Hive:** summons 2 scarab swarms that attack right away.
+- **Active – Scarab Hive:** summons 2 scarab swarms that attack right away. **Must target an enemy** – can't be dropped as a free wall.
 - **Passive – Fabricator Claw Array:** repairs an adjacent mechanical ally each turn.
 - **Take:** Summons + repair. Good in the tournament team.
 
