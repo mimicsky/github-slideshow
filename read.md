@@ -88,7 +88,7 @@ Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator 
 **Mechanicus:** Exitor-Rho · Uncommon · 709 · 4★, lvl 17 capped for rarity, rank II, abilities 11/11, 37/20 shards, orbs 2/10
 **Genestealer Cults:** Xybia · Rare · 605 · 5★, lvl 26 capped for rarity, rank I, abilities 8/8, 0/40 shards, psychic melee + psychic ranged (range 2)
 **Necrons:** Imospekh · Epic · 2,839 · Thutmose · Epic · 2,264 · Makhotep · Rare · 1,968 · Aleph-Null · Rare · 1,368
-**Aeldari:** Eldryon · Epic · 1,272 · Aethana · Epic · 1,235 · lvl 19 · Calandis · Uncommon · 820 · 79/20 shards
+**Aeldari:** Eldryon · Epic · 1,272 · Aethana · Epic · 1,235 · lvl 19 · Calandis · Uncommon · 820 · 80/20 shards
 **T'au:** Re'vas · Uncommon · 539 · 4★, lvl 17 capped for rarity, rank I, abilities 11/10, 16/20 shards, orbs 0/10, flame melee + Pulse ranged (range 2)
 **Orks:** Gulgortz · Epic · 1,872 · Snappawrecka · Rare · 982 · +1 shard (arena crate) · Snotflogga · Rare · 903 · red 1★, lvl 25, rank II, abilities 8/10 · 65/50 shards · Epic Xenos orbs 4/10 · Gibbascrapz · Uncommon · 768 · 94/20 shards
 **Tyranids:** Winged Prime · Rare · 612 · lvl 25, rank I, abilities 9/8, 9/50 shards, orbs 1/10
