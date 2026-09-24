@@ -131,6 +131,10 @@ You own 3 Aeldari. Thin team, but the kits fit together.
 
 **Proven combo (2026-09-24):** Re'vas **Early Warning Override** + Imospekh **Overwatch** side by side = double Overwatch wall; enemies walking in get shredded by 12+ hits. **Vs Kariyan:** hit him at range (Parry only reduces melee), keep Re'vas (Big Target) away from him, don't feed him summons, overkill past his Resilient 1 HP.
 
+**Counters seen (2026-09-24):**
+- **Volk / Morvenn Vahl** (range 3) outrange your Overwatch (range 2) – they never walk in. Morvenn's missile blasts target + adjacent, punishing a clumped wall. → **Spread out** and **dive** them: Aethana (move 5, flying) onto Volk; Archimatos psychic at range 2.
+- **Khârn** heals his momentum on kills (bonus attack + move after each kill, less psychic damage per melee kill). Bloodletters = free kills for him. → **No summons near Khârn**; focus him at range before his first kill; Godswyl stun if you bring him.
+
 **Why kit wins here:** at a rarity cap, everyone's stats are close. Summons, taunts and free actions decide fights. This team has **three summoners** (Re'vas, Archimatos, Aleph-Null). The enemy runs out of actions before you run out of bodies.
 
 **Game plan**
