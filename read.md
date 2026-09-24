@@ -22,7 +22,7 @@ _Last updated: 2026-09-23_
 
 ## Priorities
 **Energy:** 1) Push new campaign battles → 2) Farm Haarken upgrades when stuck → 3) Celestine raids with leftovers.
-**Free modes (no energy):** Arena tokens, Onslaught tokens, Salvage Run. Never let tokens/energy sit full.
+**Free modes (no energy):** Arena tokens, **Tournament Arena tokens (12 max)**, Onslaught tokens, Salvage Run. Never let tokens/energy sit full.
 
 ## Current status
 - **Fall of Cadia:** next is **Battle 61** (3 deploy slots, enemy power 8,304). Battle 60 cleared (3★), raidable for Celestine shards.
@@ -42,6 +42,11 @@ _Last updated: 2026-09-23_
 **Ability badges:** Uncommon Chaos badges: **0** (spent on Angrax active → lvl 16). Archimatos active → lvl 15 (3 badges). Next target: Angrax **passive** – needs **5** uncommon Chaos badges. Have: 5 **common** Chaos badges (craft 1 uncommon, keep 2). Craft in Forge: 3 common + 1 token + 1,000 coins each. **To farm Chaos badges for Angrax, play the IMPERIAL Onslaught track.**
 
 **Saved:** 1 **Legendary Imperial orb** → hold for **Azrael** (your only Imperial Legendary). Celestine shards: **29/500**.
+
+**Guild War shop** (war credits, 10k on 2026-09-24; each guild raid boss killed = +1,000):
+- 🔥 **Uncommon ability badges draft: 3 for 385** → pick Chaos. Cheapest badges anywhere.
+- **MoW components draft: 10 for 515** (stock 3) → pick Xenos for Biovore.
+- Legendary shards (Dante/Mephiston/Trajann 20 for 3,600) = too slow (25 buys for 500). Skip unless near an unlock.
 
 **Watch the guild shop for:** Lucien shards (5 for 525 credits).
 
