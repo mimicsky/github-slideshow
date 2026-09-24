@@ -34,11 +34,11 @@ _Last updated: 2026-09-23_
 ## Shopping / resource queue
 **Guild shop orbs (in order):**
 1. **Angrax** – 7/10 rare Chaos orbs → buy last 3, then ascend
-2. **Snotflogga** – needs **Epic** Xenos orbs; +3 bought 2026-09-24 (check count)
-3. **Calandis** / **Gibbascrapz** – need 10 uncommon Xenos orbs each
-4. **Wrask** – needs 6 uncommon Chaos orbs (4/10; shards already 26/20)
-5. **Exitor-Rho** – needs 8 uncommon Imperial orbs (2/10; shards already 37/20). Beats Vindicta: Mechanicus team is forming (Actus 86/130, Vitruvius 150/500)
-6. **Vindicta** – needs 8 uncommon Imperial orbs
+1. **Snotflogga** – needs **Epic** Xenos orbs; +3 bought 2026-09-24 (check count)
+2. **Calandis** / **Gibbascrapz** – need 10 uncommon Xenos orbs each
+3. **Wrask** – needs 6 uncommon Chaos orbs (4/10; shards already 26/20)
+4. **Exitor-Rho** – needs 8 uncommon Imperial orbs (2/10; shards already 37/20). Beats Vindicta: Mechanicus team is forming (Actus 86/130, Vitruvius 150/500)
+5. **Vindicta** – needs 8 uncommon Imperial orbs
 
 **Ability badges:** Uncommon Chaos badges: **0** (spent on Angrax active → lvl 16). Archimatos active → lvl 15 (3 badges). Next target: Angrax **passive** – needs **5** uncommon Chaos badges. Have: 5 **common** Chaos badges (craft 1 uncommon, keep 2). Craft in Forge: 3 common + 1 token + 1,000 coins each. **To farm Chaos badges for Angrax, play the IMPERIAL Onslaught track.**
 
@@ -71,7 +71,7 @@ _Last updated: 2026-09-23_
 Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator are capped and wait on shards. Bellator replaces Tigurius once his power passes 4,533.
 
 ## Roster (unlocked) – Name · rarity · power · notes
-**Black Legion:** Haarken · Legendary · 12,795 · main carry, lvl 33 · Angrax · Rare · 2,412 · 84/50 shards, orbs 7/10, active (Bringer of Despair) lvl 16 · Archimatos · Rare · 1,714 · lvl 26, active ability 15, passive 12
+**Black Legion:** Haarken · Legendary · 12,795 · main carry, lvl 33 · Angrax · **Epic** · 2,549 · ascended 2026-09-24 · lvl 26 (348/5,500 XP), shards 34/65 (next star), both abilities lvl 16 · Archimatos · Rare · 1,714 · lvl 26, active ability 15, passive 12
 **World Eaters:** Macer · Rare · 829 · 5★, lvl 17, rank II, abilities 10/10, 12/40 shards · Wrask · Uncommon · 814 · 4★, lvl 16, rank II, abilities 11/12, 26/20 shards, orbs 4/10
 **Death Guard:** Maladus · Epic · 1,119 · lvl 17 · Corrodius · Rare · 1,173 · Rotbone · Epic · 1,259 · healer
 **Thousand Sons:** Toth · Uncommon · 556 · Yazaghor · Uncommon · 481
