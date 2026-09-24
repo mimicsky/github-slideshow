@@ -136,12 +136,12 @@ You own 3 Aeldari. Thin team, but the kits fit together.
 - **Khârn** heals his momentum on kills (bonus attack + move after each kill, less psychic damage per melee kill). Bloodletters = free kills for him. → **No summons near Khârn**; focus him at range before his first kill; Godswyl stun if you bring him.
 
 **Blind pick – you can't see the enemy before locking in.** So run one balanced team:
-**Archimatos · Sibyll · Re'vas · Thutmose · Aethana**
+**Archimatos · Sibyll · Re'vas · Thutmose · Imospekh** (Aethana cut 2026-09-24: dives in, low damage, gets one-shot)
 - vs **walk-in melee:** Re'vas Overwatch + drones.
-- vs **long range:** Aethana dives (move 5, flying), Thutmose flies too.
+- vs **long range:** Thutmose flies onto them; Archimatos/Sibyll psychic at range 2.
 - vs **tanks:** Archimatos + Sibyll psychic and Thutmose direct damage all **ignore armour** (armour is subtracted per hit, so many small hits like Imospekh's fall off vs tanks).
 - vs **Khârn/Kariyan:** hold Archimatos's summons, focus them at range.
-- Imospekh = swap back in if you're losing mostly to melee rushes.
+- vs **melee rush:** Re'vas + Imospekh double Overwatch (proven).
 
 **Why kit wins here:** at a rarity cap, everyone's stats are close. Summons, taunts and free actions decide fights. This team has **three summoners** (Re'vas, Archimatos, Aleph-Null). The enemy runs out of actions before you run out of bodies.
 
