@@ -6,8 +6,7 @@ _Updated 2026-09-23 · Mission level 26 (285/550 XP). Changes a lot, so it lives
 1. **Arena ×4 with an ALL-IMPERIAL team** (Lucien · Azrael · Tigurius · Certus · Bellator).
    Counts toward Know No Fear "Play 4 Arena" and "win with all-Imperial" (every win).
 2. **Imperial Onslaught** tokens → all-Imperial wins for Know No Fear **and** Chaos badges **and** Lucien commends.
-3. **Bring Galatian as your Machine of War** in those Imperial arena fights. He needs **21 damage** (25 shards, 5 Imperial badges, 5 MoW parts). **How:** mark the hexes **right next to your front-liner (Azrael)**. Melee enemies have to end their move there to hit him, so they walk into it. Or use his **primary** to drop Galatian himself onto the field near enemies.
-4. **Use Wrask** in Chaos fights until he's dealt 1,376 more damage (25 Wrask shards + 5 Chaos badges).
+3. **Use Wrask** in Chaos fights until he's dealt 1,376 more damage (25 Wrask shards + 5 Chaos badges).
 
 ## 🎯 Deploy lists (Onslaught lets you deploy anyone)
 **Chaos track** (gives Xenos badges – needed for the Ork/Aeldari/Necron missions):
@@ -16,7 +15,7 @@ Haarken (carry) · Archimatos · **Yazaghor** (use active on Archimatos) · **To
 
 **Imperial track** (gives Chaos badges + all-Imperial wins for Know No Fear):
 Lucien (commend) · Azrael · Tigurius + fillers **Cezare · Sibyll · Kut · Nubari** (keep Nubari alive).
-→ Galatian as MoW until his 21 damage is done.
+→ Storm Speeder as MoW (its 1,000-damage mission is next).
 
 **Rule:** carries take the fight, mission units **last-hit** low enemies and **fire their active every battle**.
 
@@ -64,7 +63,6 @@ Lucien (commend) · Azrael · Tigurius + fillers **Cezare · Sibyll · Kut · Nu
 ## Character / Machine of War missions
 | Mission | Needs | Progress | Reward | Plan |
 |---|---|---|---|---|
-| **Galatian 3/3** | 1,000 dmg with Galatian | **979/1,000** | 25 Galatian shards, 5 Imperial badges, 5 MoW parts, 50 XP | 🔥 One use. Bring him in an Imperial fight |
 | **Wrask 3/3** | 4,000 dmg with Wrask | 2,624/4,000 | 25 Wrask shards, 5 Chaos badges, 50 XP | Swap Wrask in for Maladus in easy Chaos fights |
 | **Storm Speeder 3/3** | 1,000 dmg with Storm Speeder | 3/1,000 | 25 shards, 5 Imperial badges, 5 MoW parts, 50 XP | After Galatian's done, use it as the Imperial MoW |
 | **Exorcist 3/3** | 1,000 dmg with Exorcist | 0/1,000 | Same as above | After Storm Speeder |
