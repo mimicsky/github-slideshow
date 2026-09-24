@@ -73,7 +73,7 @@ _Last updated: 2026-09-23_
 Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator are capped and wait on shards. Bellator replaces Tigurius once his power passes 4,533.
 
 ## Roster (unlocked) – Name · rarity · power · notes
-**Black Legion:** Haarken · Legendary · 12,795 · main carry, lvl 33 · Angrax · **Epic** · **2,822** · lvl 26 (348/5,500 XP), shards 34/65, active 16, **passive 22** · Archimatos · Rare · **1,935** · red 1★ (promoted 2026-09-24), lvl 26 capped, active 15, passive 12, shards 4/50, **Epic Chaos orbs 0/10**
+**Black Legion:** Haarken · Legendary · **13,678** · main carry, lvl 34, rank III, 4 red★, abilities 30/26, shards 10/250, orbs 3/15; 2 upgrade slots left (yellow +) · Angrax · **Epic** · **2,822** · lvl 26 (348/5,500 XP), shards 34/65, active 16, **passive 22** · Archimatos · Rare · **1,935** · red 1★ (promoted 2026-09-24), lvl 26 capped, active 15, passive 12, shards 4/50, **Epic Chaos orbs 0/10**
 **World Eaters:** Macer · Rare · 829 · 5★, lvl 17, rank II, abilities 10/10, 12/40 shards · Wrask · Uncommon · 814 · 4★, lvl 16, rank II, abilities 11/12, 26/20 shards, orbs 8/10 (Rare)
 **Death Guard:** Maladus · Epic · 1,119 · lvl 17 · Corrodius · Rare · 1,173 · Rotbone · Epic · 1,259 · healer
 **Thousand Sons:** Toth · Uncommon · 556 · Yazaghor · Uncommon · 481
