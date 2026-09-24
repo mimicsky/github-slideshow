@@ -90,7 +90,7 @@ Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator 
 **Necrons:** Imospekh · Epic · 2,839 · Thutmose · Epic · 2,264 · Makhotep · Rare · 1,968 · Aleph-Null · Rare · 1,368
 **Aeldari:** Eldryon · Epic · 1,272 · Aethana · Epic · 1,235 · lvl 19 · Calandis · Uncommon · 820 · 81/20 shards
 **T'au:** Re'vas · Uncommon · 539 · 4★, lvl 17 capped for rarity, rank I, abilities 11/10, 16/20 shards, orbs 0/10, flame melee + Pulse ranged (range 2)
-**Orks:** Gulgortz · Epic · 1,872 · 15/100 shards · Snappawrecka · Rare · 982 · +1 shard (arena crate) · Snotflogga · Rare · 903 · red 1★, lvl 25, rank II, abilities 8/10 · 65/50 shards · Epic Xenos orbs 4/10 · Gibbascrapz · Uncommon · 768 · 94/20 shards
+**Orks:** Gulgortz · Epic · 1,872 · 15/100 shards · Snappawrecka · Rare · 982 · +1 shard (arena crate) · Snotflogga · Rare · 903 · red 1★, lvl 25, rank II, abilities 8/10 · 69/50 shards · Epic Xenos orbs 4/10 · Gibbascrapz · Uncommon · 768 · 94/20 shards
 **Tyranids:** Winged Prime · Rare · 612 · lvl 25, rank I, abilities 9/8, 9/50 shards, orbs 1/10
 **Machines of War:** **Biovore** · Common · 82 · 2★, MAIN MoW (PvE + PvP), primary lvl 1 / secondary lvl 4, 8/15 shards, orbs 18/10, needs 3/5 plates + 0/1 item for next primary upgrade · Storm Speeder · Common · 64 · 2★, Dark Angels, 0/15 shards · Galatian · **Uncommon** · 130 · 2★, abilities 4/4, 4/15 shards · Forgefiend · Common · 50 · Exorcist · Common · 55
 
