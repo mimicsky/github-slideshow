@@ -143,6 +143,8 @@ You own 3 Aeldari. Thin team, but the kits fit together.
 - vs **Khârn/Kariyan:** hold Archimatos's summons, focus them at range.
 - vs **melee rush:** Re'vas + Imospekh double Overwatch (proven).
 
+**Result 2026-09-25:** rating 8 → 40, final crate Tier 1. Lesson: the cap flattens stats, **not kits** – whales' Legendary kits still win. Real fix is long-term: unlock strong kits (Actus, Anuphet, event Legendaries).
+
 **Why kit wins here:** at a rarity cap, everyone's stats are close. Summons, taunts and free actions decide fights. This team has **three summoners** (Re'vas, Archimatos, Aleph-Null). The enemy runs out of actions before you run out of bodies.
 
 **Game plan**
