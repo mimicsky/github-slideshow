@@ -1,19 +1,17 @@
 # Tacticus Missions
 
-_Updated 2026-09-23 · Mission level 26 (285/550 XP). Changes a lot, so it lives apart from `read.md`._
+_Updated 2026-09-25 · Mission level 26 (285/550 XP). Changes a lot, so it lives apart from `read.md`._
 
 ## 🔥 Do now (cheap, overlapping)
-1. **Arena ×4 with an ALL-IMPERIAL team** (Lucien · Azrael · Tigurius · Certus · Bellator).
-   Counts toward Know No Fear "Play 4 Arena" and "win with all-Imperial" (every win).
-2. **Imperial Onslaught** tokens → all-Imperial wins for Know No Fear **and** Chaos badges **and** Lucien commends.
-3. **Use Wrask** in Chaos fights until he's dealt 1,376 more damage (25 Wrask shards + 5 Chaos badges).
+1. **Imperial Onslaught** tokens → Chaos badges + Lucien commends.
+2. **Use Wrask** in Chaos fights until he's dealt 1,376 more damage (25 Wrask shards + 5 Chaos badges).
 
 ## 🎯 Deploy lists (Onslaught lets you deploy anyone)
 **Chaos track** (gives Xenos badges – needed for the Ork/Aeldari/Necron missions):
 Haarken (carry) · Archimatos · **Yazaghor** (use active on Archimatos) · **Toth** · **Wrask** · Rotbone.
 → progresses Yazaghor, Toth, Wrask, Rotbone missions → **up to 10 Chaos badges** for Angrax's passive.
 
-**Imperial track** (gives Chaos badges + all-Imperial wins for Know No Fear):
+**Imperial track** (gives Chaos badges):
 Lucien (commend) · Azrael · Tigurius + fillers **Cezare · Sibyll · Kut · Nubari** (keep Nubari alive).
 → Storm Speeder as MoW (its 1,000-damage mission is next).
 
@@ -22,8 +20,6 @@ Lucien (commend) · Azrael · Tigurius + fillers **Cezare · Sibyll · Kut · Nu
 ## Timed
 | Mission | Needs | Progress | Time left | Reward |
 |---|---|---|---|---|
-| **Know No Fear 10/20** | Win 15 battles with an all-Imperial lineup | 3/15 | **3d 0h** | 100 seals, 20 mission XP |
-| | Play 4 Arena battles | 2/4 | | |
 
 ## Campaign missions
 | Mission | Step | Progress | Plan |
