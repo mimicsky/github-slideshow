@@ -4,12 +4,11 @@ _Updated 2026-09-25 · Mission level 27 (5/575). Changes a lot, so it lives apar
 
 ## 🔥 Do now (cheap, overlapping)
 1. **Imperial Onslaught** tokens → Chaos badges + Lucien commends.
-2. **Use Wrask** in Chaos fights until he's dealt 1,376 more damage (25 Wrask shards + 5 Chaos badges).
 
 ## 🎯 Deploy lists (Onslaught lets you deploy anyone)
 **Chaos track** (gives Xenos badges – needed for the Ork/Aeldari/Necron missions):
-Haarken (carry) · Archimatos · **Yazaghor** (use active on Archimatos) · **Toth** · **Wrask** · Rotbone.
-→ progresses Yazaghor, Toth, Wrask, Rotbone missions → **up to 10 Chaos badges** for Angrax's passive.
+Haarken (carry) · Archimatos · **Yazaghor** (use active on Archimatos) · **Toth** · Rotbone.
+→ progresses Yazaghor, Toth, Rotbone missions → **up to 7 Chaos badges** for Angrax's active.
 
 **Imperial track** (gives Chaos badges):
 Lucien (commend) · Azrael · Tigurius + fillers **Cezare · Sibyll · Kut · Nubari** (keep Nubari alive).
@@ -61,7 +60,6 @@ Lucien (commend) · Azrael · Tigurius + fillers **Cezare · Sibyll · Kut · Nu
 ## Character / Machine of War missions
 | Mission | Needs | Progress | Reward | Plan |
 |---|---|---|---|---|
-| **Wrask 3/3** | 4,000 dmg with Wrask | 3,030/4,000 | 25 Wrask shards, 5 Chaos badges, 50 XP | Swap Wrask in for Maladus in easy Chaos fights |
 | **Storm Speeder 3/3** | 1,000 dmg with Storm Speeder | 187/1,000 | 25 shards, 5 Imperial badges, 5 MoW parts, 50 XP | Imperial MoW now |
 | **Exorcist 3/3** | 1,000 dmg with Exorcist | 22/1,000 | Same as above | After Storm Speeder |
 | **Cezare 2/3** | 50 kills · 10 ability uses | 25/50 · 4/10 | 15 shards, 3 Imperial badges, 30 XP | Imperial filler |
