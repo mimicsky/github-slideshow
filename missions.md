@@ -1,6 +1,6 @@
 # Tacticus Missions
 
-_Updated 2026-09-25 · Mission level 26 (285/550 XP). Changes a lot, so it lives apart from `read.md`._
+_Updated 2026-09-25 · Mission level 26 (525/550 XP – almost a level-up chest). Changes a lot, so it lives apart from `read.md`._
 
 ## 🔥 Do now (cheap, overlapping)
 1. **Imperial Onslaught** tokens → Chaos badges + Lucien commends.
@@ -20,13 +20,15 @@ Lucien (commend) · Azrael · Tigurius + fillers **Cezare · Sibyll · Kut · Nu
 ## Timed
 | Mission | Needs | Progress | Time left | Reward |
 |---|---|---|---|---|
+| **Know No Fear 11/20** | Win 25 Lightning victories | 0/25 | **1d 4h** | 100 seals, 20 XP |
+| | Defeat 100 Necron units | 0/100 | | (Indomitus/Indomitus Elite enemies are Necrons – raids may count) |
 
 ## Campaign missions
 | Mission | Step | Progress | Plan |
 |---|---|---|---|
 | **Fall of Cadia 6/6** | 3 Black Legion at **Bronze Rank III+** | 1/3 (Haarken) | Long term: needs Angrax + Archimatos ranked up |
 | | 3 Black Legion at XP level 25+ | ✅ 3/3 | |
-| | Beat Battle 75 | 61/75 | Push with energy (main Chaos team) |
+| | Beat Battle 75 | 66/75 | Push with energy (main Chaos team) |
 | | _Reward:_ 25 shards, 1 Legendary Imperial orb, 5 common Chaos badges, 100 XP | | |
 | **Octarius 5/6** | 3 Orks at **Bronze Rank I+** | 0/3 | Long term |
 | | 3 Orks with an ability at 15+ | 0/3 | Needs Xenos badges (Chaos Onslaught track) |
