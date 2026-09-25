@@ -11,6 +11,7 @@ _Last updated: 2026-09-23_
 ## Game facts learned (don't repeat mistakes)
 - **Level does NOT raise stats.** Stats come from **rank** (upgrade slots) and **stars**. Level only raises the ability-level cap.
 - Yellow **+** on an upgrade slot = farmable, NOT ready. **Green** = ready to equip.
+- **Collection tab badge (bottom nav):** yellow number = farmable upgrades available; **green** = you have items/badges ready to spend on someone. Green on an ability = badges ready.
 - Raids have a **Mercy system** (odds rise after each miss).
 - "Random unit shards" missions are random – don't plan around them. A circle with no character picture usually means this.
 - Guild shop orbs are "Draft" = you pick the alliance. Guild shop resets daily and can have character shards, orbs, equipment. Alex's clan is strong, so shop currency stacks fast.
