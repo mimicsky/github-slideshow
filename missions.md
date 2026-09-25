@@ -61,14 +61,15 @@ Lucien (commend) · Azrael · Tigurius + fillers **Cezare · Sibyll · Kut · Nu
 ## Character / Machine of War missions
 | Mission | Needs | Progress | Reward | Plan |
 |---|---|---|---|---|
-| **Wrask 3/3** | 4,000 dmg with Wrask | 2,624/4,000 | 25 Wrask shards, 5 Chaos badges, 50 XP | Swap Wrask in for Maladus in easy Chaos fights |
-| **Storm Speeder 3/3** | 1,000 dmg with Storm Speeder | 3/1,000 | 25 shards, 5 Imperial badges, 5 MoW parts, 50 XP | After Galatian's done, use it as the Imperial MoW |
-| **Exorcist 3/3** | 1,000 dmg with Exorcist | 0/1,000 | Same as above | After Storm Speeder |
-| **Cezare 2/3** | 50 kills · 10 ability uses | 7/50 · 1/10 | 15 shards, 3 Imperial badges, 30 XP | Imperial filler |
-| **Sibyll 2/3** | 50 kills · 10 ability uses | 6/50 · 2/10 | 15 shards, 3 Imperial badges, 30 XP | Imperial filler |
-| **Kut Skoden 2/3** | 50 kills · 10 ability uses | 6/50 · 2/10 | 15 shards, 3 Imperial badges, 30 XP | Imperial filler (36/40 shards → next star) |
+| **Wrask 3/3** | 4,000 dmg with Wrask | 3,030/4,000 | 25 Wrask shards, 5 Chaos badges, 50 XP | Swap Wrask in for Maladus in easy Chaos fights |
+| **Storm Speeder 3/3** | 1,000 dmg with Storm Speeder | 187/1,000 | 25 shards, 5 Imperial badges, 5 MoW parts, 50 XP | Imperial MoW now |
+| **Exorcist 3/3** | 1,000 dmg with Exorcist | 22/1,000 | Same as above | After Storm Speeder |
+| **Cezare 2/3** | 50 kills · 10 ability uses | 25/50 · 4/10 | 15 shards, 3 Imperial badges, 30 XP | Imperial filler |
+| **Sibyll 2/3** | 50 kills · 10 ability uses | 27/50 · 8/10 | 15 shards, 3 Imperial badges, 30 XP | Imperial filler |
+| **Kut Skoden 2/3** | 50 kills · 10 ability uses | 31/50 · ✅ 10/10 | 15 shards, 3 Imperial badges, 30 XP | Imperial filler (36/40 shards → next star) |
+| **Godswyl 3/3** | 3,000 dmg with Godswyl | 75/3,000 | 25 shards, 5 Imperial badges, 50 XP | Tournament backup; slow |
 | **Nubari 1/3** | Win 5 with Nubari alive · 5 Arena | 2/5 · ✅ 5/5 | 10 shards, 2 Imperial badges, 20 XP | Keep him in the back line |
-| **Winged Prime 2/3** | 50 kills · 10 ability uses | 0/50 · 2/10 | 15 shards, 3 Xenos badges, 30 XP | Low priority |
+| **Winged Prime 2/3** | 50 kills · 10 ability uses | 1/50 · 2/10 | 15 shards, 3 Xenos badges, 30 XP | Low priority |
 | **Yazaghor 2/3** | 50 kills · 10 ability uses | **42/50** · 0/10 | 15 shards, **3 Chaos badges**, 30 XP | His active needs a friendly **psyker** → deploy with **Archimatos** and use it every fight |
 | **Toth 2/3** | 50 kills · 10 ability uses | **35/50** · ✅ 10/10 | 15 shards, **3 Chaos badges**, 30 XP | Only kills left |
 | **Rotbone 2/3** | 50 kills · 10 ability uses | **37/50** · ✅ 10/10 | 3 shards, 1 Chaos badge, 30 XP | Already in main team – happens naturally |
