@@ -33,10 +33,9 @@ _Last updated: 2026-09-23_
 
 ## Shopping / resource queue
 **Guild shop orbs (in order):**
-0. **Archimatos** – 0/10 **Epic Chaos** orbs (Epic draft ×3 for 1,485; ~4 buys over several days) + his shards (Archimatos ×5 for 525 in guild shop). Main-team unit → top priority.
-1. **Snotflogga** – **4/10 Epic Xenos** orbs, shards 65/50 ready → 2 more Epic drafts (Xenos) → ascend. Closer than Archimatos (he also needs 46 shards).
+0. **Archimatos** – 3/10 **Epic Chaos** orbs, 14/50 shards (Epic draft ×3 for 1,485; ~4 buys over several days) + his shards (Archimatos ×5 for 525 in guild shop). Main-team unit → top priority.
+1. **Snotflogga** – **7/10 Epic Xenos** orbs, shards 65/50 ready → 2 more Epic drafts (Xenos) → ascend. Closer than Archimatos (he also needs 46 shards).
 2. **Calandis** / **Gibbascrapz** – need 10 Xenos orbs each (likely **Rare** – Uncommon→Rare; you have Rare Xenos from 2026-09-24, check orb icon)
-3. **Wrask** – **8/10 Rare Chaos orbs** (confirmed), shards 26/20 ready → 1 Rare Orbs draft (Chaos) at next guild-shop reset → ascend
 4. **Exitor-Rho** – needs 8 uncommon Imperial orbs (2/10; shards already 37/20). Beats Vindicta: Mechanicus team is forming (Actus 86/130, Vitruvius 150/500)
 5. **Vindicta** – needs 8 uncommon Imperial orbs
 
@@ -49,7 +48,7 @@ _Last updated: 2026-09-23_
 - **MoW components draft: 10 for 515** (stock 3) → pick Xenos for Biovore.
 - Legendary shards (Dante/Mephiston/Trajann 20 for 3,600) = too slow (25 buys for 500). Skip unless near an unlock.
 
-**Daily Guild shop routine:** Epic Orbs draft ×2 → 1 Xenos (Snotflogga) + 1 Chaos (Archimatos) · Rare Orbs draft → Chaos (Wrask, once) · Archimatos ×5 if stocked.
+**Daily Guild shop routine:** Epic Orbs draft ×2 → 1 Xenos (Snotflogga) + 1 Chaos (Archimatos) · Archimatos ×5 if stocked.
 
 **Watch the guild shop for:** Lucien shards (5 for 525 credits).
 
@@ -73,8 +72,8 @@ _Last updated: 2026-09-23_
 Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator are capped and wait on shards. Bellator replaces Tigurius once his power passes 4,533.
 
 ## Roster (unlocked) – Name · rarity · power · notes
-**Black Legion:** Haarken · Legendary · **13,678** · main carry, lvl 34, rank III, 4 red★, abilities 30/26, shards 10/250, orbs 3/15; 2 upgrade slots left (yellow +) · Angrax · **Epic** · **2,822** · lvl 26 (348/5,500 XP), shards 34/65, active 16, **passive 22** · Archimatos · Rare · **1,935** · red 1★ (promoted 2026-09-24), lvl 26 capped, active 15, passive 12, shards 4/50, **Epic Chaos orbs 0/10**
-**World Eaters:** Macer · Rare · 829 · 5★, lvl 17, rank II, abilities 10/10, 12/40 shards · Wrask · Uncommon · 814 · 4★, lvl 16, rank II, abilities 11/12, 26/20 shards, orbs 8/10 (Rare)
+**Black Legion:** Haarken · Legendary · **13,678** · main carry, lvl 34, rank III, 4 red★, abilities 30/26, shards 10/250, orbs 3/15; 2 upgrade slots left (yellow +) · Angrax · **Epic** · **2,822** · lvl 26 (348/5,500 XP), shards 34/65, active 16, **passive 22** · Archimatos · Rare · **1,935** · red 1★ (promoted 2026-09-24), lvl 26 capped, active 15, passive 12, shards 14/50, **Epic Chaos orbs 3/10**
+**World Eaters:** Macer · Rare · 829 · 5★, lvl 17, rank II, abilities 10/10, 12/40 shards · Wrask · **Rare** (ascended 2026-09-24) · 814+ · 4★, lvl 16, rank II, abilities 11/12, 26/20 shards, orbs 8/10 (Rare)
 **Death Guard:** Maladus · Epic · 1,119 · lvl 17 · Corrodius · Rare · 1,173 · Rotbone · Epic · 1,259 · healer
 **Thousand Sons:** Toth · Uncommon · 556 · Yazaghor · Uncommon · 481
 **Blood Angels:** Lucien · Rare · 6,420 · capped, 30/50 shards · Cezare · Uncommon · 636 · 3★, lvl 17 capped for rarity, rank II, abilities 10/11, 7/15 shards
@@ -90,7 +89,7 @@ Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator 
 **Necrons:** Imospekh · Epic · 2,839 · Thutmose · Epic · 2,264 · Makhotep · Rare · 1,968 · Aleph-Null · Rare · 1,368
 **Aeldari:** Eldryon · Epic · 1,272 · Aethana · Epic · 1,235 · lvl 19 · Calandis · Uncommon · 820 · 81/20 shards
 **T'au:** Re'vas · Uncommon · 539 · 4★, lvl 17 capped for rarity, rank I, abilities 11/10, 16/20 shards, orbs 0/10, flame melee + Pulse ranged (range 2)
-**Orks:** Gulgortz · Epic · 1,872 · 15/100 shards · Snappawrecka · Rare · 982 · +1 shard (arena crate) · Snotflogga · Rare · 903 · red 1★, lvl 25, rank II, abilities 8/10 · 69/50 shards · Epic Xenos orbs 4/10 · Gibbascrapz · Uncommon · 768 · 94/20 shards
+**Orks:** Gulgortz · Epic · 1,872 · 15/100 shards · Snappawrecka · Rare · 982 · +1 shard (arena crate) · Snotflogga · Rare · 903 · red 1★, lvl 25, rank II, abilities 8/10 · 69/50 shards · Epic Xenos orbs 7/10 · Gibbascrapz · Uncommon · 768 · 94/20 shards
 **Tyranids:** Winged Prime · Rare · 612 · lvl 25, rank I, abilities 9/8, 9/50 shards, orbs 1/10
 **Machines of War:** **Biovore** · Common · 82 · 2★, MAIN MoW (PvE + PvP), primary lvl 1 / secondary lvl 4, 8/15 shards, orbs 18/10, needs 3/5 plates + 0/1 item for next primary upgrade · Storm Speeder · Common · 64 · 2★, Dark Angels, 0/15 shards · Galatian · **Uncommon** · 130 · 2★, abilities 4/4, 4/15 shards · Forgefiend · Common · 50 · Exorcist · Common · 55
 
