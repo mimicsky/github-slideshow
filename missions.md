@@ -1,6 +1,6 @@
 # Tacticus Missions
 
-_Updated 2026-09-25 · Mission level 26 (525/550 XP – almost a level-up chest). Changes a lot, so it lives apart from `read.md`._
+_Updated 2026-09-25 · Mission level 27 (5/575). Changes a lot, so it lives apart from `read.md`._
 
 ## 🔥 Do now (cheap, overlapping)
 1. **Imperial Onslaught** tokens → Chaos badges + Lucien commends.
@@ -67,7 +67,8 @@ Lucien (commend) · Azrael · Tigurius + fillers **Cezare · Sibyll · Kut · Nu
 | **Cezare 2/3** | 50 kills · 10 ability uses | 25/50 · 4/10 | 15 shards, 3 Imperial badges, 30 XP | Imperial filler |
 | **Sibyll 2/3** | 50 kills · 10 ability uses | 27/50 · 8/10 | 15 shards, 3 Imperial badges, 30 XP | Imperial filler |
 | **Kut Skoden 2/3** | 50 kills · 10 ability uses | 31/50 · ✅ 10/10 | 15 shards, 3 Imperial badges, 30 XP | Imperial filler (36/40 shards → next star) |
-| **Godswyl 3/3** | 3,000 dmg with Godswyl | 75/3,000 | 25 shards, 5 Imperial badges, 50 XP | Tournament backup; slow |
+| **Godswyl 3/3** | 3,000 dmg with Godswyl | 332/3,000 | 25 shards, 5 Imperial badges, 50 XP | Tournament backup; slow |
+| **Tjark 3/3** | 3,000 dmg with Tjark | 0/3,000 | 25 shards, 5 Imperial badges, 50 XP | Use him in Imperial Onslaught (he's decent) |
 | **Isabella 2/3** | 50 kills · 10 ability uses | 27/50 · ✅ 10/10 | 3 shards, 1 Imperial badge, 30 XP | Imperial filler |
 | **Xybia 1/3** | Win 5 with Xybia alive · 5 Arena | 3/5 · ✅ 5/5 | 2 shards, 1 Xenos badge, 20 XP | 2 wins – Xenos Onslaught, keep her back |
 | **Nubari 1/3** | Win 5 with Nubari alive · 5 Arena | 2/5 · ✅ 5/5 | 10 shards, 2 Imperial badges, 20 XP | Keep him in the back line |
