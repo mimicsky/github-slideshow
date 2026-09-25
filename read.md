@@ -73,8 +73,7 @@ Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator 
 
 ## Roster (unlocked) – Name · rarity · power · notes
 **Black Legion:** Haarken · Legendary · **13,678** · main carry, lvl 34, rank III, 4 red★, abilities 30/26, shards 15/250, orbs 3/15; 2 upgrade slots left (yellow +) · Angrax · **Epic** · **2,822** · lvl 26 (348/5,500 XP), shards 34/65, active 16, **passive 22** · Archimatos · Rare · **1,935** · red 1★ (promoted 2026-09-24), lvl 26 capped, active 15, passive 12, shards 14/50, **Epic Chaos orbs 3/10**
-**World Eaters:** Macer · Rare · 829 · 5★, lvl 17, rank II, abilities 10/10, 12/40 shards · Wrask · **Rare** (ascended 2026-09-24) · 814+ · 4★, lvl 16, rank II, abilities 11/12, 26/20 shards, orbs 8/10 (Rare)
-**Death Guard:** Maladus · Epic · 1,119 · lvl 17 · Corrodius · Rare · 1,173 · Rotbone · Epic · 1,259 · healer
+**World Eaters:** Macer · Rare · 829 · 5★, lvl 17, rank II, abilities 10/10, 12/40 shards · Wrask · **Rare** · **977** · **5★** (2026-09-25), lvl 16, rank II, abilities 11/12, shards 1/40· Rare · 1,173 · Rotbone · Epic · 1,259 · healer
 **Thousand Sons:** Toth · Uncommon · 556 · Yazaghor · Uncommon · 481
 **Blood Angels:** Lucien · Rare · 6,420 · capped, 30/50 shards · Cezare · Uncommon · 706 · **4★** (promo code 2026-09-25), lvl 17 capped, rank II, abilities 10/11, 2/20 shards, Rare Imperial orbs 2/10
 **Dark Angels:** Azrael · Legendary · 4,596 · rank I, lvl 29
