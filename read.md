@@ -34,10 +34,10 @@ _Last updated: 2026-09-23_
 
 ## Shopping / resource queue
 **Guild shop orbs (in order):**
-0. **Archimatos** – 3/10 **Epic Chaos** orbs, 14/50 shards (Epic draft ×3 for 1,485; ~4 buys over several days) + his shards (Archimatos ×5 for 525 in guild shop). Main-team unit → top priority.
+1. **Archimatos** – 3/10 **Epic Chaos** orbs, 14/50 shards (Epic draft ×3 for 1,485; ~4 buys over several days) + his shards (Archimatos ×5 for 525 in guild shop). Main-team unit → top priority.
 2. **Calandis** / **Gibbascrapz** – need 10 Xenos orbs each (likely **Rare** – Uncommon→Rare; you have Rare Xenos from 2026-09-24, check orb icon)
-4. **Exitor-Rho** – needs 8 uncommon Imperial orbs (2/10; shards already 37/20). Beats Vindicta: Mechanicus team is forming (Actus 86/130, Vitruvius 150/500)
-5. **Vindicta** – needs 8 uncommon Imperial orbs
+3. **Exitor-Rho** – needs 8 uncommon Imperial orbs (2/10; shards already 37/20). Beats Vindicta: Mechanicus team is forming (Actus 86/130, Vitruvius 150/500)
+4. **Vindicta** – needs 8 uncommon Imperial orbs
 
 **Ability badges:** Chaos uncommon + rare badges spent on Angrax passive 16→22 (2026-09-24). Angrax both abilities 22 = capped by his level (26). Next Chaos badges → Archimatos or Haarken passive. (spent on Angrax active → lvl 16). Archimatos active → lvl 15 (3 badges). Next target: Angrax **passive** – needs **5** uncommon Chaos badges. Have: 5 **common** Chaos badges (craft 1 uncommon, keep 2). Craft in Forge: 3 common + 1 token + 1,000 coins each. **To farm Chaos badges for Angrax, play the IMPERIAL Onslaught track.**
 
@@ -88,7 +88,7 @@ Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator 
 **Necrons:** Imospekh · Epic · 2,839 · Thutmose · Epic · 2,264 · Makhotep · Rare · 1,968 · Aleph-Null · Rare · 1,368
 **Aeldari:** Eldryon · Epic · 1,272 · Aethana · Epic · 1,235 · lvl 19 · Calandis · Uncommon · 820 · 81/20 shards
 **T'au:** Re'vas · Uncommon · 539 · 4★, lvl 17 capped for rarity, rank I, abilities 11/10, 16/20 shards, orbs 0/10, flame melee + Pulse ranged (range 2)
-**Orks:** Gulgortz · Epic · 1,872 · 15/100 shards · Snappawrecka · Rare · 982 · +1 shard (arena crate) · Snotflogga · Rare · 903 · red 1★, lvl 25, rank II, abilities 8/10 · 69/50 shards · Epic Xenos orbs 7/10 · Gibbascrapz · Uncommon · 768 · 94/20 shards
+**Orks:** Gulgortz · Epic · 1,872 · 15/100 shards · Snappawrecka · Rare · 982 · +1 shard (arena crate) · Snotflogga · **Epic** · 971 · ascended 2026-09-26, lvl 26, rank II, abilities 8/10, shards 23/65 · Gibbascrapz · Uncommon · 768 · 94/20 shards
 **Tyranids:** Winged Prime · Rare · 612 · lvl 25, rank I, abilities 9/8, 9/50 shards, orbs 1/10
 **Machines of War:** **Biovore** · Common · 82 · 2★, MAIN MoW (PvE + PvP), primary lvl 1 / secondary lvl 4, 8/15 shards, orbs 18/10, needs 3/5 plates + 0/1 item for next primary upgrade · Storm Speeder · Common · 64 · 2★, Dark Angels, 0/15 shards · Galatian · **Uncommon** · 130 · 2★, abilities 4/4, 4/15 shards · Forgefiend · Common · 50 · Exorcist · Common · 55
 
