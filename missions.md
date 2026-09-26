@@ -25,7 +25,7 @@ Lucien (commend) · Azrael · Tigurius + fillers **Cezare · Sibyll · Kut · Nu
 ## Campaign missions
 | Mission | Step | Progress | Plan |
 |---|---|---|---|
-| **Fall of Cadia 6/6** | 3 Black Legion at **Bronze Rank III+** | 1/3 (Haarken) | Long term: needs Angrax + Archimatos ranked up |
+| **Fall of Cadia 6/6** | 3 Black Legion at **Bronze Rank III+** | 1/3 (Haarken, now Silver) | Long term: needs Angrax + Archimatos ranked up |
 | | 3 Black Legion at XP level 25+ | ✅ 3/3 | |
 | | Beat Battle 75 | 66/75 | Push with energy (main Chaos team) |
 | | _Reward:_ 25 shards, 1 Legendary Imperial orb, 5 common Chaos badges, 100 XP | | |

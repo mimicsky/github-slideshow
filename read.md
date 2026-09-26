@@ -72,7 +72,7 @@ _Last updated: 2026-09-23_
 Imperial upgrade order: **Azrael first, then Certus.** Lucien/Tigurius/Bellator are capped and wait on shards. Bellator replaces Tigurius once his power passes 4,533.
 
 ## Roster (unlocked) – Name · rarity · power · notes
-**Black Legion:** Haarken · Legendary · **13,678** · main carry, lvl 34, rank III, 4 red★, abilities 30/26, shards 15/250, orbs 3/15; 2 upgrade slots left (yellow +) · Angrax · **Epic** · **3,259** · lvl 26 (498/5,500 XP), shards 34/65, **active 22, passive 22**, 2 new upgrade slots filled (2026-09-25) · Archimatos · Rare · **1,935** · red 1★ (promoted 2026-09-24), lvl 26 capped, active 15, passive 12, shards 14/50, **Epic Chaos orbs 3/10**
+**Black Legion:** Haarken · Legendary · **15,848** · main carry, lvl 34, rank III, 4 red★, abilities 30/26, shards 15/250, orbs 3/15; 2 upgrade slots left (yellow +) · Angrax · **Epic** · **3,259** · lvl 26 (498/5,500 XP), shards 34/65, **active 22, passive 22**, 2 new upgrade slots filled (2026-09-25) · Archimatos · Rare · **1,935** · red 1★ (promoted 2026-09-24), lvl 26 capped, active 15, passive 12, shards 14/50, **Epic Chaos orbs 3/10**
 **World Eaters:** Macer · Rare · 829 · 5★, lvl 17, rank II, abilities 10/10, 12/40 shards · Wrask · **Rare** · **977** · **5★** (2026-09-25), lvl 16, rank II, abilities 11/12, shards 1/40· Rare · 1,173 · Rotbone · Epic · 1,259 · healer
 **Thousand Sons:** Toth · Uncommon · 556 · Yazaghor · Uncommon · 481
 **Blood Angels:** Lucien · Rare · 6,420 · capped, 30/50 shards · Cezare · Uncommon · 706 · **4★** (promo code 2026-09-25), lvl 17 capped, rank II, abilities 10/11, 2/20 shards, Rare Imperial orbs 2/10
