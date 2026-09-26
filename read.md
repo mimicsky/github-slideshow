@@ -7,6 +7,7 @@ _Last updated: 2026-09-23_
 - Go in depth on characters: say why they fit or don't. Get excited about good stuff so I know it's good.
 - #1 goal: be as optimal as possible for Tacticus.
 - Be exact about where to tap.
+- When giving a team for missions, list **each character + exactly what they need** (e.g. "Toth – 15 kills").
 
 ## Game facts learned (don't repeat mistakes)
 - **Level does NOT raise stats.** Stats come from **rank** (upgrade slots) and **stars**. Level only raises the ability-level cap.
