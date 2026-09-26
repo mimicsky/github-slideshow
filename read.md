@@ -35,7 +35,6 @@ _Last updated: 2026-09-23_
 ## Shopping / resource queue
 **Guild shop orbs (in order):**
 0. **Archimatos** – 3/10 **Epic Chaos** orbs, 14/50 shards (Epic draft ×3 for 1,485; ~4 buys over several days) + his shards (Archimatos ×5 for 525 in guild shop). Main-team unit → top priority.
-1. **Snotflogga** – **7/10 Epic Xenos** orbs, shards 65/50 ready → 2 more Epic drafts (Xenos) → ascend. Closer than Archimatos (he also needs 46 shards).
 2. **Calandis** / **Gibbascrapz** – need 10 Xenos orbs each (likely **Rare** – Uncommon→Rare; you have Rare Xenos from 2026-09-24, check orb icon)
 4. **Exitor-Rho** – needs 8 uncommon Imperial orbs (2/10; shards already 37/20). Beats Vindicta: Mechanicus team is forming (Actus 86/130, Vitruvius 150/500)
 5. **Vindicta** – needs 8 uncommon Imperial orbs
@@ -49,7 +48,7 @@ _Last updated: 2026-09-23_
 - **MoW components draft: 10 for 515** (stock 3) → pick Xenos for Biovore.
 - Legendary shards (Dante/Mephiston/Trajann 20 for 3,600) = too slow (25 buys for 500). Skip unless near an unlock.
 
-**Daily Guild shop routine:** Epic Orbs draft ×2 → 1 Xenos (Snotflogga) + 1 Chaos (Archimatos) · Archimatos ×5 if stocked.
+**Daily Guild shop routine:** Epic Orbs draft → Chaos (Archimatos) · Archimatos ×5 if stocked.
 
 **Watch the guild shop for:** Lucien shards (5 for 525 credits).
 
