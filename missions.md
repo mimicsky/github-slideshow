@@ -1,6 +1,6 @@
 # Tacticus Missions
 
-_Updated 2026-09-25 · Mission level 27 (5/575). Changes a lot, so it lives apart from `read.md`._
+_Updated 2026-09-26 · Mission level 27 (90/575). Changes a lot, so it lives apart from `read.md`._
 
 ## 🔥 Do now (cheap, overlapping)
 1. **Imperial Onslaught** tokens → Chaos badges + Lucien commends.
@@ -8,7 +8,7 @@ _Updated 2026-09-25 · Mission level 27 (5/575). Changes a lot, so it lives apar
 ## 🎯 Deploy lists (Onslaught lets you deploy anyone)
 **Chaos track** (gives Xenos badges – needed for the Ork/Aeldari/Necron missions):
 Haarken (carry) · Archimatos · **Yazaghor** (use active on Archimatos) · **Toth** · Rotbone.
-→ progresses Yazaghor, Toth, Rotbone missions → **up to 7 Chaos badges** for Angrax's active.
+→ progresses Yazaghor, Toth, Rotbone missions → **up to 11 Chaos badges**.
 
 **Imperial track** (gives Chaos badges):
 Lucien (commend) · Azrael · Tigurius + fillers **Cezare · Sibyll · Kut · Nubari** (keep Nubari alive).
@@ -73,7 +73,7 @@ Lucien (commend) · Azrael · Tigurius + fillers **Cezare · Sibyll · Kut · Nu
 | **Winged Prime 2/3** | 50 kills · 10 ability uses | 1/50 · 2/10 | 15 shards, 3 Xenos badges, 30 XP | Low priority |
 | **Yazaghor 2/3** | 50 kills · 10 ability uses | **42/50** · 0/10 | 15 shards, **3 Chaos badges**, 30 XP | His active needs a friendly **psyker** → deploy with **Archimatos** and use it every fight |
 | **Toth 2/3** | 50 kills · 10 ability uses | **35/50** · ✅ 10/10 | 15 shards, **3 Chaos badges**, 30 XP | Only kills left |
-| **Rotbone 2/3** | 50 kills · 10 ability uses | **37/50** · ✅ 10/10 | 3 shards, 1 Chaos badge, 30 XP | Already in main team – happens naturally |
+| **Rotbone 3/3** | 3,000 dmg · restore 1,000 HP | 0/3,000 · 0/1,000 | 25 shards, **5 Chaos badges**, 50 XP | Main Chaos team – heal every fight |
 
 ## Patterns
 - **Machine of War missions** pay shards + badges + MoW parts for just *using* them. In fights where Biovore isn't needed (easy Imperial fights), rotate Galatian → Storm Speeder → Exorcist.
