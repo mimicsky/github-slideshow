@@ -19,8 +19,6 @@ Lucien (commend) · Azrael · Tigurius + fillers **Cezare · Sibyll · Kut · Nu
 ## Timed
 | Mission | Needs | Progress | Time left | Reward |
 |---|---|---|---|---|
-| **Know No Fear 11/20** | Win 25 Lightning victories | 0/25 | **1d 4h** | 100 seals, 20 XP |
-| | Defeat 100 Necron units | 0/100 | | (Indomitus/Indomitus Elite enemies are Necrons – raids may count) |
 
 ## Campaign missions
 | Mission | Step | Progress | Plan |
