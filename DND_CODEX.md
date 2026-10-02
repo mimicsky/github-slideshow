@@ -506,6 +506,41 @@ Switching back to full rules is a sentence at any time.
 
 ---
 
+**5. The exchange: opposed rolls, parry and block.**
+
+Replaces static defense in fights that matter. Melee becomes a back-and-forth
+where defense is an action rather than a number.
+
+**How one exchange works.** The attacker rolls. The defender rolls. Compare the
+totals:
+
+| Defender's total vs attacker's | Result |
+| --- | --- |
+| Lower or equal | The attack lands |
+| 1 or 2 higher | **Block.** No damage. The attacker keeps initiative and swings again |
+| 3 or more higher | **Parry.** No damage, and **initiative flips.** The defender is now the attacker |
+
+**The unparryable blow.** A **raw d20 of 17 or higher** cannot be parried or
+blocked at all. It lands. This is the raw die, not the total — otherwise the
+threshold means something different for every character depending on their
+modifier.
+
+**Scope, and why it is limited:**
+
+- **Duels and named opponents only.** One-on-one against someone who matters.
+  Mobs of nameless soldiers stay narrative: the DM describes their pressure and
+  does not roll an opposed die for each of them.
+- **A defender can answer two attackers per exchange.** The third and any beyond
+  get through undefended. Without this cap, being outnumbered stops meaning
+  anything, and a cornered character becomes safer than a duelling one.
+- Everyone uses it, not just the player.
+
+The reason for the scope limits: run unrestricted against fourteen opponents,
+this is fifteen opposed rolls per exchange, which is heavier than the full
+combat rules the table left behind in house rule 4.
+
+---
+
 ### Rulings made at the table
 
 When the book is silent or unclear, I rule once and then stick to it.
