@@ -527,19 +527,22 @@ modifier.
 
 **Scope, and why it is limited:**
 
-- **Everyone and every fight.** Duels, named opponents, and mobs alike. Set at
-  the player's instruction, overriding an initial duels-only limit.
+- **Any individual opponent.** Named or nameless, officer or sentry. There is no
+  "important enough to duel" test — if you are trading blows with a person, you
+  are in an exchange.
+- **Mobs stay narrative.** When a crowd is pressing rather than individuals
+  trading, the DM describes the pressure and does not roll an opposed die per
+  body in it.
 - **A defender can answer two attackers per exchange.** The third and any beyond
-  get through undefended. This cap is what keeps the rule playable against a
-  crowd: the DM rolls two opposed dice, not one per enemy.
-- **Position decides how many can swing at all.** Space, not willingness, limits
-  a crowd. In open ground three or four can reach one man, so he defends two and
+  get through undefended.
+- **Position decides how many can reach you.** Space, not willingness, limits a
+  crowd. In open ground three or four can get at one man, so he answers two and
   the rest land. In a gateway, doorway or corridor only one or two can reach him
   at all, and he can answer every one of them.
 
-That last point is the whole tactical weight of the rule. Holding a door stops
-being flavour and becomes the correct answer to being outnumbered, and walking
-out into the open stops being brave and becomes arithmetic.
+That last point is the tactical weight of the rule. Holding a door stops being
+flavour and becomes the correct answer to being outnumbered, and walking out
+into the open stops being brave and becomes arithmetic.
 
 ---
 
