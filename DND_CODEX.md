@@ -527,17 +527,19 @@ modifier.
 
 **Scope, and why it is limited:**
 
-- **Duels and named opponents only.** One-on-one against someone who matters.
-  Mobs of nameless soldiers stay narrative: the DM describes their pressure and
-  does not roll an opposed die for each of them.
+- **Everyone and every fight.** Duels, named opponents, and mobs alike. Set at
+  the player's instruction, overriding an initial duels-only limit.
 - **A defender can answer two attackers per exchange.** The third and any beyond
-  get through undefended. Without this cap, being outnumbered stops meaning
-  anything, and a cornered character becomes safer than a duelling one.
-- Everyone uses it, not just the player.
+  get through undefended. This cap is what keeps the rule playable against a
+  crowd: the DM rolls two opposed dice, not one per enemy.
+- **Position decides how many can swing at all.** Space, not willingness, limits
+  a crowd. In open ground three or four can reach one man, so he defends two and
+  the rest land. In a gateway, doorway or corridor only one or two can reach him
+  at all, and he can answer every one of them.
 
-The reason for the scope limits: run unrestricted against fourteen opponents,
-this is fifteen opposed rolls per exchange, which is heavier than the full
-combat rules the table left behind in house rule 4.
+That last point is the whole tactical weight of the rule. Holding a door stops
+being flavour and becomes the correct answer to being outnumbered, and walking
+out into the open stops being brave and becomes arithmetic.
 
 ---
 
