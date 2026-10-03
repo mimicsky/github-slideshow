@@ -34,6 +34,31 @@ domination and none of them can finish the job.
 None of the three can beat the other two at once. Every war is really about
 which two are briefly not fighting each other.
 
+### Magic
+
+Magic exists and always has. It is **rare**, most people have never seen it, and
+a good share of those who have don't believe what they saw. Hallvard has gone
+twenty years of raiding without encountering it once, which is normal rather
+than remarkable.
+
+Added at the player's request after session 1. Nothing retroactively changes;
+magic was simply never in the room before.
+
+What it means at the table:
+
+- When magic appears, it is an event. No village wizards, no magic shops, no
+  cantrips used as tools. A person who can do it is either a serious threat or a
+  serious asset.
+- **Hallvard cannot cast.** Barbarians have no spellcasting, and rage shuts off
+  casting and concentration outright. Magic reaches him through **items**, not
+  spells.
+- That cuts the other way too, and it is worth remembering: a raging barbarian
+  breaks a caster's concentration by hitting them, and higher-level barbarians
+  gain outright resistance to magic. Hallvard is not the man who throws fire. He
+  is the man you send at the one who does.
+- Each faction's relationship to it is undefined so far and worth discovering in
+  play rather than deciding here.
+
 ---
 
 ## The character
