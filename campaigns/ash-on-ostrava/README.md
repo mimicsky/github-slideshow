@@ -8,7 +8,7 @@ true about this particular game.
 - **System:** D&D 5e chassis reskinned for Warhammer 40,000, narrative mode, all
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
-- **Character level:** 5 (level-up choices PENDING: subclass at 3, ASI at 4)
+- **Character level:** 5
 - **XP:** 6,975. Level 6 at 14,000.
 
 | Award | XP |
@@ -49,9 +49,10 @@ Pronouns unset; using they/them until the player says otherwise.
 
 | Field | Value |
 | --- | --- |
-| Class | Fighter 5 (reskinned Guardsman). Action Surge, Extra Attack. Subclass and ASI pending |
+| Class | Fighter 5, **Champion** (crits on 19-20). Action Surge, Extra Attack. ASI at 4: +2 DEX |
 | Health | Hurt (thrown against a bulkhead). Action Surge spent |
-| STR / DEX / CON / INT / WIS / CHA | 13 / 15 / 14 / 10 / 12 / 8 |
+| STR / DEX / CON / INT / WIS / CHA | 13 / 17 / 14 / 10 / 12 / 8 |
+| Proficiency bonus | +3 |
 | Skills | Perception, Athletics, Survival, Intimidation |
 | Want | Find who opened the gate at Kasr Holn |
 | Flaw | Doesn't trust officers, and says so |
@@ -115,6 +116,13 @@ ritual knife was left in the cistern.
 - **Colonel Strahn** is loyal. He wrote the "hold the gate" order Tamsin carried.
   He doesn't know Tamsin was the runner.
 - **The ritual knife,** left in the Tower Nine cistern.
+
+## The hub
+
+**The *Unblinking Lantern*,** Varsaine's warship, hidden behind Ostrava's moon.
+Tamsin's quarters, the armoury (Quartermaster Ottrick, one-legged ex-Guard,
+foul-mouthed), medicae, range, archive, briefing room. Tamsin is now a full
+acolyte with requisition rights.
 
 ## DM threads (not known to the player)
 
