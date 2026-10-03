@@ -535,6 +535,13 @@ modifier.
   body in it.
 - **A defender can answer two attackers per exchange.** The third and any beyond
   get through undefended.
+- **Two weapons turn a block into a parry.** Fighting with a weapon in each hand
+  does not raise the two-attacker cap — a second blade covers another line, it
+  does not double how many people you can track. What it does is convert every
+  block into a parry: the off hand catches the blow and the other weapon is
+  already free, so initiative flips instead of merely holding. This is the
+  mechanical identity of the twin-axe style, and it is lost the moment one axe
+  is given away.
 - **Position decides how many can reach you.** Space, not willingness, limits a
   crowd. In open ground three or four can get at one man, so he answers two and
   the rest land. In a gateway, doorway or corridor only one or two can reach him
