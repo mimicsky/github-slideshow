@@ -4,16 +4,20 @@ Campaign state. Rules live in `../DND_CODEX.md`; this file holds only what's
 true about this particular game.
 
 - **Started:** 2026-09-11
-- **Sessions played:** 1, in progress
+- **Sessions played:** 1 complete, plus a week of downtime
 - **Status:** first run, playtest
-- **Character level:** 3
-- **XP:** 1,600. Level 4 at 2,700.
+- **Character level:** 4
+- **XP:** 3,250. Level 5 at 6,500.
+- **Ability Score Improvement from level 4: UNSPENT.**
 
 | Award | XP |
 | --- | --- |
 | Level 3 starting floor | 900 |
 | Three Dominion soldiers at 100 each | 300 |
 | Freeing Ketil, recovering Emeric, uncovering the twelfth letter | 400 |
+| Seven more Dominion soldiers at the valley fort | 700 |
+| The officer | 450 |
+| Eight crew freed and the fort taken | 500 |
 
 Reference values: Dominion soldier 100, the officer 450. Getting the eight crew
 out of the valley fort alive is worth more than killing everyone in it.
@@ -72,10 +76,11 @@ Pronouns unset; using they/them until the player says otherwise.
 | Class | Barbarian 3, Path of the Berserker |
 | Background | Raider |
 | Armor Class | 14 (Unarmored Defense: 10 + DEX + CON) |
-| Health | Hurt. Forearm and thigh cuts bound with cloth, bleeding stopped |
+| Health | Fine. A week in the fort. Forearm stitched by Ketil, scarred; thigh healed |
 | Speed | 30 ft. |
 | Hit Dice | 3d12, none spent |
 | Proficiency bonus | +2 |
+| Level 4 ASI | **Unspent** |
 | Passive Perception | 13 |
 | Initiative | +2 |
 
@@ -233,6 +238,29 @@ linen strips.
 
 ---
 
+## Session 1 downtime: the week in the valley fort
+
+Rolled openly. It went badly.
+
+- **Orm died.** The stump turned septic on day two. The Dominion surgeon fought
+  it for four days with everything he had. Orm came through the first three and
+  went on the fifth. Buried under stone on the slope above the fort.
+- **Emeric lived, barely.** The wound reopened and had to be cut open and
+  drained. He will keep the leg and he will ride again, and he will limp for the
+  rest of his life.
+- **The eleven letters were never in the fort.** Seven days of searching every
+  room turned up nothing. The officer sent them east by rider the same afternoon
+  he arrived, before Hallvard ever came down that slope. They are days ahead and
+  still moving.
+- **Day six: Dominion riders on the valley road.** Four of them. They stopped at
+  a distance, looked at a fort flying nothing, and rode east without coming
+  closer. No attack. Which is worse — the Dominion now knows this place fell.
+- **The eleven prisoners gave no trouble.** Their commander is dead and they know
+  what happened to the ten who fought.
+- **A week off the spring clock**, with twelve halls still to warn.
+
+---
+
 ## Threads I'm tracking
 
 DM-side. Open loops I owe a payoff on, and things in motion the player doesn't
@@ -272,8 +300,20 @@ know about yet.
 - **Brannoc's courier seal** is in the satchel. It can close a tube so nobody
   knows it was opened. Forty exist and all forty are counted.
 - **Emeric's crossbow**, three bolts, recovered from the cellar.
-- **Ketil has asked whether Hafnstad is on the list of eleven.** Emeric knows the
-  answer and has not been asked yet.
+- **Hafnstad is third on the list of eleven.** Emeric named all eleven at the
+  fire. Halla's hall is seventh, Steinar's ninth. **Kolstad is not on the list** —
+  every person at that fire has a home due to burn except Hallvard, whose home is
+  being offered a crown to watch it happen. Nobody has said a word about it.
+- **Something came out of the sea** four nights before the wreck, killed Sigvard
+  with one clean thrust, took something heavy off the *Sea-Wolf*'s deck, and
+  dragged it up the beach and inland. Bersi watched it and said nothing. It was
+  man-shaped and it was not a man. This is the campaign's first magic.
+- **Bersi lives**, judged by Thorbrand: pulls an oar, eats last, nobody stands
+  beside him in a wall. Hallvard then privately offered him a way to earn back in,
+  which quietly contradicts Thorbrand's sentence. Bersi volunteered to walk point
+  down the furrow.
+- **The Dominion surgeon** kept Emeric alive and could not save Orm. Still a
+  prisoner. Nobody in the company speaks a word of Dominion.
 
 ---
 
