@@ -64,3 +64,45 @@ gave the order to stand the gate guns down. That order carried the seal of the
 
 Varsaine made Tamsin an **acolyte** of the Ordos. Tamsin's answer: *"Ready for
 the next one, sir."*
+
+## Session 2: The Eye in the Tower
+
+Malcade, captured, would only talk to Tamsin. He asked if Tamsin had read the
+undelivered message. Tamsin had: it was Colonel Strahn's order to *hold* the
+gate. Tamsin lied and said no, then came clean to Varsaine and talked him into
+striking the lie. Malcade named Strahn, then, pressed, said Strahn's **aide**
+carried the seal, before his heart failed mid-sentence.
+
+At **Ostrava Primus**, the hive city, the aide met them: **Captain Adrian
+Sorel**, with a healed cult cut across his palm. In Defence Command, Tamsin spotted an armed
+servo-skull locked on Strahn and a red-cloth tech keying the void shields down.
+Tamsin shot the skull. The key turned, but Tamsin's own brass key matched its
+pattern and reversed it with 15 seconds left.
+
+Sorel ran down-hive. Tamsin chased him through a manufactorum, dove off a
+gantry and shot him mid-air, taking a needle-toxin dart and shrugging it off.
+Sorel's last words: his key had already cut coolant to the **plasma reactor**.
+
+In the Sumps, Tamsin, Varsaine and Kell fought through an ambush and a mutant,
+then a reactor chamber full of cultists and a **traitor tech-priest**. Tamsin
+shot the hostage guards, missed the key on a natural 1 (it snapped), put the
+tech-priest down, held a stair against a satchel charge, and a freed loyal
+priest restored the coolant. Forty million people kept breathing.
+
+The tech-priest's transmitter was tuned to "CALYX": the *Calyx Dawn* was not
+an escape ship but a **beacon** guiding three Chaos raider ships in. Tamsin's
+team boarded it at the orbital dock and took the bridge. In the vox room
+Tamsin chainsworded the first mate and the captain, then pulled the beacon's
+red lever, a genuine coin flip, which **sent the handshake early**. The
+raiders, led by the **Hollow Lord**, were now four hours out instead of
+fourteen.
+
+Tamsin turned that into a trap. Melta charges on the drive core; the pilot,
+terrified into perfect obedience, begged the raiders to hurry; the ship was
+moved clear of the dock; Tamsin, in a heretic's voice, told the Hollow Lord to
+come wherever she drifted. All three raider ships docked onto her. The team
+launched in the ship's boat under turret fire, and Varsaine pressed the
+trigger. The *Calyx Dawn* and all three raiders went up together.
+
+**Where we stopped:** in the ship's boat, drifting away from the wreckage,
+heading for Varsaine's base of operations. Level-up choices pending.

@@ -4,12 +4,12 @@ Campaign state. Rules live in `../../DND_CODEX.md`; this file holds only what's
 true about this particular game.
 
 - **Started:** 2026-10-03
-- **Sessions played:** 1
+- **Sessions played:** 2
 - **System:** D&D 5e chassis reskinned for Warhammer 40,000, narrative mode, all
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
-- **Character level:** 2
-- **XP:** 875. Level 3 at 900.
+- **Character level:** 5 (level-up choices PENDING: subclass at 3, ASI at 4)
+- **XP:** 6,975. Level 6 at 14,000.
 
 | Award | XP |
 | --- | --- |
@@ -17,6 +17,16 @@ true about this particular game.
 | Captain Oren Malcade (the Keyholder), taken alive | 450 |
 | Dace / Halvic Teodor, made to surrender | 25 |
 | Cult broken, fleet signal stopped, eye-seal evidence recovered | 300 |
+| **Session 2** | |
+| Void shields saved, servo-skull destroyed | 550 |
+| Captain Sorel taken alive | 450 |
+| Sumps mutant | 450 |
+| Traitor tech-priest | 700 |
+| Reactor saved | 1,000 |
+| Reactor cultists | 150 |
+| Six pirates at the barricade | 600 |
+| Garro and Captain Ilsa Marrow | 200 |
+| The Hollow Lord and three raider ships destroyed | 2,000 |
 
 ---
 
@@ -39,8 +49,8 @@ Pronouns unset; using they/them until the player says otherwise.
 
 | Field | Value |
 | --- | --- |
-| Class | Fighter 2 (reskinned Guardsman). Action Surge gained at level 2 |
-| Health | Fine |
+| Class | Fighter 5 (reskinned Guardsman). Action Surge, Extra Attack. Subclass and ASI pending |
+| Health | Hurt (thrown against a bulkhead). Action Surge spent |
 | STR / DEX / CON / INT / WIS / CHA | 13 / 15 / 14 / 10 / 12 / 8 |
 | Skills | Perception, Athletics, Survival, Intimidation |
 | Want | Find who opened the gate at Kasr Holn |
@@ -50,6 +60,20 @@ Pronouns unset; using they/them until the player says otherwise.
 
 | Item | Notes |
 | --- | --- |
+| Lasgun, bayonet fixed | Mostly full |
+| Spare lasgun packs | 3, full (one pack lost on the reactor platform) |
+| Laspistol | Malcade's. 1 shot used |
+| Chainsword | Taken from a pirate on the Calyx Dawn. Varsaine said keep it |
+| Combat knife | |
+| Plasma cutter | About 3/4 charge |
+| Flak armour, void-mask, rebreather | Armour dented |
+| Acolyte pin, Cadian medal (eagle filed off) | |
+
+Used or gone: both original frags (one left in Orlov's bunker on Ostrava
+Secundus, never retrieved), the salvaged frag (thrown), the unnumbered data-key
+(left in the Primus shield console).
+
+--- | --- |
 | Lasgun | Back with Tamsin after the raid (taken by cult hatch guard, recovered) |
 | Power packs | 3 for the lasgun |
 | Laspistol | Taken from Malcade. About half charge, a few shots spent |
@@ -82,19 +106,22 @@ ritual knife was left in the cistern.
 
 ## Open threads
 
-- **The third traitor.** The officer who issued the stand-down order on Cadia
-  under the seal of the Lord Castellan's Strategium (a tower with one eye).
-- **"Friends beyond the wall."** A raiding force waiting for the Hydra battery
-  signal. Malcade said they might come early anyway.
-- **The *Calyx Dawn*,** Bay 14, orbital docks, leaving in three days.
-- **Data-keys:** Tamsin holds one unnumbered; Varsaine holds 2 of 3. Where is
-  the rest?
-- **The ritual knife.** It hummed in Tamsin's hand. Tamsin did not cut or give
-  blood. Varsaine noticed when it was mentioned.
-- **The black box signal device,** recovered by Kell, never triggered.
+- **Sorel's handlers off-world.** Sorel carried Strahn's seal and stamped the
+  Cadia stand-down order. Captured, badly wounded. Who did he answer to?
+- **The traitor tech-priest's cortex,** medallion (eight-toothed cog) and locked
+  slate. A Dark Mechanicus link inside Primus.
+- **Malcade,** captured on the surface. Still has things to say.
+- **The Hollow Lord** died with his ships, as far as anyone knows.
+- **Colonel Strahn** is loyal. He wrote the "hold the gate" order Tamsin carried.
+  He doesn't know Tamsin was the runner.
+- **The ritual knife,** left in the Tower Nine cistern.
 
 ## DM threads (not known to the player)
 
 - Varsaine's own story is true as far as it goes. Keep him honest but not
   fully forthcoming.
-- Malcade will talk under interrogation, but only in pieces, and lies first.
+- Varsaine struck Tamsin's "second lie" after Tamsin argued it was a lie to the
+  enemy. Agreement: a look his way before going off-script.
+- Player feedback: resolve only the player's action, then stop. Don't let NPCs
+  make big moves past it.
+- The red lever on the Calyx beacon was a genuine 50/50 rolled in the open.
