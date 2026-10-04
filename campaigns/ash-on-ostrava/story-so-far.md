@@ -178,4 +178,28 @@ will not falter, not again"), closed the hatch, and the shame came back, which
 was the point. Ysolde: *It doesn't break doors. It waits for someone to open
 them.* She asked Tamsin to come back by day with Varsaine.
 
-**Where we stopped:** morning, warp day 3 of 9.
+**Warp day 3.** Tamsin went to Varsaine and told him straight: "I failed to
+stop it." Ashby had sleepwalked too, to the chapel reliquary. With Thane along
+(he found the medal's wax had cracked *from the inside*: it pushed on the
+shame), they saw **Ysolde**. She explained: the thing woke when the charm
+burned, has followed the Lantern's wake since, and knows three names (Morrow,
+Ashby, Rook). It needs a living door, someone who says yes. It wants Tamsin
+most, because Tamsin let it touch them at the drive, carries an unhealed wound,
+and refused it. It likes doors, and the ones it chose before opened Cadia's.
+Tamsin agreed to help her cut its road.
+
+**The chapel.** Tamsin had the whole crew gathered. Thane led the Guard litany,
+adding *"From the voice that offers rest, and the hand that opens doors."*
+Tamsin spoke about the shame and grief everyone carries being what sets them
+apart, and called *"WE ARE THE EMPEROR'S SOLDIERS, WE ARE THE LIGHT."* (18).
+The whole chapel took it up, Kell first, Dace and Hespa-Vor included.
+
+**Warp night 3.** Thane resealed the medal in black wax. Tamsin slept in
+Ysolde's chamber holding her hand, without a seal by choice, with Varsaine on
+guard with his sword. The dream wore Strahn's face and offered to carry the
+message for Tamsin. Tamsin saw through it (Wisdom save 20) and said "No, I
+won't." It fled; Ysolde followed and cut its road (19). Morrow and Ashby held.
+Ysolde, bleeding, said it can't find the ship again, and that its road led
+home to **Velk**: a dead sun, a chamber under the ice, something else waiting.
+
+**Where we stopped:** 0304, warp night 3 into day 4, Ysolde's chamber.

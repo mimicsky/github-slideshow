@@ -9,7 +9,7 @@ true about this particular game.
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
 - **Character level:** 6
-- **XP:** 18,425. **Level 6.** Level 7 at 23,000.
+- **XP:** 20,225. **Level 6.** Level 7 at 23,000.
 
 | Award | XP |
 | --- | --- |
@@ -43,6 +43,9 @@ true about this particular game.
 | Tobin Pell saved | 200 |
 | Dace's renunciation and forge | 300 |
 | The turning crewman | 50 |
+| **Session 4** | |
+| Chapel speech (18) | 300 |
+| Spiral dreams broken, road cut with Ysolde | 1,500 |
 
 ---
 
@@ -119,7 +122,7 @@ Pronouns unset; using they/them until the player says otherwise.
 | **Carapace chest plate** | From Ottrick, "unofficially", in thanks for Merrevane's bolt pistol (day 3). Worn over the flak |
 | Flak armour, void-mask, rebreather | Flak dented |
 | **Dace's collar detonator** | Matchbox-sized, one button under a flip-cap. Varsaine's price for sparing Dace |
-| Acolyte pin, Cadian medal (eagle filed off, sealed with a wax aquila by Confessor Thane; **the wax aquila cracked down the middle** on warp night 2) | Medal: Cadian service medal, earned on the walls of Kasr Holn. Tamsin filed the eagle off out of **shame** for never delivering Strahn's hold order. Set by the player, session 3 |
+| Acolyte pin, Cadian medal (eagle filed off; Thane's wax aquila cracked from the inside on warp night 2; **resealed by Thane in black wax** on warp day 3) | Medal: Cadian service medal, earned on the walls of Kasr Holn. Tamsin filed the eagle off out of **shame** for never delivering Strahn's hold order. Set by the player, session 3 |
 
 Traded to Ottrick: lasgun and its 3 packs, Malcade's laspistol, plasma cutter.
 **Debt to Ottrick: paid** with 2 servo-motors from Kessel's Reach. Gave him Merrevane's 4 Mars-pattern bolt rounds and then the bolt pistol itself (day 3). He swore never to trade it and wears it on his hip.
@@ -287,6 +290,12 @@ ritual knife was left in the cistern.
   no guessing about Drachen; Tamsin tells Kesh the undelivered-message story
   and the dreams first. Saint Ivaine's Rest is a pilgrim shrine-asteroid with a
   basilica; Kesh lives beneath it.
+
+- **The spiral thing's road is cut** (warp night 3). It can no longer find the
+  Lantern or Tamsin unless Tamsin goes looking. Its road led back to **Velk**:
+  dead sun, chamber under ice, "something else waiting". Ysolde hurt (bleeding
+  eyes and nose), resting. Thane's sleep seal from warp day 3 is unused, held by
+  Varsaine. Crew rallying cry since the chapel: **"We are the light."**
 
 ## The hub
 
