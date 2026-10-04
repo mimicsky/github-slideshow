@@ -9,7 +9,7 @@ true about this particular game.
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
 - **Character level:** 5
-- **XP:** 6,975. Level 6 at 14,000.
+- **XP:** 13,675. Level 6 at 14,000.
 
 | Award | XP |
 | --- | --- |
@@ -27,6 +27,14 @@ true about this particular game.
 | Six pirates at the barricade | 600 |
 | Garro and Captain Ilsa Marrow | 200 |
 | The Hollow Lord and three raider ships destroyed | 2,000 |
+| **Session 3 (Kessel's Reach)** | |
+| The plague-beast | 1,800 |
+| Poxwalker hordes (Tamsin's share) | 600 |
+| Colonel Ilse Merrevane, the Warden, taken alive | 2,300 |
+| Reliquary secured | 1,000 |
+| Kell saved from the plague pulse | 200 |
+| Hespa-Vor talked into honesty | 300 |
+| Merrevane's interrogation: Drachen named | 500 |
 
 ---
 
@@ -50,7 +58,7 @@ Pronouns unset; using they/them until the player says otherwise.
 | Field | Value |
 | --- | --- |
 | Class | Fighter 5, **Champion** (crits on 19-20). Action Surge, Extra Attack. ASI at 4: +2 DEX |
-| Health | Fine. Action Surge ready. **Sharp edge (melee):** advantage once on a melee roll on the Kessel's Reach mission, from beating Kell in the ring |
+| Health | Fine. Action Surge ready |
 | STR / DEX / CON / INT / WIS / CHA | 13 / 17 / 14 / 10 / 12 / 8 |
 | Proficiency bonus | +3 |
 | Skills | Perception, Athletics, Survival, Intimidation |
@@ -61,10 +69,13 @@ Pronouns unset; using they/them until the player says otherwise.
 
 | Item | Notes |
 | --- | --- |
-| Hellgun | Traded from Ottrick. One hot-shot pack cabled in. Purity seal on the stock (one use, as above) |
-| Spare hot-shot packs | 2 (one from Kell, off the books). Recharge on ship's coupling, slowly |
+| Hellgun | Traded from Ottrick. Purity seal on the stock (one use) |
+| Hot-shot packs | 1 in the gun (full), 1 spare (full), 1 charging at Ottrick's bench |
 | Frag grenades | 2, impact-fused, red tape on the caps |
-| **Shameholder** (chainsword) | Named by Tamsin in the Lantern's chapel. Re-toothed and mag-locked by Ottrick. Purity seal on the hilt (one use: advantage on a save vs warp/Chaos corruption, then burns away) |
+| Antitoxin injector | 1 (from Haldis) |
+| Purification salve | 1 tin |
+| Plague rebreather | Double-filtered, from Haldis |
+| Salvage satchel | 1 machine-core, 2 plasteel, 1 step-down coil (for Last Word's adaptor) |
 | Combat knife | |
 | **Last Word** (in locker) | Lucius-pattern duelling laspistol, carnodon-tusk grip, brass beast-head muzzle. Jory Venn's family piece. One bar of charge. Needs an adaptor (conduit, step-down coil from a broken lasgun, small screwdriver) to charge on a standard coupling. Tamsin knows how |
 | Salvage satchel | Ottrick's loan, empty |
@@ -140,6 +151,31 @@ ritual knife was left in the cistern.
   Asked Tamsin to cover his bad left side on missions. Their own fist-bump
   handshake. Troopers chanted "Shameholder."
 - **Confessor Thane** sealed the medal and blessed both weapons.
+
+- **Kessel's Reach (session 3):** Merrevane captured (she is the Warden; Nurgle;
+  a green patch on her neck is spreading, she is dying/turning; moved to sealed
+  isolation on Deck 8, Thane and Haldis watching). Reliquary ("seed") in the
+  Lantern's sealed vault. Kell infected, suppressed by Tamsin's antitoxin, in
+  medicae: 2 days bed, a week to fight. Hespa-Vor tried to pocket a data-crystal
+  on its Forge's orders; Tamsin caught it, persuaded it (nat 20); it handed the
+  crystal over and confessed it scratched out Venn's note. Owes Varsaine its
+  Forge's orders.
+- **Three seeds.** One captured, one "destroyed in transit" (unverified), one on
+  the hospital ship **Pilgrim's Mercy** bound for **Ustrennos Anchorage** (Cadian
+  refugee fleets), arriving in 12 days. Plan: intercept in the void in 8 days.
+- **The second page** of Strahn's order is in the Pilgrim's Mercy captain's
+  strongbox. First name on Strahn's list: **Lord-General Vaskor Drachen**,
+  commander of the Cadian remnant fleet at Ustrennos. Tamsin's Insight (nat 20):
+  Merrevane told the truth and *wants* them to go. Varsaine: never let Drachen
+  read your face.
+- **The spiral.** Kessel's Reach fell 103 years ago after its Fabricator opened a
+  pre-Imperial "seed-vault" marked with a spiral; the vault held "warm black
+  bone, grown not forged, in the shape of sleeping things". Same spiral as
+  Venn's charm (from a sealed chamber on Velk). Merrevane visited the vault 18
+  years before Cadia fell. Hespa-Vor: never open the null-casket.
+- **Lady Aurelia Kesh,** Varsaine's Inquisitor; gave him his power sword.
+- **Merrevane's bolt pistol** (Mars-pattern, silver-inlaid, tower-and-eye seal):
+  Varsaine releases it to Tamsin after 2 days. Its 4 bolt rounds went to Ottrick.
 
 ## The hub
 
