@@ -72,6 +72,9 @@ Pronouns unset; using they/them until the player says otherwise.
 | **Vigil** (hellgun) | Named by Tamsin after Hespa-Vor communed with it. Old spirit, three bearers before Tamsin; patient, loyal, dislikes full-auto. Last bearer storm trooper **Korren**, 41 kills, died holding it on **Velk** two years ago. Sling wrapped in Tamsin's Cadian camo. Purity seal on the stock (one use) |
 | Hot-shot packs | 1 in the gun (full), 1 spare (full), 1 charging at Ottrick's bench |
 | Frag grenades | 2, impact-fused, red tape on the caps |
+| Smoke grenades | 2, from Ottrick |
+| Thigh holster rig | Quick-draw, sized for Last Word. Gift from Ottrick |
+| Kantrael-pattern lasgun (in quarters) | Backup rifle, gift from Ottrick, with 2 standard las packs |
 | Antitoxin injector | 1 (from Haldis) |
 | Purification salve | 1 tin |
 | Plague rebreather | Double-filtered, from Haldis |
