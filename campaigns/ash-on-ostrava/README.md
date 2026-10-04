@@ -82,12 +82,12 @@ Pronouns unset; using they/them until the player says otherwise.
 | Frag grenades | 2, impact-fused, red tape on the caps |
 | Smoke grenades | 2, from Ottrick |
 | Krak grenade | 1, anti-armour, free from Ottrick after the overdrive test |
-| Thigh holster rig | Quick-draw, sized for Last Word. Gift from Ottrick. Currently holds Orsel's **stub revolver** (6 rounds, chipped wooden grip) |
+| Thigh holster rig | Quick-draw, sized for Last Word. Gift from Ottrick. Empty again: Orsel's stub revolver traded to Ottrick for quenching oil and a brass sheet (for Dace's blade) |
 | Kantrael-pattern lasgun (in quarters) | Backup rifle, gift from Ottrick, with 2 standard las packs |
 | Antitoxin injector | None left |
 | Purification salve | 1 tin |
 | Plague rebreather | Double-filtered, from Haldis |
-| Salvage satchel | Empty. Last plasteel paid for Vigil's bayonet lug |
+| Salvage satchel | 1 flask quenching oil, 1 small thick brass sheet (both meant for Dace) |
 | **Shameholder** (chainsword) | Named by Tamsin in the Lantern's chapel. Re-toothed and mag-locked by Ottrick. Old pirate Chaos star ground off the motor casing; **SHAME** etched in big block letters along the blade spine by Ottrick. Purity seal on the hilt (one use, fresh parchment from Thane). **Honour seal** (no mechanic) on the motor housing, from Thane after Tamsin burned the charm: black wax, parchment reads *"Offered rest by the dark, and refused it."* **Overdrive module** fitted by Ottrick, tested on day 3 (cut a cargo servitor in half): once per mission, ~30 seconds; armour counts one step lighter and advantage in mob pushes; afterward unusable for the rest of that fight; a natural 1 while running burns the motor out until repaired |
 | Combat knife | |
 | **Last Word** | Lucius-pattern duelling laspistol, carnodon-tusk grip, brass beast-head muzzle. Jory Venn's family piece. Adaptor built by Hespa-Vor at Tamsin's request: charges from any standard coupling, 6 hours to full. Engraved *Ultima Verba* ("the last words"). Venn family of Halcyon Reach, carnodon hunters. Thane blessed it before Velk; that seal is **spent**, burned out from inside: Venn called on it. Re-sealed by Thane on downtime day 2: fresh purity seal under the trigger guard (one use). Worn in a thigh holster |
