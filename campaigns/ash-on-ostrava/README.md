@@ -177,6 +177,18 @@ ritual knife was left in the cistern.
 - **Merrevane's bolt pistol** (Mars-pattern, silver-inlaid, tower-and-eye seal):
   Varsaine releases it to Tamsin after 2 days. Its 4 bolt rounds went to Ottrick.
 
+- **Merrevane is dead** (downtime day 2). Turning into a walker, she asked for
+  Tamsin to end it. She got through Thane's Last Renunciation (rolled 12, needed
+  10) and said "Ave Imperator"; Tamsin shot her through the mercy port, the cell
+  was purged by fire. Her last gifts: the Pilgrim's Mercy captain is Open Gate,
+  passphrase **"The garden is in bloom"** opens the strongbox; the "destroyed"
+  second seed actually went to **Velk** 18 months ago, to the chamber where Venn
+  found the charm. She could feel the charm aboard "like a second heartbeat".
+- **Hellgun** previously belonged to a storm trooper, **KORREN**, 41 tally marks
+  on the stock. Sling now wrapped in Tamsin's old Cadian camo.
+- Tamsin wears an armband cut from their Ostrava fatigues: "OSTRAVA SECUNDUS -
+  CADIAN REMNANT", white gate on black, upper left arm.
+
 ## The hub
 
 **The *Unblinking Lantern*,** Varsaine's warship, hidden behind Ostrava's moon.
@@ -200,3 +212,4 @@ acolyte with requisition rights.
   collection lives; in the field, carry what is plausible.
 - Player is new to 40k but knows Darktide well. Use Darktide as a reference.
 - Speech in quotes is Tamsin speaking. Stop after the player's action.
+- When naming an NPC, add their role in brackets, e.g. Hespa-Vor (enginseer), so the player can keep track.
