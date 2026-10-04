@@ -569,7 +569,8 @@ rests, and leveling.
 
 | Situation | Ruling | Session |
 | --- | --- | --- |
-| | | |
+| Looting bodies | Loot follows the fiction: enemies carry what they plausibly would. When looting a group, the DM rolls one d20 in the open; on a natural 20, one of them has something rare that doesn't belong. It always has a story, may be damaged or low on ammo, and someone may want it back | Ash on Ostrava, session 2 |
+| Genuinely undecided facts | When the DM hasn't decided something in advance (what an unlabelled lever does), it is rolled in the open, not chosen | Ash on Ostrava, session 2 |
 
 ---
 

@@ -61,14 +61,18 @@ Pronouns unset; using they/them until the player says otherwise.
 
 | Item | Notes |
 | --- | --- |
-| Lasgun, bayonet fixed | Mostly full |
-| Spare lasgun packs | 3, full (one pack lost on the reactor platform) |
-| Laspistol | Malcade's. 1 shot used |
-| Chainsword | Taken from a pirate on the Calyx Dawn. Varsaine said keep it |
+| Hellgun | Traded from Ottrick. One hot-shot pack cabled in |
+| Spare hot-shot pack | 1. Recharges on ship's coupling, slowly |
+| Chainsword | With Ottrick until tomorrow: re-toothed, motor tuned, mag-lock fitted |
 | Combat knife | |
-| Plasma cutter | About 3/4 charge |
+| Salvage satchel | Ottrick's loan, empty |
 | Flak armour, void-mask, rebreather | Armour dented |
 | Acolyte pin, Cadian medal (eagle filed off) | |
+
+Traded to Ottrick: lasgun and its 3 packs, Malcade's laspistol, plasma cutter.
+**Debt:** Tamsin owes Ottrick something worth his while from the next job.
+His wishlist: Mechanicus parts, bolt rounds (he has a boltgun he can't feed),
+xenos tech, a sealed bottle of real spire amasec.
 
 Used or gone: both original frags (one left in Orlov's bunker on Ostrava
 Secundus, never retrieved), the salvaged frag (thrown), the unnumbered data-key
