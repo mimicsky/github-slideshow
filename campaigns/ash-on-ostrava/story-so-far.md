@@ -202,4 +202,11 @@ won't." It fled; Ysolde followed and cut its road (19). Morrow and Ashby held.
 Ysolde, bleeding, said it can't find the ship again, and that its road led
 home to **Velk**: a dead sun, a chamber under the ice, something else waiting.
 
-**Where we stopped:** 0304, warp night 3 into day 4, Ysolde's chamber.
+**Warp day 4.** Tamsin cleaned Vigil, then Last Word, and found a hollow behind
+its grip: Venn's brass key (spiral filed off) and a vellum note giving the way
+down on Velk and warning not to take "V's word" for what's there. Thane tested
+the key (clean) and said Varsaine was wounded in orbit during the Velk job;
+four went down and only Venn came back.
+
+**Where we stopped:** warp day 4, ~1020, Tamsin heading to Varsaine with the
+key and note.

@@ -118,6 +118,8 @@ Pronouns unset; using they/them until the player says otherwise.
 | Salvage satchel | Empty. The quenching oil and brass sheet went to Dace (warp day 1) |
 | **Shameholder** (chainsword) | Named by Tamsin in the Lantern's chapel. Re-toothed and mag-locked by Ottrick. Old pirate Chaos star ground off the motor casing; **SHAME** etched in big block letters along the blade spine by Ottrick. Purity seal on the hilt (one use, fresh parchment from Thane). **Honour seal** (no mechanic) on the motor housing, from Thane after Tamsin burned the charm: black wax, parchment reads *"Offered rest by the dark, and refused it."* **Overdrive module** fitted by Ottrick, tested on day 3 (cut a cargo servitor in half): once per mission, ~30 seconds; armour counts one step lighter and advantage in mob pushes; afterward unusable for the rest of that fight; a natural 1 while running burns the motor out until repaired |
 | Combat knife | |
+| **Venn's brass key** | Finger-length, spiral filed off its bow. Found in a hollow behind Last Word's left grip panel (warp day 4). Clean (Thane's holy water test). Per Venn's note: "fits the cradle, not the door" |
+| **Venn's vellum note** | From the same hollow: *"Velk. Under the Choir-Ice, past the dead chapel. Fourth stair down. It sleeps. The key fits the cradle, not the door. If I don't come back: don't go down alone. And don't take V's word for what's down there. He wasn't there. I was."* |
 | **Last Word** | Lucius-pattern duelling laspistol, carnodon-tusk grip, brass beast-head muzzle. Jory Venn's family piece. Adaptor built by Hespa-Vor at Tamsin's request: charges from any standard coupling, 6 hours to full. Engraved *Ultima Verba* ("the last words"). Venn family of Halcyon Reach, carnodon hunters. Thane blessed it before Velk; that seal is **spent**, burned out from inside: Venn called on it. Re-sealed by Thane on downtime day 2: fresh purity seal under the trigger guard (one use). Worn in a thigh holster |
 | **Carapace chest plate** | From Ottrick, "unofficially", in thanks for Merrevane's bolt pistol (day 3). Worn over the flak |
 | Flak armour, void-mask, rebreather | Flak dented |
@@ -296,6 +298,10 @@ ritual knife was left in the cistern.
   dead sun, chamber under ice, "something else waiting". Ysolde hurt (bleeding
   eyes and nose), resting. Thane's sleep seal from warp day 3 is unused, held by
   Varsaine. Crew rallying cry since the chapel: **"We are the light."**
+
+- **Velk, per Thane:** Varsaine was aboard in orbit, wounded, during the Velk
+  job. Venn led four down (Korren among them); only Venn came back up, and
+  never talked about it.
 
 ## The hub
 
