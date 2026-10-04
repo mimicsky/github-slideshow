@@ -197,7 +197,7 @@ ritual knife was left in the cistern.
 
 **The *Unblinking Lantern*,** Varsaine's warship, hidden behind Ostrava's moon.
 Tamsin's quarters, the armoury (Quartermaster Ottrick, one-legged ex-Guard,
-foul-mouthed), medicae, range, archive, briefing room. Tamsin is now a full
+foul-mouthed), medicae, range, archive, briefing room. **Drel's forge** on the engine deck, past Hespa-Vor's alcove: anvil, quenching trough, coal furnace, rusted tools, cold since Magos Drel died (added at the player's request, session 3). Tamsin is now a full
 acolyte with requisition rights.
 
 ## DM threads (not known to the player)
