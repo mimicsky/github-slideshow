@@ -4,7 +4,8 @@ The standing rulebook for any game I run for you. I am the DM, you are the
 player. This is not tied to one campaign: it carries across every game we play.
 
 Based on **D&D 5th Edition (2014 rules)**. Parts 1 to 5 are the rules. Part 6 is
-the part you control. Part 7 is how I run a table.
+the part you control. Part 7 is how I run a table. Part 8 is how the same rules
+run a Warhammer 40,000 game.
 
 Campaign-specific things — your character sheet, NPCs, session logs — live in a
 separate file per campaign, not in here.
@@ -687,6 +688,81 @@ made with the information available.
 I write the session log entry, update your character sheet in that campaign's
 own file, and tell you what's still unresolved. That way the next session starts
 from a real record instead of my memory of it.
+
+---
+
+## Part 8 — Warhammer 40,000
+
+Any 40k campaign runs on the same chassis: 5e underneath, the Part 6 house rules
+on top, narrative mode by default. This part is only what changes. The player is
+not a lore expert: explain setting terms briefly and out of character when asked,
+limited to what the character would know. Darktide is a useful shared reference.
+
+### The reskin
+
+| 5e | 40k |
+| --- | --- |
+| Bows, crossbows | Lasguns, autoguns, stubbers, bolters |
+| Swords, axes | Chainswords, power weapons, combat knives |
+| Spellcasters | Psykers, tech-priests, and the faithful |
+| Arrows | Power packs and magazines, tracked per Part 6 |
+| Fighter | Guardsman, storm trooper, veteran |
+
+### Armour
+
+Armor Class stays off in narrative mode. Armour decides how far down the health
+ladder a hit moves you.
+
+| Armour | Shrugs off | Still gets through |
+| --- | --- | --- |
+| Flak | Shrapnel, glancing hits, stub rounds at range | Clean las hits, close bursts, chain weapons |
+| Carapace | Most las and autogun fire, most blades | Hellguns, bolters, power weapons |
+| Power armour | Almost everything a soldier carries | Bolters, plasma, melta, power weapons |
+
+Armour takes damage and the DM says when it is failing.
+
+### Weapons
+
+No weapon has a damage number. Better weapons drop a target in fewer hits and
+get through better armour. Ammunition is the real cost: hot-shot packs, bolt
+rounds and plasma are scarce, las packs recharge from any ship's coupling.
+
+### Loot
+
+Enemies carry what they plausibly would. When a group is looted, one d20 in the
+open; a natural 20 means one of them had something rare that doesn't belong,
+with a story, often damaged or short on ammunition.
+
+### The hub
+
+Each 40k campaign has a home base, like Darktide's Mourningstar, where missions
+start and end. It holds the people who upgrade, heal, bless and brief the
+player. Between missions, time at the hub is a short or long rest as the fiction
+allows.
+
+### Purity seals
+
+A priest blesses gear and stamps a seal on it. Each seal gives **advantage on
+one save** against warp or Chaos corruption (plague, possession, madness) and
+then burns away. Free from a priest who judges the soldier worthy. Faith in this
+setting is sometimes literally armour.
+
+### Weapon blessings
+
+The Darktide system, adapted. A tech-priest consecrates a weapon to the
+Omnissiah and gives it **one blessing**: a small, specific edge on that weapon
+only. Blessings cost **salvage** (Mechanicus parts, plasteel, rare metals)
+brought back from missions, never money. A weapon holds one blessing; replacing
+it destroys the old one. Examples:
+
+| Blessing | Effect |
+| --- | --- |
+| Rending teeth (chain weapon) | Raw 16 or higher is unstoppable in the exchange, instead of 17 |
+| Steady machine-spirit (gun) | Once per mission, reroll one attack with this weapon |
+| Efficient coils (energy weapon) | Ammunition lasts noticeably longer |
+| Bloodthirsty spirit (melee) | A parry with this weapon lets you strike before initiative passes |
+
+Salvage is shared demand: the quartermaster wants it too.
 
 ---
 

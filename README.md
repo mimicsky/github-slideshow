@@ -6,7 +6,7 @@ Rules and campaigns for games run here.
 
 | File | What it is |
 | --- | --- |
-| `DND_CODEX.md` | The standing rulebook. D&D 5e reference in Parts 1-5, our table rules and house rules in Part 6, how the DM runs a table in Part 7. Not tied to any one campaign |
+| `DND_CODEX.md` | The standing rulebook. D&D 5e reference in Parts 1-5, our table rules and house rules in Part 6, how the DM runs a table in Part 7, Warhammer 40k adaptations in Part 8. Not tied to any one campaign |
 | `campaigns/<name>/README.md` | One campaign's hard state: characters, NPCs, inventory, XP, open quests, DM threads |
 | `campaigns/<name>/story-so-far.md` | The same campaign's narrative recap, written to be read cold months later |
 
