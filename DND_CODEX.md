@@ -740,6 +740,15 @@ start and end. It holds the people who upgrade, heal, bless and brief the
 player. Between missions, time at the hub is a short or long rest as the fiction
 allows.
 
+### Training at the hub
+
+Once per stay at the hub, the player may train one thing: shooting, melee,
+fitness. One roll. On a success, the character carries a **sharp edge** into the
+next mission: advantage once on a roll of that kind, then it is spent. A
+natural 20 also earns something in the fiction (respect, a trick, a rival). A
+failure costs nothing but time; a natural 1 means a minor strain, nothing that
+carries into the mission.
+
 ### Purity seals
 
 A priest blesses gear and stamps a seal on it. Each seal gives **advantage on
