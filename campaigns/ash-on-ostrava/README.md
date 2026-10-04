@@ -8,8 +8,8 @@ true about this particular game.
 - **System:** D&D 5e chassis reskinned for Warhammer 40,000, narrative mode, all
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
-- **Character level:** 5
-- **XP:** 13,675. Level 6 at 14,000.
+- **Character level:** 6
+- **XP:** 18,425. **Level 6** (ASI pending). Level 7 at 23,000.
 
 | Award | XP |
 | --- | --- |
@@ -35,6 +35,14 @@ true about this particular game.
 | Kell saved from the plague pulse | 200 |
 | Hespa-Vor talked into honesty | 300 |
 | Merrevane's interrogation: Drachen named | 500 |
+| **Pilgrim's Mercy** | |
+| Strahn's second page recovered | 2,000 |
+| Third seed secured | 1,000 |
+| Captain Orsel taken alive | 700 |
+| Clean infiltration, no innocents harmed | 500 |
+| Tobin Pell saved | 200 |
+| Dace's renunciation and forge | 300 |
+| The turning crewman | 50 |
 
 ---
 
@@ -74,9 +82,9 @@ Pronouns unset; using they/them until the player says otherwise.
 | Frag grenades | 2, impact-fused, red tape on the caps |
 | Smoke grenades | 2, from Ottrick |
 | Krak grenade | 1, anti-armour, free from Ottrick after the overdrive test |
-| Thigh holster rig | Quick-draw, sized for Last Word. Gift from Ottrick |
+| Thigh holster rig | Quick-draw, sized for Last Word. Gift from Ottrick. Currently holds Orsel's **stub revolver** (6 rounds, chipped wooden grip) |
 | Kantrael-pattern lasgun (in quarters) | Backup rifle, gift from Ottrick, with 2 standard las packs |
-| Antitoxin injector | 1 (from Haldis) |
+| Antitoxin injector | None left |
 | Purification salve | 1 tin |
 | Plague rebreather | Double-filtered, from Haldis |
 | Salvage satchel | Empty. Last plasteel paid for Vigil's bayonet lug |
@@ -194,6 +202,21 @@ ritual knife was left in the cistern.
   on the stock. Sling now wrapped in Tamsin's old Cadian camo.
 - Tamsin wears an armband cut from their Ostrava fatigues: "OSTRAVA SECUNDUS -
   CADIAN REMNANT", white gate on black, upper left arm.
+
+- **Pilgrim's Mercy (session 3):** boarded as Medicae Relief Team Seven.
+  Passphrase worked on Captain Orsel (Open Gate, Nurgle-sick, days left); he
+  handed Tamsin the second page; Tamsin knocked him out (nat 20). He had opened
+  the seed early to "wake" it for Drachen; mould reached a vent (Haldis sprayed,
+  Hespa-Vor welded). Seed sealed and taken. **Tobin Pell** (orderly, ex-Cadian
+  8th mortar team, lost three fingers at Kasr Holn) saved with Tamsin's last
+  antitoxin. Lt. Oranne (loyal, clean) logged it as a medical transfer; Tamsin
+  told her it was the Inquisition. Stub revolver taken from Orsel.
+- **Strahn's second page:** 1. Lord-General Vaskor Drachen, 2. Colonel Aurek
+  Halloran (dead), 3. Merrevane, 4. Malcade, 5. Sorel. To be delivered by hand
+  to **Inquisitor Aurelia Kesh** and no other. Varsaine carries it.
+- **Plan:** burn both seeds in the Lantern's drive; 9 days' warp to Kesh at
+  **Saint Ivaine's Rest**; the Pilgrim's Mercy reaches Ustrennos in 4 days, after
+  which **Drachen will know** and start hunting. Then Velk.
 
 ## The hub
 
