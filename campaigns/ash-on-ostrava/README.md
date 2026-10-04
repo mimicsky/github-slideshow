@@ -121,6 +121,10 @@ ritual knife was left in the cistern.
 - **Colonel Strahn** is loyal. He wrote the "hold the gate" order Tamsin carried.
   He doesn't know Tamsin was the runner.
 - **The ritual knife,** left in the Tower Nine cistern.
+- **Blessing offered for Shameholder** by Enginseer Hespa-Vor (engine deck):
+  Rending teeth (3 plasteel, 1 machine-core), Bloodthirsty spirit (2 plasteel,
+  2 ceramite), or Debt-taker (downing a heretic gives +2 to the next roll that
+  fight; 2 plasteel, 1 cogitator relic). One only. Player may propose their own.
 
 ## The hub
 
@@ -138,3 +142,10 @@ acolyte with requisition rights.
 - Player feedback: resolve only the player's action, then stop. Don't let NPCs
   make big moves past it.
 - The red lever on the Calyx beacon was a genuine 50/50 rolled in the open.
+- **Player is a collector, borderline hoarder.** Likes picking up a wide variety
+  of weapons and curiosities. Put interesting things in the world to find. The
+  DM may invent guns and melee weapons that aren't strictly 40k canon, as long
+  as they fit the setting's feel. Tamsin's quarters on the Lantern are where the
+  collection lives; in the field, carry what is plausible.
+- Player is new to 40k but knows Darktide well. Use Darktide as a reference.
+- Speech in quotes is Tamsin speaking. Stop after the player's action.
