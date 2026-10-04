@@ -75,10 +75,10 @@ Pronouns unset; using they/them until the player says otherwise.
 | Antitoxin injector | 1 (from Haldis) |
 | Purification salve | 1 tin |
 | Plague rebreather | Double-filtered, from Haldis |
-| Salvage satchel | 1 plasteel, 1 step-down coil (for Last Word's adaptor). Machine-core and 1 plasteel went into the overdrive |
+| Salvage satchel | 1 plasteel. Machine-core and 1 plasteel went into the overdrive; the coil went into Last Word's adaptor |
 | **Shameholder** (chainsword) | Named by Tamsin in the Lantern's chapel. Re-toothed and mag-locked by Ottrick. Old pirate Chaos star ground off the motor casing; **SHAME** etched in big block letters along the blade spine by Ottrick. Purity seal on the hilt (one use, fresh parchment from Thane). **Overdrive module** being fitted by Ottrick, ready day 3 of downtime: once per mission, ~30 seconds; armour counts one step lighter and advantage in mob pushes; afterward unusable for the rest of that fight; a natural 1 while running burns the motor out until repaired |
 | Combat knife | |
-| **Last Word** (in locker) | Lucius-pattern duelling laspistol, carnodon-tusk grip, brass beast-head muzzle. Jory Venn's family piece. One bar of charge. Needs an adaptor (conduit, step-down coil from a broken lasgun, small screwdriver) to charge on a standard coupling. Tamsin knows how |
+| **Last Word** (in locker) | Lucius-pattern duelling laspistol, carnodon-tusk grip, brass beast-head muzzle. Jory Venn's family piece. Adaptor built by Hespa-Vor at Tamsin's request: charges from any standard coupling, 6 hours to full. Engraved *Ultima Verba* ("the last words"). Venn family of Halcyon Reach, carnodon hunters. Thane blessed it before Velk; that seal is **spent**, burned out from inside: Venn called on it. Thane will re-seal it once charged |
 | Flak armour, void-mask, rebreather | Armour dented |
 | Acolyte pin, Cadian medal (eagle filed off, now sealed with a wax aquila by Confessor Thane) | Medal: Cadian service medal, earned on the walls of Kasr Holn. Tamsin filed the eagle off out of **shame** for never delivering Strahn's hold order. Set by the player, session 3 |
 
