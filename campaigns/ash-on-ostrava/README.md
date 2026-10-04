@@ -249,6 +249,7 @@ acolyte with requisition rights.
   DM may invent guns and melee weapons that aren't strictly 40k canon, as long
   as they fit the setting's feel. Tamsin's quarters on the Lantern are where the
   collection lives; in the field, carry what is plausible.
+- **Fewer freebies.** The player wants to earn gear through salvage, trades and risk. Shop items should cost something; gifts only when the fiction strongly earns them.
 - Player is new to 40k but knows Darktide well. Use Darktide as a reference.
 - Speech in quotes is Tamsin speaking. Stop after the player's action.
 - When naming an NPC, add their role in brackets, e.g. Hespa-Vor (enginseer), so the player can keep track.
