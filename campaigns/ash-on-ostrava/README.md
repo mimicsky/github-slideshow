@@ -76,14 +76,14 @@ Pronouns unset; using they/them until the player says otherwise.
 | Purification salve | 1 tin |
 | Plague rebreather | Double-filtered, from Haldis |
 | Salvage satchel | 1 machine-core, 2 plasteel, 1 step-down coil (for Last Word's adaptor) |
+| **Shameholder** (chainsword) | Named by Tamsin in the Lantern's chapel. Re-toothed and mag-locked by Ottrick. Old pirate Chaos star ground off the motor casing; **SHAME** etched in big block letters along the blade spine by Ottrick. Purity seal on the hilt (one use, fresh parchment from Thane) |
 | Combat knife | |
 | **Last Word** (in locker) | Lucius-pattern duelling laspistol, carnodon-tusk grip, brass beast-head muzzle. Jory Venn's family piece. One bar of charge. Needs an adaptor (conduit, step-down coil from a broken lasgun, small screwdriver) to charge on a standard coupling. Tamsin knows how |
-| Salvage satchel | Ottrick's loan, empty |
 | Flak armour, void-mask, rebreather | Armour dented |
 | Acolyte pin, Cadian medal (eagle filed off, now sealed with a wax aquila by Confessor Thane) | Medal: Cadian service medal, earned on the walls of Kasr Holn. Tamsin filed the eagle off out of **shame** for never delivering Strahn's hold order. Set by the player, session 3 |
 
 Traded to Ottrick: lasgun and its 3 packs, Malcade's laspistol, plasma cutter.
-**Debt to Ottrick: paid** with 2 servo-motors from Kessel's Reach. Tamsin promised him Merrevane's bolt pistol and its 4 rounds as a gift, once Varsaine releases it.
+**Debt to Ottrick: paid** with 2 servo-motors from Kessel's Reach. Gave him Merrevane's 4 Mars-pattern bolt rounds; promised him the bolt pistol itself once Varsaine releases it (2 days).
 His wishlist: Mechanicus parts, bolt rounds (he has a boltgun he can't feed),
 xenos tech, a sealed bottle of real spire amasec.
 
