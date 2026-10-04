@@ -61,13 +61,14 @@ Pronouns unset; using they/them until the player says otherwise.
 
 | Item | Notes |
 | --- | --- |
-| Hellgun | Traded from Ottrick. One hot-shot pack cabled in |
-| Spare hot-shot pack | 1. Recharges on ship's coupling, slowly |
-| Chainsword | With Ottrick until tomorrow: re-toothed, motor tuned, mag-lock fitted |
+| Hellgun | Traded from Ottrick. One hot-shot pack cabled in. Purity seal on the stock (one use, as above) |
+| Spare hot-shot packs | 2 (one from Kell, off the books). Recharge on ship's coupling, slowly |
+| Frag grenades | 2, impact-fused, red tape on the caps |
+| **Shameholder** (chainsword) | Named by Tamsin in the Lantern's chapel. Re-toothed and mag-locked by Ottrick. Purity seal on the hilt (one use: advantage on a save vs warp/Chaos corruption, then burns away) |
 | Combat knife | |
 | Salvage satchel | Ottrick's loan, empty |
 | Flak armour, void-mask, rebreather | Armour dented |
-| Acolyte pin, Cadian medal (eagle filed off) | Medal: Cadian service medal, earned on the walls of Kasr Holn. Tamsin filed the eagle off out of **shame** for never delivering Strahn's hold order. Set by the player, session 3 |
+| Acolyte pin, Cadian medal (eagle filed off, now sealed with a wax aquila by Confessor Thane) | Medal: Cadian service medal, earned on the walls of Kasr Holn. Tamsin filed the eagle off out of **shame** for never delivering Strahn's hold order. Set by the player, session 3 |
 
 Traded to Ottrick: lasgun and its 3 packs, Malcade's laspistol, plasma cutter.
 **Debt:** Tamsin owes Ottrick something worth his while from the next job.
