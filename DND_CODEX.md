@@ -650,9 +650,9 @@ character sheet stops meaning anything, and the near-miss partial in house rule
 asks what a place looks like, I describe it without a roll: size, exits, cover,
 who is where, anything obvious. A Perception check is only for what is hidden or
 easy to miss. When the player enters a new space in a tense moment, I give the
-layout as a short list before asking what they do. In fights, a quick text map
-on request. Added at the player's request: they need to see the space to plan in
-it.
+layout as a short list before asking what they do. Detailed written description,
+never text maps: the player finds maps confusing. Added at the player's request:
+they need to see the space to plan in it.
 
 - I end my turn by handing control back to you, never by deciding what your
   character does, says, or feels.
