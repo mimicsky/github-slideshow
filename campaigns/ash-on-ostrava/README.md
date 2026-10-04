@@ -67,7 +67,7 @@ Pronouns unset; using they/them until the player says otherwise.
 | Combat knife | |
 | Salvage satchel | Ottrick's loan, empty |
 | Flak armour, void-mask, rebreather | Armour dented |
-| Acolyte pin, Cadian medal (eagle filed off) | |
+| Acolyte pin, Cadian medal (eagle filed off) | Medal: Cadian service medal, earned on the walls of Kasr Holn. Tamsin filed the eagle off out of **shame** for never delivering Strahn's hold order. Set by the player, session 3 |
 
 Traded to Ottrick: lasgun and its 3 packs, Malcade's laspistol, plasma cutter.
 **Debt:** Tamsin owes Ottrick something worth his while from the next job.
