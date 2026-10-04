@@ -4,7 +4,7 @@ Campaign state. Rules live in `../../DND_CODEX.md`; this file holds only what's
 true about this particular game.
 
 - **Started:** 2026-10-03
-- **Sessions played:** 2
+- **Sessions played:** 2, session 3 in progress
 - **System:** D&D 5e chassis reskinned for Warhammer 40,000, narrative mode, all
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
@@ -50,7 +50,7 @@ Pronouns unset; using they/them until the player says otherwise.
 | Field | Value |
 | --- | --- |
 | Class | Fighter 5, **Champion** (crits on 19-20). Action Surge, Extra Attack. ASI at 4: +2 DEX |
-| Health | Hurt (thrown against a bulkhead). Action Surge spent |
+| Health | Fine. Action Surge ready. **Sharp edge (melee):** advantage once on a melee roll on the Kessel's Reach mission, from beating Kell in the ring |
 | STR / DEX / CON / INT / WIS / CHA | 13 / 17 / 14 / 10 / 12 / 8 |
 | Proficiency bonus | +3 |
 | Skills | Perception, Athletics, Survival, Intimidation |
@@ -66,6 +66,7 @@ Pronouns unset; using they/them until the player says otherwise.
 | Frag grenades | 2, impact-fused, red tape on the caps |
 | **Shameholder** (chainsword) | Named by Tamsin in the Lantern's chapel. Re-toothed and mag-locked by Ottrick. Purity seal on the hilt (one use: advantage on a save vs warp/Chaos corruption, then burns away) |
 | Combat knife | |
+| **Last Word** (in locker) | Lucius-pattern duelling laspistol, carnodon-tusk grip, brass beast-head muzzle. Jory Venn's family piece. One bar of charge. Needs an adaptor (conduit, step-down coil from a broken lasgun, small screwdriver) to charge on a standard coupling. Tamsin knows how |
 | Salvage satchel | Ottrick's loan, empty |
 | Flak armour, void-mask, rebreather | Armour dented |
 | Acolyte pin, Cadian medal (eagle filed off, now sealed with a wax aquila by Confessor Thane) | Medal: Cadian service medal, earned on the walls of Kasr Holn. Tamsin filed the eagle off out of **shame** for never delivering Strahn's hold order. Set by the player, session 3 |
@@ -125,6 +126,20 @@ ritual knife was left in the cistern.
   Rending teeth (3 plasteel, 1 machine-core), Bloodthirsty spirit (2 plasteel,
   2 ceramite), or Debt-taker (downing a heretic gives +2 to the next roll that
   fight; 2 plasteel, 1 cogitator relic). One only. Player may propose their own.
+
+- **Jory Venn's stash.** Previous acolyte, lost on "the Velk job" two years
+  ago. Left Last Word, a note, and a xenos(?) bone charm in Tamsin's locker.
+  Note: "Don't trust the ENGINSEER", scratched out later in newer, neat ink.
+  The charm (black, warm, grown not carved, six-limbed eyeless creature, spiral
+  mark) is now in Varsaine's null-casket in the archive, to be examined off-ship
+  after Kessel's Reach. Varsaine ordered it destroyed two years ago; Venn didn't.
+  Previous enginseer Magos Drel died 18 months ago in a "plasma-coil accident";
+  Hespa-Vor arrived three weeks later. Varsaine is quietly pulling vox and pict
+  logs. Tamsin is to act normal around Hespa-Vor.
+- **Kell:** beaten in the ring by Tamsin, who stepped back when he was down.
+  Asked Tamsin to cover his bad left side on missions. Their own fist-bump
+  handshake. Troopers chanted "Shameholder."
+- **Confessor Thane** sealed the medal and blessed both weapons.
 
 ## The hub
 
