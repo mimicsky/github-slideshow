@@ -9,7 +9,7 @@ true about this particular game.
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
 - **Character level:** 6
-- **XP:** 18,425. **Level 6** (ASI pending). Level 7 at 23,000.
+- **XP:** 18,425. **Level 6.** Level 7 at 23,000.
 
 | Award | XP |
 | --- | --- |
@@ -65,9 +65,9 @@ Pronouns unset; using they/them until the player says otherwise.
 
 | Field | Value |
 | --- | --- |
-| Class | Fighter 5, **Champion** (crits on 19-20). Action Surge, Extra Attack. ASI at 4: +2 DEX |
+| Class | Fighter 5, **Champion** (crits on 19-20). Action Surge, Extra Attack. ASI at 4: +2 DEX; ASI at 6: +2 CHA |
 | Health | Fine. Action Surge ready. **Sharp edge (shooting):** advantage on one shot on the Pilgrim's Mercy mission, from range training on downtime day 3 |
-| STR / DEX / CON / INT / WIS / CHA | 13 / 17 / 14 / 10 / 12 / 8 |
+| STR / DEX / CON / INT / WIS / CHA | 13 / 17 / 14 / 10 / 12 / 10 |
 | Proficiency bonus | +3 |
 | Skills | Perception, Athletics, Survival, Intimidation |
 | Want | Find who opened the gate at Kasr Holn |
