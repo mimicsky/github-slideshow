@@ -56,6 +56,31 @@ true about this particular game.
 
 ---
 
+## How the player likes to play
+
+The same list as the codex's Part 6, kept here so it is never missed on resume.
+
+- **Stop after the player's action.** Resolve only what the player does, then
+  hand control back. NPCs don't make big moves past it.
+- **Speech in quotes** is the character talking aloud; everything else is action.
+- **Name every NPC with their role** in brackets the first time in a reply, e.g.
+  Hespa-Vor (enginseer).
+- **Describe places in detail, for free,** when asked. Perception is only for
+  hidden things. **No text maps.**
+- **The player rolls physical dice** and gives the raw number; the DM adds
+  modifiers. NPC dice and undecided facts are rolled openly with a real RNG.
+- **Hidden DCs, near-miss partials, the exchange** for melee (house rules 1, 3, 5).
+- **Explain setting lore briefly** out of character when asked, limited to what
+  the character would know. Use references the player knows (Darktide for 40k).
+- **The player is a collector.** Put interesting things in the world to find and
+  keep; invented gear is fine if it fits the setting.
+- **Fewer freebies.** Gear is earned through salvage, trades and risk.
+- **The player may propose** blessings, mods and backstory; the DM judges fairness.
+- **Save state** to the campaign files and push after anything important.
+- The player is **new to 40k but knows Darktide well**.
+
+---
+
 ## The character
 
 **Tamsin Rook.** Cadian. Former corporal, Cadian Shock Troops; now an
