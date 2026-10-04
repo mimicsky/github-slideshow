@@ -69,17 +69,18 @@ Pronouns unset; using they/them until the player says otherwise.
 
 | Item | Notes |
 | --- | --- |
-| **Vigil** (hellgun) | Named by Tamsin after Hespa-Vor communed with it. Old spirit, three bearers before Tamsin; patient, loyal, dislikes full-auto. Last bearer storm trooper **Korren**, 41 kills, died holding it on **Velk** two years ago. Sling wrapped in Tamsin's Cadian camo; whole gun repainted in Cadian disruptive camo by Ottrick, covering Korren's name and tallies ("Vigil will not forget him"). Purity seal on the stock (one use) |
+| **Vigil** (hellgun) | Named by Tamsin after Hespa-Vor communed with it. Old spirit, three bearers before Tamsin; patient, loyal, dislikes full-auto. Last bearer storm trooper **Korren**, 41 kills, died holding it on **Velk** two years ago. Sling wrapped in Tamsin's Cadian camo; whole gun repainted in Cadian disruptive camo by Ottrick, covering Korren's name and tallies ("Vigil will not forget him"). Purity seal on the stock (one use). **Bayonet lug** fitted (day 3): Tamsin's Kasr Holn combat knife clicks on as a bayonet |
 | Hot-shot packs | 1 in the gun (full), 1 spare (full), 1 charging at Ottrick's bench |
 | Frag grenades | 2, impact-fused, red tape on the caps |
 | Smoke grenades | 2, from Ottrick |
+| Krak grenade | 1, anti-armour, free from Ottrick after the overdrive test |
 | Thigh holster rig | Quick-draw, sized for Last Word. Gift from Ottrick |
 | Kantrael-pattern lasgun (in quarters) | Backup rifle, gift from Ottrick, with 2 standard las packs |
 | Antitoxin injector | 1 (from Haldis) |
 | Purification salve | 1 tin |
 | Plague rebreather | Double-filtered, from Haldis |
-| Salvage satchel | 1 plasteel. Machine-core and 1 plasteel went into the overdrive; the coil went into Last Word's adaptor |
-| **Shameholder** (chainsword) | Named by Tamsin in the Lantern's chapel. Re-toothed and mag-locked by Ottrick. Old pirate Chaos star ground off the motor casing; **SHAME** etched in big block letters along the blade spine by Ottrick. Purity seal on the hilt (one use, fresh parchment from Thane). **Overdrive module** being fitted by Ottrick, ready day 3 of downtime: once per mission, ~30 seconds; armour counts one step lighter and advantage in mob pushes; afterward unusable for the rest of that fight; a natural 1 while running burns the motor out until repaired |
+| Salvage satchel | Empty. Last plasteel paid for Vigil's bayonet lug |
+| **Shameholder** (chainsword) | Named by Tamsin in the Lantern's chapel. Re-toothed and mag-locked by Ottrick. Old pirate Chaos star ground off the motor casing; **SHAME** etched in big block letters along the blade spine by Ottrick. Purity seal on the hilt (one use, fresh parchment from Thane). **Overdrive module** fitted by Ottrick, tested on day 3 (cut a cargo servitor in half): once per mission, ~30 seconds; armour counts one step lighter and advantage in mob pushes; afterward unusable for the rest of that fight; a natural 1 while running burns the motor out until repaired |
 | Combat knife | |
 | **Last Word** | Lucius-pattern duelling laspistol, carnodon-tusk grip, brass beast-head muzzle. Jory Venn's family piece. Adaptor built by Hespa-Vor at Tamsin's request: charges from any standard coupling, 6 hours to full. Engraved *Ultima Verba* ("the last words"). Venn family of Halcyon Reach, carnodon hunters. Thane blessed it before Velk; that seal is **spent**, burned out from inside: Venn called on it. Re-sealed by Thane on downtime day 2: fresh purity seal under the trigger guard (one use). Worn in a thigh holster |
 | Flak armour, void-mask, rebreather | Armour dented |
