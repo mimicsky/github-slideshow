@@ -218,6 +218,16 @@ ritual knife was left in the cistern.
   **Saint Ivaine's Rest**; the Pilgrim's Mercy reaches Ustrennos in 4 days, after
   which **Drachen will know** and start hunting. Then Velk.
 
+- **The charm and both seeds are destroyed.** Merrevane had felt the charm
+  through the null-casket; three of its twelve wards had burned out. Tamsin
+  carried it to the plasma drive, deliberately let themself feel it, resisted
+  its pull on a Wisdom save (17, no seal burned), and threw it in; both seeds
+  followed. The plasma flared green-black and Tamsin heard an ancient scream
+  fade. Varsaine: "Something heard that die." Nothing appeared on the augurs
+  (rolled 9, needed 1-5). The Lantern jumped to warp: 9 days to Saint Ivaine's
+  Rest. If the Velk vault needs a key, there is no longer one.
+- **Shipmaster Halvard** commands the Lantern's bridge crew.
+
 ## The hub
 
 **The *Unblinking Lantern*,** Varsaine's warship, hidden behind Ostrava's moon.
