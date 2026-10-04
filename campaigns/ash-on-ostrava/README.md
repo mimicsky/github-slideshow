@@ -4,7 +4,7 @@ Campaign state. Rules live in `../../DND_CODEX.md`; this file holds only what's
 true about this particular game.
 
 - **Started:** 2026-10-03
-- **Sessions played:** 3
+- **Sessions played:** 3 (session 4 in progress)
 - **System:** D&D 5e chassis reskinned for Warhammer 40,000, narrative mode, all
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
@@ -119,7 +119,7 @@ Pronouns unset; using they/them until the player says otherwise.
 | **Carapace chest plate** | From Ottrick, "unofficially", in thanks for Merrevane's bolt pistol (day 3). Worn over the flak |
 | Flak armour, void-mask, rebreather | Flak dented |
 | **Dace's collar detonator** | Matchbox-sized, one button under a flip-cap. Varsaine's price for sparing Dace |
-| Acolyte pin, Cadian medal (eagle filed off, now sealed with a wax aquila by Confessor Thane) | Medal: Cadian service medal, earned on the walls of Kasr Holn. Tamsin filed the eagle off out of **shame** for never delivering Strahn's hold order. Set by the player, session 3 |
+| Acolyte pin, Cadian medal (eagle filed off, sealed with a wax aquila by Confessor Thane; **the wax aquila cracked down the middle** on warp night 2) | Medal: Cadian service medal, earned on the walls of Kasr Holn. Tamsin filed the eagle off out of **shame** for never delivering Strahn's hold order. Set by the player, session 3 |
 
 Traded to Ottrick: lasgun and its 3 packs, Malcade's laspistol, plasma cutter.
 **Debt to Ottrick: paid** with 2 servo-motors from Kessel's Reach. Gave him Merrevane's 4 Mars-pattern bolt rounds and then the bolt pistol itself (day 3). He swore never to trade it and wears it on his hip.
@@ -275,6 +275,18 @@ ritual knife was left in the cistern.
 - Hespa-Vor never accessed Tamsin's vox; it learned of Shameholder's name
   through crew gossip (Varsaine checked the logs). Varsaine is writing Tamsin up
   for a formal commendation in his report to Kesh.
+
+- **Session 4, warp day 2-3.** The spiral dreams. Something is reaching for
+  those who were at the burning (Tamsin, deckhand Morrow, rating Ashby). Geller
+  field dips ~4% around 0300. Night 2: Tamsin failed a Wisdom save (9/4, +1),
+  Thane's sleep seal burned, Tamsin sleepwalked to Ysolde's hatch and turned
+  its wheel a quarter before refusing aloud. **Ysolde** has been listening to
+  it for two nights; wants Tamsin and Varsaine at her chamber by day.
+- **Kesh protocol** (Varsaine): nothing written past the dock; only Varsaine and
+  Tamsin go down; **Mother Oculine** (Kesh's psyker) reads Tamsin; facts only,
+  no guessing about Drachen; Tamsin tells Kesh the undelivered-message story
+  and the dreams first. Saint Ivaine's Rest is a pilgrim shrine-asteroid with a
+  basilica; Kesh lives beneath it.
 
 ## The hub
 

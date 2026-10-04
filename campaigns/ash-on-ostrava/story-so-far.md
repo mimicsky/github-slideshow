@@ -3,9 +3,8 @@
 Written to be read cold. Read this, then `README.md` in this folder, then
 `../../DND_CODEX.md` for the rules.
 
-**Where we stopped:** end of session 1, night, in the cult's cistern under
-Tower Nine. Tamsin has just accepted Varsaine's pin and become an acolyte of the
-Ordos. Next scene starts fresh.
+**Where we stopped:** session 4 in progress, morning of warp day 3 of 9 aboard
+the Lantern, after a second spiral dream. See the end of this file.
 
 ---
 
@@ -156,3 +155,27 @@ refused it.*
 Kesh. Tamsin is going to sleep. In four days Drachen learns his seed is gone.
 The page is not enough to convict him; Strahn, alive on Ostrava Primus, may be.
 Velk waits.
+
+## Session 4: The Open Door (in progress)
+
+**Warp day 2.** Tamsin dreamt of the Kasr Holn ramp: the hand taking the
+message belonged to a faceless figure with a turning spiral for a face. At the
+1400 briefing Varsaine laid out the **Kesh protocol**: nothing written goes past
+the dock; only Varsaine and Tamsin go down; Kesh's psyker **Mother Oculine**
+will read Tamsin; answer only what is asked; tell Kesh about the undelivered
+message, all of it, before Oculine finds it. Shipmaster Halvard reported the
+Geller field dipped 4% at 0300, and two crew who carried the seed caskets
+(Morrow and Ashby) dreamt of a spiral. Tamsin told the whole dream. Varsaine
+sent the two to Thane and gave Tamsin a sleep seal from Thane.
+
+**Warp night 2.** The dream came back: the gate control room, the faceless one
+offering Strahn's message, unopened, and rest with it. Tamsin failed the
+Wisdom save even with the seal (it burned away), took the paper, and found only
+the spiral inside. Tamsin woke sleepwalking on Deck 2, hand on the wheel of
+**Ysolde's** hatch, a quarter turn open, with the medal's wax eagle cracked.
+Ysolde warned them off through the steel. Tamsin refused the thing aloud ("I
+will not falter, not again"), closed the hatch, and the shame came back, which
+was the point. Ysolde: *It doesn't break doors. It waits for someone to open
+them.* She asked Tamsin to come back by day with Varsaine.
+
+**Where we stopped:** morning, warp day 3 of 9.
