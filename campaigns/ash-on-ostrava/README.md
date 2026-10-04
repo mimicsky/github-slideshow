@@ -72,7 +72,7 @@ Pronouns unset; using they/them until the player says otherwise.
 | Acolyte pin, Cadian medal (eagle filed off, now sealed with a wax aquila by Confessor Thane) | Medal: Cadian service medal, earned on the walls of Kasr Holn. Tamsin filed the eagle off out of **shame** for never delivering Strahn's hold order. Set by the player, session 3 |
 
 Traded to Ottrick: lasgun and its 3 packs, Malcade's laspistol, plasma cutter.
-**Debt:** Tamsin owes Ottrick something worth his while from the next job.
+**Debt to Ottrick: paid** with 2 servo-motors from Kessel's Reach. Tamsin promised him Merrevane's bolt pistol and its 4 rounds as a gift, once Varsaine releases it.
 His wishlist: Mechanicus parts, bolt rounds (he has a boltgun he can't feed),
 xenos tech, a sealed bottle of real spire amasec.
 

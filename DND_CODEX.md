@@ -749,6 +749,13 @@ natural 20 also earns something in the fiction (respect, a trick, a rival). A
 failure costs nothing but time; a natural 1 means a minor strain, nothing that
 carries into the mission.
 
+### The quartermaster's stock
+
+The hub's armoury stock **refreshes each new day** aboard: a handful of items,
+priced in salvage or trade, never coin. Some are canon, some invented for the
+setting. The player may ask the quartermaster to **hold** an item; the
+quartermaster decides in character whether to, and for how long.
+
 ### Purity seals
 
 A priest blesses gear and stamps a seal on it. Each seal gives **advantage on
