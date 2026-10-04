@@ -58,7 +58,7 @@ Pronouns unset; using they/them until the player says otherwise.
 | Field | Value |
 | --- | --- |
 | Class | Fighter 5, **Champion** (crits on 19-20). Action Surge, Extra Attack. ASI at 4: +2 DEX |
-| Health | Fine. Action Surge ready |
+| Health | Fine. Action Surge ready. **Sharp edge (shooting):** advantage on one shot on the Pilgrim's Mercy mission, from range training on downtime day 3 |
 | STR / DEX / CON / INT / WIS / CHA | 13 / 17 / 14 / 10 / 12 / 8 |
 | Proficiency bonus | +3 |
 | Skills | Perception, Athletics, Survival, Intimidation |
