@@ -763,6 +763,12 @@ one save** against warp or Chaos corruption (plague, possession, madness) and
 then burns away. Free from a priest who judges the soldier worthy. Faith in this
 setting is sometimes literally armour.
 
+**Earned seals.** One working seal per weapon (or armour) gives the mechanic.
+Extra seals are honours: when the player does something worthy of it, the hub's
+priest summons them unprompted and seals a piece of their gear, chosen by the
+DM. Honour seals have no mechanical effect; they record deeds. Risk earns them,
+asking does not.
+
 ### Weapon blessings
 
 The Darktide system, adapted. A tech-priest consecrates a weapon to the
