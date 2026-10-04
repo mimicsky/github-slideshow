@@ -118,7 +118,7 @@ ritual knife was left in the cistern.
 | Interrogator Varsaine | Ordo agent, steel left hand. Was the major at the gate controls on Cadia; says he was stabbed and left for dead | Tamsin's new superior. Trust: earned, not total |
 | Sergeant Kell | Varsaine's storm trooper sergeant, nine years with the Ordos | Respects Tamsin. Called them "brother" back |
 | Major Orlov | Garrison commander, Ostrava Secundus. Fair, tired, ~50 | Warned Tamsin to be careful. Putting trusted gunners on the Hydra battery |
-| Dace / Pvt. Halvic Teodor | 19. Held the control-room door on Cadia. Open Gate member | Surrendered, in binders |
+| Dace / Pvt. Halvic Teodor | 19. Held the control-room door on Cadia at 17, for Malcade's promise that his mother and sister would be evacuated; they never were and died in the hab collapse. The Open Gate took him in afterward. Broke with them after Tower Nine; tried to scratch off his palm mark. **Player-set traits (session 3):** melee specialist; fascinated by blades like Tamsin is by everything; a natural **smith and crafter** from his home kasr, can turn scrap into something useful; picks up every blade he finds. Good and caring at heart, willing to die to prove himself; right now a scared boy. Wants redemption the way Tamsin seeks it through Shameholder | In a cell on the Lantern, Deck 6. Asked Tamsin to ask Varsaine for a chance, collar and all |
 | Capt. Oren Malcade, "the Keyholder" | 122nd Cadian, listed KIA. One of the "unconscious" officers on the control-room floor | Captured, badly wounded, wrist shot through, stabilised |
 | Sergeant Brask | East line, Open Gate member | Dead, shot by Tamsin |
 | Vell | Quartermaster's clerk, Open Gate member | Among the captured |
