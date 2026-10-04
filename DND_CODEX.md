@@ -764,6 +764,10 @@ it destroys the old one. Examples:
 
 Salvage is shared demand: the quartermaster wants it too.
 
+The player may propose their own blessings. It has to fit the weapon and the
+fiction, and be about as strong as the examples. The DM decides whether it is
+fair, and may accept it, adjust it, or turn it down with the reason.
+
 ---
 
 ## Quick Reference Card
