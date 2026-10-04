@@ -152,6 +152,16 @@ ritual knife was left in the cistern.
   Rending teeth (3 plasteel, 1 machine-core), Bloodthirsty spirit (2 plasteel,
   2 ceramite), or Debt-taker (downing a heretic gives +2 to the next roll that
   fight; 2 plasteel, 1 cogitator relic). One only. Player may propose their own.
+- **Blessing offered for Vigil** by Hespa-Vor: **Korren's breath** (when Tamsin
+  spends the moment aiming, no moving, that shot crits on 18-20; 2 plasteel,
+  1 cogitator relic; the spirit's favourite), **Efficient coils** (each hot-shot
+  pack lasts noticeably longer; 2 plasteel, 1 machine-core), **Steady
+  machine-spirit** (once per mission reroll one shot; 2 plasteel, 1 servo-motor).
+  Scope or bigger packs are Ottrick mods, not blessings.
+- **Long-term goal: a fully kitted squad.** Salvage split between Hespa-Vor
+  (blessings), Ottrick (paint and mods) and Dace (custom grips, guards, stocks).
+  Since Tamsin's speech, troopers queue to have Hespa-Vor commune with their
+  guns; the crew now thanks the enginseer.
 
 - **Jory Venn's stash.** Previous acolyte, lost on "the Velk job" two years
   ago. Left Last Word, a note, and a xenos(?) bone charm in Tamsin's locker.
