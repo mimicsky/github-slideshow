@@ -21,7 +21,7 @@ conversation.
 | Campaign | System | Status |
 | --- | --- | --- |
 | [Three Crowns](campaigns/three-crowns/) | D&D 5e, narrative mode | **Paused** after session 1, day eight, mid-decision in a captured fort |
-| [Ash on Ostrava](campaigns/ash-on-ostrava/) | Warhammer 40k on the 5e chassis, narrative mode | **Paused** after session 2, Calyx Dawn and the raider fleet destroyed |
+| [Ash on Ostrava](campaigns/ash-on-ostrava/) | Warhammer 40k on the 5e chassis, narrative mode | **Paused** after session 3, in the warp en route to Inquisitor Kesh with Strahn's list |
 
 ## House rules at a glance
 

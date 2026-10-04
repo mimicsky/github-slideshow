@@ -4,7 +4,7 @@ Campaign state. Rules live in `../../DND_CODEX.md`; this file holds only what's
 true about this particular game.
 
 - **Started:** 2026-10-03
-- **Sessions played:** 2, session 3 in progress
+- **Sessions played:** 3
 - **System:** D&D 5e chassis reskinned for Warhammer 40,000, narrative mode, all
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
@@ -238,6 +238,18 @@ ritual knife was left in the cistern.
   (rolled 9, needed 1-5). The Lantern jumped to warp: 9 days to Saint Ivaine's
   Rest. If the Velk vault needs a key, there is no longer one.
 - **Shipmaster Halvard** commands the Lantern's bridge crew.
+- **Ysolde (astropath)**, blind and old, in a sealed chamber on Deck 2 past the
+  archive. Cannot send from inside the warp. Varsaine sent Kesh a message before
+  the jump: "Coming. Have proof. Trust no Cadian Navy." Unknown if received or
+  intercepted.
+- **Is the proof enough?** No, not to convict. The page proves Strahn
+  *suspected* Drachen; it refers to "evidence attached under separate seal" that
+  nobody has found. Witnesses are traitors (Malcade, Dace) and a dying cultist
+  (Orsel). **Strahn is alive on Ostrava Primus** and knows what was in the second
+  packet. Plan: Kesh first, then find Strahn's evidence before Drachen does.
+- Hespa-Vor never accessed Tamsin's vox; it learned of Shameholder's name
+  through crew gossip (Varsaine checked the logs). Varsaine is writing Tamsin up
+  for a formal commendation in his report to Kesh.
 
 ## The hub
 

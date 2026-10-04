@@ -104,5 +104,55 @@ come wherever she drifted. All three raider ships docked onto her. The team
 launched in the ship's boat under turret fire, and Varsaine pressed the
 trigger. The *Calyx Dawn* and all three raiders went up together.
 
-**Where we stopped:** in the ship's boat, drifting away from the wreckage,
-heading for Varsaine's base of operations. Level-up choices pending.
+
+
+## Session 3: Seeds
+
+**The Lantern.** Varsaine's hidden warship became Tamsin's home: Ottrick
+(quartermaster), Haldis (medic), Thane (priest), Hespa-Vor (enginseer), Kell's
+storm troopers. Tamsin traded for a hellgun, beat Kell in the ring and refused to
+hit him while he was down, named the chainsword **Shameholder**, and had Thane
+seal a medal whose eagle they had filed off in shame for the undelivered
+message. In Tamsin's locker: the dead acolyte **Jory Venn**'s duelling pistol
+*Last Word*, a note warning against "the Enginseer", and a warm, grown bone charm
+marked with a spiral.
+
+**Kessel's Reach.** A dead forge-moon. Poxwalkers, a plague-beast, and
+**Colonel Ilse Merrevane**, the Warden, the woman whose hand took the message
+from Tamsin's pocket on the evacuation ramp. Tamsin shot her legs out from under
+her, chainsworded through a horde, saved Kell from the plague with an antitoxin,
+and caught Hespa-Vor pocketing a data-crystal on its Forge's orders, then talked
+it into honesty. The crystal told how the forge died: its Fabricator opened a
+pre-Imperial seed-vault marked with the same spiral as Venn's charm.
+
+**Merrevane's end.** She named **Lord-General Vaskor Drachen**, gave up the
+passphrase for the hospital ship carrying the third seed, revealed the second
+seed went to **Velk**, and asked Tamsin, not the priest, to end her before she
+turned. She renounced Nurgle with her last breath. Tamsin fired through the
+mercy port.
+
+**Downtime.** Shameholder got an overdrive heart from Ottrick and SHAME etched
+on its spine. The hellgun was named **Vigil**: it had belonged to Korren, who
+died holding it on Velk. Tamsin asked Varsaine to spare **Dace**; he agreed on
+one condition, that Tamsin hold the detonator to his collar. Dace renounced, and
+now works Drel's old forge.
+
+**The Pilgrim's Mercy.** Boarded as a medical relief team. "The garden is in
+bloom." Captain Orsel handed Tamsin **Strahn's second page** himself, then woke up
+bound. The seed had been opened early and was rooting into the air vents; it was
+sealed, a dying orderly named Tobin saved, and the team walked off without
+firing near a single ward.
+
+**The page.** Drachen, Halloran, Merrevane, Malcade, Sorel, to be delivered by
+hand to **Inquisitor Aurelia Kesh**, Varsaine's own Inquisitor.
+
+**The burning.** Merrevane had felt the charm through its null-casket. Tamsin
+carried it to the plasma drive, let it reach in and offer rest, refused, and
+threw it into the fire with both seeds. Something very old screamed and was
+gone. Thane sealed Shameholder in black wax: *Offered rest by the dark, and
+refused it.*
+
+**Where we stopped:** warp day 1 of 9, en route to Saint Ivaine's Rest and Lady
+Kesh. Tamsin is going to sleep. In four days Drachen learns his seed is gone.
+The page is not enough to convict him; Strahn, alive on Ostrava Primus, may be.
+Velk waits.
