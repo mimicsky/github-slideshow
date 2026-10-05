@@ -305,8 +305,13 @@ Ysolde, not Strahn directly. Lantern: 8 days to Ostrava. Drachen from
 Ustrennos: ~10, unless someone of his is closer.
 
 Back aboard, Ottrick took the cutlass and auspex (debt paid). The haul went into
-Drel's old crate in the lower hold, now *PROPERTY OF THE LIGHT*. Ottrick
+Drel's old shipping container in the lower hold, now *PROPERTY OF THE LIGHT*;
+Tamsin moved their own rack and gear into it too. Ottrick
 introduced Mag Vashti's Void Exchange; Tamsin queued an order for Ostrava and
 owes Ottrick two favours tonight. The Lantern jumped: 8 days to Ostrava.
 
-**Where we stopped:** warp day 1 to Ostrava, ~1145.
+Tamsin hauled Ottrick's crates and stood his armoury watch; Varsaine visited at
+0240, said Kesh made him wait two years for his rank, and thanked Tamsin.
+
+**Where we stopped:** warp day 2 to Ostrava, ~1200. Dace is awake and asking for
+Tamsin in medicae.
