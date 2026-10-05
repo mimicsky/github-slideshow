@@ -228,5 +228,23 @@ joined. Kell ended on twelve for twelve. Tamsin also ran the lasgun and Last
 Word, and drilled Shameholder footwork alone that night. All packs drained;
 full again by warp day 7.
 
-**Where we stopped:** night of warp day 5. Next session resumes warp day 6.
-Four days to Saint Ivaine's Rest, Kesh, and Mother Oculine's reading.
+## Session 5
+
+**Warp day 6.** Tamsin visited Dace at the forge. His servitor-rib blade has a
+brass guard; he still needs hide for a grip, brass wire and a pommel. Tamsin
+gave him leave to carry it ("as long as neither of you falter"). Hespa-Vor
+explained machine spirits (a spark of the Omnissiah in anything shaped with
+purpose; it grows with rites, bearer and use) and the **Rite of First Waking**
+(anoint, strike once on the maker's anvil, the bearer names it, first use for
+its purpose), free, which it will do for Dace. Tamsin plans to ask Varsaine for
+a scavenging run after Kesh, and warned Dace something is coming.
+
+**The rehearsal.** Varsaine played Kesh, Ysolde played Oculine. Tamsin
+forgot the vellum in their pocket; lesson: nothing written. Tamsin explained
+Venn and argued the note pre-empts Drachen's attack on Varsaine (16):
+"That's tactics." Notes: say "a charm marked with a spiral", not "plague relic";
+breathe. Tamsin told the Cadia story in full and named Varsaine as the major
+at the controls. Varsaine: "You'll do."
+
+**Where we stopped:** warp day 6, ~1115, Tamsin back in quarters to prepare.
+Three days to Saint Ivaine's Rest.
