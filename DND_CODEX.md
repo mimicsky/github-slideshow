@@ -811,6 +811,23 @@ priced in salvage or trade, never coin. Some are canon, some invented for the
 setting. The player may ask the quartermaster to **hold** an item; the
 quartermaster decides in character whether to, and for how long.
 
+### The Void Exchange
+
+A wider, dearer market beside the quartermaster, added at the player's request
+(Ash on Ostrava, session 5), like Darktide's Brunt's Armoury. In Ash on Ostrava
+it is **Mag Vashti's Void Exchange**, a Free Trader Ottrick buys from wholesale.
+
+- **Range:** almost anything, including rare and odd items.
+- **Price:** about double the quartermaster's for the same item. Trade goods
+  only (salvage, weapons, relics); no favours.
+- **When:** only in real space, never in the warp. Orders go by vox or astropath.
+- **Delivery:** days. A courier meets the ship or it waits at the next port.
+- **Risk:** the DM rolls on arrival; a delivery can be late, damaged or not
+  quite what was ordered.
+
+The quartermaster also takes **favours** as payment: a small favour (an errand,
+a watch, a bet, an extra item from a drop) buys one small item.
+
 ### Purity seals
 
 A priest blesses gear and stamps a seal on it. Each seal gives **advantage on
