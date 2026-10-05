@@ -25,10 +25,11 @@ conversation.
 
 ## House rules at a glance
 
-Five so far, all in Part 6 of the codex, all set during play:
+Six so far, all in Part 6 of the codex, all set during play:
 
 1. **Near-miss partial success** on ability checks, missing by 1 or 2
 2. **Variant ability pairing** on skills
 3. **Hidden DCs**, never announced
 4. **Narrative mode** — story first, dice at turning points, health as a state
 5. **The exchange** — opposed melee rolls, parry flips initiative, block keeps it
+6. **Shot chains** — each shot in a string rolled; a hit gives +2 (first) or +1, a miss -1, to the next shot only

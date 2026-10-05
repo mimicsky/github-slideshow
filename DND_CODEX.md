@@ -580,6 +580,28 @@ into the open stops being brave and becomes arithmetic.
 
 ---
 
+**6. Shot chains.**
+
+Added at the player's request in session 5, Ash on Ostrava, because the dice had
+felt too kind. When anyone fires more than one shot in a string at a moment that
+matters, every shot is its own d20, and each result tilts the next.
+
+| Shot | Hit | Miss |
+| --- | --- | --- |
+| First shot | +2 to the next shot | -1 to the next shot |
+| Every later shot | +1 to the next shot | -1 to the next shot |
+
+- **No stacking.** Only the previous shot's result applies, so the modifier is
+  always between -1 and +2.
+- A plain bonus or penalty, **not** 5e advantage.
+- **Enemies use it too.**
+- Normal crits still apply (Tamsin: 19-20). The near-miss rule does not apply,
+  because these are attack rolls.
+- **Narrative mode still governs.** Mobs stay narrative; the chain is for
+  strings of aimed shots at turning points, not every trigger pull.
+
+---
+
 ### Rulings made at the table
 
 When the book is silent or unclear, I rule once and then stick to it.
