@@ -1,5 +1,7 @@
 # Ash on Ostrava — the story so far
 
+**Season 1: Seed of Nurgle** (named by the player, session 5). Sessions 1 to 5 so far; the climax is Kesh and Drachen.
+
 Written to be read cold. Read this, then `README.md` in this folder, then
 `../../DND_CODEX.md` for the rules.
 
