@@ -405,8 +405,12 @@ Standing preferences, set during play. They apply to every campaign.
 - **Stop after the player's action.** Resolve only what the player does, then
   hand control back. NPCs don't make big moves past it.
 - **Speech in quotes** is the character talking aloud; everything else is action.
-- **Name every NPC with their role** in brackets the first time in a reply, e.g.
-  Hespa-Vor (enginseer).
+- **Name + role, every time.** Every time a named NPC, place or item comes up,
+  give the name then what it is, e.g. Hespa-Vor (enginseer), Velk (ice world),
+  Officer (Kell's hellgun). Every mention, not just the first.
+- **Dialogue as a script.** Speech is written in play format, one line per
+  speaker: `Kell (sergeant): line`. Action and description stay as prose
+  around it. Set by the player, session 4.
 - **Describe places in detail, for free,** when asked. Perception is only for
   hidden things. **No text maps.**
 - **The player rolls physical dice** and gives the raw number; the DM adds
