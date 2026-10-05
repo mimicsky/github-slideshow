@@ -257,5 +257,21 @@ First Waking at Dace's anvil. The blade rang true with a catch, "afraid, like
 its maker". Dace named it **Threshold** and cut his own scarred palm to give it
 its first blood, by choice this time.
 
-**Where we stopped:** warp day 7, ~0910, Drel's forge. Two days to Saint
-Ivaine's Rest.
+Tamsin told Kell and Varga about the scav run they want after Kesh: Tamsin,
+Kell, Varga, Dace. Varga chalked a name on the range wall: **THE LIGHT: ROOK,
+KELL, VARGA, DACE.**
+
+**Warp days 7-8.** Getting to know the crew: Ottrick lost his leg to a Chaos
+Dreadnought at Kasr Myrak the same night Tamsin evacuated; Haldis keeps a tin of
+19 dog tags of patients lost and wrote Tamsin's blood type on her wrist; the
+Navigator says the road has been quieter since the burning; Thane lost his faith
+for two years on Haddon's Drift and a private's prayer brought it back; Ysolde
+heard Cadia fall; Ashby gave Tamsin a ration bar; Varga is teaching Dace to
+parry.
+
+**Warp day 9, 0600.** Out of the warp at Saint Ivaine's Rest. Docked at the
+biggest pilgrim berth: a Cadian Navy frigate, ***Steadfast Ninth***, arrived two
+days ago, "pilgrim escort." The Lantern is still hidden behind a rock.
+
+**Where we stopped:** the bridge, warp day 9, Varsaine asking Tamsin what they
+see.
