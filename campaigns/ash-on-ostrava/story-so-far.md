@@ -298,4 +298,11 @@ become an Interrogator (18, a near miss): Kesh made Tamsin **Interrogator-
 designate**, leading The Light under Varsaine, full rank when Drachen falls and
 Strahn's evidence is found. Level 7.
 
-**Where we stopped:** Kesh's command chapel, Saint Ivaine's Rest, about 0800.
+Tamsin chose to race Drachen to Strahn on Ostrava Primus: *"Two heretics, one
+bullet."* Kesh agreed: Strahn alive is worth more than Drachen's head; bring one
+of Drachen's men alive if they're there. Varsaine is to warn Major Orlov via
+Ysolde, not Strahn directly. Lantern: 8 days to Ostrava. Drachen from
+Ustrennos: ~10, unless someone of his is closer.
+
+**Where we stopped:** back aboard the Lantern, ~1000, boat bay, the haul aboard,
+jump in an hour. Ottrick wants his first look.
