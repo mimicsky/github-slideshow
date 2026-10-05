@@ -273,5 +273,29 @@ parry.
 biggest pilgrim berth: a Cadian Navy frigate, ***Steadfast Ninth***, arrived two
 days ago, "pilgrim escort." The Lantern is still hidden behind a rock.
 
-**Where we stopped:** the bridge, warp day 9, Varsaine asking Tamsin what they
-see.
+Tamsin read the scene: warm guns, armsmen at the docks, a shuttle to Kesh's
+secret landing, a tower-and-eye pennant, and Kesh's lower windows dark (her own
+warning). Tamsin found three ways in and chose the ice-hauler lock. The Light,
+Varsaine and Hespa-Vor made a cold run in the boat with pilot Rennick, unseen.
+
+**The vault.** A shrine sister lay shot on the cistern stair. Above, five
+armsmen were cutting into Kesh's blast door. Tamsin's frag killed the cutters;
+Shameholder and a fist finished the rest; Dace disarmed Lt. Corvane. Kesh
+demanded proof; Varsaine gave it. Drachen's order on the slate: take Kesh
+alive, recover anything naming Strahn, burn the rest.
+
+**The ambush.** Twenty-odd armsmen came down the corridor. Tamsin's grenade (a
+natural 20) broke the column, Varsaine's smoke covered it, the team fired. Kesh
+saved Dace with her plasma pistol, Hespa-Vor killed the lift and jammed their
+vox, Tamsin's krak killed the vox operator, and Vigil put down their best man
+with a critical. Two surrendered.
+
+**The verdict.** From her command chapel Kesh declared Drachen *Excommunicate
+Traitoris*; the frigate's crew confined their captain and stood down, but he had
+already told Drachen "Lantern is here." Kesh took Strahn's page. Tamsin told the
+Cadia story without holding a breath. Asked what they wanted, Tamsin asked to
+become an Interrogator (18, a near miss): Kesh made Tamsin **Interrogator-
+designate**, leading The Light under Varsaine, full rank when Drachen falls and
+Strahn's evidence is found. Level 7.
+
+**Where we stopped:** Kesh's command chapel, Saint Ivaine's Rest, about 0800.

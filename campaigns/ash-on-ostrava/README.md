@@ -8,9 +8,9 @@ true about this particular game.
 - **System:** D&D 5e chassis reskinned for Warhammer 40,000, narrative mode, all
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
-- **Character level:** 6
+- **Character level:** 7
 - **Unused purity seal:** Thane's sleep seal from warp day 3, held by Varsaine
-- **XP:** 20,225. **Level 6.** Level 7 at 23,000.
+- **XP:** 25,975. **Level 7.** Level 8 at 34,000.
 
 | Award | XP |
 | --- | --- |
@@ -47,6 +47,12 @@ true about this particular game.
 | **Session 4** | |
 | Chapel speech (18) | 300 |
 | Spiral dreams broken, road cut with Ysolde | 1,500 |
+| **Session 5 (Saint Ivaine's Rest)** | |
+| Kesh's house cleared, Kesh saved | 1,500 |
+| Ambush of the boarding column | 2,000 |
+| Lt. Corvane taken alive | 450 |
+| Steadfast Ninth turned | 800 |
+| Strahn's page delivered | 1,000 |
 
 ---
 
@@ -105,8 +111,9 @@ Pronouns unset; using they/them until the player says otherwise.
 
 | Field | Value |
 | --- | --- |
-| Class | Fighter 5, **Champion** (crits on 19-20). Action Surge, Extra Attack. ASI at 4: +2 DEX; ASI at 6: +2 CHA |
-| Health | Fine. Action Surge ready. Healing seal-burn on chest. **Sharp edge (shooting):** advantage on one shot next mission (beat Kell 12-7 at the range, warp day 5, rolled 24). Training for this hub stay is spent |
+| Rank | **Interrogator-designate** (warrant of trial from Kesh, session 5). Leads own missions with The Light; Varsaine signs off. Full rank and rosette when Drachen is in chains or dead and Strahn's evidence from Ostrava Primus is delivered; fail and back to acolyte |
+| Class | Fighter 7, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks; longer running jumps). ASI at 4: +2 DEX; ASI at 6: +2 CHA |
+| Health | Fine. Sore punching hand. **Sharp edge (shooting): still unused** this mission |
 | STR / DEX / CON / INT / WIS / CHA | 13 / 17 / 14 / 10 / 12 / 10 |
 | Proficiency bonus | +3 |
 | Skills | Perception, Athletics, Survival, Intimidation |
@@ -119,9 +126,14 @@ Pronouns unset; using they/them until the player says otherwise.
 | --- | --- |
 | **Vigil** (hellgun) | Named by Tamsin after Hespa-Vor communed with it. Old spirit, three bearers before Tamsin; patient, loyal, dislikes full-auto. Last bearer storm trooper **Korren**, 41 kills, died holding it on **Velk** two years ago. Sling wrapped in Tamsin's Cadian camo; whole gun repainted in Cadian disruptive camo by Ottrick, covering Korren's name and tallies ("Vigil will not forget him"). Purity seal on the stock (one use). **Bayonet lug** fitted (day 3): Tamsin's Kasr Holn combat knife clicks on as a bayonet |
 | Hot-shot packs | 3. All drained on the range warp day 5; **all full again by warp day 7** (Ottrick's bench, 2 slots, ~1 day each) |
-| Frag grenades | 2, impact-fused, red tape on the caps |
-| Smoke grenades | 2, from Ottrick |
-| Krak grenade | 1, anti-armour, free from Ottrick after the overdrive test |
+| Frag grenades | 0 (both thrown at Saint Ivaine's Rest) |
+| Smoke grenades | 1 (one used by Varsaine in the ambush) |
+| Krak grenade | 0 (killed the vox operator) |
+| **Warrant of trial** | Small iron Inquisition I with a single bar across it, on a chain. From Kesh |
+| **Navy boarding cutlass** | Steadfast Ninth sergeant's. Heavy, curved, basket hilt |
+| **Auspex** | Navy sergeant's hand scanner, cracked case, works |
+| **Haul from Saint Ivaine's Rest** | ~22 Navy combat shotguns, ~320 shells, ~25 flak coats, ~25 visored helmets, ~25 vox-beads, Lt. Corvane's laspistol, Navy cutting torch, 2 half-full medi-kits, shotgun scrap. **Ottrick gets first look and 2 picks** |
+| Hot-shot pack status | 1 pack in Vigil about half spent, 2 full |
 | Thigh holster rig | Quick-draw, sized for Last Word. Gift from Ottrick. Empty again: Orsel's stub revolver traded to Ottrick for quenching oil and a brass sheet (for Dace's blade) |
 | Kantrael-pattern lasgun (in quarters) | Backup rifle, gift from Ottrick, with 2 standard las packs |
 | Antitoxin injector | None left |
@@ -314,6 +326,19 @@ ritual knife was left in the cistern.
 - **Velk, per Thane:** Varsaine was aboard in orbit, wounded, during the Velk
   job. Venn led four down (Korren among them); only Venn came back up, and
   never talked about it.
+
+- **Saint Ivaine's Rest (session 5).** Drachen's frigate *Steadfast Ninth*
+  sent armsmen to take Kesh alive and burn anything naming Strahn. Tamsin's team
+  came in via the ice-hauler lock, killed the cutting crew, captured Lt.
+  Corvane, then ambushed ~20 more in the corridor; two surrendered. Kesh
+  declared Drachen **Excommunicate Traitoris** over the shrine vox; the frigate
+  stood down under First Lt. **Hask**, captain confined. Before that the captain
+  had sent Drachen: **"Lantern is here."** Drachen is ~8 days out if he comes
+  himself. Kesh now holds Strahn's page and Drachen's sealed order.
+- **Kesh's people:** **Mother Oculine** (blindfolded psyker), **Sister Aldwyn**
+  (old Sister of Battle, bolter, burn scar). Kesh's plasma pistol is silver-chased.
+- **Team injuries:** Varga hurt (carapace cratered), Kell hurt (shrapnel in
+  cheek and arm), Dace hurt (concussed, visor cracked).
 
 ## The hub
 
