@@ -317,6 +317,10 @@ acolyte with requisition rights.
 
 ## DM threads (not known to the player)
 
+- **Seasons.** The player names arcs like TV seasons. Season 1 is "Seed of
+  Nurgle". When its climax resolves (Kesh, then Drachen), tell the player
+  plainly that the season has ended, so a new one can start.
+
 - Varsaine's own story is true as far as it goes. Keep him honest but not
   fully forthcoming.
 - Varsaine struck Tamsin's "second lie" after Tamsin argued it was a lie to the
