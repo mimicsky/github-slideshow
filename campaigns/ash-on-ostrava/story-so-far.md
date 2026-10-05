@@ -208,5 +208,10 @@ down on Velk and warning not to take "V's word" for what's there. Thane tested
 the key (clean) and said Varsaine was wounded in orbit during the Velk job;
 four went down and only Venn came back.
 
-**Where we stopped:** warp day 4, ~1020, Tamsin heading to Varsaine with the
-key and note.
+Varsaine admitted his report to Kesh on Velk was Venn's story, which was a lie;
+his read is that Venn found something he couldn't kill and hid the key so it
+would never be used. He left the key and note with Tamsin. Tamsin hung the key
+from Shameholder's pommel ring: Venn hid his shame, Tamsin carries it in the
+open.
+
+**Where we stopped:** warp day 4, ~1110, Tamsin's quarters.
