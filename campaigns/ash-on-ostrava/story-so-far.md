@@ -248,5 +248,14 @@ Venn and argued the note pre-empts Drachen's attack on Varsaine (16):
 breathe. Tamsin told the Cadia story in full and named Varsaine as the major
 at the controls. Varsaine: "You'll do."
 
-**Where we stopped:** warp day 6, ~1115, Tamsin back in quarters to prepare.
-Three days to Saint Ivaine's Rest.
+**Warp day 7.** Tamsin proposed house rule 6 (shot chains). At the armoury
+Tamsin went back into debt to Ottrick: first look and two picks from the next
+haul, for grox-hide and brass wire (track bolt free). Dace's pommel cracked on
+the first try (cast steel); Tamsin told him to melt it and go again, and
+Hespa-Vor melted it in the plasma crucible. Then the surprise: the Rite of
+First Waking at Dace's anvil. The blade rang true with a catch, "afraid, like
+its maker". Dace named it **Threshold** and cut his own scarred palm to give it
+its first blood, by choice this time.
+
+**Where we stopped:** warp day 7, ~0910, Drel's forge. Two days to Saint
+Ivaine's Rest.
