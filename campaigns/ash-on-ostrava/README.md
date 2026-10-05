@@ -77,6 +77,9 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
   hidden things. **No text maps.**
 - **The player rolls physical dice** and gives the raw number; the DM adds
   modifiers. NPC dice and undecided facts are rolled openly with a real RNG.
+- **Don't show the math.** After a roll, just say what happens: no modifiers,
+  totals or sums. The dice are still real and the record keeps them. Set by the
+  player, session 5.
 - **Hidden DCs, near-miss partials, the exchange** for melee (house rules 1, 3, 5).
 - **Explain setting lore briefly** out of character when asked, limited to what
   the character would know. Use references the player knows (Darktide for 40k).
