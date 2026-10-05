@@ -66,6 +66,10 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 
 - **Stop after the player's action.** Resolve only what the player does, then
   hand control back. NPCs don't make big moves past it.
+- **In fights, everyone acts every beat.** Allies and enemies each take their
+  own action with their own open roll, every beat, not just the ones the player
+  named. The pause-after-the-player rule is about story moves, not combat
+  turns. Set by the player, session 5.
 - **Speech in quotes** is the character talking aloud; everything else is action.
 - **Name + role, every time.** Every time a named NPC, place or item comes up,
   give the name then what it is, e.g. Hespa-Vor (enginseer), Velk (ice world),
