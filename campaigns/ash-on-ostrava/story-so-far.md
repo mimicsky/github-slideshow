@@ -3,8 +3,8 @@
 Written to be read cold. Read this, then `README.md` in this folder, then
 `../../DND_CODEX.md` for the rules.
 
-**Where we stopped:** session 4 in progress, morning of warp day 3 of 9 aboard
-the Lantern, after a second spiral dream. See the end of this file.
+**Where we stopped:** end of session 4, night of warp day 5 of 9 aboard the
+Lantern. See the end of this file.
 
 ---
 
@@ -156,7 +156,7 @@ Kesh. Tamsin is going to sleep. In four days Drachen learns his seed is gone.
 The page is not enough to convict him; Strahn, alive on Ostrava Primus, may be.
 Velk waits.
 
-## Session 4: The Open Door (in progress)
+## Session 4: The Open Door
 
 **Warp day 2.** Tamsin dreamt of the Kasr Holn ramp: the hand taking the
 message belonged to a faceless figure with a turning spiral for a face. At the
@@ -219,4 +219,14 @@ claw-bent bracket). Tamsin proposed a tube stock and a fore-grip for Officer
 and a tap button for Varga's Mercy; Ottrick, Dace and Hespa-Vor built them
 overnight. Kell let Dace make his grip, and watched every strike.
 
-**Where we stopped:** warp day 5, 0700. Today Drachen learns his seed is gone.
+**Warp day 5.** Drachen's seed-ship reached Ustrennos; he knows now. Tamsin beat
+Kell 12 to 7 at the range (training: sharp edge), then called out his form and
+heard the truth: Kell isn't sleeping, afraid of being the reason someone doesn't
+come back, and asked Tamsin to tell Varsaine the truth if asked whether he is
+fit. Tamsin stayed on the range all day with Kell and Varga; half the ship
+joined. Kell ended on twelve for twelve. Tamsin also ran the lasgun and Last
+Word, and drilled Shameholder footwork alone that night. All packs drained;
+full again by warp day 7.
+
+**Where we stopped:** night of warp day 5. Next session resumes warp day 6.
+Four days to Saint Ivaine's Rest, Kesh, and Mother Oculine's reading.

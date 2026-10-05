@@ -4,11 +4,12 @@ Campaign state. Rules live in `../../DND_CODEX.md`; this file holds only what's
 true about this particular game.
 
 - **Started:** 2026-10-03
-- **Sessions played:** 3 (session 4 in progress)
+- **Sessions played:** 4
 - **System:** D&D 5e chassis reskinned for Warhammer 40,000, narrative mode, all
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
 - **Character level:** 6
+- **Unused purity seal:** Thane's sleep seal from warp day 3, held by Varsaine
 - **XP:** 20,225. **Level 6.** Level 7 at 23,000.
 
 | Award | XP |
@@ -98,7 +99,7 @@ Pronouns unset; using they/them until the player says otherwise.
 | Field | Value |
 | --- | --- |
 | Class | Fighter 5, **Champion** (crits on 19-20). Action Surge, Extra Attack. ASI at 4: +2 DEX; ASI at 6: +2 CHA |
-| Health | Fine. Action Surge ready. **Sharp edge (shooting):** advantage on one shot on the Pilgrim's Mercy mission, from range training on downtime day 3 |
+| Health | Fine. Action Surge ready. Healing seal-burn on chest. **Sharp edge (shooting):** advantage on one shot next mission (beat Kell 12-7 at the range, warp day 5, rolled 24). Training for this hub stay is spent |
 | STR / DEX / CON / INT / WIS / CHA | 13 / 17 / 14 / 10 / 12 / 10 |
 | Proficiency bonus | +3 |
 | Skills | Perception, Athletics, Survival, Intimidation |
@@ -110,7 +111,7 @@ Pronouns unset; using they/them until the player says otherwise.
 | Item | Notes |
 | --- | --- |
 | **Vigil** (hellgun) | Named by Tamsin after Hespa-Vor communed with it. Old spirit, three bearers before Tamsin; patient, loyal, dislikes full-auto. Last bearer storm trooper **Korren**, 41 kills, died holding it on **Velk** two years ago. Sling wrapped in Tamsin's Cadian camo; whole gun repainted in Cadian disruptive camo by Ottrick, covering Korren's name and tallies ("Vigil will not forget him"). Purity seal on the stock (one use). **Bayonet lug** fitted (day 3): Tamsin's Kasr Holn combat knife clicks on as a bayonet |
-| Hot-shot packs | 1 in the gun (full), 1 spare (full), 1 charging at Ottrick's bench |
+| Hot-shot packs | 3. All drained on the range warp day 5; **all full again by warp day 7** (Ottrick's bench, 2 slots, ~1 day each) |
 | Frag grenades | 2, impact-fused, red tape on the caps |
 | Smoke grenades | 2, from Ottrick |
 | Krak grenade | 1, anti-armour, free from Ottrick after the overdrive test |
