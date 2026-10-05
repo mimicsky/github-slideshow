@@ -214,4 +214,9 @@ would never be used. He left the key and note with Tamsin. Tamsin hung the key
 from Shameholder's pommel ring: Venn hid his shame, Tamsin carries it in the
 open.
 
-**Where we stopped:** warp day 4, ~1110, Tamsin's quarters.
+At the range Tamsin and Varga worked out why Kell's second shot pulled (a
+claw-bent bracket). Tamsin proposed a tube stock and a fore-grip for Officer
+and a tap button for Varga's Mercy; Ottrick, Dace and Hespa-Vor built them
+overnight. Kell let Dace make his grip, and watched every strike.
+
+**Where we stopped:** warp day 5, 0700. Today Drachen learns his seed is gone.
