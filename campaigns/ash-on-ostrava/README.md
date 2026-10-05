@@ -126,13 +126,12 @@ Pronouns unset; using they/them until the player says otherwise.
 | --- | --- |
 | **Vigil** (hellgun) | Named by Tamsin after Hespa-Vor communed with it. Old spirit, three bearers before Tamsin; patient, loyal, dislikes full-auto. Last bearer storm trooper **Korren**, 41 kills, died holding it on **Velk** two years ago. Sling wrapped in Tamsin's Cadian camo; whole gun repainted in Cadian disruptive camo by Ottrick, covering Korren's name and tallies ("Vigil will not forget him"). Purity seal on the stock (one use). **Bayonet lug** fitted (day 3): Tamsin's Kasr Holn combat knife clicks on as a bayonet |
 | Hot-shot packs | 3. All drained on the range warp day 5; **all full again by warp day 7** (Ottrick's bench, 2 slots, ~1 day each) |
-| Frag grenades | 0 (both thrown at Saint Ivaine's Rest) |
+| Frag grenades | 1 (from Ottrick for a favour; both originals thrown at Saint Ivaine's Rest) |
+| **Chimera-hide long holster** | From Ottrick for a favour (session 5). Fits Last Word or Corvane's laspistol |
 | Smoke grenades | 1 (one used by Varsaine in the ambush) |
 | Krak grenade | 0 (killed the vox operator) |
 | **Warrant of trial** | Small iron Inquisition I with a single bar across it, on a chain. From Kesh |
-| **Navy boarding cutlass** | Steadfast Ninth sergeant's. Heavy, curved, basket hilt |
-| **Auspex** | Navy sergeant's hand scanner, cracked case, works |
-| **Haul from Saint Ivaine's Rest** | ~22 Navy combat shotguns, ~320 shells, ~25 flak coats, ~25 visored helmets, ~25 vox-beads, Lt. Corvane's laspistol, Navy cutting torch, 2 half-full medi-kits, shotgun scrap. **Ottrick gets first look and 2 picks** |
+| **Haul from Saint Ivaine's Rest** | ~22 Navy combat shotguns, ~320 shells, ~25 flak coats, ~25 visored helmets, ~25 vox-beads, Lt. Corvane's laspistol, Navy cutting torch, 2 half-full medi-kits, shotgun scrap. **Ottrick took the cutlass and the auspex: debt paid.** Rest stored in **Drel's old Munitorum crate** in the lower hold, chalked *PROPERTY OF THE LIGHT*. 4 vox-beads kept by Tamsin (Navy channel, need retuning). Worth ~70 TV at the Void Exchange |
 | Hot-shot pack status | 1 pack in Vigil about half spent, 2 full |
 | Thigh holster rig | Quick-draw, sized for Last Word. Gift from Ottrick. Empty again: Orsel's stub revolver traded to Ottrick for quenching oil and a brass sheet (for Dace's blade) |
 | Kantrael-pattern lasgun (in quarters) | Backup rifle, gift from Ottrick, with 2 standard las packs |
@@ -339,6 +338,14 @@ ritual knife was left in the cistern.
   (old Sister of Battle, bolter, burn scar). Kesh's plasma pistol is silver-chased.
 - **Team injuries:** Varga hurt (carapace cratered), Kell hurt (shrapnel in
   cheek and arm), Dace hurt (concussed, visor cracked).
+
+- **Ottrick favours owed by Tamsin (warp day 9 of the return):** haul ~30 empty
+  pack crates from the range at 2200; armoury watch 0000-0400. Paid for 1 frag
+  and the holster.
+- **Trade Value (TV):** 1 TV = 1 Navy combat shotgun. Void Exchange catalogue
+  issued (session 5): orders only in real space. Tamsin's dream: a ship of their
+  own (light freighter 2,500 TV). Dace's dream item: breaching shield 25 TV.
+  Ottrick's: bolt rounds 8 TV/10, spire amasec 25 TV.
 
 ## The hub
 
