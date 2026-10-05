@@ -304,5 +304,9 @@ of Drachen's men alive if they're there. Varsaine is to warn Major Orlov via
 Ysolde, not Strahn directly. Lantern: 8 days to Ostrava. Drachen from
 Ustrennos: ~10, unless someone of his is closer.
 
-**Where we stopped:** back aboard the Lantern, ~1000, boat bay, the haul aboard,
-jump in an hour. Ottrick wants his first look.
+Back aboard, Ottrick took the cutlass and auspex (debt paid). The haul went into
+Drel's old crate in the lower hold, now *PROPERTY OF THE LIGHT*. Ottrick
+introduced Mag Vashti's Void Exchange; Tamsin queued an order for Ostrava and
+owes Ottrick two favours tonight. The Lantern jumped: 8 days to Ostrava.
+
+**Where we stopped:** warp day 1 to Ostrava, ~1145.
