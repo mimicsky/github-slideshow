@@ -364,6 +364,16 @@ ritual knife was left in the cistern.
   is what makes us who we are; take hard cover with a sightline and hold the
   line. Whether they keep the lasguns is up to Ottrick.
 
+- **Lt. Corvane** (Steadfast Ninth officer, Kasr Tyrok Cadian, held the third
+  wall at 19) is in the Lantern's brig, cell 3 (guard: storm trooper **Hollis**).
+  Briefed by Drachen's aide **Major Tessaly** that Kesh was sheltering Varsaine,
+  "the officer who opened Cadia's gate". Under Tamsin's pressure (15) he gave up
+  the plan: Kesh to Ustrennos alive; burn anything naming Strahn; and a **second
+  team**: Tessaly on a fast courier with Drachen's household troops, left
+  Ustrennos 11 days ago for **Ostrava Primus** "to collect an old colonel's
+  papers, and the colonel". **Tessaly reached Ostrava about a day ago.** The
+  Lantern is 5 days out.
+
 ## The hub
 
 **The *Unblinking Lantern*,** Varsaine's warship, hidden behind Ostrava's moon.

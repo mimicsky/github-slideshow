@@ -325,5 +325,10 @@ Tamsin's mistakes, and unlocked the collar. Kell: "Welcome to The Light, lad."
 Tamsin gave him the collar; it will be the boss of his shield. "You carry yours
 on your sword. I'll carry mine on my arm."
 
-**Where we stopped:** warp day 2 to Ostrava, ~1345, The Light's container. Six
-days to go.
+**Warp day 3 to Ostrava.** Tamsin bought a satchel and a frag from Ottrick by
+drilling eight deck ratings at the range (Rusk, the Cadian cook never issued a
+gun, is a natural) and agreeing to a drinking bet with Bosun Grell tonight. Then
+Tamsin questioned Lt. Corvane in the brig: Drachen's aide Tessaly reached
+Ostrava a day ago to take Strahn and his papers. The Lantern is five days out.
+
+**Where we stopped:** warp day 3 to Ostrava, ~1300, Tamsin running to Varsaine.
