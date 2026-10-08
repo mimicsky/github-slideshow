@@ -32,5 +32,5 @@ Seven so far, all in Part 6 of the codex, all set during play:
 3. **Hidden DCs**, never announced
 4. **Narrative mode** — story first, dice at turning points, health as a state
 5. **The exchange** — opposed melee rolls, parry flips initiative, block keeps it
-7. **Stat levels 1-100 and training reps**: every 10 levels is +1; daily training gives +1, then +0.5, falling to +0.1
 6. **Shot chains** — each shot in a string rolled; a hit gives +2 (first) or +1, a miss -1, to the next shot only
+7. **Stat levels 1-100 and training reps**: every 10 levels is +1; daily training gives +1, then +0.5, falling to +0.1
