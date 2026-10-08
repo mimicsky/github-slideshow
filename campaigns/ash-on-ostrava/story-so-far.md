@@ -331,4 +331,9 @@ gun, is a natural) and agreeing to a drinking bet with Bosun Grell tonight. Then
 Tamsin questioned Lt. Corvane in the brig: Drachen's aide Tessaly reached
 Ostrava a day ago to take Strahn and his papers. The Lantern is five days out.
 
-**Where we stopped:** warp day 3 to Ostrava, ~1300, Tamsin running to Varsaine.
+Varsaine recognised the name Tessaly (Cadian Strategium staff). Tamsin chose the
+Navigator's rough road: **3 days to Ostrava instead of 5**, with the Geller field
+under strain. On arrival the team drops straight to Ostrava Primus.
+
+**Where we stopped:** warp day 3 to Ostrava, 1310, the archive, on the rough
+road. Drinking bet with Grell still on tonight.

@@ -372,7 +372,8 @@ ritual knife was left in the cistern.
   team**: Tessaly on a fast courier with Drachen's household troops, left
   Ustrennos 11 days ago for **Ostrava Primus** "to collect an old colonel's
   papers, and the colonel". **Tessaly reached Ostrava about a day ago.** The
-  Lantern is 5 days out.
+  Lantern took the Navigator's **rough road** (Tamsin's call): arrives in 3 days
+  from warp day 3, Geller field under strain. DM: roll for field strain each day.
 
 ## The hub
 
