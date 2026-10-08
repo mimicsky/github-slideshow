@@ -345,14 +345,24 @@ ritual knife was left in the cistern.
   cheek and arm), Dace hurt (concussed, visor cracked).
 
 - **Ottrick favours:** crates and watch done (paid for 1 frag and the holster).
-  **Owed warp day 3 to Ostrava:** drill the deck ratings at the range at 1000,
-  and win the mess drinking bet against Halvard's bosun tonight (paid for the
+  **Warp day 3 to Ostrava:** ratings drill DONE; still owed: win the mess drinking bet against Halvard's bosun tonight (paid for the
   satchel and a frag). Still offered: Ottrick's kit tin under a collapsed pallet
   in the lower hold, aft.
 - **Trade Value (TV):** 1 TV = 1 Navy combat shotgun. Void Exchange catalogue
   issued (session 5): orders only in real space. Tamsin's dream: a ship of their
   own (light freighter 2,500 TV). Dace's dream item: breaching shield 25 TV.
   Ottrick's: bolt rounds 8 TV/10, spire amasec 25 TV.
+
+- **The deck ratings Tamsin trained (warp day 3 to Ostrava):** **Bosun Grell**
+  (Halvard's bosun, 31 years on hulls, skeptical, Tamsin's drinking-bet rival;
+  planning hard cover in the forward cargo bay), **Imre** (augur rating, ex-Navy,
+  already shoots), **Rusk** (drive rating, Cadian cook from Kasr Gallan, never
+  issued a gun; a natural, 4 of 5 in the black), **Marta** (cargo-hauler, big
+  forearms, steady; "like lining up a crate on a hoist"), **Pell** (engine
+  rating, 16, cheeky), **Tolly** (galley rating, scared of guns, hit the plate
+  once), **Ashby** and **Morrow** (the dreamers). Tamsin's advice: being scared
+  is what makes us who we are; take hard cover with a sightline and hold the
+  line. Whether they keep the lasguns is up to Ottrick.
 
 ## The hub
 
