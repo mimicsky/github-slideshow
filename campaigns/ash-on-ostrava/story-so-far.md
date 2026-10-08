@@ -313,5 +313,11 @@ owes Ottrick two favours tonight. The Lantern jumped: 8 days to Ostrava.
 Tamsin hauled Ottrick's crates and stood his armoury watch; Varsaine visited at
 0240, said Kesh made him wait two years for his rank, and thanked Tamsin.
 
-**Where we stopped:** warp day 2 to Ostrava, ~1200. Dace is awake and asking for
-Tamsin in medicae.
+**Warp day 2 to Ostrava.** Tamsin moved their whole rack and gear into The
+Light's container and invited the team to take their pick. Then Tamsin asked
+Varsaine to take Dace's collar off: "He earned it." Varsaine gave Tamsin the
+only release key, on two conditions: Dace's loyalty is now Tamsin's
+responsibility, and the collar comes off in front of the team.
+
+**Where we stopped:** warp day 2 to Ostrava, ~1310, the archive. The team is at
+the container. Dace still has something to say.

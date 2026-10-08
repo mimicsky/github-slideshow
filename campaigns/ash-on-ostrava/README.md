@@ -147,6 +147,7 @@ Pronouns unset; using they/them until the player says otherwise.
 | **Carapace chest plate** | From Ottrick, "unofficially", in thanks for Merrevane's bolt pistol (day 3). Worn over the flak |
 | Flak armour, void-mask, rebreather | Flak dented |
 | **Dace's collar detonator** | Matchbox-sized, one button under a flip-cap. Varsaine's price for sparing Dace |
+| **Collar release key** | Flat iron, red-painted bow, binary on the blade, made by Hespa-Vor; the only one. Given by Varsaine (warp day 2 to Ostrava, persuaded on an 18). Tamsin takes responsibility for Dace if he turns. Varsaine asked that Tamsin remove the collar in front of the team |
 | Acolyte pin, Cadian medal (eagle filed off; Thane's wax aquila cracked from the inside on warp night 2; **resealed by Thane in black wax** on warp day 3) | Medal: Cadian service medal, earned on the walls of Kasr Holn. Tamsin filed the eagle off out of **shame** for never delivering Strahn's hold order. Set by the player, session 3 |
 
 Traded to Ottrick: lasgun and its 3 packs, Malcade's laspistol, plasma cutter.
