@@ -319,5 +319,11 @@ Varsaine to take Dace's collar off: "He earned it." Varsaine gave Tamsin the
 only release key, on two conditions: Dace's loyalty is now Tamsin's
 responsibility, and the collar comes off in front of the team.
 
-**Where we stopped:** warp day 2 to Ostrava, ~1310, the archive. The team is at
-the container. Dace still has something to say.
+At the container, Dace confessed he froze at the Rest and offered to stop being
+first through the door. Tamsin told him the shotgun and the punishment were
+Tamsin's mistakes, and unlocked the collar. Kell: "Welcome to The Light, lad."
+Tamsin gave him the collar; it will be the boss of his shield. "You carry yours
+on your sword. I'll carry mine on my arm."
+
+**Where we stopped:** warp day 2 to Ostrava, ~1345, The Light's container. Six
+days to go.
