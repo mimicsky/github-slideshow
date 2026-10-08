@@ -419,6 +419,9 @@ Standing preferences, set during play. They apply to every campaign.
   hidden things. **No text maps.**
 - **The player rolls physical dice** and gives the raw number; the DM adds
   modifiers. NPC dice and undecided facts are rolled openly with a real RNG.
+- **Shop stock only on a visit.** Don't list a quartermaster's or trader's
+  stock in the morning summary; show it only when the character goes to them.
+  Set by the player, session 5.
 - **Don't show the math.** After a roll, just say what happens: no modifiers,
   totals or sums. The dice are still real and the record keeps them. Set by the
   player, session 5.
