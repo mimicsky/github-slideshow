@@ -609,6 +609,23 @@ matters, every shot is its own d20, and each result tilts the next.
 
 ---
 
+**7. Stat levels and training reps.**
+
+Added at the player's request in session 5, Ash on Ostrava. Replaces 5e ability
+scores and Part 8's once-per-stay training.
+
+- Each of the six stats runs **1 to 100**. Every full 10 levels is **+1** to
+  rolls using that stat (level 40 Strength = +4).
+- Converting old scores keeps the old modifier: level = (score - 10) x 5,
+  minimum 1.
+- **Proficiency stacks on top** as before and still rises with character level.
+- **Training reps.** Each day, the first thing trained gives **+1.0** level, the
+  second **+0.5**, then +0.4, +0.3, +0.2, and +0.1 for each after that. Training
+  is described in the fiction; no roll needed unless something is at risk.
+- Sharp edges already earned under the old rule stay until used.
+
+---
+
 ### Rulings made at the table
 
 When the book is silent or unclear, I rule once and then stick to it.
@@ -797,7 +814,7 @@ allows.
 
 ### Training at the hub
 
-Once per stay at the hub, the player may train one thing: shooting, melee,
+*Superseded by house rule 7 (training reps) in Ash on Ostrava.* Once per stay at the hub, the player may train one thing: shooting, melee,
 fitness. One roll. On a success, the character carries a **sharp edge** into the
 next mission: advantage once on a roll of that kind, then it is spent. A
 natural 20 also earns something in the fiction (respect, a trick, a rival). A
