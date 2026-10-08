@@ -180,6 +180,20 @@ ritual knife was left in the cistern.
 
 ---
 
+## The Light: companion stats
+
+House rule 7 levels. Companions train **one thing a day for +1.0** (no smaller
+reps); it takes their whole day.
+
+| | STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- | --- |
+| Kell | 30 | 36 | 30 | 10 | 25 | 10 |
+| Varga | 25 | 36 | 25 | 10 | 20 | 5 |
+| Dace | 25 | 20 | 20 | 15 | 5 | 5 |
+
+Training log: warp day 3 to Ostrava: Kell DEX +1 (snap shots), Varga DEX +1
+(reloads), Dace INT +1 pending (shield build).
+
 ## NPCs
 
 | Name | Who | State |
