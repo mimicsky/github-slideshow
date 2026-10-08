@@ -335,5 +335,11 @@ Varsaine recognised the name Tessaly (Cadian Strategium staff). Tamsin chose the
 Navigator's rough road: **3 days to Ostrava instead of 5**, with the Geller field
 under strain. On arrival the team drops straight to Ostrava Primus.
 
-**Where we stopped:** warp day 3 to Ostrava, 1310, the archive, on the rough
-road. Drinking bet with Grell still on tonight.
+Tamsin told The Light. With Hespa-Vor's single 1800 crucible pour (the drive
+couldn't spare more), Tamsin helped Dace build his breaching shield, its boss
+poured from his own collar. That night in the mess Tamsin beat Bosun Grell's
+engine-room spirits 2-1 in front of the whole crew ("I fought off a god, you
+think a cup of piss will stop me?"). Grell tapped: "CADIANS CAN DRINK!"
+
+**Where we stopped:** warp day 3 to Ostrava, ~2000, the mess. Two days to
+Ostrava on the rough road.

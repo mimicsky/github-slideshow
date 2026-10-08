@@ -359,8 +359,9 @@ Training log: warp day 3 to Ostrava: Kell DEX +1 (snap shots), Varga DEX +1
   cheek and arm), Dace hurt (concussed, visor cracked).
 
 - **Ottrick favours:** crates and watch done (paid for 1 frag and the holster).
-  **Warp day 3 to Ostrava:** ratings drill DONE; still owed: win the mess drinking bet against Halvard's bosun tonight (paid for the
-  satchel and a frag). Still offered: Ottrick's kit tin under a collapsed pallet
+  **Warp day 3 to Ostrava:** ratings drill DONE; DONE: won the mess drinking bet against Halvard's bosun (paid for the
+  satchel and a frag). **Tamsin beat Grell 2-1** (engine-room rotgut); Grell
+  tapped out and shouted "CADIANS CAN DRINK!" Still offered: Ottrick's kit tin under a collapsed pallet
   in the lower hold, aft.
 - **Trade Value (TV):** 1 TV = 1 Navy combat shotgun. Void Exchange catalogue
   issued (session 5): orders only in real space. Tamsin's dream: a ship of their
