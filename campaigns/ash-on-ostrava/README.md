@@ -130,7 +130,8 @@ Pronouns unset; using they/them until the player says otherwise.
 | --- | --- |
 | **Vigil** (hellgun) | Named by Tamsin after Hespa-Vor communed with it. Old spirit, three bearers before Tamsin; patient, loyal, dislikes full-auto. Last bearer storm trooper **Korren**, 41 kills, died holding it on **Velk** two years ago. Sling wrapped in Tamsin's Cadian camo; whole gun repainted in Cadian disruptive camo by Ottrick, covering Korren's name and tallies ("Vigil will not forget him"). Purity seal on the stock (one use). **Bayonet lug** fitted (day 3): Tamsin's Kasr Holn combat knife clicks on as a bayonet |
 | Hot-shot packs | 3. All drained on the range warp day 5; **all full again by warp day 7** (Ottrick's bench, 2 slots, ~1 day each) |
-| Frag grenades | 1 (from Ottrick for a favour; both originals thrown at Saint Ivaine's Rest) |
+| Frag grenades | 2 (both from Ottrick for favours; both originals thrown at Saint Ivaine's Rest). Kept in the container with 1 smoke |
+| **Reinforced Munitorum satchel** | From Ottrick for a favour (warp day 3 to Ostrava). Heavy green canvas, steel corners, a dozen pouches, chest and waist straps, serial half scratched out. Replaces the old salvage satchel |
 | **Chimera-hide long holster** | From Ottrick for a favour (session 5). Fits Last Word or Corvane's laspistol |
 | Smoke grenades | 1 (one used by Varsaine in the ambush) |
 | Krak grenade | 0 (killed the vox operator) |
@@ -343,9 +344,11 @@ ritual knife was left in the cistern.
 - **Team injuries:** Varga hurt (carapace cratered), Kell hurt (shrapnel in
   cheek and arm), Dace hurt (concussed, visor cracked).
 
-- **Ottrick favours owed by Tamsin (warp day 9 of the return):** haul ~30 empty
-  pack crates from the range at 2200; armoury watch 0000-0400. Paid for 1 frag
-  and the holster.
+- **Ottrick favours:** crates and watch done (paid for 1 frag and the holster).
+  **Owed warp day 3 to Ostrava:** drill the deck ratings at the range at 1000,
+  and win the mess drinking bet against Halvard's bosun tonight (paid for the
+  satchel and a frag). Still offered: Ottrick's kit tin under a collapsed pallet
+  in the lower hold, aft.
 - **Trade Value (TV):** 1 TV = 1 Navy combat shotgun. Void Exchange catalogue
   issued (session 5): orders only in real space. Tamsin's dream: a ship of their
   own (light freighter 2,500 TV). Dace's dream item: breaching shield 25 TV.
