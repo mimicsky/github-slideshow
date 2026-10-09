@@ -434,6 +434,10 @@ Standing preferences, set during play. They apply to every campaign.
   if the player has ordered training, they mostly train; the wounded rest;
   people follow their own worries. Roll openly when it's genuinely undecided.
   Set by the player, session 5.
+- **NPCs only know what they could know.** A character knows something only if
+  they saw it, were told it, or heard it from someone who could have; if it's
+  gossip, the fiction shows who passed it on. No one knows a thing just because
+  the player does. Set by the player, session 5.
 - **Don't show the math.** After a roll, just say what happens: no modifiers,
   totals or sums. The dice are still real and the record keeps them. Set by the
   player, session 5.
