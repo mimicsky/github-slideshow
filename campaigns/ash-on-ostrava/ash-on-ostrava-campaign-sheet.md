@@ -205,6 +205,15 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
   road: arrives around midday on warp day 6; The Light drops straight to Primus. Kesh wants
   Strahn alive and one of Drachen's men alive. DM: roll Geller field strain each
   day on the rough road.
+- **The Ostrava plan (briefing, warp day 5).** On arrival: Halvard's augurs look
+  for the *Ember of Tyrok*'s Munitorum transponder at Spire Dock Six; Ysolde
+  reaches Orlov and sends word to Kesh "in case of the worst". If the *Ember* is
+  still docked, Tessaly isn't finished: **assault and capture the ship**, don't
+  destroy it (papers, prisoners, maybe Strahn aboard). If it's gone: scout for
+  Strahn. Force: the Light (Tamsin, Varga, Dace), Kell's six storm troopers
+  under Hollis, and whatever Orlov brings quietly. The rest of Ostrava's
+  Militarum answers to Drachen; trust none of it. Final dispositions once they
+  can see the dock.
 - **Drachen** (Lord-General, Cadian remnant fleet, Ustrennos). Excommunicate. Knows
   "Lantern is here". His story to his own men: Varsaine opened Cadia's gate and
   Kesh covered it up.
