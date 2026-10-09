@@ -341,5 +341,20 @@ poured from his own collar. That night in the mess Tamsin beat Bosun Grell's
 engine-room spirits 2-1 in front of the whole crew ("I fought off a god, you
 think a cup of piss will stop me?"). Grell tapped: "CADIANS CAN DRINK!"
 
-**Where we stopped:** warp day 3 to Ostrava, ~2000, the mess. Two days to
-Ostrava on the rough road.
+Tamsin told the mess they drop on Ostrava in two days; the crew answered "We are
+the light."
+
+**The breach (0312).** On the rough road a Geller node in the lower hold failed
+and a tear opened by Ottrick's collapsed pallet. Warp-spawn poured through after
+Marta and Pell (on watch, armed). Tamsin, hungover and barefoot with Last Word,
+led the Light in; Dace's new shield took its first hit and held. Tamsin
+retrieved Shameholder and, in **overdrive**, cut the big daemon's head,
+shoulder and hook-arm off as it pushed through (a critical); the rest fled
+screaming. On Hespa-Vor's instruction Tamsin rammed the combat knife into the
+node's rune and hammered it home: the field snapped back (near miss: Tamsin
+shocked and thrown), the tear closed, and Thane's litany finished the rest.
+Kell badly hurt (bite to his stitched arm), Dace hurt (calf), Tamsin hurt (arm
+numb). Shameholder's motor is dead until repaired.
+
+**Where we stopped:** 0321, warp night 3 to Ostrava, the lower hold, Halvard
+asking for a report.
