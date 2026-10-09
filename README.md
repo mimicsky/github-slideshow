@@ -1,13 +1,41 @@
-# Your GitHub Learning Lab Repository for Introducing GitHub
+# Tabletop
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
+Rules and campaigns for games run here.
 
-Oh! I haven't introduced myself...
+## What's where
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+| File | What it is |
+| --- | --- |
+| `DND_CODEX.md` | The standing rulebook. D&D 5e reference in Parts 1-5, our table rules and house rules in Part 6, how the DM runs a table in Part 7, Warhammer 40k adaptations in Part 8. Not tied to any one campaign |
+| `campaigns/<name>/<name>-campaign-sheet.md` | One campaign's hard state: where we stopped, characters, gear, NPCs, XP, open threads, DM threads |
+| `campaigns/<name>/book.md` | The campaign's story, told as a novel, chapter by chapter, written at the end of each session |
+| `campaigns/<name>/README.md` | A short index of the campaign's files |
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+Three Crowns predates this layout and still uses `README.md` (state) and
+`story-so-far.md` (recap).
 
-I'll meet you over there, can't wait to get started!
+## Resuming a campaign
 
-This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+Read the end of the campaign's `book.md`, then its campaign sheet (starting with
+"Where we stopped"), then the codex.
+Those three files are enough to pick up mid-scene without the original
+conversation.
+
+## Campaigns
+
+| Campaign | System | Status |
+| --- | --- | --- |
+| [Three Crowns](campaigns/three-crowns/) | D&D 5e, narrative mode | **Paused** after session 1, day eight, mid-decision in a captured fort |
+| [Ash on Ostrava](campaigns/ash-on-ostrava/) | Warhammer 40k on the 5e chassis, narrative mode | Session 5 in progress, Saint Ivaine's Rest: Kesh saved, Tamsin made Interrogator-designate en route to Inquisitor Kesh |
+
+## House rules at a glance
+
+Seven so far, all in Part 6 of the codex, all set during play:
+
+1. **Near-miss partial success** on ability checks, missing by 1 or 2
+2. **Variant ability pairing** on skills
+3. **Hidden DCs**, never announced
+4. **Narrative mode** — story first, dice at turning points, health as a state
+5. **The exchange** — opposed melee rolls, parry flips initiative, block keeps it
+6. **Shot chains** — each shot in a string rolled; a hit gives +2 (first) or +1, a miss -1, to the next shot only
+7. **Stat levels 1-100 and training reps**: every 10 levels is +1; daily training gives +1, then +0.5, falling to +0.1

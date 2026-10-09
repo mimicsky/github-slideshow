@@ -1,0 +1,924 @@
+# D&D Codex
+
+The standing rulebook for any game I run for you. I am the DM, you are the
+player. This is not tied to one campaign: it carries across every game we play.
+
+Based on **D&D 5th Edition (2014 rules)**. Parts 1 to 5 are the rules. Part 6 is
+the part you control. Part 7 is how I run a table. Part 8 is how the same rules
+run a Warhammer 40,000 game.
+
+Campaign-specific things — your character sheet, NPCs, session logs — live in a
+separate file per campaign, not in here.
+
+---
+
+## Part 1 — The Core Rules
+
+### The one mechanic that runs everything
+
+Almost every uncertain action resolves the same way:
+
+```
+d20 + ability modifier + proficiency bonus (if proficient)  vs.  a target number
+```
+
+The target number is either a **DC** (Difficulty Class, set by the DM) or an
+**AC** (Armor Class, when you attack something). Meet it or beat it and you
+succeed. Ties go to the roller: rolling exactly the DC is a success.
+
+> **House rule 1 applies here.** On ability checks, missing by 1 or 2 is a
+> partial success rather than a flat failure. See Part 6.
+
+There are three flavors of this roll, and they are mechanically identical:
+
+| Roll | Used for |
+| --- | --- |
+| Ability check | Doing something hard: climbing, lying, picking a lock |
+| Attack roll | Hitting a target with a weapon or spell |
+| Saving throw | Resisting something happening *to* you |
+
+### Ability scores and modifiers
+
+Six scores. The score itself barely matters; the **modifier** is what you add to
+rolls.
+
+| Ability | Short | Governs |
+| --- | --- | --- |
+| Strength | STR | Raw power, melee attacks, carrying, athletics |
+| Dexterity | DEX | Agility, stealth, ranged attacks, AC, initiative |
+| Constitution | CON | Health, stamina, concentration saves |
+| Intelligence | INT | Recall, deduction, arcane knowledge |
+| Wisdom | WIS | Perception, insight, willpower |
+| Charisma | CHA | Force of personality, social pressure, some magic |
+
+Modifier = (score − 10) ÷ 2, rounded down.
+
+| Score | 8 | 10 | 12 | 14 | 16 | 18 | 20 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Modifier | −1 | +0 | +1 | +2 | +3 | +4 | +5 |
+
+### Proficiency bonus
+
+Added only to things your character is trained in. It scales with your **total
+character level**, not your class.
+
+| Level | 1–4 | 5–8 | 9–12 | 13–16 | 17–20 |
+| --- | --- | --- | --- | --- | --- |
+| Bonus | +2 | +3 | +4 | +5 | +6 |
+
+### The 18 skills
+
+Each skill is tied to one ability. If you're proficient in a skill, add your
+proficiency bonus to checks with it.
+
+| Ability | Skills |
+| --- | --- |
+| STR | Athletics |
+| DEX | Acrobatics, Sleight of Hand, Stealth |
+| INT | Arcana, History, Investigation, Nature, Religion |
+| WIS | Animal Handling, Insight, Medicine, Perception, Survival |
+| CHA | Deception, Intimidation, Performance, Persuasion |
+
+### Typical difficulty classes
+
+| Task | DC |
+| --- | --- |
+| Very easy | 5 |
+| Easy | 10 |
+| Medium | 15 |
+| Hard | 20 |
+| Very hard | 25 |
+| Nearly impossible | 30 |
+
+### Advantage and disadvantage
+
+Roll **two d20s**. Advantage: keep the higher. Disadvantage: keep the lower.
+
+Three things worth memorizing:
+
+1. They do not stack. Three sources of advantage is still just advantage.
+2. Any advantage and any disadvantage cancel out completely, and you roll one
+   plain d20.
+3. They apply to the d20 only, never to damage dice.
+
+### Saving throws
+
+Same formula, but you're resisting. Every class is proficient in exactly two
+saving throws. Common ones:
+
+- **DEX** — dodging fireballs, traps, area damage
+- **CON** — poison, disease, holding concentration on a spell
+- **WIS** — charms, fear, mind control
+
+"Half damage on a successful save" is the most common outcome for area spells.
+
+---
+
+## Part 2 — Combat
+
+### Turn order
+
+Everyone rolls **initiative** once at the start: d20 + DEX modifier. Highest
+goes first. That order repeats every round. One round is six seconds of game
+time.
+
+**At our table:** the player rolls individually. Monsters roll in groups, so all
+six goblins share one initiative count and act together. Ties break in the
+player's favor.
+
+**Surprise:** a surprised creature can't move or act on its first turn and can't
+take reactions until that turn ends. It is one lost turn, not a free round.
+
+### What you get on your turn
+
+| Resource | How many | Notes |
+| --- | --- | --- |
+| Movement | Up to your speed (usually 30 ft.) | Can be split before and after your action |
+| Action | 1 | The main thing you do |
+| Bonus action | 1 | Only if a feature or spell specifically grants one |
+| Free interaction | 1 | Draw a sword, open a door, pull a lever |
+| Reaction | 1 per round | Usable on anyone's turn, refreshes at your turn start |
+
+You do not get a bonus action by default. It has to come from somewhere.
+
+### Common actions
+
+| Action | Effect |
+| --- | --- |
+| Attack | One melee or ranged attack (more if your class grants Extra Attack) |
+| Cast a Spell | Any spell with a casting time of 1 action |
+| Dash | Double your movement this turn |
+| Disengage | Your movement doesn't provoke opportunity attacks |
+| Dodge | Attacks against you have disadvantage; your DEX saves have advantage |
+| Help | Give an ally advantage on one check or attack |
+| Hide | Make a Stealth check to become unseen |
+| Ready | Prepare a trigger: "when X happens, I do Y" — uses your reaction |
+| Search | Actively look for something |
+| Use an Object | Interact with a second object, or use a magic item |
+| Grapple / Shove | Replace one attack: your Athletics vs. their Athletics or Acrobatics |
+
+### Opportunity attacks
+
+When a hostile creature you can see **leaves your reach** using its movement,
+you may use your reaction to make one melee attack against it.
+
+It does not trigger if the creature Disengages, teleports, or is moved against
+its will (pushed, yanked, shoved).
+
+### Attack rolls, hits, and crits
+
+```
+d20 + ability modifier + proficiency bonus  vs.  target's AC
+```
+
+Use STR for melee weapons, DEX for ranged and finesse weapons, and your
+spellcasting ability for spell attacks.
+
+- **Natural 20** — automatic hit and a critical. Roll all the *damage dice*
+  twice, then add your modifier once. The modifier is never doubled.
+- **Natural 1** — automatic miss, no matter your bonuses.
+
+### Damage, healing, and dying
+
+At **0 hit points** you fall unconscious and start making **death saving
+throws** on each of your turns: a flat d20, no modifiers.
+
+| Result | Effect |
+| --- | --- |
+| 10 or higher | One success |
+| 9 or lower | One failure |
+| Natural 20 | You regain 1 HP and get back up immediately |
+| Natural 1 | Two failures |
+
+Three successes and you're stable. Three failures and you die. Successes and
+failures both reset when you're healed or stabilized.
+
+Other things to remember:
+
+- Any healing above 0 HP wakes you up and clears the tally.
+- Taking damage at 0 HP is one automatic failure; a crit is two.
+- A DC 10 Medicine check stabilizes a dying ally without healing them.
+- **Massive damage**: if a single hit reduces you to 0 and the leftover damage
+  equals or exceeds your HP maximum, you die outright.
+- Hit points never go above your maximum, and never below 0.
+
+### Cover
+
+| Cover | Benefit |
+| --- | --- |
+| Half (low wall, another creature) | +2 AC and +2 DEX saves |
+| Three-quarters (arrow slit, portcullis) | +5 AC and +5 DEX saves |
+| Total | Cannot be targeted directly at all |
+
+### Movement details
+
+- **Difficult terrain** costs 2 feet of movement per foot traveled.
+- **Standing up from prone** costs half your total speed.
+- **Climbing or swimming** costs an extra foot per foot, unless you have a
+  climb or swim speed.
+- You can move through an **ally's** space freely, and through a hostile
+  creature's space only if it's two sizes larger or smaller than you.
+
+---
+
+## Part 3 — Conditions
+
+The ones that decide fights. "Incapacitated" is the key word: it means no
+actions and no reactions at all.
+
+| Condition | What it does |
+| --- | --- |
+| Blinded | Auto-fail sight checks; your attacks have disadvantage, attacks on you have advantage |
+| Charmed | Can't attack the charmer; the charmer has advantage on social checks with you |
+| Deafened | Auto-fail hearing checks |
+| Frightened | Disadvantage on checks and attacks while the source is in sight; can't move closer to it |
+| Grappled | Speed becomes 0 |
+| Incapacitated | No actions and no reactions |
+| Invisible | Heavily obscured; your attacks have advantage, attacks on you have disadvantage |
+| Paralyzed | Incapacitated, can't move or speak, auto-fail STR and DEX saves, attacks on you have advantage, and any hit from within 5 ft. is a critical |
+| Petrified | Turned to stone, incapacitated, resistant to all damage, immune to poison and disease |
+| Poisoned | Disadvantage on attack rolls and ability checks |
+| Prone | Disadvantage on your attacks; melee attacks on you have advantage, ranged attacks on you have disadvantage |
+| Restrained | Speed 0, your attacks have disadvantage, attacks on you have advantage, disadvantage on DEX saves |
+| Stunned | Incapacitated, can't move, can barely speak, auto-fail STR and DEX saves, attacks on you have advantage |
+| Unconscious | Incapacitated and prone, drops everything, auto-fail STR and DEX saves, attacks on you have advantage, hits from within 5 ft. are critical |
+
+### Exhaustion (2014 rules)
+
+Stacks in six levels, and each level includes the ones below it.
+
+| Level | Effect |
+| --- | --- |
+| 1 | Disadvantage on ability checks |
+| 2 | Speed halved |
+| 3 | Disadvantage on attack rolls and saving throws |
+| 4 | Hit point maximum halved |
+| 5 | Speed reduced to 0 |
+| 6 | Death |
+
+A long rest with food and water removes one level.
+
+> **2024 change:** exhaustion was simplified to −2 on every d20 roll per level
+> and −5 feet of speed per level, with death still at level 6. Confirm with your
+> DM which version you're using.
+
+---
+
+## Part 4 — Spellcasting
+
+### The two numbers every caster needs
+
+```
+Spell save DC   = 8 + proficiency bonus + spellcasting ability modifier
+Spell attack    = d20 + proficiency bonus + spellcasting ability modifier
+```
+
+Your spellcasting ability depends on class: INT for wizards and artificers, WIS
+for clerics, druids, and rangers, CHA for bards, sorcerers, warlocks, and
+paladins.
+
+### Slots
+
+- Casting a spell of level 1 or higher spends a slot of that level or higher.
+- Casting with a **higher-level slot** often improves the spell. Check the
+  "At Higher Levels" line.
+- **Cantrips** are level 0, cost no slot, and are unlimited. They scale
+  automatically at character levels 5, 11, and 17.
+- Most slots come back on a long rest. Warlocks are the exception and recover
+  theirs on a short rest.
+
+### Full caster slots by level
+
+| Lvl | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 2 | – | – | – | – | – | – | – | – |
+| 2 | 3 | – | – | – | – | – | – | – | – |
+| 3 | 4 | 2 | – | – | – | – | – | – | – |
+| 4 | 4 | 3 | – | – | – | – | – | – | – |
+| 5 | 4 | 3 | 2 | – | – | – | – | – | – |
+| 6 | 4 | 3 | 3 | – | – | – | – | – | – |
+| 7 | 4 | 3 | 3 | 1 | – | – | – | – | – |
+| 8 | 4 | 3 | 3 | 2 | – | – | – | – | – |
+| 9 | 4 | 3 | 3 | 3 | 1 | – | – | – | – |
+| 10 | 4 | 3 | 3 | 3 | 2 | – | – | – | – |
+| 11 | 4 | 3 | 3 | 3 | 2 | 1 | – | – | – |
+| 12 | 4 | 3 | 3 | 3 | 2 | 1 | – | – | – |
+| 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | – | – |
+| 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | – | – |
+| 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | – |
+| 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | – |
+| 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
+Half casters (paladin, ranger) and third casters (Eldritch Knight, Arcane
+Trickster) use slower tables and cap out well below 9th level.
+
+### Concentration
+
+The rule that trips up every new caster.
+
+- You can concentrate on only **one** spell at a time. Starting a second one
+  ends the first immediately.
+- When you take damage while concentrating, make a **CON save**. The DC is 10,
+  or half the damage taken, whichever is higher.
+- Concentration also breaks if you're incapacitated or killed.
+
+### Other spellcasting notes
+
+- **Components** — V (verbal, you must speak), S (somatic, a free hand), M
+  (material). A component pouch or focus covers any material with no listed
+  cost. Materials with a gold cost must be bought for real.
+- **Rituals** — spells tagged as rituals can be cast without a slot if you take
+  10 extra minutes.
+- **One-spell-per-turn limit** — if you cast a spell as a bonus action, the only
+  other spell you can cast that turn is a cantrip with a casting time of 1
+  action.
+
+---
+
+## Part 5 — Rests, Recovery, and Leveling
+
+### Short rest — at least 1 hour
+
+Spend any number of your **Hit Dice**. For each one, roll the die, add your CON
+modifier, and regain that many hit points (minimum 0). You have one Hit Die per
+character level, and the die size is set by your class.
+
+### Long rest — at least 8 hours
+
+- Regain **all** hit points.
+- Regain spent Hit Dice equal to **half your total**, rounded down, minimum 1.
+- Regain spell slots and most class features.
+- Remove one level of exhaustion, if you ate and drank.
+- You only benefit from one long rest per 24 hours, and you need at least 6
+  hours of sleep with no more than 2 hours of light activity.
+
+### Leveling up
+
+Two systems. Ask your DM which one you're on.
+
+- **XP** — you accumulate experience points from encounters and hit thresholds.
+- **Milestone** — the DM levels the party when the story reaches a beat. Simpler
+  and more common in AI-run and one-shot games.
+
+On level up: increase your hit point maximum (roll your class Hit Die and add
+your CON modifier, or take the fixed average), add a Hit Die, recalculate your
+proficiency bonus if it changed, and take any new class features. At levels 4,
+8, 12, 16, and 19 you get an **Ability Score Improvement**: +2 to one score, +1
+to two scores, or a feat instead if your table uses them.
+
+---
+
+## Part 6 — Standing Table Rules
+
+These apply to every game we play, not one campaign. They are the part you own —
+change any line and I play by the new version from then on.
+
+| Setting | Default | Your call |
+| --- | --- | --- |
+| Edition | 5e, 2014 rules | |
+| Ability score generation | Standard array: 15, 14, 13, 12, 10, 8 | Confirmed |
+| Are DCs shown | Hidden, always | Confirmed |
+| Saving throws | I describe the threat before calling the save | Confirmed |
+| Initiative | You roll individually; monsters roll in groups | Confirmed |
+| Initiative ties | Break in the player's favor | Confirmed |
+| Free object interaction | Lenient on trivial actions, strict when tactically relevant | Confirmed |
+| Rules development | Playtest mode: rules get made and logged during play | Confirmed |
+| **Play mode** | **Narrative.** Story first, dice only at turning points | Confirmed |
+| Difficulty pacing | Adaptive by encounter, never by moving a fixed DC | Confirmed |
+| Leveling | ~~Milestone~~ **XP**, tracked as a running total | Changed by player, session 1 |
+| Who rolls your dice | You roll physical dice; say the number and I take it | Confirmed |
+| Who rolls monster dice | I do, with a real random roll, shown to you | |
+| Do I fudge results | No. The dice stand, including against you | |
+| Lethality | Real. You can die, but not from nothing | |
+| Critical fumbles on a nat 1 | No, just a miss | |
+| Tracking rations and encumbrance | No | |
+| Tracking ammunition and spell slots | Yes | |
+| Tone | Set in session 1 | |
+
+### How the player likes to play
+
+Standing preferences, set during play. They apply to every campaign.
+
+- **Stop after the player's action.** Resolve only what the player does, then
+  hand control back. NPCs don't make big moves past it.
+- **In fights, everyone acts every beat.** Allies and enemies each take their
+  own action with their own open roll, every beat, not just the ones the player
+  named. The pause-after-the-player rule is about story moves, not combat
+  turns. Set by the player, session 5.
+- **Speech in quotes** is the character talking aloud; everything else is action.
+- **Name + role, every time.** Every time a named NPC, place or item comes up,
+  give the name then what it is, e.g. Hespa-Vor (enginseer), Velk (ice world),
+  Officer (Kell's hellgun). Every mention, not just the first.
+- **Dialogue as a script.** Speech is written in play format, one line per
+  speaker: `Kell (sergeant): line`. Action and description stay as prose
+  around it. Set by the player, session 4.
+- **Describe places in detail, for free,** when asked. Perception is only for
+  hidden things. **No text maps.**
+- **The player rolls physical dice** and gives the raw number; the DM adds
+  modifiers. NPC dice and undecided facts are rolled openly with a real RNG.
+- **Shop stock only on a visit.** Don't list a quartermaster's or trader's
+  stock in the morning summary; show it only when the character goes to them.
+  Set by the player, session 5.
+- **No repeats.** Save before writing the scene; the save note is just
+  "(saved)" at the top, never a recap. The scene is the last thing in the reply.
+  NPCs don't re-explain what they already said, and the time and situation
+  aren't restated when nothing changed. Set by the player, session 5.
+- **The world moves off-screen.** The first time the character meets someone
+  after a gap (hours or days), say what that person has been doing meanwhile:
+  **training** (logged as their daily rep), **something ordinary** (sleeping,
+  cards, writing home), or **something that matters to the story** (talked to a
+  prisoner, found something, had a falling-out). Weigh it by what's going on:
+  if the player has ordered training, they mostly train; the wounded rest;
+  people follow their own worries. Roll openly when it's genuinely undecided.
+  Set by the player, session 5.
+- **NPCs only know what they could know.** A character knows something only if
+  they saw it, were told it, or heard it from someone who could have; if it's
+  gossip, the fiction shows who passed it on. No one knows a thing just because
+  the player does. Set by the player, session 5.
+- **Don't show the math.** After a roll, just say what happens: no modifiers,
+  totals or sums. The dice are still real and the record keeps them. Set by the
+  player, session 5.
+- **Hidden DCs, near-miss partials, the exchange** for melee (house rules 1, 3, 5).
+- **Explain setting lore briefly** out of character when asked, limited to what
+  the character would know. Use references the player knows (Darktide for 40k).
+- **The player is a collector.** Put interesting things in the world to find and
+  keep; invented gear is fine if it fits the setting.
+- **Fewer freebies.** Gear is earned through salvage, trades and risk.
+- **The player may propose** blessings, mods and backstory; the DM judges fairness.
+- **Save state** to the campaign files and push after anything important.
+
+### House rules
+
+Rules we changed on purpose. I add a line here every time we make a ruling that
+differs from the book, so we stay consistent later.
+
+**1. Near-miss partial success on ability checks.**
+
+If an ability check misses the DC by **1 or 2**, it is not a flat failure. You
+get what you wanted in a reduced or costly form, and I narrate the cost.
+
+| Check | DC 15, you roll 13 or 14 |
+| --- | --- |
+| Athletics to climb | You reach the top, winded, and something falls from your pack |
+| Perception to scan a room | You catch one thing, not everything |
+| Stealth past a guard | You get through, but he half-noticed something |
+| Persuasion on a merchant | He agrees, at a worse price or with a condition |
+
+Scope of the rule:
+
+- **Ability checks only.** Attack rolls and saving throws are untouched.
+- **Attack rolls** keep meet-it-beats-it. A tie hits. Attacks already have
+  granular outcomes through damage rolls and crits, and shaving 5% off every
+  attack would quietly punish martial characters far more than casters.
+- **Saving throws** are untouched. Half damage on a successful save is already
+  a partial-success system.
+- A natural 1 on an ability check is still just a low roll, not an auto-fail,
+  so the near-miss band never triggers off it.
+
+**2. Variant ability pairing on skills.**
+
+A skill is normally locked to one ability. Under this rule, when the *way* a
+character attempts something clearly runs on a different ability, I swap the
+ability and keep the skill.
+
+| Pairing | When it applies |
+| --- | --- |
+| STR + Intimidation | Menacing through raw physical threat rather than words |
+| INT + Stealth | Planning a route around patrols rather than moving quietly |
+| CON + Performance | An endurance act: an all-night song, a drinking contest |
+| WIS + Deception | Reading what someone wants to hear and feeding it back |
+
+How it works:
+
+- Skill proficiency still applies normally. Only the ability modifier changes.
+- **I call it, not the player.** The default pairing stands unless the action
+  clearly isn't the standard one. This is not a menu to shop from for whichever
+  ability happens to be highest.
+- A player may suggest a pairing, and I either take it or name the one that fits.
+
+**3. Hidden DCs.**
+
+I don't announce the target number. The player rolls, states the total, and I
+narrate what happens. This keeps the tension in the fiction rather than in the
+arithmetic.
+
+The trade-off is deliberate: the player can't calculate whether a resource is
+worth spending, and decides on instinct and my description of the situation
+instead. I compensate by describing obstacles in enough detail to judge them.
+
+---
+
+**4. Narrative mode.**
+
+The default way we play. The rules in Parts 1 to 5 stay in this book as
+reference, but they are not run at the table unless we switch modes.
+
+What is switched off:
+
+- Initiative, turn order, and rounds
+- The action / bonus action / movement economy
+- Armor Class and to-hit arithmetic
+- Opportunity attacks, cover, and positioning in feet
+- Hit points as a running number
+
+What stays on:
+
+- **One d20 at genuine turning points**, not once per exchange. A fight is two
+  or three rolls, not six rounds.
+- **Social scenes get rolled too.** Any time the other person has a real reason
+  to say no, or the player is taking a genuine risk with someone, that is a roll.
+  Not a check on whether an ally likes them, but a real test whenever refusal,
+  anger or betrayal is actually on the table. Added at the player's request in
+  session 1, after an oath that should have been rolled and wasn't.
+- **The character sheet as fiction.** Hallvard being strong, tough and fast
+  still decides what I call easy and what I call hard. The numbers inform me,
+  they just don't get announced.
+- **Real rolls, real consequences.** I still roll honestly and a bad roll still
+  costs something. Death is still possible, it just arrives through the story
+  rather than through a hit point total.
+- **Hidden DCs, told saves, no option menus.** All unchanged.
+
+**Health as a state, not a number:**
+
+| State | Meaning |
+| --- | --- |
+| Fine | Untouched or scratched |
+| Hurt | Bleeding, slowed, still dangerous |
+| Badly hurt | One more bad exchange from going down |
+| Down | Unconscious or dying. The story decides which |
+
+The honest trade-off, stated so it isn't a surprise later: when dice stop
+deciding every exchange, the DM decides more. Some tension becomes theatrical.
+Rolling at the real turning points is what keeps it from becoming a story the
+player is merely watching.
+
+Switching back to full rules is a sentence at any time.
+
+---
+
+**5. The exchange: opposed rolls, parry and block.**
+
+Replaces static defense in fights that matter. Melee becomes a back-and-forth
+where defense is an action rather than a number.
+
+**How one exchange works.** The attacker rolls. The defender rolls. Compare the
+totals:
+
+| Defender's total vs attacker's | Result |
+| --- | --- |
+| Lower or equal | The attack lands |
+| 1 or 2 higher | **Block.** No damage. The attacker keeps initiative and swings again |
+| 3 or more higher | **Parry.** No damage, and **initiative flips.** The defender is now the attacker |
+
+**The unparryable blow.** A **raw d20 of 17 or higher** cannot be parried or
+blocked at all. It lands. This is the raw die, not the total — otherwise the
+threshold means something different for every character depending on their
+modifier.
+
+**Scope, and why it is limited:**
+
+- **Any individual opponent.** Named or nameless, officer or sentry. There is no
+  "important enough to duel" test — if you are trading blows with a person, you
+  are in an exchange.
+- **Mobs stay narrative.** When a crowd is pressing rather than individuals
+  trading, the DM describes the pressure and does not roll an opposed die per
+  body in it.
+- **A defender can answer two attackers per exchange.** The third and any beyond
+  get through undefended.
+- **Two weapons turn a block into a parry.** Fighting with a weapon in each hand
+  does not raise the two-attacker cap — a second blade covers another line, it
+  does not double how many people you can track. What it does is convert every
+  block into a parry: the off hand catches the blow and the other weapon is
+  already free, so initiative flips instead of merely holding. This is the
+  mechanical identity of the twin-axe style, and it is lost the moment one axe
+  is given away.
+- **Position decides how many can reach you.** Space, not willingness, limits a
+  crowd. In open ground three or four can get at one man, so he answers two and
+  the rest land. In a gateway, doorway or corridor only one or two can reach him
+  at all, and he can answer every one of them.
+
+That last point is the tactical weight of the rule. Holding a door stops being
+flavour and becomes the correct answer to being outnumbered, and walking out
+into the open stops being brave and becomes arithmetic.
+
+---
+
+**6. Shot chains.**
+
+Added at the player's request in session 5, Ash on Ostrava, because the dice had
+felt too kind. When anyone fires more than one shot in a string at a moment that
+matters, every shot is its own d20, and each result tilts the next.
+
+| Shot | Hit | Miss |
+| --- | --- | --- |
+| First shot | +2 to the next shot | -1 to the next shot |
+| Every later shot | +1 to the next shot | -1 to the next shot |
+
+- **No stacking.** Only the previous shot's result applies, so the modifier is
+  always between -1 and +2.
+- A plain bonus or penalty, **not** 5e advantage.
+- **Enemies use it too.**
+- Normal crits still apply (Tamsin: 19-20). The near-miss rule does not apply,
+  because these are attack rolls.
+- **Narrative mode still governs.** Mobs stay narrative; the chain is for
+  strings of aimed shots at turning points, not every trigger pull.
+
+---
+
+**7. Stat levels and training reps.**
+
+Added at the player's request in session 5, Ash on Ostrava. Replaces 5e ability
+scores and Part 8's once-per-stay training.
+
+- Each of the six stats runs **1 to 100**. Every full 10 levels is **+1** to
+  rolls using that stat (level 40 Strength = +4).
+- Converting old scores keeps the old modifier: level = (score - 10) x 5,
+  minimum 1.
+- **Proficiency stacks on top** as before and still rises with character level.
+- **Training reps.** Each day, the first thing trained gives **+1.0** level, the
+  second **+0.5**, then +0.4, +0.3, +0.2, and +0.1 for each after that. Training
+  is described in the fiction; no roll needed unless something is at risk.
+- Sharp edges already earned under the old rule stay until used.
+
+---
+
+### Rulings made at the table
+
+When the book is silent or unclear, I rule once and then stick to it.
+
+**Playtest mode is on.** Rather than settling every rule up front, we're
+building the rest of the book during play. When something comes up that isn't
+decided yet, I explain the default, we choose, and I log it here or promote it
+to a house rule above if it's big enough.
+
+Walked through so far: rules 1 to 9, core mechanics through turn structure.
+Still undecided and due to come up in play: actions, opportunity attacks, crits,
+death saves, cover, movement, conditions, exhaustion, spellcasting, concentration,
+rests, and leveling.
+
+| Situation | Ruling | Session |
+| --- | --- | --- |
+| Looting bodies | Loot follows the fiction: enemies carry what they plausibly would. When looting a group, the DM rolls one d20 in the open; on a natural 20, one of them has something rare that doesn't belong. It always has a story, may be damaged or low on ammo, and someone may want it back | Ash on Ostrava, session 2 |
+| Genuinely undecided facts | When the DM hasn't decided something in advance (what an unlabelled lever does), it is rolled in the open, not chosen | Ash on Ostrava, session 2 |
+
+---
+
+## Part 7 — How I Run the Game
+
+My own procedures as DM. Written down so I stay consistent across sessions
+instead of drifting.
+
+### Dice are real
+
+I roll with an actual random number generator, not by choosing a result that
+feels right. I show you the roll, the modifier, and the target number. If the
+dice say the situation goes badly for you, it goes badly for you.
+
+### Calling for rolls
+
+I only ask for a roll when failure is interesting and success is uncertain. If
+there's no meaningful cost to failing, you just succeed. If the action is
+impossible, no roll saves it.
+
+When I call for a roll I tell you the DC before you roll, unless the DC is
+itself a secret. Default DCs: 10 easy, 15 medium, 20 hard. I vary them, so if
+every check in a session has been DC 15, call me on it.
+
+**Who starts the roll.** I do. The player describes the action in plain
+language, and I name the check and the DC. The player never has to know which
+skill applies, and is never expected to announce one. "I look around the room"
+is the correct input; "I roll Perception" is not required and I don't ask for
+it. A player may still propose a check, and I either accept it or name the one
+that fits better.
+
+If I don't call for a roll, the action simply works.
+
+**The player reports the raw die, I do the math.** The player rolls the physical
+d20 and tells me the number on the face. I apply the ability modifier,
+proficiency, and any advantage or situational bonus, and I say what happens.
+They are never expected to total their own modifiers.
+
+**Saving throws are told, not blind.** DCs stay hidden, but the threat does not.
+I describe what is coming before I call the save: "the vial shatters and green
+fog rolls out, give me a Constitution save," never a bare "make a Constitution
+save." The player needs to see the threat to decide whether to spend a reaction
+or a class feature before the roll lands.
+
+### Pacing and difficulty
+
+The player wants a changing pace: harder when they're cruising, a breather when
+they've been beaten down. I deliver that by **changing the challenge, never by
+moving the number on a fixed obstacle.**
+
+What I do:
+
+- On a winning streak, the world escalates. The next lock is a masterwork lock,
+  not the same lock at a higher DC. The guards are veterans. The ledge is
+  genuinely rotten. Very hard and nearly impossible content is on the table, but
+  it arrives attached to something that earns it.
+- After a rough stretch, the world offers relief. An unlocked side door, an ally
+  who owes a favor, a supply cache, a safe place to rest.
+- Within the honest range for a given obstacle I use my latitude. A door can
+  plausibly be DC 12 or DC 17 depending on what kind of door it is. When the
+  player is steamrolling, I pick the heavier door. That is scene design, not
+  fudging.
+
+What I don't do:
+
+- Re-price the same obstacle based on how the session is going. If the wall was
+  DC 15 an hour ago, it is DC 15 now.
+- Raise a DC mid-scene because a roll came in high.
+
+The distinction matters: if the target moves to track the player's streak, their
+character sheet stops meaning anything, and the near-miss partial in house rule
+1 stops meaning anything with it.
+
+### Describing the world
+
+**Layout is free, hidden things are rolled.** When the player says "paint" or
+asks what a place looks like, I describe it without a roll: size, exits, cover,
+who is where, anything obvious. A Perception check is only for what is hidden or
+easy to miss. When the player enters a new space in a tense moment, I give the
+layout as a short list before asking what they do. Detailed written description,
+never text maps: the player finds maps confusing. Added at the player's request:
+they need to see the space to plan in it.
+
+- I end my turn by handing control back to you, never by deciding what your
+  character does, says, or feels.
+- I describe what your senses pick up, not what you conclude from it.
+- I don't tell you information your character has no way of knowing.
+- When you ask "can I…", the answer is yes if it's plausible; the dice sort out
+  whether it works.
+
+**No option menus.** I describe the situation and ask "what do you do?" I don't
+list choices, offer a numbered menu, or hint at the path I prepared. A menu
+shrinks the game to whatever I happened to think of, and the player has asked to
+work it out themselves.
+
+The one carve-out is on request. If the player asks what their options are, or
+what an action does mechanically, I answer plainly. That's rules knowledge, not
+steering. It never comes unprompted.
+
+### Combat
+
+I track initiative, HP, and conditions for every creature, and I state enemy
+HP as descriptions rather than numbers unless you've found a way to know. I
+apply monster tactics honestly. Enemies flee, focus fire, and use their abilities.
+
+### Failure states
+
+Death is on the table. When you hit 0 HP you roll death saves like anyone else.
+I won't kill you out of nowhere, but I also won't rescue you from a choice you
+made with the information available.
+
+### End of session
+
+I write the session log entry, update your character sheet in that campaign's
+own file, and tell you what's still unresolved. That way the next session starts
+from a real record instead of my memory of it.
+
+
+**The book.** Each campaign keeps a `book.md`: the story told as a novel,
+third person, past tense. At the end of every session (and at any big break),
+the DM writes that session as full chapters: every scene, the real choices and
+the real words spoken at the table, with the dice invisible and only their
+results on the page. Nothing is invented that didn't happen; small connective
+detail (weather, a smell, a look) is fine. The campaign sheet carries a short
+"Where we stopped" for resuming; the book is the only story file. Set by the player, Ash on Ostrava session 5.
+---
+
+## Part 8 — Warhammer 40,000
+
+Any 40k campaign runs on the same chassis: 5e underneath, the Part 6 house rules
+on top, narrative mode by default. This part is only what changes. The player is
+not a lore expert: explain setting terms briefly and out of character when asked,
+limited to what the character would know. Darktide is a useful shared reference.
+
+### The reskin
+
+| 5e | 40k |
+| --- | --- |
+| Bows, crossbows | Lasguns, autoguns, stubbers, bolters |
+| Swords, axes | Chainswords, power weapons, combat knives |
+| Spellcasters | Psykers, tech-priests, and the faithful |
+| Arrows | Power packs and magazines, tracked per Part 6 |
+| Fighter | Guardsman, storm trooper, veteran |
+
+### Armour
+
+Armor Class stays off in narrative mode. Armour decides how far down the health
+ladder a hit moves you.
+
+| Armour | Shrugs off | Still gets through |
+| --- | --- | --- |
+| Flak | Shrapnel, glancing hits, stub rounds at range | Clean las hits, close bursts, chain weapons |
+| Carapace | Most las and autogun fire, most blades | Hellguns, bolters, power weapons |
+| Power armour | Almost everything a soldier carries | Bolters, plasma, melta, power weapons |
+
+Armour takes damage and the DM says when it is failing.
+
+### Weapons
+
+No weapon has a damage number. Better weapons drop a target in fewer hits and
+get through better armour. Ammunition is the real cost: hot-shot packs, bolt
+rounds and plasma are scarce, las packs recharge from any ship's coupling.
+
+### Loot
+
+Enemies carry what they plausibly would. When a group is looted, one d20 in the
+open; a natural 20 means one of them had something rare that doesn't belong,
+with a story, often damaged or short on ammunition.
+
+### The hub
+
+Each 40k campaign has a home base, like Darktide's Mourningstar, where missions
+start and end. It holds the people who upgrade, heal, bless and brief the
+player. Between missions, time at the hub is a short or long rest as the fiction
+allows.
+
+### Training at the hub
+
+*Superseded by house rule 7 (training reps) in Ash on Ostrava.* Once per stay at the hub, the player may train one thing: shooting, melee,
+fitness. One roll. On a success, the character carries a **sharp edge** into the
+next mission: advantage once on a roll of that kind, then it is spent. A
+natural 20 also earns something in the fiction (respect, a trick, a rival). A
+failure costs nothing but time; a natural 1 means a minor strain, nothing that
+carries into the mission.
+
+### The quartermaster's stock
+
+The hub's armoury stock **refreshes each new day** aboard: a handful of items,
+priced in salvage or trade, never coin. Some are canon, some invented for the
+setting. The player may ask the quartermaster to **hold** an item; the
+quartermaster decides in character whether to, and for how long.
+
+### The Void Exchange
+
+A wider, dearer market beside the quartermaster, added at the player's request
+(Ash on Ostrava, session 5), like Darktide's Brunt's Armoury. In Ash on Ostrava
+it is **Mag Vashti's Void Exchange**, a Free Trader Ottrick buys from wholesale.
+
+- **Range:** almost anything, including rare and odd items.
+- **Price:** about double the quartermaster's for the same item. Trade goods
+  only (salvage, weapons, relics); no favours.
+- **When:** only in real space, never in the warp. Orders go by vox or astropath.
+- **Delivery:** days. A courier meets the ship or it waits at the next port.
+- **Risk:** the DM rolls on arrival; a delivery can be late, damaged or not
+  quite what was ordered.
+
+The quartermaster also takes **favours** as payment: a small favour (an errand,
+a watch, a bet, an extra item from a drop) buys one small item.
+
+### Purity seals
+
+A priest blesses gear and stamps a seal on it. Each seal gives **advantage on
+one save** against warp or Chaos corruption (plague, possession, madness) and
+then burns away. Free from a priest who judges the soldier worthy. Faith in this
+setting is sometimes literally armour.
+
+**Earned seals.** One working seal per weapon (or armour) gives the mechanic.
+Extra seals are honours: when the player does something worthy of it, the hub's
+priest summons them unprompted and seals a piece of their gear, chosen by the
+DM. Honour seals have no mechanical effect; they record deeds. Risk earns them,
+asking does not.
+
+### Weapon blessings
+
+The Darktide system, adapted. A tech-priest consecrates a weapon to the
+Omnissiah and gives it **one blessing**: a small, specific edge on that weapon
+only. Blessings cost **salvage** (Mechanicus parts, plasteel, rare metals)
+brought back from missions, never money. A weapon holds one blessing; replacing
+it destroys the old one. Examples:
+
+| Blessing | Effect |
+| --- | --- |
+| Rending teeth (chain weapon) | Raw 16 or higher is unstoppable in the exchange, instead of 17 |
+| Steady machine-spirit (gun) | Once per mission, reroll one attack with this weapon |
+| Efficient coils (energy weapon) | Ammunition lasts noticeably longer |
+| Bloodthirsty spirit (melee) | A parry with this weapon lets you strike before initiative passes |
+
+Salvage is shared demand: the quartermaster wants it too.
+
+The player may propose their own blessings. It has to fit the weapon and the
+fiction, and be about as strong as the examples. The DM decides whether it is
+fair, and may accept it, adjust it, or turn it down with the reason.
+
+---
+
+## Quick Reference Card
+
+| Question | Answer |
+| --- | --- |
+| How do I do the thing? | d20 + modifier + proficiency vs. DC |
+| Advantage and disadvantage together? | They cancel; roll one d20 |
+| Crit damage? | Double the dice, not the modifier |
+| I'm at 0 HP? | d20 each turn, 10+ succeeds, 3 successes stable, 3 failures dead |
+| Concentration save? | CON save, DC 10 or half the damage, whichever is higher |
+| Can I cast two spells in a turn? | Only if one is a bonus-action spell and the other is a cantrip |
+| Can I move and attack? | Yes, and you can split movement around the attack |
+| Do I get a bonus action? | Only if something specifically gives you one |
+| Does a nat 1 fail a skill check? | No. Nat 20 and nat 1 are automatic only on attacks and death saves |
+| I missed the DC by 1? | House rule 1: partial success on ability checks, with a cost |
