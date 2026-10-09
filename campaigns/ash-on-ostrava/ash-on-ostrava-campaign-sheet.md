@@ -248,8 +248,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 
 ## The hub
 
-**The *Unblinking Lantern*,** Varsaine's warship. Tamsin's quarters (rack moved
-to the container), the armoury (Ottrick), medicae (Haldis), range, archive,
+**The *Unblinking Lantern*,** Varsaine's warship. Tamsin's quarters (bare: bunk, locker, desk; his weapon/storage rack moved to the container), the armoury (Ottrick), medicae (Haldis), range, archive,
 briefing room, chapel (Thane; *WE ARE THE LIGHT* chalked by the door), brig
 (Deck 8), Ysolde's chamber (Deck 2), Hespa-Vor's alcove and **Drel's forge** on
 the engine deck, plasma crucible beside the drive, lower hold (Deck 9) with The
