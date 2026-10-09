@@ -5,8 +5,7 @@
 Written to be read cold. Read this, then `README.md` in this folder, then
 `../../DND_CODEX.md` for the rules.
 
-**Where we stopped:** end of session 4, night of warp day 5 of 9 aboard the
-Lantern. See the end of this file.
+**Where we stopped:** session 5, in the warp to Ostrava. See the end of this file.
 
 ---
 
@@ -153,7 +152,7 @@ threw it into the fire with both seeds. Something very old screamed and was
 gone. Thane sealed Shameholder in black wax: *Offered rest by the dark, and
 refused it.*
 
-**Where we stopped:** warp day 1 of 9, en route to Saint Ivaine's Rest and Lady
+**End of session 3:** warp day 1 of 9, en route to Saint Ivaine's Rest and Lady
 Kesh. Tamsin is going to sleep. In four days Drachen learns his seed is gone.
 The page is not enough to convict him; Strahn, alive on Ostrava Primus, may be.
 Velk waits.
