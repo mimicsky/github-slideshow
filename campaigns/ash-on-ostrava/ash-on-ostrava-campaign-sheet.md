@@ -115,7 +115,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Medal | Cadian service medal, Kasr Holn. Eagle filed off in shame for the undelivered order; Thane's black wax aquila |
 | Acolyte pin; armband | Armband: *OSTRAVA SECUNDUS - CADIAN REMNANT*, white gate on black, left arm |
 | Venn's vellum note | In Tamsin's locker: *"Velk. Under the Choir-Ice, past the dead chapel. Fourth stair down. It sleeps. The key fits the cradle, not the door. If I don't come back: don't go down alone. And don't take V's word for what's down there. He wasn't there. I was."* |
-| Vox-beads | 4 Navy beads (Gryphonne pattern), **retuned by Hespa-Vor to an encrypted channel called THE LIGHT** (warp day 5 to Ostrava), linked to the Lantern's vox so Kell can listen. Tamsin wears one; **Kell has one** (24/7); two in hand for Varga and Dace |
+| Vox-beads | 4 Navy beads (Gryphonne pattern), **retuned by Hespa-Vor to an encrypted channel called THE LIGHT** (warp day 5 to Ostrava), linked to the Lantern's vox so Kell can listen. Tamsin, **Kell, Varga and Dace** each wear one, 24/7 |
 | Purity seal (spare) | Thane's unused sleep seal, held by Varsaine |
 
 ### The Light's container
@@ -187,7 +187,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | **Shipmaster Halvard** | Commands the Lantern | On the rough road to Ostrava |
 | **Rennick** | The Lantern's boat pilot, burn-scarred jaw | Flies drops |
 | **Deck ratings** (trained by Tamsin) | **Bosun Grell** (31 years on hulls; lost the drinking bet), **Imre** (ex-Navy augur rating), **Rusk** (Cadian cook from Kasr Gallan, a natural shot), **Marta** (cargo-hauler, steady), **Pell** (16, cheeky), **Tolly** (galley, scared of guns), **Ashby** and **Morrow** (the dreamers) | Marta and Pell kept their lasguns and fought in the Deck 9 breach |
-| **Lt. Corvane** | Steadfast Ninth officer, Cadian (Kasr Tyrok). Disarmed by Dace at the Rest | Lantern brig, cell 3 (guard Hollis). Gave up Tessaly. Unsure if he served a traitor |
+| **Lt. Corvane** | Steadfast Ninth officer, Cadian (Kasr Tyrok). Disarmed by Dace at the Rest | Lantern brig, cell 3 (guard Hollis). Gave up Tessaly. Dace brought him a meal and told him everything (warp night 4); Corvane sent word through Dace: **Tessaly always keeps a reserve squad with his ship; the courier is the *Ember of Tyrok*, at the Primus landing fields, Spire Dock Six, under a Munitorum transponder.** "He owed it to the boy who held the door" |
 | **Major Orlov** | Garrison commander, Ostrava Secundus. Fair, tired | Varsaine sent him a warning about Strahn before the jump; unknown if received |
 | **Colonel Strahn** | Loyal officer. Wrote the "hold the gate" order Tamsin never delivered | Alive on Ostrava Primus, with "evidence under separate seal". Doesn't know Tamsin was the runner |
 
