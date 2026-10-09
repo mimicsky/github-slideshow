@@ -7,13 +7,17 @@ Rules and campaigns for games run here.
 | File | What it is |
 | --- | --- |
 | `DND_CODEX.md` | The standing rulebook. D&D 5e reference in Parts 1-5, our table rules and house rules in Part 6, how the DM runs a table in Part 7, Warhammer 40k adaptations in Part 8. Not tied to any one campaign |
-| `campaigns/<name>/README.md` | One campaign's hard state: characters, NPCs, inventory, XP, open quests, DM threads |
-| `campaigns/<name>/story-so-far.md` | The same campaign's narrative recap, written to be read cold months later |
-| `campaigns/<name>/book.md` | The campaign told as a novel, chapter by chapter, written at the end of each session |
+| `campaigns/<name>/<name>-campaign-sheet.md` | One campaign's hard state: where we stopped, characters, gear, NPCs, XP, open threads, DM threads |
+| `campaigns/<name>/book.md` | The campaign's story, told as a novel, chapter by chapter, written at the end of each session |
+| `campaigns/<name>/README.md` | A short index of the campaign's files |
+
+Three Crowns predates this layout and still uses `README.md` (state) and
+`story-so-far.md` (recap).
 
 ## Resuming a campaign
 
-Read the campaign's `story-so-far.md`, then its `README.md`, then the codex.
+Read the end of the campaign's `book.md`, then its campaign sheet (starting with
+"Where we stopped"), then the codex.
 Those three files are enough to pick up mid-scene without the original
 conversation.
 
