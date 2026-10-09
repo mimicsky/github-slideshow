@@ -47,6 +47,14 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
   hidden things. **No text maps.**
 - **The player rolls physical dice** and gives the raw number; the DM adds
   modifiers. NPC dice and undecided facts are rolled openly with a real RNG.
+- **The world moves off-screen.** The first time the character meets someone
+  after a gap (hours or days), say what that person has been doing meanwhile:
+  **training** (logged as their daily rep), **something ordinary** (sleeping,
+  cards, writing home), or **something that matters to the story** (talked to a
+  prisoner, found something, had a falling-out). Weigh it by what's going on:
+  if the player has ordered training, they mostly train; the wounded rest;
+  people follow their own worries. Roll openly when it's genuinely undecided.
+  Set by the player, session 5.
 - **Don't show the math.** After a roll, just say what happens.
 - **Shop stock only on a visit.** Never list a shop's stock in a summary.
 - **No repeats.** Save before writing the scene; the save note is just

@@ -426,6 +426,14 @@ Standing preferences, set during play. They apply to every campaign.
   "(saved)" at the top, never a recap. The scene is the last thing in the reply.
   NPCs don't re-explain what they already said, and the time and situation
   aren't restated when nothing changed. Set by the player, session 5.
+- **The world moves off-screen.** The first time the character meets someone
+  after a gap (hours or days), say what that person has been doing meanwhile:
+  **training** (logged as their daily rep), **something ordinary** (sleeping,
+  cards, writing home), or **something that matters to the story** (talked to a
+  prisoner, found something, had a falling-out). Weigh it by what's going on:
+  if the player has ordered training, they mostly train; the wounded rest;
+  people follow their own worries. Roll openly when it's genuinely undecided.
+  Set by the player, session 5.
 - **Don't show the math.** After a roll, just say what happens: no modifiers,
   totals or sums. The dice are still real and the record keeps them. Set by the
   player, session 5.
