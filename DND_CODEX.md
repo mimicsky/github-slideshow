@@ -768,6 +768,14 @@ I write the session log entry, update your character sheet in that campaign's
 own file, and tell you what's still unresolved. That way the next session starts
 from a real record instead of my memory of it.
 
+
+**The book.** Each campaign keeps a `book.md`: the story told as a novel,
+third person, past tense. At the end of every session (and at any big break),
+the DM writes that session as full chapters: every scene, the real choices and
+the real words spoken at the table, with the dice invisible and only their
+results on the page. Nothing is invented that didn't happen; small connective
+detail (weather, a smell, a look) is fine. `story-so-far.md` stays the short
+recap for resuming. Set by the player, Ash on Ostrava session 5.
 ---
 
 ## Part 8 — Warhammer 40,000

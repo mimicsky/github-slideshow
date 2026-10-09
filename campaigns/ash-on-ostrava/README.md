@@ -2,7 +2,7 @@
 
 Campaign state. Rules live in `../../DND_CODEX.md`; this file holds only what's
 true about this particular game right now. The history is in
-`story-so-far.md`.
+`story-so-far.md` (short recap) and `book.md` (the novel).
 
 - **Started:** 2026-10-03
 - **Sessions played:** 4 (session 5 in progress)
@@ -55,6 +55,9 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 - **Fewer freebies.** Gear is earned through salvage, trades, favours and risk.
 - **The player may propose** blessings, mods and backstory; the DM judges.
 - **Save state** to the campaign files and push after anything important.
+- **The book.** At the end of each session, write it as full chapters in
+  `book.md` (codex Part 7). Part One is the summary of sessions 1-5; Part Two
+  starts the morning after the Deck 9 breach.
 
 ---
 
