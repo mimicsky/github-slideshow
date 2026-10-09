@@ -91,8 +91,8 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Rank | **Interrogator-designate** (warrant of trial from Kesh, session 5). Leads The Light; Varsaine signs off. Full rank and a rosette when Drachen is in chains or dead and Strahn's evidence is delivered; fail and back to acolyte |
 | Class | Fighter 7, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | Fine. Arm healed after a full night's sleep. **Sharp edge (shooting): unused** |
-| Stats (levels 1-100) | STR **16.4** (+1), DEX **37.5** (+3), CON **20** (+2), INT **3.0** (+0), WIS **10** (+1), CHA **1.5** (+0) |
-| Today's reps (warp day 5 to Ostrava) | STR +1.0 (bodyweight workout in quarters, ~1200), INT +0.5 (Manual 41-B, boarding drills) (day 4: INT +1.0 Manual 41-B, DEX +0.5 left-handed Last Word) |
+| Stats (levels 1-100) | STR **16.4** (+1), DEX **37.5** (+3), CON **20** (+2), INT **3.4** (+0), WIS **10** (+1), CHA **1.5** (+0) |
+| Today's reps (warp day 5 to Ostrava) | STR +1.0 (bodyweight workout in quarters, ~1200), INT +0.5 (Manual 41-B, boarding drills), INT +0.4 (Hespa-Vor's lesson on chain weapons and gun parts, ~1600) (day 4: INT +1.0 Manual 41-B, DEX +0.5 left-handed Last Word) |
 | Proficiency | +3. Skills: Perception, Athletics, Survival, Intimidation |
 | Want | Find who opened the gate at Kasr Holn. Now: bring down Drachen |
 | Flaw | Doesn't trust officers, and says so |
@@ -243,6 +243,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
   - Last Word: none offered yet. Ideas raised: Overcharge, True strike. Hot-shot
     conversion (Ottrick mod) or a better lens (Void Exchange ~10-15 TV) also hit
     harder.
+- **Upgrade paths (Hespa-Vor's lesson, warp day 5).** Parts are Ottrick's trade, blessings Hespa-Vor's. *Shameholder:* the overdrive limit is heat, not the cell; heat-sink fins, coolant channels or a higher-tolerance motor (Mechanicus or forge-world, from officers' blades, void-ship armouries, the dead) buy room for a longer overdrive OR a harder-driven motor, not both in full; track, bar and teeth must be upgraded too or the weakest part fails. Teeth: plasteel (Dace can recast his 12 spares if brought plasteel), adamantium (rare, needs the plasma crucible; Hespa-Vor would teach Dace the temper). *Vigil:* better focusing lens and a larger capacitor (overcharged single shot) are the real upgrades; heat shroud possible but the spirit hates full-auto; Mechanicus-pattern hot-shot packs hold more. No readable chain-weapon manual aboard (117-C lost with Drel's things; Hespa-Vor's rites are cortex-only).
 - **Long-term goals:** a fully kitted squad; a ship of Tamsin's own.
 
 ## The hub
