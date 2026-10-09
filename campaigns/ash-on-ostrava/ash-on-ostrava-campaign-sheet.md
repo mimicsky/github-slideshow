@@ -214,6 +214,12 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
   under Hollis, and whatever Orlov brings quietly. The rest of Ostrava's
   Militarum answers to Drachen; trust none of it. Final dispositions once they
   can see the dock.
+- **Tamsin's orders to The Light:** call surrender in the Inquisition's name;
+  those who yield are taken and judged, those who refuse are traitors; non-lethal
+  where possible, but anyone who gets close is put down. Loot only once it's
+  safe, never mid-fight; **Varga carries Tamsin's old salvage satchel** for it.
+  Dace may go first by his own choice, shield up, cover to cover. Kell holds the
+  Lantern, trains the ratings, speaks to his troopers for Tamsin.
 - **Drachen** (Lord-General, Cadian remnant fleet, Ustrennos). Excommunicate. Knows
   "Lantern is here". His story to his own men: Varsaine opened Cadia's gate and
   Kesh covered it up.
