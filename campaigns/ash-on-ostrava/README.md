@@ -90,6 +90,10 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 - **Shop stock only on a visit.** Don't list a quartermaster's or trader's
   stock in the morning summary; show it only when the character goes to them.
   Set by the player, session 5.
+- **No repeats.** Save before writing the scene; the save note is just
+  "(saved)" at the top, never a recap. The scene is the last thing in the reply.
+  NPCs don't re-explain what they already said, and the time and situation
+  aren't restated when nothing changed. Set by the player, session 5.
 - **Don't show the math.** After a roll, just say what happens: no modifiers,
   totals or sums. The dice are still real and the record keeps them. Set by the
   player, session 5.
