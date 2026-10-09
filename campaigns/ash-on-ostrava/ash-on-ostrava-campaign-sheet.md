@@ -5,10 +5,10 @@ story lives in `book.md`.
 
 **To resume:** read the end of `book.md`, then this sheet, then the codex.
 
-**Where we stopped:** session 5, about 0800 on warp day 4 on the rough road to
-Ostrava, in Ottrick's armoury. Tamsin, arm bandaged, has Vigil stripped on the
-counter and Ottrick's new coil in hand. Arrival at Ostrava around midday on
-warp day 6; The Light (Tamsin, Varga, Dace) drops straight to Primus.
+**Where we stopped:** session 5, 0600 on warp day 5 on the rough road to
+Ostrava, Tamsin waking in their quarters after sleeping since midday. The Geller
+field held quiet overnight. Arrival at Ostrava around midday on warp day 6; The
+Light (Tamsin, Varga, Dace) drops straight to Primus.
 
 - **Started:** 2026-10-03
 - **Sessions played:** 4 (session 5 in progress)
@@ -85,9 +85,9 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | --- | --- |
 | Rank | **Interrogator-designate** (warrant of trial from Kesh, session 5). Leads The Light; Varsaine signs off. Full rank and a rosette when Drachen is in chains or dead and Strahn's evidence is delivered; fail and back to acolyte |
 | Class | Fighter 7, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
-| Health | **Hurt**: right arm numb from the Geller node shock (warp night 3 to Ostrava); feeling back by morning, grip in a day. **Sharp edge (shooting): unused** |
-| Stats (levels 1-100) | STR **15.4** (+1), DEX **37** (+3), CON **20** (+2), INT **2.5** (+0), WIS **10** (+1), CHA **1.5** (+0) |
-| Today's reps (warp day 4 to Ostrava) | INT +1.0 (Manual 41-B). Next rep today gives +0.5 |
+| Health | Fine. Arm healed after a full night's sleep. **Sharp edge (shooting): unused** |
+| Stats (levels 1-100) | STR **15.4** (+1), DEX **37.5** (+3), CON **20** (+2), INT **2.5** (+0), WIS **10** (+1), CHA **1.5** (+0) |
+| Today's reps (warp day 5 to Ostrava) | None yet (day 4: INT +1.0 Manual 41-B, DEX +0.5 left-handed Last Word) |
 | Proficiency | +3. Skills: Perception, Athletics, Survival, Intimidation |
 | Want | Find who opened the gate at Kasr Holn. Now: bring down Drachen |
 | Flaw | Doesn't trust officers, and says so |
