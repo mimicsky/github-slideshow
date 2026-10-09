@@ -218,6 +218,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
   under Hollis, and whatever Orlov brings quietly. The rest of Ostrava's
   Militarum answers to Drachen; trust none of it. Final dispositions once they
   can see the dock.
+- **Arrival (warp day 6, ~1100).** Lantern in real space. Rolled openly: the *Ember of Tyrok* is **still docked** at Spire Dock Six under its Munitorum transponder (16); no Drachen warship in the system (11). Ysolde reaching for Orlov.
 - **Approach (agreed warp day 6, 0700 briefing).** Rennick flies the boat in cold (no Ordo transponder) to a busy freight bay next to Dock Six (Five or Seven, chosen on arrival). The team walks the spire's service corridors in Cadian kit and comes into Dock Six from the back, the cargo route, out of the tower's sight. Then the team goes loud: board, breach, clear. Orlov may get them cleared or warn them, if Ysolde reaches him. **The call to surrender:** Brenner (trooper, vox) patches Tamsin's voice into the *Ember*'s shipboard vox at the umbilical junction box on the gantry (with Hespa-Vor's help), covered by the team, before the breach. Those who stand down are taken alive for Kesh to judge; those who refuse are fired on from cover behind Dace's shield.
 - **Tamsin's orders to The Light:** call surrender in the Inquisition's name;
   those who yield are taken and judged, those who refuse are traitors; non-lethal
