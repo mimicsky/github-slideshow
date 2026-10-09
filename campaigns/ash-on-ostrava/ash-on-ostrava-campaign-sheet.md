@@ -110,7 +110,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 
 | Item | Notes |
 | --- | --- |
-| Grenades | 2 frag, 1 smoke, 0 krak |
+| Grenades | 2 frag, **converted to impact fuses** by Ottrick (warp day 5 to Ostrava): burst on contact, can't be dodged or thrown back; a **natural 1 on the throw** sets one off at Tamsin's feet. 1 smoke, 0 krak |
 | Armour | Carapace chest plate over dented flak; void-mask; plague rebreather (double-filtered, from Haldis) |
 | Holsters | Quick-draw thigh rig (sized for Last Word); Chimera-hide long holster |
 | Reinforced Munitorum satchel | Green canvas, steel corners, a dozen pouches |
@@ -138,6 +138,9 @@ TV.** The back two-thirds is empty. *Left unlocked during the Deck 9 breach.*
 - **Void Exchange order queued (send at Ostrava):** chain axe (promised to
   **Kell**; Varga gets the next weapon), reflex sight for Vigil, photon flash
   grenade. 30 TV, already paid with all 22 shotguns and 8 TV of gear.
+- **Small favour owed to Ottrick** for the impact fuses: bring back the
+  *Ember of Tyrok* captain's bottle of amasec ("courier captains always have
+  one").
 - **Tamsin owes Ottrick one open favour** ("whatever I ask, when I ask") for
   Vigil's new coil.
 - **Dreams:** Tamsin, a ship (light freighter 2,500 TV). Ottrick: bolt rounds,
