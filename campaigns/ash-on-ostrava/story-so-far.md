@@ -354,7 +354,7 @@ screaming. On Hespa-Vor's instruction Tamsin rammed the combat knife into the
 node's rune and hammered it home: the field snapped back (near miss: Tamsin
 shocked and thrown), the tear closed, and Thane's litany finished the rest.
 Kell badly hurt (bite to his stitched arm), Dace hurt (calf), Tamsin hurt (arm
-numb). Shameholder's motor is dead until repaired.
+numb). Shameholder's overdrive is spent for that fight.
 
 The node failed from old damage (a crate off Ottrick's collapsed pallet hit it
 weeks ago; last serviced by Drel two years back), not sabotage. Tamsin
