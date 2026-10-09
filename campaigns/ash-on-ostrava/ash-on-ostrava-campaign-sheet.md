@@ -91,8 +91,8 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Rank | **Interrogator-designate** (warrant of trial from Kesh, session 5). Leads The Light; Varsaine signs off. Full rank and a rosette when Drachen is in chains or dead and Strahn's evidence is delivered; fail and back to acolyte |
 | Class | Fighter 7, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | Fine. Arm healed after a full night's sleep. **Sharp edge (shooting): unused** |
-| Stats (levels 1-100) | STR **16.4** (+1), DEX **37.5** (+3), CON **20** (+2), INT **3.4** (+0), WIS **10** (+1), CHA **1.5** (+0) |
-| Today's reps (warp day 5 to Ostrava) | STR +1.0 (bodyweight workout in quarters, ~1200), INT +0.5 (Manual 41-B, boarding drills), INT +0.4 (Hespa-Vor's lesson on chain weapons and gun parts, ~1600) (day 4: INT +1.0 Manual 41-B, DEX +0.5 left-handed Last Word) |
+| Stats (levels 1-100) | STR **16.7** (+1), DEX **37.5** (+3), CON **20** (+2), INT **3.4** (+0), WIS **10** (+1), CHA **1.5** (+0) |
+| Today's reps (warp day 5 to Ostrava) | STR +1.0 (bodyweight workout in quarters, ~1200), INT +0.5 (Manual 41-B, boarding drills), INT +0.4 (Hespa-Vor's lesson on chain weapons and gun parts, ~1600), STR +0.3 (push-ups to failure, container, ~1630) (day 4: INT +1.0 Manual 41-B, DEX +0.5 left-handed Last Word) |
 | Proficiency | +3. Skills: Perception, Athletics, Survival, Intimidation |
 | Want | Find who opened the gate at Kasr Holn. Now: bring down Drachen |
 | Flaw | Doesn't trust officers, and says so |
@@ -208,7 +208,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
   to take "the colonel's papers, and the colonel". The Lantern is on the rough
   road: arrives around midday on warp day 6; The Light drops straight to Primus. Kesh wants
   Strahn alive and one of Drachen's men alive. DM: roll Geller field strain each
-  day on the rough road.
+  day on the rough road. Day 5: 18 (holding). Day 6 (overnight): 11 (flickers, lower-hold node 9-14 tripped and reset; no breach).
 - **The Ostrava plan (briefing, warp day 5).** On arrival: Halvard's augurs look
   for the *Ember of Tyrok*'s Munitorum transponder at Spire Dock Six; Ysolde
   reaches Orlov and sends word to Kesh "in case of the worst". If the *Ember* is
