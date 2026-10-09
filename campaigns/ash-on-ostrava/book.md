@@ -24,11 +24,11 @@ Cadia held for ten thousand years. Then, on its last night, the great gate at
 Kasr Holn opened from the inside.
 
 Private Tamsin Rook was a runner that night. Colonel Strahn pressed a message
-into Tamsin's hand and sent them to the gate control room. Tamsin found a major
-at the controls and two officers on the floor, and the major sent them away.
+into Tamsin's hand and sent him to the gate control room. Tamsin found a major
+at the controls and two officers on the floor, and the major sent him away.
 Forty minutes later the gate opened. On the evacuation ramp, in the crush and
 the ash, a hand slipped into Tamsin's pocket and took the message. Tamsin never
-delivered it and never told anyone. Later, Tamsin filed the eagle off their own
+delivered it and never told anyone. Later, Tamsin filed the eagle off his own
 service medal.
 
 ## Ostrava
@@ -72,9 +72,9 @@ and Varsaine pressed the trigger on the melta charges. All four ships burned.
 Tamsin's new home was Varsaine's hidden warship, the *Unblinking Lantern*, and
 its people: **Ottrick** the one-legged quartermaster, **Haldis** the medic,
 **Confessor Thane**, **Hespa-Vor** the enginseer, and **Sergeant Kell's** storm
-troopers. Tamsin took a hellgun called **Vigil** and a chainsword they named
+troopers. Tamsin took a hellgun called **Vigil** and a chainsword he named
 **Shameholder**, and found a dead acolyte's duelling pistol, **Last Word**, in
-their locker beside a warm black charm marked with a spiral.
+his locker beside a warm black charm marked with a spiral.
 
 On the dead forge-moon of Kessel's Reach, Tamsin fought through poxwalkers and a
 plague-beast to capture **Colonel Ilse Merrevane**, the Warden: the woman whose
@@ -95,7 +95,7 @@ both seeds. Something very old screamed and was gone.
 ## The open door
 
 On the way to Kesh, the thing that had screamed came looking for Tamsin in
-their sleep, wearing the faces of the ramp and of Strahn, offering to take the
+his sleep, wearing the faces of the ramp and of Strahn, offering to take the
 shame away. Once it nearly won: Tamsin woke sleepwalking with a hand on the
 wheel of the astropath's hatch. Tamsin gathered the whole crew in the chapel
 and gave them a battle cry, ***"We are the light,"*** and then lay down in the
@@ -120,7 +120,7 @@ killed the cutters, broke a column of twenty in a corridor ambush, and opened
 the door to an Inquisitor with a plasma pistol. Kesh declared Drachen
 *Excommunicate Traitoris* to the whole station, and the frigate's crew stood
 down. Tamsin delivered the page, told the story of the ramp without once
-holding their breath, and asked for one thing: to become an Interrogator. Kesh
+holding his breath, and asked for one thing: to become an Interrogator. Kesh
 gave a **warrant of trial**. The full rank waits on Drachen's fall and on the
 proof Strahn still holds.
 
@@ -132,7 +132,7 @@ up the worst news: Drachen's aide, **Major Tessaly**, had already reached
 Ostrava to take Strahn and his papers. Tamsin chose the Navigator's rough road,
 three days instead of five, and the Geller field paid for it. In the night a
 node failed in the lower hold, and the warp came through. Tamsin cut the big
-one in half in overdrive and closed the tear with their Kasr Holn knife, but
+one in half in overdrive and closed the tear with his Kasr Holn knife, but
 Kell went down with his arm torn open. Tamsin benched him: *"I can't afford to
 lose another brother."*
 
@@ -182,7 +182,7 @@ door took his hand and left him for dead. He was hunting the people in that
 room, and one of them was posted to Ostrava under a false name: **Dace**, really
 **Halvic Teodor**.
 
-Tamsin talked Varsaine into letting them work Dace alone, with Sergeant **Kell**
+Tamsin talked Varsaine into letting him work Dace alone, with Sergeant **Kell**
 shadowing. Playing a soldier sick of officers, Tamsin drew Dace in: the
 **Open Gate** cult, its leader the **Keyholder**, a freighter the ***Calyx
 Dawn*** leaving in three days, and a plan for the north line's guns to fall
@@ -195,7 +195,7 @@ someone in that control room could know. He gave Tamsin a brass data-key to
 silence the Hydra battery, and then a ritual knife to give blood to the gate.
 
 Tamsin shouted Varsaine's signal phrase, **"the gate held,"** disguised as the
-knife getting into their head. The Keyholder didn't buy it, but Kell's team
+knife getting into his head. The Keyholder didn't buy it, but Kell's team
 heard it and came down the stair. Tamsin drove the ritual knife into the
 Keyholder, tore his laspistol away and shot **Sergeant Brask** dead. Then
 Tamsin made Dace surrender, chased the Keyholder into the culverts and shot the
@@ -256,7 +256,7 @@ trigger. The *Calyx Dawn* and all three raiders went up together.
 (quartermaster), Haldis (medic), Thane (priest), Hespa-Vor (enginseer), Kell's
 storm troopers. Tamsin traded for a hellgun, beat Kell in the ring and refused to
 hit him while he was down, named the chainsword **Shameholder**, and had Thane
-seal a medal whose eagle they had filed off in shame for the undelivered
+seal a medal whose eagle he had filed off in shame for the undelivered
 message. In Tamsin's locker: the dead acolyte **Jory Venn**'s duelling pistol
 *Last Word*, a note warning against "the Enginseer", and a warm, grown bone charm
 marked with a spiral.
@@ -318,7 +318,7 @@ offering Strahn's message, unopened, and rest with it. Tamsin failed the
 Wisdom save even with the seal (it burned away), took the paper, and found only
 the spiral inside. Tamsin woke sleepwalking on Deck 2, hand on the wheel of
 **Ysolde's** hatch, a quarter turn open, with the medal's wax eagle cracked.
-Ysolde warned them off through the steel. Tamsin refused the thing aloud ("I
+Ysolde warned him off through the steel. Tamsin refused the thing aloud ("I
 will not falter, not again"), closed the hatch, and the shame came back, which
 was the point. Ysolde: *It doesn't break doors. It waits for someone to open
 them.* She asked Tamsin to come back by day with Varsaine.
@@ -329,7 +329,7 @@ stop it." Ashby had sleepwalked too, to the chapel reliquary. With Thane along
 shame), they saw **Ysolde**. She explained: the thing woke when the charm
 burned, has followed the Lantern's wake since, and knows three names (Morrow,
 Ashby, Rook). It needs a living door, someone who says yes. It wants Tamsin
-most, because Tamsin let it touch them at the drive, carries an unhealed wound,
+most, because Tamsin let it touch him at the drive, carries an unhealed wound,
 and refused it. It likes doors, and the ones it chose before opened Cadia's.
 Tamsin agreed to help her cut its road.
 
@@ -385,7 +385,7 @@ its purpose), free, which it will do for Dace. Tamsin plans to ask Varsaine for
 a scavenging run after Kesh, and warned Dace something is coming.
 
 **The rehearsal.** Varsaine played Kesh, Ysolde played Oculine. Tamsin
-forgot the vellum in their pocket; lesson: nothing written. Tamsin explained
+forgot the vellum in his pocket; lesson: nothing written. Tamsin explained
 Venn and argued the note pre-empts Drachen's attack on Varsaine (16):
 "That's tactics." Notes: say "a charm marked with a spiral", not "plague relic";
 breathe. Tamsin told the Cadia story in full and named Varsaine as the major
@@ -436,7 +436,7 @@ with a critical. Two surrendered.
 **The verdict.** From her command chapel Kesh declared Drachen *Excommunicate
 Traitoris*; the frigate's crew confined their captain and stood down, but he had
 already told Drachen "Lantern is here." Kesh took Strahn's page. Tamsin told the
-Cadia story without holding a breath. Asked what they wanted, Tamsin asked to
+Cadia story without holding a breath. Asked what he wanted, Tamsin asked to
 become an Interrogator (18, a near miss): Kesh made Tamsin **Interrogator-
 designate**, leading The Light under Varsaine, full rank when Drachen falls and
 Strahn's evidence is found. Level 7.
@@ -449,14 +449,14 @@ Ustrennos: ~10, unless someone of his is closer.
 
 Back aboard, Ottrick took the cutlass and auspex (debt paid). The haul went into
 Drel's old shipping container in the lower hold, now *PROPERTY OF THE LIGHT*;
-Tamsin moved their own rack and gear into it too. Ottrick
+Tamsin moved his own rack and gear into it too. Ottrick
 introduced Mag Vashti's Void Exchange; Tamsin queued an order for Ostrava and
 owes Ottrick two favours tonight. The Lantern jumped: 8 days to Ostrava.
 
 Tamsin hauled Ottrick's crates and stood his armoury watch; Varsaine visited at
 0240, said Kesh made him wait two years for his rank, and thanked Tamsin.
 
-**Warp day 2 to Ostrava.** Tamsin moved their whole rack and gear into The
+**Warp day 2 to Ostrava.** Tamsin moved his whole rack and gear into The
 Light's container and invited the team to take their pick. Then Tamsin asked
 Varsaine to take Dace's collar off: "He earned it." Varsaine gave Tamsin the
 only release key, on two conditions: Dace's loyalty is now Tamsin's

@@ -83,7 +83,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 ## The character
 
 **Tamsin Rook.** Cadian, Kasr Holn. Former corporal, Cadian Shock Troops; now
-**Interrogator-designate** of Lady Kesh's Ordo. Pronouns unset; they/them.
+**Interrogator-designate** of Lady Kesh's Ordo. **He/him** (set by the player, session 5).
 
 | Field | Value |
 | --- | --- |
