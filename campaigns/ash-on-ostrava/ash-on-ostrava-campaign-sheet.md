@@ -5,13 +5,14 @@ story lives in `book.md`.
 
 **To resume:** read the end of `book.md`, then this sheet, then the codex.
 
-**Where we stopped:** session 5, 0600 on warp day 5 on the rough road to
-Ostrava, Tamsin waking in his quarters after sleeping since midday. The Geller
-field held quiet overnight. Arrival at Ostrava around midday on warp day 6; The
-Light (Tamsin, Varga, Dace) drops straight to Primus.
+**Where we stopped:** end of session 5, about 1130 on warp day 5 on the rough
+road to Ostrava, at Drel's forge with Dace and Varga, just after Varga's mat
+challenge. The plan is set, the Light is on its own vox channel, and arrival at
+Ostrava is around midday on warp day 6, when the Light drops straight to Primus.
+The book ends at the same moment (Part Two, Chapter 4).
 
 - **Started:** 2026-10-03
-- **Sessions played:** 4 (session 5 in progress)
+- **Sessions played:** 5
 - **Season 1:** *Seed of Nurgle*
 - **System:** D&D 5e chassis reskinned for Warhammer 40,000, narrative mode, all
   Part 6 house rules

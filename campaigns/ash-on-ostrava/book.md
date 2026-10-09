@@ -142,8 +142,460 @@ Two days out from Ostrava, the Light was three: Rook, Varga and Dace.
 
 # Part Two
 
-*Full chapters begin here, from the morning after the breach: warp day 4 on
-the rough road to Ostrava, in Ottrick's armoury.*
+## Chapter 1: Ottrick's Watch
+
+The armoury lamps were already lit when Tamsin came in at ten past four, his
+right arm wrapped from wrist to elbow and a dented steel tin under the other.
+Ottrick was behind his counter with Merrevane's silver-inlaid bolt pistol on his
+hip and the Navy cutlass laid across the steel in front of him, as if he had
+meant to come down to Deck 9 and fight on one leg.
+
+"Heard it on the vox," the quartermaster said. "You killed a big one with a
+chainsword and then stabbed the ship." His eyes went to the bandage. "Your arm?"
+
+Then he saw the tin, and went still.
+
+OTTRICK was scratched into the lid in rough capitals. Tamsin had dug it out from
+under the crate that had fallen weeks ago, the same crate that had cracked the
+Geller node and let the warp in.
+
+"Here," Tamsin said, and handed it over. "Also, I'll watch the shop tonight if
+you'd like. I've got to sharpen and clean both Shame and the knife."
+
+Ottrick thumbed the lid open. Inside lay a bundle of old pict-cards tied with
+string, a set of dog tags, a child's carved wooden Chimera, and a folded scrap of
+paper gone soft with handling. He took out the top card. A dozen grinning
+Guardsmen sat on the hull of a real Chimera, mud to their knees, a younger
+Ottrick on two legs in the middle with his arm round someone's neck.
+
+"Third Platoon," he said quietly. "Kasr Myrak. I'm the only one in this picture
+who's still breathing."
+
+He put it back, closed the lid, set the tin carefully beneath the counter, and
+cleared his throat loudly until he was Ottrick again.
+
+"Watch the shop? With one arm?" But he was already reaching for his crutch. "Fine.
+Stay off the bolt rounds." At the door he stopped. "And that tin was one of my
+favours. I don't forget."
+
+---
+
+Tamsin worked mostly left-handed. He scraped the frozen black slime out of
+Shameholder's teeth with a pick and burned the rag in Ottrick's bin; it stank
+like a grave as it thawed. He drained the scorched oil from the motor, poured in
+fresh, and ran the whetstone over every tooth until each one bit. When he thumbed
+the trigger, the motor coughed once and caught. The overdrive had only spent
+itself for that one fight.
+
+Then the knife. The Kasr Holn blade came up bright on the stone, but the tip
+stayed scorched black, with a rainbow sheen where the node's lightning had gone
+into the steel. When he held it to the lamp he found something else: burned
+faintly near the point, thin as a hair, was a tiny cog with an eye in it. It was
+the rune he had stabbed. It did nothing. It was simply there, a mark from the
+night he closed a hole in the world with the knife he had carried off Cadia.
+
+Under a tarp behind the counter was Ottrick's paint shelf: dented tins of Cadian
+drab and Kasr grey, Ash black, bone, blood red, a small precious tin of brass
+marked DON'T TOUCH, and an even smaller one of clean white labelled CADIA.
+
+Tamsin masked the purity seal, the black wax honour seal and the little brass key
+with scraps of tape, and left the teeth bare. Then he painted Shameholder black
+from tip to motor. The scar where the Chaos star had been ground off vanished
+under it. He filled the etched letters along the spine with blood red, so that
+**SHAME** stood out like a wound. He painted the grip bone and the guard red, and
+the trigger, the overdrive switch and the safety Cadian white, the colour of the
+gate on his armband. He hung it on Ottrick's hook to dry and stepped back. It no
+longer looked like a Guard chainsword. It looked like something that belonged to
+someone.
+
+Under the workbench were Ottrick's books. Tamsin pulled down *Munitorum Manual
+41-B: Las-Pattern Weapons, Field Maintenance* and read until the ship began to
+wake around him. He learned why Vigil needed the thick cable and the backpack;
+why duelling pistols like Last Word were more accurate but hit no harder; that
+cold drains charge, that heat cooks the lens. In the margin of the hellgun
+chapter Ottrick had scrawled: *KORREN WOULD NEVER CLEAN THE COUPLING. TOLD HIM.
+TOLD HIM.*
+
+So Tamsin stripped Vigil with the manual open beside him. He dug the black
+carbon out of the coupling that Korren had never cleaned. And with the diagram
+in front of him he found what he would never have seen before: one of the three
+coils carried a faint blue-brown band of heat. It wasn't cracked, only tired.
+
+The hatch banged open at a quarter to eight. Ottrick stomped in with a mug of
+recaf, looked at the manual, at Vigil in pieces, at Shameholder dripping on his
+hook, and at the half-empty tin of Ash black.
+
+"That's my black."
+
+"Looked better in black. You got any coil for this? I can replace this brown one?"
+
+Ottrick squinted at the band. "Read my margins, did you. Good catch. Another forty,
+fifty hot-shots and it'd have started throwing your shots wide." From the cage
+he brought a greased-paper parcel: one bright new hellgun coil, storm trooper
+pattern, his last spare. "This isn't a small item, boss. This is a real part. I
+owe you one small item for my tin. You owe me half a tin of Ash black. Call that
+even, and the coil costs you one more favour. Whatever I ask, when I ask."
+
+"Sure. You don't know how to do it?"
+
+"Know how? I could swap that coil blindfolded on one leg. I *am* on one leg." He
+leaned on the counter. "Knowing how isn't the problem. Hespa-Vor does the
+talking. I'm not a believer, boss. I'm a mechanic. But I swapped one rough on
+Kasr Myrak once, no rites, and that lasgun jammed on me three times the next
+week." He jerked his head at the hook. "And take your painted sword off my
+counter. It's dripping."
+
+## Chapter 2: What the Guns Said
+
+The engine deck was loud with the drive straining on the rough road. Hespa-Vor
+had been up all night: a cracked Geller node lay opened on its bench like a
+patient, with three more waiting, and one of its mechanical arms hung unpowered
+to save energy. Its lenses found the bandage, the satchel, the sword.
+
+"Acolyte. Your sword is a different colour."
+
+"It is. And I've got a question. I need to replace Vigil's coil. Help me?"
+
+"You will do the bolts," the enginseer said. "Your hands, even the numb one. It
+knows your hands." It lit a stick of oily machine-incense and began to chant in
+binary while Tamsin worked: four shroud screws, the tired coil out warm into his
+palm, the new one seated with a quarter turn until it clicked. When he clipped
+in a pack and woke the gun, the coils rose without the faint rasp he had never
+noticed until it was gone, and settled lower and deeper, like a full breath.
+
+"It accepts. It says the old one was tired for a long time. It did not complain.
+It never complains." Hespa-Vor held the old coil out to him. "This fired Korren's
+last shots on Velk, and all of yours. It is spent. But it is not nothing."
+
+"I'll have Dace repurpose it. I suppose that's what your god would like?" Then
+Tamsin laid Last Word on the bench. "I've never spoken to this one. Can you tell
+me what it says?"
+
+The enginseer was quiet a long while with one finger on the tusk grip. "It is
+old. Older than Venn. It remembers his father's hand, and his grandfather's.
+Hunters. It is proud. It does not like to be carried on the left. It likes its
+trigger light." Its voice dropped. "It remembers Velk. Cold. Venn's hand shaking.
+It was fired many times, down a stair, in the dark, at something that did not
+fall. Then Venn called on it, not to fire but to hold, and the seal burned from
+the inside, and the pistol held him together long enough to climb back up." It
+lifted its finger. "It grieves for him. And it has decided about you. It says you
+clean it the way his family did. One more thing. It said the word *cradle*. It
+would not say more. I think it is afraid of it."
+
+"Doesn't like being on my left? Odd. Maybe I have to use it more for it to get
+to know me."
+
+"Venn carried it on his right hip. So did his father. It is a duellist's pistol,
+made for the strong hand." Hespa-Vor pushed it back across the bench. "Fire it.
+Clean it. Carry it where it wants to be. When it trusts you as it trusted the
+Venns, come back, and we will speak of a blessing."
+
+Shameholder told it much less. "This one does not talk," the enginseer said
+after a long time. "It *shouts*. It is hungry. It liked the overdrive, very much,
+and it is proud of what it cut on Deck 9. And there is something older under
+that, from before your hands, before the star was ground off its casing. It
+pushes me away when I go near it. Not corrupted. I would know. Just a past it
+does not speak of." Its lenses went to the red word on the black spine. "You
+named it well. You are not the only one carrying something."
+
+Tamsin moved his holster from his left thigh to his right and dropped Last Word
+into it, under his strong hand, the way the Venns had worn it.
+
+"What about everyone else?" he asked. "Have they been coming to commune with you?"
+
+They had. Varga brought Mercy every third day and sat listening without a word.
+Kell had come once, after the refit, to ask Officer to forgive nine years of
+blaming it. Dace came every day with better questions than the adepts
+Hespa-Vor had trained with. Six troopers had named their guns since the chapel.
+The ratings had come with their lasguns, all eight, and Tolly had asked whether
+his gun was angry with him for missing. Even Ottrick had come at midnight with
+his boltgun, swearing he believed none of it, and then asked what it said. "It
+said it was hungry. He laughed, and then he did not."
+
+"The crew thanks me now," Hespa-Vor said. "Drel told me once that a ship whose
+crew speaks to its machines does not die easily."
+
+---
+
+Dace was at the forge with his bitten calf up on a crate, filing the end of the
+shotgun barrel that Shameholder had cut in half. He grinned at the black paint.
+"You painted it. Red letters. It suits it."
+
+"It's Vigil's old coil. I've come to have you do something with it." Tamsin set
+it down. "And good stuff out there. Your shield held, and your weapon killed a
+daemon."
+
+Dace went red. "I felt that thing hit it, and I thought, that's the boss gone.
+And it just held. First thing I ever killed that wasn't a man. I didn't think. I
+just did what Varga drilled." He turned the coil in the furnace light. "I could
+wind it into a ring, or a cuff. You'd wear the gun's old heart."
+
+"I'm not one for a fashion statement. Do what you want with it."
+
+So Dace asked for Vigil for an hour, and Tamsin said, "Make sure you take your
+time." Dace unwound the coil turn by turn into loose copper-gold loops and wound
+it tight and flat around the forestock, pressing each turn against the last with
+his thumbnail. He set the darker, bluish stretch where the coil had worn out
+right in the middle, under the palm. "It'll go green over time. Copper does.
+That's fine. Means it's been held."
+
+In medicae, Kell was asleep under Haldis's sedative, snoring, his arm splinted to
+his chest and Officer propped where he could reach it. "This is the first time
+I've had you work on me," Tamsin said, sitting on the stool.
+
+"Second," said Haldis. "I did this arm at four this morning. You'd had half a
+bottle of the bosun's rotgut." The nerve was waking faster than she'd thought:
+grip by tonight, fire by tomorrow. Then she looked at him properly. "Nineteen
+tags in my tin, and every one of them sat on that stool before the end. Most of
+them only after it was too late. You're the first one who's come back on their
+own to have something checked. Keep doing that, Interrogator-designate."
+
+At the range Varga had been drilling since seven, and Marta and Pell were there
+in the same coveralls they'd worn in the breach. Rusk had a lane to himself, and
+someone had chalked a second list under THE LIGHT: **DECK CREW**, with Rusk at the
+top. Tamsin stepped into lane one and drew Last Word left-handed. It felt wrong
+in the off hand, and it threw a hair high, but by the end of the hour it was
+putting bolts in the black.
+
+"Showing off, boss?"
+
+"No. Just getting to know my pistol a little more. I'm heading to bed. I need to
+catch some sleep."
+
+He slept through the afternoon, the evening and the whole night, and the Geller
+field did not flicker once.
+
+## Chapter 3: The Light Channel
+
+On the morning of the fifth day the arm was whole again. Tamsin dressed properly
+this time, in boots, flak, carapace, armband and pin, and found a slate under his
+door: **0900, BRIEFING ROOM. OSTRAVA PLAN. BRING THE LIGHT.**
+
+The container in the lower hold had been shut but not locked, and a pencilled
+note was tucked under the padlock in two different hands: *Kept watch on it after
+the breach. Didn't touch nothing. — Marta.* And below: *(I touched the helmets.
+Sorry. They fell over. — Pell)*
+
+He took the four Navy vox-beads from his satchel. They still hissed with the
+*Steadfast Ninth*'s channel, so he took them to Hespa-Vor, who had finished all
+forty-one Geller nodes overnight and replaced two more that had been dying. "Navy
+pattern. Still keyed to the frigate's net," it said with something like
+disapproval. "Anyone on that ship could hear you breathe. Every channel needs a
+name, for the cipher. What shall it be called?"
+
+"Call it The Light."
+
+"Of course." One press of the clip to speak, two to whisper, hold it down for the
+alarm. Tamsin pushed a bead into his ear and heard nothing but clean silence and
+a tiny chime. "Somewhere in the medicae," said Hespa-Vor, "the sergeant's
+bedside vox just chimed too. He is likely awake now."
+
+He was. "That thing just *chimed* at me," Kell said, scowling at the vox-box over
+his cot. Then he saw the beads. "Ah. That's you, isn't it."
+
+"Keep it in 24/7. If I need you, I need to reach you. And I'm letting you come to
+the briefing. But that's it."
+
+Kell pushed the bead in and keyed it. "Sergeant Kell. On the Light. 24/7, boss.
+Especially asleep." Haldis, without looking up, said that if he stood during the
+briefing she would sedate him in front of the Interrogator.
+
+Varga had been on the range since half past five with Ottrick's pop-up targets.
+She took her bead and keyed it, and Kell's voice came straight back in both
+their ears: *"Morning, Trooper. Heard you missed one at 0612."* Varga's eyes
+narrowed. "This was a mistake, boss." But she left it in.
+
+Dace was waiting at the cold forge with Threshold across his knees, looking like
+he'd been thinking hard. "I need to tell you something. I didn't ask first. I
+should have." The night before, Hollis had let him carry Lieutenant Corvane his
+evening meal in the brig. "He's Cadian. He served a traitor without knowing. I
+served one knowing. I thought someone should tell him what comes after." He had
+told Corvane everything: the door at Kasr Holn, Malcade, the collar. Corvane had
+asked if it ever stops. Dace had told him no. You carry it.
+
+"Then he told me something. He said to tell you." Dace recited it carefully.
+"Tessaly always keeps a reserve squad with the ship. Never commits everything.
+The courier is the *Ember of Tyrok*. It'll be at the Primus landing fields, Spire
+Dock Six, under a Munitorum transponder. He said he owed it to the boy who held
+the door."
+
+"Interesting. You'll have to tell Varsaine that at the 0900 briefing." Tamsin held
+out the last bead. Dace keyed it, and Varga's voice came over the net: *"Welcome
+to the Light channel, lad. Don't listen to anything Kell says about pop-up
+three."* For a second Dace grinned like a boy. "We've got our own channel."
+
+Tamsin pressed his clip. "Briefing at 0900. I'll see you all there. Ping me if you
+need me." Three answers came back. The last one, from Dace, came a beat late and
+whispered, because he'd pressed twice by mistake: *"Is that how you do it?"*
+
+At the range, with his right hand back, Last Word sat where it wanted to be. Just
+before nine Tamsin stood in lane one with his hand loose beside the holster and
+let everything go quiet. The draw came before the decision. *Crack.* Dead centre,
+from the holster, at twenty-five metres. For a heartbeat the old pistol felt
+simply *right*, as if it had looked up at the hand holding it and decided it
+would do.
+
+From the hatch, Varga whistled low. "Venn's family would've liked that one. Come
+on, boss. Varsaine hates late."
+
+## Chapter 4: The Plan
+
+The briefing room was full for once: Varsaine at the head of the table with his
+steel hand flat on it, Halvard at the hololith, Kell in a chair he was forbidden
+to leave, Varga against the wall, and Dace by the door with his shield on his
+back, never in a briefing before. The hololith drew Ostrava Primus in green, a
+spire layered like a termite mound: Defence Command on level twelve, Strahn's
+quarters on level nine, the landing fields on level four.
+
+"We arrive at midday tomorrow," Varsaine said. "Until Ysolde reaches Orlov, we're
+blind. Strahn could be in his office, in his quarters, in Tessaly's hands, or
+dead. Questions? Information? Anything anyone has, now's the time."
+
+Dace opened his mouth and closed it, and looked at Tamsin.
+
+"Go ahead, Dace. And then I have a plan."
+
+Dace told it clearly: Corvane, the meal, the *Ember of Tyrok*, Spire Dock Six, the
+reserve squad. Varsaine studied him. "You went to the brig without asking. Next
+time, ask. But that's the best intelligence we've had since Saint Ivaine's Rest.
+Good work, smith." Dace went red to his ears.
+
+"You're right about us being blind until we get out," Tamsin said. "So we can't
+make a play until we can see. But if their ship's still there, we take it. We
+could blow it like we did the other one, but capturing it is much better: info,
+docs, resources. And if they've gone, we go down and scout. Strahn could be dead,
+or alive, or maybe, just maybe, they haven't made it yet and ran into the same
+warp trouble we did. Best case. Your thoughts?"
+
+Halvard corrected him gently: by the smith's word the *Ember* wasn't in orbit but
+docked, inside the hive. A ground assault on a dock, in a city. "Then we
+definitely don't blow it," Varga said. "If Strahn's anywhere Tessaly can keep him
+close, it's that ship." Kell said that the reserve squad lived aboard, so they'd
+be fighting in their own corridors. "That's your kind of fight, boss. Doors."
+
+"Capture, don't destroy," Varsaine agreed. "Kesh wants papers and prisoners, not
+wreckage."
+
+"Can't we send a message out to Kesh, or anyone else in the Militarum?"
+
+Not from inside the warp, Varsaine said, and Kesh was eight days away; anything
+she sent would arrive after it was over. And every Cadian regiment on Ostrava
+answered to Drachen. Some would turn the moment they heard Kesh's word, and some
+would shoot them for saying it. Only Orlov could be trusted blind, and a few
+gunners was not an army.
+
+"We should still send. Just in case of the worst. But I suppose it's an assault
+for now."
+
+"Agreed. Kesh hears everything the moment we're out. If we fail, she knows who to
+send next." On the ground there would be Varsaine, because Strahn knew his face;
+the Light; Kell's six troopers, Hollis, Brenner, Isk, Tavi, Morcant and Sallow,
+under Hollis; and Hespa-Vor, if it had slept, because a ship has locks and
+cogitators and scuttling charges. Rennick would fly them and stay with the boat.
+Kell would hold the Lantern. Orlov would come if he could come quietly. Eleven,
+perhaps twelve, against a reserve squad inside their own ship.
+
+"Looks good," said Tamsin. "Gear up and get ready. We can't have any problems."
+
+"No problems," Varsaine said dryly. "I'll hold you to that, Interrogator-designate."
+
+---
+
+When the room emptied, Dace stayed by the door. Tamsin keyed the Light: "Where
+are you guys going? I've got some words for us as a team." Then, to Dace: "You
+look like you've got something to say."
+
+"Tessaly's men. The Lord-General's household troops. Cadians." Dace rubbed the
+white scar on his palm. "Some of them will know, like I knew. But some will be
+like Corvane, following the man at the top, thinking he's the good one. When we
+go through that door, how do I tell which is which? How do I know I'm not killing
+someone like me, before?"
+
+"Simple. We tell them we're the Inquisition. If they refuse, they're traitors. If
+they surrender, they're re-evaluated. You've got a shield, and we can speak out.
+Hopefully we can snap a few of them out of it. We'll try to take them non-lethal."
+
+Something unknotted in Dace's shoulders. "Call out first. Give them the choice I
+never got. And if they choose wrong, it's their choice, not mine. I'll hold the
+front so you can shout."
+
+Varga and Kell came back in, Kell lowering himself into the chair with a grunt.
+"Words, boss. Go on."
+
+"We go in. These men don't know anything, so we have to get them to surrender.
+If they don't, we try to take them out non-lethal. The ones who get close,
+though, we have to put down. Varga, there's a bag in my room. Grab it and take it
+with you. You know I love my loot, so after the fight is over, take what you
+can, but only if it's safe. I don't want you looting in the middle of a
+firefight. Kell, hold the fort. Teach the men. I need you back after this
+mission, and talk to your troopers for me. Dace, if you want to be first, that
+would be great. But don't be dumb and charge in. With your shield you can take a
+blow. Take cover and move up, like I taught you."
+
+"Your bag," said Varga. "After the shooting stops. I'll fill it with the good
+stuff." Kell said he'd talk to Hollis and the rest that night, and that he'd be
+back for the next one: a promise. Dace touched the boss of his shield. "First
+through, by my own choice. Shield up. Cover to cover. Like a roach."
+
+Kell held out his good fist. Varga bumped it, and then Dace, a little awkwardly,
+and they all looked at Tamsin. He bumped each of theirs in turn.
+
+"We are the light."
+
+**"We are the light."**
+
+---
+
+Ottrick hadn't called in the coil favour yet. "I'm saving it," he said. His eyes
+went to the nail by the door, where a small worn photo of a woman and a child
+hung. "For Ostrava. Something down there I can't go and get myself. When it's
+done, and you're still breathing, I'll tell you."
+
+Tamsin's frags still carried the Munitorum's three-second delay. Ottrick pulled
+the fuses and fitted contact strikers, so that each grenade would burst on
+whatever it hit, with no bounce, no roll and no time to kick it back. "An impact
+frag doesn't care what it hits," he warned. "Fumble it on the throw, it goes in
+your own hand. Two little bombs that hate you." He wrapped each cap twice in red
+tape. One band was standard, two was impact, three a demolitions delay he'd
+never hand out. "In the dark you can't see colours. You can feel tape." The
+price was a small favour: "Courier captains always keep a bottle. Real spire
+amasec. You're taking that ship. Bring me the captain's bottle."
+
+Tamsin left his half-empty hot-shot pack on Ottrick's bench to charge before the
+drop, and sent Varga down to the container for a medi-kit to carry. At the forge,
+Dace was riveting a brace of shotgun steel across the inside of his shield, so it
+wouldn't fold at the edge the way it nearly had on Deck 9. He and Varga had been
+sparring with whatever was to hand: her folded shovel, Mercy's unloaded barrel,
+Threshold in its sheath. "She says if I ever take the sheath off in practice,
+she'll shoot me."
+
+"Can you make some practice blades? Or should I buy some?"
+
+Dace could: blunt bar the weight of the real thing, padded with flak lining from
+the Navy coats in the container and stitched with grox-hide. After Ostrava; a
+day's work.
+
+"Sounds good. Don't make them anything special. Just basic practice swords. Now I
+can practise."
+
+Varga clipped the medi-kit to her belt beside Corvane's laspistol. "And when he's
+made them, you're on the mat with me, Interrogator-designate. Kell beat you on
+the range. I'll beat you on the mat."
+
+"Kell beat me? I think your memory might be messing with you."
+
+She stopped. "Twelve to seven. You, not him." She scowled. "Kell's been telling
+it different in the mess, and I've heard it so often I started believing him."
+
+"I was there for the ring as well," Dace said without looking up from his
+rivets. "He went down and the Interrogator stepped back."
+
+"Nobody asked the smith." But Varga grinned. "My point stands. Mat. After
+Ostrava. You and me."
+
+It was half past eleven on the fifth day of the rough road, and Ostrava was a
+little more than a day away.
+
 
 ---
 
