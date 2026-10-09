@@ -117,8 +117,8 @@ Pronouns unset; using they/them until the player says otherwise.
 | Rank | **Interrogator-designate** (warrant of trial from Kesh, session 5). Leads own missions with The Light; Varsaine signs off. Full rank and rosette when Drachen is in chains or dead and Strahn's evidence from Ostrava Primus is delivered; fail and back to acolyte |
 | Class | Fighter 7, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks; longer running jumps). ASI at 4: +2 DEX; ASI at 6: +2 CHA |
 | Health | **Hurt** (warp night 3 to Ostrava: right arm numb from the Geller node shock). Sore punching hand. **Sharp edge (shooting): still unused** this mission |
-| Stats (house rule 7, levels 1-100) | STR **15.4** (+1), DEX **37** (+3), CON **20** (+2), INT **1.5** (+0), WIS **10** (+1), CHA **1.5** (+0). Old scores 13/17/14/10/12/10 |
-| Training reps | Warp day 2 to Ostrava: DEX +1.0 (snap shooting), INT +0.5 (room-clearing tactics on Primus maps). Warp day 3: DEX +1.0 (snap shooting), CHA +0.5 (teaching the deck ratings), STR +0.4 (hauling plasteel for Dace's shield). Team also drilled: Kell snap shots, Varga reloads and awareness, Dace parries with Varga |
+| Stats (house rule 7, levels 1-100) | STR **15.4** (+1), DEX **37** (+3), CON **20** (+2), INT **2.5** (+0), WIS **10** (+1), CHA **1.5** (+0). Old scores 13/17/14/10/12/10 |
+| Training reps | Warp day 2 to Ostrava: DEX +1.0 (snap shooting), INT +0.5 (room-clearing tactics on Primus maps). Warp day 3: DEX +1.0 (snap shooting), CHA +0.5 (teaching the deck ratings), STR +0.4 (hauling plasteel for Dace's shield). Warp day 4: INT +1.0 (studied Munitorum Manual 41-B on las weapons in Ottrick's armoury). Team also drilled: Kell snap shots, Varga reloads and awareness, Dace parries with Varga |
 | Proficiency bonus | +3 |
 | Skills | Perception, Athletics, Survival, Intimidation |
 | Want | Find who opened the gate at Kasr Holn |
