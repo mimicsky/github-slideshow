@@ -356,5 +356,14 @@ shocked and thrown), the tear closed, and Thane's litany finished the rest.
 Kell badly hurt (bite to his stitched arm), Dace hurt (calf), Tamsin hurt (arm
 numb). Shameholder's motor is dead until repaired.
 
-**Where we stopped:** 0321, warp night 3 to Ostrava, the lower hold, Halvard
-asking for a report.
+The node failed from old damage (a crate off Ottrick's collapsed pallet hit it
+weeks ago; last serviced by Drel two years back), not sabotage. Tamsin
+recovered Ottrick's kit tin from under the crate, unopened. Hespa-Vor will check
+every node before Ostrava. In medicae Haldis said Kell's arm (torn muscle, second
+time in a week) won't be fit in two days. Tamsin benched Kell, even from flying
+overwatch in the boat: "I can't afford to lose another brother." Kell accepted:
+"Bring them back. All of you." He will hold the Lantern with the trained
+ratings.
+
+**Where we stopped:** 0400, warp night 3 to Ostrava, medicae. Tamsin has
+Ottrick's tin.
