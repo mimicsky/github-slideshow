@@ -128,7 +128,7 @@ Drel's old full-size Munitorum shipping container (~12 m, LOT 4471-B), lower
 hold, Deck 9. Doors chalked *PROPERTY OF THE LIGHT*, padlocked. Tamsin's weapon
 rack is bolted inside; guns and armour live there between missions. Holds the
 Saint Ivaine's Rest haul: ~320 shells, ~25 flak coats, ~25 visored helmets, ~21
-vox-beads, Navy cutting torch, 2 half-full medi-kits, shotgun scrap. **Worth ~40
+vox-beads, Navy cutting torch, 1 half-full medi-kit (the other goes with Varga on the drop), shotgun scrap. **Worth ~40
 TV.** The back two-thirds is empty. *Left unlocked during the Deck 9 breach.*
 
 ### Trade and debts
