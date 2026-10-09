@@ -137,6 +137,7 @@ Pronouns unset; using they/them until the player says otherwise.
 | Krak grenade | 0 (killed the vox operator) |
 | **Warrant of trial** | Small iron Inquisition I with a single bar across it, on a chain. From Kesh |
 | **Haul from Saint Ivaine's Rest** | ~22 Navy combat shotguns, ~320 shells, ~25 flak coats, ~25 visored helmets, ~25 vox-beads, Lt. Corvane's laspistol, Navy cutting torch, 2 half-full medi-kits, shotgun scrap. **Ottrick took the cutlass and the auspex: debt paid.** Stored in **The Light's container**: Drel's old full-size Munitorum shipping container (~12 m, LOT 4471-B) in the lower hold, doors chalked *PROPERTY OF THE LIGHT*, padlocked. Tamsin's weapon rack is bolted inside; Tamsin's guns, armour and grenades live there (warp day 2 to Ostrava), with Last Word, knife, warrant, medal and detonator kept on the person. 4 vox-beads kept by Tamsin (Navy channel, need retuning). Worth ~70 TV at the Void Exchange. **Void Exchange order queued (send at Ostrava):** chain axe 20, reflex sight for Vigil 6 (Ottrick fits free), photon flash grenade 4 = 30 TV, paid with all 22 shotguns + 8 TV of helmets/coats. ~40 TV left in the crate |
+| **Spare hellgun coil** | Storm trooper pattern, Ottrick's last spare. To replace Vigil's tired coil (blue-brown heat band, found warp day 4 to Ostrava). Hespa-Vor fits it |
 | Hot-shot pack status | 1 pack in Vigil about half spent, 2 full |
 | Thigh holster rig | Quick-draw, sized for Last Word. Gift from Ottrick. Empty again: Orsel's stub revolver traded to Ottrick for quenching oil and a brass sheet (for Dace's blade) |
 | Kantrael-pattern lasgun (in quarters) | Backup rifle, gift from Ottrick, with 2 standard las packs |
@@ -358,9 +359,10 @@ Training log: warp day 3 to Ostrava: Kell DEX +1 (snap shots), Varga DEX +1
 - **Team injuries:** Varga hurt (carapace cratered), Kell hurt (shrapnel in
   cheek and arm), Dace hurt (concussed, visor cracked).
 
-- **Ottrick owes Tamsin one small item** off his board for recovering his kit tin
-  (Kasr Myrak picts of Third Platoon, tags, a carved toy Chimera). Tamsin used
-  half his Ash black on Shameholder without asking.
+- **Ottrick's kit tin** recovered by Tamsin (Kasr Myrak picts of Third Platoon,
+  tags, a carved toy Chimera). That small item was traded against the Ash black
+  Tamsin used. **Tamsin owes Ottrick one open favour** ("whatever I ask, when I
+  ask") for Vigil's new hellgun coil (warp day 4 to Ostrava); Hespa-Vor to fit it.
 - **Ottrick favours:** crates and watch done (paid for 1 frag and the holster).
   **Warp day 3 to Ostrava:** ratings drill DONE; DONE: won the mess drinking bet against Halvard's bosun (paid for the
   satchel and a frag). **Tamsin beat Grell 2-1** (engine-room rotgut); Grell
