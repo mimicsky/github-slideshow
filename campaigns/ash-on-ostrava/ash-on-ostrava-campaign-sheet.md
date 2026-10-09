@@ -218,6 +218,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
   under Hollis, and whatever Orlov brings quietly. The rest of Ostrava's
   Militarum answers to Drachen; trust none of it. Final dispositions once they
   can see the dock.
+- **Approach (agreed warp day 6, 0700 briefing).** Rennick flies the boat in cold (no Ordo transponder) to a busy freight bay next to Dock Six (Five or Seven, chosen on arrival). The team walks the spire's service corridors in Cadian kit and comes into Dock Six from the back, the cargo route, out of the tower's sight. Then the team goes loud: board, breach, clear. Orlov may get them cleared or warn them, if Ysolde reaches him.
 - **Tamsin's orders to The Light:** call surrender in the Inquisition's name;
   those who yield are taken and judged, those who refuse are traitors; non-lethal
   where possible, but anyone who gets close is put down. Loot only once it's
