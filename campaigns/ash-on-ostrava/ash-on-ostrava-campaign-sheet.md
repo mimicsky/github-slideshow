@@ -115,7 +115,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Medal | Cadian service medal, Kasr Holn. Eagle filed off in shame for the undelivered order; Thane's black wax aquila |
 | Acolyte pin; armband | Armband: *OSTRAVA SECUNDUS - CADIAN REMNANT*, white gate on black, left arm |
 | Venn's vellum note | In Tamsin's locker: *"Velk. Under the Choir-Ice, past the dead chapel. Fourth stair down. It sleeps. The key fits the cradle, not the door. If I don't come back: don't go down alone. And don't take V's word for what's down there. He wasn't there. I was."* |
-| Vox-beads | 4 Navy beads, need retuning to a Light channel |
+| Vox-beads | 4 Navy beads (Gryphonne pattern), **retuned by Hespa-Vor to an encrypted channel called THE LIGHT** (warp day 5 to Ostrava), linked to the Lantern's vox so Kell can listen. One for Tamsin, Varga, Dace and a spare |
 | Purity seal (spare) | Thane's unused sleep seal, held by Varsaine |
 
 ### The Light's container
@@ -180,7 +180,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | **Inquisitor Aurelia Kesh** | Varsaine's Inquisitor. Sixties, cold, silver-chased plasma pistol. Was a smuggler's daughter | Holds Strahn's page and Drachen's order. Declared Drachen *Excommunicate Traitoris*. Wants Strahn's evidence, and one of Drachen's men alive |
 | **Mother Oculine**, **Sister Aldwyn** | Kesh's blindfolded psyker; Kesh's old Sister of Battle bodyguard | At Saint Ivaine's Rest |
 | **Ottrick** | Quartermaster. One leg (lost to a Chaos Dreadnought at Kasr Myrak), foul-mouthed, fair | Likes Tamsin, won't admit it. Wears Merrevane's bolt pistol and the Navy cutlass. Got his kit tin back from Tamsin |
-| **Hespa-Vor** | Enginseer. Red robes, vox-grille, three mechanical arms | Honest with Tamsin since Kessel's Reach. Checking every Geller node before Ostrava. Fits blessings and coils |
+| **Hespa-Vor** | Enginseer. Red robes, vox-grille, three mechanical arms | Honest with Tamsin since Kessel's Reach. Checked all 41 Geller nodes overnight; replaced two more dying ones (chapel, crew bunks). Fits blessings and coils |
 | **Confessor Thane** | Ship's priest. Ex-Guard chaplain who lost his faith for two years | Seals, blessings, litanies |
 | **Haldis** | Medic | Keeps a tin of 19 tags of patients lost |
 | **Ysolde** | Old blind astropath, Deck 2 | Cut the spiral thing's road. Can't send from the warp |
