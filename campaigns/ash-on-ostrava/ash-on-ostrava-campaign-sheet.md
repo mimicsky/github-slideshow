@@ -6,7 +6,7 @@ story lives in `book.md`.
 **To resume:** read the end of `book.md`, then this sheet, then the codex.
 
 **Where we stopped:** session 5, 0600 on warp day 5 on the rough road to
-Ostrava, Tamsin waking in their quarters after sleeping since midday. The Geller
+Ostrava, Tamsin waking in his quarters after sleeping since midday. The Geller
 field held quiet overnight. Arrival at Ostrava around midday on warp day 6; The
 Light (Tamsin, Varga, Dace) drops straight to Primus.
 
