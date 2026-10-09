@@ -149,7 +149,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Kell** | 30 | 36 | 30 | 10 | 25 | 10 | **Badly hurt** (Deck 9 bite reopened his arm, torn muscle). **Benched from the Ostrava drop** by Tamsin; holds the Lantern with the trained ratings |
 | **Varga** | 25 | 36 | 25 | 10 | 20 | 5 | Cracked ribs, healing. Fighting fit |
-| **Dace** | 25 | 20 | 20 | 16 | 5 | 5 | Hurt (bitten calf), walking |
+| **Dace** | 25 | 20 | 20 | 17 | 5 | 5 | Hurt (bitten calf), walking |
 
 - **Sergeant Kell** (storm trooper sergeant, 41, ex-Tempestus Scion, nine years
   with the Ordos). Tamsin's "brother"; their fist-bump handshake. Hellgun
