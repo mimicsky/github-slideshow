@@ -91,8 +91,8 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Rank | **Interrogator-designate** (warrant of trial from Kesh, session 5). Leads The Light; Varsaine signs off. Full rank and a rosette when Drachen is in chains or dead and Strahn's evidence is delivered; fail and back to acolyte |
 | Class | Fighter 7, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | Fine. Arm healed after a full night's sleep. **Sharp edge (shooting): unused** |
-| Stats (levels 1-100) | STR **16.4** (+1), DEX **37.5** (+3), CON **20** (+2), INT **2.5** (+0), WIS **10** (+1), CHA **1.5** (+0) |
-| Today's reps (warp day 5 to Ostrava) | STR +1.0 (bodyweight workout in quarters, ~1200) (day 4: INT +1.0 Manual 41-B, DEX +0.5 left-handed Last Word) |
+| Stats (levels 1-100) | STR **16.4** (+1), DEX **37.5** (+3), CON **20** (+2), INT **3.0** (+0), WIS **10** (+1), CHA **1.5** (+0) |
+| Today's reps (warp day 5 to Ostrava) | STR +1.0 (bodyweight workout in quarters, ~1200), INT +0.5 (Manual 41-B, boarding drills) (day 4: INT +1.0 Manual 41-B, DEX +0.5 left-handed Last Word) |
 | Proficiency | +3. Skills: Perception, Athletics, Survival, Intimidation |
 | Want | Find who opened the gate at Kasr Holn. Now: bring down Drachen |
 | Flaw | Doesn't trust officers, and says so |
