@@ -45,7 +45,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 - **Dialogue as a script**, one line per speaker: `Kell (storm trooper
   sergeant): line`. Action stays as prose around it.
 - **Describe places in detail, for free,** when asked. Perception is only for
-  hidden things. **No text maps.**
+  hidden things. **No text maps;** a drawn picture of the space (a rendered image) is fine when the player asks. Set by the player, Ash on Ostrava session 6.
 - **The player rolls physical dice** and gives the raw number; the DM adds
   modifiers. NPC dice and undecided facts are rolled openly with a real RNG.
 - **The world moves off-screen.** The first time the character meets someone
@@ -218,7 +218,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
   under Hollis, and whatever Orlov brings quietly. The rest of Ostrava's
   Militarum answers to Drachen; trust none of it. Final dispositions once they
   can see the dock.
-- **Arrival (warp day 6, ~1100).** Lantern in real space. Rolled openly: the *Ember of Tyrok* is **still docked** at Spire Dock Six under its Munitorum transponder (16); no Drachen warship in the system (11). Ysolde reaching for Orlov. Boat landed cold in Dock Seven unremarked (Rennick 13); team walked the cargo tunnels unseen (19) to the back of Dock Six. Visible: 3 sentries at the *Ember*, control tower manned (12).
+- **Arrival (warp day 6, ~1100).** Lantern in real space. Rolled openly: the *Ember of Tyrok* is **still docked** at Spire Dock Six under its Munitorum transponder (16); no Drachen warship in the system (11). Ysolde reaching for Orlov. Boat landed cold in Dock Seven unremarked (Rennick 13); team walked the cargo tunnels unseen (19) to the back of Dock Six. Visible: 3 sentries at the *Ember*, control tower manned (12). Tamsin and Varsaine walked up; Tamsin's chainsword threat made the two gantry-foot sentries disarm and surrender (17), but the smoker on the gantry ran into the ship shouting "Inquisition" (6) and the tower hit the bay alarm (1). Map: `maps/dock-six.svg`.
 - **Approach (agreed warp day 6, 0700 briefing).** Rennick flies the boat in cold (no Ordo transponder) to a busy freight bay next to Dock Six (Five or Seven, chosen on arrival). The team walks the spire's service corridors in Cadian kit and comes into Dock Six from the back, the cargo route, out of the tower's sight. Then the team goes loud: board, breach, clear. Orlov may get them cleared or warn them, if Ysolde reaches him. **The call to surrender:** Brenner (trooper, vox) patches Tamsin's voice into the *Ember*'s shipboard vox at the umbilical junction box on the gantry (with Hespa-Vor's help), covered by the team, before the breach. Those who stand down are taken alive for Kesh to judge; those who refuse are fired on from cover behind Dace's shield.
 - **Tamsin's orders to The Light:** call surrender in the Inquisition's name;
   those who yield are taken and judged, those who refuse are traitors; non-lethal

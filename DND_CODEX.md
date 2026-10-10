@@ -416,7 +416,7 @@ Standing preferences, set during play. They apply to every campaign.
   speaker: `Kell (sergeant): line`. Action and description stay as prose
   around it. Set by the player, session 4.
 - **Describe places in detail, for free,** when asked. Perception is only for
-  hidden things. **No text maps.**
+  hidden things. **No text maps;** a drawn picture of the space (a rendered image) is fine when the player asks. Set by the player, Ash on Ostrava session 6.
 - **The player rolls physical dice** and gives the raw number; the DM adds
   modifiers. NPC dice and undecided facts are rolled openly with a real RNG.
 - **Shop stock only on a visit.** Don't list a quartermaster's or trader's
