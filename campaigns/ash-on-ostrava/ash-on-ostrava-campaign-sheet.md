@@ -131,7 +131,7 @@ hold, Deck 9. Doors chalked *PROPERTY OF THE LIGHT*, padlocked. Tamsin's weapon
 rack is bolted inside; guns and armour live there between missions. Holds the
 Saint Ivaine's Rest haul: ~320 shells, ~25 flak coats, ~25 visored helmets, ~21
 vox-beads, Navy cutting torch, 1 half-full medi-kit (the other goes with Varga on the drop), shotgun scrap. **Worth ~40
-TV. **Added warp day 6 (Ostrava haul, stowed by Tamsin ~1500):** Tessaly's plasma pistol (4 shots), Varro's father's bolt pistol (3 + spare mag of 7), Kade's heavy stubber (1 belt), Tamsin's full kit on the rack (Vigil with 1 near-full + 2 full packs, Shameholder, Last Word, armour), grenades (2 impact frags, 5 standard frags, 1 smoke), satchel loot (captain's amasec, captain's log, 6 Navy gold tokens, bridge charts and 3 slates, Tessaly's slate and rank pins, Varro's ring and chrono, 3 combat knives, lho tin).** The back two-thirds is empty. *Left unlocked during the Deck 9 breach.*
+TV. **Added warp day 6 (Ostrava haul, stowed by Tamsin ~1500):** Tessaly's plasma pistol (4 shots), Varro's father's bolt pistol (3 + spare mag of 7), Kade's heavy stubber (1 belt), Tamsin's full kit on the rack (Vigil with 1 near-full + 2 full packs, Shameholder, Last Word, armour), grenades (2 impact frags, 5 standard frags, 1 smoke), satchel loot (captain's log, 6 Navy gold tokens, bridge charts and 3 slates, Tessaly's slate and rank pins, Varro's ring and chrono, 3 combat knives, lho tin).** The back two-thirds is empty. *Left unlocked during the Deck 9 breach.*
 
 ### Trade and debts
 
@@ -141,7 +141,7 @@ TV. **Added warp day 6 (Ostrava haul, stowed by Tamsin ~1500):** Tessaly's plasm
   **Kell**; Varga gets the next weapon), reflex sight for Vigil, photon flash
   grenade. 30 TV, already paid with all 22 shotguns and 8 TV of gear.
 - **Small favour owed to Ottrick** for the impact fuses: bring back the
-  *Ember of Tyrok* captain's bottle of amasec. **Bottle in hand** (warp day 6); deliver it to pay the favour.
+  *Ember of Tyrok* captain's bottle of amasec. **Paid** (bottle handed over, warp day 6).
 - **Tamsin owes Ottrick one open favour** ("whatever I ask, when I ask") for
   Vigil's new coil.
 - **Dreams:** Tamsin, a ship (light freighter 2,500 TV). Ottrick: bolt rounds,
