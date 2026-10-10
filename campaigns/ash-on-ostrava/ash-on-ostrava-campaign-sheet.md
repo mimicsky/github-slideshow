@@ -140,7 +140,7 @@ TV. **Added warp day 6 (Ostrava haul, stowed by Tamsin ~1500):** Tessaly's plasm
   catalogue issued; orders only in real space.
 - **Void Exchange order queued (send at Ostrava):** chain axe (promised to
   **Kell**; Varga gets the next weapon), reflex sight for Vigil, photon flash
-  grenade. 30 TV, already paid with all 22 shotguns and 8 TV of gear.
+  grenade. 30 TV, already paid with all 22 shotguns and 8 TV of gear. **Sent by Ottrick on arrival at Ostrava (warp day 6, ~1100).** Vashti's reply: about six days; Ottrick is redirecting delivery to Saint Ivaine's Rest since the Lantern leaves for Kesh tonight. Ottrick asked Tamsin to look for passenger/cargo records aboard the *Ember* (his wife and daughter).
 - **Small favour owed to Ottrick** for the impact fuses: bring back the
   *Ember of Tyrok* captain's bottle of amasec. **Paid** (bottle handed over, warp day 6).
 - **Tamsin owes Ottrick one open favour** ("whatever I ask, when I ask") for
