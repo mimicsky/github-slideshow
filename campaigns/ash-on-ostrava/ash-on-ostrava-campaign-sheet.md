@@ -227,6 +227,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
   safe, never mid-fight; **Varga carries Tamsin's old salvage satchel** for it.
   Dace may go first by his own choice, shield up, cover to cover. Kell holds the
   Lantern, trains the ratings, speaks to his troopers for Tamsin.
+- **Tessaly turned (warp day 6, brig, natural 20).** Tamsin told Tessaly, in front of Varro and Corvane, that he was the runner at the gate that night with the order he never delivered. Tessaly broke: he never saw Strahn's evidence himself, only Drachen's word; Drachen's order to 'retire' Strahn made no sense if the evidence proved Varsaine guilty. The Strategium log that night listed **one runner sent from Strahn's command post with a hold order, logged 'not arrived'**; Drachen had that log entry struck the next morning. Tessaly will testify to Kesh. **Varro and Corvane heard Tamsin's confession.**
 - **Drachen** (Lord-General, Cadian remnant fleet, Ustrennos). Excommunicate. Knows
   "Lantern is here". His story to his own men: Varsaine opened Cadia's gate and
   Kesh covered it up.
