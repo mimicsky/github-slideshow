@@ -143,6 +143,8 @@ TV. **Added warp day 6 (Ostrava haul, stowed by Tamsin ~1500):** Tessaly's plasm
   grenade. 30 TV, already paid with all 22 shotguns and 8 TV of gear. **Sent by Ottrick on arrival at Ostrava (warp day 6, ~1100).** Vashti's reply: about six days; Ottrick is redirecting delivery to Saint Ivaine's Rest since the Lantern leaves for Kesh tonight. Ottrick asked Tamsin to look for passenger/cargo records aboard the *Ember* (his wife and daughter).
 - **Small favour owed to Ottrick** for the impact fuses: bring back the
   *Ember of Tyrok* captain's bottle of amasec. **Paid** (bottle handed over, warp day 6).
+- **Small favour owed to Ottrick** for 4 tins of white deck-marking paint (10 L each, warp day 6): get him ten minutes alone with the *Ember*'s Munitorum cargo cogitator before Kesh's people seal it.
+- **Ottrick's bolt-round offer:** 7 TV for Varro's 10 bolt rounds (he won't buy the pistol: Varro is alive). Tamsin undecided.
 - **Tamsin owes Ottrick one open favour** ("whatever I ask, when I ask") for
   Vigil's new coil.
 - **Dreams:** Tamsin, a ship (light freighter 2,500 TV). Ottrick: bolt rounds,
