@@ -404,6 +404,7 @@ Standing preferences, set during play. They apply to every campaign.
 
 - **Stop after the player's action.** Resolve only what the player does, then
   hand control back. NPCs don't make big moves past it.
+- **Stop at the first new decision point.** When an action has several steps ("let it shut, then we breach"), resolve up to the first moment where things change and the player could choose differently (a door shuts, a breach is about to start), then stop. The player may also say where to stop. Set by the player, Ash on Ostrava session 6.
 - **In fights, everyone acts every beat.** Allies and enemies each take their
   own action with their own open roll, every beat, not just the ones the player
   named. The pause-after-the-player rule is about story moves, not combat
