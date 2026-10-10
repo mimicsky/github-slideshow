@@ -17,8 +17,8 @@ The book ends at the same moment (Part Two, Chapter 4).
 - **System:** D&D 5e chassis reskinned for Warhammer 40,000, narrative mode, all
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
-- **Character level:** 7
-- **XP:** 25,975. Level 8 at 34,000.
+- **Character level:** 8 (reached warp day 6, Ostrava mission). ASI to spend.
+- **XP:** 34,475. Level 9 at 48,000.
 
 | XP by session | XP |
 | --- | --- |
@@ -27,6 +27,7 @@ The book ends at the same moment (Part Two, Chapter 4).
 | Session 3 (Kessel's Reach, Merrevane, *Pilgrim's Mercy*) | 11,450 |
 | Session 4 (spiral dreams, chapel speech) | 1,800 |
 | Session 5 (Saint Ivaine's Rest: Kesh saved, ambush, page delivered) | 5,750 |
+| Session 6, Ostrava mission (the *Ember* taken, Strahn rescued, Tessaly and 24 others captured alive, no deaths) | 8,500 |
 
 ---
 
