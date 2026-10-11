@@ -95,8 +95,8 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Rank | **Interrogator-designate** (warrant of trial from Kesh, session 5). Leads The Light; Varsaine signs off. Full rank and a rosette when Drachen is in chains or dead and Strahn's evidence is delivered; fail and back to acolyte |
 | Class | Fighter 8, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | Fine. Arm healed after a full night's sleep. **Sharp edge (shooting): unused** |
-| Stats (levels 1-100) | STR **16.7** (+1), DEX **49.5** (+4), CON **20** (+2), INT **4.4** (+0), WIS **10** (+1), CHA **1.5** (+0) |
-| Today's reps (warp day 2 to the Rest) | DEX +1.0 (sparred Isk, won by disarm). Warp day 1: DEX +1.0 (beat Dace 5-1) |
+| Stats (levels 1-100) | STR **16.7** (+1), DEX **54.5** (+5), CON **21** (+2), INT **5.4** (+0), WIS **10** (+1), CHA **4.0** (+0) |
+| Reps on the road to the Rest (rolled daily) | Day 1 DEX +1.0. Day 2 DEX +1.0, DEX +0.5. Day 3 CHA +1.0, DEX +0.5. Day 4 DEX +1.5. Day 5 CON +1.0, CHA +0.5. Day 6 DEX +1.5. Day 7 CHA +1.0, DEX +0.5. Day 8 INT +1.0, DEX +0.5. Mostly sparring with Dace, Corvane and Isk; CHA from drilling the Light-bringers and talking to the crew |
 | Proficiency | +3. Skills: Perception, Athletics, Survival, Intimidation |
 | Want | Find who opened the gate at Kasr Holn. Now: bring down Drachen |
 | Flaw | Doesn't trust officers, and says so |
@@ -165,8 +165,8 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 
 | | STR | DEX | CON | INT | WIS | CHA | State |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Kell** | 30 | 36 | 30 | 10 | 25 | 10 | **Hurt** (arm in a sling, healing; about a week to swing the chain axe). Held the Lantern during the Ostrava drop; swaps in for Varga next mission |
-| **Varga** | 25 | 38 | 25 | 10 | 21 | 5 | **Hurt** (las on her carapace at Strahn's quarters jarred her cracked ribs). Warp day 6 dawn rep: DEX +1.0 (dry-fire drills with Mercy) |
+| **Kell** | 30 | 36 | 30 | 10 | 25 | 10 | Fine (sling off warp day 7). Swaps in for Varga next mission |
+| **Varga** | 25 | 38 | 25 | 10 | 21 | 5 | **Hurt**, light duty (ribs re-cracked at Strahn's quarters; out of bed warp day 4, light duty until about day 14). Warp day 6 dawn rep: DEX +1.0 (dry-fire drills with Mercy) |
 | **Dace** | 25 | 21 | 20 | 17 | 5 | 5 | Hurt (bitten calf), walking |
 
 - **Sergeant Kell** (storm trooper sergeant, 41, ex-Tempestus Scion, nine years
@@ -266,6 +266,8 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
     harder.
 - **Upgrade paths (Hespa-Vor's lesson, warp day 5).** Parts are Ottrick's trade, blessings Hespa-Vor's. *Shameholder:* the overdrive limit is heat, not the cell; heat-sink fins, coolant channels or a higher-tolerance motor (Mechanicus or forge-world, from officers' blades, void-ship armouries, the dead) buy room for a longer overdrive OR a harder-driven motor, not both in full; track, bar and teeth must be upgraded too or the weakest part fails. Teeth: plasteel (Dace can recast his 12 spares if brought plasteel), adamantium (rare, needs the plasma crucible; Hespa-Vor would teach Dace the temper). *Vigil:* better focusing lens and a larger capacitor (overcharged single shot) are the real upgrades; heat shroud possible but the spirit hates full-auto; Mechanicus-pattern hot-shot packs hold more. No readable chain-weapon manual aboard (117-C lost with Drel's things; Hespa-Vor's rites are cortex-only).
 - **The *Ember* after Kesh:** stripped and read by Kesh's people (weeks); then sold, scuttled, given to an Inquisitor's household, or to an Interrogator who has earned his rosette. Varsaine will ask for it for Tamsin; no promise.
+- **The road to the Rest (warp days 2-8, skipped; rolled daily).** Day 3: Hollis's and Isk's white sets finished (third coat); paint gone. Day 4 (story, 20): Strahn, recovering, gave Tamsin the **carbon duplicate of the hold order** he wrote at Kasr Holn, kept in his coat lining for a year: "For the new man." Day 5 (trouble, 1): a fanatic from Tessaly's household jumped an armsman in the *Ember*'s hold and went for the hatch; **Corvane, hauling crates nearby, took him down bare-handed** and held him for the armsmen; the armsman has a broken wrist. Varga out of bed day 4, light duty since. Kell's sling off day 7. Kell finished the Slow Litany day 8: **plasma pistol cell full (8 shots), the spare full and sealed**; the refilled cell rolled sound. Daily: Corvane at chapel each dawn, then work under Tamsin; Dace's third practice sword done; sparring every morning.
+- **Void Exchange order:** rolled on arrival (2): **the courier is late**, about two days behind.
 - **Long-term goals:** a fully kitted squad; a ship of Tamsin's own.
 
 ## The hub
