@@ -152,7 +152,7 @@ TV. **Added warp day 6 (Ostrava haul, stowed by Tamsin ~1500):** Tessaly's plasm
 - ~~Tamsin owes Ottrick one open favour~~ (called in, above).
 - (old) **Tamsin owes Ottrick one open favour** ("whatever I ask, when I ask") for
   Vigil's new coil.
-- **Dreams:** Tamsin, a ship (light freighter 2,500 TV). Ottrick: bolt rounds,
+- **Dreams:** Tamsin, a ship (light freighter 2,500 TV); he'd like the captured *Ember* one day, and to name his ship ***The Bright Light*** (told Varga, session 7). Ottrick: bolt rounds,
   spire amasec, Mechanicus parts, xenos tech.
 
 ---
