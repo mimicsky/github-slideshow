@@ -167,7 +167,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Kell** | 30 | 36 | 30 | 10 | 25 | 10 | **Hurt** (arm in a sling, healing; about a week to swing the chain axe). Held the Lantern during the Ostrava drop; swaps in for Varga next mission |
 | **Varga** | 25 | 38 | 25 | 10 | 21 | 5 | **Hurt** (las on her carapace at Strahn's quarters jarred her cracked ribs). Warp day 6 dawn rep: DEX +1.0 (dry-fire drills with Mercy) |
-| **Dace** | 25 | 20 | 20 | 17 | 5 | 5 | Hurt (bitten calf), walking |
+| **Dace** | 25 | 21 | 20 | 17 | 5 | 5 | Hurt (bitten calf), walking |
 
 - **Sergeant Kell** (storm trooper sergeant, 41, ex-Tempestus Scion, nine years
   with the Ordos). Tamsin's "brother"; their fist-bump handshake. Hellgun
@@ -185,7 +185,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
   steel, brass guard, grox-hide grip, plasma-poured pommel; woken by Hespa-Vor;
   rings "sound, unbroken, and afraid"; first blood from his own scarred palm.
   **Breaching shield**: scrap plasteel, viewing slot, its boss poured from his
-  old collar. Riveted a shotgun-steel brace inside the shield (warp day 5 to Ostrava). **Practice swords:** three plain, blunt, straight duelling swords (no weighting to match any real weapon), grox-hide grips. Two done warp day 1 to the Rest, the third tomorrow. Plain, nothing special, as Tamsin asked. First bout (warp day 1 to the Rest): Tamsin beat Dace 5-1 in the hold before the whole Light and half the off-watch; Dace's one point caught Tamsin mid-jump. Second bout: Tavi beat Morcant 5-4 (rolled openly, every exchange); Morcant came back from 0-2 and 2-4 to level at 4-4. "Shield and blade.
+  old collar. Riveted a shotgun-steel brace inside the shield (warp day 5 to Ostrava). **Practice swords:** three plain, blunt, straight duelling swords (no weighting to match any real weapon), grox-hide grips. Two done warp day 1 to the Rest, the third tomorrow. Plain, nothing special, as Tamsin asked. First bout (warp day 1 to the Rest): Tamsin beat Dace 5-1 in the hold before the whole Light and half the off-watch; Dace's one point caught Tamsin mid-jump. Second bout: Tavi beat Morcant 5-4 (rolled openly, every exchange); Morcant came back from 0-2 and 2-4 to level at 4-4. Warp day 2: **Corvane beat Dace 5-4** (played round by round, Tamsin coaching; every exchange rolled openly). Dace's points: the lunge, the feint, crowding in close, the rapier thrust. Corvane's: fleet cutlass flurries, the planted back-step thrust, the double feint, and the winning counter after Dace overreached. The whole hold watched. "Shield and blade.
   That's me."
 
 ---
