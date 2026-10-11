@@ -95,8 +95,8 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Rank | **Interrogator-designate** (warrant of trial from Kesh, session 5). Leads The Light; Varsaine signs off. Full rank and a rosette when Drachen is in chains or dead and Strahn's evidence is delivered; fail and back to acolyte |
 | Class | Fighter 8, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | Fine. Arm healed after a full night's sleep. **Sharp edge (shooting): unused** |
-| Stats (levels 1-100) | STR **16.7** (+1), DEX **47.5** (+4), CON **20** (+2), INT **4.4** (+0), WIS **10** (+1), CHA **1.5** (+0) |
-| Today's reps (warp day 6, Ostrava) | INT +1.0 (wrote his first report to Kesh, ~1600-1700). Warp day 5: STR +1.0, INT +0.5, INT +0.4, STR +0.3 |
+| Stats (levels 1-100) | STR **16.7** (+1), DEX **48.5** (+4), CON **20** (+2), INT **4.4** (+0), WIS **10** (+1), CHA **1.5** (+0) |
+| Today's reps (warp day 1 to the Rest) | DEX +1.0 (sparred Dace with practice swords, won 5-1, ~1930). Warp day 6: INT +1.0 |
 | Proficiency | +3. Skills: Perception, Athletics, Survival, Intimidation |
 | Want | Find who opened the gate at Kasr Holn. Now: bring down Drachen |
 | Flaw | Doesn't trust officers, and says so |
@@ -185,7 +185,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
   steel, brass guard, grox-hide grip, plasma-poured pommel; woken by Hespa-Vor;
   rings "sound, unbroken, and afraid"; first blood from his own scarred palm.
   **Breaching shield**: scrap plasteel, viewing slot, its boss poured from his
-  old collar. Riveted a shotgun-steel brace inside the shield (warp day 5 to Ostrava). **Practice swords:** three plain, blunt, straight duelling swords (no weighting to match any real weapon), grox-hide grips. Two done warp day 1 to the Rest, the third tomorrow. Plain, nothing special, as Tamsin asked. "Shield and blade.
+  old collar. Riveted a shotgun-steel brace inside the shield (warp day 5 to Ostrava). **Practice swords:** three plain, blunt, straight duelling swords (no weighting to match any real weapon), grox-hide grips. Two done warp day 1 to the Rest, the third tomorrow. Plain, nothing special, as Tamsin asked. First bout (warp day 1 to the Rest): Tamsin beat Dace 5-1 in the hold before the whole Light and half the off-watch; Dace's one point caught Tamsin mid-jump. "Shield and blade.
   That's me."
 
 ---
