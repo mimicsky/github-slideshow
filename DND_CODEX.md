@@ -827,6 +827,22 @@ No weapon has a damage number. Better weapons drop a target in fewer hits and
 get through better armour. Ammunition is the real cost: hot-shot packs, bolt
 rounds and plasma are scarce, las packs recharge from any ship's coupling.
 
+**Ammunition prices (Ash on Ostrava, set session 7).** Cheap ammunition is a
+sign of how cheap life is: a stub round costs less than a ration can. In TV
+(1 TV = 1 Navy combat shotgun):
+
+| Ammunition | Price | Notes |
+| --- | --- | --- |
+| Stub, autogun, shotgun shells | ~1 TV a crate of a few hundred | Bought by the box, never counted singly |
+| Heavy stubber belt | ~1 TV | Cheap; it's weight, not money |
+| Las pack | ~0.25 TV | Recharges from any ship's coupling |
+| Hot-shot pack | 1-3 TV | Better packs dearer |
+| Frag / smoke grenade | ~1 TV | |
+| Krak grenade | 2 TV | |
+| Bolt round | ~0.7-1 TV each | Rare outside the Astartes, Sisters and officers |
+| Plasma cell | ~6 TV | Refilled slowly by a tech-priest, or at a Mechanicus shrine |
+| Melta charge / melta bomb | rare, priced on the day | |
+
 ### Loot
 
 Enemies carry what they plausibly would. When a group is looted, one d20 in the
