@@ -5,14 +5,16 @@ story lives in `book.md`.
 
 **To resume:** read the end of `book.md`, then this sheet, then the codex.
 
-**Where we stopped:** end of session 5, about 1130 on warp day 5 on the rough
-road to Ostrava, at Drel's forge with Dace and Varga, just after Varga's mat
-challenge. The plan is set, the Light is on its own vox channel, and arrival at
-Ostrava is around midday on warp day 6, when the Light drops straight to Primus.
-The book ends at the same moment (Part Two, Chapter 4).
+**Where we stopped:** end of session 6. 1730, warp day 1 of 8 to Saint
+Ivaine's Rest and Kesh. Tamsin has just woken in his quarters after nine hours'
+sleep, starving (no food since the morning of the Ostrava drop). The *Ember of
+Tyrok* travels with the Lantern, prisoners in her hold; Tessaly, Varro and Kade
+in the brig (Kade in medicae). White plate painted and dry; the Light wears grey
+coveralls under white from tomorrow. The book ends at the same moment (Part Two,
+Chapter 10).
 
 - **Started:** 2026-10-03
-- **Sessions played:** 5
+- **Sessions played:** 6
 - **Season 1:** *Seed of Nurgle*
 - **System:** D&D 5e chassis reskinned for Warhammer 40,000, narrative mode, all
   Part 6 house rules
@@ -161,7 +163,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 
 | | STR | DEX | CON | INT | WIS | CHA | State |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Kell** | 30 | 36 | 30 | 10 | 25 | 10 | **Badly hurt** (Deck 9 bite reopened his arm, torn muscle). **Benched from the Ostrava drop** by Tamsin; holds the Lantern with the trained ratings |
+| **Kell** | 30 | 36 | 30 | 10 | 25 | 10 | **Hurt** (arm in a sling, healing; about a week to swing the chain axe). Held the Lantern during the Ostrava drop; swaps in for Varga next mission |
 | **Varga** | 25 | 38 | 25 | 10 | 21 | 5 | **Hurt** (las on her carapace at Strahn's quarters jarred her cracked ribs). Warp day 6 dawn rep: DEX +1.0 (dry-fire drills with Mercy) |
 | **Dace** | 25 | 20 | 20 | 17 | 5 | 5 | Hurt (bitten calf), walking |
 
@@ -190,7 +192,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 
 | Name | Who | State |
 | --- | --- | --- |
-| **Interrogator Varsaine** | Tamsin's superior. Steel left hand. The major at the Kasr Holn gate controls; says someone behind the door took his hand | Trusts Tamsin. Gave the collar key. Kesh made him wait two years for his rank |
+| **Interrogator Varsaine** | Tamsin's superior. Steel left hand. The major at the Kasr Holn gate controls; says someone behind the door took his hand | Trusts Tamsin. Gave the collar key. Kesh made him wait two years for his rank. Read Tamsin's report ending 'I was the runner'. Expects Kesh to want the Light at Drachen's arrest |
 | **Inquisitor Aurelia Kesh** | Varsaine's Inquisitor. Sixties, cold, silver-chased plasma pistol. Was a smuggler's daughter | Holds Strahn's page and Drachen's order. Declared Drachen *Excommunicate Traitoris*. Wants Strahn's evidence, and one of Drachen's men alive |
 | **Mother Oculine**, **Sister Aldwyn** | Kesh's blindfolded psyker; Kesh's old Sister of Battle bodyguard | At Saint Ivaine's Rest |
 | **Ottrick** | Quartermaster. **Daughter Lio (11) now aboard the Lantern**. One leg (lost to a Chaos Dreadnought at Kasr Myrak), foul-mouthed, fair | Likes Tamsin, won't admit it. Wears Merrevane's bolt pistol and the Navy cutlass. Got his kit tin back from Tamsin. **Wife Maret and daughter Lio (11)** were on the civilian lift off Kasr Myrak six years ago; no word since. Bought a Munitorum evacuee manifest (Cadians resettled on Ostrava Primus, hab-tiers 3-7) at Saint Ivaine's Rest for a crate of las packs; searching the Kasr Myrak list. Tamsin told him (warp day 5): records from the *Ember* may help, and to be on the first ship down after the mission. Lent Tamsin Manual 41-B (returned). His copy of Manual 117-C (chain weapons) went with Drel's things |
@@ -198,12 +200,19 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | **Confessor Thane** | Ship's priest. Ex-Guard chaplain who lost his faith for two years | Seals, blessings, litanies |
 | **Haldis** | Medic | Keeps a tin of 19 tags of patients lost |
 | **Ysolde** | Old blind astropath, Deck 2 | Cut the spiral thing's road. Can't send from the warp |
-| **Shipmaster Halvard** | Commands the Lantern | On the rough road to Ostrava |
+| **Shipmaster Halvard** | Commands the Lantern | In the warp to Saint Ivaine's Rest, 8 days (left 0800 warp day 7 Ostrava time) |
 | **Rennick** | The Lantern's boat pilot, burn-scarred jaw | Flies drops |
 | **Deck ratings** (trained by Tamsin) | **Bosun Grell** (31 years on hulls; lost the drinking bet), **Imre** (ex-Navy augur rating), **Rusk** (Cadian cook from Kasr Gallan, a natural shot), **Marta** (cargo-hauler, steady), **Pell** (16, cheeky), **Tolly** (galley, scared of guns), **Ashby** and **Morrow** (the dreamers) | Marta and Pell kept their lasguns and fought in the Deck 9 breach |
-| **Lt. Corvane** | Steadfast Ninth officer, Cadian (Kasr Tyrok). Disarmed by Dace at the Rest | Lantern brig, cell 3 (guard Hollis). Gave up Tessaly. Dace brought him a meal and told him everything (warp night 4); Corvane sent word through Dace: **Tessaly always keeps a reserve squad with his ship; the courier is the *Ember of Tyrok*, at the Primus landing fields, Spire Dock Six, under a Munitorum transponder.** "He owed it to the boy who held the door" |
-| **Major Orlov** | Garrison commander, Ostrava Secundus. Fair, tired | Varsaine sent him a warning about Strahn before the jump; unknown if received |
-| **Colonel Strahn** | Loyal officer. Wrote the "hold the gate" order Tamsin never delivered | Alive on Ostrava Primus, with "evidence under separate seal". Doesn't know Tamsin was the runner |
+| **Lt. Corvane** | Steadfast Ninth officer, Cadian (Kasr Tyrok). Disarmed by Dace at the Rest | Lantern brig, cell 3. Heard Tamsin say he was the runner; told him one letter would not have saved Cadia |
+| **Major Orlov** | Garrison commander, Ostrava Secundus. Fair, tired | Came aboard, briefed; forgave Dace and will burn his death warrant; found Ottrick's family via Hoyle (adjutant); stayed on Secundus. Ostrava's garrison is Kesh's when she wants it. Still lists Tamsin as 'transferred' |
+| **Colonel Strahn** | Loyal officer. Wrote the "hold the gate" order Tamsin never delivered | **Rescued** from the *Ember*, tortured four days (fingers broken, eye swollen). In medicae. Lied to Tessaly; gives the evidence's real location only to Kesh's face. Doesn't know Tamsin was the runner |
+| **Major Tessaly** | Drachen's adjutant, ex-Cadian Strategium. Knocked out by Tamsin on level nine | Brig, cell 1, nose broken. **Turned:** will testify to Kesh about the struck Strategium log and the order to kill Strahn |
+| **Lt. Aric Varro** | Drachen's household guard, Kasr Sevrin | Brig, cell 2. Surrendered the *Ember*'s bridge. His father's bolt pistol is in the Light's container |
+| **Sgt Kade** | Tessaly's heavy-stubber sergeant | Medicae under guard, las burn through the arm |
+| **Corporal Daske** | Household trooper who gave up the *Ember* layout | Prisoner, *Ember* hold |
+| **Colonel Maask** | Ostrava garrison, officers' tier, level nine. Strahn's friend of twenty years | Wants to give Kesh evidence on Strahn's 'illness'. Knows Drachen arrives in three days |
+| **Sgt Brask**, **Odo Fensk** | Spire security, level four; Dock Six controller | Covered the Dock Six fight as a 'dock brawl'; Fensk's report due end of shift |
+| **Lio Ottrick** | Ottrick's daughter, 11. Thin, sharp, grey-eyed. Carries Maret's tin box | Aboard the Lantern with her father since warp day 7 |
 
 ---
 

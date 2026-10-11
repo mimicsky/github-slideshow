@@ -597,11 +597,562 @@ It was half past eleven on the fifth day of the rough road, and Ostrava was a
 little more than a day away.
 
 
+## Chapter 5: Four Things
+
+"So like I was saying," Tamsin said, "once you finish those practice swords, we
+can really put in work."
+
+"Anything's a big word, Interrogator-designate," said Varga. "I'll hold you to
+it."
+
+Dace looked at the bar stock leaning in the corner of the forge. One blade was
+an afternoon, he said, if Tamsin wanted it before the drop. Tamsin didn't. "After
+Ostrava. I guess I'm just excited for Varga to find out who she's messing with."
+
+Varga laughed, short and dry, and tapped her cracked ribs. "These will be healed
+by then. No excuses for either of us."
+
+"You guys be ready. I'll see you later."
+
+His quarters were bare now: bunk, locker, desk. The weapon rack had gone down to
+the container. He did push-ups on his knuckles and pull-ups on the bunk frame
+until his arms shook, then sat with Manual 41-B and read the chapter on boarding
+docked craft, mouthing the hard words. Stack on the hinge side. Speed beats
+silence. Take the bulkhead controls first. Small craft have one main lock and a
+forgotten maintenance hatch. He thought about the *Ember of Tyrok* in its bay,
+and about a colonel who might be somewhere aboard.
+
+The manual said nothing about chainswords except *see Manual 117-C*. The
+Lantern's archive had never held one. Ottrick, when Tamsin went to return 41-B,
+had lent his copy to Drel two years ago, and Drel had died.
+
+Ottrick had not been swearing at a crate when Tamsin came in. He had been sitting
+at his bench with the photo from the nail propped against a mug, scrolling a
+data-slate one name at a time. He turned it face down when he heard boots.
+
+"What's on the slate, Ottrick?"
+
+He held Tamsin's eyes a long time. Then he slid it across. A Munitorum evacuee
+manifest, bought at Saint Ivaine's Rest for a crate of las packs: Cadians
+resettled on Ostrava Primus, sorted by kasr. He had scrolled to Kasr Myrak.
+
+"Maret. My wife. And Lio, our girl. She'd be eleven now." The night he lost his
+leg they had been on the civilian lift. It made orbit. After that, nothing. Six
+years.
+
+"Sorry to hear that. I bet they think of you every day. If there's records and
+files, they'll be on the ship if we take it. So when we come back, mission
+complete, I'd better see you on the first ship down to it. I'll see you later,
+old man."
+
+He was out of the hatch before Ottrick could stand. "OLD MAN? I'll show you old,
+you Cadian whelp!"
+
+Hespa-Vor was in communion in its alcove, cables in its skull, a brass plate on
+the hook: *DO NOT DISTURB WITHOUT CAUSE*. Tamsin sat on a crate of node casings
+and waited an hour. When the enginseer woke, it already knew how long.
+
+"A pretty lame cause," Tamsin admitted, "but I've got nothing better to do. Do
+you have anything that covers swords, or chainswords?"
+
+It held no texts; the Rites of the Chain-Spirit lived in its cortex, seven
+hundred and twelve verses, not meant to be read. But curiosity in a bearer
+pleased a spirit, so it gave him the lay knowledge. Four things: teeth,
+tension, motor, oil. The overdrive was Ottrick's bypass of the governor; the
+limit was heat, not the cell.
+
+"So if I found a better cell drive, I could push the overdrive longer?"
+
+The wrong part, it said. Cool the motor faster and you could buy time or fury,
+not both. Harder teeth bit deeper but grew brittle and heavy. Plasteel was
+better than steel, adamantium better still and almost impossible to work. For
+Vigil, a finer focusing lens and a bigger capacitor were the true upgrades;
+everything else was comfort.
+
+"Alright, that helps. Thanks, I'll see you later."
+
+"Bring me metal," said Hespa-Vor.
+
+He did push-ups to failure on the floor beside his bunk and was asleep by
+seventeen hundred. Twice in the night the lights flickered, and once something
+whispered behind the wall, and a Geller node in the lower hold tripped and reset
+itself. Nothing came through.
+
+## Chapter 6: Dock Six
+
+Kell's voice woke him at a quarter to six. "Halvard says we're six hours out."
+
+"Alright, let's get ready and kit up for drop."
+
+Varga had been on the range since four, dry-firing. Dace had fallen asleep at
+the forge. Ottrick handed over the charged pack without looking up. "Morning,
+*whelp*. Old man. I'll remember that."
+
+At the container Tamsin kitted up piece by piece, and Dace arrived late with his
+collar half buttoned, and Varga straightened it for him without a word. Then
+Tamsin took the Light up to the storm troopers' bay, where Kell's six were eating
+over their broken-down hellguns: Hollis, Brenner, Isk, Tavi, Morcant, Sallow.
+
+"Sergeant Kell came by last night," Hollis said. "He said you'd tell us how."
+
+"Let's go. We'll get a battle plan ready with Varsaine."
+
+In the briefing room the hololith turned Ostrava Primus in green, and Spire
+Dock Six glowed amber. "It's landed down on the ground, right?" It wasn't; the
+*Ember* sat in a bay cut into the spire's flank on level four, with gantries,
+an umbilical and a control tower.
+
+"Then it's simple," Tamsin said. "Board, breach and clear. Infiltration, and we
+take over. It's not as big; it's not a crazy huge fight like last time."
+
+Varsaine's answer was to land in a busy freight bay next door and walk the
+service tunnels in Cadian kit. "Infiltration, and then going loud," Tamsin said.
+"Sounds like a plan to me."
+
+Then the orders: call them to stand down, because they were following a corrupt
+lord. If they stood down, take them into custody. If they didn't, take them
+down, from cover, behind Dace's shield. Brenner could patch Tamsin's voice into
+the ship's own speakers from the umbilical junction box. "Umbilical it is. We
+cover you at the box." Isk wanted to watch the tower. Sallow, it turned out, was
+the medic, not Varga. "Can you drop a heretic the same way you can take care of
+a wound?" She had put more men in the ground than she'd pulled out of it, she
+said. She just preferred the other way round.
+
+"Alright, let's move out, people. Clean work. Make Varsaine's and my day easier."
+
+At the boat Kell waited with his arm in its sling. "Hold the fort for us, Kell.
+Don't let them touch our stuff."
+
+"Nobody touches the container. You bring them back. All of you."
+
+Tamsin bumped his good fist. "Get better, soldier." Thane put oil on his brow and
+asked the Emperor who stood at the Gate to stand with him at his. Then the
+Lantern came out of the warp, and the *Ember* was still docked, and no ship of
+Drachen's was in the system.
+
+"Remember," Tamsin told the hold, "alive and capture. Non-lethal shots if you can."
+
+They landed in Dock Seven like a tired freighter and walked three hundred metres
+of tunnel unseen. Through the cargo intake of Dock Six: the grey courier on its
+cradle, two bored sentries at the foot of the near gantry, a third smoking by the
+open hatch, and a man moving behind the tower glass.
+
+Tamsin and Varsaine walked straight up to the sentries, two officers on business.
+"Sir, this bay's restricted. Major Tessaly's orders."
+
+"Inquisition business. Las packs out and guns on the floor. If not, you're a
+traitor, and I'll have my chainsword rip you in two." Shameholder roared a pace
+from their faces, and two lasguns hit the deck.
+
+The smoker ran into the ship shouting *Inquisition*, and the man in the tower
+slammed the alarm.
+
+"On the box, team!" Tamsin gathered the dropped lasguns and the two sentries.
+"Get up. Let's go. Follow us." The team took the gantry foot, Brenner and
+Hespa-Vor tore open the junction box, and three household troopers appeared in
+the hatch above, guns down at them, not firing.
+
+"Inquisition order! Throw out your guns and come out with your hands up. If not,
+you are a traitor and my team will take you down. You are surrounded!"
+
+An older voice answered from inside: "Kesh's dogs! Your Interrogator opened
+Cadia's gate! Seal it!" and the hatch began to close.
+
+"Medic, you hold out here with these two guards. Team on me." Tamsin let it shut,
+and waited for Brenner, and asked whether all of them were inside. They were.
+
+"You're in, sir. Every speaker on that ship."
+
+"This is the Inquisition. Lay down your arms and come out. This is your last
+chance. You are a traitor if not. Lord Drachen has turned to Chaos and has lied
+to you all. Give up your arms now and come out, or else."
+
+Inside, the shouting started. *He said Chaos!* The hatch slid open a body's
+width, and eight of the ship's crew came out with their hands up, and one young
+trooper crying, holding his lasgun out by the barrel. The rest, the major's men,
+held the bridge.
+
+Varga searched them and found the first officer's brass rune-key. One more
+shout, and a corporal named Daske stumbled out with a split lip: Tessaly had
+gone up-spire at dawn with most of his men. Lieutenant Varro held the bridge
+with two. One guard aft, outside the colonel's cabin, with orders to shoot him if
+anyone came.
+
+"Varsaine, take him and have him lead you. Take Varga and Dace with you. I'll
+keep negotiating with these traitors."
+
+"Lieutenant Varro, your men already gave up. Come out. If not, you are a
+traitor. Make the right choice."
+
+Varro would only wait for security and Tessaly, he said. Aft, Varsaine called
+on the guard to put it down, and the guard spun toward the cabin door instead,
+and Dace's shield flattened him before he fired.
+
+"Alright," Tamsin told the speakers. "You think you're in the right. I get it.
+Someone as high up as yourself, following a traitor for so long, no wonder you
+can't surrender. But know you're making the last choice of your life if you
+don't come out now."
+
+The bolts on the bridge door slammed back. Three men walked out unarmed.
+Lieutenant Aric Varro, Drachen's household guard, wanted the name of the man who
+took his ship.
+
+"Tamsin Rook. Interrogator-designate."
+
+## Chapter 7: The Colonel's Lie
+
+On the bridge Tamsin stripped the rack: three lasguns and an old bolt pistol in a
+worn holster, *VARRO · KASR SEVRIN* on the slide. Varro had asked that it be
+treated with respect; it had been his father's. He took the charts and slates
+from the nav table. The cabinet under the captain's chair gave way to his knife
+at the first try. Inside, under a wax seal, stood thirty-year spire amasec.
+The captain's bottle. Ottrick's favour.
+
+"Ship is ours. Tell Varsaine and ask for his orders."
+
+Varsaine's answer came quietly over the vox, with someone breathing badly behind
+it. Strahn was alive. They'd had him four days and it showed.
+
+Spire security came through the main cargo doors before Tamsin reached the aft
+cabin: seven troopers and Sergeant Brask, shields up. "Inquisition business!
+We are friendly. We have captured the traitors." Brask wanted proof, alone,
+halfway across the bay. Tamsin walked out with his hands up and the iron I held
+high. "Signed and real."
+
+Brask had never seen one, but he'd heard what happened to men who argued with
+them. He would have to report. "I can't let you report it, soldier. It'll mess
+up the plan. Report that you've got it under control. A brawl. Raiders trying to
+steal something. Something insignificant." Brask agreed, and gave him an hour,
+and said the controller in the tower was Tamsin's problem.
+
+"Inquisition. Open up. I owe you an explanation."
+
+The controller's name was Odo Fensk. He had only told Defence Command
+*intruders*, and they were still calling on the dangling handset. "Pick it up.
+Tell them it was a dock brawl. Raiders tried to take a shipment. They failed and
+are now under investigation and restraints." Fensk did it like a bored clerk at
+the end of a long shift, and Defence Command logged it as routine, report due by
+the end of his shift. Four hours, not one.
+
+"Know you've done a good job for your Emperor."
+
+Aft, in a cabin with a bolted steel chair and cut straps, Colonel Strahn lay on
+the bunk with his fingers broken under rag bandages and one eye swollen shut.
+"Another one. How many of you did Kesh send?"
+
+"Tessaly's coming back for you, Colonel. We need to move. The traitor Lord
+Drachen wants you dead."
+
+"Dead? No. Drachen wants me talking." And then, through the rasp: last night he
+had let Tessaly think he'd broken him. He had told him the evidence lay under
+the altar stone in his quarters' chapel on level nine. It didn't. Tessaly had
+left at dawn to dig.
+
+"Did he go alone?"
+
+"Tessaly doesn't cross a room alone." Daske, from the corridor: eight of the
+household, Sergeant Kade's squad with a heavy stubber, and the major's plasma
+pistol. He doesn't miss with it.
+
+"We're taking the ship. Prisoners on board. Me, Varga, Isk, Brenner and
+Varsaine are going after Tessaly. Sallow, patch up Strahn. Dace, watch over
+these people. Everyone, hold this ship. We'll be back soon."
+
+## Chapter 8: Level Nine
+
+A cargo lift took five of them up through the spire to a carpeted officers'
+tier that smelled of polish and cigars. Round the corner, a single bored sentry
+leaned beside a door marked COL. A. STRAHN, and inside, someone was tearing the
+place apart.
+
+"Quiet. I'll take care of this one."
+
+Tamsin slung Vigil, drew the knife and went alcove to alcove in time with the
+crashing. His hand closed over the sentry's mouth and the blade settled at his
+throat. "You move, you die. Surrender now." The sentry nodded against his palm.
+"How many men are inside?" Seven, and the major. Kade on the stubber, two in the
+chapel, four searching the other rooms. "Please. I've got a mother on
+Secundus."
+
+Tamsin signed the team round the door, knocked the sentry out with the knife
+pommel and laid him in an alcove, and handed his lasgun to Varga. "Anyone else
+have grenades?" Brenner had a frag. Varsaine had a smoke and a photon flash.
+"For taking people alive."
+
+"Isk, Brenner, you take left. I'll take Tessaly. Varsaine, take Kade. Varga, take
+the back. They have seconds to decide after the flash. Alright. Ready?"
+
+Three. Two. One.
+
+The flash skipped short and burst by the door, but it caught Tessaly full in the
+eyes and Kade beside his stubber. Varsaine burned Kade's arm and Kade went down.
+In the chapel the far trooper refused Varga's order and swung his lasgun on
+her.
+
+"ON THE GROUND NOW. YOU HAVE ONE SECOND OR YOU'RE DEAD!"
+
+Tessaly, blind, was clawing at his holster. Tamsin closed the last three paces
+and drove Vigil's stock into his face, and the major went down like a cut rope
+with his nose broken.
+
+The four from the side rooms saw it from the doorways and dropped their guns.
+The trooper in the chapel shot Varga square in the chest plate; the plate held,
+and her cracked ribs didn't. Tamsin put one beam through the trooper's lasgun
+in front of the trigger guard, and the man stared at his singed hands and put
+them up.
+
+Nobody had died. Tamsin searched them himself: Tessaly's plasma pistol with four
+shots in the cell, his locked Strategium slate, his silver rank pins, Kade's
+heavy stubber with one belt, lasguns, packs, three frags, a flask of something
+like paint stripper.
+
+"Boss," said Varga, holding out the plasma pistol butt-first. "This isn't
+nothing."
+
+"Dace, head down here with Hespa-Vor and one more. We've got wounded and
+prisoners."
+
+Hespa-Vor had cracked Varro's slate on the way up. *Evidence to be carried by hand
+to the Lord-General's flagship, GATE UNBROKEN, arriving Ostrava outer jump point
+in three days. The Lord-General will receive it in person.*
+
+"I suppose we need to ambush him, then," Tamsin said. "Let's get all of these
+people to the Lantern."
+
+Halfway down the corridor a door opened and a grey-haired colonel in full dress
+stepped out with two armed aides. "That is Lord-General Drachen's adjutant.
+Explain yourselves. *Now.*"
+
+Tamsin dropped the stubber and put his hands up. "Sir, Inquisition orders. I
+have a warrant right here, if you'll let me grab it." The colonel looked at the
+iron I and the bar across it and asked for one reason not to hold them all for
+Drachen.
+
+"Sir, the traitor Lord Drachen and his men came to take Strahn. We stopped them
+and took their craft. Now Drachen will be here in three days."
+
+Colonel Maask had served beside Aldric Strahn for twenty years, and been told he
+was ill. "Holster," he said to his aides. "Is he alive?"
+
+"Strahn is alive. He's on the captured ship. He's hurt but he's fine. We have to
+get all of this to Inquisitor Kesh."
+
+"Tell Strahn Maask asked after him."
+
+## Chapter 9: The Runner
+
+Fensk cleared the *Ember* out as routine. On the climb through the smog the
+system monitor *Ostrava's Vigil* hailed them and turned its guns, and Varsaine
+answered with his seal codes, and had the contact logged under Inquisitorial
+seal. Drachen would not hear it from them.
+
+At the Lantern's lock Kell grabbed Tamsin's hand and didn't let go. Haldis
+sent Varga to medicae. Halvard said Ysolde had reached Orlov, and Orlov was
+coming aboard that night.
+
+"All these prisoners go to the cells. We make haste to Kesh."
+
+Varsaine pointed out the other road. Drachen expected his own courier, coming to
+him with his own codes, carried by hand. The *Ember* would be waved straight in.
+
+"But won't he come with an army?"
+
+A ship, not an army. A flagship, though, more guns than the Lantern and
+hundreds of men.
+
+"Still, it's a warship against a little team of men. We lose that every time. I
+think the play is to go to Kesh and let Kesh deal with his arresting."
+
+"Sound," said Varsaine. "A live Interrogator-designate is worth more to Kesh
+than a brave dead one."
+
+Tamsin stowed the haul in the container. Ottrick came down and looked at it.
+"Throne's teeth, whelp. Did you rob an armoury?"
+
+"Something like that." He held out the bottle.
+
+Ottrick read the label twice and tucked it inside his coat like something
+alive. "That's the fuses paid. You came back. All of you." The Void Exchange
+order, he said, had gone out that morning; Mag Vashti's courier would meet them
+at Saint Ivaine's Rest instead.
+
+In medicae, Varga lay strapped to a cot with two ribs cracked again. "How are
+you holding up, Varga?"
+
+"I'm *strapped down*, boss."
+
+"Was it worth it? I suppose so. We'll be taking down a traitor lord very soon,
+and you were a big part of it. I'm proud of the whole team. All of you."
+
+"Don't get soft on me," she said, and held out her fist as far as the strap
+allowed.
+
+In the brig on Deck 8, Tessaly sat in cell one with both eyes blacked. "So
+you're a traitor now," Tamsin said.
+
+Tessaly had stood in the Strategium the night the gate opened. He told Tamsin to
+ask Varsaine what he was doing at the controls, and why his hand was steel.
+
+"Too bad all of what you know is a lie. I was there that night. I carried an
+important message and didn't see it through. I thought the same thing you did a
+while ago. But now I stand here with piles of evidence on Drachen. You've been
+lied to."
+
+Something gave way in the major's face. He had kept the Strategium log that
+night, he said. One runner sent from Strahn's command post with a hold order for
+the gate. Logged *not arrived*. The next morning Drachen had the entry struck,
+and Tessaly had struck it himself. And four days ago he'd been ordered to kill
+the colonel once he had his evidence. If that evidence proved Varsaine guilty,
+why would Drachen want the man who held it dead? "Tell your Inquisitor I'll
+testify."
+
+"Very well. Maybe I do feel bad for hitting you."
+
+"Don't. I'd have shot you if I could have seen you."
+
+In cell three, Corvane was staring at him. "You were the runner." It was a hold
+order, he said, not a list. And half the gates were already open that night.
+Nobody's letter would have saved Cadia. "But you carried it."
+
+"You've been carrying the wrong weight, Rook," said Tessaly, with his eyes
+closed.
+
+Tamsin left without a word and went to Varsaine. "Got Tessaly to talk. He'll
+testify to Kesh. To Drachen being a traitor. I guess I really am becoming an
+Interrogator."
+
+Varsaine slid a blank slate across the table, and Tamsin wrote his report in
+plain Cadian words, and the last line was *I was the runner.*
+
+"So how will they take Drachen down?"
+
+With the truth first, Varsaine said. Every captain in his fleet would see the
+struck log, and Cadians were loyal to Cadia, not a man. Then the Sisters, and a
+Navy squadron if Kesh asked. "When the time comes, she'll want the people who
+brought her Tessaly in the room."
+
+"Good. I'll be ready."
+
+## Chapter 10: White
+
+Ottrick wanted the bolt rounds. Eight for the pistol, five for the rounds.
+
+"Full TV a round."
+
+He came up to a full TV a round, if the pistol came with them. Then he heard the
+name on the slide. Kasr Sevrin was two valleys from Myrak, a gunsmiths' town,
+and the lad who owned it was alive on Deck 8. He would not rack another
+Cadian's father's pistol. The rounds, though: seven TV, and keep the gun.
+
+"I'll get back to you on what I want to do with them. Also, I need four or five
+buckets of white paint for a little side project."
+
+Four tins of white deck paint, for a favour, and Tamsin told him what it was for.
+"I need to paint my team. We're called the Light, so I figure stuff on us should
+be white. A bright white. Our armour, our helmets, maybe our belts. Grey fatigues
+under it."
+
+Ottrick laughed until he nearly lost the tins, and then stopped. "Mind you, the
+Sisters wear white, and nobody laughs at *them*." Prime it, thin it with
+promethium spirit, three thin coats, never one thick one. Grey Navy coveralls,
+half a TV each. A storm trooper set for the smith would be salvage money.
+
+"I'll take four grey fatigues, then."
+
+The favour was ten minutes alone with the *Ember*'s Munitorum cogitator. It had
+only ever carried military freight. "Still thousands of names to go," Ottrick
+said, and didn't look at him.
+
+"We'll find them one way or another."
+
+At the container Kell, Dace and Tamsin painted until the fumes made their eyes
+run: three chest plates and Varga's, four visored helmets from the Rest haul,
+four belts, and Dace's shield, white all over except the boss, left bare. "So
+everyone can see where it came from." Officer stayed black.
+
+Orlov came down his shuttle ramp at two thousand hours, tired and patched at the
+elbows, and Varsaine told him everything, and then nodded at Tamsin.
+
+"We did, sir."
+
+"*Corporal* Rook. Third watch." Orlov had written him down as transferred.
+Then he saw Dace and his face hardened. "He's with you?"
+
+"He earned his spot. Had a krak collar on for a while. Earned it by putting
+himself first, and his blade through a traitor. A traitor taking down a traitor.
+Varsaine and I saw it fitting. He's reclaimed his faith. He still played the
+front-line role today in taking the ship."
+
+Orlov stood in front of Dace a long time. "When you went under that tower I
+signed a death warrant with your name on it. I'll burn it. A Cadian who falls and
+gets back up is still a Cadian."
+
+"Just real quick," Tamsin said, and asked about a woman named Maret and a girl
+named Lio, from Kasr Myrak.
+
+Captain Hoyle found them on her slate. Not Primus; Secundus. Maret Ottrick had
+died two years ago of refinery lung-rot. Lio Ottrick, age eleven, was alive in
+the Munitorum orphan-schola, three streets from Orlov's headquarters.
+
+"Thank you, sir."
+
+Ottrick was at his bench, on surnames A to D. "Sir..." Tamsin had never called
+him that. "Your wife died two years ago. Lio Ottrick, age eleven, is alive, in
+the Munitorum orphan schola on Secundus. I'm sorry I had to be the one to tell
+you."
+
+He took the photo off the nail and stood with it a long time. Then he called in
+the favour he had been saving since the coil. "Help me get my girl, Rook."
+
+"Aye, sir. Let's go."
+
+"Interrogator Varsaine, Commander Orlov, requesting permission for departure on
+a retrieve-and-return mission." Varsaine moved the jump to oh-eight-hundred.
+Orlov flew them himself.
+
+At the schola on Secundus a thin girl in a grey smock looked at the peg leg, the
+scars, the wet eyes, and then at the photo. "That's Mama's picture. She said Da
+had the other." Ottrick went down on his good knee on the stone. "I'm your da,
+Lio. I'm sorry I took so long." Tamsin stood against the wall and said nothing.
+
+"Can we say goodbye first?" Lio asked. Her mother was outside the walls.
+
+"We can't, Ottrick. We'll lose the time."
+
+Orlov's truck could do it inside an hour.
+
+"Makes it easier. Let's go."
+
+Row forty, near the wall: MARET OTTRICK, KASR MYRAK, *Emperor keep her*, and a
+flat stone the girl had put there. Ottrick left his Kasr Myrak pin on the
+marker. "Done," he said. "Let's go home, whelp."
+
+They were back aboard at twenty to seven. Kell met the shuttle and saw the girl
+and couldn't speak. "Kell, let's go." The plate was dry, and with Dace they laid
+on the third coat as Ottrick had said, and at ten to eight four white helmets
+sat in a row on the tarp like a squad at attention.
+
+"The Light," said Kell. "That'll do."
+
+"Let's kit up," Tamsin said, and Kell stopped him: ten minutes old, they'd wear
+their fingerprints in it for the rest of the war. "Sorry. I've been up too long.
+It'll be here tomorrow, ready." And to Dace: "I still need to get you a plate."
+
+The Lantern jumped at eight, bound for Saint Ivaine's Rest and Kesh.
+
+"So your new uniform is the grey fatigues in there. Four sets. Then armour,
+helm. We'll show them the light we are."
+
+He slept nine hours in his boots, with Vigil across his back, and did not dream.
+
+**Where we stopped:** 1730, warp day 1 to Saint Ivaine's Rest. Tamsin has just
+woken in his quarters, starving.
+
 ---
 
 # Appendix: Session notes
 
-*The detailed table notes from sessions 1 to 5, kept in full so nothing is
+*The detailed table notes from sessions 1 to 6, kept in full so nothing is
 lost. Rolls and small moments are recorded here; the chapters above tell the
 story.*
 
@@ -960,5 +1511,45 @@ overwatch in the boat: "I can't afford to lose another brother." Kell accepted:
 "Bring them back. All of you." He will hold the Lantern with the trained
 ratings.
 
-**Where we stopped:** 0400, warp night 3 to Ostrava, medicae. Tamsin has
-Ottrick's tin.
+*(Session 5 continued through the morning of the Deck 9 breach and warp days 4-5; see Part Two, Chapters 1-4.)*
+
+### Session 6
+
+**Warp day 5 to Ostrava.** Training: STR (room workout), INT (Manual 41-B,
+boarding), INT (Hespa-Vor's lesson), STR (push-ups). Geller strain 18. No copy of
+Manual 117-C aboard (archive 3; Ottrick's lent to Drel). Ottrick's manifest:
+wife Maret, daughter Lio. Hespa-Vor's lesson on chain weapons and gun parts.
+Night strain 11, a lower-hold node tripped and reset.
+
+**Warp day 6, Ostrava.** The *Ember* still docked (16), no Drachen ships (11).
+Landed in Dock Seven (Rennick 13), tunnels clean (19). Sentries surrendered to
+Shameholder (17); smoker ran (6); tower hit the alarm (1). First call failed (7);
+the hatch sealed. Over the ship's vox (16): 8 crew and 1 trooper out. Third call
+(13, near miss): Corporal Daske out. Varro refused (7); aft guard taken by Dace's
+shield (Varsaine 6 near miss, guard 3, Dace 12); Varro surrendered (16). Bridge:
+Varro's bolt pistol (3 + 7), captain's cabinet (natural 20): spire amasec,
+captain's log, 6 Navy tokens. Spire security (Sgt Brask) held by "Inquisition"
+(15), warrant accepted (9), cover story a near miss (14): one hour. Controller
+Fensk opened up (16), had said only "intruders" (18), lied to Defence Command
+(natural 20): four hours. Strahn aboard (20), tortured; he lied to Tessaly about
+the evidence. Tessaly not aboard (1); went up-spire with 8.
+
+Level nine: lift clean (11); sentry taken silently (18), knocked out (12);
+grenades rolled (Brenner a frag, Varsaine smoke and photon flash). Flash short (5)
+but blinded Tessaly and Kade; Varsaine shot Kade's arm (16); Tamsin's stock to
+Tessaly's face (natural 20); the side four surrendered (20); Varga hit on her
+plate, ribs re-cracked; Tamsin shot the last lasgun to scrap (13). Loot (2):
+plasma pistol (4 shots), Tessaly's slate and pins, heavy stubber (1 belt), 5
+lasguns, 11 packs, 3 frags. Varro's slate cracked (8): Drachen's flagship *Gate
+Unbroken* at the jump point in three days. Colonel Maask met on the way out
+(trip 1), stood down (18). Launch cleared (9); monitor *Ostrava's Vigil* hailed
+(2), accepted Varsaine's seal (13). Ysolde reached Orlov (20).
+
+Decision: no ambush (a warship against a squad); everything to Kesh. XP 8,500:
+level 8, ASI +10 DEX. Tessaly turned in the brig (natural 20): the struck
+Strategium log, "one runner, hold order, not arrived". Bolt rounds: Ottrick 7 TV
+(won't buy Varro's father's pistol). White paint (favour), grey coveralls (2 TV).
+Ottrick's cogitator search (10): nothing. Orlov aboard; Dace forgiven (19).
+Hoyle found Maret and Lio (19; 3): Maret dead two years, Lio alive in the
+Secundus schola. Coil favour called in; jump moved to 0800. Lio retrieved, grave
+visited (no trouble, 15 and 13). Third coat. Jumped for Saint Ivaine's Rest.
