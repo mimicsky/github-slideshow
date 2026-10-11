@@ -161,6 +161,8 @@ TV. **Added warp day 6 (Ostrava haul, stowed by Tamsin ~1500):** Tessaly's plasm
 
 Companions train **one thing a day for +1.0**; it takes their whole day.
 
+**The Light grew (session 7, warp day 1 to the Rest):** Kell's six storm troopers asked to wear the white and Tamsin took them in: **Hollis** (Kell's second, calm, grey crop), **Brenner** (vox, hailer), **Isk** (marksman, long scoped hellgun, prayer token), **Tavi** (demolitions, young, quick), **Morcant** (shotgun, broken nose), **Sallow** (medic, seven years with Kell). The Light is now ten. Painting them needs ~36 L; only ~12 L left.
+
 | | STR | DEX | CON | INT | WIS | CHA | State |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Kell** | 30 | 36 | 30 | 10 | 25 | 10 | **Hurt** (arm in a sling, healing; about a week to swing the chain axe). Held the Lantern during the Ostrava drop; swaps in for Varga next mission |
