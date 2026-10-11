@@ -218,7 +218,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 
 ## Open threads
 
-- **The race to Strahn.** Drachen's aide **Major Tessaly** (ex-Cadian Strategium)
+- **The race to Strahn. RESOLVED, warp day 6: Strahn rescued, Tessaly captured; full log below.** Drachen's aide **Major Tessaly** (ex-Cadian Strategium)
   reached Ostrava Primus with Drachen's household troops a day before warp day 3,
   to take "the colonel's papers, and the colonel". The Lantern is on the rough
   road: arrives around midday on warp day 6; The Light drops straight to Primus. Kesh wants
@@ -242,7 +242,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
   Dace may go first by his own choice, shield up, cover to cover. Kell holds the
   Lantern, trains the ratings, speaks to his troopers for Tamsin.
 - **Tessaly turned (warp day 6, brig, natural 20).** Tamsin told Tessaly, in front of Varro and Corvane, that he was the runner at the gate that night with the order he never delivered. Tessaly broke: he never saw Strahn's evidence himself, only Drachen's word; Drachen's order to 'retire' Strahn made no sense if the evidence proved Varsaine guilty. The Strategium log that night listed **one runner sent from Strahn's command post with a hold order, logged 'not arrived'**; Drachen had that log entry struck the next morning. Tessaly will testify to Kesh. **Varro and Corvane heard Tamsin's confession.**
-- **Drachen** (Lord-General, Cadian remnant fleet, Ustrennos). Excommunicate. Knows
+- **Drachen** (Lord-General, Cadian remnant fleet, Ustrennos). Excommunicate. **Arrives at Ostrava's outer jump point on his flagship *Gate Unbroken* about warp day 9 (Ostrava time) to collect Strahn's evidence; will find his courier gone.** The Lantern is taking everything to Kesh instead. Knows
   "Lantern is here". His story to his own men: Varsaine opened Cadia's gate and
   Kesh covered it up.
 - **The traitor tech-priest's cortex** from session 2 (eight-toothed cog
