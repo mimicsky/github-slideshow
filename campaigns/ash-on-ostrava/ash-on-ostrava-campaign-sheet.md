@@ -185,7 +185,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
   steel, brass guard, grox-hide grip, plasma-poured pommel; woken by Hespa-Vor;
   rings "sound, unbroken, and afraid"; first blood from his own scarred palm.
   **Breaching shield**: scrap plasteel, viewing slot, its boss poured from his
-  old collar. Riveted a shotgun-steel brace inside the shield (warp day 5 to Ostrava). **Practice swords:** three plain, blunt, straight duelling swords (no weighting to match any real weapon), grox-hide grips. Two done warp day 1 to the Rest, the third tomorrow. Plain, nothing special, as Tamsin asked. First bout (warp day 1 to the Rest): Tamsin beat Dace 5-1 in the hold before the whole Light and half the off-watch; Dace's one point caught Tamsin mid-jump. Second bout: Tavi beat Morcant 5-4 (rolled openly, every exchange); Morcant came back from 0-2 and 2-4 to level at 4-4. Warp day 2: **Corvane beat Dace 5-2** (rolled openly): quick, economical fleet cutlass work; Dace's two points came from pressing in close. "Shield and blade.
+  old collar. Riveted a shotgun-steel brace inside the shield (warp day 5 to Ostrava). **Practice swords:** three plain, blunt, straight duelling swords (no weighting to match any real weapon), grox-hide grips. Two done warp day 1 to the Rest, the third tomorrow. Plain, nothing special, as Tamsin asked. First bout (warp day 1 to the Rest): Tamsin beat Dace 5-1 in the hold before the whole Light and half the off-watch; Dace's one point caught Tamsin mid-jump. Second bout: Tavi beat Morcant 5-4 (rolled openly, every exchange); Morcant came back from 0-2 and 2-4 to level at 4-4. "Shield and blade.
   That's me."
 
 ---
