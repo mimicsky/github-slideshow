@@ -161,7 +161,7 @@ TV. **Added warp day 6 (Ostrava haul, stowed by Tamsin ~1500):** Tessaly's plasm
 
 Companions train **one thing a day for +1.0**; it takes their whole day.
 
-**The Light grew (session 7, warp day 1 to the Rest):** Kell's six storm troopers asked to wear the white and Tamsin took them in: **Hollis** (Kell's second, calm, grey crop), **Brenner** (vox, hailer), **Isk** (marksman, long scoped hellgun, prayer token), **Tavi** (demolitions, young, quick), **Morcant** (shotgun, broken nose), **Sallow** (medic, seven years with Kell). The Light is now ten. Painting them needs ~36 L; only ~12 L left.
+**The Light grew (session 7, warp day 1 to the Rest):** Kell's six storm troopers asked to wear the white and Tamsin took them in: **Hollis** (Kell's second, calm, grey crop), **Brenner** (vox, hailer), **Isk** (marksman, long scoped hellgun, prayer token), **Tavi** (demolitions, young, quick), **Morcant** (shotgun, broken nose), **Sallow** (medic, seven years with Kell). The Light is now ten. **New rank: Light-bringers** (Tamsin, at the range): every member of the Light is a Light-bringer, not a storm trooper. Role tags from now on: Kell (Light-bringer sergeant), Varga, Hollis, Brenner, Isk, Tavi, Morcant, Sallow (Light-bringer), Dace (Light-bringer, smith). Tamsin's expectations: care about the fight; know your weapon, make it yours and paint it; train hard; family looks after family; the container belongs to all of them; carry loot for the boss without complaint. Painting them needs ~36 L; only ~12 L left.
 
 | | STR | DEX | CON | INT | WIS | CHA | State |
 | --- | --- | --- | --- | --- | --- | --- | --- |
