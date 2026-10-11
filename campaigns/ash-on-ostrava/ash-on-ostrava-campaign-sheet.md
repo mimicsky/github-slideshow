@@ -123,6 +123,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Warrant of trial | Iron Inquisition I with a bar across it, on a chain, with the container's padlock key |
 | Medal | Cadian service medal, Kasr Holn. Eagle filed off in shame for the undelivered order; Thane's black wax aquila |
 | Acolyte pin; armband | Armband: *OSTRAVA SECUNDUS - CADIAN REMNANT*, white gate on black, left arm |
+| Strahn's hold order (carbon duplicate) | The copy of the order Tamsin never delivered at Kasr Holn, in Strahn's hand, kept in his coat lining for a year. Given to Tamsin on warp day 4 to the Rest: "For the new man." |
 | Venn's vellum note | In Tamsin's locker: *"Velk. Under the Choir-Ice, past the dead chapel. Fourth stair down. It sleeps. The key fits the cradle, not the door. If I don't come back: don't go down alone. And don't take V's word for what's down there. He wasn't there. I was."* |
 | Vox-beads | 4 Navy beads (Gryphonne pattern), **retuned by Hespa-Vor to an encrypted channel called THE LIGHT** (warp day 5 to Ostrava), linked to the Lantern's vox so Kell can listen. Tamsin, **Kell, Varga and Dace** each wear one, 24/7. **Six more** from the Rest haul (session 7) for Hollis, Brenner, Isk, Tavi, Morcant and Sallow, retuned by Hespa-Vor; all ten on THE LIGHT, 24/7 |
 | Purity seal (spare) | Thane's unused sleep seal, held by Varsaine |
