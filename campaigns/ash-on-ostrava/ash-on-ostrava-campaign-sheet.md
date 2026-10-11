@@ -172,7 +172,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 - **Sergeant Kell** (storm trooper sergeant, 41, ex-Tempestus Scion, nine years
   with the Ordos). Tamsin's "brother"; their fist-bump handshake. Hellgun
   **Officer** (named by Tamsin): bracket straightened, Ottrick's tube stock,
-  Dace's fore-grip stamped K. Schola fighting knife. Ordered Tamsin: "Bring them
+  Dace's fore-grip stamped K. Schola fighting knife. **Tessaly's plasma pistol** (given by Tamsin, warp day 1 to the Rest) with its 4-shot cell and a full spare cell; reports to Hespa-Vor's shrine at first watch daily for the 7-day Slow Litany. Ordered Tamsin: "Bring them
   back. All of you." Won the chain axe at rock-paper-scissors.
 - **Varga** (storm trooper). Left-handed, dry, protective. Hellgun **Mercy**
   (last bearer died dragging a man out of crossfire on Hesk; his red cloth is on
