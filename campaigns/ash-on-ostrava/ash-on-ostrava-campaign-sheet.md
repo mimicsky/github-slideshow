@@ -183,7 +183,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
   steel, brass guard, grox-hide grip, plasma-poured pommel; woken by Hespa-Vor;
   rings "sound, unbroken, and afraid"; first blood from his own scarred palm.
   **Breaching shield**: scrap plasteel, viewing slot, its boss poured from his
-  old collar. Riveted a shotgun-steel brace inside the shield (warp day 5 to Ostrava). **After Ostrava: basic practice blades** (blunt steel bar, padded with Navy flak-coat lining, grox-hide stitching) for Threshold, Shameholder and Varga's shovel, a day's work. Plain, nothing special, as Tamsin asked. "Shield and blade.
+  old collar. Riveted a shotgun-steel brace inside the shield (warp day 5 to Ostrava). **Practice swords:** three plain, blunt, straight duelling swords (no weighting to match any real weapon), grox-hide grips. Two done warp day 1 to the Rest, the third tomorrow. Plain, nothing special, as Tamsin asked. "Shield and blade.
   That's me."
 
 ---
