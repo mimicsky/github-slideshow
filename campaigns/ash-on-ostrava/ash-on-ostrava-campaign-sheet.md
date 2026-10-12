@@ -10,8 +10,7 @@ team** (Tamsin, Kell, Corvane, Brenner, Nessa, Isk) landed by Valkyrie in a carg
 bay on Ustrennos Station, ring three. **Landing noticed (7):** dock control logged
 the white Valk and demanded ID; dockhands staring. The Valk went straight back to
 the *Bright Light*. Ship side: when Kole's plans (accuracy 17) land, **Varga plans
-two teams** (who joins the *Widow* run, who returns with Tamsin). Orsk's office and
-quarters: ring three. *Grey Widow* due out at 1000.
+two teams** (who joins the *Widow* run, who returns with Tamsin). Corvane and Brenner took the control booth (operator complied, 15: stopped reporting). Nessa in the crawlway (quiet, 14); it runs the ring's utility spine and gives her a grille over the corridor outside the dockmaster's office (8: doesn't reach inside). Tamsin, Kell and Isk at the office door ~0330: shutter down, **one night-duty clerk awake at the front desk (9)**, light in the quarters behind. *Grey Widow* due out at 1000.
 
 **The road to Ustrennos (warp days 2-5, skipped; rolled openly):**
 - Tamsin's reps: day 2 STR +1.0, DEX +0.5, DEX +0.4; day 3 INT +1.0, STR +0.5, DEX +0.4; day 4 STR +1.0, CON +0.5, STR +0.4; day 5 INT +1.0, STR +0.5, CHA +0.4. **DEX passed 60 (+6).**
