@@ -5,11 +5,19 @@ story lives in `book.md`.
 
 **To resume:** read the end of `book.md`, then this sheet, then the codex.
 
-**Where we stopped:** **Season Two, session 8.** The *Bright Light* left Saint
-Ivaine's Rest for **Ustrennos** (6 days' warp; mission briefed, report approved,
-requisition loaded). Launch clean (12). **Warp entry rough (5):** the Geller
-field flickered on translation; the lower deck lost power for a few seconds;
-Ferro-Ashe held it. Nothing from the warp got in (20). **Cell 1's maglock failed open in the blackout (6)**; Nessa stepped out but didn't run (11): found sitting on the stair, waiting. Tamsin, Kell and Dace went down. Nessa back in the cell; door chained shut for now. **Dace forging a mechanical lock and key for cell 1** (about a day; cell 2 next).
+**Where we stopped:** **Season Two, session 8.** Warp day 5 to Ustrennos, ~0200,
+the *Bright Light*'s lower deck. Road skipped with training (days 2-5). Day 5
+night: **Nessa caught at the wiring behind a pried-off panel in cell 1** (the
+cell intercom line); Dace's lock held. One day left to Ustrennos; day 6 reps
+pre-rolled (WIS, CHA, INT). Rematch with Varga saved for after the mission.
+
+**The road to Ustrennos (warp days 2-5, skipped; rolled openly):**
+- Tamsin's reps: day 2 STR +1.0, DEX +0.5, DEX +0.4; day 3 INT +1.0, STR +0.5, DEX +0.4; day 4 STR +1.0, CON +0.5, STR +0.4; day 5 INT +1.0, STR +0.5, CHA +0.4. **DEX passed 60 (+6).**
+- Events: quiet days 2-4 (9, 8, 7). Geller: day 2 holding (7); **day 3 bad flicker (2)**: lights out ship-wide ten seconds, frost on the lower-deck bulkheads, whispering on the open vox; no breach; Ferro-Ashe reinforced the generator with **1 plasteel ingot** (5 left). Days 4-5 holding (10, 8).
+- Dace finished cell 1's tumbler lock day 2 (keys: Tamsin, Kell), cell 2's day 3.
+- Corvane sparred with the power sword (15): **it suits him; he carries it** (cutlass still wanted as a backup). Ferro-Ashe worked the field (11): **steady now, flickers only under heavy strain** (e.g. against another power weapon). Corvane's Gate Guard plate refitted by Dace, painted grey and white.
+- Nessa (5): talked with Dace most days at the cell bars, but mostly needling; little real progress.
+- The Light trained daily (one thing each); Mira and Teo ran Valkyrie drills in the hangar; Ferro-Ashe woke the reclamator with one flask of sacred oil (1 left).
 
 **Season One close-out (session 8, agreed with the player):**
 1. **Healing.** Two weeks in bed, then light duty. Drachen asked through the brig
@@ -121,7 +129,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Rank | **Interrogator** of Inquisitor Kesh's Ordo (rosette, warp day 20, session 7). Leads the Light, his cell under Varsaine. (Interrogator-designate from session 5.) |
 | Class | Fighter 9, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | **Hurt, mending** (woke day 20 after surgery by Haldis); before that Down, after being **Badly hurt**: las through the flak, left upper arm (dressed, stimm), and a hellgun beam through the carapace at the right collarbone, on the *Gate Unbroken*'s bridge. Arm healed after a full night's sleep. **Sharp edge (shooting): unused** |
-| Stats (levels 1-100) | STR **20.5** (+2), DEX **59.4** (+5), CON **22.9** (+2), INT **6.8** (+0), WIS **12.4** (+1), CHA **5.8** (+0) |
+| Stats (levels 1-100) | STR **23.9** (+2), DEX **60.7** (+6), CON **23.4** (+2), INT **8.8** (+0), WIS **12.4** (+1), CHA **6.2** (+0) (after warp day 5 to Ustrennos) |
 | At the Ustrennos jump point (days 16-17, three a day) | 16: STR +1.0, DEX +0.5, CHA +0.4. 17: CON +1.0, DEX +0.9 |
 | Road to Ustrennos (warp days 10-15, three a day, rolled) | 10: STR +1.0, CON +0.5, WIS +0.4. 11: STR +1.0, WIS +0.5, INT +0.4. 12: DEX +1.0, CHA +0.9. 13: WIS +1.0, CHA +0.5, STR +0.4. 14: INT +1.0, DEX +0.5, STR +0.4. 15: DEX +1.0, WIS +0.5, CON +0.4 |
 | Warp day 9 (the Rest) | DEX +1.0 (late range practice with the Light, 2230-0030) |
