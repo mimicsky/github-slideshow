@@ -426,6 +426,7 @@ Tamsin sent the whole list. Kesh's mood (1): irritated; "an Interrogator, not a 
 - **Ramp down (beat 1):** Hollis's photon flash landed among the rear six (14): **4 blinded**, 2 dazzled but seeing. Front two not flashed: **Brann** backing off, hand at his sidearm (15); the trooper beside him **unslinging his hellgun fast** (20).
 - **Beat 2:** Tamsin called the surrender and shot the fast trooper through the shoulder (19): **hit, hellgun dropped** (4), Hurt. **Brann fought (19):** las-bolt into Tamsin's chest plate, carapace held (Tamsin Fine). Dazzled trooper A got his hellgun half up; **Varga shot him through the thigh (14), down, Hurt.** Dazzled trooper B dropped his gun (5). **The four blinded went flat (11).** Morcant closed on Brann; Brann turned the swing aside (parry, 19 vs 15) and they're locked up. Tavi covering the prone ones; Brenner holding by the ramp.
 - **Beat 3:** Tamsin's shoulder hit (17, unstoppable) blindsided Brann and flattened him; laspistol knocked loose; **Brann dazed, conscious, pinned under Tamsin** (16). Brenner ran for the inner-lock booth: **unlocked (15), he's in**. No alarm yet (15).
+- **Bay Two taken (~1045):** Brann yielded; all 8 Gate Guard bound (2 wounded: shoulder, thigh); their hellguns piled by the ramp. Brenner in the booth, ready to open the bay doors and put Kesh's broadcast on the ring.
 
 ### Mission 1: Sennet's Reach (chosen session 8)
 
