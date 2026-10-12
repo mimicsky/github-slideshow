@@ -9,7 +9,7 @@ story lives in `book.md`.
 Ivaine's Rest for **Ustrennos** (6 days' warp; mission briefed, report approved,
 requisition loaded). Launch clean (12). **Warp entry rough (5):** the Geller
 field flickered on translation; the lower deck lost power for a few seconds;
-Ferro-Ashe held it. Warp day 1 begins. Nessa Vane in cell 1.
+Ferro-Ashe held it. Nothing from the warp got in (20). **Cell 1's maglock failed open in the blackout (6)**; Nessa stepped out but didn't run (11): found sitting on the stair, waiting. Tamsin, Kell and Dace went down.
 
 **Season One close-out (session 8, agreed with the player):**
 1. **Healing.** Two weeks in bed, then light duty. Drachen asked through the brig
