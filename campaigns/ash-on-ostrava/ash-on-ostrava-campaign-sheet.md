@@ -309,8 +309,12 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
   the original layout (bridge, briefing room, cabins, bunk room, galley, armoury,
   medicae, shrine nook, cargo office, hold). **New small lower deck:** **Dace's
   forge**, **2 cells**, and the **new tech-priest's workshop** with a **plasma
-  cell charging station**, plus **las charging stations**. Picture:
-  `maps/bright-light-exterior.svg`.
+  cell charging station**, plus **las charging stations**. Upper deck changes:
+  the old forge spot is now the **sparring mat**, the old short range lane is the
+  **stair down**, the hold holds **both containers** (port) and the **medium
+  range, 3 lanes** (starboard, along the hold), and the old brig is the
+  **drop-pod bay** (side hatches, port, aft). Pictures: `maps/bright-light.png`
+  (both decks side by side) and `maps/bright-light-exterior.png`.
   Crew: the Light (Tamsin, Kell, Varga, Dace, Hollis, Brenner, Isk, Tavi,
   Morcant, Sallow, Corvane), the new tech-priest (not yet met at the table), and
   a few new hires still to fill (at least a pilot, deck hands). No Ottrick,
