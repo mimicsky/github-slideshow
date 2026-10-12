@@ -5,13 +5,11 @@ story lives in `book.md`.
 
 **To resume:** read the end of `book.md`, then this sheet, then the codex.
 
-**Where we stopped:** **Season Two, session 8 continued.** Saint Ivaine's Rest
-(shrine world), the *Bright Light*'s berth, departure morning. The refit is done;
-the ship is about to leave on its first mission for Kesh. New crew aboard (see
-"New crew, Season Two" under NPCs). Kesh brought the Light a second penitent,
-**Nessa Vane**; Tamsin took the detonator and had Dace put her in **cell 1** (lower
-deck). She went quietly (14) but studied every hatch on the way. Kesh (13): her
-target list is loaded on the briefing-room hololith; the Light picks the first.
+**Where we stopped:** **Season Two, session 8.** The *Bright Light* left Saint
+Ivaine's Rest for **Ustrennos** (6 days' warp; mission briefed, report approved,
+requisition loaded). Launch clean (12). **Warp entry rough (5):** the Geller
+field flickered on translation; the lower deck lost power for a few seconds;
+Ferro-Ashe held it. Warp day 1 begins. Nessa Vane in cell 1.
 
 **Season One close-out (session 8, agreed with the player):**
 1. **Healing.** Two weeks in bed, then light duty. Drachen asked through the brig
