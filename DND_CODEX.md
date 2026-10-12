@@ -663,6 +663,7 @@ rests, and leveling.
 | Situation | Ruling | Session |
 | --- | --- | --- |
 | Looting bodies | Loot follows the fiction: enemies carry what they plausibly would. When looting a group, the DM rolls one d20 in the open; on a natural 20, one of them has something rare that doesn't belong. It always has a story, may be damaged or low on ammo, and someone may want it back | Ash on Ostrava, session 2 |
+| Bright white armour (Ash on Ostrava, the Light) | -2 to stealth and hiding in ordinary places (dark, grey, industrial) for anyone in white plate; covering it with a cloak, hood or dirt removes the penalty. +2 in snow, ice or bright white settings. Enemies spot the Light sooner at range, told in the fiction. No blanket penalty to fighting, and no free bonus to talking; any reputation the white earns comes through the story | Ash on Ostrava, session 7 |
 | Genuinely undecided facts | When the DM hasn't decided something in advance (what an unlabelled lever does), it is rolled in the open, not chosen | Ash on Ostrava, session 2 |
 
 ---
