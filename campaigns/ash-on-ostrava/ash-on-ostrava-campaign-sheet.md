@@ -8,8 +8,10 @@ story lives in `book.md`.
 **Where we stopped:** **Season Two, session 8 continued.** Saint Ivaine's Rest
 (shrine world), the *Bright Light*'s berth, departure morning. The refit is done;
 the ship is about to leave on its first mission for Kesh. New crew aboard (see
-"New crew, Season Two" under NPCs). Kesh has just brought the Light a second
-penitent.
+"New crew, Season Two" under NPCs). Kesh brought the Light a second penitent,
+**Nessa Vane**; Tamsin took the detonator and had Dace put her in **cell 1** (lower
+deck). She went quietly (14) but studied every hatch on the way. Kesh (13): her
+target list is loaded on the briefing-room hololith; the Light picks the first.
 
 **Season One close-out (session 8, agreed with the player):**
 1. **Healing.** Two weeks in bed, then light duty. Drachen asked through the brig
