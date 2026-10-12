@@ -1033,7 +1033,7 @@ brought her Tessaly in the room."
 
 "Good. I'll be ready."
 
-## Chapter 10: White
+## Chapter 10: Grey and White
 
 Ottrick wanted the bolt rounds. Eight for the pistol, five for the rounds.
 
@@ -1045,15 +1045,15 @@ and the lad who owned it was alive on Deck 8. He would not rack another
 Cadian's father's pistol. The rounds, though: seven TV, and keep the gun.
 
 "I'll get back to you on what I want to do with them. Also, I need four or five
-buckets of white paint for a little side project."
+buckets of paint for a little side project."
 
-Four tins of white deck paint, for a favour, and Tamsin told him what it was for.
-"I need to paint my team. We're called the Light, so I figure stuff on us should
-be white. A bright white. Our armour, our helmets, maybe our belts. Grey fatigues
-under it."
+Four tins of deck paint, three grey and one white, for a favour, and Tamsin told
+him what it was for. "I need to paint my team. We're called the Light. Grey
+armour, so we don't stand out like targets, with white on the edges, a white
+stripe on the helmet, white belts. Grey fatigues under it."
 
-Ottrick laughed until he nearly lost the tins, and then stopped. "Mind you, the
-Sisters wear white, and nobody laughs at *them*." Prime it, thin it with
+Ottrick grunted. "Grey's sense. White trim so your own lot know you in the dark.
+The Sisters wear white, but they've got power armour." Prime it, thin it with
 promethium spirit, three thin coats, never one thick one. Grey Navy coveralls,
 half a TV each. A storm trooper set for the smith would be salvage money.
 
@@ -1067,7 +1067,8 @@ said, and didn't look at him.
 
 At the container Kell, Dace and Tamsin painted until the fumes made their eyes
 run: three chest plates and Varga's, four visored helmets from the Rest haul,
-four belts, and Dace's shield, white all over except the boss, left bare. "So
+four belts, all grey with white edges and a white stripe on each helmet, and
+Dace's shield, grey with a white rim and the boss left bare. "So
 everyone can see where it came from." Officer stayed black.
 
 Orlov came down his shuttle ramp at two thousand hours, tired and patched at the
@@ -1129,7 +1130,8 @@ marker. "Done," he said. "Let's go home, whelp."
 
 They were back aboard at twenty to seven. Kell met the shuttle and saw the girl
 and couldn't speak. "Kell, let's go." The plate was dry, and with Dace they laid
-on the third coat as Ottrick had said, and at ten to eight four white helmets
+on the third coat as Ottrick had said, and at ten to eight four grey helmets with
+their white stripes
 sat in a row on the tarp like a squad at attention.
 
 "The Light," said Kell. "That'll do."
@@ -1548,7 +1550,7 @@ Unbroken* at the jump point in three days. Colonel Maask met on the way out
 Decision: no ambush (a warship against a squad); everything to Kesh. XP 8,500:
 level 8, ASI +10 DEX. Tessaly turned in the brig (natural 20): the struck
 Strategium log, "one runner, hold order, not arrived". Bolt rounds: Ottrick 7 TV
-(won't buy Varro's father's pistol). White paint (favour), grey coveralls (2 TV).
+(won't buy Varro's father's pistol). Grey and white deck paint (favour), grey coveralls (2 TV).
 Ottrick's cogitator search (10): nothing. Orlov aboard; Dace forgiven (19).
 Hoyle found Maret and Lio (19; 3): Maret dead two years, Lio alive in the
 Secundus schola. Coil favour called in; jump moved to 0800. Lio retrieved, grave
