@@ -1450,10 +1450,45 @@ colonel says the gate is closed now. Tell him he can put it down."
 In the doorway Kell raised his fist, and every Light-bringer behind him, and at the
 very back, after a moment, Corvane. "We are the light."
 
-**Where we stopped:** 0930, warp day 20, the Lantern's medicae at the Ustrennos
-jump point. Interrogator Rook, hurt and mending. Drachen in the brig. Season One's
-close-out is next: healing, the trial, Kesh's judgements, the *Ember*, the
-goodbyes.
+## Chapter 19: The Gate Closed
+
+He lay two weeks in the Lantern's medicae, and then walked the decks on light
+duty with his arm strapped. Through the brig hatch Drachen asked, once, to see
+the runner. Tamsin sent back that he would see him at the trial.
+
+A month after the bridge, Haldis cleared him for the mats, and Varga collected.
+It went close the whole way, throw for throw, and she took it by a hair. She
+did not let him forget it.
+
+They tried Drachen aboard his own flagship, the *Gate Unbroken*, before the
+captains of the Cadian remnant. Tamsin testified. Dace testified, and named
+himself the boy at the door. Tessaly told them about the struck log. Strahn's
+evidence was shown, and the pict-plate with the third man's face. The captains
+found him guilty, and on Kesh's order Lord-General Drachen was executed.
+
+Then Kesh judged the rest. Tessaly she spared for his testimony and kept in her
+own custody. Varro and the household troops went to a penal legion. Corvane she
+let go. He had not been that bad a man, and on the bridge he had gone hand to
+hand to bring Drachen down. Varsaine turned the key, the collar came off, and
+Corvane stood in the Light's grey as one of them.
+
+Kesh's people stripped the *Ember of Tyrok* and read every slate aboard, and then
+Kesh gave her to her new Interrogator. Tamsin named her *The Bright Light*. They
+painted her grey with white stripes and refitted her: a little faster, a side
+compartment for drop pods, two containers in the hold, a proper range. Below the
+old deck they built a small new one for Dace's forge, two cells, las charging
+stations, and the workshop and plasma charging station of the tech-priest who
+would sail with them.
+
+Hespa-Vor woke the field on the Gate Guard officer's power sword, though it
+flickered under strain and wanted a true Mechanicus part. The Void Exchange crate
+came up from Kesh's residence on Saint Ivaine's Rest: the chain axe for Kell, the
+reflex sight for Vigil, a photon flash.
+
+Then the goodbyes. Varsaine, Ottrick and Lio, Hespa-Vor, Haldis, Thane, Strahn:
+they stayed with the Lantern. The Light went where Kesh sent them.
+
+**End of Season One.**
 
 ---
 
@@ -1899,3 +1934,17 @@ hurt); four-shot chain killed the four bodyguards (19, 20, 16, 15). Drachen took
 a hostage (17); Tamsin collapsed; Sallow stabilised (12); Dace made Drachen see
 him; Isk shot the sabre away (19). Drachen captured alive. Woke day 20; Kesh made
 him **Interrogator**. 15,500 XP: level 9. **End of Season One.**
+
+### Session 8
+
+**Close-out, summarised at the table (player's choice).** Healing two weeks.
+Mat match with Varga: close throughout, Varga won by a hair (15 vs 18). Drachen
+tried before the remnant captains (Tamsin, Dace, Tessaly testified) and
+executed. Corvane released, uncollared, a full Light-bringer (fought Drachen on
+the bridge). Tessaly spared in Kesh's custody; Varro and the household to a penal
+legion. The *Ember* granted to Tamsin as *The Bright Light*, grey with white
+stripes, refitted (faster, drop-pod compartment, two containers, medium range,
+small lower deck with Dace's forge, 2 cells, tech-priest's workshop and plasma
+charging station, las charging stations). Power sword field repaired, flickers
+under strain (6). Void Exchange crate collected. Goodbyes on the Lantern.
+**Season One closed.**

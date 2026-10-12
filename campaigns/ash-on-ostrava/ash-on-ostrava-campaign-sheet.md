@@ -5,31 +5,36 @@ story lives in `book.md`.
 
 **To resume:** read the end of `book.md`, then this sheet, then the codex.
 
-**Where we stopped:** end of session 7, **end of Season One's main story**.
-0930, warp day 20, the Lantern's medicae at the Ustrennos jump point. Tamsin is a
-full **Interrogator**, Hurt and mending (two weeks in bed). Drachen is in the
-Lantern's brig. The *Gate Unbroken* has surrendered; sixty-one captains have
-declared for the Ordo. The book ends at the same moment (Part Two, Chapter 18).
+**Where we stopped:** end of session 8. **Season One is closed out** (summarised
+at the table, not played scene by scene). Tamsin is healed, an **Interrogator**
+with his own ship, ***The Bright Light***, and the Light (eleven, Corvane now one
+of them). Season Two begins in `book-season-2.md` at the mission terminal.
 
-**Next, to close Season One (agreed with the player):** (1) two weeks healing,
-and the overdue mat match with Varga; (2) **Drachen's trial** before the remnant
-captains, Tamsin and Dace testify; (3) Kesh judges Corvane, Tessaly, Varro and
-the other prisoners; (4) **Kesh grants Tamsin the *Ember of Tyrok*** once it has
-been stripped and read (he renames it ***The Bright Light***; not the *Gate
-Unbroken*, which is far too big for a new Interrogator); (5) goodbyes on the
-Lantern: Varsaine, Ottrick and Lio, Hespa-Vor, Haldis, Thane, Strahn. They stay
-with the Lantern; Tamsin's cell now works under Kesh on its own missions. Also
-pending: the Void Exchange crate at Kesh's residence on the Rest; the Gate Guard
-carapace sets and power sword (Hespa-Vor could repair the field).
-
-**Session 8 (close-out) begun, 2026-10-12.** Warp day 20, ~0940, medicae, after Kesh left. Off-screen rolls (days 18-20): the Light stood down (11: slept, cleaned kit, wrote home, Kell rotating them on prisoner guard); Drachen (3) has said one thing in two days, through the brig hatch to Kell: he wants to see the runner; Dace (6) is carving a small wooden door, shut, from a crate slat; Varga (12) brings up the mat match.
-
-**Then Season Two** begins in `book-season-2.md`. See "Season Two: how it plays"
-below.
+**Season One close-out (session 8, agreed with the player):**
+1. **Healing.** Two weeks in bed, then light duty. Drachen asked through the brig
+   hatch to see the runner; Tamsin said he would see him at the trial.
+2. **Mat match with Varga** (a month on, once Haldis cleared him). Close the whole
+   way; **Varga won by a hair** (rolled 15 vs 18).
+3. **Drachen's trial** aboard the *Gate Unbroken* before the remnant captains.
+   Tamsin, Dace and Tessaly testified; Strahn's evidence shown. Guilty; executed
+   on Kesh's order.
+4. **Kesh's judgements.** **Corvane released and uncollared:** not that bad a man,
+   and he fought hand to hand to take Drachen down on the bridge. He is now a full
+   member of the Light. **Tessaly** spared for his testimony, held in Kesh's
+   custody. **Varro and the household troops** to a penal legion.
+5. **The ship.** Kesh's people stripped and read the *Ember*; Kesh granted it to
+   Tamsin, renamed ***The Bright Light***. Refitted (details under "The ship").
+6. **Loot.** Hespa-Vor repaired the Gate Guard officer's power sword field; it
+   **flickers under strain** (rolled 6) until a proper Mechanicus part is found.
+   Gate Guard carapace (5 sound sets) to the Light. Void Exchange crate collected
+   from Kesh's residence on Saint Ivaine's Rest: chain axe (Kell), reflex sight
+   (Vigil), photon flash grenade.
+7. **Goodbyes.** Varsaine, Ottrick and Lio, Hespa-Vor, Haldis, Thane and Strahn
+   stay with the Lantern. The Light now works for Kesh on its own missions.
 
 - **Started:** 2026-10-03
-- **Sessions played:** 7
-- **Season 1:** *Seed of Nurgle* (**ended** warp day 20, session 7: Drachen in chains, the evidence delivered, Tamsin made Interrogator)
+- **Sessions played:** 8
+- **Season 1:** *Seed of Nurgle* (**ended** warp day 20, session 7: Drachen in chains, the evidence delivered, Tamsin made Interrogator; **closed out** session 8: trial and execution, judgements, the ship)
 - **System:** D&D 5e chassis reskinned for Warhammer 40,000, narrative mode, all
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
@@ -181,7 +186,7 @@ TV. **Added warp day 6 (Ostrava haul, stowed by Tamsin ~1500):** Tessaly's plasm
 
 Companions train **one thing a day for +1.0**; it takes their whole day.
 
-**The Light grew (session 7, warp day 1 to the Rest):** Kell's six storm troopers asked to wear the Light's colours and Tamsin took them in: **Hollis** (Kell's second, calm, grey crop), **Brenner** (vox, hailer), **Isk** (marksman, long scoped hellgun, prayer token), **Tavi** (demolitions, young, quick), **Morcant** (shotgun, broken nose), **Sallow** (medic, seven years with Kell). The Light is now ten. **New rank: Light-bringers** (Tamsin, at the range): every member of the Light is a Light-bringer, not a storm trooper. Role tags from now on (with class, set by the player): Kell (Light-bringer sergeant, assault), Varga (Light-bringer, rifle), Hollis (Light-bringer, grenadier), Brenner (Light-bringer, vox), Isk (Light-bringer, sniper; he/him, set by the player), Tavi (Light-bringer, demolitions), Morcant (Light-bringer, heavy), Sallow (Light-bringer, medic), Dace (Light-bringer, melee/smith); Corvane (penitent). **Kit roles and wishes (warp day 1 to the Rest):** Kell, close assault: plasma pistol, chain axe (coming), Officer or a combat shotgun by the job, full carapace with a left shield-arm plate, 3 frag/2 krak/1 smoke. Dace, front-line shield and blade: real carapace, an autopistol, 2 smoke, swap his cracked visor; one day a masterpiece plasteel blade. Tavi, demolitions/fast: more breaching charges, kraks, a melta bomb some day, a bigger bag, a lascarbine converted to hot-shot (eats packs). **Morcant gets Kade's heavy stubber** (suppression) and keeps his shotgun by the job; wants stubber belts, a drum mag, a maul or shock maul, frags (standard fuse: he cooks them). Isk, long-range marksman: convert their hellgun for range (longer barrel, finer focusing lens, low-light scope) rather than a new long-las; a heavy laspistol sidearm; grey hooded cloak over white helmet when sniping (Tamsin agreed). Sallow, medic: big bag, proper medicae pack (like Haldis's), stimms, 2+ smoke, a lascarbine (her pick over an autocarbine), laspistol, drag harness. Brenner, vox and entry: better vox-caster, auspex, cogitator-spike, flares, smoke, a lascarbine; dreams of a servo-skull. **Took the Navy cutting torch (half charge) and the *Ember*'s engineer's tool roll** from the container. Hollis, the flexible one: underslung grenade launcher, hand flamer, command bead, chrono and map-slate, full carapace. **Tamsin promised Hollis the second fire team when the Light is big enough.** Tamsin told the Light about Corvane's collar: not a warm welcome, not a cold one; he works his way in or he doesn't. Dace asked them to give Corvane the chance they gave him. Quiet night (rolled 20). Uniform (from the start, retconned by the player in session 7): **grey plate with white trim** (edges, helmet stripe, belt), grey Navy coveralls under it; weapons personal. Six sets done, four wait for paint from the Rest (Ottrick buying grey and white deck paint). No stealth penalty in grey.  care about the fight; know your weapon, make it yours and paint it; train hard; family looks after family; the container belongs to all of them; carry loot for the boss without complaint. Painting them needs ~36 L; only ~12 L left.
+**The Light grew (session 7, warp day 1 to the Rest):** Kell's six storm troopers asked to wear the Light's colours and Tamsin took them in: **Hollis** (Kell's second, calm, grey crop), **Brenner** (vox, hailer), **Isk** (marksman, long scoped hellgun, prayer token), **Tavi** (demolitions, young, quick), **Morcant** (shotgun, broken nose), **Sallow** (medic, seven years with Kell). The Light is now ten. **New rank: Light-bringers** (Tamsin, at the range): every member of the Light is a Light-bringer, not a storm trooper. Role tags from now on (with class, set by the player): Kell (Light-bringer sergeant, assault), Varga (Light-bringer, rifle), Hollis (Light-bringer, grenadier), Brenner (Light-bringer, vox), Isk (Light-bringer, sniper; he/him, set by the player), Tavi (Light-bringer, demolitions), Morcant (Light-bringer, heavy), Sallow (Light-bringer, medic), Dace (Light-bringer, melee/smith); Corvane (penitent; **Light-bringer, point** from session 8). **Kit roles and wishes (warp day 1 to the Rest):** Kell, close assault: plasma pistol, chain axe (coming), Officer or a combat shotgun by the job, full carapace with a left shield-arm plate, 3 frag/2 krak/1 smoke. Dace, front-line shield and blade: real carapace, an autopistol, 2 smoke, swap his cracked visor; one day a masterpiece plasteel blade. Tavi, demolitions/fast: more breaching charges, kraks, a melta bomb some day, a bigger bag, a lascarbine converted to hot-shot (eats packs). **Morcant gets Kade's heavy stubber** (suppression) and keeps his shotgun by the job; wants stubber belts, a drum mag, a maul or shock maul, frags (standard fuse: he cooks them). Isk, long-range marksman: convert their hellgun for range (longer barrel, finer focusing lens, low-light scope) rather than a new long-las; a heavy laspistol sidearm; grey hooded cloak over white helmet when sniping (Tamsin agreed). Sallow, medic: big bag, proper medicae pack (like Haldis's), stimms, 2+ smoke, a lascarbine (her pick over an autocarbine), laspistol, drag harness. Brenner, vox and entry: better vox-caster, auspex, cogitator-spike, flares, smoke, a lascarbine; dreams of a servo-skull. **Took the Navy cutting torch (half charge) and the *Ember*'s engineer's tool roll** from the container. Hollis, the flexible one: underslung grenade launcher, hand flamer, command bead, chrono and map-slate, full carapace. **Tamsin promised Hollis the second fire team when the Light is big enough.** Tamsin told the Light about Corvane's collar: not a warm welcome, not a cold one; he works his way in or he doesn't. Dace asked them to give Corvane the chance they gave him. Quiet night (rolled 20). Uniform (from the start, retconned by the player in session 7): **grey plate with white trim** (edges, helmet stripe, belt), grey Navy coveralls under it; weapons personal. Six sets done, four wait for paint from the Rest (Ottrick buying grey and white deck paint). No stealth penalty in grey.  care about the fight; know your weapon, make it yours and paint it; train hard; family looks after family; the container belongs to all of them; carry loot for the boss without complaint. Painting them needs ~36 L; only ~12 L left.
 
 | | STR | DEX | CON | INT | WIS | CHA | State |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -225,7 +230,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | **Shipmaster Halvard** | Commands the Lantern | In the warp to Saint Ivaine's Rest, 8 days (left 0800 warp day 7 Ostrava time) |
 | **Rennick** | The Lantern's boat pilot, burn-scarred jaw | Flies drops |
 | **Deck ratings** (trained by Tamsin) | **Bosun Grell** (31 years on hulls; lost the drinking bet), **Imre** (ex-Navy augur rating), **Rusk** (Cadian cook from Kasr Gallan, a natural shot), **Marta** (cargo-hauler, steady), **Pell** (16, cheeky), **Tolly** (galley, scared of guns), **Ashby** and **Morrow** (the dreamers) | Marta and Pell kept their lasguns and fought in the Deck 9 breach |
-| **Corvane** (penitent, formerly Lt.) | Steadfast Ninth officer, Cadian (Kasr Tyrok). Disarmed by Dace at the Rest | Lantern brig, cell 3. Heard Tamsin say he was the runner; told him one letter would not have saved Cadia. **Varsaine agreed (session 7, warp day 1 to the Rest):** Corvane may be collared (penitent collar from Varsaine's case of six; Varsaine holds the only keys) and work under Tamsin's supervision from now; his loyalty is Tamsin's responsibility; final say is Kesh's at the Rest, with Varsaine's recommendation in his report. **Collared 0610 warp day 2** by Varsaine in front of Tamsin, Tessaly and Varro; Corvane accepted the terms. Varsaine gave Tamsin the collar's **detonator** (a brass rune-trigger on a chain) but kept the release key. Penitent rite with Thane (grey penitent's cord on his right wrist, off only when Tamsin says; chapel every dawn). Introduced to the Light at the container. **Lucan Corvane**, 26, Kasr Tyrok, ex-boarding officer of the *Steadfast Ninth*: close quarters, laspistol and Navy cutlass, fair with a shotgun. His laspistol is Varga's, his cutlass Ottrick's; he must earn the cutlass back. **Assigned for missions only:** the stub revolver and a combat knife from the container. **Stripped of his rank** (now 'Penitent Corvane', no rank) and **goes in first at every engagement** until he earns his faith and honour back. Sleeps in cell 3 |
+| **Corvane** (Light-bringer, point; formerly Lt., then penitent) | Steadfast Ninth officer, Cadian (Kasr Tyrok). Disarmed by Dace at the Rest | **Session 8: released and uncollared by Kesh; a full Light-bringer.** Before that: Lantern brig, cell 3. Heard Tamsin say he was the runner; told him one letter would not have saved Cadia. **Varsaine agreed (session 7, warp day 1 to the Rest):** Corvane may be collared (penitent collar from Varsaine's case of six; Varsaine holds the only keys) and work under Tamsin's supervision from now; his loyalty is Tamsin's responsibility; final say is Kesh's at the Rest, with Varsaine's recommendation in his report. **Collared 0610 warp day 2** by Varsaine in front of Tamsin, Tessaly and Varro; Corvane accepted the terms. Varsaine gave Tamsin the collar's **detonator** (a brass rune-trigger on a chain) but kept the release key. Penitent rite with Thane (grey penitent's cord on his right wrist, off only when Tamsin says; chapel every dawn). Introduced to the Light at the container. **Lucan Corvane**, 26, Kasr Tyrok, ex-boarding officer of the *Steadfast Ninth*: close quarters, laspistol and Navy cutlass, fair with a shotgun. His laspistol is Varga's, his cutlass Ottrick's; he must earn the cutlass back. **Assigned for missions only:** the stub revolver and a combat knife from the container. **Stripped of his rank** (now 'Penitent Corvane', no rank) and **goes in first at every engagement** until he earns his faith and honour back. Sleeps in cell 3 |
 | **Major Orlov** | Garrison commander, Ostrava Secundus. Fair, tired | Came aboard, briefed; forgave Dace and will burn his death warrant; found Ottrick's family via Hoyle (adjutant); stayed on Secundus. Ostrava's garrison is Kesh's when she wants it. Still lists Tamsin as 'transferred' |
 | **Colonel Strahn** | Loyal officer. Wrote the "hold the gate" order Tamsin never delivered | **Rescued** from the *Ember*, tortured four days (fingers broken, eye swollen). In medicae. Lied to Tessaly; gives the evidence's real location only to Kesh's face. Doesn't know Tamsin was the runner |
 | **Major Tessaly** | Drachen's adjutant, ex-Cadian Strategium. Knocked out by Tamsin on level nine | Brig, cell 1, nose broken. **Turned:** will testify to Kesh about the struck Strategium log and the order to kill Strahn |
@@ -298,10 +303,18 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
   intrigue. Missions in the spirit of Darktide's: not easy, mostly killing
   heretics and taking their stuff.
 - **The ship:** *The Bright Light* (the old *Ember of Tyrok*), ~100 m courier.
+  **Grey hull with white stripes.** Refit (session 8): **a little faster**; a
+  **side compartment for drop pods**; **two containers** in the hold (the Light's
+  container and a second); a **medium-sized shooting range**. **Upper deck** is
+  the original layout (bridge, briefing room, cabins, bunk room, galley, armoury,
+  medicae, shrine nook, cargo office, hold). **New small lower deck:** **Dace's
+  forge**, **2 cells**, and the **new tech-priest's workshop** with a **plasma
+  cell charging station**, plus **las charging stations**. Picture:
+  `maps/bright-light-exterior.svg`.
   Crew: the Light (Tamsin, Kell, Varga, Dace, Hollis, Brenner, Isk, Tavi,
-  Morcant, Sallow, plus Corvane if Kesh releases him) and a few new hires to fill
-  the gaps (at least a pilot, an engineer or tech-priest, deck hands). No
-  Ottrick, Hespa-Vor or Haldis aboard; those roles need new people.
+  Morcant, Sallow, Corvane), the new tech-priest (not yet met at the table), and
+  a few new hires still to fill (at least a pilot, deck hands). No Ottrick,
+  Hespa-Vor or Haldis aboard.
 - **The mission terminal** (codex Part 8): the player describes the mission as if
   briefing the Light; the DM answers with the difficulty and any tweaks, then the
   mission is played.
