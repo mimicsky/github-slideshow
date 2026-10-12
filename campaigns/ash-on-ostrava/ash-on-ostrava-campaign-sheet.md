@@ -5,13 +5,11 @@ story lives in `book.md`.
 
 **To resume:** read the end of `book.md`, then this sheet, then the codex.
 
-**Where we stopped:** **Season Two, session 8.** Warp day 6, ~1600: the *Bright
-Light* dropped out at **Ustrennos**. Rough translation (5): the Geller generator
-coughed, the ship came out ~6 hours' burn wide of the anchorage; Ferro-Ashe wants
-it looked at in dock. Hailed by the picket; civil (14): cleared in, and
-**Commodore Varn's office invites the Interrogator aboard the *Iron Litany***.
-**Docked at the *Iron Litany*, berth twelve (~2200 warp day 6).** Docking rough (5), tube seal slow. Reception cold (4): **Lt. Daran Kole** (Varn's flag lieutenant) and 8 armsmen at the lock; Commodore's orders: weapons stay at the lock. Nessa in chains (cover: a prisoner Tamsin may hand over). Weapons left aboard the *Bright Light*, except **Tamsin's combat knife (Kasr Holn knife), in his boot, unsearched**. **Varn meeting (pressed on the supply, 16):** Varn admitted it: his dockmaster **Master Tull Orsk** signs 'salvage tender' runs out toward the Spindle every few days; Varn suspected for weeks and looked away rather than force a fight that splits the fleet. **Authorization granted** in writing under Varn's seal; Varn's armsmen stay out. Intel: Gate Guard kit plus the Spindle's own armoury (heavy stubbers at least); Orsk's office and quarters on **Ustrennos Station, ring three**; the *Widow* likely carries food, water, scrubbers, power cells, maybe ammo; Kole to pull the Spindle's 12-year-old construction plans tonight. **Loot (Tamsin's ask, 15): agreed, everything in the Spindle is the Light's** (slates still go to Kesh). **Varn's full report to Kesh** (sealed, by morning), including that he knew. Tamsin reassured him (Kesh forgave worse); **Varn is now a friend of the Light** at Ustrennos. Plan floated: take Orsk and the *Widow*'s crew quietly before 1000 and fly the *Widow* in on Orsk's codes. Next run due in **~12 hours** (about 1000 warp day 7), the tender *Grey Widow*. **The Spindle plan (briefed ~2330):** visit Orsk before 1000, take him alive; Brenner records his voice and the handshake/passkey, or Orsk comes along; Teo flies the *Widow*; the Light rides in the cargo as the 'supplies'; when the holdouts open the delivery, the Light comes out. Recording first, Orsk aboard to answer anything else. **Six ride in the crates; their first job is to open the bay doors** so the Valkyrie can bring the rest in (no landing in vacuum without an open bay). **Crate team:** Tamsin, Hollis, Brenner, Morcant, Tavi, Varga. **Valkyrie backup:** Kell, Dace, Corvane, Isk, Sallow, Nessa; Mira flies the Valk, Teo the *Widow*; Ferro-Ashe holds the *Bright Light*. **Shore party to the *Iron Litany*:** Corvane point, Tamsin front-mid, Nessa mid, Kell and Varga back-mid; Tamsin and Corvane go in to Varn; Corvane to speak up if he reads Varn as one of Drachen's. Nessa told the mission and her secret (night of day 5); on recon at Ustrennos
-with a knife and a bead. Rematch with Varga after the mission.
+**Where we stopped:** **Season Two, session 8.** ~0240 warp day 7, the *Bright
+Light* at the *Iron Litany*'s berth twelve. **Plans late (3)**; trouble overnight
+(1): Kole voxed that the night archive clerk watched him pull the Spindle plans,
+then **left his post and hasn't come back**. Orsk may be warned. Plans (accuracy
+rolled 17, good) still coming with Kole. The *Grey Widow* due out at 1000.
 
 **The road to Ustrennos (warp days 2-5, skipped; rolled openly):**
 - Tamsin's reps: day 2 STR +1.0, DEX +0.5, DEX +0.4; day 3 INT +1.0, STR +0.5, DEX +0.4; day 4 STR +1.0, CON +0.5, STR +0.4; day 5 INT +1.0, STR +0.5, CHA +0.4. **DEX passed 60 (+6).**
