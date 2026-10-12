@@ -360,6 +360,12 @@ Rolled openly for confirmed (11+) or rumoured, session 8.
 | **Ostrava Primus underhive** | Dark Mechanicus cell under the reactor district, eight-toothed cog sigil (matches the traitor tech-priest's medallion, session 2); servitors going missing; an Arbites patrol lost | **Confirmed (20):** pict-capture of the cog sigil, a known heretek's name: **Magos Vell-Orrin** | ~6 days |
 | **Sennet's Reach** (mining moon) | Mining colony's beacon silent a year; last astropathic scrap mentions an "open gate" | **Confirmed (17):** survey skiff found the colony gates chained open from the inside, Open Gate cult marks | ~3 days |
 
+### Mission 1: Sennet's Reach (chosen session 8)
+
+- **Briefing (Tamsin):** a sand-dune mining moon gone silent; Open Gate cult confirmed; outposts scattered around the moon; scout first, then raid: take out the heretics, get out.
+- **Terminal:** **Hard.** Tweaks: a year of cult control (the whole colony may have turned); sandstorms can ground the Valkyrie; several outposts, so scouting matters; the gates chained open from inside may be an invitation; Open Gate was Nurgle-touched on Primus, so rebreathers and seals matter. Rumour: the miners dug into something old in the deep shafts before the beacon died.
+- **Reward guide:** mining charges and demo stock, the colony garrison's armoury, plasteel and servitor parts (blessing salvage), cult relics, colony records, maybe a heavy weapon.
+
 ## The hub
 
 **The *Unblinking Lantern*,** Varsaine's warship. Tamsin's quarters (bare: bunk, locker, desk; his weapon/storage rack moved to the container), the armoury (Ottrick), medicae (Haldis), range, archive,
