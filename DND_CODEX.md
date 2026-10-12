@@ -435,6 +435,10 @@ Standing preferences, set during play. They apply to every campaign.
   if the player has ordered training, they mostly train; the wounded rest;
   people follow their own worries. Roll openly when it's genuinely undecided.
   Set by the player, session 5.
+- **Don't roll ordinary dialogue.** NPCs answer from their own character, history
+  and what they know. Rolls are for real turning points, real refusals and
+  genuinely undecided facts, not for how a conversation goes. Set by the player,
+  Ash on Ostrava session 8.
 - **NPCs only know what they could know.** A character knows something only if
   they saw it, were told it, or heard it from someone who could have; if it's
   gossip, the fiction shows who passed it on. No one knows a thing just because

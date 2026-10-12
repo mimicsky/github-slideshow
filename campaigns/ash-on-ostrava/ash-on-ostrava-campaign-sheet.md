@@ -83,6 +83,9 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
   if the player has ordered training, they mostly train; the wounded rest;
   people follow their own worries. Roll openly when it's genuinely undecided.
   Set by the player, session 5.
+- **Don't roll ordinary dialogue.** NPCs answer from their own character and
+  what they know; rolls only for turning points, real refusals, undecided facts.
+  Set by the player, session 8.
 - **NPCs only know what they could know.** A character knows something only if
   they saw it, were told it, or heard it from someone who could have; if it's
   gossip, the fiction shows who passed it on. No one knows a thing just because
