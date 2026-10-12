@@ -428,6 +428,7 @@ Tamsin sent the whole list. Kesh's mood (1): irritated; "an Interrogator, not a 
 - **Beat 3:** Tamsin's shoulder hit (17, unstoppable) blindsided Brann and flattened him; laspistol knocked loose; **Brann dazed, conscious, pinned under Tamsin** (16). Brenner ran for the inner-lock booth: **unlocked (15), he's in**. No alarm yet (15).
 - **Bay Two taken (~1045):** Brann yielded; all 8 Gate Guard bound (2 wounded: shoulder, thigh); their hellguns piled by the ramp. Brenner in the booth, ready to open the bay doors and put Kesh's broadcast on the ring.
 - **Doors open, broadcast out (~1047).** Broadcast weak (8): the ring heard it weeks ago; a few voices on the ring vox wavered. **Holt answered calmly (17)** on the ring vox and ordered the spoke corridor sealed behind a counter-attack. **The Valk came in and a rim gun blister fired (1): hit in the port engine**, smoking; Mira broke off out of the gun's arc; nobody hurt aboard; she can't make the bay under that gun. **Response force (1): ~12 Gate Guard coming down the spoke corridor to the inner lock with a heavy stubber**, on the booth's pict-screen; **open gates chalked on their plate (cult, 1)**, chanting. About two minutes out.
+- **The rim gun:** blister ~60 m spinward along the rim; reached by a **rim service hatch in Bay Two's spinward wall** (17), a crawl-tube to the blister's crew hatch; crew 2-3. The booth can't cut its power (11). The captured hellguns (8) are piled by the *Widow*'s ramp.
 
 ### Mission 1: Sennet's Reach (chosen session 8)
 
