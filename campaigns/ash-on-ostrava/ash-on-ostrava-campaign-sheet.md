@@ -415,6 +415,7 @@ Tamsin sent the whole list. Kesh's mood (1): irritated; "an Interrogator, not a 
 - **Kole's Spindle plans (accuracy 17):** a dock ring in four sections. **Bay Two** (cargo, outer rim) with a store-room off it and the door booth by the inner lock; a **spoke corridor** to the hub; the **hub** holds barracks, galley, armoury, and the **command deck** (Holt's likely post) on top; **Drachen's vault** is a sealed strongroom under the command deck. Bays One and Three sealed in the last revision.
 - **New approach (Tamsin):** no hiding in crates; when Bay Two opens, the *Widow* team comes out shooting, **non-lethal where possible** (as promised to Mira). Corvane spoke out of turn in front of Orsk; Kell will have a word.
 - **Varga's two teams (~0405):** *Widow* team: Tamsin, Varga, Morcant, Hollis, Tavi, Brenner; Teo at the *Widow*'s helm, Orsk on the vox beside him. Valkyrie team: Kell (lead), Dace, Corvane, Isk, Sallow, Nessa; Mira flies. Ferro-Ashe holds the *Bright Light*. Varga's ring-three plan: the Valk lifts Orsk, the clerk and the Valk team back to the ship now; the *Widow* team comes to Bay 3-14 by 0830 to arrest Orsk's five crew at 0900.
+- **Tamsin's call (~0410):** the Valk lifts Kell's team and the wounded clerk (to Sallow) back to the ship; **Orsk stays with Tamsin and Brenner** on ring three for the *Widow*. Tamsin's satchel (Orsk's loot, ledger, handshake slate) to Isk to stow aboard; Isk brings the satchel back to him with the Valk team.
 
 ### Mission 1: Sennet's Reach (chosen session 8)
 
