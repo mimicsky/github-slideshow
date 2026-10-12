@@ -367,6 +367,14 @@ Rolled openly for confirmed (11+) or rumoured, session 8.
 - **Briefed to the Light (session 8):** authorization from the captains first, then clear the holdouts; CQC; scout and move off what's found. **Corvane (16)** knows the place: Drachen's private yard is **the Spindle**, an old orbital dock ring; the Gate Guard garrison there was commanded by **Captain Severin Holt (Gate Guard)**, who stayed with the yard. **Mira (2)** objected: Kesh said heretics, these are Guardsmen. Tamsin answered (anyone still following Drachen now is a traitor; would you follow a traitor lord?): **persuaded (16)**. Mira is in; she asks that any who surrender get the chance. **Tamsin refused:** the proof has been out for weeks; no third chance (rules of engagement: holdouts are traitors). Mira took the order (11), cooler, professional. Corvane (13) said nothing, but caught Tamsin's eye. Then Tamsin relented: **he'll try a non-lethal approach, this time**, because Mira asked. Mira warmed to him a little.
 - **Reward guide:** Drachen's private stores: officer-grade weapons, hot-shot packs, Gate Guard carapace, **fleet medicae stock (antitoxin likely)**, plasteel and parts, maybe a relic piece; records for Kesh.
 
+### First requisition to Kesh (session 8, rolled per item openly)
+
+Tamsin sent the whole list. Kesh's mood (1): irritated; "an Interrogator, not a wish list"; ammunition and common kit are his to earn or buy.
+- **Approved:** antitoxin (20: a full case, blessed by Sister Aldwyn's order, ~20 doses), plague-ward (18: a crate of sealed rebreather filters and ward-salve, enough for the Light), Valkyrie fuel and full multilaser charge (13), plasteel (16: 6 ingots).
+- **Partial:** stimms (6: half a dozen), medicae pack (9: a used one, restocked), vox-beads (10: 2 of 3), photon flash grenades (10: 2), hot-shot packs (6: 4), sacred oils (8: two flasks).
+- **Denied:** breaching charges, auspex, flamer fuel, stubber belts, restraints, kraks, Valkyrie rockets, spare coupling.
+- Delivered to the berth within the hour.
+
 ### Mission 1: Sennet's Reach (chosen session 8)
 
 - **Briefing (Tamsin):** a sand-dune mining moon gone silent; Open Gate cult confirmed; outposts scattered around the moon; scout first, then raid: take out the heretics, get out.
