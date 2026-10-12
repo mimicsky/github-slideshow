@@ -1475,12 +1475,12 @@ Corvane stood in the Light's grey as one of them.
 Kesh's people stripped the *Ember of Tyrok* and read every slate aboard, and then
 Kesh gave her to her new Interrogator. Tamsin named her *The Bright Light*. They
 painted her grey with white stripes and refitted her: a little faster, a side
-compartment for drop pods, two containers in the hold, a proper range. Below the
+hangar, two containers in the hold, a proper range. Below the
 old deck they built a small new one for Dace's forge, two cells, las charging
 stations, and the workshop and plasma charging station of the tech-priest who
 would sail with them. From the *Gate Unbroken*'s hangar, with Kesh's leave, they
-took a Valkyrie, painted it white with a grey belly and grey wings, and clamped it
-to the ship's back.
+took a Valkyrie, painted it white with a grey belly and grey wings, and berthed it
+in the side hangar.
 
 Hespa-Vor woke the field on the Gate Guard officer's power sword, though it
 flickered under strain and wanted a true Mechanicus part. The Void Exchange crate
@@ -1945,8 +1945,8 @@ tried before the remnant captains (Tamsin, Dace, Tessaly testified) and
 executed. Corvane released, uncollared, a full Light-bringer (fought Drachen on
 the bridge). Tessaly spared in Kesh's custody; Varro and the household to a penal
 legion. The *Ember* granted to Tamsin as *The Bright Light*, grey with white
-stripes, refitted (faster, drop-pod compartment, two containers, medium range,
+stripes, refitted (faster, side hangar, two containers, medium range,
 small lower deck with Dace's forge, 2 cells, tech-priest's workshop and plasma
-charging station, las charging stations). Valkyrie from the *Gate Unbroken*, white with grey underside and wings, on a dorsal clamp. Power sword field repaired, flickers
+charging station, las charging stations). Valkyrie from the *Gate Unbroken*, white with grey underside and wings, in the side hangar (no drop pods). Power sword field repaired, flickers
 under strain (6). Void Exchange crate collected. Goodbyes on the Lantern.
 **Season One closed.**

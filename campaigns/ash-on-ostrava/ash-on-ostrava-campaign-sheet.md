@@ -306,7 +306,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
   heretics and taking their stuff.
 - **The ship:** *The Bright Light* (the old *Ember of Tyrok*), ~100 m courier.
   **Grey hull with white stripes.** Refit (session 8): **a little faster**; a
-  **side compartment for drop pods**; **two containers** in the hold (the Light's
+  **side hangar for the Valkyrie** (replaced the planned drop-pod bay); **two containers** in the hold (the Light's
   container and a second); a **medium-sized shooting range**. **Upper deck** is
   the original layout (bridge, briefing room, cabins, bunk room, galley, armoury,
   medicae, shrine nook, cargo office, hold). **New small lower deck:** **Dace's
@@ -314,13 +314,12 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
   cell charging station**, plus **las charging stations**. Upper deck changes:
   the old forge spot is now the **sparring mat**, the old short range lane is the
   **stair down**, the hold holds **both containers** (port) and the **medium
-  range, 3 lanes** (starboard, along the hold), and the old brig is the
-  **drop-pod bay** (side hatches, port, aft). Pictures: `maps/bright-light.png`
+  range, 3 lanes** (starboard, along the hold), and the aft hold plus the
+  old brig is the **Valkyrie hangar** (big side door, port, aft; stores beside it). Pictures: `maps/bright-light.png`
   (both decks side by side) and `maps/bright-light-exterior.png`.
   **The Valkyrie** (session 8): taken from Drachen's *Gate Unbroken* with Kesh's
-  leave, painted **mostly white with a grey underside and grey wings**. Too big
-  for the drop-pod bay (~18 m long, ~17 m span), so it rides a **dorsal docking
-  clamp aft**, with a short boarding tube down into the hold. Needs a pilot (none
+  leave, painted **mostly white with a grey underside and grey wings**. Kept in the
+  **side hangar**, which replaced the drop-pod bay: **no drop pods aboard.** Needs a pilot (none
   hired yet). White on a vehicle: easy to spot against dark ground or sky, good
   in snow (same idea as the white-armour ruling).
   Crew: the Light (Tamsin, Kell, Varga, Dace, Hollis, Brenner, Isk, Tavi,
