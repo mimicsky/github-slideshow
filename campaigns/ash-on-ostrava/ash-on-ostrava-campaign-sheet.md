@@ -139,6 +139,7 @@ TV. **Added warp day 6 (Ostrava haul, stowed by Tamsin ~1500):** Tessaly's plasm
 
 ### Trade and debts
 
+- **Ottrick's slate (the Light's account): 0.75 TV in credit** (warp day 9). Sell container goods by word; his ratings fetch them.
 - **Trade Value (TV):** 1 TV = 1 Navy combat shotgun. Mag Vashti's Void Exchange
   catalogue issued; orders only in real space.
 - **Void Exchange order queued (send at Ostrava):** chain axe (promised to

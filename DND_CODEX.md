@@ -873,6 +873,14 @@ priced in salvage or trade, never coin. Some are canon, some invented for the
 setting. The player may ask the quartermaster to **hold** an item; the
 quartermaster decides in character whether to, and for how long.
 
+**The quartermaster's slate (account).** Set in Ash on Ostrava, session 7. The
+quartermaster keeps a running account for the player in TV. Selling is done by
+word: the player names what in the hub's storage to sell, the quartermaster
+prices it, and his ratings fetch it, so nothing has to be carried by hand.
+The value goes onto the slate, and purchases (his stock or Void Exchange orders)
+come off it. The balance lives in the campaign sheet. Imperial Thrones exist as
+coin in the setting, but the table counts everything in TV.
+
 ### The Void Exchange
 
 A wider, dearer market beside the quartermaster, added at the player's request
