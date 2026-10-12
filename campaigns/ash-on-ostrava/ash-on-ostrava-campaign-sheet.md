@@ -15,12 +15,12 @@ Chapter 10).
 
 - **Started:** 2026-10-03
 - **Sessions played:** 6
-- **Season 1:** *Seed of Nurgle*
+- **Season 1:** *Seed of Nurgle* (**ended** warp day 20, session 7: Drachen in chains, the evidence delivered, Tamsin made Interrogator)
 - **System:** D&D 5e chassis reskinned for Warhammer 40,000, narrative mode, all
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
-- **Character level:** 8 (reached warp day 6, Ostrava mission). ASI spent: +10 DEX levels.
-- **XP:** 34,475. Level 9 at 48,000.
+- **Character level:** 9 (reached warp day 20, the *Gate Unbroken*). Level 8 ASI spent on DEX. Fighter 9: **Indomitable** (reroll a failed save, once per long rest). Proficiency **+4**.
+- **XP:** 49,975. Level 10 at 64,000.
 
 | XP by session | XP |
 | --- | --- |
@@ -30,6 +30,7 @@ Chapter 10).
 | Session 4 (spiral dreams, chapel speech) | 1,800 |
 | Session 5 (Saint Ivaine's Rest: Kesh saved, ambush, page delivered) | 5,750 |
 | Session 6, Ostrava mission (the *Ember* taken, Strahn rescued, Tessaly and 24 others captured alive, no deaths) | 8,500 |
+| Session 7 (the crypt and the evidence; Kesh's judgement; the *Gate Unbroken* boarded, Drachen taken alive, no Light-bringer lost) | 15,500 |
 
 ---
 
@@ -93,14 +94,14 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Field | Value |
 | --- | --- |
 | Rank | **Interrogator** of Inquisitor Kesh's Ordo (rosette, warp day 20, session 7). Leads the Light, his cell under Varsaine. (Interrogator-designate from session 5.) |
-| Class | Fighter 8, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
+| Class | Fighter 9, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | **Hurt, mending** (woke day 20 after surgery by Haldis); before that Down, after being **Badly hurt**: las through the flak, left upper arm (dressed, stimm), and a hellgun beam through the carapace at the right collarbone, on the *Gate Unbroken*'s bridge. Arm healed after a full night's sleep. **Sharp edge (shooting): unused** |
 | Stats (levels 1-100) | STR **20.5** (+2), DEX **59.4** (+5), CON **22.9** (+2), INT **6.8** (+0), WIS **12.4** (+1), CHA **5.8** (+0) |
 | At the Ustrennos jump point (days 16-17, three a day) | 16: STR +1.0, DEX +0.5, CHA +0.4. 17: CON +1.0, DEX +0.9 |
 | Road to Ustrennos (warp days 10-15, three a day, rolled) | 10: STR +1.0, CON +0.5, WIS +0.4. 11: STR +1.0, WIS +0.5, INT +0.4. 12: DEX +1.0, CHA +0.9. 13: WIS +1.0, CHA +0.5, STR +0.4. 14: INT +1.0, DEX +0.5, STR +0.4. 15: DEX +1.0, WIS +0.5, CON +0.4 |
 | Warp day 9 (the Rest) | DEX +1.0 (late range practice with the Light, 2230-0030) |
 | Reps on the road to the Rest (rolled daily) | Day 1 DEX +1.0. Day 2 DEX +1.0, DEX +0.5. Day 3 CHA +1.0, DEX +0.5. Day 4 DEX +1.5. Day 5 CON +1.0, CHA +0.5. Day 6 DEX +1.5. Day 7 CHA +1.0, DEX +0.5. Day 8 INT +1.0, DEX +0.5. Mostly sparring with Dace, Corvane and Isk; CHA from drilling the Light-bringers and talking to the crew |
-| Proficiency | +3. Skills: Perception, Athletics, Survival, Intimidation |
+| Proficiency | **+4** (level 9). Skills: Perception, Athletics, Survival, Intimidation |
 | Want | Find who opened the gate at Kasr Holn. Now: bring down Drachen |
 | Flaw | Doesn't trust officers, and says so |
 
