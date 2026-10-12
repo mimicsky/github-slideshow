@@ -10,7 +10,7 @@ Light* dropped out at **Ustrennos**. Rough translation (5): the Geller generator
 coughed, the ship came out ~6 hours' burn wide of the anchorage; Ferro-Ashe wants
 it looked at in dock. Hailed by the picket; civil (14): cleared in, and
 **Commodore Varn's office invites the Interrogator aboard the *Iron Litany***.
-Nessa told the mission and her secret (night of day 5); on recon at Ustrennos
+**Shore party to the *Iron Litany*:** Corvane point, Tamsin front-mid, Nessa mid, Kell and Varga back-mid; Tamsin and Corvane go in to Varn; Corvane to speak up if he reads Varn as one of Drachen's. Nessa told the mission and her secret (night of day 5); on recon at Ustrennos
 with a knife and a bead. Rematch with Varga after the mission.
 
 **The road to Ustrennos (warp days 2-5, skipped; rolled openly):**
