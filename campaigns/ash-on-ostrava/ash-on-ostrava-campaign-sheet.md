@@ -5,11 +5,13 @@ story lives in `book.md`.
 
 **To resume:** read the end of `book.md`, then this sheet, then the codex.
 
-**Where we stopped:** **Season Two, session 8.** ~0240 warp day 7, the *Bright
-Light* at the *Iron Litany*'s berth twelve. **Plans late (3)**; trouble overnight
-(1): Kole voxed that the night archive clerk watched him pull the Spindle plans,
-then **left his post and hasn't come back**. Orsk may be warned. Plans (accuracy
-rolled 17, good) still coming with Kole. The *Grey Widow* due out at 1000.
+**Where we stopped:** **Season Two, session 8.** ~0315 warp day 7. **Orsk snatch
+team** (Tamsin, Kell, Corvane, Brenner, Nessa, Isk) landed by Valkyrie in a cargo
+bay on Ustrennos Station, ring three. **Landing noticed (7):** dock control logged
+the white Valk and demanded ID; dockhands staring. The Valk went straight back to
+the *Bright Light*. Ship side: when Kole's plans (accuracy 17) land, **Varga plans
+two teams** (who joins the *Widow* run, who returns with Tamsin). Orsk's office and
+quarters: ring three. *Grey Widow* due out at 1000.
 
 **The road to Ustrennos (warp days 2-5, skipped; rolled openly):**
 - Tamsin's reps: day 2 STR +1.0, DEX +0.5, DEX +0.4; day 3 INT +1.0, STR +0.5, DEX +0.4; day 4 STR +1.0, CON +0.5, STR +0.4; day 5 INT +1.0, STR +0.5, CHA +0.4. **DEX passed 60 (+6).**
@@ -413,6 +415,7 @@ Light's container. Crew rallying cry: **"We are the light."**
 - **Ferro-Ashe's heresy (hidden):** cast out of the Mechanicus for letting a cogitator learn on its own. They still have its core in a sealed case in the workshop.
 - **Who feeds the Spindle (hidden, rolled session 8):** **Varn is not the supplier, but knows** (rolled 11): his dockmaster, **Master Tull Orsk**, runs the supply on the side for money; Varn suspects and looks away to avoid a fight with the Gate Guard.
 - **The Spindle (hidden, rolled session 8):** **46 holdouts** under Holt (Varn estimates 30-40). Something darker there (7): some of the holdouts have taken the **Open Gate** mark; Holt may or may not know or lead it (undecided).
+- **The archive clerk (hidden, rolled 15):** not Orsk's man; he left his post to sleep off a drink. Orsk is not warned by him.
 - **The intercom (hidden):** she was trying to tap the ship's internal vox to listen, not send (vox can't leave the warp). She **got nothing (10)**. Tamsin cut the wires.
 - Varsaine's own story is true as far as it goes. Keep him honest but not
   fully forthcoming.
