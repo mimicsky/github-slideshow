@@ -420,6 +420,7 @@ Tamsin sent the whole list. Kesh's mood (1): irritated; "an Interrogator, not a 
 - **Bay 3-14 plan:** hide behind the crates, let the crew walk into the middle, close in with guns up; restrain and leave them in the bay; no flash (Hollis saves it); Orsk kept back, only needed for the approach. **0900: crew on time (11).** Five dockhands, **three visibly armed** (two stub pistols, one pump shotgun). (Hidden: innocent of the scheme, rolled 13.)
 - **The take (18):** all five dropped flat; guns down (2 stub pistols, 1 pump shotgun); no shots fired.
 - Crew bound and left in Bay 3-14; their 2 stub pistols and pump shotgun loaded aboard the *Widow* with the 12 crates (all **to be confiscated after the mission**). Loading done ~0945 with the bay's cargo loader.
+- **Assault plan (Tamsin, ~0950):** dock in Bay Two; when the Gate Guard open up, Hollis's photon flash blinds the ones behind the front; the Light comes out with one chance to surrender; take the front two (knocked out or surrendered); rotate to the inner-lock door/booth and open it; Brenner spreads Kesh's broadcast through the ring; anyone after that who won't surrender is shot. Bay doors opened from the booth for the Valk.
 
 ### Mission 1: Sennet's Reach (chosen session 8)
 
