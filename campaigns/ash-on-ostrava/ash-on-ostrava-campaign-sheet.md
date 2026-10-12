@@ -418,6 +418,7 @@ Tamsin sent the whole list. Kesh's mood (1): irritated; "an Interrogator, not a 
 - **Tamsin's call (~0410):** the Valk lifts Kell's team and the wounded clerk (to Sallow) back to the ship; **Orsk stays with Tamsin and Brenner** on ring three for the *Widow*. Tamsin's satchel (Orsk's loot, ledger, handshake slate) to Isk to stow aboard; Isk brings the satchel back to him with the Valk team.
 - **Brenner has Kesh's full broadcast** (evidence, Strahn's record, the pict) on a data-spike; Tamsin: play it on the Spindle once they go loud. Quiet till 0830 (10). **0830: *Widow* team assembled in Bay 3-14** (Varga, Morcant, Hollis, Tavi, Teo, plus Tamsin, Brenner, Orsk). The *Widow* and 12 staged crates there.
 - **Bay 3-14 plan:** hide behind the crates, let the crew walk into the middle, close in with guns up; restrain and leave them in the bay; no flash (Hollis saves it); Orsk kept back, only needed for the approach. **0900: crew on time (11).** Five dockhands, **three visibly armed** (two stub pistols, one pump shotgun). (Hidden: innocent of the scheme, rolled 13.)
+- **The take (18):** all five dropped flat; guns down (2 stub pistols, 1 pump shotgun); no shots fired.
 
 ### Mission 1: Sennet's Reach (chosen session 8)
 
