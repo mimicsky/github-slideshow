@@ -5,10 +5,11 @@ story lives in `book.md`.
 
 **To resume:** read the end of `book.md`, then this sheet, then the codex.
 
-**Where we stopped:** end of session 8. **Season One is closed out** (summarised
-at the table, not played scene by scene). Tamsin is healed, an **Interrogator**
-with his own ship, ***The Bright Light***, and the Light (eleven, Corvane now one
-of them). Season Two begins in `book-season-2.md` at the mission terminal.
+**Where we stopped:** **Season Two, session 8 continued.** Saint Ivaine's Rest
+(shrine world), the *Bright Light*'s berth, departure morning. The refit is done;
+the ship is about to leave on its first mission for Kesh. New crew aboard (see
+"New crew, Season Two" under NPCs). Kesh has just brought the Light a second
+penitent.
 
 **Season One close-out (session 8, agreed with the player):**
 1. **Healing.** Two weeks in bed, then light duty. Drachen asked through the brig
@@ -242,6 +243,17 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | **Colonel Maask** | Ostrava garrison, officers' tier, level nine. Strahn's friend of twenty years | Wants to give Kesh evidence on Strahn's 'illness'. Knows Drachen arrives in three days |
 | **Sgt Brask**, **Odo Fensk** | Spire security, level four; Dock Six controller | Covered the Dock Six fight as a 'dock brawl'; Fensk's report due end of shift |
 | **Lio Ottrick** | Ottrick's daughter, 11. Thin, sharp, grey-eyed. Carries Maret's tin box | Aboard the Lantern with her father since warp day 7 |
+
+### New crew, Season Two (session 8, rolled openly)
+
+| Name | Who | State |
+| --- | --- | --- |
+| **Mira Dhal** (pilot) | She/her. Navy flight-academy washout (rolled 1): flew well, washed out for striking an instructor | Aboard some days; flight-testing the Valkyrie with Teo |
+| **Teo Brack** (pilot) | He/him. Ex-void racer and smuggler's runner (rolled 6). Fast, cocky | Aboard some days; flight-testing the Valkyrie with Mira |
+| **Ferro-Ashe** (tech-priest) | They/them. Heterodox tech-priest (rolled 6): tinkers with things Mars frowns on; Kesh took them when the Mechanicus would not | Aboard some days; consecrating the plasma cell charging station in the lower-deck workshop |
+| **Nessa Vane** (penitent) | She/her. Smuggler and black-marketeer (rolled 2); Kesh, a smuggler's daughter, took a liking to her. **Hostile and defiant** (rolled 1). **Collared** (rolled 13); Kesh gives Tamsin the detonator | Just handed over at the berth |
+
+The Light, off-screen (rolled 15): drilled daily on the new range and the mat while the refit finished.
 
 ---
 
