@@ -424,6 +424,7 @@ Tamsin sent the whole list. Kesh's mood (1): irritated; "an Interrogator, not a 
 - **1000: *Widow* launched.** Orsk's departure call clean (14). ~40 minutes out to the Spindle; the Valkyrie (Mira, Kell's team) shadowing several thousand metres back, cold. **~1040: the Spindle hails on approach.**
 - **Handshake:** Orsk's voice shook (6) ('You sound like death, Orsk' / 'Bad amasec'); no extra question (10). 'The gate stands.' Bay Two opened; the *Widow* set down; **outer doors closed behind**. Reception: **Sergeant Brann and 7 Gate Guard** in carapace with hellguns, no heavy weapon covering the bay (15). The ramp is about to drop.
 - **Ramp down (beat 1):** Hollis's photon flash landed among the rear six (14): **4 blinded**, 2 dazzled but seeing. Front two not flashed: **Brann** backing off, hand at his sidearm (15); the trooper beside him **unslinging his hellgun fast** (20).
+- **Beat 2:** Tamsin called the surrender and shot the fast trooper through the shoulder (19): **hit, hellgun dropped** (4), Hurt. **Brann fought (19):** las-bolt into Tamsin's chest plate, carapace held (Tamsin Fine). Dazzled trooper A got his hellgun half up; **Varga shot him through the thigh (14), down, Hurt.** Dazzled trooper B dropped his gun (5). **The four blinded went flat (11).** Morcant closed on Brann; Brann turned the swing aside (parry, 19 vs 15) and they're locked up. Tavi covering the prone ones; Brenner holding by the ramp.
 
 ### Mission 1: Sennet's Reach (chosen session 8)
 
