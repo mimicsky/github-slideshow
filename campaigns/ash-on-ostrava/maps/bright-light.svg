@@ -62,22 +62,29 @@
   <rect x="218" y="482" width="34" height="26" fill="#2a2f36" stroke="#9fe0b4" stroke-width="1.5"/>
   <g stroke="#9fe0b4"><line x1="222" y1="488" x2="248" y2="488"/><line x1="222" y1="494" x2="248" y2="494"/><line x1="222" y1="500" x2="248" y2="500"/></g>
   <!-- HOLD: two containers + medium range -->
-  <rect x="168" y="514" width="84" height="170" fill="#1e2125" stroke="#9aa3ad" stroke-width="1.5"/>
-  <rect x="174" y="520" width="30" height="78" fill="#3d4a35" stroke="#a7c08a" stroke-width="1.5"/>
-  <text x="189" y="559" fill="#d8eac0" font-size="5.2" text-anchor="middle" transform="rotate(-90 189 559)">PROPERTY OF THE LIGHT</text>
-  <rect x="174" y="602" width="30" height="78" fill="#3a4148" stroke="#a7b4c0" stroke-width="1.5"/>
-  <text x="189" y="641" fill="#d8e0ea" font-size="6.5" text-anchor="middle" transform="rotate(-90 189 641)">CONTAINER 2</text>
-  <rect x="210" y="518" width="38" height="162" fill="#2a2a2a" stroke="#bbb"/>
-  <g stroke="#e04b3c" stroke-dasharray="3 2"><line x1="219" y1="530" x2="219" y2="672"/><line x1="229" y1="530" x2="229" y2="672"/><line x1="239" y1="530" x2="239" y2="672"/></g>
+  <rect x="168" y="514" width="84" height="126" fill="#1e2125" stroke="#9aa3ad" stroke-width="1.5"/>
+  <rect x="174" y="520" width="30" height="56" fill="#3d4a35" stroke="#a7c08a" stroke-width="1.5"/>
+  <text x="189" y="548" fill="#d8eac0" font-size="4.6" text-anchor="middle" transform="rotate(-90 189 548)">PROPERTY OF THE LIGHT</text>
+  <rect x="174" y="580" width="30" height="56" fill="#3a4148" stroke="#a7b4c0" stroke-width="1.5"/>
+  <text x="189" y="608" fill="#d8e0ea" font-size="6.5" text-anchor="middle" transform="rotate(-90 189 608)">CONTAINER 2</text>
+  <rect x="210" y="518" width="38" height="118" fill="#2a2a2a" stroke="#bbb"/>
+  <g stroke="#e04b3c" stroke-dasharray="3 2"><line x1="219" y1="530" x2="219" y2="628"/><line x1="229" y1="530" x2="229" y2="628"/><line x1="239" y1="530" x2="239" y2="628"/></g>
   <g fill="#e6e6e6"><rect x="215" y="522" width="8" height="4"/><rect x="225" y="522" width="8" height="4"/><rect x="235" y="522" width="8" height="4"/></g>
-  <rect x="212" y="672" width="34" height="5" fill="#6b5a44"/>
-  <!-- drop-pod bay (where the brig was), side hatches on the port hull -->
-  <rect x="160" y="690" width="48" height="34" fill="#1a1d21" stroke="#d9a441" stroke-width="1.5"/>
-  <circle cx="174" cy="707" r="7" fill="#7a8088" stroke="#fff"/><circle cx="194" cy="707" r="7" fill="#7a8088" stroke="#fff"/>
-  <rect x="152" y="694" width="8" height="26" fill="#d9a441" stroke="#fff"/>
+  <rect x="212" y="628" width="34" height="5" fill="#6b5a44"/>
+  <!-- Valkyrie hangar (side compartment, port aft), big side door on the port hull -->
+  <rect x="160" y="644" width="66" height="80" fill="#1a1d21" stroke="#d9a441" stroke-width="1.5"/>
+  <g transform="translate(193 684)">
+    <path d="M-25 -6 L25 -6 L25 0 L-25 2 Z" fill="#9aa1a9" stroke="#fff" stroke-width="0.6"/>
+    <path d="M-4 -30 L4 -30 L5 24 L-5 24 Z" fill="#f4f4f4" stroke="#bbb" stroke-width="0.6"/>
+    <path d="M-3 -30 L3 -30 L0 -36 Z" fill="#f4f4f4"/>
+    <rect x="-2.5" y="-27" width="5" height="5" fill="#1b3b5a"/>
+    <path d="M-12 20 L12 20 L12 24 L-12 24 Z" fill="#9aa1a9"/>
+    <circle cx="-14" cy="-3" r="3" fill="#7a8088"/><circle cx="14" cy="-3" r="3" fill="#7a8088"/>
+  </g>
+  <rect x="152" y="652" width="8" height="64" fill="#d9a441" stroke="#fff"/>
   <!-- maintenance hatch + stores -->
   <rect x="254" y="700" width="10" height="14" fill="#c9a24a" stroke="#fff"/>
-  <rect x="212" y="690" width="40" height="34" fill="#2f2a22" stroke="#b09a7a"/>
+  <rect x="230" y="644" width="22" height="80" fill="#2f2a22" stroke="#b09a7a"/>
   <!-- enginarium -->
   <rect x="172" y="730" width="76" height="76" fill="#3a2e22" stroke="#d9a441" stroke-width="1.5"/>
   <circle cx="210" cy="768" r="20" fill="#2a3a5a" stroke="#7fb0ff"/><circle cx="210" cy="768" r="8" fill="#7fd1ff"/>
@@ -89,14 +96,14 @@
     <line x1="168" y1="259" x2="130" y2="259"/><line x1="168" y1="291" x2="130" y2="291"/>
     <line x1="168" y1="323" x2="130" y2="323"/><line x1="168" y1="415" x2="130" y2="415"/>
     <line x1="168" y1="461" x2="130" y2="461"/><line x1="168" y1="495" x2="130" y2="495"/>
-    <line x1="174" y1="559" x2="130" y2="559"/><line x1="174" y1="641" x2="130" y2="641"/>
-    <line x1="152" y1="707" x2="130" y2="707"/><line x1="172" y1="768" x2="130" y2="768"/>
+    <line x1="174" y1="548" x2="130" y2="548"/><line x1="174" y1="608" x2="130" y2="608"/>
+    <line x1="152" y1="684" x2="130" y2="684"/><line x1="172" y1="768" x2="130" y2="768"/>
     <line x1="244" y1="112" x2="290" y2="105"/><line x1="210" y1="128" x2="290" y2="128"/>
     <line x1="210" y1="152" x2="290" y2="152"/><line x1="252" y1="188" x2="290" y2="188"/>
     <line x1="252" y1="276" x2="290" y2="276"/><line x1="252" y1="364" x2="290" y2="364"/>
     <line x1="252" y1="415" x2="290" y2="415"/><line x1="252" y1="461" x2="290" y2="461"/>
-    <line x1="252" y1="495" x2="290" y2="495"/><line x1="248" y1="600" x2="290" y2="600"/>
-    <line x1="264" y1="707" x2="290" y2="707"/><line x1="252" y1="716" x2="290" y2="724"/>
+    <line x1="252" y1="495" x2="290" y2="495"/><line x1="248" y1="577" x2="290" y2="577"/>
+    <line x1="264" y1="707" x2="290" y2="707"/><line x1="252" y1="716" x2="290" y2="727"/>
   </g>
   <g font-size="9" fill="#e6e6e6">
     <g text-anchor="end">
@@ -110,9 +117,9 @@
       <text x="127" y="412">Armoury</text><text x="127" y="423" fill="#aaa">weapon racks</text>
       <text x="127" y="458">Shrine nook</text><text x="127" y="469" fill="#aaa">(Corvane, dawns)</text>
       <text x="127" y="492">Cargo office</text><text x="127" y="503" fill="#aaa">Munitorum cogitator</text>
-      <text x="127" y="556">THE LIGHT'S</text><text x="127" y="567">CONTAINER</text><text x="127" y="578" fill="#aaa">(LOT 4471-B)</text>
-      <text x="127" y="638">CONTAINER 2</text><text x="127" y="649" fill="#aaa">(new)</text>
-      <text x="127" y="704" fill="#f0c060">DROP-POD BAY</text><text x="127" y="715" fill="#aaa">side hatches, port</text>
+      <text x="127" y="545">THE LIGHT'S</text><text x="127" y="556">CONTAINER</text><text x="127" y="567" fill="#aaa">(LOT 4471-B)</text>
+      <text x="127" y="605">CONTAINER 2</text><text x="127" y="616" fill="#aaa">(new)</text>
+      <text x="127" y="681" fill="#f0c060">VALKYRIE HANGAR</text><text x="127" y="692" fill="#aaa">side door, port</text><text x="127" y="703" fill="#aaa">white, grey wings</text>
       <text x="127" y="765">Enginarium +</text><text x="127" y="776">plasma drive</text><text x="127" y="787" fill="#aaa">(refitted, faster)</text>
     </g>
     <text x="293" y="102">Nav table</text>
@@ -124,7 +131,7 @@
     <text x="293" y="412">Medicae</text><text x="293" y="423" fill="#aaa">2 cots (Sallow)</text>
     <text x="293" y="458">Sparring mat</text><text x="293" y="469" fill="#aaa">(was the forge)</text>
     <text x="293" y="492" fill="#9fe0b4">STAIR DOWN</text><text x="293" y="503" fill="#aaa">to the lower deck</text>
-    <text x="293" y="597">RANGE</text><text x="293" y="608" fill="#aaa">medium, 3 lanes</text><text x="293" y="619" fill="#aaa">along the hold</text>
+    <text x="293" y="574">RANGE</text><text x="293" y="585" fill="#aaa">medium, 3 lanes</text><text x="293" y="596" fill="#aaa">along the hold</text>
     <text x="293" y="704">Maintenance hatch</text>
     <text x="293" y="727">Stores</text>
   </g>
