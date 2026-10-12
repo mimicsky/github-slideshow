@@ -898,6 +898,22 @@ it is **Mag Vashti's Void Exchange**, a Free Trader Ottrick buys from wholesale.
 The quartermaster also takes **favours** as payment: a small favour (an errand,
 a watch, a bet, an extra item from a drop) buys one small item.
 
+### The mission terminal
+
+Set by the player for Ash on Ostrava, Season Two; usable in any 40k campaign. Like
+Darktide's mission board. At the hub (or aboard the player's ship), the player
+describes the next mission as if briefing the squad: target, objective, what they
+expect to find. The DM answers out of character with:
+
+- **Difficulty:** Easy, Standard, Hard, Brutal or Nightmare, judged honestly from
+  the target and the squad's strength. Missions are not meant to be easy.
+- **Tweaks:** anything the DM would change or add to make it fit the setting
+  (a complication, a modifier, a rumour of what's really there).
+- **Reward guide:** the kind of loot and salvage the mission can yield.
+
+Then the mission is played. Harder missions mean tougher enemies and better loot,
+never a moved DC (Part 7).
+
 ### Purity seals
 
 A priest blesses gear and stamps a seal on it. Each seal gives **advantage on

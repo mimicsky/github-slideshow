@@ -1,10 +1,14 @@
 # Ash on Ostrava
 
-Warhammer 40,000 on the 5e chassis. Season 1: *Seed of Nurgle*.
+Warhammer 40,000 on the 5e chassis. Season 1: *Seed of Nurgle* (main story done; close-out next). Season 2: begins after.
 
 | File | What it is |
 | --- | --- |
-| [`book.md`](book.md) | The story, told as a novel |
-| [`ash-on-ostrava-campaign-sheet.md`](ash-on-ostrava-campaign-sheet.md) | Where we stopped, Tamsin, gear, team, NPCs, open threads |
+| [`book.md`](book.md) | Season One, told as a novel |
+| [`book-season-2.md`](book-season-2.md) | Season Two (starts after Season One's close-out) |
+| [`ash-on-ostrava-campaign-sheet.md`](ash-on-ostrava-campaign-sheet.md) | Where we stopped, what's next, Tamsin, gear, the Light, NPCs, open threads, Season Two plan |
+| [`maps/`](maps) | Pictures: Dock Six, Strahn's quarters, the container, the *Gate Unbroken*, its bridge |
 
 Rules: [`../../DND_CODEX.md`](../../DND_CODEX.md).
+
+**To resume in a new chat:** read this README, then the end of `book.md`, then the campaign sheet ("Where we stopped" and "Season Two: how it plays"), then `../../DND_CODEX.md` Parts 6-8. Branch: `claude/ash-ostrava-resume-9wle3a`.

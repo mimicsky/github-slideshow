@@ -5,16 +5,28 @@ story lives in `book.md`.
 
 **To resume:** read the end of `book.md`, then this sheet, then the codex.
 
-**Where we stopped:** end of session 6. 1730, warp day 1 of 8 to Saint
-Ivaine's Rest and Kesh. Tamsin has just woken in his quarters after nine hours'
-sleep, starving (no food since the morning of the Ostrava drop). The *Ember of
-Tyrok* travels with the Lantern, prisoners in her hold; Tessaly, Varro and Kade
-in the brig (Kade in medicae). Plate painted grey with white trim and dry; the Light wears it over grey
-coveralls from tomorrow. The book ends at the same moment (Part Two,
-Chapter 10).
+**Where we stopped:** end of session 7, **end of Season One's main story**.
+0930, warp day 20, the Lantern's medicae at the Ustrennos jump point. Tamsin is a
+full **Interrogator**, Hurt and mending (two weeks in bed). Drachen is in the
+Lantern's brig. The *Gate Unbroken* has surrendered; sixty-one captains have
+declared for the Ordo. The book ends at the same moment (Part Two, Chapter 18).
+
+**Next, to close Season One (agreed with the player):** (1) two weeks healing,
+and the overdue mat match with Varga; (2) **Drachen's trial** before the remnant
+captains, Tamsin and Dace testify; (3) Kesh judges Corvane, Tessaly, Varro and
+the other prisoners; (4) **Kesh grants Tamsin the *Ember of Tyrok*** once it has
+been stripped and read (he renames it ***The Bright Light***; not the *Gate
+Unbroken*, which is far too big for a new Interrogator); (5) goodbyes on the
+Lantern: Varsaine, Ottrick and Lio, Hespa-Vor, Haldis, Thane, Strahn. They stay
+with the Lantern; Tamsin's cell now works under Kesh on its own missions. Also
+pending: the Void Exchange crate at Kesh's residence on the Rest; the Gate Guard
+carapace sets and power sword (Hespa-Vor could repair the field).
+
+**Then Season Two** begins in `book-season-2.md`. See "Season Two: how it plays"
+below.
 
 - **Started:** 2026-10-03
-- **Sessions played:** 6
+- **Sessions played:** 7
 - **Season 1:** *Seed of Nurgle* (**ended** warp day 20, session 7: Drachen in chains, the evidence delivered, Tamsin made Interrogator)
 - **System:** D&D 5e chassis reskinned for Warhammer 40,000, narrative mode, all
   Part 6 house rules
@@ -277,6 +289,25 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 - **Void Exchange order:** rolled on arrival (2): **the courier is late**, about two days behind. **Redirected (warp day 10):** the courier delivers the crate to **Kesh's residence on Saint Ivaine's Rest**, logged under her seal as her household's property, to wait there until the Lantern returns.
 - **Long-term goals:** a fully kitted squad; a ship of Tamsin's own.
 
+## Season Two: how it plays (set by the player, end of session 7)
+
+- **Premise:** Kesh sends Interrogator Rook and the Light to **eradicate heretic
+  presence** from worlds in her sector. More fighting, conquest and loot; less
+  intrigue. Missions in the spirit of Darktide's: not easy, mostly killing
+  heretics and taking their stuff.
+- **The ship:** *The Bright Light* (the old *Ember of Tyrok*), ~100 m courier.
+  Crew: the Light (Tamsin, Kell, Varga, Dace, Hollis, Brenner, Isk, Tavi,
+  Morcant, Sallow, plus Corvane if Kesh releases him) and a few new hires to fill
+  the gaps (at least a pilot, an engineer or tech-priest, deck hands). No
+  Ottrick, Hespa-Vor or Haldis aboard; those roles need new people.
+- **The mission terminal** (codex Part 8): the player describes the mission as if
+  briefing the Light; the DM answers with the difficulty and any tweaks, then the
+  mission is played.
+- **Open hooks:** Velk (Venn's note and key, "the cradle", the second Nurgle
+  seed); the traitor tech-priest's cortex from session 2; Torvane's Mart (trade
+  asteroid, Mag Vashti's warehouses); requisitions in Kesh's name now that Tamsin
+  holds a rosette.
+
 ## The hub
 
 **The *Unblinking Lantern*,** Varsaine's warship. Tamsin's quarters (bare: bunk, locker, desk; his weapon/storage rack moved to the container), the armoury (Ottrick), medicae (Haldis), range, archive,
@@ -290,8 +321,7 @@ Light's container. Crew rallying cry: **"We are the light."**
 - **Tessaly's return (rolled, hidden):** back at Dock Six about **2 hours** after the regroup (~1430), with 8 household troops (Sergeant Kade's squad, a heavy stubber) and his plasma pistol.
 - **Strahn's lie (revealed in play, warp day 6).** Strahn broke last night but lied: he told Tessaly the evidence is under the altar stone of his quarters' chapel, level nine. It isn't there. Tessaly left at dawn with most of his men; finding nothing, he comes back to the *Ember* angry. Strahn gives the real location only to Kesh's face, not in a room with a chair like that.
 
-- **Seasons.** Season 1 is *Seed of Nurgle*. When its climax resolves (Drachen,
-  with Strahn's evidence), tell the player plainly the season has ended.
+- **Seasons.** Season 1, *Seed of Nurgle*: climax resolved session 7 (Drachen in chains with Strahn's evidence); the player was told. Close-out scenes still to play, then Season 2.
 - Varsaine's own story is true as far as it goes. Keep him honest but not
   fully forthcoming.
 - Agreement with Varsaine: a look his way before going off-script.

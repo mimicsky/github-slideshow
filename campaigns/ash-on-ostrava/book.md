@@ -1147,14 +1147,319 @@ helm. We'll show them the light we are."
 
 He slept nine hours in his boots, with Vigil across his back, and did not dream.
 
-**Where we stopped:** 1730, warp day 1 to Saint Ivaine's Rest. Tamsin has just
-woken in his quarters, starving.
+
+
+## Chapter 11: The Witness
+
+Dace came to the mess with his hands clasped so tight the white scar on his palm
+stood out like chalk. He had taken Strahn his supper, he said, the way he once
+took Corvane his. The colonel had asked his name.
+
+"I told him. All of it. The gate-room door. Malcade. I thought he'd spit at me.
+He grabbed my wrist with his broken hand and said, *Then you saw him. The third
+man. The one with the Strategium seal.* And I did, boss. I saw his face. I just
+never knew his name." Strahn's evidence had the name. Dace's eyes had the face.
+
+"Great," Tamsin said. "You'll be able to serve justice that is greatly needed."
+
+"If I stand up in front of Kesh and say I saw him go through that door, I'm also
+saying I held it open for him." Then he lifted his chin. "But I'll do it. I held
+the door for the wrong man once. I'll stand in front of it for the right one.
+Will you be there?"
+
+"I'll be telling her my own stuff, so we'll be in the same boat there and back."
+
+"Same boat. The runner and the boy on the door."
+
+In medicae, Varga lay strapped to a cot losing at cards. "I was *in* cover," she
+said. "Man shot me through the one gap in the frame. You went in there with your
+rifle upside down and smacked a major in the face. Don't talk to me about cover."
+
+"That was a tactical decision," Tamsin said. "Get better, Varga. After all of this
+I want to get my own ship. Maybe the one we captured. The Bright Light. Yeah, I
+think that's what I'd call it."
+
+"Throne help us, you've thought about this. I'd crew it. Long as I get a cabin
+with a door that locks."
+
+"A ship needs more than a name, son," said a cracked voice two cots over. Strahn
+was awake, and he wanted to know which kasr. "Kasr Holn, sir."
+
+The colonel's face went still. His command post had been two hundred metres from
+the gate. He had sent a runner that night, a private with a hold order. "He never
+arrived. I've wondered for a year. Were you there that night, son?"
+
+"A runner... I remember seeing that runner, I think. I knew him, long ago. He did
+some things in his life that he regretted. Had some shame, because he never
+delivered that letter. A shame that he's gone now. A new man."
+
+Strahn looked at him a long time and understood, and did not say so. "Then if you
+ever meet that new man, tell him the order was already too late when I wrote it.
+Tell him no runner ever held a gate alone. And tell him the old colonel is glad
+he lived."
+
+"Aye, sir."
+
+## Chapter 12: Light-bringers
+
+Kell's six were waiting on the range bench when Tamsin came in. "We went through
+that dock with you," said Hollis, "and up to level nine. We'd like to wear the
+colours too. If the Light will have us."
+
+"Six more soldiers I have to care about now? ...You've all been here since I got
+here. We've been through it together. Why not."
+
+He told them what it would cost. "I expect you to care about the fight. Learn your
+weapon, have it know you, make it your own. You're no longer just another cog in
+the machine. You are now... Light-bringers. Family takes care of one another. The
+container is all of ours. And I care about my loot, so don't complain when I ask
+you to carry something for me." They held their weapons across their chests, and
+Hollis said, "Aye, sir. We'll carry your loot."
+
+Then, one by one, he asked them what they were. Kell was close assault and wanted
+a shotgun for the tight rooms. Dace was shield and blade, scared of grenades but
+fine with smoke, and wanted an autopistol and, one day, a masterpiece blade:
+"Threshold's the one that rang afraid. I want to remember that." Tavi wanted
+charges, kraks and a melta bomb; Morcant wanted the heavy stubber and got it; Isk
+wanted range and a grey hood over the colours; Sallow wanted a real medicae pack
+and a lascarbine; Brenner wanted a servo-skull and got the cutting torch; Hollis
+wanted grenades, a hand flamer, and the second fire team when the Light grew big
+enough. "When we get there," Tamsin said, "the second team is yours."
+
+Tessaly's plasma pistol went to Kell, with Hespa-Vor's Slow Litany: seven days,
+an hour each dawn at the shrine, the bearer speaking the last line. Varro's bolt
+rounds went to Ottrick for a plasma cell. Ottrick would not buy Varro's father's
+pistol while its owner lived. In the forge, Dace's practice swords waited, plain
+and blunt, and in the hold Tamsin beat Dace five to one, and Tavi beat Morcant
+five to four.
+
+"I talked to Corvane," Tamsin told Varsaine. "He seemed just like Dace, but a
+little on the other side. A confused boy who didn't know the truth of things." On
+a fifteen, Varsaine agreed: a collar, Tamsin's supervision, Kesh's final word.
+
+## Chapter 13: The Penitent
+
+Varsaine closed the collar round Corvane's neck in the brig at dawn. "Do you
+accept?" "I accept, sir." The red light settled to an ember. "He's yours, Rook."
+
+"Detonator, Varsaine." The brass trigger went into Tamsin's palm, and the
+release key stayed in Varsaine's coat. In the chapel, Thane oiled the aquila onto
+Corvane's brow and wound a grey cord round his wrist. "Every dawn he comes here.
+The rest is your work."
+
+At the container the Light looked at Corvane and Corvane looked at the wall.
+"This is Corvane. He served Lord Drachen, and now he's going to make up for it."
+Dace nodded to him. Morcant said, "You had a gun on us at the Rest." "I did. I was
+wrong. I'll carry that." Tavi offered him recaf, and he looked to Tamsin before he
+took it.
+
+"You'll carry a stub revolver and a knife. If you prove yourself and make it
+through Kesh, we'll see if you're worthy to be here. You'll also be stripped of
+your formal rank. You'll go in first at every engagement. Earn your faith and
+honour back, soldier." Corvane unpinned his pips and held them out on his palm.
+
+Then the mat: Dace against Corvane, round by round, Tamsin calling out from the
+crates. "Play defence first. Your opening move is the biggest one." "Change your
+tactics. This is all a mind game." "Use your sword like a rapier to close the
+distance." Dace led four to three. Corvane won it five to four when Dace's foot
+slipped on the last lunge. "Good fight, Lieutenant." "Not Lieutenant. Not any
+more. But good fight."
+
+Then Isk, who stepped onto the mat because everyone said he couldn't fight up
+close. Tamsin took him four to one and then tore the sword from his hand. "In
+the field I'd go for my sidearm, and you'd already have killed me. I concede."
+
+"Don't worry. I'll be there to protect you if someone gets too close."
+
+"And I'll be up high making sure nobody gets close to you, boss."
+
+## Chapter 14: Saint Ivaine's Rest
+
+Eight days in the warp. Every morning on the mat; Dexterity crept up past fifty.
+Strahn sent for Tamsin on the fourth day and gave him a yellowed carbon copy of
+the hold order he had written at Kasr Holn, kept in his coat lining for a year.
+"For the new man." On the fifth, one of Tessaly's men jumped an armsman in the
+*Ember*'s hold and Corvane, hauling crates nearby, took him down bare-handed.
+Morcant bought him a recaf that night.
+
+The Light met Kesh at the lock in grey plate with white trim. "You've been busy."
+
+"Of course, ma'am. We brought it about ourselves, to show our honour in the
+Emperor's light."
+
+"I was a smuggler's daughter, Rook. I know what it looks like when someone takes
+what they need and asks permission afterwards. Your Light stands. Provisionally."
+
+On the way to medicae she asked him for the one thing that changed everything,
+and he gave it to her: the third man, the witness who saw his face, the struck
+log. And then Mother Oculine said, "He is the runner, Aurelia. It is all over him,
+like smoke."
+
+"Yes, ma'am. I was the runner. I was the one with the hold-the-gate order from
+Strahn." And when she asked why he had never told her: "I was ashamed. I carry
+it right here." He showed her the word on his chainsword. "I never delivered it,
+and I saw the gate get opened, and I saw one man I thought had opened it. I saw
+Varsaine there. I thought what everyone thought. I was wrong. All I could hold
+to myself is that I never delivered that letter. I thought if I fought hard
+enough I could earn my honour back. Now I find out if what I've done has made up
+for it, or if I'm still going to get shot."
+
+Kesh laid two cold fingers on the red letters. "I've shot men for less than an
+undelivered order. But not one of them crossed a burning hive to drag the man who
+wrote that order out of a torturer's chair. The debt is paid. Have your priest
+restore that eagle."
+
+Strahn, from his pillows, told her where the evidence was. "You're standing on it.
+Near enough." A crypt beneath the Saint's statue, under sanctuary seal. "The word
+is *Kasr Holn*."
+
+## Chapter 15: Under the Saint's Feet
+
+Halfway up the processional way, fifty Cadian refugees and a preacher blocked the
+road. "*That's Kesh!*" Tamsin ringed her with the Light and drew Shameholder.
+"Stand down and do not let this escalate!" A stone cracked off Dace's shield.
+
+So he sheathed the chainsword and walked out alone. "You think you know Cadia? You
+don't. I was there at the night of the fall. Kasr Holn. I saw us be betrayed. We
+held that line and then were betrayed by our own. You have all been lied to, my
+fellow Cadians. *Lied to.*" The stones dropped. An old man saluted. A woman from
+Holn's district touched his medal. "Then who?"
+
+"The one who betrayed Cadia was Lord Drachen."
+
+Half of them wept and half of them called him a liar. Kesh's hand closed on his
+shoulder. "That name hasn't been proven in a court yet. Walk. Now."
+
+"Enough fighting. You see, this is what they want from us. If you don't believe
+me, so be it."
+
+At the shrine doors stood an old chaplain with a whole eagle on his medal.
+"Kasr Holn," said Tamsin, and Brother Halloran wept, and took them down to the
+crypt. "You carried his order once and couldn't deliver it," said Kesh. "Open
+it." Inside: Strahn's testimony; the command post's vox-spool, the stand-down order
+sent under the Lord Castellan's seal and Drachen's cipher; and a cracked pict from
+the gate-room servo-skull of a big young officer stepping through the door.
+
+"The third man. It was Drachen himself."
+
+"That's him," Dace whispered. "That's the man who went through my door."
+
+"I knew it. He's dead. Dead."
+
+"Dead, yes, in the end," said Kesh. "But not quietly in a corridor."
+
+At the debrief Kesh told Dace, by his real name, that he would hold a door for the
+Emperor next. Afterwards Tamsin told him: "You're a new man. Halvic was someone who
+gave up on the Imperium. Dace is a man who stands guard for the light of it." He
+kept the name Dace. That night the evidence went out to every captain of the
+Cadian remnant fleet.
+
+## Chapter 16: The Doorstep
+
+Three captains declared before dawn, and the *Iron Litany* reported the *Gate
+Unbroken* running for Ustrennos, eight days out. "He will lock down the place
+with the loyal troops he has," Tamsin said. "We can't waste time. We have to go
+now." On a near miss Kesh agreed, on terms: leave today, wait silent at the jump
+point two days ahead of him, and no boarding until two declared ships stood
+beside them.
+
+At the barracks table he drew the ship in chalk. "Kesh will send out a signal and
+show them the betrayal. If they help, they might lower the shields. If not, three
+ships break it down. Once it's down, we enter here." The aft airlock. "Tavi will
+breach us in, and we fight to here." The bridge tower. "His quarters are here.
+Everyone but him can die."
+
+Corvane would go first, but not to his death: first cover, call everything, push
+when Dace pushed. Morcant would suppress while Tamsin, Dace and Corvane closed.
+At Drachen's door, only Dace would go in with him. "When we reach him," Dace
+said, "I want him to see my face. The boy from the door."
+
+Six days of drills. The stack ran in its sleep.
+
+## Chapter 17: Gate Unbroken
+
+The flagship came out of the warp at two in the morning, four hours before any
+help. Tamsin had the Light kitted in four minutes and was halfway to the boat when
+Kesh stopped him on the vox. "If the shields drop, let us board," he said. "If they
+do, it means we already have people there on our side. Please, Inquisitor."
+"...If the shields drop, and her lances go cold."
+
+At 0215 the evidence went out on every channel. At 0241 the *Gate Unbroken*'s
+shields fell, and her own crew turned her lances cold. Kesh said one word. "Go."
+
+Point-defence fire rocked the boat across. Rennick clamped onto Aft Lock 2.
+"You know the drill. This is it, people. WHAT ARE WE?" *"WE ARE THE LIGHT!"*
+
+"Blow it, Tavi." Corvane went through into a long hall under fire and called it:
+five armsmen, a heavy stubber at the far end. Tamsin pushed up behind Dace's shield
+and put an impact frag into the stubber's nest from forty metres; a beam took him
+through the left arm as he threw. He cut the man at the pillar down with
+Shameholder; Morcant cut down the last. Sallow packed the wound and stimmed him,
+and Brenner put Kesh's voice on every speaker on the deck, and somewhere beyond the
+door someone cheered.
+
+They climbed the tower stair past dead mutineers to a landing where seven of
+Drachen's Gate Guard held a barricade, facing the wrong way. "Go." Three shots
+killed their officer. Tamsin vaulted the barricade with Shameholder; Corvane put a
+round in a guard's hip; and when the last one's bayonet was a finger from Dace's
+throat, Last Word came out of its holster in Tamsin's left hand and finished it.
+"Thanks, boss."
+
+## Chapter 18: The Runner
+
+The bridge doors opened onto four hellguns and a big man on a dais with every
+screen around him showing his younger face at the gate.
+
+"Which one of you carried Strahn's little letter?"
+
+"*ME.*" Tamsin shot the bolt pistol out of Drachen's hand, and a Gate Guard beam
+went through his carapace below the collarbone. The Light's covering fire missed,
+every shot. Badly hurt and tasting blood, he brought Vigil up, half a breath, and
+fired four times. Four guards fell.
+
+Drachen dragged a young rating out of a command pit and laid a power sabre at the
+boy's throat. "One more shot, runner, and this boy's head comes off!"
+
+Tamsin's legs went. "It's over... you damn traitor..."
+
+He heard the rest in pieces: Sallow's hands, "Not on my watch." Dace stepping out
+from his shield into the open: "Look at me. You walked past me at Kasr Holn. I held
+the door. Look at me." Drachen, uncertain: "...The boy. At the door." One crack of
+Isk's rifle, and the sabre hitting the deck. Kell on the vox: "We have him. The
+Lord-General is in chains. Somebody tell the boss."
+
+"He heard you, Sergeant."
+
+He woke two days later in the Lantern's medicae with Varga asleep in a chair
+beside him and Dace carving something on the floor. "I... did we do it?" "We did
+it, boss. Nobody else died. You were the only one who went down." "Four shots...
+four men. Looks like I can still shoot." "You stupid, stupid man," said Varga.
+"*Leaning out.*"
+
+Kesh came with Varsaine, and Strahn on a crutch, and the whole Light in the
+doorway. "Sixty-one of his captains have declared for the Ordo." She pinned an
+iron I with no bar across it to the blanket over his chest. "Interrogator Rook."
+
+"Thank you... ma'am."
+
+"Heal. And next time, let the shield do its job."
+
+Strahn leaned on his crutch at the foot of the cot. "Tell the new man the old
+colonel says the gate is closed now. Tell him he can put it down."
+
+In the doorway Kell raised his fist, and every Light-bringer behind him, and at the
+very back, after a moment, Corvane. "We are the light."
+
+**Where we stopped:** 0930, warp day 20, the Lantern's medicae at the Ustrennos
+jump point. Interrogator Rook, hurt and mending. Drachen in the brig. Season One's
+close-out is next: healing, the trial, Kesh's judgements, the *Ember*, the
+goodbyes.
 
 ---
 
 # Appendix: Session notes
 
-*The detailed table notes from sessions 1 to 6, kept in full so nothing is
+*The detailed table notes from sessions 1 to 7, kept in full so nothing is
 lost. Rolls and small moments are recorded here; the chapters above tell the
 story.*
 
@@ -1555,3 +1860,42 @@ Ottrick's cogitator search (10): nothing. Orlov aboard; Dace forgiven (19).
 Hoyle found Maret and Lio (19; 3): Maret dead two years, Lio alive in the
 Secundus schola. Coil favour called in; jump moved to 0800. Lio retrieved, grave
 visited (no trouble, 15 and 13). Third coat. Jumped for Saint Ivaine's Rest.
+
+### Session 7
+
+**Warp days 1-9 (the Lantern to Saint Ivaine's Rest).** Dace told Strahn he held
+the door; Strahn: Dace saw the third man. Strahn read Tamsin as the runner (13)
+and absolved "the new man". Kell's six joined; the Light became ten
+Light-bringers, with class tags and kit roles. Tessaly's plasma pistol to Kell
+(Slow Litany, 7 days). Bolt rounds for a plasma cell; Ottrick's slate account
+begun. Practice swords; Tamsin beat Dace 5-1; Tavi beat Morcant 5-4. Corvane
+collared (Varsaine agreed, 15), chapel rite, introduced; Corvane beat Dace 5-4
+(coached round by round); Tamsin beat Isk by disarm. The Light's colours
+retconned to grey plate with white trim. Road to the Rest skipped with daily
+training (DEX to 54.5): Strahn gave Tamsin the hold order's carbon (day 4);
+Corvane stopped an escape (day 5).
+
+**Warp day 9, the Rest.** Kesh let the Light stand (18). Tamsin confessed he was
+the runner (natural 20): debt paid, eagle restored, witness under her protection.
+The evidence: in the crypt under the Saint's statue (chaplain Halloran, word
+*Kasr Holn*). Refugee crowd: chainsword threat near miss (10), alone and
+unarmed 13 and 19; Tamsin named Drachen publicly (crowd split, 4). Casket opened:
+**the third man was Drachen himself** (rolled 8). Broadcast sent to the fleet.
+Big trade with Ottrick (autopistol to Dace, hand flamer to Hollis, belts to
+Morcant, cloak to Isk).
+
+**Warp days 10-20.** Three captains declared; the *Gate Unbroken* ran for
+Ustrennos. Tamsin argued to go at once (15, near miss): leave today, ambush at
+the jump point, no boarding until two declared ships arrive. Training on the road
+(STR 20.5, DEX 59.4). Flagship dropped out at 0200 day 18, early. Kesh: board if
+the shields drop. Broadcast caused mutiny (16); shields down at 0241. Boat across
+(12, near misses). Breach (19); aft lock hall: impact frag on the heavy stubber
+(19); Tamsin hit in the left arm (15, Hurt). Bridge landing: 7 Gate Guard
+unaware (20); 3 shots killed the officer (16, 20, 11); barricade vault (12);
+Last Word quick-draw saved Dace (15). Loot: officer's power sword (field
+cracked), 12 hot-shot packs, 4 frags, 7 Gate Guard carapace sets. Bridge: shot
+Drachen's bolt pistol out of his hand (17); hit through the carapace (18, Badly
+hurt); four-shot chain killed the four bodyguards (19, 20, 16, 15). Drachen took
+a hostage (17); Tamsin collapsed; Sallow stabilised (12); Dace made Drachen see
+him; Isk shot the sabre away (19). Drachen captured alive. Woke day 20; Kesh made
+him **Interrogator**. 15,500 XP: level 9. **End of Season One.**
