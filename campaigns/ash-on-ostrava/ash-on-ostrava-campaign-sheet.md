@@ -413,6 +413,7 @@ Light's container. Crew rallying cry: **"We are the light."**
 
 - **Seasons.** Season 1, *Seed of Nurgle*: climax resolved session 7 (Drachen in chains with Strahn's evidence); the player was told. Close-out scenes still to play, then Season 2.
 - **Ferro-Ashe's heresy (hidden):** cast out of the Mechanicus for letting a cogitator learn on its own. They still have its core in a sealed case in the workshop.
+- **Who feeds the Spindle (hidden, rolled session 8):** **Varn is not the supplier, but knows** (rolled 11): his dockmaster, **Master Tull Orsk**, runs the supply on the side for money; Varn suspects and looks away to avoid a fight with the Gate Guard.
 - **The intercom (hidden):** she was trying to tap the ship's internal vox to listen, not send (vox can't leave the warp). She **got nothing (10)**. Tamsin cut the wires.
 - Varsaine's own story is true as far as it goes. Keep him honest but not
   fully forthcoming.
