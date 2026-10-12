@@ -442,6 +442,7 @@ Tamsin sent the whole list. Kesh's mood (1): irritated; "an Interrogator, not a 
   - *Rim blister crew (3), loot 1:* 2 laspistols, a vox-bead, ration tins; the firing coupling (Brenner).
   - *Store-room off Bay Two, 7:* Orsk's past deliveries (rations mostly eaten, water drums, ~20 station power cells, scrubber cartridges, a half-used medicae crate), plus 3 crates of Drachen's goods not yet moved to the vault: officers' dress uniforms, 2 cases of spire wine, a case of 6 hot-shot packs.
   - Plus the *Widow*'s 12 crates and the dock crew's 3 guns (confiscated).
+- **Valk damage (14, moderate):** port engine intake holed, fuel feed line burnt through. Field repair by Ferro-Ashe, **3-4 hours**, using plasteel from the *Bright Light* (1 ingot) for the patch and feed line. Ferro must come to the Spindle (the *Widow* can fetch him, ~40 min each way) or the *Bright Light* can come and dock now the rim gun is dead.
 - **Holt (hidden, 13):** pulled his ~23 back to the hub; barricading the command deck and the vault; waiting for the Light to come up the spoke.
 
 ### Mission 1: Sennet's Reach (chosen session 8)
