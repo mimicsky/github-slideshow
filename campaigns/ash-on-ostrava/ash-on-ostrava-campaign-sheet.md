@@ -360,6 +360,12 @@ Rolled openly for confirmed (11+) or rumoured, session 8.
 | **Ostrava Primus underhive** | Dark Mechanicus cell under the reactor district, eight-toothed cog sigil (matches the traitor tech-priest's medallion, session 2); servitors going missing; an Arbites patrol lost | **Confirmed (20):** pict-capture of the cog sigil, a known heretek's name: **Magos Vell-Orrin** | ~6 days |
 | **Sennet's Reach** (mining moon) | Mining colony's beacon silent a year; last astropathic scrap mentions an "open gate" | **Confirmed (17):** survey skiff found the colony gates chained open from the inside, Open Gate cult marks | ~3 days |
 
+### Mission briefed: Ustrennos (session 8)
+
+- **Briefing (Tamsin):** Drachen's old anchorage and supply base; he was well off, so his goods may be there; fight what's left of his people; rumours only, so scouting and questioning first; maybe a last person in charge, one of Drachen's loyal Gate Guard.
+- **Terminal:** **Hard.** Tweaks: the remnant captains who declared for the Ordo now hold Ustrennos officially, and some will claim Drachen's stores as fleet property (politics before shooting); the holdouts are Gate Guard (carapace, hellguns, drilled), dug into the old orbital docks; their leader is a Gate Guard captain who wasn't aboard the *Gate Unbroken* (player's idea, taken); rumour: "the gate opened again" may mean more than loyalists. Kesh will want any slates and records.
+- **Reward guide:** Drachen's private stores: officer-grade weapons, hot-shot packs, Gate Guard carapace, **fleet medicae stock (antitoxin likely)**, plasteel and parts, maybe a relic piece; records for Kesh.
+
 ### Mission 1: Sennet's Reach (chosen session 8)
 
 - **Briefing (Tamsin):** a sand-dune mining moon gone silent; Open Gate cult confirmed; outposts scattered around the moon; scout first, then raid: take out the heretics, get out.
