@@ -22,6 +22,8 @@ with the Lantern; Tamsin's cell now works under Kesh on its own missions. Also
 pending: the Void Exchange crate at Kesh's residence on the Rest; the Gate Guard
 carapace sets and power sword (Hespa-Vor could repair the field).
 
+**Session 8 (close-out) begun, 2026-10-12.** Warp day 20, ~0940, medicae, after Kesh left. Off-screen rolls (days 18-20): the Light stood down (11: slept, cleaned kit, wrote home, Kell rotating them on prisoner guard); Drachen (3) has said one thing in two days, through the brig hatch to Kell: he wants to see the runner; Dace (6) is carving a small wooden door, shut, from a crate slat; Varga (12) brings up the mat match.
+
 **Then Season Two** begins in `book-season-2.md`. See "Season Two: how it plays"
 below.
 
