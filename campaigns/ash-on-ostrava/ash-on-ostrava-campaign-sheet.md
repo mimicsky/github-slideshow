@@ -24,6 +24,8 @@ of them). Season Two begins in `book-season-2.md` at the mission terminal.
    custody. **Varro and the household troops** to a penal legion.
 5. **The ship.** Kesh's people stripped and read the *Ember*; Kesh granted it to
    Tamsin, renamed ***The Bright Light***. Refitted (details under "The ship").
+   The Light also took a **Valkyrie** from the *Gate Unbroken*'s hangar, painted
+   mostly white with a grey underside and grey wings.
 6. **Loot.** Hespa-Vor repaired the Gate Guard officer's power sword field; it
    **flickers under strain** (rolled 6) until a proper Mechanicus part is found.
    Gate Guard carapace (5 sound sets) to the Light. Void Exchange crate collected
@@ -315,6 +317,12 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
   range, 3 lanes** (starboard, along the hold), and the old brig is the
   **drop-pod bay** (side hatches, port, aft). Pictures: `maps/bright-light.png`
   (both decks side by side) and `maps/bright-light-exterior.png`.
+  **The Valkyrie** (session 8): taken from Drachen's *Gate Unbroken* with Kesh's
+  leave, painted **mostly white with a grey underside and grey wings**. Too big
+  for the drop-pod bay (~18 m long, ~17 m span), so it rides a **dorsal docking
+  clamp aft**, with a short boarding tube down into the hold. Needs a pilot (none
+  hired yet). White on a vehicle: easy to spot against dark ground or sky, good
+  in snow (same idea as the white-armour ruling).
   Crew: the Light (Tamsin, Kell, Varga, Dace, Hollis, Brenner, Isk, Tavi,
   Morcant, Sallow, Corvane), the new tech-priest (not yet met at the table), and
   a few new hires still to fill (at least a pilot, deck hands). No Ottrick,
