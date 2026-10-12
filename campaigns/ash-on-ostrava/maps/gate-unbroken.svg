@@ -8,7 +8,7 @@
   <rect width="400" height="820" fill="#07090c"/>
   <g fill="#fff" opacity="0.6"><circle cx="30" cy="40" r="1"/><circle cx="360" cy="90" r="1"/><circle cx="60" cy="300" r="0.8"/><circle cx="350" cy="420" r="1"/><circle cx="25" cy="600" r="0.8"/><circle cx="370" cy="700" r="1"/><circle cx="330" cy="250" r="0.6"/></g>
   <text x="200" y="22" fill="#e6e6e6" font-size="14" font-weight="bold" text-anchor="middle">GATE UNBROKEN</text>
-  <text x="200" y="37" fill="#999" font-size="9.5" text-anchor="middle">Lance cruiser, ~5 km, ~2,000 crew. Top-down, prow up. Standard-pattern layout</text>
+  <text x="200" y="37" fill="#999" font-size="9.5" text-anchor="middle">Lance cruiser, ~5 km, ~2,000 crew. Top-down, prow up</text>
   <!-- engine plumes -->
   <ellipse cx="170" cy="770" rx="16" ry="40" fill="url(#eng)"/><ellipse cx="200" cy="775" rx="18" ry="45" fill="url(#eng)"/><ellipse cx="230" cy="770" rx="16" ry="40" fill="url(#eng)"/>
   <!-- hull -->
@@ -41,41 +41,48 @@
   <g fill="#3fbf6a" stroke="#fff"><rect x="150" y="300" width="8" height="8"/><rect x="242" y="300" width="8" height="8"/><rect x="143" y="660" width="8" height="8"/><rect x="249" y="660" width="8" height="8"/></g>
   <!-- enginarium -->
   <rect x="150" y="680" width="100" height="45" fill="#3a2e22" stroke="#d9a441"/>
-  <!-- callouts -->
-  <g font-size="10" font-weight="bold" text-anchor="middle" fill="#fff">
-    <circle cx="200" cy="80" r="8" fill="#000" stroke="#fff"/><text x="200" y="84">1</text>
-    <circle cx="225" cy="118" r="8" fill="#000" stroke="#fff"/><text x="225" y="122">2</text>
-    <circle cx="222" cy="260" r="8" fill="#000" stroke="#fff"/><text x="222" y="264">3</text>
-    <circle cx="275" cy="400" r="8" fill="#000" stroke="#fff"/><text x="275" y="404">4</text>
-    <circle cx="200" cy="470" r="8" fill="#000" stroke="#fff"/><text x="200" y="474">5</text>
-    <circle cx="200" cy="530" r="8" fill="#000" stroke="#fff"/><text x="200" y="534">6</text>
-    <circle cx="200" cy="560" r="8" fill="#000" stroke="#fff"/><text x="200" y="564">7</text>
-    <circle cx="233" cy="623" r="8" fill="#000" stroke="#fff"/><text x="233" y="627">8</text>
-    <circle cx="270" cy="304" r="8" fill="#000" stroke="#fff"/><text x="270" y="308">9</text>
-    <circle cx="200" cy="702" r="8" fill="#000" stroke="#fff"/><text x="200" y="706">10</text>
+  <!-- labels -->
+  <g stroke="#bbb" stroke-width="0.8">
+    <line x1="192" y1="75" x2="120" y2="75"/>
+    <line x1="215" y1="118" x2="290" y2="118"/>
+    <line x1="211" y1="230" x2="290" y2="230"/>
+    <line x1="211" y1="290" x2="290" y2="290"/>
+    <line x1="150" y1="304" x2="120" y2="304"/>
+    <line x1="138" y1="400" x2="120" y2="400"/>
+    <line x1="262" y1="400" x2="290" y2="400"/>
+    <line x1="159" y1="470" x2="120" y2="470"/>
+    <line x1="172" y1="530" x2="120" y2="530"/>
+    <line x1="228" y1="530" x2="290" y2="530"/>
+    <line x1="224" y1="589" x2="290" y2="589"/>
+    <line x1="220" y1="623" x2="290" y2="623"/>
+    <line x1="143" y1="664" x2="120" y2="664"/>
+    <line x1="150" y1="702" x2="120" y2="702"/>
   </g>
-  <!-- legend -->
-  <g font-size="9.5" fill="#ddd">
-    <text x="8" y="70">1 Armoured prow + ram</text>
-    <text x="8" y="84">2 Torpedo tubes</text>
-    <text x="8" y="98">3 Dorsal lance turrets</text>
-    <text x="8" y="112">4 Broadside gun decks</text>
-    <text x="8" y="126">   (port + starboard)</text>
-    <text x="8" y="140">5 Void shield generators</text>
-    <text x="8" y="154">6 Hangar / launch bays</text>
-    <text x="8" y="168">7 Bridge tower</text>
-    <text x="8" y="182">8 Lord-General's quarters</text>
-    <text x="8" y="196">   (est., below bridge)</text>
-    <text x="8" y="210">9 Boarding airlocks (green)</text>
-    <text x="8" y="224">10 Enginarium + plasma drive</text>
-  </g>
-  <g font-size="9" fill="#9fe0b4">
-    <text x="272" y="560">Ways in:</text>
-    <text x="272" y="573">- hangar bays (open</text>
-    <text x="272" y="584">  for shuttles)</text>
-    <text x="272" y="597">- 4 hull airlocks</text>
-    <text x="272" y="610">- breach charge on</text>
-    <text x="272" y="621">  a weak plate</text>
+  <g font-size="9.5" fill="#e6e6e6">
+    <g text-anchor="end">
+      <text x="117" y="78">Armoured prow + ram</text>
+      <text x="117" y="300">Fore airlock</text>
+      <text x="117" y="312" fill="#9fe0b4">(way in)</text>
+      <text x="117" y="397">Broadside guns</text>
+      <text x="117" y="408">(port)</text>
+      <text x="117" y="473">Void shield generator</text>
+      <text x="117" y="527">Hangar bay (port)</text>
+      <text x="117" y="539" fill="#9fe0b4">(way in)</text>
+      <text x="117" y="660">Aft airlock</text>
+      <text x="117" y="672" fill="#9fe0b4">(way in)</text>
+      <text x="117" y="699">Enginarium +</text>
+      <text x="117" y="711">plasma drive</text>
+    </g>
+    <text x="293" y="121">Torpedo tubes</text>
+    <text x="293" y="233">Lance turret</text>
+    <text x="293" y="293">Lance turret</text>
+    <text x="293" y="397">Broadside guns</text>
+    <text x="293" y="408">(starboard)</text>
+    <text x="293" y="527">Hangar bay (stbd)</text>
+    <text x="293" y="539" fill="#9fe0b4">(way in)</text>
+    <text x="293" y="592">Bridge tower</text>
+    <text x="293" y="620">Lord-General's</text>
+    <text x="293" y="631">quarters (est.)</text>
   </g>
   <text x="200" y="812" fill="#666" font-size="9" text-anchor="middle">Interior details from Halvard and Toll's knowledge of the class. Not to scale.</text>
 </svg>
