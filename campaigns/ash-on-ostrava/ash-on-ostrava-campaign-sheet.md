@@ -348,6 +348,18 @@ The Light, off-screen (rolled 15): drilled daily on the new range and the mat wh
   asteroid, Mag Vashti's warehouses); requisitions in Kesh's name now that Tamsin
   holds a rosette.
 
+## Kesh's target list (Season Two, on the *Bright Light*'s hololith)
+
+Rolled openly for confirmed (11+) or rumoured, session 8.
+
+| Target | What Kesh has | Status | Warp from the Rest |
+| --- | --- | --- | --- |
+| **Gallowmere** (agri world) | Grain barges coming in rotten; crews sick; a sign like three circles scratched in a hold | Rumoured (8) | ~4 days |
+| **Ustrennos** (Drachen's old anchorage) | Hardline Drachen loyalists gone to ground in the orbital docks; talk of "the gate" being opened again | Rumoured (2) | ~6 days |
+| **Torvane's Mart** (trade asteroid) | Chaos-marked weapons moving through the Mart's warehouses | Rumoured (6) | ~5 days |
+| **Ostrava Primus underhive** | Dark Mechanicus cell under the reactor district, eight-toothed cog sigil (matches the traitor tech-priest's medallion, session 2); servitors going missing; an Arbites patrol lost | **Confirmed (20):** pict-capture of the cog sigil, a known heretek's name: **Magos Vell-Orrin** | ~6 days |
+| **Sennet's Reach** (mining moon) | Mining colony's beacon silent a year; last astropathic scrap mentions an "open gate" | **Confirmed (17):** survey skiff found the colony gates chained open from the inside, Open Gate cult marks | ~3 days |
+
 ## The hub
 
 **The *Unblinking Lantern*,** Varsaine's warship. Tamsin's quarters (bare: bunk, locker, desk; his weapon/storage rack moved to the container), the armoury (Ottrick), medicae (Haldis), range, archive,
