@@ -911,6 +911,11 @@ expect to find. The DM answers out of character with:
   (a complication, a modifier, a rumour of what's really there).
 - **Reward guide:** the kind of loot and salvage the mission can yield.
 
+**Target lists (set by the player, Ash on Ostrava session 8).** The patron may load
+a short list of targets (confirmed or rumoured, rolled openly) as a starter. The
+player may pick one, change it, or make up their own mission instead; the DM
+judges any of them the same way.
+
 Then the mission is played. Harder missions mean tougher enemies and better loot,
 never a moved DC (Part 7).
 
