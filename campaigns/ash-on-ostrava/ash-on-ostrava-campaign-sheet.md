@@ -419,6 +419,7 @@ Tamsin sent the whole list. Kesh's mood (1): irritated; "an Interrogator, not a 
 - **Brenner has Kesh's full broadcast** (evidence, Strahn's record, the pict) on a data-spike; Tamsin: play it on the Spindle once they go loud. Quiet till 0830 (10). **0830: *Widow* team assembled in Bay 3-14** (Varga, Morcant, Hollis, Tavi, Teo, plus Tamsin, Brenner, Orsk). The *Widow* and 12 staged crates there.
 - **Bay 3-14 plan:** hide behind the crates, let the crew walk into the middle, close in with guns up; restrain and leave them in the bay; no flash (Hollis saves it); Orsk kept back, only needed for the approach. **0900: crew on time (11).** Five dockhands, **three visibly armed** (two stub pistols, one pump shotgun). (Hidden: innocent of the scheme, rolled 13.)
 - **The take (18):** all five dropped flat; guns down (2 stub pistols, 1 pump shotgun); no shots fired.
+- Crew bound and left in Bay 3-14; their 2 stub pistols and pump shotgun loaded aboard the *Widow* with the 12 crates (all **to be confiscated after the mission**). Loading done ~0945 with the bay's cargo loader.
 
 ### Mission 1: Sennet's Reach (chosen session 8)
 
