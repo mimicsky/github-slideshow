@@ -421,6 +421,7 @@ Tamsin sent the whole list. Kesh's mood (1): irritated; "an Interrogator, not a 
 - **The take (18):** all five dropped flat; guns down (2 stub pistols, 1 pump shotgun); no shots fired.
 - Crew bound and left in Bay 3-14; their 2 stub pistols and pump shotgun loaded aboard the *Widow* with the 12 crates (all **to be confiscated after the mission**). Loading done ~0945 with the bay's cargo loader.
 - **Assault plan (Tamsin, ~0950):** dock in Bay Two; when the Gate Guard open up, Hollis's photon flash blinds the ones behind the front; the Light comes out with one chance to surrender; take the front two (knocked out or surrendered); rotate to the inner-lock door/booth and open it; Brenner spreads Kesh's broadcast through the ring; anyone after that who won't surrender is shot. Bay doors opened from the booth for the Valk.
+- **1000: *Widow* launched.** Orsk's departure call clean (14). ~40 minutes out to the Spindle; the Valkyrie (Mira, Kell's team) shadowing several thousand metres back, cold. **~1040: the Spindle hails on approach.**
 
 ### Mission 1: Sennet's Reach (chosen session 8)
 
