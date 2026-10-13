@@ -5,12 +5,13 @@ story lives in `book.md`.
 
 **To resume:** read the end of `book.md`, then this sheet, then the codex.
 
-**Where we stopped:** **Season Two, session 8.** ~1625 warp day 7, aboard the
-*Widow* halfway back to the Spindle (Mira flying; Tamsin, Brenner, Nessa; Holt,
-Brann and the marked man). **Trouble (3): the marked man is convulsing and
-coughing green**: plague-sick from the antechamber mist. Tamsin held Shameholder's purity seal to him and chanted Thane's words (18): **the seal flared and burned away; the sickness pulled back**, coughing stopped, breathing eased, enough to last to Sallow. Mira at full burn, ~12 min. Tamsin knocked him out (Shameholder's pommel). ~1640 back in Bay Two: Sallow at the ramp; **antitoxin on the marked man failed (1)**: the infection is too deep; he may not last a day; he's a carrier risk. Valk nearly fixed. **The marked man talked** (Tamsin promised he wouldn't die, a lie): name **Trooper Edrik Halm**, Kasr Tyrok-born; Dresh preached *Grandfather* and *the Gardener*, no more pain, no more death, 'made whole'; the seed was to bloom in the Spindle, then the station, then the fleet; Dresh read them Thask's letters; **'the Gardener's first garden grows under the ice on Velk, where the choir sleeps'**; Thask 'speaks for the gardeners' from Torvane's Mart. Edrik knows no more than 'the Mart'. **Nessa knows Thask's place:** a bonded-goods warehouse office on the Mart's **Low Quay**, three berths down from Mag Vashti's warehouses, front name **Thask & Daughters, Bonded Carriers**. Edrik knew nothing more of Velk: *'It waits for a gardener to wake it.'* **Tamsin gave him the Emperor's mercy with Last Word** ('May the Emperor forgive you'). Body to be burned; the *Widow*'s hold scrubbed and vented. **Holt and Brann locked together in cell 2** on the *Bright Light*'s lower deck (Dace's tumbler lock), Tamsin escorting. **Two reports to Kesh written and sent** (~1730, by Brenner through the *Iron Litany*'s astropath under Ordo seal): (1) the mission, Varn's admission, casualties, prisoners, a word for Orsk, the stripping under Varn's authority; (2) sealed: the cult, Dresh, the seed, the six vials and Thask's letter word for word, **Thask on Torvane's Mart (Low Quay, 'Thask & Daughters, Bonded Carriers')**, Edrik's Velk line, relics recovered, a request to hunt Thask. Added: the Light is bringing **Holt and Brann** and **the vials for the Ordo to study**. **Nessa's past left out** (Kesh not told she ran for Thask). Valk ~30 min from fixed
-(10). The rest of the Light at the Spindle with the *Bright Light*. Other
-prisoners (incl. Orsk) in Merrick's brig on Ustrennos Station.
+**Where we stopped:** **Season Two, session 8.** ~1800 warp day 7. Everyone and
+everything aboard the *Bright Light*, docked at the Spindle's Bay Two (the Valk
+back in its hangar; the *Widow* left in Bay Two for Varn's people). Waiting on
+Kesh's answer to the two reports. Holt and Brann in cell 2. The vials in
+Tamsin's safe. Tavi stable (Badly hurt), Isk sick, Dace purged, Morcant and
+Tamsin Hurt. Ferro-Ashe wants dock time for the Geller generator before the
+next jump. Edrik Halm burned. Rematch with Varga after the mission.
 
 **The road to Ustrennos (warp days 2-5, skipped; rolled openly):**
 - Tamsin's reps: day 2 STR +1.0, DEX +0.5, DEX +0.4; day 3 INT +1.0, STR +0.5, DEX +0.4; day 4 STR +1.0, CON +0.5, STR +0.4; day 5 INT +1.0, STR +0.5, CHA +0.4. **DEX passed 60 (+6).**
