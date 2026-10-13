@@ -52,6 +52,7 @@ add("explosive","C","MBF",[("Frag grenade",1),("Smoke grenade",1)])
 add("explosive","U","MBF",[("Krak grenade",2),("Photon flash grenade",2),("Choke gas grenade",1.5),("Breaching charge",2),("Det-tape (5 m)",1),("Demolition charge, satchel",4),("Incendiary grenade",2)])
 add("explosive","R","MAF",[("Melta bomb",8),("Plasma grenade",6),("Haywire grenade (machine-killer)",8),("Stun grenade (Arbites)",2.5)])
 add("explosive","R","MAF",[("Plasma tripwire mine (laser trip, plasma-cell charge)",10)])
+add("explosive","U","MBF",[("Thrown demo satchel with paired detonator (mag-clamp, throw or set; beeps when armed)",5)])
 add("explosive","U","MBF",[("Air-frag 'blender' grenade (heavy shrapnel, 2-second fuse, ricochets)",2)])
 add("explosive","R","BF",[("Phosphex canister (forbidden)",15),("Shrapnel mine",3)])
 # --- Ammunition ---

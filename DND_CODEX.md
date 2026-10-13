@@ -993,6 +993,14 @@ is hit, cover inside the room doesn't help, flak is shredded (carapace mostly
 holds). **Ricochet:** anyone friendly in the doorway or within ~5 m of the
 opening makes a DEX save or takes a fragment.
 
+**Thrown demo satchel** (player design, uncommon, 5 TV). A heavy charge with a
+**mag-clamp** and a **paired detonator** already linked: no wiring, no fuse.
+**Throw it** (about 10-15 m; a throw roll decides whether it clamps where you
+wanted or lands nearby) or **set it by hand**, then blow it from cover with the
+detonator (line of sight or ~100 m). One satchel does what two kraks do to a
+door; anyone within ~4 m is hit hard. **Armed, it beeps:** heard within a couple
+of metres, or further on a good Perception roll.
+
 ### Custom weapons and crafting
 
 Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:

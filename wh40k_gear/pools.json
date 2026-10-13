@@ -651,6 +651,13 @@
   "sellers": "MAF"
  },
  {
+  "name": "Thrown demo satchel with paired detonator (mag-clamp, throw or set; beeps when armed)",
+  "tv": 5,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Air-frag 'blender' grenade (heavy shrapnel, 2-second fuse, ricochets)",
   "tv": 2,
   "cat": "explosive",
