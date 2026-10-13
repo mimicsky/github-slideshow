@@ -1246,6 +1246,41 @@
   "sellers": "MBF"
  },
  {
+  "name": "Extended magazine kit, las or stub (+50% shots)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Extended magazine kit, bolt or plasma housing (+50% shots)",
+  "tv": 6,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Range-finder sight (+1 shooting past ~30 m)",
+  "tv": 10,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Power weapon tuning kit (steadies the field, through power armour on any hit)",
+  "tv": 12,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Shock-coil kit (any weapon: +1 on your next roll against a target you hit, +2 for heavy weapons; 6 charges a fight)",
+  "tv": 8,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
   "name": "Hot-shot conversion kit (lasgun)",
   "tv": 5,
   "cat": "mod",

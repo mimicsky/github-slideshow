@@ -78,6 +78,8 @@ add("gear","C","MBF",[("Mag belt / bandolier (+4 packs or mags ready)",0.5),("Me
 add("armour","R","E",[("Sororitas power armour, damaged",50),("Rosarius (blessed field, small)",30)])
 # --- Optics / sights / mods ---
 add("mod","U","MBF",[("Reflex sight",3),("Telescopic sight",3),("Photo-visor (low-light)",2),("Magnoculars",1.5),("Bipod",0.5),("Weapon sling, padded",0.25),("Quick-draw holster",0.5),("Silencer (stub/auto)",2),("Extended magazine",1),("Bayonet lug kit",0.25),("Laser designator",3)])
+add("mod","U","MBF",[("Extended magazine kit, las or stub (+50% shots)",1.5)])
+add("mod","R","MAF",[("Extended magazine kit, bolt or plasma housing (+50% shots)",6),("Range-finder sight (+1 shooting past ~30 m)",10),("Power weapon tuning kit (steadies the field, through power armour on any hit)",12),("Shock-coil kit (any weapon: +1 on your next roll against a target you hit, +2 for heavy weapons; 6 charges a fight)",8)])
 add("mod","R","MAF",[("Hot-shot conversion kit (lasgun)",5),("Overcharge capacitor (las)",8),("Mechanicus focusing lens",10),("Auto-targeter (augur sight)",12),("Heat-sink shroud (las)",4),("Chainsword teeth, adamantium (set)",12),("Motor housing, high-tolerance",9)])
 # --- Gear / tech ---
 add("gear","C","MB",[("Micro-bead",0.5),("Chrono",0.5),("Lumen (torch)",0.25),("Field rations (crate)",0.5),("Water purifier",0.5),("Rope (20 m)",0.25),("Lho-sticks (carton)",0.25),("Imperial Infantryman's Uplifting Primer",0.1)])

@@ -1039,6 +1039,15 @@ the single price.
 - **Belt side-pouch** (common, 0.25 TV): two grenades or small kit, ready to grab.
 - **Back gun-scabbard / heavy sling mount** (uncommon, 1 TV): carries a second long gun or a heavy weapon across the back; swapping to it is one move, not a beat. For anyone running two big guns (Morcant: stubber and pump).
 - **Pistol holster** (common, 0.25 TV): hip or chest; the quick-draw rig (0.5 TV) is faster.
+- **Range-finder sight** (rare, 10 TV): **+1 on shooting past ~30 m.** Stacks with
+  specialties, not with another sight on the same gun.
+- **Extended magazine kits** (las/stub uncommon, 1.5 TV; bolt/plasma rare, 6 TV):
+  **+50% shots** per mag, pack or cell on that weapon.
+- **Power weapon tuning kit** (rare, 12 TV): steadies a power field (no flicker
+  under strain) and it goes **through power armour on any hit**.
+- **Shock-coil kit** (rare, 8 TV): fits any weapon. After a hit, the jolt gives
+  **+1 on your next roll against that target** (+2 on heavy weapons such as a
+  thunder hammer or heavy stubber). 6 charges a fight, recharged at a coupling.
 
 ### Custom weapons and crafting
 
