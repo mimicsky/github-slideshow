@@ -16,6 +16,10 @@ add("las","R","MAF",[("Long-las, Mezoa (sniper)",6),("Long-las, Helbore (heavy, 
 add("las","U","MBF",[("Lascarbine, Accatran Mk VI (burst fire)",2)])
 add("las","R","MBF",[("Las-scattergun 'shotlas' (wide spread, short range)",4)])
 add("las","R","MF",[("Multi-laser, man-portable (braced, drains packs fast)",15)])
+# Player designs (session 8). Full rules in the notes below and in DND_CODEX Part 8.
+add("las","U","MBF",[("Las-SMG, 'Sterl' pattern (side-mounted pack; 6-shot chains, misses don't penalise the chain; 2 hits = 1 vs carapace; eats packs)",3)])
+add("las","R","MF",[("Las-box, 'Kasr Barr' pattern light las-LMG (box pack; 6-shot chains; through carapace on a solid hit; heat: chain of 4+ = 1 heat, vent at 3; bipod)",8)])
+add("ammo","U","MF",[("Las-box pack (for the Kasr Barr)",0.75)])
 add("las","R","BF",[("Duelling laspistol, noble-house pattern",8),("Archeotech lasgun 'sunfire' (worn, works)",30)])
 # --- Solid shot ---
 add("stub","C","MB",[("Autogun, Agripinaa",1),("Autopistol",1),("Stub revolver",0.5),("Stub automatic",0.75),("Combat shotgun, pump",1.5)])

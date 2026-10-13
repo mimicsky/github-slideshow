@@ -133,6 +133,27 @@
   "sellers": "MF"
  },
  {
+  "name": "Las-SMG, 'Sterl' pattern (side-mounted pack; 6-shot chains, misses don't penalise the chain; 2 hits = 1 vs carapace; eats packs)",
+  "tv": 3,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Las-box, 'Kasr Barr' pattern light las-LMG (box pack; 6-shot chains; through carapace on a solid hit; heat: chain of 4+ = 1 heat, vent at 3; bipod)",
+  "tv": 8,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Las-box pack (for the Kasr Barr)",
+  "tv": 0.75,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
   "name": "Duelling laspistol, noble-house pattern",
   "tv": 8,
   "cat": "las",

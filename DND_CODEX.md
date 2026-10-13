@@ -932,6 +932,24 @@ judges any of them the same way.
 Then the mission is played. Harder missions mean tougher enemies and better loot,
 never a moved DC (Part 7).
 
+### Las weapons: hot-shot conversion and player designs
+
+**Hot-shot conversion** (set session 8). Any las weapon can take a hot-shot
+conversion kit: it **hits one step harder** (a lasgun hits like a hellgun), **uses
+ammunition twice as fast**, and a gun that builds heat gains **1 extra heat per
+chain**.
+
+**Las-SMG, 'Sterl' pattern** (player design, uncommon, 3 TV). Side-mounted pack.
+Shot chains up to 6; low recoil: a miss doesn't give -1 to the next shot. Small
+punch: against carapace 2 hits count as one lasgun hit; useless against power
+armour. A pack lasts about one fight's bursts.
+
+**Las-box, 'Kasr Barr' pattern light las-LMG** (player design, rare, 8 TV). Thick
+box pack (0.75 TV, recharges at a coupling). Punch between lasgun and hot-shot:
+through carapace on a solid hit (beats the shot by 3+). Chains up to 6; good for
+suppression. **Heat:** each chain of 4+ shots adds 1; at 3 it must vent one beat;
+firing anyway at 3: d20, 1-5 cracks the coil. Heavy: -2 from the hip, none braced.
+
 ### Custom weapons and crafting
 
 Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:
