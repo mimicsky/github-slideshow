@@ -644,6 +644,20 @@
   "sellers": "MAF"
  },
  {
+  "name": "Plasma tripwire mine (laser trip, plasma-cell charge)",
+  "tv": 10,
+  "cat": "explosive",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Air-frag 'blender' grenade (heavy shrapnel, 2-second fuse, ricochets)",
+  "tv": 2,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Phosphex canister (forbidden)",
   "tv": 15,
   "cat": "explosive",

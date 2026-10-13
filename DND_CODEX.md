@@ -979,6 +979,20 @@ tuned). Shot chains **up to 4**. Two cells share the load, so **heat is halved: 
 per 4 shots.** Punch like a plasma pistol: through carapace on any hit, power
 armour on a solid hit.
 
+**Plasma tripwire mine** (player design, rare, 10 TV). Clamped beside a door,
+vent or crate; a thin trip-laser crosses the gap. Whoever breaks the beam sets
+off the plasma cell inside: everyone in the doorway or within ~3 m is hit through
+carapace, power armour on a solid hit. Setting it takes a beat (a natural 1 while
+setting it sets it off). The beam can be spotted (Perception; easier in smoke or
+dust).
+
+**Air-frag 'blender' grenade** (player design, uncommon, 2 TV). Twice the
+shrapnel, a **2-second fuse** (too short to throw back). In the open it's a frag
+grenade. **In a closed room it turns the room into a blender:** everyone inside
+is hit, cover inside the room doesn't help, flak is shredded (carapace mostly
+holds). **Ricochet:** anyone friendly in the doorway or within ~5 m of the
+opening makes a DEX save or takes a fragment.
+
 ### Custom weapons and crafting
 
 Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:
