@@ -5,14 +5,12 @@ story lives in `book.md`.
 
 **To resume:** read the end of `book.md`, then this sheet, then the codex.
 
-**Where we stopped:** **Season Two, session 8.** ~1600 warp day 7. The *Widow*
-(Mira flying; Tamsin, Brenner, Nessa; 14 prisoners incl. Holt, Brann, Orsk)
-landed back in **Bay 3-14, Ustrennos Station**. Flight quiet (16). **The five
-dockhands were found and freed by station security (1)** and talked. Reception
-(3): **a station security squad (8 armsmen) under Watch-Captain Ilsa Merrick**,
-and ~30 angry dockhands at the bay edge. Merrick checked Varn's seal and stood her armsmen down. Nessa brought Orsk out bound; **the crowd surged (3)**, shouting, wrench man in front. Tamsin, Shameholder snarling on the ramp (15, STR + Intimidation): **the crowd stopped and backed off**, waiting for his explanation. Tamsin told them (supplies to traitors; Nurgle cult; plague vials for the station's air). **Orsk confirmed it in front of his men.** The crowd broke up; the wrench man dropped the wrench. Merrick wants a full report for Varn and asks about quarantine. Tamsin: contained, sealed, Ordo matter. **Prisoners split:** Holt, Brann and the marked cultist stay with the Light (the *Bright Light* has 2 cells); the rest (Holt's 2, Brann's 7, the blister gunner, **Orsk**) to Merrick's brig for Varn's judgement. **Tamsin asked that Orsk's help weigh on his sentence**; Merrick will put it in her report. **Cells:** Holt and Brann share cell 1, the marked man in cell 2 (once back aboard the *Bright Light*). Pat-down: Holt (5) and Brann (4) clean; **the marked man (10) had a tiny iron gate amulet sewn inside his collar and a chalk stub** (confiscated, for Kesh). **Nessa moves out of the cells into the bunk room.** **Tamsin took the bayonet back** after the mission ('good work, assassin'); she keeps the bead. 
-with the *Bright Light* until the Valk is fixed. Spindle loot all aboard the
-*Bright Light*; the vials in Tamsin's safe.
+**Where we stopped:** **Season Two, session 8.** ~1625 warp day 7, aboard the
+*Widow* halfway back to the Spindle (Mira flying; Tamsin, Brenner, Nessa; Holt,
+Brann and the marked man). **Trouble (3): the marked man is convulsing and
+coughing green**: plague-sick from the antechamber mist. Valk ~30 min from fixed
+(10). The rest of the Light at the Spindle with the *Bright Light*. Other
+prisoners (incl. Orsk) in Merrick's brig on Ustrennos Station.
 
 **The road to Ustrennos (warp days 2-5, skipped; rolled openly):**
 - Tamsin's reps: day 2 STR +1.0, DEX +0.5, DEX +0.4; day 3 INT +1.0, STR +0.5, DEX +0.4; day 4 STR +1.0, CON +0.5, STR +0.4; day 5 INT +1.0, STR +0.5, CHA +0.4. **DEX passed 60 (+6).**
