@@ -875,11 +875,15 @@ carries into the mission.
 The hub's armoury stock **refreshes each new day** aboard: a handful of items,
 priced in salvage or trade, never coin. Some are canon, some invented for the
 setting. **Rolled stock (set by the player, Ash on Ostrava session 8).** Stock is never
-picked to match the wish list. It's rolled at random from a broad pool of
-setting gear (`campaigns/ash-on-ostrava/shop_roll.py`): a small hub rolls a handful
-of items, a big one (a fleet anchorage, a trade station) 14-18, and one open d20
-on a natural 20 adds a rare oddity from further afield. That way the player can
-stumble on things they never knew to ask for. The player may ask the quartermaster to **hold** an item; the
+picked to match the wish list. It's rolled at random from the 40k gear pools in
+[`wh40k_gear/`](wh40k_gear) (~260 items: weapons, armour, mods, gear, augmetics,
+salvage, vehicle parts, goods) with `python3 wh40k_gear/roll.py SELLER SIZE`.
+Each seller type rolls from its own pool (Munitorum, black market, Mechanicus,
+Free Trader, Ecclesiarchy); a small hub rolls 5-7 items, a big one 14-18;
+common, uncommon and rare items are weighted; and one open d20 on a natural 20
+adds an exotic oddity (xenos, archeotech). The DM doesn't read the pools to the
+player, so finds stay surprises. Enemy loot still follows the fiction, and the DM
+may still invent gear. The player may ask the quartermaster to **hold** an item; the
 quartermaster decides in character whether to, and for how long.
 
 **The quartermaster's slate (account).** Set in Ash on Ostrava, session 7. The
