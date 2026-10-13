@@ -1253,6 +1253,20 @@
   "sellers": "MBF"
  },
  {
+  "name": "Diamantine whetstone (any edged blade: +1 pierce for the next 2 hits; ~10 uses)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Underslung chain-bayonet (rifle-mounted chainsword)",
+  "tv": 10,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
   "name": "Extended magazine kit, bolt or plasma housing (+50% shots)",
   "tv": 6,
   "cat": "mod",

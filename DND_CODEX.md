@@ -1045,6 +1045,13 @@ the single price.
   **+50% shots** per mag, pack or cell on that weapon.
 - **Power weapon tuning kit** (rare, 12 TV): steadies a power field (no flicker
   under strain) and it goes **through power armour on any hit**.
+- **Diamantine whetstone** (uncommon, 1 TV): a few minutes out of a fight to
+  hone any edged blade (not chain or power): **+1 pierce on its next 2 hits**
+  (counts as +1 against armour). About 10 uses.
+- **Underslung chain-bayonet** (rare, 10 TV): a short chainsword mounted under a
+  rifle (lasgun, hellgun, autogun, Las-box). In melee the rifle counts as a
+  chainsword, at -1 to block or parry (it's awkward). No overdrive. The rifle
+  weighs more; -1 on snap shots from the hip.
 - **Shock-coil kit** (rare, 8 TV): fits any weapon. After a hit, the jolt gives
   **+1 on your next roll against that target** (+2 on heavy weapons such as a
   thunder hammer or heavy stubber). 6 charges a fight, recharged at a coupling.
