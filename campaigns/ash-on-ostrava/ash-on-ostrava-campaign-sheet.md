@@ -446,6 +446,7 @@ Tamsin sent the whole list. Kesh's mood (1): irritated; "an Interrogator, not a 
 - **~1110 orders:** the *Bright Light* called to dock at Bay Two's mouth (Ferro-Ashe to fix the Valk). **Team 1** (Varga, Morcant, Hollis, Tavi, Brenner): load the loot onto the Valk, strip the *Widow*'s 12 crates, put the prisoners in the *Widow*. **Team 2** (Tamsin, Kell, Dace, Corvane, Isk, Sallow, Nessa) up the spoke for Holt.
 - **Shipment search (19):** one ration crate has a false bottom: a **lead-lined box stamped with the open gate and Thask's broker mark**; inside, **6 sealed vials of cloudy green fluid** and a folded letter addressed *'For the Gate Captain.'* Varga has not opened the vials. (DM: Nurgle; tied to the Seed.)
 - **The spoke (18): no contact.** ~150 m to the hub; **a sealed pressure bulkhead at the hub end (9)**: manual dogs on the far side, a vox grille and a pict-eye beside it.
+- **Holt and the cult (hidden, rolled 19):** Holt is not a cultist and is losing control. A faction of his men took the Open Gate mark under a sergeant who calls himself **the Gate Captain** (the letter's addressee). Holt holds the command deck with the loyal-but-unbroken; the cult faction holds the barracks and the vault approach. Holt knows they're out of hand, not what they really are.
 - **Holt (hidden, 13):** pulled his ~23 back to the hub; barricading the command deck and the vault; waiting for the Light to come up the spoke.
 
 ### Mission 1: Sennet's Reach (chosen session 8)
