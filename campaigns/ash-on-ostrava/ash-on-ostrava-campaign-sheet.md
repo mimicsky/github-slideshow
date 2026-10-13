@@ -208,6 +208,25 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 
 **The Light grew (session 7, warp day 1 to the Rest):** Kell's six storm troopers asked to wear the Light's colours and Tamsin took them in: **Hollis** (Kell's second, calm, grey crop), **Brenner** (vox, hailer), **Isk** (marksman, long scoped hellgun, prayer token), **Tavi** (demolitions, young, quick), **Morcant** (shotgun, broken nose), **Sallow** (medic, seven years with Kell). The Light is now ten. **New rank: Light-bringers** (Tamsin, at the range): every member of the Light is a Light-bringer, not a storm trooper. Role tags from now on (with class, set by the player): Kell (Light-bringer sergeant, assault), Varga (Light-bringer, rifle), Hollis (Light-bringer, grenadier), Brenner (Light-bringer, vox), Isk (Light-bringer, sniper; he/him, set by the player), Tavi (Light-bringer, demolitions), Morcant (Light-bringer, heavy), Sallow (Light-bringer, medic), Dace (Light-bringer, melee/smith); Corvane (penitent; **Light-bringer, point** from session 8). **Kit roles and wishes (warp day 1 to the Rest):** Kell, close assault: plasma pistol, chain axe (coming), Officer or a combat shotgun by the job, full carapace with a left shield-arm plate, 3 frag/2 krak/1 smoke. Dace, front-line shield and blade: real carapace, an autopistol, 2 smoke, swap his cracked visor; one day a masterpiece plasteel blade. Tavi, demolitions/fast: more breaching charges, kraks, a melta bomb some day, a bigger bag, a lascarbine converted to hot-shot (eats packs). **Morcant gets Kade's heavy stubber** (suppression) and keeps his shotgun by the job; wants stubber belts, a drum mag, a maul or shock maul, frags (standard fuse: he cooks them). Isk, long-range marksman: convert their hellgun for range (longer barrel, finer focusing lens, low-light scope) rather than a new long-las; a heavy laspistol sidearm; grey hooded cloak over white helmet when sniping (Tamsin agreed). Sallow, medic: big bag, proper medicae pack (like Haldis's), stimms, 2+ smoke, a lascarbine (her pick over an autocarbine), laspistol, drag harness. Brenner, vox and entry: better vox-caster, auspex, cogitator-spike, flares, smoke, a lascarbine; dreams of a servo-skull. **Took the Navy cutting torch (half charge) and the *Ember*'s engineer's tool roll** from the container. Hollis, the flexible one: underslung grenade launcher, hand flamer, command bead, chrono and map-slate, full carapace. **Tamsin promised Hollis the second fire team when the Light is big enough.** Tamsin told the Light about Corvane's collar: not a warm welcome, not a cold one; he works his way in or he doesn't. Dace asked them to give Corvane the chance they gave him. Quiet night (rolled 20). Uniform (from the start, retconned by the player in session 7): **grey plate with white trim** (edges, helmet stripe, belt), grey Navy coveralls under it; weapons personal. Six sets done, four wait for paint from the Rest (Ottrick buying grey and white deck paint). No stealth penalty in grey.  care about the fight; know your weapon, make it yours and paint it; train hard; family looks after family; the container belongs to all of them; carry loot for the boss without complaint. Painting them needs ~36 L; only ~12 L left.
 
+**Specialties (set session 8, at the player's request).** Each member of the Light has a role specialty: **+2 on rolls of that kind**. Drilling the specialty as the day's training adds progress: **every 10 drill days, +1, to a max of +5**.
+
+| Who | Specialty (+2) |
+| --- | --- |
+| Kell | Close assault (chain axe, plasma pistol) and rallying the Light |
+| Varga | Aimed rifle shots |
+| Hollis | Grenade throws; a throw that misses by 1-2 still lands close (half effect) |
+| Brenner | Vox and tech work: splicing, door and booth controls, cogitators |
+| Isk | Long aimed shots (past ~30 m); no bonus up close |
+| Tavi | Demolitions; reading doors and structures (knows the charge needed before he sets it) |
+| Morcant | Suppression: targets he's suppressing take -2 on their shots |
+| Sallow | Treating wounds and sickness |
+| Dace | Shield work: blocks and shield pushes |
+| Corvane | Point: first through a door, spotting at first contact, boarding melee |
+| Nessa | Infiltration: crawlways, stealth, locks (when given the job) |
+| Mira | Precise flying, approaches under fire |
+| Teo | Fast flying, evasion |
+| Ferro-Ashe | Repairs, rites and communing (by data) |
+
 | | STR | DEX | CON | INT | WIS | CHA | State |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Kell** | 30 | 36 | 30 | 10 | 25 | 10 | Fine (sling off warp day 7). Swaps in for Varga next mission |
