@@ -470,6 +470,12 @@ Tamsin sent the whole list. Kesh's mood (1): irritated; "an Interrogator, not a 
   - Empty racks and pried-open strongboxes where the rest used to be.
 - **Holt surrendered (Tamsin's threat, 14):** came down from the command deck to the vault antechamber, unarmed, with **his last 2 men**. (Tally: 46 holdouts; 8 taken in Bay Two, 12 response team, 3 blister crew, 5 at the bulkhead, 15 marked men and Dresh in the antechamber; Holt and 2 left.)
 - **~1150:** Tamsin walked past Holt without a word; Kell and Corvane bound Holt and his two (Dace was below with Sallow). In Bay Two: **antitoxin on Dace (12): purged**, weak for a day; **Isk (8): fever holding**, second dose, sick (Hurt) a few days. Team 1 met Tamsin on the spoke coming up; the vials are in Tamsin's safe. Nessa guarding the prisoners in the *Widow* with Morcant (11). **Ferro-Ashe on the Valk (8): more damage than Mira saw, 5-6 hours.**
+- **Stripping the Spindle (ordered ~1155; ~3 hours; rolled, to be reported when done):**
+  - *Hub armoury (5, picked over):* 4 lasguns, 1 working heavy stubber, 10 las packs, **2 krak grenades**, 4 frags.
+  - *Barracks (18):* Gate Guard pins, lho, ~3 TV in coin, 6 vox-beads, and **a Gate Guard marksman's long-barrel hellgun with a low-light scope** (Isk's wish).
+  - *Command deck (17):* **Holt's power sabre** (Cadian officer pattern, field sound), Holt's laspistol and campaign medals, the Spindle's logs (for Kesh).
+  - *Galley stores (natural 20, rare):* behind ration sacks in the cold store, a lead-sealed Mechanicus crate: **a cogitator relic** (a pre-Fall Kasr Holn defence-turret cogitator core), hidden by a Gate Guard cook who meant to sell it. (Blessing salvage: Korren's breath on Vigil, or Debt-taker on Shameholder.)
+  - *Antechamber dead (16):* 12 working hellguns, 15 hot-shot packs, 9 more iron open-gate amulets, **Dresh's ritual knife and his prayer-book** (for Kesh), the burst casket (for Kesh).
 - **Holt and the cult (hidden, rolled 19):** Holt is not a cultist and is losing control. A faction of his men took the Open Gate mark under a sergeant who calls himself **the Gate Captain** (the letter's addressee). Holt holds the command deck with the loyal-but-unbroken; the cult faction holds the barracks and the vault approach. Holt knows they're out of hand, not what they really are.
 - **Holt (hidden, 13):** pulled his ~23 back to the hub; barricading the command deck and the vault; waiting for the Light to come up the spoke.
 
