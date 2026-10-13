@@ -13,6 +13,9 @@ add("las","C","MBF",[("Lasgun, Kantrael M36",1),("Lasgun, Lucius No.98 (hotter, 
 add("las","U","MBF",[("Lasgun, Accatran Mk XIV (short, fast)",2),("Heavy laspistol",2),("Lasgun, Agripinaa (sturdy, slow)",1.5),("Recon lascarbine, folding stock",2.5),("Lasgun, Mezoa 'Lucius' long-barrel",2.5)])
 add("las","U","MAF",[("Hellgun, Ryza pattern",5),("Hellpistol, Kantrael",4),("Hellgun, Accatran (compact)",5.5)])
 add("las","R","MAF",[("Long-las, Mezoa (sniper)",6),("Long-las, Helbore (heavy, single-shot)",8),("Hot-shot volley gun",12),("Lasgun, Mars pattern (Skitarii, galvanic-ready)",6)])
+add("las","U","MBF",[("Lascarbine, Accatran Mk VI (burst fire)",2)])
+add("las","R","MBF",[("Las-scattergun 'shotlas' (wide spread, short range)",4)])
+add("las","R","MF",[("Multi-laser, man-portable (braced, drains packs fast)",15)])
 add("las","R","BF",[("Duelling laspistol, noble-house pattern",8),("Archeotech lasgun 'sunfire' (worn, works)",30)])
 # --- Solid shot ---
 add("stub","C","MB",[("Autogun, Agripinaa",1),("Autopistol",1),("Stub revolver",0.5),("Stub automatic",0.75),("Combat shotgun, pump",1.5)])

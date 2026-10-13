@@ -112,6 +112,27 @@
   "sellers": "MAF"
  },
  {
+  "name": "Lascarbine, Accatran Mk VI (burst fire)",
+  "tv": 2,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Las-scattergun 'shotlas' (wide spread, short range)",
+  "tv": 4,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Multi-laser, man-portable (braced, drains packs fast)",
+  "tv": 15,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
   "name": "Duelling laspistol, noble-house pattern",
   "tv": 8,
   "cat": "las",
