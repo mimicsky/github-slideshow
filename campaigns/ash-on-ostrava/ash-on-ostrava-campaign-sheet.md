@@ -5,13 +5,14 @@ story lives in `book.md`.
 
 **To resume:** read the end of `book.md`, then this sheet, then the codex.
 
-**Where we stopped:** **Season Two, session 8.** ~1510 warp day 7, the Spindle,
-Bay Two. **The Spindle is taken** and stripped; all loot aboard the *Bright Light*
-(Tamsin helped load, light duty). Holt and his 2, Brann and his 8, the blister
-gunner and Orsk prisoners in the *Widow*. Tavi stable in medicae; Isk sick; Dace
-purged; Morcant and Tamsin Hurt. Valk repair ~2-3 more hours. The vials in
-Tamsin's safe. Not yet reported to Varn or Kesh. Rematch with Varga after the
-mission.
+**Where we stopped:** **Season Two, session 8.** ~1600 warp day 7. The *Widow*
+(Mira flying; Tamsin, Brenner, Nessa; 14 prisoners incl. Holt, Brann, Orsk)
+landed back in **Bay 3-14, Ustrennos Station**. Flight quiet (16). **The five
+dockhands were found and freed by station security (1)** and talked. Reception
+(3): **a station security squad (8 armsmen) under Watch-Captain Ilsa Merrick**,
+and ~30 angry dockhands at the bay edge. The rest of the Light at the Spindle
+with the *Bright Light* until the Valk is fixed. Spindle loot all aboard the
+*Bright Light*; the vials in Tamsin's safe.
 
 **The road to Ustrennos (warp days 2-5, skipped; rolled openly):**
 - Tamsin's reps: day 2 STR +1.0, DEX +0.5, DEX +0.4; day 3 INT +1.0, STR +0.5, DEX +0.4; day 4 STR +1.0, CON +0.5, STR +0.4; day 5 INT +1.0, STR +0.5, CHA +0.4. **DEX passed 60 (+6).**
