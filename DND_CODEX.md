@@ -932,6 +932,27 @@ judges any of them the same way.
 Then the mission is played. Harder missions mean tougher enemies and better loot,
 never a moved DC (Part 7).
 
+### Custom weapons and crafting
+
+Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:
+
+1. **Add it to the pool (out of character).** The player describes an item (what
+   it is, what it does, how rare it should feel). The DM sets a price and rarity
+   that fit the setting and adds it to `wh40k_gear/`, so it can turn up in shops
+   and loot. Same fairness test as blessings: accept, adjust, or decline with the
+   reason.
+2. **Build it in the story (in character).** A crafter in the party or at the
+   hub builds it:
+   - **Design:** the player describes the weapon; the DM judges fairness.
+   - **Cost:** a base weapon or frame plus salvage (plasteel, machine-cores,
+     ceramite, parts) named by the DM, taken from stock.
+   - **Time:** days to weeks, by complexity.
+   - **The roll:** the crafter rolls openly, with their specialty bonus.
+     **Success:** works as designed. **Near miss (1-2 under):** works, with a
+     quirk (runs hot, jams sometimes, heavier). **Fail:** some parts wasted; may
+     try again. **Natural 20:** masterwork, better than designed, perhaps with a
+     spirit of its own.
+
 ### Purity seals
 
 A priest blesses gear and stamps a seal on it. Each seal gives **advantage on
