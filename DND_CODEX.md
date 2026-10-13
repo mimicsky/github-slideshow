@@ -950,6 +950,13 @@ through carapace on a solid hit (beats the shot by 3+). Chains up to 6; good for
 suppression. **Heat:** each chain of 4+ shots adds 1; at 3 it must vent one beat;
 firing anyway at 3: d20, 1-5 cracks the coil. Heavy: -2 from the hip, none braced.
 
+**Bolt-shotgun, 'Breacher' pattern** (player design, rare, 10 TV). A short,
+single-shot breech-loader that fires one bolt round as a slug: hits like a
+boltgun. **Recoil:** at most 2 shots a beat; the second shot only if the first
+roll was 10 or more (raw), otherwise the beat is spent recovering. **Simple:**
+no magazines, loose bolt rounds, fast to reload. **Boltgun, Locke Mk IIb
+'Spearhead'** (rare, 26 TV) added to the bolt pool as the Darktide pattern.
+
 ### Custom weapons and crafting
 
 Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:

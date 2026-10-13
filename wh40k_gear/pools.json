@@ -322,6 +322,20 @@
   "sellers": "MF"
  },
  {
+  "name": "Boltgun, Locke Mk IIb 'Spearhead' (Darktide)",
+  "tv": 26,
+  "cat": "bolt",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Bolt-shotgun, 'Breacher' pattern (single-shot breech, loose bolt rounds; 1-2 shots a beat by recoil)",
+  "tv": 10,
+  "cat": "bolt",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
   "name": "Sororitas bolt pistol (Godwyn-De'az)",
   "tv": 16,
   "cat": "bolt",

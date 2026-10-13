@@ -29,6 +29,8 @@ add("stub","R","MBF",[("Vraks-pattern sniper autorifle",7),("Lucius-pattern 'Iro
 # --- Bolt ---
 add("bolt","U","MF",[("Bolt pistol, Godwyn-Deaz (officer)",12)])
 add("bolt","R","MF",[("Boltgun, Godwyn pattern",25),("Boltgun, Phobos pattern",28),("Bolt pistol, Ryza pattern",14)])
+add("bolt","R","MF",[("Boltgun, Locke Mk IIb 'Spearhead' (Darktide)",26)])
+add("bolt","R","MBF",[("Bolt-shotgun, 'Breacher' pattern (single-shot breech, loose bolt rounds; 1-2 shots a beat by recoil)",10)])
 add("bolt","R","EF",[("Sororitas bolt pistol (Godwyn-De'az)",16),("Sororitas boltgun",30)])
 add("bolt","R","B",[("Bolt pistol, rebored (unstable)",8)])
 # --- Plasma / melta / flame ---
