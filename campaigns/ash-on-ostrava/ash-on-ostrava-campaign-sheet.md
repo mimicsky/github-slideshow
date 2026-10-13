@@ -135,7 +135,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Rank | **Interrogator** of Inquisitor Kesh's Ordo (rosette, warp day 20, session 7). Leads the Light, his cell under Varsaine. (Interrogator-designate from session 5.) |
 | Class | Fighter 9, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | **Hurt, mending** (woke day 20 after surgery by Haldis); before that Down, after being **Badly hurt**: las through the flak, left upper arm (dressed, stimm), and a hellgun beam through the carapace at the right collarbone, on the *Gate Unbroken*'s bridge. Arm healed after a full night's sleep. **Sharp edge (shooting): unused** |
-| Stats (levels 1-100) | STR **23.9** (+2), DEX **61.7** (+6), CON **23.4** (+2), INT **9.2** (+0), WIS **13.4** (+1), CHA **6.7** (+0) (after warp day 8: DEX +1.0, range with Vigil) |
+| Stats (levels 1-100) | STR **23.9** (+2), DEX **62.2** (+6), CON **23.4** (+2), INT **9.2** (+0), WIS **13.4** (+1), CHA **6.7** (+0) (after warp day 8: DEX +1.0 range with Vigil, DEX +0.5 cover drill with Dace; daily from now: Dace's up-at-two cover drill) |
 | At the Ustrennos jump point (days 16-17, three a day) | 16: STR +1.0, DEX +0.5, CHA +0.4. 17: CON +1.0, DEX +0.9 |
 | Road to Ustrennos (warp days 10-15, three a day, rolled) | 10: STR +1.0, CON +0.5, WIS +0.4. 11: STR +1.0, WIS +0.5, INT +0.4. 12: DEX +1.0, CHA +0.9. 13: WIS +1.0, CHA +0.5, STR +0.4. 14: INT +1.0, DEX +0.5, STR +0.4. 15: DEX +1.0, WIS +0.5, CON +0.4 |
 | Warp day 9 (the Rest) | DEX +1.0 (late range practice with the Light, 2230-0030) |
