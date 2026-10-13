@@ -8,7 +8,7 @@ story lives in `book.md`.
 **Where we stopped:** **Season Two, session 8.** ~1625 warp day 7, aboard the
 *Widow* halfway back to the Spindle (Mira flying; Tamsin, Brenner, Nessa; Holt,
 Brann and the marked man). **Trouble (3): the marked man is convulsing and
-coughing green**: plague-sick from the antechamber mist. Tamsin held Shameholder's purity seal to him and chanted Thane's words (18): **the seal flared and burned away; the sickness pulled back**, coughing stopped, breathing eased, enough to last to Sallow. Mira at full burn, ~12 min. Valk ~30 min from fixed
+coughing green**: plague-sick from the antechamber mist. Tamsin held Shameholder's purity seal to him and chanted Thane's words (18): **the seal flared and burned away; the sickness pulled back**, coughing stopped, breathing eased, enough to last to Sallow. Mira at full burn, ~12 min. Tamsin knocked him out (Shameholder's pommel). ~1640 back in Bay Two: Sallow at the ramp; **antitoxin on the marked man failed (1)**: the infection is too deep; he may not last a day; he's a carrier risk. Valk nearly fixed. Valk ~30 min from fixed
 (10). The rest of the Light at the Spindle with the *Bright Light*. Other
 prisoners (incl. Orsk) in Merrick's brig on Ustrennos Station.
 
