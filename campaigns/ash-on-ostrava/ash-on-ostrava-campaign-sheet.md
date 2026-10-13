@@ -52,7 +52,7 @@ next jump. Edrik Halm burned. Rematch with Varga after the mission.
 - **System:** D&D 5e chassis reskinned for Warhammer 40,000, narrative mode, all
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
-- **Character level:** **10** (reached session 8, the Spindle). Level 8 ASI spent on DEX. Fighter 9: **Indomitable** (reroll a failed save, once per long rest). Champion 10: **Additional Fighting Style** (to choose at the table). Proficiency **+4**.
+- **Character level:** **10** (reached session 8, the Spindle). Level 8 ASI spent on DEX. Fighter 9: **Indomitable** (reroll a failed save, once per long rest). Champion 10: **Additional Fighting Style: Defense** (narrative: armour stops a little more; some hits that would make him Hurt only shake him; DM calls it per hit). Proficiency **+4**.
 - **XP:** 64,475. Level 11 at 85,000.
 
 | XP by session | XP |
