@@ -1008,6 +1008,26 @@ loot, roll a d20: **on 15+, or when the story makes it plain (an armoury, a supp
 dump), it's an ammo crate: four times the amount.** In shops a crate costs 3.5x
 the single price.
 
+### Melee additions (Darktide set, session 8)
+
+- **Hive shank** (common, 0.1 TV): a scrap knife anyone can make in minutes, no
+  roll. Breaks on a natural 1.
+- **Combat axe** (common, 1 TV): fast and light. When your swing is blocked, the
+  next swing in the exchange is at +1. Weak against carapace.
+- **Thunder hammer, intact** (rare, 50 TV): two-handed, devastating. Every hit
+  goes through power armour and staggers. Slow: defenders get +2 to block or
+  parry it.
+- **Power falchion** (rare, 28 TV): a duelling blade. +2 in the exchange when
+  fighting a single opponent.
+- **Omnissian power sword** (rare, 32 TV): Mechanicus-made; its field never
+  flickers, and it cuts machines and servitors at +2.
+- **Paired transonic blades** (rare, 30 TV): two weapons (blocks become parries).
+  Resonance: after the first hit on a target, its armour counts one step lighter
+  against them.
+- **Blaze force sword / greatsword** (rare, 45 / 60 TV): psyker weapons. In a
+  sanctioned psyker's hands they burn with warp-fire; anyone else wields a plain
+  sword (greatsword: two-handed, heavy).
+
 ### Custom weapons and crafting
 
 Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:

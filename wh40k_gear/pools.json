@@ -917,6 +917,62 @@
   "sellers": "MAF"
  },
  {
+  "name": "Hive shank (scrap knife)",
+  "tv": 0.1,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Combat axe, Rashad pattern (fast, light)",
+  "tv": 1,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Thunder hammer, Crucis pattern (intact; heavy, slow)",
+  "tv": 50,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Power falchion (duelling blade)",
+  "tv": 28,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Omnissian power sword (Mechanicus)",
+  "tv": 32,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Transonic blades, paired (Skitarii)",
+  "tv": 30,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Blaze force sword (psyker only)",
+  "tv": 45,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "F"
+ },
+ {
+  "name": "Blaze force greatsword (psyker only)",
+  "tv": 60,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "F"
+ },
+ {
   "name": "Blessed power maul (Ecclesiarchy)",
   "tv": 28,
   "cat": "melee",
