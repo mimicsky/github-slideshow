@@ -468,6 +468,7 @@ Tamsin sent the whole list. Kesh's mood (1): irritated; "an Interrogator, not a 
   - The **Gate Guard's regimental standard** (white gate on Cadian green), furled in a case
   - **Drachen's private ledgers and data-slates** (for Kesh)
   - Empty racks and pried-open strongboxes where the rest used to be.
+- **Holt surrendered (Tamsin's threat, 14):** came down from the command deck to the vault antechamber, unarmed, with **his last 2 men**. (Tally: 46 holdouts; 8 taken in Bay Two, 12 response team, 3 blister crew, 5 at the bulkhead, 15 marked men and Dresh in the antechamber; Holt and 2 left.)
 - **Holt and the cult (hidden, rolled 19):** Holt is not a cultist and is losing control. A faction of his men took the Open Gate mark under a sergeant who calls himself **the Gate Captain** (the letter's addressee). Holt holds the command deck with the loyal-but-unbroken; the cult faction holds the barracks and the vault approach. Holt knows they're out of hand, not what they really are.
 - **Holt (hidden, 13):** pulled his ~23 back to the hub; barricading the command deck and the vault; waiting for the Light to come up the spoke.
 
