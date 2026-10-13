@@ -86,6 +86,9 @@ add("mod","R","MAF",[("Hot-shot conversion kit (lasgun)",5),("Overcharge capacit
 # --- Gear / tech ---
 add("gear","C","MB",[("Micro-bead",0.5),("Chrono",0.5),("Lumen (torch)",0.25),("Field rations (crate)",0.5),("Water purifier",0.5),("Rope (20 m)",0.25),("Lho-sticks (carton)",0.25),("Imperial Infantryman's Uplifting Primer",0.1)])
 add("gear","U","MBF",[("Map-slate",1),("Auspex (hand)",6),("Vox-caster (manpack)",5),("Flares (box of 10)",0.5),("Grav-chute",6),("Climbing rig and grapnel",1.5),("Demolitions kit / bag",1.5),("Large field pack",1),("Drag harness",0.5),("Multi-key / lockbreaker",2),("Cutting torch",3),("Med-kit",3),("Stimm (dose)",0.5),("Antitoxin (dose)",1),("Combat drug 'slaught' (dose)",1)])
+add("gear","R","MAF",[("Concentrated stimm (dose)",2),("Concentrated antitoxin (dose)",4)])
+add("gear","U","MB",[("Combat drug 'Quicksilver' (speed: +2 Athletics and moving)",1.5),("Combat drug 'Deadeye' (focus: +2 shooting)",1.5),("Combat drug 'Frenzon' (rage: +2 melee)",1.5)])
+add("gear","R","MAF",[("Servo-skull, gun (built-in laspistol)",30),("Servo-skull, burner (built-in micro-flamer)",35)])
 add("gear","U","B",[("Forged Munitorum ID chits",2),("Lock-picks, hive pattern",1),("Spoof-tag (fakes a transponder)",6),("Black-market data-slate",1)])
 add("gear","R","MAF",[("Cogitator spike",4),("Servo-skull (utility, used)",20),("Servo-skull (medicae)",25),("Bio-scanner",8),("Psy-occulus (warp detector)",15),("Jump pack (Guard pattern)",30),("Chameleoline cloak",12),("Medicae servitor (old)",30)])
 add("gear","R","E",[("Purity seal (blessed)",2),("Aquila rosary",1),("Reliquary fragment",10),("Blessed sacred oils (flask)",2),("Vial of shrine water",1)])

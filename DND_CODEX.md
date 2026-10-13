@@ -1056,6 +1056,24 @@ the single price.
   **+1 on your next roll against that target** (+2 on heavy weapons such as a
   thunder hammer or heavy stubber). 6 charges a fight, recharged at a coupling.
 
+### Drugs and servo-skulls (session 8)
+
+- **Stimm** (0.5 TV): keeps you on your feet; ignore the slowing of Hurt for one
+  fight. **Concentrated stimm** (rare, 2 TV): one step better for a fight (Badly
+  hurt fights as Hurt) and stabilises someone Down. Crash after: tired and slow
+  until rested.
+- **Antitoxin** (1 TV): purges early plague or poison. **Concentrated antitoxin**
+  (rare, 4 TV): purges deep infections too; the medic rolls at +5.
+- **Combat drugs** (uncommon, 1.5 TV a dose; one at a time): **Quicksilver** (+2
+  Athletics and moving), **Deadeye** (+2 shooting), **Frenzon** (+2 melee, -2 to
+  block or parry while it lasts). One fight each. **Backfire:** on taking a dose
+  roll a d20; on 1-3 it gives **-2** to the same thing instead. Every dose ends
+  in a crash.
+- **Servo-skull, gun** (rare, 30 TV): hovering skull with a laspistol; one shot a
+  beat at +0, directed by bead. **Servo-skull, burner** (rare, 35 TV): a
+  micro-flamer, a few metres' reach, 4 bursts a fight. Fragile: one solid hit
+  drops either.
+
 ### Custom weapons and crafting
 
 Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:

@@ -1505,6 +1505,55 @@
   "sellers": "MBF"
  },
  {
+  "name": "Concentrated stimm (dose)",
+  "tv": 2,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Concentrated antitoxin (dose)",
+  "tv": 4,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Combat drug 'Quicksilver' (speed: +2 Athletics and moving)",
+  "tv": 1.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MB"
+ },
+ {
+  "name": "Combat drug 'Deadeye' (focus: +2 shooting)",
+  "tv": 1.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MB"
+ },
+ {
+  "name": "Combat drug 'Frenzon' (rage: +2 melee)",
+  "tv": 1.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MB"
+ },
+ {
+  "name": "Servo-skull, gun (built-in laspistol)",
+  "tv": 30,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Servo-skull, burner (built-in micro-flamer)",
+  "tv": 35,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
   "name": "Forged Munitorum ID chits",
   "tv": 2,
   "cat": "gear",
