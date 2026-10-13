@@ -1012,6 +1012,9 @@ the single price.
 
 - **Hive shank** (common, 0.1 TV): a scrap knife anyone can make in minutes, no
   roll. Breaks on a natural 1.
+- **Scrap throwing knives** (common, 0.4 TV for 4; player design): cheap, anyone can
+  make a set from scrap in an hour, no roll. Thrown ~10 m; deadly on flesh and
+  flak, weak against carapace. A knife breaks on a natural 1.
 - **Combat axe** (common, 1 TV): fast and light. When your swing is blocked, the
   next swing in the exchange is at +1. Weak against carapace.
 - **Thunder hammer, intact** (rare, 50 TV): two-handed, devastating. Every hit

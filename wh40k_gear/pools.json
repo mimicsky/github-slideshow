@@ -924,6 +924,13 @@
   "sellers": "MB"
  },
  {
+  "name": "Scrap throwing knives (set of 4)",
+  "tv": 0.4,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
   "name": "Combat axe, Rashad pattern (fast, light)",
   "tv": 1,
   "cat": "melee",

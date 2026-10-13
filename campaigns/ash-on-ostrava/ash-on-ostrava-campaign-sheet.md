@@ -5,13 +5,15 @@ story lives in `book.md`.
 
 **To resume:** read the end of `book.md`, then this sheet, then the codex.
 
-**Where we stopped:** **Season Two, session 8.** ~1800 warp day 7. Everyone and
-everything aboard the *Bright Light*, docked at the Spindle's Bay Two (the Valk
-back in its hangar; the *Widow* left in Bay Two for Varn's people). Waiting on
-Kesh's answer to the two reports. Holt and Brann in cell 2. The vials in
-Tamsin's safe. Tavi stable (Badly hurt), Isk sick, Dace purged, Morcant and
-Tamsin Hurt. Ferro-Ashe wants dock time for the Geller generator before the
-next jump. Edrik Halm burned. Rematch with Varga after the mission.
+**Where we stopped:** **Season Two, session 8 (continued).** ~0815 warp day 8,
+the *Bright Light* docked at the Spindle. Waiting on Kesh's answer; **then to
+Saint Ivaine's Rest** (Tamsin: the vials are not staying aboard; the Rest's yards
+for the Geller generator; its bazaars for the crew's gifts). Holt and Brann in
+cell 2. Vigil blessed (Korren's breath). Gifts still wanted: Dace (shield-arm
+carapace fit, plasteel for a masterpiece blade), Sallow (drag harness,
+lascarbine), Mira (Valk rockets), Teo (flight jacket, pilot glasses), Ferro-Ashe
+(spare coupling, shielded data-case), Nessa (her needle pistol and knives, in
+Kesh's evidence locker). Rematch with Varga after the mission.
 
 **The road to Ustrennos (warp days 2-5, skipped; rolled openly):**
 - Tamsin's reps: day 2 STR +1.0, DEX +0.5, DEX +0.4; day 3 INT +1.0, STR +0.5, DEX +0.4; day 4 STR +1.0, CON +0.5, STR +0.4; day 5 INT +1.0, STR +0.5, CHA +0.4. **DEX passed 60 (+6).**
