@@ -5,11 +5,13 @@ story lives in `book.md`.
 
 **To resume:** read the end of `book.md`, then this sheet, then the codex.
 
-**Where we stopped:** **Season Two, session 8.** ~0405 warp day 7, Orsk's quarters
-behind the dockmaster's office, Ustrennos Station ring three. Orsk taken alive and
-turned; the clerk shot through the shoulder and held. Varga reports two teams
-ready (see the Ustrennos mission log). The *Grey Widow*'s crew report to Bay 3-14
-at 0900; she leaves at 1000. Rematch with Varga after the mission.
+**Where we stopped:** **Season Two, session 8.** ~1510 warp day 7, the Spindle,
+Bay Two. **The Spindle is taken** and stripped; all loot aboard the *Bright Light*
+(Tamsin helped load, light duty). Holt and his 2, Brann and his 8, the blister
+gunner and Orsk prisoners in the *Widow*. Tavi stable in medicae; Isk sick; Dace
+purged; Morcant and Tamsin Hurt. Valk repair ~2-3 more hours. The vials in
+Tamsin's safe. Not yet reported to Varn or Kesh. Rematch with Varga after the
+mission.
 
 **The road to Ustrennos (warp days 2-5, skipped; rolled openly):**
 - Tamsin's reps: day 2 STR +1.0, DEX +0.5, DEX +0.4; day 3 INT +1.0, STR +0.5, DEX +0.4; day 4 STR +1.0, CON +0.5, STR +0.4; day 5 INT +1.0, STR +0.5, CHA +0.4. **DEX passed 60 (+6).**
