@@ -1113,6 +1113,34 @@
   "sellers": "MAF"
  },
  {
+  "name": "Tempestus Scion helmet (rebreather, auspex; +2 Perception, +1 shooting)",
+  "tv": 25,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Mag belt / bandolier (+4 packs or mags ready)",
+  "tv": 0.5,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Melee sheath / scabbard (fits the weapon)",
+  "tv": 0.25,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Belt side-pouch (2 grenades or small kit)",
+  "tv": 0.25,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
   "name": "Sororitas power armour, damaged",
   "tv": 50,
   "cat": "armour",

@@ -1028,6 +1028,16 @@ the single price.
   sanctioned psyker's hands they burn with warp-fire; anyone else wields a plain
   sword (greatsword: two-handed, heavy).
 
+### Kit additions (session 8)
+
+- **Tempestus Scion helmet** (rare, 25 TV): built-in rebreather and auspex.
+  **+2 Perception, +1 on shooting.** Stacks with sights, not with another helmet.
+- **Mag belt / bandolier** (common, 0.5 TV): four more packs or mags on hand;
+  reloading from it never costs the beat.
+- **Melee sheath / scabbard** (common, 0.25 TV): sized to one weapon; drawing it
+  is part of the move.
+- **Belt side-pouch** (common, 0.25 TV): two grenades or small kit, ready to grab.
+
 ### Custom weapons and crafting
 
 Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:
