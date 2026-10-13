@@ -184,7 +184,7 @@ TV. **Added warp day 6 (Ostrava haul, stowed by Tamsin ~1500):** Tessaly's plasm
 
 The Light's container, Container 2 and the hold, all together. Supersedes the older lists above for counts.
 
-- **Long guns:** 38 hellguns (Cadian, Gate Guard green), **1 Gate Guard marksman's long-barrel hellgun with low-light scope** (Isk's wish), 5 lasguns (incl. the Kantrael), 1 pump shotgun, 1 spare working heavy stubber.
+- **Long guns:** 38 hellguns (Cadian, Gate Guard green), ~~1 Gate Guard marksman's long-barrel hellgun~~ **given to Isk** (warp day 8), 5 lasguns (incl. the Kantrael), 1 pump shotgun, 1 spare working heavy stubber.
 - **Sidearms:** 3 bolt pistols (2 Gate Guard officer pattern + Varro's father's, empty) with **21 bolt rounds** in 3 mags, 6 laspistols, 1 compact autopistol (2 mags), 2 stub pistols.
 - **Blades:** **Holt's power sabre** (Cadian officer pattern, field sound), 1 chainsword (chipped teeth), 4 Gate Guard bayonets.
 - **Armour:** 14 sound Gate Guard carapace sets + 5 chalk-marked (have them checked) + 2 holed; ~25 flak coats, ~25 visored helmets (old Rest haul); officers' dress uniforms.
