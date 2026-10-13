@@ -180,6 +180,24 @@ TV. **Added warp day 6 (Ostrava haul, stowed by Tamsin ~1500):** Tessaly's plasm
 
 **Bridge loot from the *Gate Unbroken*, rolled warp day 1 to Ustrennos (session 8):** loot d20 3 (nothing rare). From Drachen's 4 bodyguards: **4 hellguns** (sound), **2 hot-shot packs**, **2 sound sets of Gate Guard carapace** (the other 2 holed by Tamsin's shots), 2 laspistols, 4 Gate Guard bayonets. **Drachen's power sabre: kept by Kesh** (rolled 10; Ordo evidence, not released). His bolt pistol was destroyed. Running totals in the container from the flagship: **9 hellguns**, **7 sound Gate Guard carapace sets** (+2 holed), **14 hot-shot packs** (+4 from Kesh's requisition = 18), 4 frags, the vox-horn, 7 gold Gate Guard pins; the officer's power sword (field flickers) **given to Corvane** (warp day 1), with one sound Gate Guard carapace set and helm (6 sound sets left), to try against his wish for a cutlass. Dace to refit the plate; Corvane paints it grey and white. One Gate Guard bayonet set aside for Nessa (carried by Corvane until Tamsin says she's ready; 3 left). **Given to Nessa on ring three (~0315 warp day 7)** with a vox-bead Corvane carried for her (one of Kesh's two).
 
+### Inventory after Ustrennos (counted warp day 8, session 8)
+
+The Light's container, Container 2 and the hold, all together. Supersedes the older lists above for counts.
+
+- **Long guns:** 38 hellguns (Cadian, Gate Guard green), **1 Gate Guard marksman's long-barrel hellgun with low-light scope** (Isk's wish), 5 lasguns (incl. the Kantrael), 1 pump shotgun, 1 spare working heavy stubber.
+- **Sidearms:** 3 bolt pistols (2 Gate Guard officer pattern + Varro's father's, empty) with **21 bolt rounds** in 3 mags, 6 laspistols, 1 compact autopistol (2 mags), 2 stub pistols.
+- **Blades:** **Holt's power sabre** (Cadian officer pattern, field sound), 1 chainsword (chipped teeth), 4 Gate Guard bayonets.
+- **Armour:** 14 sound Gate Guard carapace sets + 5 chalk-marked (have them checked) + 2 holed; ~25 flak coats, ~25 visored helmets (old Rest haul); officers' dress uniforms.
+- **Ammunition:** ~80 hot-shot packs, ~40 las packs, 6 heavy stubber belts, ~320 shotgun shells.
+- **Grenades:** 14 frags, 2 kraks, 2 photon flashes (plus what each Light-bringer carries).
+- **Vox:** ~23 vox-beads, the Gate Guard officer's vox-horn.
+- **Medicae:** 21 antitoxin (15 of Kesh's blessed + 6 fleet), ~15 stimms, plague-ward filters and salve, a fleet medicae crate, a half-used medicae crate.
+- **Salvage and parts:** 2 plasteel ingots, 1 flask of sacred oil, ~20 station power cells, the rim gun's firing coupling.
+- **Valuables:** ~19 TV in gold and coin (Drachen's vault ~15, Orsk ~1, barracks ~3), Gate Guard gold pins, Holt's campaign medals, 14 bottles of spire amasec, 2 cases of spire wine (one bottle short).
+- **Trophies:** **the Gate Guard regimental standard** (white gate on Cadian green).
+- **Supplies:** the *Widow*'s 12 crates (rations, water drums, scrubber cartridges, power cells, medicae).
+- **For Kesh (locked away; the vials in Tamsin's safe):** the six vials and Thask's letter, the burst casket, 13 iron open-gate amulets, chalk, Dresh's ritual knife and prayer-book, Drachen's ledgers and slates, the Spindle logs, Brann's slate, Orsk's ledger, handshake slate, seal and master ID.
+
 ### Trade and debts
 
 - **Ottrick's slate (the Light's account): 0.75 TV in credit** (warp day 9). Sell container goods by word; his ratings fetch them.
