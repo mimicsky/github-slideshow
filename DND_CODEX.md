@@ -874,7 +874,12 @@ carries into the mission.
 
 The hub's armoury stock **refreshes each new day** aboard: a handful of items,
 priced in salvage or trade, never coin. Some are canon, some invented for the
-setting. The player may ask the quartermaster to **hold** an item; the
+setting. **Rolled stock (set by the player, Ash on Ostrava session 8).** Stock is never
+picked to match the wish list. It's rolled at random from a broad pool of
+setting gear (`campaigns/ash-on-ostrava/shop_roll.py`): a small hub rolls a handful
+of items, a big one (a fleet anchorage, a trade station) 14-18, and one open d20
+on a natural 20 adds a rare oddity from further afield. That way the player can
+stumble on things they never knew to ask for. The player may ask the quartermaster to **hold** an item; the
 quartermaster decides in character whether to, and for how long.
 
 **The quartermaster's slate (account).** Set in Ash on Ostrava, session 7. The

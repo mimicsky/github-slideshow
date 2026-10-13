@@ -198,6 +198,11 @@ The Light's container, Container 2 and the hold, all together. Supersedes the ol
 - **Supplies:** the *Widow*'s 12 crates (rations, water drums, scrubber cartridges, power cells, medicae).
 - **For Kesh (locked away; the vials in Tamsin's safe):** the six vials and Thask's letter, the burst casket, 13 iron open-gate amulets, chalk, Dresh's ritual knife and prayer-book, Drachen's ledgers and slates, the Spindle logs, Brann's slate, Orsk's ledger, handshake slate, seal and master ID.
 
+### Ustrennos fleet stores (Master of Stores Hadra Voss, ring two), stock rolled warp day 8
+
+Rare roll 10 (nothing odd). Refreshes daily. Prices in TV; Voss also buys Guard/Navy issue (dockets).
+5 chainswords (6), 1 case amasec (2), **5 bolt pistols (12)**, 1 Ryza-pattern hellgun (5), 2 autoguns (1), **1 hand auspex (6)**, **3 shock mauls (7)**, **1 hot-shot conversion kit for a lasgun (5)**, 1 mortar with 6 rounds (12), 10 entrenching tools (0.25), 1 climbing rig and grapnel (1.5), **1 power maul (25)**, 10 telescopic sights (3), 2 large field packs (1), **1 cogitator spike (4)**, **2 breaching charges (2)**.
+
 ### Trade and debts
 
 - **Ottrick's slate (the Light's account): 0.75 TV in credit** (warp day 9). Sell container goods by word; his ratings fetch them.
