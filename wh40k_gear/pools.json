@@ -1834,6 +1834,20 @@
   "sellers": "MF"
  },
  {
+  "name": "Valkyrie bolt-rocket pods, pair (6 rockets that burst into bolt rounds)",
+  "tv": 35,
+  "cat": "vehicle",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Las-cannon, medium tripod emplacement (one heavy beam every other beat)",
+  "tv": 35,
+  "cat": "heavy",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
   "name": "Valkyrie rocket pod (2 Hellstrike)",
   "tv": 20,
   "cat": "vehicle",

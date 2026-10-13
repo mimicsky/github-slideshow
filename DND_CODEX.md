@@ -1074,6 +1074,16 @@ the single price.
   micro-flamer, a few metres' reach, 4 bursts a fight. Fragile: one solid hit
   drops either.
 
+### Heavy and vehicle additions (session 8)
+
+- **Valkyrie bolt-rocket pods, pair** (rare, 35 TV; one of the best things a
+  Valkyrie can carry): 6 rockets. Each bursts over its target into a spray of
+  bolt rounds: everyone within ~6 m is hit through carapace. Fire 1-2 a pass.
+- **Las-cannon, medium tripod emplacement** (rare, 35 TV): smaller than the crew
+  lascannon, bigger than anything carried. Set up in a beat; **one heavy beam
+  every other beat** (it recharges). Through power armour and light vehicles;
+  needs a coupling or a power cell pack.
+
 ### Custom weapons and crafting
 
 Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:

@@ -101,6 +101,8 @@ add("salvage","U","ABF",[("Ceramite plate",3),("Servo-motor",3),("Machine-core",
 add("salvage","R","A",[("Cogitator relic",12),("Machine-spirit core (old weapon)",15),("Promethium crucible charge",10)])
 # --- Vehicle / ship ---
 add("vehicle","U","MF",[("Valkyrie multilaser charge pack",3),("Valkyrie fuel (load)",2),("Chimera spare track section",3)])
+add("vehicle","R","MF",[("Valkyrie bolt-rocket pods, pair (6 rockets that burst into bolt rounds)",35)])
+add("heavy","R","MF",[("Las-cannon, medium tripod emplacement (one heavy beam every other beat)",35)])
 add("vehicle","R","MF",[("Valkyrie rocket pod (2 Hellstrike)",20),("Valkyrie heavy bolter door-guns (pair)",45),("Void-shield emitter (salvage)",40),("Augur array (small ship)",30)])
 # --- Luxury / trade goods ---
 add("goods","C","BFE",[("Amasec (case)",2),("Recaff (sack)",0.5)])
