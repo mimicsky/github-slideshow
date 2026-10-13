@@ -385,6 +385,13 @@
   "sellers": "MAF"
  },
  {
+  "name": "Plasma pistol, 'Needle' pattern (compact, long barrel; slow heat: 1 per 4 shots; 12 shots a cell; lighter punch)",
+  "tv": 18,
+  "cat": "plasma",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
   "name": "Meltagun",
   "tv": 35,
   "cat": "melta",

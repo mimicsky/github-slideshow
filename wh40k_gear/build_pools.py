@@ -36,6 +36,7 @@ add("bolt","R","B",[("Bolt pistol, rebored (unstable)",8)])
 # --- Plasma / melta / flame ---
 add("plasma","R","MAF",[("Plasma pistol, Ryza pattern",25),("Plasma gun, Mars pattern",30),("Plasma gun, Ryza pattern",32)])
 add("plasma","U","MAF",[("Plasma cell",6)])
+add("plasma","R","MAF",[("Plasma pistol, 'Needle' pattern (compact, long barrel; slow heat: 1 per 4 shots; 12 shots a cell; lighter punch)",18)])
 add("melta","R","MAF",[("Meltagun",35),("Inferno pistol (Sororitas)",40)])
 add("melta","U","MF",[("Melta charge (spare)",5)])
 add("flame","U","MBEF",[("Flamer, Ryza pattern",8),("Hand flamer",6),("Promethium canister",1),("Ecclesiarchy 'cleansing' flamer",9)])

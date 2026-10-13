@@ -957,6 +957,19 @@ roll was 10 or more (raw), otherwise the beat is spent recovering. **Simple:**
 no magazines, loose bolt rounds, fast to reload. **Boltgun, Locke Mk IIb
 'Spearhead'** (rare, 26 TV) added to the bolt pool as the Darktide pattern.
 
+### Plasma heat
+
+Set session 8. Plasma weapons build heat: **standard plasma, 1 heat per 2 shots
+fired in a fight.** At **3 heat** the weapon must vent for one beat. Firing
+anyway at 3 heat: d20, on 1-5 it **overheats** (the bearer is burned, Hurt, and
+the weapon is out of the fight). Heat clears after venting or when the fight
+ends. Slow-filled and rushed cells keep their own misfire chances.
+
+**Plasma pistol, 'Needle' pattern** (player design, rare, 18 TV). Smaller frame,
+longer barrel. **Heat: 1 per 4 shots.** Gets **12 shots from a standard cell**
+(not 8). Lighter punch than a full plasma pistol: through carapace on any hit,
+but power armour only on a solid hit (beats the shot by 3+).
+
 ### Custom weapons and crafting
 
 Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:
