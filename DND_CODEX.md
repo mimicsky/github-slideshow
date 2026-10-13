@@ -1001,6 +1001,13 @@ detonator (line of sight or ~100 m). One satchel does what two kraks do to a
 door; anyone within ~4 m is hit hard. **Armed, it beeps:** heard within a couple
 of metres, or further on a good Perception roll.
 
+### Ammo crates
+
+Set by the player, session 8. Whenever ammunition turns up, in a shop roll or as
+loot, roll a d20: **on 15+, or when the story makes it plain (an armoury, a supply
+dump), it's an ammo crate: four times the amount.** In shops a crate costs 3.5x
+the single price.
+
 ### Custom weapons and crafting
 
 Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:

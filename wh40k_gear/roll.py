@@ -6,6 +6,7 @@ Usage: python3 roll.py SELLER SIZE
   SIZE:   small (5-7 items), medium (9-12), large (14-18)
 Rarity weights: common 55, uncommon 32, rare 13. A separate open d20:
 on a natural 20, one exotic oddity is added. Prints the d20 so it can be shown.
+Ammo: each ammo line rolls a d20; on 15+ it comes as an ammo crate (x4, 3.5x price).
 """
 import json, random, sys, os
 here = os.path.dirname(os.path.abspath(__file__))
@@ -27,6 +28,11 @@ d20 = random.randint(1, 20)
 print(f"seller {seller}, size {size}, exotic d20: {d20}")
 for i in picked:
     q = random.choice(qty_by_cat.get(i["cat"], [1, 1, 1, 2, 3]))
+    if i["cat"] == "ammo":
+        crate = random.randint(1, 20)
+        if crate >= 15:
+            print(f"{q} x AMMO CRATE of {i['name']} (x4 each; crate d20 {crate}) - {i['tv']*3.5:g} TV a crate")
+            continue
     print(f"{q} x {i['name']} ({i['rarity']}) - {i['tv']} TV")
 if d20 == 20:
     ex = random.choice([i for i in items if i["rarity"] == "X"])
