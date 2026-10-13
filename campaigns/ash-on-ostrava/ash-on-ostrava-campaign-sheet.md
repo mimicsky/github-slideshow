@@ -10,7 +10,7 @@ story lives in `book.md`.
 landed back in **Bay 3-14, Ustrennos Station**. Flight quiet (16). **The five
 dockhands were found and freed by station security (1)** and talked. Reception
 (3): **a station security squad (8 armsmen) under Watch-Captain Ilsa Merrick**,
-and ~30 angry dockhands at the bay edge. The rest of the Light at the Spindle
+and ~30 angry dockhands at the bay edge. Merrick checked Varn's seal and stood her armsmen down. Nessa brought Orsk out bound; **the crowd surged (3)**, shouting, wrench man in front. 
 with the *Bright Light* until the Valk is fixed. Spindle loot all aboard the
 *Bright Light*; the vials in Tamsin's safe.
 
