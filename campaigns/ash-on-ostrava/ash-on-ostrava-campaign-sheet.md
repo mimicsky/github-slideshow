@@ -210,6 +210,8 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 
 **Specialties (set session 8, at the player's request).** Each member of the Light has a role specialty: **+2 on rolls of that kind**. Drilling the specialty as the day's training adds progress: **every 10 drill days, +1, to a max of +5**.
 
+**Training plan (Tamsin, 0530 warp day 8, while waiting on Kesh):** Kell: close-range shots, the chain axe, leading. Varga: shooting. Hollis: throws and arcs, some grenade tinkering. Morcant: strength to hold the stubber, recoil control (one-armed till the sling's off). Brenner: stripping and rebuilding ship tech, weapon upgrade ideas for the crew. **Isk: shooting at close, medium and long range, the most of anyone** (light drills while sick). Tavi: explosives research and tinkering (from his cot). Sallow: medicine research, speed. Corvane: CQC and speed. Nessa: stealth, speed, acrobatics. Mira and Teo: scouting research and evasion analysis. (Dace and Ferro-Ashe not assigned yet.)
+
 | Who | Specialty (+2) |
 | --- | --- |
 | Kell | Close assault (chain axe, plasma pistol) and rallying the Light |
