@@ -13,7 +13,7 @@ cell 2. Vigil blessed (Korren's breath). Gifts still wanted: Dace (shield-arm
 carapace fit, plasteel for a masterpiece blade), Sallow (drag harness,
 lascarbine), Mira (Valk rockets), Teo (flight jacket, pilot glasses), Ferro-Ashe
 (spare coupling, shielded data-case), Nessa (her needle pistol and knives, in
-Kesh's evidence locker). Rematch with Varga after the mission.
+Kesh's evidence locker). Rematch with Varga after the mission. **Geller generator:** Ferro-Ashe can make a full repair in ~2 days at the Spindle using a Mechanicus coupling stripped from the Spindle's own power plant (found, 16) and 1 plasteel ingot; a proper yard would take 3, and a patch for one more jump is already holding.
 
 **The road to Ustrennos (warp days 2-5, skipped; rolled openly):**
 - Tamsin's reps: day 2 STR +1.0, DEX +0.5, DEX +0.4; day 3 INT +1.0, STR +0.5, DEX +0.4; day 4 STR +1.0, CON +0.5, STR +0.4; day 5 INT +1.0, STR +0.5, CHA +0.4. **DEX passed 60 (+6).**
