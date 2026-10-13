@@ -73,7 +73,8 @@ add("armour","C","MB",[("Flak vest",0.5),("Flak armour set",1),("Flak helmet",0.
 add("armour","U","MBF",[("Carapace armour set",8),("Carapace chest plate",4),("Mesh armour (light, quiet)",5),("Boarding shield",4),("Void-suit, Navy",4),("Hazard suit (plague-rated)",5),("Arbites carapace",10)])
 add("armour","R","MAF",[("Storm trooper carapace set",15),("Storm shield (power field)",30),("Refractor field",25),("Conversion field (damaged)",35),("Skitarii armour (augmetic fit)",18)])
 add("armour","R","MF",[("Tempestus Scion helmet (rebreather, auspex; +2 Perception, +1 shooting)",25)])
-add("gear","C","MBF",[("Mag belt / bandolier (+4 packs or mags ready)",0.5),("Melee sheath / scabbard (fits the weapon)",0.25),("Belt side-pouch (2 grenades or small kit)",0.25)])
+add("gear","U","MBF",[("Back gun-scabbard / heavy sling mount (carry a second long gun or a heavy on the back)",1)])
+add("gear","C","MBF",[("Mag belt / bandolier (+4 packs or mags ready)",0.5),("Melee sheath / scabbard (fits the weapon)",0.25),("Belt side-pouch (2 grenades or small kit)",0.25),("Pistol holster (hip or chest)",0.25)])
 add("armour","R","E",[("Sororitas power armour, damaged",50),("Rosarius (blessed field, small)",30)])
 # --- Optics / sights / mods ---
 add("mod","U","MBF",[("Reflex sight",3),("Telescopic sight",3),("Photo-visor (low-light)",2),("Magnoculars",1.5),("Bipod",0.5),("Weapon sling, padded",0.25),("Quick-draw holster",0.5),("Silencer (stub/auto)",2),("Extended magazine",1),("Bayonet lug kit",0.25),("Laser designator",3)])

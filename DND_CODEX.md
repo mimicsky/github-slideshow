@@ -1037,6 +1037,8 @@ the single price.
 - **Melee sheath / scabbard** (common, 0.25 TV): sized to one weapon; drawing it
   is part of the move.
 - **Belt side-pouch** (common, 0.25 TV): two grenades or small kit, ready to grab.
+- **Back gun-scabbard / heavy sling mount** (uncommon, 1 TV): carries a second long gun or a heavy weapon across the back; swapping to it is one move, not a beat. For anyone running two big guns (Morcant: stubber and pump).
+- **Pistol holster** (common, 0.25 TV): hip or chest; the quick-draw rig (0.5 TV) is faster.
 
 ### Custom weapons and crafting
 

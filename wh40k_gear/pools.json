@@ -1120,6 +1120,13 @@
   "sellers": "MF"
  },
  {
+  "name": "Back gun-scabbard / heavy sling mount (carry a second long gun or a heavy on the back)",
+  "tv": 1,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Mag belt / bandolier (+4 packs or mags ready)",
   "tv": 0.5,
   "cat": "gear",
@@ -1135,6 +1142,13 @@
  },
  {
   "name": "Belt side-pouch (2 grenades or small kit)",
+  "tv": 0.25,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Pistol holster (hip or chest)",
   "tv": 0.25,
   "cat": "gear",
   "rarity": "C",
