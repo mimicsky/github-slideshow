@@ -385,6 +385,20 @@
   "sellers": "MAF"
  },
  {
+  "name": "Tuned plasma cell (12 shots, not 8)",
+  "tv": 10,
+  "cat": "plasma",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Plasma blaster, twin-cell 'Lumen' pattern (2 cells; chains up to 4; heat 1 per 4 shots; pistol punch)",
+  "tv": 35,
+  "cat": "plasma",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
   "name": "Plasma pistol, 'Needle' pattern (compact, long barrel; slow heat: 1 per 4 shots; 12 shots a cell; lighter punch)",
   "tv": 18,
   "cat": "plasma",
