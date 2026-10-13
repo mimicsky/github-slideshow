@@ -193,7 +193,7 @@ The Light's container, Container 2 and the hold, all together. Supersedes the ol
 - **Vox:** ~23 vox-beads, the Gate Guard officer's vox-horn.
 - **Medicae:** 21 antitoxin (15 of Kesh's blessed + 6 fleet), ~15 stimms, plague-ward filters and salve, a fleet medicae crate, a half-used medicae crate.
 - **Salvage and parts:** 2 plasteel ingots, 1 flask of sacred oil, ~20 station power cells, the rim gun's firing coupling.
-- **Bought from Master Voss (warp day 8, 17 TV in gold):** a hand auspex, a shock maul, a cogitator spike, 1 breaching charge (delivered to the *Bright Light*).
+- **Bought from Master Voss (warp day 8, 17 TV in gold):** a hand auspex, a shock maul, a cogitator spike, 1 breaching charge (delivered to the *Bright Light*). **Handed out:** auspex and cogitator spike to **Brenner**; shock maul to **Morcant**; the breaching charge to **Tavi**'s kit (Morcant carried it).
 - **Valuables:** ~2 TV in gold and coin left (17 spent with Voss), Gate Guard gold pins, Holt's campaign medals, 14 bottles of spire amasec, 2 cases of spire wine (one bottle short).
 - **Trophies:** **the Gate Guard regimental standard** (white gate on Cadian green).
 - **Supplies:** the *Widow*'s 12 crates (rations, water drums, scrubber cartridges, power cells, medicae).
