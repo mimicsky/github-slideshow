@@ -469,6 +469,7 @@ Tamsin sent the whole list. Kesh's mood (1): irritated; "an Interrogator, not a 
   - **Drachen's private ledgers and data-slates** (for Kesh)
   - Empty racks and pried-open strongboxes where the rest used to be.
 - **Holt surrendered (Tamsin's threat, 14):** came down from the command deck to the vault antechamber, unarmed, with **his last 2 men**. (Tally: 46 holdouts; 8 taken in Bay Two, 12 response team, 3 blister crew, 5 at the bulkhead, 15 marked men and Dresh in the antechamber; Holt and 2 left.)
+- **~1150:** Tamsin walked past Holt without a word; Kell and Corvane bound Holt and his two (Dace was below with Sallow). In Bay Two: **antitoxin on Dace (12): purged**, weak for a day; **Isk (8): fever holding**, second dose, sick (Hurt) a few days. Team 1 met Tamsin on the spoke coming up; the vials are in Tamsin's safe. Nessa guarding the prisoners in the *Widow* with Morcant (11). **Ferro-Ashe on the Valk (8): more damage than Mira saw, 5-6 hours.**
 - **Holt and the cult (hidden, rolled 19):** Holt is not a cultist and is losing control. A faction of his men took the Open Gate mark under a sergeant who calls himself **the Gate Captain** (the letter's addressee). Holt holds the command deck with the loyal-but-unbroken; the cult faction holds the barracks and the vault approach. Holt knows they're out of hand, not what they really are.
 - **Holt (hidden, 13):** pulled his ~23 back to the hub; barricading the command deck and the vault; waiting for the Light to come up the spoke.
 
