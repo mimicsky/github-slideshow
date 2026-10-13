@@ -193,7 +193,8 @@ The Light's container, Container 2 and the hold, all together. Supersedes the ol
 - **Vox:** ~23 vox-beads, the Gate Guard officer's vox-horn.
 - **Medicae:** 21 antitoxin (15 of Kesh's blessed + 6 fleet), ~15 stimms, plague-ward filters and salve, a fleet medicae crate, a half-used medicae crate.
 - **Salvage and parts:** 2 plasteel ingots, 1 flask of sacred oil, ~20 station power cells, the rim gun's firing coupling.
-- **Valuables:** ~19 TV in gold and coin (Drachen's vault ~15, Orsk ~1, barracks ~3), Gate Guard gold pins, Holt's campaign medals, 14 bottles of spire amasec, 2 cases of spire wine (one bottle short).
+- **Bought from Master Voss (warp day 8, 17 TV in gold):** a hand auspex, a shock maul, a cogitator spike, 1 breaching charge (delivered to the *Bright Light*).
+- **Valuables:** ~2 TV in gold and coin left (17 spent with Voss), Gate Guard gold pins, Holt's campaign medals, 14 bottles of spire amasec, 2 cases of spire wine (one bottle short).
 - **Trophies:** **the Gate Guard regimental standard** (white gate on Cadian green).
 - **Supplies:** the *Widow*'s 12 crates (rations, water drums, scrubber cartridges, power cells, medicae).
 - **For Kesh (locked away; the vials in Tamsin's safe):** the six vials and Thask's letter, the burst casket, 13 iron open-gate amulets, chalk, Dresh's ritual knife and prayer-book, Drachen's ledgers and slates, the Spindle logs, Brann's slate, Orsk's ledger, handshake slate, seal and master ID.
