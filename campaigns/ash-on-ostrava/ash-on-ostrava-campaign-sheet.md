@@ -457,6 +457,17 @@ Tamsin sent the whole list. Kesh's mood (1): irritated; "an Interrogator, not a 
 - **Beat 1 in the antechamber:** Tamsin's impact frag (19) into the packed rows: **8 of the 15 dead or down.** Dresh flinched and threw himself over the casket (2), ritual faltering. Survivors' shots missed (6, 11, 2). Team arrived: **Kell dropped one (12), Corvane's revolver killed one (19)**, Isk missed (8), Dace came up at Tamsin's shoulder (11). **5 standing: 4 charging Tamsin, 1 back by the vault; and Dresh.**
 - **Beat 2:** **Shameholder overdrive** (13/16, kept 16). Tamsin cut down two of the four (their 16, 4). The cleaver man's blow was unstoppable (19) but rang off Tamsin's pauldron; the carapace held (still Hurt); **Kell shot him dead (19).** Dace killed the fourth (14 vs 5). **Isk killed the one by the vault (19).** Corvane missed Dresh (2). **All 15 marked men down.** **Dresh (18) cut his palm and pressed it to the seed: the bulb split and green spore-mist is pouring out.** Overdrive running (~20 s left), spent after this fight.
 - **Beat 3:** Tamsin masked up; **CON save 15, passed** (rebreather; no seal burned). **Shameholder in overdrive, natural 19 (crit, unstoppable): Dresh cut down and the seed hacked apart in its casket.** The mist stopped pouring but lingers (10); the room needs venting. Team masked with Kesh's ward-filters: **Kell (10) and Corvane (16) passed; Dace (7) and Isk (4) failed: plague-touched**, coughing, early fever; Kesh's blessed antitoxin should purge it if given within hours. Overdrive spent for this fight. **The vault stands open.**
+- **After (~1140):** Dace and Isk sent down to Sallow in Bay Two for antitoxin. **The *Bright Light* docked; Tavi on the medicae table (19): stable, will live** (Badly hurt, weeks to mend).
+- **Drachen's vault (loot 11, nothing rare; richness 5: picked over by six weeks of payments to Orsk and the cult's looting; no taint inside, 14):**
+  - 1 crate of **20 hot-shot packs**
+  - **2 Gate Guard officers' bolt pistols** with **3 magazines (21 bolt rounds)**
+  - Drachen's gold: coin and two small bars, **~15 TV**
+  - A **fleet medicae crate**: 10 stimms, 6 antitoxin, counterseptic, sutures
+  - A crate of **30 las packs** and **4 heavy stubber belts**
+  - A case of spire amasec (12 bottles)
+  - The **Gate Guard's regimental standard** (white gate on Cadian green), furled in a case
+  - **Drachen's private ledgers and data-slates** (for Kesh)
+  - Empty racks and pried-open strongboxes where the rest used to be.
 - **Holt and the cult (hidden, rolled 19):** Holt is not a cultist and is losing control. A faction of his men took the Open Gate mark under a sergeant who calls himself **the Gate Captain** (the letter's addressee). Holt holds the command deck with the loyal-but-unbroken; the cult faction holds the barracks and the vault approach. Holt knows they're out of hand, not what they really are.
 - **Holt (hidden, 13):** pulled his ~23 back to the hub; barricading the command deck and the vault; waiting for the Light to come up the spoke.
 
