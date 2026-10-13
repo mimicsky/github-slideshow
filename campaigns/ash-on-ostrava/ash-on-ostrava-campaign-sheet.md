@@ -47,13 +47,13 @@ next jump. Edrik Halm burned. Rematch with Varga after the mission.
    stay with the Lantern. The Light now works for Kesh on its own missions.
 
 - **Started:** 2026-10-03
-- **Sessions played:** 8
+- **Sessions played:** 8 (Season Two: 1 mission)
 - **Season 1:** *Seed of Nurgle* (**ended** warp day 20, session 7: Drachen in chains, the evidence delivered, Tamsin made Interrogator; **closed out** session 8: trial and execution, judgements, the ship)
 - **System:** D&D 5e chassis reskinned for Warhammer 40,000, narrative mode, all
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
-- **Character level:** 9 (reached warp day 20, the *Gate Unbroken*). Level 8 ASI spent on DEX. Fighter 9: **Indomitable** (reroll a failed save, once per long rest). Proficiency **+4**.
-- **XP:** 49,975. Level 10 at 64,000.
+- **Character level:** **10** (reached session 8, the Spindle). Level 8 ASI spent on DEX. Fighter 9: **Indomitable** (reroll a failed save, once per long rest). Champion 10: **Additional Fighting Style** (to choose at the table). Proficiency **+4**.
+- **XP:** 64,475. Level 11 at 85,000.
 
 | XP by session | XP |
 | --- | --- |
@@ -64,6 +64,7 @@ next jump. Edrik Halm burned. Rematch with Varga after the mission.
 | Session 5 (Saint Ivaine's Rest: Kesh saved, ambush, page delivered) | 5,750 |
 | Session 6, Ostrava mission (the *Ember* taken, Strahn rescued, Tessaly and 24 others captured alive, no deaths) | 8,500 |
 | Session 7 (the crypt and the evidence; Kesh's judgement; the *Gate Unbroken* boarded, Drachen taken alive, no Light-bringer lost) | 15,500 |
+| Session 8 (Season One close-out; Season Two mission 1: Ustrennos, Orsk turned, the Spindle taken, 46 holdouts dead or captured, Dresh and the seed destroyed, six plague vials intercepted, no Light-bringer lost) | 14,500 |
 
 ---
 
@@ -259,6 +260,19 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | **Colonel Maask** | Ostrava garrison, officers' tier, level nine. Strahn's friend of twenty years | Wants to give Kesh evidence on Strahn's 'illness'. Knows Drachen arrives in three days |
 | **Sgt Brask**, **Odo Fensk** | Spire security, level four; Dock Six controller | Covered the Dock Six fight as a 'dock brawl'; Fensk's report due end of shift |
 | **Lio Ottrick** | Ottrick's daughter, 11. Thin, sharp, grey-eyed. Carries Maret's tin box | Aboard the Lantern with her father since warp day 7 |
+
+### Ustrennos people (Season Two, mission 1)
+
+| Name | Who | State |
+| --- | --- | --- |
+| **Commodore Hale Varn** | Senior remnant captain at Ustrennos, flag on the *Iron Litany*. Declared for Kesh third | Knew of Orsk's runs and looked away; admitted it; gave the Ordo authorization and the Spindle's contents; writing Kesh a full report. **Friend of the Light** ('a berth, a ship, or a friend at Ustrennos') |
+| **Lt. Daran Kole** | Varn's flag lieutenant | Pulled the Spindle plans |
+| **Master Tull Orsk** | Ustrennos dockmaster | Supplied the Spindle for Drachen's gold; turned; flew the Light in; confessed to his men. In Merrick's brig for Varn's judgement; Tamsin asked for leniency |
+| **Watch-Captain Ilsa Merrick** | Ustrennos Station security | Holds 11 prisoners (incl. Orsk) for Varn; writing a report |
+| **Captain Severin Holt** | Gate Guard captain, held the Spindle | Surrendered; **cell 2, *Bright Light***, for Kesh. Not a cultist; ashamed |
+| **Sergeant Brann** | Gate Guard sergeant | Captured in Bay Two; **cell 2, *Bright Light***, for Kesh |
+| **Sergeant Malk Dresh, 'the Gate Captain'** | Nurgle cult leader among the Gate Guard | **Dead**, with his seed |
+| **Orlen Thask** | Cult broker, Torvane's Mart, Low Quay ('Thask & Daughters, Bonded Carriers'), 'speaks for the gardeners'. Nessa's old employer | At large. Tamsin asked Kesh for leave to hunt him |
 
 ### New crew, Season Two (session 8, rolled openly)
 
