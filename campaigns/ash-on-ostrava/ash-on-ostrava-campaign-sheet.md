@@ -470,6 +470,7 @@ Tamsin sent the whole list. Kesh's mood (1): irritated; "an Interrogator, not a 
   - Empty racks and pried-open strongboxes where the rest used to be.
 - **Holt surrendered (Tamsin's threat, 14):** came down from the command deck to the vault antechamber, unarmed, with **his last 2 men**. (Tally: 46 holdouts; 8 taken in Bay Two, 12 response team, 3 blister crew, 5 at the bulkhead, 15 marked men and Dresh in the antechamber; Holt and 2 left.)
 - **~1150:** Tamsin walked past Holt without a word; Kell and Corvane bound Holt and his two (Dace was below with Sallow). In Bay Two: **antitoxin on Dace (12): purged**, weak for a day; **Isk (8): fever holding**, second dose, sick (Hurt) a few days. Team 1 met Tamsin on the spoke coming up; the vials are in Tamsin's safe. Nessa guarding the prisoners in the *Widow* with Morcant (11). **Ferro-Ashe on the Valk (8): more damage than Mira saw, 5-6 hours.**
+- **~1200, *Bright Light* medicae:** Tamsin vented to Sallow (his first mission, his team hurt); Sallow: nobody died, the plague was stopped, that's the job. Sallow re-dressed his side properly: **Hurt, mending; a few days' light duty.**
 - **Stripping the Spindle (ordered ~1155; ~3 hours; rolled, to be reported when done):**
   - *Hub armoury (5, picked over):* 4 lasguns, 1 working heavy stubber, 10 las packs, **2 krak grenades**, 4 frags.
   - *Barracks (18):* Gate Guard pins, lho, ~3 TV in coin, 6 vox-beads, and **a Gate Guard marksman's long-barrel hellgun with a low-light scope** (Isk's wish).
