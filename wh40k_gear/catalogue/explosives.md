@@ -45,7 +45,7 @@ thrower's feet. Cultists make them; the gas is their god's:
 | Blood (Khorne) | Red rage-mist | WIS save or must attack the nearest person next beat, friend or foe |
 | Excess (Slaanesh) | Sweet euphoric haze | WIS save or lose their next beat, lost in it |
 | Change (Tzeentch) | Shimmering vision-smoke | WIS save or -3 on every shot and throw next beat (they see too many targets) |
-| Undivided / generic | Choking smoke | CON save or -2 on everything next beat; blocks sight like smoke |
+| Undivided / generic | Tear gas mixed with thick smoke | Blocks sight like a smoke grenade. CON save or eyes stream and lungs burn: -2 on shots, throws and Perception while in it and for 1 beat after, and no aimed shots. A gas mask or rebreather stops the tear gas (not the smoke) |
 
 A rebreather or gas mask gives advantage on the save; a sealed void-suit or
 hazard suit is immune. Enemy cultists can carry them (extras and found-or-made).
