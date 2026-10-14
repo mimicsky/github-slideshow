@@ -161,6 +161,13 @@
   "sellers": "FA"
  },
  {
+  "name": "Lasgun, 'Kasr Duet' twin-focus pattern (two crystals, one barrel: a hit lands like a hellgun; 2 charge a pull; chains of 2; braced pad stock; rail)",
+  "tv": 7,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MFA"
+ },
+ {
   "name": "Duelling laspistol, noble-house pattern",
   "tv": 8,
   "cat": "las",

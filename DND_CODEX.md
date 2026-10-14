@@ -997,6 +997,16 @@ the target drops a health step next beat. Against carapace, only a solid hit
 (beats the target's roll by 3+) finds a gap. +1 on single aimed shots past 30 m.
 Spare darts uncommon, 2 TV for 8.
 
+**Lasgun, 'Kasr Duet' twin-focus pattern** (player design, rare, 7 TV; Munitorum,
+Free Traders, Mechanicus). Two crystals fire down one barrel, the second a
+split-second behind: one roll, and a hit lands both bolts, hitting like a hellgun
+(through carapace on a solid hit). Each pull uses 2 shots of charge. Shot chains of
+2 pulls at most. Big braced stock with a recoil pad: +1 on aimed shots braced on
+cover or prone, no recoil penalty. Longer barrel: +1 on single aimed shots past
+30 m. Rail handguard: one extra attachment (a sight and an underslung piece
+together). With a hot-shot conversion it hits harder still, but drains packs four
+times as fast.
+
 **Astartes bolters** (player designs). Space Marine guns, sized for a hand twice a
 human's: the bolt carbine (55 TV), bolt rifle (60) and auto bolt rifle (65) are
 **epic** (the exotic tier: natural-20 finds only); the heavy bolt rifle (90) and
