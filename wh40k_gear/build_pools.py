@@ -25,6 +25,9 @@ add("las","R","BF",[("Duelling laspistol, noble-house pattern",8),("Archeotech l
 add("stub","C","MB",[("Autogun, Agripinaa",1),("Autopistol",1),("Stub revolver",0.5),("Stub automatic",0.75),("Combat shotgun, pump",1.5)])
 add("stub","U","MBF",[("Combat shotgun, semi-auto",2),("Ripper gun / drum-fed shotgun",3),("Braced autogun (heavy barrel)",2.5),("Sawn-off shotgun",1),("Hand cannon (big-bore stubber)",2),("Scrap autogun with drum",1.5)])
 add("stub","U","B",[("Silenced stub pistol",2.5),("Holdout stub pistol",1),("Hive-gang 'scattergun'",1),("Ganger's chain-fed autopistol",2)])
+# Player design (session 8): auto-revolver. Full rules in DND_CODEX Part 8.
+add("stub","U","MBF",[("Auto-revolver, 'Hammerfall' pattern, stub barrel (8-round cylinder, autogun rounds; hold-trigger chains up to 8, no hit bonuses in the chain)",2),("Auto-revolver, 'Hammerfall' pattern, long barrel (as stub; +1 on single aimed shots past 20 m)",2.5)])
+add("gear","C","MBF",[("Speedloader (auto-revolver)",0.25)])
 add("stub","R","MBF",[("Vraks-pattern sniper autorifle",7),("Lucius-pattern 'Ironclad' shotgun",4),("Arbites combat shotgun (shock shells)",6)])
 # --- Bolt ---
 add("bolt","U","MF",[("Bolt pistol, Godwyn-Deaz (officer)",12)])
@@ -63,6 +66,8 @@ add("ammo","R","MF",[("Kraken-pattern bolt rounds (10, Astartes)",20),("Hellfire
 add("melee","C","MB",[("Combat knife",0.25),("Bayonet",0.25),("Entrenching tool",0.25),("Trench club",0.25),("Cadian machete",0.5)])
 add("melee","U","MBF",[("Navy cutlass",2),("Chainsword",6),("Chain axe",8),("Shock maul",7),("Mono-knife",3),("Krieg trench shovel (sharpened)",0.5),("Officer's sabre",3),("Chain knife",3),("Shock baton (Arbites)",4)])
 add("melee","R","MAF",[("Power maul",25),("Power sword",30),("Power axe",30),("Power knife",15),("Chainsword, Lucius heavy",10),("Eviscerator (two-handed chainsword)",22),("Thunder hammer (damaged)",40)])
+# Player design (session 8): plasteel throwing knives. Full rules in DND_CODEX Part 8.
+add("melee","R","BF",[("Plasteel throwing knives, 'Callidus' pattern, wavy blade (set of 6; through carapace on a solid hit; wound -2 to treat)",4)])
 add("melee","C","MB",[("Hive shank (scrap knife)",0.1),("Scrap throwing knives (set of 4)",0.4),("Combat axe, Rashad pattern (fast, light)",1)])
 add("melee","R","MAF",[("Thunder hammer, Crucis pattern (intact; heavy, slow)",50),("Power falchion (duelling blade)",28),("Omnissian power sword (Mechanicus)",32),("Transonic blades, paired (Skitarii)",30)])
 add("melee","R","F",[("Blaze force sword (psyker only)",45),("Blaze force greatsword (psyker only)",60)])

@@ -950,6 +950,15 @@ through carapace on a solid hit (beats the shot by 3+). Chains up to 6; good for
 suppression. **Heat:** each chain of 4+ shots adds 1; at 3 it must vent one beat;
 firing anyway at 3: d20, 1-5 cracks the coil. Heavy: -2 from the hip, none braced.
 
+**Auto-revolver, 'Hammerfall' pattern** (player design, uncommon; stub 2 TV, long
+2.5 TV). Full-metal frame, built-in iron sights, an 8-round cylinder of autogun
+rounds (autogun punch: through carapace only on a solid hit). Holding the trigger
+hammers the cylinder: a shot chain of up to 8. Recoil: in that rapid chain, hits
+give no +2/+1 to the next shot; misses still give -1. Single aimed shots work as
+normal. Stub barrel: +1 within 10 m, -2 past 20 m, easy to hide. Long barrel: +1 on
+single aimed shots past 20 m. Reloading loose rounds takes a full beat; a
+speedloader (common, 0.25 TV) makes it half a beat.
+
 **Bolt-shotgun, 'Breacher' pattern** (player design, rare, 10 TV). A short,
 single-shot breech-loader that fires one bolt round as a slug: hits like a
 boltgun. **Recoil:** at most 2 shots a beat; the second shot only if the first
@@ -1015,6 +1024,14 @@ the single price.
 - **Scrap throwing knives** (common, 0.4 TV for 4; player design): cheap, anyone can
   make a set from scrap in an hour, no roll. Thrown ~10 m; deadly on flesh and
   flak, weak against carapace. A knife breaks on a natural 1.
+- **Plasteel throwing knives, 'Callidus' pattern** (rare, 4 TV for 6; player design):
+  forged plasteel, wavy blade, thrown ~10 m. Easily through flak; through carapace
+  on a solid hit (beats the target's roll by 3+). The wavy wound is hard to close:
+  treating it is at -2, and if it is untreated by the end of the fight the target
+  drops one health step. A knife is lost (dropped, not broken) only on a natural 1.
+  **Forging:** 1 plasteel ingot makes 6 in a day at a forge, with the smith's roll:
+  success 6; near miss 4; fail, the ingot is wasted; natural 20, 6 masterwork
+  (+1 to throw).
 - **Combat axe** (common, 1 TV): fast and light. When your swing is blocked, the
   next swing in the exchange is at +1. Weak against carapace.
 - **Thunder hammer, intact** (rare, 50 TV): two-handed, devastating. Every hit

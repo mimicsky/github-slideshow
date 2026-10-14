@@ -273,6 +273,27 @@
   "sellers": "B"
  },
  {
+  "name": "Auto-revolver, 'Hammerfall' pattern, stub barrel (8-round cylinder, autogun rounds; hold-trigger chains up to 8, no hit bonuses in the chain)",
+  "tv": 2,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Auto-revolver, 'Hammerfall' pattern, long barrel (as stub; +1 on single aimed shots past 20 m)",
+  "tv": 2.5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Speedloader (auto-revolver)",
+  "tv": 0.25,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
   "name": "Vraks-pattern sniper autorifle",
   "tv": 7,
   "cat": "stub",
@@ -915,6 +936,13 @@
   "cat": "melee",
   "rarity": "R",
   "sellers": "MAF"
+ },
+ {
+  "name": "Plasteel throwing knives, 'Callidus' pattern, wavy blade (set of 6; through carapace on a solid hit; wound -2 to treat)",
+  "tv": 4,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "BF"
  },
  {
   "name": "Hive shank (scrap knife)",
