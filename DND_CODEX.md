@@ -1196,6 +1196,17 @@ the single price.
   exchange. It bites like a chainsword (through flak easily, carapace on a solid
   hit), but its short reach takes -1 to parry longer blades. Loud when running,
   so no quiet kills; switched off it is a poor, dull blade. Can't be thrown.
+- **Injector stiletto, 'Kasr Sting' pattern** (uncommon, 2 TV; player design): a
+  slim, dead-straight stiletto with an injection channel running inside the blade
+  from the base to the point, fed by a screw-in vial in the pommel (1 dose). The
+  hilt is a skeleton throwing-knife frame wrapped in olive-green cord, so it is
+  easily made. The thin blade finds gaps: through flak easily, through carapace on a
+  solid hit. **Injection:** any hit that wounds delivers the vial, and the liquid
+  does what it does: a toxin (CON save or drop a health step), a paralytic (CON
+  save or can't move or act next beat), or a stimm or antitoxin into an ally. Swapping
+  the vial takes a beat. Throwable, about 8 m; it still injects on a hit, but a
+  natural 1 on the throw cracks the vial. Vials: toxin 1 TV, paralytic 1.5 TV
+  (uncommon, black market and Free Traders).
 - **Combat axe** (common, 1 TV): fast and light. When your swing is blocked, the
   next swing in the exchange is at +1. Weak against carapace.
 - **Thunder hammer, intact** (rare, 50 TV): two-handed, devastating. Every hit
