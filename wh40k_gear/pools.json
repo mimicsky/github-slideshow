@@ -350,7 +350,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Machine pistol, 'Kasr Hornet' pattern (autogun rounds, 40-round mag; chains of 10, no hit bonuses; hair trigger; jams after 13+ rounds; dumps the mag when dropped)",
+  "name": "Machine pistol, 'Kasr Hornet' pattern (autogun rounds, 40-round mag; chains of 10, no hit bonuses; hair trigger; jams on shot dice 1-4 from the 13th continuous round; dumps the mag when dropped)",
   "tv": 2.5,
   "cat": "stub",
   "rarity": "U",

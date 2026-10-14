@@ -1040,9 +1040,12 @@ purpose-made magwell. Moulded plastek grip with ergonomic grooves, side-ejecting
 slide, a short barrel that takes no muzzle attachment. **Extremely fast:** shot
 chains of up to 10, with no hit bonuses in the chain (misses still -1). Autogun
 punch. **Hair trigger:** +1 on the first shot of a fight; drop-prone.
-**Malfunctions:** once 13 or more rounds have gone through it since the last reload
-or clearing, roll a d20 before each chain: on 1-10 it malfunctions. A natural 1 on
-any shot also forces a malfunction. Malfunction, d6: 1-2 jam (a beat to clear);
+**Malfunctions (heat of continuous fire):** the jam risk lives on the shot dice,
+with no extra rolls. Rounds are counted only while firing continuously, beat after
+beat; stopping for one beat resets the count (reloading doesn't matter). A chain is
+at most 10, so the risk starts when the shooter keeps firing into the next beat:
+from the 13th continuous round on, any shot die of **1-4** is a malfunction instead
+of the shot. A natural 1 on any shot is always a malfunction. Malfunction, d6: 1-2 jam (a beat to clear);
 3 misfire (that chain ends, no hit); 4 double feed (two beats to clear); 5 runaway
 (it fires the rest of the magazine uncontrolled, as a dropped dump below); 6 a part
 cracks (out of the fight until repaired). **Dropped:** on the drop-prone table's
