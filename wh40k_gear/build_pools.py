@@ -129,3 +129,48 @@ add("exotic","X","BFAEM",[
 ])
 json.dump(I, open("pools.json","w"), indent=1)
 print(len(I), "items")
+
+# --- Enemy loot pools (session 8, player-set) ---
+# What each enemy type carries when killed or looted. Rolled per enemy by roll_enemy.py.
+# Each slot lists (item, rarity). "Found or made" items are homemade or scavenged
+# pieces that only enemies carry; they can have quirks.
+E = {
+ "cultist": {
+  "weapon": [("Autogun, Agripinaa","C"),("Stub automatic","C"),("Stub revolver","C"),("Autopistol","C"),("Lasgun, Kantrael M36 (stolen)","C"),
+             ("Scrap autogun with drum","U"),("Sawn-off shotgun","U"),("Hive-gang 'scattergun'","U"),("Lasgun, Lucius No.98 (stolen)","U"),
+             ("Hellgun, Ryza pattern (stolen Guard issue)","R"),("Flamer, Ryza pattern (stolen)","R")],
+  "melee":  [("Hive shank (scrap knife)","C"),("Trench club","C"),("Cadian machete","C"),("Scrap throwing knives (set of 4)","C"),
+             ("Chain knife","U"),("Combat axe, Rashad pattern","U"),("Chainsword","U"),("Needle-blade (toxin)","R")],
+  "armour": [("Rags, no armour","C"),("Flak vest","C"),("Gas mask / rebreather","C"),("Flak armour set","U"),("Carapace chest plate (stolen)","R")],
+  "extra":  [("Nothing","C"),("Frag grenade","C"),("Black candles and chalk","C"),("Crude iron cult amulet","C"),("Stimm (dose)","U"),
+             ("Combat drug 'Frenzon' (dose)","U"),("Choke gas grenade","U"),("Cult prayer-book","R")],
+  "found":  [("Cult-forged blade (crude, sharp; +1 vs flesh, breaks on a natural 1)","U"),("Jury-rigged autogun (fires full chains; jams on a 1-2)","U"),
+             ("Pipe-bomb (frag, short fuse; a natural 1 goes off in hand)","U"),("Stolen officer's laspistol","U"),
+             ("Desecrated chainsword (spiked, roars; -1 to parry with it)","R"),("Krak grenade (stolen)","R"),("Plasma pistol, Ryza pattern (stolen, slow-filled cell)","R")],
+ },
+ "raider": {
+  "weapon": [("Autogun, Agripinaa","C"),("Autopistol","C"),("Stub automatic","C"),("Combat shotgun, pump","C"),
+             ("Ganger's chain-fed autopistol","U"),("Hive-gang 'scattergun'","U"),("Auto-revolver, 'Hammerfall' pattern, stub barrel","U"),("Braced autogun (heavy barrel)","U"),
+             ("Hand cannon (big-bore stubber)","U"),("Ripper gun / drum-fed shotgun","R"),("Heavy stubber","R")],
+  "melee":  [("Hive shank (scrap knife)","C"),("Combat knife","C"),("Combat axe, Rashad pattern","C"),("Scrap throwing knives (set of 4)","C"),
+             ("Chain knife","U"),("Shock baton (Arbites, stolen)","U"),("Mono-knife","U"),("Chain axe","R")],
+  "armour": [("Leathers, no armour","C"),("Flak vest","C"),("Flak armour set","U"),("Mesh armour (light, quiet)","U"),("Arbites carapace (stolen)","R")],
+  "extra":  [("Nothing","C"),("Frag grenade","C"),("Lho-sticks (carton)","C"),("Lock-picks, hive pattern","U"),("Combat drug 'slaught' (dose)","U"),
+             ("Combat drug 'Quicksilver' (dose)","U"),("Stimm (dose)","U"),("Forged Munitorum ID chits","R")],
+  "found":  [("Bolted-together drum autogun (heavy; +1 suppression, -1 from the hip)","U"),("Spiked knuckle-duster blade","U"),("Speedloader and spare Hammerfall cylinder","U"),
+             ("Demo satchel (stolen)","U"),("Silenced stub pistol","R"),("Auto-revolver, 'Hammerfall' pattern, long barrel","R"),("Bolt pistol, rebored (unstable)","R")],
+ },
+ "pirate": {
+  "weapon": [("Combat shotgun, pump","C"),("Autopistol","C"),("Stub revolver","C"),("Lascarbine, Accatran Mk IV","C"),
+             ("Combat shotgun, semi-auto","U"),("Auto-revolver, 'Hammerfall' pattern, long barrel","U"),("Heavy laspistol","U"),("Las-scattergun 'shotlas'","U"),
+             ("Ripper gun / drum-fed shotgun","U"),("Boltgun, Godwyn pattern (stolen)","R"),("Plasma pistol, Ryza pattern (stolen)","R")],
+  "melee":  [("Navy cutlass","C"),("Combat knife","C"),("Boarding axe","C"),("Officer's sabre","U"),("Chainsword","U"),("Shock maul","U"),("Power knife","R"),("Power sword (taken from a captain)","R")],
+  "armour": [("Deck coat, no armour","C"),("Flak armour set","C"),("Void-suit, Navy (patched)","U"),("Boarding shield","U"),("Carapace armour set","R")],
+  "extra":  [("Nothing","C"),("Frag grenade","C"),("Amasec (bottle)","C"),("Grav-chute","U"),("Spoof-tag (fakes a transponder)","U"),
+             ("Off-world spice","U"),("Gemstones (pouch)","R"),("Breaching charge","R")],
+  "found":  [("Twin-barrel boarding pistol (2 shotgun shells, one beat to reload)","U"),("Weighted grapple-cutlass","U"),("Captain's flintlock-pattern las pistol (ornate; +1 on single shots)","U"),
+             ("Melta bomb (stolen)","R"),("Refractor field (salvaged, flickers)","R"),("Plasteel throwing knives, 'Callidus' pattern (set of 6)","R")],
+ },
+}
+json.dump(E, open("enemies.json","w"), indent=1)
+print(len(E), "enemy pools")

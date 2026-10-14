@@ -854,6 +854,28 @@ Enemies carry what they plausibly would. When a group is looted, one d20 in the
 open; a natural 20 means one of them had something rare that doesn't belong,
 with a story, often damaged or short on ammunition.
 
+**Enemy loot pools (set by the player, Ash on Ostrava session 8).** Cultists,
+raiders and pirates carry gear rolled from their own pools in
+[`wh40k_gear/enemies.json`](wh40k_gear/enemies.json) with
+`python3 wh40k_gear/roll_enemy.py TYPE COUNT`: a weapon, a melee weapon, armour
+and one extra each, weighted to common. Other enemies (Guard deserters, xenos,
+Mechanicus) still follow the fiction until they get pools. **Before the fight**,
+one d20 in the open for the group (a named enemy alone gets their own) decides
+who is better armed with something they found or made, and uses it against you:
+
+| d20 | Better-armed |
+| --- | --- |
+| 1-9 | none |
+| 10-11 | 1 |
+| 12-13 | 2 |
+| 14-15 | 3 |
+| 16-18 | 4 (no more than the group) |
+| 19-20 | **Elite team:** the whole group rolls one rarity step better, and each carries a found-or-made item |
+
+A natural 20 also adds the rare find above. Found-or-made items are homemade or
+scavenged pieces only enemies carry, some with quirks (a jury-rigged autogun that
+jams on a 1-2). The DM doesn't read the pools out to the player.
+
 ### The hub
 
 Each 40k campaign has a home base, like Darktide's Mourningstar, where missions
