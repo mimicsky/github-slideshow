@@ -38,6 +38,7 @@ add("stub","U","MBF",[("Vigilante autogun, 'Kasr Warden' pattern (20-round strai
 add("stub","U","MBF",[("Shredder autopistol, Ius pattern (Darktide; 30-round mag; full-auto chains of 8, no hit bonuses; autopistol punch)",1.5)])
 add("stub","U","MBF",[("Headhunter autogun, Agripaa pattern (Darktide; 15-round mag; semi-auto marksman; +2 aimed past 30 m; chains of 2)",3)])
 add("stub","U","MBF",[("Combat shotgun, 'Kasr Sweeper' duckbill pattern (one-piece metal body; 8-shell tube; semi-auto chains of 4; flat spread hits up to 3 abreast within 10 m; -2 past 15 m)",3)])
+add("stub","U","BF",[("Machine pistol, 'Kasr Hornet' pattern (autogun rounds, 40-round mag; chains of 10, no hit bonuses; hair trigger; jams after 13+ rounds; dumps the mag when dropped)",2.5)])
 add("mod","U","MBF",[("Muzzle brake (threaded muzzles: a miss in a chain gives no -1)",1.5)])
 add("stub","R","MB",[("Web pistol, Arbites pattern (entangles, no damage; 4 shots a canister)",8)])
 add("ammo","U","MB",[("Web canister (4 shots)",1)])

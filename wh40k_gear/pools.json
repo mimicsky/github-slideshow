@@ -350,6 +350,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Machine pistol, 'Kasr Hornet' pattern (autogun rounds, 40-round mag; chains of 10, no hit bonuses; hair trigger; jams after 13+ rounds; dumps the mag when dropped)",
+  "tv": 2.5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
   "name": "Muzzle brake (threaded muzzles: a miss in a chain gives no -1)",
   "tv": 1.5,
   "cat": "mod",

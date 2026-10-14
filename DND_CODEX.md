@@ -1034,6 +1034,21 @@ one behind another it hits only the front one. Shotgun punch (brutal on flesh an
 flak up close, carapace only on a solid hit). Tough: it can be swung as a club and
 is never damaged by a drop or fall.
 
+**Machine pistol, 'Kasr Hornet' pattern** (player design, uncommon, 2.5 TV; black
+market, Free Traders). Fires autogun rounds from an extended 40-round magazine in a
+purpose-made magwell. Moulded plastek grip with ergonomic grooves, side-ejecting
+slide, a short barrel that takes no muzzle attachment. **Extremely fast:** shot
+chains of up to 10, with no hit bonuses in the chain (misses still -1). Autogun
+punch. **Hair trigger:** +1 on the first shot of a fight; drop-prone.
+**Malfunctions:** once 13 or more rounds have gone through it since the last reload
+or clearing, roll a d20 before each chain: on 1-10 it malfunctions. A natural 1 on
+any shot also forces a malfunction. Malfunction, d6: 1-2 jam (a beat to clear);
+3 misfire (that chain ends, no hit); 4 double feed (two beats to clear); 5 runaway
+(it fires the rest of the magazine uncontrolled, as a dropped dump below); 6 a part
+cracks (out of the fight until repaired). **Dropped:** on the drop-prone table's
+"fires" result it dumps the whole magazine, spraying the area: roll the
+where-it-goes d20 once for every 10 rounds left (at least once).
+
 **Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a
 sticky web, about 10 m. No damage: a hit entangles the target, who can't move or
 attack until free (a STR check, d20 15+, each beat; or someone cuts them loose,
