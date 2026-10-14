@@ -977,6 +977,15 @@ through carapace on a solid hit (beats the shot by 3+). Chains up to 6; good for
 suppression. **Heat:** each chain of 4+ shots adds 1; at 3 it must vent one beat;
 firing anyway at 3: d20, 1-5 cracks the coil. Heavy: -2 from the hip, none braced.
 
+**Heavy laspistol, 'Nocturne Ember' pattern** (player design, rare, 14 TV; Free
+Traders, Mechanicus). A heavy laspistol with a longer barrel and a side-loading
+pack, focused through a crystal forged from a gem of Nocturne. Heavy laspistol
+punch (through carapace on a solid hit). **Ignite:** a hit on a raw 17+ sets the
+target alight; next beat they spend it putting the fire out or drop a health
+step, and anything flammable nearby can catch. Long barrel: +1 on single aimed
+shots past 15 m. **Heavy trigger:** -1 to quick-draw and to the first shot of a
+fight, shot chains of 3 at most, and it never fires by accident.
+
 **Astartes bolters** (player designs). Space Marine guns, sized for a hand twice a
 human's: the bolt carbine (55 TV), bolt rifle (60) and auto bolt rifle (65) are
 **epic** (the exotic tier: natural-20 finds only); the heavy bolt rifle (90) and

@@ -154,6 +154,13 @@
   "sellers": "MF"
  },
  {
+  "name": "Heavy laspistol, 'Nocturne Ember' pattern (side pack, long barrel; ignites on a raw 17+; heavy trigger: -1 quick-draw, chains of 3 max)",
+  "tv": 14,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "FA"
+ },
+ {
   "name": "Duelling laspistol, noble-house pattern",
   "tv": 8,
   "cat": "las",
