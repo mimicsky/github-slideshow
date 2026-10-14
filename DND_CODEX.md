@@ -1013,6 +1013,16 @@ builds heat, and the handguard stays cool to hold. Muzzle takes a silencer (the
 first shot from cover doesn't give the shooter away; -1 past 30 m) or a muzzle
 brake (a miss in a chain gives no -1). Autogun punch.
 
+**Shredder autopistol, Ius pattern** (Darktide; uncommon, 1.5 TV; Munitorum, black
+market, Free Traders). A compact full-auto pistol with a 30-round magazine.
+Shot chains of up to 8 with no hit bonuses (misses still -1). Autopistol punch:
+good on flesh, poor on flak, through carapace only on a solid hit.
+
+**Headhunter autogun, Agripaa pattern** (Darktide; uncommon, 3 TV; Munitorum,
+black market, Free Traders). A semi-auto marksman's autogun with a 15-round
+magazine and a scope mount. +2 on aimed shots past 30 m; shot chains of 2 at most.
+Autogun punch.
+
 **Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a
 sticky web, about 10 m. No damage: a hit entangles the target, who can't move or
 attack until free (a STR check, d20 15+, each beat; or someone cuts them loose,

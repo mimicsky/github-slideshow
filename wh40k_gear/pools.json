@@ -329,6 +329,20 @@
   "sellers": "MBF"
  },
  {
+  "name": "Shredder autopistol, Ius pattern (Darktide; 30-round mag; full-auto chains of 8, no hit bonuses; autopistol punch)",
+  "tv": 1.5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Headhunter autogun, Agripaa pattern (Darktide; 15-round mag; semi-auto marksman; +2 aimed past 30 m; chains of 2)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Muzzle brake (threaded muzzles: a miss in a chain gives no -1)",
   "tv": 1.5,
   "cat": "mod",
