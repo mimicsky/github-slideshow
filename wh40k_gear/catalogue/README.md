@@ -66,6 +66,8 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Omnissian power sword](melee.md#omnissian-power-sword)
 - [Paired transonic blades](melee.md#paired-transonic-blades)
 - [Blaze force sword / greatsword](melee.md#blaze-force-sword--greatsword)
+- [Power fist, Guard pattern](melee.md#power-fist-guard-pattern)
+- [Las-fist, 'Kasr Knuckle' pattern](melee.md#las-fist-kasr-knuckle-pattern)
 
 ## [Kit, armour, sights and mods](kit.md)
 

@@ -1120,6 +1120,34 @@
   "sellers": "B"
  },
  {
+  "name": "Power fist, Guard pattern (human-sized; through power armour; slow, +2 to block or parry it)",
+  "tv": 35,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Astartes power fist (Space Marine; too big for a human hand: trade or trophy)",
+  "tv": 70,
+  "cat": "melee",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Las-fist, 'Kasr Knuckle' pattern (power fist with a lasgun barrel and crystal; trigger in the fist; -3 to shoot, none point-blank)",
+  "tv": 40,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Power claw, 'Kasr Talon' pattern (four curved power blades; charge and expel into a stabbed target)",
+  "tv": 60,
+  "cat": "melee",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
   "name": "Force wakizashi, 'Kasr Veil' pattern (psyker only; skeleton grip, no guard; warp-shield intake, Perils 1-3 each beat)",
   "tv": 35,
   "cat": "melee",

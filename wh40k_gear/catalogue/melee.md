@@ -92,3 +92,42 @@ against them.
 **Blaze force sword / greatsword** (rare, 45 / 60 TV): psyker weapons. In a
 sanctioned psyker's hands they burn with warp-fire; anyone else wields a plain
 sword (greatsword: two-handed, heavy).
+
+## Power fist, Guard pattern
+
+(rare, 35 TV; Munitorum, Mechanicus, Free Traders.) The human-sized power fist
+carried by Guard sergeants, officers and commissars: an armoured gauntlet over the
+hand and forearm, a power field around the fingers, cabled to a belt or back power
+cell. Every hit goes **through power armour** and crushes carapace; it can tear
+open a door or a light vehicle's plating. **Slow and heavy:** defenders get +2 to
+block or parry it. The hand is the weapon, so nothing else is held in it (a pistol
+goes in the other hand).
+
+## Astartes power fist
+
+(epic: an exotic find, natural 20 only; 70 TV; black market, Free Traders.) A
+Space Marine's fist, sized for a hand twice a human's. **A human can't wear or use
+it.** Trade value or a trophy, and the Astartes want it back.
+
+## Las-fist, 'Kasr Knuckle' pattern
+
+(player design, rare, 40 TV; Mechanicus, Free Traders.) A Guard-pattern power fist
+with a lasgun barrel and focusing crystal built into the back of the gauntlet, a
+las pack seated in the forearm, and only what it needs to fire. **The trigger is
+inside the fist.** Melee: as a power fist (through power armour, defenders +2 to
+block or parry). Shooting: lasgun punch, but there's no way to aim along it, so
+**-3 to shoot**; **point-blank** (the target is in melee with the bearer) the -3
+doesn't apply. One shot a beat; it can punch and fire in the same exchange, but
+the shot then takes -3 even point-blank.
+
+## Power claw, 'Kasr Talon' pattern
+
+(player design, **epic**: an exotic find, natural 20 only; 60 TV; black market,
+Free Traders.) A power gauntlet with **four long curved blades** set over the
+knuckles like claws, each sheathed in a power field. Fast for a power weapon: no
++2 for defenders, and the claws go **through power armour on a solid hit**,
+carapace on any hit. **Charge and expel:** the bearer can spend a beat charging
+the claws (they hum and glow); the next stab that lands **expels the stored
+power into the target**, who drops **one extra health step**. One charge held at
+a time; it fades at the end of the fight. Charging in the open is a beat not spent
+fighting, and the glow gives the bearer away in the dark.
