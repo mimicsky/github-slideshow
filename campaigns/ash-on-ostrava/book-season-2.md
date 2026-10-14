@@ -295,8 +295,49 @@ the bayonet back. "Good work out there, Nessa. Thanks, assassin." In his cabin h
 wrote two reports for Kesh, one about the mission and one about the Gardener,
 and told her he was coming home with two prisoners and six vials.
 
-**Where we stopped:** ~1800, warp day 7, the *Bright Light* docked at the
-Spindle's Bay Two, waiting on Kesh's answer.
+## Chapter 10: Waiting on Kesh
+
+That night Tamsin carried the Kasr Holn cogitator core from the galley stores aft
+to Ferro-Ashe and laid Vigil on the bench. "Korren's breath," he said, and then
+he bargained for more: a wider edge, paid for in heat. Ferro-Ashe chanted over
+the gun all night and woke him at five.
+
+"Korren would be proud of you," Tamsin told the rifle, hand on the stock. "I
+appreciate you teaching me his ways, how to shoot better. I won't let you
+overheat. You know that."
+
+"Agitation: zero," said Ferro-Ashe. "It wanted to hear the last bearer *named*.
+Remembered. By you. I hear numbers where Hespa-Vor heard voices. But that one I
+almost heard." Shameholder, read the same way, had hated the seed more than
+anything in its records, and did not want its old name back.
+
+In the briefing room he told the Light he was disappointed, in himself and in
+them: missed shots, short grenades, slow cover, a door that should have been
+read before it was blown. Hollis owned his frags. Isk owned his misses. From his
+cot Tavi owned the door. "I'll learn every door there is." Kell took the drills.
+Tamsin gave each of them their trade to train, and Dace the job of peeling for
+the others.
+
+He gave Isk the Gate Guard marksman's long hellgun, and Morcant the combat pump.
+Through the fleet stores he bought, with Drachen's gold, an auspex and a
+cogitator spike for Brenner, a shock maul for Morcant, and a breaching charge
+that Morcant laid on Tavi's chest like flowers. "Not on the bed, Tavi!"
+
+With Brenner, Nessa and Ferro-Ashe he walked the empty ring one last time and
+pulled a Mechanicus coupling out of the Spindle's power plant. The plant groaned
+and died, and every light on the ring went out behind them. Ferro-Ashe started
+on the Geller generator: two days. Tamsin told Kell the next blessing was his.
+"Thanks, brother."
+
+He shot Vigil on the range until Isk called it unfair, and then let Dace throw
+ration tins at him from ten metres while he learned to be down again before the
+count of two. Varga tried it and caught one on the ribs. "Not a word, boss."
+
+"I'll let you get a little better," Tamsin said, "so when we have our duel it's
+more fair for you, too."
+
+**Where we stopped:** ~1445, warp day 8, the *Bright Light* docked at the dead
+Spindle, waiting on Kesh's answer.
 
 ---
 
