@@ -72,7 +72,29 @@ is worse, the DM's call).
 | **Warp ward** | Blocks the first shot and the first melee hit at the witch this beat (a raw 17+ still gets through) |
 | **Mind-lash** | One target in sight: WIS save or frozen for a beat; a purity seal gives advantage |
 
-The DM may give a witch powers that fit their god (plague-rot, blood-boil,
-changing flesh). Wounding, stunning or disarming the witch breaks a power
-mid-beat. **As loot:** useless to anyone but a psyker. Anyone else who carries it
+Wounding, stunning or disarming the witch breaks a power mid-beat.
+
+### God powers: the charge and the summoning
+
+A witch with a staff can call on their god for something bigger, but it takes
+**a full beat to charge**. As the charge begins, the staff tears the air open and
+**daemons spill out to guard the witch** while it builds. Next beat the god power
+fires, unless the Light breaks the charge first (wound, stun or disarm the witch).
+Breaking the charge stops the power, **but the daemons stay** until the witch goes
+Down; then they fade at the end of that beat. Perils still applies, each beat.
+
+| God | Summoned while charging | The god power (next beat) |
+| --- | --- | --- |
+| **Nurgle** | **Nurglings:** a swarm of 4-6 giggling little rot-daemons. Each hit kills only one; their bites force a CON save or sickness | **Stream of corruption:** a cone ~8 m long; everyone in it makes a CON save or drops a health step and is sickened (antitoxin cures) |
+| **Tzeentch** | **Blue horrors:** 2 sulking blue daemons that throw warp-fire bolts (hit like a lasgun). A slain blue horror **splits into two small brimstone horrors** that burn on touch | **Warp lightning storm:** arcs through up to 3 targets in a chain, ignoring carapace on a solid hit; each hit takes -2 next beat |
+| **Slaanesh** | **Daemonettes:** 1-2 fast, lithe daemons with claws. +2 to strike first; anyone seeing them first makes a WIS save or takes -1 next beat (the allure) | **Lash of Slaanesh:** a whip of warp-force drags one target up to 6 m (into the open, off a ledge, to the daemonettes); WIS save or stunned a beat |
+| **Undivided** | **Furies:** 2 winged, screaming daemons that dive from above (cover from the front doesn't help) | **Warp blast:** hits like a meltagun on one target, or a wave that knocks everyone within ~4 m down |
+
+**Khorne has no witches:** the Blood God despises sorcery. Khorne cultists bring
+daemons (Bloodletters, with hellblades that cut through carapace on any hit) only
+through blood: a sacrifice or a grimoire chant, never a staff.
+
+**Daemons and the Light:** daemons are warp-things. Force weapons and blessed
+blades burn them; a purity seal gives advantage on any save their powers force;
+they fade when their witch falls. Their loot is nothing: ash and a smell. **As loot:** useless to anyone but a psyker. Anyone else who carries it
 makes a WIS save each day or hears it; the Inquisition wants it destroyed.
