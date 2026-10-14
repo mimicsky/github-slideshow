@@ -33,13 +33,14 @@ cycles the charge from the cell into the coils. Breaking it open to swap the cel
 takes a beat.
 
 **Normal shot:** plasma punch (through carapace on any hit, power armour on a
-solid hit, beating the target's roll by 3+). **Each beat: 2 shots or 2 pumps**, not a
-mix (a shot chain of 2). Normal plasma heat
+solid hit, beating the target's roll by 3+). **Each beat: 2 lever actions**, each a
+shot or a pump, in any mix (2 shots, 2 pumps, or a pump then a shot). Normal plasma heat
 (1 heat per 2 shots; vent at 3; firing anyway at 3, d20 1-5 overheats).
 
-**Pumped shot:** instead of shooting, the bearer works the lever, **2 pumps a beat**,
-up to 3 held, and fires on a later beat (a full 3-pump charge takes two beats of
-pumping, and it heats while it waits). **Each pump draws one extra shot of
+**Pumped shot:** instead of shooting, the bearer works the lever, up to 3 held.
+A 1-pump shot fits in one beat (pump, fire); a 2-pump shot is two pumps, then
+fire next beat; a full 3-pump shot is **two pumps one beat, then one pump and fire
+the next** (1 heat from waiting). **Each pump draws one extra shot of
 charge from the cell** (a 3-pump shot uses 4). Each pump is half a step more punch:
 
 | Pumps | The shot |

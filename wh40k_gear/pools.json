@@ -539,7 +539,7 @@
   "sellers": "MAF"
  },
  {
-  "name": "Plasma repeater, 'Kasr Furnace' break-action lever pattern (one plasma cell in the breech: 8 shots, 12 tuned; 2 shots or 2 pumps a beat, up to 3 pumps for a charged shot, each pump uses a shot; held charge builds heat)",
+  "name": "Plasma repeater, 'Kasr Furnace' break-action lever pattern (one plasma cell in the breech: 8 shots, 12 tuned; 2 lever actions a beat (shot or pump, any mix), up to 3 pumps for a charged shot, each pump uses a shot; held charge builds heat)",
   "tv": 30,
   "cat": "plasma",
   "rarity": "R",
