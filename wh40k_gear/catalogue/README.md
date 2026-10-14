@@ -90,6 +90,10 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Combat drugs](drugs.md#combat-drugs)
 - [Servo-skull, gun](drugs.md#servo-skull-gun)
 
+## [Heretic and cult items](heretic.md)
+
+- [Chaos grimoire](heretic.md#chaos-grimoire)
+
 ## [Heavy and vehicle weapons](heavy.md)
 
 - [Valkyrie bolt-rocket pods, pair](heavy.md#valkyrie-bolt-rocket-pods-pair)

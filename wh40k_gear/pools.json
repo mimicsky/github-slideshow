@@ -1099,6 +1099,13 @@
   "sellers": "BF"
  },
  {
+  "name": "Chaos grimoire (forbidden book; the DM decides what it does; the Inquisition wants it)",
+  "tv": 12,
+  "cat": "goods",
+  "rarity": "R",
+  "sellers": "B"
+ },
+ {
   "name": "Cult gas bottle (glass, plastek cage and sealed cap; shatters on impact; gas by cult: plague, rage, euphoria or visions)",
   "tv": 1.5,
   "cat": "explosive",

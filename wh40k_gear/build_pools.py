@@ -90,6 +90,7 @@ add("melee","R","MAF",[("Power maul",25),("Power sword",30),("Power axe",30),("P
 add("melee","U","MBF",[("Combat chain-knife, 'Kasr Gnaw' pattern (combat-knife frame, chain blade, spine motor, hilt lever; +1 strike first; chainsword bite)",3)])
 add("melee","U","MBF",[("Injector stiletto, 'Kasr Sting' pattern (straight stiletto blade with an injection channel; pommel vial, 1 dose; skeleton hilt, green cord wrap; throwable)",2)])
 add("gear","U","BF",[("Injector vial: toxin (1 dose; CON save or drop a health step)",1),("Injector vial: paralytic (1 dose; CON save or can't move or act next beat)",1.5)])
+add("goods","R","B",[("Chaos grimoire (forbidden book; the DM decides what it does; the Inquisition wants it)",12)])
 add("explosive","U","B",[("Cult gas bottle (glass, plastek cage and sealed cap; shatters on impact; gas by cult: plague, rage, euphoria or visions)",1.5)])
 add("melee","R","F",[("Force wakizashi, 'Kasr Veil' pattern (psyker only; skeleton grip, no guard; warp-shield intake, Perils 1-3 each beat)",35)])
 add("melee","R","BF",[("Plasteel throwing knives, 'Callidus' pattern, wavy blade (set of 6; through carapace on a solid hit; wound -2 to treat)",4)])
@@ -172,7 +173,7 @@ E = {
              ("Combat drug 'Frenzon' (dose)","U"),("Choke gas grenade","U"),("Cult gas bottle (gas of their god)","U"),("Cult prayer-book","R")],
   "found":  [("Cult-forged blade (crude, sharp; +1 vs flesh, breaks on a natural 1)","U"),("Jury-rigged autogun (fires full chains; jams on a 1-2)","U"),
              ("Pipe-bomb (frag, short fuse; a natural 1 goes off in hand)","U"),("Cult gas bottle x2 (gas of their god)","U"),("Stolen officer's laspistol","U"),
-             ("Desecrated chainsword (spiked, roars; -1 to parry with it)","R"),("Krak grenade (stolen)","R"),("Plasma pistol, Ryza pattern (stolen, slow-filled cell)","R")],
+             ("Desecrated chainsword (spiked, roars; -1 to parry with it)","R"),("Krak grenade (stolen)","R"),("Plasma pistol, Ryza pattern (stolen, slow-filled cell)","R"),("Chaos grimoire (forbidden book)","R")],
  },
  "raider": {
   "weapon": [("Autogun, Agripinaa","C"),("Autopistol","C"),("Stub automatic","C"),("Combat shotgun, pump","C"),
