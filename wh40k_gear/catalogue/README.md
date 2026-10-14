@@ -7,8 +7,9 @@ listed here. Prices and rarity live in `../pools.json`.
 **How to use it (for the DM):** don't read the whole catalogue. Read this index;
 when an item comes up in play, open just its entry. When a new item is designed,
 add its entry to the right category file and a line here, and add it to
-`../build_pools.py`. Exotics and legendary finds are not listed, so they stay a
-surprise.
+`../build_pools.py`. Everything the player has designed or seen is listed, epic and
+legendary included. Only the hidden exotic list (in `../pools.json`, never read
+out to the player) stays out, so those finds stay a surprise.
 
 **General rules** that apply to many items (hot-shot conversion, plasma heat,
 drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
@@ -37,7 +38,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 ## [Bolt weapons](bolt.md)
 
 - [Bolt-shotgun, 'Breacher' pattern](bolt.md#bolt-shotgun-breacher-pattern)
-- [Astartes bolters](bolt.md#astartes-bolters)
+- [Astartes bolters](bolt.md#astartes-bolters) (epic and legendary)
 
 ## [Plasma weapons and cells](plasma.md)
 
@@ -68,6 +69,8 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Blaze force sword / greatsword](melee.md#blaze-force-sword--greatsword)
 - [Power fist, Guard pattern](melee.md#power-fist-guard-pattern)
 - [Las-fist, 'Kasr Knuckle' pattern](melee.md#las-fist-kasr-knuckle-pattern)
+- [Astartes power fist](melee.md#astartes-power-fist) (epic)
+- [Power claw, 'Kasr Talon' pattern](melee.md#power-claw-kasr-talon-pattern) (epic)
 
 ## [Kit, armour, sights and mods](kit.md)
 
