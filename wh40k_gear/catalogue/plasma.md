@@ -27,17 +27,18 @@ armour on a solid hit.
 (player design, rare, 30 TV; Mechanicus, Free Traders.) The stock is built into the
 body as one piece. A **lever runs from the body back along the stock**, with the
 trigger on the body. The barrel **breaks open** at the rear, and its breech is big
-enough to take a **plasma round** (a small sealed charge). Power coils run down
-the barrel and end near the muzzle. **5 rounds** ride in a tube in the stock; the
-lever cycles the next one into the breech. Breaking it open to refill the tube
-takes a beat. Spare rounds: uncommon, 5 TV for 5.
+enough to take **one plasma cell**: 8 shots from a standard cell, 12 from a
+tuned one. Power coils run down the barrel and end near the muzzle; the lever
+cycles the charge from the cell into the coils. Breaking it open to swap the cell
+takes a beat.
 
 **Normal shot:** plasma punch (through carapace on any hit, power armour on a
 solid hit, beating the target's roll by 3+). One shot a beat. Normal plasma heat
 (1 heat per 2 shots; vent at 3; firing anyway at 3, d20 1-5 overheats).
 
 **Pumped shot:** instead of shooting, the bearer works the lever to **pump up to 3
-times in a beat**, and fires on a later beat. Each pump is half a step more punch:
+times in a beat**, and fires on a later beat. **Each pump draws one extra shot of
+charge from the cell** (a 3-pump shot uses 4). Each pump is half a step more punch:
 
 | Pumps | The shot |
 | --- | --- |
