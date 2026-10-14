@@ -168,6 +168,13 @@
   "sellers": "MFA"
  },
  {
+  "name": "Long-las, 'Kasr Sprinter' stripped pattern (skeleton stock and grip, 3x sight; +1 aimed 20-60 m; move and aim; light trigger, NO SAFETY: drop-prone)",
+  "tv": 4.5,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Duelling laspistol, noble-house pattern",
   "tv": 8,
   "cat": "las",

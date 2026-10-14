@@ -1007,6 +1007,30 @@ cover or prone, no recoil penalty. Longer barrel: +1 on single aimed shots past
 together). With a hot-shot conversion it hits harder still, but drains packs four
 times as fast.
 
+**Long-las, 'Kasr Sprinter' stripped pattern** (player design, uncommon, 4.5 TV;
+Munitorum, black market, Free Traders). Skeleton stock and grip, stripped body:
+light to carry, so the bearer can move and still take an aimed shot in the same
+beat. Medium barrel and a 3x sight: +1 on aimed shots from 20 to 60 m, no bonus past
+60 m. Long-las punch (through carapace on a solid hit). One firing mode: single
+shots, chains of 2 at most. Light trigger: +1 on the first shot of a fight. **No
+safety:** it is drop-prone (below), and a natural 1 on any shot also fires a second,
+wasted bolt.
+
+**Drop-prone guns (set by the player, session 8).** A gun with no safety, a hair or
+light trigger, or a cocked hammer is **drop-prone** (the Kasr Sprinter; the DM says
+which others are, case by case). When one is dropped, or its bearer falls, is
+knocked down or crash-lands with it, roll a d20:
+
+| d20 | The gun |
+| --- | --- |
+| 1-8 | **fires** (roll again below) |
+| 9-16 | is **damaged**: out of the fight until repaired |
+| 17-20 | is fine |
+
+If it fires, roll a d20 for where the shot goes: **1-8 a friendly**, **9-15 a wall or
+the floor**, **16-20 an enemy**. Guns built never to fire by accident (the Nocturne
+Ember) are exempt.
+
 **Astartes bolters** (player designs). Space Marine guns, sized for a hand twice a
 human's: the bolt carbine (55 TV), bolt rifle (60) and auto bolt rifle (65) are
 **epic** (the exotic tier: natural-20 finds only); the heavy bolt rifle (90) and

@@ -22,6 +22,7 @@ add("las","R","MF",[("Las-box, 'Kasr Barr' pattern light las-LMG (box pack; 6-sh
 add("ammo","U","MF",[("Las-box pack (for the Kasr Barr)",0.75)])
 add("las","R","FA",[("Heavy laspistol, 'Nocturne Ember' pattern (side pack, long barrel; ignites on a raw 17+; heavy trigger: -1 quick-draw, chains of 3 max)",14)])
 add("las","R","MFA",[("Lasgun, 'Kasr Duet' twin-focus pattern (two crystals, one barrel: a hit lands like a hellgun; 2 charge a pull; chains of 2; braced pad stock; rail)",7)])
+add("las","U","MBF",[("Long-las, 'Kasr Sprinter' stripped pattern (skeleton stock and grip, 3x sight; +1 aimed 20-60 m; move and aim; light trigger, NO SAFETY: drop-prone)",4.5)])
 add("las","R","BF",[("Duelling laspistol, noble-house pattern",8),("Archeotech lasgun 'sunfire' (worn, works)",30)])
 # --- Solid shot ---
 add("stub","C","MB",[("Autogun, Agripinaa",1),("Autopistol",1),("Stub revolver",0.5),("Stub automatic",0.75),("Combat shotgun, pump",1.5)])
