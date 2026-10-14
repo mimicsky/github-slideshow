@@ -37,6 +37,7 @@ add("stub","U","MBF",[("Braced autogun, 'Graia' pattern (60-round box, bipod; fu
 add("stub","U","MBF",[("Vigilante autogun, 'Kasr Warden' pattern (20-round straight mag; semi-auto chains of 4; light trigger, drop-prone; vented; threaded muzzle; rails)",2)])
 add("stub","U","MBF",[("Shredder autopistol, Ius pattern (Darktide; 30-round mag; full-auto chains of 8, no hit bonuses; autopistol punch)",1.5)])
 add("stub","U","MBF",[("Headhunter autogun, Agripaa pattern (Darktide; 15-round mag; semi-auto marksman; +2 aimed past 30 m; chains of 2)",3)])
+add("stub","U","MBF",[("Combat shotgun, 'Kasr Sweeper' duckbill pattern (one-piece metal body; 8-shell tube; semi-auto chains of 4; flat spread hits up to 3 abreast within 10 m; -2 past 15 m)",3)])
 add("mod","U","MBF",[("Muzzle brake (threaded muzzles: a miss in a chain gives no -1)",1.5)])
 add("stub","R","MB",[("Web pistol, Arbites pattern (entangles, no damage; 4 shots a canister)",8)])
 add("ammo","U","MB",[("Web canister (4 shots)",1)])
@@ -85,6 +86,7 @@ add("melee","C","MB",[("Combat knife",0.25),("Bayonet",0.25),("Entrenching tool"
 add("melee","U","MBF",[("Navy cutlass",2),("Chainsword",6),("Chain axe",8),("Shock maul",7),("Mono-knife",3),("Krieg trench shovel (sharpened)",0.5),("Officer's sabre",3),("Chain knife",3),("Shock baton (Arbites)",4)])
 add("melee","R","MAF",[("Power maul",25),("Power sword",30),("Power axe",30),("Power knife",15),("Chainsword, Lucius heavy",10),("Eviscerator (two-handed chainsword)",22),("Thunder hammer (damaged)",40)])
 # Player design (session 8): plasteel throwing knives. Full rules in DND_CODEX Part 8.
+add("melee","U","MBF",[("Combat chain-knife, 'Kasr Gnaw' pattern (combat-knife frame, chain blade, spine motor, hilt lever; +1 strike first; chainsword bite)",3)])
 add("melee","R","F",[("Force wakizashi, 'Kasr Veil' pattern (psyker only; skeleton grip, no guard; warp-shield intake, Perils 1-3 each beat)",35)])
 add("melee","R","BF",[("Plasteel throwing knives, 'Callidus' pattern, wavy blade (set of 6; through carapace on a solid hit; wound -2 to treat)",4)])
 add("melee","C","MB",[("Hive shank (scrap knife)",0.1),("Scrap throwing knives (set of 4)",0.4),("Combat axe, Rashad pattern (fast, light)",1)])

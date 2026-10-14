@@ -1023,6 +1023,17 @@ black market, Free Traders). A semi-auto marksman's autogun with a 15-round
 magazine and a scope mount. +2 on aimed shots past 30 m; shot chains of 2 at most.
 Autogun punch.
 
+**Combat shotgun, 'Kasr Sweeper' duckbill pattern** (player design, uncommon, 3 TV;
+Munitorum, black market, Free Traders). Full-metal body with the stock built in as
+one piece, a handguard, an 8-shell tube under the barrel, and a side slide that
+throws spent shells clear. Semi-auto, chains of up to 4; reloading is half a beat
+per 2 shells. **Built-in duckbill:** the pellets spread sideways in a flat line.
+Within 10 m, one roll can hit up to 3 enemies standing side by side (checked
+against each); no bonus on a single target; -2 past 15 m; against enemies stacked
+one behind another it hits only the front one. Shotgun punch (brutal on flesh and
+flak up close, carapace only on a solid hit). Tough: it can be swung as a club and
+is never damaged by a drop or fall.
+
 **Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a
 sticky web, about 10 m. No damage: a hit entangles the target, who can't move or
 attack until free (a STR check, d20 15+, each beat; or someone cuts them loose,
@@ -1179,6 +1190,12 @@ the single price.
   Perils of the Warp (the shield collapses, the psyker drops a health step and
   something warp-wrong happens; a natural 1 is worse, the DM's call). Enemy witches
   may carry one.
+- **Combat chain-knife, 'Kasr Gnaw' pattern** (uncommon, 3 TV; player design): a
+  combat knife's shape with the blade replaced by a running chain, a small motor on
+  the spine, and the throttle lever on the hilt. Fast: +1 to strike first in an
+  exchange. It bites like a chainsword (through flak easily, carapace on a solid
+  hit), but its short reach takes -1 to parry longer blades. Loud when running,
+  so no quiet kills; switched off it is a poor, dull blade. Can't be thrown.
 - **Combat axe** (common, 1 TV): fast and light. When your swing is blocked, the
   next swing in the exchange is at +1. Weak against carapace.
 - **Thunder hammer, intact** (rare, 50 TV): two-handed, devastating. Every hit

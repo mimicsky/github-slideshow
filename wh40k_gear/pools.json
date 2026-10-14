@@ -343,6 +343,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Combat shotgun, 'Kasr Sweeper' duckbill pattern (one-piece metal body; 8-shell tube; semi-auto chains of 4; flat spread hits up to 3 abreast within 10 m; -2 past 15 m)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Muzzle brake (threaded muzzles: a miss in a chain gives no -1)",
   "tv": 1.5,
   "cat": "mod",
@@ -1055,6 +1062,13 @@
   "cat": "melee",
   "rarity": "R",
   "sellers": "MAF"
+ },
+ {
+  "name": "Combat chain-knife, 'Kasr Gnaw' pattern (combat-knife frame, chain blade, spine motor, hilt lever; +1 strike first; chainsword bite)",
+  "tv": 3,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
  },
  {
   "name": "Force wakizashi, 'Kasr Veil' pattern (psyker only; skeleton grip, no guard; warp-shield intake, Perils 1-3 each beat)",
