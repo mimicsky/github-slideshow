@@ -378,6 +378,41 @@
   "sellers": "B"
  },
  {
+  "name": "Astartes bolt carbine (Space Marine; human: braced only, -4)",
+  "tv": 55,
+  "cat": "bolt",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Astartes bolt rifle (Space Marine; human: braced only, -4)",
+  "tv": 60,
+  "cat": "bolt",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Astartes auto bolt rifle (Space Marine; human: braced only, -4)",
+  "tv": 65,
+  "cat": "bolt",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Astartes heavy bolt rifle (Space Marine; human: braced only, -4)",
+  "tv": 90,
+  "cat": "bolt",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Astartes heavy bolter (Space Marine; human: mounted only, -4)",
+  "tv": 120,
+  "cat": "bolt",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
   "name": "Plasma pistol, Ryza pattern",
   "tv": 25,
   "cat": "plasma",
@@ -1111,6 +1146,13 @@
   "cat": "armour",
   "rarity": "U",
   "sellers": "MBF"
+ },
+ {
+  "name": "Arbitrator shield (Adeptus Arbites riot shield; +2 block, portable cover, pistol notch)",
+  "tv": 10,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MB"
  },
  {
   "name": "Storm trooper carapace set",

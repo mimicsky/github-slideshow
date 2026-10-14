@@ -5,7 +5,8 @@ Usage: python3 roll.py SELLER SIZE
           A (Mechanicus shrine), F (Free Trader / Void Exchange), E (Ecclesiarchy)
   SIZE:   small (5-7 items), medium (9-12), large (14-18)
 Rarity weights: common 55, uncommon 32, rare 13. A separate open d20:
-on a natural 20, one exotic oddity is added. Prints the d20 so it can be shown.
+on a natural 20, one exotic oddity is added; then a second d20 of 18-20 makes it
+legendary instead. Prints the d20s so they can be shown.
 Ammo: each ammo line rolls a d20; on 15+ it comes as an ammo crate (x4, 3.5x price).
 """
 import json, random, sys, os
@@ -16,7 +17,7 @@ size = sys.argv[2] if len(sys.argv) > 2 else "medium"
 n = {"small": (5, 7), "medium": (9, 12), "large": (14, 18)}[size]
 n = random.randint(*n)
 weights = {"C": 55, "U": 32, "R": 13}
-pool = [i for i in items if seller in i["sellers"] and i["rarity"] != "X"]
+pool = [i for i in items if seller in i["sellers"] and i["rarity"] not in ("X", "L")]
 qty_by_cat = {"ammo": [2, 4, 6, 10], "explosive": [1, 2, 3, 4], "gear": [1, 2, 3], "goods": [1, 2], "salvage": [1, 2, 3]}
 picked = []
 while len(picked) < n and pool:
@@ -35,5 +36,7 @@ for i in picked:
             continue
     print(f"{q} x {i['name']} ({i['rarity']}) - {i['tv']} TV")
 if d20 == 20:
-    ex = random.choice([i for i in items if i["rarity"] == "X"])
-    print(f"EXOTIC: 1 x {ex['name']} - {ex['tv']} TV")
+    leg = random.randint(1, 20)
+    tier = "L" if leg >= 18 else "X"
+    ex = random.choice([i for i in items if i["rarity"] == tier])
+    print(f"{'LEGENDARY' if tier == 'L' else 'EXOTIC'} (second d20 {leg}): 1 x {ex['name']} - {ex['tv']} TV")

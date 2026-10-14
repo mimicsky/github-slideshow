@@ -972,6 +972,19 @@ through carapace on a solid hit (beats the shot by 3+). Chains up to 6; good for
 suppression. **Heat:** each chain of 4+ shots adds 1; at 3 it must vent one beat;
 firing anyway at 3: d20, 1-5 cracks the coil. Heavy: -2 from the hip, none braced.
 
+**Astartes bolters** (player designs). Space Marine guns, sized for a hand twice a
+human's: the bolt carbine (55 TV), bolt rifle (60) and auto bolt rifle (65) are
+**epic** (the exotic tier: natural-20 finds only); the heavy bolt rifle (90) and
+Astartes heavy bolter (120) are **legendary** (a natural 20, then a second d20 of
+18-20). Sold only by the black market and Free Traders. A human can fire one only
+braced on cover or a mount, at -4, one shot a beat, and can't move that beat; with
+no brace it can't be fired. Mostly trade value or a trophy, and dangerous to own:
+the Astartes want their gear back. The Imperial Guard heavy bolter (rare, 40 TV,
+crew-served) is a separate, human weapon.
+
+**Arbitrator shield** (rare, 10 TV): the Adeptus Arbites riot shield. +2 to block,
+portable cover in the open, a firing notch for a pistol.
+
 **Auto-revolver, 'Hammerfall' pattern** (player design, uncommon; stub 2 TV, long
 2.5 TV). Full-metal frame, built-in iron sights, an 8-round cylinder of autogun
 rounds (autogun punch: through carapace only on a solid hit). Holding the trigger

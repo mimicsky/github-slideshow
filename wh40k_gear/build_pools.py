@@ -36,6 +36,10 @@ add("bolt","R","MF",[("Boltgun, Locke Mk IIb 'Spearhead' (Darktide)",26)])
 add("bolt","R","MBF",[("Bolt-shotgun, 'Breacher' pattern (single-shot breech, loose bolt rounds; 1-2 shots a beat by recoil)",10)])
 add("bolt","R","EF",[("Sororitas bolt pistol (Godwyn-De'az)",16),("Sororitas boltgun",30)])
 add("bolt","R","B",[("Bolt pistol, rebored (unstable)",8)])
+# Player designs (session 8): Astartes bolters. Too big for a human (DND_CODEX Part 8).
+# X = epic/exotic (natural-20 only); L = legendary (natural 20, then a second d20 of 18-20).
+add("bolt","X","BF",[("Astartes bolt carbine (Space Marine; human: braced only, -4)",55),("Astartes bolt rifle (Space Marine; human: braced only, -4)",60),("Astartes auto bolt rifle (Space Marine; human: braced only, -4)",65)])
+add("bolt","L","BF",[("Astartes heavy bolt rifle (Space Marine; human: braced only, -4)",90),("Astartes heavy bolter (Space Marine; human: mounted only, -4)",120)])
 # --- Plasma / melta / flame ---
 add("plasma","R","MAF",[("Plasma pistol, Ryza pattern",25),("Plasma gun, Mars pattern",30),("Plasma gun, Ryza pattern",32)])
 add("plasma","U","MAF",[("Plasma cell",6)])
@@ -76,6 +80,7 @@ add("melee","R","B",[("Assassin's mono-wire garrotte",6),("Needle-blade (toxin)"
 # --- Armour ---
 add("armour","C","MB",[("Flak vest",0.5),("Flak armour set",1),("Flak helmet",0.25),("Gas mask / rebreather",0.5)])
 add("armour","U","MBF",[("Carapace armour set",8),("Carapace chest plate",4),("Mesh armour (light, quiet)",5),("Boarding shield",4),("Void-suit, Navy",4),("Hazard suit (plague-rated)",5),("Arbites carapace",10)])
+add("armour","R","MB",[("Arbitrator shield (Adeptus Arbites riot shield; +2 block, portable cover, pistol notch)",10)])
 add("armour","R","MAF",[("Storm trooper carapace set",15),("Storm shield (power field)",30),("Refractor field",25),("Conversion field (damaged)",35),("Skitarii armour (augmetic fit)",18)])
 add("armour","R","MF",[("Tempestus Scion helmet (rebreather, auspex; +2 Perception, +1 shooting)",25)])
 add("gear","U","MBF",[("Back gun-scabbard / heavy sling mount (carry a second long gun or a heavy on the back)",1)])
