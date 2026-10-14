@@ -539,6 +539,20 @@
   "sellers": "MAF"
  },
  {
+  "name": "Plasma repeater, 'Kasr Furnace' break-action lever pattern (5 plasma rounds in the stock tube; lever pumps up to 3 for a charged shot; held charge builds heat)",
+  "tv": 30,
+  "cat": "plasma",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Plasma rounds for the Kasr Furnace (5)",
+  "tv": 5,
+  "cat": "plasma",
+  "rarity": "U",
+  "sellers": "AF"
+ },
+ {
   "name": "Tuned plasma cell (12 shots, not 8)",
   "tv": 10,
   "cat": "plasma",
