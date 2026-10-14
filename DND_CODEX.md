@@ -1031,6 +1031,12 @@ If it fires, roll a d20 for where the shot goes: **1-8 a friendly**, **9-15 a wa
 the floor**, **16-20 an enemy**. Guns built never to fire by accident (the Nocturne
 Ember) are exempt.
 
+**Going Down drops your weapons.** When anyone (the Light or an enemy) goes
+**Down**, whatever is in their hands falls. A long gun **on a sling** stays on them
+and doesn't count as dropped. A gun with no sling, or a pistol in hand, hits the
+deck: it can be grabbed or kicked away, and a drop-prone one rolls on the table
+above. Holstered and sheathed weapons stay put.
+
 **Astartes bolters** (player designs). Space Marine guns, sized for a hand twice a
 human's: the bolt carbine (55 TV), bolt rifle (60) and auto bolt rifle (65) are
 **epic** (the exotic tier: natural-20 finds only); the heavy bolt rifle (90) and
