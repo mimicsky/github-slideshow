@@ -177,5 +177,44 @@ E = {
              ("Melta bomb (stolen)","R"),("Refractor field (salvaged, flickers)","R"),("Plasteel throwing knives, 'Callidus' pattern (set of 6)","R")],
  },
 }
+# Specialist kits (player-set, session 8): rolled on 16-20 on the enemy's role d20.
+# Each role: (main kit, rarity) options; the specialist also rolls armour and an extra.
+SPEC = {
+ "cultist": {
+  "sniper":      [("Long-las, Mezoa (stolen) + laspistol","U"),("Scoped autogun + stub revolver","C"),("Vraks-pattern sniper autorifle","R")],
+  "grenadier":   [("Bag of 4 frags + autopistol","C"),("4 pipe-bombs + stub revolver","C"),("Grenade launcher (stolen) + 6 frag rounds","R")],
+  "heavy":       [("Heavy stubber + 2 belts","U"),("Braced autogun with drum","C"),("Heavy bolter, Guard pattern (stolen, 1 belt)","R")],
+  "assassin":    [("Silenced stub pistol + mono-knife","U"),("Needle-blade (toxin) + throwing knives","U"),("Garrotte + chain knife","C")],
+  "flamer":      [("Hand flamer + 1 canister","U"),("Flamer, Ryza pattern (stolen) + 2 canisters","R"),("Promethium sprayer (homemade; short reach, leaks on a 1)","C")],
+  "demolitions": [("Demo satchel + detonator","U"),("3 krak grenades (stolen)","R"),("Mining charges x2 + stub pistol","C")],
+  "medic":       [("Med-kit + 3 stimms + autopistol","C"),("Cult 'blessings' (stimms and drugs) + knife","C")],
+  "leader":      [("Chainsword + laspistol (cult preacher)","U"),("Desecrated chainsword + autopistol","U"),("Bolt pistol (stolen) + power knife","R")],
+  "psyker":      [("Witch: rogue psyker, crude staff + knife (warp power; Perils on a natural 1)","R")],
+ },
+ "raider": {
+  "sniper":      [("Scoped autogun + autopistol","C"),("Long-las, Mezoa + heavy laspistol","U"),("Vraks-pattern sniper autorifle","R")],
+  "grenadier":   [("Bandolier of 4 frags + 2 smoke + autopistol","C"),("Grenade launcher + 6 rounds","U")],
+  "heavy":       [("Heavy stubber + 2 belts","U"),("Ripper gun / drum-fed shotgun","U"),("Bolted-together drum autogun","C")],
+  "assassin":    [("Silenced stub pistol + mono-knife","U"),("Throwing knives + chain knife","C"),("Needle-blade (toxin)","R")],
+  "flamer":      [("Hand flamer + 1 canister","U"),("Flamer + 2 canisters","R")],
+  "demolitions": [("Demo satchel + detonator","U"),("Breaching charges x2","U"),("Melta bomb (stolen)","R")],
+  "medic":       [("Med-kit + 3 stimms + autopistol","C"),("Combat drugs (slaught, Quicksilver) + stimm","U")],
+  "leader":      [("Gang boss: chain axe + hand cannon","U"),("Hammerfall long barrel + chainsword","U"),("Bolt pistol, rebored + power knife","R")],
+  "breacher":    [("Boarding shield + sawn-off shotgun","U"),("Combat shotgun, semi-auto + shock baton","U")],
+ },
+ "pirate": {
+  "sniper":      [("Long-las, Mezoa + laspistol","U"),("Scoped lascarbine + stub revolver","C"),("Long-las, Helbore","R")],
+  "grenadier":   [("Bag of 4 frags + 2 smoke + autopistol","C"),("Grenade launcher + 6 rounds","U")],
+  "heavy":       [("Heavy stubber + 2 belts","U"),("Ripper gun / drum-fed shotgun","U"),("Multi-laser, man-portable","R")],
+  "assassin":    [("Silenced stub pistol + mono-knife","U"),("Plasteel throwing knives, 'Callidus' (set of 6) + cutlass","R"),("Garrotte + combat knife","C")],
+  "flamer":      [("Hand flamer + 1 canister","U"),("Flamer + 2 canisters","U")],
+  "demolitions": [("Breaching charges x2 + pump shotgun","U"),("Demo satchel + detonator","U"),("Melta bomb","R")],
+  "medic":       [("Ship's surgeon: med-kit, 3 stimms, autopistol","C"),("Med-kit + antitoxin + laspistol","U")],
+  "leader":      [("Pirate captain: power sword + heavy laspistol","R"),("Bosun: chainsword + Hammerfall long barrel","U"),("Officer's sabre + boarding pistol","C")],
+  "breacher":    [("Boarding shield + combat shotgun, semi-auto","U"),("Boarding shield + shock maul","U"),("Void-suited boarder: boarding axe + shotgun","C")],
+  "vox":         [("Vox-caster + spoof-tag + autopistol","U"),("Auspex + lascarbine","U")],
+ },
+}
+for k in E: E[k]["specialists"] = SPEC[k]
 json.dump(E, open("enemies.json","w"), indent=1)
 print(len(E), "enemy pools")

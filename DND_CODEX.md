@@ -857,8 +857,13 @@ with a story, often damaged or short on ammunition.
 **Enemy loot pools (set by the player, Ash on Ostrava session 8).** Cultists,
 raiders and pirates carry gear rolled from their own pools in
 [`wh40k_gear/enemies.json`](wh40k_gear/enemies.json) with
-`python3 wh40k_gear/roll_enemy.py TYPE COUNT`: a weapon, a melee weapon, armour
-and one extra each, weighted to common. Other enemies (Guard deserters, xenos,
+`python3 wh40k_gear/roll_enemy.py TYPE COUNT`, weighted to common. **Each enemy
+rolls a role d20 first:** 1-15 is a grunt, a coin flip making them ranged (a gun
+plus melee backup) or melee (a melee weapon, maybe a sidearm); 16-20 is a
+**specialist**, a random role from that enemy type's list (sniper, grenadier,
+heavy, assassin, flamer, demolitions, medic, leader; cultists can roll a rogue
+psyker, raiders and pirates a breacher, pirates a vox/auspex man), carrying that
+role's kit. Every enemy also rolls armour and one extra. Other enemies (Guard deserters, xenos,
 Mechanicus) still follow the fiction until they get pools. **Before the fight**,
 one d20 in the open for the group (a named enemy alone gets their own) decides
 who is better armed with something they found or made, and uses it against you:
