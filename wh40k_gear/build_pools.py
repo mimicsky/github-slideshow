@@ -34,6 +34,7 @@ add("gear","C","MBF",[("Speedloader (auto-revolver)",0.25)])
 # Darktide-inspired autoguns, player-detailed (session 8). Full rules in DND_CODEX Part 8.
 add("stub","C","MBF",[("Infantry autogun, 'Columnus' pattern (30-round curved mag; single/burst/auto)",1.25)])
 add("stub","U","MBF",[("Braced autogun, 'Graia' pattern (60-round box, bipod; full auto chains of 8; suppression braced; heat)",2.5)])
+add("stub","U","MBF",[("Vigilante autogun, 'Kasr Warden' pattern (20-round straight mag; semi-auto chains of 4; light trigger, drop-prone; vented; threaded muzzle; rails)",2)])
 add("mod","U","MBF",[("Muzzle brake (threaded muzzles: a miss in a chain gives no -1)",1.5)])
 add("stub","R","MB",[("Web pistol, Arbites pattern (entangles, no damage; 4 shots a canister)",8)])
 add("ammo","U","MB",[("Web canister (4 shots)",1)])

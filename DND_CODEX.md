@@ -1003,6 +1003,16 @@ adds 1; at 3 it must vent a beat; firing anyway at 3, d20 1-5 jams it (a beat to
 clear). Autogun punch, but each 3 hits in one chain count as one solid hit against
 carapace.
 
+**Vigilante autogun, 'Kasr Warden' pattern** (player design, uncommon, 2 TV;
+Munitorum, black market, Free Traders). Light L-shaped skeleton stock in bare steel,
+slim urban-grey receiver, top rail over built-in iron sights, straight 20-round
+magazine, railed handguard, vented barrel cover, threaded muzzle (thread-cap when
+bare). Semi-auto: chains of up to 4 single shots, normal hit bonuses. Light
+trigger: +1 on the first shot of a fight, and it is drop-prone. Vented: never
+builds heat, and the handguard stays cool to hold. Muzzle takes a silencer (the
+first shot from cover doesn't give the shooter away; -1 past 30 m) or a muzzle
+brake (a miss in a chain gives no -1). Autogun punch.
+
 **Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a
 sticky web, about 10 m. No damage: a hit entangles the target, who can't move or
 attack until free (a STR check, d20 15+, each beat; or someone cuts them loose,

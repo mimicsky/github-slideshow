@@ -322,6 +322,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Vigilante autogun, 'Kasr Warden' pattern (20-round straight mag; semi-auto chains of 4; light trigger, drop-prone; vented; threaded muzzle; rails)",
+  "tv": 2,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Muzzle brake (threaded muzzles: a miss in a chain gives no -1)",
   "tv": 1.5,
   "cat": "mod",
