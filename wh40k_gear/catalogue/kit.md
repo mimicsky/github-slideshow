@@ -67,3 +67,15 @@ weighs more; -1 on snap shots from the hip.
 **Shock-coil kit** (rare, 8 TV): fits any weapon. After a hit, the jolt gives
 **+1 on your next roll against that target** (+2 on heavy weapons such as a
 thunder hammer or heavy stubber). 6 charges a fight, recharged at a coupling.
+
+## Psy-ward amulet
+
+(player design, **epic**: an exotic find, natural 20 only; 45 TV; Ecclesiarchy, Free
+Traders.) A small reliquary on a chain holding a strip of parchment blessed and
+charged by the Emperor's psykers: an Astra Telepathica choir, a sanctioned
+primaris psyker, or a Space Marine Librarian. A little psychic power sleeps in the
+writing. **The first time a hit would drop the wearer a health step, the parchment
+burns and a shimmering shield takes the hit instead.** It works against anything,
+a raw 17+ included, and against warp powers. Then it's ash. **Re-charging it** takes
+a sanctioned psyker's blessing (Mother Oculine could) and the Ordo's favour. It
+burns cold and smells of incense; anyone with psychic sense notices it.

@@ -98,3 +98,22 @@ through blood: a sacrifice or a grimoire chant, never a staff.
 blades burn them; a purity seal gives advantage on any save their powers force;
 they fade when their witch falls. Their loot is nothing: ash and a smell. **As loot:** useless to anyone but a psyker. Anyone else who carries it
 makes a WIS save each day or hears it; the Inquisition wants it destroyed.
+
+## Chaos ward-mark
+
+(rare, 15 TV on the black market; player design.) A cult charm on a cord: a bone
+disc, a scrap of skin or a brass token carrying the **mark of their god**. **The first
+time a hit would drop the wearer a health step, the mark takes it, the god's way,
+and fades** (the brand, ink or brass goes blank). Then it's spent.
+
+| God | How it takes the hit | The price |
+| --- | --- | --- |
+| **Khorne** | No sorcery: a **brass blood-mark** drinks the blow (the Blood God's gift, not a spell). It also shrugs off one warp power | The wearer frenzies: next beat they must charge the nearest enemy |
+| **Nurgle** | **Rot-vines** burst from the charm and catch the blow, then wither | The wearer stinks and weeps; -1 to sneak for the rest of the fight |
+| **Slaanesh** | A pale **tentacle** lashes out of the seal and takes the hit | The wearer is dazed with pleasure: -1 on their next roll |
+| **Tzeentch** | Fate twists: **the shot or blow simply misses**, however good it was | The DM may change one small thing in the scene, Tzeentch's way |
+| **Undivided** | **The warp opens** for a heartbeat and swallows the shot or blow | Frost and whispers; everyone within ~3 m makes a WIS save or takes -1 next beat |
+
+Cult leaders and witches carry them (found-or-made, rare). **As loot:** it can work
+for one of the Light too, but wearing a god's mark is heresy: a purity seal
+burns away near it, and the DM may make the wearer pay something later.

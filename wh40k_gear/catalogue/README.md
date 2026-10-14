@@ -87,6 +87,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Diamantine whetstone](kit.md#diamantine-whetstone)
 - [Underslung chain-bayonet](kit.md#underslung-chain-bayonet)
 - [Shock-coil kit](kit.md#shock-coil-kit)
+- [Psy-ward amulet](kit.md#psy-ward-amulet) (epic)
 
 ## [Drugs and servo-skulls](drugs.md)
 
@@ -99,6 +100,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 
 - [Chaos grimoire](heretic.md#chaos-grimoire)
 - [Chaos psyker staff](heretic.md#chaos-psyker-staff)
+- [Chaos ward-mark](heretic.md#chaos-ward-mark)
 
 ## [Heavy and vehicle weapons](heavy.md)
 

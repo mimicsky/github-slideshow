@@ -1099,6 +1099,20 @@
   "sellers": "BF"
  },
  {
+  "name": "Psy-ward amulet (blessed parchment; burns to take one hit that would hurt the wearer)",
+  "tv": 45,
+  "cat": "gear",
+  "rarity": "X",
+  "sellers": "EF"
+ },
+ {
+  "name": "Chaos ward-mark (cult charm; takes one hit, the god's way, at a price)",
+  "tv": 15,
+  "cat": "goods",
+  "rarity": "R",
+  "sellers": "B"
+ },
+ {
   "name": "Chaos psyker staff (cultist witch's focus; psyker only; touching it is dangerous)",
   "tv": 25,
   "cat": "goods",
