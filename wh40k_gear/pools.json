@@ -1099,6 +1099,13 @@
   "sellers": "BF"
  },
  {
+  "name": "Chaos psyker staff (cultist witch's focus; psyker only; touching it is dangerous)",
+  "tv": 25,
+  "cat": "goods",
+  "rarity": "R",
+  "sellers": "B"
+ },
+ {
   "name": "Chaos grimoire (forbidden book; the DM decides what it does; the Inquisition wants it)",
   "tv": 12,
   "cat": "goods",

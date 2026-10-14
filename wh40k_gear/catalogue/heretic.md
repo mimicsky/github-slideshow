@@ -52,3 +52,27 @@ wrong, the air thickens, lights flicker. The chant builds over beats, and the
 - A **purity seal** gives advantage on saves against the chant, and burns away.
 - A **psyker** in the Light can try to fight the chant (opposed WIS roll; win and
   it breaks).
+
+## Chaos psyker staff
+
+(rare, 25 TV on the black market; player design.) A cultist witch's focus: a
+staff of black iron, bone or warped wood, wound with chains and charms, the
+crown cut into the mark of their god. **About one cult witch in four carries one**
+(the rest have a crude stick). It channels Chaos through the psyker who holds it.
+
+**In a witch's hands:** each beat they use **one power**, and roll a d20 for
+Perils: **1-3**, the warp bites them instead (they drop a health step; a natural 1
+is worse, the DM's call).
+
+| Power | What it does |
+| --- | --- |
+| **Warp-fire** | A gout of fire at one target: hits like a flamer and sets them alight (put it out next beat or drop a health step) |
+| **Lightning** | Arcs to a target and one person beside them: ignores flak, and anyone hit takes -2 next beat |
+| **Force blast** | Hits like a hellgun and throws the target off their feet: they're **knocked down** (in-hand weapons drop; drop-prone guns roll) |
+| **Warp ward** | Blocks the first shot and the first melee hit at the witch this beat (a raw 17+ still gets through) |
+| **Mind-lash** | One target in sight: WIS save or frozen for a beat; a purity seal gives advantage |
+
+The DM may give a witch powers that fit their god (plague-rot, blood-boil,
+changing flesh). Wounding, stunning or disarming the witch breaks a power
+mid-beat. **As loot:** useless to anyone but a psyker. Anyone else who carries it
+makes a WIS save each day or hears it; the Inquisition wants it destroyed.

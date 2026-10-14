@@ -90,6 +90,7 @@ add("melee","R","MAF",[("Power maul",25),("Power sword",30),("Power axe",30),("P
 add("melee","U","MBF",[("Combat chain-knife, 'Kasr Gnaw' pattern (combat-knife frame, chain blade, spine motor, hilt lever; +1 strike first; chainsword bite)",3)])
 add("melee","U","MBF",[("Injector stiletto, 'Kasr Sting' pattern (straight stiletto blade with an injection channel; pommel vial, 1 dose; skeleton hilt, green cord wrap; throwable)",2)])
 add("gear","U","BF",[("Injector vial: toxin (1 dose; CON save or drop a health step)",1),("Injector vial: paralytic (1 dose; CON save or can't move or act next beat)",1.5)])
+add("goods","R","B",[("Chaos psyker staff (cultist witch's focus; psyker only; touching it is dangerous)",25)])
 add("goods","R","B",[("Chaos grimoire (forbidden book; the DM decides what it does; the Inquisition wants it)",12)])
 add("explosive","U","B",[("Cult gas bottle (glass, plastek cage and sealed cap; shatters on impact; gas by cult: plague, rage, euphoria or visions)",1.5)])
 add("melee","R","F",[("Force wakizashi, 'Kasr Veil' pattern (psyker only; skeleton grip, no guard; warp-shield intake, Perils 1-3 each beat)",35)])
@@ -211,7 +212,7 @@ SPEC = {
   "demolitions": [("Demo satchel + detonator","U"),("3 krak grenades (stolen)","R"),("Mining charges x2 + stub pistol","C")],
   "medic":       [("Med-kit + 3 stimms + autopistol","C"),("Cult 'blessings' (stimms and drugs) + knife","C")],
   "leader":      [("Chainsword + laspistol (cult preacher)","U"),("Desecrated chainsword + autopistol","U"),("Bolt pistol (stolen) + power knife","R")],
-  "psyker":      [("Witch: rogue psyker, crude staff + knife (warp power; Perils on a natural 1)","R")],
+  "psyker":      [("Witch: rogue psyker, crude staff + knife (warp power; Perils on a natural 1)","C"),("Witch with a Chaos psyker staff + knife (fire, lightning, force; Perils 1-3 a beat)","U")],
  },
  "raider": {
   "sniper":      [("Scoped autogun + autopistol","C"),("Long-las, Mezoa + heavy laspistol","U"),("Vraks-pattern sniper autorifle","R")],
