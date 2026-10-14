@@ -238,13 +238,6 @@
   "sellers": "MBF"
  },
  {
-  "name": "Braced autogun (heavy barrel)",
-  "tv": 2.5,
-  "cat": "stub",
-  "rarity": "U",
-  "sellers": "MBF"
- },
- {
   "name": "Sawn-off shotgun",
   "tv": 1,
   "cat": "stub",
@@ -312,6 +305,27 @@
   "tv": 0.25,
   "cat": "gear",
   "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Infantry autogun, 'Columnus' pattern (30-round curved mag; single/burst/auto)",
+  "tv": 1.25,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Braced autogun, 'Graia' pattern (60-round box, bipod; full auto chains of 8; suppression braced; heat)",
+  "tv": 2.5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Muzzle brake (threaded muzzles: a miss in a chain gives no -1)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
   "sellers": "MBF"
  },
  {

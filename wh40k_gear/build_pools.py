@@ -26,11 +26,15 @@ add("las","U","MBF",[("Long-las, 'Kasr Sprinter' stripped pattern (skeleton stoc
 add("las","R","BF",[("Duelling laspistol, noble-house pattern",8),("Archeotech lasgun 'sunfire' (worn, works)",30)])
 # --- Solid shot ---
 add("stub","C","MB",[("Autogun, Agripinaa",1),("Autopistol",1),("Stub revolver",0.5),("Stub automatic",0.75),("Combat shotgun, pump",1.5)])
-add("stub","U","MBF",[("Combat shotgun, semi-auto",2),("Ripper gun / drum-fed shotgun",3),("Braced autogun (heavy barrel)",2.5),("Sawn-off shotgun",1),("Hand cannon (big-bore stubber)",2),("Scrap autogun with drum",1.5)])
+add("stub","U","MBF",[("Combat shotgun, semi-auto",2),("Ripper gun / drum-fed shotgun",3),("Sawn-off shotgun",1),("Hand cannon (big-bore stubber)",2),("Scrap autogun with drum",1.5)])
 add("stub","U","B",[("Silenced stub pistol",2.5),("Holdout stub pistol",1),("Hive-gang 'scattergun'",1),("Ganger's chain-fed autopistol",2)])
 # Player design (session 8): auto-revolver. Full rules in DND_CODEX Part 8.
 add("stub","U","MBF",[("Auto-revolver, 'Hammerfall' pattern, stub barrel (8-round cylinder, autogun rounds; hold-trigger chains up to 8, no hit bonuses in the chain)",2),("Auto-revolver, 'Hammerfall' pattern, long barrel (as stub; +1 on single aimed shots past 20 m)",2.5)])
 add("gear","C","MBF",[("Speedloader (auto-revolver)",0.25)])
+# Darktide-inspired autoguns, player-detailed (session 8). Full rules in DND_CODEX Part 8.
+add("stub","C","MBF",[("Infantry autogun, 'Columnus' pattern (30-round curved mag; single/burst/auto)",1.25)])
+add("stub","U","MBF",[("Braced autogun, 'Graia' pattern (60-round box, bipod; full auto chains of 8; suppression braced; heat)",2.5)])
+add("mod","U","MBF",[("Muzzle brake (threaded muzzles: a miss in a chain gives no -1)",1.5)])
 add("stub","R","MB",[("Web pistol, Arbites pattern (entangles, no damage; 4 shots a canister)",8)])
 add("ammo","U","MB",[("Web canister (4 shots)",1)])
 add("stub","R","BF",[("Needle rifle (silent toxin darts, 8-dart magazine; CON save or drop a health step)",18)])

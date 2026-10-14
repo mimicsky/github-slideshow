@@ -986,6 +986,23 @@ step, and anything flammable nearby can catch. Long barrel: +1 on single aimed
 shots past 15 m. **Heavy trigger:** -1 to quick-draw and to the first shot of a
 fight, shot chains of 3 at most, and it never fires by accident.
 
+**Infantry autogun, 'Columnus' pattern** (common, 1.25 TV; Munitorum, black market,
+Free Traders). Mid-length rifle, dark parkerised steel, folding wire stock with a
+rubber butt-cap, short ribbed handguard with a top rail, curved 30-round magazine,
+square-hooded front sight and flip-up rear, olive canvas sling. Select fire:
+single (+1 on aimed shots past 30 m), burst (a 3-shot chain where a miss gives no
+-1), or auto (a chain of up to 6, no hit bonuses). Autogun punch.
+
+**Braced autogun, 'Graia' pattern** (uncommon, 2.5 TV; Munitorum, black market,
+Free Traders). Long and heavy: hardwood stock with a deep cheek-rest, perforated
+heat shroud over a thick barrel, folding bipod, 60-round box magazine, carry handle
+as a sight base, brass ejection deflector, heat-blued barrel. Full auto only, chains
+of up to 8. Braced on cover or its bipod it suppresses (the target takes -2 on its
+shots; stacks with a heavy's suppression); from the hip, -2. Heat: each chain of 6+
+adds 1; at 3 it must vent a beat; firing anyway at 3, d20 1-5 jams it (a beat to
+clear). Autogun punch, but each 3 hits in one chain count as one solid hit against
+carapace.
+
 **Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a
 sticky web, about 10 m. No damage: a hit entangles the target, who can't move or
 attack until free (a STR check, d20 15+, each beat; or someone cuts them loose,
