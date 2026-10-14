@@ -1072,6 +1072,16 @@ the single price.
   **Forging:** 1 plasteel ingot makes 6 in a day at a forge, with the smith's roll:
   success 6; near miss 4; fail, the ingot is wasted; natural 20, 6 masterwork
   (+1 to throw).
+- **Force wakizashi, 'Kasr Veil' pattern** (rare, 35 TV, Free Traders; player design):
+  a short steel blade, modern skeleton grip, no handguard: +1 to strike first in an
+  exchange, -1 to parry. In a non-psyker's hand it is only a sharp blade. A psyker
+  channels through it: through carapace on a solid hit, and it burns daemons and
+  warp-things. **Warp shield:** the psyker intake on the blade's spine raises a
+  shield for a beat that blocks the first shot and the first melee hit at the bearer
+  (a raw 17+ still gets through). Each beat it is up, roll a d20 for Perils: 1-3,
+  Perils of the Warp (the shield collapses, the psyker drops a health step and
+  something warp-wrong happens; a natural 1 is worse, the DM's call). Enemy witches
+  may carry one.
 - **Combat axe** (common, 1 TV): fast and light. When your swing is blocked, the
   next swing in the exchange is at +1. Weak against carapace.
 - **Thunder hammer, intact** (rare, 50 TV): two-handed, devastating. Every hit

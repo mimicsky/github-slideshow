@@ -973,6 +973,13 @@
   "sellers": "MAF"
  },
  {
+  "name": "Force wakizashi, 'Kasr Veil' pattern (psyker only; skeleton grip, no guard; warp-shield intake, Perils 1-3 each beat)",
+  "tv": 35,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "F"
+ },
+ {
   "name": "Plasteel throwing knives, 'Callidus' pattern, wavy blade (set of 6; through carapace on a solid hit; wound -2 to treat)",
   "tv": 4,
   "cat": "melee",
