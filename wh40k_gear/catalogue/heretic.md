@@ -27,3 +27,28 @@ means, using this as a guide:
 - **Handing it to the Inquisition** is the safe choice and earns favour. Keeping one
   is heresy if anyone finds out.
 - Enemy cult leaders and witches may carry one (found-or-made, rare).
+
+### In a cultist's hands: the chant
+
+A cultist with a **real** grimoire (the DM decides) can use it as a weapon. They
+start **chanting** from it, and everyone nearby hears and sees it: the words are
+wrong, the air thickens, lights flicker. The chant builds over beats, and the
+**Light gets a chance to stop it** before it lands.
+
+- **Breaking the chant:** wounding the chanter, knocking the book away, a flash
+  or stun, or anything that makes them stop for a beat ends it. It starts over
+  from nothing.
+- **Each beat of chanting, the DM picks one effect** (or lets it build to the next):
+
+| Beats chanted | What it can do |
+| --- | --- |
+| 1 | **A curse on one target in sight:** WIS save or -2 on everything next beat; or a lash of warp-force that hits like a lasgun and ignores flak |
+| 2 | **Fear or fury:** everyone of the Light within ~10 m makes a WIS save or freezes for a beat; or every cultist nearby gets +1 next beat; or warp-fire on one target (hits like a flamer) |
+| 3 | **The big one, DM's choice:** a small daemon or warp-thing torn through, a warp storm in the room (lights out, frost, everyone at -2), the god's gift on the chanter (healed, mutated, stronger), or something the cult's god would do |
+
+- **Backlash:** each beat the chanter rolls a d20; on **1-3** the warp bites them
+  instead (they drop a health step, and on a natural 1 something worse, DM's call).
+  The book doesn't care who it eats.
+- A **purity seal** gives advantage on saves against the chant, and burns away.
+- A **psyker** in the Light can try to fight the chant (opposed WIS roll; win and
+  it breaks).
