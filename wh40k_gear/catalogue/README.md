@@ -50,6 +50,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Plasma tripwire mine](explosives.md#plasma-tripwire-mine)
 - [Air-frag 'blender' grenade](explosives.md#air-frag-blender-grenade)
 - [Thrown demo satchel](explosives.md#thrown-demo-satchel)
+- [Cult gas bottle](explosives.md#cult-gas-bottle)
 
 ## [Melee weapons](melee.md)
 

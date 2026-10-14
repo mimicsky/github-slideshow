@@ -29,3 +29,23 @@ wanted or lands nearby) or **set it by hand**, then blow it from cover with the
 detonator (line of sight or ~100 m). One satchel does what two kraks do to a
 door; anyone within ~4 m is hit hard. **Armed, it beeps:** heard within a couple
 of metres, or further on a good Perception roll.
+
+## Cult gas bottle
+
+(uncommon, 1.5 TV; black market; player design.) A potion-shaped glass bottle with
+a sealed plastek cap for filling, inside a plastek cage that runs up the bottle so
+it survives a pack or a pocket. It only breaks when thrown hard: on impact the
+glass shatters and the gas comes out in a cloud about 3 m across that hangs for 2
+beats (wind or a vent moves it). A natural 1 on the throw shatters it at the
+thrower's feet. Cultists make them; the gas is their god's:
+
+| Cult | Gas | Anyone in the cloud |
+| --- | --- | --- |
+| Plague (Nurgle) | Rot-spores | CON save or sickened: drops a health step at the end of the fight unless given antitoxin |
+| Blood (Khorne) | Red rage-mist | WIS save or must attack the nearest person next beat, friend or foe |
+| Excess (Slaanesh) | Sweet euphoric haze | WIS save or lose their next beat, lost in it |
+| Change (Tzeentch) | Shimmering vision-smoke | WIS save or -3 on every shot and throw next beat (they see too many targets) |
+| Undivided / generic | Choking smoke | CON save or -2 on everything next beat; blocks sight like smoke |
+
+A rebreather or gas mask gives advantage on the save; a sealed void-suit or
+hazard suit is immune. Enemy cultists can carry them (extras and found-or-made).
