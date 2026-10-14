@@ -29,6 +29,10 @@ add("stub","U","B",[("Silenced stub pistol",2.5),("Holdout stub pistol",1),("Hiv
 # Player design (session 8): auto-revolver. Full rules in DND_CODEX Part 8.
 add("stub","U","MBF",[("Auto-revolver, 'Hammerfall' pattern, stub barrel (8-round cylinder, autogun rounds; hold-trigger chains up to 8, no hit bonuses in the chain)",2),("Auto-revolver, 'Hammerfall' pattern, long barrel (as stub; +1 on single aimed shots past 20 m)",2.5)])
 add("gear","C","MBF",[("Speedloader (auto-revolver)",0.25)])
+add("stub","R","MB",[("Web pistol, Arbites pattern (entangles, no damage; 4 shots a canister)",8)])
+add("ammo","U","MB",[("Web canister (4 shots)",1)])
+add("stub","R","BF",[("Needle rifle (silent toxin darts, 8-dart magazine; CON save or drop a health step)",18)])
+add("ammo","U","BF",[("Needle rifle toxin darts (8)",2)])
 add("stub","R","MBF",[("Vraks-pattern sniper autorifle",7),("Lucius-pattern 'Ironclad' shotgun",4),("Arbites combat shotgun (shock shells)",6)])
 # --- Bolt ---
 add("bolt","U","MF",[("Bolt pistol, Godwyn-Deaz (officer)",12)])

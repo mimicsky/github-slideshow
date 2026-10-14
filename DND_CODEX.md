@@ -986,6 +986,17 @@ step, and anything flammable nearby can catch. Long barrel: +1 on single aimed
 shots past 15 m. **Heavy trigger:** -1 to quick-draw and to the first shot of a
 fight, shot chains of 3 at most, and it never fires by accident.
 
+**Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a
+sticky web, about 10 m. No damage: a hit entangles the target, who can't move or
+attack until free (a STR check, d20 15+, each beat; or someone cuts them loose,
+a beat's work). 4 shots a canister; spare canisters uncommon, 1 TV.
+
+**Needle rifle** (rare, 18 TV; black market, Free Traders). Silent. Fires toxin
+darts, 8 to a magazine. Against flesh or flak, a hit forces a CON save: fail and
+the target drops a health step next beat. Against carapace, only a solid hit
+(beats the target's roll by 3+) finds a gap. +1 on single aimed shots past 30 m.
+Spare darts uncommon, 2 TV for 8.
+
 **Astartes bolters** (player designs). Space Marine guns, sized for a hand twice a
 human's: the bolt carbine (55 TV), bolt rifle (60) and auto bolt rifle (65) are
 **epic** (the exotic tier: natural-20 finds only); the heavy bolt rifle (90) and

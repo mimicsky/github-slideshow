@@ -301,6 +301,34 @@
   "sellers": "MBF"
  },
  {
+  "name": "Web pistol, Arbites pattern (entangles, no damage; 4 shots a canister)",
+  "tv": 8,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MB"
+ },
+ {
+  "name": "Web canister (4 shots)",
+  "tv": 1,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MB"
+ },
+ {
+  "name": "Needle rifle (silent toxin darts, 8-dart magazine; CON save or drop a health step)",
+  "tv": 18,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Needle rifle toxin darts (8)",
+  "tv": 2,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
   "name": "Vraks-pattern sniper autorifle",
   "tv": 7,
   "cat": "stub",
