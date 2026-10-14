@@ -373,6 +373,14 @@ Light's container. Crew rallying cry: **"We are the light."**
 
 ## DM threads (not known to the player)
 
+- **The campaign runs until Tamsin dies (set by the player, session 8; don't bring
+  it up at the table).** No planned ending. **The longer he lives, the harder the
+  fights get:** more enemies, better armed (more specialists, more better-armed and
+  elite rolls), smarter tactics, nastier ground, worse odds. Never through moved
+  DCs or inflated stats, and never a rigged death: the dice stand both ways. If he
+  dies, it's final: the book closes as a memorial to him and to this first
+  campaign, and the player starts a new character.
+
 - **Ferro-Ashe's heresy (hidden):** cast out of the Mechanicus for letting a cogitator learn on its own. They still have its core in a sealed case in the workshop.
 - Varsaine's own story is true as far as it goes. Keep him honest but not
   fully forthcoming.
