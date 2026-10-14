@@ -959,128 +959,17 @@ judges any of them the same way.
 Then the mission is played. Harder missions mean tougher enemies and better loot,
 never a moved DC (Part 7).
 
-### Las weapons: hot-shot conversion and player designs
+### Gear rules (apply to every weapon)
+
+These rules apply across many items. Each item's own rules are in the gear
+catalogue: read its table of contents,
+[`wh40k_gear/catalogue/README.md`](wh40k_gear/catalogue/README.md), and open only
+the entry that comes up in play.
 
 **Hot-shot conversion** (set session 8). Any las weapon can take a hot-shot
 conversion kit: it **hits one step harder** (a lasgun hits like a hellgun), **uses
 ammunition twice as fast**, and a gun that builds heat gains **1 extra heat per
 chain**.
-
-**Las-SMG, 'Sterl' pattern** (player design, uncommon, 3 TV). Side-mounted pack.
-Shot chains up to 6; low recoil: a miss doesn't give -1 to the next shot. Small
-punch: against carapace 2 hits count as one lasgun hit; useless against power
-armour. A pack lasts about one fight's bursts.
-
-**Las-box, 'Kasr Barr' pattern light las-LMG** (player design, rare, 8 TV). Thick
-box pack (0.75 TV, recharges at a coupling). Punch between lasgun and hot-shot:
-through carapace on a solid hit (beats the shot by 3+). Chains up to 6; good for
-suppression. **Heat:** each chain of 4+ shots adds 1; at 3 it must vent one beat;
-firing anyway at 3: d20, 1-5 cracks the coil. Heavy: -2 from the hip, none braced.
-
-**Heavy laspistol, 'Nocturne Ember' pattern** (player design, rare, 14 TV; Free
-Traders, Mechanicus). A heavy laspistol with a longer barrel and a side-loading
-pack, focused through a crystal forged from a gem of Nocturne. Heavy laspistol
-punch (through carapace on a solid hit). **Ignite:** a hit on a raw 17+ sets the
-target alight; next beat they spend it putting the fire out or drop a health
-step, and anything flammable nearby can catch. Long barrel: +1 on single aimed
-shots past 15 m. **Heavy trigger:** -1 to quick-draw and to the first shot of a
-fight, shot chains of 3 at most, and it never fires by accident.
-
-**Infantry autogun, 'Columnus' pattern** (common, 1.25 TV; Munitorum, black market,
-Free Traders). Mid-length rifle, dark parkerised steel, folding wire stock with a
-rubber butt-cap, short ribbed handguard with a top rail, curved 30-round magazine,
-square-hooded front sight and flip-up rear, olive canvas sling. Select fire:
-single (+1 on aimed shots past 30 m), burst (a 3-shot chain where a miss gives no
--1), or auto (a chain of up to 6, no hit bonuses). Autogun punch.
-
-**Braced autogun, 'Graia' pattern** (uncommon, 2.5 TV; Munitorum, black market,
-Free Traders). Long and heavy: hardwood stock with a deep cheek-rest, perforated
-heat shroud over a thick barrel, folding bipod, 60-round box magazine, carry handle
-as a sight base, brass ejection deflector, heat-blued barrel. Full auto only, chains
-of up to 8. Braced on cover or its bipod it suppresses (the target takes -2 on its
-shots; stacks with a heavy's suppression); from the hip, -2. Heat: each chain of 6+
-adds 1; at 3 it must vent a beat; firing anyway at 3, d20 1-5 jams it (a beat to
-clear). Autogun punch, but each 3 hits in one chain count as one solid hit against
-carapace.
-
-**Vigilante autogun, 'Kasr Warden' pattern** (player design, uncommon, 2 TV;
-Munitorum, black market, Free Traders). Light L-shaped skeleton stock in bare steel,
-slim urban-grey receiver, top rail over built-in iron sights, straight 20-round
-magazine, railed handguard, vented barrel cover, threaded muzzle (thread-cap when
-bare). Semi-auto: chains of up to 4 single shots, normal hit bonuses. Light
-trigger: +1 on the first shot of a fight, and it is drop-prone. Vented: never
-builds heat, and the handguard stays cool to hold. Muzzle takes a silencer (the
-first shot from cover doesn't give the shooter away; -1 past 30 m) or a muzzle
-brake (a miss in a chain gives no -1). Autogun punch.
-
-**Shredder autopistol, Ius pattern** (Darktide; uncommon, 1.5 TV; Munitorum, black
-market, Free Traders). A compact full-auto pistol with a 30-round magazine.
-Shot chains of up to 8 with no hit bonuses (misses still -1). Autopistol punch:
-good on flesh, poor on flak, through carapace only on a solid hit.
-
-**Headhunter autogun, Agripaa pattern** (Darktide; uncommon, 3 TV; Munitorum,
-black market, Free Traders). A semi-auto marksman's autogun with a 15-round
-magazine and a scope mount. +2 on aimed shots past 30 m; shot chains of 2 at most.
-Autogun punch.
-
-**Combat shotgun, 'Kasr Sweeper' duckbill pattern** (player design, uncommon, 3 TV;
-Munitorum, black market, Free Traders). Full-metal body with the stock built in as
-one piece, a handguard, an 8-shell tube under the barrel, and a side slide that
-throws spent shells clear. Semi-auto, chains of up to 4; reloading is half a beat
-per 2 shells. **Built-in duckbill:** the pellets spread sideways in a flat line.
-Within 10 m, one roll can hit up to 3 enemies standing side by side (checked
-against each); no bonus on a single target; -2 past 15 m; against enemies stacked
-one behind another it hits only the front one. Shotgun punch (brutal on flesh and
-flak up close, carapace only on a solid hit). Tough: it can be swung as a club and
-is never damaged by a drop or fall.
-
-**Machine pistol, 'Kasr Hornet' pattern** (player design, uncommon, 2.5 TV; black
-market, Free Traders). Fires autogun rounds from an extended 40-round magazine in a
-purpose-made magwell. Moulded plastek grip with ergonomic grooves, side-ejecting
-slide, a short barrel that takes no muzzle attachment. **Extremely fast:** shot
-chains of up to 10, with no hit bonuses in the chain (misses still -1). Autogun
-punch. **Hair trigger:** +1 on the first shot of a fight; drop-prone.
-**Malfunctions (heat of continuous fire):** the jam risk lives on the shot dice,
-with no extra rolls. Rounds are counted only while firing continuously, beat after
-beat; stopping for one beat resets the count (reloading doesn't matter). A chain is
-at most 10, so the risk starts when the shooter keeps firing into the next beat:
-from the 13th continuous round on, any shot die of **1-4** is a malfunction instead
-of the shot. A natural 1 on any shot is always a malfunction. Malfunction, d6: 1-2 jam (a beat to clear);
-3 misfire (that chain ends, no hit); 4 double feed (two beats to clear); 5 runaway
-(it fires the rest of the magazine uncontrolled, as a dropped dump below); 6 a part
-cracks (out of the fight until repaired). **Dropped:** on the drop-prone table's
-"fires" result it dumps the whole magazine, spraying the area: roll the
-where-it-goes d20 once for every 10 rounds left (at least once).
-
-**Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a
-sticky web, about 10 m. No damage: a hit entangles the target, who can't move or
-attack until free (a STR check, d20 15+, each beat; or someone cuts them loose,
-a beat's work). 4 shots a canister; spare canisters uncommon, 1 TV.
-
-**Needle rifle** (rare, 18 TV; black market, Free Traders). Silent. Fires toxin
-darts, 8 to a magazine. Against flesh or flak, a hit forces a CON save: fail and
-the target drops a health step next beat. Against carapace, only a solid hit
-(beats the target's roll by 3+) finds a gap. +1 on single aimed shots past 30 m.
-Spare darts uncommon, 2 TV for 8.
-
-**Lasgun, 'Kasr Duet' twin-focus pattern** (player design, rare, 7 TV; Munitorum,
-Free Traders, Mechanicus). Two crystals fire down one barrel, the second a
-split-second behind: one roll, and a hit lands both bolts, hitting like a hellgun
-(through carapace on a solid hit). Each pull uses 2 shots of charge. Shot chains of
-2 pulls at most. Big braced stock with a recoil pad: +1 on aimed shots braced on
-cover or prone, no recoil penalty. Longer barrel: +1 on single aimed shots past
-30 m. Rail handguard: one extra attachment (a sight and an underslung piece
-together). With a hot-shot conversion it hits harder still, but drains packs four
-times as fast.
-
-**Long-las, 'Kasr Sprinter' stripped pattern** (player design, uncommon, 4.5 TV;
-Munitorum, black market, Free Traders). Skeleton stock and grip, stripped body:
-light to carry, so the bearer can move and still take an aimed shot in the same
-beat. Medium barrel and a 3x sight: +1 on aimed shots from 20 to 60 m, no bonus past
-60 m. Long-las punch (through carapace on a solid hit). One firing mode: single
-shots, chains of 2 at most. Light trigger: +1 on the first shot of a fight. **No
-safety:** it is drop-prone (below), and a natural 1 on any shot also fires a second,
-wasted bolt.
 
 **Drop-prone guns (set by the player, session 8).** A gun with no safety, a hair or
 light trigger, or a cocked hammer is **drop-prone** (the Kasr Sprinter; the DM says
@@ -1103,199 +992,16 @@ and doesn't count as dropped. A gun with no sling, or a pistol in hand, hits the
 deck: it can be grabbed or kicked away, and a drop-prone one rolls on the table
 above. Holstered and sheathed weapons stay put.
 
-**Astartes bolters** (player designs). Space Marine guns, sized for a hand twice a
-human's: the bolt carbine (55 TV), bolt rifle (60) and auto bolt rifle (65) are
-**epic** (the exotic tier: natural-20 finds only); the heavy bolt rifle (90) and
-Astartes heavy bolter (120) are **legendary** (a natural 20, then a second d20 of
-18-20). Sold only by the black market and Free Traders. A human can fire one only
-braced on cover or a mount, at -4, one shot a beat, and can't move that beat; with
-no brace it can't be fired. Mostly trade value or a trophy, and dangerous to own:
-the Astartes want their gear back. The Imperial Guard heavy bolter (rare, 40 TV,
-crew-served) is a separate, human weapon.
-
-**Arbitrator shield** (rare, 10 TV): the Adeptus Arbites riot shield. +2 to block,
-portable cover in the open, a firing notch for a pistol.
-
-**Auto-revolver, 'Hammerfall' pattern** (player design, uncommon; stub 2 TV, long
-2.5 TV). Full-metal frame, built-in iron sights, an 8-round cylinder of autogun
-rounds (autogun punch: through carapace only on a solid hit). Holding the trigger
-hammers the cylinder: a shot chain of up to 8. Recoil: in that rapid chain, hits
-give no +2/+1 to the next shot; misses still give -1. Single aimed shots work as
-normal. Stub barrel: +1 within 10 m, -2 past 20 m, easy to hide. Long barrel: +1 on
-single aimed shots past 20 m. Reloading loose rounds takes a full beat; a
-speedloader (common, 0.25 TV) makes it half a beat.
-
-**Bolt-shotgun, 'Breacher' pattern** (player design, rare, 10 TV). A short,
-single-shot breech-loader that fires one bolt round as a slug: hits like a
-boltgun. **Recoil:** at most 2 shots a beat; the second shot only if the first
-roll was 10 or more (raw), otherwise the beat is spent recovering. **Simple:**
-no magazines, loose bolt rounds, fast to reload. **Boltgun, Locke Mk IIb
-'Spearhead'** (rare, 26 TV) added to the bolt pool as the Darktide pattern.
-
-### Plasma heat
-
-Set session 8. Plasma weapons build heat: **standard plasma, 1 heat per 2 shots
+**Plasma heat.** Plasma weapons build heat: **standard plasma, 1 heat per 2 shots
 fired in a fight.** At **3 heat** the weapon must vent for one beat. Firing
 anyway at 3 heat: d20, on 1-5 it **overheats** (the bearer is burned, Hurt, and
 the weapon is out of the fight). Heat clears after venting or when the fight
 ends. Slow-filled and rushed cells keep their own misfire chances.
 
-**Plasma pistol, 'Needle' pattern** (player design, rare, 18 TV). Smaller frame,
-longer barrel. **Heat: 1 per 4 shots.** Gets **12 shots from a standard cell**
-(not 8). Lighter punch than a full plasma pistol: through carapace on any hit,
-but power armour only on a solid hit (beats the shot by 3+).
-
-**Tuned plasma cell** (player design, rare, 10 TV). A Mechanicus-tuned cell:
-**12 shots instead of 8.** Same misfire chance as its fill (slow-filled 1 in 20).
-
-**Plasma blaster, twin-cell 'Lumen' pattern** (player design, rare, 35 TV). A
-plasma SMG fed by **two cells at once** (16 shots with standard cells, 24 with
-tuned). Shot chains **up to 4**. Two cells share the load, so **heat is halved: 1
-per 4 shots.** Punch like a plasma pistol: through carapace on any hit, power
-armour on a solid hit.
-
-**Plasma tripwire mine** (player design, rare, 10 TV). Clamped beside a door,
-vent or crate; a thin trip-laser crosses the gap. Whoever breaks the beam sets
-off the plasma cell inside: everyone in the doorway or within ~3 m is hit through
-carapace, power armour on a solid hit. Setting it takes a beat (a natural 1 while
-setting it sets it off). The beam can be spotted (Perception; easier in smoke or
-dust).
-
-**Air-frag 'blender' grenade** (player design, uncommon, 2 TV). Twice the
-shrapnel, a **2-second fuse** (too short to throw back). In the open it's a frag
-grenade. **In a closed room it turns the room into a blender:** everyone inside
-is hit, cover inside the room doesn't help, flak is shredded (carapace mostly
-holds). **Ricochet:** anyone friendly in the doorway or within ~5 m of the
-opening makes a DEX save or takes a fragment.
-
-**Thrown demo satchel** (player design, uncommon, 5 TV). A heavy charge with a
-**mag-clamp** and a **paired detonator** already linked: no wiring, no fuse.
-**Throw it** (about 10-15 m; a throw roll decides whether it clamps where you
-wanted or lands nearby) or **set it by hand**, then blow it from cover with the
-detonator (line of sight or ~100 m). One satchel does what two kraks do to a
-door; anyone within ~4 m is hit hard. **Armed, it beeps:** heard within a couple
-of metres, or further on a good Perception roll.
-
-### Ammo crates
-
-Set by the player, session 8. Whenever ammunition turns up, in a shop roll or as
+**Ammo crates.** Whenever ammunition turns up, in a shop roll or as
 loot, roll a d20: **on 15+, or when the story makes it plain (an armoury, a supply
 dump), it's an ammo crate: four times the amount.** In shops a crate costs 3.5x
 the single price.
-
-### Melee additions (Darktide set, session 8)
-
-- **Hive shank** (common, 0.1 TV): a scrap knife anyone can make in minutes, no
-  roll. Breaks on a natural 1.
-- **Scrap throwing knives** (common, 0.4 TV for 4; player design): cheap, anyone can
-  make a set from scrap in an hour, no roll. Thrown ~10 m; deadly on flesh and
-  flak, weak against carapace. A knife breaks on a natural 1.
-- **Plasteel throwing knives, 'Callidus' pattern** (rare, 4 TV for 6; player design):
-  forged plasteel, wavy blade, thrown ~10 m. Easily through flak; through carapace
-  on a solid hit (beats the target's roll by 3+). The wavy wound is hard to close:
-  treating it is at -2, and if it is untreated by the end of the fight the target
-  drops one health step. A knife is lost (dropped, not broken) only on a natural 1.
-  **Forging:** 1 plasteel ingot makes 6 in a day at a forge, with the smith's roll:
-  success 6; near miss 4; fail, the ingot is wasted; natural 20, 6 masterwork
-  (+1 to throw).
-- **Force wakizashi, 'Kasr Veil' pattern** (rare, 35 TV, Free Traders; player design):
-  a short steel blade, modern skeleton grip, no handguard: +1 to strike first in an
-  exchange, -1 to parry. In a non-psyker's hand it is only a sharp blade. A psyker
-  channels through it: through carapace on a solid hit, and it burns daemons and
-  warp-things. **Warp shield:** the psyker intake on the blade's spine raises a
-  shield for a beat that blocks the first shot and the first melee hit at the bearer
-  (a raw 17+ still gets through). Each beat it is up, roll a d20 for Perils: 1-3,
-  Perils of the Warp (the shield collapses, the psyker drops a health step and
-  something warp-wrong happens; a natural 1 is worse, the DM's call). Enemy witches
-  may carry one.
-- **Combat chain-knife, 'Kasr Gnaw' pattern** (uncommon, 3 TV; player design): a
-  combat knife's shape with the blade replaced by a running chain, a small motor on
-  the spine, and the throttle lever on the hilt. Fast: +1 to strike first in an
-  exchange. It bites like a chainsword (through flak easily, carapace on a solid
-  hit), but its short reach takes -1 to parry longer blades. Loud when running,
-  so no quiet kills; switched off it is a poor, dull blade. Can't be thrown.
-- **Injector stiletto, 'Kasr Sting' pattern** (uncommon, 2 TV; player design): a
-  slim, dead-straight stiletto with an injection channel running inside the blade
-  from the base to the point, fed by a screw-in vial in the pommel (1 dose). The
-  hilt is a skeleton throwing-knife frame wrapped in olive-green cord, so it is
-  easily made. The thin blade finds gaps: through flak easily, through carapace on a
-  solid hit. **Injection:** any hit that wounds delivers the vial, and the liquid
-  does what it does: a toxin (CON save or drop a health step), a paralytic (CON
-  save or can't move or act next beat), or a stimm or antitoxin into an ally. Swapping
-  the vial takes a beat. Throwable, about 8 m; it still injects on a hit, but a
-  natural 1 on the throw cracks the vial. Vials: toxin 1 TV, paralytic 1.5 TV
-  (uncommon, black market and Free Traders).
-- **Combat axe** (common, 1 TV): fast and light. When your swing is blocked, the
-  next swing in the exchange is at +1. Weak against carapace.
-- **Thunder hammer, intact** (rare, 50 TV): two-handed, devastating. Every hit
-  goes through power armour and staggers. Slow: defenders get +2 to block or
-  parry it.
-- **Power falchion** (rare, 28 TV): a duelling blade. +2 in the exchange when
-  fighting a single opponent.
-- **Omnissian power sword** (rare, 32 TV): Mechanicus-made; its field never
-  flickers, and it cuts machines and servitors at +2.
-- **Paired transonic blades** (rare, 30 TV): two weapons (blocks become parries).
-  Resonance: after the first hit on a target, its armour counts one step lighter
-  against them.
-- **Blaze force sword / greatsword** (rare, 45 / 60 TV): psyker weapons. In a
-  sanctioned psyker's hands they burn with warp-fire; anyone else wields a plain
-  sword (greatsword: two-handed, heavy).
-
-### Kit additions (session 8)
-
-- **Tempestus Scion helmet** (rare, 25 TV): built-in rebreather and auspex.
-  **+2 Perception, +1 on shooting.** Stacks with sights, not with another helmet.
-- **Mag belt / bandolier** (common, 0.5 TV): four more packs or mags on hand;
-  reloading from it never costs the beat.
-- **Melee sheath / scabbard** (common, 0.25 TV): sized to one weapon; drawing it
-  is part of the move.
-- **Belt side-pouch** (common, 0.25 TV): two grenades or small kit, ready to grab.
-- **Back gun-scabbard / heavy sling mount** (uncommon, 1 TV): carries a second long gun or a heavy weapon across the back; swapping to it is one move, not a beat. For anyone running two big guns (Morcant: stubber and pump).
-- **Pistol holster** (common, 0.25 TV): hip or chest; the quick-draw rig (0.5 TV) is faster.
-- **Range-finder sight** (rare, 10 TV): **+1 on shooting past ~30 m.** Stacks with
-  specialties, not with another sight on the same gun.
-- **Extended magazine kits** (las/stub uncommon, 1.5 TV; bolt/plasma rare, 6 TV):
-  **+50% shots** per mag, pack or cell on that weapon.
-- **Power weapon tuning kit** (rare, 12 TV): steadies a power field (no flicker
-  under strain) and it goes **through power armour on any hit**.
-- **Diamantine whetstone** (uncommon, 1 TV): a few minutes out of a fight to
-  hone any edged blade (not chain or power): **+1 pierce on its next 2 hits**
-  (counts as +1 against armour). About 10 uses.
-- **Underslung chain-bayonet** (rare, 10 TV): a short chainsword mounted under a
-  rifle (lasgun, hellgun, autogun, Las-box). In melee the rifle counts as a
-  chainsword, at -1 to block or parry (it's awkward). No overdrive. The rifle
-  weighs more; -1 on snap shots from the hip.
-- **Shock-coil kit** (rare, 8 TV): fits any weapon. After a hit, the jolt gives
-  **+1 on your next roll against that target** (+2 on heavy weapons such as a
-  thunder hammer or heavy stubber). 6 charges a fight, recharged at a coupling.
-
-### Drugs and servo-skulls (session 8)
-
-- **Stimm** (0.5 TV): keeps you on your feet; ignore the slowing of Hurt for one
-  fight. **Concentrated stimm** (rare, 2 TV): one step better for a fight (Badly
-  hurt fights as Hurt) and stabilises someone Down. Crash after: tired and slow
-  until rested.
-- **Antitoxin** (1 TV): purges early plague or poison. **Concentrated antitoxin**
-  (rare, 4 TV): purges deep infections too: **the patient makes a CON save at +5** (the medic only gives the dose).
-- **Combat drugs** (uncommon, 1.5 TV a dose; one at a time): **Quicksilver** (+2
-  Athletics and moving), **Deadeye** (+2 shooting), **Frenzon** (+2 melee, -2 to
-  block or parry while it lasts). One fight each. **Backfire:** on taking a dose
-  roll a d20; on 1-3 it gives **-2** to the same thing instead. On 4-17 it
-  works and ends in a crash; **on 18-20 it works with no crash.**
-- **Servo-skull, gun** (rare, 30 TV): hovering skull with a laspistol; one shot a
-  beat at +0, directed by bead. **Servo-skull, burner** (rare, 35 TV): a
-  micro-flamer, a few metres' reach, 4 bursts a fight. Fragile: one solid hit
-  drops either.
-
-### Heavy and vehicle additions (session 8)
-
-- **Valkyrie bolt-rocket pods, pair** (rare, 35 TV; one of the best things a
-  Valkyrie can carry): 6 rockets. Each bursts over its target into a spray of
-  bolt rounds: everyone within ~6 m is hit through carapace. Fire 1-2 a pass.
-- **Las-cannon, medium tripod emplacement** (rare, 35 TV): smaller than the crew
-  lascannon, bigger than anything carried. Set up in a beat; **one heavy beam
-  every other beat** (it recharges). Through power armour and light vehicles;
-  needs a coupling or a power cell pack.
 
 ### Custom weapons and crafting
 
@@ -1303,8 +1009,10 @@ Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:
 
 1. **Add it to the pool (out of character).** The player describes an item (what
    it is, what it does, how rare it should feel). The DM sets a price and rarity
-   that fit the setting and adds it to `wh40k_gear/`, so it can turn up in shops
-   and loot. Same fairness test as blessings: accept, adjust, or decline with the
+   that fit the setting and adds it to `wh40k_gear/build_pools.py`, so it can turn
+   up in shops and loot. If it has rules of its own, its entry goes in the right
+   file under `wh40k_gear/catalogue/` with a line in that folder's README (the
+   table of contents); only rules that apply to many items go in Gear rules here. Same fairness test as blessings: accept, adjust, or decline with the
    reason.
 2. **Build it in the story (in character).** A crafter in the party or at the
    hub builds it:

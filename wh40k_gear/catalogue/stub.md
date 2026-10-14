@@ -1,0 +1,109 @@
+# Solid-shot and special guns (autoguns, shotguns, pistols, web, needle)
+
+Item rules for this category. General rules (heat, hot-shot, drop-prone, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
+
+## Infantry autogun, 'Columnus' pattern
+
+**Infantry autogun, 'Columnus' pattern** (common, 1.25 TV; Munitorum, black market,
+Free Traders). Mid-length rifle, dark parkerised steel, folding wire stock with a
+rubber butt-cap, short ribbed handguard with a top rail, curved 30-round magazine,
+square-hooded front sight and flip-up rear, olive canvas sling. Select fire:
+single (+1 on aimed shots past 30 m), burst (a 3-shot chain where a miss gives no
+-1), or auto (a chain of up to 6, no hit bonuses). Autogun punch.
+
+## Braced autogun, 'Graia' pattern
+
+**Braced autogun, 'Graia' pattern** (uncommon, 2.5 TV; Munitorum, black market,
+Free Traders). Long and heavy: hardwood stock with a deep cheek-rest, perforated
+heat shroud over a thick barrel, folding bipod, 60-round box magazine, carry handle
+as a sight base, brass ejection deflector, heat-blued barrel. Full auto only, chains
+of up to 8. Braced on cover or its bipod it suppresses (the target takes -2 on its
+shots; stacks with a heavy's suppression); from the hip, -2. Heat: each chain of 6+
+adds 1; at 3 it must vent a beat; firing anyway at 3, d20 1-5 jams it (a beat to
+clear). Autogun punch, but each 3 hits in one chain count as one solid hit against
+carapace.
+
+## Vigilante autogun, 'Kasr Warden' pattern
+
+**Vigilante autogun, 'Kasr Warden' pattern** (player design, uncommon, 2 TV;
+Munitorum, black market, Free Traders). Light L-shaped skeleton stock in bare steel,
+slim urban-grey receiver, top rail over built-in iron sights, straight 20-round
+magazine, railed handguard, vented barrel cover, threaded muzzle (thread-cap when
+bare). Semi-auto: chains of up to 4 single shots, normal hit bonuses. Light
+trigger: +1 on the first shot of a fight, and it is drop-prone. Vented: never
+builds heat, and the handguard stays cool to hold. Muzzle takes a silencer (the
+first shot from cover doesn't give the shooter away; -1 past 30 m) or a muzzle
+brake (a miss in a chain gives no -1). Autogun punch.
+
+## Headhunter autogun, Agripaa pattern
+
+**Headhunter autogun, Agripaa pattern** (Darktide; uncommon, 3 TV; Munitorum,
+black market, Free Traders). A semi-auto marksman's autogun with a 15-round
+magazine and a scope mount. +2 on aimed shots past 30 m; shot chains of 2 at most.
+Autogun punch.
+
+## Shredder autopistol, Ius pattern
+
+**Shredder autopistol, Ius pattern** (Darktide; uncommon, 1.5 TV; Munitorum, black
+market, Free Traders). A compact full-auto pistol with a 30-round magazine.
+Shot chains of up to 8 with no hit bonuses (misses still -1). Autopistol punch:
+good on flesh, poor on flak, through carapace only on a solid hit.
+
+## Machine pistol, 'Kasr Hornet' pattern
+
+**Machine pistol, 'Kasr Hornet' pattern** (player design, uncommon, 2.5 TV; black
+market, Free Traders). Fires autogun rounds from an extended 40-round magazine in a
+purpose-made magwell. Moulded plastek grip with ergonomic grooves, side-ejecting
+slide, a short barrel that takes no muzzle attachment. **Extremely fast:** shot
+chains of up to 10, with no hit bonuses in the chain (misses still -1). Autogun
+punch. **Hair trigger:** +1 on the first shot of a fight; drop-prone.
+**Malfunctions (heat of continuous fire):** the jam risk lives on the shot dice,
+with no extra rolls. Rounds are counted only while firing continuously, beat after
+beat; stopping for one beat resets the count (reloading doesn't matter). A chain is
+at most 10, so the risk starts when the shooter keeps firing into the next beat:
+from the 13th continuous round on, any shot die of **1-4** is a malfunction instead
+of the shot. A natural 1 on any shot is always a malfunction. Malfunction, d6: 1-2 jam (a beat to clear);
+3 misfire (that chain ends, no hit); 4 double feed (two beats to clear); 5 runaway
+(it fires the rest of the magazine uncontrolled, as a dropped dump, below); 6 a part
+cracks (out of the fight until repaired). **Dropped:** on the drop-prone table's
+"fires" result it dumps the whole magazine, spraying the area: roll the
+where-it-goes d20 once for every 10 rounds left (at least once).
+
+## Auto-revolver, 'Hammerfall' pattern
+
+**Auto-revolver, 'Hammerfall' pattern** (player design, uncommon; stub 2 TV, long
+2.5 TV). Full-metal frame, built-in iron sights, an 8-round cylinder of autogun
+rounds (autogun punch: through carapace only on a solid hit). Holding the trigger
+hammers the cylinder: a shot chain of up to 8. Recoil: in that rapid chain, hits
+give no +2/+1 to the next shot; misses still give -1. Single aimed shots work as
+normal. Stub barrel: +1 within 10 m, -2 past 20 m, easy to hide. Long barrel: +1 on
+single aimed shots past 20 m. Reloading loose rounds takes a full beat; a
+speedloader (common, 0.25 TV) makes it half a beat.
+
+## Combat shotgun, 'Kasr Sweeper' duckbill pattern
+
+**Combat shotgun, 'Kasr Sweeper' duckbill pattern** (player design, uncommon, 3 TV;
+Munitorum, black market, Free Traders). Full-metal body with the stock built in as
+one piece, a handguard, an 8-shell tube under the barrel, and a side slide that
+throws spent shells clear. Semi-auto, chains of up to 4; reloading is half a beat
+per 2 shells. **Built-in duckbill:** the pellets spread sideways in a flat line.
+Within 10 m, one roll can hit up to 3 enemies standing side by side (checked
+against each); no bonus on a single target; -2 past 15 m; against enemies stacked
+one behind another it hits only the front one. Shotgun punch (brutal on flesh and
+flak up close, carapace only on a solid hit). Tough: it can be swung as a club and
+is never damaged by a drop or fall.
+
+## Web pistol, Arbites pattern
+
+**Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a
+sticky web, about 10 m. No damage: a hit entangles the target, who can't move or
+attack until free (a STR check, d20 15+, each beat; or someone cuts them loose,
+a beat's work). 4 shots a canister; spare canisters uncommon, 1 TV.
+
+## Needle rifle
+
+**Needle rifle** (rare, 18 TV; black market, Free Traders). Silent. Fires toxin
+darts, 8 to a magazine. Against flesh or flak, a hit forces a CON save: fail and
+the target drops a health step next beat. Against carapace, only a solid hit
+(beats the target's roll by 3+) finds a gap. +1 on single aimed shots past 30 m.
+Spare darts uncommon, 2 TV for 8.
