@@ -5,7 +5,7 @@ story lives in `book.md`.
 
 **To resume:** read the end of `book.md`, then this sheet, then the codex.
 
-**Where we stopped:** **Season Two, session 8 (continued).** ~0815 warp day 8,
+**Where we stopped:** **Season Two, session 8 (continued).** **~1445 warp day 8**, the hold of the *Bright Light*: Tamsin trained twice (range with Vigil, Dace's cover drill); Varga took ration tins in the drill and the rematch trash-talk is on. Ferro-Ashe mid-repair on the Geller generator (done ~1200 warp day 10). Earlier: ~0815 warp day 8,
 the *Bright Light* docked at the Spindle. Waiting on Kesh's answer; **then to
 Saint Ivaine's Rest** (Tamsin: the vials are not staying aboard; the Rest's yards
 for the Geller generator; its bazaars for the crew's gifts). Holt and Brann in

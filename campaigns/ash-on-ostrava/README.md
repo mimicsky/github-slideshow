@@ -11,4 +11,4 @@ Warhammer 40,000 on the 5e chassis. Season 1: *Seed of Nurgle* (**done**, closed
 
 Rules: [`../../DND_CODEX.md`](../../DND_CODEX.md).
 
-**To resume in a new chat:** read this README, then the end of `book.md`, then the campaign sheet ("Where we stopped" and "Season Two: how it plays"), then `../../DND_CODEX.md` Parts 6-8. Branch: `claude/ash-ostrava-resume-9wle3a`.
+**To resume in a new chat:** read this README, then the end of `book-season-2.md`, then the campaign sheet ("Where we stopped" and "Season Two: how it plays"), then `../../DND_CODEX.md` Parts 6-8. Branch: **`claude/ash-ostrava-campaign-closeout-ma000x`** (Season One close-out and Season Two live here). Also read `book-season-2.md` (the end) and `../../wh40k_gear/` exists for shop rolls (don't read the pools out to the player).
