@@ -24,6 +24,9 @@ Gear rules (Doses). **Backfire:** on taking a dose
 roll a d20; on 1-3 it gives **-2** to the same thing instead. On 4-17 it
 works and ends in a crash; **on 18-20 it works with no crash.**
 
+**Concentrated Frenzon** (rare, 4 TV): +3 melee, -2 to block or parry. Backfire
+only on 1-2. Same dose rules.
+
 ## Servo-skull, gun
 
 **Servo-skull, gun** (rare, 30 TV): hovering skull with a laspistol; one shot a

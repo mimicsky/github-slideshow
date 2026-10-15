@@ -1799,6 +1799,13 @@
   "sellers": "MAF"
  },
  {
+  "name": "Combat drug 'Frenzon', concentrated (+3 melee; backfire 1-2)",
+  "tv": 4,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
   "name": "Combat drug 'Quicksilver' (speed: +2 Athletics and moving)",
   "tv": 1.5,
   "cat": "gear",
