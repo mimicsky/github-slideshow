@@ -866,22 +866,16 @@ raiders, pirates, traitor soldiers (renegade Guard) and traitor elites (traitor
 storm troopers, renegade Inquisition kill-teams, always rolled at elite weights) carry gear rolled from their own pools in
 [`wh40k_gear/enemies.json`](wh40k_gear/enemies.json) with
 `python3 wh40k_gear/roll_enemy.py TYPE COUNT [BOOK] [GOD]`, weighted to common. **Each enemy
-rolls a role d20 first:** 1-15 is a grunt, a coin flip making them ranged (a gun
-plus melee backup) or melee (a melee weapon, maybe a sidearm); 16-20 is a
-**specialist**, a random role from that enemy type's list (sniper, grenadier,
-heavy gunner (one soldier, like Morcant), flamer, demolitions, medic, leader, rogue psyker, breacher, vox/auspex,
-plus assassin (all but traitor soldiers), plasma gunner (raiders, pirates and
-traitors), heavy team (two-man; raiders, pirates and traitors), berserker (all types) and *blessed* (cultists only)), carrying that
-role's kit (1 in 4 also has a melee backup). How every role tends to act, and its rules
-(brute, icon bearer, enforcer, bodyguard and the rest), is in
-`wh40k_gear/bestiary/roles.md`; tendencies, not scripts. A **two-man team** (a heavy weapon)
-is one specialist roll but two bodies: the gunner and a loader with a lasgun and
-the ammunition; kill the loader and the gun fires every other beat. A **berserker**
-carries a melee weapon and a stock of combat drugs (3-5 doses). They take a dose
-as the fight starts and another each time they're hurt: each dose gives +2 in melee
-and lets them ignore Hurt, rolled for backfire like any drug (1-3: -2 instead). With
-doses left, they don't stop at Down until the end of the next beat. They loot as
-their weapon and whatever doses are left. Every enemy also rolls armour and one extra.  *Blessed* (a cultist marked by their god) is a
+rolls a role d20 first:** a low roll is a grunt, a coin flip making them ranged (a gun
+plus melee backup) or melee (a melee weapon, maybe a sidearm; traitor soldiers and
+elites are ranged 75% of the time); a high roll is a **specialist** (16-20 at book 1,
+starting one lower per book: book 2 is 15-20), a random role from that enemy type's
+list, carrying that role's kit (1 in 4 also has a melee backup). **Which types have
+which roles, how each role tends to act, and its rules** are in
+`wh40k_gear/bestiary/roles.md` (each role's "Who has it" line); tendencies, not
+scripts. A **two-man team** (a heavy weapon) is one specialist roll but two bodies:
+the gunner and a loader with a lasgun and the ammunition. Drugs, doses and the
+crash (berserkers, chem-doctors) follow **Doses** in Gear rules below. Every enemy also rolls armour and one extra.  *Blessed* (a cultist marked by their god) is a
 cultist specialist type; see the catalogue, Heretic and cult items. The
 roller takes the book number and scales the rolls by book. Other enemies (xenos,
 Mechanicus) still follow the fiction until they get pools. **Before the fight**,
