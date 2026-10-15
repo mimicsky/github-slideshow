@@ -211,20 +211,6 @@
      "R"
     ]
    ],
-   "heavy": [
-    [
-     "Heavy stubber + 2 belts",
-     "U"
-    ],
-    [
-     "Braced autogun with drum",
-     "C"
-    ],
-    [
-     "Heavy bolter, Guard pattern (stolen, 1 belt)",
-     "R"
-    ]
-   ],
    "assassin": [
     [
      "Silenced stub pistol + mono-knife",
@@ -323,6 +309,20 @@
     [
      "Auspex + lascarbine (sees through walls)",
      "U"
+    ]
+   ],
+   "heavy gunner": [
+    [
+     "Heavy stubber + 2 belts",
+     "U"
+    ],
+    [
+     "Braced autogun with drum",
+     "C"
+    ],
+    [
+     "Heavy bolter, Guard pattern (stolen, 1 belt)",
+     "R"
     ]
    ]
   }
@@ -519,20 +519,6 @@
      "U"
     ]
    ],
-   "heavy": [
-    [
-     "Heavy stubber + 2 belts",
-     "U"
-    ],
-    [
-     "Ripper gun / drum-fed shotgun",
-     "U"
-    ],
-    [
-     "Bolted-together drum autogun",
-     "C"
-    ]
-   ],
    "assassin": [
     [
      "Silenced stub pistol + mono-knife",
@@ -637,6 +623,20 @@
     [
      "Hot-shot hellgun",
      "U"
+    ]
+   ],
+   "heavy gunner": [
+    [
+     "Heavy stubber + 2 belts",
+     "U"
+    ],
+    [
+     "Ripper gun / drum-fed shotgun",
+     "U"
+    ],
+    [
+     "Bolted-together drum autogun",
+     "C"
     ]
    ]
   }
@@ -829,20 +829,6 @@
      "U"
     ]
    ],
-   "heavy": [
-    [
-     "Heavy stubber + 2 belts",
-     "U"
-    ],
-    [
-     "Ripper gun / drum-fed shotgun",
-     "U"
-    ],
-    [
-     "Multi-laser, man-portable",
-     "R"
-    ]
-   ],
    "assassin": [
     [
      "Silenced stub pistol + mono-knife",
@@ -951,6 +937,20 @@
     [
      "Hot-shot hellgun",
      "U"
+    ]
+   ],
+   "heavy gunner": [
+    [
+     "Heavy stubber + 2 belts",
+     "U"
+    ],
+    [
+     "Ripper gun / drum-fed shotgun",
+     "U"
+    ],
+    [
+     "Multi-laser, man-portable",
+     "R"
     ]
    ]
   }
@@ -1143,20 +1143,6 @@
      "C"
     ]
    ],
-   "heavy": [
-    [
-     "Heavy stubber + 2 belts (two-man team)",
-     "U"
-    ],
-    [
-     "Heavy bolter, Guard pattern (two-man team)",
-     "R"
-    ],
-    [
-     "Braced autogun, 'Graia' pattern",
-     "C"
-    ]
-   ],
    "plasma gunner": [
     [
      "Plasma gun, Mars pattern (slow-filled cell) + laspistol",
@@ -1247,6 +1233,38 @@
     [
      "Breaching charge + pump shotgun",
      "C"
+    ]
+   ],
+   "heavy team": [
+    [
+     "Heavy stubber + 2 belts (two-man team)",
+     "U"
+    ],
+    [
+     "Heavy bolter, Guard pattern (two-man team)",
+     "R"
+    ],
+    [
+     "Braced autogun, 'Graia' pattern",
+     "C"
+    ]
+   ],
+   "heavy gunner": [
+    [
+     "Heavy stubber + 2 belts, carried",
+     "C"
+    ],
+    [
+     "Braced autogun, 'Graia' pattern",
+     "C"
+    ],
+    [
+     "Ripper gun / drum-fed shotgun",
+     "U"
+    ],
+    [
+     "Las-box, 'Kasr Barr' light las-LMG",
+     "R"
     ]
    ]
   }
@@ -1404,20 +1422,6 @@
      "R"
     ]
    ],
-   "heavy": [
-    [
-     "Heavy bolter (two-man team)",
-     "U"
-    ],
-    [
-     "Multi-laser, man-portable",
-     "U"
-    ],
-    [
-     "Lascannon, man-portable (two-man team)",
-     "R"
-    ]
-   ],
    "plasma gunner": [
     [
      "Plasma gun, Mars pattern (proper cell) + hellpistol",
@@ -1497,6 +1501,38 @@
     ],
     [
      "Needle rifle + power knife",
+     "R"
+    ]
+   ],
+   "heavy team": [
+    [
+     "Heavy bolter (two-man team)",
+     "U"
+    ],
+    [
+     "Multi-laser, man-portable",
+     "U"
+    ],
+    [
+     "Lascannon, man-portable (two-man team)",
+     "R"
+    ]
+   ],
+   "heavy gunner": [
+    [
+     "Las-box, 'Kasr Barr' light las-LMG",
+     "U"
+    ],
+    [
+     "Hot-shot volley gun",
+     "U"
+    ],
+    [
+     "Heavy stubber with drum mag, carried",
+     "C"
+    ],
+    [
+     "Multi-laser, man-portable, carried",
      "R"
     ]
    ]

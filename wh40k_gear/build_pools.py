@@ -306,6 +306,15 @@ SPEC["traitor_elite"] = {
   "psyker":      [("Renegade sanctioned psyker: force staff + laspistol","R")],
   "assassin":    [("Silenced hellpistol + mono-knife","U"),("Needle rifle + power knife","R")],
 }
+# Heavy gunner (player-set): one soldier carrying a heavy gun, like Morcant. Traitor
+# "heavy" stays the two-man team, renamed; cultists, raiders and pirates' heavies
+# were already one-man.
+for k in ("traitor","traitor_elite"):
+    SPEC[k]["heavy team"] = SPEC[k].pop("heavy")
+SPEC["traitor"]["heavy gunner"] = [("Heavy stubber + 2 belts, carried","C"),("Braced autogun, 'Graia' pattern","C"),("Ripper gun / drum-fed shotgun","U"),("Las-box, 'Kasr Barr' light las-LMG","R")]
+SPEC["traitor_elite"]["heavy gunner"] = [("Las-box, 'Kasr Barr' light las-LMG","U"),("Hot-shot volley gun","U"),("Heavy stubber with drum mag, carried","C"),("Multi-laser, man-portable, carried","R")]
+for k in ("cultist","raider","pirate"):
+    SPEC[k]["heavy gunner"] = SPEC[k].pop("heavy")
 for k in E: E[k]["specialists"] = SPEC[k]
 json.dump(E, open("enemies.json","w"), indent=1)
 print(len(E), "enemy pools")

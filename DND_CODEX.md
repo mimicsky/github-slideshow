@@ -862,9 +862,9 @@ storm troopers, renegade Inquisition kill-teams, always rolled at elite weights)
 rolls a role d20 first:** 1-15 is a grunt, a coin flip making them ranged (a gun
 plus melee backup) or melee (a melee weapon, maybe a sidearm); 16-20 is a
 **specialist**, a random role from that enemy type's list (sniper, grenadier,
-heavy, flamer, demolitions, medic, leader, rogue psyker, breacher, vox/auspex,
+heavy gunner (one soldier, like Morcant), flamer, demolitions, medic, leader, rogue psyker, breacher, vox/auspex,
 plus assassin (all but traitor soldiers), plasma gunner (raiders, pirates and
-traitors) and *blessed* (cultists only)), carrying that
+traitors), heavy team (traitors only, two-man) and *blessed* (cultists only)), carrying that
 role's kit (1 in 4 also has a melee backup). A **two-man team** (a heavy weapon)
 is one specialist roll but two bodies: the gunner and a loader with a lasgun and
 the ammunition; kill the loader and the gun fires every other beat. Every enemy also rolls armour and one extra.  *Blessed* (a cultist marked by their god) is a
