@@ -147,10 +147,14 @@ someone who's Down.*
 
 ## Chem-doctor
 
-The medic's ugly cousin. Doses allies with combat drugs mid-fight (+2 to one ally
-for the fight, with the usual backfire), patches wounds with stimms, and carries
-heretic cures, tonics and charms the Inquisition would burn. Cruel and curious;
-likes to experiment on prisoners. **Their bag is loot, and a crime to keep.**
+The medic's ugly cousin. **Doses allies with combat drugs at the start of the fight
+and again mid-fight** (+2 to one ally for the fight, with the usual backfire).
+Patches wounds with stimms (and, for cultists, their god's gifts), and carries
+heretic cures, tonics and charms the Inquisition would burn. **If their side starts
+losing badly, they overdose on every drug they have left and go into a rage:** each
+dose gives +2 in melee and they ignore Hurt, each dose rolls its own backfire, and
+when the rage ends they collapse. Cruel and curious; likes to experiment on
+prisoners. **Their bag is loot, and a crime to keep.**
 
 ## Leader
 
