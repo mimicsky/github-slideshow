@@ -315,6 +315,17 @@ SPEC["traitor"]["heavy gunner"] = [("Heavy stubber + 2 belts, carried","C"),("Br
 SPEC["traitor_elite"]["heavy gunner"] = [("Las-box, 'Kasr Barr' light las-LMG","U"),("Hot-shot volley gun","U"),("Heavy stubber with drum mag, carried","C"),("Multi-laser, man-portable, carried","R")]
 for k in ("cultist","raider","pirate"):
     SPEC[k]["heavy gunner"] = SPEC[k].pop("heavy")
+# Heavy team for raiders and pirates too; berserker for every type (player-set).
+SPEC["raider"]["heavy team"] = [("Heavy stubber on a tripod (two-man team)","C"),("Autocannon, salvaged (two-man team)","R"),("Mortar with 6 rounds (two-man team)","U")]
+SPEC["pirate"]["heavy team"] = [("Heavy stubber on a tripod (two-man team)","C"),("Heavy bolter, stolen (two-man team)","R"),("Multi-laser on a deck mount (two-man team)","U")]
+BERSERK = {
+  "cultist": [("Chain axe + 4 doses of Frenzon (frothing, chanting)","U"),("Cleaver and spiked club + 3 doses of slaught","C"),("Chainsword + 4 doses of Frenzon","U"),("Eviscerator + 5 doses of Frenzon","R")],
+  "raider":  [("Chain axe + 3 doses of slaught","U"),("Two hive shanks + 4 doses of Frenzon","C"),("Spiked knuckle-duster blades + 3 doses of Frenzon","C"),("Chainsword + 5 doses of slaught","R")],
+  "pirate":  [("Boarding axe + 3 doses of slaught","C"),("Chain axe + 4 doses of Frenzon","U"),("Two cutlasses + 3 doses of Frenzon","C"),("Power axe + 4 doses of slaught","R")],
+  "traitor": [("Chainsword + 3 doses of Frenzon (a broken penal trooper)","U"),("Sharpened trench shovel + 3 doses of slaught","C"),("Chain axe + 4 doses of Frenzon","U")],
+  "traitor_elite": [("Power axe + 4 doses of concentrated Frenzon","R"),("Chainsword and power knife + 4 doses of Frenzon","U"),("Eviscerator + 5 doses of Frenzon","R")],
+}
+for k,v in BERSERK.items(): SPEC[k]["berserker"] = v
 for k in E: E[k]["specialists"] = SPEC[k]
 json.dump(E, open("enemies.json","w"), indent=1)
 print(len(E), "enemy pools")

@@ -864,10 +864,15 @@ plus melee backup) or melee (a melee weapon, maybe a sidearm); 16-20 is a
 **specialist**, a random role from that enemy type's list (sniper, grenadier,
 heavy gunner (one soldier, like Morcant), flamer, demolitions, medic, leader, rogue psyker, breacher, vox/auspex,
 plus assassin (all but traitor soldiers), plasma gunner (raiders, pirates and
-traitors), heavy team (traitors only, two-man) and *blessed* (cultists only)), carrying that
+traitors), heavy team (two-man; raiders, pirates and traitors), berserker (all types) and *blessed* (cultists only)), carrying that
 role's kit (1 in 4 also has a melee backup). A **two-man team** (a heavy weapon)
 is one specialist roll but two bodies: the gunner and a loader with a lasgun and
-the ammunition; kill the loader and the gun fires every other beat. Every enemy also rolls armour and one extra.  *Blessed* (a cultist marked by their god) is a
+the ammunition; kill the loader and the gun fires every other beat. A **berserker**
+carries a melee weapon and a stock of combat drugs (3-5 doses). They take a dose
+as the fight starts and another each time they're hurt: each dose gives +2 in melee
+and lets them ignore Hurt, rolled for backfire like any drug (1-3: -2 instead). With
+doses left, they don't stop at Down until the end of the next beat. They loot as
+their weapon and whatever doses are left. Every enemy also rolls armour and one extra.  *Blessed* (a cultist marked by their god) is a
 cultist specialist type; see the catalogue, Heretic and cult items. The
 roller takes the book number and scales the rolls by book. Other enemies (xenos,
 Mechanicus) still follow the fiction until they get pools. **Before the fight**,

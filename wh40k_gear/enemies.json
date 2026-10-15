@@ -324,6 +324,24 @@
      "Heavy bolter, Guard pattern (stolen, 1 belt)",
      "R"
     ]
+   ],
+   "berserker": [
+    [
+     "Chain axe + 4 doses of Frenzon (frothing, chanting)",
+     "U"
+    ],
+    [
+     "Cleaver and spiked club + 3 doses of slaught",
+     "C"
+    ],
+    [
+     "Chainsword + 4 doses of Frenzon",
+     "U"
+    ],
+    [
+     "Eviscerator + 5 doses of Frenzon",
+     "R"
+    ]
    ]
   }
  },
@@ -638,6 +656,38 @@
      "Bolted-together drum autogun",
      "C"
     ]
+   ],
+   "heavy team": [
+    [
+     "Heavy stubber on a tripod (two-man team)",
+     "C"
+    ],
+    [
+     "Autocannon, salvaged (two-man team)",
+     "R"
+    ],
+    [
+     "Mortar with 6 rounds (two-man team)",
+     "U"
+    ]
+   ],
+   "berserker": [
+    [
+     "Chain axe + 3 doses of slaught",
+     "U"
+    ],
+    [
+     "Two hive shanks + 4 doses of Frenzon",
+     "C"
+    ],
+    [
+     "Spiked knuckle-duster blades + 3 doses of Frenzon",
+     "C"
+    ],
+    [
+     "Chainsword + 5 doses of slaught",
+     "R"
+    ]
    ]
   }
  },
@@ -950,6 +1000,38 @@
     ],
     [
      "Multi-laser, man-portable",
+     "R"
+    ]
+   ],
+   "heavy team": [
+    [
+     "Heavy stubber on a tripod (two-man team)",
+     "C"
+    ],
+    [
+     "Heavy bolter, stolen (two-man team)",
+     "R"
+    ],
+    [
+     "Multi-laser on a deck mount (two-man team)",
+     "U"
+    ]
+   ],
+   "berserker": [
+    [
+     "Boarding axe + 3 doses of slaught",
+     "C"
+    ],
+    [
+     "Chain axe + 4 doses of Frenzon",
+     "U"
+    ],
+    [
+     "Two cutlasses + 3 doses of Frenzon",
+     "C"
+    ],
+    [
+     "Power axe + 4 doses of slaught",
      "R"
     ]
    ]
@@ -1266,6 +1348,20 @@
      "Las-box, 'Kasr Barr' light las-LMG",
      "R"
     ]
+   ],
+   "berserker": [
+    [
+     "Chainsword + 3 doses of Frenzon (a broken penal trooper)",
+     "U"
+    ],
+    [
+     "Sharpened trench shovel + 3 doses of slaught",
+     "C"
+    ],
+    [
+     "Chain axe + 4 doses of Frenzon",
+     "U"
+    ]
    ]
   }
  },
@@ -1533,6 +1629,20 @@
     ],
     [
      "Multi-laser, man-portable, carried",
+     "R"
+    ]
+   ],
+   "berserker": [
+    [
+     "Power axe + 4 doses of concentrated Frenzon",
+     "R"
+    ],
+    [
+     "Chainsword and power knife + 4 doses of Frenzon",
+     "U"
+    ],
+    [
+     "Eviscerator + 5 doses of Frenzon",
      "R"
     ]
    ]
