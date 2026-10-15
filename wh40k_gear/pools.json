@@ -1281,6 +1281,13 @@
   "sellers": "BF"
  },
  {
+  "name": "Baal trial blade (Blood Angels short sword; ceramite, gold wing hilt, ruby blood drop, full tang)",
+  "tv": 45,
+  "cat": "melee",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
   "name": "Las-fist, 'Kasr Knuckle' pattern (power fist with a lasgun barrel and crystal; trigger in the fist; -3 to shoot, none point-blank)",
   "tv": 40,
   "cat": "melee",

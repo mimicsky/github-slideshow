@@ -74,6 +74,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Neo Scar scimitar](melee.md#neo-scar-scimitar) (epic)
 - [Fenrisian gift-blade](melee.md#fenrisian-gift-blade) (epic)
 - [Fist huntsman knife](melee.md#fist-huntsman-knife) (epic)
+- [Baal trial blade](melee.md#baal-trial-blade) (epic)
 - [Power claw, 'Kasr Talon' pattern](melee.md#power-claw-kasr-talon-pattern) (epic)
 
 ## [Kit, armour, sights and mods](kit.md)

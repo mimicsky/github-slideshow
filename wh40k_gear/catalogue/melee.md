@@ -157,6 +157,27 @@ painted yellow, with a fist at the bottom of the grip.**
 - **Thick blade:** won't snap; works as a pry bar on doors and crates.
 - Yellow and the fist mark it as Imperial Fists gear to anyone who knows.
 
+## Baal trial blade
+
+(player design, epic: an exotic find, natural 20 only; 45 TV; black market, Free
+Traders.) A Blood Angels short sword made on Baal and used in the chapter's
+trials, for duelling and close-quarters fighting. Aspirants are still human when
+they fight, so it is **human-sized and one-handed**. **Ceramite blade**; a
+**golden wing-shaped hilt with the ruby blood-drop symbol in the middle**; a
+**leather-wrapped grip over a plasteel core**; the **blade runs all the way down
+through the grip** (full tang) for strength and control; a **plain flat golden
+pommel**.
+- **Ceramite edge:** through flak and mesh on any hit; **through carapace on a raw
+  17+**.
+- **Full tang:** never breaks, and the blade answers the hand: **+1 to parry.**
+- **Trial blade:** short and quick: **+1 in close quarters** (corridors,
+  doorways, grappling range).
+- **An heirloom, not loot:** once an aspirant has fought with it, it goes to their
+  family and is passed down the generations: the chapter's way of saying it still
+  remembers them, since a Space Marine keeps no ties to his family. Anyone from
+  Baal knows what it means; carried away from that family, the Blood Angels will
+  want to know why.
+
 ## Las-fist, 'Kasr Knuckle' pattern
 
 (player design, rare, 40 TV; Mechanicus, Free Traders.) A Guard-pattern power fist
