@@ -4,10 +4,10 @@ Item rules for this category. General rules (heat, hot-shot, drop-prone, going D
 
 ## Stimm
 
-**Stimm** (0.5 TV): keeps you on your feet; ignore the slowing of Hurt for one
-fight. **Concentrated stimm** (rare, 2 TV): one step better for a fight (Badly
-hurt fights as Hurt) and stabilises someone Down. Crash after: tired and slow
-until rested.
+**Stimm** (0.5 TV): keeps you on your feet; ignore the slowing of Hurt while it
+lasts. **Concentrated stimm** (rare, 2 TV): one step better while it lasts (Badly
+hurt fights as Hurt) and stabilises someone Down. How long a dose lasts, chaining
+doses and the crash: Codex, Gear rules (Doses).
 
 ## Antitoxin
 

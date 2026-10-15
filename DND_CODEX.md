@@ -1031,6 +1031,13 @@ in the other. **In melee** its bonus goes on the defender's roll in the exchange
 carries, from the front only; shots from the side or behind ignore it. Going Down
 drops it, like anything in hand. Each shield's numbers are in the catalogue (kit).
 
+**Doses: stimms and combat drugs.** When you take a dose, roll a d6: **1-3 it
+lasts 3 turns, 4-6 it lasts 4 turns.** When those turns are over you can take
+another dose to keep it going (roll again). **One turn after the last dose ends,
+you crash: drop to Badly hurt.** Chain **3 or more doses** in a row and the crash
+puts you **straight to Down** instead. A combat drug that rolls 18-20 on its
+backfire doesn't crash.
+
 ### Perils of the Warp
 
 **The Perils trigger.** Any psyker (enemy or the Light) rolls a d20 **once per
