@@ -134,9 +134,16 @@ run into you and blow themselves up.*
 
 ## Medic
 
-Stays behind the line and drags the wounded back. Patches one ally a beat (an ally
-Down can be brought back to Hurt). Rarely shoots unless cornered. Killing or
-capturing them first stops the enemy recovering.
+Stays behind the line and drags the wounded back. **Patches one ally a turn: moves
+them back one health state, once per person** (Down to Hurt, Hurt to Fine); **can't
+bring back the dead.** Shoots until someone on their side gets hurt, then switches to
+patching. **Killing the medic hurts the team's morale.**
+
+*Side note: cultist medics don't heal the normal way; they mostly use drugs, and
+only heal someone who's Down.*
+
+*Side note: raider medics use smoke to cover dragging and healing, and only heal
+someone who's Down.*
 
 ## Chem-doctor
 
