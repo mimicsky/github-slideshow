@@ -257,8 +257,21 @@ their team starts to lose, they panic and push it more: -1 to their Perils trigg
 
 **Who has it:** all five types.
 
-The eyes and ears. Calls in help, warns the others, tracks the party through walls
-with the auspex. Hangs back. **Kill them first, or more enemies arrive.**
+Carries a vox, an auspex, or both: the eyes and ears. Calls in help, warns the
+others, stays behind cover more, and only fights when they need to. **Kill them
+first, or more enemies arrive.**
+
+- **Vox:** can hack into the party's comms and listen in. If the party talks on
+  comms before the fight, the enemy may already know.
+- **Auspex:** the group **can't be ambushed** while they're on the team. Once the
+  action starts, they fight as normal.
+
+*Side note: cultist and raider vox/auspex care more about fighting than calling
+in support.*
+
+*Side note: pirate and traitor (soldier and elite) vox/auspex care more about
+calling for reinforcements than fighting. Once their team starts fighting, they
+fall back to make the call.*
 
 ## Tech-adept / heretek
 
