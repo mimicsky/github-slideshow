@@ -24,6 +24,23 @@ pistol through it without giving up the cover.
 **+3 to block, three-quarters cover from the front** for the Ogryn and one
 person standing behind them.
 
+## Makeshift shield
+
+**Makeshift shield** (common, 1 TV; player design): wood and scrap metal nailed
+together. **+1 to block, half cover from the front. Breaks after 2-3 heavy hits**
+(the DM rolls: 1-3 on a d6 is two, 4-6 is three).
+
+## Forged shield
+
+**Forged shield** (uncommon, 6 TV; player design): smith-made to take blows.
+**+2 to block, half cover from the front.**
+
+## Shield viewing slot (mod)
+
+**Viewing slot** (uncommon, 1.5 TV; player design): a slot cut and framed in any
+shield. **The bearer can see and shoot a pistol through it without giving up the
+shield's cover.** (The Arbitrator shield's pistol notch already does this.)
+
 ## Improvised shield (a door)
 
 **A door or hatch** (enemy brutes, or anyone strong enough): **+1 to block, half

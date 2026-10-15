@@ -1351,6 +1351,27 @@
   "sellers": "MBF"
  },
  {
+  "name": "Makeshift shield (wood and scrap; +1 block, breaks after 2-3 heavy hits)",
+  "tv": 1,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Forged shield (+2 block, half cover)",
+  "tv": 6,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Shield viewing slot (shoot a pistol through without losing cover)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Arbitrator shield (Adeptus Arbites riot shield; +2 block, portable cover, pistol notch)",
   "tv": 10,
   "cat": "armour",
