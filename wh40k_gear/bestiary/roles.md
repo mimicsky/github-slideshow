@@ -301,8 +301,21 @@ taking pot shots at you, then rush in with melee.*
 
 **Who has it:** cultists, raiders, pirates, traitor elites.
 
-Patient, quiet, picks one target and waits. Goes for the leader, the medic or the
-best fighter. Uses poison and silence. Avoids a fair fight.
+**Proficient with knives and pistols: +2 to hit with them** (they need a lower
+roll to land). Patient and quiet. **Hides anywhere they can fit or climb:** in
+crates, on the walls, under the floor, in the ceiling. Picks one target and
+**waits until they're alone, Down, or cornered.** Goes for the leader, the medic
+or the best fighter, and will even wait until their whole team is dead to get the
+drop. Uses poison and silence. **Avoids a fair fight: if outnumbered, runs and
+hides.** Loves a 1v1.
+
+*Side note: cultist assassins only wait until their team has the advantage, or
+until their whole team is dead. The longer they wait, the more impatient they get.*
+
+*Side note: traitor elite assassins are the most patient. They wait until the
+fight is well over, and longer. They won't attack unless they know it's the
+perfect moment and it's in their favour. Much harder to spot, with much cleverer
+hiding spots.*
 
 ## Infiltrator
 
