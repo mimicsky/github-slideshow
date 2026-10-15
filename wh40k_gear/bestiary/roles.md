@@ -24,9 +24,9 @@ in the open, reloading. Brave in a crowd, nervous alone.
 *Side note: cultists and raiders are braver: they don't care about being alone and
 will run straight into danger.*
 
-*Side note: traitor elites are smarter: they wait in cover while their team
-suppresses, watch for a reload or a vent, find the gap, and jump cover to cover
-far better.*
+*Side note: traitor elites are smarter: they wait in cover for their team to
+suppress, then rush; they watch for a reload or a vent, find gaps, and jump cover
+to cover far better than the rest.*
 
 ## Sniper
 
