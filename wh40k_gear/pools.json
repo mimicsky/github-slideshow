@@ -1785,6 +1785,55 @@
   "sellers": "MBF"
  },
  {
+  "name": "Spook (dose; wakes latent psychic power, Perils 1-6)",
+  "tv": 6,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "B"
+ },
+ {
+  "name": "Obscura (dose; hive narcotic, trade value)",
+  "tv": 0.5,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Spur (dose; ganger stimulant, +1 everything, early crash)",
+  "tv": 0.5,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Kalma (dose; nerve calmer, fearless, -1 strike first)",
+  "tv": 1,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MB"
+ },
+ {
+  "name": "Morphia (dose; painkiller, one health step better)",
+  "tv": 1,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MB"
+ },
+ {
+  "name": "Onslaught (dose; two moves a turn, -2 shooting)",
+  "tv": 1.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Glanding implant (needs an augmetic surgeon; one combat-drug effect a fight)",
+  "tv": 20,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
   "name": "Concentrated stimm (dose)",
   "tv": 2,
   "cat": "gear",

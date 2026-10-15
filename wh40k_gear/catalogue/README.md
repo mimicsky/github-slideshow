@@ -99,6 +99,8 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Stimm](drugs.md#stimm)
 - [Antitoxin](drugs.md#antitoxin)
 - [Combat drugs](drugs.md#combat-drugs)
+- [Drugs and interrogation](drugs.md#drugs-and-interrogation)
+- [Street, Guard and cult drugs](drugs.md#street-guard-and-cult-drugs) (Spook, Obscura, Kalma, Morphia, Spur, Onslaught, Glanding, Blood-stimm)
 - [Servo-skull, gun](drugs.md#servo-skull-gun)
 
 ## [Heretic and cult items](heretic.md)

@@ -126,6 +126,11 @@ add("mod","R","MAF",[("Hot-shot conversion kit (lasgun)",5),("Overcharge capacit
 # --- Gear / tech ---
 add("gear","C","MB",[("Micro-bead",0.5),("Chrono",0.5),("Lumen (torch)",0.25),("Field rations (crate)",0.5),("Water purifier",0.5),("Rope (20 m)",0.25),("Lho-sticks (carton)",0.25),("Imperial Infantryman's Uplifting Primer",0.1)])
 add("gear","U","MBF",[("Map-slate",1),("Auspex (hand)",6),("Vox-caster (manpack)",5),("Flares (box of 10)",0.5),("Grav-chute",6),("Climbing rig and grapnel",1.5),("Demolitions kit / bag",1.5),("Large field pack",1),("Drag harness",0.5),("Multi-key / lockbreaker",2),("Cutting torch",3),("Med-kit",3),("Stimm (dose)",0.5),("Antitoxin (dose)",1),("Combat drug 'slaught' (dose)",1)])
+add("gear","R","B",[("Spook (dose; wakes latent psychic power, Perils 1-6)",6)])
+add("gear","C","B",[("Obscura (dose; hive narcotic, trade value)",0.5),("Spur (dose; ganger stimulant, +1 everything, early crash)",0.5)])
+add("gear","U","MB",[("Kalma (dose; nerve calmer, fearless, -1 strike first)",1),("Morphia (dose; painkiller, one health step better)",1)])
+add("gear","U","B",[("Onslaught (dose; two moves a turn, -2 shooting)",1.5)])
+add("gear","R","AF",[("Glanding implant (needs an augmetic surgeon; one combat-drug effect a fight)",20)])
 add("gear","R","MAF",[("Concentrated stimm (dose)",2),("Concentrated antitoxin (dose)",4),("Combat drug 'Frenzon', concentrated (+3 melee; backfire 1-2)",4)])
 add("gear","U","MB",[("Combat drug 'Quicksilver' (speed: +2 Athletics and moving)",1.5),("Combat drug 'Deadeye' (focus: +2 shooting)",1.5),("Combat drug 'Frenzon' (rage: +2 melee)",1.5),("Combat drug 'Slaught' (reflexes: +2 strike first and dodge, +1 STR)",1.5),("Combat drug 'Adrenaline' (senses: +4 Perception, +1 shooting)",1.5)])
 add("gear","R","MAF",[("Servo-skull, gun (built-in laspistol)",30),("Servo-skull, burner (built-in micro-flamer)",35)])
