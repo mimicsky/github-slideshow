@@ -121,9 +121,11 @@ burns away near it, and the DM may make the wearer pay something later.
 ## Blessed cultists
 
 (enemy rule, set by the player.) Any cultist, grunt or specialist, can be **blessed
-by their god**. It comes off the cultist's **role d20**: a **natural 20** means
-blessed, and a **second d20** then decides grunt or specialist as normal. It is not
-scaled by book. A blessed cultist is easy to spot, and the Light should be able to tell what it means:
+by their god**. It comes off the cultist's **role d20**: the top of the range,
+a **natural 20**, is blessed (for cultists the specialist range stops at 19). A
+**second d20** then decides what they are: grunt or specialist on the normal
+ranges, and if it comes up **20 again they're a blessed grunt**. Not scaled by
+book. A blessed cultist is easy to spot, and the Light should be able to tell what it means:
 
 | God | How to tell | The blessing |
 | --- | --- | --- |
