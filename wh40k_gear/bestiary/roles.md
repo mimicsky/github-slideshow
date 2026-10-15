@@ -183,9 +183,20 @@ prisoners. **Their bag is loot, and a crime to keep.**
 **Who has it:** all five types.
 
 The voice of the group: preacher, boss, captain, sergeant or officer. Stays where
-they can see and be heard, gives orders, and keeps the rest fighting. Usually
-fights hard when cornered. **Kill or silence them and the rest waver** (grunts may
-run or surrender).
+they can see and be heard, **gives orders (+1 to their side's rolls)**, and keeps the
+rest fighting. Usually fights hard when cornered. **Kill or silence them and the
+rest waver** (grunts may run or surrender).
+
+*Side note: cultist leaders chant and inspire: their side is braver, and
+**suppression on them is 1 less**. When the leader goes down, the whole group becomes
+more likely to surrender, even fanatics.*
+
+*Side note: pirate leaders fight up close with the melee fighters and make them
+better (**+1 in melee**). Killing them has no effect on the rest.*
+
+*Side note: traitor elite leaders call out tactics and strategy, fighting from
+cover further back and taking the odd shot. They keep giving orders even when
+Down. Killing them has little effect.*
 
 ## Bodyguard
 
