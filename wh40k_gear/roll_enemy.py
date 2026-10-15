@@ -28,6 +28,10 @@ rolls specialist and draws "blessed" rolls the role d20 again: grunt or
 specialist as normal; if specialist, draw a type again; drawing "blessed" a
 second time makes them a blessed grunt
 (wh40k_gear/catalogue/heretic.md, Blessed cultists).
+Special teams (player-set): before the fight, 2d20 added; 31-40 means the group is
+a named special team of this type (factions.py; bestiary/): +1 on all their rolls,
+armour one step better, +8 to the better-armed d20, and half their guns are the
+team's favoured weapons. Their look and tactics are in the bestiary.
 """
 import json, random, sys, os
 here = os.path.dirname(os.path.abspath(__file__))
@@ -37,8 +41,16 @@ count = int(sys.argv[2]) if len(sys.argv) > 2 else 5
 book = int(sys.argv[3]) if len(sys.argv) > 3 else 2
 god = (sys.argv[4].lower() if len(sys.argv) > 4 else random.choice(["khorne", "nurgle", "slaanesh", "tzeentch", "undivided"]))
 P = E[kind]
+sys.path.insert(0, here)
+from factions import F
+team_roll = random.randint(1, 20) + random.randint(1, 20)
+team = None
+if team_roll >= 31:
+    opts = [f for f in F if f["type"] == kind and (kind != "cultist" or len(sys.argv) <= 4 or f.get("god") == god)] or [f for f in F if f["type"] == kind]
+    team = random.choice(opts)
+    if team.get("god"): god = team["god"]
 raw = random.randint(1, 20)
-d20 = min(20, raw + 2 * (book - 1))
+d20 = min(20, raw + 2 * (book - 1) + (8 if team else 0))
 elite = d20 >= 19
 better = 0 if d20 < 10 else 1 if d20 < 12 else 2 if d20 < 14 else 3 if d20 < 16 else 4 if d20 < 19 else count
 better = min(better, count)
@@ -49,7 +61,8 @@ def pick(rows):
     return random.choice(opts)[0]
 sidearms = [r for r in P["weapon"] if any(x in r[0].lower() for x in ("pistol", "revolver", "stub automatic", "sawn-off"))] or [("Hellpistol" if kind == "traitor_elite" else "Laspistol", "C")]
 ranged_share = 0.75 if kind.startswith("traitor") else 0.5  # soldiers mostly fight with guns
-print(f"{kind} x{count}, book {book}" + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{2*(book-1)} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE FIND (natural 20)" if raw == 20 else ""))
+print(f"SPECIAL TEAM: {team['name']} (2d20 {team_roll}): +1 on all rolls, armour one step better, +8 better-armed" if team else f"(2d20 {team_roll}: a basic group)")
+print(f"{kind} x{count}, book {book}" + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{2*(book-1) + (8 if team else 0)} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE FIND (natural 20)" if raw == 20 else ""))
 lucky = set(random.sample(range(count), better))
 for n in range(count):
     role_d20 = random.randint(1, 20)
@@ -75,7 +88,13 @@ for n in range(count):
     else:
         side = pick(sidearms) if random.random() < 0.5 else "no sidearm"
         head = f"grunt, melee (d20 {role_d20}): {pick(P['melee'])} | {side}"
-    line = f"{n+1}. {head} | {pick(P['armour'])} | {pick(P['extra'])}"
+    if team and head.startswith("grunt, ranged") and random.random() < 0.5:
+        g = random.choice(team["favoured"])
+        head = head.split("): ", 1)[0] + "): " + g + " | " + head.split(" | ", 1)[1]
+    armour = pick(P['armour'])
+    if team:  # one step better: draw the armour from the top of the list
+        armour = random.choice([r[0] for r in P['armour'] if r[1] in ("U", "R")] or [armour])
+    line = f"{n+1}. {head} | {armour} | {pick(P['extra'])}"
     if n in lucky:
         line += f"  ** FOUND/MADE: {random.choice(P['found'])[0]}"
     if blessed:

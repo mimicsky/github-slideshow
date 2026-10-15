@@ -854,6 +854,13 @@ Enemies carry what they plausibly would. When a group is looted, one d20 in the
 open; a natural 20 means one of them had something rare that doesn't belong,
 with a story, often damaged or short on ammunition.
 
+**Special teams and the bestiary (set by the player, session 8).** Before a fight,
+2d20 added: 31-40 makes the group a named special team of its type (+1 on all
+rolls, armour one step better, +8 to the better-armed d20, favoured weapons). The
+teams' lore, look, weapons and tactics are in
+[`wh40k_gear/bestiary/README.md`](wh40k_gear/bestiary/README.md) (a table of
+contents; open only the team that shows up). The roller does the 2d20.
+
 **Enemy loot pools (set by the player, Ash on Ostrava session 8).** Cultists,
 raiders, pirates, traitor soldiers (renegade Guard) and traitor elites (traitor
 storm troopers, renegade Inquisition kill-teams, always rolled at elite weights) carry gear rolled from their own pools in
