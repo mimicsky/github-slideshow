@@ -36,7 +36,7 @@ two shots.** Doesn't fight up close: runs if rushed, and will most often surrend
 if cornered or reached.
 
 *Side note: cultist snipers stay in one spot no matter how many shots they take,
-shoot anyone they don't particularly care about, won't run, and will take a close
+shoot whoever they see with no care who it is, won't run, and will take a close
 fight.*
 
 *Side note: traitor elite snipers get **+1 to shooting**, wait longer for a shot,
