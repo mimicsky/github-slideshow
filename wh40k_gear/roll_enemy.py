@@ -18,7 +18,7 @@ common 70 / uncommon 25 / rare 5.
 
 Better-armed, one open d20 for the group:
   1-9 none; 10-11 one; 12-13 two; 14-15 three; 16-18 four (capped at the group);
-  19-20 ELITE TEAM: everyone rolls one rarity step better
+  natural 19-20 (on the die itself, never from bonuses) ELITE TEAM: everyone rolls one rarity step better
   (common 25 / uncommon 50 / rare 25) and each carries a 'found or made' item.
 A natural 20 also adds one rare find to the group's loot (DND_CODEX Part 8, Loot).
 Book scaling (campaign sheet, DM threads): better-armed d20 +2 per book after the
@@ -51,8 +51,9 @@ if team_roll >= 31:
     if team.get("god"): god = team["god"]
 raw = random.randint(1, 20)
 d20 = min(20, raw + 2 * (book - 1) + (8 if team else 0))
-elite = d20 >= 19
-better = 0 if d20 < 10 else 1 if d20 < 12 else 2 if d20 < 14 else 3 if d20 < 16 else 4 if d20 < 19 else count
+elite = raw >= 19  # only the natural die makes an elite team; bonuses never do
+better = 0 if d20 < 10 else 1 if d20 < 12 else 2 if d20 < 14 else 3 if d20 < 16 else 4
+if elite: better = count
 better = min(better, count)
 w = {"C": 25, "U": 50, "R": 25} if elite else P.get("weights", {"C": 70, "U": 25, "R": 5})
 def pick(rows):
