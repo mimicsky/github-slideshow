@@ -11,6 +11,9 @@ is shouting orders, ducks when shot at, and is the first to run when the leader
 falls (unless an enforcer is watching). Fights better in numbers; alone, often
 surrenders.
 
+*Side note: cultists and traitor elites are braver: they hold longer when the leader
+falls and rarely surrender (fanatics and fallen professionals).*
+
 ## Grunt (melee)
 
 The ones who couldn't get a gun, or prefer not to. Rushes when the group rushes,
