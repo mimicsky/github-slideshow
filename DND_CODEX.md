@@ -869,7 +869,7 @@ role's kit (1 in 4 also has a melee backup). A **two-man team** (a heavy weapon)
 is one specialist roll but two bodies: the gunner and a loader with a lasgun and
 the ammunition; kill the loader and the gun fires every other beat. Every enemy also rolls armour and one extra.  *Blessed* (a cultist marked by their god) is a
 cultist specialist type; see the catalogue, Heretic and cult items. The
-roller takes the book number and scales the rolls by book. Other enemies (Guard deserters, xenos,
+roller takes the book number and scales the rolls by book. Other enemies (xenos,
 Mechanicus) still follow the fiction until they get pools. **Before the fight**,
 one d20 in the open for the group (a named enemy alone gets their own) decides
 who is better armed with something they found or made, and uses it against you:
