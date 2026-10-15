@@ -53,9 +53,14 @@ will run but will take a close fight.*
 
 ## Grenadier
 
-Likes clusters. Waits until the party bunches up behind one piece of cover, then
-lobs. Throws into doorways before anyone goes through. Careless: may catch their
-own people.
+Likes clusters. Thinks in **three ways**: waits for a team to bunch up and lobs into
+the cluster; throws to **flush people out of cover** for the shooters; and goes for
+a target caught in a **cramped space**. Throws into doorways before anyone goes
+through.
+
+*Side note: cultist and raider grenadiers don't think, they just lob. Careless:
+they throw even when it puts their own team in danger, and they throw several
+grenades into the same spot.*
 
 ## Heavy gunner
 
