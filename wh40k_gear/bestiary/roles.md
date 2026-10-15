@@ -64,9 +64,19 @@ grenades into the same spot.*
 
 ## Heavy gunner
 
-One soldier with a heavy gun, like Morcant. Sets up somewhere solid and hoses the
-lane the party has to cross. **Suppresses: anyone they're firing at takes -2 on
-their shots.** Slow to move and slow to turn; flank them and they struggle.
+One soldier with a heavy gun. Sets up somewhere solid and hoses the lane the party
+has to cross. **Suppresses: anyone they're firing at takes -2 on their shots.** Slow
+to move and slow to turn; **flank them or pressure them back** and they struggle.
+
+*Side note: cultist and raider heavy gunners are fearless: they walk toward you
+while firing, even if it overheats the gun, and care about emptying the mag more
+than anything. **Their suppression is -3** (instead of -2), but **they take -2 on
+their own shots** from firing on the move.*
+
+*Side note: traitor elite heavy gunners suppress from cover and reload before they
+run dry, move from cover to cover while firing, and if they run out of ammo they
+switch to a backup weapon or take ammo from the ground or a teammate. Pressure
+doesn't bother them.*
 
 ## Heavy team
 
