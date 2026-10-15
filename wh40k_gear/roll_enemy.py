@@ -21,9 +21,10 @@ Better-armed, one open d20 for the group:
 A natural 20 also adds one rare find to the group's loot (DND_CODEX Part 8, Loot).
 Book scaling (campaign sheet, DM threads): better-armed d20 +2 per book after the
 first; specialist role starts 1 lower per book (book 1: 16-20, book 2: 15-20).
-Blessed cultists (not scaled by book): the role d20's top number, a natural 20, is
-BLESSED (the specialist range ends at 19 for cultists); a second d20 then decides
-grunt or specialist as normal, and a second 20 makes them a blessed grunt
+Blessed cultists: "blessed" is one of the cultist specialist types. A cultist who
+rolls specialist and draws "blessed" rolls the role d20 again: grunt or
+specialist as normal; if specialist, draw a type again; drawing "blessed" a
+second time makes them a blessed grunt
 (wh40k_gear/catalogue/heretic.md, Blessed cultists).
 """
 import json, random, sys, os
@@ -49,15 +50,19 @@ print(f"{kind} x{count}, book {book}" + (f", god {god}" if kind == "cultist" els
 lucky = set(random.sample(range(count), better))
 for n in range(count):
     role_d20 = random.randint(1, 20)
-    blessed = kind == "cultist" and role_d20 == 20
-    if blessed:
-        role_d20 = random.randint(1, 20)
-        if role_d20 == 20:
-            role_d20 = 1  # blessed again: a plain (blessed) grunt
+    blessed = False
+    roles = list(P["specialists"]) + (["blessed"] if kind == "cultist" else [])
     if role_d20 >= 17 - book:
-        role = random.choice(list(P["specialists"]))
-        kit = pick(P["specialists"][role])
-        head = f"SPECIALIST {role.upper()} (d20 {role_d20}): {kit}"
+        role = random.choice(roles)
+        if role == "blessed":
+            blessed = True
+            role_d20 = random.randint(1, 20)  # roll again: grunt or specialist
+            if role_d20 >= 17 - book:
+                role = random.choice(roles)
+                if role == "blessed":
+                    role_d20 = 1  # blessed again: a blessed grunt
+    if role_d20 >= 17 - book:
+        head = f"SPECIALIST {role.upper()} (d20 {role_d20}): {pick(P['specialists'][role])}"
     elif random.random() < 0.5:
         head = f"grunt, ranged (d20 {role_d20}): {pick(P['weapon'])} | {pick(P['melee'])}"
     else:
@@ -67,5 +72,5 @@ for n in range(count):
     if n in lucky:
         line += f"  ** FOUND/MADE: {random.choice(P['found'])[0]}"
     if blessed:
-        line = line.replace(f"{n+1}. ", f"{n+1}. !! BLESSED by {god} (natural 20, reroll {role_d20}): ", 1)
+        line = line.replace(f"{n+1}. ", f"{n+1}. !! BLESSED by {god}, rerolled: ", 1)
     print(line)

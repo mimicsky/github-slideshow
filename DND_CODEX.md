@@ -862,9 +862,9 @@ rolls a role d20 first:** 1-15 is a grunt, a coin flip making them ranged (a gun
 plus melee backup) or melee (a melee weapon, maybe a sidearm); 16-20 is a
 **specialist**, a random role from that enemy type's list (sniper, grenadier,
 heavy, assassin, flamer, demolitions, medic, leader; cultists can roll a rogue
-psyker, raiders and pirates a breacher, pirates a vox/auspex man), carrying that
-role's kit. Every enemy also rolls armour and one extra. Cultists can also roll **blessed** by
-their god (the roller does it; see the catalogue, Heretic and cult items). The
+psyker or *blessed*, raiders and pirates a breacher, pirates a vox/auspex man), carrying that
+role's kit. Every enemy also rolls armour and one extra.  *Blessed* (a cultist marked by their god) is a
+cultist specialist type; see the catalogue, Heretic and cult items. The
 roller takes the book number and scales the rolls by book. Other enemies (Guard deserters, xenos,
 Mechanicus) still follow the fiction until they get pools. **Before the fight**,
 one d20 in the open for the group (a named enemy alone gets their own) decides

@@ -121,11 +121,11 @@ burns away near it, and the DM may make the wearer pay something later.
 ## Blessed cultists
 
 (enemy rule, set by the player.) Any cultist, grunt or specialist, can be **blessed
-by their god**. It comes off the cultist's **role d20**: the top of the range,
-a **natural 20**, is blessed (for cultists the specialist range stops at 19). A
-**second d20** then decides what they are: grunt or specialist on the normal
-ranges, and if it comes up **20 again they're a blessed grunt**. Not scaled by
-book. A blessed cultist is easy to spot, and the Light should be able to tell what it means:
+by their god**. **Blessed is one of the cultist specialist types**, next to sniper,
+heavy and the rest. A cultist who rolls specialist and draws *blessed* rolls the role
+d20 **again**: grunt or specialist on the normal ranges. If specialist, draw a type
+again; drawing *blessed* a second time makes them a blessed grunt. A blessed
+cultist is easy to spot, and the Light should be able to tell what it means:
 
 | God | How to tell | The blessing |
 | --- | --- | --- |
