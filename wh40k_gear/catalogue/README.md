@@ -82,6 +82,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Makeshift shield](kit.md#makeshift-shield)
 - [Forged shield](kit.md#forged-shield)
 - [Shield viewing slot (mod)](kit.md#shield-viewing-slot-mod)
+- [Spiked shield (mod)](kit.md#spiked-shield-mod)
 - [Improvised shield (a door)](kit.md#improvised-shield-a-door)
 - [Tempestus Scion helmet](kit.md#tempestus-scion-helmet)
 - [Mag belt / bandolier](kit.md#mag-belt--bandolier)

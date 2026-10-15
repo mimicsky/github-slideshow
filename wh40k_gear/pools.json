@@ -1372,6 +1372,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Shield spikes (charge shield-first; +3 melee with the shield)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Arbitrator shield (Adeptus Arbites riot shield; +2 block, portable cover, pistol notch)",
   "tv": 10,
   "cat": "armour",

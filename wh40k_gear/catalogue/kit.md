@@ -42,6 +42,12 @@ repaired (d6: 1-3 it takes two, 4-6 three).
 shield. **The bearer can see and shoot a pistol through it without giving up the
 shield's cover.** (The Arbitrator shield's pistol notch already does this.)
 
+## Spiked shield (mod)
+
+**Spikes** (uncommon, 2 TV; player design): spikes fixed to the shield's face,
+crude on a makeshift shield, smith-made on a forged one. **The bearer can charge
+into someone shield-first, and gets +3 in melee when attacking with the shield.**
+
 ## Improvised shield (a door)
 
 **A door or hatch** (enemy brutes, or anyone strong enough): **+1 to block, half

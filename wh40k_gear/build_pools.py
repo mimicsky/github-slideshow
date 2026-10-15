@@ -112,7 +112,7 @@ add("armour","C","MB",[("Flak vest",0.5),("Flak armour set",1),("Flak helmet",0.
 add("armour","U","MBF",[("Carapace armour set",8),("Carapace chest plate",4),("Mesh armour (light, quiet)",5),("Boarding shield",4),("Void-suit, Navy",4),("Hazard suit (plague-rated)",5),("Arbites carapace",10)])
 add("armour","C","MB",[("Makeshift shield (wood and scrap; +1 block, 1/3 cover, breaks after 2-3 heavy hits)",1)])
 add("armour","U","MBF",[("Forged shield (+2 block, half cover)",6)])
-add("mod","U","MBF",[("Shield viewing slot (shoot a pistol through without losing cover)",1.5)])
+add("mod","U","MBF",[("Shield viewing slot (shoot a pistol through without losing cover)",1.5),("Shield spikes (charge shield-first; +3 melee with the shield)",2)])
 add("armour","R","MB",[("Arbitrator shield (Adeptus Arbites riot shield; +2 block, portable cover, pistol notch)",10)])
 add("armour","R","MAF",[("Storm trooper carapace set",15),("Storm shield (power field)",30),("Refractor field",25),("Conversion field (damaged)",35),("Skitarii armour (augmetic fit)",18)])
 add("armour","R","MF",[("Tempestus Scion helmet (rebreather, auspex; +2 Perception, +1 shooting)",25)])
