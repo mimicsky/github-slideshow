@@ -71,6 +71,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Power fist, Guard pattern](melee.md#power-fist-guard-pattern)
 - [Las-fist, 'Kasr Knuckle' pattern](melee.md#las-fist-kasr-knuckle-pattern)
 - [Astartes power fist](melee.md#astartes-power-fist) (epic)
+- [Chogorian practice scimitar](melee.md#chogorian-practice-scimitar) (epic)
 - [Power claw, 'Kasr Talon' pattern](melee.md#power-claw-kasr-talon-pattern) (epic)
 
 ## [Kit, armour, sights and mods](kit.md)

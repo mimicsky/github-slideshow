@@ -1260,6 +1260,13 @@
   "sellers": "BF"
  },
  {
+  "name": "Chogorian practice scimitar (White Scars neophyte blade; ceramite edge, +1 strike first, no hilt)",
+  "tv": 45,
+  "cat": "melee",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
   "name": "Las-fist, 'Kasr Knuckle' pattern (power fist with a lasgun barrel and crystal; trigger in the fist; -3 to shoot, none point-blank)",
   "tv": 40,
   "cat": "melee",

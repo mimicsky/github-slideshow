@@ -108,6 +108,22 @@ goes in the other hand).
 Space Marine's fist, sized for a hand twice a human's. **A human can't wear or use
 it.** Trade value or a trophy, and the Astartes want it back.
 
+## Chogorian practice scimitar
+
+(player design, epic: an exotic find, natural 20 only; 45 TV; black market, Free
+Traders.) Forged in the mountains of Chogoris to train the White Scars' neophytes
+in their high-speed blade style. A scimitar with a slightly thicker blade than
+usual, a **super-sharp ceramite edge**, a plasteel skeleton ergo grip and **no
+hilt**. Sized for a neophyte Scout, not a full Marine, so a human can use it:
+long and heavy, fine in two hands, **-1 to hit one-handed.**
+- **Edge:** through flak and mesh on any hit; **through carapace on a raw 17+**.
+- **Speed style:** **+1 to strike first.**
+- **No hilt:** **-1 to parry** (nothing stops a blade sliding to the hand).
+- **Thick ceramite blade:** never breaks, and can block a chainsword or a power
+  weapon without being cut.
+- The White Scars may want it back, and anyone who knows what it is will ask how
+  you got it.
+
 ## Las-fist, 'Kasr Knuckle' pattern
 
 (player design, rare, 40 TV; Mechanicus, Free Traders.) A Guard-pattern power fist
