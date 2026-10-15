@@ -1274,6 +1274,13 @@
   "sellers": "BF"
  },
  {
+  "name": "Fist huntsman knife (Imperial Fists; plasteel, saw back, choil, gold guard, yellow grip)",
+  "tv": 30,
+  "cat": "melee",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
   "name": "Las-fist, 'Kasr Knuckle' pattern (power fist with a lasgun barrel and crystal; trigger in the fist; -3 to shoot, none point-blank)",
   "tv": 40,
   "cat": "melee",

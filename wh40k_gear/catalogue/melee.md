@@ -141,6 +141,22 @@ the **pommel is a jagged mountain peak, gold-plated.** Human-sized.
   Carried by its rightful owner, it opens doors; taken from a corpse, the Wolves
   will hunt whoever holds it.
 
+## Fist huntsman knife
+
+(player design, epic: an exotic find, natural 20 only; 30 TV; black market, Free
+Traders.) An Imperial Fists huntsman knife, human-sized: the kind their Scouts
+and trusted serfs carry. **Plasteel blade, thicker than a normal knife, engraved
+with a fist**; a **ribbed (saw) back**; a **U-shaped gap (choil) near the guard**;
+a **gold-plated steel guard that comes out in front of the U**; a **plastek handle
+painted yellow, with a fist at the bottom of the grip.**
+- **Plasteel blade:** through flak on a solid hit.
+- **Saw back:** cuts rope, webbing, cables and straps in a beat; saws through a
+  thin hatch or a vent grille given time.
+- **Choil and forward guard:** the fingers can choke up into the U for fine work,
+  and the guard covers them: **+1 to parry with the knife.**
+- **Thick blade:** won't snap; works as a pry bar on doors and crates.
+- Yellow and the fist mark it as Imperial Fists gear to anyone who knows.
+
 ## Las-fist, 'Kasr Knuckle' pattern
 
 (player design, rare, 40 TV; Mechanicus, Free Traders.) A Guard-pattern power fist
