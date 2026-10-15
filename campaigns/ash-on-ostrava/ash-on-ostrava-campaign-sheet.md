@@ -373,6 +373,9 @@ Light's container. Crew rallying cry: **"We are the light."**
 
 ## DM threads (not known to the player)
 
+- **Next playthrough, after this campaign ends (player's wish, session 8):** play
+  the other side, **a cultist or a pirate**. The enemy roles, kits, drugs and
+  special teams built in session 8 already cover both. Decide which when the time comes.
 - **The campaign runs until Tamsin dies (set by the player, session 8; don't bring
   it up at the table).** No planned ending. **The longer he lives, the harder the
   fights get:** more enemies, better armed (more specialists, more better-armed and
