@@ -1027,13 +1027,16 @@ the single price.
 
 ### Perils of the Warp
 
-Any psyker (enemy or the Light) who uses a power rolls a d20 for **Perils**. The
-range that triggers it is set by the item or role (a witch's staff 1-3, a rogue
-psyker 1-4, a cult psyker 1-6). When Perils triggers, roll a d20:
+**The Perils trigger.** Any psyker (enemy or the Light) rolls a d20 **every beat
+they use or charge a power** (a 3-beat charge is 3 rolls). The range that triggers
+Perils is set by the item or role (a witch's staff 1-3, a rogue psyker 1-4, a cult
+psyker 1-6).
+
+**The Perils result.** When the trigger hits, roll a d20 on this table:
 
 | d20 | What happens |
 | --- | --- |
-| 1 | **Daemon breach.** The psyker is torn apart and one daemon of their god steps out |
+| 1 | **Daemon breach.** The psyker is torn apart and a random warp daemon takes their place |
 | 2-4 | **Warp blast.** The psyker goes Down; everyone within ~3 m drops a health step |
 | 5-8 | **Backlash.** The power fails and a force blast throws the psyker away, into or out of the fight: they drop a health step and lose their next turn |
 | 9-12 | **Burn.** The power fails; the psyker drops a health step |
@@ -1058,7 +1061,7 @@ Wounding, stunning or disarming the psyker breaks a charge, as with the staff.
 | 6 | 2 beats | **Warp-fire** | Hits like a flamer and sets the target alight |
 | 7 | 3 beats | **Soulblaze ball** | Launches a fiery ball that drifts slowly to where it's sent, stops, then explodes: everything within 10 m catches fire |
 | 8 | 3 beats | **Power force charge** | Moves cover, objects and people away from or towards the psyker. Throwing someone into a wall drops them a health step; can rip weapons apart |
-| 9 | 2 beats | **Great warp shield** | A bigger warp ward that covers 2-3 people close by. Each beat it's up, roll Perils, and the Perils trigger range grows by 1 (1-4, then 1-5, then 1-6...) |
+| 9 | 2 beats | **Great warp shield** | A bigger warp ward that covers 2-3 people close by. Each beat it's up, roll the Perils trigger, and its range grows by 1 (1-4, then 1-5, then 1-6...) |
 
 ### Custom weapons and crafting
 

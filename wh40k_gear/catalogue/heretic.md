@@ -60,8 +60,8 @@ staff of black iron, bone or warped wood, wound with chains and charms, the
 crown cut into the mark of their god. **About one cult witch in four carries one**
 (the rest have a crude stick). It channels Chaos through the psyker who holds it.
 
-**In a witch's hands:** each beat they use **one power**, and roll a d20 for
-Perils: **1-3**, roll on the Perils table (Codex, Gear rules).
+**In a witch's hands:** each beat they use **one power**, and roll the
+Perils trigger: **1-3**, then roll the Perils result (Codex, Gear rules).
 
 | Power | What it does |
 | --- | --- |
@@ -80,7 +80,7 @@ A witch with a staff can call on their god for something bigger, but it takes
 **daemons spill out to guard the witch** while it builds. Next beat the god power
 fires, unless the Light breaks the charge first (wound, stun or disarm the witch).
 Breaking the charge stops the power, **but the daemons stay** until the witch goes
-Down; then they fade at the end of that beat. Perils still applies, each beat.
+Down; then they fade at the end of that beat. The Perils trigger is still rolled each beat.
 
 | God | Summoned while charging | The god power (next beat) |
 | --- | --- | --- |

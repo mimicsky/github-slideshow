@@ -32,8 +32,8 @@ exchange, -1 to parry. In a non-psyker's hand it is only a sharp blade. A psyker
 channels through it: through carapace on a solid hit, and it burns daemons and
 warp-things. **Warp shield:** the psyker intake on the blade's spine raises a
 shield for a beat that blocks the first shot and the first melee hit at the bearer
-(a raw 17+ still gets through). Each beat it is up, roll a d20 for Perils: 1-3,
-the shield collapses and the psyker rolls on the Perils table (Codex, Gear rules). Enemy witches
+(a raw 17+ still gets through). Each beat it is up, Perils trigger 1-3:
+the shield collapses and the psyker rolls the Perils result (Codex, Gear rules). Enemy witches
 may carry one.
 
 ## Combat chain-knife, 'Kasr Gnaw' pattern
