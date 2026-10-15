@@ -344,8 +344,8 @@ NEW = {
   "traitor_elite": [("Fallen company colours, the old honours burned + bolt pistol","U"),("Their regiment's real standard, stolen + power sword","R")],
  },
  "beast handler": {
-  "cultist": [("Handler with 3 mutant hounds + goad and autopistol","C"),("Handler with 2 warp-hounds (daemon-touched) + whip","R")],
-  "raider":  [("Handler with 2 fighting dogs + stub revolver","C"),("Handler with a chained mutant beast + shock prod","U")],
+  "cultist": [("Handler with 4 mutant hounds + goad and autopistol","C"),("Handler with 4 warp-hounds (daemon-touched) + whip","R")],
+  "raider":  [("Handler with 4 fighting dogs + stub revolver","C"),("Handler with 4 chained mutant beasts + shock prod","U")],
   "pirate":  [("Handler with 2 void-rats the size of dogs + autopistol","C"),("Handler with a cyber-mastiff (stolen Arbites) + shotgun","U")],
   "traitor": [("Dog-handler with 2 war dogs + lasgun","C"),("Handler with 2 cyber-mastiffs + laspistol","U")],
   "traitor_elite": [("Handler with 2 cyber-mastiffs + hellpistol","U"),("Handler with 3 cyber-mastiffs + hellgun","R")],

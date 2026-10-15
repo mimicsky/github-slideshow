@@ -354,9 +354,21 @@ sometimes ignores orders.
 
 **Who has it:** all five types.
 
-Comes with **2-3 beasts** (hounds, mutant dogs, cyber-mastiffs, warp-hounds) that
-fight on their own. Sends them first to run the party down and pin the wounded.
-Kill the handler and the beasts may scatter, or go wild.
+Comes with **2-3 beasts, 2 health states each** (hounds, mutant dogs,
+cyber-mastiffs, warp-hounds) that fight on their own. Sends them first to run the
+party down and pin the wounded.
+
+- **Handler dies:** roll a d6 for the beasts. **1-4:** they scatter and retreat.
+  **5-6:** they rush in and go wild.
+- **Pinned:** the beast and the pinned person go into melee, and the pinned
+  person **can only defend**. They wait for their team to save them, or **a raw 20
+  throws the beast off.**
+
+*Side note: cultist and raider handlers bring **4 beasts with 1 health state
+each**. When the handler dies, they always go wild.*
+
+*Side note: pirate beasts are far more savage: **+3 to melee and pinning.**
+Killing the handler has no effect on them.*
 
 ## Berserker
 

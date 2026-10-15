@@ -373,11 +373,11 @@
    ],
    "beast handler": [
     [
-     "Handler with 3 mutant hounds + goad and autopistol",
+     "Handler with 4 mutant hounds + goad and autopistol",
      "C"
     ],
     [
-     "Handler with 2 warp-hounds (daemon-touched) + whip",
+     "Handler with 4 warp-hounds (daemon-touched) + whip",
      "R"
     ]
    ],
@@ -801,11 +801,11 @@
    ],
    "beast handler": [
     [
-     "Handler with 2 fighting dogs + stub revolver",
+     "Handler with 4 fighting dogs + stub revolver",
      "C"
     ],
     [
-     "Handler with a chained mutant beast + shock prod",
+     "Handler with 4 chained mutant beasts + shock prod",
      "U"
     ]
    ],
