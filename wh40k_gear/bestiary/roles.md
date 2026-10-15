@@ -80,9 +80,16 @@ doesn't bother them.*
 
 ## Heavy team
 
-Two people, gunner and loader, on a big gun. Takes a strong position early and
-holds it. **One roll, two bodies; kill the loader and the gun fires every other
-beat.** They don't move once set.
+Two people, gunner and loader, on a big gun. Takes a strong position early and holds
+it. **One roll, two bodies: it takes two kills to silence it.** **Kill one and the gun
+fires only every other beat** (the survivor works it alone), and there's a **50%
+chance the survivor runs**.
+
+*Side note: cultist heavy teams never run; the survivor keeps working the gun.*
+
+*Side note: traitor elite heavy teams never run either: if one goes down, the
+survivor always takes cover and fights on with their own gun or one off the
+ground.*
 
 ## Plasma / melta gunner
 
