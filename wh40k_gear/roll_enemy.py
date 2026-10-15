@@ -28,7 +28,7 @@ rolls specialist and draws "blessed" rolls the role d20 again: grunt or
 specialist as normal; if specialist, draw a type again; drawing "blessed" a
 second time makes them a blessed grunt
 (wh40k_gear/catalogue/heretic.md, Blessed cultists).
-Special teams (player-set): before the fight, 2d20 added; 33-40 means the group is
+Special teams (player-set): before the fight, 2d20 added; 31-40 means the group is
 a named special team of this type (factions.py; bestiary/): +1 on all their rolls,
 armour one step better, +8 to the better-armed d20, and half their guns are the
 team's favoured weapons. Their look and tactics are in the bestiary.
@@ -45,7 +45,7 @@ sys.path.insert(0, here)
 from factions import F
 team_roll = random.randint(1, 20) + random.randint(1, 20)
 team = None
-if team_roll >= 33:
+if team_roll >= 31:
     opts = [f for f in F if f["type"] == kind and (kind != "cultist" or len(sys.argv) <= 4 or f.get("god") == god)] or [f for f in F if f["type"] == kind]
     team = random.choice(opts)
     if team.get("god"): god = team["god"]

@@ -1,6 +1,6 @@
 # Raider special teams
 
-Named raider gangs, rolled as a raider special team (2d20 33+).
+Named raider gangs, rolled as a raider special team (2d20 31+).
 
 ## Renegade Void-Raiders
 

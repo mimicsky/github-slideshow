@@ -1,6 +1,6 @@
 # Traitor soldier special teams
 
-Named renegade Guard forces, rolled as a traitor special team (2d20 33+).
+Named renegade Guard forces, rolled as a traitor special team (2d20 31+).
 
 ## The Vraksian Renegade Militia
 
