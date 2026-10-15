@@ -61,6 +61,9 @@ def pick(rows):
     opts = [r for r in rows if r[1] == tier] or rows
     return random.choice(opts)[0]
 sidearms = [r for r in P["weapon"] if any(x in r[0].lower() for x in ("pistol", "revolver", "stub automatic", "sawn-off"))] or [("Hellpistol" if kind == "traitor_elite" else "Laspistol", "C")]
+# Bomb zealots (player-set): their extra is always 3-5 explosives, all strapped on.
+BOMBS = [("Frag grenade","C"),("Pipe-bomb","C"),("Fire bomb (promethium)","C"),("Mining charge","C"),
+         ("Krak grenade","U"),("Choke gas grenade","U"),("Cult gas bottle (gas of their god)","U"),("Melta bomb","R")]
 ranged_share = 0.75 if kind.startswith("traitor") else 0.5  # soldiers mostly fight with guns
 print(f"SPECIAL TEAM: {team['name']} (2d20 {team_roll}): +1 on all rolls, armour one step better, +3 better-armed" if team else f"(2d20 {team_roll}: a basic group)")
 print(f"{kind} x{count}, book {book}" + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{2*(book-1) + (3 if team else 0)} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE FIND (natural 20)" if raw == 20 else ""))
@@ -95,7 +98,10 @@ for n in range(count):
     armour = pick(P['armour'])
     if team:  # one step better: draw the armour from the top of the list
         armour = random.choice([r[0] for r in P['armour'] if r[1] in ("U", "R")] or [armour])
-    line = f"{n+1}. {head} | {armour} | {pick(P['extra'])}"
+    extra = pick(P['extra'])
+    if head.startswith("SPECIALIST BOMB ZEALOT"):
+        extra = "STRAPPED ON: " + ", ".join(pick(BOMBS) for _ in range(random.randint(3, 5)))
+    line = f"{n+1}. {head} | {armour} | {extra}"
     if n in lucky:
         line += f"  ** FOUND/MADE: {random.choice(P['found'])[0]}"
     if blessed:

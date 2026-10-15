@@ -388,8 +388,13 @@ fighting a beat after going Down.**
 
 A cultist who wants to die well. Runs straight at the party (or a vehicle, or a
 door) with explosives strapped on. **If they reach their target, they go off.**
-Shoot them before they arrive; a solid hit on the charges may set them off early,
-where they stand.
+**If shot, roll a d20: 1-7 they explode where they stand; 8-20 they drop a health
+step.**
+
+**Their extra is always explosives: at least 3 (the roller gives 3-5), all
+strapped on.** When they go off, every one goes off together and the blast mixes
+them: two fire bombs and a frag, for example, is a fireball that also throws a
+little shrapnel around the area.
 
 ## Blessed
 
