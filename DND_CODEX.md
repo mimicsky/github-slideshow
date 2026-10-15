@@ -1027,8 +1027,8 @@ the single price.
 
 ### Perils of the Warp
 
-**The Perils trigger.** Any psyker (enemy or the Light) rolls a d20 **every beat
-they use or charge a power** (a 3-beat charge is 3 rolls). The range that triggers
+**The Perils trigger.** Any psyker (enemy or the Light) rolls a d20 **once per
+power, when it fires** (a charge is still just one roll). The range that triggers
 Perils is set by the item or role (a witch's staff 1-3, a rogue psyker 1-4, a cult
 psyker 1-6).
 

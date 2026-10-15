@@ -80,7 +80,7 @@ A witch with a staff can call on their god for something bigger, but it takes
 **daemons spill out to guard the witch** while it builds. Next beat the god power
 fires, unless the Light breaks the charge first (wound, stun or disarm the witch).
 Breaking the charge stops the power, **but the daemons stay** until the witch goes
-Down; then they fade at the end of that beat. The Perils trigger is still rolled each beat.
+Down; then they fade at the end of that beat. The god power still rolls the Perils trigger once, when it fires.
 
 | God | Summoned while charging | The god power (next beat) |
 | --- | --- | --- |
