@@ -102,6 +102,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Chaos grimoire](heretic.md#chaos-grimoire)
 - [Chaos psyker staff](heretic.md#chaos-psyker-staff)
 - [Chaos ward-mark](heretic.md#chaos-ward-mark)
+- [Blessed cultists](heretic.md#blessed-cultists) (enemy rule)
 
 ## [Heavy and vehicle weapons](heavy.md)
 

@@ -117,3 +117,21 @@ and fades** (the brand, ink or brass goes blank). Then it's spent.
 Cult leaders and witches carry them (found-or-made, rare). **As loot:** it can work
 for one of the Light too, but wearing a god's mark is heresy: a purity seal
 burns away near it, and the DM may make the wearer pay something later.
+
+## Blessed cultists
+
+(enemy rule, set by the player.) Any cultist, grunt or specialist, can be **blessed
+by their god**. Each cultist rolls a d20 (the enemy roller does it): **20 in book
+1, 19-20 in book 2, 18-20 in book 3**, one more each book. A blessed cultist is
+easy to spot, and the Light should be able to tell what it means:
+
+| God | How to tell | The blessing |
+| --- | --- | --- |
+| **Khorne** | Soaked in a dark, glossy glaze of blood that never dries | **+1 in melee**, and when they go Down they keep fighting for **one more beat** before they fall |
+| **Nurgle** | Green, stinking vines growing through the skin; open plague sores | **The first hit on them does nothing** (the rot soaks it); their melee hits force a CON save or sickness |
+| **Slaanesh** | Purple mist and a sickly sweet smell; small parts turned to tentacles (fingers, toes, an ear) | **-1 to hit them** (they move wrong, too fast), and +2 to strike first |
+| **Tzeentch** | Feathers, a beak or claws growing out of them; the number 9 carved all over the skin | **Once per fight, a hit on them simply misses** (fate turns it), and they see the Light coming: no surprise on them |
+| **Undivided** | The eight-pointed star branded across them, glowing faintly | **+1 on all their rolls** for the fight |
+
+A purity seal gives advantage on any save a blessing forces. Blessed cultists are
+the ones to shoot first, and their bodies are worth showing to the Inquisition.

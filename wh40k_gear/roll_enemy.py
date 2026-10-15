@@ -1,8 +1,10 @@
 """Roll an enemy group's roles and gear, from enemies.json.
 
-Usage: python3 roll_enemy.py TYPE COUNT
+Usage: python3 roll_enemy.py TYPE COUNT [BOOK] [GOD]
   TYPE:  cultist, raider, pirate
   COUNT: how many enemies in the group (a named enemy alone: 1)
+  BOOK:  which book of the campaign (default 2); difficulty scales by book
+  GOD:   cultists only: khorne, nurgle, slaanesh, tzeentch, undivided (default random)
 
 Role, one d20 per enemy (player-set, session 8):
   1-15  grunt: a coin flip makes them RANGED (main gun + melee backup)
@@ -17,14 +19,22 @@ Better-armed, one open d20 for the group:
   19-20 ELITE TEAM: everyone rolls one rarity step better
   (common 25 / uncommon 50 / rare 25) and each carries a 'found or made' item.
 A natural 20 also adds one rare find to the group's loot (DND_CODEX Part 8, Loot).
+Book scaling (campaign sheet, DM threads): better-armed d20 +2 per book after the
+first; specialist role starts 1 lower per book (book 1: 16-20, book 2: 15-20).
+Blessed cultists: each cultist rolls a d20; 20 in book 1, 19-20 in book 2,
+18-20 in book 3 (and so on) means they are BLESSED by their god
+(wh40k_gear/catalogue/heretic.md, Blessed cultists).
 """
 import json, random, sys, os
 here = os.path.dirname(os.path.abspath(__file__))
 E = json.load(open(os.path.join(here, "enemies.json")))
 kind = (sys.argv[1] if len(sys.argv) > 1 else "cultist").lower()
 count = int(sys.argv[2]) if len(sys.argv) > 2 else 5
+book = int(sys.argv[3]) if len(sys.argv) > 3 else 2
+god = (sys.argv[4].lower() if len(sys.argv) > 4 else random.choice(["khorne", "nurgle", "slaanesh", "tzeentch", "undivided"]))
 P = E[kind]
-d20 = random.randint(1, 20)
+raw = random.randint(1, 20)
+d20 = min(20, raw + 2 * (book - 1))
 elite = d20 >= 19
 better = 0 if d20 < 10 else 1 if d20 < 12 else 2 if d20 < 14 else 3 if d20 < 16 else 4 if d20 < 19 else count
 better = min(better, count)
@@ -34,11 +44,11 @@ def pick(rows):
     opts = [r for r in rows if r[1] == tier] or rows
     return random.choice(opts)[0]
 sidearms = [r for r in P["weapon"] if any(x in r[0].lower() for x in ("pistol", "revolver", "stub automatic", "sawn-off"))] or P["weapon"]
-print(f"{kind} x{count}, group d20: {d20}" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE FIND (natural 20)" if d20 == 20 else ""))
+print(f"{kind} x{count}, book {book}" + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{2*(book-1)} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE FIND (natural 20)" if raw == 20 else ""))
 lucky = set(random.sample(range(count), better))
 for n in range(count):
     role_d20 = random.randint(1, 20)
-    if role_d20 >= 16:
+    if role_d20 >= 17 - book:
         role = random.choice(list(P["specialists"]))
         kit = pick(P["specialists"][role])
         head = f"SPECIALIST {role.upper()} (d20 {role_d20}): {kit}"
@@ -50,4 +60,8 @@ for n in range(count):
     line = f"{n+1}. {head} | {pick(P['armour'])} | {pick(P['extra'])}"
     if n in lucky:
         line += f"  ** FOUND/MADE: {random.choice(P['found'])[0]}"
+    if kind == "cultist":
+        b = random.randint(1, 20)
+        if b >= 21 - book:
+            line += f"  !! BLESSED by {god} (d20 {b})"
     print(line)
