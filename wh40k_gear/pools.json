@@ -511,6 +511,13 @@
   "sellers": "BF"
  },
  {
+  "name": "Macragge service pistol (Ultramarines; M.45, 12 rounds, laser/light module, compensator)",
+  "tv": 35,
+  "cat": "stub",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
   "name": "Exitus pistol (Vindicare; silent, +1; may self-destruct when first picked up)",
   "tv": 60,
   "cat": "stub",

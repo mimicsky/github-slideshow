@@ -57,6 +57,7 @@ add("bolt","R","B",[("Bolt pistol, rebored (unstable)",8)])
 add("bolt","X","BF",[("Astartes bolt carbine (Space Marine; human: braced only, -4)",55),("Astartes bolt rifle (Space Marine; human: braced only, -4)",60),("Astartes auto bolt rifle (Space Marine; human: braced only, -4)",65)])
 add("bolt","L","BF",[("Astartes heavy bolt rifle (Space Marine; human: braced only, -4)",90),("Astartes heavy bolter (Space Marine; human: mounted only, -4)",120)])
 # Officio Assassinorum gear (player-set: all epic or legendary). Rules: catalogue/assassinorum.md.
+add("stub","X","BF",[("Macragge service pistol (Ultramarines; M.45, 12 rounds, laser/light module, compensator)",35)])
 add("stub","X","BF",[("Exitus pistol (Vindicare; silent, +1; may self-destruct when first picked up)",60),("Exitus rounds: shield-breaker (each)",10),("Exitus rounds: turbo-penetrator (each)",10),("Exitus rounds: hellfire (each)",10)])
 add("stub","L","BF",[("Exitus rifle (Vindicare; +3 aimed, no range or weather penalty)",150),("Neural shredder (Callidus; 10 m cone, CON save or two health steps)",180),("Executioner pistol (Eversor; bolt pistol + toxin needler)",150),("Needlespine blaster (Adamus; silent, +2 at range, toxin)",140)])
 add("melee","X","BF",[("Poison blades, concealed (Callidus; toxin, hidden on a search)",50)])

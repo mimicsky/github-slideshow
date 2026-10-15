@@ -69,6 +69,23 @@ cracks (out of the fight until repaired). **Dropped:** on the drop-prone table's
 "fires" result it dumps the whole magazine, spraying the area: roll the
 where-it-goes d20 once for every 10 rounds left (at least once).
 
+## Macragge service pistol
+
+**Macragge service pistol** (player design, epic: an exotic find, natural 20 only;
+35 TV; black market, Free Traders). An Ultramarines stub pistol, given to the
+aspirants who reach the Fortress of Hera in their trials, so it is **human-sized**.
+**Full plasteel body in black, blue-painted slide, blue plastek grip panels, a
+golden Ultramarines sigil on the body** and a stamped service number beneath it.
+Exposed hammer, slide serrations front and rear, a **fixed laser and light module**
+under the barrel, and a **compensator** on the muzzle.
+- **M.45 heavy stub rounds:** hits like a stub revolver; through carapace on a
+  solid hit. **12-round magazine.** Effective to about **60 m**.
+- **Semi-auto:** chains of up to 4 single shots, normal hit bonuses.
+- **Compensator:** a miss in a chain gives no -1.
+- **Laser:** +1 on aimed shots out to 60 m. **Light:** no penalty for darkness
+  within 20 m, but while it's on, everyone can see where you are.
+- Anyone from Ultramar knows what it means; the service number says whose it was.
+
 ## Auto-revolver, 'Hammerfall' pattern
 
 **Auto-revolver, 'Hammerfall' pattern** (player design, uncommon; stub 2 TV, long
