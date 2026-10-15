@@ -406,5 +406,5 @@ pressured too much.*
 
 A cultist touched by their god (catalogue, Heretic and cult items, Blessed
 cultists). Fanatical, unafraid, often the one others rally around. Their god's
-blessing shapes how they fight: Khorne charges, Nurgle walks through fire,
-Slaanesh duels, Tzeentch plans.
+blessing shapes how they fight: Khorne charges, Nurgle shrugs off hits,
+Slaanesh duels and manipulates, Tzeentch schemes and plans.
