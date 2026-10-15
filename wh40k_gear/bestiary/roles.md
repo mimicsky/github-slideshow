@@ -110,8 +110,8 @@ overheated, even with a backup weapon.*
 Wants to be close and loves close quarters. Clears cover by burning it, and **sprays
 fire over cover to suppress** whoever is behind it. Moves forward behind other
 troops. **The tank is a target**: a solid hit on it can make it burst. **On a burst,
-roll a d6: 1-4, the flamer goes up in a ball of flame and so does the floor around
-them; 5-6, the weapon goes up in flames and they lose their next turn.**
+roll a d6: 1-4, the flamer (the user) goes up in a ball of flame, and so does the
+floor around them: they **spend 2 turns putting themselves out**; 5-6, the weapon goes up in flames and they lose their next turn.**
 
 *Side note: cultist flamers only like close range: they only take fights there,
 rush to get there, and will burn their own melee fighters if they're in the way.*
