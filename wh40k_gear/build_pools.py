@@ -326,6 +326,62 @@ BERSERK = {
   "traitor_elite": [("Power axe + 4 doses of concentrated Frenzon","R"),("Chainsword and power knife + 4 doses of Frenzon","U"),("Eviscerator + 5 doses of Frenzon","R")],
 }
 for k,v in BERSERK.items(): SPEC[k]["berserker"] = v
+# New roles (player-set, session 8): brute, icon bearer, beast handler, tech-adept,
+# infiltrator, enforcer, bomb zealot, gunslinger, chem-doctor, bodyguard.
+# Behaviour and rules for every role: bestiary/roles.md.
+NEW = {
+ "brute": {
+  "cultist": [("Mutant brute: huge rusted cleaver, slab of scrap armour","C"),("Mutant brute: chained engine-block flail","U"),("Mutant brute: two-handed eviscerator","R")],
+  "raider":  [("Brute: sledgehammer and a door for a shield","C"),("Brute: chain axe in each hand","U"),("Brute: stolen Ogryn ripper gun and a club","R")],
+  "traitor": [("Renegade Ogryn: ripper gun and slab shield","U"),("Renegade Ogryn: grenadier gauntlet","R"),("Penal brute: maul and a stolen trench club","C")],
+  "traitor_elite": [("Renegade Ogryn bodyguard: power maul and slab shield","R"),("Renegade Ogryn: heavy stubber, carried","U")],
+ },
+ "icon bearer": {
+  "cultist": [("Cult icon: a chalk gate on a pole of bones + autopistol","C"),("Daemon-touched icon that whispers + chain knife","R"),("God-banner of stitched skin + stub revolver","U")],
+  "raider":  [("Gang banner of trophies + autopistol","C"),("War-horn and skull standard + chain knife","U")],
+  "pirate":  [("Captain's black flag on a boarding pike + heavy laspistol","C"),("Brass ship's icon + cutlass","U")],
+  "traitor": [("Defaced regimental colours + laspistol","C"),("Traitor icon of the eight-pointed star + chainsword","U")],
+  "traitor_elite": [("Fallen company colours, the old honours burned + bolt pistol","U"),("Their regiment's real standard, stolen + power sword","R")],
+ },
+ "beast handler": {
+  "cultist": [("Handler with 3 mutant hounds + goad and autopistol","C"),("Handler with 2 warp-hounds (daemon-touched) + whip","R")],
+  "raider":  [("Handler with 2 fighting dogs + stub revolver","C"),("Handler with a chained mutant beast + shock prod","U")],
+  "pirate":  [("Handler with 2 void-rats the size of dogs + autopistol","C"),("Handler with a cyber-mastiff (stolen Arbites) + shotgun","U")],
+  "traitor": [("Dog-handler with 2 war dogs + lasgun","C"),("Handler with 2 cyber-mastiffs + laspistol","U")],
+  "traitor_elite": [("Handler with 2 cyber-mastiffs + hellpistol","U"),("Handler with 3 cyber-mastiffs + hellgun","R")],
+ },
+ "tech-adept": {
+  "cultist": [("Heretek: scrap-built auto-turret, cutting torch, autopistol","U"),("Heretek: daemon-bound vox-jammer + servo-arm","R")],
+  "raider":  [("Tech-scav: deployable stubber turret + lock-breaker","U"),("Tech-scav: vox jammer + multi-key + autopistol","C")],
+  "pirate":  [("Ship's mechanic: door-locker, auto-turret, laspistol","U"),("Ship's mechanic: cutting torch, spoof-tags, shotgun","C")],
+  "traitor": [("Renegade enginseer: auto-turret, repair kit, lasgun","U"),("Renegade enginseer: vox jammer, servo-skull, laspistol","R")],
+  "traitor_elite": [("Renegade tech-priest: heavy auto-turret, servo-arm, hellpistol","R"),("Combat engineer: vox jammer, auspex, demo charge, hellgun","U")],
+ },
+ "infiltrator": {
+  "raider":  [("Infiltrator: silenced stub pistol, mono-knife, dark rags","U"),("Infiltrator: crossbow-quiet needle pistol, garrotte","R")],
+  "traitor": [("Infiltrator: silenced stub pistol, combat knife, chameleoline scraps","U"),("Infiltrator: suppressed Kasr Warden autogun, knife","U")],
+  "traitor_elite": [("Infiltrator: silenced hellpistol, power knife, chameleoline cloak","R"),("Infiltrator: needle rifle, mono-knife, chameleoline cloak","R"),("Infiltrator: suppressed Kasr Warden autogun, knife, cloak","U")],
+ },
+ "enforcer": {
+  "traitor": [("Renegade commissar: bolt pistol and chainsword, greatcoat","U"),("Enforcer: laspistol and power maul, the old Commissariat cap","U")],
+  "traitor_elite": [("Fallen commissar: bolt pistol, power sword, carapace greatcoat","R"),("Enforcer: plasma pistol and chainsword","R")],
+ },
+ "bomb zealot": {
+  "cultist": [("Bomb zealot: vest of mining charges, a dead-man's grip","C"),("Bomb zealot: promethium tanks strapped on, a flare","U"),("Bomb zealot: a stolen melta bomb on a chest rig","R")],
+ },
+ "gunslinger": {
+  "raider": [("Gunslinger: two Hammerfall stub revolvers","U"),("Gunslinger: two autopistols","C"),("Gunslinger: Headhunter autogun","U"),("Gunslinger: Kasr Warden autogun","C")],
+  "pirate": [("Gunslinger: two heavy laspistols","U"),("Gunslinger: two Hammerfall long revolvers","C"),("Gunslinger: Kasr Sprinter long-las","U"),("Gunslinger: semi-auto shotgun","C")],
+ },
+ "chem-doctor": {
+  "cultist": [("Plague-doctor: rot-stimms, 3 doses of slaught, a jar of the god's 'medicine', autopistol","U"),("Chem-witch: injector stiletto (paralytic), drug satchel, heretic charms","R")],
+  "raider":  [("Chem-doc: 4 stimms, 3 combat drugs, injector stiletto, autopistol","C"),("Chem-doc: concentrated stimms, Frenzon, a forbidden tonic, laspistol","U")],
+  "pirate":  [("Ship's chem-doc: stimms, slaught, Quicksilver, a heretic cure-all, shotgun","C"),("Chem-doc: concentrated stimm, injector stiletto (toxin), ward-mark","U")],
+ },
+ "bodyguard": {t: [("Bodyguard: boarding shield and shock maul","C"),("Bodyguard: heavy carapace, combat shotgun and a shield","U"),("Bodyguard: storm shield and power maul","R")] for t in ("cultist","raider","pirate","traitor","traitor_elite")},
+}
+for role, per in NEW.items():
+    for t, kits in per.items(): SPEC[t][role] = kits
 for k in E: E[k]["specialists"] = SPEC[k]
 json.dump(E, open("enemies.json","w"), indent=1)
 print(len(E), "enemy pools")

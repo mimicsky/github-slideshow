@@ -342,6 +342,92 @@
      "Eviscerator + 5 doses of Frenzon",
      "R"
     ]
+   ],
+   "brute": [
+    [
+     "Mutant brute: huge rusted cleaver, slab of scrap armour",
+     "C"
+    ],
+    [
+     "Mutant brute: chained engine-block flail",
+     "U"
+    ],
+    [
+     "Mutant brute: two-handed eviscerator",
+     "R"
+    ]
+   ],
+   "icon bearer": [
+    [
+     "Cult icon: a chalk gate on a pole of bones + autopistol",
+     "C"
+    ],
+    [
+     "Daemon-touched icon that whispers + chain knife",
+     "R"
+    ],
+    [
+     "God-banner of stitched skin + stub revolver",
+     "U"
+    ]
+   ],
+   "beast handler": [
+    [
+     "Handler with 3 mutant hounds + goad and autopistol",
+     "C"
+    ],
+    [
+     "Handler with 2 warp-hounds (daemon-touched) + whip",
+     "R"
+    ]
+   ],
+   "tech-adept": [
+    [
+     "Heretek: scrap-built auto-turret, cutting torch, autopistol",
+     "U"
+    ],
+    [
+     "Heretek: daemon-bound vox-jammer + servo-arm",
+     "R"
+    ]
+   ],
+   "bomb zealot": [
+    [
+     "Bomb zealot: vest of mining charges, a dead-man's grip",
+     "C"
+    ],
+    [
+     "Bomb zealot: promethium tanks strapped on, a flare",
+     "U"
+    ],
+    [
+     "Bomb zealot: a stolen melta bomb on a chest rig",
+     "R"
+    ]
+   ],
+   "chem-doctor": [
+    [
+     "Plague-doctor: rot-stimms, 3 doses of slaught, a jar of the god's 'medicine', autopistol",
+     "U"
+    ],
+    [
+     "Chem-witch: injector stiletto (paralytic), drug satchel, heretic charms",
+     "R"
+    ]
+   ],
+   "bodyguard": [
+    [
+     "Bodyguard: boarding shield and shock maul",
+     "C"
+    ],
+    [
+     "Bodyguard: heavy carapace, combat shotgun and a shield",
+     "U"
+    ],
+    [
+     "Bodyguard: storm shield and power maul",
+     "R"
+    ]
    ]
   }
  },
@@ -686,6 +772,102 @@
     ],
     [
      "Chainsword + 5 doses of slaught",
+     "R"
+    ]
+   ],
+   "brute": [
+    [
+     "Brute: sledgehammer and a door for a shield",
+     "C"
+    ],
+    [
+     "Brute: chain axe in each hand",
+     "U"
+    ],
+    [
+     "Brute: stolen Ogryn ripper gun and a club",
+     "R"
+    ]
+   ],
+   "icon bearer": [
+    [
+     "Gang banner of trophies + autopistol",
+     "C"
+    ],
+    [
+     "War-horn and skull standard + chain knife",
+     "U"
+    ]
+   ],
+   "beast handler": [
+    [
+     "Handler with 2 fighting dogs + stub revolver",
+     "C"
+    ],
+    [
+     "Handler with a chained mutant beast + shock prod",
+     "U"
+    ]
+   ],
+   "tech-adept": [
+    [
+     "Tech-scav: deployable stubber turret + lock-breaker",
+     "U"
+    ],
+    [
+     "Tech-scav: vox jammer + multi-key + autopistol",
+     "C"
+    ]
+   ],
+   "infiltrator": [
+    [
+     "Infiltrator: silenced stub pistol, mono-knife, dark rags",
+     "U"
+    ],
+    [
+     "Infiltrator: crossbow-quiet needle pistol, garrotte",
+     "R"
+    ]
+   ],
+   "gunslinger": [
+    [
+     "Gunslinger: two Hammerfall stub revolvers",
+     "U"
+    ],
+    [
+     "Gunslinger: two autopistols",
+     "C"
+    ],
+    [
+     "Gunslinger: Headhunter autogun",
+     "U"
+    ],
+    [
+     "Gunslinger: Kasr Warden autogun",
+     "C"
+    ]
+   ],
+   "chem-doctor": [
+    [
+     "Chem-doc: 4 stimms, 3 combat drugs, injector stiletto, autopistol",
+     "C"
+    ],
+    [
+     "Chem-doc: concentrated stimms, Frenzon, a forbidden tonic, laspistol",
+     "U"
+    ]
+   ],
+   "bodyguard": [
+    [
+     "Bodyguard: boarding shield and shock maul",
+     "C"
+    ],
+    [
+     "Bodyguard: heavy carapace, combat shotgun and a shield",
+     "U"
+    ],
+    [
+     "Bodyguard: storm shield and power maul",
      "R"
     ]
    ]
@@ -1034,6 +1216,78 @@
      "Power axe + 4 doses of slaught",
      "R"
     ]
+   ],
+   "icon bearer": [
+    [
+     "Captain's black flag on a boarding pike + heavy laspistol",
+     "C"
+    ],
+    [
+     "Brass ship's icon + cutlass",
+     "U"
+    ]
+   ],
+   "beast handler": [
+    [
+     "Handler with 2 void-rats the size of dogs + autopistol",
+     "C"
+    ],
+    [
+     "Handler with a cyber-mastiff (stolen Arbites) + shotgun",
+     "U"
+    ]
+   ],
+   "tech-adept": [
+    [
+     "Ship's mechanic: door-locker, auto-turret, laspistol",
+     "U"
+    ],
+    [
+     "Ship's mechanic: cutting torch, spoof-tags, shotgun",
+     "C"
+    ]
+   ],
+   "gunslinger": [
+    [
+     "Gunslinger: two heavy laspistols",
+     "U"
+    ],
+    [
+     "Gunslinger: two Hammerfall long revolvers",
+     "C"
+    ],
+    [
+     "Gunslinger: Kasr Sprinter long-las",
+     "U"
+    ],
+    [
+     "Gunslinger: semi-auto shotgun",
+     "C"
+    ]
+   ],
+   "chem-doctor": [
+    [
+     "Ship's chem-doc: stimms, slaught, Quicksilver, a heretic cure-all, shotgun",
+     "C"
+    ],
+    [
+     "Chem-doc: concentrated stimm, injector stiletto (toxin), ward-mark",
+     "U"
+    ]
+   ],
+   "bodyguard": [
+    [
+     "Bodyguard: boarding shield and shock maul",
+     "C"
+    ],
+    [
+     "Bodyguard: heavy carapace, combat shotgun and a shield",
+     "U"
+    ],
+    [
+     "Bodyguard: storm shield and power maul",
+     "R"
+    ]
    ]
   }
  },
@@ -1362,6 +1616,84 @@
      "Chain axe + 4 doses of Frenzon",
      "U"
     ]
+   ],
+   "brute": [
+    [
+     "Renegade Ogryn: ripper gun and slab shield",
+     "U"
+    ],
+    [
+     "Renegade Ogryn: grenadier gauntlet",
+     "R"
+    ],
+    [
+     "Penal brute: maul and a stolen trench club",
+     "C"
+    ]
+   ],
+   "icon bearer": [
+    [
+     "Defaced regimental colours + laspistol",
+     "C"
+    ],
+    [
+     "Traitor icon of the eight-pointed star + chainsword",
+     "U"
+    ]
+   ],
+   "beast handler": [
+    [
+     "Dog-handler with 2 war dogs + lasgun",
+     "C"
+    ],
+    [
+     "Handler with 2 cyber-mastiffs + laspistol",
+     "U"
+    ]
+   ],
+   "tech-adept": [
+    [
+     "Renegade enginseer: auto-turret, repair kit, lasgun",
+     "U"
+    ],
+    [
+     "Renegade enginseer: vox jammer, servo-skull, laspistol",
+     "R"
+    ]
+   ],
+   "infiltrator": [
+    [
+     "Infiltrator: silenced stub pistol, combat knife, chameleoline scraps",
+     "U"
+    ],
+    [
+     "Infiltrator: suppressed Kasr Warden autogun, knife",
+     "U"
+    ]
+   ],
+   "enforcer": [
+    [
+     "Renegade commissar: bolt pistol and chainsword, greatcoat",
+     "U"
+    ],
+    [
+     "Enforcer: laspistol and power maul, the old Commissariat cap",
+     "U"
+    ]
+   ],
+   "bodyguard": [
+    [
+     "Bodyguard: boarding shield and shock maul",
+     "C"
+    ],
+    [
+     "Bodyguard: heavy carapace, combat shotgun and a shield",
+     "U"
+    ],
+    [
+     "Bodyguard: storm shield and power maul",
+     "R"
+    ]
    ]
   }
  },
@@ -1643,6 +1975,84 @@
     ],
     [
      "Eviscerator + 5 doses of Frenzon",
+     "R"
+    ]
+   ],
+   "brute": [
+    [
+     "Renegade Ogryn bodyguard: power maul and slab shield",
+     "R"
+    ],
+    [
+     "Renegade Ogryn: heavy stubber, carried",
+     "U"
+    ]
+   ],
+   "icon bearer": [
+    [
+     "Fallen company colours, the old honours burned + bolt pistol",
+     "U"
+    ],
+    [
+     "Their regiment's real standard, stolen + power sword",
+     "R"
+    ]
+   ],
+   "beast handler": [
+    [
+     "Handler with 2 cyber-mastiffs + hellpistol",
+     "U"
+    ],
+    [
+     "Handler with 3 cyber-mastiffs + hellgun",
+     "R"
+    ]
+   ],
+   "tech-adept": [
+    [
+     "Renegade tech-priest: heavy auto-turret, servo-arm, hellpistol",
+     "R"
+    ],
+    [
+     "Combat engineer: vox jammer, auspex, demo charge, hellgun",
+     "U"
+    ]
+   ],
+   "infiltrator": [
+    [
+     "Infiltrator: silenced hellpistol, power knife, chameleoline cloak",
+     "R"
+    ],
+    [
+     "Infiltrator: needle rifle, mono-knife, chameleoline cloak",
+     "R"
+    ],
+    [
+     "Infiltrator: suppressed Kasr Warden autogun, knife, cloak",
+     "U"
+    ]
+   ],
+   "enforcer": [
+    [
+     "Fallen commissar: bolt pistol, power sword, carapace greatcoat",
+     "R"
+    ],
+    [
+     "Enforcer: plasma pistol and chainsword",
+     "R"
+    ]
+   ],
+   "bodyguard": [
+    [
+     "Bodyguard: boarding shield and shock maul",
+     "C"
+    ],
+    [
+     "Bodyguard: heavy carapace, combat shotgun and a shield",
+     "U"
+    ],
+    [
+     "Bodyguard: storm shield and power maul",
      "R"
     ]
    ]

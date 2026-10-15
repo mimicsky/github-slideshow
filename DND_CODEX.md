@@ -872,7 +872,9 @@ plus melee backup) or melee (a melee weapon, maybe a sidearm); 16-20 is a
 heavy gunner (one soldier, like Morcant), flamer, demolitions, medic, leader, rogue psyker, breacher, vox/auspex,
 plus assassin (all but traitor soldiers), plasma gunner (raiders, pirates and
 traitors), heavy team (two-man; raiders, pirates and traitors), berserker (all types) and *blessed* (cultists only)), carrying that
-role's kit (1 in 4 also has a melee backup). A **two-man team** (a heavy weapon)
+role's kit (1 in 4 also has a melee backup). How every role tends to act, and its rules
+(brute, icon bearer, enforcer, bodyguard and the rest), is in
+`wh40k_gear/bestiary/roles.md`; tendencies, not scripts. A **two-man team** (a heavy weapon)
 is one specialist roll but two bodies: the gunner and a loader with a lasgun and
 the ammunition; kill the loader and the gun fires every other beat. A **berserker**
 carries a melee weapon and a stock of combat drugs (3-5 doses). They take a dose

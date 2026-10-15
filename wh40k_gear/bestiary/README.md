@@ -11,6 +11,11 @@ gets **+1 on all their rolls**, **armour one step better**, **+3 to their
 better-armed d20**, and half their guns are the team's favoured weapons. Their
 look and tactics are in their entry, and the DM plays them that way.
 
+## [Enemy roles: personalities and tendencies](roles.md)
+
+Every grunt and specialist role, how it tends to think and fight, and its rules.
+The DM decides; these are tendencies.
+
 ## [Cultists](cultists.md)
 
 - [The Moebian 6th](cultists.md#the-moebian-6th) (Nurgle)
