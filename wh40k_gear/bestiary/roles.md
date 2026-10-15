@@ -213,9 +213,10 @@ Shield, armour, and loyalty. **Sticks to the leader; with no leader, guards the 
 **Who has it:** traitor soldiers, traitor elites.
 
 A renegade commissar or the boss's executioner. Watches their own side more than
-the party. **While the enforcer stands, the group doesn't break or surrender**;
-they shoot the first one who runs. Hated by their own men. Kill them and the
-group's nerve may go at once.
+the party. **Stays in cover, mostly at the back.** **While the enforcer stands,
+the group doesn't break or surrender**; they shoot the first one who runs. Hated
+by their own men. **Killing one of their own takes the enforcer's turn, then roll
+a d20 for the group: on 1-4, someone in the group turns and shoots the enforcer.**
 
 ## Icon bearer
 
