@@ -4,6 +4,14 @@ How each enemy role tends to think and fight. **These are tendencies, not script
 the DM decides what any enemy actually does, and a frightened sniper or a clever
 brute is always allowed. Rules in **bold** are the role's mechanics.
 
+**How side notes work: they are add-ons, not replacements.** Each role's main
+entry is how *every* enemy of that role behaves. A side note (for cultists,
+traitor elites, raiders and so on) adds to it for that enemy type. A cultist
+sniper is the basic sniper **plus** the cultist note. Only where a note speaks to
+the same point does it change that one point (the basic sniper moves after two
+shots; a cultist sniper doesn't move); everything else in the main entry still
+applies.
+
 ## Grunt (ranged)
 
 The rank and file. Wants to live through this. Shoots from cover, follows whoever
