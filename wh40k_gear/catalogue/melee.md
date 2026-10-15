@@ -124,6 +124,23 @@ Marine, so a human can use it.
 - The White Scars may want it back, and anyone who knows what it is will ask how
   you got it.
 
+## Fenrisian gift-blade
+
+(player design, epic: an exotic find, natural 20 only; 55 TV; black market, Free
+Traders.) A ceremonial longsword forged in the ice-cold forges of Fenris, made as
+a traditional gift: the Space Wolves give such blades to mortals who earned their
+respect. **Plasteel blade**; **gold and ceramite hilt with a space wolf engraved in
+the middle**; the handle is **wrapped wolf pelt with netting running through it**;
+the **pommel is a jagged mountain peak, gold-plated.** Human-sized.
+- **Longsword:** one hand or two; **+1 to hit two-handed.**
+- **Plasteel blade:** through flak on a solid hit; tough, hard to notch or break.
+- **Pelt and netting grip:** never slips, wet, frozen or bloody: **can't be
+  disarmed.**
+- **Mountain pommel:** a pommel strike at close quarters, **+1 to shove or stun.**
+- **A gift, not loot:** anyone from Fenris, and any Space Wolf, knows what it means.
+  Carried by its rightful owner, it opens doors; taken from a corpse, the Wolves
+  will hunt whoever holds it.
+
 ## Las-fist, 'Kasr Knuckle' pattern
 
 (player design, rare, 40 TV; Mechanicus, Free Traders.) A Guard-pattern power fist
