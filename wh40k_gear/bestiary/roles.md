@@ -269,7 +269,7 @@ first, or more enemies arrive.**
 *Side note: cultist and raider vox/auspex care more about fighting than calling
 in support.*
 
-*Side note: pirate and traitor (soldier and elite) vox/auspex care more about
+*Side note: pirate and traitor soldier vox/auspex care more about
 calling for reinforcements than fighting. Once their team starts fighting, they
 fall back to make the call.*
 
