@@ -30,9 +30,18 @@ to cover far better than the rest.*
 
 ## Sniper
 
-Patient and cold. Picks a high or distant spot, waits for a clear shot, and aims
-for officers, medics, vox men and anyone exposed. Moves after two or three shots.
-Doesn't fight up close: runs or surrenders if reached.
+Patient and cold, and **harder to spot**. Picks a high or distant spot, waits for a
+shot, and aims for the important people on a team and anyone exposed. **Moves after
+two shots.** Doesn't fight up close: runs if rushed, and will most often surrender
+if cornered or reached.
+
+*Side note: cultist snipers stay in one spot no matter how many shots they take,
+shoot anyone they don't particularly care about, won't run, and will take a close
+fight.*
+
+*Side note: traitor elite snipers get **+1 to shooting**, wait longer for a shot,
+move quickly after every shot, play behind their team so they can't be rushed, and
+will run but will take a close fight.*
 
 ## Grenadier
 
