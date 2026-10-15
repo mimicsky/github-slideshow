@@ -121,9 +121,9 @@ burns away near it, and the DM may make the wearer pay something later.
 ## Blessed cultists
 
 (enemy rule, set by the player.) Any cultist, grunt or specialist, can be **blessed
-by their god**. Each cultist rolls a d20 (the enemy roller does it): **20 in book
-1, 19-20 in book 2, 18-20 in book 3**, one more each book. A blessed cultist is
-easy to spot, and the Light should be able to tell what it means:
+by their god**. It comes off the cultist's **role d20**: a **natural 20** means
+blessed, and a **second d20** then decides grunt or specialist as normal. It is not
+scaled by book. A blessed cultist is easy to spot, and the Light should be able to tell what it means:
 
 | God | How to tell | The blessing |
 | --- | --- | --- |

@@ -21,8 +21,8 @@ Better-armed, one open d20 for the group:
 A natural 20 also adds one rare find to the group's loot (DND_CODEX Part 8, Loot).
 Book scaling (campaign sheet, DM threads): better-armed d20 +2 per book after the
 first; specialist role starts 1 lower per book (book 1: 16-20, book 2: 15-20).
-Blessed cultists: each cultist rolls a d20; 20 in book 1, 19-20 in book 2,
-18-20 in book 3 (and so on) means they are BLESSED by their god
+Blessed cultists (not scaled by book): a cultist's role d20 of a natural 20 means
+BLESSED by their god; a second d20 then decides grunt or specialist as normal
 (wh40k_gear/catalogue/heretic.md, Blessed cultists).
 """
 import json, random, sys, os
@@ -48,6 +48,9 @@ print(f"{kind} x{count}, book {book}" + (f", god {god}" if kind == "cultist" els
 lucky = set(random.sample(range(count), better))
 for n in range(count):
     role_d20 = random.randint(1, 20)
+    blessed = kind == "cultist" and role_d20 == 20
+    if blessed:
+        role_d20 = random.randint(1, 20)
     if role_d20 >= 17 - book:
         role = random.choice(list(P["specialists"]))
         kit = pick(P["specialists"][role])
@@ -60,8 +63,6 @@ for n in range(count):
     line = f"{n+1}. {head} | {pick(P['armour'])} | {pick(P['extra'])}"
     if n in lucky:
         line += f"  ** FOUND/MADE: {random.choice(P['found'])[0]}"
-    if kind == "cultist":
-        b = random.randint(1, 20)
-        if b >= 21 - book:
-            line += f"  !! BLESSED by {god} (d20 {b})"
+    if blessed:
+        line = line.replace(f"{n+1}. ", f"{n+1}. !! BLESSED by {god} (natural 20, reroll {role_d20}): ", 1)
     print(line)
