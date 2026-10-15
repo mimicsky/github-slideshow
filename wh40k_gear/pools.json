@@ -1792,6 +1792,13 @@
   "sellers": "MAF"
  },
  {
+  "name": "Adrenaline stimm (+3 Perception, +2 shooting)",
+  "tv": 3,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
   "name": "Concentrated antitoxin (dose)",
   "tv": 4,
   "cat": "gear",

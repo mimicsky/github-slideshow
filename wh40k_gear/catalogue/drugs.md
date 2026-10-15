@@ -9,6 +9,9 @@ lasts. **Concentrated stimm** (rare, 2 TV): one step better while it lasts (Badl
 hurt fights as Hurt) and stabilises someone Down. How long a dose lasts, chaining
 doses and the crash: Codex, Gear rules (Doses).
 
+**Adrenaline stimm** (rare, 3 TV; player design): heightens the senses and the
+trigger finger: **+3 Perception, +2 shooting** while it lasts. Same dose rules.
+
 ## Antitoxin
 
 **Antitoxin** (1 TV): purges early plague or poison. **Concentrated antitoxin**

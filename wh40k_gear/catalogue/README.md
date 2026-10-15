@@ -96,7 +96,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 
 ## [Drugs and servo-skulls](drugs.md)
 
-- [Stimm](drugs.md#stimm)
+- [Stimm](drugs.md#stimm) (and adrenaline stimm)
 - [Antitoxin](drugs.md#antitoxin)
 - [Combat drugs](drugs.md#combat-drugs)
 - [Servo-skull, gun](drugs.md#servo-skull-gun)
