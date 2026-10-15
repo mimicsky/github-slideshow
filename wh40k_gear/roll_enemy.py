@@ -11,6 +11,7 @@ Role, one d20 per enemy (player-set, session 8):
         or MELEE (melee weapon + a sidearm or nothing)
   16-20 specialist: a random role from this type's list (sniper, grenadier,
         heavy, assassin, flamer, demolitions, medic, leader, and so on)
+Specialists carry their role kit, and 1 in 4 also has a melee backup.
 Every enemy also rolls armour and one extra. Gear is weighted
 common 70 / uncommon 25 / rare 5.
 
@@ -62,7 +63,8 @@ for n in range(count):
                 if role == "blessed":
                     role_d20 = 1  # blessed again: a blessed grunt
     if role_d20 >= 17 - book:
-        head = f"SPECIALIST {role.upper()} (d20 {role_d20}): {pick(P['specialists'][role])}"
+        backup = f" | {pick(P['melee'])}" if random.random() < 0.25 else ""  # 25% carry a melee backup
+        head = f"SPECIALIST {role.upper()} (d20 {role_d20}): {pick(P['specialists'][role])}{backup}"
     elif random.random() < 0.5:
         head = f"grunt, ranged (d20 {role_d20}): {pick(P['weapon'])} | {pick(P['melee'])}"
     else:

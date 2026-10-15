@@ -863,7 +863,7 @@ plus melee backup) or melee (a melee weapon, maybe a sidearm); 16-20 is a
 **specialist**, a random role from that enemy type's list (sniper, grenadier,
 heavy, assassin, flamer, demolitions, medic, leader; cultists can roll a rogue
 psyker or *blessed*, raiders and pirates a breacher, pirates a vox/auspex man), carrying that
-role's kit. Every enemy also rolls armour and one extra.  *Blessed* (a cultist marked by their god) is a
+role's kit (1 in 4 also has a melee backup). Every enemy also rolls armour and one extra.  *Blessed* (a cultist marked by their god) is a
 cultist specialist type; see the catalogue, Heretic and cult items. The
 roller takes the book number and scales the rolls by book. Other enemies (Guard deserters, xenos,
 Mechanicus) still follow the fiction until they get pools. **Before the fight**,
