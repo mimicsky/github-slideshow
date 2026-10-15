@@ -287,8 +287,15 @@ party to follow. Protected by the others when possible.
 
 **Who has it:** all five types.
 
-Goes through doors first. Shield up, shotgun ready, straight into the room. Loves
-tight spaces. Out in the open, much less dangerous.
+Goes through doors first. Shields, shotguns, SMGs, always ready; rushes straight
+into the room. Loves tight spaces: **+1 to shooting in close quarters.** Out in
+the open, much less dangerous: **-1 to shooting.**
+
+*Side note: cultist breachers rush with extreme speed (+2 DEX). They only like
+close quarters; out in the open they stay in cover unless you come to them.*
+
+*Side note: traitor soldier and traitor elite breachers pop from cover to cover
+taking pot shots at you, then rush in with melee.*
 
 ## Assassin
 
