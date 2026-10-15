@@ -141,7 +141,7 @@ the **pommel is a jagged mountain peak, gold-plated.** Human-sized.
   Carried by its rightful owner, it opens doors; taken from a corpse, the Wolves
   will hunt whoever holds it.
 
-## Fist huntsman knife
+## The 2nd Fist
 
 (player design, epic: an exotic find, natural 20 only; 30 TV; black market, Free
 Traders.) An Imperial Fists huntsman knife, human-sized: the kind their Scouts
@@ -157,7 +157,7 @@ painted yellow, with a fist at the bottom of the grip.**
 - **Thick blade:** won't snap; works as a pry bar on doors and crates.
 - Yellow and the fist mark it as Imperial Fists gear to anyone who knows.
 
-## Baal trial blade
+## Blood Blade of Baal
 
 (player design, epic: an exotic find, natural 20 only; 45 TV; black market, Free
 Traders.) A Blood Angels short sword made on Baal and used in the chapter's

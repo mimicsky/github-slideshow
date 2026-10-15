@@ -73,8 +73,8 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Astartes power fist](melee.md#astartes-power-fist) (epic)
 - [Neo Scar scimitar](melee.md#neo-scar-scimitar) (epic)
 - [Fenrisian gift-blade](melee.md#fenrisian-gift-blade) (epic)
-- [Fist huntsman knife](melee.md#fist-huntsman-knife) (epic)
-- [Baal trial blade](melee.md#baal-trial-blade) (epic)
+- [The 2nd Fist](melee.md#the-2nd-fist) (epic, Imperial Fists huntsman knife)
+- [Blood Blade of Baal](melee.md#blood-blade-of-baal) (epic, Blood Angels short sword)
 - [Power claw, 'Kasr Talon' pattern](melee.md#power-claw-kasr-talon-pattern) (epic)
 
 ## [Kit, armour, sights and mods](kit.md)
