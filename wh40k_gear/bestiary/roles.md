@@ -202,10 +202,11 @@ Down. Killing them has little effect.*
 
 **Who has it:** all five types.
 
-Shield, armour, and loyalty. **Sticks to the leader; with no leader, guards the
-most valuable specialist** (the witch, the heavy, the vox man). Takes hits meant
-for their charge (**once a beat, can take a hit aimed at the one they guard**).
-Doesn't chase; stays put.
+Shield, armour, and loyalty. **Sticks to the leader; with no leader, guards the most valuable specialist** (the witch, the heavy, the vox man). **Once a beat, can take a hit aimed at the one they guard.** Doesn't chase; stays put.
+
+*Side note: cultist and raider bodyguards throw themselves onto any danger (a bomb, a grenade, a heavy-hitting shot). If the die goes their way, they soak it so their side takes nothing, even if it kills them.*
+
+*Side note: traitor elite bodyguards peel for their team, charge in front for melee, and back up in front of a retreating team. They let the one they guard use them as movable cover, moving with them as they move.*
 
 ## Enforcer
 
