@@ -855,7 +855,7 @@ open; a natural 20 means one of them had something rare that doesn't belong,
 with a story, often damaged or short on ammunition.
 
 **Enemy loot pools (set by the player, Ash on Ostrava session 8).** Cultists,
-raiders and pirates carry gear rolled from their own pools in
+raiders, pirates and traitor soldiers (renegade Guard) carry gear rolled from their own pools in
 [`wh40k_gear/enemies.json`](wh40k_gear/enemies.json) with
 `python3 wh40k_gear/roll_enemy.py TYPE COUNT [BOOK] [GOD]`, weighted to common. **Each enemy
 rolls a role d20 first:** 1-15 is a grunt, a coin flip making them ranged (a gun

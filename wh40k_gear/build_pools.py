@@ -207,6 +207,19 @@ E = {
              ("Melta bomb (stolen)","R"),("Refractor field (salvaged, flickers)","R"),("Plasteel throwing knives, 'Callidus' pattern (set of 6)","R")],
  },
 }
+E["traitor"] = {
+  "weapon": [("Lasgun, Kantrael M36","C"),("Lasgun, Lucius No.98","C"),("Lascarbine, Accatran Mk IV","C"),("Autogun, Agripinaa","C"),
+             ("Infantry autogun, 'Columnus' pattern","U"),("Hellgun, Ryza pattern","U"),("Lasgun, Accatran Mk XIV","U"),("Combat shotgun, semi-auto","U"),
+             ("Hellgun, Accatran (compact)","R"),("Lasgun, 'Kasr Duet' twin-focus pattern","R")],
+  "melee":  [("Bayonet (fixed)","C"),("Combat knife","C"),("Entrenching tool","C"),("Cadian machete","C"),
+             ("Krieg trench shovel (sharpened)","U"),("Chain knife","U"),("Chainsword","U"),("Power knife","R")],
+  "armour": [("Flak armour set","C"),("Flak vest and helmet","C"),("Carapace chest plate","U"),("Carapace armour set","U"),("Storm trooper carapace (looted)","R")],
+  "extra":  [("Nothing","C"),("Frag grenade","C"),("Spare las packs (3)","C"),("Smoke grenade","C"),("Stimm (dose)","U"),
+             ("Krak grenade","U"),("Ration pack and lho","C"),("Defaced regimental insignia","U")],
+  "found":  [("Officer's laspistol","U"),("Bolt pistol, Godwyn-Deaz (officer, few rounds)","R"),("Hot-shot packs (2)","U"),
+             ("Shotgun with the eagle scratched off","U"),("Plasma pistol, Ryza pattern (taken from a dead officer)","R"),("Melta bomb","R"),
+             ("Commissar's power sword (trophy)","R")],
+}
 # Specialist kits (player-set, session 8): rolled on 16-20 on the enemy's role d20.
 # Each role: (main kit, rarity) options; the specialist also rolls armour and an extra.
 SPEC = {
@@ -244,6 +257,17 @@ SPEC = {
   "breacher":    [("Boarding shield + combat shotgun, semi-auto","U"),("Boarding shield + shock maul","U"),("Void-suited boarder: boarding axe + shotgun","C")],
   "vox":         [("Vox-caster + spoof-tag + autopistol","U"),("Auspex + lascarbine","U")],
  },
+}
+SPEC["traitor"] = {
+  "sniper":      [("Long-las, Mezoa + laspistol","U"),("Scoped lasgun + laspistol","C"),("Long-las, Helbore","R")],
+  "grenadier":   [("Grenade launcher + 6 frag, 2 krak rounds","U"),("Bag of 4 frags + 2 kraks + lasgun","C")],
+  "heavy":       [("Heavy stubber + 2 belts (two-man team)","U"),("Heavy bolter, Guard pattern (two-man team)","R"),("Braced autogun, 'Graia' pattern","C")],
+  "plasma gunner": [("Plasma gun, Mars pattern (slow-filled cell) + laspistol","R"),("Meltagun + laspistol","R"),("Hellgun with hot-shot packs","U")],
+  "flamer":      [("Flamer, Ryza pattern + 2 canisters","U"),("Hand flamer + lasgun","U")],
+  "demolitions": [("Demo satchel + detonator + lasgun","U"),("Breaching charges x2 + 2 kraks","U")],
+  "medic":       [("Med-kit + 3 stimms + laspistol","C"),("Med-kit, antitoxin, 2 stimms + lascarbine","U")],
+  "leader":      [("Renegade sergeant: chainsword + laspistol","U"),("Renegade officer: power sword + bolt pistol","R"),("Renegade sergeant: shotgun + combat knife","C")],
+  "vox":         [("Vox-caster + lascarbine (calls in the rest)","U"),("Vox-caster + auspex + laspistol","U")],
 }
 for k in E: E[k]["specialists"] = SPEC[k]
 json.dump(E, open("enemies.json","w"), indent=1)

@@ -1,13 +1,13 @@
 """Roll an enemy group's roles and gear, from enemies.json.
 
 Usage: python3 roll_enemy.py TYPE COUNT [BOOK] [GOD]
-  TYPE:  cultist, raider, pirate
+  TYPE:  cultist, raider, pirate, traitor (renegade Guard)
   COUNT: how many enemies in the group (a named enemy alone: 1)
   BOOK:  which book of the campaign (default 2); difficulty scales by book
   GOD:   cultists only: khorne, nurgle, slaanesh, tzeentch, undivided (default random)
 
 Role, one d20 per enemy (player-set, session 8):
-  1-15  grunt: a coin flip makes them RANGED (main gun + melee backup)
+  1-15  grunt: a coin flip (traitors 75/25) makes them RANGED (main gun + melee backup)
         or MELEE (melee weapon + a sidearm or nothing)
   16-20 specialist: a random role from this type's list (sniper, grenadier,
         heavy, assassin, flamer, demolitions, medic, leader, and so on)
@@ -46,7 +46,8 @@ def pick(rows):
     tier = random.choices(list(w), weights=list(w.values()))[0]
     opts = [r for r in rows if r[1] == tier] or rows
     return random.choice(opts)[0]
-sidearms = [r for r in P["weapon"] if any(x in r[0].lower() for x in ("pistol", "revolver", "stub automatic", "sawn-off"))] or P["weapon"]
+sidearms = [r for r in P["weapon"] if any(x in r[0].lower() for x in ("pistol", "revolver", "stub automatic", "sawn-off"))] or [("Laspistol", "C")]
+ranged_share = 0.75 if kind == "traitor" else 0.5  # soldiers mostly fight with guns
 print(f"{kind} x{count}, book {book}" + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{2*(book-1)} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE FIND (natural 20)" if raw == 20 else ""))
 lucky = set(random.sample(range(count), better))
 for n in range(count):
@@ -65,7 +66,7 @@ for n in range(count):
     if role_d20 >= 17 - book:
         backup = f" | {pick(P['melee'])}" if random.random() < 0.25 else ""  # 25% carry a melee backup
         head = f"SPECIALIST {role.upper()} (d20 {role_d20}): {pick(P['specialists'][role])}{backup}"
-    elif random.random() < 0.5:
+    elif random.random() < ranged_share:
         head = f"grunt, ranged (d20 {role_d20}): {pick(P['weapon'])} | {pick(P['melee'])}"
     else:
         side = pick(sidearms) if random.random() < 0.5 else "no sidearm"
