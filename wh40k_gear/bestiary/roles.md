@@ -93,9 +93,17 @@ ground.*
 
 ## Plasma / melta gunner
 
-Saves the big shot for the big target: armour, a door, the Valkyrie, whoever looks
-most dangerous. Careful about heat; will vent rather than risk it unless
-desperate.
+Looks for a big shot on a **priority target**: armour, a door, a vehicle, whoever
+looks most important or dangerous. Careful about heat; will vent rather than risk
+it unless desperate. **Prone to surrendering if the gun is overheated and they have
+no backup weapon.**
+
+*Side note: cultist plasma gunners don't care about priorities or heat, and won't
+surrender.*
+
+*Side note: traitor soldier plasma gunners are very careful about heat, but get
+careless with it when pressured, and will surrender most of the time when
+overheated, even with a backup weapon.*
 
 ## Flamer
 
