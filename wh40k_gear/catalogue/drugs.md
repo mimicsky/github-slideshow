@@ -9,9 +9,6 @@ lasts. **Concentrated stimm** (rare, 2 TV): one step better while it lasts (Badl
 hurt fights as Hurt) and stabilises someone Down. How long a dose lasts, chaining
 doses and the crash: Codex, Gear rules (Doses).
 
-**Adrenaline stimm** (rare, 3 TV; player design): heightens the senses and the
-trigger finger: **+3 Perception, +2 shooting** while it lasts. Same dose rules.
-
 ## Antitoxin
 
 **Antitoxin** (1 TV): purges early plague or poison. **Concentrated antitoxin**
@@ -22,7 +19,8 @@ trigger finger: **+3 Perception, +2 shooting** while it lasts. Same dose rules.
 **Combat drugs** (uncommon, 1.5 TV a dose; one at a time): **Quicksilver** (+2
 Athletics and moving), **Deadeye** (+2 shooting), **Frenzon** (+2 melee, -2 to
 block or parry while it lasts), **Slaught** (the world slows down: +2 to strike
-first and to dodge, +1 STR). Length, chaining and the crash: Codex,
+first and to dodge, +1 STR), **Adrenaline** (player design; heightened senses:
++4 Perception, +1 shooting). Length, chaining and the crash: Codex,
 Gear rules (Doses). **Backfire:** on taking a dose
 roll a d20; on 1-3 it gives **-2** to the same thing instead. On 4-17 it
 works and ends in a crash; **on 18-20 it works with no crash.**

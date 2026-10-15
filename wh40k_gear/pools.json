@@ -1792,13 +1792,6 @@
   "sellers": "MAF"
  },
  {
-  "name": "Adrenaline stimm (+3 Perception, +2 shooting)",
-  "tv": 3,
-  "cat": "gear",
-  "rarity": "R",
-  "sellers": "MAF"
- },
- {
   "name": "Concentrated antitoxin (dose)",
   "tv": 4,
   "cat": "gear",
@@ -1835,6 +1828,13 @@
  },
  {
   "name": "Combat drug 'Slaught' (reflexes: +2 strike first and dodge, +1 STR)",
+  "tv": 1.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MB"
+ },
+ {
+  "name": "Combat drug 'Adrenaline' (senses: +4 Perception, +1 shooting)",
   "tv": 1.5,
   "cat": "gear",
   "rarity": "U",
