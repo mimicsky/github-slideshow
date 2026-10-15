@@ -134,5 +134,8 @@ cultist is easy to spot, and the Light should be able to tell what it means:
 | **Tzeentch** | Feathers, a beak or claws growing out of them; the number 9 carved all over the skin | **Once per fight, a hit on them simply misses** (fate turns it), and they see the Light coming: no surprise on them |
 | **Undivided** | The eight-pointed star branded across them, glowing faintly | **+1 on all their rolls** for the fight |
 
+**Blessings stack with everything** (role rules, drugs, gear): a blessed
+specialist keeps their full role and adds the blessing on top.
+
 A purity seal gives advantage on any save a blessing forces. Blessed cultists are
 the ones to shoot first, and their bodies are worth showing to the Inquisition.

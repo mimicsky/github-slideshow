@@ -408,3 +408,8 @@ A cultist touched by their god (catalogue, Heretic and cult items, Blessed
 cultists). Fanatical, unafraid, often the one others rally around. Their god's
 blessing shapes how they fight: Khorne charges, Nurgle shrugs off hits,
 Slaanesh duels and manipulates, Tzeentch schemes and plans.
+
+**A blessed specialist keeps their full role and adds the blessing, and
+everything stacks** (player-set): a Khorne berserker gets +2 melee from doses
+and +1 from Khorne, and fights 1 beat after going Down from doses plus 1 from
+Khorne, 2 beats in all.
