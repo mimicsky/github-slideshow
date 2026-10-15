@@ -321,10 +321,15 @@ hiding spots.*
 
 **Who has it:** raiders, traitor soldiers, traitor elites.
 
-**Starts hidden** behind or beside the party, already in position. **Light gear
-and quiet guns only**: silenced pistols, suppressed rifles, knives, cloaks. Stays
-hidden until the moment is best, then ambushes: the wounded, the rearguard, the
-medic. Fades back if spotted.
+**Starts hidden** behind or beside the party, already in position. **Never moves
+with their team; always lags behind it.** If the party spots the team from
+hiding, the infiltrator won't be with them. **Light gear and quiet guns only**:
+silenced pistols, suppressed rifles, knives, cloaks. Stays hidden until the
+moment is best, then **ambushes from the rear**. Fades back if spotted.
+
+*Side note: raider infiltrators carry grenades and ambush the ambushers. If the
+party spots the enemy and sets up an ambush, the infiltrator comes out and hits
+the party first.*
 
 ## Gunslinger
 
