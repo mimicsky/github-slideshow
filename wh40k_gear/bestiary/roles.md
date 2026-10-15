@@ -175,7 +175,8 @@ Patches wounds with stimms (and, for cultists, their god's gifts), and carries
 heretic cures, tonics and charms the Inquisition would burn. **If their side starts
 losing badly, they overdose on every drug they have left and go into a rage:** each
 dose gives +2 in melee and they ignore Hurt, each dose rolls its own backfire, and
-when the rage ends they collapse. Cruel and curious; likes to experiment on
+when the rage ends they collapse. They use whatever they have left; **with no
+doses left, they stay calm** and there's no rage. Cruel and curious; likes to experiment on
 prisoners. **Their bag is loot, and a crime to keep.**
 
 ## Leader
@@ -379,8 +380,7 @@ dose up, then they're drugged out of their mind and want to kill something close
 Charges the nearest target, ignores orders and cover. **Doses: +2 in melee and
 ignores Hurt.** Each time a dose is about to wear off, they take another to keep
 the charge going, as long as they have doses left. **With doses left, keeps
-fighting a beat after going Down.** When the doses run out, there's no crash; they
-just fight on as normal.
+fighting a beat after going Down.**
 
 ## Bomb zealot
 
