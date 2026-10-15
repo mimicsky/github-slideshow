@@ -75,7 +75,11 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 
 ## [Kit, armour, sights and mods](kit.md)
 
+- [Boarding shield](kit.md#boarding-shield)
 - [Arbitrator shield](kit.md#arbitrator-shield)
+- [Storm shield](kit.md#storm-shield)
+- [Slab shield (Ogryn)](kit.md#slab-shield-ogryn)
+- [Improvised shield (a door)](kit.md#improvised-shield-a-door)
 - [Tempestus Scion helmet](kit.md#tempestus-scion-helmet)
 - [Mag belt / bandolier](kit.md#mag-belt--bandolier)
 - [Melee sheath / scabbard](kit.md#melee-sheath--scabbard)

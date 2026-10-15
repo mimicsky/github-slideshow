@@ -2,10 +2,32 @@
 
 Item rules for this category. General rules (heat, hot-shot, drop-prone, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
 
+## Boarding shield
+
+**Boarding shield** (uncommon, 4 TV): a plain slab of plasteel with a grip.
+**+1 to block, half cover from the front.** Shared shield rules: Codex, Gear rules.
+
 ## Arbitrator shield
 
-**Arbitrator shield** (rare, 10 TV): the Adeptus Arbites riot shield. +2 to block,
-portable cover in the open, a firing notch for a pistol.
+**Arbitrator shield** (rare, 10 TV): the Adeptus Arbites riot shield. **+2 to
+block, three-quarters cover from the front**, and a **pistol notch**: fire a
+pistol through it without giving up the cover.
+
+## Storm shield
+
+**Storm shield** (rare, 30 TV): a shield with a power field generator.
+**+3 to block, three-quarters cover from the front.**
+
+## Slab shield (Ogryn)
+
+**Slab shield** (enemy only): Ogryn-sized; no human can carry it in a fight.
+**+3 to block, three-quarters cover from the front** for the Ogryn and one
+person standing behind them.
+
+## Improvised shield (a door)
+
+**A door or hatch** (enemy brutes, or anyone strong enough): **+1 to block, half
+cover from the front.** Breaks after 3 heavy hits.
 
 ## Tempestus Scion helmet
 

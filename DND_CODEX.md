@@ -1025,6 +1025,12 @@ loot, roll a d20: **on 15+, or when the story makes it plain (an armoury, a supp
 dump), it's an ammo crate: four times the amount.** In shops a crate costs 3.5x
 the single price.
 
+**Shields.** A shield takes one hand: only a pistol or a one-handed melee weapon
+in the other. **In melee** its bonus goes on the defender's roll in the exchange
+(a raw 17+ still can't be blocked). **Against shots** it is cover the bearer
+carries, from the front only; shots from the side or behind ignore it. Going Down
+drops it, like anything in hand. Each shield's numbers are in the catalogue (kit).
+
 ### Perils of the Warp
 
 **The Perils trigger.** Any psyker (enemy or the Light) rolls a d20 **once per
