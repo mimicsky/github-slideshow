@@ -123,9 +123,14 @@ turn.*
 
 ## Demolitions
 
-Mines the approach, rigs doors, blows cover out from under the party. Prefers to
-fight before the fight: traps set in advance. Will blow something in a panic
-rather than be taken.
+Mines the approach, rigs doors, blows cover out from under the party. **Their traps
+can be spotted with a Perception check.** Prefers to fight before the fight: traps
+set in advance. Will blow something in a panic rather than be taken. **If surprised
+before they can set up, they're more prone to surrender once they start losing.**
+
+*Side note: cultist demolitions rig the whole area, but their traps are easier to
+spot. They rig themselves too as a last resort: they won't surrender, and will
+run into you and blow themselves up.*
 
 ## Medic
 
