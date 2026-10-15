@@ -14,6 +14,8 @@ applies.
 
 ## Grunt (ranged)
 
+**Who has it:** all five types (a grunt is anyone who rolls 1-14).
+
 The rank and file. Wants to live through this. Shoots from cover, follows whoever
 is shouting orders, ducks when shot at, and is the first to run when the leader
 falls (unless an enforcer is watching). Fights better in numbers; alone, often
@@ -23,6 +25,8 @@ surrenders.
 falls and rarely surrender (fanatics and fallen professionals).*
 
 ## Grunt (melee)
+
+**Who has it:** all five types (a grunt is anyone who rolls 1-14).
 
 The ones who couldn't get a gun, or prefer not to. Rushes when the group rushes,
 hangs back otherwise. Waits behind cover for the enemy to come close, **moves from
@@ -37,6 +41,8 @@ suppress, then rush; they watch for a reload or a vent, find gaps, and jump cove
 to cover far better than the rest.*
 
 ## Sniper
+
+**Who has it:** all five types.
 
 Patient and cold, and **harder to spot**. Picks a high or distant spot, waits for a
 shot, and aims for the important people on a team and anyone exposed. **Moves after
@@ -53,6 +59,8 @@ will run but will take a close fight.*
 
 ## Grenadier
 
+**Who has it:** all five types.
+
 Likes clusters. Thinks in **three ways**: waits for a team to bunch up and lobs into
 the cluster; throws to **flush people out of cover** for the shooters; and goes for
 a target caught in a **cramped space**. Throws into doorways before anyone goes
@@ -63,6 +71,8 @@ they throw even when it puts their own team in danger, and they throw several
 grenades into the same spot.*
 
 ## Heavy gunner
+
+**Who has it:** all five types.
 
 One soldier with a heavy gun. Sets up somewhere solid and hoses the lane the party
 has to cross. **Suppresses: anyone they're firing at takes -2 on their shots.** Slow
@@ -80,6 +90,8 @@ doesn't bother them.*
 
 ## Heavy team
 
+**Who has it:** raiders, pirates, traitor soldiers, traitor elites.
+
 Two people, gunner and loader, on a big gun. Takes a strong position early and holds
 it. **One roll, two bodies: it takes two kills to silence it.** **Kill one and the gun
 fires only every other beat** (the survivor works it alone), and there's a **50%
@@ -92,6 +104,8 @@ survivor always takes cover and fights on with their own gun or one off the
 ground.*
 
 ## Plasma / melta gunner
+
+**Who has it:** raiders, pirates, traitor soldiers, traitor elites.
 
 Looks for a big shot on a **priority target**: armour, a door, a vehicle, whoever
 looks most important or dangerous. Careful about heat; will vent rather than risk
@@ -106,6 +120,8 @@ careless with it when pressured, and will surrender most of the time when
 overheated, even with a backup weapon.*
 
 ## Flamer
+
+**Who has it:** all five types.
 
 Wants to be close and loves close quarters. Clears cover by burning it, and **sprays
 fire over cover to suppress** whoever is behind it. Moves forward behind other
@@ -123,6 +139,8 @@ turn.*
 
 ## Demolitions
 
+**Who has it:** all five types.
+
 Mines the approach, rigs doors, blows cover out from under the party. **Their traps
 can be spotted with a Perception check.** Prefers to fight before the fight: traps
 set in advance. Will blow something in a panic rather than be taken. **If surprised
@@ -133,6 +151,8 @@ spot. They rig themselves too as a last resort: they won't surrender, and will
 run into you and blow themselves up.*
 
 ## Medic
+
+**Who has it:** all five types.
 
 Stays behind the line and drags the wounded back. **Patches one ally a turn: moves
 them back one health state, once per person** (Down to Hurt, Hurt to Fine); **can't
@@ -147,6 +167,8 @@ someone who's Down.*
 
 ## Chem-doctor
 
+**Who has it:** cultists, raiders, pirates.
+
 The medic's ugly cousin. **Doses allies with combat drugs at the start of the fight
 and again mid-fight** (+2 to one ally for the fight, with the usual backfire).
 Patches wounds with stimms (and, for cultists, their god's gifts), and carries
@@ -158,12 +180,16 @@ prisoners. **Their bag is loot, and a crime to keep.**
 
 ## Leader
 
+**Who has it:** all five types.
+
 The voice of the group: preacher, boss, captain, sergeant or officer. Stays where
 they can see and be heard, gives orders, and keeps the rest fighting. Usually
 fights hard when cornered. **Kill or silence them and the rest waver** (grunts may
 run or surrender).
 
 ## Bodyguard
+
+**Who has it:** all five types.
 
 Shield, armour, and loyalty. **Sticks to the leader; with no leader, guards the
 most valuable specialist** (the witch, the heavy, the vox man). Takes hits meant
@@ -172,6 +198,8 @@ Doesn't chase; stays put.
 
 ## Enforcer
 
+**Who has it:** traitor soldiers, traitor elites.
+
 A renegade commissar or the boss's executioner. Watches their own side more than
 the party. **While the enforcer stands, the group doesn't break or surrender**;
 they shoot the first one who runs. Hated by their own men. Kill them and the
@@ -179,11 +207,15 @@ group's nerve may go at once.
 
 ## Icon bearer
 
+**Who has it:** all five types.
+
 Carries the banner, idol or colours. Stays near the middle where it can be seen.
 **Allies within sight of the icon get +1.** Fanatical about it; won't drop it
 willingly. **Kill the bearer or take the icon, and the group wavers.**
 
 ## Rogue psyker
+
+**Who has it:** all five types.
 
 Unsanctioned and dangerous, mostly to themselves. Uses powers when they feel safe
 or desperate. **Perils 1-3 each beat a power is used.** Other enemies keep their
@@ -191,10 +223,14 @@ distance. Often the first to be shot by their own side if things go wrong.
 
 ## Vox / auspex
 
+**Who has it:** all five types.
+
 The eyes and ears. Calls in help, warns the others, tracks the party through walls
 with the auspex. Hangs back. **Kill them first, or more enemies arrive.**
 
 ## Tech-adept / heretek
+
+**Who has it:** all five types.
 
 Fixes things mid-fight: clears jams, restarts a dead turret, re-arms a mine. Sets
 up a scrap auto-turret or locks a door the party needs. A heretek may jam the
@@ -202,15 +238,21 @@ party's vox. Not a fighter; protected by the others when possible.
 
 ## Breacher
 
+**Who has it:** all five types.
+
 Goes through doors first. Shield up, shotgun ready, straight into the room. Loves
 tight spaces. Out in the open, much less dangerous.
 
 ## Assassin
 
+**Who has it:** cultists, raiders, pirates, traitor elites.
+
 Patient, quiet, picks one target and waits. Goes for the leader, the medic or the
 best fighter. Uses poison and silence. Avoids a fair fight.
 
 ## Infiltrator
+
+**Who has it:** raiders, traitor soldiers, traitor elites.
 
 **Starts hidden** behind or beside the party, already in position. **Light gear
 and quiet guns only**: silenced pistols, suppressed rifles, knives, cloaks. Stays
@@ -219,6 +261,8 @@ medic. Fades back if spotted.
 
 ## Gunslinger
 
+**Who has it:** raiders, pirates.
+
 Cocky, flashy and very good. **Rolls 50/50 for two pistols or one good gun.**
 **+3 on shooting.** **Seeks a one-on-one with the party's best shooter**, even if
 it costs their team: calls them out, steps into the open to duel. Talks the whole
@@ -226,11 +270,15 @@ time. Pride is their weakness: they can be baited.
 
 ## Brute / mutant
 
+**Who has it:** cultists, raiders, traitor soldiers, traitor elites.
+
 Huge: a mutant, a renegade Ogryn, a penal monster. **Takes three times the hits to
 drop.** Slow-witted, straightforward: walks at the nearest enemy and hits them.
 Smashes cover. Can be led into traps, and sometimes ignores orders.
 
 ## Beast handler
+
+**Who has it:** all five types.
 
 Comes with **2-3 beasts** (hounds, mutant dogs, cyber-mastiffs, warp-hounds) that
 fight on their own. Sends them first to run the party down and pin the wounded.
@@ -238,11 +286,15 @@ Kill the handler and the beasts may scatter, or go wild.
 
 ## Berserker
 
+**Who has it:** all five types.
+
 Drugged out of their mind and wants to kill something close. Charges the nearest
 target, ignores orders and cover. **Doses: +2 in melee and ignores Hurt; with
 doses left, keeps fighting a beat after going Down.**
 
 ## Bomb zealot
+
+**Who has it:** cultists.
 
 A cultist who wants to die well. Runs straight at the party (or a vehicle, or a
 door) with explosives strapped on. **If they reach their target, they go off.**
@@ -250,6 +302,8 @@ Shoot them before they arrive; a solid hit on the charges may set them off early
 where they stand.
 
 ## Blessed
+
+**Who has it:** cultists only.
 
 A cultist touched by their god (catalogue, Heretic and cult items, Blessed
 cultists). Fanatical, unafraid, often the one others rally around. Their god's
