@@ -269,6 +269,43 @@ SPEC["traitor"] = {
   "leader":      [("Renegade sergeant: chainsword + laspistol","U"),("Renegade officer: power sword + bolt pistol","R"),("Renegade sergeant: shotgun + combat knife","C")],
   "vox":         [("Vox-caster + lascarbine (calls in the rest)","U"),("Vox-caster + auspex + laspistol","U")],
 }
+# Shared roles added (player-set): rogue psyker, breacher, vox/auspex for every type;
+# plasma gunner for raiders and pirates too.
+PSY = [("Rogue psyker: crude staff + knife (unsanctioned; basic warp powers, Perils 1-3 a beat)","C"),("Rogue psyker with a stolen force staff (stronger powers, Perils 1-3 a beat)","R")]
+BREACH = [("Boarding shield + sawn-off shotgun","U"),("Combat shotgun, semi-auto + shock baton","U"),("Breaching charge + pump shotgun","C")]
+VOX = [("Vox-caster + autopistol (calls in the rest)","U"),("Auspex + lascarbine (sees through walls)","U")]
+PLASMA = [("Plasma pistol, Ryza pattern (slow-filled cell) + autopistol","R"),("Plasma gun, Mars pattern (stolen, rushed cell)","R"),("Hot-shot hellgun","U")]
+for k in ("raider","pirate","traitor"): SPEC[k].setdefault("psyker", PSY)
+for k in ("cultist","traitor"): SPEC[k].setdefault("breacher", BREACH)
+for k in ("cultist","raider"): SPEC[k].setdefault("vox", VOX)
+for k in ("raider","pirate"): SPEC[k].setdefault("plasma gunner", PLASMA)
+# Traitor elites: traitor storm troopers, renegade Inquisition kill-teams. Rolled with
+# the elite weights (common 25 / uncommon 50 / rare 25) every time.
+E["traitor_elite"] = {
+  "weights": {"C": 25, "U": 50, "R": 25},
+  "weapon": [("Hellgun, Ryza pattern","C"),("Hellgun, Accatran (compact)","C"),("Hot-shot volley gun","U"),("Lasgun, 'Kasr Duet' twin-focus pattern","U"),
+             ("Boltgun, Godwyn pattern","R"),("Plasma gun, Mars pattern","R"),("Combat shotgun, 'Kasr Sweeper' duckbill pattern","U")],
+  "melee":  [("Combat knife","C"),("Chain knife","C"),("Chainsword","U"),("Shock maul","U"),("Power knife","U"),("Power sword","R")],
+  "armour": [("Storm trooper carapace","C"),("Storm trooper carapace and Scion-pattern helmet","U"),("Storm trooper carapace with a refractor field","R")],
+  "extra":  [("Frag and krak grenades","C"),("Hot-shot packs (3)","C"),("Photon flash grenade","U"),("Stimm and med-kit","U"),
+             ("Melta bomb","R"),("Grav-chute","U"),("Ordo seal (forged or stolen)","R")],
+  "found":  [("Hellpistol","U"),("Bolt pistol with a full magazine","U"),("Inferno pistol","R"),("Refractor field","R"),
+             ("Psy-ward amulet (stolen from the Ordo)","R"),("Power fist, Guard pattern","R")],
+}
+SPEC["traitor_elite"] = {
+  "sniper":      [("Long-las, Helbore + hellpistol","U"),("Hot-shot long-las with range-finder","R")],
+  "grenadier":   [("Grenade launcher with krak and frag + hellgun","U"),("Melta bombs x2 + hellgun","R")],
+  "heavy":       [("Heavy bolter (two-man team)","U"),("Multi-laser, man-portable","U"),("Lascannon, man-portable (two-man team)","R")],
+  "plasma gunner": [("Plasma gun, Mars pattern (proper cell) + hellpistol","U"),("Meltagun + hellpistol","U")],
+  "flamer":      [("Heavy flamer","U"),("Flamer + hand flamer","U")],
+  "demolitions": [("Demo satchels x2 + detonator","U"),("Breaching charges x3 + melta bomb","R")],
+  "medic":       [("Medicae kit, concentrated stimms + hellpistol","U")],
+  "leader":      [("Renegade storm-trooper captain: power sword + plasma pistol","R"),("Renegade Interrogator: bolt pistol + power sword + forged rosette","R"),("Sergeant: chainsword + hellpistol","U")],
+  "vox":         [("Vox-caster + auspex + hellgun","U")],
+  "breacher":    [("Storm shield + bolt pistol","R"),("Boarding shield + duckbill shotgun","U")],
+  "psyker":      [("Renegade sanctioned psyker: force staff + laspistol","R")],
+  "assassin":    [("Silenced hellpistol + mono-knife","U"),("Needle rifle + power knife","R")],
+}
 for k in E: E[k]["specialists"] = SPEC[k]
 json.dump(E, open("enemies.json","w"), indent=1)
 print(len(E), "enemy pools")

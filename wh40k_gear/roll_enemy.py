@@ -1,7 +1,8 @@
 """Roll an enemy group's roles and gear, from enemies.json.
 
 Usage: python3 roll_enemy.py TYPE COUNT [BOOK] [GOD]
-  TYPE:  cultist, raider, pirate, traitor (renegade Guard)
+  TYPE:  cultist, raider, pirate, traitor (renegade Guard), traitor_elite
+         (traitor storm troopers, renegade Inquisition teams: always elite weights)
   COUNT: how many enemies in the group (a named enemy alone: 1)
   BOOK:  which book of the campaign (default 2); difficulty scales by book
   GOD:   cultists only: khorne, nurgle, slaanesh, tzeentch, undivided (default random)
@@ -41,13 +42,13 @@ d20 = min(20, raw + 2 * (book - 1))
 elite = d20 >= 19
 better = 0 if d20 < 10 else 1 if d20 < 12 else 2 if d20 < 14 else 3 if d20 < 16 else 4 if d20 < 19 else count
 better = min(better, count)
-w = {"C": 25, "U": 50, "R": 25} if elite else {"C": 70, "U": 25, "R": 5}
+w = {"C": 25, "U": 50, "R": 25} if elite else P.get("weights", {"C": 70, "U": 25, "R": 5})
 def pick(rows):
     tier = random.choices(list(w), weights=list(w.values()))[0]
     opts = [r for r in rows if r[1] == tier] or rows
     return random.choice(opts)[0]
-sidearms = [r for r in P["weapon"] if any(x in r[0].lower() for x in ("pistol", "revolver", "stub automatic", "sawn-off"))] or [("Laspistol", "C")]
-ranged_share = 0.75 if kind == "traitor" else 0.5  # soldiers mostly fight with guns
+sidearms = [r for r in P["weapon"] if any(x in r[0].lower() for x in ("pistol", "revolver", "stub automatic", "sawn-off"))] or [("Hellpistol" if kind == "traitor_elite" else "Laspistol", "C")]
+ranged_share = 0.75 if kind.startswith("traitor") else 0.5  # soldiers mostly fight with guns
 print(f"{kind} x{count}, book {book}" + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{2*(book-1)} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE FIND (natural 20)" if raw == 20 else ""))
 lucky = set(random.sample(range(count), better))
 for n in range(count):
@@ -65,7 +66,10 @@ for n in range(count):
                     role_d20 = 1  # blessed again: a blessed grunt
     if role_d20 >= 17 - book:
         backup = f" | {pick(P['melee'])}" if random.random() < 0.25 else ""  # 25% carry a melee backup
-        head = f"SPECIALIST {role.upper()} (d20 {role_d20}): {pick(P['specialists'][role])}{backup}"
+        kit = pick(P['specialists'][role])
+        if "two-man team" in kit:
+            kit += " [counts as two: gunner + loader with a lasgun and the ammo]"
+        head = f"SPECIALIST {role.upper()} (d20 {role_d20}): {kit}{backup}"
     elif random.random() < ranged_share:
         head = f"grunt, ranged (d20 {role_d20}): {pick(P['weapon'])} | {pick(P['melee'])}"
     else:
