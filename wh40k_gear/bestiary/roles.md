@@ -240,8 +240,18 @@ their basic grunts, melee and ranged, charge.*
 **Who has it:** all five types.
 
 Unsanctioned and dangerous, mostly to themselves. Uses powers when they feel safe
-or desperate. **Perils 1-3 each beat a power is used.** Other enemies keep their
-distance. Often the first to be shot by their own side if things go wrong.
+or desperate. **Perils 1-4 each beat a power is used** (see the perils table).
+Other enemies keep their distance. Their own team sees them as the most dangerous
+thing on the field, to them and to the enemy.
+
+*Side note: cultist psykers are blessed by their god with special powers. Their
+powers hit harder (+2 to power attacks), but the warp gets in easier: **Perils
+1-6**. Their own side never shoots them, no matter what; that would disgrace
+their god.*
+
+*Side note: pirate and raider psykers are ruthless. They push the warp harder and
+harder and don't care what it does to them. If they're pressured too much or
+their team starts to lose, they panic and push it more: -1 to their Perils rolls.*
 
 ## Vox / auspex
 
