@@ -56,6 +56,13 @@ add("bolt","R","B",[("Bolt pistol, rebored (unstable)",8)])
 # X = epic/exotic (natural-20 only); L = legendary (natural 20, then a second d20 of 18-20).
 add("bolt","X","BF",[("Astartes bolt carbine (Space Marine; human: braced only, -4)",55),("Astartes bolt rifle (Space Marine; human: braced only, -4)",60),("Astartes auto bolt rifle (Space Marine; human: braced only, -4)",65)])
 add("bolt","L","BF",[("Astartes heavy bolt rifle (Space Marine; human: braced only, -4)",90),("Astartes heavy bolter (Space Marine; human: mounted only, -4)",120)])
+# Officio Assassinorum gear (player-set: all epic or legendary). Rules: catalogue/assassinorum.md.
+add("stub","X","BF",[("Exitus pistol (Vindicare; silent, +1; may self-destruct when first picked up)",60),("Exitus rounds: shield-breaker (each)",10),("Exitus rounds: turbo-penetrator (each)",10),("Exitus rounds: hellfire (each)",10)])
+add("stub","L","BF",[("Exitus rifle (Vindicare; +3 aimed, no range or weather penalty)",150),("Neural shredder (Callidus; 10 m cone, CON save or two health steps)",180),("Executioner pistol (Eversor; bolt pistol + toxin needler)",150),("Needlespine blaster (Adamus; silent, +2 at range, toxin)",140)])
+add("melee","X","BF",[("Poison blades, concealed (Callidus; toxin, hidden on a search)",50)])
+add("melee","L","BF",[("Phase sword (Callidus; C'tan blade, ignores armour and shields)",200),("Neuro gauntlet (Eversor; stun + CON save or two health steps)",160),("Nemesii blade (Adamus; +2 strike first and parry)",150)])
+add("explosive","X","BF",[("Psyk-out grenade (Culexus; no powers for 2 turns in the burst)",20)])
+add("gear","L","BF",[("Animus speculum (Culexus; pariah only)",250),("Venenum toxin kit (injectors and poison globes)",120)])
 # --- Plasma / melta / flame ---
 add("plasma","R","MAF",[("Plasma pistol, Ryza pattern",25),("Plasma gun, Mars pattern",30),("Plasma gun, Ryza pattern",32)])
 add("plasma","U","MAF",[("Plasma cell",6)])

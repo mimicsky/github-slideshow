@@ -511,6 +511,111 @@
   "sellers": "BF"
  },
  {
+  "name": "Exitus pistol (Vindicare; silent, +1; may self-destruct when first picked up)",
+  "tv": 60,
+  "cat": "stub",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Exitus rounds: shield-breaker (each)",
+  "tv": 10,
+  "cat": "stub",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Exitus rounds: turbo-penetrator (each)",
+  "tv": 10,
+  "cat": "stub",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Exitus rounds: hellfire (each)",
+  "tv": 10,
+  "cat": "stub",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Exitus rifle (Vindicare; +3 aimed, no range or weather penalty)",
+  "tv": 150,
+  "cat": "stub",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Neural shredder (Callidus; 10 m cone, CON save or two health steps)",
+  "tv": 180,
+  "cat": "stub",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Executioner pistol (Eversor; bolt pistol + toxin needler)",
+  "tv": 150,
+  "cat": "stub",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Needlespine blaster (Adamus; silent, +2 at range, toxin)",
+  "tv": 140,
+  "cat": "stub",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Poison blades, concealed (Callidus; toxin, hidden on a search)",
+  "tv": 50,
+  "cat": "melee",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Phase sword (Callidus; C'tan blade, ignores armour and shields)",
+  "tv": 200,
+  "cat": "melee",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Neuro gauntlet (Eversor; stun + CON save or two health steps)",
+  "tv": 160,
+  "cat": "melee",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Nemesii blade (Adamus; +2 strike first and parry)",
+  "tv": 150,
+  "cat": "melee",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Psyk-out grenade (Culexus; no powers for 2 turns in the burst)",
+  "tv": 20,
+  "cat": "explosive",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Animus speculum (Culexus; pariah only)",
+  "tv": 250,
+  "cat": "gear",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Venenum toxin kit (injectors and poison globes)",
+  "tv": 120,
+  "cat": "gear",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
   "name": "Plasma pistol, Ryza pattern",
   "tv": 25,
   "cat": "plasma",

@@ -115,6 +115,22 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Chaos ward-mark](heretic.md#chaos-ward-mark)
 - [Blessed cultists](heretic.md#blessed-cultists) (enemy rule)
 
+## [Officio Assassinorum gear](assassinorum.md) (all epic or legendary)
+
+- [Exitus rifle](assassinorum.md#vindicare-temple-exitus-rifle) (legendary)
+- [Exitus pistol](assassinorum.md#vindicare-temple-exitus-pistol) (epic)
+- [Exitus rounds](assassinorum.md#vindicare-temple-exitus-rounds) (epic)
+- [Phase sword](assassinorum.md#callidus-temple-phase-sword) (legendary)
+- [Poison blades](assassinorum.md#callidus-temple-poison-blades) (epic)
+- [Neural shredder](assassinorum.md#callidus-temple-neural-shredder) (legendary)
+- [Executioner pistol](assassinorum.md#eversor-temple-executioner-pistol) (legendary)
+- [Neuro gauntlet](assassinorum.md#eversor-temple-neuro-gauntlet) (legendary)
+- [Animus speculum](assassinorum.md#culexus-temple-animus-speculum) (legendary)
+- [Psyk-out grenades](assassinorum.md#culexus-temple-psyk-out-grenades) (epic)
+- [Needlespine blaster](assassinorum.md#adamus-temple-needlespine-blaster) (legendary)
+- [Nemesii blade](assassinorum.md#adamus-temple-nemesii-blade) (legendary)
+- [Venenum toxin kit](assassinorum.md#venenum-temple-toxin-injectors-and-poison-globes) (legendary)
+
 ## [Heavy and vehicle weapons](heavy.md)
 
 - [Valkyrie bolt-rocket pods, pair](heavy.md#valkyrie-bolt-rocket-pods-pair)
