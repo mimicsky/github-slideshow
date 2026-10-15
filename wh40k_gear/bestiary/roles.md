@@ -374,9 +374,13 @@ Killing the handler has no effect on them.*
 
 **Who has it:** all five types.
 
-Drugged out of their mind and wants to kill something close. Charges the nearest
-target, ignores orders and cover. **Doses: +2 in melee and ignores Hurt; with
-doses left, keeps fighting a beat after going Down.**
+**Starts the fight normal.** Once they make contact, they get behind cover and
+dose up, then they're drugged out of their mind and want to kill something close.
+Charges the nearest target, ignores orders and cover. **Doses: +2 in melee and
+ignores Hurt.** Each time a dose is about to wear off, they take another to keep
+the charge going, as long as they have doses left. **With doses left, keeps
+fighting a beat after going Down.** When the doses run out, there's no crash; they
+just fight on as normal.
 
 ## Bomb zealot
 
