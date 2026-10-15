@@ -1,7 +1,7 @@
 # Traitor elite special teams
 
 Fallen companies of the Imperium's most famous regiments: rolled as a traitor
-elite special team (2d20 35+). The regiments are loyal; these companies broke.
+elite special team (2d20 33+). The regiments are loyal; these companies broke.
 
 ## The Lost 88th Cadian (fallen company)
 

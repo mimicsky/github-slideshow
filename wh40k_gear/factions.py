@@ -1,4 +1,4 @@
-# Named special teams (player-set, session 8). Rolled by roll_enemy.py on 2d20 of 35+.
+# Named special teams (player-set, session 8). Rolled by roll_enemy.py on 2d20 of 33+.
 # type: which enemy pool they use. god: cultists only. favoured: their usual guns.
 F = [
  # Cultists (by god)

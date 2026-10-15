@@ -5,8 +5,8 @@ when it shows up.
 
 **How enemies are rolled** (`../roll_enemy.py TYPE COUNT [BOOK] [GOD]`): every group
 is one of five **basic types** (cultists, raiders, pirates, traitor soldiers,
-traitor elites). Before the fight, **2d20 added**: **2-34** a basic group, **35-40** a
-**named special team** of that type (below), about 1 fight in 19. A special team
+traitor elites). Before the fight, **2d20 added**: **2-32** a basic group, **33-40** a
+**named special team** of that type (below), about 1 fight in 11. A special team
 gets **+1 on all their rolls**, **armour one step better**, **+8 to their
 better-armed d20**, and half their guns are the team's favoured weapons. Their
 look and tactics are in their entry, and the DM plays them that way.
