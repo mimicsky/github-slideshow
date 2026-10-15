@@ -1820,6 +1820,13 @@
   "sellers": "MB"
  },
  {
+  "name": "Combat drug 'Slaught' (reflexes: +2 strike first and dodge, +1 STR)",
+  "tv": 1.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MB"
+ },
+ {
   "name": "Servo-skull, gun (built-in laspistol)",
   "tv": 30,
   "cat": "gear",

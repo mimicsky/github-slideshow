@@ -18,7 +18,8 @@ doses and the crash: Codex, Gear rules (Doses).
 
 **Combat drugs** (uncommon, 1.5 TV a dose; one at a time): **Quicksilver** (+2
 Athletics and moving), **Deadeye** (+2 shooting), **Frenzon** (+2 melee, -2 to
-block or parry while it lasts). Length, chaining and the crash: Codex,
+block or parry while it lasts), **Slaught** (the world slows down: +2 to strike
+first and to dodge, +1 STR). Length, chaining and the crash: Codex,
 Gear rules (Doses). **Backfire:** on taking a dose
 roll a d20; on 1-3 it gives **-2** to the same thing instead. On 4-17 it
 works and ends in a crash; **on 18-20 it works with no crash.**
