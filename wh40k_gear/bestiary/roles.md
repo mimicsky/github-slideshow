@@ -344,9 +344,11 @@ time. Pride is their weakness: they can be baited.
 
 **Who has it:** cultists, raiders, traitor soldiers, traitor elites.
 
-Huge: a mutant, a renegade Ogryn, a penal monster. **Takes three times the hits to
-drop.** Slow-witted, straightforward: walks at the nearest enemy and hits them.
-Smashes cover. Can be led into traps, and sometimes ignores orders.
+Huge: a mutant, a renegade Ogryn, a penal monster. **Takes 2 more hits than a
+normal person before going Down** (two extra health steps). Slow-witted and
+straightforward: walks at the nearest enemy and hits them. **Can throw big
+objects or smash cover; either takes a beat.** Dumb: can be led into traps, and
+sometimes ignores orders.
 
 ## Beast handler
 
