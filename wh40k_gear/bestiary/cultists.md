@@ -1,6 +1,6 @@
 # Cult special teams
 
-Named cult forces, rolled as a cultist special team (2d20 31+). Each follows one
+Named cult forces, rolled as a cultist special team (2d20 35+). Each follows one
 god; blessed members show that god's marks (catalogue, Blessed cultists).
 
 ## The Moebian 6th

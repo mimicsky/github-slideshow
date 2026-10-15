@@ -1,6 +1,6 @@
 # Pirate special teams
 
-Named void-pirate crews, rolled as a pirate special team (2d20 31+).
+Named void-pirate crews, rolled as a pirate special team (2d20 35+).
 
 ## Renegade Privateers
 
