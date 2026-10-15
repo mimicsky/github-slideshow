@@ -261,8 +261,8 @@ Carries a vox, an auspex, or both: the eyes and ears. Calls in help, warns the
 others, stays behind cover more, and only fights when they need to. **Kill them
 first, or more enemies arrive.**
 
-- **Vox:** can hack into the party's comms and listen in. If the party talks on
-  comms before the fight, the enemy may already know.
+- **Vox:** can hack into the party's comms and listen in, but can't cut them off.
+  If the party talks on comms before the fight, the enemy may already know.
 - **Auspex:** the group **can't be ambushed** while they're on the team. Once the
   action starts, they fight as normal.
 
@@ -278,8 +278,10 @@ fall back to make the call.*
 **Who has it:** all five types.
 
 Fixes things mid-fight: clears jams, restarts a dead turret, re-arms a mine. Sets
-up a scrap auto-turret or locks a door the party needs. A heretek may jam the
-party's vox. Not a fighter; protected by the others when possible.
+up an auto-turret or locks a door the party needs. **Each of these costs 1 beat.**
+A heretek may **jam the party's vox, making it unusable** (they cut it off but
+learn nothing from it). When their own side retreats, they make it harder for the
+party to follow. Protected by the others when possible.
 
 ## Breacher
 
