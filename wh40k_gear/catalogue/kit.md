@@ -46,7 +46,8 @@ shield's cover.** (The Arbitrator shield's pistol notch already does this.)
 
 **Spikes** (uncommon, 2 TV; player design): spikes fixed to the shield's face,
 crude on a makeshift shield, smith-made on a forged one. **The bearer can charge
-into someone shield-first, and gets +3 in melee when attacking with the shield.**
+into someone shield-first: +3 on the charge, then +1 in melee when attacking
+with the shield after that.**
 
 ## Improvised shield (a door)
 

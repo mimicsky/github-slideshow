@@ -1372,7 +1372,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Shield spikes (charge shield-first; +3 melee with the shield)",
+  "name": "Shield spikes (charge shield-first: +3 on the charge, +1 shield melee after)",
   "tv": 2,
   "cat": "mod",
   "rarity": "U",
