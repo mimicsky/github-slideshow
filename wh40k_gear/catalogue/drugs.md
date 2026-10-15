@@ -60,6 +60,18 @@ otherwise. Player-approved, session 8.
 | **Glanding** | rare, 20 TV, needs an augmetic surgeon | An implanted gland, no doses: once a fight, trigger any one combat drug's effect for 2 turns |
 | **Blood-stimm** | Khorne cults only | +3 melee; can't shoot or retreat; must attack the nearest body, friend or foe |
 
+## Cult and heretic drugs
+
+Enemy chem-doc kits only. **Crimes to carry**: the Inquisition burns them. Same
+dose rules (Codex, Gear rules: Doses) unless said otherwise.
+
+| Drug | Who carries it | What it does |
+| --- | --- | --- |
+| **Rot-stimm** | Nurgle cultists | Works like a stimm, but the user ignores Hurt *and* Badly hurt. Anyone not marked by Nurgle who takes one makes a CON save or catches sickness |
+| **The god's "medicine"** | Cultists | Heals one health step. Anyone outside the cult makes a WIS save or hears the god for a day |
+| **Forbidden tonic** | Raiders | Heals one health step and gives +1 to all rolls while it lasts. The crash is straight to Down |
+| **Heretic cure-all** | Pirates | Cures poison or sickness. d20: on 1-5 it's poison instead (drop a health step) |
+
 ## Servo-skull, gun
 
 **Servo-skull, gun** (rare, 30 TV): hovering skull with a laspistol; one shot a
