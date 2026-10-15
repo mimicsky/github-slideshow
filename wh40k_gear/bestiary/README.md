@@ -7,7 +7,7 @@ when it shows up.
 is one of five **basic types** (cultists, raiders, pirates, traitor soldiers,
 traitor elites). Before the fight, **2d20 added**: **2-30** a basic group, **31-40** a
 **named special team** of that type (below), about 1 fight in 7. A special team
-gets **+1 on all their rolls**, **armour one step better**, **+8 to their
+gets **+1 on all their rolls**, **armour one step better**, **+3 to their
 better-armed d20**, and half their guns are the team's favoured weapons. Their
 look and tactics are in their entry, and the DM plays them that way.
 

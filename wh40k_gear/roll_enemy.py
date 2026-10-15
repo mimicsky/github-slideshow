@@ -30,7 +30,7 @@ second time makes them a blessed grunt
 (wh40k_gear/catalogue/heretic.md, Blessed cultists).
 Special teams (player-set): before the fight, 2d20 added; 31-40 means the group is
 a named special team of this type (factions.py; bestiary/): +1 on all their rolls,
-armour one step better, +8 to the better-armed d20, and half their guns are the
+armour one step better, +3 to the better-armed d20, and half their guns are the
 team's favoured weapons. Their look and tactics are in the bestiary.
 """
 import json, random, sys, os
@@ -50,7 +50,7 @@ if team_roll >= 31:
     team = random.choice(opts)
     if team.get("god"): god = team["god"]
 raw = random.randint(1, 20)
-d20 = min(20, raw + 2 * (book - 1) + (8 if team else 0))
+d20 = min(20, raw + 2 * (book - 1) + (3 if team else 0))
 elite = raw >= 19  # only the natural die makes an elite team; bonuses never do
 better = 0 if d20 < 9 else 1 if d20 < 11 else 2 if d20 < 13 else 3 if d20 < 15 else 4
 if elite: better = count
@@ -62,8 +62,8 @@ def pick(rows):
     return random.choice(opts)[0]
 sidearms = [r for r in P["weapon"] if any(x in r[0].lower() for x in ("pistol", "revolver", "stub automatic", "sawn-off"))] or [("Hellpistol" if kind == "traitor_elite" else "Laspistol", "C")]
 ranged_share = 0.75 if kind.startswith("traitor") else 0.5  # soldiers mostly fight with guns
-print(f"SPECIAL TEAM: {team['name']} (2d20 {team_roll}): +1 on all rolls, armour one step better, +8 better-armed" if team else f"(2d20 {team_roll}: a basic group)")
-print(f"{kind} x{count}, book {book}" + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{2*(book-1) + (8 if team else 0)} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE FIND (natural 20)" if raw == 20 else ""))
+print(f"SPECIAL TEAM: {team['name']} (2d20 {team_roll}): +1 on all rolls, armour one step better, +3 better-armed" if team else f"(2d20 {team_roll}: a basic group)")
+print(f"{kind} x{count}, book {book}" + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{2*(book-1) + (3 if team else 0)} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE FIND (natural 20)" if raw == 20 else ""))
 lucky = set(random.sample(range(count), better))
 for n in range(count):
     role_d20 = random.randint(1, 20)
