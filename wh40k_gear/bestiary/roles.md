@@ -240,7 +240,7 @@ their basic grunts, melee and ranged, charge.*
 **Who has it:** all five types.
 
 Unsanctioned and dangerous, mostly to themselves. Uses powers when they feel safe
-or desperate. **Perils 1-4 each beat a power is used** (see the perils table).
+or desperate. **Perils 1-4 each beat a power is used** (see the Perils table in the Codex, Gear rules).
 Other enemies keep their distance. Their own team sees them as the most dangerous
 thing on the field, to them and to the enemy.
 

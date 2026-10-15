@@ -1025,6 +1025,22 @@ loot, roll a d20: **on 15+, or when the story makes it plain (an armoury, a supp
 dump), it's an ammo crate: four times the amount.** In shops a crate costs 3.5x
 the single price.
 
+### Perils of the Warp
+
+Any psyker (enemy or the Light) who uses a power rolls a d20 for **Perils**. The
+range that triggers it is set by the item or role (a witch's staff 1-3, a rogue
+psyker 1-4, a cult psyker 1-6). When Perils triggers, roll a d20:
+
+| d20 | What happens |
+| --- | --- |
+| 1 | **Daemon breach.** The psyker is torn apart and one daemon of their god steps out |
+| 2-4 | **Warp blast.** The psyker goes Down; everyone within ~3 m drops a health step |
+| 5-8 | **Backlash.** The power fails and a force blast throws the psyker away, into or out of the fight: they drop a health step and lose their next turn |
+| 9-12 | **Burn.** The power fails; the psyker drops a health step |
+| 13-16 | **Misfire.** The power hits a random target nearby, friend or enemy; the psyker takes -2 next beat |
+| 17-19 | **Nosebleed.** The power fails; no powers next beat |
+| 20 | **Overload.** The power fires at double strength; the psyker drops a health step |
+
 ### Custom weapons and crafting
 
 Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:
