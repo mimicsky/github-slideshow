@@ -17,8 +17,16 @@ falls and rarely surrender (fanatics and fallen professionals).*
 ## Grunt (melee)
 
 The ones who couldn't get a gun, or prefer not to. Rushes when the group rushes,
-hangs back otherwise. Waits behind cover for the Light to come close, then
-charges. Brave in a crowd, nervous alone.
+hangs back otherwise. Waits behind cover for the enemy to come close, **moves from
+cover to cover** to close the gap, and **rushes anyone caught out of place**: alone,
+in the open, reloading. Brave in a crowd, nervous alone.
+
+*Side note: cultists and raiders are braver: they don't care about being alone and
+will run straight into danger.*
+
+*Side note: traitor elites are smarter: they wait in cover while their team
+suppresses, watch for a reload or a vent, find the gap, and jump cover to cover
+far better.*
 
 ## Sniper
 
@@ -28,14 +36,14 @@ Doesn't fight up close: runs or surrenders if reached.
 
 ## Grenadier
 
-Likes clusters. Waits until the Light bunches up behind one piece of cover, then
+Likes clusters. Waits until the party bunches up behind one piece of cover, then
 lobs. Throws into doorways before anyone goes through. Careless: may catch their
 own people.
 
 ## Heavy gunner
 
 One soldier with a heavy gun, like Morcant. Sets up somewhere solid and hoses the
-lane the Light has to cross. **Suppresses: anyone they're firing at takes -2 on
+lane the party has to cross. **Suppresses: anyone they're firing at takes -2 on
 their shots.** Slow to move and slow to turn; flank them and they struggle.
 
 ## Heavy team
@@ -58,7 +66,7 @@ can make it burst.
 
 ## Demolitions
 
-Mines the approach, rigs doors, blows cover out from under the Light. Prefers to
+Mines the approach, rigs doors, blows cover out from under the party. Prefers to
 fight before the fight: traps set in advance. Will blow something in a panic
 rather than be taken.
 
@@ -92,7 +100,7 @@ Doesn't chase; stays put.
 ## Enforcer
 
 A renegade commissar or the boss's executioner. Watches their own side more than
-the Light. **While the enforcer stands, the group doesn't break or surrender**;
+the party. **While the enforcer stands, the group doesn't break or surrender**;
 they shoot the first one who runs. Hated by their own men. Kill them and the
 group's nerve may go at once.
 
@@ -110,14 +118,14 @@ distance. Often the first to be shot by their own side if things go wrong.
 
 ## Vox / auspex
 
-The eyes and ears. Calls in help, warns the others, tracks the Light through walls
+The eyes and ears. Calls in help, warns the others, tracks the party through walls
 with the auspex. Hangs back. **Kill them first, or more enemies arrive.**
 
 ## Tech-adept / heretek
 
 Fixes things mid-fight: clears jams, restarts a dead turret, re-arms a mine. Sets
-up a scrap auto-turret or locks a door the Light needs. A heretek may jam the
-Light's vox. Not a fighter; protected by the others when possible.
+up a scrap auto-turret or locks a door the party needs. A heretek may jam the
+party's vox. Not a fighter; protected by the others when possible.
 
 ## Breacher
 
@@ -131,7 +139,7 @@ best fighter. Uses poison and silence. Avoids a fair fight.
 
 ## Infiltrator
 
-**Starts hidden** behind or beside the Light, already in position. **Light gear
+**Starts hidden** behind or beside the party, already in position. **Light gear
 and quiet guns only**: silenced pistols, suppressed rifles, knives, cloaks. Stays
 hidden until the moment is best, then ambushes: the wounded, the rearguard, the
 medic. Fades back if spotted.
@@ -139,7 +147,7 @@ medic. Fades back if spotted.
 ## Gunslinger
 
 Cocky, flashy and very good. **Rolls 50/50 for two pistols or one good gun.**
-**+3 on shooting.** **Seeks a one-on-one with the Light's best shooter**, even if
+**+3 on shooting.** **Seeks a one-on-one with the party's best shooter**, even if
 it costs their team: calls them out, steps into the open to duel. Talks the whole
 time. Pride is their weakness: they can be baited.
 
@@ -152,7 +160,7 @@ Smashes cover. Can be led into traps, and sometimes ignores orders.
 ## Beast handler
 
 Comes with **2-3 beasts** (hounds, mutant dogs, cyber-mastiffs, warp-hounds) that
-fight on their own. Sends them first to run the Light down and pin the wounded.
+fight on their own. Sends them first to run the party down and pin the wounded.
 Kill the handler and the beasts may scatter, or go wild.
 
 ## Berserker
@@ -163,7 +171,7 @@ doses left, keeps fighting a beat after going Down.**
 
 ## Bomb zealot
 
-A cultist who wants to die well. Runs straight at the Light (or a vehicle, or a
+A cultist who wants to die well. Runs straight at the party (or a vehicle, or a
 door) with explosives strapped on. **If they reach their target, they go off.**
 Shoot them before they arrive; a solid hit on the charges may set them off early,
 where they stand.
