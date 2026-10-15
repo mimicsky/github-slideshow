@@ -372,6 +372,7 @@ NEW = {
  "gunslinger": {
   "raider": [("Gunslinger: two Hammerfall stub revolvers","U"),("Gunslinger: two autopistols","C"),("Gunslinger: Headhunter autogun","U"),("Gunslinger: Kasr Warden autogun","C")],
   "pirate": [("Gunslinger: two heavy laspistols","U"),("Gunslinger: two Hammerfall long revolvers","C"),("Gunslinger: Kasr Sprinter long-las","U"),("Gunslinger: semi-auto shotgun","C")],
+  "traitor": [("Gunslinger: two Kantrael laspistols","C"),("Gunslinger: two heavy laspistols","U"),("Gunslinger: Mezoa long-las","C"),("Gunslinger: Ryza hellgun (stolen Guard issue)","U")],
  },
  "chem-doctor": {
   "cultist": [("Plague-doctor: rot-stimms, 3 doses of slaught, a jar of the god's 'medicine', autopistol","U"),("Chem-witch: injector stiletto (paralytic), drug satchel, heretic charms","R")],
