@@ -892,8 +892,8 @@ who is better armed with something they found or made, and uses it against you:
 | 10-11 | 1 |
 | 12-13 | 2 |
 | 14-15 | 3 |
-| 16-18 | 4 (no more than the group) |
-| 19-20 | **Elite team:** the whole group rolls one rarity step better, and each carries a found-or-made item. **Only on the natural die**: bonuses (book, special team) can raise the count to 4, never make an elite team |
+| 16+ | 4 (no more than the group) |
+| natural 18-20 | **Elite team:** the whole group rolls one rarity step better, and each carries a found-or-made item. **Only on the natural die (18, 19 or 20)**: bonuses (book, special team) can raise the count to 4, never make an elite team |
 
 A natural 20 also adds the rare find above. Found-or-made items are homemade or
 scavenged pieces only enemies carry, some with quirks (a jury-rigged autogun that
