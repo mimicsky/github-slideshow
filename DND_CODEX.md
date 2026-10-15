@@ -1041,6 +1041,25 @@ psyker 1-4, a cult psyker 1-6). When Perils triggers, roll a d20:
 | 17-19 | **Nosebleed.** The power fails; no powers next beat |
 | 20 | **Overload.** The power fires at double strength; the psyker drops a health step |
 
+### Psyker powers
+
+A rogue psyker without a staff knows **2 powers**: roll a d10 twice (reroll a 10
+or a repeat). Witches with a staff keep the staff's list and god powers. **Charge**
+is how many beats the power builds before it fires (0 = fires this beat).
+Wounding, stunning or disarming the psyker breaks a charge, as with the staff.
+
+| d10 | Charge | Power | What it does |
+| --- | --- | --- | --- |
+| 1 | 1 beat | **Lightning** | Hits one target and one person beside them. Ignores flak; anyone hit takes -2 next beat |
+| 2 | 1 beat | **Force blast** | Hits like a hellgun and knocks the target down |
+| 3 | 0 | **Warp ward** | Blocks the first shot and the first melee hit at them this beat (a raw 17+ still gets through) |
+| 4 | 2 beats | **Mind-lash** | One target: WIS save or frozen a turn (a purity seal gives advantage) |
+| 5 | 2 beats | **Telekinesis** | Rips a weapon from a hand, or pulls one person 4 m (out of cover, off a ledge) |
+| 6 | 2 beats | **Warp-fire** | Hits like a flamer and sets the target alight |
+| 7 | 3 beats | **Soulblaze ball** | Launches a fiery ball that drifts slowly to where it's sent, stops, then explodes: everything within 10 m catches fire |
+| 8 | 3 beats | **Power force charge** | Moves cover, objects and people away from or towards the psyker. Throwing someone into a wall drops them a health step; can rip weapons apart |
+| 9 | 2 beats | **Great warp shield** | A bigger warp ward that covers 2-3 people close by. Each beat it's up, roll Perils, and the Perils trigger range grows by 1 (1-4, then 1-5, then 1-6...) |
+
 ### Custom weapons and crafting
 
 Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:
