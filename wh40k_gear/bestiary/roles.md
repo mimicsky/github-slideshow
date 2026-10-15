@@ -384,7 +384,7 @@ fighting a beat after going Down.**
 
 ## Bomb zealot
 
-**Who has it:** cultists.
+**Who has it:** cultists, raiders, pirates.
 
 A cultist who wants to die well. Runs straight at the party (or a vehicle, or a
 door) with explosives strapped on. **If they reach their target, they go off.**
@@ -395,6 +395,10 @@ step.**
 strapped on.** When they go off, every one goes off together and the blast mixes
 them: two fire bombs and a frag, for example, is a fireball that also throws a
 little shrapnel around the area.
+
+*Side note: raider and pirate bombers are captured prisoners, or people their
+side sees as cowards. They're easily manipulated, and they surrender if
+pressured too much.*
 
 ## Blessed
 

@@ -373,6 +373,8 @@ NEW = {
  },
  "bomb zealot": {
   "cultist": [("Bomb zealot: vest of mining charges, a dead-man's grip","C"),("Bomb zealot: promethium tanks strapped on, a flare","U"),("Bomb zealot: a stolen melta bomb on a chest rig","R")],
+  "raider":  [("Bomb-runner: a captured hiver, charges chained to their chest","C"),("Bomb-runner: a gang coward in a vest of pipe-bombs","C"),("Bomb-runner: a prisoner wired with a stolen krak charge","U")],
+  "pirate":  [("Bomb-runner: a captured deckhand with mining charges lashed on","C"),("Bomb-runner: a crew coward in a promethium-tank harness","C"),("Bomb-runner: a prisoner with a melta bomb strapped to their back","R")],
  },
  "gunslinger": {
   "raider": [("Gunslinger: two Hammerfall stub revolvers","U"),("Gunslinger: two autopistols","C"),("Gunslinger: Headhunter autogun","U"),("Gunslinger: Kasr Warden autogun","C")],

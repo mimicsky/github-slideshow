@@ -829,6 +829,20 @@
      "R"
     ]
    ],
+   "bomb zealot": [
+    [
+     "Bomb-runner: a captured hiver, charges chained to their chest",
+     "C"
+    ],
+    [
+     "Bomb-runner: a gang coward in a vest of pipe-bombs",
+     "C"
+    ],
+    [
+     "Bomb-runner: a prisoner wired with a stolen krak charge",
+     "U"
+    ]
+   ],
    "gunslinger": [
     [
      "Gunslinger: two Hammerfall stub revolvers",
@@ -1245,6 +1259,20 @@
     [
      "Ship's mechanic: cutting torch, spoof-tags, shotgun",
      "C"
+    ]
+   ],
+   "bomb zealot": [
+    [
+     "Bomb-runner: a captured deckhand with mining charges lashed on",
+     "C"
+    ],
+    [
+     "Bomb-runner: a crew coward in a promethium-tank harness",
+     "C"
+    ],
+    [
+     "Bomb-runner: a prisoner with a melta bomb strapped to their back",
+     "R"
     ]
    ],
    "gunslinger": [
