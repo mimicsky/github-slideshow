@@ -27,8 +27,9 @@ person standing behind them.
 ## Makeshift shield
 
 **Makeshift shield** (common, 1 TV; player design): wood and scrap metal nailed
-together. **+1 to block, half cover from the front. Breaks after 2-3 heavy hits**
-(the DM rolls: 1-3 on a d6 is two, 4-6 is three).
+together. **+1 to block, one-third cover from the front (+1 to the shooter's
+difficulty). Breaks after 2-3 heavy hits:** roll it when the shield is made or
+repaired (d6: 1-3 it takes two, 4-6 three).
 
 ## Forged shield
 

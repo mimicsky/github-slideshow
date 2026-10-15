@@ -1351,7 +1351,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Makeshift shield (wood and scrap; +1 block, breaks after 2-3 heavy hits)",
+  "name": "Makeshift shield (wood and scrap; +1 block, 1/3 cover, breaks after 2-3 heavy hits)",
   "tv": 1,
   "cat": "armour",
   "rarity": "C",

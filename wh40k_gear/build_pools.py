@@ -110,7 +110,7 @@ add("melee","R","B",[("Assassin's mono-wire garrotte",6),("Needle-blade (toxin)"
 # --- Armour ---
 add("armour","C","MB",[("Flak vest",0.5),("Flak armour set",1),("Flak helmet",0.25),("Gas mask / rebreather",0.5)])
 add("armour","U","MBF",[("Carapace armour set",8),("Carapace chest plate",4),("Mesh armour (light, quiet)",5),("Boarding shield",4),("Void-suit, Navy",4),("Hazard suit (plague-rated)",5),("Arbites carapace",10)])
-add("armour","C","MB",[("Makeshift shield (wood and scrap; +1 block, breaks after 2-3 heavy hits)",1)])
+add("armour","C","MB",[("Makeshift shield (wood and scrap; +1 block, 1/3 cover, breaks after 2-3 heavy hits)",1)])
 add("armour","U","MBF",[("Forged shield (+2 block, half cover)",6)])
 add("mod","U","MBF",[("Shield viewing slot (shoot a pistol through without losing cover)",1.5)])
 add("armour","R","MB",[("Arbitrator shield (Adeptus Arbites riot shield; +2 block, portable cover, pistol notch)",10)])
