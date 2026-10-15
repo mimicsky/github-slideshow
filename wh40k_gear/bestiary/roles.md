@@ -223,8 +223,17 @@ a d20 for the group: on 1-4, someone in the group turns and shoots the enforcer.
 **Who has it:** all five types.
 
 Carries the banner, idol or colours. Stays near the middle where it can be seen.
-**Allies within sight of the icon get +1.** Fanatical about it; won't drop it
-willingly. **Kill the bearer or take the icon, and the group wavers.**
+**Allies within sight of the icon get +1 to rolls.** Fanatical about it; won't
+drop it willingly. **Can plant the banner to keep it up.** **Dropping the banner
+or destroying it is the only way to remove its buffs.**
+
+*Side note: cultists are fanatical about their banners. Destroying it can send
+them into a panic: -1 to rolls. They try to save it while it's being destroyed,
+and try to pick it up if it has fallen.*
+
+*Side note: raiders are prouder of who they fight for: the icon gives them +2 to
+rolls instead of +1. Destroying or dropping their banner makes them angry, and
+their basic grunts, melee and ranged, charge.*
 
 ## Rogue psyker
 
