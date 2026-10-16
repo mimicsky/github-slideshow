@@ -1,0 +1,2127 @@
+{
+ "cultist": {
+  "weapon": [
+   [
+    "Autogun, Agripinaa",
+    "C"
+   ],
+   [
+    "Stub automatic",
+    "C"
+   ],
+   [
+    "Stub revolver",
+    "C"
+   ],
+   [
+    "Autopistol",
+    "C"
+   ],
+   [
+    "Lasgun, Kantrael M36 (stolen)",
+    "C"
+   ],
+   [
+    "Scrap autogun with drum",
+    "U"
+   ],
+   [
+    "Sawn-off shotgun",
+    "U"
+   ],
+   [
+    "Hive-gang 'scattergun'",
+    "U"
+   ],
+   [
+    "Lasgun, Lucius No.98 (stolen)",
+    "U"
+   ],
+   [
+    "Hellgun, Ryza pattern (stolen Guard issue)",
+    "R"
+   ],
+   [
+    "Flamer, Ryza pattern (stolen)",
+    "R"
+   ]
+  ],
+  "melee": [
+   [
+    "Hive shank (scrap knife)",
+    "C"
+   ],
+   [
+    "Trench club",
+    "C"
+   ],
+   [
+    "Cadian machete",
+    "C"
+   ],
+   [
+    "Scrap throwing knives (set of 4)",
+    "C"
+   ],
+   [
+    "Chain knife",
+    "U"
+   ],
+   [
+    "Combat axe, Rashad pattern",
+    "U"
+   ],
+   [
+    "Chainsword",
+    "U"
+   ],
+   [
+    "Needle-blade (toxin)",
+    "R"
+   ]
+  ],
+  "armour": [
+   [
+    "Rags, no armour",
+    "C"
+   ],
+   [
+    "Flak vest",
+    "C"
+   ],
+   [
+    "Gas mask / rebreather",
+    "C"
+   ],
+   [
+    "Flak armour set",
+    "U"
+   ],
+   [
+    "Carapace chest plate (stolen)",
+    "R"
+   ]
+  ],
+  "extra": [
+   [
+    "Nothing",
+    "C"
+   ],
+   [
+    "Frag grenade",
+    "C"
+   ],
+   [
+    "Black candles and chalk",
+    "C"
+   ],
+   [
+    "Crude iron cult amulet",
+    "C"
+   ],
+   [
+    "Stimm (dose)",
+    "U"
+   ],
+   [
+    "Combat drug 'Frenzon' (dose)",
+    "U"
+   ],
+   [
+    "Choke gas grenade",
+    "U"
+   ],
+   [
+    "Cult gas bottle (gas of their god)",
+    "U"
+   ],
+   [
+    "Cult prayer-book",
+    "R"
+   ]
+  ],
+  "found": [
+   [
+    "Cult-forged blade (crude, sharp; +1 vs flesh, breaks on a natural 1)",
+    "U"
+   ],
+   [
+    "Jury-rigged autogun (fires full chains; jams on a 1-2)",
+    "U"
+   ],
+   [
+    "Pipe-bomb (frag, short fuse; a natural 1 goes off in hand)",
+    "U"
+   ],
+   [
+    "Cult gas bottle x2 (gas of their god)",
+    "U"
+   ],
+   [
+    "Stolen officer's laspistol",
+    "U"
+   ],
+   [
+    "Desecrated chainsword (spiked, roars; -1 to parry with it)",
+    "R"
+   ],
+   [
+    "Krak grenade (stolen)",
+    "R"
+   ],
+   [
+    "Plasma pistol, Ryza pattern (stolen, slow-filled cell)",
+    "R"
+   ],
+   [
+    "Chaos grimoire (forbidden book)",
+    "R"
+   ],
+   [
+    "Chaos ward-mark (takes one hit, the god's way)",
+    "R"
+   ]
+  ],
+  "specialists": {
+   "sniper": [
+    [
+     "Long-las, Mezoa (stolen) + laspistol",
+     "U"
+    ],
+    [
+     "Scoped autogun + stub revolver",
+     "C"
+    ],
+    [
+     "Vraks-pattern sniper autorifle",
+     "R"
+    ]
+   ],
+   "grenadier": [
+    [
+     "Bag of 4 frags + autopistol",
+     "C"
+    ],
+    [
+     "4 pipe-bombs + stub revolver",
+     "C"
+    ],
+    [
+     "Grenade launcher (stolen) + 6 frag rounds",
+     "R"
+    ]
+   ],
+   "assassin": [
+    [
+     "Silenced stub pistol + mono-knife",
+     "U"
+    ],
+    [
+     "Needle-blade (toxin) + throwing knives",
+     "U"
+    ],
+    [
+     "Garrotte + chain knife",
+     "C"
+    ]
+   ],
+   "flamer": [
+    [
+     "Hand flamer + 1 canister",
+     "U"
+    ],
+    [
+     "Flamer, Ryza pattern (stolen) + 2 canisters",
+     "R"
+    ],
+    [
+     "Promethium sprayer (homemade; short reach, leaks on a 1)",
+     "C"
+    ]
+   ],
+   "demolitions": [
+    [
+     "Demo satchel + detonator",
+     "U"
+    ],
+    [
+     "3 krak grenades (stolen)",
+     "R"
+    ],
+    [
+     "Mining charges x2 + stub pistol",
+     "C"
+    ]
+   ],
+   "medic": [
+    [
+     "Med-kit + 3 stimms + autopistol",
+     "C"
+    ],
+    [
+     "Cult 'blessings' (stimms and drugs) + knife",
+     "C"
+    ]
+   ],
+   "leader": [
+    [
+     "Chainsword + laspistol (cult preacher)",
+     "U"
+    ],
+    [
+     "Desecrated chainsword + autopistol",
+     "U"
+    ],
+    [
+     "Bolt pistol (stolen) + power knife",
+     "R"
+    ]
+   ],
+   "psyker": [
+    [
+     "Witch: rogue psyker, crude staff + knife (warp power; Perils on a natural 1)",
+     "C"
+    ],
+    [
+     "Witch with a Chaos psyker staff + knife (fire, lightning, force; Perils 1-3 a beat)",
+     "U"
+    ]
+   ],
+   "breacher": [
+    [
+     "Boarding shield + sawn-off shotgun",
+     "U"
+    ],
+    [
+     "Combat shotgun, semi-auto + shock baton",
+     "U"
+    ],
+    [
+     "Breaching charge + pump shotgun",
+     "C"
+    ]
+   ],
+   "vox": [
+    [
+     "Vox-caster + autopistol (calls in the rest)",
+     "U"
+    ],
+    [
+     "Auspex + lascarbine (sees through walls)",
+     "U"
+    ]
+   ],
+   "heavy gunner": [
+    [
+     "Heavy stubber + 2 belts",
+     "U"
+    ],
+    [
+     "Braced autogun with drum",
+     "C"
+    ],
+    [
+     "Heavy bolter, Guard pattern (stolen, 1 belt)",
+     "R"
+    ]
+   ],
+   "berserker": [
+    [
+     "Chain axe + 4 doses of Frenzon (frothing, chanting)",
+     "U"
+    ],
+    [
+     "Cleaver and spiked club + 3 doses of slaught",
+     "C"
+    ],
+    [
+     "Chainsword + 4 doses of Frenzon",
+     "U"
+    ],
+    [
+     "Eviscerator + 5 doses of Frenzon",
+     "R"
+    ]
+   ],
+   "brute": [
+    [
+     "Mutant brute: huge rusted cleaver, slab of scrap armour",
+     "C"
+    ],
+    [
+     "Mutant brute: chained engine-block flail",
+     "U"
+    ],
+    [
+     "Mutant brute: two-handed eviscerator",
+     "R"
+    ]
+   ],
+   "icon bearer": [
+    [
+     "Cult icon: a chalk gate on a pole of bones + autopistol",
+     "C"
+    ],
+    [
+     "Daemon-touched icon that whispers + chain knife",
+     "R"
+    ],
+    [
+     "God-banner of stitched skin + stub revolver",
+     "U"
+    ]
+   ],
+   "beast handler": [
+    [
+     "Handler with 4 mutant hounds + goad and autopistol",
+     "C"
+    ],
+    [
+     "Handler with 4 warp-hounds (daemon-touched) + whip",
+     "R"
+    ]
+   ],
+   "tech-adept": [
+    [
+     "Heretek: scrap-built auto-turret, cutting torch, autopistol",
+     "U"
+    ],
+    [
+     "Heretek: daemon-bound vox-jammer + servo-arm",
+     "R"
+    ]
+   ],
+   "bomb zealot": [
+    [
+     "Bomb zealot: vest of mining charges, a dead-man's grip",
+     "C"
+    ],
+    [
+     "Bomb zealot: promethium tanks strapped on, a flare",
+     "U"
+    ],
+    [
+     "Bomb zealot: a stolen melta bomb on a chest rig",
+     "R"
+    ]
+   ],
+   "chem-doctor": [
+    [
+     "Plague-doctor: rot-stimms, 3 doses of slaught, a jar of the god's 'medicine', autopistol",
+     "U"
+    ],
+    [
+     "Chem-witch: injector stiletto (paralytic), drug satchel, heretic charms",
+     "R"
+    ]
+   ],
+   "bodyguard": [
+    [
+     "Bodyguard: boarding shield and shock maul",
+     "C"
+    ],
+    [
+     "Bodyguard: heavy carapace, combat shotgun and a shield",
+     "U"
+    ],
+    [
+     "Bodyguard: storm shield and power maul",
+     "R"
+    ]
+   ]
+  }
+ },
+ "raider": {
+  "weapon": [
+   [
+    "Autogun, Agripinaa",
+    "C"
+   ],
+   [
+    "Autopistol",
+    "C"
+   ],
+   [
+    "Stub automatic",
+    "C"
+   ],
+   [
+    "Combat shotgun, pump",
+    "C"
+   ],
+   [
+    "Ganger's chain-fed autopistol",
+    "U"
+   ],
+   [
+    "Hive-gang 'scattergun'",
+    "U"
+   ],
+   [
+    "Auto-revolver, 'Hammerfall' pattern, stub barrel",
+    "U"
+   ],
+   [
+    "Braced autogun (heavy barrel)",
+    "U"
+   ],
+   [
+    "Hand cannon (big-bore stubber)",
+    "U"
+   ],
+   [
+    "Ripper gun / drum-fed shotgun",
+    "R"
+   ],
+   [
+    "Heavy stubber",
+    "R"
+   ]
+  ],
+  "melee": [
+   [
+    "Hive shank (scrap knife)",
+    "C"
+   ],
+   [
+    "Combat knife",
+    "C"
+   ],
+   [
+    "Combat axe, Rashad pattern",
+    "C"
+   ],
+   [
+    "Scrap throwing knives (set of 4)",
+    "C"
+   ],
+   [
+    "Chain knife",
+    "U"
+   ],
+   [
+    "Shock baton (Arbites, stolen)",
+    "U"
+   ],
+   [
+    "Mono-knife",
+    "U"
+   ],
+   [
+    "Chain axe",
+    "R"
+   ]
+  ],
+  "armour": [
+   [
+    "Leathers, no armour",
+    "C"
+   ],
+   [
+    "Flak vest",
+    "C"
+   ],
+   [
+    "Flak armour set",
+    "U"
+   ],
+   [
+    "Mesh armour (light, quiet)",
+    "U"
+   ],
+   [
+    "Arbites carapace (stolen)",
+    "R"
+   ]
+  ],
+  "extra": [
+   [
+    "Nothing",
+    "C"
+   ],
+   [
+    "Frag grenade",
+    "C"
+   ],
+   [
+    "Lho-sticks (carton)",
+    "C"
+   ],
+   [
+    "Lock-picks, hive pattern",
+    "U"
+   ],
+   [
+    "Combat drug 'slaught' (dose)",
+    "U"
+   ],
+   [
+    "Combat drug 'Quicksilver' (dose)",
+    "U"
+   ],
+   [
+    "Stimm (dose)",
+    "U"
+   ],
+   [
+    "Forged Munitorum ID chits",
+    "R"
+   ]
+  ],
+  "found": [
+   [
+    "Bolted-together drum autogun (heavy; +1 suppression, -1 from the hip)",
+    "U"
+   ],
+   [
+    "Spiked knuckle-duster blade",
+    "U"
+   ],
+   [
+    "Speedloader and spare Hammerfall cylinder",
+    "U"
+   ],
+   [
+    "Demo satchel (stolen)",
+    "U"
+   ],
+   [
+    "Silenced stub pistol",
+    "R"
+   ],
+   [
+    "Auto-revolver, 'Hammerfall' pattern, long barrel",
+    "R"
+   ],
+   [
+    "Bolt pistol, rebored (unstable)",
+    "R"
+   ]
+  ],
+  "specialists": {
+   "sniper": [
+    [
+     "Scoped autogun + autopistol",
+     "C"
+    ],
+    [
+     "Long-las, Mezoa + heavy laspistol",
+     "U"
+    ],
+    [
+     "Vraks-pattern sniper autorifle",
+     "R"
+    ]
+   ],
+   "grenadier": [
+    [
+     "Bandolier of 4 frags + 2 smoke + autopistol",
+     "C"
+    ],
+    [
+     "Grenade launcher + 6 rounds",
+     "U"
+    ]
+   ],
+   "assassin": [
+    [
+     "Silenced stub pistol + mono-knife",
+     "U"
+    ],
+    [
+     "Throwing knives + chain knife",
+     "C"
+    ],
+    [
+     "Needle-blade (toxin)",
+     "R"
+    ]
+   ],
+   "flamer": [
+    [
+     "Hand flamer + 1 canister",
+     "U"
+    ],
+    [
+     "Flamer + 2 canisters",
+     "R"
+    ]
+   ],
+   "demolitions": [
+    [
+     "Demo satchel + detonator",
+     "U"
+    ],
+    [
+     "Breaching charges x2",
+     "U"
+    ],
+    [
+     "Melta bomb (stolen)",
+     "R"
+    ]
+   ],
+   "medic": [
+    [
+     "Med-kit + 3 stimms + autopistol",
+     "C"
+    ],
+    [
+     "Combat drugs (slaught, Quicksilver) + stimm",
+     "U"
+    ]
+   ],
+   "leader": [
+    [
+     "Gang boss: chain axe + hand cannon",
+     "U"
+    ],
+    [
+     "Hammerfall long barrel + chainsword",
+     "U"
+    ],
+    [
+     "Bolt pistol, rebored + power knife",
+     "R"
+    ]
+   ],
+   "breacher": [
+    [
+     "Boarding shield + sawn-off shotgun",
+     "U"
+    ],
+    [
+     "Combat shotgun, semi-auto + shock baton",
+     "U"
+    ]
+   ],
+   "psyker": [
+    [
+     "Rogue psyker: crude staff + knife (unsanctioned; basic warp powers, Perils 1-3 a beat)",
+     "C"
+    ],
+    [
+     "Rogue psyker with a stolen force staff (stronger powers, Perils 1-3 a beat)",
+     "R"
+    ]
+   ],
+   "vox": [
+    [
+     "Vox-caster + autopistol (calls in the rest)",
+     "U"
+    ],
+    [
+     "Auspex + lascarbine (sees through walls)",
+     "U"
+    ]
+   ],
+   "plasma gunner": [
+    [
+     "Plasma pistol, Ryza pattern (slow-filled cell) + autopistol",
+     "R"
+    ],
+    [
+     "Plasma gun, Mars pattern (stolen, rushed cell)",
+     "R"
+    ],
+    [
+     "Hot-shot hellgun",
+     "U"
+    ]
+   ],
+   "heavy gunner": [
+    [
+     "Heavy stubber + 2 belts",
+     "U"
+    ],
+    [
+     "Ripper gun / drum-fed shotgun",
+     "U"
+    ],
+    [
+     "Bolted-together drum autogun",
+     "C"
+    ]
+   ],
+   "heavy team": [
+    [
+     "Heavy stubber on a tripod (two-man team)",
+     "C"
+    ],
+    [
+     "Autocannon, salvaged (two-man team)",
+     "R"
+    ],
+    [
+     "Mortar with 6 rounds (two-man team)",
+     "U"
+    ]
+   ],
+   "berserker": [
+    [
+     "Chain axe + 3 doses of slaught",
+     "U"
+    ],
+    [
+     "Two hive shanks + 4 doses of Frenzon",
+     "C"
+    ],
+    [
+     "Spiked knuckle-duster blades + 3 doses of Frenzon",
+     "C"
+    ],
+    [
+     "Chainsword + 5 doses of slaught",
+     "R"
+    ]
+   ],
+   "brute": [
+    [
+     "Brute: sledgehammer and a door for a shield",
+     "C"
+    ],
+    [
+     "Brute: chain axe in each hand",
+     "U"
+    ],
+    [
+     "Brute: stolen Ogryn ripper gun and a club",
+     "R"
+    ]
+   ],
+   "icon bearer": [
+    [
+     "Gang banner of trophies + autopistol",
+     "C"
+    ],
+    [
+     "War-horn and skull standard + chain knife",
+     "U"
+    ]
+   ],
+   "beast handler": [
+    [
+     "Handler with 4 fighting dogs + stub revolver",
+     "C"
+    ],
+    [
+     "Handler with 4 chained mutant beasts + shock prod",
+     "U"
+    ]
+   ],
+   "tech-adept": [
+    [
+     "Tech-scav: deployable stubber turret + lock-breaker",
+     "U"
+    ],
+    [
+     "Tech-scav: vox jammer + multi-key + autopistol",
+     "C"
+    ]
+   ],
+   "infiltrator": [
+    [
+     "Infiltrator: silenced stub pistol, mono-knife, dark rags",
+     "U"
+    ],
+    [
+     "Infiltrator: crossbow-quiet needle pistol, garrotte",
+     "R"
+    ]
+   ],
+   "bomb zealot": [
+    [
+     "Bomb-runner: a captured hiver, charges chained to their chest",
+     "C"
+    ],
+    [
+     "Bomb-runner: a gang coward in a vest of pipe-bombs",
+     "C"
+    ],
+    [
+     "Bomb-runner: a prisoner wired with a stolen krak charge",
+     "U"
+    ]
+   ],
+   "gunslinger": [
+    [
+     "Gunslinger: two Hammerfall stub revolvers",
+     "U"
+    ],
+    [
+     "Gunslinger: two autopistols",
+     "C"
+    ],
+    [
+     "Gunslinger: Headhunter autogun",
+     "U"
+    ],
+    [
+     "Gunslinger: Kasr Warden autogun",
+     "C"
+    ]
+   ],
+   "chem-doctor": [
+    [
+     "Chem-doc: 4 stimms, 3 combat drugs, injector stiletto, autopistol",
+     "C"
+    ],
+    [
+     "Chem-doc: concentrated stimms, Frenzon, a forbidden tonic, laspistol",
+     "U"
+    ]
+   ],
+   "bodyguard": [
+    [
+     "Bodyguard: boarding shield and shock maul",
+     "C"
+    ],
+    [
+     "Bodyguard: heavy carapace, combat shotgun and a shield",
+     "U"
+    ],
+    [
+     "Bodyguard: storm shield and power maul",
+     "R"
+    ]
+   ]
+  }
+ },
+ "pirate": {
+  "weapon": [
+   [
+    "Combat shotgun, pump",
+    "C"
+   ],
+   [
+    "Autopistol",
+    "C"
+   ],
+   [
+    "Stub revolver",
+    "C"
+   ],
+   [
+    "Lascarbine, Accatran Mk IV",
+    "C"
+   ],
+   [
+    "Combat shotgun, semi-auto",
+    "U"
+   ],
+   [
+    "Auto-revolver, 'Hammerfall' pattern, long barrel",
+    "U"
+   ],
+   [
+    "Heavy laspistol",
+    "U"
+   ],
+   [
+    "Las-scattergun 'shotlas'",
+    "U"
+   ],
+   [
+    "Ripper gun / drum-fed shotgun",
+    "U"
+   ],
+   [
+    "Boltgun, Godwyn pattern (stolen)",
+    "R"
+   ],
+   [
+    "Plasma pistol, Ryza pattern (stolen)",
+    "R"
+   ]
+  ],
+  "melee": [
+   [
+    "Navy cutlass",
+    "C"
+   ],
+   [
+    "Combat knife",
+    "C"
+   ],
+   [
+    "Boarding axe",
+    "C"
+   ],
+   [
+    "Officer's sabre",
+    "U"
+   ],
+   [
+    "Chainsword",
+    "U"
+   ],
+   [
+    "Shock maul",
+    "U"
+   ],
+   [
+    "Power knife",
+    "R"
+   ],
+   [
+    "Power sword (taken from a captain)",
+    "R"
+   ]
+  ],
+  "armour": [
+   [
+    "Deck coat, no armour",
+    "C"
+   ],
+   [
+    "Flak armour set",
+    "C"
+   ],
+   [
+    "Void-suit, Navy (patched)",
+    "U"
+   ],
+   [
+    "Boarding shield",
+    "U"
+   ],
+   [
+    "Carapace armour set",
+    "R"
+   ]
+  ],
+  "extra": [
+   [
+    "Nothing",
+    "C"
+   ],
+   [
+    "Frag grenade",
+    "C"
+   ],
+   [
+    "Amasec (bottle)",
+    "C"
+   ],
+   [
+    "Grav-chute",
+    "U"
+   ],
+   [
+    "Spoof-tag (fakes a transponder)",
+    "U"
+   ],
+   [
+    "Off-world spice",
+    "U"
+   ],
+   [
+    "Gemstones (pouch)",
+    "R"
+   ],
+   [
+    "Breaching charge",
+    "R"
+   ]
+  ],
+  "found": [
+   [
+    "Twin-barrel boarding pistol (2 shotgun shells, one beat to reload)",
+    "U"
+   ],
+   [
+    "Weighted grapple-cutlass",
+    "U"
+   ],
+   [
+    "Captain's flintlock-pattern las pistol (ornate; +1 on single shots)",
+    "U"
+   ],
+   [
+    "Melta bomb (stolen)",
+    "R"
+   ],
+   [
+    "Refractor field (salvaged, flickers)",
+    "R"
+   ],
+   [
+    "Plasteel throwing knives, 'Callidus' pattern (set of 6)",
+    "R"
+   ]
+  ],
+  "specialists": {
+   "sniper": [
+    [
+     "Long-las, Mezoa + laspistol",
+     "U"
+    ],
+    [
+     "Scoped lascarbine + stub revolver",
+     "C"
+    ],
+    [
+     "Long-las, Helbore",
+     "R"
+    ]
+   ],
+   "grenadier": [
+    [
+     "Bag of 4 frags + 2 smoke + autopistol",
+     "C"
+    ],
+    [
+     "Grenade launcher + 6 rounds",
+     "U"
+    ]
+   ],
+   "assassin": [
+    [
+     "Silenced stub pistol + mono-knife",
+     "U"
+    ],
+    [
+     "Plasteel throwing knives, 'Callidus' (set of 6) + cutlass",
+     "R"
+    ],
+    [
+     "Garrotte + combat knife",
+     "C"
+    ]
+   ],
+   "flamer": [
+    [
+     "Hand flamer + 1 canister",
+     "U"
+    ],
+    [
+     "Flamer + 2 canisters",
+     "U"
+    ]
+   ],
+   "demolitions": [
+    [
+     "Breaching charges x2 + pump shotgun",
+     "U"
+    ],
+    [
+     "Demo satchel + detonator",
+     "U"
+    ],
+    [
+     "Melta bomb",
+     "R"
+    ]
+   ],
+   "medic": [
+    [
+     "Ship's surgeon: med-kit, 3 stimms, autopistol",
+     "C"
+    ],
+    [
+     "Med-kit + antitoxin + laspistol",
+     "U"
+    ]
+   ],
+   "leader": [
+    [
+     "Pirate captain: power sword + heavy laspistol",
+     "R"
+    ],
+    [
+     "Bosun: chainsword + Hammerfall long barrel",
+     "U"
+    ],
+    [
+     "Officer's sabre + boarding pistol",
+     "C"
+    ]
+   ],
+   "breacher": [
+    [
+     "Boarding shield + combat shotgun, semi-auto",
+     "U"
+    ],
+    [
+     "Boarding shield + shock maul",
+     "U"
+    ],
+    [
+     "Void-suited boarder: boarding axe + shotgun",
+     "C"
+    ]
+   ],
+   "vox": [
+    [
+     "Vox-caster + spoof-tag + autopistol",
+     "U"
+    ],
+    [
+     "Auspex + lascarbine",
+     "U"
+    ]
+   ],
+   "psyker": [
+    [
+     "Rogue psyker: crude staff + knife (unsanctioned; basic warp powers, Perils 1-3 a beat)",
+     "C"
+    ],
+    [
+     "Rogue psyker with a stolen force staff (stronger powers, Perils 1-3 a beat)",
+     "R"
+    ]
+   ],
+   "plasma gunner": [
+    [
+     "Plasma pistol, Ryza pattern (slow-filled cell) + autopistol",
+     "R"
+    ],
+    [
+     "Plasma gun, Mars pattern (stolen, rushed cell)",
+     "R"
+    ],
+    [
+     "Hot-shot hellgun",
+     "U"
+    ]
+   ],
+   "heavy gunner": [
+    [
+     "Heavy stubber + 2 belts",
+     "U"
+    ],
+    [
+     "Ripper gun / drum-fed shotgun",
+     "U"
+    ],
+    [
+     "Multi-laser, man-portable",
+     "R"
+    ]
+   ],
+   "heavy team": [
+    [
+     "Heavy stubber on a tripod (two-man team)",
+     "C"
+    ],
+    [
+     "Heavy bolter, stolen (two-man team)",
+     "R"
+    ],
+    [
+     "Multi-laser on a deck mount (two-man team)",
+     "U"
+    ]
+   ],
+   "berserker": [
+    [
+     "Boarding axe + 3 doses of slaught",
+     "C"
+    ],
+    [
+     "Chain axe + 4 doses of Frenzon",
+     "U"
+    ],
+    [
+     "Two cutlasses + 3 doses of Frenzon",
+     "C"
+    ],
+    [
+     "Power axe + 4 doses of slaught",
+     "R"
+    ]
+   ],
+   "icon bearer": [
+    [
+     "Captain's black flag on a boarding pike + heavy laspistol",
+     "C"
+    ],
+    [
+     "Brass ship's icon + cutlass",
+     "U"
+    ]
+   ],
+   "beast handler": [
+    [
+     "Handler with 2 void-rats the size of dogs + autopistol",
+     "C"
+    ],
+    [
+     "Handler with a cyber-mastiff (stolen Arbites) + shotgun",
+     "U"
+    ]
+   ],
+   "tech-adept": [
+    [
+     "Ship's mechanic: door-locker, auto-turret, laspistol",
+     "U"
+    ],
+    [
+     "Ship's mechanic: cutting torch, spoof-tags, shotgun",
+     "C"
+    ]
+   ],
+   "bomb zealot": [
+    [
+     "Bomb-runner: a captured deckhand with mining charges lashed on",
+     "C"
+    ],
+    [
+     "Bomb-runner: a crew coward in a promethium-tank harness",
+     "C"
+    ],
+    [
+     "Bomb-runner: a prisoner with a melta bomb strapped to their back",
+     "R"
+    ]
+   ],
+   "gunslinger": [
+    [
+     "Gunslinger: two heavy laspistols",
+     "U"
+    ],
+    [
+     "Gunslinger: two Hammerfall long revolvers",
+     "C"
+    ],
+    [
+     "Gunslinger: Kasr Sprinter long-las",
+     "U"
+    ],
+    [
+     "Gunslinger: semi-auto shotgun",
+     "C"
+    ]
+   ],
+   "chem-doctor": [
+    [
+     "Ship's chem-doc: stimms, slaught, Quicksilver, a heretic cure-all, shotgun",
+     "C"
+    ],
+    [
+     "Chem-doc: concentrated stimm, injector stiletto (toxin), ward-mark",
+     "U"
+    ]
+   ],
+   "bodyguard": [
+    [
+     "Bodyguard: boarding shield and shock maul",
+     "C"
+    ],
+    [
+     "Bodyguard: heavy carapace, combat shotgun and a shield",
+     "U"
+    ],
+    [
+     "Bodyguard: storm shield and power maul",
+     "R"
+    ]
+   ]
+  }
+ },
+ "traitor": {
+  "weapon": [
+   [
+    "Lasgun, Kantrael M36",
+    "C"
+   ],
+   [
+    "Lasgun, Lucius No.98",
+    "C"
+   ],
+   [
+    "Lascarbine, Accatran Mk IV",
+    "C"
+   ],
+   [
+    "Autogun, Agripinaa",
+    "C"
+   ],
+   [
+    "Infantry autogun, 'Columnus' pattern",
+    "U"
+   ],
+   [
+    "Hellgun, Ryza pattern",
+    "U"
+   ],
+   [
+    "Lasgun, Accatran Mk XIV",
+    "U"
+   ],
+   [
+    "Combat shotgun, semi-auto",
+    "U"
+   ],
+   [
+    "Hellgun, Accatran (compact)",
+    "R"
+   ],
+   [
+    "Lasgun, 'Kasr Duet' twin-focus pattern",
+    "R"
+   ]
+  ],
+  "melee": [
+   [
+    "Bayonet (fixed)",
+    "C"
+   ],
+   [
+    "Combat knife",
+    "C"
+   ],
+   [
+    "Entrenching tool",
+    "C"
+   ],
+   [
+    "Cadian machete",
+    "C"
+   ],
+   [
+    "Krieg trench shovel (sharpened)",
+    "U"
+   ],
+   [
+    "Chain knife",
+    "U"
+   ],
+   [
+    "Chainsword",
+    "U"
+   ],
+   [
+    "Power knife",
+    "R"
+   ]
+  ],
+  "armour": [
+   [
+    "Flak armour set",
+    "C"
+   ],
+   [
+    "Flak vest and helmet",
+    "C"
+   ],
+   [
+    "Carapace chest plate",
+    "U"
+   ],
+   [
+    "Carapace armour set",
+    "U"
+   ],
+   [
+    "Storm trooper carapace (looted)",
+    "R"
+   ]
+  ],
+  "extra": [
+   [
+    "Nothing",
+    "C"
+   ],
+   [
+    "Frag grenade",
+    "C"
+   ],
+   [
+    "Spare las packs (3)",
+    "C"
+   ],
+   [
+    "Smoke grenade",
+    "C"
+   ],
+   [
+    "Stimm (dose)",
+    "U"
+   ],
+   [
+    "Krak grenade",
+    "U"
+   ],
+   [
+    "Ration pack and lho",
+    "C"
+   ],
+   [
+    "Defaced regimental insignia",
+    "U"
+   ]
+  ],
+  "found": [
+   [
+    "Officer's laspistol",
+    "U"
+   ],
+   [
+    "Bolt pistol, Godwyn-Deaz (officer, few rounds)",
+    "R"
+   ],
+   [
+    "Hot-shot packs (2)",
+    "U"
+   ],
+   [
+    "Shotgun with the eagle scratched off",
+    "U"
+   ],
+   [
+    "Plasma pistol, Ryza pattern (taken from a dead officer)",
+    "R"
+   ],
+   [
+    "Melta bomb",
+    "R"
+   ],
+   [
+    "Commissar's power sword (trophy)",
+    "R"
+   ]
+  ],
+  "specialists": {
+   "sniper": [
+    [
+     "Long-las, Mezoa + laspistol",
+     "U"
+    ],
+    [
+     "Scoped lasgun + laspistol",
+     "C"
+    ],
+    [
+     "Long-las, Helbore",
+     "R"
+    ]
+   ],
+   "grenadier": [
+    [
+     "Grenade launcher + 6 frag, 2 krak rounds",
+     "U"
+    ],
+    [
+     "Bag of 4 frags + 2 kraks + lasgun",
+     "C"
+    ]
+   ],
+   "plasma gunner": [
+    [
+     "Plasma gun, Mars pattern (slow-filled cell) + laspistol",
+     "R"
+    ],
+    [
+     "Meltagun + laspistol",
+     "R"
+    ],
+    [
+     "Hellgun with hot-shot packs",
+     "U"
+    ]
+   ],
+   "flamer": [
+    [
+     "Flamer, Ryza pattern + 2 canisters",
+     "U"
+    ],
+    [
+     "Hand flamer + lasgun",
+     "U"
+    ]
+   ],
+   "demolitions": [
+    [
+     "Demo satchel + detonator + lasgun",
+     "U"
+    ],
+    [
+     "Breaching charges x2 + 2 kraks",
+     "U"
+    ]
+   ],
+   "medic": [
+    [
+     "Med-kit + 3 stimms + laspistol",
+     "C"
+    ],
+    [
+     "Med-kit, antitoxin, 2 stimms + lascarbine",
+     "U"
+    ]
+   ],
+   "leader": [
+    [
+     "Renegade sergeant: chainsword + laspistol",
+     "U"
+    ],
+    [
+     "Renegade officer: power sword + bolt pistol",
+     "R"
+    ],
+    [
+     "Renegade sergeant: shotgun + combat knife",
+     "C"
+    ]
+   ],
+   "vox": [
+    [
+     "Vox-caster + lascarbine (calls in the rest)",
+     "U"
+    ],
+    [
+     "Vox-caster + auspex + laspistol",
+     "U"
+    ]
+   ],
+   "psyker": [
+    [
+     "Rogue psyker: crude staff + knife (unsanctioned; basic warp powers, Perils 1-3 a beat)",
+     "C"
+    ],
+    [
+     "Rogue psyker with a stolen force staff (stronger powers, Perils 1-3 a beat)",
+     "R"
+    ]
+   ],
+   "breacher": [
+    [
+     "Boarding shield + sawn-off shotgun",
+     "U"
+    ],
+    [
+     "Combat shotgun, semi-auto + shock baton",
+     "U"
+    ],
+    [
+     "Breaching charge + pump shotgun",
+     "C"
+    ]
+   ],
+   "heavy team": [
+    [
+     "Heavy stubber + 2 belts (two-man team)",
+     "U"
+    ],
+    [
+     "Heavy bolter, Guard pattern (two-man team)",
+     "R"
+    ],
+    [
+     "Braced autogun, 'Graia' pattern",
+     "C"
+    ]
+   ],
+   "heavy gunner": [
+    [
+     "Heavy stubber + 2 belts, carried",
+     "C"
+    ],
+    [
+     "Braced autogun, 'Graia' pattern",
+     "C"
+    ],
+    [
+     "Ripper gun / drum-fed shotgun",
+     "U"
+    ],
+    [
+     "Las-box, 'Kasr Barr' light las-LMG",
+     "R"
+    ]
+   ],
+   "berserker": [
+    [
+     "Chainsword + 3 doses of Frenzon (a broken penal trooper)",
+     "U"
+    ],
+    [
+     "Sharpened trench shovel + 3 doses of slaught",
+     "C"
+    ],
+    [
+     "Chain axe + 4 doses of Frenzon",
+     "U"
+    ]
+   ],
+   "brute": [
+    [
+     "Renegade Ogryn: ripper gun and slab shield",
+     "U"
+    ],
+    [
+     "Renegade Ogryn: grenadier gauntlet",
+     "R"
+    ],
+    [
+     "Penal brute: maul and a stolen trench club",
+     "C"
+    ]
+   ],
+   "icon bearer": [
+    [
+     "Defaced regimental colours + laspistol",
+     "C"
+    ],
+    [
+     "Traitor icon of the eight-pointed star + chainsword",
+     "U"
+    ]
+   ],
+   "beast handler": [
+    [
+     "Dog-handler with 2 war dogs + lasgun",
+     "C"
+    ],
+    [
+     "Handler with 2 cyber-mastiffs + laspistol",
+     "U"
+    ]
+   ],
+   "tech-adept": [
+    [
+     "Renegade enginseer: auto-turret, repair kit, lasgun",
+     "U"
+    ],
+    [
+     "Renegade enginseer: vox jammer, servo-skull, laspistol",
+     "R"
+    ]
+   ],
+   "infiltrator": [
+    [
+     "Infiltrator: silenced stub pistol, combat knife, chameleoline scraps",
+     "U"
+    ],
+    [
+     "Infiltrator: suppressed Kasr Warden autogun, knife",
+     "U"
+    ]
+   ],
+   "enforcer": [
+    [
+     "Renegade commissar: bolt pistol and chainsword, greatcoat",
+     "U"
+    ],
+    [
+     "Enforcer: laspistol and power maul, the old Commissariat cap",
+     "U"
+    ]
+   ],
+   "gunslinger": [
+    [
+     "Gunslinger: two Kantrael laspistols",
+     "C"
+    ],
+    [
+     "Gunslinger: two heavy laspistols",
+     "U"
+    ],
+    [
+     "Gunslinger: Mezoa long-las",
+     "C"
+    ],
+    [
+     "Gunslinger: Ryza hellgun (stolen Guard issue)",
+     "U"
+    ],
+    [
+     "Gunslinger: two Hammerfall stub revolvers",
+     "C"
+    ],
+    [
+     "Gunslinger: two plasma pistols",
+     "R"
+    ],
+    [
+     "Gunslinger: two autopistols",
+     "C"
+    ],
+    [
+     "Gunslinger: Accatran Mk XIV recon lasgun (short, fast)",
+     "U"
+    ],
+    [
+     "Gunslinger: Agripinaa autogun",
+     "C"
+    ]
+   ],
+   "bodyguard": [
+    [
+     "Bodyguard: boarding shield and shock maul",
+     "C"
+    ],
+    [
+     "Bodyguard: heavy carapace, combat shotgun and a shield",
+     "U"
+    ],
+    [
+     "Bodyguard: storm shield and power maul",
+     "R"
+    ]
+   ]
+  }
+ },
+ "traitor_elite": {
+  "weights": {
+   "C": 25,
+   "U": 50,
+   "R": 25
+  },
+  "weapon": [
+   [
+    "Hellgun, Ryza pattern",
+    "C"
+   ],
+   [
+    "Hellgun, Accatran (compact)",
+    "C"
+   ],
+   [
+    "Hot-shot volley gun",
+    "U"
+   ],
+   [
+    "Lasgun, 'Kasr Duet' twin-focus pattern",
+    "U"
+   ],
+   [
+    "Boltgun, Godwyn pattern",
+    "R"
+   ],
+   [
+    "Plasma gun, Mars pattern",
+    "R"
+   ],
+   [
+    "Combat shotgun, 'Kasr Sweeper' duckbill pattern",
+    "U"
+   ]
+  ],
+  "melee": [
+   [
+    "Combat knife",
+    "C"
+   ],
+   [
+    "Chain knife",
+    "C"
+   ],
+   [
+    "Chainsword",
+    "U"
+   ],
+   [
+    "Shock maul",
+    "U"
+   ],
+   [
+    "Power knife",
+    "U"
+   ],
+   [
+    "Power sword",
+    "R"
+   ]
+  ],
+  "armour": [
+   [
+    "Storm trooper carapace",
+    "C"
+   ],
+   [
+    "Storm trooper carapace and Scion-pattern helmet",
+    "U"
+   ],
+   [
+    "Storm trooper carapace with a refractor field",
+    "R"
+   ]
+  ],
+  "extra": [
+   [
+    "Frag and krak grenades",
+    "C"
+   ],
+   [
+    "Hot-shot packs (3)",
+    "C"
+   ],
+   [
+    "Photon flash grenade",
+    "U"
+   ],
+   [
+    "Stimm and med-kit",
+    "U"
+   ],
+   [
+    "Melta bomb",
+    "R"
+   ],
+   [
+    "Grav-chute",
+    "U"
+   ],
+   [
+    "Ordo seal (forged or stolen)",
+    "R"
+   ]
+  ],
+  "found": [
+   [
+    "Hellpistol",
+    "U"
+   ],
+   [
+    "Bolt pistol with a full magazine",
+    "U"
+   ],
+   [
+    "Inferno pistol",
+    "R"
+   ],
+   [
+    "Refractor field",
+    "R"
+   ],
+   [
+    "Psy-ward amulet (stolen from the Ordo)",
+    "R"
+   ],
+   [
+    "Power fist, Guard pattern",
+    "R"
+   ]
+  ],
+  "specialists": {
+   "sniper": [
+    [
+     "Long-las, Helbore + hellpistol",
+     "U"
+    ],
+    [
+     "Hot-shot long-las with range-finder",
+     "R"
+    ]
+   ],
+   "grenadier": [
+    [
+     "Grenade launcher with krak and frag + hellgun",
+     "U"
+    ],
+    [
+     "Melta bombs x2 + hellgun",
+     "R"
+    ]
+   ],
+   "plasma gunner": [
+    [
+     "Plasma gun, Mars pattern (proper cell) + hellpistol",
+     "U"
+    ],
+    [
+     "Meltagun + hellpistol",
+     "U"
+    ]
+   ],
+   "flamer": [
+    [
+     "Heavy flamer",
+     "U"
+    ],
+    [
+     "Flamer + hand flamer",
+     "U"
+    ]
+   ],
+   "demolitions": [
+    [
+     "Demo satchels x2 + detonator",
+     "U"
+    ],
+    [
+     "Breaching charges x3 + melta bomb",
+     "R"
+    ]
+   ],
+   "medic": [
+    [
+     "Medicae kit, concentrated stimms + hellpistol",
+     "U"
+    ]
+   ],
+   "leader": [
+    [
+     "Renegade storm-trooper captain: power sword + plasma pistol",
+     "R"
+    ],
+    [
+     "Renegade Interrogator: bolt pistol + power sword + forged rosette",
+     "R"
+    ],
+    [
+     "Sergeant: chainsword + hellpistol",
+     "U"
+    ]
+   ],
+   "vox": [
+    [
+     "Vox-caster + auspex + hellgun",
+     "U"
+    ]
+   ],
+   "breacher": [
+    [
+     "Storm shield + bolt pistol",
+     "R"
+    ],
+    [
+     "Boarding shield + duckbill shotgun",
+     "U"
+    ]
+   ],
+   "psyker": [
+    [
+     "Renegade sanctioned psyker: force staff + laspistol",
+     "R"
+    ]
+   ],
+   "assassin": [
+    [
+     "Silenced hellpistol + mono-knife",
+     "U"
+    ],
+    [
+     "Needle rifle + power knife",
+     "R"
+    ]
+   ],
+   "heavy team": [
+    [
+     "Heavy bolter (two-man team)",
+     "U"
+    ],
+    [
+     "Multi-laser, man-portable",
+     "U"
+    ],
+    [
+     "Lascannon, man-portable (two-man team)",
+     "R"
+    ]
+   ],
+   "heavy gunner": [
+    [
+     "Las-box, 'Kasr Barr' light las-LMG",
+     "U"
+    ],
+    [
+     "Hot-shot volley gun",
+     "U"
+    ],
+    [
+     "Heavy stubber with drum mag, carried",
+     "C"
+    ],
+    [
+     "Multi-laser, man-portable, carried",
+     "R"
+    ]
+   ],
+   "berserker": [
+    [
+     "Power axe + 4 doses of concentrated Frenzon",
+     "R"
+    ],
+    [
+     "Chainsword and power knife + 4 doses of Frenzon",
+     "U"
+    ],
+    [
+     "Eviscerator + 5 doses of Frenzon",
+     "R"
+    ]
+   ],
+   "brute": [
+    [
+     "Renegade Ogryn bodyguard: power maul and slab shield",
+     "R"
+    ],
+    [
+     "Renegade Ogryn: heavy stubber, carried",
+     "U"
+    ]
+   ],
+   "icon bearer": [
+    [
+     "Fallen company colours, the old honours burned + bolt pistol",
+     "U"
+    ],
+    [
+     "Their regiment's real standard, stolen + power sword",
+     "R"
+    ]
+   ],
+   "beast handler": [
+    [
+     "Handler with 2 cyber-mastiffs + hellpistol",
+     "U"
+    ],
+    [
+     "Handler with 3 cyber-mastiffs + hellgun",
+     "R"
+    ]
+   ],
+   "tech-adept": [
+    [
+     "Renegade tech-priest: heavy auto-turret, servo-arm, hellpistol",
+     "R"
+    ],
+    [
+     "Combat engineer: vox jammer, auspex, demo charge, hellgun",
+     "U"
+    ]
+   ],
+   "infiltrator": [
+    [
+     "Infiltrator: silenced hellpistol, power knife, chameleoline cloak",
+     "R"
+    ],
+    [
+     "Infiltrator: needle rifle, mono-knife, chameleoline cloak",
+     "R"
+    ],
+    [
+     "Infiltrator: suppressed Kasr Warden autogun, knife, cloak",
+     "U"
+    ]
+   ],
+   "enforcer": [
+    [
+     "Fallen commissar: bolt pistol, power sword, carapace greatcoat",
+     "R"
+    ],
+    [
+     "Enforcer: plasma pistol and chainsword",
+     "R"
+    ]
+   ],
+   "bodyguard": [
+    [
+     "Bodyguard: boarding shield and shock maul",
+     "C"
+    ],
+    [
+     "Bodyguard: heavy carapace, combat shotgun and a shield",
+     "U"
+    ],
+    [
+     "Bodyguard: storm shield and power maul",
+     "R"
+    ]
+   ]
+  }
+ }
+}
