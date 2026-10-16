@@ -281,6 +281,18 @@ The Light's container, Container 2 and the hold, all together.
 - **Supplies:** the *Widow*'s 12 crates (rations, water drums, scrubber cartridges, power cells, medicae).
 - **For Kesh (locked away; the vials in Tamsin's safe):** the six vials and Thask's letter, the burst casket, 13 iron open-gate amulets, chalk, Dresh's ritual knife and prayer-book, Drachen's ledgers and slates, the Spindle logs, Brann's slate, Orsk's ledger, handshake slate, seal and master ID.
 
+### Haul from the Slack Line and berth 4-2 (session 9, warp day 9; on the *Bright Light*)
+
+Hold-fire survival rolled 10: plasteel survived, the rest in the hold burned.
+
+- **Rare:** **Godwyn-pattern Astartes boltgun** (stolen; half a magazine), a **captain's power sword**, a **refractor field** (salvaged, flickers; turned one of Tamsin's bolts).
+- **Blades:** 2 sets of **Callidus plasteel throwing knives** (6 each; one set from the hold, scorched but sound), a **power knife** (two; one from the lock, one from the TALLY crew), a Navy cutlass, 2 officer's sabres, 4 weighted grapple-cutlasses, 3 boarding axes, a chainsword.
+- **Guns:** a **ripper drum shotgun**, 2 pump shotguns, a combat-shotgun-and-axe boarding rig, a **twin-barrel boarding pistol**, an **ornate captain's las pistol** (+1 on single shots), a shotlas (las-scattergun), 3 stub revolvers, an autopistol. From the Slack Line (Merrick boxing it): the stolen Ryza flamer, a scrap autogun with drum, a stolen officer's laspistol, a stub automatic, an autopistol.
+- **Explosives:** **1 melta bomb**, **1 demo satchel + detonator**, **1 breaching charge**, 3 frags, a choke gas grenade, 1 rot gas bottle (sealed, for Kesh).
+- **Armour and kit:** 5 carapace sets (TALLY crew), Wren's heavy carapace and boarding shield (scorched; have them checked), 3 patched Navy void-suits, 2 grav-chutes, a boarding shield (from the lock), **the vox-caster and 6 spoof-tags**.
+- **Other:** off-world spice (2 tins), amasec, ~40 Thrones (Joss), 7 sealed crates from the *Kestrel's Due* (unopened).
+- **Lost:** Wren's combat shotgun (warped), the axe, carapace and chainsword near the melta blast.
+
 ### Trade and debts
 
 - **Ottrick's slate (the Light's account): 0.75 TV in credit** (warp day 9). Sell container goods by word; his ratings fetch them.
