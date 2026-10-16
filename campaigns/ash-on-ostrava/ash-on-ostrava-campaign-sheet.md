@@ -94,7 +94,8 @@ Varga, Dace, Corvane, Isk, Morcant and Sallow ~25 min out; Hollis stays on cell 
 Tavi on his cot, pilots and Ferro aboard, Nessa in her cell.
 Sallow told Kell is sick: bringing her full medicae kit and antitoxin from the Light's stock.
 Kell sitting. **Brenner's auspex (19):** 2 outside on the apron, 9 aboard the Kestrel's Due: 2 forward (bridge), 3 aft (engines), 3 together midships (hold), 1 just inside the airlock.
-Tamsin to Varga: push through; if not here by 0540 we attack. **Team arrived ~0536 (18)**: Varga, Dace, Corvane, Isk, Morcant, Sallow. Sallow dosed Kell with antitoxin: sickness purged, Kell still Hurt but steadier. ~0530 the Kestrel's crew started loading (16): servitor carrying crates in, airlock open while it works. **~0400: Tamsin ordered Merrick to
+Tamsin to Varga: push through; if not here by 0540 we attack. **Team arrived ~0536 (18)**: Varga, Dace, Corvane, Isk, Morcant, Sallow. Sallow dosed Kell with antitoxin: sickness purged, Kell still Hurt but steadier. ~0530 the Kestrel's crew started loading (16): servitor carrying crates in, airlock open while it works.
+Plan: on Tamsin's move, Tamsin and Dace up the ramp; Kell and Varga to the bridge to cover the pilot (shoot if they put it in gear); the rest hold a perimeter on the apron. ~0538 Tamsin and Dace at the foot of the ramp; the two smokers froze, hands up. **~0400: Tamsin ordered Merrick to
 find Joss** and hand him over to talk. Her people are pulling ring-two galley
 pass records, putting his description out, and sending a pair to Galley 2-C.
 Tamsin ordered the glove burned and the cell decontaminated. Merrick had the flask
@@ -496,6 +497,17 @@ Light's container. Crew rallying cry: **"We are the light."**
   flak vest, amulet, pipe-bomb. 3 hive shank, autopistol, flak vest, choke gas
   grenade, 2 rot gas bottles. 4 stub revolver, chain knife, rags, candles, pipe-bomb.
   5 scrap autogun with drum, chain knife, flak set, frag, pipe-bomb. Joss is #3.
+  **Kestrel's Due crew (rolled pirate 10, book 2; 2d20 30 basic; better-armed 14 =
+  3):** outside: #4 stub revolver, boarding axe, deck coat; #9 pump shotgun, boarding
+  axe, deck coat, ornate captain's las pistol (+1 single shots). Inside the lock: #2
+  power knife, boarding shield, grav-chute. Bridge: #8 vox specialist (vox-caster,
+  spoof-tag, autopistol, patched void-suit); #1 shotlas, chainsword, flak set.
+  Engines: #5 demolitions (demo satchel + detonator, carapace); #7 demolitions (melta
+  bomb, knife, flak, frag); #3 stub revolver, boarding axe, patched void-suit, frag,
+  stolen melta bomb. Hold with Wren: #6 boarding axe, carapace, amasec; #10
+  chainsword, deck coat, Callidus plasteel throwing knives (6). **Wren (cultist,
+  Nurgle, rolled bodyguard kit):** heavy carapace, combat shotgun, shield, frag.
+  Approach: smokers notice midway (10), freeze, hands up (16); lock guard unaware (18).
 - **Ferro-Ashe's heresy (hidden):** cast out of the Mechanicus for letting a cogitator learn on its own. They still have its core in a sealed case in the workshop.
 - Varsaine's own story is true as far as it goes. Keep him honest but not
   fully forthcoming.
