@@ -30,7 +30,10 @@ warp day 9, Merrick vox: Master Orsk found dead in his cell in her brig.** Kell
 woke Tamsin. Tamsin's side wound (Spindle) mended well overnight (18): **Fine, stiff.**
 ~0315 kitted (carapace, Vigil, Last Word, knife; Shameholder still in the rack) and
 walked to ring one with Kell and Brenner; Hollis left on cell 2. **~0340 at
-Merrick's brig.**
+Merrick's brig.** Searched Orsk's cell (17, everything): no wounds; dark lips and
+fingertips; glossy greenish film inside the lip of his water flask (the meal's own
+flask; the cell's wall tap flask is dry and clean); tray and flask stamped
+**GALLEY 2-C** (a ring-two galley, not the brig's usual galley).
 - **Geller generator:** Ferro-Ashe's full repair with the Spindle's coupling and
   1 plasteel, done **~1200 warp day 10**. **1 plasteel ingot left.**
 - **Next blessing: Kell's hellgun Officer** (Tamsin's choice). After the repair,
