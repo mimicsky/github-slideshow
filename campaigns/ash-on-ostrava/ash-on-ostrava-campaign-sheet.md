@@ -28,6 +28,9 @@ Kole), and Tamsin will look for the crew's gifts at Ustrennos (Voss and the stat
 Range lanes booked 0530. Tamsin slept ~2015. **Night (rolled 2, a message, 3): ~0310
 warp day 9, Merrick vox: Master Orsk found dead in his cell in her brig.** Kell
 woke Tamsin. Tamsin's side wound (Spindle) mended well overnight (18): **Fine, stiff.**
+~0315 kitted (carapace, Vigil, Last Word, knife; Shameholder still in the rack) and
+walked to ring one with Kell and Brenner; Hollis left on cell 2. **~0340 at
+Merrick's brig.**
 - **Geller generator:** Ferro-Ashe's full repair with the Spindle's coupling and
   1 plasteel, done **~1200 warp day 10**. **1 plasteel ingot left.**
 - **Next blessing: Kell's hellgun Officer** (Tamsin's choice). After the repair,
@@ -405,6 +408,11 @@ Light's container. Crew rallying cry: **"We are the light."**
     focusing the wounded, retreating to better ground) and more fights happen
     where the terrain favours them.
 
+- **Orsk's death (session 9, hidden):** poisoned. Thask's reach. A cult contact
+  toxin painted inside the lip of his water flask, delivered with the 2200 brig
+  meal by a station galley rating, **Pell Dunmore**, who did not come back on shift
+  and is hiding on the station. Brig guards saw the meal cart; the flask is still
+  in the cell. Orsk knew the most about Thask's runs.
 - **Ferro-Ashe's heresy (hidden):** cast out of the Mechanicus for letting a cogitator learn on its own. They still have its core in a sealed case in the workshop.
 - Varsaine's own story is true as far as it goes. Keep him honest but not
   fully forthcoming.
