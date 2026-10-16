@@ -43,6 +43,9 @@ corridor, said to be sick). The 2200 cover (pass recalled, 11): first name
 sleeves kept down; left with the cart ~2215. **~0400: Tamsin ordered Merrick to
 find Joss** and hand him over to talk. Her people are pulling ring-two galley
 pass records, putting his description out, and sending a pair to Galley 2-C.
+Tamsin ordered the glove burned and the cell decontaminated. Merrick had the flask
+and the film sealed in an evidence tin first (for Kesh); glove burned; Orsk's body
+bagged for the station medicae; cell 12 to be scrubbed with promethium wash.
 - **Geller generator:** Ferro-Ashe's full repair with the Spindle's coupling and
   1 plasteel, done **~1200 warp day 10**. **1 plasteel ingot left.**
 - **Next blessing: Kell's hellgun Officer** (Tamsin's choice). After the repair,
