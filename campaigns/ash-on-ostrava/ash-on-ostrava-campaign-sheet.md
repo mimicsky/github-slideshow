@@ -25,6 +25,9 @@ the six days at Ustrennos are for training and getting ready** ("the universe is
 going to get much harder on us"); the 0530 training plan stands. **The Light trains
 on the fleet marines' live-fire range, ring three** (Brenner booking it through
 Kole), and Tamsin will look for the crew's gifts at Ustrennos (Voss and the station).
+Range lanes booked 0530. Tamsin slept ~2015. **Night (rolled 2, a message, 3): ~0310
+warp day 9, Merrick vox: Master Orsk found dead in his cell in her brig.** Kell
+woke Tamsin. Tamsin's side wound (Spindle) mended well overnight (18): **Fine, stiff.**
 - **Geller generator:** Ferro-Ashe's full repair with the Spindle's coupling and
   1 plasteel, done **~1200 warp day 10**. **1 plasteel ingot left.**
 - **Next blessing: Kell's hellgun Officer** (Tamsin's choice). After the repair,
