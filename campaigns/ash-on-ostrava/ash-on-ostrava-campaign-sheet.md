@@ -66,7 +66,10 @@ beside the bomb (4). Kell shouted the bomb (13). Brenner smothered the burning
 dockhand (11; dockhand burned but alive, 20). **Beat 3:** Tamsin out of the door and
 flat to the wall; the pipe-bomb went off in the back room. #1, #2, #5 dead (4, 10,
 12). Flamer tank held (18). **Joss Hurt (19)**: the overturned table took most of it.
-Joss is the only cultist alive. **~0400: Tamsin ordered Merrick to
+Joss is the only cultist alive. **Beat 4:** Tamsin covered Joss from the doorway:
+"On your face." Joss complied (19). One of Joss's rot gas bottles cracked in the
+blast (4): a thin green haze in the back room around him (hangs this beat and
+next). Kell about to go in and search (his search rolled 4 if he does it now). **~0400: Tamsin ordered Merrick to
 find Joss** and hand him over to talk. Her people are pulling ring-two galley
 pass records, putting his description out, and sending a pair to Galley 2-C.
 Tamsin ordered the glove burned and the cell decontaminated. Merrick had the flask
