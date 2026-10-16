@@ -76,7 +76,14 @@ right forearm, three small circles branded in a triangle, a few weeks healed;
 autopistol (waistband), hive shank (right boot), choke gas grenade (belt), one
 intact rot gas bottle (left coat pocket; the right one cracked); a purse of ~40
 Thrones; his Galley 2-C pass; a **berth chit: hauler *Kestrel's Due*, berth 4-2,
-undock 0600, one passenger, paid**. Tamsin has him by the shirt. **~0400: Tamsin ordered Merrick to
+undock 0600, one passenger, paid**. Tamsin has him by the shirt. Kell bagged
+Joss's gear (gloved; bottle wrapped). **Joss broke (15):** Open Gate since before
+Ustrennos; a woman called **Wren** off the *Kestrel's Due* ("she speaks for her
+father") paid him two months for station gossip; ~1500 yesterday she gave him the
+lacquer for the flask and the bottles: Orsk "would talk to the rosette, and the
+garden has to be kept." The brand is "for the garden," given by Wren. The other
+four were Wren's, waiting to ship out with him at 0600. ~0455 Merrick's people
+arriving. **~0400: Tamsin ordered Merrick to
 find Joss** and hand him over to talk. Her people are pulling ring-two galley
 pass records, putting his description out, and sending a pair to Galley 2-C.
 Tamsin ordered the glove burned and the cell decontaminated. Merrick had the flask
