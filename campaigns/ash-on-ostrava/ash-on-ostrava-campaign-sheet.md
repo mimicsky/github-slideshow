@@ -63,7 +63,10 @@ a step; Brenner fine (20). **Tamsin resisted the rot gas (18).** **Beat 2:** Tam
 #4 dead (crit; **Vigil heat 1**), his lit pipe-bomb dropped on the back-room floor;
 #5 Down; #1 Down. Fuse not yet (13): it goes next beat. Joss frozen behind the table
 beside the bomb (4). Kell shouted the bomb (13). Brenner smothered the burning
-dockhand (11; dockhand burned but alive, 20). **~0400: Tamsin ordered Merrick to
+dockhand (11; dockhand burned but alive, 20). **Beat 3:** Tamsin out of the door and
+flat to the wall; the pipe-bomb went off in the back room. #1, #2, #5 dead (4, 10,
+12). Flamer tank held (18). **Joss Hurt (19)**: the overturned table took most of it.
+Joss is the only cultist alive. **~0400: Tamsin ordered Merrick to
 find Joss** and hand him over to talk. Her people are pulling ring-two galley
 pass records, putting his description out, and sending a pair to Galley 2-C.
 Tamsin ordered the glove burned and the cell decontaminated. Merrick had the flask
