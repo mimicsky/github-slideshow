@@ -20,7 +20,9 @@ visit (gifts wait). Holt and Brann in cell 2. Tamsin has trained twice today
 (range with Vigil, Dace's cover drill).
 **~2000 warp day 8: moved to Ustrennos Station** at Tamsin's word (Varn's offer via
 Lt. Kole): Mira flew the hop; **berth 2-9, ring two**, a short walk from Voss's
-fleet stores. Ferro-Ashe's Geller rite undisturbed.
+fleet stores. Ferro-Ashe's Geller rite undisturbed. **Tamsin's order (~2000):
+the six days at Ustrennos are for training and getting ready** ("the universe is
+going to get much harder on us"); the 0530 training plan stands.
 - **Geller generator:** Ferro-Ashe's full repair with the Spindle's coupling and
   1 plasteel, done **~1200 warp day 10**. **1 plasteel ingot left.**
 - **Next blessing: Kell's hellgun Officer** (Tamsin's choice). After the repair,
