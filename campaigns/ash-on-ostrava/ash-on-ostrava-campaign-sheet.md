@@ -59,7 +59,7 @@ over Tamsin, Kell, Brenner. #5 drum-sprayed the doorway (10), no Light hit. Joss
 (#3) cowering (5). #4 lighting a pipe-bomb (9). Kell shot #2 (12): **#2 Down**,
 flamer on the floor. Brenner (18) got his rebreather on and called Merrick for
 backup. Gas saves: **Kell sickened (3)**, needs antitoxin after the fight or drops
-a step; Brenner fine (20). Tamsin's CON save pending. **~0400: Tamsin ordered Merrick to
+a step; Brenner fine (20). **Tamsin resisted the rot gas (18).** **~0400: Tamsin ordered Merrick to
 find Joss** and hand him over to talk. Her people are pulling ring-two galley
 pass records, putting his description out, and sending a pair to Galley 2-C.
 Tamsin ordered the glove burned and the cell decontaminated. Merrick had the flask
