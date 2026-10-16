@@ -41,7 +41,9 @@ Night guard **Corran Tey** (brig): usual cart is **Feyn** (Galley 1-A cook, down
 corridor, said to be sick). The 2200 cover (pass recalled, 11): first name
 **Joss**, ring-two galley pass; thin, thirties, shaved head, pale scar on the chin,
 sleeves kept down; left with the cart ~2215. ~0407: Tamsin found Feyn in his bunk
-behind Galley 1-A, sick (retching, pale; lips and fingers normal). **~0400: Tamsin ordered Merrick to
+behind Galley 1-A, sick (retching, pale; lips and fingers normal). Brenner fetched
+an antitoxin from Merrick's guardroom kit (the station's, not the Light's); Tamsin
+dosed Feyn; ~0418 the nausea eased and he can talk. **~0400: Tamsin ordered Merrick to
 find Joss** and hand him over to talk. Her people are pulling ring-two galley
 pass records, putting his description out, and sending a pair to Galley 2-C.
 Tamsin ordered the glove burned and the cell decontaminated. Merrick had the flask
