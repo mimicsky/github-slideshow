@@ -86,7 +86,12 @@ four were Wren's, waiting to ship out with him at 0600. ~0455 Merrick's people
 arriving. Joss: Wren is aboard the *Kestrel's Due*, **berth 4-2, ring four**, waiting
 to undock at 0600. Tamsin claimed the back room's gear as evidence and ordered it
 decontaminated; Merrick agreed (her troopers seal it, wash it, and box everything
-for the *Bright Light*). **~0400: Tamsin ordered Merrick to
+for the *Bright Light*). Brenner called the Light out to berth 4-2 (quiet, no
+fuss); Merrick holds the evidence. Kell **Hurt** (the rot sickness took hold after
+the fight; no antitoxin yet). **~0515 Tamsin, Kell, Brenner at berth 4-2, ring
+four.** Wren hasn't heard of the Slack Line (13). The Light is slow to muster (1):
+Varga, Dace, Corvane, Isk, Morcant and Sallow ~25 min out; Hollis stays on cell 2,
+Tavi on his cot, pilots and Ferro aboard, Nessa in her cell. **~0400: Tamsin ordered Merrick to
 find Joss** and hand him over to talk. Her people are pulling ring-two galley
 pass records, putting his description out, and sending a pair to Galley 2-C.
 Tamsin ordered the glove burned and the cell decontaminated. Merrick had the flask
