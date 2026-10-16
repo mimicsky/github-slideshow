@@ -70,7 +70,13 @@ Joss is the only cultist alive. **Beat 4:** Tamsin covered Joss from the doorway
 "On your face." Joss complied (19). One of Joss's rot gas bottles cracked in the
 blast (4): a thin green haze in the back room around him (hangs this beat and
 next). Tamsin and Kell dragged Joss out into the bar and shut the steel door on
-the haze. **Tamsin resisted (15).** Joss resisted too (14). Fight over: 4 cultists dead, Joss taken (Hurt). **~0400: Tamsin ordered Merrick to
+the haze. **Tamsin resisted (15).** Joss resisted too (14). Fight over: 4 cultists dead, Joss taken (Hurt).
+**Searched Joss (19):** left forearm, an open gate tattoo (two doors swung wide);
+right forearm, three small circles branded in a triangle, a few weeks healed;
+autopistol (waistband), hive shank (right boot), choke gas grenade (belt), one
+intact rot gas bottle (left coat pocket; the right one cracked); a purse of ~40
+Thrones; his Galley 2-C pass; a **berth chit: hauler *Kestrel's Due*, berth 4-2,
+undock 0600, one passenger, paid**. Tamsin has him by the shirt. **~0400: Tamsin ordered Merrick to
 find Joss** and hand him over to talk. Her people are pulling ring-two galley
 pass records, putting his description out, and sending a pair to Galley 2-C.
 Tamsin ordered the glove burned and the cell decontaminated. Merrick had the flask
