@@ -83,7 +83,10 @@ father") paid him two months for station gossip; ~1500 yesterday she gave him th
 lacquer for the flask and the bottles: Orsk "would talk to the rosette, and the
 garden has to be kept." The brand is "for the garden," given by Wren. The other
 four were Wren's, waiting to ship out with him at 0600. ~0455 Merrick's people
-arriving. **~0400: Tamsin ordered Merrick to
+arriving. Joss: Wren is aboard the *Kestrel's Due*, **berth 4-2, ring four**, waiting
+to undock at 0600. Tamsin claimed the back room's gear as evidence and ordered it
+decontaminated; Merrick agreed (her troopers seal it, wash it, and box everything
+for the *Bright Light*). **~0400: Tamsin ordered Merrick to
 find Joss** and hand him over to talk. Her people are pulling ring-two galley
 pass records, putting his description out, and sending a pair to Galley 2-C.
 Tamsin ordered the glove burned and the cell decontaminated. Merrick had the flask
