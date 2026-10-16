@@ -93,6 +93,9 @@ bagged for the station medicae; cell 12 to be scrubbed with promethium wash.
 
 The same list as the codex's Part 6, kept here so it is never missed on resume.
 
+- **Let the player figure it out.** Show a clue once, then leave it. No repeats,
+  no NPCs pointing at it, no nudges. The player says so out of character if
+  stuck. Set by the player, session 9.
 - **Stop after the player's action.** Resolve only what the player does, then
   hand control back. NPCs don't make big moves past it.
 - **Stop at the first new decision point.** When an action has several steps ("let it shut, then we breach"), resolve up to the first moment where things change and the player could choose differently (a door shuts, a breach is about to start), then stop. The player may also say where to stop. Set by the player, Ash on Ostrava session 6.

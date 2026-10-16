@@ -402,6 +402,11 @@ change any line and I play by the new version from then on.
 
 Standing preferences, set during play. They apply to every campaign.
 
+- **Let the player figure it out.** A clue is shown **once**, plainly, then left
+  alone. Don't repeat it, don't have NPCs bring it up again or point at it, and
+  don't nudge toward the answer. The player puts it together. If they're stuck,
+  they'll say so out of character, and only then does the DM help. Set by the
+  player, Ash on Ostrava session 9.
 - **Stop after the player's action.** Resolve only what the player does, then
   hand control back. NPCs don't make big moves past it.
 - **Stop at the first new decision point.** When an action has several steps ("let it shut, then we breach"), resolve up to the first moment where things change and the player could choose differently (a door shuts, a breach is about to start), then stop. The player may also say where to stop. Set by the player, Ash on Ostrava session 6.
