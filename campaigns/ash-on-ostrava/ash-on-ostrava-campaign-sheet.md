@@ -448,7 +448,12 @@ Light's container. Crew rallying cry: **"We are the light."**
   Galley 1-A, and he knows Joss: **Joss Dunmore, Galley 2-C, drinks at the Slack
   Line (ring-two dive), lately flush with coin.**
   **Joss now (rolled 13):** in the Slack Line's back room with his cult contacts,
-  waiting for a way off the station. Roll the group when the Light finds them.
+  waiting for a way off the station. **Rolled (cultist 5, book 2, Nurgle; 2d20 27
+  basic; better-armed 18 = all 5):** 1 trench club, stub automatic, flak set, rot
+  gas bottle, stolen officer's laspistol. 2 stolen Ryza flamer, Cadian machete,
+  flak vest, amulet, pipe-bomb. 3 hive shank, autopistol, flak vest, choke gas
+  grenade, 2 rot gas bottles. 4 stub revolver, chain knife, rags, candles, pipe-bomb.
+  5 scrap autogun with drum, chain knife, flak set, frag, pipe-bomb. Joss is #3.
 - **Ferro-Ashe's heresy (hidden):** cast out of the Mechanicus for letting a cogitator learn on its own. They still have its core in a sealed case in the workshop.
 - Varsaine's own story is true as far as it goes. Keep him honest but not
   fully forthcoming.
