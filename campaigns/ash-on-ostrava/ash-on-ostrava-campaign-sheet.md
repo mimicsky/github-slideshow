@@ -9,12 +9,15 @@ story lives in `book.md`.
 a mission's book chapters are written, delete it from here: the books tell what
 happened, and git history keeps every old version.
 
-**Where we stopped:** **Season Two, session 8 (continued), ~1445 warp day 8**, the
-hold of the *Bright Light*, docked at the dead Spindle (its plant spirit shut down
-when the coupling was pulled; the ring is dark and cold). Waiting on Kesh's answer
-to the two reports; **then to Saint Ivaine's Rest** (the vials are not staying
-aboard; the Rest's yards; its bazaars for the crew's gifts). Holt and Brann in
-cell 2. Tamsin has trained twice today (range with Vigil, Dace's cover drill).
+**Where we stopped:** **Season Two, session 9, ~1845 warp day 8**, the galley of
+the *Bright Light*, docked at the dead Spindle (dark and cold). Tamsin ate alone
+(~1500). **Kesh's answer just arrived** (astropath on Varn's *Iron Litany*, relayed
+by Brenner; rolled 5, then Thask 15): **do not bring the vials to the Rest** (a
+pilgrim world; she won't risk plague crossing the warp to it). **Hold at
+Ustrennos.** **Sister Aldwyn** comes on a fast courier to take the vials, Holt and
+Brann (~6 days). **Leave to hunt Thask granted**, after the hand-off. So no Rest
+visit (gifts wait). Holt and Brann in cell 2. Tamsin has trained twice today
+(range with Vigil, Dace's cover drill).
 - **Geller generator:** Ferro-Ashe's full repair with the Spindle's coupling and
   1 plasteel, done **~1200 warp day 10**. **1 plasteel ingot left.**
 - **Next blessing: Kell's hellgun Officer** (Tamsin's choice). After the repair,
