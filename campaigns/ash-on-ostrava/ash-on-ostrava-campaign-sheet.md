@@ -43,7 +43,12 @@ corridor, said to be sick). The 2200 cover (pass recalled, 11): first name
 sleeves kept down; left with the cart ~2215. ~0407: Tamsin found Feyn in his bunk
 behind Galley 1-A, sick (retching, pale; lips and fingers normal). Brenner fetched
 an antitoxin from Merrick's guardroom kit (the station's, not the Light's); Tamsin
-dosed Feyn; ~0418 the nausea eased and he can talk. **~0400: Tamsin ordered Merrick to
+dosed Feyn; ~0418 the nausea eased and he can talk. **Feyn on Joss:** Joss Dunmore,
+cook's hand at Galley 2-C, ring two; known ~a year from card nights; brought Feyn a
+"spare" grox cut ~1600 yesterday; dropped by ~2130 "to see how it sat", found him
+sick, offered to run the brig cart. Bunks in the 2-C crew bay. Drinks at **the Slack
+Line** (ring-two dive by the cargo spoke). Flush with coin the last month or two,
+buying rounds. Never rolls his sleeves up, even at the ovens. **~0400: Tamsin ordered Merrick to
 find Joss** and hand him over to talk. Her people are pulling ring-two galley
 pass records, putting his description out, and sending a pair to Galley 2-C.
 Tamsin ordered the glove burned and the cell decontaminated. Merrick had the flask
