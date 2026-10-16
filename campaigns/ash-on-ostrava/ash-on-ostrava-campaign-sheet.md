@@ -51,7 +51,8 @@ Line** (ring-two dive by the cargo spoke). Flush with coin the last month or two
 buying rounds. Never rolls his sleeves up, even at the ovens. Sorel: Joss's bunk
 empty, locker cleared. Tamsin told Merrick to see to Feyn and tighten her night
 watch, then walked with Kell and Brenner to **the Slack Line** (ring two, cargo
-spoke). **~0440 outside it.** **~0400: Tamsin ordered Merrick to
+spoke). **~0440 outside it.** ~0442 crossed the bar to the back door; nobody warned
+the back room (20). **~0400: Tamsin ordered Merrick to
 find Joss** and hand him over to talk. Her people are pulling ring-two galley
 pass records, putting his description out, and sending a pair to Galley 2-C.
 Tamsin ordered the glove burned and the cell decontaminated. Merrick had the flask
