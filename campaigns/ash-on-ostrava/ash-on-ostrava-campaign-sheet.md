@@ -52,7 +52,14 @@ buying rounds. Never rolls his sleeves up, even at the ovens. Sorel: Joss's bunk
 empty, locker cleared. Tamsin told Merrick to see to Feyn and tighten her night
 watch, then walked with Kell and Brenner to **the Slack Line** (ring two, cargo
 spoke). **~0440 outside it.** ~0442 crossed the bar to the back door; nobody warned
-the back room (20). **~0400: Tamsin ordered Merrick to
+the back room (20). Tamsin called them out (Intimidation 2: failed). **Fight, beat
+1:** no rear exit (10), they're cornered. #2 kicked the door and flamed the bar (7);
+a dockhand set alight (2). #1's rot gas bottle burst outside the door (13): cloud
+over Tamsin, Kell, Brenner. #5 drum-sprayed the doorway (10), no Light hit. Joss
+(#3) cowering (5). #4 lighting a pipe-bomb (9). Kell shot #2 (12): **#2 Down**,
+flamer on the floor. Brenner (18) got his rebreather on and called Merrick for
+backup. Gas saves: **Kell sickened (3)**, needs antitoxin after the fight or drops
+a step; Brenner fine (20). Tamsin's CON save pending. **~0400: Tamsin ordered Merrick to
 find Joss** and hand him over to talk. Her people are pulling ring-two galley
 pass records, putting his description out, and sending a pair to Galley 2-C.
 Tamsin ordered the glove burned and the cell decontaminated. Merrick had the flask
