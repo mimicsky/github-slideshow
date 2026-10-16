@@ -410,7 +410,7 @@ Light's container. Crew rallying cry: **"We are the light."**
 
 - **Orsk's death (session 9, hidden):** poisoned. Thask's reach. A cult contact
   toxin painted inside the lip of his water flask, delivered with the 2200 brig
-  meal by a station galley rating, **Pell Dunmore**, who did not come back on shift
+  meal by a station galley rating, **Joss Dunmore**, who did not come back on shift
   and is hiding on the station. Brig guards saw the meal cart; the flask is still
   in the cell. Orsk knew the most about Thask's runs.
 - **Ferro-Ashe's heresy (hidden):** cast out of the Mechanicus for letting a cogitator learn on its own. They still have its core in a sealed case in the workshop.
