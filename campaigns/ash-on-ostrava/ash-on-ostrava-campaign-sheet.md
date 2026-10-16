@@ -37,6 +37,10 @@ flask; the cell's wall tap flask is dry and clean); tray and flask stamped
 with the knife: tacky, green, smells like the Spindle antechamber's seed mist; it
 stained through Tamsin's left glove. **Glove thrown off clean (16), no skin
 contact.** Glove lies on the cell floor. Tamsin: "He was poisoned."
+Night guard **Corran Tey** (brig): usual cart is **Feyn** (Galley 1-A cook, down the
+corridor, said to be sick). The 2200 cover (pass recalled, 11): first name
+**Joss**, ring-two galley pass; thin, thirties, shaved head, pale scar on the chin,
+sleeves kept down; left with the cart ~2215.
 - **Geller generator:** Ferro-Ashe's full repair with the Spindle's coupling and
   1 plasteel, done **~1200 warp day 10**. **1 plasteel ingot left.**
 - **Next blessing: Kell's hellgun Officer** (Tamsin's choice). After the repair,
