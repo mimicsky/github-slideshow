@@ -92,7 +92,8 @@ the fight; no antitoxin yet). **~0515 Tamsin, Kell, Brenner at berth 4-2, ring
 four.** Wren hasn't heard of the Slack Line (13). The Light is slow to muster (1):
 Varga, Dace, Corvane, Isk, Morcant and Sallow ~25 min out; Hollis stays on cell 2,
 Tavi on his cot, pilots and Ferro aboard, Nessa in her cell.
-Sallow told Kell is sick: bringing her full medicae kit and antitoxin from the Light's stock. **~0400: Tamsin ordered Merrick to
+Sallow told Kell is sick: bringing her full medicae kit and antitoxin from the Light's stock.
+Kell sitting. **Brenner's auspex (19):** 2 outside on the apron, 9 aboard the Kestrel's Due: 2 forward (bridge), 3 aft (engines), 3 together midships (hold), 1 just inside the airlock. **~0400: Tamsin ordered Merrick to
 find Joss** and hand him over to talk. Her people are pulling ring-two galley
 pass records, putting his description out, and sending a pair to Galley 2-C.
 Tamsin ordered the glove burned and the cell decontaminated. Merrick had the flask
