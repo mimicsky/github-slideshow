@@ -428,6 +428,10 @@ Light's container. Crew rallying cry: **"We are the light."**
   meal by a station galley rating, **Joss Dunmore**, who did not come back on shift
   and is hiding on the station. Brig guards saw the meal cart; the flask is still
   in the cell. Orsk knew the most about Thask's runs.
+  **Feyn (rolled 20):** really sick (bad grox from Galley 2-C, a gift from Joss the
+  day before; ordinary food poisoning, not the toxin). Alive in his bunk behind
+  Galley 1-A, and he knows Joss: **Joss Dunmore, Galley 2-C, drinks at the Slack
+  Line (ring-two dive), lately flush with coin.**
 - **Ferro-Ashe's heresy (hidden):** cast out of the Mechanicus for letting a cogitator learn on its own. They still have its core in a sealed case in the workshop.
 - Varsaine's own story is true as far as it goes. Keep him honest but not
   fully forthcoming.
