@@ -197,6 +197,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 - **No repeats.** Save before writing the scene; the save note is just
   "(saved)". The scene is the last thing in the reply. NPCs don't re-explain,
   and the time and situation aren't restated when nothing changed.
+- **Will for captives** (house rule 8): hidden Will % and breaking point; will checks take it down; Perception reads it.
 - **Hidden DCs, near-miss partials, the exchange, shot chains, stat levels**
   (house rules 1, 3, 5, 6, 7).
 - **Explain setting lore briefly** out of character when asked, limited to what
@@ -545,6 +546,7 @@ Light's container. Crew rallying cry: **"We are the light."**
   **Reinforcements (pirate 6, book 2; group d20 20: ELITE TEAM + rare find):** 1 breacher (boarding axe + shotgun, cutlass, carapace, spoof-tag, Callidus knives); 2 ripper drum shotgun, officer's sabre, carapace, spoof-tag, grapple-cutlass; 3 **stolen Godwyn-pattern Astartes boltgun (the rare find: taken off a dead Marine's wreck, half a magazine)**, captain's power sword, carapace, spoof-tag, grapple-cutlass; 4 officer's sabre, patched void-suit, frag, grapple-cutlass; 5 power knife, carapace, spoof-tag, **refractor field (salvaged, flickers)**; 6 demolitions (2 breaching charges, pump shotgun, chainsword, carapace, grav-chute, twin-barrel boarding pistol).
   **Beat 7 aboard:** Wren Down in the burning hold (fire 3): she burns to death within a couple of minutes unless someone gets her out. #3 dragged #7 aft into the engine space with #5 and the satchel (13).
   **Engines (beat 1, 20):** #5 has rigged his demo satchel on the aft hold hatch (tripwire; Perception spots it); #7 and #3 hold aft with melta bombs.
+- **Will (house rule 8), hidden numbers:** **Joss Dunmore: Will 52%, breaks below 23%.** (Already talked at the Slack Line; knows little more.)
 - **Ferro-Ashe's heresy (hidden):** cast out of the Mechanicus for letting a cogitator learn on its own. They still have its core in a sealed case in the workshop.
 - Varsaine's own story is true as far as it goes. Keep him honest but not
   fully forthcoming.

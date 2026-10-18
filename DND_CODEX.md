@@ -655,6 +655,45 @@ scores and Part 8's once-per-stay training.
 
 ---
 
+**8. Will: interrogation and recruiting.**
+
+Added at the player's request in Ash on Ostrava, session 9. For captives and anyone
+the player tries to break or win over.
+
+- **Will (shown as a %, hidden).** When someone is taken, the DM sets their Will
+  between **100% and 50%** from what happened before: a crushing defeat, watching
+  their people die or a quick surrender start them low; a fanatic, a fresh capture
+  or a proud officer starts high.
+- **Breaking point (hidden, never told).** Each person also has a hidden number,
+  usually **20-50%**, set by the DM from who they are (a fanatic may sit near 0 and
+  almost never break). When Will drops **below** it, they break:
+  - **Interrogation:** they answer truthfully what they actually know. They can't
+    give what they don't know.
+  - **Recruiting:** they genuinely want in. They won't betray or fight the player,
+    like Nessa. The DM still plays them as themselves.
+- **Will checks.** Each push is one session of talk or pressure (about an hour).
+  The player says when they're making a will check and rolls a d20; the DM picks the
+  skill from the approach (Intimidation, Persuasion, a variant pairing) and takes
+  Will down:
+
+  | Total | Will lost |
+  | --- | --- |
+  | 9 or less | 0-2% |
+  | 10-14 | 5-10% |
+  | 15-19 | 10-15% |
+  | 20+ | 15-20% |
+
+  A natural 20 doubles it. A natural 1 *raises* Will 5% (they harden).
+- **Hard methods** (pain, threats, deprivation) take **5% more** on each check, but
+  roll a d20 each session: **1-3** the subject goes Down (and may die), and anything
+  said under pain may be a lie told to make it stop (DM rolls, hidden). Three
+  sessions a day at most before they pass out.
+- **Reading them.** A Perception check reads their current Will: **20+** within
+  1-2%, **15-19** within 5%, **10-14** within 10%, lower within 20% (or misread).
+  The breaking point is never shown.
+
+---
+
 ### Rulings made at the table
 
 When the book is silent or unclear, I rule once and then stick to it.
