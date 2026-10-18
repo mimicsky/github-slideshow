@@ -688,6 +688,7 @@ the player tries to break or win over.
   roll a d20 each session: **1-3** the subject goes Down (and may die), and anything
   said under pain may be a lie told to make it stop (DM rolls, hidden). Three
   sessions a day at most before they pass out.
+- **Who rolls it (Ash on Ostrava, set session 9):** when the player says or does something that would really land, the DM calls the will check and rolls it openly for them; the player doesn't have to ask.
 - **Reading them.** A Perception check reads their current Will: **20+** within
   1-2%, **15-19** within 5%, **10-14** within 10%, lower within 20% (or misread).
   The breaking point is never shown.
