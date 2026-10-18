@@ -683,7 +683,7 @@ the player tries to break or win over.
   | 15-19 | 10-15% |
   | 20+ | 15-20% |
 
-  A natural 20 doubles it. A natural 1 *raises* Will 5% (they harden).
+  A natural 20 doubles it. A natural 1 does nothing (no Will lost, set by the player).
 - **Hard methods** (pain, threats, deprivation) take **5% more** on each check, but
   roll a d20 each session: **1-3** the subject goes Down (and may die), and anything
   said under pain may be a lie told to make it stop (DM rolls, hidden). Three
