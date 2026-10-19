@@ -316,7 +316,7 @@ Built to the **Kasrkin-pattern jump pack** (catalogue, kit; a real, approved Cad
   spire amasec, Mechanicus parts, xenos tech.
 
 ---
-- **Master of Stores Hadra Voss** (Ustrennos fleet stores, ring two): stock rolls fresh each day; buys Guard/Navy issue (hellguns 3 TV, sound carapace 5 TV a set); told to 'accommodate' the Light.
+- **Master of Stores Hadra Voss** (Ustrennos fleet stores, ring two): **~1750 day 13 Tamsin and Tavi visiting** (stock rolled M medium: 2 bio-scanners 8, 3 belt side-pouches 0.25, 2 Kantrael laspistols 0.5, 3 melee sheaths 0.25, 2 water purifiers 0.5, 1 flak set 1, 1 stub revolver 0.5, 4 frags 1, 2 revolver-drum grenade launchers 8, 6 las packs 0.25, 1 Lucius No.98 lasgun 1.5). Stock rolls fresh each day; buys Guard/Navy issue (hellguns 3 TV, sound carapace 5 TV a set); told to 'accommodate' the Light.
 
 ---
 
