@@ -347,7 +347,8 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | Nessa | Infiltrator |
 | Ferro-Ashe | Tech-adept / heretek |
 | Tamsin | Commander |
-| Mira, Teo | not yet chosen (the player picks) |
+| Mira | Pilot |
+| Teo | Pilot |
 
 | Who | Specialty (+2) |
 | --- | --- |
