@@ -497,6 +497,7 @@ Rolled openly for confirmed (11+) or rumoured, session 8.
   8. **Marked compound, unknown level**: no intel (marker came in on a natural 1).
   9. **The Reliquary** (old shrine, underhive heights), intel 17: relic trade; a cult psyker reported.
   10. **Dead vox-hub** (Spire Vane's old comms tower, mid-upper), intel 16: the cult's coordination point; guarded.
+- **Plan (Tamsin, ~1630 day 13):** hit the **dead vox-hub first** (no reinforcements); quiet where it pays, but most compounds just need destroying; **one drop at a time**; leave for Vhal Korrin after Aldwyn's hand-off and heal on the way. 'We have time, they don't.'
 - **Reward guide:** a hive armoury's worth of guns and ammo (the Gun Market), combat drugs and medicae (drug works), relics and odd tech (the Reliquary, the manse), salvage from the power plant and vox-hub (plasteel, machine-cores), freed captives (possible recruits), cult records, trade ledgers that may trace the round.
 
 ### Next mission: Sennet's Reach (chosen session 8)
