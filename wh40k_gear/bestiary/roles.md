@@ -478,7 +478,8 @@ one is present.*
 session 9.)
 
 At home in anything with an engine. **In a vehicle:** a **strafing run** (1 beat) hits
-a group in the open hard (a mob drops a step and is suppressed); **evasive flying**:
+a group in the open hard (a mob drops a step and is suppressed, **or** a squad takes it
+man by man: roll a d6, that many of them are hit and drop a step); **evasive flying**:
 shots at the vehicle take -2 that beat; can pull an extraction under fire. **On
 foot:** can drive or fly any vehicle they find, and **steal one** with a roll (1 beat).
 
