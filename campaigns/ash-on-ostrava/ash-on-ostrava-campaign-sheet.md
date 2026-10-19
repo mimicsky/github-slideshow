@@ -316,6 +316,8 @@ Keep the frame, barrel and cylinder (cleaned; the barrel re-threaded straight). 
 - **Paint:** grip panels grey, the rest white.
 - **~2030 day 13: Tamsin cleaned the frame, barrel and cylinder** (barrel still needs re-threading by a smith); parts and sketch on his desk.
 - **Costs:** the last **plasteel ingot** (the hammer, hand and springs use about a quarter; the rest stays usable for small work), a spring set and trigger group (Voss's stock or Ferro's bench), 0.5 TV of paint. **Time:** 2 days. **Builder:** Dace (smith; bench work once he can sit up) or Ferro-Ashe; the builder rolls with their specialty.
+- **Builder: Dace** (agreed ~0900 day 14). From his cot: strip and clean, trigger and blade safety, ghost-ring sights, grip panels (needs a trigger group and spring set from Voss, and grip stock). Needs the forge: plasteel hammer and cylinder hand. Needs Ferro's lathe: re-thread the barrel. Paint last. ~2 days bench, 1 day forge.
+- **Three Munitorum gunsmith manuals** (set by the player as backstory: Tamsin quietly took them from Ottrick's shelves before leaving the Lantern) go to Dace with the parts. **Studying them gives Dace +1 on gun-crafting rolls.** Ottrick may notice they're gone.
 
 ### Trade and debts
 
