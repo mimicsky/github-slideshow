@@ -480,7 +480,6 @@ Rolled openly for confirmed (11+) or rumoured, session 8.
 | **Torvane's Mart** (trade asteroid) | Chaos-marked weapons moving through the Mart's warehouses | Rumoured (6) | ~5 days |
 | **Ostrava Primus underhive** | Dark Mechanicus cell under the reactor district, eight-toothed cog sigil (matches the traitor tech-priest's medallion, session 2); servitors going missing; an Arbites patrol lost | **Confirmed (20):** pict-capture of the cog sigil, a known heretek's name: **Magos Vell-Orrin** | ~6 days |
 | **Sennet's Reach** (mining moon) | Mining colony's beacon silent a year; last astropathic scrap mentions an "open gate" | **Confirmed (17):** survey skiff found the colony gates chained open from the inside, Open Gate cult marks | ~3 days |
-
 | **Vhal Korrin** (hive world, added session 9 by the player as an earlier talk with Kesh) | Overrun hive; cults dug in through the spires and underhive; one of the sector's chaos supply markets (guns, drugs, slaves, relics). Kesh asked the Light to take out enemy outposts | Confirmed (Kesh's request) | ~4 days from Ustrennos |
 
 ### Next mission: Sennet's Reach (chosen session 8)
