@@ -553,6 +553,8 @@ Light's container. Crew rallying cry: **"We are the light."**
 - **The gardener's guest (DM only):** a renegade marksman trained on an Exitus pattern (deserted or cast out of Temple training, never a full Vindicare), hired by Thask; the shield-breaker round is for someone who wears a field. Target not yet decided; let it follow the story.
 - Harrack asked twice for his deal (alive, no penalty); Tamsin hasn't answered.
 - **Sly believes Harrack threw the bomb that killed Wren.** If he ever gets near Harrack, he'll go for him.
+- **Tamsin ordered Harrack and Sly signed over to a penal legion** (~1450 day 13; Merrick logs it for Kesh's people). Harrack broke on 'alive and no penalty'; he'll hear of it. In a legion together, Sly goes for Harrack.
+- **The grey-haired TALLY man (cell 7): Mister Fenn, Orne's first mate**, ex-Navy boarding bosun, fifties. **Will 91%, breaks below 13%.** Knows Orne, the Sable Margin's crew and guns, the quartermaster (Brask), where Orne runs to (the Mart and a hidden anchorage), and that Orne was paid in gold and a 'favour from the guest'.
 - **Ferro-Ashe's heresy (hidden):** cast out of the Mechanicus for letting a cogitator learn on its own. They still have its core in a sealed case in the workshop.
 - Varsaine's own story is true as far as it goes. Keep him honest but not
   fully forthcoming.
