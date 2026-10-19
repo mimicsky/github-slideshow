@@ -341,6 +341,17 @@ SPEC["raider"]["duelist"] = [("Two-handed boarding axe + stub pistol","C"),("Gre
 SPEC["pirate"]["duelist"] = [("Naval cutlass + autopistol","C"),("Naval sabre + flintlock-pattern las pistol","U")]
 SPEC["traitor"]["duelist"] = [("Officer's sabre + laspistol","C"),("Power sword (stolen) + bolt pistol","R")]
 SPEC["traitor_elite"]["duelist"] = [("Chainsword + hot-shot laspistol","U"),("Power sword + bolt pistol","R")]
+# Commander, pilot, spotter, tracker, zealot (player picks, Ash on Ostrava session 9).
+for k,(cmd,spot,trk,zel) in {
+ "cultist": ([("Laspistol + chain knife (cult planner)","C")],[("Magnoculars + autogun","C")],[("Hound leash + shotgun","C"),("Scope-autogun + knife","C")],[("Chainsword + stub pistol, screaming","C"),("Flamer-torch + icon","U")]),
+ "raider": ([("Bolt pistol (stolen) + chainsword, the boss","U")],[("Auspex + lasgun","U")],[("Long-las + hunting knife","U"),("Trophy-hung autogun + machete","C")],[("Two-handed axe, prayer-scrawled","C")]),
+ "pirate": ([("Ornate las pistol + sabre, the captain's eye","U")],[("Auspex + laspistol","U")],[("Void-hunter's scoped autogun","U")],[("Boarding axe + autopistol, chanting","C")]),
+ "traitor": ([("Laspistol + map-slate, officer","C")],[("Magnoculars + lasgun","C")],[("Scout's long-las + knife","U")],[("Chainsword + laspistol, preacher","U")]),
+ "traitor_elite": ([("Hot-shot laspistol + command vox","U"),("Bolt pistol + power sword, officer","R")],[("Auspex + hellgun","U"),("Range-finder magnoculars + hot-shot lascarbine","U")],[("Scout's hellgun + knife","U")],[("Power maul + bolt pistol, fanatic","R"),("Chainsword + hellpistol, fanatic","U")]),
+}.items():
+    SPEC[k]["commander"]=cmd; SPEC[k]["spotter"]=spot; SPEC[k]["tracker"]=trk; SPEC[k]["zealot"]=zel
+for k,pil in {"raider":[("Scav-rigged gunship keys + stub pistol","U")],"pirate":[("Assault boat pilot: flight suit + autopistol","U")],"traitor":[("Chimera driver: laspistol","C"),("Valkyrie pilot (deserted): flight suit + laspistol","R")],"traitor_elite":[("Valkyrie pilot: flight suit + hot-shot laspistol","U")]}.items():
+    SPEC[k]["pilot"]=pil
 for k in ("cultist","raider","pirate"):
     SPEC[k]["heavy gunner"] = SPEC[k].pop("heavy")
 # Heavy team for raiders and pirates too; berserker for every type (player-set).

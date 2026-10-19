@@ -452,3 +452,76 @@ to cover, fast for the rush: **+2 on DEX rolls while moving between cover**.*
 *Side note: raider duelists usually carry a two-handed melee weapon. They can only
 close cover to cover, and they're good at it: **while moving between cover, their
 cover counts for +2 more against shots at them** (the player's "+10%", as a d20 bonus).*
+
+## Commander
+
+**Who has it:** all five types. (Player pick, Ash on Ostrava session 9.)
+
+Not the group's voice (that's the leader) but its brain: picks the moment and the
+person. Stays where they can see the whole fight. **Once a beat, gives one ally a
+direct order: that ally gets +2 on the ordered action, or acts first this beat.**
+Enemy snipers and leaders go for commanders first.
+
+*Side note: traitor elite commanders can give **two** orders a beat if both go to
+specialists, and keep ordering from cover even when Hurt.*
+
+*Side note: cultist commanders order by sermon: the ordered cultist gets the +2 but
+throws themselves at it, leaving cover.*
+
+*Side note: raider commanders are the boss: the group's better-armed d20 gets +1 when
+one is present.*
+
+## Pilot
+
+**Who has it:** raiders, pirates, traitor soldiers, traitor elites. (Player pick,
+session 9.)
+
+At home in anything with an engine. **In a vehicle:** a **strafing run** (1 beat) hits
+a group in the open hard (a mob drops a step and is suppressed); **evasive flying**:
+shots at the vehicle take -2 that beat; can pull an extraction under fire. **On
+foot:** can drive or fly any vehicle they find, and **steal one** with a roll (1 beat).
+
+*Side note: pirate pilots fly assault boats and will ram a hull to board it.*
+
+*Side note: traitor elite pilots fly in pairs and cover each other: a wingman's
+strafing run on the same target gets +2.*
+
+## Spotter
+
+**Who has it:** all five types. (Player pick, session 9.)
+
+Eyes for the guns. Hangs back with magnoculars, an auspex or a scope. **Spends 1 beat
+marking a target: the next ally shot at it gets +2, and it can't hide from that
+shooter that beat.** Pairs with snipers and heavies.
+
+*Side note: traitor elite spotters mark two targets a beat.*
+
+*Side note: cultist spotters mark by shouting and pointing: the +2 still applies, but
+the target hears it and knows they're marked.*
+
+## Tracker
+
+**Who has it:** all five types. (Player pick, session 9.)
+
+Hunter. Reads ground, blood, dust and air vents. **+2 to find hidden enemies, tracks
+and traps** (a spotted trap can be avoided or used); **an enemy can't break contact
+or slip away while a tracker is on them**; follows anyone who flees.
+
+*Side note: cultist trackers hunt with beasts and work with beast handlers.*
+
+*Side note: raider trackers take trophies, and go for the wounded first.*
+
+## Zealot
+
+**Who has it:** all five types. (Player pick, session 9.)
+
+Burns with faith, for the Emperor or for a dark god. Fights in front and never
+stops shouting. **Their side gets +1 on nerve, and while the zealot stands their
+grunts won't flee.** **Once a fight, a great shout: every enemy who hears it makes a
+WIS save or takes -1 on their next roll** (a purity seal gives advantage).
+
+*Side note: when a cultist zealot dies, the cultists near them frenzy for a beat: +1
+in melee, and they leave cover to charge.*
+
+*Side note: traitor elite zealots are disciplined fanatics: +1 in melee, and they
+hold any ground they're told to hold.*

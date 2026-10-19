@@ -331,6 +331,38 @@
      "U"
     ]
    ],
+   "commander": [
+    [
+     "Laspistol + chain knife (cult planner)",
+     "C"
+    ]
+   ],
+   "spotter": [
+    [
+     "Magnoculars + autogun",
+     "C"
+    ]
+   ],
+   "tracker": [
+    [
+     "Hound leash + shotgun",
+     "C"
+    ],
+    [
+     "Scope-autogun + knife",
+     "C"
+    ]
+   ],
+   "zealot": [
+    [
+     "Chainsword + stub pistol, screaming",
+     "C"
+    ],
+    [
+     "Flamer-torch + icon",
+     "U"
+    ]
+   ],
    "heavy gunner": [
     [
      "Heavy stubber + 2 belts",
@@ -771,6 +803,40 @@
     [
      "Chain glaive (two-handed) + autopistol",
      "R"
+    ]
+   ],
+   "commander": [
+    [
+     "Bolt pistol (stolen) + chainsword, the boss",
+     "U"
+    ]
+   ],
+   "spotter": [
+    [
+     "Auspex + lasgun",
+     "U"
+    ]
+   ],
+   "tracker": [
+    [
+     "Long-las + hunting knife",
+     "U"
+    ],
+    [
+     "Trophy-hung autogun + machete",
+     "C"
+    ]
+   ],
+   "zealot": [
+    [
+     "Two-handed axe, prayer-scrawled",
+     "C"
+    ]
+   ],
+   "pilot": [
+    [
+     "Scav-rigged gunship keys + stub pistol",
+     "U"
     ]
    ],
    "heavy gunner": [
@@ -1249,6 +1315,36 @@
      "U"
     ]
    ],
+   "commander": [
+    [
+     "Ornate las pistol + sabre, the captain's eye",
+     "U"
+    ]
+   ],
+   "spotter": [
+    [
+     "Auspex + laspistol",
+     "U"
+    ]
+   ],
+   "tracker": [
+    [
+     "Void-hunter's scoped autogun",
+     "U"
+    ]
+   ],
+   "zealot": [
+    [
+     "Boarding axe + autopistol, chanting",
+     "C"
+    ]
+   ],
+   "pilot": [
+    [
+     "Assault boat pilot: flight suit + autopistol",
+     "U"
+    ]
+   ],
    "heavy gunner": [
     [
      "Heavy stubber + 2 belts",
@@ -1715,6 +1811,40 @@
      "R"
     ]
    ],
+   "commander": [
+    [
+     "Laspistol + map-slate, officer",
+     "C"
+    ]
+   ],
+   "spotter": [
+    [
+     "Magnoculars + lasgun",
+     "C"
+    ]
+   ],
+   "tracker": [
+    [
+     "Scout's long-las + knife",
+     "U"
+    ]
+   ],
+   "zealot": [
+    [
+     "Chainsword + laspistol, preacher",
+     "U"
+    ]
+   ],
+   "pilot": [
+    [
+     "Chimera driver: laspistol",
+     "C"
+    ],
+    [
+     "Valkyrie pilot (deserted): flight suit + laspistol",
+     "R"
+    ]
+   ],
    "berserker": [
     [
      "Chainsword + 3 doses of Frenzon (a broken penal trooper)",
@@ -2132,6 +2262,48 @@
     [
      "Power sword + bolt pistol",
      "R"
+    ]
+   ],
+   "commander": [
+    [
+     "Hot-shot laspistol + command vox",
+     "U"
+    ],
+    [
+     "Bolt pistol + power sword, officer",
+     "R"
+    ]
+   ],
+   "spotter": [
+    [
+     "Auspex + hellgun",
+     "U"
+    ],
+    [
+     "Range-finder magnoculars + hot-shot lascarbine",
+     "U"
+    ]
+   ],
+   "tracker": [
+    [
+     "Scout's hellgun + knife",
+     "U"
+    ]
+   ],
+   "zealot": [
+    [
+     "Power maul + bolt pistol, fanatic",
+     "R"
+    ],
+    [
+     "Chainsword + hellpistol, fanatic",
+     "U"
+    ]
+   ],
+   "pilot": [
+    [
+     "Valkyrie pilot: flight suit + hot-shot laspistol",
+     "U"
     ]
    ],
    "berserker": [
