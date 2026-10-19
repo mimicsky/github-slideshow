@@ -307,6 +307,15 @@ Built to the **Kasrkin-pattern jump pack** (catalogue, kit; a real, approved Cad
 - **Isk's** waits on another machine-core.
 - **Varga's new subclass: Jumper** (set by the player): comes out in the air to draw fire, moves fast overhead and shoots down in quick strings (bestiary roles: Jumper). Tag: **Varga (Light-bringer, rifle/jumper)**. She'll drill shooting on the move once the pack is ready.
 
+### Proposed build: Corvane's revolver (Tamsin's design, session 9; DM ruling)
+
+Keep the frame, barrel and cylinder (cleaned; the barrel re-threaded straight). Replace the rest:
+- **Plasteel hammer + new cylinder hand and ratchet:** hits harder, turns faster. **Fast action:** up to **3 shots in a chain per beat** (normally 2), and **no light strikes** (duds).
+- **Safe-action trigger** (a blade safety in the trigger face) **+ a normal clean pull:** **no longer drop-prone**.
+- **Ghost-ring sights + two ergonomic grip panels:** **+1 on shots within ~15 m**.
+- **Paint:** grip panels grey, the rest white.
+- **Costs:** the last **plasteel ingot** (the hammer, hand and springs use about a quarter; the rest stays usable for small work), a spring set and trigger group (Voss's stock or Ferro's bench), 0.5 TV of paint. **Time:** 2 days. **Builder:** Dace (smith; bench work once he can sit up) or Ferro-Ashe; the builder rolls with their specialty.
+
 ### Trade and debts
 
 - **Ottrick's slate (the Light's account): 0.75 TV in credit** (warp day 9). Sell container goods by word; his ratings fetch them.
