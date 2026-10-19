@@ -126,3 +126,16 @@ burns and a shimmering shield takes the hit instead.** It works against anything
 a raw 17+ included, and against warp powers. Then it's ash. **Re-charging it** takes
 a sanctioned psyker's blessing (Mother Oculine could) and the Ordo's favour. It
 burns cold and smells of incense; anyone with psychic sense notices it.
+
+## Lift pack (heretek grav-chute)
+
+**Lift pack** (unique; player design, Ash on Ostrava session 9; not sold, built by a
+heterodox tech-priest). A boarders' grav-chute with reversed suspensor plates and an
+overdriven core. About **1 minute of lift per charge**, used in bursts: each burst is a
+hop of ~10-15 m up or across, or a few seconds' hover; about 6 a charge. Still works as
+a grav-chute (safe drops) when empty. **Recharge:** ~2 hours on a charging station.
+Loud and bright while lifting: no stealth during a burst, and **-2 to the user's
+shots** on the beat they hop. **A natural 1 on a hop:** the field stutters and the
+user drops one health step on landing. **Build:** grav-chute + 1 machine-core + 1
+servo-motor + 4 power cells, 2 days, the crafter's roll (codex Part 8). Tech-heresy
+to the Mechanicus.

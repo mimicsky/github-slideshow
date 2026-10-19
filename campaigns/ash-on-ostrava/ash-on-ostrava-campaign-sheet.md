@@ -281,7 +281,7 @@ The Light's container, Container 2 and the hold, all together.
 - **Grenades:** 14 frags, 2 kraks, 2 photon flashes (plus what each Light-bringer carries).
 - **Vox:** ~23 vox-beads, the Gate Guard officer's vox-horn.
 - **Medicae:** 21 antitoxin (15 of Kesh's blessed + 6 fleet), ~15 stimms, plague-ward filters and salve, a fleet medicae crate, a half-used medicae crate.
-- **Salvage and parts:** **1 plasteel ingot** (the other went into the Geller repair), 2 servo-motors, 1 machine-core, 1 ceramite plate, a coil of copper cable (Spindle plant, warp day 8), 1 flask of sacred oil, ~26 station power cells, the rim gun's firing coupling.
+- **Salvage and parts:** **1 plasteel ingot** (the other went into the Geller repair), 1 servo-motor, 0 machine-cores (session 9: 1 each to Varga's lift pack), 1 ceramite plate, a coil of copper cable (Spindle plant, warp day 8), 1 flask of sacred oil, ~22 station power cells, the rim gun's firing coupling.
 - **Bought from Master Voss (warp day 8, 17 TV in gold):** a hand auspex, a shock maul, a cogitator spike, 1 breaching charge (delivered to the *Bright Light*). **Handed out:** auspex and cogitator spike to **Brenner**; shock maul to **Morcant**; the breaching charge to **Tavi**'s kit (Morcant carried it).
 - **Valuables:** ~2 TV in gold and coin left (17 spent with Voss), Gate Guard gold pins, Holt's campaign medals, 14 bottles of spire amasec, 2 cases of spire wine (one bottle short).
 - **Trophies:** **the Gate Guard regimental standard** (white gate on Cadian green).
@@ -306,7 +306,8 @@ A grav-chute with a boosted power core and reversed suspensor plates, the way Ta
 - **Lift:** about **1 minute of lift per charge**, used in bursts: each burst is a hop of ~10-15 m up or across, or a few seconds' hover. About 6 bursts a charge. Still works as a grav-chute (safe drops) when empty.
 - **Recharge:** ~2 hours on a charging station (las or plasma coupling).
 - **Costs:** loud and bright while lifting (no stealth during a burst; -2 to the user's shots on the beat they hop). A natural 1 on a hop: the field stutters and the user drops a health step on landing.
-- **Build (Ferro-Ashe):** per pack, the grav-chute + **1 machine-core + 1 servo-motor + 4 power cells**, 2 days each. Stock has **1 machine-core**, so one pack now; the second needs another core. Ferro rolls with their specialty (codex Part 8, crafting).
+- **Build (Ferro-Ashe):** per pack, the grav-chute + **1 machine-core + 1 servo-motor + 4 power cells**, 2 days each.
+- **Varga's pack: begun ~1730 day 13, Ferro's roll 18: success, works as designed; ready ~1730 day 15.** Spent: 1 machine-core, 1 servo-motor, 4 power cells. Isk's waits on another machine-core. Stock has **1 machine-core**, so one pack now; the second needs another core. Ferro rolls with their specialty (codex Part 8, crafting).
 
 ### Trade and debts
 
