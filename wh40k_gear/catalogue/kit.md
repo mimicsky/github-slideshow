@@ -127,15 +127,23 @@ a raw 17+ included, and against warp powers. Then it's ash. **Re-charging it** t
 a sanctioned psyker's blessing (Mother Oculine could) and the Ordo's favour. It
 burns cold and smells of incense; anyone with psychic sense notices it.
 
+## Jump pack, Kasrkin pattern
+
+**Jump pack, Kasrkin pattern** (rare, 45 TV; Munitorum, Mechanicus, Free Trader;
+player design, Ash on Ostrava session 9). A Mechanicus-approved Cadian pattern for
+Kasrkin storm troops: a grav-chute frame with reversed suspensor plates and an elite
+power cell. About **1 minute of lift per charge**, used in bursts: each burst is a
+hop of ~10-15 m up or across, or a few seconds' hover; about 6 a charge. Still works
+as a grav-chute (safe drops) when empty. **Recharge:** ~2 hours on a charging
+station. Loud and bright while lifting: no stealth during a burst. Uses the
+**Airborne** rules (codex Part 8, Gear rules). **A natural 1 on a hop:** the field
+stutters and the user drops one health step on landing. Approved kit: no heresy to
+carry one.
+
 ## Lift pack (heretek grav-chute)
 
-**Lift pack** (unique; player design, Ash on Ostrava session 9; not sold, built by a
-heterodox tech-priest). A boarders' grav-chute with reversed suspensor plates and an
-overdriven core. About **1 minute of lift per charge**, used in bursts: each burst is a
-hop of ~10-15 m up or across, or a few seconds' hover; about 6 a charge. Still works as
-a grav-chute (safe drops) when empty. **Recharge:** ~2 hours on a charging station.
-Loud and bright while lifting: no stealth during a burst, and **-2 to the user's
-shots** on the beat they hop. **A natural 1 on a hop:** the field stutters and the
-user drops one health step on landing. **Build:** grav-chute + 1 machine-core + 1
-servo-motor + 4 power cells, 2 days, the crafter's roll (codex Part 8). Tech-heresy
-to the Mechanicus.
+**Lift pack** (unique; built, not sold). A boarders' grav-chute rebuilt **to the
+Kasrkin pattern** above, from memory and without the proper rites (tech-heresy for the
+builder, not the wearer; in the field it passes for approved kit). Same rules as the
+Kasrkin pattern. **Build:** grav-chute + 1 machine-core + 1 servo-motor + 4 power
+cells, 2 days, the crafter's roll (codex Part 8). Varga's (Ash on Ostrava, session 9).

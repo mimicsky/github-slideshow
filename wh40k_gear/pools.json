@@ -2142,6 +2142,13 @@
   "sellers": "MAF"
  },
  {
+  "name": "Jump pack, Kasrkin pattern",
+  "tv": 45,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
   "name": "Chameleoline cloak",
   "tv": 12,
   "cat": "gear",

@@ -413,3 +413,23 @@ Slaanesh duels and manipulates, Tzeentch schemes and plans.
 everything stacks** (player-set): a Khorne berserker gets +2 melee from doses
 and +1 from Khorne, and fights 1 beat after going Down from doses plus 1 from
 Khorne, 2 beats in all.
+
+## Jumper
+
+**Who has it:** all five types. (Player design, Ash on Ostrava session 9; also a Light
+subclass: Varga.)
+
+Wears a jump pack or lift pack. Comes out into the air on purpose, to draw every eye,
+moves fast from point to point overhead, and shoots down in quick strings.
+**Airborne rules** (codex Part 8, Gear rules: Airborne): the jumper takes **-2** on
+shots while airborne; anyone shooting at an airborne jumper takes **-3**; enemies of
+the jumper may leave cover to get a shot at them; and anyone who shoots at the
+jumper this beat is **open to surprise** from the ground (+2 to attacks against them,
+and they can't react to it).
+
+*Side note: traitor elite jumpers take only -1 on their own shots while airborne. They
+hop to high ground, land, shoot from there, then reposition through the air or onto
+the next high point.*
+
+*Side note: cultist and raider jumpers usually carry melee and simply jump into the
+middle of the enemy team.*

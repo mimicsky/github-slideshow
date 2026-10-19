@@ -102,6 +102,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Underslung chain-bayonet](kit.md#underslung-chain-bayonet)
 - [Shock-coil kit](kit.md#shock-coil-kit)
 - [Psy-ward amulet](kit.md#psy-ward-amulet) (epic)
+- [Jump pack, Kasrkin pattern](kit.md#jump-pack-kasrkin-pattern)
 - [Lift pack (heretek grav-chute)](kit.md#lift-pack-heretek-grav-chute) (unique, built)
 
 ## [Drugs and servo-skulls](drugs.md)

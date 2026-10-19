@@ -300,14 +300,12 @@ Hold-fire survival rolled 10: plasteel survived, the rest in the hold burned.
 - **Other:** off-world spice (2 tins), amasec, ~40 Thrones (Joss), 7 sealed crates from the *Kestrel's Due* (unopened).
 - **Lost:** Wren's combat shotgun (warped), the axe, carapace and chainsword near the melta blast.
 
-### Proposed build: lift pack (Tamsin's design, session 9; DM ruling)
+### Lift packs (session 9)
 
-A grav-chute with a boosted power core and reversed suspensor plates, the way Tamsin remembers Kasrkin rigs. **Accepted, adjusted:**
-- **Lift:** about **1 minute of lift per charge**, used in bursts: each burst is a hop of ~10-15 m up or across, or a few seconds' hover. About 6 bursts a charge. Still works as a grav-chute (safe drops) when empty.
-- **Recharge:** ~2 hours on a charging station (las or plasma coupling).
-- **Costs:** loud and bright while lifting (no stealth during a burst; -2 to the user's shots on the beat they hop). A natural 1 on a hop: the field stutters and the user drops a health step on landing.
-- **Build (Ferro-Ashe):** per pack, the grav-chute + **1 machine-core + 1 servo-motor + 4 power cells**, 2 days each.
-- **Varga's pack: begun ~1730 day 13, Ferro's roll 18: success, works as designed; ready ~1730 day 15.** Spent: 1 machine-core, 1 servo-motor, 4 power cells. Isk's waits on another machine-core. Stock has **1 machine-core**, so one pack now; the second needs another core. Ferro rolls with their specialty (codex Part 8, crafting).
+Built to the **Kasrkin-pattern jump pack** (catalogue, kit; a real, approved Cadian design), so in the field they pass as approved kit; the build itself is tech-heresy for Ferro-Ashe. Rules: about 1 minute of lift per charge in ~6 hops of 10-15 m, ~2 hours to recharge on a station, loud and bright while lifting, Airborne rules (codex Part 8), a natural 1 on a hop drops the user a step on landing.
+- **Varga's pack: begun ~1730 day 13, Ferro's roll 18: success; ready ~1730 day 15.** Spent: 1 machine-core, 1 servo-motor, 4 power cells.
+- **Isk's** waits on another machine-core.
+- **Varga's new subclass: Jumper** (set by the player): comes out in the air to draw fire, moves fast overhead and shoots down in quick strings (bestiary roles: Jumper). Tag: **Varga (Light-bringer, rifle/jumper)**. She'll drill shooting on the move once the pack is ready.
 
 ### Trade and debts
 

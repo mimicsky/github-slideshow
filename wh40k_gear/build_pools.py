@@ -146,7 +146,7 @@ add("gear","R","MAF",[("Concentrated stimm (dose)",2),("Concentrated antitoxin (
 add("gear","U","MB",[("Combat drug 'Quicksilver' (speed: +2 Athletics and moving)",1.5),("Combat drug 'Deadeye' (focus: +2 shooting)",1.5),("Combat drug 'Frenzon' (rage: +2 melee)",1.5),("Combat drug 'Slaught' (reflexes: +2 strike first and dodge, +1 STR)",1.5),("Combat drug 'Adrenaline' (senses: +4 Perception, +1 shooting)",1.5)])
 add("gear","R","MAF",[("Servo-skull, gun (built-in laspistol)",30),("Servo-skull, burner (built-in micro-flamer)",35)])
 add("gear","U","B",[("Forged Munitorum ID chits",2),("Lock-picks, hive pattern",1),("Spoof-tag (fakes a transponder)",6),("Black-market data-slate",1)])
-add("gear","R","MAF",[("Cogitator spike",4),("Servo-skull (utility, used)",20),("Servo-skull (medicae)",25),("Bio-scanner",8),("Psy-occulus (warp detector)",15),("Jump pack (Guard pattern)",30),("Chameleoline cloak",12),("Medicae servitor (old)",30)])
+add("gear","R","MAF",[("Cogitator spike",4),("Servo-skull (utility, used)",20),("Servo-skull (medicae)",25),("Bio-scanner",8),("Psy-occulus (warp detector)",15),("Jump pack (Guard pattern)",30),("Jump pack, Kasrkin pattern",45),("Chameleoline cloak",12),("Medicae servitor (old)",30)])
 add("gear","R","E",[("Purity seal (blessed)",2),("Aquila rosary",1),("Reliquary fragment",10),("Blessed sacred oils (flask)",2),("Vial of shrine water",1)])
 # --- Augmetics ---
 add("augmetic","U","AB",[("Augmetic eye (basic)",8),("Augmetic hand (basic)",8),("Respirator implant",6)])
@@ -329,6 +329,12 @@ for k in ("traitor","traitor_elite"):
     SPEC[k]["heavy team"] = SPEC[k].pop("heavy")
 SPEC["traitor"]["heavy gunner"] = [("Heavy stubber + 2 belts, carried","C"),("Braced autogun, 'Graia' pattern","C"),("Ripper gun / drum-fed shotgun","U"),("Las-box, 'Kasr Barr' light las-LMG","R")]
 SPEC["traitor_elite"]["heavy gunner"] = [("Las-box, 'Kasr Barr' light las-LMG","U"),("Hot-shot volley gun","U"),("Heavy stubber with drum mag, carried","C"),("Multi-laser, man-portable, carried","R")]
+# Jumper (player design, Ash on Ostrava session 9): all five types.
+SPEC["cultist"]["jumper"] = [("Scrap jump pack (homemade; sputters on a 1) + chain axe","C"),("Stolen grav-chute rigged to hop + autopistol + machete","U")]
+SPEC["raider"]["jumper"] = [("Scrap jump pack + boarding axe + stub pistol","C"),("Stolen Guard jump pack + chainsword","U")]
+SPEC["pirate"]["jumper"] = [("Boarders' lift pack + cutlass + autopistol","U"),("Boarders' lift pack + combat shotgun","U")]
+SPEC["traitor"]["jumper"] = [("Guard jump pack (stolen) + lasgun","U"),("Guard jump pack + autogun","C")]
+SPEC["traitor_elite"]["jumper"] = [("Kasrkin-pattern jump pack + hellgun","R"),("Kasrkin-pattern jump pack + hot-shot lascarbine","U")]
 for k in ("cultist","raider","pirate"):
     SPEC[k]["heavy gunner"] = SPEC[k].pop("heavy")
 # Heavy team for raiders and pirates too; berserker for every type (player-set).

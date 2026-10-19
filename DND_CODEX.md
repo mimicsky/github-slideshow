@@ -1070,6 +1070,13 @@ in the other. **In melee** its bonus goes on the defender's roll in the exchange
 carries, from the front only; shots from the side or behind ignore it. Going Down
 drops it, like anything in hand. Each shield's numbers are in the catalogue (kit).
 
+**Airborne (jump packs and lift packs; set by the player, session 9).** While someone
+is in the air on a pack: **their own shots take -2** (traitor elites: -1); **shots at
+them take -3**; their enemies may leave cover to get a shot at them; and anyone who
+shoots at an airborne jumper this beat is **open to surprise** from the ground (+2 on
+attacks against them, and they can't react to it). Each pack's lift, charge and quirks
+are in the catalogue (kit). The **Jumper** role is in the bestiary (roles).
+
 **Doses: stimms and combat drugs.** When you take a dose, roll a d6: **1-3 it
 lasts 3 turns, 4-6 it lasts 4 turns.** When those turns are over you can take
 another dose to keep it going (roll again). **One turn after the last dose ends,

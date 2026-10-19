@@ -311,6 +311,16 @@
      "U"
     ]
    ],
+   "jumper": [
+    [
+     "Scrap jump pack (homemade; sputters on a 1) + chain axe",
+     "C"
+    ],
+    [
+     "Stolen grav-chute rigged to hop + autopistol + machete",
+     "U"
+    ]
+   ],
    "heavy gunner": [
     [
      "Heavy stubber + 2 belts",
@@ -726,6 +736,16 @@
     ],
     [
      "Hot-shot hellgun",
+     "U"
+    ]
+   ],
+   "jumper": [
+    [
+     "Scrap jump pack + boarding axe + stub pistol",
+     "C"
+    ],
+    [
+     "Stolen Guard jump pack + chainsword",
      "U"
     ]
    ],
@@ -1185,6 +1205,16 @@
      "U"
     ]
    ],
+   "jumper": [
+    [
+     "Boarders' lift pack + cutlass + autopistol",
+     "U"
+    ],
+    [
+     "Boarders' lift pack + combat shotgun",
+     "U"
+    ]
+   ],
    "heavy gunner": [
     [
      "Heavy stubber + 2 belts",
@@ -1631,6 +1661,16 @@
      "R"
     ]
    ],
+   "jumper": [
+    [
+     "Guard jump pack (stolen) + lasgun",
+     "U"
+    ],
+    [
+     "Guard jump pack + autogun",
+     "C"
+    ]
+   ],
    "berserker": [
     [
      "Chainsword + 3 doses of Frenzon (a broken penal trooper)",
@@ -2028,6 +2068,16 @@
     [
      "Multi-laser, man-portable, carried",
      "R"
+    ]
+   ],
+   "jumper": [
+    [
+     "Kasrkin-pattern jump pack + hellgun",
+     "R"
+    ],
+    [
+     "Kasrkin-pattern jump pack + hot-shot lascarbine",
+     "U"
     ]
    ],
    "berserker": [
