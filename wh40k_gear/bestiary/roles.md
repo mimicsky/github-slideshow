@@ -433,3 +433,22 @@ the next high point.*
 
 *Side note: cultist and raider jumpers usually carry melee and simply jump into the
 middle of the enemy team.*
+
+## Duelist
+
+**Who has it:** all five types. (Player design, Ash on Ostrava session 9.)
+
+Wants the fight, and pushes up as far and as fast as they can. Carries a pistol and a
+blade. Calls a target out, fights them one on one, and mostly ignores everyone else
+unless ordered. **Can shoot and swing in the same beat** (one pistol shot and one
+melee attack). **If they take only one kind of action that beat (only shooting, or
+only melee), +1 on that roll.**
+
+*Side note: traitor elite duelists go for the highest-value target and push up cover
+to cover, fast for the rush: **+2 on DEX rolls while moving between cover**.*
+
+*Side note: cultist duelists duel to the death and won't surrender.*
+
+*Side note: raider duelists usually carry a two-handed melee weapon. They can only
+close cover to cover, and they're good at it: **while moving between cover, their
+cover counts for +2 more against shots at them** (the player's "+10%", as a d20 bonus).*

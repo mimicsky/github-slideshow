@@ -335,6 +335,12 @@ SPEC["raider"]["jumper"] = [("Scrap jump pack + boarding axe + stub pistol","C")
 SPEC["pirate"]["jumper"] = [("Boarders' lift pack + cutlass + autopistol","U"),("Boarders' lift pack + combat shotgun","U")]
 SPEC["traitor"]["jumper"] = [("Guard jump pack (stolen) + lasgun","U"),("Guard jump pack + autogun","C")]
 SPEC["traitor_elite"]["jumper"] = [("Kasrkin-pattern jump pack + hellgun","R"),("Kasrkin-pattern jump pack + hot-shot lascarbine","U")]
+# Duelist (player design, Ash on Ostrava session 9): all five types.
+SPEC["cultist"]["duelist"] = [("Stub revolver + machete","C"),("Autopistol + chainsword","U")]
+SPEC["raider"]["duelist"] = [("Two-handed boarding axe + stub pistol","C"),("Great cleaver + laspistol","U"),("Chain glaive (two-handed) + autopistol","R")]
+SPEC["pirate"]["duelist"] = [("Naval cutlass + autopistol","C"),("Naval sabre + flintlock-pattern las pistol","U")]
+SPEC["traitor"]["duelist"] = [("Officer's sabre + laspistol","C"),("Power sword (stolen) + bolt pistol","R")]
+SPEC["traitor_elite"]["duelist"] = [("Chainsword + hot-shot laspistol","U"),("Power sword + bolt pistol","R")]
 for k in ("cultist","raider","pirate"):
     SPEC[k]["heavy gunner"] = SPEC[k].pop("heavy")
 # Heavy team for raiders and pirates too; berserker for every type (player-set).

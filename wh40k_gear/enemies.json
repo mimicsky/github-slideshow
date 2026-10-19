@@ -321,6 +321,16 @@
      "U"
     ]
    ],
+   "duelist": [
+    [
+     "Stub revolver + machete",
+     "C"
+    ],
+    [
+     "Autopistol + chainsword",
+     "U"
+    ]
+   ],
    "heavy gunner": [
     [
      "Heavy stubber + 2 belts",
@@ -747,6 +757,20 @@
     [
      "Stolen Guard jump pack + chainsword",
      "U"
+    ]
+   ],
+   "duelist": [
+    [
+     "Two-handed boarding axe + stub pistol",
+     "C"
+    ],
+    [
+     "Great cleaver + laspistol",
+     "U"
+    ],
+    [
+     "Chain glaive (two-handed) + autopistol",
+     "R"
     ]
    ],
    "heavy gunner": [
@@ -1215,6 +1239,16 @@
      "U"
     ]
    ],
+   "duelist": [
+    [
+     "Naval cutlass + autopistol",
+     "C"
+    ],
+    [
+     "Naval sabre + flintlock-pattern las pistol",
+     "U"
+    ]
+   ],
    "heavy gunner": [
     [
      "Heavy stubber + 2 belts",
@@ -1671,6 +1705,16 @@
      "C"
     ]
    ],
+   "duelist": [
+    [
+     "Officer's sabre + laspistol",
+     "C"
+    ],
+    [
+     "Power sword (stolen) + bolt pistol",
+     "R"
+    ]
+   ],
    "berserker": [
     [
      "Chainsword + 3 doses of Frenzon (a broken penal trooper)",
@@ -2078,6 +2122,16 @@
     [
      "Kasrkin-pattern jump pack + hot-shot lascarbine",
      "U"
+    ]
+   ],
+   "duelist": [
+    [
+     "Chainsword + hot-shot laspistol",
+     "U"
+    ],
+    [
+     "Power sword + bolt pistol",
+     "R"
     ]
    ],
    "berserker": [
