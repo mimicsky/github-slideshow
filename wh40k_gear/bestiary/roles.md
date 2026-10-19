@@ -525,7 +525,10 @@ chance comes up.*
 Burns with faith, for the Emperor or for a dark god. Fights in front and never
 stops shouting. **Their side gets +1 on nerve, and while the zealot stands their
 grunts won't flee.** **Once a fight, a great shout: every enemy who hears it makes a
-WIS save or takes -1 on their next roll** (a purity seal gives advantage).
+WIS save or takes -1 on their next roll** (a purity seal gives advantage). **Faith
+keeps them up: they have an extra Hurt stage** (Fine, Hurt, Hurt again, Badly hurt,
+Down). **Divine intervention: whenever a hit is about to land on them, roll a d20; on
+a natural 20 they get out of the way, as if something moved them.**
 
 *Side note: when a cultist zealot dies, the cultists near them frenzy for a beat: +1
 in melee, and they leave cover to charge.*
