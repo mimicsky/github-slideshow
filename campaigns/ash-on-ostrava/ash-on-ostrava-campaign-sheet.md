@@ -330,6 +330,24 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 
 **Training plan (Tamsin, 0530 warp day 8, while waiting on Kesh):** Kell: close-range shots, the chain axe, leading. Varga: shooting. Hollis: throws and arcs, some grenade tinkering. Morcant: strength to hold the stubber, recoil control (one-armed till the sling's off). Brenner: stripping and rebuilding ship tech, weapon upgrade ideas for the crew. **Isk: shooting at close, medium and long range, the most of anyone** (light drills while sick). Tavi: explosives research and tinkering (from his cot). Sallow: medicine research, speed. Corvane: CQC and speed. Nessa: stealth, speed, acrobatics. Mira and Teo: scouting research and evasion analysis. Dace: CQC and peeling for the team (shield cover for whoever's in trouble). Ferro-Ashe: free until Tamsin finds work for them.
 
+**Roles (set by the player, session 9).** Each member of the Light now also has a **bestiary role** (`wh40k_gear/bestiary/roles.md`), with its rules in bold, and **the Light counts as traitor elites** for the role side notes (professionals: e.g. a jumper takes only -1 airborne). Specialty bonuses stay as below.
+
+| Who | Role |
+| --- | --- |
+| Kell | Leader |
+| Varga | Jumper |
+| Hollis | Grenadier |
+| Brenner | Vox / auspex |
+| Isk | Sniper |
+| Tavi | Demolitions |
+| Morcant | Heavy gunner |
+| Sallow | Medic |
+| Dace | Bodyguard |
+| Corvane | Breacher |
+| Nessa | Infiltrator |
+| Ferro-Ashe | Tech-adept / heretek |
+| Tamsin, Mira, Teo | not yet chosen (the player picks) |
+
 | Who | Specialty (+2) |
 | --- | --- |
 | Kell | Close assault (chain axe, plasma pistol) and rallying the Light |
