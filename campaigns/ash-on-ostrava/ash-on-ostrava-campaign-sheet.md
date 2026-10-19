@@ -343,7 +343,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | Morcant | Heavy gunner |
 | Sallow | Medic |
 | Dace | Bodyguard |
-| Corvane | Breacher |
+| Corvane | Duelist |
 | Nessa | Infiltrator |
 | Ferro-Ashe | Tech-adept / heretek |
 | Tamsin, Mira, Teo | not yet chosen (the player picks) |
