@@ -346,7 +346,8 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | Corvane | Duelist |
 | Nessa | Infiltrator |
 | Ferro-Ashe | Tech-adept / heretek |
-| Tamsin, Mira, Teo | not yet chosen (the player picks) |
+| Tamsin | Commander |
+| Mira, Teo | not yet chosen (the player picks) |
 
 | Who | Specialty (+2) |
 | --- | --- |

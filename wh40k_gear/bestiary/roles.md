@@ -526,7 +526,7 @@ Burns with faith, for the Emperor or for a dark god. Fights in front and never
 stops shouting. **Their side gets +1 on nerve, and while the zealot stands their
 grunts won't flee.** **Once a fight, a great shout: every enemy who hears it makes a
 WIS save or takes -1 on their next roll** (a purity seal gives advantage). **Faith
-keeps them up: they have an extra Hurt stage** (Fine, Hurt, Hurt again, Badly hurt,
+keeps them up: they have an extra health stage** (Fine, Grazed, Hurt, Badly hurt,
 Down). **Divine intervention: whenever a hit is about to land on them, roll a d20; on
 a natural 20 they get out of the way, as if something moved them.**
 
