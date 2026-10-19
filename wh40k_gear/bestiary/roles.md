@@ -493,13 +493,15 @@ strafing run on the same target gets +2.*
 **Who has it:** all five types. (Player pick, session 9.)
 
 Eyes for the guns. Hangs back with magnoculars, an auspex or a scope. **Spends 1 beat
-marking a target: the next ally shot at it gets +2, and it can't hide from that
-shooter that beat.** Pairs with snipers and heavies.
+marking a target, by shouting it or over comms; a shout lets the target know they're
+marked. The next beat, every ally who shoots at that target gets +2, and the target
+can't hide from those shooters that beat.** Pairs with snipers and heavies.
 
 *Side note: traitor elite spotters mark two targets a beat.*
 
-*Side note: cultist spotters mark by shouting and pointing: the +2 still applies, but
-the target hears it and knows they're marked.*
+*Side note: cultist spotters mark by shouting in their god's tongue: the target doesn't
+understand it, so it isn't alerted. The shout reaches every cultist in the fight, and
+the marked target becomes everyone's highest-value target.*
 
 ## Tracker
 
