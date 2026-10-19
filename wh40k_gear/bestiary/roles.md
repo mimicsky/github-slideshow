@@ -457,10 +457,11 @@ cover counts for +2 more against shots at them** (the player's "+10%", as a d20 
 
 **Who has it:** all five types. (Player pick, Ash on Ostrava session 9.)
 
-Not the group's voice (that's the leader) but its brain: picks the moment and the
-person. Stays where they can see the whole fight. **Once a beat, gives one ally a
-direct order: that ally gets +2 on the ordered action, or acts first this beat.**
-Enemy snipers and leaders go for commanders first.
+The group's brain. The leader is the group's voice; the commander picks the target
+and the person, and stays where they can see the whole fight. **Once a beat, gives
+one ally a direct order (it doesn't use the commander's own action that beat): that
+ally gets +2 on the ordered action and acts first that beat.** Enemy snipers and
+leaders go for commanders first.
 
 *Side note: traitor elite commanders can give **two** orders a beat if both go to
 specialists, and keep ordering from cover even when Hurt.*
