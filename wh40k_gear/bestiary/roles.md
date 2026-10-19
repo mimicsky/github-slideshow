@@ -511,9 +511,12 @@ Hunter. Reads ground, blood, dust and air vents. **+2 to find hidden enemies, tr
 and traps** (a spotted trap can be avoided or used); **an enemy can't break contact
 or slip away while a tracker is on them**; follows anyone who flees.
 
-*Side note: cultist trackers hunt with beasts and work with beast handlers.*
+*Side note: cultist trackers hunt with their god: they "sense" the target and follow
+that sense. **+3 on tracking rolls** (instead of +2).*
 
-*Side note: raider trackers take trophies, and go for the wounded first.*
+*Side note: raider trackers take hostages, and clear traps easily (**+2 more on
+spotting and disarming traps**). They steal valuables or take trophies whenever the
+chance comes up.*
 
 ## Zealot
 
