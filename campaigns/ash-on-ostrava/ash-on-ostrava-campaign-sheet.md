@@ -400,6 +400,17 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | **Dace** | 25 | 21 | 20 | 17 | 5 | 5 | Badly hurt (hip, session 9), in station medicae, sitting up |
 | **Sorel** (Light Trainee) | 32 | 29 | 29 | 18 | 26 | 14 | Fine. Tracker; hive clearance +2 |
 | **Tey** (Light Trainee) | 17 | 25 | 28 | 14 | 8 | 14 | Fine. Grunt, no specialty yet |
+| **Hollis** | 26 | 35 | 32 | 17 | 25 | 12 | Fine (stats rolled session 9) |
+| **Brenner** | 21 | 27 | 26 | 31 | 18 | 10 | Fine |
+| **Isk** | 19 | 37 | 28 | 13 | 33 | 10 | Fine |
+| **Tavi** | 19 | 33 | 23 | 26 | 17 | 17 | Fine (off his cot) |
+| **Morcant** | 39 | 23 | 33 | 15 | 19 | 17 | Fine |
+| **Sallow** | 20 | 31 | 22 | 25 | 33 | 20 | Fine |
+| **Corvane** | 26 | 35 | 31 | 21 | 19 | 22 | Fine |
+| **Nessa** | 17 | 40 | 18 | 20 | 28 | 27 | Fine |
+| **Mira** | 14 | 40 | 20 | 24 | 30 | 15 | Fine |
+| **Teo** | 18 | 40 | 18 | 18 | 19 | 28 | Fine |
+| **Ferro-Ashe** | 19 | 24 | 20 | 41 | 19 | 12 | Fine |
 
 - **Sergeant Kell** (storm trooper sergeant, 41, ex-Tempestus Scion, nine years
   with the Ordos). Tamsin's "brother"; their fist-bump handshake. Hellgun
