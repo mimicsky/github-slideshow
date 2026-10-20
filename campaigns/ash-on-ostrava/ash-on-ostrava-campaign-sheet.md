@@ -393,6 +393,8 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | Teo | Fast flying, evasion |
 | Ferro-Ashe | Repairs, rites and communing (by data) |
 
+**How the Light rolls (set session 9):** d20 + stat bonus (+1 per full 10 levels) + specialty (+2, only on its kind of roll) + role or gear bonuses. Earlier ally rolls used rough bonuses and stand.
+
 | | STR | DEX | CON | INT | WIS | CHA | State |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Kell** | 30 | 36 | 30 | 10 | 25 | 10 | Fine (sling off warp day 7). Swaps in for Varga next mission |
