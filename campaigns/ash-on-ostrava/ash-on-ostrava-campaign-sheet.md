@@ -319,6 +319,18 @@ Keep the frame, barrel and cylinder (cleaned; the barrel re-threaded straight). 
 - **Builder: Dace** (agreed ~0900 day 14). From his cot: strip and clean, trigger and blade safety, ghost-ring sights, grip panels (needs a trigger group and spring set from Voss, and grip stock). Needs the forge: plasteel hammer and cylinder hand. Needs Ferro's lathe: re-thread the barrel. Paint last. ~2 days bench, 1 day forge.
 - **Three Munitorum gunsmith manuals** (set by the player as backstory: Tamsin quietly took them from Ottrick's shelves before leaving the Lantern) go to Dace with the parts. **Studying them gives Dace +1 on gun-crafting rolls.** Ottrick may notice they're gone.
 
+### Tamsin's container note (~0950 day 14)
+
+**For Dace and Ferro to fix:** the refractor field (Ferro: steady the flicker), the scorched Callidus knives (Dace: regrind), the captain's power sword (Ferro: tune and bless the field), and **Tamsin's chest piece: Dace fits the ceramite plate over the front** (ruling: from the front, Tamsin's chest counts as **heavy carapace**; uses the last ceramite plate).
+
+**Kit changes (handed out from the container):**
+- **Morcant:** Wren's **heavy carapace** and the **ripper drum shotgun**; his pump shotgun back to the rack.
+- **Kell:** a full carapace set; **Dace to cut the boarding shield down into a left shield-arm plate** for him.
+- **Tavi:** 1 krak, the **demo satchel + detonator**, the **breaching charge**.
+- **Sallow:** all the medicae she wants (she took 10 antitoxin, 10 stimms, filters, the half-used crate).
+- **Hollis:** a full carapace set.
+- **Corvane:** the **shotlas**.
+
 ### Trade and debts
 
 - **Ottrick's slate (the Light's account): 0.75 TV in credit** (warp day 9). Sell container goods by word; his ratings fetch them.
