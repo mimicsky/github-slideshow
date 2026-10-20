@@ -354,7 +354,27 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 
 **Specialties (set session 8, at the player's request).** Each member of the Light has a role specialty: **+2 on rolls of that kind**. Drilling the specialty as the day's training adds progress: **every 10 drill days, +1, to a max of +5**.
 
-**Training plan (Tamsin, 0530 warp day 8, while waiting on Kesh):** Kell: close-range shots, the chain axe, leading. Varga: shooting. Hollis: throws and arcs, some grenade tinkering. Morcant: strength to hold the stubber, recoil control (one-armed till the sling's off). Brenner: stripping and rebuilding ship tech, weapon upgrade ideas for the crew. **Isk: shooting at close, medium and long range, the most of anyone** (light drills while sick). Tavi: explosives research and tinkering (from his cot). Sallow: medicine research, speed. Corvane: CQC and speed. Nessa: stealth, speed, acrobatics. Mira and Teo: scouting research and evasion analysis. Dace: CQC and peeling for the team (shield cover for whoever's in trouble). Ferro-Ashe: free until Tamsin finds work for them.
+**Training plan (Tamsin, session 9; from warp day 15).** A member who follows it for the day gets **+1.0** in that stat at day's end. A day spent on something else that takes all their time (a mission, a whole-day job) gets nothing. Tamsin also trains a second thing at +0.5.
+
+| Who | Training | Stat |
+| --- | --- | --- |
+| Tamsin | Coaching and calling orders; then range work | WIS; then DEX (+0.5) |
+| Kell | Chain axe and shield arm | STR |
+| Varga | Rifle; flying once the pack's ready | DEX |
+| Hollis | Drum launcher arcs and ranges | DEX |
+| Brenner | Ciphers and tech | INT |
+| Isk | Long shots, high ground, grav-chute drops | DEX |
+| Tavi | Demo satchel and breaching | INT |
+| Morcant | Moving and shooting in heavy carapace | STR |
+| Sallow | Field surgery | WIS |
+| Corvane | Shotlas plus sword in one beat | DEX |
+| Nessa | Stealth, silent movement | DEX |
+| Mira | Strafing runs, precise passes | DEX |
+| Teo | Wingman passes, evasion | DEX |
+| Dace | Reading Ottrick's three manuals in bed | INT |
+| Sorel | Tracking drills with Nessa | WIS |
+| Tey | Range until something sticks | DEX |
+| Ferro-Ashe | Building (no reps while the bench is full) | none |
 
 **Roles (set by the player, session 9).** Each member of the Light now also has a **bestiary role** (`wh40k_gear/bestiary/roles.md`), with its rules in bold, and **the Light counts as traitor elites** for the role side notes (professionals: e.g. a jumper takes only -1 airborne). Specialty bonuses stay as below.
 
