@@ -449,7 +449,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | **Commodore Hale Varn** | Senior remnant captain at Ustrennos, flag on the *Iron Litany*. Declared for Kesh third | Knew of Orsk's runs and looked away; admitted it; gave the Ordo authorization and the Spindle's contents; writing Kesh a full report. **Friend of the Light** ('a berth, a ship, or a friend at Ustrennos') |
 | **Lt. Daran Kole** | Varn's flag lieutenant | Pulled the Spindle plans |
 | **Master Tull Orsk** | Ustrennos dockmaster | Supplied the Spindle for Drachen's gold; turned; flew the Light in; confessed to his men. In Merrick's brig for Varn's judgement; Tamsin asked for leniency |
-| **Watch-Captain Ilsa Merrick** | Ustrennos Station security | Holds 11 prisoners (incl. Orsk) for Varn; writing a report |
+| **Watch-Captain Ilsa Merrick** | Ustrennos Station security | **Friend of the Light** (session 9: 'a berth or a friend on this station'). Rebuilt her watch after Orsk. Holds Pask Hollow for the next Ordo courier. Gave the Light Sorel and Tey |
 | **Captain Severin Holt** | Gate Guard captain, held the Spindle | Surrendered; **cell 2, *Bright Light***, for Kesh. Not a cultist; ashamed |
 | **Sergeant Brann** | Gate Guard sergeant | Captured in Bay Two; **cell 2, *Bright Light***, for Kesh |
 | **Sergeant Malk Dresh, 'the Gate Captain'** | Nurgle cult leader among the Gate Guard | **Dead**, with his seed |
