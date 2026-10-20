@@ -225,7 +225,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Rank | **Interrogator** of Inquisitor Kesh's Ordo (rosette, warp day 20, session 7). Leads the Light, his cell under Varsaine. (Interrogator-designate from session 5.) |
 | Class | Fighter 9, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | **Hurt, mending** (woke day 20 after surgery by Haldis); before that Down, after being **Badly hurt**: las through the flak, left upper arm (dressed, stimm), and a hellgun beam through the carapace at the right collarbone, on the *Gate Unbroken*'s bridge. Arm healed after a full night's sleep. **Sharp edge (shooting): unused** |
-| Stats (levels 1-100) | STR **23.9** (+2), DEX **64.7** (+6), CON **23.4** (+2), INT **9.2** (+0), WIS **13.4** (+1), CHA **6.7** (+0) (after warp day 8: DEX +1.0 range with Vigil, DEX +0.5 cover drill with Dace. Warp days 9-12 in bed, no reps. Day 13: DEX +1.0 Vigil, DEX +0.5 Last Word, light range work while Hurt. Day 14: DEX +1.0 Vigil on lane three beside the trainees) |
+| Stats (levels 1-100) | STR **23.9** (+2), DEX **64.7** (+6), CON **23.4** (+2), INT **9.2** (+0), WIS **13.9** (+1), CHA **6.7** (+0) (after warp day 8: DEX +1.0 range with Vigil, DEX +0.5 cover drill with Dace. Warp days 9-12 in bed, no reps. Day 13: DEX +1.0 Vigil, DEX +0.5 Last Word, light range work while Hurt. Day 14: DEX +1.0 Vigil on lane three beside the trainees, WIS +0.5 coaching the trainees) |
 | At the Ustrennos jump point (days 16-17, three a day) | 16: STR +1.0, DEX +0.5, CHA +0.4. 17: CON +1.0, DEX +0.9 |
 | Road to Ustrennos (warp days 10-15, three a day, rolled) | 10: STR +1.0, CON +0.5, WIS +0.4. 11: STR +1.0, WIS +0.5, INT +0.4. 12: DEX +1.0, CHA +0.9. 13: WIS +1.0, CHA +0.5, STR +0.4. 14: INT +1.0, DEX +0.5, STR +0.4. 15: DEX +1.0, WIS +0.5, CON +0.4 |
 | Warp day 9 (the Rest) | DEX +1.0 (late range practice with the Light, 2230-0030) |
@@ -400,8 +400,8 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | **Kell** | 30 | 36 | 30 | 10 | 25 | 10 | Fine (sling off warp day 7). Swaps in for Varga next mission |
 | **Varga** | 25 | 38 | 25 | 10 | 21 | 5 | Fine (ribs healed; back to full duty warp day 15 on the road to Ustrennos). Warp day 6 dawn rep: DEX +1.0 (dry-fire drills with Mercy) |
 | **Dace** | 25 | 21 | 20 | 17 | 5 | 5 | Badly hurt (hip, session 9), in station medicae, sitting up |
-| **Sorel** (Light Trainee) | 32 | 29 | 29 | 18 | 26 | 14 | Fine. Tracker; hive clearance +2 |
-| **Tey** (Light Trainee) | 17 | 25 | 28 | 14 | 8 | 14 | Fine. Grunt, no specialty yet |
+| **Sorel** (Light Trainee) | 32 | 30 | 29 | 18 | 26 | 14 | Fine. Tracker; hive clearance +2. Day 14 rep: DEX +1.0 range |
+| **Tey** (Light Trainee) | 17 | 26 | 28 | 14 | 8 | 14 | Fine. Grunt, no specialty yet. Day 14 rep: DEX +1.0 range (flinches at recoil) |
 | **Hollis** | 26 | 35 | 32 | 17 | 25 | 12 | Fine (stats rolled session 9) |
 | **Brenner** | 21 | 27 | 26 | 31 | 18 | 10 | Fine |
 | **Isk** | 19 | 37 | 28 | 13 | 33 | 10 | Fine |
