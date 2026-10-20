@@ -495,7 +495,7 @@ The Light, off-screen (rolled 15): drilled daily on the new range and the mat wh
   presence** from worlds in her sector. More fighting, conquest and loot; less
   intrigue. Missions in the spirit of Darktide's: not easy, mostly killing
   heretics and taking their stuff.
-- **The ship:** *The Bright Light* (the old *Ember of Tyrok*), ~100 m courier. **Berths (set session 9):** the bunk room has **16 bunks** (13 in use: everyone but Tamsin, Ferro-Ashe who sleeps in the workshop, and Dace in medicae), Tamsin's cabin, **2 spare cabins** (one now **Kell's**, from day 14), 2 cells (empty).
+- **The ship:** *The Bright Light* (the old *Ember of Tyrok*), ~100 m courier. **Berths (set session 9):** the bunk room has **16 bunks** (13 in use: everyone but Tamsin, Ferro-Ashe who sleeps in the workshop, and Dace in medicae), Tamsin's cabin, **2 spare cabins** (now **Kell's** and **Varga's**, from day 14; bunk room 11 of 16 in use), 2 cells (empty).
   **Grey hull with white stripes.** Refit (session 8): **a little faster**; a
   **side hangar for the Valkyrie** (replaced the planned drop-pod bay); **two containers** in the hold (the Light's
   container and a second); a **medium-sized shooting range**. **Upper deck** is
