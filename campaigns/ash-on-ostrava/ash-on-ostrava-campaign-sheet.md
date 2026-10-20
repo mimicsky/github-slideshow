@@ -120,6 +120,8 @@ pass records, putting his description out, and sending a pair to Galley 2-C.
 Tamsin ordered the glove burned and the cell decontaminated. Merrick had the flask
 and the film sealed in an evidence tin first (for Kesh); glove burned; Orsk's body
 bagged for the station medicae; cell 12 to be scrubbed with promethium wash.
+**~0700 day 15: scouting run to the Spindle.** The Light flew out in the Valkyrie (Mira and Teo); Sallow in station medicae, Dace in his cot. Nobody on the station marked the Valkyrie's heading (14). Bay Two's outer doors dead (no power); **Ferro cranked the manual release (16)**, ~0725 the Valkyrie set down inside. Bay air held but stale and near freezing; all lumens dead. **Sorel's track (9): only the Light's own old prints and the holdouts' drag marks; he can't read anything newer.** ~0730 the Light on the deck of Bay Two, deciding where to set traps and hides.
+
 - **Geller generator:** Ferro-Ashe's full repair with the Spindle's coupling and
   1 plasteel, done **~1200 warp day 10**. **1 plasteel ingot left.**
 - **Next blessing: Kell's hellgun Officer** (Tamsin's choice). After the repair,
