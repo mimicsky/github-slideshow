@@ -8,6 +8,8 @@ story lives in `book.md`.
 **This sheet is current state and open reminders only.** When a thread closes, or
 a mission's book chapters are written, delete it from here: the books tell what
 happened, and git history keeps every old version.
+**Clean up as we go (set by the player, session 9):** during play, when something
+closes or stops mattering, delete or shorten it in the same save. Keep this sheet lean.
 
 **Where we stopped:** **end of Season Two, session 9, ~1415 warp day 16**, the galley
 of the *Bright Light*, berth 2-9, Ring Two, Ustrennos Station. Session 9 is told in

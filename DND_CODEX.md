@@ -448,6 +448,9 @@ Standing preferences, set during play. They apply to every campaign.
   they saw it, were told it, or heard it from someone who could have; if it's
   gossip, the fiction shows who passed it on. No one knows a thing just because
   the player does. Set by the player, session 5.
+- **Clean up as we go (set by the player, session 9).** The campaign sheet holds
+  current state only; during play, delete or shorten anything closed or no longer
+  useful in the same save, instead of letting it pile up.
 - **Daily tally sheet (set by the player, session 9).** Whenever the game clock
   passes into a new day, show a tally of the day just ended before the next scene:
   each person's reps (what they did, hours or actions, +0.1 each) and their new stat
