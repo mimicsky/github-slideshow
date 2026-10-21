@@ -55,8 +55,8 @@ of the *Bright Light*, berth 2-9, Ring Two, Ustrennos Station. Session 9 is told
   requested). Varga may need an augmetic eye (see `wh40k_gear/catalogue/kit.md`).
 - **Rematch with Varga** (she won the Season One mat match by a hair); trash talk is on.
 - **Station:** Watch-Captain Merrick is a friend of the Light; Anni (the nine-year-old
-  from the ring-four bunks) pulled through and is recovering in station medicae; Voss's
-  stores roll fresh stock each day.
+  from the ring-four bunks) pulled through and is recovering in station medicae; Ustrennos's
+  five shops restock every 2 days.
 - **Training plan** in force (see the Light, below).
 
 ### What the Light knows about Thask
@@ -295,8 +295,8 @@ Keep the frame, barrel and cylinder (cleaned; the barrel re-threaded straight). 
   spire amasec, Mechanicus parts, xenos tech.
 
 ---
-- **Ustrennos Station (set session 9):** the remnant fleet's anchorage station, four stacked rings on a central spine, each ring a few kilometres around; ~40,000 people (fleet crews, Navy, Munitorum, dockers, families). Ring one: security, brig, chapel. Ring two: berths (2-9 is the Light's), galleys, fleet stores, medicae. Ring three: dockmaster's office, yards. Ring four: crew bunks, fuel office, cold stores, relay rooms. **Shops (each rolled fresh daily):** Voss's fleet stores (M, huge), the ring-four dock chandlers (B, large), the fleet yards' Mechanicus forge-shrine on ring three (A, medium), the ring-one chapel's sellers (E, small; Selk's vestry is burned, a new priest runs it), and Free Trader stalls only when a trader is docked (d20 each day, 15+).
-- **Master of Stores Hadra Voss** (Ustrennos fleet stores, ring two; a broad grey woman): stock rolls fresh each day (`wh40k_gear/roll.py M medium`); no credit; buys Guard/Navy issue in trade (hellguns 3 TV, a sound carapace set 5, Navy shotguns 2); told by the Commodore to 'accommodate' the Light. Bought from her in session 9: sheaths (Tamsin's Shameholder scabbard on his back, Kell's axe hip hanger, Corvane's power-sword scabbard), 3 belt pouches (Corvane, Sallow, Nessa), the revolver-drum grenade launcher (Hollis won it 5-2 over Tavi), 2 pistol holsters and 3 plasteel (day 16). **Corvane's wishlist:** a combat shotgun, a Navy cutlass, a quick-draw holster for the revolver.
+- **Ustrennos Station (set session 9):** the remnant fleet's anchorage station, four stacked rings on a central spine, each ring a few kilometres around; ~40,000 people (fleet crews, Navy, Munitorum, dockers, families). Ring one: security, brig, chapel. Ring two: berths (2-9 is the Light's), galleys, fleet stores, medicae. Ring three: dockmaster's office, yards. Ring four: crew bunks, fuel office, cold stores, relay rooms. **Shops (restock every 2 days, set by the player; next fresh rolls warp day 18; Voss's day 16 stock holds through day 17):** Voss's fleet stores (M, huge), the ring-four dock chandlers (B, large), the fleet yards' Mechanicus forge-shrine on ring three (A, medium), the ring-one chapel's sellers (E, small; Selk's vestry is burned, a new priest runs it), and Free Trader stalls only when a trader is docked (d20 each day, 15+).
+- **Master of Stores Hadra Voss** (Ustrennos fleet stores, ring two; a broad grey woman): restocks every 2 days (`wh40k_gear/roll.py M huge`); no credit; buys Guard/Navy issue in trade (hellguns 3 TV, a sound carapace set 5, Navy shotguns 2); told by the Commodore to 'accommodate' the Light. Bought from her in session 9: sheaths (Tamsin's Shameholder scabbard on his back, Kell's axe hip hanger, Corvane's power-sword scabbard), 3 belt pouches (Corvane, Sallow, Nessa), the revolver-drum grenade launcher (Hollis won it 5-2 over Tavi), 2 pistol holsters and 3 plasteel (day 16). **Corvane's wishlist:** a combat shotgun, a Navy cutlass, a quick-draw holster for the revolver.
 
 ---
 

@@ -1036,7 +1036,8 @@ A shop's stock size follows how big and rich its market is, not just the counter
 town, a small station, a chapel), **large** (14-18: a city district, a big station's
 traders), **huge** (20-25: a fleet anchorage's Munitorum stores, a hive market, a trade
 hub like the Mart). Roll with `python3 wh40k_gear/roll.py SELLER SIZE`. A big place has
-**several shops**, one per seller type, each rolled separately.
+**several shops**, one per seller type, each rolled separately. **Shops restock every 2
+days** (stock holds for two days, then rolls fresh).
 
 ### The Void Exchange
 
