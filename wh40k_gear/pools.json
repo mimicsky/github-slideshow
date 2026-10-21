@@ -2226,13 +2226,6 @@
   "sellers": "A"
  },
  {
-  "name": "Bionic eye with targeter",
-  "tv": 18,
-  "cat": "augmetic",
-  "rarity": "R",
-  "sellers": "A"
- },
- {
   "name": "Subdermal armour",
   "tv": 25,
   "cat": "augmetic",
@@ -2252,6 +2245,41 @@
   "cat": "augmetic",
   "rarity": "R",
   "sellers": "A"
+ },
+ {
+  "name": "Bionic eye (+1 aimed; face recognition)",
+  "tv": 15,
+  "cat": "augmetic",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Sensor eye (+2 sight; scanner; +2 scanned/long shots)",
+  "tv": 22,
+  "cat": "augmetic",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Shooting eye (+2 long, +3 aimed; gun-link HUD)",
+  "tv": 30,
+  "cat": "augmetic",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Commissar eye (flash-proof; infrared; +1 shots; tactical scan; data sync)",
+  "tv": 40,
+  "cat": "augmetic",
+  "rarity": "R",
+  "sellers": "MA"
+ },
+ {
+  "name": "Champion eye (all eye features; +5 shots and sight)",
+  "tv": 90,
+  "cat": "augmetic",
+  "rarity": "X",
+  "sellers": "AF"
  },
  {
   "name": "Scrap metal (crate)",

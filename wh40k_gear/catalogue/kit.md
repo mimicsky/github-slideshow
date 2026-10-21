@@ -201,3 +201,11 @@ reads Will as a 20+ Perception would, within 1-2%, house rule 8). **Data sync:**
 results go out over the vox; allies on the channel know the target's health step,
 and an ally may spend the weak point instead (still once per target per fight).
 **Tell:** plainly Commissariat work; a non-commissar wearing one gets asked questions.
+
+### Champion eye
+
+**Champion eye** (**exotic**: natural 20 only, 90 TV; Mechanicus master-work, Free
+Traders). Everything the five eyes above do: recognition, scanner, zoom, rangefinder,
+gun link, flash protection, infrared, tactical scan and data sync. **+5 on all shots
+and all sight Perception** (one flat bonus, in place of the separate ones). **Tell:**
+master-work; tech-priests notice it and covet it.

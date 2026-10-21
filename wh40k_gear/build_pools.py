@@ -150,7 +150,11 @@ add("gear","R","MAF",[("Cogitator spike",4),("Servo-skull (utility, used)",20),(
 add("gear","R","E",[("Purity seal (blessed)",2),("Aquila rosary",1),("Reliquary fragment",10),("Blessed sacred oils (flask)",2),("Vial of shrine water",1)])
 # --- Augmetics ---
 add("augmetic","U","AB",[("Augmetic eye (basic)",8),("Augmetic hand (basic)",8),("Respirator implant",6)])
-add("augmetic","R","A",[("Augmetic arm, Mechanicus",20),("Bionic eye with targeter",18),("Subdermal armour",25),("Augmetic legs (pair)",30),("Mind-impulse link",22)])
+add("augmetic","R","A",[("Augmetic arm, Mechanicus",20),("Subdermal armour",25),("Augmetic legs (pair)",30),("Mind-impulse link",22)])
+# Player design (session 9): augmetic eyes. Full rules in catalogue/kit.md.
+add("augmetic","R","AF",[("Bionic eye (+1 aimed; face recognition)",15),("Sensor eye (+2 sight; scanner; +2 scanned/long shots)",22),("Shooting eye (+2 long, +3 aimed; gun-link HUD)",30)])
+add("augmetic","R","MA",[("Commissar eye (flash-proof; infrared; +1 shots; tactical scan; data sync)",40)])
+add("augmetic","X","AF",[("Champion eye (all eye features; +5 shots and sight)",90)])
 # --- Salvage / parts ---
 add("salvage","C","MBA",[("Scrap metal (crate)",0.5),("Plasteel ingot",2)])
 add("salvage","U","ABF",[("Ceramite plate",3),("Servo-motor",3),("Machine-core",6),("Mechanicus sacred oils (flask)",1),("Spare coupling (Mechanicus)",2),("Power cell (station)",0.5),("Adamantium shard",6)])
