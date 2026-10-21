@@ -2121,6 +2121,13 @@
   "sellers": "MAF"
  },
  {
+  "name": "Gun-skull (armed servo-skull; fires d20+3 a beat; eye feed)",
+  "tv": 30,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
   "name": "Bio-scanner",
   "tv": 8,
   "cat": "gear",

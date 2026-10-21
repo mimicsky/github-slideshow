@@ -209,3 +209,12 @@ Traders). Everything the five eyes above do: recognition, scanner, zoom, rangefi
 gun link, flash protection, infrared, tactical scan and data sync. **+5 on all shots
 and all sight Perception** (one flat bonus, in place of the separate ones). **Tell:**
 master-work; tech-priests notice it and covet it.
+
+## Gun-skull (armed servo-skull)
+
+**Gun-skull** (rare, 30 TV; Mechanicus, Free Traders; player design, Ash on Ostrava
+session 9). A servo-skull with a small gun built in (laspistol or stub pistol); hovers
+at its owner's shoulder. **Once a beat it fires at the owner's target, d20+3**, without
+using the owner's action. **Eye feed:** scouts up to ~30 m ahead and shows what it
+sees on the owner's slate or bead. **Fragile:** one solid hit drops it. A tech-adept
+binds it to its owner; it recharges overnight.

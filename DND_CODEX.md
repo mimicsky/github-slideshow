@@ -1032,6 +1032,25 @@ their purse by how they live. Valuables (gems, gold, rings) come on top.
 | Very rich: rogue trader, noble house, a broker like Thask (strongbox or vault, not purse) | d10 x 2,000 (2,000-20,000) |
 
 
+### Crew posts (set by the player, session 9)
+
+Support people who stay aboard the ship (or at a base) and keep the Light running. A
+**staffed post** gives a standing bonus. A Light-bringer may hold a post while not on
+a mission (Dace as smith); otherwise a crew member is hired or recruited for it.
+
+- **Cook:** keeps the Light fed. **Healing rolls while resting aboard get +2.**
+- **Smith / armourer:** maintains the Light's weapons and armour. **Each fight, the
+  first jam, misfire or gear quirk is ignored**; field damage is mended between
+  missions at no cost; does the crafting rolls for builds.
+- **Crewman / deckhand:** ship upkeep, loading and the stores. Loot and kit are hauled
+  aboard and kept in order without the Light carrying it; **the ship is ready to leave
+  in half the usual time** after a mission.
+- **Chaplain:** morale and faith. **+2 on the Light's saves against fear and the
+  warp**; can bless gear with purity seals (codex, Purity seals).
+- **Quartermaster:** shops for the Light from a list, haggling by their CHA: **d20 +
+  CHA bonus: 9 or less full price, 10-14 10% off, 15-19 20% off, 20+ 30% off** (also
+  sells loot for the same % more). One run per shop restock.
+
 ### Shop size by market (set by the player, session 9)
 
 A shop's stock size follows how big and rich its market is, not just the counter:

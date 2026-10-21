@@ -146,7 +146,7 @@ add("gear","R","MAF",[("Concentrated stimm (dose)",2),("Concentrated antitoxin (
 add("gear","U","MB",[("Combat drug 'Quicksilver' (speed: +2 Athletics and moving)",1.5),("Combat drug 'Deadeye' (focus: +2 shooting)",1.5),("Combat drug 'Frenzon' (rage: +2 melee)",1.5),("Combat drug 'Slaught' (reflexes: +2 strike first and dodge, +1 STR)",1.5),("Combat drug 'Adrenaline' (senses: +4 Perception, +1 shooting)",1.5)])
 add("gear","R","MAF",[("Servo-skull, gun (built-in laspistol)",30),("Servo-skull, burner (built-in micro-flamer)",35)])
 add("gear","U","B",[("Forged Munitorum ID chits",2),("Lock-picks, hive pattern",1),("Spoof-tag (fakes a transponder)",6),("Black-market data-slate",1)])
-add("gear","R","MAF",[("Cogitator spike",4),("Servo-skull (utility, used)",20),("Servo-skull (medicae)",25),("Bio-scanner",8),("Psy-occulus (warp detector)",15),("Jump pack (Guard pattern)",30),("Jump pack, Kasrkin pattern",45),("Chameleoline cloak",12),("Medicae servitor (old)",30)])
+add("gear","R","MAF",[("Cogitator spike",4),("Servo-skull (utility, used)",20),("Servo-skull (medicae)",25),("Gun-skull (armed servo-skull; fires d20+3 a beat; eye feed)",30),("Bio-scanner",8),("Psy-occulus (warp detector)",15),("Jump pack (Guard pattern)",30),("Jump pack, Kasrkin pattern",45),("Chameleoline cloak",12),("Medicae servitor (old)",30)])
 add("gear","R","E",[("Purity seal (blessed)",2),("Aquila rosary",1),("Reliquary fragment",10),("Blessed sacred oils (flask)",2),("Vial of shrine water",1)])
 # --- Augmetics ---
 add("augmetic","U","AB",[("Augmetic eye (basic)",8),("Augmetic hand (basic)",8),("Respirator implant",6)])
