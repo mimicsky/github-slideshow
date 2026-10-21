@@ -195,7 +195,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
   they saw it, were told it, or heard it from someone who could have; if it's
   gossip, the fiction shows who passed it on. No one knows a thing just because
   the player does. Set by the player, session 5.
-- **Don't show the math.** After a roll, just say what happens.
+- **Show the math on rolls (changed by the player, end of session 9):** write each roll as (die + bonuses = total), e.g. (12+6+1+2 = 21): the die, stat bonus, then each other bonus, then the total. Contests: (yours = total vs theirs = total).
 - **Shop stock only on a visit.** Never list a shop's stock in a summary.
 - **No repeats.** Save before writing the scene; the save note is just
   "(saved)". The scene is the last thing in the reply. NPCs don't re-explain,

@@ -448,9 +448,10 @@ Standing preferences, set during play. They apply to every campaign.
   they saw it, were told it, or heard it from someone who could have; if it's
   gossip, the fiction shows who passed it on. No one knows a thing just because
   the player does. Set by the player, session 5.
-- **Don't show the math.** After a roll, just say what happens: no modifiers,
-  totals or sums. The dice are still real and the record keeps them. Set by the
-  player, session 5.
+- **Show the math.** Every roll is written as (die + bonuses = total), e.g.
+  (12+6+1+2 = 21): the die, the stat bonus, then each other bonus, then the total.
+  Contests: (ours = total vs theirs = total). DCs stay hidden. Set by the player,
+  Ash on Ostrava session 9 (replacing 'don't show the math', session 5).
 - **Hidden DCs, near-miss partials, the exchange** for melee (house rules 1, 3, 5).
 - **Explain setting lore briefly** out of character when asked, limited to what
   the character would know. Use references the player knows (Darktide for 40k).
