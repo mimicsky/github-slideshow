@@ -25,3 +25,14 @@ of it. -3 past ~10 m.** **Scrap quirk:** on a natural 1 the canister leaks, and 
 looted nailer-user **always carries a bag of scrap** (nails, bolts, gravel, a spare gas
 canister), which counts as scrap salvage. Carried by gangers, sump scum and cultist
 mobs that rush in close.
+
+## Rivet gun (converted industrial riveter)
+
+**Rivet gun** (uncommon, 1.5 TV; black market). A manufactorum rivet driver with the
+safety ripped out, fed by a hose from a pressure tank on the back; punches hot steel
+rivets. **Semi-auto, chains of up to 3, 20 rivets in a hopper.** **Within ~15 m it hits
+like a heavy stub round:** through flak on any hit, through carapace on a solid hit;
+**past ~15 m, -3 and a weak hit.** **Scrap quirk:** a hit on the carrier, on a d6 of 1,
+cuts the hose or bursts the tank, and the gun is dead for the fight. **Loud and
+hissing:** no stealth. Carried by ex-manufactorum workers, gang breachers and raider
+heavies; everywhere on a hive world.

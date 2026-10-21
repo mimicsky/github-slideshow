@@ -34,6 +34,7 @@ add("las","R","BF",[("Duelling laspistol, noble-house pattern",8),("Archeotech l
 # Scrap guns (player request, session 9). Rules in catalogue/scrap.md.
 add("stub","C","B",[("Pipe pistol (zip gun; one shot, a beat to reload; may burst on a 1)",0.25)])
 add("stub","C","B",[("Nailer (scrap scattergun; one blast, hits 2 within 5 m; carrier always has a bag of scrap)",0.5)])
+add("stub","U","B",[("Rivet gun (scrap; chains of 3, heavy stub punch within 15 m; tank can burst)",1.5)])
 add("stub","C","MB",[("Autogun, Agripinaa",1),("Autopistol",1),("Stub revolver",0.5),("Stub automatic",0.75),("Combat shotgun, pump",1.5)])
 add("stub","U","MBF",[("Combat shotgun, semi-auto",2),("Ripper gun / drum-fed shotgun",3),("Sawn-off shotgun",1),("Hand cannon (big-bore stubber)",2),("Scrap autogun with drum",1.5)])
 add("stub","U","B",[("Silenced stub pistol",2.5),("Holdout stub pistol",1),("Hive-gang 'scattergun'",1),("Ganger's chain-fed autopistol",2)])

@@ -224,6 +224,13 @@
   "sellers": "B"
  },
  {
+  "name": "Rivet gun (scrap; chains of 3, heavy stub punch within 15 m; tank can burst)",
+  "tv": 1.5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
   "name": "Autogun, Agripinaa",
   "tv": 1,
   "cat": "stub",
