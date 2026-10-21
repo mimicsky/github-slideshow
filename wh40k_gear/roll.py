@@ -3,7 +3,7 @@
 Usage: python3 roll.py SELLER SIZE
   SELLER: M (Munitorum/fleet stores), B (black market/chandlers),
           A (Mechanicus shrine), F (Free Trader / Void Exchange), E (Ecclesiarchy)
-  SIZE:   small (5-7 items), medium (9-12), large (14-18)
+  SIZE:   small (5-7 items), medium (9-12), large (14-18), huge (20-25)
 Rarity weights: common 55, uncommon 32, rare 13. A separate open d20:
 on a natural 20, one exotic oddity is added; then a second d20 of 18-20 makes it
 legendary instead. Prints the d20s so they can be shown.
@@ -14,7 +14,7 @@ here = os.path.dirname(os.path.abspath(__file__))
 items = json.load(open(os.path.join(here, "pools.json")))
 seller = (sys.argv[1] if len(sys.argv) > 1 else "M").upper()
 size = sys.argv[2] if len(sys.argv) > 2 else "medium"
-n = {"small": (5, 7), "medium": (9, 12), "large": (14, 18)}[size]
+n = {"small": (5, 7), "medium": (9, 12), "large": (14, 18), "huge": (20, 25)}[size]
 n = random.randint(*n)
 weights = {"C": 55, "U": 32, "R": 13}
 pool = [i for i in items if seller in i["sellers"] and i["rarity"] not in ("X", "L")]

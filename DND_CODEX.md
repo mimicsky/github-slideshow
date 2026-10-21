@@ -1029,6 +1029,15 @@ their purse by how they live. Valuables (gems, gold, rings) come on top.
 | Very rich: rogue trader, noble house, a broker like Thask (strongbox or vault, not purse) | d10 x 2,000 (2,000-20,000) |
 
 
+### Shop size by market (set by the player, session 9)
+
+A shop's stock size follows how big and rich its market is, not just the counter:
+**small** (5-7 items: a stall, a frontier post, a ship's locker), **medium** (9-12: a
+town, a small station, a chapel), **large** (14-18: a city district, a big station's
+traders), **huge** (20-25: a fleet anchorage's Munitorum stores, a hive market, a trade
+hub like the Mart). Roll with `python3 wh40k_gear/roll.py SELLER SIZE`. A big place has
+**several shops**, one per seller type, each rolled separately.
+
 ### The Void Exchange
 
 A wider, dearer market beside the quartermaster, added at the player's request
