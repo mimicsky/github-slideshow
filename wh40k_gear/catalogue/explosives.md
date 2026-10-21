@@ -64,3 +64,12 @@ an enemy: a flat d20):
 - **18-20: they shrug it off.**
 
 (The Culexus psyk-out grenade, in the Assassinorum file, is the epic version.)
+
+## Web grenade (Arbites pattern)
+
+**Web grenade** (player pick, Ash on Ostrava session 9; uncommon, 2 TV; Munitorum, Free
+Traders, Arbites armouries). Bursts into sticky strands over **~3 m**. Everyone caught
+is **webbed: can't move, -2 on all actions.** **Getting free:** a beat cutting loose
+with a blade, or a **STR roll of 15+** to tear out; an ally can cut them free with their
+beat. **Does no harm** (a capture tool). Dissolves after ~10 minutes, or at once with
+Arbites solvent. **Ogryns** tear free automatically, but it costs them their beat.

@@ -2401,6 +2401,13 @@
   "sellers": "A"
  },
  {
+  "name": "Web grenade, Arbites pattern (3 m; webbed: no moving, -2; harmless)",
+  "tv": 2,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
   "name": "Psyker overload grenade (psykers in 5 m roll: 1-10 down 3 beats then Badly hurt; 11-17 bleed, no powers 2 beats)",
   "tv": 10,
   "cat": "explosive",
