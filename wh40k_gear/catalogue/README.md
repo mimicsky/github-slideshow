@@ -68,6 +68,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Tuned plasma cell](plasma.md#tuned-plasma-cell)
 - [Plasma blaster, twin-cell 'Lumen' pattern](plasma.md#plasma-blaster-twin-cell-lumen-pattern)
 - [Plasma repeater, 'Kasr Furnace' break-action lever pattern](plasma.md#plasma-repeater-kasr-furnace-break-action-lever-pattern)
+- [Inferno pistol](plasma.md#inferno-pistol)
 
 ## [Explosives, mines and grenades](explosives.md)
 

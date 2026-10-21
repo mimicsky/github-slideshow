@@ -95,7 +95,7 @@ add("plasma","R","AF",[("Plasma repeater, 'Kasr Furnace' break-action lever patt
 add("plasma","R","AF",[("Tuned plasma cell (12 shots, not 8)",10)])
 add("plasma","R","AF",[("Plasma blaster, twin-cell 'Lumen' pattern (2 cells; chains up to 4; heat 1 per 4 shots; pistol punch)",35)])
 add("plasma","R","MAF",[("Plasma pistol, 'Needle' pattern (compact, long barrel; slow heat: 1 per 4 shots; 12 shots a cell; lighter punch)",18)])
-add("melta","R","MAF",[("Meltagun",35),("Inferno pistol (Sororitas)",40)])
+add("melta","R","MAFE",[("Meltagun",35),("Inferno pistol (Sororitas; meltagun hit within 8 m, two steps; 6 shots a charge; heat vents at 2)",40)])
 add("melta","U","MF",[("Melta charge (spare)",5)])
 add("flame","U","MBEF",[("Flamer, Ryza pattern",8),("Hand flamer",6),("Promethium canister",1),("Ecclesiarchy 'cleansing' flamer",9)])
 add("flame","R","MF",[("Heavy flamer",20),("Incinerator (blessed fuel)",25)])

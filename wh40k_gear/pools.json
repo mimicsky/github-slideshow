@@ -809,14 +809,14 @@
   "tv": 35,
   "cat": "melta",
   "rarity": "R",
-  "sellers": "MAF"
+  "sellers": "MAFE"
  },
  {
-  "name": "Inferno pistol (Sororitas)",
+  "name": "Inferno pistol (Sororitas; meltagun hit within 8 m, two steps; 6 shots a charge; heat vents at 2)",
   "tv": 40,
   "cat": "melta",
   "rarity": "R",
-  "sellers": "MAF"
+  "sellers": "MAFE"
  },
  {
   "name": "Melta charge (spare)",

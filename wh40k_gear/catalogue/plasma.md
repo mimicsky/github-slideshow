@@ -52,3 +52,15 @@ charge from the cell** (a 3-pump shot uses 4). Each pump is half a step more pun
 **Holding a charge builds heat:** every beat it stays pumped without being fired,
 it gains **1 heat** (normal plasma heat rules). Fire it fast. Firing a pumped shot
 adds its usual heat too, and venting dumps the charge.
+
+## Inferno pistol
+
+**Inferno pistol** (player request, Space Marine 2 style, Ash on Ostrava session 9;
+rare, 40 TV; Ecclesiarchy, Mechanicus, Free Traders). A master-crafted melta pistol
+sized for a human hand: the sidearm of the Sisters of Battle and of Inquisitors.
+One-handed, made to pair with a blade. **Within ~8 m it hits like a meltagun:**
+through any armour (carapace and power armour included), **the target drops two
+health steps**, and it melts doors, locks and light vehicles. **8-15 m:** -3 on the
+shot and only one step. **Past 15 m:** no effect. **One shot a beat; 6 shots per
+melta charge** (spare charges 5 TV). **Heat:** each shot adds 1; at 2 it vents for a
+beat. Fields (refractor, conversion) still roll.
