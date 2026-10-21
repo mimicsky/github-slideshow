@@ -104,7 +104,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Psy-ward amulet](kit.md#psy-ward-amulet) (epic)
 - [Jump pack, Kasrkin pattern](kit.md#jump-pack-kasrkin-pattern)
 - [Lift pack (heretek grav-chute)](kit.md#lift-pack-heretek-grav-chute) (unique, built)
-- [Augmetic eyes](kit.md#augmetic-eyes): [basic](kit.md#basic-augmetic-eye)
+- [Augmetic eyes](kit.md#augmetic-eyes): [basic](kit.md#basic-augmetic-eye), [bionic](kit.md#bionic-eye)
 
 ## [Drugs and servo-skulls](drugs.md)
 

@@ -161,3 +161,11 @@ until one is fitted.
 **Basic augmetic eye** (uncommon, 8 TV; Mechanicus, black market). Brass ring, dull
 glass lens. Restores normal sight: no bonus, no drawback in good light. **Cheap lens:
 -1 on sight Perception in dark or smoke** (grainy picture).
+
+### Bionic eye
+
+**Bionic eye** (rare, 15 TV; Mechanicus, Free Traders). Steel housing, red-ringed
+lens. Normal sight in dark and smoke (no cheap-lens penalty). **Basic targeting:**
+a simple crosshair, **+1 on aimed shots.** **Visual recognition:** stores every face,
+uniform and ship marking it has seen; **+2 to pick out someone or something seen
+before**, in a crowd or at a distance.
