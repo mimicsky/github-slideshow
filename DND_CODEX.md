@@ -952,7 +952,10 @@ which roles, how each role tends to act, and its rules** are in
 scripts. A **two-man team** (a heavy weapon) is one specialist roll but two bodies:
 the gunner and a loader with a lasgun and the ammunition. Drugs, doses and the
 crash (berserkers, chem-doctors) follow **Doses** in Gear rules below. Every enemy also rolls armour and one extra.  *Blessed* (a cultist marked by their god) is a
-cultist specialist type; see the catalogue, Heretic and cult items. **Each enemy also rolls STR and DEX levels** in its type's range
+cultist specialist type; see the catalogue, Heretic and cult items. **Poor groups** (set by the player, session 9): basic (not elite, not special-team)
+cultist, raider and pirate groups roll gear at common 80 / uncommon 20 / rare 0, and
+their found-or-made items are never rare; only a natural-20 rare find gives them
+something special. They also carry the scrap guns. **Each enemy also rolls STR and DEX levels** in its type's range
 (cultist STR 10-30 / DEX 10-25; raider 15-35 / 15-30; pirate 15-35 / 20-35; traitor
 20-35 / 25-40; traitor elite 25-45 / 35-50), +1 per full 10 levels to their rolls; a
 specialist adds +5 levels to the stat its role uses, a special team +5 to both; other

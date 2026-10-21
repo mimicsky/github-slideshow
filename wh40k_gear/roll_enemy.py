@@ -25,6 +25,9 @@ enemies and smarter tactics, not bigger numbers.
 Fight stats (player-set, session 9): each enemy rolls STR and DEX levels (1-100) in
 its type's range; +1 to rolls per full 10. A specialist gets +5 levels in the stat
 its role uses; a special team gets +5 levels to both.
+Poor groups (player-set, session 9): basic cultist, raider and pirate groups roll gear at
+common 80 / uncommon 20 / rare 0, and their found-or-made items are never rare (no stolen
+melta bombs or captains' power swords); a natural-20 rare find still happens.
 Scrap guns (player-set, session 9): only basic (not elite, not special-team) cultist, raider
 and pirate groups carry them.
 Gun condition (player-set, session 9): cultists and raiders Dirty or Neglected, pirates Dirty,
@@ -76,7 +79,8 @@ elite = raw >= 19  # only the natural die makes an elite team; bonuses never do
 better = 0 if d20 < 9 else 1 if d20 < 11 else 2 if d20 < 13 else 3 if d20 < 15 else 4 if d20 < 17 else 5 if d20 < 19 else 6
 if elite: better = count
 better = min(better, count)
-w = {"C": 25, "U": 50, "R": 25} if elite else P.get("weights", {"C": 70, "U": 25, "R": 5})
+poor = kind in ("cultist", "raider", "pirate") and not elite and not team  # player-set, session 9
+w = {"C": 25, "U": 50, "R": 25} if elite else {"C": 80, "U": 20, "R": 0} if poor else P.get("weights", {"C": 70, "U": 25, "R": 5})
 def pick(rows):
     if elite or team:  # scrap guns are for poor, basic groups only (player-set, session 9)
         rows = [r for r in rows if "(scrap" not in r[0]] or rows
@@ -135,7 +139,7 @@ for n in range(count):
     cond = random.choice(["Dirty", "Neglected"]) if kind in ("cultist", "raider") else "Dirty" if kind == "pirate" else "Clean"
     line = f"{n+1}. {head} | {armour} | {extra} | {stats(role if role_d20 >= 16 else None, "SKITARIUS" in head)} | guns {cond}"
     if n in lucky:
-        line += f"  ** FOUND/MADE: {random.choice(P['found'])[0]}"
+        line += f"  ** FOUND/MADE: {random.choice([f for f in P['found'] if not poor or f[1] != 'R'] or P['found'])[0]}"
     if blessed:
         line = line.replace(f"{n+1}. ", f"{n+1}. !! BLESSED by {god}, rerolled: ", 1)
     print(line)
