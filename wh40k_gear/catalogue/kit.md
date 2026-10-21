@@ -187,3 +187,17 @@ long shots** (past ~30 m); the wearer always knows the exact range to anything s
 (Ferro-Ashe fits the link port; re-linking another gun ~1 hour) shows ammo and heat
 (Vigil's included): never caught empty or overheated by surprise, and **a miss in a
 shot chain doesn't cost the -1** (house rule 2).
+
+### Commissar eye
+
+**Commissar eye** (rare, 40 TV; Munitorum (Commissariat issue), Mechanicus).
+**Flash protection:** never blinded by flash grenades, muzzle flare, las glare or
+sudden light. **Infrared:** body heat in total darkness and smoke, ~50 m (not through
+walls). **Basic HUD:** **+1 on shots.** **Tactical scan:** once a beat (free), read
+one person in sight: **weak points** (the next hit on them lands **one health step
+harder**, once per target per fight); **vitals** (exact health step, and whether
+they're faking); **fear** (**+2 on Intimidation** against them; in interrogation,
+reads Will as a 20+ Perception would, within 1-2%, house rule 8). **Data sync:** scan
+results go out over the vox; allies on the channel know the target's health step,
+and an ally may spend the weak point instead (still once per target per fight).
+**Tell:** plainly Commissariat work; a non-commissar wearing one gets asked questions.
