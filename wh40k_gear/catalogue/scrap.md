@@ -102,3 +102,13 @@ rounds, chains of up to 2;** stub-rifle punch (through flak on a solid hit). **F
 ~30 m; -2 past that** (the barrel isn't true). **Scrap quirk:** on a natural 1 it **falls
 apart** in the shooter's hands: out of the fight. Carried by every second grunt in a
 gang or a cult.
+
+## Rattler (stamped scrap SMG)
+
+**Rattler** (common, 0.75 TV; black market). Folded sheet metal, a sewing-machine spring
+and a stick magazine welded in at an angle: loud, ugly and fast; gang workshops crank
+them out by the dozen. **Full-auto, 20-round stick magazine, chains of up to 5, no hit
+bonuses** (misses still -1). Autopistol punch (good on flesh, poor on flak). **-1 on
+every shot past ~15 m.** **Scrap quirk:** on a natural 1 it **runs away**: the spring
+sticks and it dumps the whole magazine in a random direction; anyone near the shooter
+ducks. Carried by gang runners, cult mobs and raider boarding grunts.

@@ -54,6 +54,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Pipe-bomb mortar ("tube lobber")](scrap.md#pipe-bomb-mortar-tube-lobber)
 - [Bolt-pipe ("one-shot boomer")](scrap.md#bolt-pipe-one-shot-boomer)
 - [Pipe rifle](scrap.md#pipe-rifle)
+- [Rattler (stamped scrap SMG)](scrap.md#rattler-stamped-scrap-smg)
 
 ## [Bolt weapons](bolt.md)
 

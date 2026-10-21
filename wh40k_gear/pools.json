@@ -273,6 +273,13 @@
   "sellers": "B"
  },
  {
+  "name": "Rattler (scrap SMG; 20-round stick, chains of 5; runs away on a 1)",
+  "tv": 0.75,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
   "name": "Autogun, Agripinaa",
   "tv": 1,
   "cat": "stub",
