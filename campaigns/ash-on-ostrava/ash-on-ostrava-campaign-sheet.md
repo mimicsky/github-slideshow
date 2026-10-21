@@ -181,6 +181,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Road to Ustrennos (warp days 10-15, three a day, rolled) | 10: STR +1.0, CON +0.5, WIS +0.4. 11: STR +1.0, WIS +0.5, INT +0.4. 12: DEX +1.0, CHA +0.9. 13: WIS +1.0, CHA +0.5, STR +0.4. 14: INT +1.0, DEX +0.5, STR +0.4. 15: DEX +1.0, WIS +0.5, CON +0.4 |
 | Warp day 9 (the Rest) | DEX +1.0 (late range practice with the Light, 2230-0030) |
 | Reps on the road to the Rest (rolled daily) | Day 1 DEX +1.0. Day 2 DEX +1.0, DEX +0.5. Day 3 CHA +1.0, DEX +0.5. Day 4 DEX +1.5. Day 5 CON +1.0, CHA +0.5. Day 6 DEX +1.5. Day 7 CHA +1.0, DEX +0.5. Day 8 INT +1.0, DEX +0.5. Mostly sparring with Dace, Corvane and Isk; CHA from drilling the Light-bringers and talking to the crew |
+| Renown | **Local (+3)**, close to Regional (codex, Renown). **Ustrennos: +5 more** (the Spindle, the Kestrel, the pirate ship: the station knows his face). **Thask's network knows exactly who he is.** Next step up (Regional): break the Gardener at the Mart |
 | Proficiency | **+4** (level 9). Skills: Perception, Athletics, Survival, Intimidation |
 | Want | Find who opened the gate at Kasr Holn. Now: bring down Drachen |
 | Flaw | Doesn't trust officers, and says so |

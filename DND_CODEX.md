@@ -1049,6 +1049,24 @@ their purse by how they live. Valuables (gems, gold, rings) come on top.
 | Very rich: rogue trader, noble house, a broker like Thask (strongbox or vault, not purse) | d10 x 2,000 (2,000-20,000) |
 
 
+### Renown (set by the player, session 9)
+
+How far the player character's name has spread. **When he walks into a new place
+(a station, a district, a bar, a hive level), roll d20 + Renown bonus: 15+ someone
+recognises him.** Then the DM rolls who: friend, admirer, rival, or enemy (a cultist, a
+bounty hunter, someone he wronged). Where a deed happened, add **+5 there**.
+
+| Renown | Who knows him | Bonus |
+| --- | --- | --- |
+| Unknown | Nobody | +0 (only a natural 20) |
+| Local | One station or fleet | +3 |
+| Regional | A few systems | +6 |
+| Sector | The whole sector | +10 |
+| Legend | Worlds away | +15 (rarely needs a roll) |
+
+Renown rises by the DM's call after big, public deeds (a cult broken, a world saved, a
+famous enemy killed); it is tracked on the campaign sheet.
+
 ### Crew posts (set by the player, session 9)
 
 Support people who stay aboard the ship (or at a base) and keep the Light running. A
