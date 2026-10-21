@@ -964,11 +964,12 @@ faction (`roll_enemy.py TYPE COUNT WEALTH`). **Cultists, raiders, pirates:** 1-3
 | Poor | 80 / 20 / 0 | Lots of scrap guns; found items never rare |
 | Steady | 70 / 25 / 5 | Some scrap guns |
 | Good | 55 / 35 / 10 | No scrap; real issue gear |
-| Rich | 40 / 45 / 15 | Armour one step better |
-| Wealthy | 25 / 50 / 25 | Armour one step better; leaders carry something exotic-looking |
+| Rich | 40 / 45 / 15 | Armour one step better; **2% each carries an epic item** |
+| Wealthy | 25 / 50 / 25 | Armour one step better; **5% each carries an epic item**; leaders carry something exotic-looking |
 
 An **elite team** (natural 19-20 on the group d20) is **one level richer** than its
-faction. Named special teams keep their own rules and carry no scrap. **Each enemy also rolls STR and DEX levels** in its type's range
+faction. Epic items are drawn from the exotic tier (Astartes trophies, xenos guns, archeotech;
+never Assassinorum gear). Named special teams keep their own rules and carry no scrap. **Each enemy also rolls STR and DEX levels** in its type's range
 (cultist STR 10-30 / DEX 10-25; raider 15-35 / 15-30; pirate 15-35 / 20-35; traitor
 20-35 / 25-40; traitor elite 25-45 / 35-50), +1 per full 10 levels to their rolls; a
 specialist adds +5 levels to the stat its role uses, a special team +5 to both; other

@@ -33,7 +33,9 @@ first meeting with that faction there). Cultists, raiders, pirates: 1-30 Poor, 3
 Steady, 61-80 Good, 81-95 Rich, 96-100 Wealthy. Traitors and traitor elites (Good and up):
 1-50 Good, 51-85 Rich, 86-100 Wealthy. Gear C/U/R: Poor 80/20/0 (found items never rare,
 lots of scrap guns), Steady 70/25/5 (some scrap), Good 55/35/10, Rich 40/45/15 and
-Wealthy 25/50/25 (armour one step better). An elite team is one level richer.
+Wealthy 25/50/25 (armour one step better). Epic items: each enemy of a Rich faction has a
+2% chance, of a Wealthy faction 5%, to carry one (no Assassinorum gear). An elite team is
+one level richer.
 Gun condition (player-set, session 9): cultists and raiders Dirty or Neglected, pirates Dirty,
 traitors Clean (codex Part 8, Gun condition and jams).
 Skitarii (player-set, session 9): a traitor or traitor-elite tech-adept rolls a second d20;
@@ -102,6 +104,9 @@ if elite: level = LEVELS[min(4, LEVELS.index(level) + 1)]  # an elite team is on
 poor = level == "poor"
 w = WEIGHTS[level]
 better_armour = bool(team) or level in ("rich", "wealthy")
+EPIC_CHANCE = {"rich": 0.02, "wealthy": 0.05}.get(level, 0)  # epic (exotic) items, player-set session 9
+EPICS = [i["name"] for i in json.load(open(os.path.join(here, "pools.json"))) if i["rarity"] == "X"
+         and not any(x in i["name"] for x in ("Exitus", "Callidus", "Culexus", "Vindicare"))]
 def pick(rows):
     if team or level not in ("poor", "steady") or (level == "steady" and random.random() < 0.5):
         rows = [r for r in rows if "(scrap" not in r[0]] or rows  # scrap guns: Poor, and some Steady
@@ -161,6 +166,8 @@ for n in range(count):
     line = f"{n+1}. {head} | {armour} | {extra} | {stats(role if role_d20 >= 16 else None, "SKITARIUS" in head)} | guns {cond}"
     if n in lucky:
         line += f"  ** FOUND/MADE: {random.choice([f for f in P['found'] if not poor or f[1] != 'R'] or P['found'])[0]}"
+    if EPIC_CHANCE and random.random() < EPIC_CHANCE:
+        line += f"  ** EPIC: {random.choice(EPICS)}"
     if blessed:
         line = line.replace(f"{n+1}. ", f"{n+1}. !! BLESSED by {god}, rerolled: ", 1)
     print(line)
