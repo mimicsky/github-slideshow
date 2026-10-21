@@ -1067,6 +1067,19 @@ bounty hunter, someone he wronged). Where a deed happened, add **+5 there**.
 Renown rises by the DM's call after big, public deeds (a cult broken, a world saved, a
 famous enemy killed); it is tracked on the campaign sheet.
 
+### Nemeses (set by the player, session 9; inspired by Shadow of Mordor)
+
+Enemies who **survive a fight with the Light and remember it** (escaped, left behind,
+freed, broken but alive) may become **nemeses**. **After a fight, d20 per survivor who
+saw what happened: 18-20 makes a nemesis** (+3 if the player character killed someone
+they cared about; +3 if he humiliated them or left them for dead). A nemesis gains a
+**trait from how they survived** (a scar, a burn, a lost eye or an augmetic, a fear, an
+obsession, a vow) and **rises**: better gear, followers, a new paymaster. **At the start
+of each mission, d20 per active nemesis: 17+ they turn up** (in the fight, the deal, the
+bar); each time they don't, they grow stronger. It ends when they're killed, captured or
+turned; another escape deepens the grudge. **Hidden:** the player learns who they are
+only when they come back. Tracked in the campaign sheet's DM threads.
+
 ### Crew posts (set by the player, session 9)
 
 Support people who stay aboard the ship (or at a base) and keep the Light running. A

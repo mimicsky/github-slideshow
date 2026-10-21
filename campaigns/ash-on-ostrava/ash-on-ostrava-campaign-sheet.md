@@ -599,11 +599,23 @@ Light's container. Crew rallying cry: **"We are the light."**
   broken) knows TALLY's home, the Weir.
 - **The Spindle after the trade (DM):** Brask was honest (20): the *Sable Margin* is gone
   for good unless the story brings it back (~60 aboard, no paymaster now). TALLY's vox
-  man (#9) and two others fled into the Spindle's maintenance ways; the bosun (Badly
-  hurt), the jumper (Down) and other Down chem-dogs were left in Bay Two's spoke; the
+  man (#9) and two others fled into the Spindle's maintenance ways; the bosun and the jumper
+  died there (nemesis rolls); other Down chem-dogs were left in Bay Two's spoke; the
   three cuffed men at the far lock. **Orne's gold** (a strongbox, ~40 TV) was left in
   Bay Two's spoke: Brask's boat may go back for his men and find it first. **9 armed
   tripwire charges** still in Bay Two's spoke; Bay Two's doors breached.
+- **Nemeses (DM only; rolled end of session 9 for the Spindle survivors, all +3 for Orne's killing):**
+  the **bosun** (survival 10) and the **jumper** (survival 2) **died** in the spoke before
+  anyone came. Not nemeses: the two who fled with the vox man (7, 17) and two of the cuffed
+  men (13, 13). **Nemesis 1: the vox man, "Kessick Vay"** (TALLY #9, Savlar Chem-Dog; natural 20,
+  23). Trait: **obsession**: he has hours of THE LIGHT channel recorded (voices, call signs,
+  Brenner's 1005 line, Tamsin shouting the word) and studies them. He left Brask and sells
+  what he knows to Thask's network at the Mart; he knows the Light's habits on the vox.
+  **Nemesis 2: "Hessler"**, the tracker with the scoped autogun (cuffed at the lock, 18).
+  Brenner's shot in his side healed ugly. Trait: **a vow**: he swore on Orne's name to
+  put Tamsin down, and two other Chem-Dogs who wouldn't go back to Brask follow him. Both
+  watched Tamsin kill Orne after they surrendered. **Roll each at the start of the next
+  mission (17+ they appear).**
 - **THE LIGHT channel is compromised (DM):** TALLY's vox man broke into it on day 16 and
   heard Brenner's 1005 line. Brenner caught a second carrier, so the Light knows
   someone listened; the channel should be re-keyed (Brenner, or Ferro-Ashe) before the
