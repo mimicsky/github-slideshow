@@ -25,6 +25,8 @@ enemies and smarter tactics, not bigger numbers.
 Fight stats (player-set, session 9): each enemy rolls STR and DEX levels (1-100) in
 its type's range; +1 to rolls per full 10. A specialist gets +5 levels in the stat
 its role uses; a special team gets +5 levels to both.
+Gun condition (player-set, session 9): cultists and raiders Dirty or Neglected, pirates Dirty,
+traitors Clean (codex Part 8, Gun condition and jams).
 Skitarii (player-set, session 9): a traitor or traitor-elite tech-adept rolls a second d20;
 18-20 makes it a corrupted Skitarius (kind d6: 1-3 Ranger, 4-5 Vanguard, 6 Sicarian).
 Blessed cultists: "blessed" is one of the cultist specialist types. A cultist who
@@ -126,7 +128,8 @@ for n in range(count):
     extra = pick(P['extra'])
     if head.startswith("SPECIALIST BOMB ZEALOT"):
         extra = "STRAPPED ON: " + ", ".join(pick(BOMBS) for _ in range(random.randint(3, 5)))
-    line = f"{n+1}. {head} | {armour} | {extra} | {stats(role if role_d20 >= 16 else None, "SKITARIUS" in head)}"
+    cond = random.choice(["Dirty", "Neglected"]) if kind in ("cultist", "raider") else "Dirty" if kind == "pirate" else "Clean"
+    line = f"{n+1}. {head} | {armour} | {extra} | {stats(role if role_d20 >= 16 else None, "SKITARIUS" in head)} | guns {cond}"
     if n in lucky:
         line += f"  ** FOUND/MADE: {random.choice(P['found'])[0]}"
     if blessed:

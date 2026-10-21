@@ -1180,6 +1180,18 @@ shoots at an airborne jumper this beat is **open to surprise** from the ground (
 attacks against them, and they can't react to it). Each pack's lift, charge and quirks
 are in the catalogue (kit). The **Jumper** role is in the bestiary (roles).
 
+**Gun condition and jams (set by the player, session 9).** Every gun is **Clean**,
+**Dirty** or **Neglected**. **Clean** (cleaned after its last fight, or within ~3 days):
+never jams; a natural 1 is just a miss. **Dirty** (fired in a fight and not cleaned
+since, or ~3 days of use): **a natural 1 jams it**; clearing takes a beat.
+**Neglected** (a week or more uncleaned, or exposed to mud, grit, vacuum or a gale):
+**jams on 1-3; a natural 1 seizes it**, out of the fight until a smith fixes it. **Las
+guns count one step cleaner.** Never-jam guns (the 'Kasr Frontier') ignore all this,
+and the smith crew post ignores the first jam each fight. **Cleaning:** ~30 minutes a
+gun (DEX training, +0.1 an hour). **Enemies:** cultists and raiders roll **Dirty or
+Neglected** (even chance); pirates **Dirty**; traitors and traitor elites **Clean**.
+The roller prints it. The Light's gun condition is tracked on the campaign sheet.
+
 **Doses: stimms and combat drugs.** When you take a dose, roll a d6: **1-3 it
 lasts 3 turns, 4-6 it lasts 4 turns.** When those turns are over you can take
 another dose to keep it going (roll again). **One turn after the last dose ends,

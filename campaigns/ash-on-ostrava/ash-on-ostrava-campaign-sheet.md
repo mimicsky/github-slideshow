@@ -48,6 +48,7 @@ of the *Bright Light*, berth 2-9, Ring Two, Ustrennos Station. Session 9 is told
   Efficient coils: 2 plasteel + 1 machine-core); 1 plasteel in stores.
 - **Tamsin's new kit:** the jumper's **boarders' lift pack** (worn; ~4 hops left in the
   charge), his **combat shotgun**, 1 frag, a chem-inhaler, a stolen signet ring.
+- **Gun condition** (codex, Gun condition and jams): every Light gun that fired at the Spindle (day 16) is **Dirty** until cleaned (las guns count one step cleaner, so Vigil, Officer and the lasguns are effectively Clean); everything else **Clean**.
 - **Coin:** **23 Thrones** (0.23 TV; rate 100 Thrones = 1 TV from session 9 on; the plasteel buy at 5 = 1 stands).
 - **Gifts still wanted:** Sallow (drag harness, lascarbine: requisitioned), Mira (Valk
   rockets), Teo (flight jacket: requisitioned; pilot glasses), Ferro-Ashe (spare
