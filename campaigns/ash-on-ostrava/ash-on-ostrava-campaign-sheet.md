@@ -136,13 +136,13 @@ bagged for the station medicae; cell 12 to be scrubbed with promethium wash.
   hair); trash talk is on.
 
 - **Started:** 2026-10-03
-- **Sessions played:** 8 (Season Two: 1 mission)
+- **Sessions played:** 9 (Season Two: 1 mission, plus Ustrennos Station)
 - **Season 1:** *Seed of Nurgle* (**ended** warp day 20, session 7: Drachen in chains, the evidence delivered, Tamsin made Interrogator; **closed out** session 8: trial and execution, judgements, the ship)
 - **System:** D&D 5e chassis reskinned for Warhammer 40,000, narrative mode, all
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
 - **Character level:** **10** (reached session 8, the Spindle). Level 8 ASI spent on DEX. Fighter 9: **Indomitable** (reroll a failed save, once per long rest). Champion 10: **Additional Fighting Style: Defense** (narrative: armour stops a little more; some hits that would make him Hurt only shake him; DM calls it per hit). Proficiency **+4**.
-- **XP:** 64,475. Level 11 at 85,000.
+- **XP:** 80,975. Level 11 at 85,000.
 
 | XP by session | XP |
 | --- | --- |
@@ -154,6 +154,7 @@ bagged for the station medicae; cell 12 to be scrubbed with promethium wash.
 | Session 6, Ostrava mission (the *Ember* taken, Strahn rescued, Tessaly and 24 others captured alive, no deaths) | 8,500 |
 | Session 7 (the crypt and the evidence; Kesh's judgement; the *Gate Unbroken* boarded, Drachen taken alive, no Light-bringer lost) | 15,500 |
 | Session 8 (Season One close-out; Season Two mission 1: Ustrennos, Orsk turned, the Spindle taken, 46 holdouts dead or captured, Dresh and the seed destroyed, six plague vials intercepted, no Light-bringer lost) | 14,500 |
+| Session 9 (Ustrennos Station: the Slack Line and the *Kestrel's Due*, Joss and Wren's crew broken, the Exitus round, Mabry and the strongbox, Aldwyn's hand-off, Marsk and Selk taken, the Bloom located, Orne killed and TALLY broken at the Spindle, no Light-bringer lost) | 16,500 |
 
 ---
 
