@@ -135,7 +135,7 @@ add("melee","X","BF",[("Power claw, 'Kasr Talon' pattern (four curved power blad
 add("melee","R","F",[("Force wakizashi, 'Kasr Veil' pattern (psyker only; skeleton grip, no guard; warp-shield intake, Perils 1-3 each beat)",35)])
 add("melee","R","BF",[("Plasteel throwing knives, 'Callidus' pattern, wavy blade (set of 6; through carapace on a solid hit; wound -2 to treat)",4)])
 add("melee","C","MB",[("Hive shank (scrap knife)",0.1),("Scrap throwing knives (set of 4)",0.4),("Combat axe, Rashad pattern (fast, light)",1)])
-add("melee","R","MAF",[("Thunder hammer, Crucis pattern (intact; heavy, slow)",50),("Power falchion (duelling blade)",28),("Omnissian power sword (Mechanicus)",32),("Transonic blades, paired (Skitarii)",30)])
+add("melee","R","MAF",[("Thunder hammer, Crucis pattern (intact; heavy, slow; thunderclap: two steps and knocked flat)",50),("Power falchion (duelling blade)",28),("Omnissian power sword (Mechanicus)",32),("Transonic blades, paired (Skitarii)",30)])
 add("melee","R","F",[("Blaze force sword (psyker only)",45),("Blaze force greatsword (psyker only)",60)])
 add("melee","R","E",[("Blessed power maul (Ecclesiarchy)",28),("Sororitas power sword",32)])
 add("melee","R","B",[("Assassin's mono-wire garrotte",6),("Needle-blade (toxin)",8)])
@@ -175,6 +175,8 @@ add("gear","R","E",[("Purity seal (blessed)",2),("Aquila rosary",1),("Reliquary 
 # --- Augmetics ---
 add("augmetic","U","AB",[("Augmetic eye (basic)",8),("Augmetic hand (basic)",8),("Respirator implant",6)])
 add("augmetic","R","A",[("Augmetic arm, Mechanicus",20),("Subdermal armour",25),("Augmetic legs (pair)",30),("Mind-impulse link",22)])
+# Player design (session 9): one-handed officer's thunder hammer. Rules in catalogue/melee.md.
+add("melee","R","MAE",[("Thunder hammer, one-handed officer's pattern (stagger; thunderclap once a fight)",45)])
 # Player designs (session 9): Catachan weapons. Rules in catalogue/kit.md.
 add("explosive","U","MBF",[("Thumper (Catachan break-action grenade launcher; one round a beat; never jams)",3)])
 add("melee","U","MBF",[("Catachan butcher knife (mercury-filled; hits like a short sword)",1.5)])

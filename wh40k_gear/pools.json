@@ -1470,7 +1470,7 @@
   "sellers": "MB"
  },
  {
-  "name": "Thunder hammer, Crucis pattern (intact; heavy, slow)",
+  "name": "Thunder hammer, Crucis pattern (intact; heavy, slow; thunderclap: two steps and knocked flat)",
   "tv": 50,
   "cat": "melee",
   "rarity": "R",
@@ -2378,6 +2378,13 @@
   "cat": "augmetic",
   "rarity": "R",
   "sellers": "A"
+ },
+ {
+  "name": "Thunder hammer, one-handed officer's pattern (stagger; thunderclap once a fight)",
+  "tv": 45,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAE"
  },
  {
   "name": "Thumper (Catachan break-action grenade launcher; one round a beat; never jams)",

@@ -67,8 +67,20 @@ next swing in the exchange is at +1. Weak against carapace.
 ## Thunder hammer, intact
 
 **Thunder hammer, intact** (rare, 50 TV): two-handed, devastating. Every hit
-goes through power armour and staggers. Slow: defenders get +2 to block or
-parry it.
+goes through power armour and staggers. **Thunderclap (session 9): every hit
+discharges the field: the target drops two health steps and is knocked flat, with
+anyone right next to them.** Slow: defenders get +2 to block or parry it.
+
+## Thunder hammer, one-handed officer's pattern
+
+**Thunder hammer, one-handed officer's pattern** (player design, Ash on Ostrava
+session 9; rare, 45 TV; Munitorum (Commissariat issue), Mechanicus, Ecclesiarchy).
+Made for commissars, Interrogators, Inquisitors and their like; pairs with a pistol
+or a storm shield. **Every hit goes through power armour, drops the target one step
+and staggers them (-2 on their next roll).** **Thunderclap, once a fight:** the
+wielder releases the full field on a hit: **two steps, and knocked flat.** Lighter
+than the two-handed hammer: defenders get only **+1** to block or parry. Carrying one
+marks the bearer as someone important.
 
 ## Power falchion
 
