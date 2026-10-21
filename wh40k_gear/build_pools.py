@@ -180,6 +180,8 @@ add("gear","R","E",[("Purity seal (blessed)",2),("Aquila rosary",1),("Reliquary 
 # --- Augmetics ---
 add("augmetic","U","AB",[("Augmetic eye (basic)",8),("Augmetic hand (basic)",8),("Respirator implant",6)])
 add("augmetic","R","A",[("Augmetic arm, Mechanicus",20),("Subdermal armour",25),("Augmetic legs (pair)",30),("Mind-impulse link",22)])
+# Player design (session 9): psyker overload grenade. Rules in catalogue/explosives.md.
+add("explosive","R","AF",[("Psyker overload grenade (psykers in 5 m roll: 1-10 down 3 beats then Badly hurt; 11-17 bleed, no powers 2 beats)",10)])
 # Player design (session 9): hand scanner. Rules in catalogue/kit.md.
 add("gear","R","AF",[("Hand scanner, Ordo pattern (threat level of one person or object up close)",12)])
 # Player design (session 9): one-handed officer's thunder hammer. Rules in catalogue/melee.md.

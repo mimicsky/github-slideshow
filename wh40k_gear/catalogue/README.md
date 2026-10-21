@@ -79,6 +79,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Air-frag 'blender' grenade](explosives.md#air-frag-blender-grenade)
 - [Thrown demo satchel](explosives.md#thrown-demo-satchel)
 - [Cult gas bottle](explosives.md#cult-gas-bottle)
+- [Psyker overload grenade](explosives.md#psyker-overload-grenade)
 
 ## [Melee weapons](melee.md)
 
