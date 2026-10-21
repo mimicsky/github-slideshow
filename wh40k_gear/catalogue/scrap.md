@@ -93,3 +93,12 @@ round. **Brutal recoil: -2 on the shot**, and a shooter with STR under 20 drops 
 **Scrap quirk:** on a natural 1 the pipe **splits**: the shot goes wild and the shooter
 drops a step from the shrapnel. Carried by gang bosses showing off and desperate
 cultists saving it for "the one who matters".
+
+## Pipe rifle
+
+**Pipe rifle** (common, 0.5 TV; black market). A long water pipe on a wooden stock with a
+door-latch bolt: the commonest gun in any hive gang or cult mob. **Bolt-action, 5
+rounds, chains of up to 2;** stub-rifle punch (through flak on a solid hit). **Fine to
+~30 m; -2 past that** (the barrel isn't true). **Scrap quirk:** on a natural 1 it **falls
+apart** in the shooter's hands: out of the fight. Carried by every second grunt in a
+gang or a cult.

@@ -266,6 +266,13 @@
   "sellers": "B"
  },
  {
+  "name": "Pipe rifle (scrap bolt-action; 5 rounds, chains of 2; falls apart on a 1)",
+  "tv": 0.5,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
   "name": "Autogun, Agripinaa",
   "tv": 1,
   "cat": "stub",
