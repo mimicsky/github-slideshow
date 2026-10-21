@@ -36,3 +36,13 @@ like a heavy stub round:** through flak on any hit, through carapace on a solid 
 cuts the hose or bursts the tank, and the gun is dead for the fight. **Loud and
 hissing:** no stealth. Carried by ex-manufactorum workers, gang breachers and raider
 heavies; everywhere on a hive world.
+
+## Torch-thrower (scrap flamer)
+
+**Torch-thrower** (common, 1 TV; black market). A welder's torch, a fuel line and a
+promethium can strapped to the back: the underhive's flamer. **A short gout, ~5 m,
+hitting everyone in a narrow line; targets catch fire** (they drop a step next beat
+unless they spend it putting themselves out). **4 bursts a can.** **Scrap quirk:** a
+hit on the carrier, on a d6 of **1-2, ruptures the can**: the carrier goes up, and
+anyone within ~2 m. Carried by cultist purgers, sump gangs and anyone clearing a room
+on the cheap.

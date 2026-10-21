@@ -231,6 +231,13 @@
   "sellers": "B"
  },
  {
+  "name": "Torch-thrower (scrap flamer; 5 m line, sets alight; 4 bursts; can ruptures on 1-2)",
+  "tv": 1,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
   "name": "Autogun, Agripinaa",
   "tv": 1,
   "cat": "stub",
