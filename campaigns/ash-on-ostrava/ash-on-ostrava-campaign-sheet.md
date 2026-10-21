@@ -568,8 +568,10 @@ Light's container. Crew rallying cry: **"We are the light."**
   dies, it's final: the book closes as a memorial to him and to this first
   campaign, and the player starts a new character.
   **Scaling (revised by the player, end of session 9): no per-book roll bonuses.**
-  Later books get harder through **more enemies** (book 1: fights of ~6-10; now 20-30
-  is normal), smarter tactics (flanking, ambushes, focusing the wounded, retreating to
+  Later books get harder through **more enemies**, sized to the job and to the Light
+  as it grows: most fights **10-30**; a kill team sent after the Light is about the
+  Light's size (6-12); a ship or compound, the top end; small fights (a patrol, a few
+  guards) still happen. Plus smarter tactics (flanking, ambushes, focusing the wounded, retreating to
   better ground) and nastier ground, never bigger numbers on the same enemy. Each
   enemy rolls its own STR and DEX (codex Part 8). The Light keeps pace through gear.
 
