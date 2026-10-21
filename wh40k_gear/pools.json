@@ -182,6 +182,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Lasgun, Krieg pattern (Mars-built; through flak on any hit, 15 shots a pack; fixed bayonet; scope mount; stock pack slot)",
+  "tv": 4,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "M"
+ },
+ {
   "name": "Las-LMG, 'Kasr Rain' suppression pattern (100-shot box; chains of 12; lasgun punch; suppression -2; heat on 8+)",
   "tv": 6,
   "cat": "las",

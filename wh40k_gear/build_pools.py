@@ -25,6 +25,8 @@ add("las","R","MFA",[("Lasgun, 'Kasr Duet' twin-focus pattern (two crystals, one
 add("las","U","MBF",[("Long-las, 'Kasr Sprinter' stripped pattern (skeleton stock and grip, 3x sight; +1 aimed 20-60 m; move and aim; light trigger, NO SAFETY: drop-prone)",4.5)])
 # Player design (session 9): the Kasr Wasp las machine pistol. Rules in catalogue/las.md.
 add("las","U","MBF",[("Las machine pistol, 'Kasr Wasp' pattern (one-handed; pack in the grip, 30 shots; chains of 10 at -1 each; laspistol punch)",3)])
+# Player design (session 9): the Krieg-pattern lasgun. Rules in catalogue/las.md.
+add("las","U","M",[("Lasgun, Krieg pattern (Mars-built; through flak on any hit, 15 shots a pack; fixed bayonet; scope mount; stock pack slot)",4)])
 # Player design (session 9): the Kasr Rain las-LMG. Rules in catalogue/las.md.
 add("las","U","MF",[("Las-LMG, 'Kasr Rain' suppression pattern (100-shot box; chains of 12; lasgun punch; suppression -2; heat on 8+)",6)])
 # Player design (session 9): the Kasr Lance charge long-las. Rules in catalogue/las.md.
