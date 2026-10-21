@@ -980,7 +980,7 @@ word: the player names what in the hub's storage to sell, the quartermaster
 prices it, and his ratings fetch it, so nothing has to be carried by hand.
 The value goes onto the slate, and purchases (his stock or Void Exchange orders)
 come off it. The balance lives in the campaign sheet. Imperial Thrones exist as
-coin in the setting, but the table counts everything in TV.
+coin in the setting, but the table counts everything in TV. **Rate (set by the player, Ash on Ostrava session 9): 5 Thrones = 1 TV.**
 
 ### The Void Exchange
 
