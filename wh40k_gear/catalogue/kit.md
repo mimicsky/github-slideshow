@@ -178,3 +178,12 @@ sweeps ~30 m and shows heat outlines through smoke, darkness and thin cover (cra
 curtains, light bulkheads). **Targeting:** **+2 on shots at a scanned target**,
 and smoke and darkness don't count against them. **Zoom:** **+2 on long shots**
 (past ~30 m). The two stack. **Tell:** the lens glows faint green while scanning.
+
+### Shooting eye
+
+**Shooting eye** (rare, 30 TV; Mechanicus, Free Traders). **Rangefinder:** **+2 on
+long shots** (past ~30 m); the wearer always knows the exact range to anything seen.
+**High-grade targeter:** **+3 on aimed shots.** **Gun link:** a HUD tied to one gun
+(Ferro-Ashe fits the link port; re-linking another gun ~1 hour) shows ammo and heat
+(Vigil's included): never caught empty or overheated by surprise, and **a miss in a
+shot chain doesn't cost the -1** (house rule 2).
