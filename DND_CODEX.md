@@ -1209,6 +1209,10 @@ gun (DEX training, +0.1 an hour). **Enemies:** cultists and raiders roll **Dirty
 Neglected** (even chance); pirates **Dirty**; traitors and traitor elites **Clean**.
 The roller prints it. The Light's gun condition is tracked on the campaign sheet.
 
+**Refractor field (set by the player, session 9).** A worn field generator. **When a
+hit lands on the wearer, roll a d6: on 5-6 the field takes it** (no health step lost;
+the air shimmers). Works against anything except Assassinorum shield-breaker rounds.
+
 **Doses: stimms and combat drugs.** When you take a dose, roll a d6: **1-3 it
 lasts 3 turns, 4-6 it lasts 4 turns.** When those turns are over you can take
 another dose to keep it going (roll again). **One turn after the last dose ends,
