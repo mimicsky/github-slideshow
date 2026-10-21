@@ -1,8 +1,11 @@
 """Roll an enemy group's roles and gear, from enemies.json.
 
-Usage: python3 roll_enemy.py TYPE COUNT [GOD]
+Usage: python3 roll_enemy.py TYPE COUNT [WEALTH] [GOD]
+       python3 roll_enemy.py wealth TYPE   (roll a faction's wealth at mission start)
   TYPE:  cultist, raider, pirate, traitor (renegade Guard), traitor_elite
-         (traitor storm troopers, renegade Inquisition teams: always elite weights)
+         (traitor storm troopers, renegade Inquisition teams)
+  WEALTH: poor, steady, good, rich, wealthy (the faction's level, rolled d100 at mission
+         start; default steady, traitors good)
   COUNT: how many enemies in the group (a named enemy alone: 1)
   GOD:   cultists only: khorne, nurgle, slaanesh, tzeentch, undivided (default random)
 
@@ -25,11 +28,12 @@ enemies and smarter tactics, not bigger numbers.
 Fight stats (player-set, session 9): each enemy rolls STR and DEX levels (1-100) in
 its type's range; +1 to rolls per full 10. A specialist gets +5 levels in the stat
 its role uses; a special team gets +5 levels to both.
-Poor groups (player-set, session 9): basic cultist, raider and pirate groups roll gear at
-common 80 / uncommon 20 / rare 0, and their found-or-made items are never rare (no stolen
-melta bombs or captains' power swords); a natural-20 rare find still happens.
-Scrap guns (player-set, session 9): only basic (not elite, not special-team) cultist, raider
-and pirate groups carry them.
+Faction wealth (player-set, session 9): rolled d100 once per mission or world (or the
+first meeting with that faction there). Cultists, raiders, pirates: 1-30 Poor, 31-60
+Steady, 61-80 Good, 81-95 Rich, 96-100 Wealthy. Traitors and traitor elites (Good and up):
+1-50 Good, 51-85 Rich, 86-100 Wealthy. Gear C/U/R: Poor 80/20/0 (found items never rare,
+lots of scrap guns), Steady 70/25/5 (some scrap), Good 55/35/10, Rich 40/45/15 and
+Wealthy 25/50/25 (armour one step better). An elite team is one level richer.
 Gun condition (player-set, session 9): cultists and raiders Dirty or Neglected, pirates Dirty,
 traitors Clean (codex Part 8, Gun condition and jams).
 Skitarii (player-set, session 9): a traitor or traitor-elite tech-adept rolls a second d20;
@@ -46,10 +50,25 @@ team's favoured weapons. Their look and tactics are in the bestiary.
 """
 import json, random, sys, os
 here = os.path.dirname(os.path.abspath(__file__))
+LEVELS = ["poor", "steady", "good", "rich", "wealthy"]
+WEIGHTS = {"poor": {"C": 80, "U": 20, "R": 0}, "steady": {"C": 70, "U": 25, "R": 5}, "good": {"C": 55, "U": 35, "R": 10},
+           "rich": {"C": 40, "U": 45, "R": 15}, "wealthy": {"C": 25, "U": 50, "R": 25}}
+if len(sys.argv) > 1 and sys.argv[1].lower() == "wealth":  # roll a faction's wealth at mission start
+    t = (sys.argv[2] if len(sys.argv) > 2 else "cultist").lower()
+    d = random.randint(1, 100)
+    if t.startswith("traitor"):
+        lvl = "good" if d <= 50 else "rich" if d <= 85 else "wealthy"
+    else:
+        lvl = "poor" if d <= 30 else "steady" if d <= 60 else "good" if d <= 80 else "rich" if d <= 95 else "wealthy"
+    print(f"{t} faction wealth: d100 {d} = {lvl.upper()}")
+    sys.exit()
 E = json.load(open(os.path.join(here, "enemies.json")))
 kind = (sys.argv[1] if len(sys.argv) > 1 else "cultist").lower()
 count = int(sys.argv[2]) if len(sys.argv) > 2 else 5
-rest = [a for a in sys.argv[3:] if not a.isdigit()]  # an old BOOK number is accepted and ignored
+rest = [a for a in sys.argv[3:] if not a.isdigit() and a.lower() not in LEVELS]  # an old BOOK number is accepted and ignored
+given = [a.lower() for a in sys.argv[3:] if a.lower() in LEVELS]
+level = given[0] if given else ("good" if kind.startswith("traitor") else "steady")
+if kind.startswith("traitor") and LEVELS.index(level) < 2: level = "good"  # traitors are Good and up
 god_given = bool(rest)
 god = (rest[0].lower() if rest else random.choice(["khorne", "nurgle", "slaanesh", "tzeentch", "undivided"]))
 STATS = {"cultist": ((10, 30), (10, 25)), "raider": ((15, 35), (15, 30)), "pirate": ((15, 35), (20, 35)),
@@ -79,11 +98,13 @@ elite = raw >= 19  # only the natural die makes an elite team; bonuses never do
 better = 0 if d20 < 9 else 1 if d20 < 11 else 2 if d20 < 13 else 3 if d20 < 15 else 4 if d20 < 17 else 5 if d20 < 19 else 6
 if elite: better = count
 better = min(better, count)
-poor = kind in ("cultist", "raider", "pirate") and not elite and not team  # player-set, session 9
-w = {"C": 25, "U": 50, "R": 25} if elite else {"C": 80, "U": 20, "R": 0} if poor else P.get("weights", {"C": 70, "U": 25, "R": 5})
+if elite: level = LEVELS[min(4, LEVELS.index(level) + 1)]  # an elite team is one level richer
+poor = level == "poor"
+w = WEIGHTS[level]
+better_armour = bool(team) or level in ("rich", "wealthy")
 def pick(rows):
-    if elite or team:  # scrap guns are for poor, basic groups only (player-set, session 9)
-        rows = [r for r in rows if "(scrap" not in r[0]] or rows
+    if team or level not in ("poor", "steady") or (level == "steady" and random.random() < 0.5):
+        rows = [r for r in rows if "(scrap" not in r[0]] or rows  # scrap guns: Poor, and some Steady
     tier = random.choices(list(w), weights=list(w.values()))[0]
     opts = [r for r in rows if r[1] == tier] or [r for r in rows if not (poor and r[1] == "R")] or rows
     return random.choice(opts)[0]
@@ -93,7 +114,7 @@ BOMBS = [("Frag grenade","C"),("Pipe-bomb","C"),("Fire bomb (promethium)","C"),(
          ("Krak grenade","U"),("Choke gas grenade","U"),("Cult gas bottle (gas of their god)","U"),("Melta bomb","R")]
 ranged_share = 0.75 if kind.startswith("traitor") else 0.5  # soldiers mostly fight with guns
 print(f"SPECIAL TEAM: {team['name']} (2d20 {team_roll}): +5 STR/DEX levels, +1 other rolls, armour one step better, +3 better-armed" if team else f"(2d20 {team_roll}: a basic group)")
-print(f"{kind} x{count}" + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{3 if team else 0} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE FIND (natural 20)" if raw == 20 else ""))
+print(f"{kind} x{count}, wealth {level.upper()}" + ("" if given else " (default; roll it: roll_enemy.py wealth TYPE)") + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{3 if team else 0} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE FIND (natural 20)" if raw == 20 else ""))
 lucky = set(random.sample(range(count), better))
 for n in range(count):
     role_d20 = random.randint(1, 20)
@@ -131,7 +152,7 @@ for n in range(count):
         g = random.choice(team["favoured"])
         head = head.split("): ", 1)[0] + "): " + g + " | " + head.split(" | ", 1)[1]
     armour = pick(P['armour'])
-    if team:  # one step better: draw the armour from the top of the list
+    if better_armour:  # one step better: draw the armour from the top of the list
         armour = random.choice([r[0] for r in P['armour'] if r[1] in ("U", "R")] or [armour])
     extra = pick(P['extra'])
     if head.startswith("SPECIALIST BOMB ZEALOT"):

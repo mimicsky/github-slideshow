@@ -3,8 +3,9 @@
 Handmade guns of the hive gangs, cultists and raiders (player request, Ash on Ostrava
 session 9). General rules (gun condition and jams, drop-prone, going Down) are in
 DND_CODEX Part 8, **Gear rules**. **Scrap guns are always at least Dirty** (they never
-count as Clean). **Who carries them:** poor, basic groups of cultists,
-raiders and pirates; elite teams and named special teams don't.
+count as Clean). **Who carries them:** cultists, raiders and pirates of a
+**Poor** faction (lots) or a **Steady** one (some); not Good and up, and not named special
+teams (codex Part 8, Faction wealth).
 
 ## Pipe pistol ("zip gun")
 

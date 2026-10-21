@@ -3,7 +3,7 @@
 Enemy forces the Light can meet. For the DM: read this index; open a team's entry
 when it shows up.
 
-**How enemies are rolled** (`../roll_enemy.py TYPE COUNT [GOD]`): every group
+**How enemies are rolled** (`../roll_enemy.py TYPE COUNT [WEALTH] [GOD]`; roll the faction's wealth first with `../roll_enemy.py wealth TYPE`, codex Part 8): every group
 is one of five **basic types** (cultists, raiders, pirates, traitor soldiers,
 traitor elites). Before the fight, **2d20 added**: **2-30** a basic group, **31-40** a
 **named special team** of that type (below), about 1 fight in 7. A special team

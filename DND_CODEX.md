@@ -952,10 +952,23 @@ which roles, how each role tends to act, and its rules** are in
 scripts. A **two-man team** (a heavy weapon) is one specialist roll but two bodies:
 the gunner and a loader with a lasgun and the ammunition. Drugs, doses and the
 crash (berserkers, chem-doctors) follow **Doses** in Gear rules below. Every enemy also rolls armour and one extra.  *Blessed* (a cultist marked by their god) is a
-cultist specialist type; see the catalogue, Heretic and cult items. **Poor groups** (set by the player, session 9): basic (not elite, not special-team)
-cultist, raider and pirate groups roll gear at common 80 / uncommon 20 / rare 0, and
-their found-or-made items are never rare; only a natural-20 rare find gives them
-something special. They also carry the scrap guns. **Each enemy also rolls STR and DEX levels** in its type's range
+cultist specialist type; see the catalogue, Heretic and cult items. **Faction wealth** (set by the player, session 9). **Rolled d100 once per mission or
+world** (or at the first meeting with that faction there) with
+`python3 wh40k_gear/roll_enemy.py wealth TYPE`, then passed to every group from that
+faction (`roll_enemy.py TYPE COUNT WEALTH`). **Cultists, raiders, pirates:** 1-30 Poor,
+31-60 Steady, 61-80 Good, 81-95 Rich, 96-100 Wealthy. **Traitors and traitor elites**
+(Good and up): 1-50 Good, 51-85 Rich, 86-100 Wealthy.
+
+| Wealth | Common / Uncommon / Rare | Notes |
+| --- | --- | --- |
+| Poor | 80 / 20 / 0 | Lots of scrap guns; found items never rare |
+| Steady | 70 / 25 / 5 | Some scrap guns |
+| Good | 55 / 35 / 10 | No scrap; real issue gear |
+| Rich | 40 / 45 / 15 | Armour one step better |
+| Wealthy | 25 / 50 / 25 | Armour one step better; leaders carry something exotic-looking |
+
+An **elite team** (natural 19-20 on the group d20) is **one level richer** than its
+faction. Named special teams keep their own rules and carry no scrap. **Each enemy also rolls STR and DEX levels** in its type's range
 (cultist STR 10-30 / DEX 10-25; raider 15-35 / 15-30; pirate 15-35 / 20-35; traitor
 20-35 / 25-40; traitor elite 25-45 / 35-50), +1 per full 10 levels to their rolls; a
 specialist adds +5 levels to the stat its role uses, a special team +5 to both; other
