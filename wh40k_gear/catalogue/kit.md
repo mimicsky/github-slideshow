@@ -169,3 +169,12 @@ lens. Normal sight in dark and smoke (no cheap-lens penalty). **Basic targeting:
 a simple crosshair, **+1 on aimed shots.** **Visual recognition:** stores every face,
 uniform and ship marking it has seen; **+2 to pick out someone or something seen
 before**, in a crowd or at a distance.
+
+### Sensor eye
+
+**Sensor eye** (rare, 22 TV; Mechanicus, Free Traders). **+2 on all sight
+Perception.** **Scanner:** once a beat (free, not the wearer's action), a pulse
+sweeps ~30 m and shows heat outlines through smoke, darkness and thin cover (crates,
+curtains, light bulkheads). **Targeting:** **+2 on shots at a scanned target**,
+and smoke and darkness don't count against them. **Zoom:** **+2 on long shots**
+(past ~30 m). The two stack. **Tell:** the lens glows faint green while scanning.
