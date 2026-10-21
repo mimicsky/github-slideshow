@@ -663,14 +663,17 @@ and from what happened in play. Order of the day decides the rep size (+1.0, +0.
 
 | Stat | Counts as training |
 | --- | --- |
-| STR | Sparring and mat matches, melee drills (chain axe on the post, sword forms), hauling heavy kit or crates, carrying a wounded man, climbing, breaching by hand |
+| STR | Working out (lifting, bodywork, anything mostly muscle), sparring and mat matches, melee drills (chain axe on the post, sword forms), hauling heavy kit or crates, carrying a wounded man, climbing, breaching by hand; **a successful STR roll** in play (e.g. breaking the frozen clamp); **a melee kill** |
 | DEX | Range work, quick-draw drills, throwing knives or grenades at marks, stealth and crawlway practice, flying (pilots), lift-pack hops, fine handwork (lockpicking, trigger work) |
 | CON | Runs and heavy-kit marches, cold, void and gas drills, holding a post through a long watch in bad conditions |
 | INT | Reading manuals, cipher and vox work, repairs and crafting, studying plans and maps, reading slates and ledgers for intel |
 | WIS | Coaching others, treating the sick and wounded, tracking, standing a real watch, reading people in an interrogation, prayer and vigil |
 | CHA | Briefings and speeches, bargaining and trading, interrogation talk, leading a drill, recruiting |
 
-- **A real fight counts:** one rep in the stat the person leaned on most in it.
+- **Kills count:** every kill is a rep in the stat it used: a melee kill (blade, axe,
+  knife) is STR, a shot or thrown kill (gun, grenade) is DEX. Kills share the day's
+  ladder with everything else: +1.0, +0.5, +0.4, +0.3, +0.2, then +0.1 for every rep
+  after that. The ladder resets each day.
 - **A whole day on one job** (a mission, a long build) gives its rep(s) only, by the
   work done; a day in bed gives nothing, unless they study (INT) or coach from the cot.
 - **Specialty days:** when the day's first rep is the person's specialty, it is also a
