@@ -1138,6 +1138,9 @@ Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:
    - **Design:** the player describes the weapon; the DM judges fairness.
    - **Cost:** a base weapon or frame plus salvage (plasteel, machine-cores,
      ceramite, parts) named by the DM, taken from stock.
+   - **Fractions (set by the player, Ash on Ostrava session 9):** salvage counts in
+     quarters. A small part uses **1/4** or **1/2** of an item (an ingot, a core, a
+     plate); the rest stays in stock and is counted as 1/4, 1/2 or 3/4.
    - **Time:** days to weeks, by complexity.
    - **The roll:** the crafter rolls openly, with their specialty bonus.
      **Success:** works as designed. **Near miss (1-2 under):** works, with a
