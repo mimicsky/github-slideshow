@@ -480,6 +480,20 @@
      "Bodyguard: storm shield and power maul",
      "R"
     ]
+   ],
+   "ogryn": [
+    [
+     "Ogryn: slab shield and a spiked club",
+     "C"
+    ],
+    [
+     "Ogryn: ripper gun, chains wrapped round its fists",
+     "U"
+    ],
+    [
+     "Ogryn: a cult-forged maul and a chain of skulls",
+     "U"
+    ]
    ]
   }
  },
@@ -994,6 +1008,20 @@
      "Bodyguard: storm shield and power maul",
      "R"
     ]
+   ],
+   "ogryn": [
+    [
+     "Ogryn: slab shield and power maul (stolen)",
+     "U"
+    ],
+    [
+     "Ogryn: ripper gun and a girder",
+     "C"
+    ],
+    [
+     "Ogryn: grenadier gauntlet",
+     "R"
+    ]
    ]
   }
  },
@@ -1474,6 +1502,20 @@
     ],
     [
      "Bodyguard: storm shield and power maul",
+     "R"
+    ]
+   ],
+   "ogryn": [
+    [
+     "Ogryn: slab shield and boarding maul",
+     "C"
+    ],
+    [
+     "Ogryn: ripper gun",
+     "U"
+    ],
+    [
+     "Ogryn: grenadier gauntlet",
      "R"
     ]
    ]
@@ -1974,6 +2016,20 @@
      "Bodyguard: storm shield and power maul",
      "R"
     ]
+   ],
+   "ogryn": [
+    [
+     "Ogryn: slab shield and power maul",
+     "U"
+    ],
+    [
+     "Ogryn: ripper gun",
+     "C"
+    ],
+    [
+     "Ogryn: grenadier gauntlet",
+     "R"
+    ]
    ]
   }
  },
@@ -2413,6 +2469,20 @@
     ],
     [
      "Bodyguard: storm shield and power maul",
+     "R"
+    ]
+   ],
+   "ogryn": [
+    [
+     "Ogryn bone'ead: slab shield and power maul",
+     "U"
+    ],
+    [
+     "Ogryn: ripper gun with a bayonet",
+     "U"
+    ],
+    [
+     "Ogryn: grenadier gauntlet",
      "R"
     ]
    ]

@@ -426,6 +426,13 @@ NEW = {
   "pirate":  [("Ship's chem-doc: stimms, slaught, Quicksilver, a heretic cure-all, shotgun","C"),("Chem-doc: concentrated stimm, injector stiletto (toxin), ward-mark","U")],
  },
  "bodyguard": {t: [("Bodyguard: boarding shield and shock maul","C"),("Bodyguard: heavy carapace, combat shotgun and a shield","U"),("Bodyguard: storm shield and power maul","R")] for t in ("cultist","raider","pirate","traitor","traitor_elite")},
+ "ogryn": {
+  "cultist": [("Ogryn: slab shield and a spiked club","C"),("Ogryn: ripper gun, chains wrapped round its fists","U"),("Ogryn: a cult-forged maul and a chain of skulls","U")],
+  "raider":  [("Ogryn: slab shield and power maul (stolen)","U"),("Ogryn: ripper gun and a girder","C"),("Ogryn: grenadier gauntlet","R")],
+  "pirate":  [("Ogryn: slab shield and boarding maul","C"),("Ogryn: ripper gun","U"),("Ogryn: grenadier gauntlet","R")],
+  "traitor": [("Ogryn: slab shield and power maul","U"),("Ogryn: ripper gun","C"),("Ogryn: grenadier gauntlet","R")],
+  "traitor_elite": [("Ogryn bone'ead: slab shield and power maul","U"),("Ogryn: ripper gun with a bayonet","U"),("Ogryn: grenadier gauntlet","R")],
+ },
 }
 for role, per in NEW.items():
     for t, kits in per.items(): SPEC[t][role] = kits

@@ -51,9 +51,9 @@ STR_ROLES = {"brute", "berserker", "breacher", "bodyguard", "enforcer", "duelist
 DEX_ROLES = {"sniper", "grenadier", "assassin", "flamer", "demolitions", "jumper", "spotter", "tracker", "pilot",
              "heavy gunner", "heavy team", "plasma gunner", "infiltrator", "gunslinger"}
 def stats(role, skitarius=False):
-    (s0, s1), (d0, d1) = ((30, 45), (35, 50)) if skitarius else STATS[kind]
+    (s0, s1), (d0, d1) = ((30, 45), (35, 50)) if skitarius else ((60, 80), (10, 20)) if role == "ogryn" else STATS[kind]
     st, dx = random.randint(s0, s1), random.randint(d0, d1)
-    if role in STR_ROLES: st += 5
+    if role in STR_ROLES and role != "ogryn": st += 5
     if role in DEX_ROLES: dx += 5
     if team: st, dx = st + 5, dx + 5
     return f"STR {st} (+{st // 10}) DEX {dx} (+{dx // 10})"

@@ -250,6 +250,11 @@ powers hit harder (+2 to power attacks), but the warp gets in easier: **Perils
 trigger 1-6**. Their own side never shoots them, no matter what; that would disgrace
 their god.*
 
+*Side note: **rolled for the Light or a loyal NPC, this role is a Sanctioned psyker**
+(set by the player, session 9): trained and bound by the Scholastica Psykana, registered
+with the Imperium. **Perils trigger 1-2** instead of 1-4. Watched by everyone: an
+unsanctioned one in the Light would be hunted by the Inquisition itself.*
+
 *Side note: pirate and raider psykers are ruthless. They push the warp harder and
 harder and don't care what it does to them. If they're pressured too much or
 their team starts to lose, they panic and push it more: -1 to their Perils trigger rolls.*
@@ -587,4 +592,27 @@ like an enemy, from the **traitor-elite role list** (the Light counts as traitor
 2. **Role d20:** **1-15 grunt** (no role yet; grows into one in play), **16-20** a
    role from the list.
 3. A **tech-adept** roll checks for a **loyal Skitarius** (second d20, 18-20).
+
+## Ogryn
+
+**Who has it:** all five types, and loyal ones from the recruit list. (Player design,
+Ash on Ostrava session 9; distinct from the brute/mutant: a real Ogryn, trained and
+kitted.)
+
+A giant abhuman, about 3 m tall: dumb, loyal, and it hits like a truck.
+
+- **Stats:** **STR 60-80** (+6 to +8), **DEX 10-20** (+1 to +2). Terrible shot.
+- **Size:** **three extra health stages: Fine, Grazed, Bruised, Hurt, Badly hurt,
+  Down.** **Big target: shots at an Ogryn get +2.**
+- **Kit (by type):** slab shield and a maul, a ripper gun, or a grenadier gauntlet
+  (a fist-mounted launcher).
+- **Charge:** once a fight, it runs at an enemy; on a hit the target is knocked flat,
+  and anyone right behind them too. **It's big and slow to wind up: the target sees it
+  coming and can make a quick dodge (DEX save) to get clear.**
+- **Loyal to a fault:** bonded to one "boss", it follows them anywhere; **if the boss
+  goes Down, the Ogryn goes berserk** (charges the nearest enemy, ignores orders).
+- **Dumb:** can't use complex tech, takes orders literally, can be tricked.
+
+*Side note: cultist Ogryns are the god's beasts: chained, starved and set loose; they
+fight for anything that feeds them.*
 
