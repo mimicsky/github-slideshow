@@ -9,7 +9,7 @@ story lives in `book.md`.
 a mission's book chapters are written, delete it from here: the books tell what
 happened, and git history keeps every old version.
 
-**Where we stopped:** **Season Two, session 9, ~1240 warp day 16**, back at berth 2-9 after the Spindle trade (Orne dead; Brenner and Varga in station medicae; see the session 9 log below). Earlier stop: **~1845 warp day 8**, the galley of
+**Where we stopped:** **end of Season Two, session 9, ~1415 warp day 16**, the galley of the *Bright Light*, berth 2-9, Ustrennos Station, after the Spindle trade (Orne dead; Brenner and Varga in station medicae, Varga's eye known tomorrow; Dace back aboard on a cane). Session 9 is told in `book-season-2.md`, Part Two (Chapters 11-27); the log below can be trimmed. Earlier stop: **~1845 warp day 8**, the galley of
 the *Bright Light*, docked at the dead Spindle (dark and cold). Tamsin ate alone
 (~1500). **Kesh's answer just arrived** (astropath on Varn's *Iron Litany*, relayed
 by Brenner; rolled 5, then Thask 15): **do not bring the vials to the Rest** (a
