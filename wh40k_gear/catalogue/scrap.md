@@ -112,3 +112,13 @@ bonuses** (misses still -1). Autopistol punch (good on flesh, poor on flak). **-
 every shot past ~15 m.** **Scrap quirk:** on a natural 1 it **runs away**: the spring
 sticks and it dumps the whole magazine in a random direction; anyone near the shooter
 ducks. Carried by gang runners, cult mobs and raider boarding grunts.
+
+## Junk shotgun ("double-pipe")
+
+**Junk shotgun** (common, 0.5 TV; black market). Two pipes side by side on a plank, each
+with its own nail-striker, and a shared pull-string trigger. **Two barrels:** fire one,
+or **both at once** (one shot that lands as two hits up close); then **a beat to reload
+both.** Loose stub shot: **brutal within ~8 m**, good on flesh, flak stops most of it;
+**-3 past ~15 m.** **Scrap quirk:** on a natural 1 **both barrels fire together** (even
+if one was meant) and the kick knocks the shooter flat; they spend the next beat
+getting up. Carried by door guards, gang enforcers and cultists holding a chokepoint.

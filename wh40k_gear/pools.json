@@ -280,6 +280,13 @@
   "sellers": "B"
  },
  {
+  "name": "Junk shotgun (scrap double-pipe; one or both barrels; both fire on a 1)",
+  "tv": 0.5,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
   "name": "Autogun, Agripinaa",
   "tv": 1,
   "cat": "stub",

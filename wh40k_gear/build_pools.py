@@ -42,6 +42,7 @@ add("explosive","C","B",[("Pipe-bomb mortar (scrap tube lobber; open ground only
 add("stub","U","B",[("Bolt-pipe (scrap; one bolt round, hits like a boltgun; -2 recoil; splits on a 1)",1)])
 add("stub","C","B",[("Pipe rifle (scrap bolt-action; 5 rounds, chains of 2; falls apart on a 1)",0.5)])
 add("stub","C","B",[("Rattler (scrap SMG; 20-round stick, chains of 5; runs away on a 1)",0.75)])
+add("stub","C","B",[("Junk shotgun (scrap double-pipe; one or both barrels; both fire on a 1)",0.5)])
 add("stub","C","MB",[("Autogun, Agripinaa",1),("Autopistol",1),("Stub revolver",0.5),("Stub automatic",0.75),("Combat shotgun, pump",1.5)])
 add("stub","U","MBF",[("Combat shotgun, semi-auto",2),("Ripper gun / drum-fed shotgun",3),("Sawn-off shotgun",1),("Hand cannon (big-bore stubber)",2),("Scrap autogun with drum",1.5)])
 add("stub","U","B",[("Silenced stub pistol",2.5),("Holdout stub pistol",1),("Hive-gang 'scattergun'",1),("Ganger's chain-fed autopistol",2)])
@@ -214,7 +215,7 @@ print(len(I), "items")
 # pieces that only enemies carry; they can have quirks.
 E = {
  "cultist": {
-  "weapon": [("Autogun, Agripinaa","C"),("Stub automatic","C"),("Stub revolver","C"),("Autopistol","C"),("Lasgun, Kantrael M36 (stolen)","C"),
+  "weapon": [("Pipe rifle (scrap)","C"),("Rattler (scrap SMG)","C"),("Junk shotgun (scrap double-pipe)","C"),("Nailer (scrap scattergun)","C"),("Torch-thrower (scrap flamer)","C"),("Rivet gun (scrap)","U"),("Battery las (scrap)","U"),("Sump harpoon (scrap)","U"),("Bolt-pipe (scrap, one bolt round)","R"),("Autogun, Agripinaa","C"),("Stub automatic","C"),("Stub revolver","C"),("Autopistol","C"),("Lasgun, Kantrael M36 (stolen)","C"),
              ("Scrap autogun with drum","U"),("Sawn-off shotgun","U"),("Hive-gang 'scattergun'","U"),("Lasgun, Lucius No.98 (stolen)","U"),
              ("Hellgun, Ryza pattern (stolen Guard issue)","R"),("Flamer, Ryza pattern (stolen)","R")],
   "melee":  [("Hive shank (scrap knife)","C"),("Trench club","C"),("Cadian machete","C"),("Scrap throwing knives (set of 4)","C"),
@@ -227,7 +228,7 @@ E = {
              ("Desecrated chainsword (spiked, roars; -1 to parry with it)","R"),("Krak grenade (stolen)","R"),("Plasma pistol, Ryza pattern (stolen, slow-filled cell)","R"),("Chaos grimoire (forbidden book)","R"),("Chaos ward-mark (takes one hit, the god's way)","R")],
  },
  "raider": {
-  "weapon": [("Autogun, Agripinaa","C"),("Autopistol","C"),("Stub automatic","C"),("Combat shotgun, pump","C"),
+  "weapon": [("Pipe rifle (scrap)","C"),("Rattler (scrap SMG)","C"),("Junk shotgun (scrap double-pipe)","C"),("Nailer (scrap scattergun)","C"),("Torch-thrower (scrap flamer)","C"),("Rivet gun (scrap)","U"),("Battery las (scrap)","U"),("Sump harpoon (scrap)","U"),("Bolt-pipe (scrap, one bolt round)","R"),("Autogun, Agripinaa","C"),("Autopistol","C"),("Stub automatic","C"),("Combat shotgun, pump","C"),
              ("Ganger's chain-fed autopistol","U"),("Hive-gang 'scattergun'","U"),("Auto-revolver, 'Hammerfall' pattern, stub barrel","U"),("Braced autogun (heavy barrel)","U"),
              ("Hand cannon (big-bore stubber)","U"),("Ripper gun / drum-fed shotgun","R"),("Heavy stubber","R")],
   "melee":  [("Hive shank (scrap knife)","C"),("Combat knife","C"),("Combat axe, Rashad pattern","C"),("Scrap throwing knives (set of 4)","C"),

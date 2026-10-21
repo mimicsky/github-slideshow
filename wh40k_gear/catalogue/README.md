@@ -55,6 +55,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Bolt-pipe ("one-shot boomer")](scrap.md#bolt-pipe-one-shot-boomer)
 - [Pipe rifle](scrap.md#pipe-rifle)
 - [Rattler (stamped scrap SMG)](scrap.md#rattler-stamped-scrap-smg)
+- [Junk shotgun ("double-pipe")](scrap.md#junk-shotgun-double-pipe)
 
 ## [Bolt weapons](bolt.md)
 
