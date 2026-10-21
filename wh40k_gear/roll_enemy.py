@@ -85,7 +85,7 @@ def pick(rows):
     if elite or team:  # scrap guns are for poor, basic groups only (player-set, session 9)
         rows = [r for r in rows if "(scrap" not in r[0]] or rows
     tier = random.choices(list(w), weights=list(w.values()))[0]
-    opts = [r for r in rows if r[1] == tier] or rows
+    opts = [r for r in rows if r[1] == tier] or [r for r in rows if not (poor and r[1] == "R")] or rows
     return random.choice(opts)[0]
 sidearms = [r for r in P["weapon"] if any(x in r[0].lower() for x in ("pistol", "revolver", "stub automatic", "sawn-off"))] or [("Hellpistol" if kind == "traitor_elite" else "Laspistol", "C")]
 # Bomb zealots (player-set): their extra is always 3-5 explosives, all strapped on.
