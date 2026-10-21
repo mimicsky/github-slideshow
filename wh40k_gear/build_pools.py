@@ -240,7 +240,7 @@ E = {
              ("Demo satchel (stolen)","U"),("Silenced stub pistol","R"),("Auto-revolver, 'Hammerfall' pattern, long barrel","R"),("Bolt pistol, rebored (unstable)","R")],
  },
  "pirate": {
-  "weapon": [("Combat shotgun, pump","C"),("Autopistol","C"),("Stub revolver","C"),("Lascarbine, Accatran Mk IV","C"),
+  "weapon": [("Pipe rifle (scrap)","C"),("Rattler (scrap SMG)","C"),("Junk shotgun (scrap double-pipe)","C"),("Nailer (scrap scattergun)","C"),("Torch-thrower (scrap flamer)","C"),("Rivet gun (scrap)","U"),("Battery las (scrap)","U"),("Sump harpoon (scrap)","U"),("Bolt-pipe (scrap, one bolt round)","R"),("Combat shotgun, pump","C"),("Autopistol","C"),("Stub revolver","C"),("Lascarbine, Accatran Mk IV","C"),
              ("Combat shotgun, semi-auto","U"),("Auto-revolver, 'Hammerfall' pattern, long barrel","U"),("Heavy laspistol","U"),("Las-scattergun 'shotlas'","U"),
              ("Ripper gun / drum-fed shotgun","U"),("Boltgun, Godwyn pattern (stolen)","R"),("Plasma pistol, Ryza pattern (stolen)","R")],
   "melee":  [("Navy cutlass","C"),("Combat knife","C"),("Boarding axe","C"),("Officer's sabre","U"),("Chainsword","U"),("Shock maul","U"),("Power knife","R"),("Power sword (taken from a captain)","R")],

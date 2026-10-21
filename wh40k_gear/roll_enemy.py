@@ -25,6 +25,8 @@ enemies and smarter tactics, not bigger numbers.
 Fight stats (player-set, session 9): each enemy rolls STR and DEX levels (1-100) in
 its type's range; +1 to rolls per full 10. A specialist gets +5 levels in the stat
 its role uses; a special team gets +5 levels to both.
+Scrap guns (player-set, session 9): only basic (not elite, not special-team) cultist, raider
+and pirate groups carry them.
 Gun condition (player-set, session 9): cultists and raiders Dirty or Neglected, pirates Dirty,
 traitors Clean (codex Part 8, Gun condition and jams).
 Skitarii (player-set, session 9): a traitor or traitor-elite tech-adept rolls a second d20;
@@ -76,6 +78,8 @@ if elite: better = count
 better = min(better, count)
 w = {"C": 25, "U": 50, "R": 25} if elite else P.get("weights", {"C": 70, "U": 25, "R": 5})
 def pick(rows):
+    if elite or team:  # scrap guns are for poor, basic groups only (player-set, session 9)
+        rows = [r for r in rows if "(scrap" not in r[0]] or rows
     tier = random.choices(list(w), weights=list(w.values()))[0]
     opts = [r for r in rows if r[1] == tier] or rows
     return random.choice(opts)[0]

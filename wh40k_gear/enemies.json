@@ -1100,6 +1100,42 @@
  "pirate": {
   "weapon": [
    [
+    "Pipe rifle (scrap)",
+    "C"
+   ],
+   [
+    "Rattler (scrap SMG)",
+    "C"
+   ],
+   [
+    "Junk shotgun (scrap double-pipe)",
+    "C"
+   ],
+   [
+    "Nailer (scrap scattergun)",
+    "C"
+   ],
+   [
+    "Torch-thrower (scrap flamer)",
+    "C"
+   ],
+   [
+    "Rivet gun (scrap)",
+    "U"
+   ],
+   [
+    "Battery las (scrap)",
+    "U"
+   ],
+   [
+    "Sump harpoon (scrap)",
+    "U"
+   ],
+   [
+    "Bolt-pipe (scrap, one bolt round)",
+    "R"
+   ],
+   [
     "Combat shotgun, pump",
     "C"
    ],
