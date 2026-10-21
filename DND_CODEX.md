@@ -1042,14 +1042,18 @@ a mission (Dace as smith); otherwise a crew member is hired or recruited for it.
 - **Smith / armourer:** maintains the Light's weapons and armour. **Each fight, the
   first jam, misfire or gear quirk is ignored**; field damage is mended between
   missions at no cost; does the crafting rolls for builds.
-- **Crewman / deckhand:** ship upkeep, loading and the stores. Loot and kit are hauled
-  aboard and kept in order without the Light carrying it; **the ship is ready to leave
-  in half the usual time** after a mission.
+- **Crewman / deckhand:** ship upkeep, loading and hauling. Loot and kit are hauled
+  aboard and stowed without the Light carrying it; **the ship is ready to leave in
+  half the usual time** after a mission.
 - **Chaplain:** morale and faith. **+2 on the Light's saves against fear and the
   warp**; can bless gear with purity seals (codex, Purity seals).
-- **Quartermaster:** shops for the Light from a list, haggling by their CHA: **d20 +
-  CHA bonus: 9 or less full price, 10-14 10% off, 15-19 20% off, 20+ 30% off** (also
-  sells loot for the same % more). One run per shop restock.
+- **Quartermaster:** keeps the container and the stores. **Tallies the haul after
+  each mission and suggests what to keep, sell or turn in; keeps tabs on everyone's
+  kit and resupplies what was used** (Tavi's spent krak grenades come back out of
+  stock, or go on the buy list). **Goes to the shops, calls the player with what they
+  have, and buys what the player picks**, haggling by their CHA: **d20 + CHA bonus: 9
+  or less full price, 10-14 10% off, 15-19 20% off, 20+ 30% off** (and sells loot for
+  the same % more). One run per shop restock.
 
 ### Shop size by market (set by the player, session 9)
 
