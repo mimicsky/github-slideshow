@@ -182,6 +182,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Las-LMG, 'Kasr Rain' suppression pattern (100-shot box; chains of 12; lasgun punch; suppression -2; heat on 8+)",
+  "tv": 6,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
   "name": "Charge long-las, 'Kasr Lance' pattern (charge to level 3 over two beats; built-in scope; pack in the stock; vent after level 3)",
   "tv": 12,
   "cat": "las",

@@ -74,3 +74,15 @@ the grip** like a magazine (30 shots). One-handed, made to pair with a melee wea
 (jumpers). **Full-auto chains of up to 10; -1 on every shot in the chain, no hit
 bonuses** (misses still -1). **Hits like a laspistol: against flak or carapace, 2 hits
 count as 1.**
+
+## Las-LMG, 'Kasr Rain' suppression pattern
+
+**Las-LMG, 'Kasr Rain' suppression pattern** (player design, Ash on Ostrava session 9;
+uncommon, 6 TV; Munitorum, Free Traders). The 'Kasr Barr''s opposite: a light punch
+and a huge supply. Braced stock with a cheek rest, a short barrel under a vent cover,
+handguard and tower grip, a special box pack of **100 shots** (the most efficient las
+pack made). **Chains of up to 12, no hit bonuses** (misses still -1). **Regular lasgun
+punch.** **Suppression:** spend the chain spraying an area (a doorway, a corridor, a
+group): everyone in the arc not behind hard cover keeps their head down, **-2 on their
+shots next beat**, and anyone who breaks cover in the arc **draws a free shot**.
+**Heat:** a chain of 8+ adds 1 heat; at 3 it vents for a beat.
