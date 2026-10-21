@@ -217,6 +217,13 @@
   "sellers": "B"
  },
  {
+  "name": "Nailer (scrap scattergun; one blast, hits 2 within 5 m; carrier always has a bag of scrap)",
+  "tv": 0.5,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
   "name": "Autogun, Agripinaa",
   "tv": 1,
   "cat": "stub",

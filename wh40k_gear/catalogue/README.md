@@ -46,6 +46,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 ## [Scrap guns](scrap.md)
 
 - [Pipe pistol ("zip gun")](scrap.md#pipe-pistol-zip-gun)
+- [Nailer (scrap scattergun)](scrap.md#nailer-scrap-scattergun)
 
 ## [Bolt weapons](bolt.md)
 
