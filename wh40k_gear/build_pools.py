@@ -180,6 +180,8 @@ add("gear","R","E",[("Purity seal (blessed)",2),("Aquila rosary",1),("Reliquary 
 # --- Augmetics ---
 add("augmetic","U","AB",[("Augmetic eye (basic)",8),("Augmetic hand (basic)",8),("Respirator implant",6)])
 add("augmetic","R","A",[("Augmetic arm, Mechanicus",20),("Subdermal armour",25),("Augmetic legs (pair)",30),("Mind-impulse link",22)])
+# Player pick (session 9): vox-jammer grenade. Rules in catalogue/explosives.md.
+add("explosive","R","AF",[("Vox-jammer grenade (30 m, 3 beats: all vox and data-links dead, both sides)",5)])
 # Player pick (session 9): web grenade. Rules in catalogue/explosives.md.
 add("explosive","U","MF",[("Web grenade, Arbites pattern (3 m; webbed: no moving, -2; harmless)",2)])
 # Player design (session 9): psyker overload grenade. Rules in catalogue/explosives.md.

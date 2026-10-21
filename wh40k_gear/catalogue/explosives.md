@@ -73,3 +73,13 @@ is **webbed: can't move, -2 on all actions.** **Getting free:** a beat cutting l
 with a blade, or a **STR roll of 15+** to tear out; an ally can cut them free with their
 beat. **Does no harm** (a capture tool). Dissolves after ~10 minutes, or at once with
 Arbites solvent. **Ogryns** tear free automatically, but it costs them their beat.
+
+## Vox-jammer grenade
+
+**Vox-jammer grenade** (player pick, Ash on Ostrava session 9; rare, 5 TV; Mechanicus,
+Free Traders). Sticks where it lands and fills **~30 m** with screaming static for **3
+beats**. **All vox inside dies:** beads, vox-casters, data-links; nobody inside can call
+out or listen in. Enemy commanders can only order by shouting (allies within earshot);
+vox specialists can't call reinforcements; **Skitarii data-links break** (no "act
+first"). **It kills the thrower's side's vox too:** orders by voice only. Someone can
+find and smash it (a beat).

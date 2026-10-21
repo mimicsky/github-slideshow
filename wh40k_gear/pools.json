@@ -2401,6 +2401,13 @@
   "sellers": "A"
  },
  {
+  "name": "Vox-jammer grenade (30 m, 3 beats: all vox and data-links dead, both sides)",
+  "tv": 5,
+  "cat": "explosive",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
   "name": "Web grenade, Arbites pattern (3 m; webbed: no moving, -2; harmless)",
   "tv": 2,
   "cat": "explosive",
