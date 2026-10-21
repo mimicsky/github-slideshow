@@ -70,3 +70,16 @@ shot adds 1; at 3 it vents for a beat. **Scrap quirk:** on a natural 1 the wirin
 and **shocks the shooter** (they drop a step and lose their next beat). Counts one step
 cleaner for jams (las), but never better than Dirty. Carried by gang tech-heads,
 cultist "prophets" and anyone who can't afford a real hellgun.
+
+## Pipe-bomb mortar ("tube lobber")
+
+**Pipe-bomb mortar** (common, 0.75 TV; bombs 0.1 TV each or homemade; black market). A
+wide pipe on a bipod bent from a chair, with a spark charge in the bottom: drop in a
+pipe-bomb and it arcs over cover. **Open ground only:** it needs open sky (outdoors,
+open land); **anywhere with a ceiling it can't arc and won't work.** **One lob a beat,
+over walls and cover, out to ~40 m; hits like a frag** on everyone within ~3 m of
+where it lands. **Wild aim: -2;** a miss lands it d6 m off in a random direction.
+**Scrap quirk:** on a natural 1 the bomb **stays in the tube, fizzing, for a beat**;
+the crew dives clear or someone brave tips it out. **Crew:** two (aimer and loader);
+alone, one lob every other beat. Carried by gang artillery, cultist siege mobs and
+raiders hitting a fortified door.

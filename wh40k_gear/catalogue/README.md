@@ -51,6 +51,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Torch-thrower (scrap flamer)](scrap.md#torch-thrower-scrap-flamer)
 - [Sump harpoon (spear-gun)](scrap.md#sump-harpoon-spear-gun)
 - [Battery las ("car-battery lasgun")](scrap.md#battery-las-car-battery-lasgun)
+- [Pipe-bomb mortar ("tube lobber")](scrap.md#pipe-bomb-mortar-tube-lobber)
 
 ## [Bolt weapons](bolt.md)
 

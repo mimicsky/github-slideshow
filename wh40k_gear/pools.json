@@ -252,6 +252,13 @@
   "sellers": "B"
  },
  {
+  "name": "Pipe-bomb mortar (scrap tube lobber; open ground only; frag over cover to 40 m; crew of two)",
+  "tv": 0.75,
+  "cat": "explosive",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
   "name": "Autogun, Agripinaa",
   "tv": 1,
   "cat": "stub",
