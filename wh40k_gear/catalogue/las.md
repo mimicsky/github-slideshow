@@ -98,3 +98,24 @@ past ~30 m.** **Integrated bayonet**, always fixed: in melee it hits like a shor
 spear, and a charge with it gets +1. **Stock magazine slot:** a spare pack rides in
 the stock, so the first reload each fight costs no time. **Never seizes** (and counts
 one step cleaner, like all las).
+
+## Lasgun, Ryza Mechanicus cable pattern
+
+**Lasgun, Ryza Mechanicus cable pattern** (player design, Ash on Ostrava session 9;
+rare, 4 TV; Mechanicus, Free Traders). No stock (light), an ergonomic grip, a
+close-angled handguard, a regular barrel with an **integrated muzzle brake**, iron
+sights and a scope mount. **No pack slot:** a cable socket under the grip; **it needs a
+las backpack cell to fire.** Regular lasgun punch, **semi-auto chains of up to 5;
+misses in a chain don't cost -1.** Move and shoot with no penalty. **Cooling fins:**
+the gun itself never builds heat (the backpack does).
+
+## Las backpack cell (Mechanicus pattern)
+
+**Las backpack cell** (player design, Ash on Ostrava session 9; rare, 4 TV;
+Mechanicus, Free Traders). A heavy power cell worn on the back, cabled to the gun;
+**powers any cable-fed las weapon** (backpack-fed hellguns too). **120 shots a
+charge;** recharge ~2 hours on a station. **It takes the heat:** a chain of 5 adds 1
+pack heat; at 3 it vents for a beat. **Weak spot:** when the wearer is hit while pack
+heat is 2 or more, roll a d6: **1, it ruptures** (the wearer drops a step and the pack
+is destroyed); **2-6, it's damaged beyond use** (the pack is finished; the wearer is
+unhurt).

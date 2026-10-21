@@ -182,6 +182,20 @@
   "sellers": "MBF"
  },
  {
+  "name": "Lasgun, Ryza Mechanicus cable pattern (needs a backpack cell; chains of 5, misses free; light)",
+  "tv": 4,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Las backpack cell, Mechanicus pattern (120 shots; pack heat; powers cable-fed las)",
+  "tv": 4,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
   "name": "Lasgun, Krieg pattern (Mars-built; through flak on any hit, 15 shots a pack; fixed bayonet; scope mount; stock pack slot)",
   "tv": 4,
   "cat": "las",

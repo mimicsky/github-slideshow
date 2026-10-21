@@ -25,6 +25,8 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Las machine pistol, 'Kasr Wasp' pattern](las.md#las-machine-pistol-kasr-wasp-pattern)
 - [Las-LMG, 'Kasr Rain' suppression pattern](las.md#las-lmg-kasr-rain-suppression-pattern)
 - [Lasgun, Krieg pattern (Mars-built)](las.md#lasgun-krieg-pattern-mars-built)
+- [Lasgun, Ryza Mechanicus cable pattern](las.md#lasgun-ryza-mechanicus-cable-pattern)
+- [Las backpack cell (Mechanicus pattern)](las.md#las-backpack-cell-mechanicus-pattern)
 
 ## [Solid-shot and special guns (autoguns, shotguns, pistols, web, needle)](stub.md)
 
