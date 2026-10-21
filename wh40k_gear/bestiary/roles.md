@@ -334,7 +334,7 @@ the party first.*
 
 ## Gunslinger
 
-**Who has it:** raiders, pirates, traitor soldiers.
+**Who has it:** raiders, pirates, traitor soldiers, traitor elites (elites added by the player, session 9).
 
 Cocky, flashy and very good. **Rolls 50/50 for two pistols or one good gun.**
 **+3 on shooting.** **Seeks a one-on-one with the party's best shooter**, even if
