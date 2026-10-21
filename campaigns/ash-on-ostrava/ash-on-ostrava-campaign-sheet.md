@@ -306,7 +306,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 
 **Specialties (set session 8, at the player's request).** Each member of the Light has a role specialty: **+2 on rolls of that kind**. Drilling the specialty as the day's training adds progress: **every 10 drill days, +1, to a max of +5**.
 
-**Training plan (Tamsin, session 9; from warp day 15).** Each member's day earns reps by codex house rule 7 (+1.0, then +0.5, +0.4, +0.3, +0.2, +0.1): the plan's drill is usually the first rep; anything else they do that counts (codex training manual) adds the next ones. The DM tallies at day's end.
+**Training plan (Tamsin, session 9; from warp day 15).** Reps by codex house rule 7 (revised end of session 9): **+0.1 per hour of training, +0.1 per action in play** (kills, successful rolls, hits stayed up through, orders, clever plays). A normal ship day on the plan = 6 hours of its drill (+0.6). The DM tallies at day's end.
 
 | Who | Training | Stat |
 | --- | --- | --- |

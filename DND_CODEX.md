@@ -649,17 +649,18 @@ scores and Part 8's once-per-stay training.
 - Converting old scores keeps the old modifier: level = (score - 10) x 5,
   minimum 1.
 - **Proficiency stacks on top** as before and still rises with character level.
-- **Training reps.** Each day, the first thing trained gives **+1.0** level, the
-  second **+0.5**, then +0.4, +0.3, +0.2, and +0.1 for each after that. Training
-  is described in the fiction; no roll needed unless something is at risk.
-  **This applies to everyone who trains: the player and every ally** (set by the
-  player, session 9). See the training manual below for what counts.
+- **Training reps (revised by the player, end of session 9).** **+0.1 per hour of
+  training** in a stat, and **+0.1 per action in play** that counts (a kill, a
+  successful roll, a hit taken and stayed up through, an order, a clever play). No
+  daily ladder, no cap. **Everyone who trains earns it: the player and every ally.**
+  The DM tallies at day's end. A normal ship day on the training plan counts as
+  **6 hours** of the plan's drill (+0.6) unless the scene says otherwise. See the
+  training manual below for what counts.
 - Sharp edges already earned under the old rule stay until used.
 
-**Training manual (set by the player, session 9).** What counts as a training rep.
-The DM tracks reps for the player and the Light at day's end, from the training plan
-and from what happened in play. Order of the day decides the rep size (+1.0, +0.5,
-+0.4, +0.3, +0.2, +0.1).
+**Training manual (set by the player, session 9).** What counts. **Training: +0.1 per
+hour. In play: +0.1 per action.** The DM tallies the player's and the Light's reps at
+day's end, from the training plan and from what happened in play.
 
 | Stat | Counts as training |
 | --- | --- |
@@ -667,17 +668,15 @@ and from what happened in play. Order of the day decides the rep size (+1.0, +0.
 | DEX | Range work, quick-draw drills, throwing knives or grenades at marks, stealth and crawlway practice, flying (pilots), lift-pack hops, fine handwork (lockpicking, trigger work); **a successful DEX roll** in play (a dodge, a dive, a clean draw); **a shot or thrown kill** (gun, thrown knife, grenade) |
 | CON | Runs and heavy-kit marches, cold, void and gas drills, holding a post through a long watch in bad conditions; **a successful CON roll** in play (beating poison, plague, gas, cold); **taking a hit and staying up**: a hit that only shakes you (it bounces off) or drops you just one health step (not two, not Down) |
 | INT | Reading manuals, cipher and vox work, repairs and crafting, studying plans and maps, reading slates and ledgers for intel; **a successful INT roll** in play; **DM's call: a clever play** (the player thinks of something genuinely smart that works: a trick, a plan, a deduction, a use of the ground; no roll needed). The DM marks it in the scene as *(clever play: INT rep)* |
-| WIS | Coaching others, treating the sick and wounded, tracking, standing a real watch, reading people in an interrogation, prayer and vigil |
+| WIS | Coaching others, **commanding** (+0.1 per order given in play; anyone who gives orders: the player, Kell, Varga), treating the sick and wounded, tracking, standing a real watch, reading people in an interrogation, prayer and vigil; **a successful WIS roll** in play (Perception, Insight, resisting fear or the warp) |
 | CHA | Briefings and speeches, bargaining and trading, interrogation talk, leading a drill, recruiting |
 
-- **Kills count:** every kill is a rep in the stat it used: a melee kill (blade, axe,
-  knife) is STR, a shot or thrown kill (gun, grenade) is DEX. Kills share the day's
-  ladder with everything else: +1.0, +0.5, +0.4, +0.3, +0.2, then +0.1 for every rep
-  after that. The ladder resets each day.
-- **A whole day on one job** (a mission, a long build) gives its rep(s) only, by the
-  work done; a day in bed gives nothing, unless they study (INT) or coach from the cot.
-- **Specialty days:** when the day's first rep is the person's specialty, it is also a
-  drill day for the specialty (+1 per 10 drill days, to +5).
+- **Kills count:** +0.1 per kill in the stat it used: a melee kill (blade, axe,
+  knife) is STR, a shot or thrown kill (gun, grenade) is DEX.
+- **Hours are hours of real work:** a mission day counts what they actually did in
+  it; a day in bed gives nothing, unless they study (INT) or coach from the cot (WIS).
+- **Specialty days:** a day with at least 3 hours drilling the person's specialty is
+  a drill day for it (+1 per 10 drill days, to +5).
 
 ---
 
