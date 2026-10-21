@@ -540,3 +540,51 @@ in melee, and they leave cover to charge.*
 
 *Side note: traitor elite zealots are disciplined fanatics: +1 in melee, and they
 hold any ground they're told to hold.*
+
+## Skitarius
+
+**Who has it:** traitor soldiers and traitor elites, as **corrupted Skitarii**; anyone
+rolled from the traitor-elite list (new recruits and NPCs) as a **loyal Skitarius**.
+(Player design, Ash on Ostrava session 9.) **Not drawn directly:** when someone rolls
+the **tech-adept / heretek** role, roll a second d20; on **18-20** they are a Skitarius
+instead.
+
+The Mechanicus's soldiers: humans rebuilt with machine parts until they are barely
+human, obeying their Tech-Priests through data-links. Corrupted ones serve hereteks.
+
+- **Kind (d6):** **1-3 Ranger** (galvanic rifle; long range, hunts from cover).
+  **4-5 Vanguard** (radium carbine; close range; anyone within ~5 m of them for a full
+  beat makes a CON save or is sickened, -1 on rolls until treated). **6 Sicarian**
+  (paired transonic blades, a fast augmetic body; melee only, rushes the strongest
+  target).
+- **Stats:** STR 30-45, DEX 35-50. **Built-in augmetic eyes:** +1 on shots, can't be
+  blinded.
+- **Machine body:** one extra health stage: **Fine, Grazed, Hurt, Badly hurt, Down.**
+  No bleeding, no fear, immune to gas.
+- **Data-link:** if their Tech-Priest or heretek is in the fight, they act **first**
+  every beat.
+- **Weakness:** shock weapons (shock mauls, shock coils) hit them **one health step
+  harder**.
+- **Salvage:** their parts can't just be grabbed. Someone skilled (Dace, Ferro-Ashe,
+  Sallow) **cuts them apart: about an hour and a roll.** Success: augmetic parts (an
+  eye, a limb, a machine-core) and their weapon. Fail: the parts are ruined.
+  **Corrupted parts need Ferro-Ashe's cleansing rite** before anyone wears them.
+- **A loyal Skitarius** in the Light is a story moment: rare, strange, and the
+  Mechanicus will want to know why.
+
+*Side note: corrupted Skitarii fight as a heretek's hands: precise, unafraid, and
+they never break while their master lives.*
+
+## Rolling new people (recruits and NPCs)
+
+Set by the player, session 9. Someone new and at least slightly important is rolled
+like an enemy, from the **traitor-elite role list** (the Light counts as traitor elite):
+
+1. **STR and DEX** by background: **civilians** STR 10-30, DEX 10-25; **regular
+   soldiers** (Guard troopers, station security) STR 20-35, DEX 25-40;
+   **elite-trained** (Scions, Kasrkin, veteran operatives) STR 25-45, DEX 35-50.
+   Other stats as the fiction and their past suggest.
+2. **Role d20:** **1-15 grunt** (no role yet; grows into one in play), **16-20** a
+   role from the list.
+3. A **tech-adept** roll checks for a **loyal Skitarius** (second d20, 18-20).
+

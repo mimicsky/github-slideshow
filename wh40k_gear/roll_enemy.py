@@ -25,6 +25,8 @@ enemies and smarter tactics, not bigger numbers.
 Fight stats (player-set, session 9): each enemy rolls STR and DEX levels (1-100) in
 its type's range; +1 to rolls per full 10. A specialist gets +5 levels in the stat
 its role uses; a special team gets +5 levels to both.
+Skitarii (player-set, session 9): a traitor or traitor-elite tech-adept rolls a second d20;
+18-20 makes it a corrupted Skitarius (kind d6: 1-3 Ranger, 4-5 Vanguard, 6 Sicarian).
 Blessed cultists: "blessed" is one of the cultist specialist types. A cultist who
 rolls specialist and draws "blessed" rolls the role d20 again: grunt or
 specialist as normal; if specialist, draw a type again; drawing "blessed" a
@@ -48,8 +50,8 @@ STATS = {"cultist": ((10, 30), (10, 25)), "raider": ((15, 35), (15, 30)), "pirat
 STR_ROLES = {"brute", "berserker", "breacher", "bodyguard", "enforcer", "duelist", "zealot", "bomb zealot"}
 DEX_ROLES = {"sniper", "grenadier", "assassin", "flamer", "demolitions", "jumper", "spotter", "tracker", "pilot",
              "heavy gunner", "heavy team", "plasma gunner", "infiltrator", "gunslinger"}
-def stats(role):
-    (s0, s1), (d0, d1) = STATS[kind]
+def stats(role, skitarius=False):
+    (s0, s1), (d0, d1) = ((30, 45), (35, 50)) if skitarius else STATS[kind]
     st, dx = random.randint(s0, s1), random.randint(d0, d1)
     if role in STR_ROLES: st += 5
     if role in DEX_ROLES: dx += 5
@@ -99,7 +101,14 @@ for n in range(count):
                     role_d20 = 1  # blessed again: a blessed grunt
     if role_d20 >= 16:
         backup = f" | {pick(P['melee'])}" if random.random() < 0.25 else ""  # 25% carry a melee backup
-        kit = pick(P['specialists'][role])
+        skit = None
+        if role == "tech-adept" and kind.startswith("traitor"):
+            sk = random.randint(1, 20)
+            if sk >= 18:
+                k6 = random.randint(1, 6)
+                skit = ("RANGER: galvanic rifle" if k6 <= 3 else "VANGUARD: radium carbine (rad-sickness within ~5 m)" if k6 <= 5 else "SICARIAN: paired transonic blades")
+                skit = f"corrupted SKITARIUS (tech-adept d20 {sk}, kind d6 {k6}), {skit}; augmetic eyes, machine body (extra stage), shock-weak; see roles.md"
+        kit = skit or pick(P['specialists'][role])
         if "two-man team" in kit:
             kit += " [counts as two: gunner + loader with a lasgun and the ammo]"
         head = f"SPECIALIST {role.upper()} (d20 {role_d20}): {kit}{backup}"
@@ -117,7 +126,7 @@ for n in range(count):
     extra = pick(P['extra'])
     if head.startswith("SPECIALIST BOMB ZEALOT"):
         extra = "STRAPPED ON: " + ", ".join(pick(BOMBS) for _ in range(random.randint(3, 5)))
-    line = f"{n+1}. {head} | {armour} | {extra} | {stats(role if role_d20 >= 16 else None)}"
+    line = f"{n+1}. {head} | {armour} | {extra} | {stats(role if role_d20 >= 16 else None, "SKITARIUS" in head)}"
     if n in lucky:
         line += f"  ** FOUND/MADE: {random.choice(P['found'])[0]}"
     if blessed:
