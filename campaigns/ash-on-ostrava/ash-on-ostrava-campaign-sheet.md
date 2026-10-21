@@ -347,10 +347,10 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | Dace | Bodyguard |
 | Corvane | Duelist |
 | Nessa | Infiltrator |
-| Ferro-Ashe | Tech-adept / heretek |
+| Ferro-Ashe | Tech-adept / heretek (holds the Enginseer crew post) |
 | Tamsin | Commander |
-| Mira | Pilot |
-| Teo | Pilot |
+| Mira | Fighter pilot |
+| Teo | Fighter pilot |
 
 | Who | Specialty (+2) |
 | --- | --- |

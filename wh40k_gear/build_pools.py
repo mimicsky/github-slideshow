@@ -345,7 +345,7 @@ SPEC["raider"]["duelist"] = [("Two-handed boarding axe + stub pistol","C"),("Gre
 SPEC["pirate"]["duelist"] = [("Naval cutlass + autopistol","C"),("Naval sabre + flintlock-pattern las pistol","U")]
 SPEC["traitor"]["duelist"] = [("Officer's sabre + laspistol","C"),("Power sword (stolen) + bolt pistol","R")]
 SPEC["traitor_elite"]["duelist"] = [("Chainsword + hot-shot laspistol","U"),("Power sword + bolt pistol","R")]
-# Commander, pilot, spotter, tracker, zealot (player picks, Ash on Ostrava session 9).
+# Commander, fighter pilot (renamed from pilot, session 9), spotter, tracker, zealot (player picks, Ash on Ostrava session 9).
 for k,(cmd,spot,trk,zel) in {
  "cultist": ([("Laspistol + chain knife (cult planner)","C")],[("Magnoculars + autogun","C")],[("Hound leash + shotgun","C"),("Scope-autogun + knife","C")],[("Chainsword + stub pistol, screaming","C"),("Flamer-torch + icon","U")]),
  "raider": ([("Bolt pistol (stolen) + chainsword, the boss","U")],[("Auspex + lasgun","U")],[("Long-las + hunting knife","U"),("Trophy-hung autogun + machete","C")],[("Two-handed axe, prayer-scrawled","C")]),
@@ -355,7 +355,7 @@ for k,(cmd,spot,trk,zel) in {
 }.items():
     SPEC[k]["commander"]=cmd; SPEC[k]["spotter"]=spot; SPEC[k]["tracker"]=trk; SPEC[k]["zealot"]=zel
 for k,pil in {"raider":[("Scav-rigged gunship keys + stub pistol","U")],"pirate":[("Assault boat pilot: flight suit + autopistol","U")],"traitor":[("Chimera driver: laspistol","C"),("Valkyrie pilot (deserted): flight suit + laspistol","R")],"traitor_elite":[("Valkyrie pilot: flight suit + hot-shot laspistol","U")]}.items():
-    SPEC[k]["pilot"]=pil
+    SPEC[k]["fighter pilot"]=pil
 for k in ("cultist","raider","pirate"):
     SPEC[k]["heavy gunner"] = SPEC[k].pop("heavy")
 # Heavy team for raiders and pirates too; berserker for every type (player-set).

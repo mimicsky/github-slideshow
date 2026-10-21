@@ -482,10 +482,13 @@ throws themselves at it, leaving cover.*
 *Side note: raider commanders are the boss: the group's better-armed d20 gets +1 when
 one is present.*
 
-## Pilot
+## Fighter pilot
 
 **Who has it:** raiders, pirates, traitor soldiers, traitor elites. (Player pick,
-session 9.)
+session 9; renamed from Pilot, end of session 9, to set it apart from the ship's
+Navigator crew post.)
+
+Air-to-ground and gunship work.
 
 At home in anything with an engine. **In a vehicle:** a **strafing run** (1 beat) hits
 a group in the open hard (a mob drops a step and is suppressed, **or** a squad takes it

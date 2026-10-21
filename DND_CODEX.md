@@ -1048,6 +1048,20 @@ a mission (Dace as smith); otherwise a crew member is hired or recruited for it.
   what a field patch can't, **fits augmetics** without a station medicae; rolls to
   pull a Down patient through. One surgery at a time. (The field medic stays a combat
   role, like Sallow.)
+- **Armsman:** ship security. Guards the cells, the hold and the ship while the
+  Light is out; the first line if anyone boards.
+- **Vox-officer:** runs the ship's comms from aboard: keeps the Light's channels
+  encrypted and re-keyed, watches them for intruders, relays to the team. (The field
+  vox/auspex role, like Brenner, stays with the team.)
+- **Enginseer:** keeps the ship's engines and systems running and the machine
+  spirits content. (Ferro-Ashe holds it unofficially: cast out by the Mechanicus, so
+  the work is real but the title isn't.)
+- **Navigator:** a warp-eyed mutant of a noble Navigator house who steers the ship
+  through the warp: **faster and safer jumps.** Very rare; a ship this size seldom
+  rates one.
+- **Astropath:** a psyker who sends messages across the stars, so the Light can reach
+  its Inquisitor without borrowing a fleet's. **Super rare: only assigned to special
+  people, by the Ordo's grant.**
 - **Crewman / deckhand:** ship upkeep, loading and hauling. Loot and kit are hauled
   aboard and stowed without the Light carrying it; **the ship is ready to leave in
   half the usual time** after a mission.
