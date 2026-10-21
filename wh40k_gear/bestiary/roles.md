@@ -463,6 +463,11 @@ one ally a direct order (it doesn't use the commander's own action that beat): t
 ally gets +2 on the ordered action and acts first that beat.** Enemy snipers and
 leaders go for commanders first.
 
+**When orders count (DM ruling, session 9):** any time the scene runs in beats:
+fights, chases, breaches, disasters (a gale, a fire, a ship bearing down). Any kind
+of action can be ordered (a shot, a throw, a hack, first aid). In calm scenes
+(crafting, research, interrogations, shopping) orders give no bonus.
+
 *Side note: traitor elite commanders can give **two** orders a beat if both go to
 specialists, and keep ordering from cover even when Hurt.*
 
