@@ -2275,14 +2275,14 @@
   "sellers": "MAF"
  },
  {
-  "name": "Bio-scanner",
+  "name": "Bio-scanner (finds life within 30 m; +2 medic treatment up close)",
   "tv": 8,
   "cat": "gear",
   "rarity": "R",
   "sellers": "MAF"
  },
  {
-  "name": "Psy-occulus (warp detector)",
+  "name": "Psy-occulus (warp detector, 50 m; strength and direction)",
   "tv": 15,
   "cat": "gear",
   "rarity": "R",
@@ -2399,6 +2399,13 @@
   "cat": "augmetic",
   "rarity": "R",
   "sellers": "A"
+ },
+ {
+  "name": "Hand scanner, Ordo pattern (threat level of one person or object up close)",
+  "tv": 12,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "AF"
  },
  {
   "name": "Thunder hammer, one-handed officer's pattern (stagger; thunderclap once a fight)",

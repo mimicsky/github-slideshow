@@ -250,3 +250,40 @@ Catachan): **a hit that goes into flesh** (not stopped by carapace) **poisons th
 target: weakened (-2 on all rolls) for the next 2 beats; on the 3rd beat roll a d6:
 1-2 still weakened (roll again next beat), 3-6 Down.** One poisoning per target at a
 time; a medic's treatment (15+) ends it. Ordinary 16-gauge shells: a normal shotgun.
+
+## Scanners
+
+Player designs, Ash on Ostrava session 9. Three different jobs: the **bio-scanner**
+finds living things at range, the **psy-occulus** finds the warp at range, and the
+**hand scanner** identifies one thing up close.
+
+### Hand scanner (Ordo pattern)
+
+**Hand scanner** (rare, 12 TV; Mechanicus, Free Traders; issued by the Ordo to its
+agents). Point it at one person or object within ~2 m for **one beat** and roll **d20 +
+INT or WIS, +2**. It gives a **threat level**: **Safe** (nothing harmful), **Caution**
+(mild toxin, low disease, unstable tech), **Hazard** (real poison or plague,
+explosives, a damaged power cell), **Lethal** (kills on contact or exposure: masks on,
+burn team called), **Warp-tainted** (psychic or daemonic residue; it can't say what
+kind; that needs a psyker or a priest). **On people:** exact health step, poisons in
+the blood, sickness, augmetics, hidden implants. **15+:** detail ("plague toxin,
+airborne when the seal breaks"). **Under 10:** a fuzzy reading; re-scan next beat.
+
+### Bio-scanner
+
+**Bio-scanner** (rare, 8 TV; Munitorum, Mechanicus, Free Traders). A medicae and
+hunter's tool. **A one-beat sweep finds living things within ~30 m**, through thin
+walls and cover (not thick bulkheads): how many and roughly where. **Roll d20 + INT or
+WIS, +2: 15+** also tells size (human, beast, Ogryn-big) and whether they're hurt.
+**Up close (~1 m)** it reads a patient's health step and vital signs: **+2 on a medic's
+treatment roll.** It doesn't see servitors, machines or daemons; Skitarii read faint
+and strange.
+
+### Psy-occulus (warp detector)
+
+**Psy-occulus** (rare, 15 TV; Mechanicus, Ecclesiarchy, Free Traders). A lens-and-coil
+device that **warms and hums when the warp stirs within ~50 m**: a psyker using
+powers, a daemon, a warp-tainted object, a thin spot in reality. It always gives
+**strength** (faint, strong, overwhelming). **An active one-beat sweep, d20 + WIS, +2:
+15+** gives the source's direction and rough distance. It shows *that* something is
+there, never *what*. It also flags sanctioned psykers, including friendly ones.

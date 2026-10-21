@@ -175,11 +175,13 @@ add("gear","R","MAF",[("Concentrated stimm (dose)",2),("Concentrated antitoxin (
 add("gear","U","MB",[("Combat drug 'Quicksilver' (speed: +2 Athletics and moving)",1.5),("Combat drug 'Deadeye' (focus: +2 shooting)",1.5),("Combat drug 'Frenzon' (rage: +2 melee)",1.5),("Combat drug 'Slaught' (reflexes: +2 strike first and dodge, +1 STR)",1.5),("Combat drug 'Adrenaline' (senses: +4 Perception, +1 shooting)",1.5)])
 add("gear","R","MAF",[("Servo-skull, gun (built-in laspistol)",30),("Servo-skull, burner (built-in micro-flamer)",35)])
 add("gear","U","B",[("Forged Munitorum ID chits",2),("Lock-picks, hive pattern",1),("Spoof-tag (fakes a transponder)",6),("Black-market data-slate",1)])
-add("gear","R","MAF",[("Cogitator spike",4),("Servo-skull (utility, used)",20),("Servo-skull (medicae)",25),("Gun-skull (armed servo-skull; fires d20+3 a beat; eye feed)",30),("Bio-scanner",8),("Psy-occulus (warp detector)",15),("Jump pack (Guard pattern)",30),("Jump pack, Kasrkin pattern",45),("Chameleoline cloak",12),("Medicae servitor (old)",30)])
+add("gear","R","MAF",[("Cogitator spike",4),("Servo-skull (utility, used)",20),("Servo-skull (medicae)",25),("Gun-skull (armed servo-skull; fires d20+3 a beat; eye feed)",30),("Bio-scanner (finds life within 30 m; +2 medic treatment up close)",8),("Psy-occulus (warp detector, 50 m; strength and direction)",15),("Jump pack (Guard pattern)",30),("Jump pack, Kasrkin pattern",45),("Chameleoline cloak",12),("Medicae servitor (old)",30)])
 add("gear","R","E",[("Purity seal (blessed)",2),("Aquila rosary",1),("Reliquary fragment",10),("Blessed sacred oils (flask)",2),("Vial of shrine water",1)])
 # --- Augmetics ---
 add("augmetic","U","AB",[("Augmetic eye (basic)",8),("Augmetic hand (basic)",8),("Respirator implant",6)])
 add("augmetic","R","A",[("Augmetic arm, Mechanicus",20),("Subdermal armour",25),("Augmetic legs (pair)",30),("Mind-impulse link",22)])
+# Player design (session 9): hand scanner. Rules in catalogue/kit.md.
+add("gear","R","AF",[("Hand scanner, Ordo pattern (threat level of one person or object up close)",12)])
 # Player design (session 9): one-handed officer's thunder hammer. Rules in catalogue/melee.md.
 add("melee","R","MAE",[("Thunder hammer, one-handed officer's pattern (stagger; thunderclap once a fight)",45)])
 # Player designs (session 9): Catachan weapons. Rules in catalogue/kit.md.
