@@ -308,6 +308,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Combi-pistol, 'Kasr Trident' pattern (twin autogun barrels, 40-round mag, chains of 6; under-barrel bolt shot last, -1)",
+  "tv": 12,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
   "name": "Infantry autogun, 'Columnus' pattern (30-round curved mag; single/burst/auto)",
   "tv": 1.25,
   "cat": "stub",

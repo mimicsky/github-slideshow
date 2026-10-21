@@ -33,6 +33,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Macragge service pistol](stub.md#macragge-service-pistol) (epic, Ultramarines)
 - [Auto-revolver, 'Hammerfall' pattern](stub.md#auto-revolver-hammerfall-pattern)
 - [Combat shotgun, 'Kasr Sweeper' duckbill pattern](stub.md#combat-shotgun-kasr-sweeper-duckbill-pattern)
+- [Combi-pistol, 'Kasr Trident' pattern](stub.md#combi-pistol-kasr-trident-pattern)
 - [Web pistol, Arbites pattern](stub.md#web-pistol-arbites-pattern)
 - [Needle rifle](stub.md#needle-rifle)
 

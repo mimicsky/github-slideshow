@@ -124,3 +124,17 @@ darts, 8 to a magazine. Against flesh or flak, a hit forces a CON save: fail and
 the target drops a health step next beat. Against carapace, only a solid hit
 (beats the target's roll by 3+) finds a gap. +1 on single aimed shots past 30 m.
 Spare darts uncommon, 2 TV for 8.
+
+## Combi-pistol, 'Kasr Trident' pattern
+
+**Combi-pistol, 'Kasr Trident' pattern** (player design, Ash on Ostrava session 9;
+rare, 12 TV; black market, Free Traders). Underhive gunsmith work, chunky and a little
+Ork-looking: one-handed, no stock, a metal grip, **three barrels**. **Twin barrels**
+fire autogun rounds from a **40-round magazine**, a pair per pull (2 rounds a shot:
+**20 shots a mag**): full-auto **chains of up to 6, no hit bonuses** (misses still
+-1); **each hit lands as two rounds** (through flak on any hit, through carapace on a
+solid hit). **Under-barrel bolt barrel:** one bolt round, loaded one at a time; **hits
+like a boltgun, at -1** (one-handed recoil). **The bolt shot always comes last:**
+firing it ends the shooter's shots for that beat, so spray first (one target or
+several), then the bolt into the last one. Reloading the bolt barrel takes the next
+beat's bolt shot. **One-handed, no stock: -1 on shots past ~20 m.**
