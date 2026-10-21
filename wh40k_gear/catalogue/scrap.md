@@ -83,3 +83,13 @@ where it lands. **Wild aim: -2;** a miss lands it d6 m off in a random direction
 the crew dives clear or someone brave tips it out. **Crew:** two (aimer and loader);
 alone, one lob every other beat. Carried by gang artillery, cultist siege mobs and
 raiders hitting a fortified door.
+
+## Bolt-pipe ("one-shot boomer")
+
+**Bolt-pipe** (uncommon, 1 TV; bolt rounds rare and dear in the underhive; black
+market). A thick pipe sized for **one scavenged bolt round**, with a door-hinge hammer.
+**One shot; hits like a boltgun;** reloading takes a full beat, if there's another
+round. **Brutal recoil: -2 on the shot**, and a shooter with STR under 20 drops it.
+**Scrap quirk:** on a natural 1 the pipe **splits**: the shot goes wild and the shooter
+drops a step from the shrapnel. Carried by gang bosses showing off and desperate
+cultists saving it for "the one who matters".

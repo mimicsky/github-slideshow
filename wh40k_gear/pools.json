@@ -259,6 +259,13 @@
   "sellers": "B"
  },
  {
+  "name": "Bolt-pipe (scrap; one bolt round, hits like a boltgun; -2 recoil; splits on a 1)",
+  "tv": 1,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
   "name": "Autogun, Agripinaa",
   "tv": 1,
   "cat": "stub",

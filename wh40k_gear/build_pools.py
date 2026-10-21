@@ -39,6 +39,7 @@ add("stub","C","B",[("Torch-thrower (scrap flamer; 5 m line, sets alight; 4 burs
 add("stub","U","B",[("Sump harpoon (scrap spear-gun; silent; pins on a through-hit; cut the cable to free)",1)])
 add("las","U","B",[("Battery las (scrap; hellgun punch, one shot a beat, 15 shots; heat; shocks on a 1)",2)])
 add("explosive","C","B",[("Pipe-bomb mortar (scrap tube lobber; open ground only; frag over cover to 40 m; crew of two)",0.75)])
+add("stub","U","B",[("Bolt-pipe (scrap; one bolt round, hits like a boltgun; -2 recoil; splits on a 1)",1)])
 add("stub","C","MB",[("Autogun, Agripinaa",1),("Autopistol",1),("Stub revolver",0.5),("Stub automatic",0.75),("Combat shotgun, pump",1.5)])
 add("stub","U","MBF",[("Combat shotgun, semi-auto",2),("Ripper gun / drum-fed shotgun",3),("Sawn-off shotgun",1),("Hand cannon (big-bore stubber)",2),("Scrap autogun with drum",1.5)])
 add("stub","U","B",[("Silenced stub pistol",2.5),("Holdout stub pistol",1),("Hive-gang 'scattergun'",1),("Ganger's chain-fed autopistol",2)])
