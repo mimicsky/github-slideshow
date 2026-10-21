@@ -329,6 +329,27 @@
   "sellers": "MBF"
  },
  {
+  "name": "Compact autogun, 'Kasr Hive' pattern (top 50-round mag; chains of 8; +1 within 10 m, -2 past 30 m)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Anti-materiel rifle, 'Kasr Breaker' pattern (heavy stubber rounds, 5-round box; through cover; 2 steps a hit; braced)",
+  "tv": 15,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Lever-action stub rifle, 'Kasr Frontier' pattern (12-round tube; never jams; chains of 6, or 3 double-lever shots)",
+  "tv": 1.5,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
   "name": "Combi-pistol, 'Kasr Trident' pattern (twin autogun barrels, 40-round mag, chains of 6; under-barrel bolt shot last, -1)",
   "tv": 12,
   "cat": "stub",

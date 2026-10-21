@@ -138,3 +138,30 @@ like a boltgun, at -1** (one-handed recoil). **The bolt shot always comes last:*
 firing it ends the shooter's shots for that beat, so spray first (one target or
 several), then the bolt into the last one. Reloading the bolt barrel takes the next
 beat's bolt shot. **One-handed, no stock: -1 on shots past ~20 m.**
+
+## Compact autogun, 'Kasr Hive' pattern
+
+**Compact autogun, 'Kasr Hive' pattern** (player design, Ash on Ostrava session 9;
+uncommon, 3 TV; Munitorum, black market, Free Traders). A tiny bullpup with a **clear
+50-round autogun magazine lying on top**. **Chains of up to 8.** **Made for tight
+spaces: +1 on shots within ~10 m; -2 past ~30 m.** Autogun punch: good on flesh,
+through flak on a solid hit. **Top magazine:** the shooter can see the rounds, so the
+first reload each fight costs no time.
+
+## Anti-materiel rifle, 'Kasr Breaker' pattern
+
+**Anti-materiel rifle, 'Kasr Breaker' pattern** (player design, Ash on Ostrava session
+9; rare, 15 TV; Munitorum, black market, Free Traders). Fires **heavy stubber rounds**
+one at a time from a **5-round box**. **Shoots through cover** (crates, thin
+bulkheads, servitors, light vehicles). **A hit drops the target two health steps**
+and goes through carapace on any hit. **Must be braced** on its bipod or on cover
+(unbraced: -3). One shot a beat. **Loud:** everyone in the area hears it.
+
+## Lever-action stub rifle, 'Kasr Frontier' pattern
+
+**Lever-action stub rifle, 'Kasr Frontier' pattern** (player design, Ash on Ostrava
+session 9; common, 1.5 TV; Munitorum, black market, Free Traders). A classic lever
+gun with a **12-round tube**; **never jams**. **Single lever:** chains of up to 6,
+normal stub-rifle shots. **Double lever:** work the lever twice to stack two rounds,
+and the shot lands **as two rounds** (through flak on any hit, through carapace on a
+solid hit); chains of up to 3.

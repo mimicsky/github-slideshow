@@ -37,6 +37,10 @@ add("stub","U","B",[("Silenced stub pistol",2.5),("Holdout stub pistol",1),("Hiv
 # Player design (session 8): auto-revolver. Full rules in DND_CODEX Part 8.
 add("stub","U","MBF",[("Auto-revolver, 'Hammerfall' pattern, stub barrel (8-round cylinder, autogun rounds; hold-trigger chains up to 8, no hit bonuses in the chain)",2),("Auto-revolver, 'Hammerfall' pattern, long barrel (as stub; +1 on single aimed shots past 20 m)",2.5)])
 add("gear","C","MBF",[("Speedloader (auto-revolver)",0.25)])
+# Player designs (session 9): Kasr Hive, Kasr Breaker, Kasr Frontier. Rules in catalogue/stub.md.
+add("stub","U","MBF",[("Compact autogun, 'Kasr Hive' pattern (top 50-round mag; chains of 8; +1 within 10 m, -2 past 30 m)",3)])
+add("stub","R","MBF",[("Anti-materiel rifle, 'Kasr Breaker' pattern (heavy stubber rounds, 5-round box; through cover; 2 steps a hit; braced)",15)])
+add("stub","C","MBF",[("Lever-action stub rifle, 'Kasr Frontier' pattern (12-round tube; never jams; chains of 6, or 3 double-lever shots)",1.5)])
 # Player design (session 9): the Kasr Trident combi-pistol. Rules in catalogue/stub.md.
 add("stub","R","BF",[("Combi-pistol, 'Kasr Trident' pattern (twin autogun barrels, 40-round mag, chains of 6; under-barrel bolt shot last, -1)",12)])
 # Darktide-inspired autoguns, player-detailed (session 8). Full rules in DND_CODEX Part 8.

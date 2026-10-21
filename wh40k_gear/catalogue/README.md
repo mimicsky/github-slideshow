@@ -37,6 +37,9 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Auto-revolver, 'Hammerfall' pattern](stub.md#auto-revolver-hammerfall-pattern)
 - [Combat shotgun, 'Kasr Sweeper' duckbill pattern](stub.md#combat-shotgun-kasr-sweeper-duckbill-pattern)
 - [Combi-pistol, 'Kasr Trident' pattern](stub.md#combi-pistol-kasr-trident-pattern)
+- [Compact autogun, 'Kasr Hive' pattern](stub.md#compact-autogun-kasr-hive-pattern)
+- [Anti-materiel rifle, 'Kasr Breaker' pattern](stub.md#anti-materiel-rifle-kasr-breaker-pattern)
+- [Lever-action stub rifle, 'Kasr Frontier' pattern](stub.md#lever-action-stub-rifle-kasr-frontier-pattern)
 - [Web pistol, Arbites pattern](stub.md#web-pistol-arbites-pattern)
 - [Needle rifle](stub.md#needle-rifle)
 
