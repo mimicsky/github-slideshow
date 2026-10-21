@@ -448,6 +448,10 @@ Standing preferences, set during play. They apply to every campaign.
   they saw it, were told it, or heard it from someone who could have; if it's
   gossip, the fiction shows who passed it on. No one knows a thing just because
   the player does. Set by the player, session 5.
+- **Daily tally sheet (set by the player, session 9).** Whenever the game clock
+  passes into a new day, show a tally of the day just ended before the next scene:
+  each person's reps (what they did, hours or actions, +0.1 each) and their new stat
+  levels. The player wants to see progress, not take it on trust.
 - **Show the math.** Every roll is written as (die + bonuses = total), e.g.
   (12+6+1+2 = 21): the die, the stat bonus, then each other bonus, then the total.
   Contests: (ours = total vs theirs = total). DCs stay hidden. Set by the player,
@@ -669,7 +673,7 @@ day's end, from the training plan and from what happened in play.
 | CON | Runs and heavy-kit marches, cold, void and gas drills, holding a post through a long watch in bad conditions; **a successful CON roll** in play (beating poison, plague, gas, cold); **taking a hit and staying up**: a hit that only shakes you (it bounces off) or drops you just one health step (not two, not Down) |
 | INT | Reading manuals, cipher and vox work, repairs and crafting, studying plans and maps, reading slates and ledgers for intel; **a successful INT roll** in play; **DM's call: a clever play** (the player thinks of something genuinely smart that works: a trick, a plan, a deduction, a use of the ground; no roll needed). The DM marks it in the scene as *(clever play: INT rep)* |
 | WIS | Coaching others, **commanding** (+0.1 per order given in play; anyone who gives orders: the player, Kell, Varga), treating the sick and wounded, tracking, standing a real watch, reading people in an interrogation, prayer and vigil; **a successful WIS roll** in play (Perception, Insight, resisting fear or the warp) |
-| CHA | Briefings and speeches, bargaining and trading, interrogation talk, leading a drill, recruiting |
+| CHA | Briefings and speeches, bargaining and trading, interrogation talk, leading a drill, recruiting, **a deep talk** (a real heart-to-heart, not small talk); **a successful CHA roll** in play (a bluff, a threat, a persuade); **DM's call: earned respect** (someone shows real respect for what the player said or did; marked *(respect: CHA rep)*) |
 
 - **Kills count:** +0.1 per kill in the stat it used: a melee kill (blade, axe,
   knife) is STR, a shot or thrown kill (gun, grenade) is DEX.
