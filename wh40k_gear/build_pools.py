@@ -175,6 +175,11 @@ add("gear","R","E",[("Purity seal (blessed)",2),("Aquila rosary",1),("Reliquary 
 # --- Augmetics ---
 add("augmetic","U","AB",[("Augmetic eye (basic)",8),("Augmetic hand (basic)",8),("Respirator implant",6)])
 add("augmetic","R","A",[("Augmetic arm, Mechanicus",20),("Subdermal armour",25),("Augmetic legs (pair)",30),("Mind-impulse link",22)])
+# Player designs (session 9): Catachan weapons. Rules in catalogue/kit.md.
+add("explosive","U","MBF",[("Thumper (Catachan break-action grenade launcher; one round a beat; never jams)",3)])
+add("melee","U","MBF",[("Catachan butcher knife (mercury-filled; hits like a short sword)",1.5)])
+add("stub","R","MF",[("Catachan shotgun (semi-auto 16-gauge, 8-round tube, chains of 4)",6)])
+add("ammo","R","MF",[("Catachan mercury shells, 16-gauge (box of 10; poison on a flesh hit)",0.5)])
 # Player design (session 9): augmetic eyes. Full rules in catalogue/kit.md.
 add("augmetic","R","AF",[("Bionic eye (+1 aimed; face recognition)",15),("Sensor eye (+2 sight; scanner; +2 scanned/long shots)",22),("Shooting eye (+2 long, +3 aimed; gun-link HUD)",30)])
 add("augmetic","R","MA",[("Commissar eye (flash-proof; infrared; +1 shots; tactical scan; data sync)",40)])

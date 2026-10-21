@@ -2380,6 +2380,34 @@
   "sellers": "A"
  },
  {
+  "name": "Thumper (Catachan break-action grenade launcher; one round a beat; never jams)",
+  "tv": 3,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Catachan butcher knife (mercury-filled; hits like a short sword)",
+  "tv": 1.5,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Catachan shotgun (semi-auto 16-gauge, 8-round tube, chains of 4)",
+  "tv": 6,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Catachan mercury shells, 16-gauge (box of 10; poison on a flesh hit)",
+  "tv": 0.5,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
   "name": "Bionic eye (+1 aimed; face recognition)",
   "tv": 15,
   "cat": "augmetic",

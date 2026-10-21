@@ -218,3 +218,35 @@ at its owner's shoulder. **Once a beat it fires at the owner's target, d20+3**, 
 using the owner's action. **Eye feed:** scouts up to ~30 m ahead and shows what it
 sees on the owner's slate or bead. **Fragile:** one solid hit drops it. A tech-adept
 binds it to its owner; it recharges overnight.
+
+## Catachan weapons
+
+Player designs, Ash on Ostrava session 9. Death-world gear from Catachan: heavy, simple
+and brutal. Rare outside Catachan supply lines.
+
+### Thumper (Catachan pattern)
+
+**Thumper** (uncommon, 3 TV; Munitorum, black market, Free Traders). A stubby
+break-action grenade launcher: snap it open, drop a round in, snap it shut. **One
+grenade round a shot; fire and reload in the same beat** (one round a beat). Takes
+the same launcher rounds as the revolver-drum launcher (frag, krak, smoke); ~60 m.
+**Never jams** (nothing to foul).
+
+### Catachan butcher knife
+
+**Catachan butcher knife** (uncommon, 1.5 TV; Munitorum, black market, Free Traders).
+An oversized knife for Catachan hands, Catachan steel alloy, the spine hollow and
+**filled with mercury** that rushes to the tip on every swing. **Hits like a short
+sword** (through flak on any hit, through carapace on a solid hit) but draws and works
+like a knife. Doubles as a machete and tool; never breaks.
+
+### Catachan shotgun
+
+**Catachan shotgun** (rare, 6 TV; Munitorum, Free Traders). A semi-auto **16-gauge**:
+shells load through the breach into an **8-round tube**; it fires fast, like a Baikal
+MP-155. **Semi-auto chains of up to 4;** a hit drops one health step like any
+shotgun; -2 past ~20 m. **Mercury shells** (0.5 TV a box of 10; rare outside
+Catachan): **a hit that goes into flesh** (not stopped by carapace) **poisons the
+target: weakened (-2 on all rolls) for the next 2 beats; on the 3rd beat roll a d6:
+1-2 still weakened (roll again next beat), 3-6 Down.** One poisoning per target at a
+time; a medic's treatment (15+) ends it. Ordinary 16-gauge shells: a normal shotgun.
