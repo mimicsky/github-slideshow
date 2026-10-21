@@ -664,7 +664,7 @@ and from what happened in play. Order of the day decides the rep size (+1.0, +0.
 | Stat | Counts as training |
 | --- | --- |
 | STR | Working out (lifting, bodywork, anything mostly muscle), sparring and mat matches, melee drills (chain axe on the post, sword forms), hauling heavy kit or crates, carrying a wounded man, climbing, breaching by hand; **a successful STR roll** in play (e.g. breaking the frozen clamp); **a melee kill** |
-| DEX | Range work, quick-draw drills, throwing knives or grenades at marks, stealth and crawlway practice, flying (pilots), lift-pack hops, fine handwork (lockpicking, trigger work) |
+| DEX | Range work, quick-draw drills, throwing knives or grenades at marks, stealth and crawlway practice, flying (pilots), lift-pack hops, fine handwork (lockpicking, trigger work); **a successful DEX roll** in play (a dodge, a dive, a clean draw); **a shot or thrown kill** (gun, thrown knife, grenade) |
 | CON | Runs and heavy-kit marches, cold, void and gas drills, holding a post through a long watch in bad conditions |
 | INT | Reading manuals, cipher and vox work, repairs and crafting, studying plans and maps, reading slates and ledgers for intel |
 | WIS | Coaching others, treating the sick and wounded, tracking, standing a real watch, reading people in an interrogation, prayer and vigil |
