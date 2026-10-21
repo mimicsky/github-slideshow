@@ -147,3 +147,17 @@ Kasrkin pattern** above, from memory and without the proper rites (tech-heresy f
 builder, not the wearer; in the field it passes for approved kit). Same rules as the
 Kasrkin pattern. **Build:** grav-chute + 1 machine-core + 1 servo-motor + 4 power
 cells, 2 days, the crafter's roll (codex Part 8). Varga's (Ash on Ostrava, session 9).
+
+## Augmetic eyes
+
+Player design, Ash on Ostrava session 9. Six grades, from a plain replacement to a
+champion's eye. **All of them:** a medicae surgeon fits the eye (Ferro-Ashe or any
+tech-adept may bless it); **one day's rest**, then it works. One eye per socket.
+**A lost eye** (no augmetic yet): **-2 on sight Perception and on aimed shots**
+until one is fitted.
+
+### Basic augmetic eye
+
+**Basic augmetic eye** (uncommon, 8 TV; Mechanicus, black market). Brass ring, dull
+glass lens. Restores normal sight: no bonus, no drawback in good light. **Cheap lens:
+-1 on sight Perception in dark or smoke** (grainy picture).
