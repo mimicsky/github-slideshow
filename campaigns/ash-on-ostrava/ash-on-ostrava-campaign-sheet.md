@@ -574,6 +574,11 @@ Light's container. Crew rallying cry: **"We are the light."**
   guards) still happen. Plus smarter tactics (flanking, ambushes, focusing the wounded, retreating to
   better ground) and nastier ground, never bigger numbers on the same enemy. Each
   enemy rolls its own STR and DEX (codex Part 8). The Light keeps pace through gear.
+  **Enemies use their roles together, the way the player would** (set end of session
+  9): a bomb zealot dropped from above or sent in under smoke and covering fire, not
+  run straight at Vigil; snipers on the high ground; spotters marking for them. Type
+  still shows: cultists are reckless and sometimes just charge; pirates and traitors
+  are cold and careful. Easy fights get rarer; the player works for wins.
 
 - **Thask's "kept" on Ustrennos (all three in Merrick's cells):** **Pask Hollow**
   (cell 9; a believer; **Will 33%, breaks below 13%**; still holds how to reach the
