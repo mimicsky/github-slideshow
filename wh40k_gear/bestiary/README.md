@@ -3,13 +3,14 @@
 Enemy forces the Light can meet. For the DM: read this index; open a team's entry
 when it shows up.
 
-**How enemies are rolled** (`../roll_enemy.py TYPE COUNT [BOOK] [GOD]`): every group
+**How enemies are rolled** (`../roll_enemy.py TYPE COUNT [GOD]`): every group
 is one of five **basic types** (cultists, raiders, pirates, traitor soldiers,
 traitor elites). Before the fight, **2d20 added**: **2-30** a basic group, **31-40** a
 **named special team** of that type (below), about 1 fight in 7. A special team
-gets **+1 on all their rolls**, **armour one step better**, **+3 to their
+gets **+5 STR and DEX levels** (+1 on other rolls), **armour one step better**, **+3 to their
 better-armed d20**, and half their guns are the team's favoured weapons. Their
-look and tactics are in their entry, and the DM plays them that way.
+look and tactics are in their entry, and the DM plays them that way. Every enemy
+also rolls its own STR and DEX (ranges in `DND_CODEX.md` Part 8); no per-book bonuses.
 
 ## [Enemy roles: personalities and tendencies](roles.md)
 

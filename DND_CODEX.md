@@ -942,19 +942,22 @@ contents; open only the team that shows up). The roller does the 2d20.
 raiders, pirates, traitor soldiers (renegade Guard) and traitor elites (traitor
 storm troopers, renegade Inquisition kill-teams, always rolled at elite weights) carry gear rolled from their own pools in
 [`wh40k_gear/enemies.json`](wh40k_gear/enemies.json) with
-`python3 wh40k_gear/roll_enemy.py TYPE COUNT [BOOK] [GOD]`, weighted to common. **Each enemy
+`python3 wh40k_gear/roll_enemy.py TYPE COUNT [GOD]`, weighted to common. **Each enemy
 rolls a role d20 first:** a low roll is a grunt, a coin flip making them ranged (a gun
 plus melee backup) or melee (a melee weapon, maybe a sidearm; traitor soldiers and
-elites are ranged 75% of the time); a high roll is a **specialist** (16-20 at book 1,
-starting one lower per book: book 2 is 15-20), a random role from that enemy type's
+elites are ranged 75% of the time); a high roll is a **specialist** (16-20), a random role from that enemy type's
 list, carrying that role's kit (1 in 4 also has a melee backup). **Which types have
 which roles, how each role tends to act, and its rules** are in
 `wh40k_gear/bestiary/roles.md` (each role's "Who has it" line); tendencies, not
 scripts. A **two-man team** (a heavy weapon) is one specialist roll but two bodies:
 the gunner and a loader with a lasgun and the ammunition. Drugs, doses and the
 crash (berserkers, chem-doctors) follow **Doses** in Gear rules below. Every enemy also rolls armour and one extra.  *Blessed* (a cultist marked by their god) is a
-cultist specialist type; see the catalogue, Heretic and cult items. The
-roller takes the book number and scales the rolls by book. Other enemies (xenos,
+cultist specialist type; see the catalogue, Heretic and cult items. **Each enemy also rolls STR and DEX levels** in its type's range
+(cultist STR 10-30 / DEX 10-25; raider 15-35 / 15-30; pirate 15-35 / 20-35; traitor
+20-35 / 25-40; traitor elite 25-45 / 35-50), +1 per full 10 levels to their rolls; a
+specialist adds +5 levels to the stat its role uses, a special team +5 to both; other
+rolls +1. **No per-book bonuses** (removed by the player, session 9): later books bring
+more enemies and smarter tactics, not bigger numbers. Other enemies (xenos,
 Mechanicus) still follow the fiction until they get pools. **Before the fight**,
 one d20 in the open for the group (a named enemy alone gets their own) decides
 who is better armed with something they found or made, and uses it against you:
@@ -968,7 +971,7 @@ who is better armed with something they found or made, and uses it against you:
 | 15-16 | 4 |
 | 17-18 | 5 |
 | 19+ | 6 (never more than the group) |
-| natural 19-20 | **Elite team:** the whole group rolls one rarity step better, and each carries a found-or-made item. **Only on the natural die (19 or 20)**: bonuses (book, special team) can raise the count, never make an elite team |
+| natural 19-20 | **Elite team:** the whole group rolls one rarity step better, and each carries a found-or-made item. **Only on the natural die (19 or 20)**: bonuses (special team) can raise the count, never make an elite team |
 
 A natural 20 also adds the rare find above. Found-or-made items are homemade or
 scavenged pieces only enemies carry, some with quirks (a jury-rigged autogun that

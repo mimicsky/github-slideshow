@@ -567,17 +567,11 @@ Light's container. Crew rallying cry: **"We are the light."**
   DCs or inflated stats, and never a rigged death: the dice stand both ways. If he
   dies, it's final: the book closes as a memorial to him and to this first
   campaign, and the player starts a new character.
-  **Scaling by book (set by the player): book N is N times as hard as book 1.**
-  Book 2 (now) is **2x**, book 3 will be **3x**, and so on. "Harder" means the
-  threat a fight brings, sized against the Light as it is then, never moved DCs:
-  - **Threat budget:** a fight in book N brings about N times the threat of a
-    comparable book 1 fight: more enemies, better ones, or both.
-  - **Enemy rolls:** the group's better-armed d20 gets **+2 per book after the
-    first** (book 2: +2; book 3: +4), and the specialist role starts **1 lower per
-    book** (book 1: 16-20; book 2: 15-20; book 3: 14-20).
-  - **Tactics and ground:** each book, enemies fight smarter (flanking, ambushes,
-    focusing the wounded, retreating to better ground) and more fights happen
-    where the terrain favours them.
+  **Scaling (revised by the player, end of session 9): no per-book roll bonuses.**
+  Later books get harder through **more enemies** (book 1: fights of ~6-10; now 20-30
+  is normal), smarter tactics (flanking, ambushes, focusing the wounded, retreating to
+  better ground) and nastier ground, never bigger numbers on the same enemy. Each
+  enemy rolls its own STR and DEX (codex Part 8). The Light keeps pace through gear.
 
 - **Thask's "kept" on Ustrennos (all three in Merrick's cells):** **Pask Hollow**
   (cell 9; a believer; **Will 33%, breaks below 13%**; still holds how to reach the
