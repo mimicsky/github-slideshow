@@ -60,3 +60,13 @@ the spear out instead drops them a step. **Scrap quirk:** on a natural 1 the spr
 fails and the spear **drops out and sticks in the deck at the shooter's feet**; they
 spend the next beat in the open wrenching it free and reattaching it (attacks on them
 that beat get +2). Carried by sump hunters, gang trappers and raiders taking hostages.
+
+## Battery las ("car-battery lasgun")
+
+**Battery las** (uncommon, 2 TV; black market). A salvaged lasgun with its pack ripped
+out, cabled to a vehicle battery in a backpack: crude, and it hits far harder than it
+should. **Hits like a hellgun; one shot a beat; 15 shots a battery.** **Heat:** each
+shot adds 1; at 3 it vents for a beat. **Scrap quirk:** on a natural 1 the wiring arcs
+and **shocks the shooter** (they drop a step and lose their next beat). Counts one step
+cleaner for jams (las), but never better than Dirty. Carried by gang tech-heads,
+cultist "prophets" and anyone who can't afford a real hellgun.

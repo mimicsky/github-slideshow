@@ -50,6 +50,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Rivet gun (converted industrial riveter)](scrap.md#rivet-gun-converted-industrial-riveter)
 - [Torch-thrower (scrap flamer)](scrap.md#torch-thrower-scrap-flamer)
 - [Sump harpoon (spear-gun)](scrap.md#sump-harpoon-spear-gun)
+- [Battery las ("car-battery lasgun")](scrap.md#battery-las-car-battery-lasgun)
 
 ## [Bolt weapons](bolt.md)
 

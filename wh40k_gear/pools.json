@@ -245,6 +245,13 @@
   "sellers": "B"
  },
  {
+  "name": "Battery las (scrap; hellgun punch, one shot a beat, 15 shots; heat; shocks on a 1)",
+  "tv": 2,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
   "name": "Autogun, Agripinaa",
   "tv": 1,
   "cat": "stub",
