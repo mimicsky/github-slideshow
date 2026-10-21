@@ -49,6 +49,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Nailer (scrap scattergun)](scrap.md#nailer-scrap-scattergun)
 - [Rivet gun (converted industrial riveter)](scrap.md#rivet-gun-converted-industrial-riveter)
 - [Torch-thrower (scrap flamer)](scrap.md#torch-thrower-scrap-flamer)
+- [Sump harpoon (spear-gun)](scrap.md#sump-harpoon-spear-gun)
 
 ## [Bolt weapons](bolt.md)
 

@@ -46,3 +46,17 @@ unless they spend it putting themselves out). **4 bursts a can.** **Scrap quirk:
 hit on the carrier, on a d6 of **1-2, ruptures the can**: the carrier goes up, and
 anyone within ~2 m. Carried by cultist purgers, sump gangs and anyone clearing a room
 on the cheap.
+
+## Sump harpoon (spear-gun)
+
+**Sump harpoon** (uncommon, 1 TV; black market). A spring-and-cable launcher built
+from a vehicle suspension coil, firing a heavy barbed steel spear on a chain; sump
+hunters use it on the big things in the waste pools. **One spear, then a beat to
+rewind and re-cock.** **Silent:** no flash, no bang. **It hurts:** a hit goes through
+flak. **Only a hit that goes through the target pins them:** the shooter can yank them
+a few metres (out of cover, off a ledge) or anchor them in place. **Getting free:**
+the target or an ally **cuts the cable** (a beat; frees them, no extra harm); tearing
+the spear out instead drops them a step. **Scrap quirk:** on a natural 1 the spring
+fails and the spear **drops out and sticks in the deck at the shooter's feet**; they
+spend the next beat in the open wrenching it free and reattaching it (attacks on them
+that beat get +2). Carried by sump hunters, gang trappers and raiders taking hostages.
