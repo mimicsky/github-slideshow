@@ -2401,6 +2401,13 @@
   "sellers": "A"
  },
  {
+  "name": "Blessed incense grenade (5 m holy smoke, 3 beats: warp things -2 and burn; allies +2 vs fear)",
+  "tv": 4,
+  "cat": "explosive",
+  "rarity": "R",
+  "sellers": "E"
+ },
+ {
   "name": "Vox-jammer grenade (30 m, 3 beats: all vox and data-links dead, both sides)",
   "tv": 5,
   "cat": "explosive",

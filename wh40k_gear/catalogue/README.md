@@ -82,6 +82,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Psyker overload grenade](explosives.md#psyker-overload-grenade)
 - [Web grenade (Arbites pattern)](explosives.md#web-grenade-arbites-pattern)
 - [Vox-jammer grenade](explosives.md#vox-jammer-grenade)
+- [Blessed incense grenade (Ecclesiarchy)](explosives.md#blessed-incense-grenade-ecclesiarchy)
 
 ## [Melee weapons](melee.md)
 

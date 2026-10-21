@@ -83,3 +83,12 @@ out or listen in. Enemy commanders can only order by shouting (allies within ear
 vox specialists can't call reinforcements; **Skitarii data-links break** (no "act
 first"). **It kills the thrower's side's vox too:** orders by voice only. Someone can
 find and smash it (a beat).
+
+## Blessed incense grenade (Ecclesiarchy)
+
+**Blessed incense grenade** (player pick, Ash on Ostrava session 9; rare, 4 TV;
+Ecclesiarchy; a priest or the Light's chaplain can bless one). Thick, sweet holy smoke,
+**~5 m, 3 beats**; blocks sight like smoke. **Daemons, blessed cultists and anything
+warp-tainted inside: -2 on all rolls, and they burn (drop a step each beat they stay).**
+**Allies inside: +2 against fear and the warp.** **Rogue psykers inside: +1 on their
+Perils trigger.** Ordinary people just cough.
