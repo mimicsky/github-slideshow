@@ -50,3 +50,17 @@ beat. Medium barrel and a 3x sight: +1 on aimed shots from 20 to 60 m, no bonus 
 shots, chains of 2 at most. Light trigger: +1 on the first shot of a fight. **No
 safety:** it is drop-prone (DND_CODEX Part 8, Gear rules), and a natural 1 on any shot also fires a second,
 wasted bolt.
+
+## Charge long-las, 'Kasr Lance' pattern
+
+**Charge long-las, 'Kasr Lance' pattern** (player design, Ash on Ostrava session 9;
+rare, 12 TV; Munitorum, Mechanicus, Free Traders). A long las rifle with a full stock
+and a **built-in scope (+2 on aimed shots past ~30 m)**; **the las pack slots into the
+stock and is the magazine**; a sliding **vent cover** over the focusing chamber.
+**Charge-up:** each beat the shooter holds aim and charges, it climbs a level, to 3.
+**Level 1** (no charge): a normal long-las shot. **Level 2** (one beat charging): hits
+like a hellgun. **Level 3** (two beats charging): **through carapace on any hit, and
+the target drops one extra health step.** **Pack drain:** 12 charge a pack; level 1
+costs 1, level 2 costs 2, level 3 costs 4. **Vent:** after a level-3 shot the cover
+pops open and the next beat is spent venting (no firing). **Charging means staying
+put:** moving or being knocked while charging bleeds it back to level 1.

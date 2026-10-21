@@ -21,6 +21,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Heavy laspistol, 'Nocturne Ember' pattern](las.md#heavy-laspistol-nocturne-ember-pattern)
 - [Lasgun, 'Kasr Duet' twin-focus pattern](las.md#lasgun-kasr-duet-twin-focus-pattern)
 - [Long-las, 'Kasr Sprinter' stripped pattern](las.md#long-las-kasr-sprinter-stripped-pattern)
+- [Charge long-las, 'Kasr Lance' pattern](las.md#charge-long-las-kasr-lance-pattern)
 
 ## [Solid-shot and special guns (autoguns, shotguns, pistols, web, needle)](stub.md)
 

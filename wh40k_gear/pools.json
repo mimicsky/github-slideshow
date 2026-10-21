@@ -175,6 +175,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Charge long-las, 'Kasr Lance' pattern (charge to level 3 over two beats; built-in scope; pack in the stock; vent after level 3)",
+  "tv": 12,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
   "name": "Duelling laspistol, noble-house pattern",
   "tv": 8,
   "cat": "las",
