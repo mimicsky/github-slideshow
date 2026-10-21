@@ -43,6 +43,10 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Web pistol, Arbites pattern](stub.md#web-pistol-arbites-pattern)
 - [Needle rifle](stub.md#needle-rifle)
 
+## [Scrap guns](scrap.md)
+
+- [Pipe pistol ("zip gun")](scrap.md#pipe-pistol-zip-gun)
+
 ## [Bolt weapons](bolt.md)
 
 - [Bolt-shotgun, 'Breacher' pattern](bolt.md#bolt-shotgun-breacher-pattern)

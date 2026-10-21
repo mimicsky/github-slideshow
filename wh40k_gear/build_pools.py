@@ -31,6 +31,8 @@ add("las","U","MF",[("Las-LMG, 'Kasr Rain' suppression pattern (100-shot box; ch
 add("las","R","MAF",[("Charge long-las, 'Kasr Lance' pattern (charge to level 3 over two beats; built-in scope; pack in the stock; vent after level 3)",12)])
 add("las","R","BF",[("Duelling laspistol, noble-house pattern",8),("Archeotech lasgun 'sunfire' (worn, works)",30)])
 # --- Solid shot ---
+# Scrap guns (player request, session 9). Rules in catalogue/scrap.md.
+add("stub","C","B",[("Pipe pistol (zip gun; one shot, a beat to reload; may burst on a 1)",0.25)])
 add("stub","C","MB",[("Autogun, Agripinaa",1),("Autopistol",1),("Stub revolver",0.5),("Stub automatic",0.75),("Combat shotgun, pump",1.5)])
 add("stub","U","MBF",[("Combat shotgun, semi-auto",2),("Ripper gun / drum-fed shotgun",3),("Sawn-off shotgun",1),("Hand cannon (big-bore stubber)",2),("Scrap autogun with drum",1.5)])
 add("stub","U","B",[("Silenced stub pistol",2.5),("Holdout stub pistol",1),("Hive-gang 'scattergun'",1),("Ganger's chain-fed autopistol",2)])

@@ -210,6 +210,13 @@
   "sellers": "BF"
  },
  {
+  "name": "Pipe pistol (zip gun; one shot, a beat to reload; may burst on a 1)",
+  "tv": 0.25,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
   "name": "Autogun, Agripinaa",
   "tv": 1,
   "cat": "stub",
