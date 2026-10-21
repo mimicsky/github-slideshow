@@ -1042,6 +1042,12 @@ a mission (Dace as smith); otherwise a crew member is hired or recruited for it.
 - **Smith / armourer:** maintains the Light's weapons and armour. **Each fight, the
   first jam, misfire or gear quirk is ignored**; field damage is mended between
   missions at no cost; does the crafting rolls for builds.
+- **Ship's surgeon:** a specialist, good at nothing else (no missions, useless in a
+  fight). **+4 on all treatment and surgery rolls; anyone recovering aboard heals in
+  half the time** (stacks with the cook); removes lodged rounds and shrapnel, does
+  what a field patch can't, **fits augmetics** without a station medicae; rolls to
+  pull a Down patient through. One surgery at a time. (The field medic stays a combat
+  role, like Sallow.)
 - **Crewman / deckhand:** ship upkeep, loading and hauling. Loot and kit are hauled
   aboard and stowed without the Light carrying it; **the ship is ready to leave in
   half the usual time** after a mission.
