@@ -64,3 +64,13 @@ the target drops one extra health step.** **Pack drain:** 12 charge a pack; leve
 costs 1, level 2 costs 2, level 3 costs 4. **Vent:** after a level-3 shot the cover
 pops open and the next beat is spent venting (no firing). **Charging means staying
 put:** moving or being knocked while charging bleeds it back to level 1.
+
+## Las machine pistol, 'Kasr Wasp' pattern
+
+**Las machine pistol, 'Kasr Wasp' pattern** (player design, Ash on Ostrava session 9;
+uncommon, 3 TV; Munitorum, black market, Free Traders). A boxy, rectangular body
+holding cell and crystal, a long barrel, no stock; **the pack goes in the bottom of
+the grip** like a magazine (30 shots). One-handed, made to pair with a melee weapon
+(jumpers). **Full-auto chains of up to 10; -1 on every shot in the chain, no hit
+bonuses** (misses still -1). **Hits like a laspistol: against flak or carapace, 2 hits
+count as 1.**

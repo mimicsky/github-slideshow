@@ -23,6 +23,8 @@ add("ammo","U","MF",[("Las-box pack (for the Kasr Barr)",0.75)])
 add("las","R","FA",[("Heavy laspistol, 'Nocturne Ember' pattern (side pack, long barrel; ignites on a raw 17+; heavy trigger: -1 quick-draw, chains of 3 max)",14)])
 add("las","R","MFA",[("Lasgun, 'Kasr Duet' twin-focus pattern (two crystals, one barrel: a hit lands like a hellgun; 2 charge a pull; chains of 2; braced pad stock; rail)",7)])
 add("las","U","MBF",[("Long-las, 'Kasr Sprinter' stripped pattern (skeleton stock and grip, 3x sight; +1 aimed 20-60 m; move and aim; light trigger, NO SAFETY: drop-prone)",4.5)])
+# Player design (session 9): the Kasr Wasp las machine pistol. Rules in catalogue/las.md.
+add("las","U","MBF",[("Las machine pistol, 'Kasr Wasp' pattern (one-handed; pack in the grip, 30 shots; chains of 10 at -1 each; laspistol punch)",3)])
 # Player design (session 9): the Kasr Lance charge long-las. Rules in catalogue/las.md.
 add("las","R","MAF",[("Charge long-las, 'Kasr Lance' pattern (charge to level 3 over two beats; built-in scope; pack in the stock; vent after level 3)",12)])
 add("las","R","BF",[("Duelling laspistol, noble-house pattern",8),("Archeotech lasgun 'sunfire' (worn, works)",30)])

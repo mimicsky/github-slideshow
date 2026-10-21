@@ -175,6 +175,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Las machine pistol, 'Kasr Wasp' pattern (one-handed; pack in the grip, 30 shots; chains of 10 at -1 each; laspistol punch)",
+  "tv": 3,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Charge long-las, 'Kasr Lance' pattern (charge to level 3 over two beats; built-in scope; pack in the stock; vent after level 3)",
   "tv": 12,
   "cat": "las",
