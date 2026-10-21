@@ -652,7 +652,29 @@ scores and Part 8's once-per-stay training.
 - **Training reps.** Each day, the first thing trained gives **+1.0** level, the
   second **+0.5**, then +0.4, +0.3, +0.2, and +0.1 for each after that. Training
   is described in the fiction; no roll needed unless something is at risk.
+  **This applies to everyone who trains: the player and every ally** (set by the
+  player, session 9). See the training manual below for what counts.
 - Sharp edges already earned under the old rule stay until used.
+
+**Training manual (set by the player, session 9).** What counts as a training rep.
+The DM tracks reps for the player and the Light at day's end, from the training plan
+and from what happened in play. Order of the day decides the rep size (+1.0, +0.5,
++0.4, +0.3, +0.2, +0.1).
+
+| Stat | Counts as training |
+| --- | --- |
+| STR | Sparring and mat matches, melee drills (chain axe on the post, sword forms), hauling heavy kit or crates, carrying a wounded man, climbing, breaching by hand |
+| DEX | Range work, quick-draw drills, throwing knives or grenades at marks, stealth and crawlway practice, flying (pilots), lift-pack hops, fine handwork (lockpicking, trigger work) |
+| CON | Runs and heavy-kit marches, cold, void and gas drills, holding a post through a long watch in bad conditions |
+| INT | Reading manuals, cipher and vox work, repairs and crafting, studying plans and maps, reading slates and ledgers for intel |
+| WIS | Coaching others, treating the sick and wounded, tracking, standing a real watch, reading people in an interrogation, prayer and vigil |
+| CHA | Briefings and speeches, bargaining and trading, interrogation talk, leading a drill, recruiting |
+
+- **A real fight counts:** one rep in the stat the person leaned on most in it.
+- **A whole day on one job** (a mission, a long build) gives its rep(s) only, by the
+  work done; a day in bed gives nothing, unless they study (INT) or coach from the cot.
+- **Specialty days:** when the day's first rep is the person's specialty, it is also a
+  drill day for the specialty (+1 per 10 drill days, to +5).
 
 ---
 
@@ -981,7 +1003,22 @@ word: the player names what in the hub's storage to sell, the quartermaster
 prices it, and his ratings fetch it, so nothing has to be carried by hand.
 The value goes onto the slate, and purchases (his stock or Void Exchange orders)
 come off it. The balance lives in the campaign sheet. Imperial Thrones exist as
-coin in the setting, but the table counts everything in TV. **Rate (set by the player, Ash on Ostrava session 9): 5 Thrones = 1 TV.**
+coin in the setting, but the table counts everything in TV. **Rate (set by the player, Ash on Ostrava session 9): 100 Thrones = 1 TV**
+(Dark Heresy scale: a lasgun ~75 Thrones, an autogun ~100, a night's lodging ~5, a
+manufactorum worker's month ~30). A brief 5 = 1 rate covered one purchase at Voss's
+stores (session 9); that purchase stands.
+
+**Coin on a body (set by the player, session 9).** When someone is searched, roll
+their purse by how they live. Valuables (gems, gold, rings) come on top.
+
+| Who | Thrones on them |
+| --- | --- |
+| Poor: hive scum, deckhand, cultist rank-and-file | d20 (1-20) |
+| Working: trooper, rating, clerk, ganger | 2d20 + 10 (12-50) |
+| Comfortable: sergeant, mate, merchant's man, pirate officer, gang boss | d6 x 50 (50-300) |
+| Rich: captain, broker, minor noble, cult leader | d6 x 500 (500-3,000; 5-30 TV) |
+| Very rich: rogue trader, noble house, a broker like Thask (strongbox or vault, not purse) | d10 x 2,000 (2,000-20,000) |
+
 
 ### The Void Exchange
 

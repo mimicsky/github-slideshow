@@ -46,7 +46,7 @@ of the *Bright Light*, berth 2-9, Ring Two, Ustrennos Station. Session 9 is told
   Efficient coils: 2 plasteel + 1 machine-core); 1 plasteel in stores.
 - **Tamsin's new kit:** the jumper's **boarders' lift pack** (worn; ~4 hops left in the
   charge), his **combat shotgun**, 1 frag, a chem-inhaler, a stolen signet ring.
-- **Coin:** **23 Thrones** (rate: 5 Thrones = 1 TV, under review by the player).
+- **Coin:** **23 Thrones** (0.23 TV; rate 100 Thrones = 1 TV from session 9 on; the plasteel buy at 5 = 1 stands).
 - **Gifts still wanted:** Sallow (drag harness, lascarbine: requisitioned), Mira (Valk
   rockets), Teo (flight jacket: requisitioned; pilot glasses), Ferro-Ashe (spare
   coupling: requisitioned; shielded data-case), Nessa (needle pistol and knives:
@@ -306,7 +306,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 
 **Specialties (set session 8, at the player's request).** Each member of the Light has a role specialty: **+2 on rolls of that kind**. Drilling the specialty as the day's training adds progress: **every 10 drill days, +1, to a max of +5**.
 
-**Training plan (Tamsin, session 9; from warp day 15).** A member who follows it for the day gets **+1.0** in that stat at day's end. A day spent on something else that takes all their time (a mission, a whole-day job) gets nothing. Tamsin also trains a second thing at +0.5.
+**Training plan (Tamsin, session 9; from warp day 15).** Each member's day earns reps by codex house rule 7 (+1.0, then +0.5, +0.4, +0.3, +0.2, +0.1): the plan's drill is usually the first rep; anything else they do that counts (codex training manual) adds the next ones. The DM tallies at day's end.
 
 | Who | Training | Stat |
 | --- | --- | --- |
