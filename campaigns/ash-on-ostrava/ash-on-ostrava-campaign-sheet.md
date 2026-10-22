@@ -379,22 +379,22 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 
 | | STR | DEX | CON | INT | WIS | CHA | State |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Kell** | 31 | 36 | 30 | 10 | 25 | 10 | Fine (sling off warp day 7). Swaps in for Varga next mission. Day 15 rep: +1.0 STR |
+| **Kell** | 31 | 36.2 | 30 | 10 | 25.2 | 10 | Fine (sling off warp day 7). Swaps in for Varga next mission. Day 15 rep: +1.0 STR. Day 16 tally: DEX +0.2, WIS +0.2 |
 | **Varga** | 25 | 39 | 25 | 10 | 21 | 5 | **Badly hurt** (day 16: shrapnel in the face at the Spindle's inner lock; left eye in doubt, known day 17), in station medicae. Warp day 6 dawn rep: DEX +1.0 (dry-fire drills with Mercy). Day 15 rep: +1.0 DEX |
-| **Dace** | 25 | 21 | 20 | 18 | 5 | 5 | Hurt (hip, session 9; walking on a cane from warp day 16), in station medicae. Day 15 rep: +1.0 INT |
-| **Sorel** (Light-bringer, tracker; tag set session 10) | 32 | 30 | 29 | 18 | 27 | 14 | Fine. Tracker; hive clearance +2. Day 14 rep: DEX +1.0 range. Day 15 rep: +1.0 WIS |
-| **Tey** (Light-bringer, grunt; tag set session 10) | 17 | 27 | 28 | 14 | 8 | 14 | Fine. Grunt; **focus found day 16: pistols (gunslinger), +0, +1 per 10 drill days to +5**. Pistol drill nightly; Tamsin wants better than 2-3 of 5 before the Light leaves or he stays behind. Flinch comes from waiting on a long trigger pull (a hair trigger beat it). **At Tamsin's side from day 16 (session 10): goes everywhere with him, into the action.** Day 14 rep: DEX +1.0 range (flinches at recoil). Day 15 rep: +1.0 DEX |
+| **Dace** | 25 | 21.4 | 20 | 18.1 | 5 | 5 | Hurt (hip, session 9; walking on a cane from warp day 16), in station medicae. Day 15 rep: +1.0 INT. Day 16 tally: DEX +0.4, INT +0.1 |
+| **Sorel** (Light-bringer, tracker; tag set session 10) | 32 | 30.1 | 29 | 18 | 27.2 | 14 | Fine. Tracker; hive clearance +2. Day 14 rep: DEX +1.0 range. Day 15 rep: +1.0 WIS. Day 16 tally: DEX +0.1, WIS +0.2 |
+| **Tey** (Light-bringer, grunt; tag set session 10) | 17 | 27.4 | 28.1 | 14 | 8 | 14 | Fine. Grunt; **focus found day 16: pistols (gunslinger), +0, +1 per 10 drill days to +5**. Pistol drill nightly; Tamsin wants better than 2-3 of 5 before the Light leaves or he stays behind. Flinch comes from waiting on a long trigger pull (a hair trigger beat it). **At Tamsin's side from day 16 (session 10): goes everywhere with him, into the action.** Day 14 rep: DEX +1.0 range (flinches at recoil). Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.4, CON +0.1 |
 | **Hollis** | 26 | 36 | 32 | 17 | 25 | 12 | Fine (stats rolled session 9). Day 15 rep: +1.0 DEX |
-| **Brenner** | 21 | 27 | 26 | 32 | 18 | 10 | **Badly hurt** (day 16: revolver round under the left arm, out in surgery), bedbound in station medicae. Day 15 rep: +1.0 INT |
-| **Isk** | 19 | 38 | 28 | 13 | 33 | 10 | Fine. Day 15 rep: +1.0 DEX |
-| **Tavi** | 19 | 33 | 23 | 27 | 17 | 17 | Fine (off his cot). Day 15 rep: +1.0 INT |
-| **Morcant** | 40 | 23 | 33 | 15 | 19 | 17 | Fine. Day 15 rep: +1.0 STR |
-| **Sallow** | 20 | 31 | 22 | 25 | 34 | 20 | Fine. Day 15 rep: +1.0 WIS |
-| **Corvane** | 26 | 36 | 31 | 21 | 19 | 22 | **Hurt** (day 16: cuts). Day 15 rep: +1.0 DEX |
-| **Nessa** | 17 | 41 | 18 | 20 | 28 | 27 | Fine. Day 15 rep: +1.0 DEX |
-| **Mira** | 14 | 41 | 20 | 24 | 30 | 15 | Fine. Day 15 rep: +1.0 DEX |
-| **Teo** | 18 | 41 | 18 | 18 | 19 | 28 | Fine. Day 15 rep: +1.0 DEX |
-| **Ferro-Ashe** | 19 | 24 | 20 | 41 | 19 | 12 | Fine |
+| **Brenner** | 21 | 27 | 26 | 32.1 | 18.1 | 10 | **Badly hurt** (day 16: revolver round under the left arm, out in surgery), bedbound in station medicae. Day 15 rep: +1.0 INT. Day 16 tally: INT +0.1, WIS +0.1 |
+| **Isk** | 19 | 38.1 | 28 | 13 | 33 | 10 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.1 |
+| **Tavi** | 19 | 33.3 | 23 | 27 | 17 | 17 | Fine (off his cot). Day 15 rep: +1.0 INT. Day 16 tally: DEX +0.3 |
+| **Morcant** | 40.2 | 23 | 33 | 15 | 19 | 17 | Fine. Day 15 rep: +1.0 STR. Day 16 tally: STR +0.2 |
+| **Sallow** | 20 | 31 | 22 | 25 | 34.4 | 20 | Fine. Day 15 rep: +1.0 WIS. Day 16 tally: WIS +0.4 |
+| **Corvane** | 26 | 36 | 31.1 | 21 | 19 | 22 | **Hurt** (day 16: cuts). Day 15 rep: +1.0 DEX. Day 16 tally: CON +0.1 |
+| **Nessa** | 17 | 41 | 18 | 20.3 | 28 | 27 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: INT +0.3 |
+| **Mira** | 14 | 41.1 | 20 | 24.3 | 30 | 15 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.1, INT +0.3 |
+| **Teo** | 18.1 | 41.1 | 18 | 18.3 | 19 | 28 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: STR +0.1, DEX +0.1, INT +0.3 |
+| **Ferro-Ashe** | 19 | 24 | 20 | 41.1 | 19 | 12 | Fine. Day 16 tally: INT +0.1 |
 
 - **Sergeant Kell** (storm trooper sergeant, 41, ex-Tempestus Scion, nine years
   with the Ordos). Tamsin's "brother"; their fist-bump handshake. Hellgun
