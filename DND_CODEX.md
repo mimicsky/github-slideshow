@@ -678,6 +678,12 @@ day's end, from the training plan and from what happened in play.
 | WIS | Coaching others, **commanding** (+0.1 per order given in play; anyone who gives orders: the player, Kell, Varga), treating the sick and wounded, tracking, standing a real watch, reading people in an interrogation, prayer and vigil; **a successful WIS roll** in play (Perception, Insight, resisting fear or the warp) |
 | CHA | Briefings and speeches, bargaining and trading, interrogation talk, leading a drill, recruiting, **a deep talk** (a real heart-to-heart, not small talk); **a successful CHA roll** in play (a bluff, a threat, a persuade); **DM's call: earned respect** (someone shows real respect for what the player said or did; marked *(respect: CHA rep)*) |
 
+- **Coaching (set by the player, Ash on Ostrava session 10).** An hour of training with
+  a coach working one-on-one (or with a small group) beside the trainee gives the trainee
+  **+0.1 extra** in that stat: **+0.2 an hour** in all. It costs both people's time: the
+  coach earns their own coaching rep (WIS +0.1 an hour) and does nothing else in that hour.
+  The coach should know the thing they're teaching (a rifle shot can coach breathing and
+  flinch for a pistol, not knife work).
 - **Books (set by the player, Ash on Ostrava session 10).** Every book has a **reading
   time** (hours), a **stat** (the one its subject trains: a shooting manual is DEX, a
   smithing or vox manual INT, an interrogation manual CHA), and a **completion bonus**.
