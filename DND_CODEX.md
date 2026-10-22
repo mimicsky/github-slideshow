@@ -683,8 +683,10 @@ day's end, from the training plan and from what happened in play.
   smithing or vox manual INT, an interrogation manual CHA), and a **completion bonus**.
   Hours spent reading count as normal training (+0.1 an hour). **Finishing the whole
   book** (all its hours, with notes or practice, not skimming) adds the completion bonus
-  to that stat: **+1.0** for an ordinary manual, **+1.5** for a rare or expert one,
-  **+2.0 or more** for an exceptional text (a Salamander forge-book). Some books also
+  to that stat **and half as much again to INT** (reading itself): ordinary manual
+  **+1.0 stat, +0.5 INT**; rare or expert **+1.5, +0.75 INT**; exceptional (a Salamander
+  forge-book) **+2.0 or more, +1.0 INT or more**. When the subject stat is INT (smithing,
+  vox, cogitators), both parts go to INT (+1.5 for an ordinary manual). Some books also
   give a **standing roll bonus** in their subject (e.g. +1 on will checks). Each reader
   gets a book's completion bonus once; rereading gives only the hourly reps. The DM sets
   each book's hours, stat and bonus when it's found; tracked on the campaign sheet.
