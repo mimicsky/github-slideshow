@@ -1246,6 +1246,17 @@ shoots at an airborne jumper this beat is **open to surprise** from the ground (
 attacks against them, and they can't react to it). Each pack's lift, charge and quirks
 are in the catalogue (kit). The **Jumper** role is in the bestiary (roles).
 
+**Swapping, recoil and attachment slots (set by the player, Ash on Ostrava session 10).**
+**Swapping:** a shot at a *different* target than your last shot in the same string takes
+**-1**. **Recoil:** every gun has a rating; each shot in a string **after the first** takes
+**-recoil**: **0** las weapons (lasguns, hellguns, laspistols, hellpistols) and stub/auto
+pistols; **1** autoguns on burst, SMGs and machine pistols, shotguns, revolvers, hand cannons;
+**2** bolt weapons, heavy stubbers, anti-materiel rifles. **Slots:** a gun takes **one
+attachment per slot**: muzzle, under-barrel, stock, optic, grip, magazine, trigger, barrel.
+No hard cap on bonuses; every attachment carries a real downside. **A gun's optic and a HUD
+eye's aim bonus don't stack** on the same shot: use the better. Attachments are in the
+catalogue (kit: pistol and gun attachments).
+
 **Gun condition and jams (set by the player, session 9).** Every gun is **Clean**,
 **Dirty** or **Neglected**. **Clean** (cleaned after its last fight, or within ~3 days):
 never jams; a natural 1 is just a miss. **Dirty** (fired in a fight and not cleaned

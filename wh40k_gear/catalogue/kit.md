@@ -340,3 +340,30 @@ a gun-link HUD eye's aim bonus on the same shot; use the better.
 **Ergo grip sleeve** (common, 0.25 TV). A flexible, ribbed plastek sleeve that slides over
 any pistol or rifle grip. Firm in wet, blood, oil or cold: **never slips from the hand**,
 and **disarm attempts against the bearer take -2**.
+
+### Foregrips (under-barrel slot)
+
+- **Ergo foregrip** (common, 1 TV): **+1 on the first shot** of a string; **recoil -1**.
+- **Heavy foregrip** (uncommon, 1.5 TV): **+2 on aimed shots**; a miss in a chain costs
+  **-2** instead of -1; **-1 more on swapping**.
+- **Handstop foregrip** (uncommon, 1.5 TV): **+2 on the first shot**; **swapping costs
+  nothing**; **-1 on aimed shots**.
+
+### Muzzles
+
+- **Standard silencer** (stub/auto; uncommon, 2 TV): quieter: heard in the next room, not
+  across the deck. **-1 on long shots.**
+- **Heavy suppressor** (stub/auto; uncommon, 3 TV): near-silent. **-2 on aimed shots.**
+- **Compensator** (uncommon, 2 TV): **recoil -2**; **+1 more to the next shot after each
+  hit** (a first-shot hit gives +3, later hits +2); **-1 on aimed shots**.
+
+### Rifle stocks (autogun, lasgun, stub rifle)
+
+- **Tac rifle stock** (uncommon, 1.5 TV): **+1 on the first shot, +1 on aimed shots, -2
+  more on swapping**.
+- **Light rifle stock** (common, 1 TV): **+2 on swapping** (a swap becomes +1); **-1 on
+  aimed shots**.
+
+### Custom barrel (stub pistols and SMGs; barrel slot)
+
+**Custom barrel** (uncommon, 1.5 TV): **+1 on aimed shots, +1 on shots past ~30 m.**

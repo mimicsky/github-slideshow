@@ -1904,6 +1904,62 @@
   "sellers": "MB"
  },
  {
+  "name": "Heavy foregrip (+2 aimed; misses -2; -1 swap)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Handstop foregrip (+2 first shot; free swaps; -1 aimed)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy suppressor (stub/auto; near-silent; -2 aimed)",
+  "tv": 3,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Compensator (recoil -2; +1 more after hits; -1 aimed)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Tac rifle stock (+1 first, +1 aimed, -2 swap)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Custom barrel, stub pistol/SMG (+1 aimed, +1 past 30 m)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Ergo foregrip (+1 first shot; recoil -1)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Light rifle stock (+2 swap; -1 aimed)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
   "name": "Extended magazine kit, las or stub (+50% shots)",
   "tv": 1.5,
   "cat": "mod",

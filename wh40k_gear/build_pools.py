@@ -160,6 +160,8 @@ add("armour","R","E",[("Sororitas power armour, damaged",50),("Rosarius (blessed
 add("mod","U","MBF",[("Reflex sight",3),("Telescopic sight",3),("Photo-visor (low-light)",2),("Magnoculars",1.5),("Bipod",0.5),("Weapon sling, padded",0.25),("Quick-draw holster",0.5),("Silencer (stub/auto)",2),("Extended magazine",1),("Bayonet lug kit",0.25),("Laser designator",3)])
 add("mod","U","MBF",[("Pressure-pin safety (hair triggers: not drop-prone while pinned)",0.5),("Pistol drum, auto/machine pistol (2x shots; -1 quick-draw)",1),("Pistol drum, stub (2x shots; -1 quick-draw)",0.75),("Las drum, pistol double-cell (2x shots; -1 quick-draw)",1.5),("Laser sight (+1 hip and snap shots within ~20 m; beam shows)",1.5),("Laser and lumen combo module",2),("Pistol reflex sight (+1 aimed pistol shots within ~30 m)",2)])
 add("mod","C","MB",[("Under-mount lumen",0.5),("Ergo grip sleeve (never slips; -2 to disarm you)",0.25)])
+add("mod","U","MBF",[("Heavy foregrip (+2 aimed; misses -2; -1 swap)",1.5),("Handstop foregrip (+2 first shot; free swaps; -1 aimed)",1.5),("Heavy suppressor (stub/auto; near-silent; -2 aimed)",3),("Compensator (recoil -2; +1 more after hits; -1 aimed)",2),("Tac rifle stock (+1 first, +1 aimed, -2 swap)",1.5),("Custom barrel, stub pistol/SMG (+1 aimed, +1 past 30 m)",1.5)])
+add("mod","C","MB",[("Ergo foregrip (+1 first shot; recoil -1)",1),("Light rifle stock (+2 swap; -1 aimed)",1)])
 add("mod","U","MBF",[("Extended magazine kit, las or stub (+50% shots)",1.5)])
 add("mod","U","MBF",[("Diamantine whetstone (any edged blade: +1 pierce for the next 2 hits; ~10 uses)",1)])
 add("mod","R","MF",[("Underslung chain-bayonet (rifle-mounted chainsword)",10)])
