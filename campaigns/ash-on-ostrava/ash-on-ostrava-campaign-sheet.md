@@ -11,8 +11,10 @@ happened, and git history keeps every old version.
 **Clean up as we go (set by the player, session 9):** during play, when something
 closes or stops mattering, delete or shorten it in the same save. Keep this sheet lean.
 
-**Where we stopped:** **end of Season Two, session 9, ~1415 warp day 16**, the galley
-of the *Bright Light*, berth 2-9, Ring Two, Ustrennos Station. Session 9 is told in
+**Where we stopped:** **session 10, 0740 warp day 17**, Tamsin waking in his cabin on the
+*Bright Light*, berth 2-9, Ring Two, Ustrennos Station. He promised Fesk (medicae orderly) to be
+at Varga's bedside at **0800** when the surgeon takes the dressing off (**roll the eye then**).
+Drill has run since 0600 on Kell's rota. Session 9 is told in
 `book-season-2.md`, Part Two (Chapters 11-27).
 
 ### Current state (start of session 10)
@@ -50,7 +52,7 @@ of the *Bright Light*, berth 2-9, Ring Two, Ustrennos Station. Session 9 is told
   charge), his **combat shotgun**, 1 frag, a chem-inhaler, a stolen signet ring.
 - **Gun condition** (codex, Gun condition and jams): every Light gun that fired at the Spindle (day 16) is **Dirty** until cleaned (las guns count one step cleaner, so Vigil, Officer and the lasguns are effectively Clean); everything else **Clean**.
 - **Faction wealth** (codex Part 8): roll each faction's wealth (d100) when the Light reaches the Mart, and again at Vhal Korrin.
-- **Coin:** **23 Thrones** (0.23 TV; rate 100 Thrones = 1 TV from session 9 on; the plasteel buy at 5 = 1 stands).
+- **Coin:** **28 Thrones** on Tamsin (day 16: paid 20 for the trigger parts, got 25 change from Marrow); the coin box gave 50 to Doradne (Joss's 40 gone) (0.23 TV; rate 100 Thrones = 1 TV from session 9 on; the plasteel buy at 5 = 1 stands).
 - **Gifts still wanted:** Sallow (drag harness, lascarbine: requisitioned), Mira (Valk
   rockets), Teo (flight jacket: requisitioned; pilot glasses), Ferro-Ashe (spare
   coupling: requisitioned; shielded data-case), Nessa (needle pistol and knives:
@@ -60,6 +62,7 @@ of the *Bright Light*, berth 2-9, Ring Two, Ustrennos Station. Session 9 is told
   from the ring-four bunks) pulled through and is recovering in station medicae; Ustrennos's
   five shops restock every 2 days.
 - **Training plan** in force (see the Light, below).
+- **Session 10 so far (day 16 afternoon):** speech to the Light ("For the Light"); plan: brief and train tomorrow, leave for the Mart when everyone's on their feet; **Tamsin will put the elimination question to Kesh** (he'd rather kill the Bloom and Thask; Kesh ordered both alive) before moving. Nessa drawing berth 31 / Low Quay from memory (contacts: Ilsabet; Dannick, Low Quay crane boss; Hobb, barkeep of the Lamp-Black; Mag Vashti's crews); Nessa called the Light family. Ferro-Ashe accepted "family"; Valk spirit sulks (10) until the flank's mended. **Valkyrie clamp jaw cracked** (Ferro 10): manual release only until the **new jaw** (bought) is fitted; **void-sealant** bought; the dented flank panel waits for Dace to stand (Ferro showed him the pattern); paint from the 12 L of deck paint. Bought: trigger group + spring set (Dace has them), Cadian machete + fitted sheath and the 2nd Accatran (given to **Brenner**), 1st Accatran (**Tavi**), 2 morphia (**Sallow**), 2 plasteel and 1 ceramite (stores; plasteel now 3, so Kell's Steady spirit blessing is affordable). Paid with 8 hellguns (30 left) and 50 Thrones. **Combat knife sealed** at the ring-one chapel by **Brother Ansel Kade** (new chapel priest): *"To save a life, sometimes you must take one."* Kade will seal **Shameholder** when it's brought to him. Brenner has his bead back (listening only after lights-down, Orderly Fesk's rule); Varga gets hers when she's awake and complaining. Brenner wants mat time and Dace's cover-and-fire drills once he's up. **Tey** at Tamsin's side; pistol focus. Kell: assessment (Sorel meets the standard, Tey not yet; "give him to the Mart"); Spindle lessons (kill zone facing the bay, chem-dogs need two shots, traps in front not on our line, the ship's timing was called by someone); wants **helm pict-capture** for the team (shops or Kesh requisition); ready to split the Light into two teams (Hollis to lead the second, Tamsin's call); 3-4 teams would need a bigger ship.
 
 ### What the Light knows about Thask
 
@@ -176,7 +179,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Rank | **Interrogator** of Inquisitor Kesh's Ordo (rosette, warp day 20, session 7). Leads the Light, his cell under Varsaine. (Interrogator-designate from session 5.) |
 | Class | Fighter 9, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | **Hurt** (warp day 16: chem-dog pellets across the carapace and shoulder at the Spindle; picked out at station medicae; mends with rest) |
-| Stats (levels 1-100) | STR **23.9** (+2), DEX **64.7** (+6), CON **23.4** (+2), INT **9.2** (+0), WIS **13.9** (+1), CHA **6.7** (+0) (after warp day 8: DEX +1.0 range with Vigil, DEX +0.5 cover drill with Dace. Warp days 9-12 in bed, no reps. Day 13: DEX +1.0 Vigil, DEX +0.5 Last Word, light range work while Hurt. Day 14: DEX +1.0 Vigil on lane three beside the trainees, WIS +0.5 coaching the trainees) |
+| Stats (levels 1-100) | STR **24.6** (+2), DEX **64.8** (+6), CON **23.5** (+2), INT **9.2** (+0), WIS **14.5** (+1), CHA **7.8** (+0) (day 16 tally, session 10: STR +0.7, DEX +0.1, CON +0.1, WIS +0.6, CHA +1.1. Before that: after warp day 8: DEX +1.0 range with Vigil, DEX +0.5 cover drill with Dace. Warp days 9-12 in bed, no reps. Day 13: DEX +1.0 Vigil, DEX +0.5 Last Word, light range work while Hurt. Day 14: DEX +1.0 Vigil on lane three beside the trainees, WIS +0.5 coaching the trainees) |
 | At the Ustrennos jump point (days 16-17, three a day) | 16: STR +1.0, DEX +0.5, CHA +0.4. 17: CON +1.0, DEX +0.9 |
 | Road to Ustrennos (warp days 10-15, three a day, rolled) | 10: STR +1.0, CON +0.5, WIS +0.4. 11: STR +1.0, WIS +0.5, INT +0.4. 12: DEX +1.0, CHA +0.9. 13: WIS +1.0, CHA +0.5, STR +0.4. 14: INT +1.0, DEX +0.5, STR +0.4. 15: DEX +1.0, WIS +0.5, CON +0.4 |
 | Warp day 9 (the Rest) | DEX +1.0 (late range practice with the Light, 2230-0030) |
