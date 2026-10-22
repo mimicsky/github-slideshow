@@ -367,3 +367,41 @@ and **disarm attempts against the bearer take -2**.
 ### Custom barrel (stub pistols and SMGs; barrel slot)
 
 **Custom barrel** (uncommon, 1.5 TV): **+1 on aimed shots, +1 on shots past ~30 m.**
+
+### More attachments (player picks, Ash on Ostrava session 10)
+
+**Optic**
+- **Telescopic sight** (uncommon, 3 TV): **+2 on long shots**; **-1 on hip/snap shots and
+  anything inside ~15 m**.
+- **Offset backup sight** (uncommon, 1 TV; fits beside a scope, no slot of its own): cancels
+  the scope's close-range penalty; **-1 on quick-draw**.
+- **Low-light optic** (uncommon, 2 TV): **no darkness penalty** through the sight; a flash
+  grenade or las glare **blinds the shooter for 1 beat**.
+
+**Trigger**
+- **Match trigger** (uncommon, 1 TV): **+1 on aimed shots**; **-1 on hip/snap shots**.
+- **Hair trigger** (uncommon, 1 TV): **+1 on the first shot**; **drop-prone** unless fitted
+  with a pressure-pin safety.
+- **Burst limiter** (common, 0.5 TV): **recoil -1**; strings capped at **3 shots**.
+
+**Under-barrel**
+- **Bipod** (common, 0.5 TV): **+2 on aimed shots while braced or prone**; useless on the
+  move; a beat to set up.
+- **Underslung grenade launcher** (rare, 5 TV): one grenade shot (frag, flash, spec flash)
+  without swapping weapons; **-1 on aimed shots**; a beat to reload.
+- **Underslung shotgun ("masterkey")** (uncommon, 3 TV): one or two shotgun blasts for doors
+  and close work; **-1 on aimed shots**.
+
+**Stock**
+- **Folding stock** (common, 1 TV): **+1 on quick-draw**; fits a holster or chest hang;
+  **-1 on aimed shots**.
+
+**Muzzle**
+- **Flash hider** (common, 0.5 TV): **shots don't give away the shooter's position in the
+  dark**; no noise reduction.
+
+**Magazine**
+- **Extended magazine** (common, 1 TV): **+50% shots**; no draw penalty.
+
+**Grip**
+- **Weighted grip** (common, 0.5 TV): **recoil -1**; **-1 on quick-draw**.

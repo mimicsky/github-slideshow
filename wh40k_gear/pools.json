@@ -1771,7 +1771,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Telescopic sight",
+  "name": "Telescopic sight (+2 long shots; -1 hip/snap and inside 15 m)",
   "tv": 3,
   "cat": "mod",
   "rarity": "U",
@@ -1792,7 +1792,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Bipod",
+  "name": "Bipod (+2 aimed braced or prone)",
   "tv": 0.5,
   "cat": "mod",
   "rarity": "U",
@@ -1820,7 +1820,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Extended magazine",
+  "name": "Extended magazine (+50% shots)",
   "tv": 1,
   "cat": "mod",
   "rarity": "U",
@@ -1944,6 +1944,76 @@
   "cat": "mod",
   "rarity": "U",
   "sellers": "MBF"
+ },
+ {
+  "name": "Offset backup sight (cancels scope close penalty; -1 quick-draw)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Low-light optic (no darkness penalty; flash blinds 1 beat)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Match trigger (+1 aimed; -1 hip/snap)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Hair trigger (+1 first shot; drop-prone unless pinned)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Underslung shotgun, masterkey (1-2 blasts; -1 aimed)",
+  "tv": 3,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Underslung grenade launcher (one grenade shot; -1 aimed)",
+  "tv": 5,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Burst limiter (recoil -1; strings max 3)",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Folding stock (+1 quick-draw; -1 aimed)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Flash hider (no muzzle flash in the dark)",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Weighted grip (recoil -1; -1 quick-draw)",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
  },
  {
   "name": "Ergo foregrip (+1 first shot; recoil -1)",
