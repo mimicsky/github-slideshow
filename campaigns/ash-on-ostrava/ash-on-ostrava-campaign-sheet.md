@@ -125,7 +125,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 - **In fights, everyone acts every beat.** Allies and enemies each take their
   own action with their own open roll, every beat. The pause-after-the-player
   rule is about story moves, not combat turns.
-- **Matches and contests go round by round** (shootouts, bouts, races): roll one round, show it, stop for the player (who may coach or react), then the next. Never run a whole match in one go. Set by the player, session 10.
+- **Matches and contests go round by round** (shootouts, bouts, races): roll one round, show it, stop for the player (who may coach or react), then the next. **In mat bouts a "round" is a touch:** play the blocks and parries straight through and stop only when a touch lands. Mat bouts are Dace's blunt practice swords only (no shields, no specialties): d20 + STR each. Never run a whole match in one go. Set by the player, session 10.
 - **Speech in quotes** is the character talking aloud; everything else is action.
 - **Name + role, every time.** Every named NPC, place or item gets its role in
   brackets, every mention: Hespa-Vor (enginseer), Velk (ice world).
