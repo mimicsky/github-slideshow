@@ -11,11 +11,9 @@ happened, and git history keeps every old version.
 **Clean up as we go (set by the player, session 9):** during play, when something
 closes or stops mattering, delete or shorten it in the same save. Keep this sheet lean.
 
-**Where we stopped:** **session 10, 0740 warp day 17**, Tamsin waking in his cabin on the
-*Bright Light*, berth 2-9, Ring Two, Ustrennos Station. He promised Fesk (medicae orderly) to be
-at Varga's bedside at **0800** when the surgeon takes the dressing off (**roll the eye then**).
-Drill has run since 0600 on Kell's rota. Session 9 is told in
-`book-season-2.md`, Part Two (Chapters 11-27).
+**Where we stopped:** **session 10, ~2200 warp day 17**, Tamsin going to bed in his cabin on the
+*Bright Light*, berth 2-9, Ring Two, Ustrennos Station. Day 17 tallied. **Next:** day 18 morning;
+Tamsin sends the letter to Kesh (drafted, below); Varga coaches Tey on the range; shops restock day 18.
 
 ### Current state (start of session 10)
 
@@ -24,10 +22,9 @@ Drill has run since 0600 on Kell's rota. Session 9 is told in
   Kesh's hold. No open war in a tithe port's streets; its governor isn't the Ordo's.
   **Send word to Kesh before the Light moves.** Clock: the Harvest Lamps festival, the
   Bloom's twelfth naming-day, **~warp day 55**.
-- **Health:** Tamsin **Hurt** (pellet bruises across the shoulder; mends with rest).
+- **Health:** Tamsin **Hurt** (pellet bruises gone into the muscle from range work, day 17, Sallow 8: **no long gun off the right shoulder through day 18**; mends slower).
   **Brenner Badly hurt** (revolver round under the left arm, out in surgery; bedbound
-  some days, station medicae). **Varga Badly hurt** (shrapnel in the face; **left eye
-  in doubt, the surgeon knows on day 17: roll it then**). **Dace Hurt** (hip; walking
+  some days, station medicae). **Varga: left eye lost** (day 17, rolled 4; removed in surgery, clean): **-2 on sight Perception and aimed shots** until an augmetic is fitted; socket heals 1-2 weeks; **Tamsin promised her a shooting eye or better** (catalogue: shooting eye 30 TV, Mechanicus/Free Traders). Back aboard in the ship's medicae; **a week of no shooting, no flying, no exertion** (she promised); Mercy locked in the armoury by Sallow. Coaches Tey from day 18. **Dace Hurt** (hip; walking
   on a cane, back aboard). **Corvane Hurt** (cuts). Everyone else Fine.
 - **The Spindle trade (day 16):** Orne dead. The *Sable Margin* (now under
   Quartermaster **Brask**) turned its guns away and left; three of his men were left
@@ -62,6 +59,7 @@ Drill has run since 0600 on Kell's rota. Session 9 is told in
   from the ring-four bunks) pulled through and is recovering in station medicae; Ustrennos's
   five shops restock every 2 days.
 - **Training plan** in force (see the Light, below).
+- **Day 17 (session 10):** Varga's eye lost (above); Brenner 3 more days in station medicae (clipped lung), reading the vox handbook and cogitator primer. Tey drilled 3 h on Merrick's watch range (ring one) with Tamsin coaching; **Osk** (Merrick's watch, the watch's shooting medal two years running) bet he beats Tey, pistols, ten frames on random, before the Light leaves: loser buys the winner's crew a round; **Tamsin offered Osk a Light Trainee place if he wins** (Osk 13: interested, must clear it with Merrick). Six books from the Fleet Archive (see Books). Isk earned the marksman's primer (4 of 5). Nessa given the job of **planning the Mart approach**. Corvane calls Tamsin "boss"; showed shotlas-and-sword drill; **spec flash grenade** designed (catalogue). Tamsin told the whole Light on the bead: everyone on it is family. Valkyrie's **new clamp jaw fitted** by Ferro-Ashe (rite done evening day 17). **Wishlist adds:** Sallow a medic's chest rig (then a bigger bag); spec flashes (Corvane, breach teams); Tavi a Munitorum sapper's manual and anything on melta work; helm pict-capture (Kell). **Letter to Kesh drafted (send day 18):** Spindle report; asks her to reconsider: Thask still taken alive if possible, but **leave to kill the Bloom if she proves to be a thing, not a girl (mutant, vessel), or if taking her alive would put the Light at serious risk**; asks what Kesh knows of her; the Light won't move until Kesh answers.
 - **Session 10 so far (day 16 afternoon):** speech to the Light ("For the Light"); plan: brief and train tomorrow, leave for the Mart when everyone's on their feet; **Tamsin will put the elimination question to Kesh** (he'd rather kill the Bloom and Thask; Kesh ordered both alive) before moving. Nessa drawing berth 31 / Low Quay from memory (contacts: Ilsabet; Dannick, Low Quay crane boss; Hobb, barkeep of the Lamp-Black; Mag Vashti's crews); Nessa called the Light family. Ferro-Ashe accepted "family"; Valk spirit sulks (10) until the flank's mended. **Valkyrie clamp jaw cracked** (Ferro 10): manual release only until the **new jaw** (bought) is fitted; **void-sealant** bought; the dented flank panel waits for Dace to stand (Ferro showed him the pattern); paint from the 12 L of deck paint. Bought: trigger group + spring set (Dace has them), Cadian machete + fitted sheath and the 2nd Accatran (given to **Brenner**), 1st Accatran (**Tavi**), 2 morphia (**Sallow**), 2 plasteel and 1 ceramite (stores; plasteel now 3, so Kell's Steady spirit blessing is affordable). Paid with 8 hellguns (30 left) and 50 Thrones. **Combat knife sealed** at the ring-one chapel by **Brother Ansel Kade** (new chapel priest): *"To save a life, sometimes you must take one."* Kade will seal **Shameholder** when it's brought to him. Brenner has his bead back (listening only after lights-down, Orderly Fesk's rule); Varga gets hers when she's awake and complaining. Brenner wants mat time and Dace's cover-and-fire drills once he's up. **Tey** at Tamsin's side; pistol focus. Kell: assessment (Sorel meets the standard, Tey not yet; "give him to the Mart"); Spindle lessons (kill zone facing the bay, chem-dogs need two shots, traps in front not on our line, the ship's timing was called by someone); wants **helm pict-capture** for the team (shops or Kesh requisition); ready to split the Light into two teams (Hollis to lead the second, Tamsin's call); 3-4 teams would need a bigger ship.
 
 ### What the Light knows about Thask
@@ -179,7 +177,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Rank | **Interrogator** of Inquisitor Kesh's Ordo (rosette, warp day 20, session 7). Leads the Light, his cell under Varsaine. (Interrogator-designate from session 5.) |
 | Class | Fighter 9, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | **Hurt** (warp day 16: chem-dog pellets across the carapace and shoulder at the Spindle; picked out at station medicae; mends with rest) |
-| Stats (levels 1-100) | STR **24.6** (+2), DEX **64.8** (+6), CON **23.5** (+2), INT **9.2** (+0), WIS **14.5** (+1), CHA **7.8** (+0) (day 16 tally, session 10: STR +0.7, DEX +0.1, CON +0.1, WIS +0.6, CHA +1.1. Before that: after warp day 8: DEX +1.0 range with Vigil, DEX +0.5 cover drill with Dace. Warp days 9-12 in bed, no reps. Day 13: DEX +1.0 Vigil, DEX +0.5 Last Word, light range work while Hurt. Day 14: DEX +1.0 Vigil on lane three beside the trainees, WIS +0.5 coaching the trainees) |
+| Stats (levels 1-100) | STR **24.6** (+2), DEX **64.8** (+6), CON **23.5** (+2), INT **9.4** (+0), WIS **14.9** (+1), CHA **8.3** (+0) (day 17 tally: INT +0.2, WIS +0.4, CHA +0.5. day 16 tally, session 10: STR +0.7, DEX +0.1, CON +0.1, WIS +0.6, CHA +1.1. Before that: after warp day 8: DEX +1.0 range with Vigil, DEX +0.5 cover drill with Dace. Warp days 9-12 in bed, no reps. Day 13: DEX +1.0 Vigil, DEX +0.5 Last Word, light range work while Hurt. Day 14: DEX +1.0 Vigil on lane three beside the trainees, WIS +0.5 coaching the trainees) |
 | At the Ustrennos jump point (days 16-17, three a day) | 16: STR +1.0, DEX +0.5, CHA +0.4. 17: CON +1.0, DEX +0.9 |
 | Road to Ustrennos (warp days 10-15, three a day, rolled) | 10: STR +1.0, CON +0.5, WIS +0.4. 11: STR +1.0, WIS +0.5, INT +0.4. 12: DEX +1.0, CHA +0.9. 13: WIS +1.0, CHA +0.5, STR +0.4. 14: INT +1.0, DEX +0.5, STR +0.4. 15: DEX +1.0, WIS +0.5, CON +0.4 |
 | Warp day 9 (the Rest) | DEX +1.0 (late range practice with the Light, 2230-0030) |
@@ -299,12 +297,12 @@ Library books signed out from the **Ustrennos Fleet Archive** (ring one) under t
 | Book | Reader | Stat | Hours | Done | On finishing |
 | --- | --- | --- | --- | --- | --- |
 | *Questioning of Mutineers and Prisoners* (Navy provost's manual) | Tamsin | CHA | 6 | 2 | +1.0 CHA, +0.5 INT, **+1 on will checks** |
-| *Tactica Armsmen: Pistol and Carbine at Close Quarters* | Tey | DEX | 8 | ~1 | +1.0 DEX, +0.5 INT |
-| *The Munitorum Marksman's Primer* | Isk (then Varga) | DEX | 10 | 0 | +1.0 DEX, +0.5 INT |
+| *Tactica Armsmen: Pistol and Carbine at Close Quarters* | Tey | DEX | 8 | ~3 | +1.0 DEX, +0.5 INT |
+| *The Munitorum Marksman's Primer* | Isk (then Varga) | DEX | 10 | 3 | +1.0 DEX, +0.5 INT |
 | *Hull Plate Repair: Cold-Beating and Sealant Rites* | Dace | INT | 6 | 0 | +1.5 INT, +1 on hull and plate repair |
-| *Navy vox-operator's handbook* | Brenner | INT | 8 | 0 | +1.5 INT |
+| *Navy vox-operator's handbook* | Brenner | INT | 8 | 3 | +1.5 INT |
 | *Cogitator primer* | Brenner | INT | 6 | 0 | +1.5 INT |
-| Ottrick's three Munitorum gunsmith manuals (the Light's own) | Dace | INT | 8 each | ~12 (days 14-15): manual 1 done, manual 2 at 4 | +1.5 INT each (manual 1 applied); +1 on gun-crafting (already in effect) |
+| Ottrick's three Munitorum gunsmith manuals (the Light's own) | Dace | INT | 8 each | ~12 (days 14-15): manual 1 done, manual 2 at 5 | +1.5 INT each (manual 1 applied); +1 on gun-crafting (already in effect) |
 
 ### Trade and debts
 
@@ -393,21 +391,21 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 
 | | STR | DEX | CON | INT | WIS | CHA | State |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Kell** | 31 | 36.2 | 30 | 10 | 25.2 | 10 | Fine (sling off warp day 7). Swaps in for Varga next mission. Day 15 rep: +1.0 STR. Day 16 tally: DEX +0.2, WIS +0.2 |
-| **Varga** | 25 | 39 | 25 | 10 | 21 | 5 | **Badly hurt** (day 16: shrapnel in the face at the Spindle's inner lock; left eye in doubt, known day 17), in station medicae. Warp day 6 dawn rep: DEX +1.0 (dry-fire drills with Mercy). Day 15 rep: +1.0 DEX |
-| **Dace** | 25 | 21.4 | 20 | 19.6 | 5 | 5 | Hurt (hip, session 9; walking on a cane from warp day 16), in station medicae. Day 15 rep: +1.0 INT. Day 16 tally: DEX +0.4, INT +0.1 |
-| **Sorel** (Light Trainee, tracker; tag set session 10) | 32 | 30.1 | 29 | 18 | 27.2 | 14 | Fine. Tracker; hive clearance +2. Day 14 rep: DEX +1.0 range. Day 15 rep: +1.0 WIS. Day 16 tally: DEX +0.1, WIS +0.2 |
-| **Tey** (Light Trainee, grunt; tag set session 10) | 17 | 27.4 | 28.1 | 14 | 8 | 14 | Fine. Grunt; **focus found day 16: pistols (gunslinger), +0, +1 per 10 drill days to +5**. Pistol drill nightly; Tamsin wants better than 2-3 of 5 before the Light leaves or he stays behind. Flinch comes from waiting on a long trigger pull (a hair trigger beat it). **At Tamsin's side from day 16 (session 10): goes everywhere with him, into the action.** Day 14 rep: DEX +1.0 range (flinches at recoil). Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.4, CON +0.1 |
-| **Hollis** | 26 | 36 | 32 | 17 | 25 | 12 | Fine (stats rolled session 9). Day 15 rep: +1.0 DEX |
-| **Brenner** | 21 | 27 | 26 | 32.1 | 18.1 | 10 | **Badly hurt** (day 16: revolver round under the left arm, out in surgery), bedbound in station medicae. Day 15 rep: +1.0 INT. Day 16 tally: INT +0.1, WIS +0.1 |
-| **Isk** | 19 | 38.1 | 28 | 13 | 33 | 10 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.1 |
-| **Tavi** | 19 | 33.3 | 23 | 27 | 17 | 17 | Fine (off his cot). Day 15 rep: +1.0 INT. Day 16 tally: DEX +0.3 |
-| **Morcant** | 40.2 | 23 | 33 | 15 | 19 | 17 | Fine. Day 15 rep: +1.0 STR. Day 16 tally: STR +0.2 |
-| **Sallow** | 20 | 31 | 22 | 25 | 34.4 | 20 | Fine. Day 15 rep: +1.0 WIS. Day 16 tally: WIS +0.4 |
-| **Corvane** | 26 | 36 | 31.1 | 21 | 19 | 22 | **Hurt** (day 16: cuts). Day 15 rep: +1.0 DEX. Day 16 tally: CON +0.1 |
-| **Nessa** | 17 | 41 | 18 | 20.3 | 28 | 27 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: INT +0.3 |
-| **Mira** | 14 | 41.1 | 20 | 24.3 | 30 | 15 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.1, INT +0.3 |
-| **Teo** | 18.1 | 41.1 | 18 | 18.3 | 19 | 28 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: STR +0.1, DEX +0.1, INT +0.3 |
+| **Kell** | 31.6 | 36.2 | 30 | 10 | 25.2 | 10 | Fine (sling off warp day 7). Swaps in for Varga next mission. Day 15 rep: +1.0 STR. Day 16 tally: DEX +0.2, WIS +0.2. Day 17 tally: STR +0.6 |
+| **Varga** | 25 | 39 | 25 | 10 | 21 | 5 | **Hurt, left eye lost** (day 17; -2 sight Perception and aimed shots until an augmetic); aboard, ship's medicae, a week off shooting. Warp day 6 dawn rep: DEX +1.0 (dry-fire drills with Mercy). Day 15 rep: +1.0 DEX |
+| **Dace** | 25 | 22 | 20 | 19.7 | 5 | 5 | Hurt (hip, session 9; walking on a cane from warp day 16), in station medicae. Day 15 rep: +1.0 INT. Day 16 tally: DEX +0.4, INT +0.1. Day 17 tally: DEX +0.6, INT +0.1 |
+| **Sorel** (Light Trainee, tracker; tag set session 10) | 32.6 | 30.1 | 29 | 18 | 27.2 | 14 | Fine. Tracker; hive clearance +2. Day 14 rep: DEX +1.0 range. Day 15 rep: +1.0 WIS. Day 16 tally: DEX +0.1, WIS +0.2. Day 17 tally: STR +0.6 |
+| **Tey** (Light Trainee, grunt; tag set session 10) | 17 | 28.4 | 28.1 | 14.1 | 8 | 14 | Fine. Grunt; **focus found day 16: pistols (gunslinger), +0, +1 per 10 drill days to +5**. Pistol drill nightly; Tamsin wants better than 2-3 of 5 before the Light leaves or he stays behind. Flinch comes from waiting on a long trigger pull (a hair trigger beat it). **At Tamsin's side from day 16 (session 10): goes everywhere with him, into the action.** Day 14 rep: DEX +1.0 range (flinches at recoil). Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.4, CON +0.1. Day 17 tally: DEX +1.0, INT +0.1 |
+| **Hollis** | 26.6 | 36 | 32 | 17 | 25 | 12 | Fine (stats rolled session 9). Day 15 rep: +1.0 DEX. Day 17 tally: STR +0.6 |
+| **Brenner** | 21 | 27 | 26 | 32.4 | 18.1 | 10 | **Badly hurt** (day 16: revolver round under the left arm, out in surgery), bedbound in station medicae. Day 15 rep: +1.0 INT. Day 16 tally: INT +0.1, WIS +0.1. Day 17 tally: INT +0.3 |
+| **Isk** | 19 | 38.7 | 28 | 13 | 33 | 10 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.1. Day 17 tally: DEX +0.6 |
+| **Tavi** | 19 | 33.9 | 23 | 27 | 17 | 17 | Fine (off his cot). Day 15 rep: +1.0 INT. Day 16 tally: DEX +0.3. Day 17 tally: DEX +0.6 |
+| **Morcant** | 40.8 | 23 | 33 | 15 | 19 | 17 | Fine. Day 15 rep: +1.0 STR. Day 16 tally: STR +0.2. Day 17 tally: STR +0.6 |
+| **Sallow** | 20 | 31 | 22 | 25 | 34.7 | 20 | Fine. Day 15 rep: +1.0 WIS. Day 16 tally: WIS +0.4. Day 17 tally: WIS +0.3 |
+| **Corvane** | 26 | 36.4 | 31.1 | 21 | 19 | 22 | **Hurt** (day 16: cuts). Day 15 rep: +1.0 DEX. Day 16 tally: CON +0.1. Day 17 tally: DEX +0.4 |
+| **Nessa** | 17 | 41 | 18 | 20.9 | 28 | 27 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: INT +0.3. Day 17 tally: INT +0.6 |
+| **Mira** | 14 | 41.1 | 20 | 24.9 | 30 | 15 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.1, INT +0.3. Day 17 tally: INT +0.6 |
+| **Teo** | 18.1 | 41.1 | 18 | 18.9 | 19 | 28 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: STR +0.1, DEX +0.1, INT +0.3. Day 17 tally: INT +0.6 |
 | **Ferro-Ashe** | 19 | 24 | 20 | 41.1 | 19 | 12 | Fine. Day 16 tally: INT +0.1 |
 
 - **Sergeant Kell** (storm trooper sergeant, 41, ex-Tempestus Scion, nine years
