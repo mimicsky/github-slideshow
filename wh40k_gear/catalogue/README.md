@@ -83,6 +83,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Web grenade (Arbites pattern)](explosives.md#web-grenade-arbites-pattern)
 - [Vox-jammer grenade](explosives.md#vox-jammer-grenade)
 - [Blessed incense grenade (Ecclesiarchy)](explosives.md#blessed-incense-grenade-ecclesiarchy)
+- [Spec flash grenade](explosives.md#spec-flash-grenade)
 
 ## [Melee weapons](melee.md)
 

@@ -92,3 +92,19 @@ Ecclesiarchy; a priest or the Light's chaplain can bless one). Thick, sweet holy
 warp-tainted inside: -2 on all rolls, and they burn (drop a step each beat they stay).**
 **Allies inside: +2 against fear and the warp.** **Rogue psykers inside: +1 on their
 Perils trigger.** Ordinary people just cough.
+
+## Spec flash grenade
+
+**Spec flash grenade** (player design, Ash on Ostrava session 10; rare, 3 TV; Munitorum
+(Scion and boarding issue), Mechanicus, Free Traders). An **impact-fused** flash grenade:
+it bursts on contact (can't be dodged or thrown back) into a central white flash and a
+spray of **mini flares** that scatter and burn across a room (~8 m). **Everyone in the
+room** is **blinded and deafened for 1 beat**: **-3 on shots**, **can't block or parry**
+(house rule 5), and can't hear orders or vox. **Anyone looking straight at it when it
+bursts** (facing the door or the thrower; the DM calls it, or d20 per enemy, 1-10 looking)
+gets it **twice as bad: 2 beats, -6 on shots**. The flares keep burning a beat after: no
+darkness in the room, and anyone in the doorway is lit up. **Counters:** flash-proof gear
+(Commissar eye) ignores it; polarised visors and void-masks cut it one step (looking-at-it
+becomes the normal effect; normal becomes -1 for 1 beat). **The thrower's side** must be
+outside the room or looking away, or it takes them too. A **natural 1 on the throw** bursts
+it at the thrower's feet.

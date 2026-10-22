@@ -2415,6 +2415,13 @@
   "sellers": "AF"
  },
  {
+  "name": "Spec flash grenade (impact; room ~8 m blinded and deafened 1 beat: -3 shots, no block or parry; anyone looking at it 2 beats, -6)",
+  "tv": 3,
+  "cat": "explosive",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
   "name": "Web grenade, Arbites pattern (3 m; webbed: no moving, -2; harmless)",
   "tv": 2,
   "cat": "explosive",
