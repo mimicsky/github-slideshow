@@ -292,6 +292,20 @@ Keep the frame, barrel and cylinder (cleaned; the barrel re-threaded straight). 
 - **Hollis:** a full carapace set.
 - **Corvane:** the **shotlas**.
 
+### Books (codex house rule 7, Books; set session 10)
+
+Library books signed out from the **Ustrennos Fleet Archive** (ring one) under the Ordo's name: **return before departure.**
+
+| Book | Reader | Stat | Hours | Done | On finishing |
+| --- | --- | --- | --- | --- | --- |
+| *Questioning of Mutineers and Prisoners* (Navy provost's manual) | Tamsin | CHA | 6 | 2 | +1.0 CHA, **+1 on will checks** |
+| *Tactica Armsmen: Pistol and Carbine at Close Quarters* | Tey | DEX | 8 | ~1 | +1.0 DEX |
+| *The Munitorum Marksman's Primer* | Isk (then Varga) | DEX | 10 | 0 | +1.0 DEX |
+| *Hull Plate Repair: Cold-Beating and Sealant Rites* | Dace | INT | 6 | 0 | +1.0 INT, +1 on hull and plate repair |
+| *Navy vox-operator's handbook* | Brenner | INT | 8 | 0 | +1.0 INT |
+| *Cogitator primer* | Brenner | INT | 6 | 0 | +1.0 INT |
+| Ottrick's three Munitorum gunsmith manuals (the Light's own) | Dace | INT | 8 each | ~12 (days 14-15): manual 1 done, manual 2 at 4 | +1.0 INT each (manual 1 applied); +1 on gun-crafting (already in effect) |
+
 ### Trade and debts
 
 - **Ottrick's slate (the Light's account): 0.75 TV in credit** (warp day 9). Sell container goods by word; his ratings fetch them.
@@ -381,7 +395,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Kell** | 31 | 36.2 | 30 | 10 | 25.2 | 10 | Fine (sling off warp day 7). Swaps in for Varga next mission. Day 15 rep: +1.0 STR. Day 16 tally: DEX +0.2, WIS +0.2 |
 | **Varga** | 25 | 39 | 25 | 10 | 21 | 5 | **Badly hurt** (day 16: shrapnel in the face at the Spindle's inner lock; left eye in doubt, known day 17), in station medicae. Warp day 6 dawn rep: DEX +1.0 (dry-fire drills with Mercy). Day 15 rep: +1.0 DEX |
-| **Dace** | 25 | 21.4 | 20 | 18.1 | 5 | 5 | Hurt (hip, session 9; walking on a cane from warp day 16), in station medicae. Day 15 rep: +1.0 INT. Day 16 tally: DEX +0.4, INT +0.1 |
+| **Dace** | 25 | 21.4 | 20 | 19.1 | 5 | 5 | Hurt (hip, session 9; walking on a cane from warp day 16), in station medicae. Day 15 rep: +1.0 INT. Day 16 tally: DEX +0.4, INT +0.1 |
 | **Sorel** (Light Trainee, tracker; tag set session 10) | 32 | 30.1 | 29 | 18 | 27.2 | 14 | Fine. Tracker; hive clearance +2. Day 14 rep: DEX +1.0 range. Day 15 rep: +1.0 WIS. Day 16 tally: DEX +0.1, WIS +0.2 |
 | **Tey** (Light Trainee, grunt; tag set session 10) | 17 | 27.4 | 28.1 | 14 | 8 | 14 | Fine. Grunt; **focus found day 16: pistols (gunslinger), +0, +1 per 10 drill days to +5**. Pistol drill nightly; Tamsin wants better than 2-3 of 5 before the Light leaves or he stays behind. Flinch comes from waiting on a long trigger pull (a hair trigger beat it). **At Tamsin's side from day 16 (session 10): goes everywhere with him, into the action.** Day 14 rep: DEX +1.0 range (flinches at recoil). Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.4, CON +0.1 |
 | **Hollis** | 26 | 36 | 32 | 17 | 25 | 12 | Fine (stats rolled session 9). Day 15 rep: +1.0 DEX |

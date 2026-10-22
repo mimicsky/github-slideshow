@@ -678,6 +678,16 @@ day's end, from the training plan and from what happened in play.
 | WIS | Coaching others, **commanding** (+0.1 per order given in play; anyone who gives orders: the player, Kell, Varga), treating the sick and wounded, tracking, standing a real watch, reading people in an interrogation, prayer and vigil; **a successful WIS roll** in play (Perception, Insight, resisting fear or the warp) |
 | CHA | Briefings and speeches, bargaining and trading, interrogation talk, leading a drill, recruiting, **a deep talk** (a real heart-to-heart, not small talk); **a successful CHA roll** in play (a bluff, a threat, a persuade); **DM's call: earned respect** (someone shows real respect for what the player said or did; marked *(respect: CHA rep)*) |
 
+- **Books (set by the player, Ash on Ostrava session 10).** Every book has a **reading
+  time** (hours), a **stat** (the one its subject trains: a shooting manual is DEX, a
+  smithing or vox manual INT, an interrogation manual CHA), and a **completion bonus**.
+  Hours spent reading count as normal training (+0.1 an hour). **Finishing the whole
+  book** (all its hours, with notes or practice, not skimming) adds the completion bonus
+  to that stat: **+1.0** for an ordinary manual, **+1.5** for a rare or expert one,
+  **+2.0 or more** for an exceptional text (a Salamander forge-book). Some books also
+  give a **standing roll bonus** in their subject (e.g. +1 on will checks). Each reader
+  gets a book's completion bonus once; rereading gives only the hourly reps. The DM sets
+  each book's hours, stat and bonus when it's found; tracked on the campaign sheet.
 - **Kills count:** +0.1 per kill in the stat it used: a melee kill (blade, axe,
   knife) is STR, a shot or thrown kill (gun, grenade) is DEX.
 - **Hours are hours of real work:** a mission day counts what they actually did in
