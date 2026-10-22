@@ -320,6 +320,11 @@ Library books signed out from the **Ustrennos Fleet Archive** (ring one) under t
 | *Hull Plate Repair: Cold-Beating and Sealant Rites* | Dace | INT | 6 | 0 | +1.5 INT, +1 on hull and plate repair |
 | *Navy vox-operator's handbook* | Brenner | INT | 8 | 7 | +1.5 INT |
 | *Cogitator primer* | Brenner | INT | 6 | 0 | +1.5 INT |
+| *Navy vox-operator's handbook* (returned day 19) | Brenner | INT | 8 | **8: done day 18 night** | **+1.5 INT applied** |
+| *The Combat Engineer's Compendium* (**rare**; Sgt. A. Morrow's margin notes, 12th Field Engineers) | Tavi | INT | 12 | 0 | +2.25 INT, **+1 on demolitions rolls** |
+| *Notes on Thermal Charges* | Tavi | INT | 4 | 0 | +1.5 INT, +1 placing melta/thermal charges |
+| *Armsmen's Cutlass and Boarding Blade Drill* | (unassigned) | STR | 4 | 0 | +1.0 STR, +0.5 INT |
+| *Fire and Suppression: Heavy Weapons Teams* | Morcant | STR | 8 | 0 | +1.0 STR, +0.5 INT |
 | Ottrick's three Munitorum gunsmith manuals (the Light's own) | Dace | INT | 8 each | ~12 (days 14-15): manual 1 done, manual 2 at 5 | +1.5 INT each (manual 1 applied); +1 on gun-crafting (already in effect) |
 
 ### Trade and debts
