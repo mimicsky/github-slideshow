@@ -301,3 +301,42 @@ wearer's view live, **only if the two are linked** (paired by a tech-adept, encr
 range ~200 m). Unlinked eyes and outsiders can't see it. A **vox-jammer** or heavy
 interference cuts the live feed (the spool keeps recording). A captured spool can be
 played by anyone who holds it.
+
+## Pistol and gun attachments (player designs, Ash on Ostrava session 10)
+
+A smith (Dace, or Ferro-Ashe) fits any of these in an hour or two at the bench.
+
+### Pressure-pin safety (hair triggers)
+
+**Pressure-pin safety** (uncommon, 0.5 TV). A spring pin through the trigger face that
+locks a hair trigger until the finger presses straight back on it, firmly. Pinned, the gun
+is **not drop-prone**. Once pressed out, the trigger **stays live** (drop-prone again) until
+the bearer snaps the pin back in (free, between beats). The hair trigger's feel is kept.
+
+### Pistol drums
+
+**Pistol drums** (uncommon; auto-pistol / machine pistol drum 1 TV, stub drum 0.75 TV, las
+drum (a double-cell pistol pack) 1.5 TV). **Twice the shots before a reload** (a Hornet's 40
+becomes 80). **Bulky:** won't fit a quick-draw holster (a drum gun goes in a belt or chest
+hang) and **-1 on quick-draws**. Heat and jam rules still apply (a Hornet still jams from
+its 13th straight round unless its bolt is fixed).
+
+### Laser sight, under-mount lumen, or both
+
+**Laser sight** (uncommon, 1.5 TV): a red dot where the gun points. **+1 on hip shots and
+snap shots within ~20 m.** **Tell:** in smoke or dark the beam shows, and a sharp-eyed enemy
+sees the dot on him or the line back to you. **Under-mount lumen** (common, 0.5 TV): lights
+the target: **no darkness penalty on what's in the beam**, but you're lit up too. **Combo
+module** (uncommon, 2 TV): both in one housing; switch either on alone.
+
+### Pistol reflex sight
+
+**Pistol reflex sight** (uncommon, 2 TV). A small glass window with a glowing dot. **+1 on
+aimed pistol shots within ~30 m** (not hip shots: that's the laser's job). Doesn't stack with
+a gun-link HUD eye's aim bonus on the same shot; use the better.
+
+### Ergo grip sleeve
+
+**Ergo grip sleeve** (common, 0.25 TV). A flexible, ribbed plastek sleeve that slides over
+any pistol or rifle grip. Firm in wet, blood, oil or cold: **never slips from the hand**,
+and **disarm attempts against the bearer take -2**.

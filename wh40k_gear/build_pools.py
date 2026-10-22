@@ -158,6 +158,8 @@ add("gear","C","MBF",[("Mag belt / bandolier (+4 packs or mags ready)",0.5),("Me
 add("armour","R","E",[("Sororitas power armour, damaged",50),("Rosarius (blessed field, small)",30)])
 # --- Optics / sights / mods ---
 add("mod","U","MBF",[("Reflex sight",3),("Telescopic sight",3),("Photo-visor (low-light)",2),("Magnoculars",1.5),("Bipod",0.5),("Weapon sling, padded",0.25),("Quick-draw holster",0.5),("Silencer (stub/auto)",2),("Extended magazine",1),("Bayonet lug kit",0.25),("Laser designator",3)])
+add("mod","U","MBF",[("Pressure-pin safety (hair triggers: not drop-prone while pinned)",0.5),("Pistol drum, auto/machine pistol (2x shots; -1 quick-draw)",1),("Pistol drum, stub (2x shots; -1 quick-draw)",0.75),("Las drum, pistol double-cell (2x shots; -1 quick-draw)",1.5),("Laser sight (+1 hip and snap shots within ~20 m; beam shows)",1.5),("Laser and lumen combo module",2),("Pistol reflex sight (+1 aimed pistol shots within ~30 m)",2)])
+add("mod","C","MB",[("Under-mount lumen",0.5),("Ergo grip sleeve (never slips; -2 to disarm you)",0.25)])
 add("mod","U","MBF",[("Extended magazine kit, las or stub (+50% shots)",1.5)])
 add("mod","U","MBF",[("Diamantine whetstone (any edged blade: +1 pierce for the next 2 hits; ~10 uses)",1)])
 add("mod","R","MF",[("Underslung chain-bayonet (rifle-mounted chainsword)",10)])

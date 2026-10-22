@@ -1841,6 +1841,69 @@
   "sellers": "MBF"
  },
  {
+  "name": "Pressure-pin safety (hair triggers: not drop-prone while pinned)",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Pistol drum, auto/machine pistol (2x shots; -1 quick-draw)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Pistol drum, stub (2x shots; -1 quick-draw)",
+  "tv": 0.75,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Las drum, pistol double-cell (2x shots; -1 quick-draw)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Laser sight (+1 hip and snap shots within ~20 m; beam shows)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Laser and lumen combo module",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Pistol reflex sight (+1 aimed pistol shots within ~30 m)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Under-mount lumen",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Ergo grip sleeve (never slips; -2 to disarm you)",
+  "tv": 0.25,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
   "name": "Extended magazine kit, las or stub (+50% shots)",
   "tv": 1.5,
   "cat": "mod",

@@ -140,6 +140,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Catachan weapons](kit.md#catachan-weapons): [thumper](kit.md#thumper-catachan-pattern), [butcher knife](kit.md#catachan-butcher-knife), [shotgun](kit.md#catachan-shotgun)
 - [Augmetic eyes](kit.md#augmetic-eyes): [basic](kit.md#basic-augmetic-eye), [bionic](kit.md#bionic-eye), [sensor](kit.md#sensor-eye), [shooting](kit.md#shooting-eye), [commissar](kit.md#commissar-eye), [champion](kit.md#champion-eye) (exotic)
 - [Helm pict-capture](kit.md#helm-pict-capture)
+- [Pistol and gun attachments](kit.md#pistol-and-gun-attachments-player-designs-ash-on-ostrava-session-10): [pressure-pin safety](kit.md#pressure-pin-safety-hair-triggers), [pistol drums](kit.md#pistol-drums), [laser / lumen / combo](kit.md#laser-sight-under-mount-lumen-or-both), [pistol reflex sight](kit.md#pistol-reflex-sight), [ergo grip sleeve](kit.md#ergo-grip-sleeve)
 
 ## [Drugs and servo-skulls](drugs.md)
 
