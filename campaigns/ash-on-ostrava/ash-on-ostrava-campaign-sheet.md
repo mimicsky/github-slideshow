@@ -403,7 +403,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | **Morcant** | 40.8 | 23 | 33 | 15 | 19 | 17 | Fine. Day 15 rep: +1.0 STR. Day 16 tally: STR +0.2. Day 17 tally: STR +0.6 |
 | **Sallow** | 20 | 31 | 22 | 25 | 34.7 | 20 | Fine. Day 15 rep: +1.0 WIS. Day 16 tally: WIS +0.4. Day 17 tally: WIS +0.3 |
 | **Corvane** | 26 | 36.4 | 31.1 | 21 | 19 | 22 | **Hurt** (day 16: cuts). Day 15 rep: +1.0 DEX. Day 16 tally: CON +0.1. Day 17 tally: DEX +0.4 |
-| **Nessa** | 17 | 41 | 18 | 20.9 | 28 | 27 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: INT +0.3. Day 17 tally: INT +0.6 |
+| **Nessa** | 17 | 41 | 18 | 20.9 | 28 | 27.1 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: INT +0.3. Day 17 tally: INT +0.6, CHA +0.1 |
 | **Mira** | 14 | 41.1 | 20 | 24.9 | 30 | 15 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.1, INT +0.3. Day 17 tally: INT +0.6 |
 | **Teo** | 18.1 | 41.1 | 18 | 18.9 | 19 | 28 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: STR +0.1, DEX +0.1, INT +0.3. Day 17 tally: INT +0.6 |
 | **Ferro-Ashe** | 19 | 24 | 20 | 41.1 | 19 | 12 | Fine. Day 16 tally: INT +0.1 |
