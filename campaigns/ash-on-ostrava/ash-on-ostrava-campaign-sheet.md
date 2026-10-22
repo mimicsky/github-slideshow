@@ -379,8 +379,8 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | **Kell** | 31 | 36 | 30 | 10 | 25 | 10 | Fine (sling off warp day 7). Swaps in for Varga next mission. Day 15 rep: +1.0 STR |
 | **Varga** | 25 | 39 | 25 | 10 | 21 | 5 | **Badly hurt** (day 16: shrapnel in the face at the Spindle's inner lock; left eye in doubt, known day 17), in station medicae. Warp day 6 dawn rep: DEX +1.0 (dry-fire drills with Mercy). Day 15 rep: +1.0 DEX |
 | **Dace** | 25 | 21 | 20 | 18 | 5 | 5 | Hurt (hip, session 9; walking on a cane from warp day 16), in station medicae. Day 15 rep: +1.0 INT |
-| **Sorel** (Light Trainee) | 32 | 30 | 29 | 18 | 27 | 14 | Fine. Tracker; hive clearance +2. Day 14 rep: DEX +1.0 range. Day 15 rep: +1.0 WIS |
-| **Tey** (Light Trainee) | 17 | 27 | 28 | 14 | 8 | 14 | Fine. Grunt, no specialty yet. Day 14 rep: DEX +1.0 range (flinches at recoil). Day 15 rep: +1.0 DEX |
+| **Sorel** (Light-bringer, tracker; tag set session 10) | 32 | 30 | 29 | 18 | 27 | 14 | Fine. Tracker; hive clearance +2. Day 14 rep: DEX +1.0 range. Day 15 rep: +1.0 WIS |
+| **Tey** (Light-bringer, grunt; tag set session 10) | 17 | 27 | 28 | 14 | 8 | 14 | Fine. Grunt, no specialty yet. **At Tamsin's side from day 16 (session 10): goes everywhere with him, into the action.** Day 14 rep: DEX +1.0 range (flinches at recoil). Day 15 rep: +1.0 DEX |
 | **Hollis** | 26 | 36 | 32 | 17 | 25 | 12 | Fine (stats rolled session 9). Day 15 rep: +1.0 DEX |
 | **Brenner** | 21 | 27 | 26 | 32 | 18 | 10 | **Badly hurt** (day 16: revolver round under the left arm, out in surgery), bedbound in station medicae. Day 15 rep: +1.0 INT |
 | **Isk** | 19 | 38 | 28 | 13 | 33 | 10 | Fine. Day 15 rep: +1.0 DEX |
