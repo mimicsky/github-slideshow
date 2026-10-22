@@ -201,6 +201,7 @@ add("ammo","R","MF",[("Catachan mercury shells, 16-gauge (box of 10; poison on a
 # Player design (session 9): augmetic eyes. Full rules in catalogue/kit.md.
 add("augmetic","R","AF",[("Bionic eye (+1 aimed; face recognition)",15),("Sensor eye (+2 sight; scanner; +2 scanned/long shots)",22),("Shooting eye (+2 long, +3 aimed; gun-link HUD)",30)])
 add("augmetic","R","MA",[("Commissar eye (flash-proof; infrared; +1 shots; tactical scan; data sync)",40)])
+add("kit","U","M",[("Helm pict-capture (brass helm lens + belt spool; records a day; live feed to linked HUD eyes)",1)])
 add("augmetic","X","AF",[("Champion eye (all eye features; +5 shots and sight)",90)])
 # --- Salvage / parts ---
 add("salvage","C","MBA",[("Scrap metal (crate)",0.5),("Plasteel ingot",2)])

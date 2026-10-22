@@ -287,3 +287,17 @@ powers, a daemon, a warp-tainted object, a thin spot in reality. It always gives
 **strength** (faint, strong, overwhelming). **An active one-beat sweep, d20 + WIS, +2:
 15+** gives the source's direction and rough distance. It shows *that* something is
 there, never *what*. It also flags sanctioned psykers, including friendly ones.
+
+## Helm pict-capture
+
+**Helm pict-capture** (player rules, Ash on Ostrava session 10; uncommon, 1 TV; Munitorum
+and Navy boarding-team issue). A brass lens ring that clips onto a helmet rim, with a
+data-spool on the belt. **Click it on and it records** what the wearer faces (picture and
+sound), about a day of spool. Afterwards the spools play back on any slate or the
+hololith: the Light's sergeant studies them for **battle research** and drills (DM: a
+reviewed fight can turn up a lesson the player didn't see). **Live feed:** anyone with a
+data-reading augmetic (a HUD eye: shooting, sensor, Commissar or better) can see another
+wearer's view live, **only if the two are linked** (paired by a tech-adept, encrypted, short
+range ~200 m). Unlinked eyes and outsiders can't see it. A **vox-jammer** or heavy
+interference cuts the live feed (the spool keeps recording). A captured spool can be
+played by anyone who holds it.

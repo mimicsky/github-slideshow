@@ -2506,6 +2506,13 @@
   "sellers": "MA"
  },
  {
+  "name": "Helm pict-capture (brass helm lens + belt spool; records a day; live feed to linked HUD eyes)",
+  "tv": 1,
+  "cat": "kit",
+  "rarity": "U",
+  "sellers": "M"
+ },
+ {
   "name": "Champion eye (all eye features; +5 shots and sight)",
   "tv": 90,
   "cat": "augmetic",

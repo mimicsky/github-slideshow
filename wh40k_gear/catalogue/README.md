@@ -139,6 +139,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Scanners](kit.md#scanners): [hand scanner](kit.md#hand-scanner-ordo-pattern), [bio-scanner](kit.md#bio-scanner), [psy-occulus](kit.md#psy-occulus-warp-detector)
 - [Catachan weapons](kit.md#catachan-weapons): [thumper](kit.md#thumper-catachan-pattern), [butcher knife](kit.md#catachan-butcher-knife), [shotgun](kit.md#catachan-shotgun)
 - [Augmetic eyes](kit.md#augmetic-eyes): [basic](kit.md#basic-augmetic-eye), [bionic](kit.md#bionic-eye), [sensor](kit.md#sensor-eye), [shooting](kit.md#shooting-eye), [commissar](kit.md#commissar-eye), [champion](kit.md#champion-eye) (exotic)
+- [Helm pict-capture](kit.md#helm-pict-capture)
 
 ## [Drugs and servo-skulls](drugs.md)
 
