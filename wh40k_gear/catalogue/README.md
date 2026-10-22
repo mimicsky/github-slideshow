@@ -146,6 +146,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 
 - [Stimm](drugs.md#stimm)
 - [Antitoxin](drugs.md#antitoxin)
+- [SCIHU stim](drugs.md#scihu-stim-speed-coma-inducing-heal-up)
 - [Combat drugs](drugs.md#combat-drugs)
 - [Cult and heretic drugs](drugs.md#cult-and-heretic-drugs) (rot-stimm, the god's medicine, forbidden tonic, heretic cure-all)
 - [Drugs and interrogation](drugs.md#drugs-and-interrogation)

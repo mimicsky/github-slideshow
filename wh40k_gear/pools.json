@@ -2233,6 +2233,13 @@
   "sellers": "MAF"
  },
  {
+  "name": "SCIHU stim (coma 2-4 days; wake one health step better; lasting injuries heal in half the time)",
+  "tv": 4,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
   "name": "Combat drug 'Quicksilver' (speed: +2 Athletics and moving)",
   "tv": 1.5,
   "cat": "gear",

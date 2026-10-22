@@ -14,6 +14,19 @@ doses and the crash: Codex, Gear rules (Doses).
 **Antitoxin** (1 TV): purges early plague or poison. **Concentrated antitoxin**
 (rare, 4 TV): purges deep infections too: **the patient makes a CON save at +5** (the medic only gives the dose).
 
+## SCIHU stim (speed coma inducing heal-up)
+
+**SCIHU stim** (player design, Ash on Ostrava session 10; rare, 4 TV; Mechanicus and
+medicae suppliers, Free Traders). A heavy medicae injector: accelerant compounds, a flood
+of nutrients and cultured blood cells, and a big dose of anaesthetic. **Not a combat stimm:**
+it's for a cot aboard ship or in a medicae. **One dose puts the patient into a coma: d6, 1-2
+for 4 days, 3-4 for 3 days, 5-6 for 2 days.** They're helpless the whole time and need a
+medic's watch (fluids, turning). **They wake one health step better**, and **lasting injuries
+heal in half the time** (a healing eye socket, broken bones, surgery recovery: Varga's 1-2
+weeks becomes 4-7 days). **Risk:** on a Down or dying patient the medic rolls d20 at the
+injection: 1-3 the heart can't take it (they stay Down; the next turn decides). One course
+per injury; a second dose on the same wound does nothing more.
+
 ## Combat drugs
 
 **Combat drugs** (uncommon, 1.5 TV a dose; one at a time): **Quicksilver** (+2
