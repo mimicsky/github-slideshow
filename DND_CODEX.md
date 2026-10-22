@@ -1269,9 +1269,14 @@ gun (DEX training, +0.1 an hour). **Enemies:** cultists and raiders roll **Dirty
 Neglected** (even chance); pirates **Dirty**; traitors and traitor elites **Clean**.
 The roller prints it. The Light's gun condition is tracked on the campaign sheet.
 
-**Refractor field (set by the player, session 9).** A worn field generator. **When a
-hit lands on the wearer, roll a d6: on 5-6 the field takes it** (no health step lost;
-the air shimmers). Works against anything except Assassinorum shield-breaker rounds.
+**Refractor field (set by the player, session 9; reworked session 10).** A worn field
+generator. **Light hits** (anything carapace would shrug off: stub, autogun, las, shotgun
+at range, shrapnel, ordinary blades) are **stopped automatically**; the air shimmers.
+**Heavy hits** (anything that gets through carapace: hellguns, bolters, heavy stubbers,
+power, chain and plasma weapons): **roll a d6, 5-6 the field takes it.** **Overload:** it
+stops at most **3 light hits in one beat**; a 4th or more that beat get through and the
+field is **down for 1 beat** while it resets. Assassinorum shield-breaker rounds go
+straight through.
 
 **Conversion field (set by the player, session 9).** A stronger field that turns the
 energy of a hit into light. **When a hit lands on the wearer, roll a d6: on 4-6 the
