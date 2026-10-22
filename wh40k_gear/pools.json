@@ -2233,7 +2233,7 @@
   "sellers": "MAF"
  },
  {
-  "name": "SCIHU stim (coma 2-4 days; wake one health step better; lasting injuries heal in half the time)",
+  "name": "SCIHU stim (knockout: coma 2-4 days; unwilling target needs a melee hit, CON 15+ resists; wake one health step better; lasting injuries heal in half the time)",
   "tv": 4,
   "cat": "gear",
   "rarity": "R",

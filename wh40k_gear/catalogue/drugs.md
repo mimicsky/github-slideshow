@@ -18,8 +18,14 @@ doses and the crash: Codex, Gear rules (Doses).
 
 **SCIHU stim** (player design, Ash on Ostrava session 10; rare, 4 TV; Mechanicus and
 medicae suppliers, Free Traders). A heavy medicae injector: accelerant compounds, a flood
-of nutrients and cultured blood cells, and a big dose of anaesthetic. **Not a combat stimm:**
-it's for a cot aboard ship or in a medicae. **One dose puts the patient into a coma: d6, 1-2
+of nutrients and cultured blood cells, and a big dose of anaesthetic. **Main use for the
+Light: knocking someone out** (a captive to take alive, a wounded friend who won't lie still);
+the healing comes with it. **On a willing or helpless patient** it just works. **On an
+unwilling target** you must get the needle in: a melee hit (win the exchange) on someone
+grabbed, pinned or unaware. They then roll **d20 + CON, 15+ fights it off** (groggy instead:
+-2 on everything for the fight); otherwise they **drop in d6 beats (1-3: next beat, 4-6: two
+beats)** and can still act until then. Astartes, daemon-touched and heavily augmented targets
+shrug it off. **One dose puts the patient into a coma: d6, 1-2
 for 4 days, 3-4 for 3 days, 5-6 for 2 days.** They're helpless the whole time and need a
 medic's watch (fluids, turning). **They wake one health step better**, and **lasting injuries
 heal in half the time** (a healing eye socket, broken bones, surgery recovery: Varga's 1-2
