@@ -279,6 +279,18 @@ Keep the frame, barrel and cylinder (cleaned; the barrel re-threaded straight). 
 - **Builder: Dace** (agreed ~0900 day 14). From his cot: strip and clean, trigger and blade safety, ghost-ring sights, grip panels (needs a trigger group and spring set from Voss, and grip stock). Needs the forge: plasteel hammer and cylinder hand. Needs Ferro's lathe: re-thread the barrel. Paint last. ~2 days bench, 1 day forge.
 - **Three Munitorum gunsmith manuals** (set by the player as backstory: Tamsin quietly took them from Ottrick's shelves before leaving the Lantern) go to Dace with the parts. **Studying them gives Dace +1 on gun-crafting rolls.** Ottrick may notice they're gone.
 
+### Proposed build: the Kasr Hornet (Tamsin's design, session 10, day 18; DM ruling)
+
+Tamsin's labelled drawing on oilcloth, ~1615 day 18. Communed: a young, crude spirit, nine bearers, wants to **run** (long bursts); disliked being "made better"; use will win it. Grip-frame names of nine bearers scraped off by Tamsin. Cleaned day 18.
+- **Stock off:** lighter; fits a quick-draw holster (without a drum).
+- **New frame** (machined, plasteel-reinforced: **1/2 plasteel**; Dace at the forge, ~2 days): cleaner lines, stronger; takes the new parts and rails for attachments.
+- **New bolt + heavier buffer spring** (~0.5 TV parts): **jams only from the 25th straight round** (on 1-4), not the 13th.
+- **New mag catch** (~0.1 TV): **no mag dump when dropped**.
+- **Safety lever** (~0.1 TV) **+ pressure-pin safety** (Dace from scrap, or 0.5 TV): **not drop-prone while on/pinned**; hair trigger kept.
+- **New barrel** (~1 TV): bore no longer pitted; **+1 on shots past ~15 m**.
+- **Later attachments** (catalogue, kit: pistol attachments): auto drum (80 rounds), laser/lumen combo, pistol reflex sight, ergo grip sleeve.
+- **Parts:** shops (restock day 20) or Doradne machines them. **Builder: Dace** (+1 from Ottrick's manuals): bench work ~1 day; frame forge work ~2 days, once he can stand.
+
 ### Tamsin's container note (~0950 day 14)
 
 **For Dace and Ferro to fix:** the refractor field (Ferro: steady the flicker), the scorched Callidus knives (Dace: regrind), the captain's power sword (Ferro: tune and bless the field), and **Tamsin's chest piece: Dace fits the ceramite plate over the front** (ruling: from the front, Tamsin's chest counts as **heavy carapace**; uses the last ceramite plate).
