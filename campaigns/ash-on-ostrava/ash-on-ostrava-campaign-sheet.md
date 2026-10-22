@@ -325,6 +325,12 @@ Library books signed out from the **Ustrennos Fleet Archive** (ring one) under t
 | *Notes on Thermal Charges* | Tavi | INT | 4 | 0 | +1.5 INT, +1 placing melta/thermal charges |
 | *Armsmen's Cutlass and Boarding Blade Drill* | Corvane | STR | 4 | **4: done day 20** | +1.0 STR, +0.5 INT |
 | *Fire and Suppression: Heavy Weapons Teams* | Morcant | STR | 8 | 3 | +1.0 STR, +0.5 INT |
+| *The Munitorum Marksman's Primer* (re-signed day 21) | Varga | DEX | 10 | 0 | +1.0 DEX, +0.5 INT |
+| *Small-Unit Command: Notes for Sergeants* | Kell | WIS | 8 | 0 | +1.0 WIS, +0.5 INT, +1 when rallying the Light |
+| *The Grenadier's Handbook: Arcs and Fuses* | Hollis | DEX | 6 | 0 | +1.0 DEX, +0.5 INT |
+| *Locks, Seals and Ship Security* | Nessa | DEX | 6 | 0 | +1.0 DEX, +0.5 INT, +1 on locks and seals |
+| *Fleet Enginseer's Rote-Book* | Ferro-Ashe | INT | 8 | 0 | +1.5 INT |
+| *The Spotter's Handbook* | Isk | WIS | 6 | 0 | +1.0 WIS, +0.5 INT |
 | Ottrick's three Munitorum gunsmith manuals (the Light's own) | Dace | INT | 8 each | ~12 (days 14-15): manual 1 done, manual 2 at 5 | +1.5 INT each (manual 1 applied); +1 on gun-crafting (already in effect) |
 
 ### Trade and debts
