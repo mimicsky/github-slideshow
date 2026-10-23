@@ -11,8 +11,8 @@ happened, and git history keeps every old version.
 **Clean up as we go (set by the player, session 9):** during play, when something
 closes or stops mattering, delete or shorten it in the same save. Keep this sheet lean.
 
-**Where we stopped:** **session 10, ~0505 warp day 25**, back aboard the *Bright Light* after taking the hauler
-*Duty of Coin* (details in the day log below). Day 25 not yet tallied.
+**Where we stopped:** **session 10, ~1600 warp day 26**, the forge: **Dace unveils his masterpiece blade** (done day 26).
+Day 25 tallied. Day 26 event (10): an ordinary training day. Skip asked by the player ('until anything important').
 
 ### Current state (session 10, day 25)
 
@@ -61,6 +61,8 @@ closes or stops mattering, delete or shorten it in the same save. Keep this shee
 
 ### Day log, session 10 (newest first)
 
+- **Day 26:** ordinary training day (event 10). ~1600 Dace finishes his blade.
+- **Day 25 (after the hauler):** 0525 Tamsin snuck into the bunk room (24 vs 7) and left the bottle of spire amasec by sleeping Nessa's needle pistol (debt paid; her note: 'You snuck up on me ASLEEP. That doesn't count. ...Good bottle though.'). 0530 test-fired the rebuilt Hornet: 20 for 20, no jam (Ferro: 'It liked that'); old frame has a hair of play (new frame fixes it). Rest of day training.
 - **Day 25:** 0310 Merrick: Haddle made her plain coats, his circle knifed one (alive), Haddle sent a message from
   Relay 3 and ran for the hauler *Duty of Coin* (berth 4-31, undock 0400). Light split: Tamsin, Tey, Nessa, Brenner to
   Relay 3 (old operator; Brenner read the send log, 15); Kell's team to the berth. Tamsin, Kell, Tey boarded (mate
@@ -218,7 +220,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Rank | **Interrogator** of Inquisitor Kesh's Ordo (rosette, warp day 20, session 7). Leads the Light, his cell under Varsaine. (Interrogator-designate from session 5.) |
 | Class | Fighter 9, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | **Fine** (healed day 20) |
-| Stats (levels 1-100) | STR **27.1** (+2), DEX **67.3** (+6), CON **23.5** (+2), INT **10.2** (+1), WIS **18.8** (+1), CHA **10.6** (+1) (day 23 tally: STR +0.3, DEX +0.5, WIS +0.6 (Sallow coached), CHA +0.2. day 22 tally: STR +0.2, DEX +0.2, WIS +2.2 (night watch, 10 h stakeout, orders), CHA +0.2. day 21 tally: STR +0.6, WIS +0.1. day 20 tally: STR +1.4, DEX +0.2, WIS +1.0, CHA +0.1. day 19 tally: DEX +1.1, INT +0.7 incl. book +0.5, CHA +1.2 incl. book +1.0. day 18 tally: DEX +0.5, INT +0.1, CHA +0.6. day 17 tally: INT +0.2, WIS +0.4, CHA +0.5. day 16 tally, session 10: STR +0.7, DEX +0.1, CON +0.1, WIS +0.6, CHA +1.1. Before that: after warp day 8: DEX +1.0 range with Vigil, DEX +0.5 cover drill with Dace. Warp days 9-12 in bed, no reps. Day 13: DEX +1.0 Vigil, DEX +0.5 Last Word, light range work while Hurt. Day 14: DEX +1.0 Vigil on lane three beside the trainees, WIS +0.5 coaching the trainees) |
+| Stats (levels 1-100) | STR **27.4** (+2), DEX **68.1** (+6), CON **23.5** (+2), INT **10.2** (+1), WIS **19.6** (+1), CHA **10.9** (+1) (day 24: STR +0.3, DEX +0.3. day 25 tally: DEX +0.5, WIS +0.8 (orders, coaching), CHA +0.3. day 23 tally: STR +0.3, DEX +0.5, WIS +0.6 (Sallow coached), CHA +0.2. day 22 tally: STR +0.2, DEX +0.2, WIS +2.2 (night watch, 10 h stakeout, orders), CHA +0.2. day 21 tally: STR +0.6, WIS +0.1. day 20 tally: STR +1.4, DEX +0.2, WIS +1.0, CHA +0.1. day 19 tally: DEX +1.1, INT +0.7 incl. book +0.5, CHA +1.2 incl. book +1.0. day 18 tally: DEX +0.5, INT +0.1, CHA +0.6. day 17 tally: INT +0.2, WIS +0.4, CHA +0.5. day 16 tally, session 10: STR +0.7, DEX +0.1, CON +0.1, WIS +0.6, CHA +1.1. Before that: after warp day 8: DEX +1.0 range with Vigil, DEX +0.5 cover drill with Dace. Warp days 9-12 in bed, no reps. Day 13: DEX +1.0 Vigil, DEX +0.5 Last Word, light range work while Hurt. Day 14: DEX +1.0 Vigil on lane three beside the trainees, WIS +0.5 coaching the trainees) |
 | At the Ustrennos jump point (days 16-17, three a day) | 16: STR +1.0, DEX +0.5, CHA +0.4. 17: CON +1.0, DEX +0.9 |
 | Road to Ustrennos (warp days 10-15, three a day, rolled) | 10: STR +1.0, CON +0.5, WIS +0.4. 11: STR +1.0, WIS +0.5, INT +0.4. 12: DEX +1.0, CHA +0.9. 13: WIS +1.0, CHA +0.5, STR +0.4. 14: INT +1.0, DEX +0.5, STR +0.4. 15: DEX +1.0, WIS +0.5, CON +0.4 |
 | Warp day 9 (the Rest) | DEX +1.0 (late range practice with the Light, 2230-0030) |
