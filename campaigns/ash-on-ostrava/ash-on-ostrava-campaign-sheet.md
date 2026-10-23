@@ -11,18 +11,24 @@ happened, and git history keeps every old version.
 **Clean up as we go (set by the player, session 9):** during play, when something
 closes or stops mattering, delete or shorten it in the same save. Keep this sheet lean.
 
-**Where we stopped:** **session 10, ~1350 warp day 23**, back aboard the *Bright Light* from Voss's with Kesh's requisition.
-**Day 23 so far:** chapel 0625: Brother Kade's oil of seeing: **Dannel Rusk clean (shame, not taint), Joren Brisk clean**;
-both made **penitents** (grey cord; Corvane gave Dannel **his own cord**); recorded in the chapel ledger. No penitent
-collars aboard (Nessa's was melted into a shield; Varsaine's case is on the Lantern); Merrick signed out a **convict
-labour collar** (shock + locator, no charge; control rod ~200 m) now on **Dannel**, rod on Tamsin's belt; return it when
-done. Both penitents sleep in the cells (doors open by day for chapel and work). Dannel offered the deacon's name: Tamsin
-said later. Merrick: plain coats on cold store row and Relay 3 from 0600; Dorrow pulling the bunks roll for the deacon.
-Tamsin 5 h on the range with Vigil (first shot since the Spindle was his; its hum settled) and Last Word. **Kesh's
-requisition collected at Voss (1320):** 3 plasteel (stores: 6 now), **drag harness + lascarbine to Sallow**, **2nd
-lascarbine (stores)**, **Mechanicus coupling to Ferro**, **flight jacket to Teo**, **Nessa's needle pistol and her two
-throwing knives** (she carries 8 knives now), **4 Scion spec flashes: 2 to Corvane, 2 to Hollis** (2 more spec flashes in the
-container from Marrow).
+**Where we stopped:** **session 10, ~1100 warp day 24**, Merrick voxing the *Bright Light*: **she's found the deacon (19)**.
+Tamsin had told the Light (day 23 dinner) to be at 100% and asked to skip to Varga's socket healing (**socket ready day 29**)
+unless something important happened. **DM: the deacon is Osric Haddle**, a cargo-tally clerk on ring four who leads a
+'prayer circle' in the ring-four bunks (bunk block 4-B, bunk 212), on no chapel's roll, seen twice going into Relay 3;
+pays his bunk in coin. Merrick has plain coats on him and waits on Tamsin: take him now or watch him. Day 23 tallied.
+**Time-skip rolls already made (use as play reaches them):** day 25 event **1** (something bad), day 26 event 10, day 27
+17, day 28 8, day 29 13, day 30 7. Dace's blade done ~day 26, the Hornet ~day 27. Shops restock days 24, 26, 28, 30.
+**Day 23 dinner:** wishlist on the book crate (Morcant drums x4 + compensator; Tavi kraks, melta bomb, sapper's charge rig;
+Tey a holster that fits; Isk range-finder sight, grey hooded cloak; Hollis grenade bandolier, command bead, map-slate; Teo
+pilot glasses; Mira Valk rockets; Nessa toxin darts, lockpicks; Corvane quick-draw holster, cutlass when earned; Sallow
+bigger bag, more SCIHU; Kell Steady spirit blessing, spare plasma cell; Brenner servo-skull; Ferro machine-core for Isk's
+pack; Dace a bigger forge; Sorel a rifle of his own; Varga NEW EYE). Corvane got his revolver (white and grey; needs a
+name; Dace's cut-down holster for now). Dace started his masterpiece blade with his 2 plasteel; Tamsin gave him the other
+6 to use as he sees fit (Hornet frame 1/2, Shameholder plasteel teeth 1, Kell's blessing 2). Sallow taught Tamsin field
+medicine 3 h. Tamsin kept the SCIHU stim (Varga wouldn't agree). Nessa's rundown given; plan: Thask and the Bloom first,
+clean; docker coats over armour; the Valk not the ship if loud; a second hit for the ledger/loot decided on the ground.
+Brenner and Varga fit to travel (Brenner light duty a week; wants to re-key THE LIGHT with Ferro on the trip). Varga
+suspects her surprise again (Kell and Tey nearly gave it away).
 
 ### Current state (start of session 10)
 
@@ -195,7 +201,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Rank | **Interrogator** of Inquisitor Kesh's Ordo (rosette, warp day 20, session 7). Leads the Light, his cell under Varsaine. (Interrogator-designate from session 5.) |
 | Class | Fighter 9, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | **Hurt** (warp day 16: chem-dog pellets across the carapace and shoulder at the Spindle; picked out at station medicae; mends with rest) |
-| Stats (levels 1-100) | STR **26.8** (+2), DEX **66.8** (+6), CON **23.5** (+2), INT **10.2** (+1), WIS **18.2** (+1), CHA **10.4** (+1) (day 22 tally: STR +0.2, DEX +0.2, WIS +2.2 (night watch, 10 h stakeout, orders), CHA +0.2. day 21 tally: STR +0.6, WIS +0.1. day 20 tally: STR +1.4, DEX +0.2, WIS +1.0, CHA +0.1. day 19 tally: DEX +1.1, INT +0.7 incl. book +0.5, CHA +1.2 incl. book +1.0. day 18 tally: DEX +0.5, INT +0.1, CHA +0.6. day 17 tally: INT +0.2, WIS +0.4, CHA +0.5. day 16 tally, session 10: STR +0.7, DEX +0.1, CON +0.1, WIS +0.6, CHA +1.1. Before that: after warp day 8: DEX +1.0 range with Vigil, DEX +0.5 cover drill with Dace. Warp days 9-12 in bed, no reps. Day 13: DEX +1.0 Vigil, DEX +0.5 Last Word, light range work while Hurt. Day 14: DEX +1.0 Vigil on lane three beside the trainees, WIS +0.5 coaching the trainees) |
+| Stats (levels 1-100) | STR **27.1** (+2), DEX **67.3** (+6), CON **23.5** (+2), INT **10.2** (+1), WIS **18.8** (+1), CHA **10.6** (+1) (day 23 tally: STR +0.3, DEX +0.5, WIS +0.6 (Sallow coached), CHA +0.2. day 22 tally: STR +0.2, DEX +0.2, WIS +2.2 (night watch, 10 h stakeout, orders), CHA +0.2. day 21 tally: STR +0.6, WIS +0.1. day 20 tally: STR +1.4, DEX +0.2, WIS +1.0, CHA +0.1. day 19 tally: DEX +1.1, INT +0.7 incl. book +0.5, CHA +1.2 incl. book +1.0. day 18 tally: DEX +0.5, INT +0.1, CHA +0.6. day 17 tally: INT +0.2, WIS +0.4, CHA +0.5. day 16 tally, session 10: STR +0.7, DEX +0.1, CON +0.1, WIS +0.6, CHA +1.1. Before that: after warp day 8: DEX +1.0 range with Vigil, DEX +0.5 cover drill with Dace. Warp days 9-12 in bed, no reps. Day 13: DEX +1.0 Vigil, DEX +0.5 Last Word, light range work while Hurt. Day 14: DEX +1.0 Vigil on lane three beside the trainees, WIS +0.5 coaching the trainees) |
 | At the Ustrennos jump point (days 16-17, three a day) | 16: STR +1.0, DEX +0.5, CHA +0.4. 17: CON +1.0, DEX +0.9 |
 | Road to Ustrennos (warp days 10-15, three a day, rolled) | 10: STR +1.0, CON +0.5, WIS +0.4. 11: STR +1.0, WIS +0.5, INT +0.4. 12: DEX +1.0, CHA +0.9. 13: WIS +1.0, CHA +0.5, STR +0.4. 14: INT +1.0, DEX +0.5, STR +0.4. 15: DEX +1.0, WIS +0.5, CON +0.4 |
 | Warp day 9 (the Rest) | DEX +1.0 (late range practice with the Light, 2230-0030) |
