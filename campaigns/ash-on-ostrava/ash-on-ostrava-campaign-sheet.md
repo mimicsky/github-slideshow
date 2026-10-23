@@ -11,18 +11,18 @@ happened, and git history keeps every old version.
 **Clean up as we go (set by the player, session 9):** during play, when something
 closes or stops mattering, delete or shorten it in the same save. Keep this sheet lean.
 
-**Where we stopped:** **session 10, 0350 warp day 25**, the crew deck of the hauler ***Duty of Coin*** (berth 4-31, undocks 0400).
-Corvane spotted an ambush (19 vs 9); nobody aboard knows they've been seen. **Osric Haddle** (the 'deacon') at the bridge
-stair, 25 m, stub pistol and a slate; **4 circle cultists** (faction wealth POOR, d100 10; Nurgle; all Dirty guns): galley
-table at 15 m (lasgun, junk double shotgun), bunk-room door at 10 m (sawn-off), and a chain-knife man beside Haddle.
-Light at the stair hatch: Corvane (point, 2 spec flashes, white revolver), Morcant (Doorknocker), Hollis (Six Bells with a
-spec flash), Tavi, Sorel, Tamsin, Tey. **Kell** holds the mate on the ramp; **Isk and Sallow** cover the loading bay.
-**Day 25 events:** 0200 Haddle made Merrick's plain coats; 3 circle men knifed one (alive, medicae); Haddle sent from
-Relay 3 at 0214 (Brenner read it, 15): *'TO LOW QUAY 9 / GARRAN. ROOTS CUT. CARRIER AND WATCHER TAKEN. NO FACE. KEEPERS ON
-ME. COMING HOME ON DUTY OF COIN. COURIER STILL BERTHED. THORN.'* (Relay 3 sends daily to Torvane's Mart, Low Quay relay 9,
-for Garran & Sons; night one's hull picts went out; Tamsin's face never did.) The old relay operator left with a plain coat.
-The hauler's mate tried to warn the ship ('Inqui-'), taken down. Day 24: normal training (Tamsin STR 27.4, DEX 67.6).
-Day 23: Merrick found the deacon on day 24 and watched him on Tamsin's order (take him quietly before sailing).
+**Where we stopped:** **session 10, ~0405 warp day 25**, the loading bay at berth 4-31, Merrick and a dozen watchmen.
+**The *Duty of Coin* taken (day 25, 0350-0400):** Hollis's spec flash (8, +2 commander order = 10, near miss: half effect;
+burst at ~9 m): the sawn-off man blinded 2 beats, the galley pair dazzled. Tamsin's surrender call (18): lasgun man and
+Haddle broke; the shotgunner defied and Corvane (ordered) put a three-shot chain into him first with the new revolver
+(Down, alive); the blind sawn-off missed. Second call (23): the chain-knife man and the blind man surrendered. Bridge:
+master (took Haddle's double fare, 200 Thrones) and mate (tried to warn) taken; **pilot Marra** cut the engines herself
+and told everything (20). No Light-bringer hurt. **Haul:** stolen Kantrael lasgun, junk double shotgun, sawn-off, stub
+automatic, Haddle's stub pistol, chain-knife, trench club, 2 sets scrap throwing knives, 3 flak sets, 1 frag, 1 Frenzon,
+a cult amulet; **Haddle's locked slate (cogged rune, needs Brenner/Ferro)**, a 2nd RELAY 3 token, ~120 Thrones, thorn
+prayer-beads; the master's 200 Thrones. **All prisoners to Merrick's cells:** Haddle, the four circle men, the master, the
+mate; **the pilot to processing, then Merrick's call.** Haddle's 0214 message already went to the Mart ('courier still
+berthed').
 
 ### Current state (start of session 10)
 
