@@ -760,6 +760,28 @@ the player tries to break or win over.
 
 ---
 
+### Roll checklist (set by the player, Ash on Ostrava session 10)
+
+Before resolving **any** roll, the DM runs down this list so nothing is missed. Only what
+applies is added; each modifier shown in the math.
+
+1. **Base:** d20 + stat bonus (+1 per full 10 levels) + proficiency (if trained) + Remarkable
+   Athlete / half-proficiency where it applies.
+2. **Specialty** (+2, or its drilled level) if the roll is its kind.
+3. **Role:** the roller's bestiary role rules, **and any order from a Commander this beat**
+   (+2 and acts first; **traitor-elite commanders give two orders a beat to specialists**;
+   the Light counts as traitor elites). Leader/rally effects, Morcant's suppression (targets
+   he suppresses take -2), jumper/airborne (-2 own shots, -1 for elites; -3 to hit them),
+   spotters, bodyguards.
+4. **Gear:** attachments by slot (optic or HUD eye, not both), shot-chain modifiers (+2/+1/-1),
+   **swapping** (-1), **recoil** (by gun), drums (-1 quick-draw), weapon blessings, crit ranges.
+5. **Standing bonuses:** finished books (e.g. +1 will checks), crafting manuals, armour
+   (heavy carapace front, Defense style), fields (refractor, conversion).
+6. **Conditions:** health step, **food state**, fatigue / no sleep, Hurt shoulder-type limits,
+   blinded / dazzled (spec flash), cover, darkness / smoke, Neglected or Dirty guns (jam range).
+7. **Saves:** purity seals (advantage vs warp/plague/madness), Indomitable.
+8. **Will checks:** +1 per finished interrogation manual; hard-method +5% and its risk roll.
+
 ### Rulings made at the table
 
 When the book is silent or unclear, I rule once and then stick to it.

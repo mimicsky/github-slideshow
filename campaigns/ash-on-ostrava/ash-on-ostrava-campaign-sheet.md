@@ -428,6 +428,15 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | Teo | Fast flying, evasion |
 | Ferro-Ashe | Repairs, rites and communing (by data) |
 
+**Tamsin's standing modifiers (check every roll; codex Roll checklist):** Champion crits 19-20 (Vigil 17-20, heat);
+Remarkable Athlete (+2 untrained STR/DEX/CON); proficiency +4 (Perception, Athletics, Survival, Intimidation); **+1 will
+checks** (provost's manual); **Commander: two orders a beat to specialists** (+2, act first); Defense style; heavy
+carapace from the front; refractor field (auto-stops light hits, 3 a beat; heavy hits 5-6); Last Word hair trigger
+(drop-prone); Indomitable (reroll a failed save, once per long rest); purity seals on Vigil, Last Word, the knife, Shameholder.
+**The Light's standing modifiers:** specialties (+2), roles (bestiary), traitor-elite side notes, finished books, Morcant's
+suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss by 1-2), Corvane's revolver (+1 inside
+15 m, 3-shot chains), Varga -2 sight/aimed until her eye.
+
 **How the Light rolls (set session 9):** d20 + stat bonus (+1 per full 10 levels) + specialty (+2, only on its kind of roll) + role or gear bonuses. Earlier ally rolls used rough bonuses and stand.
 
 | | STR | DEX | CON | INT | WIS | CHA | State |
