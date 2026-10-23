@@ -705,6 +705,21 @@ day's end, from the training plan and from what happened in play.
 
 ---
 
+**Food (set by the player, Ash on Ostrava session 10).** Four states; the DM only calls it
+when it's in doubt (missions, sieges, long hunts, bad jumps), not every meal.
+
+| State | When | Effect |
+| --- | --- | --- |
+| **Well fed** | a proper hot meal in the last ~8 h (galley, feast, a good cook) | **+1 on CON rolls**, and **+0.1 on the day's tally** in the stat trained most |
+| **Fed** | normal rations | nothing (the default) |
+| **Hungry** | a full day of missed meals or scraps | **-1 on CON and WIS rolls** |
+| **Starving** | 3+ days with almost nothing | **-2 on everything**; no natural healing |
+
+A staffed **cook** crew post makes the ship's meals count as **Well fed** (on top of its +2 to
+healing aboard).
+
+---
+
 **8. Will: interrogation and recruiting.**
 
 Added at the player's request in Ash on Ostrava, session 9. For captives and anyone
@@ -1104,7 +1119,7 @@ Support people who stay aboard the ship (or at a base) and keep the Light runnin
 **staffed post** gives a standing bonus. A Light-bringer may hold a post while not on
 a mission (Dace as smith); otherwise a crew member is hired or recruited for it.
 
-- **Cook:** keeps the Light fed. **Healing rolls while resting aboard get +2.**
+- **Cook:** keeps the Light fed. **Healing rolls while resting aboard get +2**, and the ship's meals count as **Well fed** (house rules, Food).
 - **Smith / armourer:** maintains the Light's weapons and armour. **Each fight, the
   first jam, misfire or gear quirk is ignored**; field damage is mended between
   missions at no cost; does the crafting rolls for builds.
