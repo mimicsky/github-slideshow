@@ -11,25 +11,18 @@ happened, and git history keeps every old version.
 **Clean up as we go (set by the player, session 9):** during play, when something
 closes or stops mattering, delete or shorten it in the same save. Keep this sheet lean.
 
-**Where we stopped:** **session 10, ~0320 warp day 23**, Tamsin back in his cabin. **0600: chapel (Brother Kade) for the
-holy-oil rite on both prisoners.** Kesh's supply drop lands today. Day 22 tallied.
-**Night of day 22-23 (session 10):** Tamsin woke 0040. **Cell 2: Dannel Rusk** (~18, Low Quay; mother died 'blooming'
-from the jars when he was 12; never took the garden in; wore the iron thorn; **Will ~46%, breaks below 30%**): drop
-system = slates go in **Relay 3's message rack, slot three**; an old relay operator sends slot three out on the long-band
-to the Mart; Relay 3 is on standing hire to **'Garran & Sons, Factors'** (a front, coin, 8 months). There's a **'deacon'
-on the station** (not chapel; 'says the words for us'): Dannel won't name him for fear for his sister **Pell Rusk, 11**,
-who sorts fish-tins at the **Low Quay cannery under the big chimney (~berth 44)**, where Thask's people pick the sick.
-**Deal: Dannel renounced the garden in front of Tamsin and Hollis (Hollis: 'That's not a heretic'); if he passes the
-oil rite he becomes Tamsin's penitent, gives the deacon (name, bunk), and the Light frees Pell at the Mart** (Dannel +
-Nessa via the tin chutes, while the rest go for berth 31). **Cell 1: Joren Brisk** (docker, broken; laid off when the
-yards froze after Orsk; owes a ring-four loan shark 60 Thrones; did it for money; will sit the oil too; Tamsin raised
-penitent service). **Merrick** (woken 0130, Dorrow at the desk): doubled patrols round berth 2-9 now; plain coats on
-cold store row and Relay 3 from next shift; pulling every lay preacher on the bunks roll to find the deacon; prisoners
-stay with Tamsin (turned over if true heretics). **Nessa:** knows the cannery (berth 44); the Old Man hires off-world
-killers for grudges; **Governor Halden Voke** (merchant-baron, tower on the Mart's high side, ~300 customs men; 'the
-till's man', sells everything, may tip Thask); plan order set by Tamsin: **mission first, governor after; stealth
-first, loud if needed; ship's guns too blunt over the Quay's domes, the Valkyrie precise.** Nessa owns the plan,
-adding the cannery and Voke.
+**Where we stopped:** **session 10, ~1350 warp day 23**, back aboard the *Bright Light* from Voss's with Kesh's requisition.
+**Day 23 so far:** chapel 0625: Brother Kade's oil of seeing: **Dannel Rusk clean (shame, not taint), Joren Brisk clean**;
+both made **penitents** (grey cord; Corvane gave Dannel **his own cord**); recorded in the chapel ledger. No penitent
+collars aboard (Nessa's was melted into a shield; Varsaine's case is on the Lantern); Merrick signed out a **convict
+labour collar** (shock + locator, no charge; control rod ~200 m) now on **Dannel**, rod on Tamsin's belt; return it when
+done. Both penitents sleep in the cells (doors open by day for chapel and work). Dannel offered the deacon's name: Tamsin
+said later. Merrick: plain coats on cold store row and Relay 3 from 0600; Dorrow pulling the bunks roll for the deacon.
+Tamsin 5 h on the range with Vigil (first shot since the Spindle was his; its hum settled) and Last Word. **Kesh's
+requisition collected at Voss (1320):** 3 plasteel (stores: 6 now), **drag harness + lascarbine to Sallow**, **2nd
+lascarbine (stores)**, **Mechanicus coupling to Ferro**, **flight jacket to Teo**, **Nessa's needle pistol and her two
+throwing knives** (she carries 8 knives now), **4 Scion spec flashes: 2 to Corvane, 2 to Hollis** (2 more spec flashes in the
+container from Marrow).
 
 ### Current state (start of session 10)
 
