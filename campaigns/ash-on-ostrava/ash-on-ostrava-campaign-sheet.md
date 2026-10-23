@@ -11,24 +11,18 @@ happened, and git history keeps every old version.
 **Clean up as we go (set by the player, session 9):** during play, when something
 closes or stops mattering, delete or shorten it in the same save. Keep this sheet lean.
 
-**Where we stopped:** **session 10, ~1100 warp day 24**, Merrick voxing the *Bright Light*: **she's found the deacon (19)**.
-Tamsin had told the Light (day 23 dinner) to be at 100% and asked to skip to Varga's socket healing (**socket ready day 29**)
-unless something important happened. **DM: the deacon is Osric Haddle**, a cargo-tally clerk on ring four who leads a
-'prayer circle' in the ring-four bunks (bunk block 4-B, bunk 212), on no chapel's roll, seen twice going into Relay 3;
-pays his bunk in coin. Merrick has plain coats on him and waits on Tamsin: take him now or watch him. Day 23 tallied.
-**Time-skip rolls already made (use as play reaches them):** day 25 event **1** (something bad), day 26 event 10, day 27
-17, day 28 8, day 29 13, day 30 7. Dace's blade done ~day 26, the Hornet ~day 27. Shops restock days 24, 26, 28, 30.
-**Day 23 dinner:** wishlist on the book crate (Morcant drums x4 + compensator; Tavi kraks, melta bomb, sapper's charge rig;
-Tey a holster that fits; Isk range-finder sight, grey hooded cloak; Hollis grenade bandolier, command bead, map-slate; Teo
-pilot glasses; Mira Valk rockets; Nessa toxin darts, lockpicks; Corvane quick-draw holster, cutlass when earned; Sallow
-bigger bag, more SCIHU; Kell Steady spirit blessing, spare plasma cell; Brenner servo-skull; Ferro machine-core for Isk's
-pack; Dace a bigger forge; Sorel a rifle of his own; Varga NEW EYE). Corvane got his revolver (white and grey; needs a
-name; Dace's cut-down holster for now). Dace started his masterpiece blade with his 2 plasteel; Tamsin gave him the other
-6 to use as he sees fit (Hornet frame 1/2, Shameholder plasteel teeth 1, Kell's blessing 2). Sallow taught Tamsin field
-medicine 3 h. Tamsin kept the SCIHU stim (Varga wouldn't agree). Nessa's rundown given; plan: Thask and the Bloom first,
-clean; docker coats over armour; the Valk not the ship if loud; a second hit for the ledger/loot decided on the ground.
-Brenner and Varga fit to travel (Brenner light duty a week; wants to re-key THE LIGHT with Ferro on the trip). Varga
-suspects her surprise again (Kell and Tey nearly gave it away).
+**Where we stopped:** **session 10, 0350 warp day 25**, the crew deck of the hauler ***Duty of Coin*** (berth 4-31, undocks 0400).
+Corvane spotted an ambush (19 vs 9); nobody aboard knows they've been seen. **Osric Haddle** (the 'deacon') at the bridge
+stair, 25 m, stub pistol and a slate; **4 circle cultists** (faction wealth POOR, d100 10; Nurgle; all Dirty guns): galley
+table at 15 m (lasgun, junk double shotgun), bunk-room door at 10 m (sawn-off), and a chain-knife man beside Haddle.
+Light at the stair hatch: Corvane (point, 2 spec flashes, white revolver), Morcant (Doorknocker), Hollis (Six Bells with a
+spec flash), Tavi, Sorel, Tamsin, Tey. **Kell** holds the mate on the ramp; **Isk and Sallow** cover the loading bay.
+**Day 25 events:** 0200 Haddle made Merrick's plain coats; 3 circle men knifed one (alive, medicae); Haddle sent from
+Relay 3 at 0214 (Brenner read it, 15): *'TO LOW QUAY 9 / GARRAN. ROOTS CUT. CARRIER AND WATCHER TAKEN. NO FACE. KEEPERS ON
+ME. COMING HOME ON DUTY OF COIN. COURIER STILL BERTHED. THORN.'* (Relay 3 sends daily to Torvane's Mart, Low Quay relay 9,
+for Garran & Sons; night one's hull picts went out; Tamsin's face never did.) The old relay operator left with a plain coat.
+The hauler's mate tried to warn the ship ('Inqui-'), taken down. Day 24: normal training (Tamsin STR 27.4, DEX 67.6).
+Day 23: Merrick found the deacon on day 24 and watched him on Tamsin's order (take him quietly before sailing).
 
 ### Current state (start of session 10)
 
