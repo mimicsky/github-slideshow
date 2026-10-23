@@ -760,6 +760,24 @@ the player tries to break or win over.
 
 ---
 
+### Cover (set by the player, Ash on Ostrava session 10)
+
+Cover adds to the number a shot must reach (the hidden target), for shots from the front or
+side it blocks. Shots from behind or above it ignore it.
+
+| Cover | Examples | Shots at you |
+| --- | --- | --- |
+| **None** | open deck, a corridor centre | +0 |
+| **Light (1/3)** | thin crates, a cargo net, a makeshift shield, a doorway edge | **+1** |
+| **Half** | a ration-crate stack, an overturned table, a low bulkhead, a forged shield | **+2** |
+| **Heavy (3/4)** | a hatch frame you lean from, a pillar, a sandbag line, a lifter's chassis | **+4** |
+| **Full** | behind a bulkhead or closed hatch, out of sight | **can't be shot**, except by through-cover weapons (anti-materiel rifles), blasts round it (grenades), or flamers |
+
+- **Shooting from cover** costs nothing; **moving** out of it loses it for that beat.
+- **Light cover breaks**: two or three heavy hits (or a shotgun at close range) and it's gone.
+- **Grenades** and flames ignore cover that doesn't close over the target.
+- **Suppressed** targets stay down in their cover (Morcant's -2 applies to their shots).
+
 ### Roll checklist (set by the player, Ash on Ostrava session 10)
 
 Before resolving **any** roll, the DM runs down this list so nothing is missed. Only what
@@ -778,7 +796,7 @@ applies is added; each modifier shown in the math.
 5. **Standing bonuses:** finished books (e.g. +1 will checks), crafting manuals, armour
    (heavy carapace front, Defense style), fields (refractor, conversion).
 6. **Conditions:** health step, **food state**, fatigue / no sleep, Hurt shoulder-type limits,
-   blinded / dazzled (spec flash), cover, darkness / smoke, Neglected or Dirty guns (jam range).
+   blinded / dazzled (spec flash), **cover (Cover table: +1 / +2 / +4 / full)**, darkness / smoke, Neglected or Dirty guns (jam range).
 7. **Saves:** purity seals (advantage vs warp/plague/madness), Indomitable.
 8. **Will checks:** +1 per finished interrogation manual; hard-method +5% and its risk roll.
 
