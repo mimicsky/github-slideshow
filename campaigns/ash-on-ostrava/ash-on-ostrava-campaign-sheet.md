@@ -11,70 +11,93 @@ happened, and git history keeps every old version.
 **Clean up as we go (set by the player, session 9):** during play, when something
 closes or stops mattering, delete or shorten it in the same save. Keep this sheet lean.
 
-**Where we stopped:** **session 10, ~0405 warp day 25**, the loading bay at berth 4-31, Merrick and a dozen watchmen.
-**The *Duty of Coin* taken (day 25, 0350-0400):** Hollis's spec flash (8, +2 commander order = 10, near miss: half effect;
-burst at ~9 m): the sawn-off man blinded 2 beats, the galley pair dazzled. Tamsin's surrender call (18): lasgun man and
-Haddle broke; the shotgunner defied and Corvane (ordered) put a three-shot chain into him first with the new revolver
-(Down, alive); the blind sawn-off missed. Second call (23): the chain-knife man and the blind man surrendered. Bridge:
-master (took Haddle's double fare, 200 Thrones) and mate (tried to warn) taken; **pilot Marra** cut the engines herself
-and told everything (20). No Light-bringer hurt. **Haul:** stolen Kantrael lasgun, junk double shotgun, sawn-off, stub
-automatic, Haddle's stub pistol, chain-knife, trench club, 2 sets scrap throwing knives, 3 flak sets, 1 frag, 1 Frenzon,
-a cult amulet; **Haddle's locked slate (cogged rune, needs Brenner/Ferro)**, a 2nd RELAY 3 token, ~120 Thrones, thorn
-prayer-beads; the master's 200 Thrones. **All prisoners to Merrick's cells:** Haddle, the four circle men, the master, the
-mate; **the pilot to processing, then Merrick's call.** Haddle's 0214 message already went to the Mart ('courier still
-berthed').
+**Where we stopped:** **session 10, ~0505 warp day 25**, back aboard the *Bright Light* after taking the hauler
+*Duty of Coin* (details in the day log below). Day 25 not yet tallied.
 
-### Current state (start of session 10)
+### Current state (session 10, day 25)
 
-- **Orders (Kesh, day 15):** **Torvane's Mart first**, then Vhal Korrin straight after.
-  At the Mart: a **quiet taking of the Bloom and her father (Thask), alive**, for
-  Kesh's hold. No open war in a tithe port's streets; its governor isn't the Ordo's.
-  **Send word to Kesh before the Light moves.** Clock: the Harvest Lamps festival, the
-  Bloom's twelfth naming-day, **~warp day 55**.
-- **Health:** Tamsin **Fine** (healed overnight day 19-20, rolled 20).
-  **Brenner Badly hurt** (revolver round under the left arm, out in surgery; bedbound
-  some days, station medicae). **Varga: left eye lost** (day 17, rolled 4; removed in surgery, clean): **-2 on sight Perception and aimed shots** until an augmetic is fitted; socket heals 1-2 weeks; **Tamsin promised her a shooting eye or better** (catalogue: shooting eye 30 TV, Mechanicus/Free Traders). Back aboard in the ship's medicae; **a week of no shooting, no flying, no exertion** (she promised); Mercy locked in the armoury by Sallow. Coaches Tey from day 18. **Dace Hurt** (hip; walking
-  on a cane, back aboard). **Corvane Hurt** (cuts). Everyone else Fine.
-- **The Spindle trade (day 16):** Orne dead. The *Sable Margin* (now under
-  Quartermaster **Brask**) turned its guns away and left; three of his men were left
-  cuffed on the far lock's deck by agreement. Varn's pickets saw the ship fire; Merrick
-  told Varn "pirates tried to ambush us; Orne's dead".
-- **Prisoners with Merrick (ring one):** Deacon Orrin Selk, Ilen Marsk, Pask Hollow,
-  Mabry's three bunkmates. **Sent to Kesh with Sister Aldwyn (day 14):** Holt, Brann,
-  Fenn, Harrack and Sly (signed to a penal legion), Joss, Mabry and four Kestrel/TALLY
-  hands; plus the vials, the Exitus round, the FOR KESH box, the pirate vox-caster and
-  ORNE spoof-tag, and the Bone Warden boltgun. **A new FOR KESH box** (Selk's register,
-  the Gardener's letters, the SICK ON FOUR list, the hollow prayer-book, censer, robes)
-  and **Mabry's delivery book** are aboard.
-- **Requisition with Kesh (via Aldwyn), answer pending:** 3 plasteel, a drag harness,
-  2 lascarbines, a Mechanicus coupling, a flight jacket, and Nessa's needle pistol and
-  throwing knives.
-- **Builds:** **Dace** has 3 plasteel: 2 for his masterpiece blade, 1 for Corvane's
-  revolver (it uses 1/2; the other 1/2 is his shield-arm plate). Trigger work from a
-  chair now; forge work once he can stand. **Varga's lift pack** done (day 15). **Kell's
-  hellgun Officer** still waits for a blessing (Steady spirit: 2 plasteel + 1 servo-motor;
-  Efficient coils: 2 plasteel + 1 machine-core); 1 plasteel in stores.
-- **Tamsin's new kit:** the jumper's **boarders' lift pack** (worn; ~4 hops left in the
-  charge), his **combat shotgun**, 1 frag, a chem-inhaler, a stolen signet ring.
-- **Gun condition** (codex, Gun condition and jams): every Light gun that fired at the Spindle (day 16) is **Dirty** until cleaned (las guns count one step cleaner, so Vigil, Officer and the lasguns are effectively Clean); everything else **Clean**.
-- **Faction wealth** (codex Part 8): roll each faction's wealth (d100) when the Light reaches the Mart, and again at Vhal Korrin.
-- **Coin:** **13 Thrones** on Tamsin (day 18); earlier: 28 Thrones (day 16: paid 20 for the trigger parts, got 25 change from Marrow); the coin box gave 50 to Doradne (Joss's 40 gone) (0.23 TV; rate 100 Thrones = 1 TV from session 9 on; the plasteel buy at 5 = 1 stands).
-- **Gifts still wanted:** Sallow (drag harness, lascarbine: requisitioned), Mira (Valk
-  rockets), Teo (flight jacket: requisitioned; pilot glasses), Ferro-Ashe (spare
-  coupling: requisitioned; shielded data-case), Nessa (needle pistol and knives:
-  requested). Varga may need an augmetic eye (see `wh40k_gear/catalogue/kit.md`).
-- **Rematch with Varga** (she won the Season One mat match by a hair); trash talk is on.
-- **Station:** Watch-Captain Merrick is a friend of the Light; Anni (the nine-year-old
-  from the ring-four bunks) pulled through and is recovering in station medicae; Ustrennos's
-  five shops restock every 2 days.
-- **Training plan** in force (see the Light, below).
-- **Day 22 (session 10):** 0230 Tamsin spotted the watcher filming him from berth 2-10's alcove (24 vs 16); woke the Light on the bead (Corvane, Isk, Tey answered; Brenner clicked); ran him down, **hip shot to the thigh from the run with Last Word (25)**; grappled (20), bound with his belt; interrogated in the corridor and the cell (will checks 8, 15, 19: broke). Slate log: *'get the interrogator's face. thorn.'* Stakeout at cold store row 0346-1352 (Corvane forged the SENT line, 12); the collector lad read it as wrong (18) and spotted Corvane's boot, drew a stub pistol, fired wide (3); Tamsin disarmed him (natural 20) and smashed the gun. Both prisoners in the *Bright Light*'s cells. Tamsin slept ~1450-0040.
-- **Day 21 (session 10):** Returned 4 finished books (provost's, marksman's, cutlass drill, cogitator primer); signed out 6 more (Books table). Coached Kell for an hour on the mat (the faked storm, slow-then-fast, the fist catch, the scissor). The whole day lifting at the **fleet gymnasium, ring one** with Kell, Morcant, Hollis, Corvane, Sorel, Tavi, Tey (Sorel great on the rope). Ferro threaded Corvane's barrel (20). Tamsin slept 1630-2130, on watch again 2200.
-- **Day 20 (session 10):** Tamsin healed (Fine). Hollis logged a docker-coated man watching the ship at 0230 day 20; Perception sweeps of ring two (22, 19) found no one. Shops: **Voss** bought 10 flak coats, 3 chainswords, a pump, 2 carapace sets, the gold pins (22.5 TV); bought the **Hornet bolt + heavy buffer spring**. **Marrow** bought Holt's medals (2 TV); bought **2 laser sights** and a **ripper drum** (Morcant's). **Doradne**: **Hornet custom barrel**, **1 SCIHU stim** (2 more there), **refractor emitter dome**. Chapel: Kade sealed **Six Bells** (*"Six rounds. Each one rings for someone."*) and **Tey's hellpistol** (*"The next shot. Not the last one."*). Brenner: lung not sealed (8): **2 more days** (out day 22). **Dace riveted Tamsin's ceramite front: heavy carapace from the front, worn**; repaired flak; Corvane's grips fitted, **plasteel hammer and cylinder hand forged**; revolver needs only the barrel thread and paint. Hornet: pressure-pin in; bolt, spring, barrel with Dace; mag catch and safety lever to be machined from scrap. **Ferro fitted the dome (20): refractor field works** (reworked rules, codex); Tamsin wearing it. Isk finished the primer. Tamsin's right-hand fast draw (26) and four-for-four right-hand hip string; 2 h with Shameholder on the post (promise kept a day late); **beat Kell 5-3 bare-handed** on the mat (gave up a free point; Kell found his real form; ended on a natural-20 spinning kick). Tamsin stood the night watch 2200-0600 (quiet). **Coin: 10.18 TV.** Carrying: 2 laser sights, 1 SCIHU stim.
-- **Day 19 (session 10):** Kesh's answer (above in Where we stopped, day 18 night): leave granted to kill the Bloom on Tamsin's judgment; Thask alive; no birth record for the Bloom, mother dead of plague the same month. Sallow (9): shoulder not mending; rifle off the left shoulder or short strings off the right, no blocking with the right arm; **station surgeon if no better by day 21**. Voss: 2 laspistols for **1 crate of autogun rounds (~2,000)** (Hornet). Brenner finished the vox handbook (+1.5 INT); surgeon review day 20. Library: *Combat Engineer's Compendium* (rare) and *Notes on Thermal Charges* to Tavi, *Cutlass and Boarding Blade Drill* to Corvane, *Fire and Suppression* to Morcant. **Tamsin finished the provost's manual** (+1.0 CHA, +0.5 INT, +1 will checks); the **FINISHED BOOKS: KEEP UP WITH ROOK** crate by the range. **Trainee tests:** range: Hollis beat Sorel 5-4 (first to 5; Sorel's three perfect bursts), Corvane beat Tey 32-13 (points); mat: **Sorel beat Kell 5-3**, Nessa beat Tey 5-3. Kell: Sorel's ready, Tey not yet but will be; Kell takes Sorel on the mat every 0600. Tamsin: "keep at it and you'll be official soon." Grip blanks (grey plastek, 20 Thrones) for Corvane's revolver; Dace shaping them; Dace has the Hornet and its build sheet (pressure-pin tonight). Tamsin promised Dace a bigger forge and deckhands on a new ship. Nessa coached Tamsin in stealth 4 h (final test 19 vs Varga's 20: caught by his warrant chain; he owes Nessa a drink of spire amasec). Tamsin drafted attachment plans for every Light weapon. New rules: swapping, recoil, slots (codex); many attachments (catalogue); SCIHU stim. **Coin: 18 Thrones.**
-- **Day 18 (session 10):** Weapons communed by Ferro: **Vigil sulking (1)** (left with Brenner at the Spindle; Tamsin cleaned it by hand and apologised; its hum settled), **Shameholder hungry (5)** (unfed since the *Widow*; Tamsin promised **melee training with it day 19**), **Last Word pleased (15)** (liked the left-hand Venn draw; close to Venn-level trust: one more real moment), **Hornet young and eager (15)** (wants to run; disliked 'made better' (5)). All four cleaned. Light weapon names: Morcant's ripper **Doorknocker**, Hollis's launcher **Six Bells**, Isk's hellgun **Patience**, Tavi's Accatran **Tiny** (probably), Nessa's knives **the Sisters**, the Valkyrie **the White Lady** (Mira) / **Grudge** (Teo), Sallow's **the Bag**; Corvane won't name the power sword until it earns it. Kell's Officer blessing affordable now; Mercy, Patience unread. Resupply asks: Morcant 2 more drums; Tavi took 10 hot-shot packs; Tey some packs for the hellpistol; Hollis more frags (standard fuse); **Hornet needs autogun rounds (none aboard; Voss had crates)**. Sallow wearing her chest rig. Pict lenses on Tamsin, Kell, Isk, Corvane, Hollis, Tavi. Dace has Tamsin's carapace (ceramite front) and flak (repairs). Kell suspects the eye. Day 18 earlier: Letter to Kesh sent clean via the *Iron Litany*'s astropath (~0720; answer in a day or two). Tamsin practised the left-hand fast draw and hip shot with Last Word (rig moved to the **left thigh**); he swore to Varga he'll use it **right-handed at the hive**. Shops restocked. **Voss** (haggle 11): sold 3 hellguns, 3 laspistols, 5 spire amasec, the gold; bought **6 helm pict-capture sets**, a bandolier, a photon flash, 2 belt side-pouches. **Marrow** (haggle 19): bought the **Kasr Hornet machine pistol**, the **medic's chest rig** (Sallow's), **2 spec flash grenades**, a demolitions bag; Marrow still has 2 spec flashes and a salvaged **mechadendrite** (12 TV at 20% off, day 18-19 only). **Doradne** (haggle 14): **shooting eye** (27 TV) and a **Kantrael hellpistol** (given to **Tey**); paid with 9 hellguns + 90 Thrones. **The shooting eye is a secret from Varga:** in a small steel case **under Tamsin's bunk, far corner**; Varga suspects something about her, was told it's a plasteel and ceramite order (Deception 17 vs 5). Must be fitted by a medicae surgeon once her socket heals (1-2 weeks). **Shameholder sealed** at the chapel by Brother Kade: *"In order to forgive, you must scrape away. In order to forget, you must tear apart the shame within. This weapon lays that part out to all."* Its motor ticked; it purred under Tey's hand (17). **Coin: 13 Thrones. Hellguns left: 18.** Varga coaching Tey (coaching rule, codex).
-- **Day 17 (session 10):** Varga's eye lost (above); Brenner 3 more days in station medicae (clipped lung), reading the vox handbook and cogitator primer. Tey drilled 3 h on Merrick's watch range (ring one) with Tamsin coaching; **Osk** (Merrick's watch, the watch's shooting medal two years running) bet he beats Tey, pistols, ten frames on random, before the Light leaves: loser buys the winner's crew a round; **Tamsin offered Osk a Light Trainee place if he wins** (Osk 13: interested, must clear it with Merrick). Six books from the Fleet Archive (see Books). Isk earned the marksman's primer (4 of 5). Nessa given the job of **planning the Mart approach**. Corvane calls Tamsin "boss"; showed shotlas-and-sword drill; **spec flash grenade** designed (catalogue). Tamsin told the whole Light on the bead: everyone on it is family. Valkyrie's **new clamp jaw fitted** by Ferro-Ashe (rite done evening day 17). **Wishlist adds:** Sallow a medic's chest rig (then a bigger bag); spec flashes (Corvane, breach teams); Tavi a Munitorum sapper's manual and anything on melta work; helm pict-capture (Kell). **Letter to Kesh drafted (send day 18):** Spindle report; asks her to reconsider: Thask still taken alive if possible, but **leave to kill the Bloom if she proves to be a thing, not a girl (mutant, vessel), or if taking her alive would put the Light at serious risk**; asks what Kesh knows of her; the Light won't move until Kesh answers.
-- **Session 10 so far (day 16 afternoon):** speech to the Light ("For the Light"); plan: brief and train tomorrow, leave for the Mart when everyone's on their feet; **Tamsin will put the elimination question to Kesh** (he'd rather kill the Bloom and Thask; Kesh ordered both alive) before moving. Nessa drawing berth 31 / Low Quay from memory (contacts: Ilsabet; Dannick, Low Quay crane boss; Hobb, barkeep of the Lamp-Black; Mag Vashti's crews); Nessa called the Light family. Ferro-Ashe accepted "family"; Valk spirit sulks (10) until the flank's mended. **Valkyrie clamp jaw cracked** (Ferro 10): manual release only until the **new jaw** (bought) is fitted; **void-sealant** bought; the dented flank panel waits for Dace to stand (Ferro showed him the pattern); paint from the 12 L of deck paint. Bought: trigger group + spring set (Dace has them), Cadian machete + fitted sheath and the 2nd Accatran (given to **Brenner**), 1st Accatran (**Tavi**), 2 morphia (**Sallow**), 2 plasteel and 1 ceramite (stores; plasteel now 3, so Kell's Steady spirit blessing is affordable). Paid with 8 hellguns (30 left) and 50 Thrones. **Combat knife sealed** at the ring-one chapel by **Brother Ansel Kade** (new chapel priest): *"To save a life, sometimes you must take one."* Kade will seal **Shameholder** when it's brought to him. Brenner has his bead back (listening only after lights-down, Orderly Fesk's rule); Varga gets hers when she's awake and complaining. Brenner wants mat time and Dace's cover-and-fire drills once he's up. **Tey** at Tamsin's side; pistol focus. Kell: assessment (Sorel meets the standard, Tey not yet; "give him to the Mart"); Spindle lessons (kill zone facing the bay, chem-dogs need two shots, traps in front not on our line, the ship's timing was called by someone); wants **helm pict-capture** for the team (shops or Kesh requisition); ready to split the Light into two teams (Hollis to lead the second, Tamsin's call); 3-4 teams would need a bigger ship.
+- **Orders (Kesh):** Torvane's Mart, then Vhal Korrin. **Leave granted (day 19):** kill the Bloom on Tamsin's
+  judgment if she's a thing, not a girl, or if taking her risks the Light; **Thask wanted alive**. Kesh: no birth
+  record for the Bloom; her mother recorded dead of plague the same month. Avoid open war on the Mart (Governor
+  **Halden Voke** isn't the Ordo's). **Clock:** Harvest Lamps ~day 55.
+- **The Mart knows:** Haddle's long-band message (day 25, 0214) told Low Quay relay 9 (Garran & Sons) 'roots cut,
+  carrier and watcher taken, no face, courier still berthed'. Thask's network has Tamsin's name but **not his face**.
+  Night-one hull picts did go out.
+- **Plan (Nessa owns it; full brief when Tamsin says):** Thask and the Bloom first, quiet; docker coats over armour;
+  the Valkyrie (not the ship) if it goes loud; Nessa + Dannel to the **cannery at ~berth 44 (tin chutes)** for **Pell
+  Rusk** (11); second hit (ledger/loot) decided on the ground; governor after the mission.
+- **Health:** everyone Fine except **Varga** (left eye lost day 17; socket ready **day 29**; -2 sight Perception and
+  aimed shots; no shooting/flying till then; coaching Tey) and **Brenner** (lung sealed; **light duty to ~day 29**).
+  Dace's hip: stands an hour at a time, cane. Tamsin Fine, wearing heavy carapace front + refractor field.
+- **Food:** everyone Fed (no cook aboard).
+- **Prisoners/penitents aboard:** **Dannel Rusk** (penitent, cell 2 by night; Corvane's grey cord; **convict labour
+  collar from Merrick, rod on Tamsin's belt, return it when done**; clean by the oil; his deal: penitence + the deacon
+  for Pell's rescue; the deacon is now taken). **Joren Brisk** (penitent, cell 1 by night; clean; owes a ring-four
+  loan shark 60 Thrones; leg Hurt, mending).
+- **With Merrick:** Selk, Marsk, Pask Hollow, Mabry's bunkmates; **Osric Haddle** and his four circle men, the
+  *Duty of Coin*'s master and mate; the pilot Marra in processing (Merrick's call). Merrick: plain coats on cold
+  store row / Relay 3; *Duty of Coin* impounded. **Merrick is a firm friend.**
+- **To crack:** **Haddle's locked slate** and the lad's locked slate (cogged runes; Brenner/Ferro).
+- **Builds:** **Dace's masterpiece blade** (his 2 plasteel; done ~day 26). **The Hornet** (bolt, spring, custom barrel
+  fitted; mag catch and lever machined from scrap; frame needs 1/2 plasteel; done ~day 27). Dace also has the other
+  plasteel for Shameholder's plasteel teeth (1) and Kell's Steady spirit blessing (2, with Ferro and the servo-motor).
+  **Valkyrie:** new clamp jaw fitted; flank panel waits for Dace to beat it out (hull-plate manual), then sealant and paint.
+- **Shooting eye:** secret, steel case **under Tamsin's bunk, far corner**; surgeon fitting once the socket's ready
+  (~day 29; the Ustrennos surgeon). Varga suspects a surprise (told: plasteel/ceramite order).
+- **Coin:** Tamsin **10.18 TV**; coin box **332 Thrones** (Haddle 120 + the master's 200 + ~12). Rate 100 Thrones = 1 TV.
+- **Kept:** 1 **SCIHU stim** (Tamsin's satchel), 2 laser sights (satchel).
+- **Wishlist (on the book crate):** Morcant drums x4 + compensator; Tavi kraks, melta bomb, sapper's charge rig; Tey a
+  holster that fits; Isk range-finder sight, grey hooded cloak, (machine-core for his lift pack via Ferro); Hollis grenade
+  bandolier, command bead, map-slate; Teo pilot glasses; Mira Valk rockets; Nessa toxin darts, lockpicks; Corvane
+  quick-draw holster, cutlass when earned; Sallow bigger bag, more SCIHU; Kell Steady spirit blessing, spare plasma cell;
+  Brenner servo-skull; Dace a bigger forge (promised with a new ship); Sorel a rifle of his own; Varga NEW EYE.
+- **Owed:** Nessa a drink of spire amasec (stealth bet). Osk's match with Tey (Tamsin calls it when Tey's ready; Osk may
+  join as a Light Trainee if he wins, Merrick permitting). Merrick's labour collar.
+- **Before leaving Ustrennos:** return the library books (Books table); re-key THE LIGHT (Brenner + Ferro, can be on the
+  trip); fit Varga's eye if the socket's ready; send the FOR KESH box and Mabry's book; roll nemeses at mission start.
+- **Faction wealth:** cultists here rolled **Poor** (day 25). Roll again at the Mart.
+- **Pre-rolled skip events (use as play reaches them):** day 26 event 10, day 27 17, day 28 8, day 29 13, day 30 7
+  (low = trouble). Shops restock days 26, 28, 30.
+
+### Day log, session 10 (newest first)
+
+- **Day 25:** 0310 Merrick: Haddle made her plain coats, his circle knifed one (alive), Haddle sent a message from
+  Relay 3 and ran for the hauler *Duty of Coin* (berth 4-31, undock 0400). Light split: Tamsin, Tey, Nessa, Brenner to
+  Relay 3 (old operator; Brenner read the send log, 15); Kell's team to the berth. Tamsin, Kell, Tey boarded (mate
+  taken, he got out 'Inqui-'). Crew deck ambush spotted by Corvane (19 vs 9). **Two commander orders** (traitor elite):
+  Hollis's spec flash (10, near miss, half effect), Corvane first with a three-shot revolver chain (shotgunner Down,
+  alive). Surrender calls 18 and 23: all five surrendered, **Haddle taken alive**. Bridge: master and mate taken; pilot
+  Marra cut the engines herself. No Light-bringer hurt. All prisoners to Merrick (pilot to processing). Haul to the
+  container, organised and chalk-labelled by Tey; Haddle's slate and a 2nd Relay 3 token to Brenner; 332 Thrones to
+  the coin box. Varga: 'We were good then. We're dangerous now.'
+- **Day 24:** normal training (Tamsin STR 27.4, DEX 67.6). ~1100 **Merrick found the deacon: Osric Haddle** (cargo-tally
+  clerk, prayer circle in ring-four bunks block 4-B, seen in Relay 3); Tamsin: watch him, take him quietly before sailing.
+- **Day 23:** 0040 Tamsin woke; talked to Dannel (mother 'bloomed'; never took the garden in; sister Pell at the
+  cannery); Dannel renounced the garden before Tamsin and Hollis. Joren (did it for 60 Thrones' debt). Merrick woken
+  0130: doubled patrols, plain coats, deacon hunt; Relay 3 hired to 'Garran & Sons' (a front). Nessa: Voke; the Old Man
+  hires off-world killers. 0625 **chapel: Brother Kade's oil of seeing: Dannel clean (shame), Joren clean**; both made
+  **penitents** (Corvane gave Dannel his own grey cord). Merrick's labour collar on Dannel. 5 h on the range (Vigil's
+  first shot since the Spindle, Tamsin's). **Kesh's requisition collected** (3 plasteel, drag harness + lascarbine to
+  Sallow, 2nd lascarbine in stores, coupling to Ferro, flight jacket to Teo, Nessa's needle pistol and knives, 4 spec
+  flashes: 2 Corvane, 2 Hollis). **Corvane's revolver given** (white and grey; needs a name; Dace's cut-down holster).
+  Dace began his blade; got the plasteel. Wishlist posted. Sallow taught Tamsin field medicine 3 h. Nessa's rundown at
+  dinner.
+- **Day 22:** 0230 the watcher (docker **Joren Brisk**) spotted filming Tamsin (24 vs 16), shot in the thigh from the
+  run (25), taken; broke (will checks 8, 15, 19): 50 Thrones a night, drop at cold store 4-15, slates to Relay 3, 'get the
+  interrogator's face. thorn.' Stakeout 0346-1352: the collector (**Dannel Rusk**) caught, disarmed (natural 20). His
+  satchel: the slate, 50 Thrones, a locked slate, RELAY 3 token, note *'Courier still berthed. Face by tonight. Departure
+  the moment it moves. —T.'*, an iron thorn.
+- **Day 21:** books returned/borrowed; coached Kell; a day lifting at the fleet gymnasium (ring one); night watch.
+- **Day 20:** healed; shops (Hornet parts, laser sights, ripper drum, SCIHU, emitter dome; sold flak, chainswords, pump,
+  2 carapace, gold pins, Holt's medals); chapel seals for Six Bells and Tey's hellpistol; heavy carapace front fitted;
+  refractor field fixed (20); right-hand fast draw and hip string; **beat Kell 5-3 bare-handed**; night watch.
+- **Day 19:** Kesh's answer; trainee tests (Hollis beat Sorel 5-4; Corvane beat Tey 32-13; **Sorel beat Kell 5-3**; Nessa
+  beat Tey 5-3); provost's manual finished (+1 will checks); FINISHED BOOKS crate; stealth with Nessa.
+- **Day 18:** weapons communed and cleaned; shooting eye, hellpistol (Tey), Hornet, pict sets, spec flashes, chest rig
+  bought; Shameholder sealed; letter to Kesh sent.
+- **Day 17:** Varga's eye lost; Tey's pistol focus; Osk's bet; books; family on the bead; spec flash designed.
+- **Day 16 (afternoon):** speech; Nessa's map; knife sealed; trigger parts, Accatrans (Tavi, Brenner), machete,
+  morphia; Valk jaw and sealant; Tey at Tamsin's side.
 
 ### What the Light knows about Thask
 
@@ -194,7 +217,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | --- | --- |
 | Rank | **Interrogator** of Inquisitor Kesh's Ordo (rosette, warp day 20, session 7). Leads the Light, his cell under Varsaine. (Interrogator-designate from session 5.) |
 | Class | Fighter 9, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
-| Health | **Hurt** (warp day 16: chem-dog pellets across the carapace and shoulder at the Spindle; picked out at station medicae; mends with rest) |
+| Health | **Fine** (healed day 20) |
 | Stats (levels 1-100) | STR **27.1** (+2), DEX **67.3** (+6), CON **23.5** (+2), INT **10.2** (+1), WIS **18.8** (+1), CHA **10.6** (+1) (day 23 tally: STR +0.3, DEX +0.5, WIS +0.6 (Sallow coached), CHA +0.2. day 22 tally: STR +0.2, DEX +0.2, WIS +2.2 (night watch, 10 h stakeout, orders), CHA +0.2. day 21 tally: STR +0.6, WIS +0.1. day 20 tally: STR +1.4, DEX +0.2, WIS +1.0, CHA +0.1. day 19 tally: DEX +1.1, INT +0.7 incl. book +0.5, CHA +1.2 incl. book +1.0. day 18 tally: DEX +0.5, INT +0.1, CHA +0.6. day 17 tally: INT +0.2, WIS +0.4, CHA +0.5. day 16 tally, session 10: STR +0.7, DEX +0.1, CON +0.1, WIS +0.6, CHA +1.1. Before that: after warp day 8: DEX +1.0 range with Vigil, DEX +0.5 cover drill with Dace. Warp days 9-12 in bed, no reps. Day 13: DEX +1.0 Vigil, DEX +0.5 Last Word, light range work while Hurt. Day 14: DEX +1.0 Vigil on lane three beside the trainees, WIS +0.5 coaching the trainees) |
 | At the Ustrennos jump point (days 16-17, three a day) | 16: STR +1.0, DEX +0.5, CHA +0.4. 17: CON +1.0, DEX +0.9 |
 | Road to Ustrennos (warp days 10-15, three a day, rolled) | 10: STR +1.0, CON +0.5, WIS +0.4. 11: STR +1.0, WIS +0.5, INT +0.4. 12: DEX +1.0, CHA +0.9. 13: WIS +1.0, CHA +0.5, STR +0.4. 14: INT +1.0, DEX +0.5, STR +0.4. 15: DEX +1.0, WIS +0.5, CON +0.4 |
@@ -210,18 +233,19 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Item | Notes |
 | --- | --- |
 | **Vigil** (hellgun) | **Blessing: Korren's breath (Ferro-Ashe's version, session 8):** crits on **17-20**; each crit adds 1 heat; at 3 heat in a fight it must vent one beat (can't fire); firing anyway at 3 heat: d20, 1-5 cracks the coil (out of the fight, Ferro must fix; the spirit sulks). Heat clears after venting or at fight's end. Paid: the Kasr Holn cogitator relic + 2 plasteel (2 ingots left). Rite overnight (14, success). Accepted at 0500 warp day 8 when Tamsin named Korren and promised not to let it overheat; Ferro read the spirit's 'want' as **to hear its last bearer remembered**, now satisfied. Old spirit, four bearers; patient, loyal, hates full-auto. Last bearer storm trooper **Korren** (41 kills), died with it on **Velk**. Cadian camo by Ottrick over Korren's tallies; sling wrapped in Tamsin's camo. Purity seal on the stock (one use). Bayonet lug (the combat knife). **New coil** fitted by Tamsin under Hespa-Vor's rite (warp day 4 to Ostrava); the spirit accepted it, hum deeper and smoother. The **old coil's wire** (Korren's last shots) is wound by Dace around the forestock as a flat copper-gold grip wrap. Packs: 1 full in the gun, 2 full spares (third collected from Ottrick, warp day 6 morning) |
-| **Shameholder** (chainsword) | Painted by Tamsin: Ash black, **SHAME** in blood red along the etched spine, bone grip, red guard, Cadian-white switches. Old Chaos star ground off. Purity seal on the hilt **burned away** (Season Two, session 8: held to a plague-sick cultist on the *Widow*). Black wax honour seal: *"Offered rest by the dark, and refused it."* **Venn's brass key** hangs from the pommel ring. **Overdrive** (Ottrick): once per mission, ~30 s; armour one step lighter, advantage in mob pushes; then unusable that fight; a natural 1 while running burns out the motor. Used in the Deck 9 breach; ready next mission. **Ferro-Ashe communed (session 8, 0515 warp day 7-8):** not tainted by the seed (10) but pulp in the teeth needs a full clean and re-oil; motor wear from the overdrive minor (13); hunger high, satisfaction high (Dresh, the overdrive kills); **revulsion spike recorded at the seed**, it hated the plague things; a fragment of its hidden past (7): it carried another name before SHAME, scratched off with the star, and does not want it back. Purity seal gone. Left with Ferro-Ashe to clean and re-oil, then to the rack in container 1. Hespa-Vor communed: it shouts, all hunger; proud of the Deck 9 kill; hides a past from before Tamsin (the Chaos star days). Not corrupted. 12 spare teeth by Dace at the forge |
+| **Shameholder** (chainsword) | Painted by Tamsin: Ash black, **SHAME** in blood red along the etched spine, bone grip, red guard, Cadian-white switches. Old Chaos star ground off. Purity seal on the hilt **burned away** (Season Two, session 8: held to a plague-sick cultist on the *Widow*). Black wax honour seal: *"Offered rest by the dark, and refused it."* **Venn's brass key** hangs from the pommel ring. **Overdrive** (Ottrick): once per mission, ~30 s; armour one step lighter, advantage in mob pushes; then unusable that fight; a natural 1 while running burns out the motor. Used in the Deck 9 breach; ready next mission. **Ferro-Ashe communed (session 8, 0515 warp day 7-8):** not tainted by the seed (10) but pulp in the teeth needs a full clean and re-oil; motor wear from the overdrive minor (13); hunger high, satisfaction high (Dresh, the overdrive kills); **revulsion spike recorded at the seed**, it hated the plague things; a fragment of its hidden past (7): it carried another name before SHAME, scratched off with the star, and does not want it back. Purity seal gone. Left with Ferro-Ashe to clean and re-oil, then to the rack in container 1. Hespa-Vor communed: it shouts, all hunger; proud of the Deck 9 kill; hides a past from before Tamsin (the Chaos star days). Not corrupted. 12 spare teeth by Dace at the forge (to be recast in plasteel). **Purity seal restored (day 18, Brother Kade):** *'In order to forgive, you must scrape away. In order to forget, you must tear apart the shame within. This weapon lays that part out to all.'* Communed day 18: hungry (5); trained with it day 20 |
 | **Last Word** (duelling laspistol) | Jory Venn's family piece (VENN · HALCYON REACH stamped inside): carnodon-tusk grip, brass beast-head muzzle, *Ultima Verba* on the barrel, hair trigger left as Venn set it. **Now worn on the right thigh**, as the Venns did. Hespa-Vor communed: proud, grieving Venn, approves of Tamsin's care; remembers firing down a stair on Velk at "something that did not fall"; Venn called on it to hold him together on the climb; afraid of the word "cradle". Blessing only once it trusts Tamsin like the Venns: use it. Warming to Tamsin: a clean right-hand quick-draw, dead centre, on warp day 5 to Ostrava; a sliding quick-draw that stopped the dockmaster's clerk hitting the alarm (Ustrennos, Season Two); a left-handed quick-draw past Dace's shield that saved Dace's life, at the *Gate Unbroken*'s bridge doors; a left-handed two-shot chain, wounded, that killed the last two at the Spindle's inner lock (17, 20). Hespa-Vor's adaptor charges it from any coupling. Purity seal under the trigger guard (one use). No blessing yet |
-| **Combat knife** | Kasr Holn knife, Vigil's bayonet. Tip scorched black from the Geller node, with its cog-and-eye rune burned faintly into the steel. Cosmetic |
+| **Combat knife** | Kasr Holn knife, Vigil's bayonet. Tip scorched black from the Geller node, with its cog-and-eye rune burned faintly into the steel. **Purity seal (day 16, Brother Kade):** *'To save a life, sometimes you must take one.'* |
+| **Kasr Hornet** (machine pistol) | Bought day 18 (Marrow). Young, eager spirit, nine bearers (names scraped off by Tamsin). Stock off. **With Dace:** new bolt + heavy buffer spring (jams only from the 25th straight round), custom barrel (+1 aimed, +1 past 30 m), pressure-pin safety, mag catch and lever from scrap, new frame (1/2 plasteel). Ammo: the autogun crate. Ready ~day 27 |
 | Kantrael lasgun | Backup rifle, 2 las packs |
 
 ### Kit
 
 | Item | Notes |
 | --- | --- |
-| Grenades | 2 frag, **converted to impact fuses** by Ottrick (warp day 5 to Ostrava): burst on contact, can't be dodged or thrown back; a **natural 1 on the throw** sets one off at Tamsin's feet. 1 smoke, 0 krak |
-| Armour | Carapace chest plate over dented flak; void-mask; plague rebreather (double-filtered, from Haldis) |
-| Holsters | Quick-draw thigh rig (sized for Last Word); Chimera-hide long holster |
+| Grenades | **Now (day 25):** 2 impact frags, 1 standard frag, 1 smoke. Earlier: 2 frag, **converted to impact fuses** by Ottrick (warp day 5 to Ostrava): burst on contact, can't be dodged or thrown back; a **natural 1 on the throw** sets one off at Tamsin's feet. 1 smoke, 0 krak |
+| Armour | **Carapace chest plate with a riveted ceramite front (Dace, day 20): heavy carapace from the front**, over repaired flak; **refractor field** (reworked rules); void-mask; plague rebreather (double-filtered, from Haldis); helm pict lens; boarders' lift pack (~4 hops, in the container) |
+| Holsters | Quick-draw thigh rig (sized for Last Word; **worn on the right thigh**, Venn side; practised left too); Chimera-hide long holster; 1 plain pistol holster (the other cut down by Dace for Corvane's revolver) |
 | Reinforced Munitorum satchel | Green canvas, steel corners, a dozen pouches |
 | Medicine | 1 tin purification salve. No antitoxin |
 | Warrant of trial | Iron Inquisition I with a bar across it, on a chain, with the container's padlock key |
@@ -238,44 +262,43 @@ Two Munitorum shipping containers in the *Bright Light*'s hold (the Light's,
 chalked *PROPERTY OF THE LIGHT* and padlocked, with Tamsin's weapon rack inside;
 and Container 2). Everything the Light owns is counted below.
 
-### Inventory after Ustrennos (counted warp day 8, session 8)
+### Inventory (counted day 25, session 10)
 
-(Session 9: Tamsin's purification salve tin used up, warp day 9.)
+The Light's container, Container 2 and the hold, all together (what isn't carried by someone).
 
-The Light's container, Container 2 and the hold, all together.
-
-- **Long guns:** 38 hellguns (Cadian, Gate Guard green), ~~1 Gate Guard marksman's long-barrel hellgun~~ **given to Isk** (warp day 8), 5 lasguns (incl. the Kantrael), ~~1 pump shotgun~~ (to **Morcant**, warp day 8; his old shotgun into the rack as a spare), 1 spare working heavy stubber.
-- **Sidearms:** 3 bolt pistols (2 Gate Guard officer pattern + Varro's father's, empty) with **21 bolt rounds** in 3 mags, 6 laspistols, 1 compact autopistol (2 mags), 2 stub pistols.
-- **Blades:** **Holt's power sabre** (Cadian officer pattern, field sound), 1 chainsword (chipped teeth), 4 Gate Guard bayonets.
-- **Armour:** 14 sound Gate Guard carapace sets + 5 chalk-marked (have them checked) + 2 holed; ~25 flak coats, ~25 visored helmets (old Rest haul); officers' dress uniforms.
-- **Ammunition:** ~80 hot-shot packs, ~40 las packs, 6 heavy stubber belts, ~320 shotgun shells.
-- **Grenades:** 14 frags, 2 kraks, 2 photon flashes (plus what each Light-bringer carries).
-- **Vox:** ~23 vox-beads, the Gate Guard officer's vox-horn.
-- **Medicae:** 21 antitoxin (15 of Kesh's blessed + 6 fleet), ~15 stimms, plague-ward filters and salve, a fleet medicae crate, a half-used medicae crate.
-- **Salvage and parts:** **1 plasteel ingot** (day 16: 3 more bought from Voss, all 3 given to Dace; the other went into the Geller repair), 1 servo-motor, 0 machine-cores (session 9: 1 each to Varga's lift pack), 1 ceramite plate, a coil of copper cable (Spindle plant, warp day 8), 1 flask of sacred oil, ~22 station power cells, the rim gun's firing coupling.
-- **Bought from Master Voss (warp day 8, 17 TV in gold):** a hand auspex, a shock maul, a cogitator spike, 1 breaching charge (delivered to the *Bright Light*). **Handed out:** auspex and cogitator spike to **Brenner**; shock maul to **Morcant**; the breaching charge to **Tavi**'s kit (Morcant carried it).
-- **Valuables:** ~2 TV in gold and coin left (17 spent with Voss), Gate Guard gold pins, Holt's campaign medals, 14 bottles of spire amasec, 2 cases of spire wine (one bottle short).
-- **Trophies:** **the Gate Guard regimental standard** (white gate on Cadian green).
-- **Supplies:** the *Widow*'s 12 crates (rations, water drums, scrubber cartridges, power cells, medicae).
-- **For Kesh (locked away; the vials in Tamsin's safe):** the six vials and Thask's letter, the burst casket, 13 iron open-gate amulets, chalk, Dresh's ritual knife and prayer-book, Drachen's ledgers and slates, the Spindle logs, Brann's slate, Orsk's ledger, handshake slate, seal and master ID.
-
-### Haul from the Slack Line and berth 4-2 (session 9, warp day 9; on the *Bright Light*)
-
-Hold-fire survival rolled 10: plasteel survived, the rest in the hold burned.
-
-- **Rare:** ~~Godwyn-pattern Astartes boltgun~~ (**given to Kesh via Aldwyn, session 9, for the Bone Wardens**), a **captain's power sword**, a **refractor field** (salvaged, flickers; turned one of Tamsin's bolts).
-- **Blades:** 2 sets of **Callidus plasteel throwing knives** (6 each; one set from the hold, scorched but sound), a **power knife** (two; one from the lock, one from the TALLY crew), a Navy cutlass, 2 officer's sabres, 4 weighted grapple-cutlasses, 3 boarding axes, 2 chainswords.
-- **Guns:** a **ripper drum shotgun**, 2 pump shotguns, a combat-shotgun-and-axe boarding rig, a **twin-barrel boarding pistol**, an **ornate captain's las pistol** (+1 on single shots), a shotlas (las-scattergun), 2 stub revolvers, an autopistol. From the Slack Line (Merrick boxing it): the stolen Ryza flamer, a scrap autogun with drum, a stolen officer's laspistol, a stub automatic, an autopistol.
-- **Explosives:** **1 melta bomb**, **1 demo satchel + detonator**, **1 breaching charge**, 3 frags, a choke gas grenade, 1 rot gas bottle (sealed, for Kesh).
-- **Armour and kit:** 5 carapace sets (TALLY crew), Wren's heavy carapace and boarding shield (scorched; have them checked), 3 patched Navy void-suits, 2 grav-chutes, a boarding shield (from the lock), **the vox-caster and 6 spoof-tags**.
-- **Other:** off-world spice (2 tins), amasec, ~40 Thrones (Joss), 7 sealed crates from the *Kestrel's Due* (unopened).
-- **Lost:** Wren's combat shotgun (warped), the axe, carapace and chainsword near the melta blast.
-
-### Haul from the Spindle trade (session 9, warp day 16)
-
-- **Boarders' lift pack** (Kasrkin-pattern rules; ~4 hops left in the charge; recharge ~2 h on a station), off TALLY's jumper. Tamsin wearing it.
-- **Combat shotgun, semi-auto** (the jumper's).
-- 1 frag grenade (standard fuse), a chem-inhaler (unknown chem), **13 Thrones**, a cheap stolen signet ring.
+- **Long guns:** **18 Cadian hellguns**, ~4 lasguns + a stolen Kantrael (day 25), **1 Accatran lascarbine** (Kesh's
+  2nd), 3 pump shotguns, the combat-shotgun-and-axe boarding rig, a junk double shotgun and a sawn-off (day 25), 1 spare
+  heavy stubber.
+- **Sidearms:** 3 bolt pistols + **21 bolt rounds**, 2 stub revolvers, 1 stub pistol, a stub automatic, Haddle's stub
+  pistol, 1 autopistol, 1 compact autopistol (2 mags), the twin-barrel boarding pistol, the **ornate captain's laspistol**
+  (+1 single shots), Tamsin's combat shotgun (the jumper's). *(Kasr Hornet: with Dace.)*
+- **Blades:** **Holt's power sabre**, the **captain's power sword** (Ferro's queue), 2 power knives, 1 set of Callidus
+  throwing knives, a chain-knife (day 25), Navy cutlass, 2 officer's sabres, 4 grapple-cutlasses, 3 boarding axes, 4
+  bayonets, a trench club, 2 sets of scrap throwing knives.
+- **Armour:** **12 sound Gate Guard carapace sets**, 5 chalk-marked, 2 holed; 3 TALLY carapace sets; ~15 flak coats + 3
+  battered flak (day 25); ~25 helmets; 3 Navy void-suits; 2 grav-chutes; 1 boarding shield.
+- **Ammunition:** **1 crate of autogun rounds (~2,000)**, ~70 hot-shot packs, ~40 las packs, ~320 shotgun shells, 6
+  stubber belts.
+- **Grenades and explosives:** 18 frags, 2 kraks, 3 photon flashes, **2 spec flashes**, 1 choke gas; **1 melta bomb**, 1
+  breaching charge, **28 demo charges**, 1 rot gas bottle (for Kesh).
+- **Kit:** a bandolier, 2 belt side-pouches, a demolitions bag, ~23 spare vox-beads, the vox-horn, 2 laser sights
+  (Tamsin's satchel).
+- **Medicae (beyond Sallow's):** ~11 antitoxin, ~5 stimms, plague-ward filters and salve, a fleet medicae crate,
+  **1 SCIHU stim** (Tamsin's satchel).
+- **Salvage and parts:** plasteel **with Dace** (6 from Kesh/shops, for the Hornet frame, Shameholder's teeth, Kell's
+  blessing; his own 2 in his blade), **1 ceramite**, 1 servo-motor, 0 machine-cores, ~18 station power cells, copper
+  cable, 1 flask of sacred oil, the rim gun's firing coupling, the refractor field (Tamsin wears it).
+- **Valuables:** 9 bottles of spire amasec (one owed to Nessa), 2 cases of spire wine (one bottle short), 2 tins of
+  off-world spice. **Coin box: 332 Thrones.**
+- **Trophies:** the Gate Guard regimental standard.
+- **Supplies:** the *Widow*'s 12 crates; **7 sealed crates from the *Kestrel's Due* (unopened)**.
+- **For Kesh (locked):** the FOR KESH box (Selk's register, the Gardener's letters, SICK ON FOUR list, the hollow
+  prayer-book, censer, robes), Mabry's delivery book, the Frenzon dose and cult amulet (day 25), the iron thorn,
+  Haddle's thorn prayer-beads. **Slates to crack:** Haddle's, the lad's (with Brenner).
+- **Handed out this session:** Accatrans (Tavi, Brenner), machete + sheath (Brenner), hellpistol (Tey), pict lenses
+  (Tamsin, Kell, Isk, Corvane, Hollis, Tavi), chest rig + drag harness + lascarbine + morphia (Sallow), Kesh's needle
+  pistol and knives (Nessa), flight jacket (Teo), coupling (Ferro), spec flashes (2 Corvane, 2 Hollis), ripper drum
+  (Morcant), Corvane's revolver.
 
 ### Lift packs (session 9)
 
@@ -283,18 +306,6 @@ Built to the **Kasrkin-pattern jump pack** (catalogue, kit; a real, approved Cad
 - **Varga's pack: begun ~1730 day 13, Ferro's roll 18: success; ready ~1730 day 15.** Spent: 1 machine-core, 1 servo-motor, 4 power cells.
 - **Isk's** waits on another machine-core.
 - **Varga's new subclass: Jumper** (set by the player): comes out in the air to draw fire, moves fast overhead and shoots down in quick strings (bestiary roles: Jumper). Tag: **Varga (Light-bringer, rifle/jumper)**. She'll drill shooting on the move once the pack is ready.
-
-### Proposed build: Corvane's revolver (Tamsin's design, session 9; DM ruling)
-
-Keep the frame, barrel and cylinder (cleaned; the barrel re-threaded straight). Replace the rest:
-- **Plasteel hammer + new cylinder hand and ratchet:** hits harder, turns faster. **Fast action:** up to **3 shots in a chain per beat** (normally 2), and **no light strikes** (duds).
-- **Safe-action trigger** (a blade safety in the trigger face) **+ a normal clean pull:** **no longer drop-prone**.
-- **Ghost-ring sights + two ergonomic grip panels:** **+1 on shots within ~15 m**.
-- **Paint:** grip panels grey, the rest white.
-- **~2030 day 13: Tamsin cleaned the frame, barrel and cylinder** (barrel still needs re-threading by a smith); parts and sketch on his desk.
-- **Costs:** **1/2 plasteel ingot** (hammer, hand and springs; set by the player, session 9, from the ingot Tamsin gave Dace on day 16), a spring set and trigger group (Voss's stock or Ferro's bench), 0.5 TV of paint. **Time:** 2 days. **Builder:** Dace (smith; bench work once he can sit up) or Ferro-Ashe; the builder rolls with their specialty.
-- **Builder: Dace** (agreed ~0900 day 14). From his cot: strip and clean, trigger and blade safety, ghost-ring sights, grip panels (needs a trigger group and spring set from Voss, and grip stock). Needs the forge: plasteel hammer and cylinder hand. Needs Ferro's lathe: re-thread the barrel. Paint last. ~2 days bench, 1 day forge.
-- **Three Munitorum gunsmith manuals** (set by the player as backstory: Tamsin quietly took them from Ottrick's shelves before leaving the Lantern) go to Dace with the parts. **Studying them gives Dace +1 on gun-crafting rolls.** Ottrick may notice they're gone.
 
 ### Proposed build: the Kasr Hornet (Tamsin's design, session 10, day 18; DM ruling)
 
@@ -307,18 +318,6 @@ Tamsin's labelled drawing on oilcloth, ~1615 day 18. Communed: a young, crude sp
 - **New barrel** (~1 TV): bore no longer pitted; **+1 on shots past ~15 m**.
 - **Later attachments** (catalogue, kit: pistol attachments): auto drum (80 rounds), laser/lumen combo, pistol reflex sight, ergo grip sleeve.
 - **Parts:** shops (restock day 20) or Doradne machines them. **Builder: Dace** (+1 from Ottrick's manuals): bench work ~1 day; frame forge work ~2 days, once he can stand.
-
-### Tamsin's container note (~0950 day 14)
-
-**For Dace and Ferro to fix:** the refractor field (Ferro: steady the flicker), the scorched Callidus knives (Dace: regrind), the captain's power sword (Ferro: tune and bless the field), and **Tamsin's chest piece: Dace fits the ceramite plate over the front** (ruling: from the front, Tamsin's chest counts as **heavy carapace**; uses the last ceramite plate).
-
-**Kit changes (handed out from the container):**
-- **Morcant:** Wren's **heavy carapace** and the **ripper drum shotgun**; his pump shotgun back to the rack.
-- **Kell:** a full carapace set; **Dace to cut the boarding shield down into a left shield-arm plate** for him.
-- **Tavi:** 1 krak, the **demo satchel + detonator**, the **breaching charge**.
-- **Sallow:** all the medicae she wants (she took 10 antitoxin, 10 stimms, filters, the half-used crate).
-- **Hollis:** a full carapace set.
-- **Corvane:** the **shotlas**.
 
 ### Books (codex house rule 7, Books; set session 10)
 
@@ -443,16 +442,16 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Kell** | 35.1 | 36.2 | 30 | 10 | 25.5 | 10 | Fine (sling off warp day 7). Swaps in for Varga next mission. Day 15 rep: +1.0 STR. Day 16 tally: DEX +0.2, WIS +0.2. Day 17 tally: STR +0.6. Day 18: STR +0.6. Day 19: STR +0.6. Day 20: STR +0.9, WIS +0.1. Day 21: STR +0.8, WIS +0.2. Day 22: STR +0.6 |
 | **Varga** | 25 | 39.6 | 25 | 10 | 23.1 | 5.1 | **Hurt, left eye lost** (day 17; -2 sight Perception and aimed shots until an augmetic); aboard, ship's medicae, a week off shooting. Warp day 6 dawn rep: DEX +1.0 (dry-fire drills with Mercy). Day 15 rep: +1.0 DEX. Day 18: WIS +0.6. Day 19: WIS +0.6, CHA +0.1. Day 20: WIS +0.5. Day 21: DEX +0.3, WIS +0.2. Day 22: DEX +0.3, WIS +0.2 |
-| **Dace** | 25.2 | 22 | 20 | 22.7 | 5 | 5 | Hurt (hip, session 9; walking on a cane from warp day 16), in station medicae. Day 15 rep: +1.0 INT. Day 16 tally: DEX +0.4, INT +0.1. Day 17 tally: DEX +0.6, INT +0.1. Day 18: INT +0.6. Day 19: INT +0.6. Day 20: STR +0.2, INT +0.6. Day 21: INT +0.6. Day 22: INT +0.6 |
+| **Dace** | 25.2 | 22 | 20 | 22.7 | 5 | 5 | Hip mending: stands an hour at a time, cane; aboard, at the forge. Day 15 rep: +1.0 INT. Day 16 tally: DEX +0.4, INT +0.1. Day 17 tally: DEX +0.6, INT +0.1. Day 18: INT +0.6. Day 19: INT +0.6. Day 20: STR +0.2, INT +0.6. Day 21: INT +0.6. Day 22: INT +0.6 |
 | **Sorel** (Light Trainee, tracker; tag set session 10) | 35.8 | 30.6 | 29 | 18 | 27.4 | 14 | Fine. Tracker; hive clearance +2. Day 14 rep: DEX +1.0 range. Day 15 rep: +1.0 WIS. Day 16 tally: DEX +0.1, WIS +0.2. Day 17 tally: STR +0.6. Day 18: STR +0.6, DEX +0.2. Day 19: STR +0.5, DEX +0.3, WIS +0.2. Day 20: STR +0.7. Day 21: STR +0.8. Day 22: STR +0.6 |
 | **Tey** (Light Trainee, grunt; tag set session 10) | 17.6 | 32.9 | 28.1 | 14.1 | 9 | 14 | Fine. Grunt; **focus found day 16: pistols (gunslinger), +0, +1 per 10 drill days to +5**. Pistol drill nightly; Tamsin wants better than 2-3 of 5 before the Light leaves or he stays behind. Flinch comes from waiting on a long trigger pull (a hair trigger beat it). **At Tamsin's side from day 16 (session 10): goes everywhere with him, into the action.** Day 14 rep: DEX +1.0 range (flinches at recoil). Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.4, CON +0.1. Day 17 tally: DEX +1.0, INT +0.1. Day 18: DEX +1.6. Day 19: DEX +1.4. Day 20: DEX +1.0. Day 21: STR +0.6, DEX +0.4. Day 22: DEX +0.1, WIS +1.0 |
 | **Hollis** | 28.2 | 37.1 | 32 | 17 | 25.2 | 12 | Fine (stats rolled session 9). Day 15 rep: +1.0 DEX. Day 17 tally: STR +0.6. Day 18: STR +0.6. Day 19: STR +0.4, DEX +0.3. Day 20: WIS +0.2. Day 21: STR +0.6, DEX +0.2. Day 22: DEX +0.6 |
-| **Brenner** | 21 | 27 | 26 | 36.4 | 18.1 | 10 | **Badly hurt** (day 16: revolver round under the left arm, out in surgery), bedbound in station medicae. Day 15 rep: +1.0 INT. Day 16 tally: INT +0.1, WIS +0.1. Day 17 tally: INT +0.3. Day 18: INT +0.4. Day 19: INT +0.5. Day 20: INT +1.6 |
+| **Brenner** | 21 | 27 | 26 | 36.4 | 18.1 | 10 | **Light duty** (lung sealed; back aboard day 22; light duty to ~day 29).0 INT. Day 16 tally: INT +0.1, WIS +0.1. Day 17 tally: INT +0.3. Day 18: INT +0.4. Day 19: INT +0.5. Day 20: INT +1.6 |
 | **Isk** | 19 | 41.8 | 28 | 13.5 | 33.5 | 10 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.1. Day 17 tally: DEX +0.6. Day 18: DEX +0.6. Day 19: DEX +0.6. Day 20: DEX +1.6, INT +0.5. Day 21: DEX +0.3, WIS +0.3. Day 22: WIS +0.2 |
 | **Tavi** | 19.6 | 35.3 | 23 | 28.2 | 17 | 17 | Fine (off his cot). Day 15 rep: +1.0 INT. Day 16 tally: DEX +0.3. Day 17 tally: DEX +0.6. Day 18: DEX +0.6. Day 19: DEX +0.3, INT +0.3. Day 20: DEX +0.3, INT +0.3. Day 21: STR +0.6, INT +0.2. Day 22: INT +0.4, DEX +0.2 |
 | **Morcant** | 44.1 | 23 | 33 | 15 | 19 | 17 | Fine. Day 15 rep: +1.0 STR. Day 16 tally: STR +0.2. Day 17 tally: STR +0.6. Day 18: STR +0.6. Day 19: STR +0.7. Day 20: STR +0.8. Day 21: STR +0.6. Day 22: STR +0.6 |
 | **Sallow** | 20 | 31 | 22 | 25 | 36.4 | 20 | Fine. Day 15 rep: +1.0 WIS. Day 16 tally: WIS +0.4. Day 17 tally: WIS +0.3. Day 18: WIS +0.3. Day 19: WIS +0.3. Day 20: WIS +0.3. Day 21: WIS +0.3. Day 22: WIS +0.5 |
-| **Corvane** | 28.6 | 37 | 31.1 | 21.5 | 20 | 22 | **Hurt** (day 16: cuts). Day 15 rep: +1.0 DEX. Day 16 tally: CON +0.1. Day 17 tally: DEX +0.4. Day 18: DEX +0.6. Day 19: STR +0.6. Day 20: STR +1.4, INT +0.5. Day 21: STR +0.6. Day 22: WIS +1.0 |
+| **Corvane** | 28.6 | 37 | 31.1 | 21.5 | 20 | 22 | Fine (cuts healed). Day 15 rep: +1.0 DEX. Day 16 tally: CON +0.1. Day 17 tally: DEX +0.4. Day 18: DEX +0.6. Day 19: STR +0.6. Day 20: STR +1.4, INT +0.5. Day 21: STR +0.6. Day 22: WIS +1.0 |
 | **Nessa** | 17.2 | 43.3 | 18 | 21.1 | 28.6 | 27.3 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: INT +0.3. Day 17 tally: INT +0.6, CHA +0.1. Day 18: DEX +0.3, INT +0.2. Day 19: STR +0.2, DEX +0.2, WIS +0.6, CHA +0.2. Day 20: DEX +0.6. Day 21: DEX +0.6. Day 22: DEX +0.6 |
 | **Mira** | 14 | 41.1 | 20 | 27.9 | 30 | 15 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.1, INT +0.3. Day 17 tally: INT +0.6. Day 18: INT +0.6. Day 19: INT +0.6. Day 20: INT +0.6. Day 21: INT +0.6. Day 22: INT +0.6 |
 | **Teo** | 18.1 | 41.1 | 18 | 21.9 | 19 | 28 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: STR +0.1, DEX +0.1, INT +0.3. Day 17 tally: INT +0.6. Day 18: INT +0.6. Day 19: INT +0.6. Day 20: INT +0.6. Day 21: INT +0.6. Day 22: INT +0.6 |
@@ -509,6 +508,16 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 | **Lt. Daran Kole** | Varn's flag lieutenant | Pulled the Spindle plans |
 | **Master Tull Orsk** | Ustrennos dockmaster | Supplied the Spindle for Drachen's gold; turned; flew the Light in; confessed to his men. In Merrick's brig for Varn's judgement; Tamsin asked for leniency |
 | **Watch-Captain Ilsa Merrick** | Ustrennos Station security | **Friend of the Light** (session 9: 'a berth or a friend on this station'). Rebuilt her watch after Orsk. Holds Pask Hollow for the next Ordo courier. Gave the Light Sorel and Tey |
+| **Brother Ansel Kade** | New ring-one chapel priest (replaced Selk) | Sealed the knife, Shameholder, Six Bells, Tey's hellpistol; tested Dannel and Joren with the oil of seeing (both clean); made them penitents; keeps the chapel ledger |
+| **Hadra Voss**, **Old Marrow**, **Lexmechanic Doradne** | Fleet stores (ring two), ring-four chandlers, ring-three forge-shrine | Regular shops; Marrow fences quietly (bought Holt's medals); Doradne notes Ferro is 'unsanctioned' |
+| **Orderly Fesk**, the station surgeon | Station medicae, ring two | Fitted Varga's care; the surgeon can fit Varga's augmetic eye |
+| **Sergeant Dorrow** | Merrick's night-duty sergeant | Pulled the Relay 3 ledger and the bunks roll |
+| **Osk**, **Harl** | Merrick's watchmen (watch range, ring one) | Osk's pistol match with Tey pending (Osk may join as a Light Trainee if he wins) |
+| **Osric Haddle**, 'the deacon' | Cargo-tally clerk, Thask's lay preacher on Ustrennos | **Taken day 25 on the *Duty of Coin*; in Merrick's cells**; his locked slate with Brenner |
+| **Marra** | Pilot of the *Duty of Coin* | Cut the engines and talked; in Merrick's processing (her call) |
+| **Dannel Rusk**, **Joren Brisk** | The collector lad and the docker-spotter | **Penitents of the Light** (see Current state) |
+| **Pell Rusk** | Dannel's sister, 11, cannery at ~berth 44, Low Quay, Torvane's Mart | To be freed at the Mart (Dannel + Nessa) |
+| **Governor Halden Voke** | Merchant-baron governing Torvane's Mart, tower on the high side, ~300 customs men | 'The till's man'; sells everything; may tip Thask; to be approached after the mission |
 | **Captain Severin Holt** | Gate Guard captain, held the Spindle | Surrendered; **cell 2, *Bright Light***, for Kesh. Not a cultist; ashamed |
 | **Sergeant Brann** | Gate Guard sergeant | Captured in Bay Two; **cell 2, *Bright Light***, for Kesh |
 | **Sergeant Malk Dresh, 'the Gate Captain'** | Nurgle cult leader among the Gate Guard | **Dead**, with his seed |
@@ -681,6 +690,7 @@ Light's container. Crew rallying cry: **"We are the light."**
   put Tamsin down, and two other Chem-Dogs who wouldn't go back to Brask follow him. Both
   watched Tamsin kill Orne after they surrendered. **Roll each at the start of the next
   mission (17+ they appear).**
+- **Session 10 DM notes:** the watcher/collector network on Ustrennos is broken (Haddle and circle taken); Thask's network still lacks Tamsin's face but knows the courier hasn't left (Haddle's message). **The gardener's guest** (renegade Exitus-trained marksman) wanted a face 'to know at a distance'; Tamsin now wears a refractor field (shield-breaker rounds ignore it). Kesh's nat-20 fact: the Bloom has no birth record; mother dead of plague the same month.
 - **THE LIGHT channel is compromised (DM):** TALLY's vox man broke into it on day 16 and
   heard Brenner's 1005 line. Brenner caught a second carrier, so the Light knows
   someone listened; the channel should be re-keyed (Brenner, or Ferro-Ashe) before the
