@@ -38,7 +38,7 @@ Day 25 tallied. Day 26 event (10): an ordinary training day. Skip asked by the p
   *Duty of Coin*'s master and mate; the pilot Marra in processing (Merrick's call). Merrick: plain coats on cold
   store row / Relay 3; *Duty of Coin* impounded. **Merrick is a firm friend.**
 - **To crack:** **Haddle's locked slate** and the lad's locked slate (cogged runes; Brenner/Ferro).
-- **Builds:** **Dace's masterpiece blade** (his 2 plasteel; done ~day 26). **The Hornet** (bolt, spring, custom barrel
+- **Builds:** **Dace's masterpiece blade: DONE day 26** (unnamed): a straight single-edged plasteel sword, folded nine times, long fuller, brass bar guard, grey grox-hide grip with white cord, pommel boss from the last of Dace's collar. **Masterwork: +1 on attacks in the exchange, +1 on parries; edge never chips or dulls; cuts flak like cloth, finds carapace gaps on a raw 17+.** Poster: https://claude.ai/artifact/37Hf9UguNcs9U4ff4vR5Nh. **The Hornet** (bolt, spring, custom barrel
   fitted; mag catch and lever machined from scrap; frame needs 1/2 plasteel; done ~day 27). Dace also has the other
   plasteel for Shameholder's plasteel teeth (1) and Kell's Steady spirit blessing (2, with Ferro and the servo-motor).
   **Valkyrie:** new clamp jaw fitted; flank panel waits for Dace to beat it out (hull-plate manual), then sealant and paint.
