@@ -156,6 +156,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
   stuck. Set by the player, session 9.
 - **Stop after the player's action.** Resolve only what the player does, then
   hand control back. NPCs don't make big moves past it.
+  **Don't move, read, think or feel for the player character either** (set by the player, session 10). Example: the player says *"I grab the slate and walk out of the room."* Wrong: Tamsin reads the roster on the way, crosses names off in his head, and heads somewhere. Right: he picks up the slate, walks out, and the scene stops at the door, with what he'd see there; what he does with the slate is the player's next move.
 - **Stop at the first new decision point.** When an action has several steps ("let it shut, then we breach"), resolve up to the first moment where things change and the player could choose differently (a door shuts, a breach is about to start), then stop. The player may also say where to stop. Set by the player, Ash on Ostrava session 6.
 - **In fights, everyone acts every beat.** Allies and enemies each take their
   own action with their own open roll, every beat. The pause-after-the-player
