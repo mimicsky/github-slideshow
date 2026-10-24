@@ -31,7 +31,7 @@ closes or stops mattering, delete or shorten it in the same save. Keep this shee
 - **Prisoners/penitents aboard:** **Dannel Rusk** (penitent, cell 2 by night; Corvane's grey cord; **convict labour
   collar from Merrick, rod on Tamsin's belt, return it when done**; clean by the oil; his deal: penitence + the deacon
   for Pell's rescue; the deacon is now taken). **Joren Brisk** (penitent, cell 1 by night; clean; owes a ring-four
-  loan shark **'Old Brannick'** 60 Thrones; two heavies came to the berth day 28, Kell turned them away; leg Hurt, mending).
+  loan shark **'Old Brannick'** 60 Thrones; two heavies came to the berth day 28, Kell turned them away; **his mother lives on ring four**, and he fears Brannick goes after her once the Light sails (day 31); leg Hurt, mending). **Dannel's labour collar off day 31** (to Merrick, for Lusk); Dannel sails as a penitent without it, for Pell.
 - **With Merrick:** Selk, Marsk, Pask Hollow, Mabry's bunkmates; **Osric Haddle (DEAD day 29: poisoned in his cell; trustee Lusk missing)** and the nine of his circle (split up, fed by her sergeants), the
   *Duty of Coin*'s master and mate; the pilot Marra in processing (Merrick's call). Merrick: plain coats on cold
   store row / Relay 3; *Duty of Coin* impounded. **Merrick is a firm friend.** Kesh (day 28): hold them, she'll send for them.
