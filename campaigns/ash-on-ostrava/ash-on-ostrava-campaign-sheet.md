@@ -11,7 +11,7 @@ happened, and git history keeps every old version.
 **Clean up as we go (set by the player, session 9):** during play, when something
 closes or stops mattering, delete or shorten it in the same save. Keep this sheet lean.
 
-**Where we stopped:** **session 10, ~0700 warp day 29**, aboard at berth 2-9. Skipped from ~1600 day 27. Sallow checked
+**Where we stopped:** **session 10, ~0715 warp day 29**, medicae bay, berth 2-9: Tamsin has the shooting eye case in his pocket (hid it 18 + 6 = 24 vs Varga 3 + 2 - 2 = 3: she didn't see it) and has called the whole Light (and Ollin) in. Skipped from ~1600 day 27. Sallow checked
 **Varga's socket (16): healed clean, ready for an augmetic today.** The shooting eye is still secret in its case under
 Tamsin's bunk; the Ustrennos surgeon does the fitting. Day 29: Brenner off light duty.
 **Skip recap (days 27-28):** THE LIGHT re-keyed overnight (Ferro 6 + 4 + 2 Brenner = 12 vs 12, done ~0200; new key on
@@ -49,7 +49,7 @@ she'll send for them.
 - **Builds:** **Dace's masterpiece blade: DONE day 26: 'Promise Holder'** (named by Tamsin: 'Being a protector is my promise.'): a straight single-edged plasteel sword, folded nine times, long fuller, brass bar guard, grey grox-hide grip with white cord, pommel boss from the last of Dace's collar. **Masterwork: +1 on attacks in the exchange, +1 on parries; edge never chips or dulls; cuts flak like cloth, finds carapace gaps on a raw 17+.** Poster: https://claude.ai/artifact/37Hf9UguNcs9U4ff4vR5Nh. **Stinger** (the Kasr Hornet; DONE day 27, 1400, Dace): new machined plasteel-reinforced frame with top and under-barrel rails (both empty), no stock, new bolt + heavy buffer spring, custom barrel, safety lever, pressure-pin hair trigger, new mag catch, 40-round stick feeding up through the grip. Named by Tamsin ~1420: *'The first one in a fight to put one in you.'* Painted ~1420-1600: white grip, trigger and barrel; Light grey everything else; both mags grey with a thick yellow band over a thick black band at the base ('so you know the round that stings you'). Name and words not yet cut (can go through the paint to bright metal). Poster: https://claude.ai/artifact/9zLfa8yHsF6dYq8pw6cSA3. Dace also has the other
   plasteel for Shameholder's plasteel teeth (1) and Kell's Steady spirit blessing (2, with Ferro and the servo-motor).
   **Valkyrie:** new clamp jaw fitted; flank panel waits for Dace to beat it out (hull-plate manual), then sealant and paint.
-- **Shooting eye:** secret, steel case **under Tamsin's bunk, far corner**; surgeon fitting once the socket's ready
+- **Shooting eye:** secret, steel case **in Tamsin's pocket (day 29, medicae bay)**; surgeon fitting once the socket's ready
   (~day 29; the Ustrennos surgeon). Varga suspects a surprise (told: plasteel/ceramite order).
 - **Coin:** Tamsin **10.18 TV**; coin box **332 Thrones** (Haddle 120 + the master's 200 + ~12). Rate 100 Thrones = 1 TV.
 - **Kept:** 1 **SCIHU stim** (Tamsin's satchel), 2 laser sights (satchel).
