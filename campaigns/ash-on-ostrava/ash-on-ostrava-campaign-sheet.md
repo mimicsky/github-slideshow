@@ -11,10 +11,19 @@ happened, and git history keeps every old version.
 **Clean up as we go (set by the player, session 9):** during play, when something
 closes or stops mattering, delete or shorten it in the same save. Keep this sheet lean.
 
-**Where we stopped:** **session 10, ~0100 warp day 27**, the range: Tamsin finishing a late coaching session with Tey
-(Varga coached 1640-1900, Tamsin 1900-0100). Day 26 tallied. Day 27 event rolled 17 (good/quiet). The Hornet is due
-day 27; Promise Holder to Ferro (blessing) and Kade (seal) day 27. Tey still needs time on Merrick's watch range
-(moving frames) before the Osk match.
+**Where we stopped:** **session 10, ~1105 warp day 27**, outside Merrick's office, ring one, with Sorel and Tey.
+**The circle is broken:** all five taken at 1030 on Merrick's mark (Ves Orrin: Tamsin, intimidation 19 vs 18, dodged
+his knife lunge 21 vs 8, quick-draw thigh shot 20, dazed him; Sister Ruth, Corrigan: Merrick's watch, clean; Ebbe Lask:
+Sorel and Tey on the gantry, Tey took him down; Tamm Keel ran for the relay rooms, Tamsin burst the closing Relay 9 hatch
+(natural 20) and pinned him: **nothing sent**). Haddle's whole circle (9) + the hauler crew in Merrick's cells; Tamsin
+asked Merrick to inform Kesh and hold them for her; the pilot Marra is Merrick's call. **Ollin Brake** (dock hauler,
+ring four, ~20; father Hollen, rescued from the Spindle; CHA 17, INT 23, STR 18, DEX 17, CON 25, WIS 18; sharp at counts
+and manifests, fair haggler +1) offered the **Quartermaster** crew post; he wants it (12) but will tell his da tonight and
+come to berth 2-9 in the morning either way. Sorel has a hellgun (17 left in the container). Haddle's slate (Brenner cracked
+it): Garran messages ('the guest waits for it on the high side'; Hesk Tender goes direct to the Quay now; 'the Old Man asks
+if the lad has found the face'), the circle roster, a coin ledger, the 'fifty-fifth day' prayer. **Brenner and Ferro are
+re-keying THE LIGHT today.** Hornet done 1400. Tamsin judged stealth less useful now (they know the ship, the numbers, the
+colours); Brenner is telling Nessa.
 
 ### Current state (session 10, day 25)
 
@@ -64,6 +73,7 @@ day 27; Promise Holder to Ferro (blessing) and Kade (seal) day 27. Tey still nee
 
 ### Day log, session 10 (newest first)
 
+- **Day 27:** Promise Holder woken by Ferro (15, 'rings steady') and sealed by Kade. Brenner cracked Haddle's slate. 1030 the circle taken (5 for 5). Ollin Brake offered the quartermaster post.
 - **Day 26:** ordinary training day (event 10). ~1600 Dace unveiled his blade; Tamsin named it **Promise Holder** ('Being a protector is my promise'); 'sword brothers'. Tey told Varga about the Osk match; Varga coaching him for it (wants the watch range's moving frames). Tamsin shot, then coached Tey till ~0100.
 - **Day 25 (after the hauler):** 0525 Tamsin snuck into the bunk room (24 vs 7) and left the bottle of spire amasec by sleeping Nessa's needle pistol (debt paid; her note: 'You snuck up on me ASLEEP. That doesn't count. ...Good bottle though.'). 0530 test-fired the rebuilt Hornet: 20 for 20, no jam (Ferro: 'It liked that'); old frame has a hair of play (new frame fixes it). Rest of day training.
 - **Day 25:** 0310 Merrick: Haddle made her plain coats, his circle knifed one (alive), Haddle sent a message from
