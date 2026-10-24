@@ -710,6 +710,7 @@ Light's container. Crew rallying cry: **"We are the light."**
   heard Brenner's 1005 line. Brenner caught a second carrier, so the Light knows
   someone listened; the channel should be re-keyed (Brenner, or Ferro-Ashe) before the
   Mart. Until then a listener with the codes could hear the Light.
+- **The Mart rising (player's twist, session 10, accepted):** when the Light drops out of the warp at Torvane's Mart (day 33), **Governor Halden Voke is broadcasting an open distress call**: Thask's gardeners and the dock gangs he's bought are trying to take the asteroid, heavy casualties. Thask moved early because the Light gutted his Ustrennos line (the circle, Hob, Charter 7). The Governor asking for help overrides Kesh's 'no open war' order; Thask still wanted alive; the Bloom on Tamsin's judgment. This is the big fight: Brutal or worse, run as several fights (10-30 each) over objectives.
 - **Harvest Lamps (DM):** the Bloom's naming-day ~warp day 55; what "the garden opens"
   means is not yet set: let it follow the story.
 - **The Bone Wardens (DM only):** returning their dead brother's boltgun through Kesh earns the Light a Chapter's remembrance: one day, one favour.
