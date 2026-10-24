@@ -11,7 +11,7 @@ happened, and git history keeps every old version.
 **Clean up as we go (set by the player, session 9):** during play, when something
 closes or stops mattering, delete or shorten it in the same save. Keep this sheet lean.
 
-**Where we stopped:** **session 10, ~1130 warp day 31, the Bright Light in the warp, bound for Torvane's Mart** (transit 2 days: **arrive day 33**). Undocked from Ustrennos ~1115. **Warp entry rough (3):** Hollis wrenched his shoulder in the lurch (Hurt; Sallow 7 + 3 + 2 = 12: Fine by day 33). Roll the Mart cultists' faction wealth at the first meeting there.
+**Where we stopped:** **session 10, ~1130 warp day 31, the Bright Light in the warp, bound for Torvane's Mart** (the player is playing the warp days out; Kell asked what training plan for the Mart) (transit 2 days: **arrive day 33**). Undocked from Ustrennos ~1115. **Warp entry rough (3):** Hollis wrenched his shoulder in the lurch (Hurt; Sallow 7 + 3 + 2 = 12: Fine by day 33). Roll the Mart cultists' faction wealth at the first meeting there.
 **Ustrennos wrap (day 31):** Varga's eye works; Lusk pardoned until the Light returns (Merrick's collar, ring four, guarding Mirri); Brannick broken, his ~2,000 Thrones in the coin box (2,630) and his ledger with Tamsin (Merrick announcing 'Brannick's book is closed' at the ring-four galley); Merrick hunting the guest (nothing yet); books returned; Charter 7's crew and jars held for Kesh; Hollen home with Wenna and Mirri.
 
 ### Current state (session 10, day 25)
@@ -53,8 +53,8 @@ closes or stops mattering, delete or shorten it in the same save. Keep this shee
   join as a Light Trainee if he wins, Merrick permitting). Merrick's labour collar.
 - **Ship refit (Tamsin, day 27): DONE day 28** (Dace, Ferro): the old cargo office is a 2-bunk cabin (Ollin + one free); papers and coin box in Tamsin's cabin. Original order: clear the **cargo office**: manifests, ledgers and the coin box move into **Tamsin's cabin**; the office becomes a **2-bunk cabin** (Dace/Ferro, ~a day, a little scrap). Option noted: a third bunk tier on half the racks (+4, ~1 TV, a day), fold-down bunks in the briefing room (+4), hammocks in the hold (+6-8). Comfortable max ~22, crammed ~32-34; beyond that, a bigger ship.
 - **Before leaving Ustrennos:** return the library books (Books table); ~~re-key THE LIGHT~~ (done day 27-28); fit Varga's eye if the socket's ready; send the FOR KESH box and Mabry's book; roll nemeses at mission start.
-- **Faction wealth:** cultists here rolled **Poor** (day 25). Roll again at the Mart.
-- **Pre-rolled skip events:** used up (day 30: 7, day 31: 18). Shops restocked day 30 (next day 32).
+- **Faction wealth:** Ustrennos cultists Poor (day 25). **Torvane's Mart cultists: GOOD (rolled day 31 for the mission, 74).**
+- **Pre-rolled (use as play reaches them):** day 32 event **20** (good); **warp exit at the Mart 5** (rough: into the fleeing traffic). Earlier: day 30: 7, day 31: 18 used. Shops restocked day 30 (next day 32).
 
 ### Day log, session 10 (newest first)
 
