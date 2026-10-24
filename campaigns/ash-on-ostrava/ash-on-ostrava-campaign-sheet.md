@@ -11,19 +11,16 @@ happened, and git history keeps every old version.
 **Clean up as we go (set by the player, session 9):** during play, when something
 closes or stops mattering, delete or shorten it in the same save. Keep this sheet lean.
 
-**Where we stopped:** **session 10, ~1410 warp day 27**, at Dace's forge (lower deck, the Bright Light), Tamsin holding the rebuilt Kasr Hornet, field-stripped and checked. Earlier: ~1105 outside Merrick's office with Sorel and Tey; knife drill at the post till ~1400.
-**The circle is broken:** all five taken at 1030 on Merrick's mark (Ves Orrin: Tamsin, intimidation 19 vs 18, dodged
-his knife lunge 21 vs 8, quick-draw thigh shot 20, dazed him; Sister Ruth, Corrigan: Merrick's watch, clean; Ebbe Lask:
-Sorel and Tey on the gantry, Tey took him down; Tamm Keel ran for the relay rooms, Tamsin burst the closing Relay 9 hatch
-(natural 20) and pinned him: **nothing sent**). Haddle's whole circle (9) + the hauler crew in Merrick's cells; Tamsin
-asked Merrick to inform Kesh and hold them for her; the pilot Marra is Merrick's call. **Ollin Brake** (dock hauler,
-ring four, ~20; father Hollen, rescued from the Spindle; CHA 17, INT 23, STR 18, DEX 17, CON 25, WIS 18; sharp at counts
-and manifests, fair haggler +1) offered the **Quartermaster** crew post; he wants it (12) but will tell his da tonight and
-come to berth 2-9 in the morning either way. Sorel has a hellgun (17 left in the container). Haddle's slate (Brenner cracked
-it): Garran messages ('the guest waits for it on the high side'; Hesk Tender goes direct to the Quay now; 'the Old Man asks
-if the lad has found the face'), the circle roster, a coin ledger, the 'fifty-fifth day' prayer. **Brenner and Ferro are
-re-keying THE LIGHT today.** Hornet done 1400. Tamsin judged stealth less useful now (they know the ship, the numbers, the
-colours); Brenner is telling Nessa.
+**Where we stopped:** **session 10, ~0700 warp day 29**, aboard at berth 2-9. Skipped from ~1600 day 27. Sallow checked
+**Varga's socket (16): healed clean, ready for an augmetic today.** The shooting eye is still secret in its case under
+Tamsin's bunk; the Ustrennos surgeon does the fitting. Day 29: Brenner off light duty.
+**Skip recap (days 27-28):** THE LIGHT re-keyed overnight (Ferro 6 + 4 + 2 Brenner = 12 vs 12, done ~0200; new key on
+every bead). Stinger hard by morning. Day 28: **Ollin Brake joined as Quartermaster** (his da's blessing, 16); bunks in
+the new 2-bunk cabin (old cargo office, converted by Dace and Ferro; papers and coin box now in Tamsin's cabin). Two
+heavies came to the berth for **Joren** (loan shark **'Old Brannick'**, ring four, 60 Thrones): Kell on watch turned
+them away (20 + 1 = 21 vs 19 + 1 = 20). Merrick: the Low Quay sent a query to Ustrennos Relay 9 for the circle's
+check-in and got **silence: assume the Mart knows the circle is down.** Kesh (through Merrick): hold the prisoners,
+she'll send for them.
 
 ### Current state (session 10, day 25)
 
@@ -33,23 +30,23 @@ colours); Brenner is telling Nessa.
   **Halden Voke** isn't the Ordo's). **Clock:** Harvest Lamps ~day 55.
 - **The Mart knows:** Haddle's long-band message (day 25, 0214) told Low Quay relay 9 (Garran & Sons) 'roots cut,
   carrier and watcher taken, no face, courier still berthed'. Thask's network has Tamsin's name but **not his face**.
-  Night-one hull picts did go out.
+  Night-one hull picts did go out. **Day 28:** the Low Quay's check-in query to Ustrennos Relay 9 went unanswered; assume they know the circle fell.
 - **Plan (Nessa owns it; full brief when Tamsin says):** Thask and the Bloom first, quiet; docker coats over armour;
   the Valkyrie (not the ship) if it goes loud; Nessa + Dannel to the **cannery at ~berth 44 (tin chutes)** for **Pell
   Rusk** (11); second hit (ledger/loot) decided on the ground; governor after the mission.
-- **Health:** everyone Fine except **Varga** (left eye lost day 17; socket ready **day 29**; -2 sight Perception and
-  aimed shots; no shooting/flying till then; coaching Tey) and **Brenner** (lung sealed; **light duty to ~day 29**).
+- **Health:** everyone Fine except **Varga** (left eye lost day 17; **socket healed day 29 (16), ready for the augmetic**; -2 sight
+  Perception and aimed shots until it's fitted; coaching Tey). **Brenner** off light duty day 29.
   Dace's hip: stands an hour at a time, cane. Tamsin Fine, wearing heavy carapace front + refractor field.
 - **Food:** everyone Fed (no cook aboard).
 - **Prisoners/penitents aboard:** **Dannel Rusk** (penitent, cell 2 by night; Corvane's grey cord; **convict labour
   collar from Merrick, rod on Tamsin's belt, return it when done**; clean by the oil; his deal: penitence + the deacon
   for Pell's rescue; the deacon is now taken). **Joren Brisk** (penitent, cell 1 by night; clean; owes a ring-four
-  loan shark 60 Thrones; leg Hurt, mending).
+  loan shark **'Old Brannick'** 60 Thrones; two heavies came to the berth day 28, Kell turned them away; leg Hurt, mending).
 - **With Merrick:** Selk, Marsk, Pask Hollow, Mabry's bunkmates; **Osric Haddle** and his four circle men, the
   *Duty of Coin*'s master and mate; the pilot Marra in processing (Merrick's call). Merrick: plain coats on cold
-  store row / Relay 3; *Duty of Coin* impounded. **Merrick is a firm friend.**
+  store row / Relay 3; *Duty of Coin* impounded. **Merrick is a firm friend.** Kesh (day 28): hold them, she'll send for them.
 - **To crack:** **Haddle's locked slate** and the lad's locked slate (cogged runes; Brenner/Ferro).
-- **Builds:** **Dace's masterpiece blade: DONE day 26: 'Promise Holder'** (named by Tamsin: 'Being a protector is my promise.'): a straight single-edged plasteel sword, folded nine times, long fuller, brass bar guard, grey grox-hide grip with white cord, pommel boss from the last of Dace's collar. **Masterwork: +1 on attacks in the exchange, +1 on parries; edge never chips or dulls; cuts flak like cloth, finds carapace gaps on a raw 17+.** Poster: https://claude.ai/artifact/37Hf9UguNcs9U4ff4vR5Nh. **The Kasr Hornet: DONE day 27, 1400** (Dace); **named 'Stinger'** by Tamsin (~1420): *'The first one in a fight to put one in you.'* **Painted ~1420-1600 day 27:** white grip, trigger and barrel; Light grey everything else; both 40-round mags grey with a thick yellow band over a thick black band at the base ('so you know the round that stings you'). Dry to handle ~1900, hard by morning. Name and words not yet cut (Dace's scribe offered; can be cut through the paint to bright metal). new machined plasteel-reinforced frame with top and under-barrel rails, no stock, new bolt + heavy buffer spring, custom barrel, safety lever, pressure-pin hair trigger, new mag catch, 40-round stick feeding up through the grip (empty under-rail forward of the trigger guard); **unpainted** (Dace's rule: you paint your own). Poster: https://claude.ai/artifact/9zLfa8yHsF6dYq8pw6cSA3. Dace also has the other
+- **Builds:** **Dace's masterpiece blade: DONE day 26: 'Promise Holder'** (named by Tamsin: 'Being a protector is my promise.'): a straight single-edged plasteel sword, folded nine times, long fuller, brass bar guard, grey grox-hide grip with white cord, pommel boss from the last of Dace's collar. **Masterwork: +1 on attacks in the exchange, +1 on parries; edge never chips or dulls; cuts flak like cloth, finds carapace gaps on a raw 17+.** Poster: https://claude.ai/artifact/37Hf9UguNcs9U4ff4vR5Nh. **Stinger** (the Kasr Hornet; DONE day 27, 1400, Dace): new machined plasteel-reinforced frame with top and under-barrel rails (both empty), no stock, new bolt + heavy buffer spring, custom barrel, safety lever, pressure-pin hair trigger, new mag catch, 40-round stick feeding up through the grip. Named by Tamsin ~1420: *'The first one in a fight to put one in you.'* Painted ~1420-1600: white grip, trigger and barrel; Light grey everything else; both mags grey with a thick yellow band over a thick black band at the base ('so you know the round that stings you'). Name and words not yet cut (can go through the paint to bright metal). Poster: https://claude.ai/artifact/9zLfa8yHsF6dYq8pw6cSA3. Dace also has the other
   plasteel for Shameholder's plasteel teeth (1) and Kell's Steady spirit blessing (2, with Ferro and the servo-motor).
   **Valkyrie:** new clamp jaw fitted; flank panel waits for Dace to beat it out (hull-plate manual), then sealant and paint.
 - **Shooting eye:** secret, steel case **under Tamsin's bunk, far corner**; surgeon fitting once the socket's ready
@@ -63,16 +60,16 @@ colours); Brenner is telling Nessa.
   Brenner servo-skull; Dace a bigger forge (promised with a new ship); Sorel a rifle of his own; Varga NEW EYE.
 - **Owed:** Nessa a drink of spire amasec (stealth bet). Osk's match with Tey (Tamsin calls it when Tey's ready; Osk may
   join as a Light Trainee if he wins, Merrick permitting). Merrick's labour collar.
-- **Ship refit order (Tamsin, day 27):** clear the **cargo office**: manifests, ledgers and the coin box move into **Tamsin's cabin**; the office becomes a **2-bunk cabin** (Dace/Ferro, ~a day, a little scrap). Option noted: a third bunk tier on half the racks (+4, ~1 TV, a day), fold-down bunks in the briefing room (+4), hammocks in the hold (+6-8). Comfortable max ~22, crammed ~32-34; beyond that, a bigger ship.
-- **Before leaving Ustrennos:** return the library books (Books table); re-key THE LIGHT (Brenner + Ferro, can be on the
-  trip); fit Varga's eye if the socket's ready; send the FOR KESH box and Mabry's book; roll nemeses at mission start.
+- **Ship refit (Tamsin, day 27): DONE day 28** (Dace, Ferro): the old cargo office is a 2-bunk cabin (Ollin + one free); papers and coin box in Tamsin's cabin. Original order: clear the **cargo office**: manifests, ledgers and the coin box move into **Tamsin's cabin**; the office becomes a **2-bunk cabin** (Dace/Ferro, ~a day, a little scrap). Option noted: a third bunk tier on half the racks (+4, ~1 TV, a day), fold-down bunks in the briefing room (+4), hammocks in the hold (+6-8). Comfortable max ~22, crammed ~32-34; beyond that, a bigger ship.
+- **Before leaving Ustrennos:** return the library books (Books table); ~~re-key THE LIGHT~~ (done day 27-28); fit Varga's eye if the socket's ready; send the FOR KESH box and Mabry's book; roll nemeses at mission start.
 - **Faction wealth:** cultists here rolled **Poor** (day 25). Roll again at the Mart.
-- **Pre-rolled skip events (use as play reaches them):** day 26 event 10, day 27 17, day 28 8, day 29 13, day 30 7
-  (low = trouble). Shops restock days 26, 28, 30.
+- **Pre-rolled skip events (use as play reaches them):** day 29 13, day 30 7
+  (low = trouble). Shops restock day 30.
 
 ### Day log, session 10 (newest first)
 
-- **Day 27:** Promise Holder woken by Ferro (15, 'rings steady') and sealed by Kade. Brenner cracked Haddle's slate. 1030 the circle taken (5 for 5). Ollin Brake offered the quartermaster post. ~1145-1400 knife drill at the post (2 h, STR +0.2, to tally). 1400 Dace delivered the rebuilt Hornet; Tamsin field-stripped and inspected it: sound. Named it **Stinger** ('The first one in a fight to put one in you'). Painted it ~1420-1600 (white grip/trigger/barrel, grey, yellow-black mag bands); poster repainted.
+- **Day 28 (skipped):** event 8: Old Brannick's heavies at the berth for Joren, Kell turned them away (21 vs 20). Ollin Brake joined as Quartermaster (da's blessing 16); cargo office made a 2-bunk cabin (Dace, Ferro). Merrick: Low Quay query to Relay 9 unanswered. Kesh: hold the prisoners. Routine training; Tamsin coached Tey at night.
+- **Day 27:** Promise Holder woken by Ferro (15, 'rings steady') and sealed by Kade. Brenner cracked Haddle's slate. 1030 the circle taken (5 for 5). Ollin Brake offered the quartermaster post. ~1145-1400 knife drill at the post (2 h, STR +0.2, to tally). 1400 Dace delivered the rebuilt Hornet; Tamsin field-stripped and inspected it: sound. Named it **Stinger** ('The first one in a fight to put one in you'). Painted it ~1420-1600 (white grip/trigger/barrel, grey, yellow-black mag bands); poster repainted. Evening range; coached Tey. THE LIGHT re-keyed by Ferro and Brenner (12 vs 12, ~0200).
 - **Day 26:** ordinary training day (event 10). ~1600 Dace unveiled his blade; Tamsin named it **Promise Holder** ('Being a protector is my promise'); 'sword brothers'. Tey told Varga about the Osk match; Varga coaching him for it (wants the watch range's moving frames). Tamsin shot, then coached Tey till ~0100.
 - **Day 25 (after the hauler):** 0525 Tamsin snuck into the bunk room (24 vs 7) and left the bottle of spire amasec by sleeping Nessa's needle pistol (debt paid; her note: 'You snuck up on me ASLEEP. That doesn't count. ...Good bottle though.'). 0530 test-fired the rebuilt Hornet: 20 for 20, no jam (Ferro: 'It liked that'); old frame has a hair of play (new frame fixes it). Rest of day training.
 - **Day 25:** 0310 Merrick: Haddle made her plain coats, his circle knifed one (alive), Haddle sent a message from
@@ -233,7 +230,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Rank | **Interrogator** of Inquisitor Kesh's Ordo (rosette, warp day 20, session 7). Leads the Light, his cell under Varsaine. (Interrogator-designate from session 5.) |
 | Class | Fighter 9, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | **Fine** (healed day 20) |
-| Stats (levels 1-100) | STR **27.7** (+2), DEX **68.6** (+6), CON **23.5** (+2), INT **10.2** (+1), WIS **20.1** (+2), CHA **11.0** (+1) (day 26 tally: STR +0.3, DEX +0.5, WIS +0.5 (coaching Tey), CHA +0.1 (Dace). day 24: STR +0.3, DEX +0.3. day 25 tally: DEX +0.5, WIS +0.8 (orders, coaching), CHA +0.3. day 23 tally: STR +0.3, DEX +0.5, WIS +0.6 (Sallow coached), CHA +0.2. day 22 tally: STR +0.2, DEX +0.2, WIS +2.2 (night watch, 10 h stakeout, orders), CHA +0.2. day 21 tally: STR +0.6, WIS +0.1. day 20 tally: STR +1.4, DEX +0.2, WIS +1.0, CHA +0.1. day 19 tally: DEX +1.1, INT +0.7 incl. book +0.5, CHA +1.2 incl. book +1.0. day 18 tally: DEX +0.5, INT +0.1, CHA +0.6. day 17 tally: INT +0.2, WIS +0.4, CHA +0.5. day 16 tally, session 10: STR +0.7, DEX +0.1, CON +0.1, WIS +0.6, CHA +1.1. Before that: after warp day 8: DEX +1.0 range with Vigil, DEX +0.5 cover drill with Dace. Warp days 9-12 in bed, no reps. Day 13: DEX +1.0 Vigil, DEX +0.5 Last Word, light range work while Hurt. Day 14: DEX +1.0 Vigil on lane three beside the trainees, WIS +0.5 coaching the trainees) |
+| Stats (levels 1-100) | STR **28.4** (+2), DEX **69.3** (+6), CON **23.5** (+2), INT **10.2** (+1), WIS **20.7** (+2), CHA **11.2** (+1) (day 28 tally: STR +0.3, DEX +0.3, WIS +0.2 (coaching Tey), CHA +0.1 (Ollin). day 27 tally: STR +0.4 (knife drill, hatch, tackle), DEX +0.4 (dodge, quick-draw, range), WIS +0.4 (orders, coaching Tey), CHA +0.1 (Ves). day 26 tally: STR +0.3, DEX +0.5, WIS +0.5 (coaching Tey), CHA +0.1 (Dace). day 24: STR +0.3, DEX +0.3. day 25 tally: DEX +0.5, WIS +0.8 (orders, coaching), CHA +0.3. day 23 tally: STR +0.3, DEX +0.5, WIS +0.6 (Sallow coached), CHA +0.2. day 22 tally: STR +0.2, DEX +0.2, WIS +2.2 (night watch, 10 h stakeout, orders), CHA +0.2. day 21 tally: STR +0.6, WIS +0.1. day 20 tally: STR +1.4, DEX +0.2, WIS +1.0, CHA +0.1. day 19 tally: DEX +1.1, INT +0.7 incl. book +0.5, CHA +1.2 incl. book +1.0. day 18 tally: DEX +0.5, INT +0.1, CHA +0.6. day 17 tally: INT +0.2, WIS +0.4, CHA +0.5. day 16 tally, session 10: STR +0.7, DEX +0.1, CON +0.1, WIS +0.6, CHA +1.1. Before that: after warp day 8: DEX +1.0 range with Vigil, DEX +0.5 cover drill with Dace. Warp days 9-12 in bed, no reps. Day 13: DEX +1.0 Vigil, DEX +0.5 Last Word, light range work while Hurt. Day 14: DEX +1.0 Vigil on lane three beside the trainees, WIS +0.5 coaching the trainees) |
 | At the Ustrennos jump point (days 16-17, three a day) | 16: STR +1.0, DEX +0.5, CHA +0.4. 17: CON +1.0, DEX +0.9 |
 | Road to Ustrennos (warp days 10-15, three a day, rolled) | 10: STR +1.0, CON +0.5, WIS +0.4. 11: STR +1.0, WIS +0.5, INT +0.4. 12: DEX +1.0, CHA +0.9. 13: WIS +1.0, CHA +0.5, STR +0.4. 14: INT +1.0, DEX +0.5, STR +0.4. 15: DEX +1.0, WIS +0.5, CON +0.4 |
 | Warp day 9 (the Rest) | DEX +1.0 (late range practice with the Light, 2230-0030) |
@@ -421,6 +418,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | Corvane | Duelist |
 | Nessa | Infiltrator |
 | Ferro-Ashe | Tech-adept / heretek (holds the Enginseer crew post) |
+| Ollin Brake | Crew post: Quartermaster (not a fighter) |
 | Tamsin | Commander |
 | Mira | Fighter pilot |
 | Teo | Fighter pilot |
@@ -455,22 +453,23 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 
 | | STR | DEX | CON | INT | WIS | CHA | State |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Kell** | 37.4 | 36.2 | 30 | 10 | 25.5 | 10 | Fine (sling off warp day 7). Swaps in for Varga next mission. Day 15 rep: +1.0 STR. Day 16 tally: DEX +0.2, WIS +0.2. Day 17 tally: STR +0.6. Day 18: STR +0.6. Day 19: STR +0.6. Day 20: STR +0.9, WIS +0.1. Day 21: STR +0.8, WIS +0.2. Day 22: STR +0.6. Days 23-26 (bulk): STR +2.3 |
-| **Varga** | 25 | 39.6 | 25 | 10 | 25.4 | 5.1 | **Hurt, left eye lost** (day 17; -2 sight Perception and aimed shots until an augmetic); aboard, ship's medicae, a week off shooting. Warp day 6 dawn rep: DEX +1.0 (dry-fire drills with Mercy). Day 15 rep: +1.0 DEX. Day 18: WIS +0.6. Day 19: WIS +0.6, CHA +0.1. Day 20: WIS +0.5. Day 21: DEX +0.3, WIS +0.2. Day 22: DEX +0.3, WIS +0.2. Days 23-26 (bulk): WIS +2.3 |
-| **Dace** | 25.2 | 22 | 20 | 25.5 | 5 | 5 | Hip mending: stands an hour at a time, cane; aboard, at the forge. Day 15 rep: +1.0 INT. Day 16 tally: DEX +0.4, INT +0.1. Day 17 tally: DEX +0.6, INT +0.1. Day 18: INT +0.6. Day 19: INT +0.6. Day 20: STR +0.2, INT +0.6. Day 21: INT +0.6. Day 22: INT +0.6. Days 23-26 (bulk): INT +2.8 |
-| **Sorel** (Light Trainee, tracker; tag set session 10) | 38.1 | 30.6 | 29 | 18 | 27.4 | 14 | Fine. Tracker; hive clearance +2. Day 14 rep: DEX +1.0 range. Day 15 rep: +1.0 WIS. Day 16 tally: DEX +0.1, WIS +0.2. Day 17 tally: STR +0.6. Day 18: STR +0.6, DEX +0.2. Day 19: STR +0.5, DEX +0.3, WIS +0.2. Day 20: STR +0.7. Day 21: STR +0.8. Day 22: STR +0.6. Days 23-26 (bulk): STR +2.3 |
-| **Tey** (Light Trainee, grunt; tag set session 10) | 17.6 | 36.2 | 28.1 | 14.1 | 9 | 14 | Fine. Grunt; **focus found day 16: pistols (gunslinger), +0, +1 per 10 drill days to +5**. Pistol drill nightly; Tamsin wants better than 2-3 of 5 before the Light leaves or he stays behind. Flinch comes from waiting on a long trigger pull (a hair trigger beat it). **At Tamsin's side from day 16 (session 10): goes everywhere with him, into the action.** Day 14 rep: DEX +1.0 range (flinches at recoil). Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.4, CON +0.1. Day 17 tally: DEX +1.0, INT +0.1. Day 18: DEX +1.6. Day 19: DEX +1.4. Day 20: DEX +1.0. Day 21: STR +0.6, DEX +0.4. Day 22: DEX +0.1, WIS +1.0. Days 23-26 (bulk): DEX +3.3 |
-| **Hollis** | 28.2 | 39.4 | 32 | 17 | 25.2 | 12 | Fine (stats rolled session 9). Day 15 rep: +1.0 DEX. Day 17 tally: STR +0.6. Day 18: STR +0.6. Day 19: STR +0.4, DEX +0.3. Day 20: WIS +0.2. Day 21: STR +0.6, DEX +0.2. Day 22: DEX +0.6. Days 23-26 (bulk): DEX +2.3 |
-| **Brenner** | 21 | 27 | 26 | 38.8 | 18.1 | 10 | **Light duty** (lung sealed; back aboard day 22; light duty to ~day 29).0 INT. Day 16 tally: INT +0.1, WIS +0.1. Day 17 tally: INT +0.3. Day 18: INT +0.4. Day 19: INT +0.5. Day 20: INT +1.6. Days 23-26 (bulk): INT +2.4 |
-| **Isk** | 19 | 44.1 | 28 | 13.5 | 33.5 | 10 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.1. Day 17 tally: DEX +0.6. Day 18: DEX +0.6. Day 19: DEX +0.6. Day 20: DEX +1.6, INT +0.5. Day 21: DEX +0.3, WIS +0.3. Day 22: WIS +0.2. Days 23-26 (bulk): DEX +2.3 |
-| **Tavi** | 19.6 | 35.3 | 23 | 30.5 | 17 | 17 | Fine (off his cot). Day 15 rep: +1.0 INT. Day 16 tally: DEX +0.3. Day 17 tally: DEX +0.6. Day 18: DEX +0.6. Day 19: DEX +0.3, INT +0.3. Day 20: DEX +0.3, INT +0.3. Day 21: STR +0.6, INT +0.2. Day 22: INT +0.4, DEX +0.2. Days 23-26 (bulk): INT +2.3 |
-| **Morcant** | 46.4 | 23 | 33 | 15 | 19 | 17 | Fine. Day 15 rep: +1.0 STR. Day 16 tally: STR +0.2. Day 17 tally: STR +0.6. Day 18: STR +0.6. Day 19: STR +0.7. Day 20: STR +0.8. Day 21: STR +0.6. Day 22: STR +0.6. Days 23-26 (bulk): STR +2.3 |
-| **Sallow** | 20 | 31 | 22 | 25 | 38.7 | 20 | Fine. Day 15 rep: +1.0 WIS. Day 16 tally: WIS +0.4. Day 17 tally: WIS +0.3. Day 18: WIS +0.3. Day 19: WIS +0.3. Day 20: WIS +0.3. Day 21: WIS +0.3. Day 22: WIS +0.5. Days 23-26 (bulk): WIS +2.3 |
-| **Corvane** | 28.6 | 39.6 | 31.1 | 21.5 | 20 | 22 | Fine (cuts healed). Day 15 rep: +1.0 DEX. Day 16 tally: CON +0.1. Day 17 tally: DEX +0.4. Day 18: DEX +0.6. Day 19: STR +0.6. Day 20: STR +1.4, INT +0.5. Day 21: STR +0.6. Day 22: WIS +1.0. Days 23-26 (bulk): DEX +2.6 |
-| **Nessa** | 17.2 | 45.6 | 18 | 21.1 | 28.6 | 27.3 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: INT +0.3. Day 17 tally: INT +0.6, CHA +0.1. Day 18: DEX +0.3, INT +0.2. Day 19: STR +0.2, DEX +0.2, WIS +0.6, CHA +0.2. Day 20: DEX +0.6. Day 21: DEX +0.6. Day 22: DEX +0.6. Days 23-26 (bulk): DEX +2.3 |
-| **Mira** | 14 | 41.1 | 20 | 30.2 | 30 | 15 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.1, INT +0.3. Day 17 tally: INT +0.6. Day 18: INT +0.6. Day 19: INT +0.6. Day 20: INT +0.6. Day 21: INT +0.6. Day 22: INT +0.6. Days 23-26 (bulk): INT +2.3 |
-| **Teo** | 18.1 | 41.1 | 18 | 24.2 | 19 | 28 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: STR +0.1, DEX +0.1, INT +0.3. Day 17 tally: INT +0.6. Day 18: INT +0.6. Day 19: INT +0.6. Day 20: INT +0.6. Day 21: INT +0.6. Day 22: INT +0.6. Days 23-26 (bulk): INT +2.3 |
-| **Ferro-Ashe** | 19 | 24 | 20 | 42.1 | 19 | 12 | Fine. Day 16 tally: INT +0.1. Day 20: INT +0.1. Day 21: INT +0.5. Day 22: INT +0.4 |
+| **Kell** | 38.6 | 36.2 | 30 | 10 | 25.5 | 10 | Fine (sling off warp day 7). Swaps in for Varga next mission. Day 15 rep: +1.0 STR. Day 16 tally: DEX +0.2, WIS +0.2. Day 17 tally: STR +0.6. Day 18: STR +0.6. Day 19: STR +0.6. Day 20: STR +0.9, WIS +0.1. Day 21: STR +0.8, WIS +0.2. Day 22: STR +0.6. Days 23-26 (bulk): STR +2.3. Days 27-28 (bulk): STR +1.2 |
+| **Varga** | 25 | 39.6 | 25 | 10 | 26.4 | 5.1 | **Hurt, left eye lost** (day 17; -2 sight Perception and aimed shots until an augmetic); aboard, ship's medicae, a week off shooting. Warp day 6 dawn rep: DEX +1.0 (dry-fire drills with Mercy). Day 15 rep: +1.0 DEX. Day 18: WIS +0.6. Day 19: WIS +0.6, CHA +0.1. Day 20: WIS +0.5. Day 21: DEX +0.3, WIS +0.2. Day 22: DEX +0.3, WIS +0.2. Days 23-26 (bulk): WIS +2.3. Days 27-28 (bulk): WIS +1.0 |
+| **Dace** | 25.2 | 22 | 20 | 26.7 | 5 | 5 | Hip mending: stands an hour at a time, cane; aboard, at the forge. Day 15 rep: +1.0 INT. Day 16 tally: DEX +0.4, INT +0.1. Day 17 tally: DEX +0.6, INT +0.1. Day 18: INT +0.6. Day 19: INT +0.6. Day 20: STR +0.2, INT +0.6. Day 21: INT +0.6. Day 22: INT +0.6. Days 23-26 (bulk): INT +2.8. Days 27-28 (bulk): INT +1.2 |
+| **Sorel** (Light Trainee, tracker; tag set session 10) | 39.3 | 30.7 | 29 | 18 | 27.4 | 14 | Fine. Tracker; hive clearance +2. Day 14 rep: DEX +1.0 range. Day 15 rep: +1.0 WIS. Day 16 tally: DEX +0.1, WIS +0.2. Day 17 tally: STR +0.6. Day 18: STR +0.6, DEX +0.2. Day 19: STR +0.5, DEX +0.3, WIS +0.2. Day 20: STR +0.7. Day 21: STR +0.8. Day 22: STR +0.6. Days 23-26 (bulk): STR +2.3. Days 27-28 (bulk): STR +1.2, DEX +0.1 |
+| **Tey** (Light Trainee, grunt; tag set session 10) | 17.6 | 38.3 | 28.1 | 14.1 | 9 | 14 | Fine. Grunt; **focus found day 16: pistols (gunslinger), +0, +1 per 10 drill days to +5**. Pistol drill nightly; Tamsin wants better than 2-3 of 5 before the Light leaves or he stays behind. Flinch comes from waiting on a long trigger pull (a hair trigger beat it). **At Tamsin's side from day 16 (session 10): goes everywhere with him, into the action.** Day 14 rep: DEX +1.0 range (flinches at recoil). Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.4, CON +0.1. Day 17 tally: DEX +1.0, INT +0.1. Day 18: DEX +1.6. Day 19: DEX +1.4. Day 20: DEX +1.0. Day 21: STR +0.6, DEX +0.4. Day 22: DEX +0.1, WIS +1.0. Days 23-26 (bulk): DEX +3.3. Days 27-28 (bulk): DEX +2.1 |
+| **Hollis** | 28.2 | 40.6 | 32 | 17 | 25.2 | 12 | Fine (stats rolled session 9). Day 15 rep: +1.0 DEX. Day 17 tally: STR +0.6. Day 18: STR +0.6. Day 19: STR +0.4, DEX +0.3. Day 20: WIS +0.2. Day 21: STR +0.6, DEX +0.2. Day 22: DEX +0.6. Days 23-26 (bulk): DEX +2.3. Days 27-28 (bulk): DEX +1.2 |
+| **Brenner** | 21 | 27 | 26 | 40.3 | 18.1 | 10 | Fine (lung sealed; back aboard day 22; **off light duty day 29**). Day 15 rep: +1.0 INT. Day 16 tally: INT +0.1, WIS +0.1. Day 17 tally: INT +0.3. Day 18: INT +0.4. Day 19: INT +0.5. Day 20: INT +1.6. Days 23-26 (bulk): INT +2.4. Days 27-28 (bulk): INT +1.5 |
+| **Isk** | 19 | 45.3 | 28 | 13.5 | 33.5 | 10 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.1. Day 17 tally: DEX +0.6. Day 18: DEX +0.6. Day 19: DEX +0.6. Day 20: DEX +1.6, INT +0.5. Day 21: DEX +0.3, WIS +0.3. Day 22: WIS +0.2. Days 23-26 (bulk): DEX +2.3. Days 27-28 (bulk): DEX +1.2 |
+| **Tavi** | 19.6 | 35.3 | 23 | 31.7 | 17 | 17 | Fine (off his cot). Day 15 rep: +1.0 INT. Day 16 tally: DEX +0.3. Day 17 tally: DEX +0.6. Day 18: DEX +0.6. Day 19: DEX +0.3, INT +0.3. Day 20: DEX +0.3, INT +0.3. Day 21: STR +0.6, INT +0.2. Day 22: INT +0.4, DEX +0.2. Days 23-26 (bulk): INT +2.3. Days 27-28 (bulk): INT +1.2 |
+| **Morcant** | 47.6 | 23 | 33 | 15 | 19 | 17 | Fine. Day 15 rep: +1.0 STR. Day 16 tally: STR +0.2. Day 17 tally: STR +0.6. Day 18: STR +0.6. Day 19: STR +0.7. Day 20: STR +0.8. Day 21: STR +0.6. Day 22: STR +0.6. Days 23-26 (bulk): STR +2.3. Days 27-28 (bulk): STR +1.2 |
+| **Sallow** | 20 | 31 | 22 | 25 | 39.3 | 20 | Fine. Day 15 rep: +1.0 WIS. Day 16 tally: WIS +0.4. Day 17 tally: WIS +0.3. Day 18: WIS +0.3. Day 19: WIS +0.3. Day 20: WIS +0.3. Day 21: WIS +0.3. Day 22: WIS +0.5. Days 23-26 (bulk): WIS +2.3. Days 27-28 (bulk): WIS +0.6 |
+| **Corvane** | 28.6 | 40.8 | 31.1 | 21.5 | 20 | 22 | Fine (cuts healed). Day 15 rep: +1.0 DEX. Day 16 tally: CON +0.1. Day 17 tally: DEX +0.4. Day 18: DEX +0.6. Day 19: STR +0.6. Day 20: STR +1.4, INT +0.5. Day 21: STR +0.6. Day 22: WIS +1.0. Days 23-26 (bulk): DEX +2.6. Days 27-28 (bulk): DEX +1.2 |
+| **Nessa** | 17.2 | 46.8 | 18 | 21.1 | 28.6 | 27.3 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: INT +0.3. Day 17 tally: INT +0.6, CHA +0.1. Day 18: DEX +0.3, INT +0.2. Day 19: STR +0.2, DEX +0.2, WIS +0.6, CHA +0.2. Day 20: DEX +0.6. Day 21: DEX +0.6. Day 22: DEX +0.6. Days 23-26 (bulk): DEX +2.3. Days 27-28 (bulk): DEX +1.2 |
+| **Mira** | 14 | 41.1 | 20 | 31.4 | 30 | 15 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.1, INT +0.3. Day 17 tally: INT +0.6. Day 18: INT +0.6. Day 19: INT +0.6. Day 20: INT +0.6. Day 21: INT +0.6. Day 22: INT +0.6. Days 23-26 (bulk): INT +2.3. Days 27-28 (bulk): INT +1.2 |
+| **Teo** | 18.1 | 41.1 | 18 | 25.4 | 19 | 28 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: STR +0.1, DEX +0.1, INT +0.3. Day 17 tally: INT +0.6. Day 18: INT +0.6. Day 19: INT +0.6. Day 20: INT +0.6. Day 21: INT +0.6. Day 22: INT +0.6. Days 23-26 (bulk): INT +2.3. Days 27-28 (bulk): INT +1.2 |
+| **Ferro-Ashe** | 19 | 24 | 20 | 43.6 | 19 | 12 | Fine. Day 16 tally: INT +0.1. Day 20: INT +0.1. Day 21: INT +0.5. Day 22: INT +0.4. Days 27-28 (bulk): INT +1.5 |
+| **Ollin Brake** (Quartermaster crew post, joined day 28) | 18 | 17 | 25 | 23 | 18 | 17 | Fine. Ring-four dock hauler, ~20; father Hollen (rescued from the Spindle). Sharp at counts and manifests; haggles d20 + CHA bonus (+1). Bunks in the new 2-bunk cabin |
 
 - **Sergeant Kell** (storm trooper sergeant, 41, ex-Tempestus Scion, nine years
   with the Ordos). Tamsin's "brother"; their fist-bump handshake. Hellgun
@@ -706,7 +705,8 @@ Light's container. Crew rallying cry: **"We are the light."**
   watched Tamsin kill Orne after they surrendered. **Roll each at the start of the next
   mission (17+ they appear).**
 - **Session 10 DM notes:** the watcher/collector network on Ustrennos is broken (Haddle and circle taken); Thask's network still lacks Tamsin's face but knows the courier hasn't left (Haddle's message). **The gardener's guest** (renegade Exitus-trained marksman) wanted a face 'to know at a distance'; Tamsin now wears a refractor field (shield-breaker rounds ignore it). Kesh's nat-20 fact: the Bloom has no birth record; mother dead of plague the same month.
-- **THE LIGHT channel is compromised (DM):** TALLY's vox man broke into it on day 16 and
+- **Merrick's side, pre-rolled (DM, low = trouble):** day 29: 2, day 30: 19.
+- **THE LIGHT channel (DM): re-keyed day 27-28 (12 vs 12).** Old note: TALLY's vox man broke into it on day 16 and
   heard Brenner's 1005 line. Brenner caught a second carrier, so the Light knows
   someone listened; the channel should be re-keyed (Brenner, or Ferro-Ashe) before the
   Mart. Until then a listener with the codes could hear the Light.
