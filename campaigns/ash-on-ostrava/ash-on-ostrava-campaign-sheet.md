@@ -11,7 +11,7 @@ happened, and git history keeps every old version.
 **Clean up as we go (set by the player, session 9):** during play, when something
 closes or stops mattering, delete or shorten it in the same save. Keep this sheet lean.
 
-**Where we stopped:** **session 10, ~1330 warp day 29**, the range: Tamsin coached Tey ~0730-1330 (6 h); Tey's hands are spent. Brenner on THE LIGHT: **Merrick is at the ramp, wants Tamsin, 'about Haddle'.** **Varga has the shooting eye** (given in the medicae bay before the whole Light: 'family takes care of family'); the station surgeon fits it this morning, a day's rest, then Ferro links Mercy (day 30). Skipped from ~1600 day 27. Sallow checked
+**Where we stopped:** **session 10, ~1340 warp day 29**, the ramp, berth 2-9, with Merrick (Tey behind Tamsin). **Haddle is dead:** found ~0900 in his cell, poisoned in his breakfast, brought by the cell trustee **Lusk** (debt man on meal runs, not on the roster), who walked off shift ~0930 and is missing. The ration wrapper has an **open doorway** scratched inside (Open Gate). The nine circle members are alive, split up, fed by Merrick's sergeants only. Tamsin: 'So there was more than 5 left...' Morning: coached Tey 0730-1330. **Varga has the shooting eye** (given in the medicae bay before the whole Light: 'family takes care of family'); the station surgeon fits it this morning, a day's rest, then Ferro links Mercy (day 30). Skipped from ~1600 day 27. Sallow checked
 **Varga's socket (16): healed clean, ready for an augmetic today.** The shooting eye is still secret in its case under
 Tamsin's bunk; the Ustrennos surgeon does the fitting. Day 29: Brenner off light duty.
 **Skip recap (days 27-28):** THE LIGHT re-keyed overnight (Ferro 6 + 4 + 2 Brenner = 12 vs 12, done ~0200; new key on
@@ -42,7 +42,7 @@ she'll send for them.
   collar from Merrick, rod on Tamsin's belt, return it when done**; clean by the oil; his deal: penitence + the deacon
   for Pell's rescue; the deacon is now taken). **Joren Brisk** (penitent, cell 1 by night; clean; owes a ring-four
   loan shark **'Old Brannick'** 60 Thrones; two heavies came to the berth day 28, Kell turned them away; leg Hurt, mending).
-- **With Merrick:** Selk, Marsk, Pask Hollow, Mabry's bunkmates; **Osric Haddle** and his four circle men, the
+- **With Merrick:** Selk, Marsk, Pask Hollow, Mabry's bunkmates; **Osric Haddle (DEAD day 29: poisoned in his cell; trustee Lusk missing)** and the nine of his circle (split up, fed by her sergeants), the
   *Duty of Coin*'s master and mate; the pilot Marra in processing (Merrick's call). Merrick: plain coats on cold
   store row / Relay 3; *Duty of Coin* impounded. **Merrick is a firm friend.** Kesh (day 28): hold them, she'll send for them.
 - **To crack:** **Haddle's locked slate** and the lad's locked slate (cogged runes; Brenner/Ferro).
