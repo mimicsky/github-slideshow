@@ -55,6 +55,7 @@ day 27; Promise Holder to Ferro (blessing) and Kade (seal) day 27. Tey still nee
   Brenner servo-skull; Dace a bigger forge (promised with a new ship); Sorel a rifle of his own; Varga NEW EYE.
 - **Owed:** Nessa a drink of spire amasec (stealth bet). Osk's match with Tey (Tamsin calls it when Tey's ready; Osk may
   join as a Light Trainee if he wins, Merrick permitting). Merrick's labour collar.
+- **Ship refit order (Tamsin, day 27):** clear the **cargo office**: manifests, ledgers and the coin box move into **Tamsin's cabin**; the office becomes a **2-bunk cabin** (Dace/Ferro, ~a day, a little scrap). Option noted: a third bunk tier on half the racks (+4, ~1 TV, a day), fold-down bunks in the briefing room (+4), hammocks in the hold (+6-8). Comfortable max ~22, crammed ~32-34; beyond that, a bigger ship.
 - **Before leaving Ustrennos:** return the library books (Books table); re-key THE LIGHT (Brenner + Ferro, can be on the
   trip); fit Varga's eye if the socket's ready; send the FOR KESH box and Mabry's book; roll nemeses at mission start.
 - **Faction wealth:** cultists here rolled **Poor** (day 25). Roll again at the Mart.
