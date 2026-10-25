@@ -2,7 +2,7 @@
 
 **Never read any of this out to the player.** It holds secrets, nemeses and pre-rolled results; the player learns them only in play.
 
-**How to read this file:** read down to the **STOP** line on every resume (it's short). Below it are entries: open one only when its trigger in the index comes up. When a thread closes, move it to `archive.md`.
+**How to read this file:** read down to the **STOP** line on every resume (it's short, and it includes the index of triggers). Below it are the entries: open one only when its trigger comes up. When a thread closes, move it to `archive.md`.
 
 ---
 
@@ -25,10 +25,6 @@
 - **Nemeses this mission:** **Kessick Vay rolled 18: he appears this mission.** Hessler rolled 15: not this time; he grows stronger (better gear or more followers). Details under "Nemeses".
 - **Harvest Lamps (~day 55):** the Bloom turns twelve. What "the garden opens" means is not set yet; let it follow the story.
 
-**STOP.** Below here, open an entry only when its trigger comes up.
-
----
-
 ## Index
 
 | Entry | Open when |
@@ -44,6 +40,8 @@
 | [Vhal Korrin compound 8](#vhal-korrin-compound-8) | The Vhal Korrin mission |
 | [Ferro-Ashe's heresy](#ferro-ashes-heresy) | Ferro's workshop, the sealed case, the Mechanicus |
 | [Varsaine](#varsaine) | Varsaine appears |
+
+**STOP.** Below here are the entries: open one only when its trigger in the index above comes up.
 
 ---
 

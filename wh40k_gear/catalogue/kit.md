@@ -186,7 +186,7 @@ long shots** (past ~30 m); the wearer always knows the exact range to anything s
 **High-grade targeter:** **+3 on aimed shots.** **Gun link:** a HUD tied to one gun
 (Ferro-Ashe fits the link port; re-linking another gun ~1 hour) shows ammo and heat
 (Vigil's included): never caught empty or overheated by surprise, and **a miss in a
-shot chain doesn't cost the -1** (house rule 2).
+shot chain doesn't cost the -1** (house rule 6).
 
 ### Commissar eye
 
@@ -380,7 +380,7 @@ and **disarm attempts against the bearer take -2**.
 
 **Trigger**
 - **Match trigger** (uncommon, 1 TV): **+1 on aimed shots**; **-1 on hip/snap shots**.
-- **Hair trigger** (uncommon, 1 TV): **+1 on the first shot**; **drop-prone** unless fitted
+- **Hair trigger** (uncommon, 1 TV): **+1 on the first shot of a fight**; **drop-prone** unless fitted
   with a pressure-pin safety.
 - **Burst limiter** (common, 0.5 TV): **recoil -1**; strings capped at **3 shots**.
 

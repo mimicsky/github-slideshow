@@ -116,6 +116,8 @@ saving throws. Common ones:
 
 ## Part 2 — Combat
 
+*Reference only. In narrative mode (house rule 4) initiative, turns, AC and HP are switched off; fights use Part 6 (the exchange, shot chains, Cover, Shots and hits, Breaking and Down).*
+
 ### Turn order
 
 Everyone rolls **initiative** once at the start: d20 + DEX modifier. Highest
@@ -203,6 +205,8 @@ Other things to remember:
 - Hit points never go above your maximum, and never below 0.
 
 ### Cover
+
+*Superseded by Part 6, Cover (+1 / +2 / +4 to the hidden target).*
 
 | Cover | Benefit |
 | --- | --- |
@@ -879,11 +883,15 @@ instead of drifting.
 
 ### Dice are real
 
+*Target numbers stay hidden (Part 6: "Are DCs shown: Hidden, always"); the roll and the modifiers are shown.*
+
 I roll with an actual random number generator, not by choosing a result that
 feels right. I show you the roll, the modifier, and the target number. If the
 dice say the situation goes badly for you, it goes badly for you.
 
 ### Calling for rolls
+
+*The DC is never told before or after the roll (Part 6, house rule 3); the rest of this section stands.*
 
 I only ask for a roll when failure is interesting and success is uncertain. If
 there's no meaningful cost to failing, you just succeed. If the action is
@@ -970,11 +978,15 @@ steering. It never comes unprompted.
 
 ### Combat
 
+*Superseded by narrative mode (house rule 4): health states, not HP or initiative.*
+
 I track initiative, HP, and conditions for every creature, and I state enemy
 HP as descriptions rather than numbers unless you've found a way to know. I
 apply monster tactics honestly. Enemies flee, focus fire, and use their abilities.
 
 ### Failure states
+
+*Superseded: no HP or death saves. Health states (house rule 4); the Light dies only if finished off or hit again while Down (Part 6, Breaking and Down).*
 
 Death is on the table. When you hit 0 HP you roll death saves like anyone else.
 I won't kill you out of nowhere, but I also won't rescue you from a choice you
@@ -1074,6 +1086,17 @@ Either way the item is **drawn at random from the rare items in `wh40k_gear/pool
 gear for roll 1, anything for roll 2), never chosen to fit. It has a story, is often damaged or short on
 ammunition, and someone may want it back.
 
+**Coin on a body (set by the player, session 9).** When someone is searched, roll
+their purse by how they live. Valuables (gems, gold, rings) come on top.
+
+| Who | Thrones on them |
+| --- | --- |
+| Poor: hive scum, deckhand, cultist rank-and-file | d20 (1-20) |
+| Working: trooper, rating, clerk, ganger | 2d20 + 10 (12-50) |
+| Comfortable: sergeant, mate, merchant's man, pirate officer, gang boss | d6 x 50 (50-300) |
+| Rich: captain, broker, minor noble, cult leader | d6 x 500 (500-3,000; 5-30 TV) |
+| Very rich: rogue trader, noble house, a broker like Thask (strongbox or vault, not purse) | d10 x 2,000 (2,000-20,000) |
+
 **Special teams and the bestiary (set by the player, session 8).** Before a fight,
 2d20 added: 31-40 makes the group a named special team of its type (+1 on all
 rolls, armour one step better, +3 to the better-armed d20, favoured weapons). The
@@ -1085,7 +1108,7 @@ contents; open only the team that shows up). The roller does the 2d20.
 raiders, pirates, traitor soldiers (renegade Guard) and traitor elites (traitor
 storm troopers, renegade Inquisition kill-teams, always rolled at elite weights) carry gear rolled from their own pools in
 [`wh40k_gear/enemies.json`](wh40k_gear/enemies.json) with
-`python3 wh40k_gear/roll_enemy.py TYPE COUNT [GOD]`, weighted to common. **Each enemy
+`python3 wh40k_gear/roll_enemy.py TYPE COUNT [WEALTH] [GOD]`, weighted to common. **Each enemy
 rolls a role d20 first:** a low roll is a grunt, a coin flip making them ranged (a gun
 plus melee backup) or melee (a melee weapon, maybe a sidearm; traitor soldiers and
 elites are ranged 75% of the time); a high roll is a **specialist** (16-20), a random role from that enemy type's
@@ -1155,7 +1178,7 @@ carries into the mission.
 
 ### The quartermaster's stock
 
-The hub's armoury stock **refreshes each new day** aboard: a handful of items,
+The hub's armoury stock **refreshes every 2 days** (Shop size by market, below): a handful of items,
 priced in salvage or trade, never coin. Some are canon, some invented for the
 setting. **Rolled stock (set by the player, Ash on Ostrava session 8).** Stock is never
 picked to match the wish list. It's rolled at random from the 40k gear pools in
@@ -1180,16 +1203,7 @@ coin in the setting, but the table counts everything in TV. **Rate (set by the p
 manufactorum worker's month ~30). A brief 5 = 1 rate covered one purchase at Voss's
 stores (session 9); that purchase stands.
 
-**Coin on a body (set by the player, session 9).** When someone is searched, roll
-their purse by how they live. Valuables (gems, gold, rings) come on top.
-
-| Who | Thrones on them |
-| --- | --- |
-| Poor: hive scum, deckhand, cultist rank-and-file | d20 (1-20) |
-| Working: trooper, rating, clerk, ganger | 2d20 + 10 (12-50) |
-| Comfortable: sergeant, mate, merchant's man, pirate officer, gang boss | d6 x 50 (50-300) |
-| Rich: captain, broker, minor noble, cult leader | d6 x 500 (500-3,000; 5-30 TV) |
-| Very rich: rogue trader, noble house, a broker like Thask (strongbox or vault, not purse) | d10 x 2,000 (2,000-20,000) |
+**Coin on a body:** see Part 8, Loot.
 
 
 ### Renown (set by the player, session 9)

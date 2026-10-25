@@ -15,7 +15,7 @@ Don't say what's in the DM notes.
 2. **The campaign sheet** ([`ash-on-ostrava-campaign-sheet.md`](ash-on-ostrava-campaign-sheet.md)): "Where we stopped", "Current state", "What the Light knows about Thask", "Full kit", Tamsin ("The character"), the Light (roster, roles, specialties), "Owed", "Season Two: how it plays".
 3. **The DM notes** ([`dm-notes.md`](dm-notes.md)), **down to the STOP line only**, read silently, never told to the player: how the campaign runs, the live mission's secrets, nemeses, pre-rolls. Below STOP, open an entry only when its trigger comes up.
 4. **The codex** ([`../../DND_CODEX.md`](../../DND_CODEX.md)), Parts 6, 7 and 8: the player's play preferences, the house rules, cover, the roll checklist, how the game is run, the book rule, and the 40k rules (renown, power rating, nemeses, crew posts, gear).
-5. **The last chapter** written in [`book-season-2.md`](book-season-2.md), plus the sheet's day log for anything after it.
+5. **The sheet's day log** (newest first): what happened since the last written chapter. Read the end of the last chapter in [`book-season-2.md`](book-season-2.md) (search for the last `## Chapter`) only if the day log doesn't cover where we are.
 6. **Tables of contents only**: [`../../wh40k_gear/catalogue/README.md`](../../wh40k_gear/catalogue/README.md) and [`../../wh40k_gear/bestiary/README.md`](../../wh40k_gear/bestiary/README.md). Open an entry only when it comes up. Read [`../../wh40k_gear/bestiary/roles.md`](../../wh40k_gear/bestiary/roles.md) at the start of any fight.
 
 Then pick up exactly where we stopped.
@@ -26,7 +26,9 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 
 | When this comes up | Open |
 | --- | --- |
-| A fight starts | [`roles.md`](../../wh40k_gear/bestiary/roles.md); the enemy team's bestiary entry if it's a special team; codex Part 6: house rules 5 (the exchange) and 6 (shot chains), Cover, the Roll checklist |
+| A fight starts | [`roles.md`](../../wh40k_gear/bestiary/roles.md): its index, then only the roles in the fight; the enemy team's bestiary entry if it's a special team; codex Part 6: house rules 5 (the exchange) and 6 (shot chains), Cover, the Roll checklist, Shots and hits, Stacking |
+| Someone is hit, goes Down or gets healed | Codex Part 6: Shots and hits, Breaking and Down; Part 8: Armour, the refractor field (Gear rules); `roles.md`: Medic (the patch roll); the catalogue's `drugs.md` (stimm, SCIHU) |
+| A fight ends | Codex Part 6, Breaking and Down (who surrenders, runs, lives); Part 8, Loot (the two rare rolls, coin on a body); house rule 7 (reps: a Down counts as a kill); log witnesses in `dm-notes.md`; update the Full kit (ammo, grenades, Dirty guns) |
 | Rolling enemies | `roll_enemy.py` (commands below); codex Part 8 for enemy stats |
 | A gear item's own rules | The catalogue index, then just that entry |
 | Heat, hot-shot, drop-prone guns, jams, going Down | Codex Part 8, Gear rules |
@@ -64,12 +66,16 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 
 On a long day, add a one-line note to the day log after each big scene, so nothing is lost if the context is cut.
 
+## End of a session
+
+Award XP (the sheet's XP table), check the book is up to date with every day played, update "Where we stopped", commit and push.
+
 ## Start of a mission
 
 - Roll the faction's wealth: `python3 wh40k_gear/roll_enemy.py wealth TYPE` (once per mission or world).
 - Check the DM notes' witnesses and nemeses: bring one back if the story fits (codex Part 8, Nemeses; the DM's call, no automatic rolls).
 - Enemies: `python3 wh40k_gear/roll_enemy.py TYPE COUNT WEALTH [GOD]`. The types are cultist, raider, pirate, traitor and traitor_elite.
-- Shops: `python3 wh40k_gear/roll.py SELLER SIZE` (restock every 2 days).
+- Shops: `python3 wh40k_gear/roll.py SELLER SIZE` (restock every 2 days). Sellers: **M** Munitorum or fleet stores, **B** black market or chandlers, **A** Mechanicus shrine, **F** Free Trader or Void Exchange, **E** Ecclesiarchy. Sizes: small (5-7), medium (9-12), large (14-18), huge (20-25).
 
 ---
 

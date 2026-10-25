@@ -321,7 +321,7 @@ The Light's container, Container 2 and the hold, all together (what isn't carrie
   battered flak (day 25) + 1 flak armour set (day 29); 1 gas mask (day 29); ~25 helmets; 3 Navy void-suits; no spare grav-chutes (both issued: Varga's lift pack; Isk's frame waits on a machine-core, and one is now in stock); 1 boarding shield.
 - **Ammunition:** **1 crate of autogun rounds (~2,000)**, ~70 hot-shot packs, ~40 las packs, ~320 shotgun shells, 6
   stubber belts.
-- **Grenades and explosives (in the crate):** 11 frags, 3 photon flashes, 1 choke gas, 1 scrap pipe-bomb (short fuse; a natural 1 goes off in hand), **2 spec flashes**; **1 melta bomb**, 1
+- **Grenades and explosives (in the crate, net of what people carry):** 11 frags, 3 photon flashes, 1 choke gas, 1 scrap pipe-bomb (short fuse; a natural 1 goes off in hand), **2 spec flashes**; **1 melta bomb**, 1
   breaching charge, **28 demo charges**, 1 rot gas bottle (for Kesh). **On people (day 33):** Hollis has 8 frags and his own 2 spec flashes (drum + belt); Tavi took the 2 kraks (3 in all). **The crate is open stock: anyone may grab from it; update both rows.**
 - **Kit:** a bandolier, 2 belt side-pouches, a demolitions bag, ~23 spare vox-beads, the vox-horn. (The 2 laser sights: fitted day 32, Last Word and Tey's hellpistol.)
 - **Medicae (beyond Sallow's):** ~11 antitoxin, ~5 stimms, plague-ward filters and salve, a fleet medicae crate,
@@ -356,7 +356,7 @@ Tamsin's labelled drawing on oilcloth, ~1615 day 18. Communed: a young, crude sp
 - **New bolt + heavier buffer spring** (~0.5 TV parts): **jams only from the 25th straight round** (on 1-4), not the 13th.
 - **New mag catch** (~0.1 TV): **no mag dump when dropped**.
 - **Safety lever** (~0.1 TV) **+ pressure-pin safety** (Dace from scrap, or 0.5 TV): **not drop-prone while on/pinned**; hair trigger kept.
-- **New barrel** (~1 TV): bore no longer pitted; **+1 on shots past ~15 m**.
+- **New barrel** (~1 TV): bore no longer pitted; **+1 on shots past ~30 m** (as built).
 - **Later attachments** (catalogue, kit: pistol attachments): auto drum (80 rounds), laser/lumen combo, pistol reflex sight, ergo grip sleeve.
 - **Parts:** shops (restock day 20) or Doradne machines them. **Builder: Dace** (+1 from Ottrick's manuals): bench work ~1 day; frame forge work ~2 days, once he can stand.
 
@@ -474,7 +474,7 @@ carapace from the front; refractor field (auto-stops light hits, 3 a beat; heavy
 (drop-prone); Indomitable (reroll a failed save, once per long rest); purity seals on Vigil, Last Word, the knife, Shameholder.
 **The Light's standing modifiers:** specialties (+2), roles (bestiary), traitor-elite side notes, finished books, Morcant's
 suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss by 1-2), Corvane's revolver (+1 inside
-15 m, 3-shot chains), Varga -2 sight/aimed until her eye.
+15 m, 3-shot chains), Varga's shooting eye (rangefinder, targeter, gun-link).
 
 **Power ratings (reference only, no in-game effect; codex Part 8 'Power rating'; re-rated day 33 from the Full kit table; re-run whenever it changes):** 0 = civilian, ~100 = Poor cultist.
 

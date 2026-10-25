@@ -12,9 +12,13 @@ the same point does it change that one point (the basic sniper moves after two
 shots; a cultist sniper doesn't move); everything else in the main entry still
 applies.
 
+## Index (open only the roles in the fight)
+
+[Grunt (ranged)](#grunt-ranged) · [Grunt (melee)](#grunt-melee) · [Sniper](#sniper) · [Grenadier](#grenadier) · [Heavy gunner](#heavy-gunner) · [Heavy team](#heavy-team) · [Plasma / melta gunner](#plasma--melta-gunner) · [Flamer](#flamer) · [Demolitions](#demolitions) · [Medic](#medic) · [Chem-doctor](#chem-doctor) · [Leader](#leader) · [Bodyguard](#bodyguard) · [Enforcer](#enforcer) · [Icon bearer](#icon-bearer) · [Rogue psyker](#rogue-psyker) · [Vox / auspex](#vox--auspex) · [Tech-adept / heretek](#tech-adept--heretek) · [Breacher](#breacher) · [Assassin](#assassin) · [Infiltrator](#infiltrator) · [Gunslinger](#gunslinger) · [Brute / mutant](#brute--mutant) · [Beast handler](#beast-handler) · [Berserker](#berserker) · [Bomb zealot](#bomb-zealot) · [Blessed](#blessed) · [Jumper](#jumper) · [Duelist](#duelist) · [Commander](#commander) · [Fighter pilot](#fighter-pilot) · [Spotter](#spotter) · [Tracker](#tracker) · [Zealot](#zealot) · [Skitarius](#skitarius) · [Rolling new people (recruits and NPCs)](#rolling-new-people-recruits-and-npcs) · [Ogryn](#ogryn)
+
 ## Grunt (ranged)
 
-**Who has it:** all five types (a grunt is anyone who rolls 1-14).
+**Who has it:** all five types (a grunt is anyone who rolls 1-15).
 
 The rank and file. Wants to live through this. Shoots from cover, follows whoever
 is shouting orders, ducks when shot at, and is the first to run when the leader
@@ -26,7 +30,7 @@ falls and rarely surrender (fanatics and fallen professionals).*
 
 ## Grunt (melee)
 
-**Who has it:** all five types (a grunt is anyone who rolls 1-14).
+**Who has it:** all five types (a grunt is anyone who rolls 1-15).
 
 The ones who couldn't get a gun, or prefer not to. Rushes when the group rushes,
 hangs back otherwise. Waits behind cover for the enemy to come close, **moves from
