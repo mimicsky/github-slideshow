@@ -567,7 +567,7 @@ What stays on:
 | Fine | Untouched or scratched |
 | Hurt | Bleeding, slowed, still dangerous |
 | Badly hurt | One more bad exchange from going down |
-| Down | Unconscious or dying. The story decides which |
+| Down | Out of the fight. **Enemies:** d6 after the fight, 1-3 dead. **The Light:** alive; dies only if finished off or hit again while Down (Part 6, Breaking and Down) |
 
 The honest trade-off, stated so it isn't a surprise later: when dice stop
 deciding every exchange, the DM decides more. Some tension becomes theatrical.
@@ -713,7 +713,7 @@ day's end, from the training plan and from what happened in play.
   give a **standing roll bonus** in their subject (e.g. +1 on will checks). Each reader
   gets a book's completion bonus once; rereading gives only the hourly reps. The DM sets
   each book's hours, stat and bonus when it's found; tracked on the campaign sheet.
-- **Kills count:** +0.1 per kill in the stat it used: a melee kill (blade, axe,
+- **Kills count:** +0.1 per kill (**putting an enemy Down counts as a kill**) in the stat it used: a melee kill (blade, axe,
   knife) is STR, a shot or thrown kill (gun, grenade) is DEX.
 - **Hours are hours of real work:** a mission day counts what they actually did in
   it; a day in bed gives nothing, unless they study (INT) or coach from the cot (WIS).
@@ -832,6 +832,19 @@ What the DM has always done, written down so anyone can run it.
 - **"Solid hit"** (wording some gear uses): the total **beats the hidden number by 3 or more**.
 - **Example:** a cultist behind crates (+2) at normal range: target 17. Tamsin rolls 12 + 7 DEX + 4 proficiency = 23:
   a hit and a solid hit; flak doesn't stop Vigil, so the cultist drops a step.
+
+### Breaking and Down (set by the player, Ash on Ostrava session 10)
+
+- **An enemy group breaks** when its leader falls or half of it is Down. Then an open d20: **1-10 they
+  surrender, 11-20 they run.** Type shades it: cultists rarely surrender (fanatics fight on or run);
+  pirates and traitors fall back to better ground rather than give up early. (An enforcer still stops
+  breaking while it stands: bestiary roles.)
+- **Down enemies, after the fight:** d6 each, **1-3 dead, 4-6 alive but out** (prisoners, questioning).
+- **The Light (Tamsin and his people) never die from going Down.** A Light-bringer who goes Down is **out of
+  the fight for the rest of it**, and **dies only if finished off or hit once more while Down**. Afterwards
+  they're out for **more time depending on the hit** (the DM sets it from how bad it was; the medic's and
+  surgeon's rolls shorten it).
+- **Reps:** putting an enemy Down counts as a kill (house rule 7).
 
 ### Rulings made at the table
 
