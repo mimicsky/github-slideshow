@@ -214,7 +214,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 - **The book: written at the end of every in-game day** (changed by the player, session 10),
   right after the daily tally, as full chapters in `book-season-2.md` (codex Part 7, The book).
   On long days, a one-line note in the day log after each big scene as a safety net. Update
-  "Where we stopped" at the top of this sheet. **Backlog: days 17-33 are not written yet.** Part One of the book summarises sessions 1-5; Part Two starts the
+  "Where we stopped" at the top of this sheet. Book up to date through day 33 ~1050 (Chapter 70). Part One of the book summarises sessions 1-5; Part Two starts the
   morning after the Deck 9 breach.
 
 ---
