@@ -448,7 +448,7 @@ middle of the enemy team.*
 
 Wants the fight, and pushes up as far and as fast as they can. Carries a **one-handed gun
 and a sword** (changed by the player, Ash on Ostrava session 10): a pistol, an SMG, or a shotgun
-fired one-handed (**+1 recoil**). Calls a target out, fights them one on one, and mostly ignores everyone else
+fired one-handed. Calls a target out, fights them one on one, and mostly ignores everyone else
 unless ordered. **Can shoot and swing in the same beat** (one shot and one
 melee attack). **If they take only one kind of action that beat (only shooting, or
 only melee), +1 on that roll.**

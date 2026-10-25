@@ -1394,7 +1394,7 @@ are in the catalogue (kit). The **Jumper** role is in the bestiary (roles).
 **-1**. **Recoil:** every gun has a rating; each shot in a string **after the first** takes
 **-recoil**: **0** las weapons (lasguns, hellguns, laspistols, hellpistols) and stub/auto
 pistols; **1** autoguns on burst, SMGs and machine pistols, shotguns, revolvers, hand cannons;
-**2** bolt weapons, heavy stubbers, anti-materiel rifles. **A shotgun fired one-handed** (a duelist's) takes **+1 recoil** on top of its rating. **Slots:** a gun takes **one
+**2** bolt weapons, heavy stubbers, anti-materiel rifles. **Slots:** a gun takes **one
 attachment per slot**: muzzle, under-barrel, stock, optic, grip, magazine, trigger, barrel.
 No hard cap on bonuses; every attachment carries a real downside. **A gun's optic and a HUD
 eye's aim bonus don't stack** on the same shot: use the better. Attachments are in the
