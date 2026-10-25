@@ -14,7 +14,7 @@ Rules: [`../../DND_CODEX.md`](../../DND_CODEX.md).
 **To resume in a new chat:** branch **`claude/ash-ostrava-campaign-closeout-ma000x`**. Read, in order:
 1. This README.
 2. The end of `book-season-2.md` (Part Two, Chapter 27).
-3. The campaign sheet: "Where we stopped", "Current state", "What the Light knows about Thask", "How the player likes to play", "Season Two: how it plays", and the DM threads (hidden from the player).
+3. The campaign sheet: "Where we stopped", "Current state", **"Full kit" (everyone's standing loadout; keep it current)**, "What the Light knows about Thask", "How the player likes to play", "Season Two: how it plays", and the DM threads (hidden from the player).
 4. `../../DND_CODEX.md` Parts 6-8 (house rules, training reps, renown, nemeses, crew posts, faction wealth, gear rules).
 5. Tables of contents only: `../../wh40k_gear/catalogue/README.md` and `../../wh40k_gear/bestiary/README.md`; open an entry when it comes up. Roles are in `../../wh40k_gear/bestiary/roles.md`.
 
