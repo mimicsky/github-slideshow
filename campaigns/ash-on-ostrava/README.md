@@ -14,7 +14,7 @@ Don't say what's in the DM notes.
 1. **This README**, all of it.
 2. **The campaign sheet** ([`ash-on-ostrava-campaign-sheet.md`](ash-on-ostrava-campaign-sheet.md)): "Where we stopped", "Current state", "What the Light knows about Thask", "Full kit", Tamsin ("The character"), the Light (roster, roles, specialties), "Owed", "Season Two: how it plays".
 3. **The DM notes** ([`dm-notes.md`](dm-notes.md)), **down to the STOP line only**, read silently, never told to the player: how the campaign runs, the live mission's secrets, nemeses, pre-rolls. Below STOP, open an entry only when its trigger comes up.
-4. **The codex** ([`../../DND_CODEX.md`](../../DND_CODEX.md)), Parts 6, 7 and 8: the player's play preferences, the house rules, cover, the roll checklist, how the game is run, the book rule, and the 40k rules (renown, power rating, nemeses, crew posts, gear).
+4. **The codex** ([`../../DND_CODEX.md`](../../DND_CODEX.md)): **only the sections marked "Always" in the map at its top** (about 450 lines: the play preferences, house rules 1-6, cover, the roll checklist, shots and hits, breaking and Down, describing the world, armour and weapons). Open the rest when the map's trigger comes up.
 5. **The sheet's day log** (newest first): what happened since the last written chapter. Read the end of the last chapter in [`book-season-2.md`](book-season-2.md) (search for the last `## Chapter`) only if the day log doesn't cover where we are.
 6. **Tables of contents only**: [`../../wh40k_gear/catalogue/README.md`](../../wh40k_gear/catalogue/README.md) and [`../../wh40k_gear/bestiary/README.md`](../../wh40k_gear/bestiary/README.md). Open an entry only when it comes up. Read [`../../wh40k_gear/bestiary/roles.md`](../../wh40k_gear/bestiary/roles.md) at the start of any fight.
 
@@ -90,4 +90,4 @@ Award XP (the sheet's XP table), check the book is up to date with every day pla
 | [`book.md`](book.md) | Season One as a novel |
 | [`maps/`](maps) | Pictures of *The Bright Light* |
 
-**Cleanup in progress (session 10).** The sheet is being split. Steps: 2 checklist ✓ · 3 DM notes → `dm-notes.md` ✓ · 4 write days 17-33 into the book · 5 history → `archive.md` · 6 rebuild the sheet · 7 NPCs and missions → `world.md`, gear → `inventory.md` · 8 remove duplicates, rules into the codex · 9 cold test. Update this table as each file appears; delete this note when done.
+**Cleanup in progress (session 10).** The sheet is being split. Steps: 2 checklist ✓ · 3 DM notes → `dm-notes.md` ✓ · cold-test fixes ✓ · codex map ✓ · 4 write days 17-33 into the book · 5 history → `archive.md` · 6 rebuild the sheet · 7 NPCs and missions → `world.md`, gear → `inventory.md` · 8 remove duplicates, rules into the codex · 9 cold test. Update this table as each file appears; delete this note when done.

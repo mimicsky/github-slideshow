@@ -12,6 +12,40 @@ separate file per campaign, not in here.
 
 ---
 
+## How to read this codex (the map)
+
+Like the gear catalogue's table of contents: **read the "Always" sections on every resume (about 450
+lines); open the rest only when its trigger comes up.** Parts 1-5 are plain 5e reference, switched off
+by narrative mode (house rule 4): open them only if the player asks for full rules.
+
+| Section | Read |
+| --- | --- |
+| **Part 6:** the settings table, "How the player likes to play" | **Always** |
+| **Part 6, house rules 1-6:** near-miss, variant pairing, hidden DCs, narrative mode (health states), the exchange, shot chains | **Always** |
+| **Part 6:** Cover, Roll checklist (with Stacking), Shots and hits, Breaking and Down | **Always** |
+| **Part 7:** Describing the world (no option menus, layout is free) | **Always** |
+| **Part 8:** The reskin, Armour, Weapons (incl. named and rebuilt weapons) | **Always** |
+| Part 6, house rule 7: stat levels, training reps, the training manual, coaching, books | At the daily tally; training, coaching or a book comes up |
+| Part 6, Food | Food is in doubt (a mission, a siege, a bad jump); a cook |
+| Part 6, house rule 8: Will | An interrogation or a recruiting attempt |
+| Part 6, Rulings made at the table | A situation those rulings cover (looting, white armour, undecided facts) |
+| Part 7: Dice are real, Calling for rolls, Pacing and difficulty, Combat, Failure states | Unsure how to call a roll or pace a stretch (Combat and Failure states are superseded) |
+| Part 7: End of session (and the book rule) | The end of an in-game day or a session |
+| Part 8: Loot (incl. the two rare rolls, coin on a body, special teams, enemy stats) | Rolling enemies; a fight ends |
+| Part 8: The quartermaster's stock, Shop size by market, The Void Exchange | Shopping, selling, ordering |
+| Part 8: Renown | Walking into a new place |
+| Part 8: Power rating | The player asks for ratings, or the Full kit changes |
+| Part 8: Nemeses | A fight ends (log witnesses); a mission starts |
+| Part 8: Crew posts | A crew post matters (cook, smith, surgeon, quartermaster) |
+| Part 8: The mission terminal | Briefing a new mission |
+| Part 8: Gear rules (heat, hot-shot, drop-prone, swapping, recoil, slots, gun condition, refractor field, airborne, doses) | Any of those comes up in play |
+| Part 8: Perils of the Warp, Psyker powers | A psyker or the warp |
+| Part 8: Custom weapons and crafting, Purity seals, Weapon blessings | Building, sealing or blessing gear |
+| Part 8: The hub, Training at the hub | Superseded (house rule 7); skip |
+| Quick Reference Card | Plain 5e; skip |
+
+---
+
 ## Part 1 — The Core Rules
 
 ### The one mechanic that runs everything
