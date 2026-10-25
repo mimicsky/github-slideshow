@@ -96,6 +96,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Combat chain-knife, 'Kasr Gnaw' pattern](melee.md#combat-chain-knife-kasr-gnaw-pattern)
 - [Injector stiletto, 'Kasr Sting' pattern](melee.md#injector-stiletto-kasr-sting-pattern)
 - [Combat axe](melee.md#combat-axe)
+- [Shock maul](melee.md#shock-maul)
 - [Thunder hammer, intact](melee.md#thunder-hammer-intact)
 - [Thunder hammer, one-handed officer's pattern](melee.md#thunder-hammer-one-handed-officers-pattern)
 - [Power falchion](melee.md#power-falchion)

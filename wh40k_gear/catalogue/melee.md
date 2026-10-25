@@ -212,3 +212,10 @@ the claws (they hum and glow); the next stab that lands **expels the stored
 power into the target**, who drops **one extra health step**. One charge held at
 a time; it fades at the end of the fight. Charging in the open is a beat not spent
 fighting, and the glow gives the bearer away in the dark.
+
+## Shock maul
+
+**Shock maul** (uncommon, 7 TV; Munitorum, black market, Free Traders; Arbites and Guard provost issue). A
+heavy club with a shock field in the head. Melee uses **STR** (house rule 5). **A hit that lands also stuns
+for 1 beat** (no block, parry or shot), **even if armour stops the blow**; a hit that gets through armour
+drops a step as usual. **Machines** (Skitarii, servitors) take it **one step harder** (bestiary, Skitarius).

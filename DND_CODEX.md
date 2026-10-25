@@ -1020,6 +1020,13 @@ No weapon has a damage number. Better weapons drop a target in fewer hits and
 get through better armour. Ammunition is the real cost: hot-shot packs, bolt
 rounds and plasma are scarce, las packs recharge from any ship's coupling.
 
+**Named and rebuilt weapons (set by the player, Ash on Ostrava session 10).** A name changes nothing.
+A named weapon is its **base weapon** (Vigil, Officer and Mercy are hellguns; Stinger is a Kasr Hornet
+machine pistol) **plus its listed attachments, mods and blessing**, each with its own catalogue entry.
+A **rebuilt** weapon (Corvane's revolver, Stinger) is its base weapon plus the list of what the smith
+changed, each change counted like an attachment. No separate entries are written for named weapons;
+the campaign sheet's Full kit lists each one as *Name (base) + attachments*.
+
 **Ammunition prices (Ash on Ostrava, set session 7).** Cheap ammunition is a
 sign of how cheap life is: a stub round costs less than a ration can. In TV
 (1 TV = 1 Navy combat shotgun):
