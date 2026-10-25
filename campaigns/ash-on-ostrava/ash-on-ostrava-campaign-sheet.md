@@ -26,7 +26,7 @@ closes or stops mattering, delete or shorten it in the same save. Keep this shee
 - **Plan (Nessa owns it; full brief when Tamsin says):** Thask and the Bloom first, quiet; docker coats over armour;
   the Valkyrie (not the ship) if it goes loud; Nessa + Dannel to the **cannery at ~berth 44 (tin chutes)** for **Pell
   Rusk** (11); second hit (ledger/loot) decided on the ground; governor after the mission.
-- **Health:** everyone Fine (Hollis's shoulder healed by day 33; **Dace's hip healed: the player's call, day 33**). **Varga's shooting eye works** (dressing off day 31): -2 gone; rangefinder +2 past 30 m, targeter +3 aimed, gun link once Ferro fits Mercy (day 31). Brenner off light duty.
+- **Health:** everyone Fine (Hollis's shoulder healed by day 33; **Dace's hip healed: the player's call, day 33**). **Varga's shooting eye works** (dressing off day 31): -2 gone; rangefinder +2 past 30 m, targeter +3 aimed, gun link fitted to Mercy by Ferro (day 30). Brenner off light duty.
   Tamsin Fine, wearing heavy carapace front + refractor field.
 - **Food:** everyone Fed (no cook aboard).
 - **Prisoners/penitents aboard:** **Dannel Rusk** (penitent, cell 2 by night; Corvane's grey cord; **convict labour
@@ -39,7 +39,7 @@ closes or stops mattering, delete or shorten it in the same save. Keep this shee
 - **To crack:** **Haddle's locked slate** and the lad's locked slate (cogged runes; Brenner/Ferro).
 - **Builds:** **Dace's masterpiece blade: DONE day 26: 'Promise Holder'** (named by Tamsin: 'Being a protector is my promise.'): a straight single-edged plasteel sword, folded nine times, long fuller, brass bar guard, grey grox-hide grip with white cord, pommel boss from the last of Dace's collar. **Masterwork: +1 on attacks in the exchange, +1 on parries; edge never chips or dulls; cuts flak like cloth, finds carapace gaps on a raw 17+.** Poster: https://claude.ai/artifact/37Hf9UguNcs9U4ff4vR5Nh. **Stinger** (the Kasr Hornet; DONE day 27, 1400, Dace): new machined plasteel-reinforced frame with top and under-barrel rails (both empty), no stock, new bolt + heavy buffer spring, custom barrel, safety lever, pressure-pin hair trigger, new mag catch, 40-round stick feeding up through the grip. Named by Tamsin ~1420: *'The first one in a fight to put one in you.'* Painted ~1420-1600: white grip, trigger and barrel; Light grey everything else; both mags grey with a thick yellow band over a thick black band at the base ('so you know the round that stings you'). Name and words not yet cut (can go through the paint to bright metal). Poster: https://claude.ai/artifact/9zLfa8yHsF6dYq8pw6cSA3. Dace also has the other
   plasteel for Shameholder's plasteel teeth (1) and Kell's Steady spirit blessing (2, with Ferro and the servo-motor).
-  **Valkyrie:** new clamp jaw fitted; flank panel waits for Dace to beat it out (hull-plate manual), then sealant and paint.
+  **Valkyrie:** new clamp jaw fitted; flank panel waits for Dace to beat it out (hull-plate manual), then sealant and paint. **Weapons: a pair of rocket pods, both empty (0 of 6 rockets); nothing else** (the player, day 33).
 - **Shooting eye:** **working from day 31** (fitted day 29, complication 3, opened day 31: 5); **given to Varga day 29** (her reaction 3 to the apology, 9 to the gift: 'Plasteel order, my arse'; 'You're still an idiot'); fitting by the station surgeon day 29, one day's rest; Ferro links Mercy day 30. Was: surgeon fitting once the socket's ready
   (~day 29; the Ustrennos surgeon). Varga suspects a surprise (told: plasteel/ceramite order).
 - **Coin:** Tamsin **10.18 TV**; coin box **2,630 Thrones** (Haddle 120 + the master's 200 + ~12; day 29: Hob's 250 + the crate crew's 48; day 31: Brannick's strongbox ~2,000), in Tamsin's cabin. **Brannick's debt ledger** (~70 names on ring four) with Tamsin. Rate 100 Thrones = 1 TV.
@@ -58,7 +58,7 @@ closes or stops mattering, delete or shorten it in the same save. Keep this shee
 
 ### Day log, session 10 (newest first)
 
-- **Day 33 (warp):** ~1030 woke; ~1050 kitted and on the bridge, ten minutes out (no lift pack: the player corrected it). **Full kit table set** after the player's corrections (SCIHU stim to Sallow; Varga no grenades; Dace's hip healed, no autopistol; Hollis hellgun, Six Bells backup, hand flamer; Brenner and Sallow no laspistol; Isk a laspistol; Corvane officer's power sword and shotlas; Tey no hair trigger, no laspistol; Sorel a hellgun from Tamsin; Mira and Teo laspistols; Ferro-Ashe's weapon rolled, d8 = 4: the stolen Kantrael lasgun). Power ratings re-run.
+- **Day 33 (warp):** ~1030 woke; ~1050 kitted and on the bridge, ten minutes out (no lift pack: the player corrected it). **Full kit table set** after the player's corrections (SCIHU stim to Sallow; Varga no grenades; Dace's hip healed, no autopistol; Hollis hellgun, Six Bells backup, hand flamer; Brenner and Sallow no laspistol; Isk a laspistol; Corvane officer's power sword and shotlas; Tey no hair trigger, no laspistol; Sorel a hellgun from Tamsin; Mira and Teo laspistols; Ferro-Ashe's weapon rolled, d8 = 4: the stolen Kantrael lasgun). Then: Hollis carries the Light's grenades (the crate is open stock to anyone); Varga's gun-link was fitted day 30; the Valkyrie's rocket pods are empty; Kell's shield arm still to fit. Power ratings re-run.
 - **Day 32 (warp):** dawn: Tey 5 for 5 under Varga (event 20). Dace dulled two Gate Guard bayonets; **knife bouts** (Corvane, Sorel, Varga, Mira, Morcant, Tavi, Ferro won round one; bracket: **Mira champion**; then **Tamsin beat Mira 5-2**: both titles). Nessa's 'sneak past me' course (Tamsin, Kell, Varga, Ferro across). **Shooting championship: Tamsin 82**, Varga 60. Speech: 'you can't do it all, but the Light can'. Power ratings set (reference only). Laser sights on Last Word and Tey's hellpistol; Dace banded a rail onto Last Word overnight (15).
 - **Day 31 (afternoon, warp):** training: Nessa's stealth course (3 h), cover-to-cover (1 h), room clearing (~4 h; pass 2 passes: Brenner, Dace, Sallow, Teo, Ferro; Tamsin 4 of 4 with a natural 20 on Nessa; Kell fell in the galley). Dinner; Ollin the Light's Quartermaster.
 - **Day 31:** 0800 Varga's dressing off, the eye works (5). Merrick's machine-core (event 18). Pardon for Lusk; Dannel's collar back to Merrick; Hollen's warning (the guest on the high side, 20); library books returned; **Brannick broken** at the Sump Lantern (debt book and ~2,000 Thrones taken; renown 20). ~1115 sailed for the Mart; warp entry rough (3), Hollis hurt.
@@ -209,7 +209,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 - **Fewer freebies.** Gear is earned through salvage, trades, favours and risk.
 - **The player may propose** blessings, mods and backstory; the DM judges.
 - **Save state** to the campaign files and push after anything important.
-- **Full kit (set by the player, Ash on Ostrava session 10, day 33).** The campaign sheet's **Full kit** table is each person's standing loadout. 'Full kit for everyone' means exactly that table, unless the player says otherwise for a mission. **Keep it current in the same save:** whenever something is used up, lost, swapped, fitted, found or handed out (ammo, grenades and attachments too), change its row; don't add gear the player hasn't assigned. Power ratings are re-run from it.
+- **Full kit (set by the player, Ash on Ostrava session 10, day 33).** The campaign sheet's **Full kit** table is each person's standing loadout. 'Full kit for everyone' means exactly that table, unless the player says otherwise for a mission. **Keep it current in the same save:** whenever something is used up, lost, swapped, fitted, found or handed out (ammo, grenades and attachments too), change its row; don't add gear the player hasn't assigned. **The Light's container is open stock: anyone may take from it if they want; update both the person's row and the crate's count.** Power ratings are re-run from it.
 - **The book.** At the end of each session, write it as full chapters in
   `book.md` (codex Part 7), and update "Where we stopped" at the top of this
   sheet. Part One of the book summarises sessions 1-5; Part Two starts the
@@ -267,18 +267,18 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 
 ### Full kit (everyone's standing loadout; set by the player, day 33)
 
-**'Full kit for everyone' means exactly this table**, unless the player says otherwise for a mission. **Keep it current in the same save:** when anything is used up, lost, swapped, fitted, found or handed out (ammo, grenades and attachments too), change its row. Don't add gear the player hasn't assigned. Power ratings (below) are re-run from it. Counts are written only where they are known.
+**'Full kit for everyone' means exactly this table**, unless the player says otherwise for a mission. **Keep it current in the same save:** when anything is used up, lost, swapped, fitted, found or handed out (ammo, grenades and attachments too), change its row. Don't add gear the player hasn't assigned. Power ratings (below) are re-run from it. Counts are written only where they are known. **The crate (the Light's container) is open stock:** anyone may grab from it if they want; when they do, update their row and the crate's count in the same save.
 
 | Who | Guns | Blades and melee | Armour and helm | Other kit |
 | --- | --- | --- | --- | --- |
 | **Tamsin** (Interrogator, commander) | **Vigil** (hellgun; blessing *Korren's breath*: crits 17-20, each crit +1 heat, vent a beat at 3 heat, firing anyway at 3 heat: d20, 1-5 cracks the coil; heat clears after venting or at the fight's end; 1 pack in + 2 spare). **Last Word** (duelling laspistol, right thigh; laser sight, Dace's banded rail). **Stinger** (machine pistol; 2 sticks) | **Shameholder** (chainsword, on his back); combat knife | Heavy carapace front over flak; refractor field; helm with pict lens; void-mask; rebreather | 2 impact frags, 1 frag, 1 smoke; salve in the satchel; warrant on its chain. **No lift pack** (stays in the container) |
-| **Kell** (Light-bringer sergeant, assault) | **Officer** (hellgun; tube stock, Dace's fore-grip); Tessaly's plasma pistol (cell + 1 spare) | chain axe; Schola knife | Carapace; helm with pict lens. Shield arm **not fitted yet** (the boarding shield is in the container) | none assigned |
-| **Varga** (Light-bringer, rifle/jumper) | **Mercy** (hellgun; tap-button; gun-link port pending Ferro); laspistol | sharpened Krieg trench shovel | Carapace; helm | shooting eye; lift pack; **no grenades** |
+| **Kell** (Light-bringer sergeant, assault) | **Officer** (hellgun; tube stock, Dace's fore-grip); Tessaly's plasma pistol (cell + 1 spare) | chain axe; Schola knife | Carapace; helm with pict lens. Shield arm **still to be fitted** (Dace; the boarding shield is in the container) | none assigned |
+| **Varga** (Light-bringer, rifle/jumper) | **Mercy** (hellgun; tap-button; gun-link port to her eye); laspistol | sharpened Krieg trench shovel | Carapace; helm | shooting eye; lift pack; **no grenades** |
 | **Dace** (Light-bringer, melee/smith) | none (no autopistol) | **Promise Holder** (masterwork plasteel sword); **Threshold** | Carapace; breaching shield (forged, viewing slot); helm | hip healed |
-| **Hollis** (Light-bringer, grenadier) | Cadian hellgun; **Six Bells** (drum grenade launcher, backup); hand flamer (close quarters) | none | Carapace; helm with pict lens | 2 spec flashes; frags for Six Bells (counts not set) |
+| **Hollis** (Light-bringer, grenadier) | Cadian hellgun; **Six Bells** (drum grenade launcher, backup); hand flamer (close quarters) | none | Carapace; helm with pict lens | **the Light's grenades:** 10 frags, 2 kraks, 3 photon flashes, 1 choke gas; his 2 spec flashes |
 | **Brenner** (Light-bringer, vox) | Accatran lascarbine (no laspistol) | machete; Navy cutting torch | Carapace; helm | vox-caster; auspex; data-spike; splicer kit |
 | **Isk** (Light-bringer, sniper) | **Patience** (scoped long hellgun); laspistol (sidearm) | none | Carapace; helm with pict lens | prayer token |
-| **Tavi** (Light-bringer, demolitions) | **Tiny** (Accatran lascarbine, hot-shot) | none | Carapace; helm with pict lens | demo satchel and detonator; breaching charge; kraks; cutting charge |
+| **Tavi** (Light-bringer, demolitions) | **Tiny** (Accatran lascarbine, hot-shot) | none | Carapace; helm with pict lens | demo satchel and detonator; 1 breaching charge; 1 krak; cutting charge |
 | **Morcant** (Light-bringer, heavy) | heavy stubber (belts); **Doorknocker** (ripper-drum shotgun; 1 spare drum) | none | Wren's heavy carapace; helm | none assigned |
 | **Sallow** (Light-bringer, medic) | Kesh's lascarbine (no laspistol) | none | Carapace; helm | **the Bag** (10 antitoxin, 10 stimms, morphia, filters, **the SCIHU stim**); drag harness on her chest rig |
 | **Corvane** (Light-bringer, point) | white-and-grey revolver (Dace's cut-down holster); shotlas | officer's power sword (unnamed); combat knife | Carapace; helm with pict lens | 2 spec flashes |
@@ -292,7 +292,8 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 
 **Helms:** everyone wears one except Nessa (quiet kit). **Pict-lens helms:** Tamsin, Kell, Isk, Corvane, Hollis, Tavi.
 **No weapons assigned:** Dannel Rusk and Joren Brisk (penitents).
-**Open:** grenade and pack counts beyond what's written; Varga's gun-link port on Mercy (Ferro to fit; not logged as done); the Valkyrie's weapons; Kell's shield arm; Isk's laspistol is the player's 'I think'.
+**The Valkyrie (Mira, Teo):** a pair of rocket pods, **both empty (0 of 6 rockets)**; nothing else.
+**Open:** Kell's shield arm (still to be fitted); rockets for the Valkyrie's pods (Mira's wish); Isk's laspistol is the player's 'I think'.
 
 ### The Light's containers
 
@@ -317,8 +318,8 @@ The Light's container, Container 2 and the hold, all together (what isn't carrie
   battered flak (day 25) + 1 flak armour set (day 29); 1 gas mask (day 29); ~25 helmets; 3 Navy void-suits; 2 grav-chutes; 1 boarding shield.
 - **Ammunition:** **1 crate of autogun rounds (~2,000)**, ~70 hot-shot packs, ~40 las packs, ~320 shotgun shells, 6
   stubber belts.
-- **Grenades and explosives:** 19 frags (Hob's, day 29), 1 scrap pipe-bomb (short fuse; a natural 1 goes off in hand), 2 kraks, 3 photon flashes, **2 spec flashes**, 1 choke gas; **1 melta bomb**, 1
-  breaching charge, **28 demo charges**, 1 rot gas bottle (for Kesh).
+- **Grenades and explosives (in the crate):** 9 frags, 1 scrap pipe-bomb (short fuse; a natural 1 goes off in hand), **2 spec flashes**; **1 melta bomb**, 1
+  breaching charge, **28 demo charges**, 1 rot gas bottle (for Kesh). **Hollis carries the rest of the Light's grenades** (10 frags, 2 kraks, 3 photon flashes, 1 choke gas, taken from the crate day 33). **The crate is open stock: anyone may grab from it; update both rows.**
 - **Kit:** a bandolier, 2 belt side-pouches, a demolitions bag, ~23 spare vox-beads, the vox-horn. (The 2 laser sights: fitted day 32, Last Word and Tey's hellpistol.)
 - **Medicae (beyond Sallow's):** ~11 antitoxin, ~5 stimms, plague-ward filters and salve, a fleet medicae crate,
   **1 SCIHU stim** (in Sallow's Bag).
@@ -480,8 +481,8 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 | --- | --- | --- |
 | **Tamsin** | **434** | 79 / 130 / 140 (Shameholder; Vigil, Last Word, Stinger; 4 attachments incl. Last Word's laser) / 70 / 15 (3 grenade types; no lift pack) |
 | Kell | 342 | 62 / 110 / 130 (plasma pistol; Officer, chain axe, knife; 2 attachments) / 40 / 0 |
-| Hollis | 327 | 57 / 110 / 110 (Six Bells, hand flamer; hellgun) / 40 / 10 (frags, spec flashes) |
-| Varga | 326 | 46 / 110 / 95 (Mercy; laspistol, shovel; tap-button) / 40 / 35 (shooting eye, lift pack) |
+| Hollis | 337 | 57 / 110 / 110 (Six Bells, hand flamer; hellgun) / 40 / 20 (frags, kraks, photon flashes, choke gas, spec flashes) |
+| Varga | 331 | 46 / 110 / 100 (Mercy; laspistol, shovel; tap-button, gun-link) / 40 / 35 (shooting eye, lift pack) |
 | Morcant | 326 | 61 / 110 / 105 (heavy stubber; Doorknocker; ripper drum) / 50 (Wren's heavy carapace) / 0 |
 | Corvane | 313 | 58 / 90 / 120 (officer's power sword; revolver, shotlas, knife) / 40 / 5 (spec flashes) |
 | Isk | 300 | 50 / 110 / 100 (Patience, barrel and scope; laspistol) / 40 / 0 |
@@ -526,7 +527,7 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
   back. All of you." Won the chain axe at rock-paper-scissors.
 - **Varga** (storm trooper). Left-handed, dry, protective. Hellgun **Mercy**
   (last bearer died dragging a man out of crossfire on Hesk; his red cloth is on
-  the stock) with Tamsin's tap-button refit. Carries Corvane's laspistol and a
+  the stock) with Tamsin's tap-button refit and Ferro's gun-link port (day 30). Carries Corvane's laspistol and a
   sharpened Krieg trench shovel. Teaching Dace to parry.
 - **Dace** (smith, 19; real name Halvic Teodor). Held the gate-room door on
   Cadia for Malcade, for a promise that his family would be evacuated; they

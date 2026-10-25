@@ -467,7 +467,7 @@ Standing preferences, set during play. They apply to every campaign.
 - **Fewer freebies.** Gear is earned through salvage, trades and risk.
 - **The player may propose** blessings, mods and backstory; the DM judges fairness.
 - **Save state** to the campaign files and push after anything important.
-- **Full kit (set by the player, Ash on Ostrava session 10).** A campaign keeps a **Full kit** table (in its campaign sheet): each person's standing loadout. 'Full kit for everyone' means exactly that table, unless the player says otherwise for a mission. **Keep it current in the same save:** whenever something is used up, lost, swapped, fitted, found or handed out (ammo, grenades and attachments too), change its row; don't add gear the player hasn't assigned. Power ratings are re-run from it.
+- **Full kit (set by the player, Ash on Ostrava session 10).** A campaign keeps a **Full kit** table (in its campaign sheet): each person's standing loadout. 'Full kit for everyone' means exactly that table, unless the player says otherwise for a mission. **Keep it current in the same save:** whenever something is used up, lost, swapped, fitted, found or handed out (ammo, grenades and attachments too), change its row; don't add gear the player hasn't assigned. **A campaign's shared container is open stock: anyone may take from it if they want; update both the person's row and the container's count.** Power ratings are re-run from it.
 
 ### House rules
 
