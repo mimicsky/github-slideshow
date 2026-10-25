@@ -47,7 +47,7 @@ Munitorum, black market, Free Traders). Skeleton stock and grip, stripped body:
 light to carry, so the bearer can move and still take an aimed shot in the same
 beat. Medium barrel and a 3x sight: +1 on aimed shots from 20 to 60 m, no bonus past
 60 m. Long-las punch (through carapace on a solid hit). One firing mode: single
-shots, chains of 2 at most. Light trigger: +1 on the first shot of a fight. **No
+shots, chains of 2 at most. Light trigger: +1 on the first shot of every string. **No
 safety:** it is drop-prone (DND_CODEX Part 8, Gear rules), and a natural 1 on any shot also fires a second,
 wasted bolt.
 

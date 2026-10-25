@@ -30,7 +30,7 @@ Munitorum, black market, Free Traders). Light L-shaped skeleton stock in bare st
 slim urban-grey receiver, top rail over built-in iron sights, straight 20-round
 magazine, railed handguard, vented barrel cover, threaded muzzle (thread-cap when
 bare). Semi-auto: chains of up to 4 single shots, normal hit bonuses. Light
-trigger: +1 on the first shot of a fight, and it is drop-prone. Vented: never
+trigger: +1 on the first shot of every string, and it is drop-prone. Vented: never
 builds heat, and the handguard stays cool to hold. Muzzle takes a silencer (the
 first shot from cover doesn't give the shooter away; -1 past 30 m) or a muzzle
 brake (a miss in a chain gives no -1). Autogun punch.
