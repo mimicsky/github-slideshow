@@ -443,6 +443,29 @@ carapace from the front; refractor field (auto-stops light hits, 3 a beat; heavy
 suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss by 1-2), Corvane's revolver (+1 inside
 15 m, 3-shot chains), Varga -2 sight/aimed until her eye.
 
+**Power ratings (reference only, no in-game effect; codex Part 8 'Power rating'; rated day 32):** 0 = civilian, ~100 = Poor cultist.
+
+| Who | PR | Body / Skill / Weapons / Armour / Kit |
+| --- | --- | --- |
+| **Tamsin** | **443** | 78 / 130 / 135 (Shameholder; Vigil, Last Word, Stinger; 3 attachments) / 70 / 30 |
+| Kell | 357 | 62 / 110 / 130 (plasma pistol; Officer, chain axe, knife; 2 attachments) / 40 / 15 |
+| Varga | 335 | 45 / 110 / 95 (Mercy; laspistol, shovel; tap-button) / 40 / 45 (shooting eye, lift pack) |
+| Hollis | 327 | 57 / 110 / 100 (drum launcher; hellgun) / 40 / 20 |
+| Morcant | 320 | 60 / 110 / 105 (heavy stubber, ripper drum; shotgun) / 40 / 5 |
+| Isk | 294 | 49 / 110 / 90 (long hellgun, barrel and scope) / 40 / 5 |
+| Brenner | 285 | 30 / 110 / 90 (hellgun; lascarbine, machete) / 40 / 15 (auspex) |
+| Corvane | 278 | 58 / 90 / 85 (his custom revolver; shotgun, knife) / 40 / 5 |
+| Tavi | 264 | 34 / 110 / 60 / 40 / 20 (charges, kraks) |
+| Dace | 253 | 23 / 90 / 85 (Promise Holder; Threshold, autopistol) / 50 (shield) / 5 |
+| Sallow | 249 | 29 / 110 / 60 / 40 / 10 |
+| Sorel | 241 | 56 / 60 / 80 / 40 / 5 |
+| Nessa | 214 | 39 / 70 / 80 (needle pistol; throwing knives) / 20 / 5 |
+| Tey | 213 | 43 / 45 / 80 (hellpistol) / 40 / 5 |
+| Ferro-Ashe | 184 | 19 / 70 / 60 / 20 / 15 (thermal optics) |
+| Teo | 183 | 33 / 80 / 50 / 20 / 0 |
+| Mira | 181 | 31 / 80 / 50 / 20 / 0 (her real weapon is the Valkyrie) |
+| Ollin | 20 | 15 / 0 / 0 / 5 / 0 |
+
 **How the Light rolls (set session 9):** d20 + stat bonus (+1 per full 10 levels) + specialty (+2, only on its kind of roll) + role or gear bonuses. Earlier ally rolls used rough bonuses and stand.
 
 | | STR | DEX | CON | INT | WIS | CHA | State |

@@ -1157,6 +1157,26 @@ bounty hunter, someone he wronged). Where a deed happened, add **+5 there**.
 Renown rises by the DM's call after big, public deeds (a cult broken, a world saved, a
 famous enemy killed); it is tracked on the campaign sheet.
 
+### Power rating (reference only; set by the player, Ash on Ostrava session 10)
+
+**A number for looking at, nothing more. It has no effect on any roll, fight, price or
+outcome.** It shows at a glance how dangerous someone is, on one scale for everyone:
+**0 = a regular civilian, ~100 = a Poor-wealth cultist**, open-ended upward.
+
+**Power rating = Body + Skill + Weapons + Armour + Kit**
+
+| Part | How it scores |
+| --- | --- |
+| **Body** | STR + DEX + CON levels, minus 45 (a civilian is about 15 each, so 0) |
+| **Skill** | Civilian 0 · cultist 30 · ganger, raider or pirate 40 · Guard or traitor soldier 50 · veteran or officer 60-70 · storm trooper or Scion-trained 80 · player character **10 × level**. Plus **+20** for a specialist role (or the Commander role), **+10** per specialty (a trainee's young focus +5) |
+| **Weapons** | Best weapon: scrap blade 20 · scrap gun 35 · common gun or blade 50 · hellgun-class 70 · heavy or special (bolter, plasma, chainsword, power weapon, launcher, heavy stubber) 90 · exotic 120. **+15** masterwork, blessed or a true custom build · **+10** per extra weapon (up to +30) · **+5 per fitted attachment** on any carried weapon, one per slot (up to +30; repairs and internals don't count) |
+| **Armour** | None 0 · rags or coat 5 · flak 20 · carapace 40 · heavy carapace front 50 · power armour 100. **+10** shield · **+20** refractor · **+30** conversion field |
+| **Kit** | **+5** per grenade type carried (up to 20) · augmetic eye 5-25 (shooting eye 20, sensor-type optics 15) · lift or jump pack 15 · auspex 10 · stimms or drag-harness medic kit 5 |
+
+**Calibration:** civilian 0 · Poor cultist ~95-100 · Steady cultist (lasgun, flak) ~125 ·
+traitor soldier ~155 · traitor elite (hellgun, carapace, grenades) ~240. The campaign sheet keeps
+the current ratings for the player character and allies.
+
 ### Nemeses (set by the player, session 9; inspired by Shadow of Mordor)
 
 Enemies who **survive a fight with the Light and remember it** (escaped, left behind,
