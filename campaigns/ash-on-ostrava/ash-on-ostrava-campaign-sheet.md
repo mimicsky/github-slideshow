@@ -58,7 +58,7 @@ closes or stops mattering, delete or shorten it in the same save. Keep this shee
 
 ### Day log, session 10 (newest first)
 
-- **Day 33 (warp):** ~1030 woke; ~1050 kitted and on the bridge, ten minutes out (no lift pack: the player corrected it). **Full kit table set** after the player's corrections (SCIHU stim to Sallow; Varga no grenades; Dace's hip healed, no autopistol; Hollis hellgun, Six Bells backup, hand flamer; Brenner and Sallow no laspistol; Isk a laspistol; Corvane officer's power sword and shotlas; Tey no hair trigger, no laspistol; Sorel a hellgun from Tamsin; Mira and Teo laspistols; Ferro-Ashe's weapon rolled, d8 = 4: the stolen Kantrael lasgun). Then: Hollis carries the Light's grenades (the crate is open stock to anyone); Varga's gun-link was fitted day 30; the Valkyrie's rocket pods are empty; Kell's shield arm still to fit. Power ratings re-run.
+- **Day 33 (warp):** ~1030 woke; ~1050 kitted and on the bridge, ten minutes out (no lift pack: the player corrected it). **Full kit table set** after the player's corrections (SCIHU stim to Sallow; Varga no grenades; Dace's hip healed, no autopistol; Hollis hellgun, Six Bells backup, hand flamer; Brenner and Sallow no laspistol; Isk a laspistol; Corvane officer's power sword and shotlas; Tey no hair trigger, no laspistol; Sorel a hellgun from Tamsin; Mira and Teo laspistols; Ferro-Ashe's weapon rolled, d8 = 4: the stolen Kantrael lasgun). Then: Hollis carries 4 grenades on him plus Six Bells' loaded drum (8 frags and 2 spec flashes in all), the kraks went to Tavi (the crate is open stock to anyone); Varga's gun-link was fitted day 30; the Valkyrie's rocket pods are empty; Kell's shield arm still to fit. Power ratings re-run.
 - **Day 32 (warp):** dawn: Tey 5 for 5 under Varga (event 20). Dace dulled two Gate Guard bayonets; **knife bouts** (Corvane, Sorel, Varga, Mira, Morcant, Tavi, Ferro won round one; bracket: **Mira champion**; then **Tamsin beat Mira 5-2**: both titles). Nessa's 'sneak past me' course (Tamsin, Kell, Varga, Ferro across). **Shooting championship: Tamsin 82**, Varga 60. Speech: 'you can't do it all, but the Light can'. Power ratings set (reference only). Laser sights on Last Word and Tey's hellpistol; Dace banded a rail onto Last Word overnight (15).
 - **Day 31 (afternoon, warp):** training: Nessa's stealth course (3 h), cover-to-cover (1 h), room clearing (~4 h; pass 2 passes: Brenner, Dace, Sallow, Teo, Ferro; Tamsin 4 of 4 with a natural 20 on Nessa; Kell fell in the galley). Dinner; Ollin the Light's Quartermaster.
 - **Day 31:** 0800 Varga's dressing off, the eye works (5). Merrick's machine-core (event 18). Pardon for Lusk; Dannel's collar back to Merrick; Hollen's warning (the guest on the high side, 20); library books returned; **Brannick broken** at the Sump Lantern (debt book and ~2,000 Thrones taken; renown 20). ~1115 sailed for the Mart; warp entry rough (3), Hollis hurt.
@@ -275,10 +275,10 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | **Kell** (Light-bringer sergeant, assault) | **Officer** (hellgun; tube stock, Dace's fore-grip); Tessaly's plasma pistol (cell + 1 spare) | chain axe; Schola knife | Carapace; helm with pict lens. Shield arm **still to be fitted** (Dace; the boarding shield is in the container) | none assigned |
 | **Varga** (Light-bringer, rifle/jumper) | **Mercy** (hellgun; tap-button; gun-link port to her eye); laspistol | sharpened Krieg trench shovel | Carapace; helm | shooting eye; lift pack; **no grenades** |
 | **Dace** (Light-bringer, melee/smith) | none (no autopistol) | **Promise Holder** (masterwork plasteel sword); **Threshold** | Carapace; breaching shield (forged, viewing slot); helm | hip healed |
-| **Hollis** (Light-bringer, grenadier) | Cadian hellgun; **Six Bells** (drum grenade launcher, backup); hand flamer (close quarters) | none | Carapace; helm with pict lens | **the Light's grenades:** 10 frags, 2 kraks, 3 photon flashes, 1 choke gas; his 2 spec flashes |
+| **Hollis** (Light-bringer, grenadier) | Cadian hellgun; **Six Bells** (drum grenade launcher, backup); hand flamer (close quarters) | none | Carapace; helm with pict lens | **Six Bells' drum loaded** (6: 1 spec flash seated, 5 frags); **4 grenades on him:** 2 frags clipped on, a pouch of 2 (1 frag, 1 spec flash) |
 | **Brenner** (Light-bringer, vox) | Accatran lascarbine (no laspistol) | machete; Navy cutting torch | Carapace; helm | vox-caster; auspex; data-spike; splicer kit |
 | **Isk** (Light-bringer, sniper) | **Patience** (scoped long hellgun); laspistol (sidearm) | none | Carapace; helm with pict lens | prayer token |
-| **Tavi** (Light-bringer, demolitions) | **Tiny** (Accatran lascarbine, hot-shot) | none | Carapace; helm with pict lens | demo satchel and detonator; 1 breaching charge; 1 krak; cutting charge |
+| **Tavi** (Light-bringer, demolitions) | **Tiny** (Accatran lascarbine, hot-shot) | none | Carapace; helm with pict lens | demo satchel and detonator; 1 breaching charge; **3 kraks**; cutting charge |
 | **Morcant** (Light-bringer, heavy) | heavy stubber (belts); **Doorknocker** (ripper-drum shotgun; 1 spare drum) | none | Wren's heavy carapace; helm | none assigned |
 | **Sallow** (Light-bringer, medic) | Kesh's lascarbine (no laspistol) | none | Carapace; helm | **the Bag** (10 antitoxin, 10 stimms, morphia, filters, **the SCIHU stim**); drag harness on her chest rig |
 | **Corvane** (Light-bringer, point) | white-and-grey revolver (Dace's cut-down holster); shotlas | officer's power sword (unnamed); combat knife | Carapace; helm with pict lens | 2 spec flashes |
@@ -318,8 +318,8 @@ The Light's container, Container 2 and the hold, all together (what isn't carrie
   battered flak (day 25) + 1 flak armour set (day 29); 1 gas mask (day 29); ~25 helmets; 3 Navy void-suits; 2 grav-chutes; 1 boarding shield.
 - **Ammunition:** **1 crate of autogun rounds (~2,000)**, ~70 hot-shot packs, ~40 las packs, ~320 shotgun shells, 6
   stubber belts.
-- **Grenades and explosives (in the crate):** 9 frags, 1 scrap pipe-bomb (short fuse; a natural 1 goes off in hand), **2 spec flashes**; **1 melta bomb**, 1
-  breaching charge, **28 demo charges**, 1 rot gas bottle (for Kesh). **Hollis carries the rest of the Light's grenades** (10 frags, 2 kraks, 3 photon flashes, 1 choke gas, taken from the crate day 33). **The crate is open stock: anyone may grab from it; update both rows.**
+- **Grenades and explosives (in the crate):** 11 frags, 3 photon flashes, 1 choke gas, 1 scrap pipe-bomb (short fuse; a natural 1 goes off in hand), **2 spec flashes**; **1 melta bomb**, 1
+  breaching charge, **28 demo charges**, 1 rot gas bottle (for Kesh). **On people (day 33):** Hollis has 8 frags and his own 2 spec flashes (drum + belt); Tavi took the 2 kraks (3 in all). **The crate is open stock: anyone may grab from it; update both rows.**
 - **Kit:** a bandolier, 2 belt side-pouches, a demolitions bag, ~23 spare vox-beads, the vox-horn. (The 2 laser sights: fitted day 32, Last Word and Tey's hellpistol.)
 - **Medicae (beyond Sallow's):** ~11 antitoxin, ~5 stimms, plague-ward filters and salve, a fleet medicae crate,
   **1 SCIHU stim** (in Sallow's Bag).
@@ -481,7 +481,7 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 | --- | --- | --- |
 | **Tamsin** | **434** | 79 / 130 / 140 (Shameholder; Vigil, Last Word, Stinger; 4 attachments incl. Last Word's laser) / 70 / 15 (3 grenade types; no lift pack) |
 | Kell | 342 | 62 / 110 / 130 (plasma pistol; Officer, chain axe, knife; 2 attachments) / 40 / 0 |
-| Hollis | 337 | 57 / 110 / 110 (Six Bells, hand flamer; hellgun) / 40 / 20 (frags, kraks, photon flashes, choke gas, spec flashes) |
+| Hollis | 327 | 57 / 110 / 110 (Six Bells, hand flamer; hellgun) / 40 / 10 (frags, spec flashes) |
 | Varga | 331 | 46 / 110 / 100 (Mercy; laspistol, shovel; tap-button, gun-link) / 40 / 35 (shooting eye, lift pack) |
 | Morcant | 326 | 61 / 110 / 105 (heavy stubber; Doorknocker; ripper drum) / 50 (Wren's heavy carapace) / 0 |
 | Corvane | 313 | 58 / 90 / 120 (officer's power sword; revolver, shotlas, knife) / 40 / 5 (spec flashes) |
