@@ -67,7 +67,7 @@ On a long day, add a one-line note to the day log after each big scene, so nothi
 ## Start of a mission
 
 - Roll the faction's wealth: `python3 wh40k_gear/roll_enemy.py wealth TYPE` (once per mission or world).
-- Roll each active nemesis (codex Part 8, 17+ they turn up). Keep the results in the DM notes.
+- Check the DM notes' witnesses and nemeses: bring one back if the story fits (codex Part 8, Nemeses; the DM's call, no automatic rolls).
 - Enemies: `python3 wh40k_gear/roll_enemy.py TYPE COUNT WEALTH [GOD]`. The types are cultist, raider, pirate, traitor and traitor_elite.
 - Shops: `python3 wh40k_gear/roll.py SELLER SIZE` (restock every 2 days).
 

@@ -33,7 +33,7 @@
 
 | Entry | Open when |
 | --- | --- |
-| [Nemeses](#nemeses) | A mission starts; a Chem-Dog, TALLY man or anyone with the Light's voices on a recording shows up |
+| [Nemeses and witnesses](#nemeses-and-witnesses) | A mission starts; anyone who got away from the Light shows up; a Chem-Dog, TALLY man or anyone with the Light's voices on a recording |
 | [The gardener's guest](#the-gardeners-guest) | A sniper, a long case, a shield-breaker or Exitus round, Ustrennos's high side |
 | [Kesh may ask](#kesh-may-ask) | Talking to Kesh, Aldwyn or any Ordo courier |
 | [Kesh's prisoners](#keshs-prisoners) | The penal legion, Harrack, Sly or Fenn, the Weir |
@@ -49,9 +49,15 @@
 
 ## Entries
 
-### Nemeses
+### Nemeses and witnesses
 
-Rolled at the end of session 9 for the Spindle survivors (all +3 for Orne's killing). The bosun and the jumper died in the spoke before anyone came. Not nemeses: the two who fled with the vox man, and two of the cuffed men. **Roll each active nemesis at every mission start (17+ they appear).**
+**The rule now (player, session 10):** no automatic rolls. After each fight, add who got away or was left alive and saw it (where, what they saw, how they feel) to the witness list below. Bring one back when the story fits; roll only when genuinely undecided.
+
+**Witnesses:** none logged yet for the Mart.
+
+**Nemeses (made under the old rule):**
+
+Rolled at the end of session 9 for the Spindle survivors (all +3 for Orne's killing). The bosun and the jumper died in the spoke before anyone came. Not nemeses: the two who fled with the vox man, and two of the cuffed men. (Old rule: rolled at each mission start, 17+ appears.)
 
 - **Kessick Vay** (TALLY's vox man, Savlar Chem-Dog). Trait: **obsession**. He has hours of THE LIGHT channel recorded (voices, call signs, Brenner's 1005 line, Tamsin shouting the word) and studies them. He left Brask and sells what he knows to Thask's network at the Mart. THE LIGHT was re-keyed on days 27-28, so he can't listen in, but he knows the voices and habits. **Appears at the Mart (rolled 18).**
 - **Hessler** (the tracker with the scoped autogun, cuffed at the lock). Brenner's shot in his side healed ugly. Trait: **a vow** on Orne's name to put Tamsin down; two Chem-Dogs who wouldn't go back to Brask follow him. Both watched Tamsin kill Orne after they'd surrendered. **Mart: 15, not this time; stronger next time.**

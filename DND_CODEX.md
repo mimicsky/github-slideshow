@@ -1213,18 +1213,16 @@ outcome.** It shows at a glance how dangerous someone is, on one scale for every
 traitor soldier ~155 · traitor elite (hellgun, carapace, grenades) ~240. The campaign sheet keeps
 the current ratings for the player character and allies.
 
-### Nemeses (set by the player, session 9; inspired by Shadow of Mordor)
+### Nemeses: the DM's call (changed by the player, Ash on Ostrava session 10; first set session 9, after Shadow of Mordor)
 
-Enemies who **survive a fight with the Light and remember it** (escaped, left behind,
-freed, broken but alive) may become **nemeses**. **After a fight, d20 per survivor who
-saw what happened: 18-20 makes a nemesis** (+3 if the player character killed someone
-they cared about; +3 if he humiliated them or left them for dead). A nemesis gains a
-**trait from how they survived** (a scar, a burn, a lost eye or an augmetic, a fear, an
-obsession, a vow) and **rises**: better gear, followers, a new paymaster. **At the start
-of each mission, d20 per active nemesis: 17+ they turn up** (in the fight, the deal, the
-bar); each time they don't, they grow stronger. It ends when they're killed, captured or
-turned; another escape deepens the grudge. **Hidden:** the player learns who they are
-only when they come back. Tracked in the campaign sheet's DM threads.
+**No automatic survivor rolls.** After a fight, the DM writes down in the hidden notes **who got away or was
+left alive and saw what happened**: where it was, what they saw Tamsin do, and how they feel about it
+("two dockers saw him shoot the gardener at the Mart; scared, and angry"). From then on it's the DM's call:
+when the story fits, **one of them comes back** (in a fight, a deal, a bar), **recognises Tamsin, and calls
+him out**, carrying the grudge, often risen (better gear, followers, a new paymaster) with a mark from how
+they survived (a scar, a burn, an augmetic, a fear, a vow). The DM may roll an open d20 when it's genuinely
+undecided whether one turns up. **Hidden:** the player learns who they are only when they come back. It
+ends when they're killed, captured or turned. Nemeses made under the old rule stay on the list.
 
 ### Crew posts (set by the player, session 9)
 
