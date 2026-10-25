@@ -11,7 +11,7 @@ happened, and git history keeps every old version.
 **Clean up as we go (set by the player, session 9):** during play, when something
 closes or stops mattering, delete or shorten it in the same save. Keep this sheet lean.
 
-**Where we stopped:** **session 10, ~1050 warp day 33, the Bright Light's bridge, ~10 min before the drop-out at Torvane's Mart**: Tamsin fully kitted per the **Full kit** table (no lift pack: it stays in the container). Mira and Teo at the helm, Brenner at the vox console; Tavi, Hollis, Sallow and Ollin checked kit in the hold. Day 32 (training day) recap is in the day log. (transit 2 days: **arrive day 33**). Undocked from Ustrennos ~1115. **Warp entry rough (3):** Hollis wrenched his shoulder in the lurch (Hurt; Sallow 7 + 3 + 2 = 12: Fine by day 33). Roll the Mart cultists' faction wealth at the first meeting there.
+**Where we stopped:** **session 10, ~1050 warp day 33, the Bright Light's bridge, ~10 min before the drop-out at Torvane's Mart**: Tamsin fully kitted per the **Full kit** table (no lift pack: it stays in the container). Mira and Teo at the helm, Brenner at the vox console; Tavi, Hollis, Sallow and Ollin checked kit in the hold. Day 32 (training day) recap is in the day log. (transit 2 days: **arrive day 33**). Undocked from Ustrennos ~1115. **Warp entry rough (3):** Hollis wrenched his shoulder in the lurch (Hurt; Sallow 7 + 3 + 2 = 12: Fine by day 33).
 **Ustrennos wrap (day 31):** Varga's eye works; Lusk pardoned until the Light returns (Merrick's collar, ring four, guarding Mirri); Brannick broken, his ~2,000 Thrones in the coin box (2,630) and his ledger with Tamsin (Merrick announcing 'Brannick's book is closed' at the ring-four galley); Merrick hunting the guest (nothing yet); books returned; Charter 7's crew and jars held for Kesh; Hollen home with Wenna and Mirri.
 
 ### Current state (session 10, day 25)
@@ -54,7 +54,7 @@ closes or stops mattering, delete or shorten it in the same save. Keep this shee
 - **Ship refit (Tamsin, day 27): DONE day 28** (Dace, Ferro): the old cargo office is a 2-bunk cabin (Ollin + one free); papers and coin box in Tamsin's cabin. Original order: clear the **cargo office**: manifests, ledgers and the coin box move into **Tamsin's cabin**; the office becomes a **2-bunk cabin** (Dace/Ferro, ~a day, a little scrap). Option noted: a third bunk tier on half the racks (+4, ~1 TV, a day), fold-down bunks in the briefing room (+4), hammocks in the hold (+6-8). Comfortable max ~22, crammed ~32-34; beyond that, a bigger ship.
 - **Before leaving Ustrennos:** return the library books (Books table); ~~re-key THE LIGHT~~ (done day 27-28); fit Varga's eye if the socket's ready; send the FOR KESH box (Mabry's book already went with Aldwyn, day 14); roll nemeses at mission start.
 - **Faction wealth:** Ustrennos cultists Poor (day 25). **Torvane's Mart cultists: GOOD (rolled day 31 for the mission, 74).**
-- **Pre-rolled (use as play reaches them):** day 32 event **20** (good); **warp exit at the Mart 5** (rough: into the fleeing traffic). Earlier: day 30: 7, day 31: 18 used. Shops restocked day 30 (next day 32).
+- **Pre-rolls:** kept in `dm-notes.md` (hidden).
 
 ### Day log, session 10 (newest first)
 
@@ -698,87 +698,6 @@ briefing room, chapel (Thane; *WE ARE THE LIGHT* chalked by the door), brig
 the engine deck, plasma crucible beside the drive, lower hold (Deck 9) with The
 Light's container. Crew rallying cry: **"We are the light."**
 
-## DM threads (not known to the player)
+## Hidden notes
 
-- **The campaign runs until Tamsin dies (set by the player, session 8; don't bring
-  it up at the table).** No planned ending. **The longer he lives, the harder the
-  fights get:** more enemies, better armed (more specialists, more better-armed and
-  elite rolls), smarter tactics, nastier ground, worse odds. Never through moved
-  DCs or inflated stats, and never a rigged death: the dice stand both ways. If he
-  dies, it's final: the book closes as a memorial to him and to this first
-  campaign, and the player starts a new character.
-  **Scaling (revised by the player, end of session 9): no per-book roll bonuses.**
-  Later books get harder through **more enemies**, sized to the job and to the Light
-  as it grows: most fights **10-30**; a kill team sent after the Light is about the
-  Light's size (6-12); a ship or compound, the top end; small fights (a patrol, a few
-  guards) still happen. Plus smarter tactics (flanking, ambushes, focusing the wounded, retreating to
-  better ground) and nastier ground, never bigger numbers on the same enemy. Each
-  enemy rolls its own STR and DEX (codex Part 8). The Light keeps pace through gear.
-  **Enemies use their roles together, the way the player would** (set end of session
-  9): a bomb zealot dropped from above or sent in under smoke and covering fire, not
-  run straight at Vigil; snipers on the high ground; spotters marking for them. Type
-  still shows: cultists are reckless and sometimes just charge; pirates and traitors
-  are cold and careful. Easy fights get rarer; the player works for wins.
-
-- **Thask's "kept" on Ustrennos (all three in Merrick's cells):** **Pask Hollow**
-  (cell 9; a believer; **Will 33%, breaks below 13%**; still holds how to reach the
-  *Sable Margin* through the ring-four relay and Orne's next-call codes; Merrick works
-  him quietly for the next Ordo courier). **Ilen Marsk** (broke; Pask brought her in
-  after her son died of lung-rot). **Deacon Orrin Selk** (broke, Will 3%; anointed the
-  sick so the Gardener could choose; fifteen years kept). Selk's register: 23 marked
-  *passed*, most of them children; 3 *kept* (Pask, Ilen, Orrin).
-- **Aldwyn's report (DM):** she called the Joss questioning "crude" (he nearly drowned)
-  and will tell Kesh; Kesh may raise it.
-- **With Kesh's people:** Harrack believes Tamsin promised him "alive and no penalty";
-  he'll hear of the penal legion. **Sly believes Harrack threw the bomb that killed
-  Wren**; in a legion together, Sly goes for him. Fenn (Will 19% when last seen, not
-  broken) knows TALLY's home, the Weir.
-- **The Spindle after the trade (DM):** Brask was honest (20): the *Sable Margin* is gone
-  for good unless the story brings it back (~60 aboard, no paymaster now). TALLY's vox
-  man (#9) and two others fled into the Spindle's maintenance ways; the bosun and the jumper
-  died there (nemesis rolls); other Down chem-dogs were left in Bay Two's spoke; the
-  three cuffed men at the far lock. **Orne's gold** (a strongbox, ~40 TV) was left in
-  Bay Two's spoke: Brask's boat may go back for his men and find it first. **10 armed
-  tripwire charges** still across Bay Two (12 laid, 2 went off); Bay Two's doors breached.
-- **Nemeses (DM only; rolled end of session 9 for the Spindle survivors, all +3 for Orne's killing):**
-  the **bosun** (survival 10) and the **jumper** (survival 2) **died** in the spoke before
-  anyone came. Not nemeses: the two who fled with the vox man (7, 17) and two of the cuffed
-  men (13, 13). **Nemesis 1: the vox man, "Kessick Vay"** (TALLY #9, Savlar Chem-Dog; natural 20,
-  23). Trait: **obsession**: he has hours of THE LIGHT channel recorded (voices, call signs,
-  Brenner's 1005 line, Tamsin shouting the word) and studies them. He left Brask and sells
-  what he knows to Thask's network at the Mart; he knows the Light's habits on the vox.
-  **Nemesis 2: "Hessler"**, the tracker with the scoped autogun (cuffed at the lock, 18).
-  Brenner's shot in his side healed ugly. Trait: **a vow**: he swore on Orne's name to
-  put Tamsin down, and two other Chem-Dogs who wouldn't go back to Brask follow him. Both
-  watched Tamsin kill Orne after they surrendered. **Roll each at the start of the next
-  mission (17+ they appear).** **Torvane's Mart mission start (day 31): Kessick Vay 18: HE APPEARS this mission** (he sells to Thask's network at the Mart and knows the Light's vox habits; THE LIGHT is re-keyed, but he knows voices and call signs). **Hessler 15: not this time; he grows stronger** (better gear or more followers).
-- **Session 10 DM notes:** the watcher/collector network on Ustrennos is broken (Haddle and circle taken); Thask's network still lacks Tamsin's face but knows the courier hasn't left (Haddle's message). **The gardener's guest** (renegade Exitus-trained marksman) wanted a face 'to know at a distance'; Tamsin now wears a refractor field (shield-breaker rounds ignore it). Kesh's nat-20 fact: the Bloom has no birth record; mother dead of plague the same month.
-- **Under-deck renown:** the friend who knew Tamsin's face was **Dekker**, ring-four debt man, Hollen Brake's bunk-mate (thanked him, day 29).
-- **Hollen Brake (DM only, day 29):** taken from bunk 4-C/61 ~1430 by Hob's people (status roll 2) as bait: Hob asked 'does the interrogator visit' to set this up. **A watcher** (rolled 4: present; cult rank-and-file, DEX 16, a pict-lens in a hab-wrap) sits on the stair landing above the 4-C corridor among the smokers, to pict Tamsin's face when he comes; stealth 7 + 1 = 8. **Hollen is held in the G. & S. cargo cage at freight berth 4-12** (ring four), alive, as leverage to turn Ollin into an inside man on the Ordo ship. **The watcher** (name not given yet; ~18, ring-four kid, iron thorn, a believer): **Will 74%, breaks below 25%; now 63%** (day 29 ~1553, threat with Vigil: 8 + 1 + 4 + 1 = 14, -6% -5% hard = -11%; risk 20, fine; ~1554 Stinger to his head: 10 + 1 + 4 + 1 = 16, -12% -5% = -17%, risk 8, fine: 46%; ~1555 safety off: 2 + 1 + 4 + 1 = 8, -2% -5% = -7%, risk 10: **now 39%**; **3 of 3 hard sessions used: he passed out**, out ~an hour; no more hard methods on him today). He knows: two dock-coat men, one the quilted-coat man, took the old man ~1430 in a cargo sledge toward the freight berths; his orders: wait for 'the gun-man', pict his face, take the lens to the cage at 4-12.
-- **Hob's evening (DM only, rolled day 29):** reached tank 3 at **~1705**, found it empty, asked the debt men for ~11 min; **they told him** (9) an armoured man and a watchman's coat took Lusk and the lookout lad. Leaves **~1716 by the far ladder at berth 20**, then walks back along the freight-berth row to the **4-12 cage** (~1720) to warn G. & S. and move Hollen. The 1800 crate (for Lusk's body) is now likely to be called off. **At the 4-12 cage now:** the long crate (Hollen inside, drugged and gagged) behind a padlocked mesh gate; **the younger dock-cap man from the pict** is one of the two 'haulers arguing over a manifest' in bay 4-12, keeping an eye on it (blending in: 12 + 1 = 13). **Rolled kit (cultist, Poor, Nurgle; DM only):** *dock-cap man:* STR 25 (+2) DEX 14 (+1), machete under the coat, **his coat hand is on a pipe-bomb** (found/made: frag, short fuse; a natural 1 goes off in hand), a scrap sump harpoon stashed by the cage, no armour, iron cult amulet, Dirty. *Hob:* STR 25 (+2) DEX 24 (+2), **flak vest under the quilted coat**, 4 scrap throwing knives and a frag grenade in the pockets, a stolen Kantrael lasgun not on him (stashed), Dirty. Better-armed: 1 (the pipe-bomb), Hob 0. **Hob taken day 29 ~1719: Will 77%, breaks below 40%** (a calm professional: he deals, he doesn't beg).
-- **The 1800 crate crew (DM only, rolled day 29):** the drop still came (12): **4 G&S cultists** (Poor; the script said Tzeentch, played as the Gardener's Nurgle), expecting to collect Lusk's body from Hob; relaxed, not expecting a fight; better-armed 0. (1) chain knife, gas mask, **rot-gas bottle**, STR 20 DEX 10, no armour; (2) hive shank, **flak**, iron amulet, STR 21 DEX 22; (3) **torch-thrower** (welder's rig; 4 bursts; a hit on him ruptures the can on 1-2) + 4 scrap throwing knives, STR 24 DEX 19; (4) **Rattler scrap SMG** (Neglected: jams 1-3) + trench club + **rot-gas bottle**, STR 20 DEX 23. All in dock coats. They came down a chain-hoist hatch from berth 4-14's floor with an empty crate.
-- **Old Brannick (DM only, day 31):** just a ring-four loan shark, **not** tied to G&S (4). Runs his book from the back booth of **the Sump Lantern**, a drinking den by the 4-D hauler blocks; **four heavies** (dockers, clubs and knives, maybe one stub pistol); lends at a fifth a week. Joren's mother, **Annet Brisk**, lives in block 4-E. Day 31 ~0945: Brannick in his booth (13), **two** of his four heavies with him.
-- **Brannick (DM):** broken and stripped day 31; he still knows Tamsin's face (sell it? let it follow the story). Kesh or Aldwyn may hear an Ordo rosette shook down a ring-four lender in public.
-- **Lusk (DM only):** hiding in **old ballast tank 3** under the ring-four freight berths, waiting for a '1800 crate pickup' promised by G. & S. The pickup is a lie: his handler comes **~1700** to silence him (timing rolled 11). Lusk is scared, not a fighter; he has a shiv and the rest of the poison. **Taken day 29 ~1428 by Nessa; the poison packet is in her hand.** His handler still comes ~1700 to tank 3. **Motive (rolled 9): coerced, not a believer:** 40 Thrones off his debt plus a threat to his daughter **Mirri** (12, living with his sister-in-law in ring four, block 4-F). **Will 55%, breaks below 40%; 40%; **gave everything freely ~1450 once Mirri was safe (his oath)** (day 29 ~1433, 'name first, then she's safe': 9 + 1 + 1 = 11, -5%; ~1440 pressure, 'one more': 10 + 1 + 4 + 1 = 16, -10%). Knows: his handler only as **'Hob'** (dockman, quilted coat, missing the tip of his left forefinger); the promised **1800 'crate pickup' at tank 3** (he believes it); the dose came ready-wrapped in the foil with the door scratched in it ('so Haddle would know who sent it'). Doesn't know G. & S. beyond the initials. The lookout lad was paid 5 Thrones to warn him.
-- **Merrick's side, pre-rolled (DM, low = trouble):** day 30: 19 used (Charter 7 taken). day 29: 2 (**used: Osric Haddle found dead in his cell ~0900, poisoned; a cell trustee passed him the dose in a ration wrapper; Thask's network still reaches into Merrick's cells**), day 30: 19.
-- **THE LIGHT channel (DM): re-keyed day 27-28 (12 vs 12).** Old note: TALLY's vox man broke into it on day 16 and
-  heard Brenner's 1005 line. Brenner caught a second carrier, so the Light knows
-  someone listened; the channel should be re-keyed (Brenner, or Ferro-Ashe) before the
-  Mart. Until then a listener with the codes could hear the Light.
-- **The Mart rising (player's twist, session 10, accepted):** when the Light drops out of the warp at Torvane's Mart (day 33), **Governor Halden Voke is broadcasting an open distress call**: Thask's gardeners and the dock gangs he's bought are trying to take the asteroid, heavy casualties. Thask moved early because the Light gutted his Ustrennos line (the circle, Hob, Charter 7). The Governor asking for help overrides Kesh's 'no open war' order; Thask still wanted alive; the Bloom on Tamsin's judgment. This is the big fight: Brutal or worse, run as several fights (10-30 each) over objectives.
-- **Harvest Lamps (DM):** the Bloom's naming-day ~warp day 55; what "the garden opens"
-  means is not yet set: let it follow the story.
-- **Nessa's secret, leak path (DM only):** Holt and Brann (now with Kesh) heard Nessa say she ran Thask's back door; Tamsin kept it out of his report. Aldwyn also said she'd tell Kesh he cut Nessa's collar. Kesh may ask.
-- **The Bone Wardens (DM only):** they lost a strike cruiser in this sector ~18 months ago 'out past a dead sun', wreck never found; whoever armed TALLY found it (may tie to Velk). Returning their dead brother's boltgun through Kesh earns the Light a Chapter's remembrance: one day, one favour.
-- **Vhal Korrin compound 8 (DM only):** the marker is wrong; the real compound is two levels down from where it's marked, and the marked spot is a hive-gang den that will fight anyone.
-- **TALLY's home (DM only):** 'the Weir', a hidden anchorage in Gallowmere's outer belt, a dead ore-processing platform; Orne goes there after a bad night. Fenn knows; Sly and Harrack don't.
-- **The guest is ON USTRENNOS (DM, day 31; Hollen overheard it, 20):** she was waiting on 'the high side' (haulers' slang: the merchant lodgings at the top of the spine, above ring one) for the watcher's pict of Tamsin's face, then to sail home on **Charter 7 at 30·0500**. Merrick took Charter 7 at 0400: **she's stranded**, her handler Hob is gone, and she knows the Light did it. Day 31: lying low on the high side, trying to find a way off (12). What she does next: let it follow the story (she still wants the face; her shield-breaker round is for someone who wears a field).
-- **The gardener's guest (DM only):** a renegade marksman trained on an Exitus pattern (deserted or cast out of Temple training, never a full Vindicare), hired by Thask; the shield-breaker round is for someone who wears a field. Target not yet decided; let it follow the story.
-- **Ferro-Ashe's heresy (hidden):** cast out of the Mechanicus for letting a cogitator learn on its own. They still have its core in a sealed case in the workshop.
-- Varsaine's own story is true as far as it goes. Keep him honest but not
-  fully forthcoming.
-- Agreement with Varsaine: a look his way before going off-script.
-- The player is a collector, borderline hoarder. The DM may invent gear that
-  isn't strictly canon if it fits. In the field, carry what is plausible.
-- The player's d20s have run hot (average ~14.5 over 22 rolls in sessions 4-5).
-  The dice stand; shot chains were the player's own answer.
+The DM's hidden threads, nemeses and pre-rolls are in [`dm-notes.md`](dm-notes.md). Never read them out.
