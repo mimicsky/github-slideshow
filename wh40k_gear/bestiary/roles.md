@@ -446,9 +446,10 @@ middle of the enemy team.*
 
 **Who has it:** all five types. (Player design, Ash on Ostrava session 9.)
 
-Wants the fight, and pushes up as far and as fast as they can. Carries a pistol and a
-blade. Calls a target out, fights them one on one, and mostly ignores everyone else
-unless ordered. **Can shoot and swing in the same beat** (one pistol shot and one
+Wants the fight, and pushes up as far and as fast as they can. Carries a **one-handed gun
+and a sword** (changed by the player, Ash on Ostrava session 10): a pistol, an SMG, or a shotgun
+fired one-handed (**+1 recoil**). Calls a target out, fights them one on one, and mostly ignores everyone else
+unless ordered. **Can shoot and swing in the same beat** (one shot and one
 melee attack). **If they take only one kind of action that beat (only shooting, or
 only melee), +1 on that roll.**
 
