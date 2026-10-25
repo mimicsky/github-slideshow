@@ -849,7 +849,7 @@ rests, and leveling.
 
 | Situation | Ruling | Session |
 | --- | --- | --- |
-| Looting bodies | Loot follows the fiction: enemies carry what they plausibly would. When looting a group, the DM rolls one d20 in the open; on a natural 20, one of them has something rare that doesn't belong. It always has a story, may be damaged or low on ammo, and someone may want it back | Ash on Ostrava, session 2 |
+| Looting bodies | Loot follows the fiction: enemies carry what they plausibly would. When looting a group, the DM rolls one d20 in the open; on a natural 20, one of them had something rare **stashed on them that they didn't use** (this is roll 2; see Part 8, Loot). It always has a story, may be damaged or low on ammo, and someone may want it back | Ash on Ostrava, session 2 |
 | Bright white armour (general ruling; the Light wears grey plate with white trim, which carries no penalty) | -2 to stealth and hiding in ordinary places (dark, grey, industrial) for anyone in white plate; covering it with a cloak, hood or dirt removes the penalty. +2 in snow, ice or bright white settings. Enemies spot the Light sooner at range, told in the fiction. No blanket penalty to fighting, and no free bonus to talking; any reputation the white earns comes through the story | Ash on Ostrava, session 7 |
 | Genuinely undecided facts | When the DM hasn't decided something in advance (what an unlabelled lever does), it is rolled in the open, not chosen | Ash on Ostrava, session 2 |
 
@@ -1045,9 +1045,17 @@ sign of how cheap life is: a stub round costs less than a ration can. In TV
 
 ### Loot
 
-Enemies carry what they plausibly would. When a group is looted, one d20 in the
-open; a natural 20 means one of them had something rare that doesn't belong,
-with a story, often damaged or short on ammunition.
+Enemies carry what they plausibly would. **Two separate rare rolls, on purpose (set by the player,
+session 10):**
+
+1. **Before the fight** (the enemy script's group d20): a **natural 20** means one of them **carries and
+   uses a rare weapon or piece of gear in the fight**. The player can find it on the body afterwards.
+2. **At looting** (one open d20 for the group): a **natural 20** means one of them had something rare
+   **stashed on them that they didn't use** (a relic in a pocket, a sealed case, a stolen part).
+
+Either way the item is **drawn at random from the rare items in `wh40k_gear/pools.json`** (weapons and
+gear for roll 1, anything for roll 2), never chosen to fit. It has a story, is often damaged or short on
+ammunition, and someone may want it back.
 
 **Special teams and the bestiary (set by the player, session 8).** Before a fight,
 2d20 added: 31-40 makes the group a named special team of its type (+1 on all
@@ -1108,7 +1116,7 @@ who is better armed with something they found or made, and uses it against you:
 | 19+ | 6 (never more than the group) |
 | natural 19-20 | **Elite team:** the whole group rolls one rarity step better, and each carries a found-or-made item. **Only on the natural die (19 or 20)**: bonuses (special team) can raise the count, never make an elite team |
 
-A natural 20 also adds the rare find above. Found-or-made items are homemade or
+A natural 20 on this d20 is rare roll 1 above (rare gear in use). Found-or-made items are homemade or
 scavenged pieces only enemies carry, some with quirks (a jury-rigged autogun that
 jams on a 1-2). The DM doesn't read the pools out to the player.
 

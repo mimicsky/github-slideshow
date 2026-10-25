@@ -22,7 +22,8 @@ Better-armed, one open d20 for the group:
   1-8 none; 9-10 one; 11-12 two; 13-14 three; 15-16 four; 17-18 five; 19+ six (capped at the group);
   natural 19-20 (on the die itself, never from bonuses) ELITE TEAM: everyone rolls one rarity step better
   (common 25 / uncommon 50 / rare 25) and each carries a 'found or made' item.
-A natural 20 also adds one rare find to the group's loot (DND_CODEX Part 8, Loot).
+A natural 20 means one of them carries and uses a rare weapon or gear in the fight (rare roll 1;
+the looting d20 afterwards is rare roll 2, for stashed items; DND_CODEX Part 8, Loot).
 No per-book bonuses (removed by the player, session 9): later books bring more
 enemies and smarter tactics, not bigger numbers.
 Fight stats (player-set, session 9): each enemy rolls STR and DEX levels (1-100) in
@@ -119,7 +120,7 @@ BOMBS = [("Frag grenade","C"),("Pipe-bomb","C"),("Fire bomb (promethium)","C"),(
          ("Krak grenade","U"),("Choke gas grenade","U"),("Cult gas bottle (gas of their god)","U"),("Melta bomb","R")]
 ranged_share = 0.75 if kind.startswith("traitor") else 0.5  # soldiers mostly fight with guns
 print(f"SPECIAL TEAM: {team['name']} (2d20 {team_roll}): +5 STR/DEX levels, +1 other rolls, armour one step better, +3 better-armed" if team else f"(2d20 {team_roll}: a basic group)")
-print(f"{kind} x{count}, wealth {level.upper()}" + ("" if given else " (default; roll it: roll_enemy.py wealth TYPE)") + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{3 if team else 0} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE FIND (natural 20)" if raw == 20 else ""))
+print(f"{kind} x{count}, wealth {level.upper()}" + ("" if given else " (default; roll it: roll_enemy.py wealth TYPE)") + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{3 if team else 0} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE GEAR IN USE (natural 20)" if raw == 20 else ""))
 lucky = set(random.sample(range(count), better))
 for n in range(count):
     role_d20 = random.randint(1, 20)
