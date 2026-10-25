@@ -56,7 +56,7 @@ market, Free Traders). Fires autogun rounds from an extended 40-round magazine i
 purpose-made magwell. Moulded plastek grip with ergonomic grooves, side-ejecting
 slide, a short barrel that takes no muzzle attachment. **Extremely fast:** shot
 chains of up to 10, with no hit bonuses in the chain (misses still -1). Autogun
-punch. **Hair trigger:** +1 on the first shot of a fight; drop-prone.
+punch. **Hair trigger:** +1 on the first shot of every string (a single shot counts); drop-prone.
 **Malfunctions (heat of continuous fire):** the jam risk lives on the shot dice,
 with no extra rolls. Rounds are counted only while firing continuously, beat after
 beat; stopping for one beat resets the count (reloading doesn't matter). A chain is

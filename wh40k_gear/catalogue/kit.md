@@ -380,7 +380,7 @@ and **disarm attempts against the bearer take -2**.
 
 **Trigger**
 - **Match trigger** (uncommon, 1 TV): **+1 on aimed shots**; **-1 on hip/snap shots**.
-- **Hair trigger** (uncommon, 1 TV): **+1 on the first shot of a fight**; **drop-prone** unless fitted
+- **Hair trigger** (uncommon, 1 TV): **+1 on the first shot of every string** (a single shot counts as a string of one); **drop-prone** unless fitted
   with a pressure-pin safety.
 - **Burst limiter** (common, 0.5 TV): **recoil -1**; strings capped at **3 shots**.
 
