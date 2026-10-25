@@ -135,7 +135,7 @@ PROPERTY OF THE LIGHT, and the snap of las from the range, where Isk and Varga
 stopped firing to look. Varga lifted two fingers off Mercy's stock.
 
 Down the stair to the lower deck, the tech-priest stopped in front of the old
-plasma reclamator in the workshop as if someone had struck them.
+plasma reclamator in the workshop as if someone had struck him.
 
 "This is Mechanicus pattern," said Ferro-Ashe. "Old. Neglected." A mechadendrite
 lifted, and stopped short of touching it. "Mine now."
@@ -589,7 +589,7 @@ He keyed the ship. "Brief table, five minutes."
 The Light came in from the range and the mat, sweaty, kit half on. Corvane wore his
 new grey-and-white plate for the first time, the power sword on his hip. Varga had
 Mercy slung with the new sight on top. Mira and Teo left the helm on station-keep,
-and Ferro-Ashe came up with generator oil on their hands. The hololith showed the
+and Ferro-Ashe came up with generator oil on his hands. The hololith showed the
 anchorage: the *Iron Litany* marked in green, and far out, the black ring.
 
 "All present, boss," said Kell. "Minus the assassin."
@@ -1927,8 +1927,8 @@ hot-shot packs.
 Mira had the port cowling open already. "Round went through the intake and burnt the
 fuel feed line clean through. Engine's not wrecked, just starved and holed. Ferro can
 fix it in three or four hours, a plasteel patch and a new feed line cut from one of
-our ingots. But they need to be *here* with their tools. Either Teo takes the *Widow*
-back and fetches them, forty minutes each way, or the *Bright Light* comes to us.
+our ingots. But he needs to be *here* with his tools. Either Teo takes the *Widow*
+back and fetches him, forty minutes each way, or the *Bright Light* comes to us.
 With the rim gun dead she can dock right in Bay Two's mouth."
 
 "And until then," said Kell, "the Valk isn't going anywhere, and neither are we
@@ -2303,7 +2303,7 @@ antitoxin vial in his hand, grey and shaky, the cough gone. Isk lay on a crate,
 sweating; the fever was holding on, and Sallow had given him a second dose. Nessa sat
 at the top of the *Widow's* ramp with the bayonet across her knees, guarding Brann and
 his men and Orsk inside. Ferro-Ashe was half inside the Valk's port engine with Mira
-handing them tools.
+handing him tools.
 
 "More damage than the pilot saw, Interrogator," said Ferro-Ashe from inside the
 engine. "The turbine spirit is wounded. Five hours. Perhaps six."
@@ -2858,7 +2858,7 @@ one face and a Kasr Holn defence-turret serial along its edge. A tiny amber rune
 glowed on its side after all those years.
 
 He carried it aft. Ferro-Ashe was half inside the generator housing with mechadendrites
-in three access ports. Their green lens swivelled to him, dropped to the core, and
+in three access ports. His green lens swivelled to him, dropped to the core, and
 stopped. So did the chanting.
 
 "...Interrogator. That is a Kasr Holn defence-turret cogitator. Pre-Fall. Its spirit is
@@ -2869,11 +2869,11 @@ Tamsin set Vigil on the bench and handed it over. "What can you bless with this?
 
 Ferro-Ashe took it in two hands of flesh and one of brass, as carefully as a newborn.
 "It is old. It remembers targeting. Range, wind, the heat of a body behind a wall."
-They rested a mechadendrite on Vigil's stock, and the lens whirred and clicked.
+He rested a mechadendrite on Vigil's stock, and the lens whirred and clicked.
 "Hellgun spirit: four bearers recorded. Agitation low. Loyalty high. It *wants*. Data is
 unclear what. Something to do with the last bearer."
 
-They named what the core could buy. Korren's breath, on Vigil: "The core and the spirit
+He named what the core could buy. Korren's breath, on Vigil: "The core and the spirit
 speak the same tongue. Targeting to targeting. Hespa-Vor's records called it the
 spirit's favourite." Or Debt-taker, on Shameholder: "The core would teach the chain to
 remember who owes it blood. It will accept. It will not be grateful." One relic, one
@@ -2882,7 +2882,7 @@ blessing.
 "Korren's breath on Vigil," said Tamsin. "But I'm going to negotiate with you. A wider
 edge. And it gets more heat for each one."
 
-Ferro-Ashe tilted their head, and the lens clicked three times. "Wider. The core can
+Ferro-Ashe tilted his head, and the lens clicked three times. "Wider. The core can
 push the coils that hard. But a hellgun spirit is a creature of heat, and this one
 hates full-auto. It hates running hot. Acceptable, with a cost written in. Every true
 strike adds heat. Three in one fight and it must vent. Fire it anyway, and you may
@@ -2902,7 +2902,7 @@ was wound into the coils, and nested beside the power cell, where Korren's old
 coil-wire wrap ran, sat the core, its rune glowing steadily now. The whole gun was
 warm. It hummed deeper than he had ever heard it, like breathing.
 
-Ferro-Ashe's lens was bright with fatigue, their voice hoarse from a night of chanting.
+Ferro-Ashe's lens was bright with fatigue, his voice hoarse from a night of chanting.
 "The rite held. Korren's breath is in the coils. One last thing. The spirit must hear
 its bearer accept it. Hand on the stock. Then speak to it."
 
@@ -2917,10 +2917,10 @@ copper-gold wire that Dace had wound around the forestock felt warm.
 
 Ferro-Ashe's lens whirred, clicked, and went very still. "...Agitation: zero. Loyalty:
 maximum recorded. Interrogator, the *want* is gone. I read it now. It wanted to hear
-the last bearer *named*. Remembered. By you." They lowered the mechadendrite slowly. "I
+the last bearer *named*. Remembered. By you." He lowered the mechadendrite slowly. "I
 hear numbers where Hespa-Vor heard voices. But that one... that one I almost heard."
 
-They closed the housing, fitted the stock, and handed it back. It was heavier somehow,
+He closed the housing, fitted the stock, and handed it back. It was heavier somehow,
 and it hummed as if it were glad to be in his hands.
 
 "Thank you, Ferro. Now can you speak to Shame for me? I haven't spoken to it in a
@@ -2938,7 +2938,7 @@ clean before it bites again. Motor: stressed by the overdrive. Acceptable. Hunge
 high. Satisfaction: high. It is pleased with what it killed yesterday. Very pleased
 with the last one." The lens clicked. "And a spike I did not expect. When it cut the
 seed: *revulsion*. It hated that thing more than it has hated anything in its records."
-They read deeper. "One more fragment. Old, buried. Before *SHAME* was painted on it, it
+He read deeper. "One more fragment. Old, buried. Before *SHAME* was painted on it, it
 carried another name. Scratched off with the star. I cannot read the name. But I can
 read this. It does not want it back."
 
@@ -2961,7 +2961,7 @@ Five minutes later it was packed. Kell handed him a mug without a word. Varga an
 Hollis were a little hungover from Drachen's spire wine. Morcant had his arm in its
 sling. Corvane was in fresh plate. Dace was pale but steady. Isk sat wrapped in a
 blanket, feverish, with Sallow standing right behind him. Brenner at the vox panel,
-Mira and Teo, Ferro-Ashe with oil on their hands from Shameholder, and Nessa at the
+Mira and Teo, Ferro-Ashe with oil on his hands from Shameholder, and Nessa at the
 back by the door. Tavi's bead clicked on from medicae. "I'm listening, boss. Can't
 stand, but I'm listening."
 
@@ -3189,7 +3189,7 @@ They told him. Dace wanted a carapace fitting for his shield arm, and plasteel f
 real blade one day. Sallow wanted a drag harness and a lascarbine. Mira wanted rockets
 for the Valk. Teo wanted a flight jacket that didn't smell of grox, and pilot
 sunglasses. Ferro-Ashe wanted a spare Mechanicus coupling and a sealed, shielded
-data-case for their own work. And Nessa, from the doorway, wanted her needle pistol and
+data-case for his own work. And Nessa, from the doorway, wanted her needle pistol and
 her knives back out of Kesh's evidence locker.
 
 "The generator still needs dock time before the next jump, Interrogator," said
@@ -3231,8 +3231,8 @@ film on the deck. They stepped around it.
 
 The power plant was a low hot chamber under the hub beside the vault, banks of old
 Mechanicus machinery humming in the dark under amber runes. Ferro-Ashe went straight to
-one housing, knelt, and began to chant with their mechadendrites reaching in. It was
-fiddly. They chanted, swore in binary, and chanted again. Then with a long shriek of
+one housing, knelt, and began to chant with his mechadendrites reaching in. It was
+fiddly. He chanted, swore in binary, and chanted again. Then with a long shriek of
 metal the coupling came free, a heavy brass-and-ceramite cylinder, sound and whole.
 
 The whole plant gave a deep dying groan. The amber runes went out one by one, the hum
@@ -5730,7 +5730,7 @@ folded. Hollis, Isk, Morcant, Corvane and Sallow had been training on Tamsin's p
 all day or resting. Brenner had not. He had the pirate vox-caster under his arm and
 red eyes from a day on its cipher. Tavi was off his cot for the first time, leaning on
 a crate and grinning. Mira and Teo were at the back, and Ferro-Ashe was in the corner
-with their lens whirring. Dace was still in station medicae, and Nessa was in cell
+with his lens whirring. Dace was still in station medicae, and Nessa was in cell
 one.
 
 Before Tamsin could start, Brenner held up the vox-caster.
@@ -6112,11 +6112,11 @@ scorched heavy carapace and shield in pieces, with a scanning lens on a jointed 
 hovering over them, and under the bench sat a heavy sealed case, shut and wrapped in
 cable.
 
-Ferro-Ashe turned from the bench. Their mechadendrites folded away, and the lens
+Ferro-Ashe turned from the bench. His mechadendrites folded away, and the lens
 whirred and focused on the grav-chutes on Isk's and Varga's shoulders.
 
 "Interrogator. The heavy carapace is sound beneath the scorching. The shield's spirit
-is angry but intact." Their head tilted. "You bring me boarders' grav-chutes. Why?"
+is angry but intact." His head tilted. "You bring me boarders' grav-chutes. Why?"
 
 "I want you to turn these into hop packs. Reverse the suspensor fields and better the
 power supply."
@@ -6126,7 +6126,7 @@ Ferro-Ashe went very still. The lens clicked through three settings and back.
 "Reverse the suspensor fields. Overdrive the core." A long pause. "On Mars, they would
 take my hands for saying yes to you."
 
-Then their vox-grille gave a low, crackling sound that might have been a laugh.
+Then his vox-grille gave a low, crackling sound that might have been a laugh.
 
 "Mars has already taken everything else. Yes. I will do it." A mechadendrite unfolded
 and tapped the chute on Isk's shoulder. "But hear the cost. Each pack needs a
@@ -6144,7 +6144,7 @@ bite.
 
 "Two days," said Ferro-Ashe. "Then she flies."
 
-Mechadendrites unfolded from their back like a spider's legs. They took the chute's
+Mechadendrites unfolded from his back like a spider's legs. He took the chute's
 housing apart in one smooth movement and laid the suspensor plates out side by side,
 and Ferro began to chant: low, fast binary under the vox-grille. Then a different
 chant, one Tamsin had never heard from Hespa-Vor, with a different rhythm. Isk watched
@@ -6167,7 +6167,7 @@ It was half past five. The pack would be ready in two days, somewhere in the war
 
 ## Chapter 19: First to Five
 
-Ferro-Ashe was bent over Varga's opened chute with their mechadendrites deep in the
+Ferro-Ashe was bent over Varga's opened chute with his mechadendrites deep in the
 housing, chanting in that strange second rhythm, and the first of the suspensor plates
 was already turned over on the bench. Varga leaned on the doorframe with her arms
 folded, pretending not to watch and watching every move. Isk sat on an upturned crate
@@ -8121,7 +8121,7 @@ cheerfully about drum launchers. Nessa ate fast at the end, like someone still n
 sure the food would keep coming. Sallow, Corvane, Mira and Teo filled the middle. In
 the far corner Sorel ate in silence with his back to the wall and the door in view,
 and Tey sat beside him with three helpings, rubbing his bruised shoulder. Ferro-Ashe
-was not there; they were still chanting below over Varga's pack.
+was not there; he was still chanting below over Varga's pack.
 
 There was a space on the bench beside Kell.
 
@@ -9336,7 +9336,7 @@ me.*" A frustrated grunt. "*Surgeon says tomorrow. I'm sorry.*"
 By 0645 they had filed into the briefing room, tired and grey from no sleep: Kell,
 Varga, Hollis, Isk, Tavi, Corvane, Nessa and Brenner, and Mira and Teo back from the
 Valkyrie's patrol. Morcant and Sorel came in last from Merrick's brig, and Tey
-squeezed in behind them. Ferro-Ashe came up from the workshop with grease on their
+squeezed in behind them. Ferro-Ashe came up from the workshop with grease on his
 robes. Sallow was still in station medicae with the girl, and Dace was still in his
 cot.
 
@@ -9412,7 +9412,7 @@ any more. No lights. Frost on the gun blisters.
 
 "There is a manual release," said Ferro-Ashe. "Hold her steady."
 
-They went out on a tether in a void suit and cranked the release by hand, and the
+He went out on a tether in a void suit and cranked the release by hand, and the
 doors ground open a little at a time. By 0725 the Valkyrie was down inside.
 
 The bay still held air, but it was stale and close to freezing, and Tamsin's breath
@@ -9903,7 +9903,7 @@ blown away down the spoke, but a couple of them were clinging to the wall with k
 out.
 
 Down in the bay, the gale had Hollis and was dragging him across the deck toward the
-breach. Ferro-Ashe shot out a mechadendrite and caught him, and mag-locked themselves to
+breach. Ferro-Ashe shot out a mechadendrite and caught him, and mag-locked himself to
 the deck, and held him there.
 
 Selk was hanging on to a stanchion with his cuffed hands. Six metres up, the jumper and
@@ -10603,16 +10603,16 @@ caught her. Mira and Teo had the hold's air-seal panel open on the far wall and 
 arguing quietly over a bundle of wires.
 
 Ferro-Ashe lay flat on a creeper under the Valkyrie's belly. A lamp hung from the frozen
-docking clamp, and they were reciting binary in a flat drone. Three incense sticks
-smoked on an upturned crate beside them.
+docking clamp, and he was reciting binary in a flat drone. Three incense sticks
+smoked on an upturned crate beside him.
 
-The chant stopped. Ferro-Ashe rolled out and sat up, wiping oil off their hands onto
-their robe.
+The chant stopped. Ferro-Ashe rolled out and sat up, wiping oil off his hands onto
+his robe.
 
 "Interrogator. The clamp's spirit is offended. It was frozen open in vacuum and forced
 by hand. It took that as an insult."
 
-They pointed at the clamp's jaw. A hairline crack ran through the steel, catching the
+He pointed at the clamp's jaw. A hairline crack ran through the steel, catching the
 lamplight.
 
 "It will hold the Valkyrie. It will not release on command. Until I re-machine the jaw,
@@ -10620,23 +10620,23 @@ it opens only by the manual lever, here in the hangar, by hand. That's two days 
 lathe. Or a new jaw from the forge-shrine on ring three, if they have one and will sell
 to me."
 
-They tilted their head and waited.
+He tilted his head and waited.
 
 "Tell the Valk I'm sorry. I had to make a tough call."
 
-Ferro-Ashe looked at him for a long moment. Then they put one bare hand flat on the
-Valkyrie's belly plate and closed their eyes. A data-cable slid out of their sleeve and
+Ferro-Ashe looked at him for a long moment. Then he put one bare hand flat on the
+Valkyrie's belly plate and closed his eyes. A data-cable slid out of his sleeve and
 clicked into a port beside the clamp. The hangar went quiet except for the hum of the
 hull.
 
 "It received the words."
 
-Their eyes opened, and they read it out the way they read everything, flat and exact.
+His eyes opened, and he read it out the way he read everything, flat and exact.
 
 "Anger: lower, not gone. It does not hold the hit against you. It holds the *scrape*. It
 was flown into a lock it could not see, and it was hurt in front of an enemy ship. It
 wants the scar mended and its jaw made whole. Until then it will fly, but it will sulk."
-They unplugged the cable. "In plain terms, Interrogator, an apology is a start. Repairs
+He unplugged the cable. "In plain terms, Interrogator, an apology is a start. Repairs
 are what it wants."
 
 Across the hangar, Teo had stopped arguing with the wires to listen. "She'll forgive you
@@ -10660,7 +10660,7 @@ The chandlers on ring four or the forge-shrine would sell it. Three, paint and t
 Paint last, then a rite of mending over the whole flank, so the spirit knows it was done
 properly. That's me, one night."
 
-They looked up at the dented panel.
+He looked up at the dented panel.
 
 "Without the jaw she can still fly a mission, but someone has to pull the lever by hand
 to release her. Without the sealant, I would not take her on a long flight."
@@ -10668,8 +10668,8 @@ to release her. Without the sealant, I would not take her on a long flight."
 "OK. If you can do the jaw, I'll have Dace do the dent, if you'll show him. And I'll buy
 the paint."
 
-Ferro-Ashe inclined their head. "The jaw I can do. It goes on the lathe tonight. The
-refractor field and the captain's sword wait until it's off." They glanced toward the
+Ferro-Ashe inclined his head. "The jaw I can do. It goes on the lathe tonight. The
+refractor field and the captain's sword wait until it's off." He glanced toward the
 stair down to the forge. "Dace, though. Beating out a panel is done standing, with a
 hammer, over your head, for hours. His hip won't take that yet. I'll show him the method
 now. He does it when he can stand at it without the cane."
@@ -10684,19 +10684,19 @@ and started packing tools onto the creeper.
 
 "Ferro, thanks for saving my team."
 
-Ferro-Ashe stopped packing, with one wrench still in hand. For a moment they just looked
-at him. Their face did not do much. It rarely did.
+Ferro-Ashe stopped packing, with one wrench still in hand. For a moment he just looked
+at him. His face did not do much. It rarely did.
 
 "The clamp was frozen. I unfroze it. That is the work."
 
-They set the wrench down on the creeper very carefully, as if it mattered exactly where
+He set the wrench down on the creeper very carefully, as if it mattered exactly where
 it went.
 
 "The Mechanicus called my methods heresy and put me out. No one on Mars ever said thank
 you for the work. Only whether it was done by the rites." A pause. "Kesh took me because
 no one else would. You let me stay because the work was good."
 
-They picked up the lamp again.
+He picked up the lamp again.
 
 "...It was done well, though. I will log that you said so."
 
@@ -10709,19 +10709,19 @@ of the family too, whether you like it or not."
 
 Ferro-Ashe stopped the creeper.
 
-Something moved under their robe, and a thin segmented mechadendrite unfolded over their
+Something moved under his robe, and a thin segmented mechadendrite unfolded over his
 shoulder. It was the same one. Its claw tip was still scuffed raw from the deck plating
-at the Spindle. It flexed once, slowly, as if they were checking that it still worked.
+at the Spindle. It flexed once, slowly, as if he was checking that it still worked.
 
 "Hollis. The gale had him. My mag-locks held, and his weight didn't tear the arm out of
-its socket. It was close. The servo in the shoulder is still complaining." They looked
+its socket. It was close. The servo in the shoulder is still complaining." He looked
 at the scuffed claw for a long moment. "I didn't decide to do it. It was already out
 before I thought."
 
 The mechadendrite folded back under the robe.
 
-"Family." They said the word slowly, as if they were turning an unfamiliar part over in
-their hands. "The Mechanicus has a binary term for a forge's crew. It does not translate
+"Family." He said the word slowly, as if he was turning an unfamiliar part over in
+his hands. "The Mechanicus has a binary term for a forge's crew. It does not translate
 well. It means something like *the ones whose hands are in the same machine*."
 
 A pause.
@@ -10735,7 +10735,7 @@ the last of it, stopped, and nodded at Ferro-Ashe without a word.
 
 ---
 
-Ferro-Ashe rolled the creeper ahead, and Tamsin followed them down to the forge.
+Ferro-Ashe rolled the creeper ahead, and Tamsin followed him down to the forge.
 
 It was small and hot: a squat furnace banked low and glowing orange, an anvil, a quench
 tank, and hammers hung by size on the bulkhead. Dace sat in a chair dragged up to the
@@ -10749,7 +10749,7 @@ here."
 
 Ferro-Ashe explained the Valkyrie's panel in flat, exact terms: dented a finger deep, to
 be beaten out cold from behind, working from the edge to the centre, with a hammer over
-his head for hours. They sketched the hammer pattern on the back of a rag in chalk.
+his head for hours. He sketched the hammer pattern on the back of a rag in chalk.
 
 Dace listened and nodded along. Then he looked down at his hip.
 
@@ -13559,9 +13559,9 @@ crate?"
 
 Ferro-Ashe drew the mechadendrite out of the casing with a small click and turned round.
 
-"The container note, day fourteen. Yes. Logged." They counted off on oily fingers. "The
+"The container note, day fourteen. Yes. Logged." He counted off on oily fingers. "The
 Callidus knives: Dace's work. Reground. Done. One set is with Nessa. The refractor
-field: mine, in progress." They tapped the vice. "The flicker is a cracked emitter dome
+field: mine, in progress." He tapped the vice. "The flicker is a cracked emitter dome
 and a coil that has been shot near too often. I am rewinding the coil now. The dome I
 can patch, not replace. Finished tonight, then a rite overnight. Then we will know if
 the spirit holds steady or still sulks. The captain's power sword: mine, waiting. The
@@ -13575,44 +13575,44 @@ A pause.
 "I have a question. I would like to talk to all three of my weapons real quick, and
 introduce myself to a new one."
 
-Ferro-Ashe inclined their head. "Communion by data. I can do it. It takes a few minutes
-each, and I'll tell you what each spirit wants and feels, in plain terms." They held up
+Ferro-Ashe inclined his head. "Communion by data. I can do it. It takes a few minutes
+each, and I'll tell you what each spirit wants and feels, in plain terms." He held up
 a data-cable. "Which ones?"
 
 Tamsin brought down all four: Vigil from the cabin rack, Shameholder off his back, Last
 Word from his left thigh, and the Hornet from the container. He laid them across
-Ferro-Ashe's bench. Ferro-Ashe plugged a data-cable into each in turn, closed their
+Ferro-Ashe's bench. Ferro-Ashe plugged a data-cable into each in turn, closed his
 eyes, and read them out flat, like a report.
 
 Vigil first. Ferro-Ashe was quiet a long time on that one.
 
-"Displeased. Strongly." Their eyes opened. "On day sixteen you walked into the Spindle's
+"Displeased. Strongly." His eyes opened. "On day sixteen you walked into the Spindle's
 spoke with a knife and handed it to Brenner. It fired for him. Then Brenner was shot,
 and it went down on the deck with him, and it lay there in the cold until someone picked
 it up. It does not understand why its bearer went into the fight without it." A pause.
 "It is old and loyal. It carried Korren into his last fight and did not leave him. It
 does not like being left."
 
-They tapped the stock.
+He tapped the stock.
 
 "No damage. No blessing lost. It is *sulking*. Clean it yourself, by hand, and carry it.
 And when Sallow allows it, the first shot it fires should be yours."
 
 Shameholder next.
 
-"Hungry. Restless." Their mouth tightened. "It has not tasted blood since the *Widow*.
+"Hungry. Restless." His mouth tightened. "It has not tasted blood since the *Widow*.
 At the Spindle you killed twice with a knife, and it was on your back for both. It
 noticed. The new seal, it accepted. It did not like the words, but it accepted them. It
 *reads* them as true." A pause. "The purr when Tey touched it was not affection. It was
 appetite. It knows when a hand is unsure, and it likes that."
 
 Then Last Word. Ferro-Ashe's face changed, very slightly. It was the closest thing to
-warmth they ever showed.
+warmth he ever showed.
 
-"Pleased. Steady." They tilted their head. "It liked this morning. The left hand. The
+"Pleased. Steady." He tilted his head. "It liked this morning. The left hand. The
 fast draw from the lean." A pause. "That is how the Venns drew it. Jory Venn's father
 wore it on the left. It remembers. It allowed the boy, Tey, to fire it. It judged him
-unsure, but not careless. It did not mind." They opened their eyes. "Its trust in you is
+unsure, but not careless. It did not mind." He opened his eyes. "Its trust in you is
 close to what it gave the Venns. Not yet there. One more moment that matters, I think. A
 real one, not a drill."
 
@@ -13620,10 +13620,10 @@ Last, the Hornet.
 
 "Young. Crude. A stamped-steel spirit with few memories, mostly of being dropped." A
 flat beat. "It is eager. It wants to *run*: long bursts, the trigger held down. It likes
-being emptied." They unplugged the cable. "It is not loyal to anyone yet. It will love
+being emptied." He unplugged the cable. "It is not loyal to anyone yet. It will love
 whoever lets it run, and it will jam on whoever holds it too long."
 
-Ferro-Ashe coiled the cables back onto their wrist.
+Ferro-Ashe coiled the cables back onto his wrist.
 
 "You said you wished to introduce yourself to the new one. It is listening now, if you
 want to speak to it."
@@ -13636,11 +13636,11 @@ Ferro-Ashe plugged the cable back into the Hornet and relayed the words in a low
 murmur.
 
 "It heard 'home.' It does not know the word. It has had nine bearers in its short life,
-and none kept it." Their eyes opened. "It heard 'fix the crudeness.' That, it disliked.
+and none kept it." His eyes opened. "It heard 'fix the crudeness.' That, it disliked.
 It does not want to be *made better*. It wants to be fired." A flat beat. "It is a
 simple spirit. Words do little for it. Use will do more."
 
-They unplugged it.
+He unplugged it.
 
 "Empty a magazine through it on the range and let it run to the end, and it will
 understand you faster than any promise."
@@ -13962,7 +13962,7 @@ blessed. A proper fuller, a new edge."
 true."
 
 Nobody else had had theirs read. Ferro-Ashe was the only one aboard who could do it, and
-their bench was full: the refractor field tonight, and then the captain's sword.
+his bench was full: the refractor field tonight, and then the captain's sword.
 
 "Don't we have a box of shells? Oh, yeah. Anyone need any ammo, or resupplies? I'll need
 to buy a lot of rounds for the Hornet."
@@ -15613,7 +15613,7 @@ and finger-grooved, and it already looked like a different gun.
 
 "Revolver's *not* done. Close, though. The hammer and cylinder hand are plasteel, so
 that's forge work, after your chest plate if the leg's still going, otherwise tomorrow.
-The barrel thread is Ferro's lathe, an hour, and they're free now. Paint last. White
+The barrel thread is Ferro's lathe, an hour, and he's free now. Paint last. White
 frame. Mira's got the deck paint. Two days, maybe one if the leg's kind."
 
 He counted the rest off on the tongs.
@@ -15779,7 +15779,7 @@ barrel in its oilpaper and the small sealed medicae case, with its one injector 
 padded slot. Hollis tucked the rite-waxed emitter dome under his arm like an egg.
 
 "Two injectors remain, if you need them," said Doradne. "And your adept should perform
-the Rite of Seating when fitting the dome. They will know it." A pause. "If they are
+the Rite of Seating when fitting the dome. He will know it." A pause. "If he is
 sanctioned."
 
 ---
@@ -16554,7 +16554,7 @@ hands, read the first page, and grinned like a cat.
 "Oh, this is *illegal*."
 
 Ferro-Ashe opened the rote-book, saw *not sanctioned by Mars* inside the cover, and went
-very still. Then they tucked it inside their robe without a word, which, from them, was
+very still. Then he tucked it inside his robe without a word, which, from him, was
 gratitude. Isk took *The Spotter's Handbook* and murmured, "A book for the man *beside*
 the sniper," and looked thoughtfully at Sorel.
 
@@ -17708,8 +17708,8 @@ in the hold again, under a blanket, with the hellpistol in his hand. In medicae,
 asleep on her cot, and Sallow was asleep in the chair beside her, still in her chest rig.
 
 There was a light under the workshop hatch. Ferro-Ashe was awake, sitting cross-legged on
-the bench with the *Fleet Enginseer's Rote-Book* open on their knees and a mechadendrite
-holding a stylus, making notes. They did not seem to sleep much. They glanced up as he
+the bench with the *Fleet Enginseer's Rote-Book* open on his knees and a mechadendrite
+holding a stylus, making notes. He did not seem to sleep much. He glanced up as he
 passed the open hatch, and went back to the book. The forge was banked orange, and Dace
 was snoring behind the curtain in the corner.
 
@@ -23786,7 +23786,7 @@ clicking.
 "Last one, Ferro," said Tamsin. "Make it count."
 
 Teo, Tey, Dace and Sallow went in. Ferro-Ashe entered the galley in a slow, methodical
-sweep, optics clicking through their settings and servo-arm extended. They checked the
+sweep, optics clicking through their settings and servo-arm extended. He checked the
 dumbwaiter, the grating, the stew pot, the bench locker, the cold store, behind the door
 and the flour sacks, and logged each spot that had caught someone, one after another, in a
 flat murmur.
@@ -24279,14 +24279,14 @@ Ferro-Ashe was next, optics clicking.
 
 "You can scout a whole room before coming in too, just like Brenner."
 
-Ferro-Ashe turned their optics on him with a soft whir. "My optics have a thermal
+Ferro-Ashe turned his optics on him with a soft whir. "My optics have a thermal
 register. It is a crude one. I use it to find failing couplings." A pause. "Bodies are
 warmer than couplings."
 
 Teo, Tavi, Corvane and Dace went in, and Ferro-Ashe stated the plan flatly. "Scan. If a
 body is in the open, frag. If enclosed, engage."
 
-They stood in the galley hatch with their optics clicking into the thermal register. The
+He stood in the galley hatch with his optics clicking into the thermal register. The
 galley went grey and cool, except for one warm smear inside the bench locker.
 
 "Bench locker. Thirty-six point eight degrees. Bang, Lieutenant."
@@ -24313,7 +24313,7 @@ The corridor erupted.
 "FERRO PASSES! Four of four! The tech-priest!"
 
 "Exactly what Brenner did, with worse kit," said Kell. "Reads every room first, and never
-takes a risk they don't have to." He looked at Tamsin. "Two of them can see through walls
+takes a risk he doesn't have to." He looked at Tamsin. "Two of them can see through walls
 now, boss. That's going to matter at the Mart."
 
 The last of the round was Hollis, with one arm in a sling and his own crate of dummies
@@ -25847,7 +25847,7 @@ won it five rounds to two.
 Ferro-Ashe and Sallow were the surprise of the morning. Ferro-Ashe won the first round
 with a flat, mechanical lunge. Then Sallow took the next three running, reading the
 tech-priest like a patient's chart, and soon she led four rounds to two, one round from
-winning. Then Ferro-Ashe changed something. They stopped fighting like a person and
+winning. Then Ferro-Ashe changed something. He stopped fighting like a person and
 started fighting like a servitor routine: the same short, precise cut, over and over,
 until Sallow's timing broke. Ferro-Ashe won the next three rounds straight, and the bout
 five to four.
@@ -26055,7 +26055,7 @@ about the strip.
 Kell made it. He crawled the whole left lane on his belly *under* the balanced tin, and
 Nessa never saw him rise. Varga made it too: she copied Tamsin's trick, counted Nessa's
 sweeps and timed the linger on the tin. Ferro-Ashe walked straight across the centre,
-slowly and perfectly evenly, "like machinery," and Nessa's eyes slid right off them. Nessa
+slowly and perfectly evenly, "like machinery," and Nessa's eyes slid right off him. Nessa
 was still furious about it.
 
 Everyone else died. Hollis was good, but his healing shoulder clipped a stack. Brenner
@@ -26673,7 +26673,7 @@ For a heartbeat nobody said anything.
 Then Kell brought his fist to his chest in the Scion's salute, and held it. Varga did the
 same beside him. Then Hollis, one-armed, then Corvane, and then all of them down the line:
 Brenner, Isk, Tavi, Morcant, Sallow, Nessa, Mira, Teo, Dace on his stool, Sorel and Tey
-with their trainee fists, and Ferro-Ashe with their servo-arm clenched over their chest, a
+with their trainee fists, and Ferro-Ashe with his servo-arm clenched over his chest, a
 beat behind and very precise about it. At the back, even Ollin slowly put his fist to his
 chest, uncertain whether he was allowed.
 
@@ -26716,7 +26716,7 @@ Sorel was laughing at him.
 Nessa leaned over and asked Tamsin, low, how exactly he had found the strip she missed.
 When he told her, she nodded slowly and did not say anything clever.
 
-Ferro-Ashe announced flatly that they had "updated the probability models for every member
+Ferro-Ashe announced flatly that he had "updated the probability models for every member
 of the Light," and that Morcant was "the least predictable variable aboard." Morcant took
 this as the highest compliment of his life.
 
