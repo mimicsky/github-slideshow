@@ -43,7 +43,7 @@ closes or stops mattering, delete or shorten it in the same save. Keep this shee
 - **Shooting eye:** **working from day 31** (fitted day 29, complication 3, opened day 31: 5); **given to Varga day 29** (her reaction 3 to the apology, 9 to the gift: 'Plasteel order, my arse'; 'You're still an idiot'); fitting by the station surgeon day 29, one day's rest; Ferro links Mercy day 30. Was: surgeon fitting once the socket's ready
   (~day 29; the Ustrennos surgeon). Varga suspects a surprise (told: plasteel/ceramite order).
 - **Coin:** Tamsin **10.18 TV**; coin box **2,630 Thrones** (Haddle 120 + the master's 200 + ~12; day 29: Hob's 250 + the crate crew's 48; day 31: Brannick's strongbox ~2,000), in Tamsin's cabin. **Brannick's debt ledger** (~70 names on ring four) with Tamsin. Rate 100 Thrones = 1 TV.
-- **Kept:** 1 **SCIHU stim** (Tamsin's satchel), 2 laser sights (satchel).
+- **Kept:** 1 **SCIHU stim** (Tamsin's satchel). **The 2 laser sights fitted day 32** (under-barrel): one on **Last Word**, one on **Tey's hellpistol** (+1 hip and snap shots within ~20 m; the dot shows in smoke or dark).
 - **Wishlist (on the book crate):** Morcant drums x4 + compensator; Tavi kraks, melta bomb, sapper's charge rig; Tey a
   holster that fits; Isk range-finder sight, grey hooded cloak, (machine-core for his lift pack via Ferro); Hollis grenade
   bandolier, command bead, map-slate; Teo pilot glasses; Mira Valk rockets; Nessa toxin darts, lockpicks; Corvane
@@ -287,8 +287,7 @@ The Light's container, Container 2 and the hold, all together (what isn't carrie
   stubber belts.
 - **Grenades and explosives:** 19 frags (Hob's, day 29), 1 scrap pipe-bomb (short fuse; a natural 1 goes off in hand), 2 kraks, 3 photon flashes, **2 spec flashes**, 1 choke gas; **1 melta bomb**, 1
   breaching charge, **28 demo charges**, 1 rot gas bottle (for Kesh).
-- **Kit:** a bandolier, 2 belt side-pouches, a demolitions bag, ~23 spare vox-beads, the vox-horn, 2 laser sights
-  (Tamsin's satchel).
+- **Kit:** a bandolier, 2 belt side-pouches, a demolitions bag, ~23 spare vox-beads, the vox-horn. (The 2 laser sights: fitted day 32, Last Word and Tey's hellpistol.)
 - **Medicae (beyond Sallow's):** ~11 antitoxin, ~5 stimms, plague-ward filters and salve, a fleet medicae crate,
   **1 SCIHU stim** (Tamsin's satchel).
 - **Salvage and parts:** plasteel **with Dace** (6 from Kesh/shops, for the Hornet frame, Shameholder's teeth, Kell's
@@ -447,7 +446,7 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 
 | Who | PR | Body / Skill / Weapons / Armour / Kit |
 | --- | --- | --- |
-| **Tamsin** | **443** | 78 / 130 / 135 (Shameholder; Vigil, Last Word, Stinger; 3 attachments) / 70 / 30 |
+| **Tamsin** | **448** | 78 / 130 / 140 (Shameholder; Vigil, Last Word, Stinger; 4 attachments incl. Last Word's laser) / 70 / 30 |
 | Kell | 357 | 62 / 110 / 130 (plasma pistol; Officer, chain axe, knife; 2 attachments) / 40 / 15 |
 | Varga | 335 | 45 / 110 / 95 (Mercy; laspistol, shovel; tap-button) / 40 / 45 (shooting eye, lift pack) |
 | Hollis | 327 | 57 / 110 / 100 (drum launcher; hellgun) / 40 / 20 |
@@ -460,7 +459,7 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 | Sallow | 249 | 29 / 110 / 60 / 40 / 10 |
 | Sorel | 241 | 56 / 60 / 80 / 40 / 5 |
 | Nessa | 224 | 39 / 70 / 80 (needle pistol; throwing knives) / 30 (chest-only carapace) / 5 |
-| Tey | 213 | 43 / 45 / 80 (hellpistol) / 40 / 5 |
+| Tey | 218 | 43 / 45 / 85 (hellpistol with laser sight) / 40 / 5 |
 | Ferro-Ashe | 184 | 19 / 70 / 60 / 20 (flak-weave robes, DM's call) / 15 (thermal optics) |
 | Teo | 183 | 33 / 80 / 50 / 20 (pilot's flak vest, DM's call) / 0 |
 | Mira | 181 | 31 / 80 / 50 / 20 (pilot's flak vest, DM's call) / 0 (her real weapon is the Valkyrie) |
