@@ -210,9 +210,10 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 - **The player may propose** blessings, mods and backstory; the DM judges.
 - **Save state** to the campaign files and push after anything important.
 - **Full kit (set by the player, Ash on Ostrava session 10, day 33).** The campaign sheet's **Full kit** table is each person's standing loadout. 'Full kit for everyone' means exactly that table, unless the player says otherwise for a mission. **Keep it current in the same save:** whenever something is used up, lost, swapped, fitted, found or handed out (ammo, grenades and attachments too), change its row; don't add gear the player hasn't assigned. **The Light's container is open stock: anyone may take from it if they want; update both the person's row and the crate's count.** Power ratings are re-run from it.
-- **The book.** At the end of each session, write it as full chapters in
-  `book.md` (codex Part 7), and update "Where we stopped" at the top of this
-  sheet. Part One of the book summarises sessions 1-5; Part Two starts the
+- **The book: written at the end of every in-game day** (changed by the player, session 10),
+  right after the daily tally, as full chapters in `book-season-2.md` (codex Part 7, The book).
+  On long days, a one-line note in the day log after each big scene as a safety net. Update
+  "Where we stopped" at the top of this sheet. **Backlog: days 17-33 are not written yet.** Part One of the book summarises sessions 1-5; Part Two starts the
   morning after the Deck 9 breach.
 
 ---

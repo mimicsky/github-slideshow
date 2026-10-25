@@ -956,12 +956,17 @@ from a real record instead of my memory of it.
 
 
 **The book.** Each campaign keeps a `book.md`: the story told as a novel,
-third person, past tense. At the end of every session (and at any big break),
-the DM writes that session as full chapters: every scene, the real choices and
+third person, past tense. **At the end of every in-game day, right after the daily
+tally** (changed by the player, Ash on Ostrava session 10: end-of-session writing let
+seventeen days pile up unwritten), the DM writes that day as full chapters: every scene, the real choices and
 the real words spoken at the table, with the dice invisible and only their
 results on the page. Nothing is invented that didn't happen; small connective
 detail (weather, a smell, a look) is fine. The campaign sheet carries a short
 "Where we stopped" for resuming; the book is the only story file. Set by the player, Ash on Ostrava session 5.
+**Safety net on long days:** after each big scene (a fight, a turning-point talk, a purchase or a
+gift), add a one-line note to the campaign sheet's day log, so nothing is lost if the context is
+cut mid-day. Those notes are deleted once the day's chapter is written. At the end of a session
+the only job left is to check the book is up to date.
 ---
 
 ## Part 8 — Warhammer 40,000
