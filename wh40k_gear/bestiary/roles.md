@@ -156,7 +156,10 @@ run into you and blow themselves up.*
 
 Stays behind the line and drags the wounded back. **Patches one ally a turn: moves
 them back one health state, once per person** (Down to Hurt, Hurt to Fine); **can't
-bring back the dead.** Shoots until someone on their side gets hurt, then switches to
+bring back the dead.** **The patch roll (set by the player, Ash on Ostrava session 10): d20 + WIS + 4
+against a normal target, the same every time: no penalty for worse wounds or for being under fire;
+it's their job and they're used to it. The near-miss rule applies. Hurt to Fine costs only bandages;
+Down to Hurt uses one stimm.** Shoots until someone on their side gets hurt, then switches to
 patching. **Killing the medic hurts the team's morale.**
 
 *Side note: cultist medics don't heal the normal way; they mostly use drugs, and

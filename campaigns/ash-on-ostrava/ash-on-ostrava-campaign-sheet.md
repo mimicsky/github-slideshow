@@ -458,7 +458,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | Isk | Long aimed shots (past ~30 m); no bonus up close |
 | Tavi | Demolitions; reading doors and structures (knows the charge needed before he sets it) |
 | Morcant | Suppression: targets he's suppressing take -2 on their shots |
-| Sallow | Treating wounds and sickness |
+| Sallow | Treating wounds and sickness (**patching in a fight: d20 + WIS + 4, no penalties**; bestiary roles, Medic) |
 | Dace | Shield work: blocks and shield pushes |
 | Corvane | Point: first through a door, spotting at first contact, boarding melee |
 | Nessa | Infiltration: crawlways, stealth, locks (when given the job) |
