@@ -20847,8 +20847,8 @@ Varga stared at him with her one eye, and her jaw tightened.
 
 She sat up straighter on the cot.
 
-"You don't get to carry that, boss. That was shrapnel at the Spindle. Orne's people set it
-off, not you. I walked into that bay on my own two feet because I wanted to be there." Her
+"You don't get to carry that, boss. That was shrapnel at the Spindle, from our own charge
+when it went wrong. Not you. I walked into that bay on my own two feet because I wanted to be there." Her
 voice was flat and hard. "It's my eye. You don't get to take it off me and make it your
 weight."
 
