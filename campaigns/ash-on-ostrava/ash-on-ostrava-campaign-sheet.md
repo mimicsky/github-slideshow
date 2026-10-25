@@ -459,11 +459,11 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 | Dace | 253 | 23 / 90 / 85 (Promise Holder; Threshold, autopistol) / 50 (shield) / 5 |
 | Sallow | 249 | 29 / 110 / 60 / 40 / 10 |
 | Sorel | 241 | 56 / 60 / 80 / 40 / 5 |
-| Nessa | 214 | 39 / 70 / 80 (needle pistol; throwing knives) / 20 / 5 |
+| Nessa | 224 | 39 / 70 / 80 (needle pistol; throwing knives) / 30 (chest-only carapace) / 5 |
 | Tey | 213 | 43 / 45 / 80 (hellpistol) / 40 / 5 |
-| Ferro-Ashe | 184 | 19 / 70 / 60 / 20 / 15 (thermal optics) |
-| Teo | 183 | 33 / 80 / 50 / 20 / 0 |
-| Mira | 181 | 31 / 80 / 50 / 20 / 0 (her real weapon is the Valkyrie) |
+| Ferro-Ashe | 184 | 19 / 70 / 60 / 20 (flak-weave robes, DM's call) / 15 (thermal optics) |
+| Teo | 183 | 33 / 80 / 50 / 20 (pilot's flak vest, DM's call) / 0 |
+| Mira | 181 | 31 / 80 / 50 / 20 (pilot's flak vest, DM's call) / 0 (her real weapon is the Valkyrie) |
 | Ollin | 20 | 15 / 0 / 0 / 5 / 0 |
 
 **How the Light rolls (set session 9):** d20 + stat bonus (+1 per full 10 levels) + specialty (+2, only on its kind of roll) + role or gear bonuses. Earlier ally rolls used rough bonuses and stand.

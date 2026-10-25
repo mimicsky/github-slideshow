@@ -1170,7 +1170,7 @@ outcome.** It shows at a glance how dangerous someone is, on one scale for every
 | **Body** | STR + DEX + CON levels, minus 45 (a civilian is about 15 each, so 0) |
 | **Skill** | Civilian 0 · cultist 30 · ganger, raider or pirate 40 · Guard or traitor soldier 50 · veteran or officer 60-70 · storm trooper or Scion-trained 80 · player character **10 × level**. Plus **+20** for a specialist role (or the Commander role), **+10** per specialty (a trainee's young focus +5) |
 | **Weapons** | Best weapon: scrap blade 20 · scrap gun 35 · common gun or blade 50 · hellgun-class 70 · heavy or special (bolter, plasma, chainsword, power weapon, launcher, heavy stubber) 90 · exotic 120. **+15** masterwork, blessed or a true custom build · **+10** per extra weapon (up to +30) · **+5 per fitted attachment** on any carried weapon, one per slot (up to +30; repairs and internals don't count) |
-| **Armour** | None 0 · rags or coat 5 · flak 20 · carapace 40 · heavy carapace front 50 · power armour 100. **+10** shield · **+20** refractor · **+30** conversion field |
+| **Armour** | None 0 · rags or coat 5 · flak 20 · chest-only carapace 30 · carapace 40 · heavy carapace front 50 · power armour 100. **+10** shield · **+20** refractor · **+30** conversion field |
 | **Kit** | **+5** per grenade type carried (up to 20) · augmetic eye 5-25 (shooting eye 20, sensor-type optics 15) · lift or jump pack 15 · auspex 10 · stimms or drag-harness medic kit 5 |
 
 **Calibration:** civilian 0 · Poor cultist ~95-100 · Steady cultist (lasgun, flak) ~125 ·
