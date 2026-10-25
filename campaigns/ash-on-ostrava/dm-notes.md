@@ -109,7 +109,7 @@ The marker is wrong. The real compound is two levels down from where it's marked
 
 ### Ferro-Ashe's heresy
 
-Cast out of the Mechanicus for letting a cogitator learn on its own. They still keep its core in a sealed case in the workshop.
+Cast out of the Mechanicus for letting a cogitator learn on its own. He still keeps its core in a sealed case in the workshop.
 
 ### Varsaine
 
