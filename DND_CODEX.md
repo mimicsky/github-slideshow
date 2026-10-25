@@ -818,6 +818,21 @@ applies is added; each modifier shown in the math.
 7. **Saves:** purity seals (advantage vs warp/plague/madness), Indomitable.
 8. **Will checks:** +1 per finished interrogation manual; hard-method +5% and its risk roll.
 
+### Shots and hits (set by the player, Ash on Ostrava session 10)
+
+What the DM has always done, written down so anyone can run it.
+
+- **To hit:** the DM sets a **hidden target number** for each shot: **10** easy (close, still target),
+  **15** normal, **20** hard (far, moving, small). **Cover adds to it** (+1 / +2 / +4; see Cover above).
+  The shooter's total (roll checklist) must reach it. Melee between people uses the exchange (house rule 5) instead.
+- **Damage:** a hit drops the target **one health step** (Fine → Hurt → Badly hurt → Down),
+  **unless their armour stops that kind of weapon** (Part 8, Armour: "shrugs off" means it bounces, no step).
+  Extra health stages (zealots, Skitarii, Ogryns, brutes) add steps before Down.
+- **Crit:** drops **one extra step** (crit ranges: a natural 20 for most; Tamsin 19-20; Vigil 17-20 with heat).
+- **"Solid hit"** (wording some gear uses): the total **beats the hidden number by 3 or more**.
+- **Example:** a cultist behind crates (+2) at normal range: target 17. Tamsin rolls 12 + 7 DEX + 4 proficiency = 23:
+  a hit and a solid hit; flak doesn't stop Vigil, so the cultist drops a step.
+
 ### Rulings made at the table
 
 When the book is silent or unclear, I rule once and then stick to it.
