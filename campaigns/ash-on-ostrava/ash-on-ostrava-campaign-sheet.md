@@ -11,7 +11,7 @@ happened, and git history keeps every old version.
 **Clean up as we go (set by the player, session 9):** during play, when something
 closes or stops mattering, delete or shorten it in the same save. Keep this sheet lean.
 
-**Where we stopped:** **session 10, ~1130 warp day 31, the Bright Light in the warp, bound for Torvane's Mart** (the player is playing the warp days out; Kell asked what training plan for the Mart) (transit 2 days: **arrive day 33**). Undocked from Ustrennos ~1115. **Warp entry rough (3):** Hollis wrenched his shoulder in the lurch (Hurt; Sallow 7 + 3 + 2 = 12: Fine by day 33). Roll the Mart cultists' faction wealth at the first meeting there.
+**Where we stopped:** **session 10, ~2040 warp day 31, the Bright Light in the warp, bound for Torvane's Mart**: dinner in the galley after the room-clearing drill (pass 2 passes: Brenner, Dace, Sallow, Teo, Ferro; Tamsin's demonstration 4 of 4, natural 20 on Nessa; Kell fell in the galley). Tamsin named Ollin **the Light's Quartermaster** and asked how he likes it. Afternoon training: 3 h Nessa's stealth course (1 h coached), 1 h cover-to-cover drill, ~4 h room clearing. (transit 2 days: **arrive day 33**). Undocked from Ustrennos ~1115. **Warp entry rough (3):** Hollis wrenched his shoulder in the lurch (Hurt; Sallow 7 + 3 + 2 = 12: Fine by day 33). Roll the Mart cultists' faction wealth at the first meeting there.
 **Ustrennos wrap (day 31):** Varga's eye works; Lusk pardoned until the Light returns (Merrick's collar, ring four, guarding Mirri); Brannick broken, his ~2,000 Thrones in the coin box (2,630) and his ledger with Tamsin (Merrick announcing 'Brannick's book is closed' at the ring-four galley); Merrick hunting the guest (nothing yet); books returned; Charter 7's crew and jars held for Kesh; Hollen home with Wenna and Mirri.
 
 ### Current state (session 10, day 25)
@@ -411,7 +411,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | Corvane | Duelist |
 | Nessa | Infiltrator |
 | Ferro-Ashe | Tech-adept / heretek (holds the Enginseer crew post) |
-| Ollin Brake | Crew post: Quartermaster (not a fighter) |
+| Ollin Brake | Crew post: Quartermaster (not a fighter); tag: **Light's Quartermaster** |
 | Tamsin | Commander |
 | Mira | Fighter pilot |
 | Teo | Fighter pilot |
@@ -462,7 +462,7 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 | **Mira** | 14 | 41.1 | 20 | 32.6 | 30 | 15 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: DEX +0.1, INT +0.3. Day 17 tally: INT +0.6. Day 18: INT +0.6. Day 19: INT +0.6. Day 20: INT +0.6. Day 21: INT +0.6. Day 22: INT +0.6. Days 23-26 (bulk): INT +2.3. Days 27-28 (bulk): INT +1.2. Days 29-30 (bulk): INT +1.2 |
 | **Teo** | 18.1 | 41.1 | 18 | 26.6 | 19 | 28 | Fine. Day 15 rep: +1.0 DEX. Day 16 tally: STR +0.1, DEX +0.1, INT +0.3. Day 17 tally: INT +0.6. Day 18: INT +0.6. Day 19: INT +0.6. Day 20: INT +0.6. Day 21: INT +0.6. Day 22: INT +0.6. Days 23-26 (bulk): INT +2.3. Days 27-28 (bulk): INT +1.2. Days 29-30 (bulk): INT +1.2 |
 | **Ferro-Ashe** | 19 | 24 | 20 | 44.8 | 19 | 12 | Fine. Day 16 tally: INT +0.1. Day 20: INT +0.1. Day 21: INT +0.5. Day 22: INT +0.4. Days 27-28 (bulk): INT +1.5. Days 29-30 (bulk): INT +1.2 |
-| **Ollin Brake** (Quartermaster crew post, joined day 28) | 18 | 17 | 25 | 23 | 18 | 17 | Fine. Ring-four dock hauler, ~20; father Hollen (rescued from the Spindle). Sharp at counts and manifests; haggles d20 + CHA bonus (+1). Bunks in the new 2-bunk cabin |
+| **Ollin Brake** (**Light's Quartermaster**: role tag set by Tamsin day 31; crew post, joined day 28) | 18 | 17 | 25 | 23 | 18 | 17 | Fine. Ring-four dock hauler, ~20; father Hollen (rescued from the Spindle). Sharp at counts and manifests; haggles d20 + CHA bonus (+1). Bunks in the new 2-bunk cabin |
 
 - **Sergeant Kell** (storm trooper sergeant, 41, ex-Tempestus Scion, nine years
   with the Ordos). Tamsin's "brother"; their fist-bump handshake. Hellgun
