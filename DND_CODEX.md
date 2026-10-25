@@ -622,6 +622,22 @@ That last point is the tactical weight of the rule. Holding a door stops being
 flavour and becomes the correct answer to being outnumbered, and walking out
 into the open stops being brave and becomes arithmetic.
 
+**Which stat the exchange uses (finesse; set by the player, Ash on Ostrava session 10).**
+Both sides roll the stat their weapon runs on, attacking *and* defending:
+
+| Weapon | Stat |
+| --- | --- |
+| **Finesse:** knives, daggers, bayonets used in hand, short blades, light sabres | **the better of STR or DEX** |
+| **Heavy:** chainswords, axes, mauls, hammers, power fists, long blades (e.g. Promise Holder) | **STR** |
+| Unarmed: grappling and shoving | STR |
+| Unarmed: slipping and dodging | DEX |
+
+**Knife defence is footwork, not blade-on-blade:** with a knife, a *block* (1-2 higher)
+is narrated as a **slip** (dodged, the attacker keeps going) and a *parry* (3+ higher) as
+an **evade and counter** (dodged or the arm checked, initiative flips). Same math.
+**Knife bouts on the mat** (blunted bayonets, chalked edges) use **d20 + DEX each** and
+their own scoring: see the campaign sheet's play preferences, "Matches and contests".
+
 ---
 
 **6. Shot chains.**
@@ -783,7 +799,8 @@ side it blocks. Shots from behind or above it ignore it.
 Before resolving **any** roll, the DM runs down this list so nothing is missed. Only what
 applies is added; each modifier shown in the math.
 
-1. **Base:** d20 + stat bonus (+1 per full 10 levels) + proficiency (if trained) + Remarkable
+1. **Base:** d20 + stat bonus (+1 per full 10 levels; **melee: STR, or the better of STR/DEX
+   with a finesse weapon such as a knife; house rule 5, "Which stat"**) + proficiency (if trained) + Remarkable
    Athlete / half-proficiency where it applies.
 2. **Specialty** (+2, or its drilled level) if the roll is its kind.
 3. **Role:** the roller's bestiary role rules, **and any order from a Commander this beat**
