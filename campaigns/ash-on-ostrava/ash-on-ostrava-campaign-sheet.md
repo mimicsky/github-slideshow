@@ -236,7 +236,6 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Reps on the road to the Rest (rolled daily) | Day 1 DEX +1.0. Day 2 DEX +1.0, DEX +0.5. Day 3 CHA +1.0, DEX +0.5. Day 4 DEX +1.5. Day 5 CON +1.0, CHA +0.5. Day 6 DEX +1.5. Day 7 CHA +1.0, DEX +0.5. Day 8 INT +1.0, DEX +0.5. Mostly sparring with Dace, Corvane and Isk; CHA from drilling the Light-bringers and talking to the crew |
 | Renown | **Local (+3)**, close to Regional (codex, Renown). **Ustrennos: +5 more** (the Spindle, the Kestrel, the pirate ship: the station knows his face). **Thask's network knows exactly who he is.** Next step up (Regional): break the Gardener at the Mart |
 | Proficiency | **+4** (level 9). Skills: Perception, Athletics, Survival, Intimidation. **+1 on will checks** (house rule 8; the provost's manual, finished day 19) |
-| Want | **Not set** (the old one is done: Drachen opened the gate and was executed). The player's call |
 | Flaw | Doesn't trust officers, and says so |
 
 ### Weapons
@@ -260,7 +259,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | Reinforced Munitorum satchel | Green canvas, steel corners, a dozen pouches |
 | Medicine | 1 tin purification salve. No antitoxin |
 | Warrant of trial | Iron Inquisition I with a bar across it, on a chain, with the container's padlock key |
-| Medal | Cadian service medal, Kasr Holn. Eagle filed off in shame for the undelivered order; Thane's black wax aquila. **Kesh ordered the eagle restored** (warp day 9 at the Rest); **not shown as done** |
+| Medal | Cadian service medal, Kasr Holn. **Carried in his pocket.** The eagle he filed off in shame is **restored**, as Kesh ordered (warp day 9 at the Rest), and it carries a **purity seal: wax only, no parchment**. (Before that: Thane's black wax aquila.) |
 | Acolyte pin; armband | Armband: *OSTRAVA SECUNDUS - CADIAN REMNANT*, white gate on black, left arm |
 | Strahn's hold order (carbon duplicate) | The copy of the order Tamsin never delivered at Kasr Holn, in Strahn's hand, kept in his coat lining for a year. Given to Tamsin on warp day 4 to the Rest: "For the new man." |
 | Venn's vellum note | In Tamsin's locker: *"Velk. Under the Choir-Ice, past the dead chapel. Fourth stair down. It sleeps. The key fits the cradle, not the door. If I don't come back: don't go down alone. And don't take V's word for what's down there. He wasn't there. I was."* |
@@ -273,7 +272,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 
 | Who | Guns | Blades and melee | Armour and helm | Other kit |
 | --- | --- | --- | --- | --- |
-| **Tamsin** (Interrogator, commander) | **Vigil** (hellgun; blessing *Korren's breath*: crits 17-20, each crit +1 heat, vent a beat at 3 heat, firing anyway at 3 heat: d20, 1-5 cracks the coil; heat clears after venting or at the fight's end; 1 pack in + 2 spare). **Last Word** (duelling laspistol, right thigh; laser sight, Dace's banded rail). **Stinger** (machine pistol; 2 sticks) | **Shameholder** (chainsword, on his back); combat knife | Heavy carapace front over flak; refractor field; helm with pict lens; void-mask; rebreather | 2 impact frags, 1 frag, 1 smoke; Munitorum satchel (salve); warrant on its chain; thigh holster (Last Word); back scabbard (Shameholder). **No lift pack** (stays in the container) |
+| **Tamsin** (Interrogator, commander) | **Vigil** (hellgun; blessing *Korren's breath*: crits 17-20, each crit +1 heat, vent a beat at 3 heat, firing anyway at 3 heat: d20, 1-5 cracks the coil; heat clears after venting or at the fight's end; 1 pack in + 2 spare). **Last Word** (duelling laspistol, right thigh; laser sight, Dace's banded rail). **Stinger** (machine pistol; 2 sticks) | **Shameholder** (chainsword, on his back); combat knife | Heavy carapace front over flak; refractor field; helm with pict lens; void-mask; rebreather | 2 impact frags, 1 frag, 1 smoke; Munitorum satchel (salve); warrant on its chain; medal in his pocket; thigh holster (Last Word); back scabbard (Shameholder). **No lift pack** (stays in the container) |
 | **Kell** (Light-bringer sergeant, assault) | **Officer** (hellgun; tube stock, Dace's fore-grip); Tessaly's plasma pistol (cell + 1 spare) | chain axe; Schola knife | Carapace; helm with pict lens. Shield arm **still to be fitted** (Dace; the boarding shield is in the container) | axe hip hanger |
 | **Varga** (Light-bringer, rifle/jumper) | **Mercy** (hellgun; tap-button; reflex sight; gun-link port to her eye); laspistol | sharpened Krieg trench shovel | Carapace; helm | shooting eye; lift pack; **no grenades** |
 | **Dace** (Light-bringer, melee/smith) | none (no autopistol) | **Promise Holder** (masterwork plasteel sword); **Threshold** | Carapace; breaching shield (forged, viewing slot); helm | hip healed |
