@@ -291,8 +291,8 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | **Ollin Brake** (Light's Quartermaster) | none | none | Coat | slate; stays aboard |
 
 **Helms:** everyone wears one except Nessa (quiet kit). **Pict-lens helms:** Tamsin, Kell, Isk, Corvane, Hollis, Tavi.
-**Vox-beads:** everyone wears one on THE LIGHT (the ten originals are logged; the newer members' beads are assumed).
-**No weapons assigned:** Dannel Rusk and Joren Brisk (penitents).
+**Vox-beads:** everyone in the Light wears one on THE LIGHT (confirmed by the player, day 33).
+**Penitents:** Dannel Rusk and Joren Brisk have **no kit at all** (no weapons, armour or bead) until the player gives them something.
 **The Valkyrie (Mira, Teo):** a pair of rocket pods, **both empty (0 of 6 rockets)**; nothing else.
 **Open:** Kell's shield arm (still to be fitted); rockets for the Valkyrie's pods (Mira's wish); Isk's laspistol is the player's 'I think'.
 
