@@ -108,3 +108,25 @@ darkness in the room, and anyone in the doorway is lit up. **Counters:** flash-p
 becomes the normal effect; normal becomes -1 for 1 beat). **The thrower's side** must be
 outside the room or looking away, or it takes them too. A **natural 1 on the throw** bursts
 it at the thrower's feet.
+
+## Grenades: throwing and the standard types
+
+Set by the player, Ash on Ostrava session 10.
+
+- **Throwing:** d20 + DEX (+ the grenadier specialty, e.g. Hollis +2) against the DM's hidden number for
+  the spot you want (codex, Shots and hits). **Hollis's near-miss:** miss by 1-2 and it still lands close,
+  at half effect. Miss by more and it lands somewhere else. **A natural 1 lands at the thrower's feet.**
+- **Frag:** everyone within **~5 m** drops a step. Anyone who sees it coming gets a **dive roll** (DEX) to get
+  clear. Cover that doesn't close over them doesn't help.
+- **Impact frag** (Ottrick's conversion; two red tape bands on the cap, standard frags have one): bursts on
+  contact, so **no dive and no throwing it back**.
+- **Krak:** hits **one target, door or vehicle** hard and **goes through carapace**. Tiny blast.
+- **Smoke:** a cloud **~8 m** wide for **2-3 beats**. No aimed shots through it, only blind ones.
+- **Photon flash:** everyone within **~8 m** is blinded **1 beat (-3 on shots)**. A weaker spec flash, no flares.
+- **Choke gas:** a cloud for **3 beats**. Anyone without a mask, rebreather or void-mask is at **-2** and coughing.
+
+## Revolver-drum grenade launcher ('Six Bells', Hollis's)
+
+Set by the player, Ash on Ostrava session 10. Fires the **same grenades** as above (frag, krak, smoke, flash,
+spec flash) out to **~100 m**. **One shot a beat**, rolled like a throw (d20 + DEX + Hollis's grenadier +2;
+the near-miss rule applies). The **drum holds 6**; **reloading the whole drum takes a full beat**.
