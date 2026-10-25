@@ -291,6 +291,7 @@ The same list as the codex's Part 6, kept here so it is never missed on resume.
 | **Ferro-Ashe** (Light-tech-priest) | **Kantrael lasgun** (the stolen one; picked by roll, day 33, d8 = 4) | none | Flak-weave robes; helm | thermal optics; mechadendrites and tools |
 | **Ollin Brake** (Light's Quartermaster) | none | none | Coat | slate; stays aboard |
 
+**Guns:** all **Clean** (cleaned aboard, mostly by Ollin when they're handed in). In the field a gun goes **Dirty after about 30 shots** without cleaning. Exceptions: none.
 **Helms:** everyone wears one except Nessa (quiet kit). **Pict-lens helms:** Tamsin, Kell, Isk, Corvane, Hollis, Tavi.
 **Vox-beads:** everyone in the Light wears one on THE LIGHT (confirmed by the player, day 33).
 **Penitents:** Dannel Rusk and Joren Brisk have **no kit at all** (no weapons, armour or bead) until the player gives them something.

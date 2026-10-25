@@ -1278,7 +1278,7 @@ a mission (Dace as smith); otherwise a crew member is hired or recruited for it.
   warp**; can bless gear with purity seals (codex, Purity seals).
 - **Quartermaster:** keeps the container and the stores. **Tallies the haul after
   each mission and suggests what to keep, sell or turn in; keeps tabs on everyone's
-  kit and resupplies what was used** (Tavi's spent krak grenades come back out of
+  kit and resupplies what was used**, and **cleans the guns people hand in** (set by the player, session 10) (Tavi's spent krak grenades come back out of
   stock, or go on the buy list). **Goes to the shops, calls the player with what they
   have, and buys what the player picks**, haggling by their CHA: **d20 + CHA bonus: 9
   or less full price, 10-14 10% off, 15-19 20% off, 20+ 30% off** (and sells loot for
@@ -1402,15 +1402,17 @@ catalogue (kit: pistol and gun attachments).
 
 **Gun condition and jams (set by the player, session 9).** Every gun is **Clean**,
 **Dirty** or **Neglected**. **Clean** (cleaned after its last fight, or within ~3 days):
-never jams; a natural 1 is just a miss. **Dirty** (fired in a fight and not cleaned
-since, or ~3 days of use): **a natural 1 jams it**; clearing takes a beat.
+never jams; a natural 1 is just a miss. **Dirty** (**about 30 shots since its last cleaning**,
+changed by the player, session 10; or ~3 days of use): **a natural 1 jams it**; clearing takes a beat.
 **Neglected** (a week or more uncleaned, or exposed to mud, grit, vacuum or a gale):
 **jams on 1-3; a natural 1 seizes it**, out of the fight until a smith fixes it. **Las
 guns count one step cleaner.** Never-jam guns (the 'Kasr Frontier') ignore all this,
 and the smith crew post ignores the first jam each fight. **Cleaning:** ~30 minutes a
 gun (DEX training, +0.1 an hour). **Enemies:** cultists and raiders roll **Dirty or
 Neglected** (even chance); pirates **Dirty**; traitors and traitor elites **Clean**.
-The roller prints it. The Light's gun condition is tracked on the campaign sheet.
+The roller prints it. The Light's gun condition is tracked on the campaign sheet (one line under the Full kit:
+only the exceptions are written). **Aboard ship the Light's guns are cleaned routinely, mostly by the
+quartermaster: people hand their guns in to him and he cleans them.**
 
 **Refractor field (set by the player, session 9; reworked session 10).** A worn field
 generator. **Light hits** (anything carapace would shrug off: stub, autogun, las, shotgun
