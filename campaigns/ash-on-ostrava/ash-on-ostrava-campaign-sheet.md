@@ -419,7 +419,7 @@ Companions train **one thing a day for +1.0**; it takes their whole day.
 | Tavi | Demo satchel and breaching | INT |
 | Morcant | Moving and shooting in heavy carapace | STR |
 | Sallow | Field surgery | WIS |
-| Corvane | Shotlas plus sword in one beat | DEX |
+| Corvane | Revolver plus sword in one beat (his duelist move; the shotlas is his door gun, asked for as point) | DEX |
 | Nessa | Stealth, silent movement | DEX |
 | Mira | Strafing runs, precise passes | DEX |
 | Teo | Wingman passes, evasion | DEX |

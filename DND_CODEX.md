@@ -818,6 +818,10 @@ applies is added; each modifier shown in the math.
 7. **Saves:** purity seals (advantage vs warp/plague/madness), Indomitable.
 8. **Will checks:** +1 per finished interrogation manual; hard-method +5% and its risk roll.
 
+**Stacking (set by the player, Ash on Ostrava session 10).** The **same effect from two places counts once**
+(Morcant's suppression -2 is both his role and his specialty: one -2). **Different sources add up** (a leader's
++1 to the side and a Commander's +2 order both apply: +3 on the ordered action).
+
 ### Shots and hits (set by the player, Ash on Ostrava session 10)
 
 What the DM has always done, written down so anyone can run it.
