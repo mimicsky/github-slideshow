@@ -90,4 +90,4 @@ Award XP (the sheet's XP table), check the book is up to date with every day pla
 | [`book.md`](book.md) | Season One as a novel |
 | [`maps/`](maps) | Pictures of *The Bright Light* |
 
-**Cleanup in progress (session 10).** The sheet is being split. Steps: 2 checklist ✓ · 3 DM notes → `dm-notes.md` ✓ · cold-test fixes ✓ · codex map ✓ · 4 write days 17-33 into the book ✓ (Chapters 28-70) · 5 history → `archive.md` · 6 rebuild the sheet · 7 NPCs and missions → `world.md`, gear → `inventory.md` · 8 remove duplicates, rules into the codex · 9 cold test. Update this table as each file appears; delete this note when done.
+**Cleanup in progress (session 10).** The sheet is being split. Steps: 2 checklist ✓ · 3 DM notes → `dm-notes.md` ✓ · cold-test fixes ✓ · codex map ✓ · 4 write days 17-33 into the book ✓ (Chapters 28-70) · 5 history → `archive.md` ✓ · 6 rebuild the sheet · 7 NPCs and missions → `world.md`, gear → `inventory.md` · 8 remove duplicates, rules into the codex · 9 cold test. Update this table as each file appears; delete this note when done.
