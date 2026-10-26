@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1544 warp day 33, Torvane's Mart: under berth 31's tallyman's hatch.** Tavi's krak only half-opened the welded hatch: a ragged gap, one at a time. The whole building heard it; the lower hold above is shouting. The backup six hold the tug dock. Ilsabet is burning the books; Thask is at the Bloom's door upstairs.
+**Where we stopped:** **session 10, ~1545 warp day 33, Torvane's Mart: berth 31's lower hold.** Tamsin wrenched the hatch open and sprang up into the hold with Shameholder and Last Word, the Gut team climbing behind him. Six gardeners in the hold, two going for gas. The alarm bell is ringing; Ilsabet is burning the books; Thask is at the Bloom's door upstairs.
 
 ### Current state (day 33)
 
