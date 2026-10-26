@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1545 warp day 33, Torvane's Mart: berth 31's lower hold.** Tamsin wrenched the hatch open and sprang up into the hold with Shameholder and Last Word, the Gut team climbing behind him. Six gardeners in the hold, two going for gas. The alarm bell is ringing; Ilsabet is burning the books; Thask is at the Bloom's door upstairs.
+**Where we stopped:** **session 10, ~1545 warp day 33, Torvane's Mart: berth 31's lower hold, fight beat 1 done.** Tamsin came up shooting and cut down the gardener with the rot-spore bottle (Action Surge spent); Corvane and Varga are up behind him; the choke gas went down the hatch (everyone masked). Five gardeners still up in the hold. The alarm bell is ringing; Ilsabet is burning the books; Thask is at the Bloom's door upstairs.
 
 ### Current state (day 33)
 
