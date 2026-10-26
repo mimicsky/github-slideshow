@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1410 warp day 33, Torvane's Mart: at the north valve house.** **The Spire's air is back on.** Mira has lifted with the hall's loot for the *Light* and will come back (~1430) for prisoners (8 gardeners breathing) and civilians (16; 12 still buried in the beds); it'll take two runs. The rest of the Light are walking over to Tamsin.
+**Where we stopped:** **session 10, ~1411 warp day 33, Torvane's Mart: the scrubber hall, taken.** **The Spire's air is back on.** The eight breathing gardeners have been executed. The Light are digging the twelve captives out of the mulch beds; Mira is due back ~1430 to fly the civilians to the Spire's medicae (12, then 4).
 
 ### Current state (day 33)
 
@@ -107,7 +107,8 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1406: searching the bodies quietly, Varga found the valve house key ('N. VALVE') on the Lasgun gardener's neck.
 - ~1407-1409: inside the valve house (empty; Tamsin's Perception 20: nothing rigged, the air clean). **Tamsin and his four heaved the override wheel open: the Spire's air is back on (~1409).** Mira relayed Captain Moll: air in the Spire's vents, cheering in the halls.
   - **Reps (tally at day's end):** Tamsin: the Perception (WIS). Varga: found the key (WIS).
-- ~1410: Mira lifted with the hall's loot for the *Light* (back ~1430) to come back for prisoners (8 gardeners breathing) and civilians (16); two runs needed.
+- ~1410: Mira lifted with the hall's loot for the *Light* (back ~1430) to come back for prisoners and civilians; two runs needed.
+- ~1411-1430: Tamsin: civilians first; **the eight breathing gardeners executed** ('of no use to us'). The Light dug the twelve out of the mulch beds: weak and starved, the fungus only skin-deep; all sixteen civilians will live.
 - ~1216: 'INQUISITION, STOP FIRING, WE ARE FRIENDLY' (21): the militia stood down. Sergeant Pim Dorrow: eight left, a pack each, the Hookmen rush the gate every few minutes with a heavy stubber covering from the second bend. The Light took positions along the east wall.
 - ~1218: Tamsin, knowing the auspex has them, scanned the roofs (25): **a man in dark rags lying flat among the aerials on the blockhouse roof behind the Light**, silenced pistol and a frag in hand, watching their backs. He doesn't know he's been seen.
 
