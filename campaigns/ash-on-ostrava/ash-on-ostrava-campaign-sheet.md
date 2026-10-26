@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1550 warp day 33, Torvane's Mart: berth 31's top floor, fight beat 1 done.** Tamsin's impact frag, Corvane's frag and Tavi's krak went over the barricade: all fourteen gardeners behind it are hurt or badly hurt except a psyker, and the barricade is holed. Their frags missed or were dodged; a rot-spore bottle smashed on the landing. A berserker has dosed up; the psyker is charging lightning. Thask is at the Bloom's door at the corridor's end.
+**Where we stopped:** **session 10, ~1552 warp day 33, Torvane's Mart: berth 31's top floor, fight beat 3 done.** The barricade broke: thirteen of fourteen gardeners down (Tey dropped three running). Tamsin took the berserker's last swings on his plate and parried. Varga kicked in Thask's quarters, where the witch (hurt, lightning spent) is cornered. **Thask stands at the Bloom's door at the corridor's end, hands open, talking.**
 
 ### Current state (day 33)
 
