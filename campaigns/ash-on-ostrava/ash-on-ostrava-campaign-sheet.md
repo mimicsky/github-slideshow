@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1520 warp day 33, Torvane's Mart: the pilots' lock at the tug pens, south tip.** The Gut team (Tamsin, Varga, Brenner, Nessa, Tavi, Corvane, Tey, Sallow) is in the lock, about to go into the tug dock and the Gut to berth 31. Mira holds off the south tip out of sight with the backup six (Kell, Dace, Morcant, Isk, Hollis, Sorel). All sixteen civilians are at the Spire. The Spire's air is back on.
+**Where we stopped:** **session 10, ~1524 warp day 33, Torvane's Mart: the tug dock, fight beat 1 done.** Five of the Moebian 6th guarded Thask's back door; the Gut team burst out of the pilots' lock: the Drum guard and the Knife man are down, all four warp-hounds dead. The handler (hurt), the gantry gunner (gun jammed) and a mutant brute with an engine-block flail are still up. Mira holds off the south tip with the backup six.
 
 ### Current state (day 33)
 
