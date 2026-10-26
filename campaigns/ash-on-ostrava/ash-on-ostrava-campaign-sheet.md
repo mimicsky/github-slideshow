@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1524 warp day 33, Torvane's Mart: the tug dock, fight beat 1 done.** Five of the Moebian 6th guarded Thask's back door; the Gut team burst out of the pilots' lock: the Drum guard and the Knife man are down, all four warp-hounds dead. The handler (hurt), the gantry gunner (gun jammed) and a mutant brute with an engine-block flail are still up. Mira holds off the south tip with the backup six.
+**Where we stopped:** **session 10, ~1525 warp day 33, Torvane's Mart: the tug dock, fight beat 2 done.** Four of the five Moebian 6th guards are down (the handler's own frag finished him and the gunner); only the mutant brute with the engine-block flail is still up, grazed, walking in at ~25 m. Mira holds off the south tip with the backup six.
 
 ### Current state (day 33)
 
