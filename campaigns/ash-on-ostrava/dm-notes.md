@@ -20,7 +20,7 @@
   - Why now: Thask moved early because the Light gutted his Ustrennos line (the circle, Hob, Charter 7).
   - The Governor asking for help overrides Kesh's "no open war"; Thask is still wanted alive; the Bloom is on Tamsin's judgment.
   - **Brutal**, run as several fights of 10-30: Valkyrie drop, objective, extract, repeat.
-- **Warp exit (pre-rolled 5, rough):** the Light drops out into the stream of ships fleeing the Mart; a hauler scrapes the dorsal plating (cosmetic).
+- **Warp exit (pre-rolled 5, rough), USED ~1100 day 33:** the Light drops out into the stream of ships fleeing the Mart; a hauler scrapes the dorsal plating (cosmetic).
 - **Faction wealth:** Mart cultists **Good** (74), rolled day 31.
 - **Nemeses this mission:** **Kessick Vay rolled 18: he appears this mission.** Hessler rolled 15: not this time; he grows stronger (better gear or more followers). Details under "Nemeses".
 - **Harvest Lamps (~day 55):** the Bloom turns twelve. What "the garden opens" means is not set yet; let it follow the story.

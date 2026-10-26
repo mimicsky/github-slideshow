@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1050 warp day 33, the Bright Light's bridge, ~10 min before the drop-out at Torvane's Mart**: Tamsin fully kitted per the **Full kit** table (no lift pack: it stays in the container). Mira and Teo at the helm, Brenner at the vox console; Tavi, Hollis, Sallow and Ollin checked kit in the hold.
+**Where we stopped:** **session 10, ~1100 warp day 33, the Bright Light has just dropped out at Torvane's Mart**, on the bridge. Rough exit into a stream of fleeing ships (a hauler scraped the dorsal plating, cosmetic). **Governor Halden Voke's open distress call** is on every band: the Mart is in revolt. The penitents are kitted. Nobody has moved yet.
 
 ### Current state (day 33)
 
@@ -38,7 +38,9 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 
 Safety-net notes, one line per big scene, deleted once the day's chapter is written (README, End of every in-game day).
 
-- *(empty: everything up to ~1050 day 33 is in the book, Chapter 70)*
+- Everything up to ~1050 day 33 is in the book (Chapter 70).
+- ~1051-1059: Tamsin asked where everyone was (sound-off on THE LIGHT); Nessa brought the penitents to the bridge; they told him their weapons experience (Dannel: one shot, at Tamsin; gutting knives. Joren: never fired; cargo hook); Ollin listed the crate; Tamsin gave each a lasgun, bayonet and flak coat, uncuffed them and promised redemption if they prove themselves.
+- ~1100: braced; rough drop-out into fleeing traffic, hauler scrape; Voke's distress call.
 
 ### What the Light knows about Thask
 
