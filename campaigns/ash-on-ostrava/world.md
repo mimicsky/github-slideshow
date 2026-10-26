@@ -86,6 +86,7 @@ People, places, the ship, Kesh's targets and mission briefs. **Not read on resum
 | **Pell Rusk** | Dannel's sister, 11, cannery at ~berth 44, Low Quay, Torvane's Mart | To be freed at the Mart (Dannel + Nessa) |
 | **Governor Halden Voke** | Merchant-baron governing Torvane's Mart, tower on the high side, ~300 customs men | 'The till's man'; sells everything; may tip Thask; to be approached after the mission |
 | **Captain Ressa Moll** (she/her) | Captain of Governor Voke's household guard, Torvane's Mart | Held the Spire with the burgundy-coats through the rising; head bandaged; met Tamsin at the blast doors (day 33) |
+| **Sergeant Pim Dorrow** (he/him) | Militia sergeant holding the vox mast, Torvane's Mart | Eight men left at ~1216 day 33; his man fired on the Light by mistake |
 | **Dagan Crale** | Boss of the Hookmen (dock gang: east dock ring and the cranes), Torvane's Mart | Bought by Thask for the rising; not met (Voke, day 33) |
 | **Old Wick** | Boss of the Tallow Boys (dock gang: the rendering yards and the cannery side round berth 44), Torvane's Mart | Bought by Thask for the rising; not met (Voke, day 33) |
 | **Captain Severin Holt** | Gate Guard captain, held the Spindle | Surrendered; **sent to Kesh with Aldwyn, day 14**. Not a cultist; ashamed |

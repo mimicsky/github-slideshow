@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1215 warp day 33, Torvane's Mart: the top of the vox mast's west-face stair, at the back of the platform.** Tamsin and thirteen of the Light came up unseen by the Hookmen, but a panicked militiaman turned and fired on them (cracked off Corvane's plate); two more militia are turning. Eight militia left at the east wall; ~25 Hookmen on the road below. Sallow and Tavi loading the Valkyrie in the street, then following.
+**Where we stopped:** **session 10, ~1217 warp day 33, Torvane's Mart: the vox mast platform's east wall.** The Light (fourteen) is in position beside Sergeant Dorrow's eight militia, looking down on ~25 Hookmen on the ridge road's top two bends (a rush group of ~12 at the top bend, shooters and a tripod heavy stubber on the second). Sallow and Tavi loading the Valkyrie in the street, then following.
 
 ### Current state (day 33)
 
@@ -69,6 +69,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1202: Tamsin called Mira: pick up the prisoners (and the loot) here, take them to the Spire pad, Ferro to escort them down to the Governor's cells. Mira: ~10 min, putting down in a tram yard ~60 m back. Plan: Sallow and Tavi stay with the loot; the rest push the platform, then the road. Sallow objected (no medic for twenty-five Hookmen).
 - ~1204-1212: Tamsin: Sallow checks the civilians and tends the two, hauls prisoners and gear into the Valk, then comes up to the platform with Tavi. All loot left in a pile (Tamsin's satchel, the penitents' and Tey's carried guns, Kell's pouch). The rest walked the last 400 m without trouble to the foot of the west-face stair (sound and open, d20 18).
 - ~1212-1215: up the stair quiet; at the top a militiaman panicked and fired on the Light (Corvane hit, shrugged).
+- ~1216: 'INQUISITION, STOP FIRING, WE ARE FRIENDLY' (21): the militia stood down. Sergeant Pim Dorrow: eight left, a pack each, the Hookmen rush the gate every few minutes with a heavy stubber covering from the second bend. The Light took positions along the east wall.
 
 ### What the Light knows about Thask
 
