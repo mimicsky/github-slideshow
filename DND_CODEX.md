@@ -885,7 +885,8 @@ A **beat** is one moment of a fight, a few seconds. Everyone acts every beat: **
 
 - **Main thing, pick one:** a **shot string** (up to **3 shots** by default, or the gun's own limit if its entry
   gives one: some 6, full-auto 10); a **throw** or one launcher shot; **one melee swing** (below); or something
-  else: a patch, a reload, venting, clearing a jam, using an item, a lift-pack hop, a sprint.
+  else: a patch, a reload, venting, clearing a jam, using an item, a lift-pack hop, a sprint. **A Jumper hops
+  and shoots in the same beat** (burst up, hover, fire: one main thing; bestiary roles, Jumper).
 - **Melee is one swing a beat.** The attacker swings and the target rolls to defend, all in that beat: it lands,
   is blocked or is parried. **Next beat**, whoever holds the initiative swings: after a block the attacker swings
   again; after a parry the defender does (house rule 5).

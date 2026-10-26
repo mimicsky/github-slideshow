@@ -439,6 +439,10 @@ the jumper may leave cover to get a shot at them; and anyone who shoots at the
 jumper this beat is **open to surprise** from the ground (+2 to attacks against them,
 and they can't react to it).
 
+**Hop and shoot (set by the player, Ash on Ostrava session 10):** a jumper's hop is a burst
+up and a hover, so **a hop and a shot string happen in the same beat** (one main thing for a
+jumper). The airborne penalties apply to that string.
+
 *Side note: traitor elite jumpers take only -1 on their own shots while airborne. They
 hop to high ground, land, shoot from there, then reposition through the air or onto
 the next high point.*
