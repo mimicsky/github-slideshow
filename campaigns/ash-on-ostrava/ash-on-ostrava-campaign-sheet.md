@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1526 warp day 33, Torvane's Mart: the tug dock, fight over.** All five Moebian 6th guards on Thask's back door are dead (Tamsin emptied Stinger into the brute). The Gut's mouth is open behind the gantry. The Gut team (Tamsin, Varga, Brenner, Nessa, Tavi, Corvane, Tey, Sallow) is unhurt; Mira holds off the south tip with the backup six.
+**Where we stopped:** **session 10, ~1543 warp day 33, Torvane's Mart: in the Gut, under berth 31's tallyman's hatch.** The backup six (Kell, Dace, Morcant, Isk, Hollis, Sorel) hold the tug dock. The Gut team (Tamsin, Varga, Brenner, Nessa, Tavi, Corvane, Tey, Sallow) crawled ~300 m to the hatch: **it's been welded shut from above**. A gardener sits right over it; they overheard that Ilsabet is burning the books and the Old Man hasn't left the girl's door since noon.
 
 ### Current state (day 33)
 
@@ -116,6 +116,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1436-1520: Gut team picked: Tamsin, Varga, Brenner, Nessa, Tavi, Corvane, Tey, Sallow; backup with Mira: Kell, Dace, Morcant, Isk, Hollis, Sorel. Mira flew the last four civilians to the Spire (~1450), came back (~1510) and ran both teams low round the rock's outer skin, unseen. ~1520: the Gut team at the tug pens' pilots' lock.
 - ~1521-1526: **the tug dock fight.** Five of the **Moebian 6th** (a rotted Guard regiment; the twist: they've been behind it all) guarded Thask's back door with four warp-hounds. Tamsin's Perception (25) saw them all; Nessa's dart, Tamsin's Vigil, and Brenner, Sallow and Corvane's shots on the hounds; Tamsin's crits dropped the handler, whose own frag killed him and the gunner; Tamsin emptied Stinger into the mutant brute (three crits). All five dead (no prisoners). The Light unhurt.
   - **Reps (tally at day's end):** Tamsin: the Perception (WIS), 4 orders (WIS), the lore of the 6th (INT), 3 Vigil crits, the Stinger string, 3 kills (DEX). Nessa: the dart (DEX). Varga: a hit (DEX). Corvane: 2 hounds (DEX). Brenner: the auspex (INT), a hound (DEX). Sallow: a hound, a natural 20 (DEX). Tey: a hit on the brute (DEX).
+- ~1528-1543: Mira docked the backup six at the pilots' lock to hold the tug dock. The Gut team went into the Gut with only the important stuff (the krak, the discs, the slate), Nessa leading; ~300 m to the tallyman's hatch: welded from above. Overheard: Ilsabet burning the books; the Old Man at the girl's door since noon.
 - ~1216: 'INQUISITION, STOP FIRING, WE ARE FRIENDLY' (21): the militia stood down. Sergeant Pim Dorrow: eight left, a pack each, the Hookmen rush the gate every few minutes with a heavy stubber covering from the second bend. The Light took positions along the east wall.
 - ~1218: Tamsin, knowing the auspex has them, scanned the roofs (25): **a man in dark rags lying flat among the aerials on the blockhouse roof behind the Light**, silenced pistol and a frag in hand, watching their backs. He doesn't know he's been seen.
 
