@@ -23,7 +23,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 - **Health:** everyone Fine (Hollis's shoulder healed by day 33; **Dace's hip healed: the player's call, day 33**). **Varga's shooting eye works** (dressing off day 31): -2 gone; rangefinder +2 past 30 m, targeter +3 aimed, gun link fitted to Mercy by Ferro (day 30).
   Tamsin Fine, wearing his heavy-front plate + refractor field.
 - **Food:** everyone Fed (no cook aboard).
-- **Penitents aboard:** **Dannel Rusk** (cell 2 by night; Corvane's grey cord; clean by the oil; his deal: penitence for his sister Pell's rescue from the cannery; no collar since day 31). **Joren Brisk** (cell 1 by night; clean; his debt to Brannick written off day 31; his mother Annet lives in block 4-E, ring four). Neither carries any kit.
+- **Penitents aboard:** **Dannel Rusk** (cell 2 by night; Corvane's grey cord; clean by the oil; his deal: penitence for his sister Pell's rescue from the cannery; no collar since day 31). **Joren Brisk** (cell 1 by night; clean; his debt to Brannick written off day 31; his mother Annet lives in block 4-E, ring four). Each now has a lasgun (1 pack), a bayonet and a flak coat (day 33).
 - **To crack:** **Haddle's locked slate** and the lad's locked slate (cogged runes; Brenner/Ferro).
 - **Open jobs:** the Valkyrie's flank panel (Dace beats it out, then sealant and paint); recast Shameholder's 12 spare teeth in plasteel (Dace has 1 plasteel for it); Kell's Steady spirit blessing on Officer (2 plasteel with Dace, Ferro and the servo-motor); Isk's lift pack (Ferro, machine-core in stock); Kell's shield arm (Dace, the boarding shield). Rockets for the Valkyrie's pods (none aboard).
 - **Coin:** Tamsin **10.18 TV**; coin box **2,630 Thrones** (Haddle 120 + the master's 200 + ~12; day 29: Hob's 250 + the crate crew's 48; day 31: Brannick's strongbox ~2,000), in Tamsin's cabin. **Brannick's debt ledger** (~70 names on ring four) with Tamsin. Rate 100 Thrones = 1 TV.
@@ -128,7 +128,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 **Guns:** all **Clean** (cleaned aboard, mostly by Ollin when they're handed in). In the field a gun goes **Dirty after about 30 shots** without cleaning. Exceptions: none.
 **Helms:** everyone wears one except Nessa (quiet kit). **Pict-lens helms:** Tamsin, Kell, Isk, Corvane, Hollis, Tavi.
 **Vox-beads:** everyone in the Light wears one on THE LIGHT (confirmed by the player, day 33).
-**Penitents:** Dannel Rusk (he/him) and Joren Brisk (he/him) have **no kit at all** (no weapons, armour or bead) until the player gives them something.
+**Penitents** (kit given by Tamsin, ~1053 day 33): **Dannel Rusk** (he/him) and **Joren Brisk** (he/him) each carry a **lasgun with 1 pack seated, a bayonet and a flak coat**. No helm, no bead, no spare packs.
 **The Valkyrie (Mira, Teo):** a pair of rocket pods, **both empty (0 of 6 rockets)**; nothing else.
 **Open:** Kell's shield arm (still to be fitted); rockets for the Valkyrie's pods (Mira's wish); Isk's laspistol is the player's 'I think'.
 

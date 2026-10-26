@@ -54,18 +54,18 @@ update the Full kit row and this count in the same save.
 
 The Light's container, Container 2 and the hold, all together (what isn't carried by someone).
 
-- **Long guns:** **17 Cadian hellguns** (one to Sorel), ~4 lasguns (the stolen Kantrael went to Ferro-Ashe, day 33), **1 Accatran lascarbine** (Kesh's
+- **Long guns:** **17 Cadian hellguns** (one to Sorel), ~2 lasguns (the stolen Kantrael went to Ferro-Ashe, two to the penitents, day 33), **1 Accatran lascarbine** (Kesh's
   2nd), 3 pump shotguns, the combat-shotgun-and-axe boarding rig, a junk double shotgun and a sawn-off (day 25), 1 spare
   heavy stubber.
 - **Sidearms:** 3 bolt pistols + **21 bolt rounds**, 2 stub revolvers, 1 stub pistol, a stub automatic, Haddle's stub
   pistol, 1 autopistol, 1 compact autopistol (2 mags), the twin-barrel boarding pistol, the **ornate captain's laspistol**
   (+1 single shots), Tamsin's combat shotgun (the jumper's). **Stinger** (the rebuilt Kasr Hornet, on Tamsin, 40-round stick).
 - **Blades:** **Holt's power sabre**, the **captain's power sword** (Ferro's queue), 1 power knife (the other is Nessa's), 1 set of Callidus
-  throwing knives, 2 chain-knives (day 25, day 29), a hive shank (day 29), Navy cutlass, 2 officer's sabres, 4 grapple-cutlasses, 3 boarding axes, 4
-  bayonets, 2 trench clubs, 4 sets of scrap throwing knives (2 from day 29: Hob's and the welder's).
-- **Armour:** **12 sound Gate Guard carapace sets**, 5 chalk-marked, 2 holed; 3 TALLY carapace sets; ~15 flak coats + 3
+  throwing knives, 2 chain-knives (day 25, day 29), a hive shank (day 29), Navy cutlass, 2 officer's sabres, 4 grapple-cutlasses, 3 boarding axes, 2
+  bayonets (2 to the penitents, day 33), 2 trench clubs, 4 sets of scrap throwing knives (2 from day 29: Hob's and the welder's).
+- **Armour:** **12 sound Gate Guard carapace sets**, 5 chalk-marked, 2 holed; 3 TALLY carapace sets; ~13 flak coats (2 to the penitents, day 33) + 3
   battered flak (day 25) + 1 flak armour set (day 29); 1 gas mask (day 29); ~25 helmets; 3 Navy void-suits; no spare grav-chutes (both issued: Varga's lift pack; Isk's frame waits on a machine-core, and one is now in stock); 1 boarding shield.
-- **Ammunition:** **1 crate of autogun rounds (~2,000)**, ~70 hot-shot packs, ~40 las packs, ~320 shotgun shells, 6
+- **Ammunition:** **1 crate of autogun rounds (~2,000)**, ~70 hot-shot packs, ~38 las packs (2 seated in the penitents' lasguns), ~320 shotgun shells, 6
   stubber belts.
 - **Grenades and explosives (in the crate, net of what people carry):** 11 frags, 3 photon flashes, 1 choke gas, 1 scrap pipe-bomb (short fuse; a natural 1 goes off in hand), **2 spec flashes**; **1 melta bomb**, 1
   breaching charge, **28 demo charges**, 1 rot gas bottle (for Kesh). **On people (day 33):** Hollis has 8 frags and his own 2 spec flashes (drum + belt); Tavi took the 2 kraks (3 in all). **The crate is open stock: anyone may grab from it; update both rows.**
@@ -85,7 +85,7 @@ The Light's container, Container 2 and the hold, all together (what isn't carrie
 - **Handed out this session:** Accatrans (Tavi, Brenner), machete + sheath (Brenner), hellpistol (Tey), pict lenses
   (Tamsin, Kell, Isk, Corvane, Hollis, Tavi), chest rig + drag harness + lascarbine + morphia (Sallow), Kesh's needle
   pistol and knives (Nessa), flight jacket (Teo), coupling (Ferro), spec flashes (2 Corvane, 2 Hollis), ripper drum
-  (Morcant), Corvane's revolver, the stolen Kantrael lasgun (Ferro-Ashe, rolled day 33).
+  (Morcant), Corvane's revolver, the stolen Kantrael lasgun (Ferro-Ashe, rolled day 33); 2 lasguns, 2 bayonets, 2 flak coats (Dannel and Joren, day 33). Also back in the crate: Nessa's laspistol, Morcant's old combat pump.
 
 ## Lift packs
 
