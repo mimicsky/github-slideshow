@@ -109,6 +109,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
   - **Reps (tally at day's end):** Tamsin: the Perception (WIS). Varga: found the key (WIS).
 - ~1410: Mira lifted with the hall's loot for the *Light* (back ~1430) to come back for prisoners and civilians; two runs needed.
 - ~1411-1430: Tamsin: civilians first; **the eight breathing gardeners executed** ('of no use to us'). The Light dug the twelve out of the mulch beds: weak and starved, the fungus only skin-deep; all sixteen civilians will live.
+- ~1430: Mira landed for the first twelve civilians (to the Spire's medicae; the last four next run). Brenner laid out what's left on his slate: the customs house, berth 31, Crane Yard 6, the cannery. Sector map updated (~1430).
 - ~1216: 'INQUISITION, STOP FIRING, WE ARE FRIENDLY' (21): the militia stood down. Sergeant Pim Dorrow: eight left, a pack each, the Hookmen rush the gate every few minutes with a heavy stubber covering from the second bend. The Light took positions along the east wall.
 - ~1218: Tamsin, knowing the auspex has them, scanned the roofs (25): **a man in dark rags lying flat among the aerials on the blockhouse roof behind the Light**, silenced pistol and a frag in hand, watching their backs. He doesn't know he's been seen.
 
