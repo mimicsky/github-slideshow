@@ -126,6 +126,8 @@ The Ustrennos library books went back on day 31; unfinished ones keep only the h
 
 ## Wishlist (on the book crate)
 
+- **Rebreathers for Tey, Sorel, Dannel and Joren** (the rest of the Light carry their own; added day 33).
+
 - **Wishlist (on the book crate):** Morcant drums x4 + compensator; Tavi kraks, melta bomb, sapper's charge rig; Tey a
   holster that fits; Isk range-finder sight, (machine-core for his lift pack via Ferro); Hollis grenade
   bandolier, command bead, map-slate; Teo pilot glasses; Mira Valk rockets; Nessa toxin darts, lockpicks; Corvane

@@ -93,6 +93,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1320-1340: Leg guy on Crale: old crane-jockey, a cargo hook for a left hand, took Thask's coin a month ago, watches the fights from his crane cab in the yards. Tamsin walked off to wait for the Valkyrie. ~1335 Mira landed in the yard two streets north with Kell, Sallow, Tey and Sorel; Sallow triaged the civilians; the family (5), the crash's three injured and the three prisoners flew to the Spire (medicae and cells).
 - ~1342: Tamsin's plan: push the scrubber hall now, masks on the whole time, no prisoners (leave the downed where they fall), fight from range. The air from the ring's vents near the hall smells sweet, like rotting fruit and incense. **Sallow has only 7 filters** for the 13 who need them (Tamsin has his rebreather); the rest are in the crate on the ship. The militia have no masks. Brenner's read on the hall (9): heat everywhere under the plating, the fans and vats drown it, no count.
 - ~1344: Tamsin thanked the militia and sent them back to the Spire to regroup; Sergeant Dorrow led his six north, **detouring by the chandler's on the west ring to collect the four tied Tallow Boys** for the Spire's cells. **The vox mast is unguarded now.**
+- ~1346 (corrected by the player): the Light do carry rebreathers on their belts (the Full kit table had missed them); only Tey and Sorel (and the penitents) don't, so Sallow straps filters on Tey and Sorel and keeps 5.
 - ~1216: 'INQUISITION, STOP FIRING, WE ARE FRIENDLY' (21): the militia stood down. Sergeant Pim Dorrow: eight left, a pack each, the Hookmen rush the gate every few minutes with a heavy stubber covering from the second bend. The Light took positions along the east wall.
 - ~1218: Tamsin, knowing the auspex has them, scanned the roofs (25): **a man in dark rags lying flat among the aerials on the blockhouse roof behind the Light**, silenced pistol and a frag in hand, watching their backs. He doesn't know he's been seen.
 
@@ -163,28 +164,29 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 | Who (role · pronouns) | Guns | Blades and melee | Armour and helm | Other kit |
 | --- | --- | --- | --- | --- |
 | **Tamsin** (Interrogator, commander) · he/him | **Vigil** (hellgun) + new coil; blessing *Korren's breath*: crits 17-20, each crit +1 heat, vent a beat at 3 heat, firing anyway at 3 heat: d20, 1-5 cracks the coil; heat clears after venting or at the fight's end; 1 pack in + 2 spare. **Last Word** (duelling laspistol) + hair trigger, laser sight on Dace's banded rail; right thigh. **Stinger** (Kasr Hornet machine pistol, **rebuilt** by Dace) + new frame with top and under rails, new bolt and heavy buffer spring (jams only past 25 straight rounds), custom barrel (+1 aimed, +1 past 30 m), its own hair trigger, now with a pressure-pin safety, safety lever, new mag catch, stock off; 2 sticks of 40 (one at 30 after the Spire pad, day 33) | **Shameholder** (chainsword) + overdrive (once a mission), on his back; combat knife (Vigil's bayonet) | Carapace chest plate with Dace's riveted ceramite front: **heavy carapace from the front**, carapace from the side and back, over flak; refractor field; helm with pict lens; void-mask; rebreather | 2 impact frags, 1 frag, 1 smoke; Munitorum satchel (salve; back from Sallow at the mast, day 33; his personal field dressing used on Joren; **the gunship pilot's stub pistol**, taken off him outside the tenement; from the crash survivors: a speedloader and a spare Hammerfall cylinder (fits the Hammerfall auto-revolver in the crate), a combat knife, a carton of lho-sticks, **102 Thrones**); **in his pocket:** the pilot's cord with the gunship's ignition key, an iron padlock key and the **CY-6** dock tag; warrant on its chain; medal in his pocket; thigh holster (Last Word); back scabbard (Shameholder). **No lift pack** (stays in the container) |
-| **Kell** (Light-bringer sergeant, assault) · he/him | **Officer** (hellgun) + tube stock, Dace's fore-grip; Tessaly's plasma pistol (plasma pistol; her small 4-shot cell + 1 spare; a standard cell holds 8) | chain axe; Schola fighting knife | Carapace; helm with pict lens. Shield arm **still to be fitted** (Dace; the boarding shield is in the container) | axe hip hanger |
-| **Varga** (Light-bringer, rifle/jumper) · she/her | **Mercy** (hellgun) + tap-button, reflex sight, gun-link port to her eye; laspistol | sharpened Krieg trench shovel | Carapace; helm | shooting eye; lift pack (**empty since the mast, day 33: recharge ~2 h on a station**); **no grenades** |
-| **Dace** (Light-bringer, melee/smith) · he/him | none (no autopistol) | **Promise Holder** (plasteel sword, masterwork: +1 attacks and parries in the exchange, never dulls, cuts flak, finds carapace gaps on a raw 17+); **Threshold** (sword) | Carapace; breaching shield (forged, viewing slot); helm | hip healed |
-| **Hollis** (Light-bringer, grenadier) · he/him | hellgun (Cadian); **Six Bells** (revolver-drum grenade launcher; backup); hand flamer (close quarters) | none | Carapace; helm with pict lens | **Six Bells' drum loaded** (1 left: the spec flash; 3 frags fired at the Spire pad, 2 at the mast, day 33); **3 grenades on him** (1 frag thrown at the mast, day 33): 1 frag clipped on, a pouch of 2 (1 frag, 1 spec flash) |
-| **Brenner** (Light-bringer, vox) · he/him | Accatran lascarbine (no laspistol) | machete; Navy cutting torch | Carapace; helm | vox-caster; auspex; data-spike; splicer kit; machete sheath; belt pouches |
-| **Isk** (Light-bringer, sniper) · he/him | **Patience** (hellgun, marksman) + long barrel, finer focusing lens, low-light scope; laspistol (sidearm) | none | Carapace; helm with pict lens | prayer token; grey cloak (made from his old kit) |
-| **Tavi** (Light-bringer, demolitions) · he/him | **Tiny** (Accatran lascarbine) + hot-shot conversion | none | Carapace; helm with pict lens | demo satchel and detonator; **a second demo satchel** (the Hookmen's stolen one, from the vox mast, day 33); 1 breaching charge; **3 kraks**; cutting charge; charge bag |
-| **Morcant** (Light-bringer, heavy) · he/him | heavy stubber (belts); **Doorknocker** (ripper gun, drum-fed shotgun) + 1 spare drum (it replaced his combat pump, now in the crate) | shock maul | Wren's **heavy carapace**; helm | none assigned |
-| **Sallow** (Light-bringer, medic) · she/her | lascarbine (Kesh's; no laspistol) | none | Carapace; helm | chest rig with the drag harness; belt pouch; **the Bag** (10 antitoxin, **7 stimms** (3 used at the mast, day 33), morphia, **7 plague-ward filters** (counted day 33; the rest are in the crate), **the SCIHU stim**) |
-| **Corvane** (Light-bringer, duelist) · he/him | his revolver (stub revolver, **rebuilt** by Dace) + fast action (3-shot chains, no light strikes), ghost-ring sights (+1 inside 15 m), safe-action blade (not drop-prone), plasteel hammer; white and grey, in Dace's cut-down holster. **Shotlas** (las-scattergun): his duelist gun, fired one-handed; the revolver is his sidearm | power sword (the Gate Guard officer's; unnamed; field fixed by Ferro); combat knife | Carapace; helm with pict lens | 2 spec flashes; belt pouch; power-sword scabbard |
-| **Nessa** (Light-bringer, infiltrator) · she/her | needle pistol (Kesh's; toxin darts) | **the Sisters** (Callidus throwing knives, 6) + her own 2 throwing knives; power knife | Chest-only carapace; **no helm** (quiet kit) | 2 smoke grenades; belt pouch (her laspistol went back to the crate) |
+| **Kell** (Light-bringer sergeant, assault) · he/him | **Officer** (hellgun) + tube stock, Dace's fore-grip; Tessaly's plasma pistol (plasma pistol; her small 4-shot cell + 1 spare; a standard cell holds 8) | chain axe; Schola fighting knife | Carapace; helm with pict lens. Shield arm **still to be fitted** (Dace; the boarding shield is in the container) | axe hip hanger; rebreather |
+| **Varga** (Light-bringer, rifle/jumper) · she/her | **Mercy** (hellgun) + tap-button, reflex sight, gun-link port to her eye; laspistol | sharpened Krieg trench shovel | Carapace; helm | shooting eye; lift pack (**empty since the mast, day 33: recharge ~2 h on a station**); **no grenades**; rebreather |
+| **Dace** (Light-bringer, melee/smith) · he/him | none (no autopistol) | **Promise Holder** (plasteel sword, masterwork: +1 attacks and parries in the exchange, never dulls, cuts flak, finds carapace gaps on a raw 17+); **Threshold** (sword) | Carapace; breaching shield (forged, viewing slot); helm | hip healed; rebreather |
+| **Hollis** (Light-bringer, grenadier) · he/him | hellgun (Cadian); **Six Bells** (revolver-drum grenade launcher; backup); hand flamer (close quarters) | none | Carapace; helm with pict lens | **Six Bells' drum loaded** (1 left: the spec flash; 3 frags fired at the Spire pad, 2 at the mast, day 33); **3 grenades on him** (1 frag thrown at the mast, day 33): 1 frag clipped on, a pouch of 2 (1 frag, 1 spec flash); rebreather |
+| **Brenner** (Light-bringer, vox) · he/him | Accatran lascarbine (no laspistol) | machete; Navy cutting torch | Carapace; helm | vox-caster; auspex; data-spike; splicer kit; machete sheath; belt pouches; rebreather |
+| **Isk** (Light-bringer, sniper) · he/him | **Patience** (hellgun, marksman) + long barrel, finer focusing lens, low-light scope; laspistol (sidearm) | none | Carapace; helm with pict lens | prayer token; grey cloak (made from his old kit); rebreather |
+| **Tavi** (Light-bringer, demolitions) · he/him | **Tiny** (Accatran lascarbine) + hot-shot conversion | none | Carapace; helm with pict lens | demo satchel and detonator; **a second demo satchel** (the Hookmen's stolen one, from the vox mast, day 33); 1 breaching charge; **3 kraks**; cutting charge; charge bag; rebreather |
+| **Morcant** (Light-bringer, heavy) · he/him | heavy stubber (belts); **Doorknocker** (ripper gun, drum-fed shotgun) + 1 spare drum (it replaced his combat pump, now in the crate) | shock maul | Wren's **heavy carapace**; helm | rebreather |
+| **Sallow** (Light-bringer, medic) · she/her | lascarbine (Kesh's; no laspistol) | none | Carapace; helm | chest rig with the drag harness; belt pouch; **the Bag** (10 antitoxin, **7 stimms** (3 used at the mast, day 33), morphia, **5 plague-ward filters** (7 counted day 33; 2 strapped on Tey and Sorel at the scrubber hall; the rest are in the crate), **the SCIHU stim**); rebreather |
+| **Corvane** (Light-bringer, duelist) · he/him | his revolver (stub revolver, **rebuilt** by Dace) + fast action (3-shot chains, no light strikes), ghost-ring sights (+1 inside 15 m), safe-action blade (not drop-prone), plasteel hammer; white and grey, in Dace's cut-down holster. **Shotlas** (las-scattergun): his duelist gun, fired one-handed; the revolver is his sidearm | power sword (the Gate Guard officer's; unnamed; field fixed by Ferro); combat knife | Carapace; helm with pict lens | 2 spec flashes; belt pouch; power-sword scabbard; rebreather |
+| **Nessa** (Light-bringer, infiltrator) · she/her | needle pistol (Kesh's; toxin darts) | **the Sisters** (Callidus throwing knives, 6) + her own 2 throwing knives; power knife | Chest-only carapace; **no helm** (quiet kit) | 2 smoke grenades; belt pouch (her laspistol went back to the crate); rebreather |
 | **Tey** (Light Trainee, grunt) · he/him | hellpistol (Kantrael) + laser sight; no hair trigger; no laspistol (swapped for the hellpistol) | none | Carapace; helm | holster (rides crooked; a better one is on the wishlist) |
 | **Sorel** (Light Trainee, tracker) · he/him | hellgun (Cadian; given by Tamsin) | none | Carapace; helm | none assigned |
-| **Mira** (Light-pilot) · she/her | laspistol | none | Pilot's flak vest; helm | flies the Valkyrie |
-| **Teo** (Light-pilot) · he/him | laspistol | none | Flight jacket over a pilot's flak vest; helm | flies the Valkyrie |
-| **Ferro-Ashe** (Light-tech-priest) · he/him | **Kantrael lasgun** (the stolen one; picked by roll, day 33, d8 = 4) | none | Flak-weave robes; helm | thermal optics; mechadendrites and tools |
-| **Ollin Brake** (Light's Quartermaster) · he/him | none | none | Coat | slate; stays aboard |
+| **Mira** (Light-pilot) · she/her | laspistol | none | Pilot's flak vest; helm | flies the Valkyrie; rebreather |
+| **Teo** (Light-pilot) · he/him | laspistol | none | Flight jacket over a pilot's flak vest; helm | flies the Valkyrie; rebreather |
+| **Ferro-Ashe** (Light-tech-priest) · he/him | **Kantrael lasgun** (the stolen one; picked by roll, day 33, d8 = 4) | none | Flak-weave robes; helm | thermal optics; mechadendrites and tools; rebreather |
+| **Ollin Brake** (Light's Quartermaster) · he/him | none | none | Coat | slate; stays aboard; rebreather |
 
 **Guns:** all **Clean** (cleaned aboard, mostly by Ollin when they're handed in). In the field a gun goes **Dirty after about 30 shots** without cleaning. Exceptions: **Morcant's heavy stubber Dirty** (six long bursts at the mast, day 33).
 **Helms:** everyone wears one except Nessa (quiet kit). **Pict-lens helms:** Tamsin, Kell, Isk, Corvane, Hollis, Tavi.
 **Vox-beads:** everyone in the Light wears one on THE LIGHT (confirmed by the player, day 33).
-**Penitents** (kit given by Tamsin, ~1053 day 33): **Dannel Rusk** (he/him) and **Joren Brisk** (he/him) each carry a **lasgun with 1 pack seated, a bayonet and a flak coat**. No helm, no bead, no spare packs. **Stats (rolled day 33, civilians):** Dannel STR 27 / DEX 15; Joren STR 23 / DEX 12 (others not rolled).
+**Rebreathers:** everyone carries one on the belt (as in the book) **except Tey, Sorel and the two penitents**, who need them bought (on the wishlist). Tamsin's is the double-filtered plague rebreather.
+**Penitents** (kit given by Tamsin, ~1053 day 33): **Dannel Rusk** (he/him) and **Joren Brisk** (he/him) each carry a **lasgun with 1 pack seated, a bayonet and a flak coat**. No helm, no bead, no rebreather, no spare packs. **Stats (rolled day 33, civilians):** Dannel STR 27 / DEX 15; Joren STR 23 / DEX 12 (others not rolled).
 **The Valkyrie (Mira, Teo):** a pair of rocket pods, **both empty (0 of 6 rockets)**; nothing else.
 **Open:** Kell's shield arm (still to be fitted); rockets for the Valkyrie's pods (Mira's wish); Isk's laspistol is the player's 'I think'.
 
@@ -292,23 +294,23 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 
 | | STR | DEX | CON | INT | WIS | CHA | State |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Kell** | 40 | 37.3 | 30 | 10 | 26 | 10 | Fine. |
-| **Varga** | 25 | 41 | 25 | 10 | 26.7 | 5.1 | Fine. |
-| **Dace** | 25.2 | 22.7 | 20 | 28.2 | 5.4 | 5 | Fine (hip healed by day 33). |
+| **Kell** | 40 | 37.3 | 30 | 10 | 26 | 10 | Fine.; rebreather |
+| **Varga** | 25 | 41 | 25 | 10 | 26.7 | 5.1 | Fine.; rebreather |
+| **Dace** | 25.2 | 22.7 | 20 | 28.2 | 5.4 | 5 | Fine (hip healed by day 33).; rebreather |
 | **Sorel** | 40.5 | 32 | 29 | 18 | 27.6 | 14 | Fine. Tracker; hive clearance +2. |
 | **Tey** | 17.6 | 43.3 | 28.1 | 14.1 | 9.2 | 14 | Fine. Grunt; **pistol focus (gunslinger) +1** (day 32 = drill day 17; next +1 at drill day 20, ~day 35; +1 per 10 drill days to +5). Pistol drill nightly; 5 for 5 under Varga at dawn on day 32. His flinch came from a long trigger pull (a hair trigger would beat it; not fitted). **At Tamsin's side from day 16: goes everywhere with him, into the action.** |
-| **Hollis** | 28.2 | 41.8 | 32 | 17 | 25.7 | 12 | Fine. |
-| **Brenner** | 21 | 28.3 | 26 | 41.5 | 18.3 | 10 | Fine. |
-| **Isk** | 19 | 47.8 | 28 | 13.5 | 33.7 | 10 | Fine. |
-| **Tavi** | 19.6 | 36.6 | 23 | 32.9 | 17.2 | 17 | Fine. |
-| **Morcant** | 48.8 | 24.3 | 33 | 15 | 19.2 | 17 | Fine. |
-| **Sallow** | 20 | 32.3 | 22 | 25 | 40.7 | 20 | Fine. |
-| **Corvane** | 28.6 | 43.6 | 31.2 | 21.5 | 20.2 | 22 | Fine. |
-| **Nessa** | 17.2 | 49.1 | 18 | 21.1 | 29.1 | 27.3 | Fine. |
-| **Mira** | 14 | 42.5 | 20 | 32.6 | 30.2 | 15 | Fine. |
-| **Teo** | 18.1 | 42.4 | 18 | 26.6 | 19.2 | 28 | Fine. |
-| **Ferro-Ashe** | 19 | 25.3 | 20 | 44.8 | 19.2 | 12 | Fine. |
-| **Ollin Brake** | 18 | 17 | 25 | 23.5 | 18 | 17.1 | Fine. Haggles d20 + CHA bonus (+1); cleans handed-in guns. |
+| **Hollis** | 28.2 | 41.8 | 32 | 17 | 25.7 | 12 | Fine.; rebreather |
+| **Brenner** | 21 | 28.3 | 26 | 41.5 | 18.3 | 10 | Fine.; rebreather |
+| **Isk** | 19 | 47.8 | 28 | 13.5 | 33.7 | 10 | Fine.; rebreather |
+| **Tavi** | 19.6 | 36.6 | 23 | 32.9 | 17.2 | 17 | Fine.; rebreather |
+| **Morcant** | 48.8 | 24.3 | 33 | 15 | 19.2 | 17 | Fine.; rebreather |
+| **Sallow** | 20 | 32.3 | 22 | 25 | 40.7 | 20 | Fine.; rebreather |
+| **Corvane** | 28.6 | 43.6 | 31.2 | 21.5 | 20.2 | 22 | Fine.; rebreather |
+| **Nessa** | 17.2 | 49.1 | 18 | 21.1 | 29.1 | 27.3 | Fine.; rebreather |
+| **Mira** | 14 | 42.5 | 20 | 32.6 | 30.2 | 15 | Fine.; rebreather |
+| **Teo** | 18.1 | 42.4 | 18 | 26.6 | 19.2 | 28 | Fine.; rebreather |
+| **Ferro-Ashe** | 19 | 25.3 | 20 | 44.8 | 19.2 | 12 | Fine.; rebreather |
+| **Ollin Brake** | 18 | 17 | 25 | 23.5 | 18 | 17.1 | Fine. Haggles d20 + CHA bonus (+1); cleans handed-in guns.; rebreather |
 
 ## Hidden notes
 
