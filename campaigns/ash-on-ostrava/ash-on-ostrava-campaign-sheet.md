@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1358 warp day 33, Torvane's Mart: inside the scrubber hall, fight beat 1 done.** The Light hit the busy gardeners by surprise: both crank men, a bed tender and the breacher are down, but the winch's brake slipped and **the cage with four captives plunged under the vat's sludge**, and a rot-spore bottle cracked on the vat rim. Corvane is on the Singer. The Spire has ~9 hours of air.
+**Where we stopped:** **session 10, ~1359 warp day 33, Torvane's Mart: inside the scrubber hall, fight beat 2 done.** Nine of eleven gardeners down; Corvane is dueling the Singer in the rot-spore fog at the vat's edge; the flamer is running for the back of the hall. **The cage with four captives is still under the vat's sludge.** Vigil must vent. The Spire has ~9 hours of air.
 
 ### Current state (day 33)
 
