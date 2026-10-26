@@ -178,6 +178,7 @@
   - The girl, asked who her father is: Orlen Thask. 'Father keeps me safe. He says the air outside makes people sick. Everyone except me.' Ilsabet is her sister.
 - **~1557:** Tamsin, angrier than the Light have ever seen him, on the vox: 'Everyone on this place now, we are sweeping this place clean. That's an order.' To Varga: 'Load up the loot and the prisoners. I'll be back.' (Assumed: Varga takes Thask up to the roof; Sallow carries the girl to the Valkyrie.) **Mira lands team B on berth 31's roof ~1600**; Kell's six come down to sweep the building. Tamsin went down alone to the counting room; **Tey followed (his standing place at Tamsin's side)**.
 - **The counting room (rolled ~1558):** **door locked** (d6 3; frosted glass); **Ilsabet alone** (d20 2), **unarmed** (d20 16). **Thask's strongbox is in here** (d20 15): 10,000 Thrones. The ledger fire: ~15 of ~40 minutes burned (roughly a third gone; ash by ~1623 if she keeps feeding it). Ilsabet (now set): about thirty, spectacles, hair pinned up, ink-stained fingers, sleeves rolled, soot on her face; feeding ledgers into an iron stove one by one.
+  - **~1558:** Tamsin reloaded Stinger (full 40) and drew it with his combat knife in his off hand (Shameholder on his back, Last Word holstered). None of his keys (gunship ignition, CY-6 padlock) fit the counting room lock.
 
 
 
