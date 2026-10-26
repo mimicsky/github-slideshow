@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1212 warp day 33, Torvane's Mart: the foot of the vox mast's west-face maintenance stair.** Tamsin and thirteen of the Light (Kell, Varga, Dace, Hollis, Brenner, Isk, Morcant, Corvane, Nessa, Tey, Sorel, Dannel, Joren) are about to climb to the back of the platform; the militia (~11) up top don't know they're coming. Sallow and Tavi stayed in the street with the loot, Old Wick and his two men and the four civilians, to load them on the Valkyrie (Mira and Ferro, ~10 min) and then follow to the platform. All the loot and Kell's coin pouch (425 Thrones) go back to the *Light*; Sallow brings Tamsin's satchel (salve) back up with her ('bring my bag back after you load it in the ship').
+**Where we stopped:** **session 10, ~1215 warp day 33, Torvane's Mart: the top of the vox mast's west-face stair, at the back of the platform.** Tamsin and thirteen of the Light came up unseen by the Hookmen, but a panicked militiaman turned and fired on them (cracked off Corvane's plate); two more militia are turning. Eight militia left at the east wall; ~25 Hookmen on the road below. Sallow and Tavi loading the Valkyrie in the street, then following.
 
 ### Current state (day 33)
 
@@ -68,6 +68,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1158-1200: Sallow patched Wick to Hurt (13+8 = 21); Brenner's scan (17): that's all of them, nothing coming, the mast platform ~11, the ridge road ~25; the civilians cut loose (a dock clerk, a woman, an old man, a boy ~14: rope burns and bruises); Wick's crew searched: 312 Thrones, nothing rare. Reps: Sallow (WIS), Brenner (INT).
 - ~1202: Tamsin called Mira: pick up the prisoners (and the loot) here, take them to the Spire pad, Ferro to escort them down to the Governor's cells. Mira: ~10 min, putting down in a tram yard ~60 m back. Plan: Sallow and Tavi stay with the loot; the rest push the platform, then the road. Sallow objected (no medic for twenty-five Hookmen).
 - ~1204-1212: Tamsin: Sallow checks the civilians and tends the two, hauls prisoners and gear into the Valk, then comes up to the platform with Tavi. All loot left in a pile (Tamsin's satchel, the penitents' and Tey's carried guns, Kell's pouch). The rest walked the last 400 m without trouble to the foot of the west-face stair (sound and open, d20 18).
+- ~1212-1215: up the stair quiet; at the top a militiaman panicked and fired on the Light (Corvane hit, shrugged).
 
 ### What the Light knows about Thask
 
