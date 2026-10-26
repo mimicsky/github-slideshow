@@ -56,21 +56,21 @@ The Light's container, Container 2 and the hold, all together (what isn't carrie
 
 - **Long guns:** **17 Cadian hellguns** (one to Sorel), ~2 lasguns (the stolen Kantrael went to Ferro-Ashe, two to the penitents, day 33), **1 Accatran lascarbine** (Kesh's
   2nd), 3 pump shotguns, the combat-shotgun-and-axe boarding rig, a junk double shotgun and a sawn-off (day 25), 1 spare
-  heavy stubber.
+  heavy stubber. **Spire pad loot (day 33, unloaded ~1127; Ollin to clean):** 2 ripper guns (the Ogryn's, Dirty, full drum; the ripper gunner's, Neglected, half a drum + 1 spare drum; the drums fit Doorknocker), 2 junk shotguns (1 Neglected, 1 Dirty), 1 pump combat shotgun (Dirty).
 - **Sidearms:** 3 bolt pistols + **21 bolt rounds**, 2 stub revolvers, 1 stub pistol, a stub automatic, Haddle's stub
   pistol, 1 autopistol, 1 compact autopistol (2 mags), the twin-barrel boarding pistol, the **ornate captain's laspistol**
-  (+1 single shots), Tamsin's combat shotgun (the jumper's). **Stinger** (the rebuilt Kasr Hornet, on Tamsin, 40-round stick).
+  (+1 single shots), Tamsin's combat shotgun (the jumper's). **Stinger** (the rebuilt Kasr Hornet, on Tamsin, 40-round stick). **Spire pad loot (day 33):** 3 autopistols (the gunslinger's matched pair, a ganger's; Dirty), a Hammerfall auto-revolver (Dirty).
 - **Blades:** **Holt's power sabre**, the **captain's power sword** (Ferro's queue), 1 power knife (the other is Nessa's), 1 set of Callidus
-  throwing knives, 2 chain-knives (day 25, day 29), a hive shank (day 29), Navy cutlass, 2 officer's sabres, 4 grapple-cutlasses, 3 boarding axes, 2
-  bayonets (2 to the penitents, day 33), 2 trench clubs, 4 sets of scrap throwing knives (2 from day 29: Hob's and the welder's).
+  throwing knives, 2 chain-knives (day 25, day 29), 3 hive shanks (day 29; 2 from the Spire pad, day 33), a stolen shock baton and 2 combat knives (Spire pad, day 33), a combat axe (Spire pad), Navy cutlass, 2 officer's sabres, 4 grapple-cutlasses, 3 boarding axes, 2
+  bayonets (2 to the penitents, day 33), 2 trench clubs, 5 sets of scrap throwing knives (2 from day 29: Hob's and the welder's; 1 the Ogryn's, day 33).
 - **Armour:** **12 sound Gate Guard carapace sets**, 5 chalk-marked, 2 holed; 3 TALLY carapace sets; ~13 flak coats (2 to the penitents, day 33) + 3
-  battered flak (day 25) + 1 flak armour set (day 29); 1 gas mask (day 29); ~25 helmets; 3 Navy void-suits; no spare grav-chutes (both issued: Varga's lift pack; Isk's frame waits on a machine-core, and one is now in stock); 1 boarding shield.
+  battered flak (day 25) + 1 flak armour set (day 29); 1 gas mask (day 29); the Spire-pad gunslinger's long leather coat (two holes) and 2 sets of gang leathers (day 33); ~25 helmets; 3 Navy void-suits; no spare grav-chutes (both issued: Varga's lift pack; Isk's frame waits on a machine-core, and one is now in stock); 1 boarding shield.
 - **Ammunition:** **1 crate of autogun rounds (~2,000)**, ~70 hot-shot packs, ~38 las packs (2 seated in the penitents' lasguns), ~320 shotgun shells, 6
   stubber belts.
-- **Grenades and explosives (in the crate, net of what people carry):** 11 frags, 3 photon flashes, 1 choke gas, 1 scrap pipe-bomb (short fuse; a natural 1 goes off in hand), **2 spec flashes**; **1 melta bomb**, 1
-  breaching charge, **28 demo charges**, 1 rot gas bottle (for Kesh). **On people (day 33):** Hollis has 8 frags and his own 2 spec flashes (drum + belt); Tavi took the 2 kraks (3 in all). **The crate is open stock: anyone may grab from it; update both rows.**
+- **Grenades and explosives (in the crate, net of what people carry):** 13 frags (2 from the Spire pad, day 33), 3 photon flashes, 1 choke gas, 1 scrap pipe-bomb (short fuse; a natural 1 goes off in hand), **2 spec flashes**; **1 melta bomb**, 1
+  breaching charge, **28 demo charges**, 1 rot gas bottle (for Kesh). **On people (day 33, after the Spire pad):** Hollis has 5 frags and 2 spec flashes (Six Bells' drum: 2 frags + 1 spec flash; on him: 3 frags + 1 spec flash); Tavi has 3 kraks. The Full kit table is the authority for what people carry. **The crate is open stock: anyone may grab from it; update both rows.**
 - **Kit:** a bandolier, 2 belt side-pouches, a demolitions bag, ~23 spare vox-beads, the vox-horn. (The 2 laser sights: fitted day 32, Last Word and Tey's hellpistol.)
-- **Medicae (beyond Sallow's):** ~11 antitoxin, ~5 stimms, plague-ward filters and salve, a fleet medicae crate,
+- **Medicae (beyond Sallow's):** ~11 antitoxin, ~6 stimms (1 from the Spire pad), **3 Quicksilver doses** (Spire pad, day 33), plague-ward filters and salve, a fleet medicae crate,
   **1 SCIHU stim** (in Sallow's Bag).
 - **Salvage and parts:** plasteel **with Dace** (1/4 spent day 32 on Last Word's banded rail) (6 from Kesh/shops, for the Hornet frame, Shameholder's teeth, Kell's
   blessing; his own 2 in his blade), **1 ceramite**, 1 servo-motor, **1 machine-core** (Merrick, day 31), a seized Rattler scrap SMG (day 29, needs a smith), ~18 station power cells, copper
