@@ -21,7 +21,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
   the Valkyrie (not the ship) if it goes loud; Nessa + Dannel to the **cannery at ~berth 44 (tin chutes)** for **Pell
   Rusk** (11); second hit (ledger/loot) decided on the ground; governor after the mission.
 - **Health:** everyone Fine (Hollis's shoulder healed by day 33; **Dace's hip healed: the player's call, day 33**). **Varga's shooting eye works** (dressing off day 31): -2 gone; rangefinder +2 past 30 m, targeter +3 aimed, gun link fitted to Mercy by Ferro (day 30).
-  Tamsin Fine, wearing heavy carapace front + refractor field.
+  Tamsin Fine, wearing his ceramite-front plate + refractor field.
 - **Food:** everyone Fed (no cook aboard).
 - **Penitents aboard:** **Dannel Rusk** (cell 2 by night; Corvane's grey cord; clean by the oil; his deal: penitence for his sister Pell's rescue from the cannery; no collar since day 31). **Joren Brisk** (cell 1 by night; clean; his debt to Brannick written off day 31; his mother Annet lives in block 4-E, ring four). Neither carries any kit.
 - **To crack:** **Haddle's locked slate** and the lad's locked slate (cogged runes; Brenner/Ferro).
@@ -106,7 +106,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 
 | Who (role · pronouns) | Guns | Blades and melee | Armour and helm | Other kit |
 | --- | --- | --- | --- | --- |
-| **Tamsin** (Interrogator, commander) · he/him | **Vigil** (hellgun) + new coil; blessing *Korren's breath*: crits 17-20, each crit +1 heat, vent a beat at 3 heat, firing anyway at 3 heat: d20, 1-5 cracks the coil; heat clears after venting or at the fight's end; 1 pack in + 2 spare. **Last Word** (duelling laspistol) + hair trigger, laser sight on Dace's banded rail; right thigh. **Stinger** (Kasr Hornet machine pistol, **rebuilt** by Dace) + new frame with top and under rails, new bolt and heavy buffer spring (jams only past 25 straight rounds), custom barrel (+1 aimed, +1 past 30 m), its own hair trigger, now with a pressure-pin safety, safety lever, new mag catch, stock off; 2 sticks of 40 | **Shameholder** (chainsword) + overdrive (once a mission), on his back; combat knife (Vigil's bayonet) | Heavy carapace front over flak; refractor field; helm with pict lens; void-mask; rebreather | 2 impact frags, 1 frag, 1 smoke; Munitorum satchel (salve); warrant on its chain; medal in his pocket; thigh holster (Last Word); back scabbard (Shameholder). **No lift pack** (stays in the container) |
+| **Tamsin** (Interrogator, commander) · he/him | **Vigil** (hellgun) + new coil; blessing *Korren's breath*: crits 17-20, each crit +1 heat, vent a beat at 3 heat, firing anyway at 3 heat: d20, 1-5 cracks the coil; heat clears after venting or at the fight's end; 1 pack in + 2 spare. **Last Word** (duelling laspistol) + hair trigger, laser sight on Dace's banded rail; right thigh. **Stinger** (Kasr Hornet machine pistol, **rebuilt** by Dace) + new frame with top and under rails, new bolt and heavy buffer spring (jams only past 25 straight rounds), custom barrel (+1 aimed, +1 past 30 m), its own hair trigger, now with a pressure-pin safety, safety lever, new mag catch, stock off; 2 sticks of 40 | **Shameholder** (chainsword) + overdrive (once a mission), on his back; combat knife (Vigil's bayonet) | Carapace chest plate with a **ceramite-forged front** (ceramite-forged from the front, carapace from the side and back) over flak; refractor field; helm with pict lens; void-mask; rebreather | 2 impact frags, 1 frag, 1 smoke; Munitorum satchel (salve); warrant on its chain; medal in his pocket; thigh holster (Last Word); back scabbard (Shameholder). **No lift pack** (stays in the container) |
 | **Kell** (Light-bringer sergeant, assault) · he/him | **Officer** (hellgun) + tube stock, Dace's fore-grip; Tessaly's plasma pistol (plasma pistol; her small 4-shot cell + 1 spare; a standard cell holds 8) | chain axe; Schola fighting knife | Carapace; helm with pict lens. Shield arm **still to be fitted** (Dace; the boarding shield is in the container) | axe hip hanger |
 | **Varga** (Light-bringer, rifle/jumper) · she/her | **Mercy** (hellgun) + tap-button, reflex sight, gun-link port to her eye; laspistol | sharpened Krieg trench shovel | Carapace; helm | shooting eye; lift pack; **no grenades** |
 | **Dace** (Light-bringer, melee/smith) · he/him | none (no autopistol) | **Promise Holder** (plasteel sword, masterwork: +1 attacks and parries in the exchange, never dulls, cuts flak, finds carapace gaps on a raw 17+); **Threshold** (sword) | Carapace; breaching shield (forged, viewing slot); helm | hip healed |
@@ -114,7 +114,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 | **Brenner** (Light-bringer, vox) · he/him | Accatran lascarbine (no laspistol) | machete; Navy cutting torch | Carapace; helm | vox-caster; auspex; data-spike; splicer kit; machete sheath; belt pouches |
 | **Isk** (Light-bringer, sniper) · he/him | **Patience** (hellgun, marksman) + long barrel, finer focusing lens, low-light scope; laspistol (sidearm) | none | Carapace; helm with pict lens | prayer token; grey cloak (made from his old kit) |
 | **Tavi** (Light-bringer, demolitions) · he/him | **Tiny** (Accatran lascarbine) + hot-shot conversion | none | Carapace; helm with pict lens | demo satchel and detonator; 1 breaching charge; **3 kraks**; cutting charge; charge bag |
-| **Morcant** (Light-bringer, heavy) · he/him | heavy stubber (belts); **Doorknocker** (ripper gun, drum-fed shotgun) + 1 spare drum (it replaced his combat pump, now in the crate) | shock maul | Wren's heavy carapace; helm | none assigned |
+| **Morcant** (Light-bringer, heavy) · he/him | heavy stubber (belts); **Doorknocker** (ripper gun, drum-fed shotgun) + 1 spare drum (it replaced his combat pump, now in the crate) | shock maul | Wren's heavy carapace (counts as **ceramite-forged**); helm | none assigned |
 | **Sallow** (Light-bringer, medic) · she/her | lascarbine (Kesh's; no laspistol) | none | Carapace; helm | chest rig with the drag harness; belt pouch; **the Bag** (10 antitoxin, 10 stimms, morphia, filters, **the SCIHU stim**) |
 | **Corvane** (Light-bringer, duelist) · he/him | his revolver (stub revolver, **rebuilt** by Dace) + fast action (3-shot chains, no light strikes), ghost-ring sights (+1 inside 15 m), safe-action blade (not drop-prone), plasteel hammer; white and grey, in Dace's cut-down holster. **Shotlas** (las-scattergun): his duelist gun, fired one-handed; the revolver is his sidearm | power sword (the Gate Guard officer's; unnamed; field fixed by Ferro); combat knife | Carapace; helm with pict lens | 2 spec flashes; belt pouch; power-sword scabbard |
 | **Nessa** (Light-bringer, infiltrator) · she/her | needle pistol (Kesh's; toxin darts) | **the Sisters** (Callidus throwing knives, 6) + her own 2 throwing knives; power knife | Chest-only carapace; **no helm** (quiet kit) | 2 smoke grenades; belt pouch (her laspistol went back to the crate) |
@@ -202,8 +202,8 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 
 **Tamsin's standing modifiers (check every roll; codex Roll checklist):** Champion crits 19-20 (Vigil 17-20, heat);
 Remarkable Athlete (+2 untrained STR/DEX/CON); proficiency +4 (Perception, Athletics, Survival, Intimidation); **+1 will
-checks** (provost's manual); **Commander: two orders a beat to specialists** (+2, act first); Defense style; heavy
-carapace from the front; refractor field (auto-stops light hits, 3 a beat; heavy hits 5-6); Last Word hair trigger
+checks** (provost's manual); **Commander: two orders a beat to specialists** (+2, act first); Defense style; ceramite-forged
+from the front (carapace from the side and back); refractor field (auto-stops light hits, 3 a beat; heavy hits 5-6); Last Word hair trigger
 (drop-prone); Indomitable (reroll a failed save, once per long rest); purity seals on Vigil, Last Word, the knife, Shameholder.
 **The Light's standing modifiers:** specialties (+2), roles (bestiary), traitor-elite side notes, finished books, Morcant's
 suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss by 1-2), Corvane's revolver (+1 inside
@@ -216,7 +216,7 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 | **Tamsin** | **434** | 79 / 130 / 140 (Shameholder; Vigil, Last Word, Stinger; 4 attachments incl. Last Word's laser) / 70 / 15 (3 grenade types; no lift pack) |
 | Kell | 342 | 62 / 110 / 130 (plasma pistol; Officer, chain axe, knife; 2 attachments) / 40 / 0 |
 | Varga | 336 | 46 / 110 / 105 (Mercy; laspistol, shovel; tap-button, reflex sight, gun-link) / 40 / 35 (shooting eye, lift pack) |
-| Morcant | 336 | 61 / 110 / 115 (heavy stubber; Doorknocker, shock maul; ripper drum) / 50 (Wren's heavy carapace) / 0 |
+| Morcant | 336 | 61 / 110 / 115 (heavy stubber; Doorknocker, shock maul; ripper drum) / 50 (Wren's heavy carapace: ceramite-forged) / 0 |
 | Hollis | 327 | 57 / 110 / 110 (Six Bells, hand flamer; hellgun) / 40 / 10 (frags, spec flashes) |
 | Corvane | 313 | 58 / 90 / 120 (officer's power sword; revolver, shotlas, knife) / 40 / 5 (spec flashes) |
 | Isk | 300 | 50 / 110 / 100 (Patience, barrel and scope; laspistol) / 40 / 0 |

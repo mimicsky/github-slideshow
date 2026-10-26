@@ -901,7 +901,7 @@ What the DM has always done, written down so anyone can run it.
   **15** normal, **20** hard (far, moving, small). **Cover adds to it** (+1 / +2 / +4; see Cover above).
   The shooter's total (roll checklist) must reach it. Melee between people uses the exchange (house rule 5) instead.
 - **Damage:** a hit drops the target **one health step** (Fine → Hurt → Badly hurt → Down),
-  **unless their armour stops that kind of weapon** (Part 8, Armour: "shrugs off" means it bounces, no step).
+  **unless their armour stops that kind of weapon** (Part 8, Armour: "shrugs off" means no step for that hit, but **shrugged hits wear them down**: every 3 drop a step, every 5 for power armour).
   Extra health stages (zealots, Skitarii, Ogryns, brutes) add steps before Down.
 - **Crit:** drops **one extra step** (crit ranges: a natural 20 for most; Tamsin 19-20; Vigil 17-20 with heat).
 - **"Solid hit"** (wording some gear uses): the total **beats the hidden number by 3 or more**.
@@ -1104,11 +1104,23 @@ limited to what the character would know. Darktide is a useful shared reference.
 Armor Class stays off in narrative mode. Armour decides how far down the health
 ladder a hit moves you.
 
+**Armour tiers (expanded by the player, Ash on Ostrava session 10):**
+
 | Armour | Shrugs off | Still gets through |
 | --- | --- | --- |
-| Flak | Shrapnel, glancing hits, stub rounds at range | Clean las hits, close bursts, chain weapons |
-| Carapace | Most las and autogun fire, most blades | Hellguns, bolters, power weapons |
-| Power armour | Almost everything a soldier carries | Bolters, plasma, melta, power weapons |
+| None, coat | nothing | everything |
+| Flak | glancing hits, stub and autogun at range | las, hellguns, shotguns up close, chain, frags |
+| **Reinforced flak** | **stub, autogun and glancing las, fully** | clean las hits, hellguns, shotguns up close, chain, frags |
+| Carapace | lasguns, autoguns, stub, shotguns at range, most blades, frags (unless the throw was a solid hit) | hellguns, hot-shot, bolters, heavy stubbers, chain, power weapons, plasma, krak |
+| **Ceramite-forged** | all of the above, **plus hellguns and heavy stubbers at range** | hellguns and heavy stubbers up close (inside ~15 m), bolters, chain, power weapons, plasma, melta, krak |
+| Power armour | almost everything a soldier carries | bolters, plasma, melta, power weapons, krak |
+
+- **Part-armour:** a plate that only covers one side counts only from that side (Tamsin's ceramite front: shots
+  from the side or back hit plain carapace; a chest-only carapace protects the chest).
+- **Crits always get through.** Against armour that would have shrugged the hit, a crit drops just one step (no extra).
+- **Wear-down: shrugged hits still hurt.** Armour stops a hit from dropping a step, not from mattering. **Every 3
+  shrugged hits on the same person in one fight drop them one step** (power armour: every 5). Enough hellgun
+  shots will hurt even a man in power armour.
 
 Armour takes damage and the DM says when it is failing.
 
@@ -1306,7 +1318,7 @@ outcome.** It shows at a glance how dangerous someone is, on one scale for every
 | **Body** | STR + DEX + CON levels, minus 45 (a civilian is about 15 each, so 0) |
 | **Skill** | Civilian 0 · cultist 30 · ganger, raider or pirate 40 · Guard or traitor soldier 50 · veteran or officer 60-70 · storm trooper or Scion-trained 80 · player character **10 × level**. Plus **+20** for a specialist role (or the Commander role), **+10** per specialty (a trainee's young focus +5) |
 | **Weapons** | Best weapon: scrap blade 20 · scrap gun 35 · common gun or blade 50 · hellgun-class 70 · heavy or special (bolter, plasma, chainsword, power weapon, launcher, heavy stubber) 90 · exotic 120. **+15** masterwork, blessed or a true custom build · **+10** per extra weapon (up to +30) · **+5 per fitted attachment** on any carried weapon, one per slot (up to +30; repairs and internals don't count) |
-| **Armour** | None 0 · rags or coat 5 · flak 20 · chest-only carapace 30 · carapace 40 · heavy carapace front 50 · power armour 100. **+10** shield · **+20** refractor · **+30** conversion field |
+| **Armour** | None 0 · rags or coat 5 · flak 20 · reinforced flak 25 · chest-only carapace 30 · carapace 40 · ceramite-forged (or a ceramite front) 50 · power armour 100. **+10** shield · **+20** refractor · **+30** conversion field |
 | **Kit** | **+5** per grenade type carried (up to 20) · augmetic eye 5-25 (shooting eye 20, sensor-type optics 15) · lift or jump pack 15 · auspex 10 · stimms or drag-harness medic kit 5 |
 
 **Calibration:** civilian 0 · Poor cultist ~95-100 · Steady cultist (lasgun, flak) ~125 ·
