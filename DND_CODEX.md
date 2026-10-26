@@ -447,12 +447,16 @@ Standing preferences, set during play. They apply to every campaign.
   player, Ash on Ostrava session 9.
 - **Stop after the player's action.** Resolve only what the player does, then
   hand control back. NPCs don't make big moves past it.
+  **Don't move, read, think or feel for the player character either** (set by the player, Ash on Ostrava session 10). Example: the player says *"I grab the slate and walk out of the room."* Wrong: the character reads the roster on the way, crosses names off in his head, and heads somewhere. Right: he picks up the slate, walks out, and the scene stops at the door, with what he'd see there; what he does with the slate is the player's next move.
 - **Stop at the first new decision point.** When an action has several steps ("let it shut, then we breach"), resolve up to the first moment where things change and the player could choose differently (a door shuts, a breach is about to start), then stop. The player may also say where to stop. Set by the player, Ash on Ostrava session 6.
 - **In fights, everyone acts every beat.** Allies and enemies each take their
   own action with their own open roll, every beat, not just the ones the player
   named. The pause-after-the-player rule is about story moves, not combat
   turns. Set by the player, session 5.
+- **Matches and contests go round by round** (shootouts, bouts, races): roll one round, show it, stop for the player (who may coach or react), then the next. Never run a whole match in one go. **In mat bouts a "round" is a touch:** play the blocks and parries straight through and stop only when a touch lands. Mat bouts use blunt practice swords only (no shields, no specialties): d20 + STR each. **Knife bouts** (blunted knives, chalked edges; no specialties): **d20 + DEX each**; blocks are **slips**, parries are **evade-and-counter**; a landed strike to hand, arm or leg is **minor (1 hit)**, to head, neck, torso or back is **vital (2 hits)**: vital on a **raw 17+ or a win by 5+**, otherwise minor; **first to 2 hits wins the round, first to 5 rounds wins the bout** (in Ash on Ostrava, Dace and Hollis judge). In real fights knives use the better of STR or DEX (house rule 5, "Which stat"). Set by the player, Ash on Ostrava session 10.
 - **Speech in quotes** is the character talking aloud; everything else is action.
+- **Narrate the player character in second person** ("you"), not his name in the third person, in scenes. (The book stays third person.) Set by the player, Ash on Ostrava session 10.
+- **No game terms in the fiction.** NPCs never mention rolls, dice, natural 20s, DCs or modifiers; they describe what they saw. Set by the player, Ash on Ostrava session 10.
 - **Name + role, every time.** Every time a named NPC, place or item comes up,
   give the name then what it is, e.g. Hespa-Vor (enginseer), Velk (ice world),
   Officer (Kell's hellgun). Every mention, not just the first.
@@ -486,6 +490,7 @@ Standing preferences, set during play. They apply to every campaign.
   they saw it, were told it, or heard it from someone who could have; if it's
   gossip, the fiction shows who passed it on. No one knows a thing just because
   the player does. Set by the player, session 5.
+- **Listeners only understand what they could know, too.** When an NPC mentions a person, place or event, the listener reacts as someone who knows it or doesn't (a prisoner doesn't know who Corvane is; the NPC either explains or the listener is lost). Set by the player, Ash on Ostrava session 10.
 - **Clean up as we go (set by the player, session 9).** The campaign sheet holds
   current state only; during play, delete or shorten anything closed or no longer
   useful in the same save, instead of letting it pile up.
@@ -675,7 +680,7 @@ Both sides roll the stat their weapon runs on, attacking *and* defending:
 is narrated as a **slip** (dodged, the attacker keeps going) and a *parry* (3+ higher) as
 an **evade and counter** (dodged or the arm checked, initiative flips). Same math.
 **Knife bouts on the mat** (blunted bayonets, chalked edges) use **d20 + DEX each** and
-their own scoring: see the campaign sheet's play preferences, "Matches and contests".
+their own scoring: see "Matches and contests" in Part 6, How the player likes to play.
 
 ---
 

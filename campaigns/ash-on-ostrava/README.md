@@ -12,7 +12,7 @@ Read these in order. Then open the first reply with one line ticking them off, e
 Don't say what's in the DM notes.
 
 1. **This README**, all of it.
-2. **The campaign sheet** ([`ash-on-ostrava-campaign-sheet.md`](ash-on-ostrava-campaign-sheet.md)): "Where we stopped", "Current state", "What the Light knows about Thask", "Full kit", Tamsin ("The character"), the Light (roster, roles, specialties), "Owed", "Season Two: how it plays".
+2. **The campaign sheet** ([`ash-on-ostrava-campaign-sheet.md`](ash-on-ostrava-campaign-sheet.md)): "Where we stopped", "Current state", "What the Light knows about Thask", "Full kit", Tamsin ("The character"), the Light (roster, roles, specialties, stats). It's about 260 lines, all current state.
 3. **The DM notes** ([`dm-notes.md`](dm-notes.md)), **down to the STOP line only**, read silently, never told to the player: how the campaign runs, the live mission's secrets, nemeses, pre-rolls. Below STOP, open an entry only when its trigger comes up.
 4. **The codex** ([`../../DND_CODEX.md`](../../DND_CODEX.md)): **only the sections marked "Always" in the map at its top** (about 450 lines: the play preferences, house rules 1-6, cover, the roll checklist, shots and hits, breaking and Down, describing the world, armour and weapons). Open the rest when the map's trigger comes up.
 5. **The end of the last chapter** in [`book-season-2.md`](book-season-2.md) (search for the last `## Chapter`; read its final scene), plus the sheet's day log for anything played since.
@@ -36,13 +36,14 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 | Training and the tally | Codex house rule 7; the sheet's Light table |
 | Interrogation or recruiting | Codex house rule 8 (Will) |
 | Food, a cook | Codex house rules, Food |
-| Crafting, blessings, purity seals | Codex Part 8 (crafting, blessings, seals); the sheet's open threads |
+| Crafting, blessings, purity seals | Codex Part 8 (crafting, blessings, seals); `inventory.md` (blessings on offer, upgrade paths, builds) |
 | Psykers or the warp | Codex Part 8, Perils and Psyker powers |
 | Walking into a new place | Codex Part 8, Renown; Tamsin's renown on the sheet |
 | A hidden trigger (a sniper, Kesh, Ustrennos, a nemesis) | The index in [`dm-notes.md`](dm-notes.md), then that entry |
-| An NPC or a place | The sheet's NPC tables |
-| The next mission or Kesh's targets | The sheet's target list and mission briefs |
-| The ship's layout | The sheet's "Season Two: how it plays"; [`maps/`](maps) |
+| An NPC or a place, or a Light-bringer's backstory | [`world.md`](world.md): its contents list, then that part |
+| The next mission or Kesh's targets | [`world.md`](world.md): Kesh's target list and the mission briefs |
+| The ship's layout | [`world.md`](world.md): "Season Two: how it plays"; [`maps/`](maps) |
+| An item's history, blessing or spirit; the container's stock; builds; books; the wishlist | [`inventory.md`](inventory.md): its contents list, then that part |
 | A picture of an item, a battle map, a ship map | The lore-art skill |
 | Something from long ago | Search the books; [`archive.md`](archive.md) |
 
@@ -84,10 +85,12 @@ Award XP (the sheet's XP table), check the book is up to date with every day pla
 | File | What it is |
 | --- | --- |
 | [`ash-on-ostrava-campaign-sheet.md`](ash-on-ostrava-campaign-sheet.md) | Current state: where we stopped, orders, health, coin, Tamsin, the Full kit, the Light, owed |
+| [`world.md`](world.md) | People, places, the ship, Kesh's targets, mission briefs (on demand) |
+| [`inventory.md`](inventory.md) | Gear detail, the container, builds, books, blessings, wishlist (on demand) |
 | [`dm-notes.md`](dm-notes.md) | Hidden: how the campaign runs, live secrets, nemeses, pre-rolls (top part every resume; entries on demand) |
 | [`archive.md`](archive.md) | Closed history; never read on resume |
 | [`book-season-2.md`](book-season-2.md) | Season Two as a novel (the only story file) |
 | [`book.md`](book.md) | Season One as a novel |
 | [`maps/`](maps) | Pictures of *The Bright Light* |
 
-**Cleanup in progress (session 10).** The sheet is being split. Steps: 2 checklist ✓ · 3 DM notes → `dm-notes.md` ✓ · cold-test fixes ✓ · codex map ✓ · 4 write days 17-33 into the book ✓ (Chapters 28-70) · 5 history → `archive.md` ✓ · 6 rebuild the sheet · 7 NPCs and missions → `world.md`, gear → `inventory.md` · 8 remove duplicates, rules into the codex · 9 cold test. Update this table as each file appears; delete this note when done.
+**Cleanup in progress (session 10).** The sheet is being split. Steps: 2 checklist ✓ · 3 DM notes → `dm-notes.md` ✓ · cold-test fixes ✓ · codex map ✓ · 4 write days 17-33 into the book ✓ (Chapters 28-70) · 5 history → `archive.md` ✓ · 6 rebuild the sheet ✓ · 7 NPCs and missions → `world.md`, gear → `inventory.md` ✓ · 8 remove duplicates, rules into the codex · 9 cold test. Update this table as each file appears; delete this note when done.
