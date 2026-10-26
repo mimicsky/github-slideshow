@@ -891,6 +891,9 @@ A **beat** is one moment of a fight, a few seconds. Everyone acts every beat: **
   is blocked or is parried. **Next beat**, whoever holds the initiative swings: after a block the attacker swings
   again; after a parry the defender does (house rule 5).
 - **Short move:** a few metres, or to the next cover, is free. A real sprint is the main thing.
+- **Run and gun (set by the player, Ash on Ostrava session 10):** a sprint is still the whole move, but **a gun can still fire a
+  shot string during it** (pushing up and shooting), at **-2 on those shots**, the same as firing from the air. A melee swing
+  at the end of a sprint still needs Action Surge.
 - **Free extras:** a Commander's orders (bestiary roles); a duelist's gun **and** sword in the same beat.
 - **Action Surge (Tamsin):** **once per fight**, two main things in one beat. **Extra Attack** is already part of
   his strings; it adds nothing extra.
