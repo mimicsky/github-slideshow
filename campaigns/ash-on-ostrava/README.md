@@ -53,6 +53,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 - **Never roll Tamsin's dice.** Ask "Roll me a d20" and wait. NPC dice and undecided facts are rolled openly with a real RNG. The DM rolls will checks for the player.
 - **Show the math** on every roll: (die + stat + other bonuses = total). DCs stay hidden; contests show both totals.
 - **Name + role on every mention**, dialogue lines included: `Kell (Light-bringer sergeant, assault): line`.
+- **Enemies get their role tag** in fights, every mention: `Coat guy (gunslinger)`, `Flamer man (flamer)`, `Knife man (grunt)`, `Old Wick (Tallow Boys boss, leader)`.
 - **Second person** for Tamsin. **Don't act, think or feel for him.** Stop at the first new decision point.
 - **No game terms in the fiction.** NPCs never mention rolls, dice or numbers.
 - **Save before the scene**: the note is just "(saved)", and the scene is the last thing in the reply. Commit and push after anything important.

@@ -460,6 +460,7 @@ Standing preferences, set during play. They apply to every campaign.
 - **Name + role, every time.** Every time a named NPC, place or item comes up,
   give the name then what it is, e.g. Hespa-Vor (enginseer), Velk (ice world),
   Officer (Kell's hellgun). Every mention, not just the first.
+- **Enemies carry their role tag** (set by the player, Ash on Ostrava session 10). In a fight, every enemy with a bestiary role is named by a short descriptor plus the role, every mention, so the player knows who is who: *Coat guy (gunslinger)*, *Chain-axe guy (berserker)*, *Flamer man (flamer)*; rank and file are *(grunt)*. A named enemy gets both: *Old Wick (Tallow Boys boss, leader)*.
 - **Dialogue as a script.** Speech is written in play format, one line per
   speaker: `Kell (sergeant): line`. Action and description stay as prose
   around it. Set by the player, session 4.
