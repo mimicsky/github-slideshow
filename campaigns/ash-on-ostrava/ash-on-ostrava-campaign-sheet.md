@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1340 warp day 33, Torvane's Mart: the street outside the burning tenement below the vox mast.** The Valkyrie came in with Kell (Hurt), Sallow, Tey and Sorel and left for the Spire with the rescued family, the crash's three injured civilians and the three Hookman prisoners (the gunship pilot, Leg guy, the third). The Light is all together again except Joren and Dannel (at the Spire, Hurt; Joren in surgery) and Ferro (Spire cells). Seven militia with Sergeant Dorrow. The Spire has ~9.3 hours of air.
+**Where we stopped:** **session 10, ~1350 warp day 33, Torvane's Mart: outside the scrubber hall on the dock ring.** The Light (fourteen, masked) came up on the hall and were spotted: about a dozen gardeners in stolen plate hold the main gate ramp and the north valve house, with a beast handler and four warp-hounds straining at their chains. The Spire has ~9 hours of air.
 
 ### Current state (day 33)
 
@@ -94,6 +94,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1342: Tamsin's plan: push the scrubber hall now, masks on the whole time, no prisoners (leave the downed where they fall), fight from range. The air from the ring's vents near the hall smells sweet, like rotting fruit and incense. **Sallow has only 7 filters** for the 13 who need them (Tamsin has his rebreather); the rest are in the crate on the ship. The militia have no masks. Brenner's read on the hall (9): heat everywhere under the plating, the fans and vats drown it, no count.
 - ~1344: Tamsin thanked the militia and sent them back to the Spire to regroup; Sergeant Dorrow led his six north, **detouring by the chandler's on the west ring to collect the four tied Tallow Boys** for the Spire's cells. **The vox mast is unguarded now.**
 - ~1346 (corrected by the player): the Light do carry rebreathers on their belts (the Full kit table had missed them); only Tey and Sorel (and the penitents) don't, so Sallow straps filters on Tey and Sorel and keeps 5.
+- ~1348-1350: 'Let's move': the Light came up the ring on the scrubber hall and were spotted (7 vs 23): the hounds caught the scent. Eight gardeners and a handler with four warp-hounds at the main gate ramp's barricade, three at the north valve house.
 - ~1216: 'INQUISITION, STOP FIRING, WE ARE FRIENDLY' (21): the militia stood down. Sergeant Pim Dorrow: eight left, a pack each, the Hookmen rush the gate every few minutes with a heavy stubber covering from the second bend. The Light took positions along the east wall.
 - ~1218: Tamsin, knowing the auspex has them, scanned the roofs (25): **a man in dark rags lying flat among the aerials on the blockhouse roof behind the Light**, silenced pistol and a frag in hand, watching their backs. He doesn't know he's been seen.
 
