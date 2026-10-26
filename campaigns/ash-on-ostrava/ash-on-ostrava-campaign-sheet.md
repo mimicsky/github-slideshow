@@ -294,23 +294,23 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 
 | | STR | DEX | CON | INT | WIS | CHA | State |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Kell** | 40 | 37.3 | 30 | 10 | 26 | 10 | Fine.; rebreather |
-| **Varga** | 25 | 41 | 25 | 10 | 26.7 | 5.1 | Fine.; rebreather |
-| **Dace** | 25.2 | 22.7 | 20 | 28.2 | 5.4 | 5 | Fine (hip healed by day 33).; rebreather |
+| **Kell** | 40 | 37.3 | 30 | 10 | 26 | 10 | Fine. |
+| **Varga** | 25 | 41 | 25 | 10 | 26.7 | 5.1 | Fine. |
+| **Dace** | 25.2 | 22.7 | 20 | 28.2 | 5.4 | 5 | Fine (hip healed by day 33). |
 | **Sorel** | 40.5 | 32 | 29 | 18 | 27.6 | 14 | Fine. Tracker; hive clearance +2. |
 | **Tey** | 17.6 | 43.3 | 28.1 | 14.1 | 9.2 | 14 | Fine. Grunt; **pistol focus (gunslinger) +1** (day 32 = drill day 17; next +1 at drill day 20, ~day 35; +1 per 10 drill days to +5). Pistol drill nightly; 5 for 5 under Varga at dawn on day 32. His flinch came from a long trigger pull (a hair trigger would beat it; not fitted). **At Tamsin's side from day 16: goes everywhere with him, into the action.** |
-| **Hollis** | 28.2 | 41.8 | 32 | 17 | 25.7 | 12 | Fine.; rebreather |
-| **Brenner** | 21 | 28.3 | 26 | 41.5 | 18.3 | 10 | Fine.; rebreather |
-| **Isk** | 19 | 47.8 | 28 | 13.5 | 33.7 | 10 | Fine.; rebreather |
-| **Tavi** | 19.6 | 36.6 | 23 | 32.9 | 17.2 | 17 | Fine.; rebreather |
-| **Morcant** | 48.8 | 24.3 | 33 | 15 | 19.2 | 17 | Fine.; rebreather |
-| **Sallow** | 20 | 32.3 | 22 | 25 | 40.7 | 20 | Fine.; rebreather |
-| **Corvane** | 28.6 | 43.6 | 31.2 | 21.5 | 20.2 | 22 | Fine.; rebreather |
-| **Nessa** | 17.2 | 49.1 | 18 | 21.1 | 29.1 | 27.3 | Fine.; rebreather |
-| **Mira** | 14 | 42.5 | 20 | 32.6 | 30.2 | 15 | Fine.; rebreather |
-| **Teo** | 18.1 | 42.4 | 18 | 26.6 | 19.2 | 28 | Fine.; rebreather |
-| **Ferro-Ashe** | 19 | 25.3 | 20 | 44.8 | 19.2 | 12 | Fine.; rebreather |
-| **Ollin Brake** | 18 | 17 | 25 | 23.5 | 18 | 17.1 | Fine. Haggles d20 + CHA bonus (+1); cleans handed-in guns.; rebreather |
+| **Hollis** | 28.2 | 41.8 | 32 | 17 | 25.7 | 12 | Fine. |
+| **Brenner** | 21 | 28.3 | 26 | 41.5 | 18.3 | 10 | Fine. |
+| **Isk** | 19 | 47.8 | 28 | 13.5 | 33.7 | 10 | Fine. |
+| **Tavi** | 19.6 | 36.6 | 23 | 32.9 | 17.2 | 17 | Fine. |
+| **Morcant** | 48.8 | 24.3 | 33 | 15 | 19.2 | 17 | Fine. |
+| **Sallow** | 20 | 32.3 | 22 | 25 | 40.7 | 20 | Fine. |
+| **Corvane** | 28.6 | 43.6 | 31.2 | 21.5 | 20.2 | 22 | Fine. |
+| **Nessa** | 17.2 | 49.1 | 18 | 21.1 | 29.1 | 27.3 | Fine. |
+| **Mira** | 14 | 42.5 | 20 | 32.6 | 30.2 | 15 | Fine. |
+| **Teo** | 18.1 | 42.4 | 18 | 26.6 | 19.2 | 28 | Fine. |
+| **Ferro-Ashe** | 19 | 25.3 | 20 | 44.8 | 19.2 | 12 | Fine. |
+| **Ollin Brake** | 18 | 17 | 25 | 23.5 | 18 | 17.1 | Fine. Haggles d20 + CHA bonus (+1); cleans handed-in guns. |
 
 ## Hidden notes
 
