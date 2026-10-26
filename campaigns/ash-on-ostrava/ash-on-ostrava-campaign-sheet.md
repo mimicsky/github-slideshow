@@ -61,6 +61,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1146: 'PUSH PUSH PUSH': Tamsin stepped out with Vigil, the Light poured round the corner; the four Tallow Boys dropped everything and surrendered (the auspex man: Old Wick told them to take what they want).
 - ~1147: 'ON THE GROUND, GUNS, EVERYTHING': all four face down, weapons in a pile on the step (hand flamer + 1 canister, auspex, lascarbine, nailer, combat knife, frag, 4 scrap throwing knives).
 - ~1148-1150: searched (113 Thrones, nothing rare), tied to the chandler's storm grille with mooring line; the Light carries their gear.
+- ~1152: Brenner's auspex (rough read, 13): three or four signatures ~200 m up on the right with four smaller ones being dragged along (prisoners?); the west-face stair clear; the mast platform about a dozen (fewer than Teo's 14); twenty-odd on the ridge road's top bends.
 
 ### What the Light knows about Thask
 

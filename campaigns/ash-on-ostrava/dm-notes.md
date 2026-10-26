@@ -33,6 +33,7 @@
   - #3 VOX/AUSPEX: auspex + lascarbine, leathers; STR +2 DEX +2; Dirty (outside). **The group can't be ambushed while he's on the team**; spotted the Light through the wall.
   - #4 grunt, ranged: nailer (scrap scattergun), combat knife, flak vest, frag; STR +3 DEX +2; Dirty (inside the shop).
   - Spotting: Corvane 2+4 = 6 vs the crew 4+1 = 5: the Light saw them first, but the auspex gives them warning (no ambush).
+- **Group 3 (ahead, ~1152 day 33):** route d20 13: **3 Tallow Boys dragging 4 civilians** (d3+1 = 4), ~200 m up the street toward the ridge, right side. Not rolled yet (`roll_enemy.py raider 3 poor` if it comes to a fight). **The mast:** militia down to **11** (14 - d6 3); Hookmen still on the top bends.
 - **Warp exit (pre-rolled 5, rough), USED ~1100 day 33:** the Light drops out into the stream of ships fleeing the Mart; a hauler scrapes the dorsal plating (cosmetic).
 - **Faction wealth:** Mart cultists **Good** (74), rolled day 31.
 - **Nemeses this mission:** **Kessick Vay rolled 18: he appears this mission.** Hessler rolled 15: not this time; he grows stronger (better gear or more followers). Details under "Nemeses".
