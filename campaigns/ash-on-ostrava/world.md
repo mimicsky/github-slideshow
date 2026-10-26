@@ -92,7 +92,7 @@ People, places, the ship, Kesh's targets and mission briefs. **Not read on resum
 | **Captain Severin Holt** | Gate Guard captain, held the Spindle | Surrendered; **sent to Kesh with Aldwyn, day 14**. Not a cultist; ashamed |
 | **Sergeant Brann** | Gate Guard sergeant | Captured in Bay Two; **sent to Kesh with Aldwyn, day 14** |
 | **Sergeant Malk Dresh, 'the Gate Captain'** | Nurgle cult leader among the Gate Guard | **Dead**, with his seed |
-| **Orlen Thask** | Cult broker, Torvane's Mart, Low Quay ('Thask & Daughters, Bonded Carriers'), 'speaks for the gardeners'. Nessa's old employer | At large. Tamsin asked Kesh for leave to hunt him |
+| **Orlen Thask** | Cult broker, Torvane's Mart, Low Quay ('Thask & Daughters, Bonded Carriers'), 'speaks for the gardeners'. Nessa's old employer | **Taken alive by Tamsin at berth 31, day 33 ~1553** (bound; surrendered at the Bloom's door). Kesh wanted him alive |
 
 ### New crew, Season Two (session 8, rolled openly)
 
