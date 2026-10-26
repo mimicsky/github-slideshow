@@ -55,6 +55,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 - **Name + role on every mention**, dialogue lines included: `Kell (Light-bringer sergeant, assault): line`.
 - **Enemies get their role tag** in fights, every mention: `Coat guy (gunslinger)`, `Flamer man (flamer)`, `Knife man (grunt)`, `Old Wick (Tallow Boys boss, leader)`.
 - **Full tag on every ally mention**, math lines included: `Tavi (Light-bringer, demolitions)`, never bare `Tavi`. Enemies by bestiary class (`assassin`, `grunt`, `psyker`, `leader`, `beast handler`). **Detail the scene** (sights, sounds, smells, what each person does).
+- **'Still up' board at the end of every fight beat:** every enemy standing (tag, health, where, weapon), the Down count, the Light's hurt and key states.
 - **Second person** for Tamsin. **Don't act, think or feel for him.** Stop at the first new decision point.
 - **No game terms in the fiction.** NPCs never mention rolls, dice or numbers.
 - **Save before the scene**: the note is just "(saved)", and the scene is the last thing in the reply. Commit and push after anything important.
