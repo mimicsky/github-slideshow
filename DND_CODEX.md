@@ -610,7 +610,7 @@ What stays on:
 | Fine | Untouched or scratched | none |
 | Hurt | Bleeding, slowed, still dangerous | **-1 on rolls** |
 | Badly hurt | One more bad exchange from going down | **-2 on rolls, no sprint** (a short move only) |
-| Down | Out of the fight. **Enemies:** d6 after the fight, 1-3 dead. **The Light:** alive; dies only if finished off or hit again while Down (Part 6, Breaking and Down) | out |
+| Down | Out of the fight unless a medic patches them back to Hurt. **Enemies:** d6 after the fight, 1-3 dead. **The Light:** alive; dies only if finished off or hit again while Down (Part 6, Breaking and Down) | out |
 
 **Some roles and gear add more, so check them** (each in its own entry):
 - **Extra health stages** (each a free step before Hurt, no penalty): **Zealot** +1 (Grazed), **Skitarius** +1 (Grazed),
@@ -916,7 +916,9 @@ What the DM has always done, written down so anyone can run it.
   breaking while it stands: bestiary roles.)
 - **Down enemies, after the fight:** d6 each, **1-3 dead, 4-6 alive but out** (prisoners, questioning).
 - **The Light (Tamsin and his people) never die from going Down.** A Light-bringer who goes Down is **out of
-  the fight for the rest of it**, and **dies only if finished off or hit once more while Down**. Afterwards
+  the fight**, and **dies only if finished off or hit once more while Down**. **A medic can bring them back:**
+  a successful patch (Down → Hurt, one stimm; bestiary roles, Medic) puts them **back in the fight at Hurt** (set
+  by the player, session 10, so the medic can save a fight). Unpatched, they sit out the rest of it. Afterwards
   they're out for **more time depending on the hit** (the DM sets it from how bad it was; the medic's and
   surgeon's rolls shorten it).
 - **Reps:** putting an enemy Down counts as a kill (house rule 7).
