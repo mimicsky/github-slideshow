@@ -461,6 +461,8 @@ Standing preferences, set during play. They apply to every campaign.
   give the name then what it is, e.g. Hespa-Vor (enginseer), Velk (ice world),
   Officer (Kell's hellgun). Every mention, not just the first.
 - **Enemies carry their role tag** (set by the player, Ash on Ostrava session 10). In a fight, every enemy with a bestiary role is named by a short descriptor plus the role, every mention, so the player knows who is who: *Coat guy (gunslinger)*, *Chain-axe guy (berserker)*, *Flamer man (flamer)*; rank and file are *(grunt)*. A named enemy gets both: *Old Wick (Tallow Boys boss, leader)*.
+- **Full name and role on every mention, everywhere** (set by the player, Ash on Ostrava session 10). Every ally carries their full tag from the kit table each time they appear: in the math lines, the dice lists and the scene, not only the first time: *Tavi (Light-bringer, demolitions)*, *Kell (Light-bringer sergeant, assault)*, *Tey (Light Trainee, grunt)*. A short 'Tavi 1, Sorel 14: missed' is wrong. Enemies use their bestiary class, never a made-up word: *Grate man (assassin)*, not *(blade)*.
+- **Detail the scenes** (set by the player, same session). Show what it looks, sounds and smells like, and what each person in the shot is doing, so the player can picture it; keep the math lines compact and the detail in the scene.
 - **Dialogue as a script.** Speech is written in play format, one line per
   speaker: `Kell (sergeant): line`. Action and description stay as prose
   around it. Set by the player, session 4.
