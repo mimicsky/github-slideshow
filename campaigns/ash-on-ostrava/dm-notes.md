@@ -96,6 +96,7 @@
 **The rule now (player, session 10):** no automatic rolls. After each fight, add who got away or was left alive and saw it (where, what they saw, how they feel) to the witness list below. Bring one back when the story fits; roll only when genuinely undecided.
 
 **Witnesses:**
+- **Crane Yard 6 (CY-6), east dock ring:** the Hookmen's hangar where the gunship was kept; the pilot's iron padlock key opens it. What's inside and whether Dagan Crale is there: not set (roll when the Light goes or the pilot talks).
 - **The Hookmen gunship pilot (day 33, ~1223):** ran from the vox mast fight with the scav-rigged gunship's keys; saw Tamsin, the Light, the jumper and the charge down the road. Where the gunship is and what he does next: not set (the Light's Valkyrie has no rockets). The 8 who surrendered and 10 Down are prisoners.
 - **The Spire pad prisoners (day 33, ~1107):** 8 Hookmen and Tallow Boys taken (#1, #6 Down; #2, #4, #9, #10, #11, #13 surrendered). They saw the white-trimmed grey plate, the white Valkyrie, Tamsin with the chainsword and machine pistol, the jumper, heard the call-and-answer ('WHAT ARE WE?' 'WE ARE THE LIGHT'). Bought gangers, not believers: scared, beaten, want to live. The far-roof three (#2 Badly hurt, #4 Hurt, #9 Fine) were left (Tamsin: 'they will probably retreat') and **climbed down out of sight (~1114)**: they saw the whole fight, including Tamsin killing the witch with a machine-pistol burst from the stair head, and will tell the gangs and Thask's people. The other five are held on the pad.
 
