@@ -58,7 +58,7 @@
 **The rule now (player, session 10):** no automatic rolls. After each fight, add who got away or was left alive and saw it (where, what they saw, how they feel) to the witness list below. Bring one back when the story fits; roll only when genuinely undecided.
 
 **Witnesses:**
-- **The Spire pad prisoners (day 33, ~1107):** 8 Hookmen and Tallow Boys taken (#1, #6 Down; #2, #4, #9, #10, #11, #13 surrendered). They saw the white-trimmed grey plate, the white Valkyrie, Tamsin with the chainsword and machine pistol, the jumper, heard the call-and-answer ('WHAT ARE WE?' 'WE ARE THE LIGHT'). Bought gangers, not believers: scared, beaten, want to live. Nobody escaped from this fight.
+- **The Spire pad prisoners (day 33, ~1107):** 8 Hookmen and Tallow Boys taken (#1, #6 Down; #2, #4, #9, #10, #11, #13 surrendered). They saw the white-trimmed grey plate, the white Valkyrie, Tamsin with the chainsword and machine pistol, the jumper, heard the call-and-answer ('WHAT ARE WE?' 'WE ARE THE LIGHT'). Bought gangers, not believers: scared, beaten, want to live. The far-roof three (#2 Badly hurt, #4 Hurt, #9 Fine) were left (Tamsin: 'they will probably retreat') and **climbed down out of sight (~1114)**: they saw the whole fight, including Tamsin killing the witch with a machine-pistol burst from the stair head, and will tell the gangs and Thask's people. The other five are held on the pad.
 
 **Nemeses (made under the old rule):**
 
