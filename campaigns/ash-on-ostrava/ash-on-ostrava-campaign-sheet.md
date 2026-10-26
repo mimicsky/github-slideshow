@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1100 warp day 33, the Bright Light has just dropped out at Torvane's Mart**, on the bridge. Rough exit into a stream of fleeing ships (a hauler scraped the dorsal plating, cosmetic). **Governor Halden Voke's open distress call** is on every band: the Mart is in revolt. The penitents are kitted. Nobody has moved yet.
+**Where we stopped:** **session 10, ~1106 warp day 33, Torvane's Mart: the Valkyrie has just landed on the Spire's pad under fire**, its open side door facing the near roof (Hookmen) and the head of the main stair (an Ogryn). Sixteen of the Light aboard; Teo flies the *Bright Light*, Ferro relays. The Governor holds the Spire; the Mart is in revolt.
 
 ### Current state (day 33)
 
@@ -42,6 +42,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1051-1059: Tamsin asked where everyone was (sound-off on THE LIGHT); Nessa brought the penitents to the bridge; they told him their weapons experience (Dannel: one shot, at Tamsin; gutting knives. Joren: never fired; cargo hook); Ollin listed the crate; Tamsin gave each a lasgun, bayonet and flak coat, uncuffed them and promised redemption if they prove themselves.
 - ~1100: braced; rough drop-out into fleeing traffic, hauler scrape; Voke's distress call.
 - ~1102: Brenner tight-beamed Voke; Tamsin named himself (Interrogator Rook, the Inquisition, here for Thask); Voke's brief: revolt since 0500 (gardeners + the Hookmen and Tallow Boys gangs), customs house fallen, militia broken; objectives: vox mast, scrubber hall (air plant), customs-house strongroom (~20 of his men), the Spire's lower gates, berth 31 (Thask). Landing pad at the Spire is Voke's; guns on the stair roofs. Tamsin: Valk to the Spire pad, full kit; walked to the hangar.
+- ~1103-1106: hangar: Teo stays to fly the *Light* (augur sweeps), Ferro on comms; sixteen crammed into the Valk (Mira alone; port engine mount patch: no hard flying). Rally in the bay ('WE ARE THE LIGHT'). Approach: the psyker's force blast missed; a ripper slug through the door Hurt Joren, Sallow patched him to Fine standing (nat 20); the Governor's guards lost one (4 left) and dropped a Hookman. Mira landed clean (20).
 
 ### What the Light knows about Thask
 
