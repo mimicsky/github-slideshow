@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1411 warp day 33, Torvane's Mart: the scrubber hall, taken.** **The Spire's air is back on.** The eight breathing gardeners have been executed. The Light are digging the twelve captives out of the mulch beds; Mira is due back ~1430 to fly the civilians to the Spire's medicae (12, then 4).
+**Where we stopped:** **session 10, ~1434 warp day 33, Torvane's Mart: the scrubber hall, taken.** **The Spire's air is back on.** Tamsin has switched the plan: **hit Thask now, by Nessa's back way** (the tug dock and the Gut to berth 31's tallyman's hatch). Nessa has briefed it; the team going in isn't picked yet. Mira is flying the first twelve civilians to the Spire and is due back ~1450 for the last four.
 
 ### Current state (day 33)
 
@@ -111,6 +111,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1411-1430: Tamsin: civilians first; **the eight breathing gardeners executed** ('of no use to us'). The Light dug the twelve out of the mulch beds: weak and starved, the fungus only skin-deep; all sixteen civilians will live.
 - ~1430: Mira landed for the first twelve civilians (to the Spire's medicae; the last four next run). Brenner laid out what's left on his slate: the customs house, berth 31, Crane Yard 6, the cannery. Sector map updated (~1430).
 - ~1432: **Tamsin's plan:** take Crane Yard 6 to push the Hookmen back, then clear the Tallow Boys off the west side, claim the dock ring and lock down the middle. The team weighed in (Kell: the cranes are high ground, Crale watches from his cab; Nessa: Thask hears every shot; Brenner: holding the middle needs bodies, Moll's guards or Dorrow's militia).
+- ~1434: **Plan changed: Thask now, Nessa's way.** Nessa's brief: Mira round the rock's outer skin to the tug pens; the Gut (the tug crews' crawl) under the Quay to berth 31's tallyman's hatch in the lower hold; counting room (Ilsabet, the ledger) off the hold; the Bloom's room on the top floor, Thask across its door; 8 at most through the Gut, the rest with Mira as loud backup over the roof.
 - ~1216: 'INQUISITION, STOP FIRING, WE ARE FRIENDLY' (21): the militia stood down. Sergeant Pim Dorrow: eight left, a pack each, the Hookmen rush the gate every few minutes with a heavy stubber covering from the second bend. The Light took positions along the east wall.
 - ~1218: Tamsin, knowing the auspex has them, scanned the roofs (25): **a man in dark rags lying flat among the aerials on the blockhouse roof behind the Light**, silenced pistol and a frag in hand, watching their backs. He doesn't know he's been seen.
 
