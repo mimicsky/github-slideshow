@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1406 warp day 33, Torvane's Mart: at the north valve house on the dock ring.** Varga found the door key on a breathing gardener; Tamsin, Varga, Corvane, Tavi and Hollis stand at the locked steel door with it. The rest of the Light are loading the Valkyrie. Sixteen captives are still in the hall. The Spire has ~8.5 hours of air.
+**Where we stopped:** **session 10, ~1407 warp day 33, Torvane's Mart: inside the north valve house.** Varga unlocked it: one empty room, the Spire's main pipe and its red override wheel, shut, the gauge on zero. Tamsin, Varga, Corvane, Tavi and Hollis are inside. The rest of the Light are loading the Valkyrie. Sixteen captives are still in the hall. The Spire has ~8.5 hours of air.
 
 ### Current state (day 33)
 
