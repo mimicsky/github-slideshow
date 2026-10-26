@@ -915,10 +915,13 @@ What the DM has always done, written down so anyone can run it.
 
 ### Breaking and Down (set by the player, Ash on Ostrava session 10)
 
-- **An enemy group breaks** when its leader falls or half of it is Down. Then an open d20: **1-10 they
-  surrender, 11-20 they run.** Type shades it: cultists rarely surrender (fanatics fight on or run);
-  pirates and traitors fall back to better ground rather than give up early. (An enforcer still stops
-  breaking while it stands: bestiary roles.)
+- **An enemy group breaks** when its leader falls or half of it is Down. Then an open d20 (changed by the
+  player, Ash on Ostrava session 10): **1-10 they surrender, 11-16 they keep fighting, 17-20 they run.**
+  Type shades it: **cultists** rarely surrender, so for them only **1-5 surrenders** (6-16 fight on), unless
+  their **leader** has just fallen, when the normal 1-10 applies (bestiary roles, Leader: 'more likely to
+  surrender, even fanatics'). Pirates and traitors fall back to better ground rather than give up early.
+  (An enforcer still stops breaking while it stands: bestiary roles.) A group that keeps fighting can be
+  checked again the next time its losses jump (another quarter Down).
 - **Down enemies, after the fight:** d6 each, **1-3 dead, 4-6 alive but out** (prisoners, questioning).
 - **The Light (Tamsin and his people) never die from going Down.** A Light-bringer who goes Down is **out of
   the fight**, and **dies only if finished off or hit once more while Down**. **A medic can bring them back:**
