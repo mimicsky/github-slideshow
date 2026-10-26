@@ -6,7 +6,11 @@ Gear detail: Tamsin's weapons and their history, the Light's containers, builds,
 
 - [Tamsin's weapons in detail (history, blessings, spirits)](#tamsins-weapons-in-detail-history-blessings-spirits)
 - [Tamsin's kit in detail](#tamsins-kit-in-detail)
-- [The Light's containers, inventory, lift packs, books, trade](#the-lights-containers-inventory-lift-packs-books-trade)
+- [The Light's containers](#the-lights-containers)
+- [Inventory (counted day 25, session 10; day 29 haul added)](#inventory-counted-day-25-session-10-day-29-haul-added)
+- [Lift packs](#lift-packs)
+- [Books (finished: standing bonuses)](#books-finished-standing-bonuses)
+- [Trade and debts](#trade-and-debts)
 - [Blessings on offer and upgrade paths](#blessings-on-offer-and-upgrade-paths)
 - [Builds: finished items described (for posters and lore)](#builds-finished-items-described-for-posters-and-lore)
 - [Wishlist (on the book crate)](#wishlist-on-the-book-crate)
@@ -41,15 +45,13 @@ Gear detail: Tamsin's weapons and their history, the Light's containers, builds,
 | Vox-beads | 4 Navy beads (Gryphonne pattern), **retuned by Hespa-Vor to an encrypted channel called THE LIGHT** (warp day 5 to Ostrava), linked to the Lantern's vox so Kell can listen. Tamsin, **Kell, Varga and Dace** each wear one, 24/7. **Six more** from the Rest haul (session 7) for Hollis, Brenner, Isk, Tavi, Morcant and Sallow, retuned by Hespa-Vor; all ten on THE LIGHT, 24/7 |
 | Purity seal (spare) | Thane's unused sleep seal, held by Varsaine |
 
-## The Light's containers, inventory, lift packs, books, trade
-
-### The Light's containers
+## The Light's containers
 
 Two Munitorum shipping containers in the *Bright Light*'s hold (the Light's,
 chalked *PROPERTY OF THE LIGHT* and padlocked, with Tamsin's weapon rack inside;
 and Container 2). Everything the Light owns is counted below.
 
-### Inventory (counted day 25, session 10; day 29 haul added)
+## Inventory (counted day 25, session 10; day 29 haul added)
 
 The Light's container, Container 2 and the hold, all together (what isn't carried by someone).
 
@@ -86,21 +88,21 @@ The Light's container, Container 2 and the hold, all together (what isn't carrie
   pistol and knives (Nessa), flight jacket (Teo), coupling (Ferro), spec flashes (2 Corvane, 2 Hollis), ripper drum
   (Morcant), Corvane's revolver, the stolen Kantrael lasgun (Ferro-Ashe, rolled day 33).
 
-### Lift packs
+## Lift packs
 
 Kasrkin-pattern build (catalogue, kit): about 1 minute of lift per charge in ~6 hops of 10-15 m, ~2 hours to recharge on a station, loud and bright, Airborne rules; a natural 1 on a hop drops the user a step on landing.
 - **Varga's:** built day 15; her jumper kit.
 - **Isk's:** the frame waits on a machine-core (one is in stock since day 31; Ferro-Ashe builds it).
 - **Tamsin's boarders' lift pack** (~4 hops): stays in the container, not part of his kit.
 
-### Books (finished: standing bonuses)
+## Books (finished: standing bonuses)
 
 The Ustrennos library books went back on day 31; unfinished ones keep only the hours already counted.
 - **Tamsin:** *Questioning of Mutineers and Prisoners*: **+1 on will checks**.
 - **Isk:** *The Munitorum Marksman's Primer* (done day 20). **Corvane:** *Armsmen's Cutlass and Boarding Blade Drill* (done day 20). **Brenner:** the Navy vox-operator's handbook (day 18) and the cogitator primer (day 20).
 - **Dace:** Ottrick's gunsmith manuals (the Light has them; taken from Ottrick without asking): manual 1 done (**+1 on gun-crafting**), manual 2 at 5 of 8 hours.
 
-### Trade and debts
+## Trade and debts
 
 - **Ottrick's slate (the Light's account): 0.75 TV in credit** (warp day 9). Sell container goods by word; his ratings fetch them.
 - **Trade Value (TV):** 1 TV = 1 Navy combat shotgun. Mag Vashti's Void Exchange

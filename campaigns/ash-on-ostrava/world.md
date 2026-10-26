@@ -6,7 +6,15 @@ People, places, the ship, Kesh's targets and mission briefs. **Not read on resum
 
 - [Ustrennos Station](#ustrennos-station)
 - [The Light: who they are (bios)](#the-light-who-they-are-bios)
-- [NPCs, open threads, the ship, Kesh's targets, missions, the hub](#npcs-open-threads-the-ship-keshs-targets-missions-the-hub)
+- [NPCs](#npcs)
+  - [Ustrennos people (Season Two, mission 1)](#ustrennos-people-season-two-mission-1)
+  - [New crew, Season Two (session 8, rolled openly)](#new-crew-season-two-session-8-rolled-openly)
+- [Open threads](#open-threads)
+- [Season Two: how it plays (set by the player, end of session 7)](#season-two-how-it-plays-set-by-the-player-end-of-session-7)
+- [Kesh's target list (Season Two, on the *Bright Light*'s hololith)](#keshs-target-list-season-two-on-the-bright-lights-hololith)
+  - [Next mission: Vhal Korrin, Spire Vane (briefed session 9; after Aldwyn's hand-off)](#next-mission-vhal-korrin-spire-vane-briefed-session-9-after-aldwyns-hand-off)
+  - [Next mission: Sennet's Reach (chosen session 8)](#next-mission-sennets-reach-chosen-session-8)
+- [The hub](#the-hub)
 - [Prisoners with Merrick (Ustrennos)](#prisoners-with-merrick-ustrennos)
 
 ---
@@ -36,8 +44,6 @@ People, places, the ship, Kesh's targets and mission briefs. **Not read on resum
   **Breaching shield** (counts as a **forged shield** with a **viewing slot**: +2 block, half cover, shoots a pistol through the slot): scrap plasteel, viewing slot, its boss poured from his
   old collar. Riveted a shotgun-steel brace inside the shield (warp day 5 to Ostrava). **Practice swords:** three plain, blunt, straight duelling swords (no weighting to match any real weapon), grox-hide grips. Two done warp day 1 to the Rest, the third tomorrow. Plain, nothing special, as Tamsin asked. First bout (warp day 1 to the Rest): Tamsin beat Dace 5-1 in the hold before the whole Light and half the off-watch; Dace's one point caught Tamsin mid-jump. Second bout: Tavi beat Morcant 5-4 (rolled openly, every exchange); Morcant came back from 0-2 and 2-4 to level at 4-4. Warp day 2: **Corvane beat Dace 5-4** (played round by round, Tamsin coaching; every exchange rolled openly). Dace's points: the lunge, the feint, crowding in close, the rapier thrust. Corvane's: fleet cutlass flurries, the planted back-step thrust, the double feint, and the winning counter after Dace overreached. The whole hold watched. Then **Tamsin beat Isk** 4-1 and a disarm; Isk conceded (Isk's one point: a delayed rising cut under Tamsin's riposte, raw 19). "Shield and blade.
   That's me."
-
-## NPCs, open threads, the ship, Kesh's targets, missions, the hub
 
 ## NPCs
 
