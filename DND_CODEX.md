@@ -22,7 +22,7 @@ by narrative mode (house rule 4): open them only if the player asks for full rul
 | --- | --- |
 | **Part 6:** the settings table, "How the player likes to play" | **Always** |
 | **Part 6, house rules 1-6:** near-miss, variant pairing, hidden DCs, narrative mode (health states), the exchange, shot chains | **Always** |
-| **Part 6:** Cover, Roll checklist (with Stacking), Shots and hits, Breaking and Down | **Always** |
+| **Part 6:** Cover, Roll checklist (with Stacking), A beat, Shots and hits, Breaking and Down | **Always** |
 | **Part 7:** Describing the world (no option menus, layout is free) | **Always** |
 | **Part 8:** The reskin, Armour, Weapons (incl. named and rebuilt weapons) | **Always** |
 | Part 6, house rule 7: stat levels, training reps, the training manual, coaching, books | At the daily tally; training, coaching or a book comes up |
@@ -632,8 +632,8 @@ totals:
 | Defender's total vs attacker's | Result |
 | --- | --- |
 | Lower or equal | The attack lands |
-| 1 or 2 higher | **Block.** No damage. The attacker keeps initiative and swings again |
-| 3 or more higher | **Parry.** No damage, and **initiative flips.** The defender is now the attacker |
+| 1 or 2 higher | **Block.** No damage. The attacker keeps initiative and swings again **next beat** |
+| 3 or more higher | **Parry.** No damage, and **initiative flips.** The defender swings **next beat** |
 
 **The unparryable blow.** A **raw d20 of 17 or higher** cannot be parried or
 blocked at all. It lands. This is the raw die, not the total — otherwise the
@@ -648,7 +648,7 @@ modifier.
 - **Mobs stay narrative.** When a crowd is pressing rather than individuals
   trading, the DM describes the pressure and does not roll an opposed die per
   body in it.
-- **A defender can answer two attackers per exchange.** The third and any beyond
+- **One swing a beat** (Part 6, A beat): each exchange above is one swing and its defence. **A defender can answer two attackers a beat.** The third and any beyond
   get through undefended.
 - **Two weapons turn a block into a parry.** Fighting with a weapon in each hand
   does not raise the two-attacker cap — a second blade covers another line, it
@@ -864,6 +864,21 @@ applies is added; each modifier shown in the math.
 **Stacking (set by the player, Ash on Ostrava session 10).** The **same effect from two places counts once**
 (Morcant's suppression -2 is both his role and his specialty: one -2). **Different sources add up** (a leader's
 +1 to the side and a Commander's +2 order both apply: +3 on the ordered action).
+
+### A beat (set by the player, Ash on Ostrava session 10)
+
+A **beat** is one moment of a fight, a few seconds. Everyone acts every beat: **one main thing plus a short move.**
+
+- **Main thing, pick one:** a **shot string** (up to **3 shots** by default, or the gun's own limit if its entry
+  gives one: some 6, full-auto 10); a **throw** or one launcher shot; **one melee swing** (below); or something
+  else: a patch, a reload, venting, clearing a jam, using an item, a lift-pack hop, a sprint.
+- **Melee is one swing a beat.** The attacker swings and the target rolls to defend, all in that beat: it lands,
+  is blocked or is parried. **Next beat**, whoever holds the initiative swings: after a block the attacker swings
+  again; after a parry the defender does (house rule 5).
+- **Short move:** a few metres, or to the next cover, is free. A real sprint is the main thing.
+- **Free extras:** a Commander's orders (bestiary roles); a duelist's gun **and** sword in the same beat.
+- **Action Surge (Tamsin):** **once per fight**, two main things in one beat. **Extra Attack** is already part of
+  his strings; it adds nothing extra.
 
 ### Shots and hits (set by the player, Ash on Ostrava session 10)
 
