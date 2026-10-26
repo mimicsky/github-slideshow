@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1217 warp day 33, Torvane's Mart: the vox mast platform's east wall.** The Light (fourteen) is in position beside Sergeant Dorrow's eight militia, looking down on ~25 Hookmen on the ridge road's top two bends (a rush group of ~12 at the top bend, shooters and a tripod heavy stubber on the second). Sallow and Tavi loading the Valkyrie in the street, then following.
+**Where we stopped:** **session 10, ~1224 warp day 33, Torvane's Mart: the vox mast is saved.** The Light fought down from the platform onto the ridge road and broke ~26 Hookmen (7 dead, 18 prisoners, the gunship pilot escaped). **Dannel and Joren are Down** (alive), Kell Hurt; Sallow and Tavi still on their way up from the street. Seven militia left with Sergeant Dorrow.
 
 ### Current state (day 33)
 
@@ -21,7 +21,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
   the Valkyrie (not the ship) if it goes loud; Nessa + Dannel to the **cannery at ~berth 44 (tin chutes)** for **Pell
   Rusk** (11); second hit (ledger/loot) decided on the ground; governor after the mission.
 - **Health:** everyone Fine (Hollis's shoulder healed by day 33; **Dace's hip healed: the player's call, day 33**). **Varga's shooting eye works** (dressing off day 31): -2 gone; rangefinder +2 past 30 m, targeter +3 aimed, gun link fitted to Mercy by Ferro (day 30).
-  Tamsin Fine, wearing his heavy-front plate + refractor field. Nessa took shotgun pellets through the shoulder at the Spire pad (day 33); **Sallow patched her to Fine on the pad (nat 20)**.
+  Tamsin Fine, wearing his heavy-front plate + refractor field. **The mast, day 33: Dannel Down (shock baton, knife, las bolt) and Joren Down (knife, point-blank stub crit), both alive, unpatched; Kell Hurt (a crit through a seam in his plate).** Nessa took shotgun pellets through the shoulder at the Spire pad (day 33); **Sallow patched her to Fine on the pad (nat 20)**.
 - **Food:** everyone Fed (no cook aboard).
 - **Penitents aboard:** **Dannel Rusk** (cell 2 by night; Corvane's grey cord; clean by the oil; his deal: penitence for his sister Pell's rescue from the cannery; no collar since day 31). **Joren Brisk** (cell 1 by night; clean; his debt to Brannick written off day 31; his mother Annet lives in block 4-E, ring four). Each now has a lasgun (1 pack), a bayonet and a flak coat (day 33).
 - **To crack:** **Haddle's locked slate** and the lad's locked slate (cogged runes; Brenner/Ferro).
@@ -69,6 +69,8 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1202: Tamsin called Mira: pick up the prisoners (and the loot) here, take them to the Spire pad, Ferro to escort them down to the Governor's cells. Mira: ~10 min, putting down in a tram yard ~60 m back. Plan: Sallow and Tavi stay with the loot; the rest push the platform, then the road. Sallow objected (no medic for twenty-five Hookmen).
 - ~1204-1212: Tamsin: Sallow checks the civilians and tends the two, hauls prisoners and gear into the Valk, then comes up to the platform with Tavi. All loot left in a pile (Tamsin's satchel, the penitents' and Tey's carried guns, Kell's pouch). The rest walked the last 400 m without trouble to the foot of the west-face stair (sound and open, d20 18).
 - ~1212-1215: up the stair quiet; at the top a militiaman panicked and fired on the Light (Corvane hit, shrugged).
+- ~1218-1224: **the vox mast fight.** Tamsin spotted the Hookmen's infiltrator on the blockhouse roof (25); Hollis's frag, Tamsin's crit dropped the chem-doctor; Tamsin dropped the infiltrator; Tey's natural 20 burst the flamer's tank; Varga's last hop broke the stubber team with Isk; Tamsin led the charge down onto the road (Action Surge, Shameholder on Axe guy), killed the two over Dannel and the two over Joren with Last Word; the group broke and surrendered. Dannel and Joren Down, Kell Hurt; the gunship pilot escaped.
+  - **Reps (tally at day's end):** Tamsin: ~15 orders (WIS), the Perception (WIS), 'INQUISITION, STOP FIRING' (CHA), the chainsword hit (STR), 7 kills with Vigil and Last Word (DEX). Hollis: 3 grenades, a crit kill (DEX). Varga: 2 kills, the hops (DEX). Kell: 3 hits, 2 kills (DEX); took a crit and stayed up (CON). Isk: 3 hits, a kill (DEX). Tey: the natural 20 on the flamer, a kill, hits (DEX). Morcant: suppression, 3 hits (DEX). Sorel: 3 hits (DEX). Brenner: 2 hits (DEX). Nessa: the toxin dart (DEX). Corvane: hits (DEX). Joren: 3 hits (DEX). Dannel: 1 hit (DEX). Dace: guarded Dannel.
 - ~1216: 'INQUISITION, STOP FIRING, WE ARE FRIENDLY' (21): the militia stood down. Sergeant Pim Dorrow: eight left, a pack each, the Hookmen rush the gate every few minutes with a heavy stubber covering from the second bend. The Light took positions along the east wall.
 - ~1218: Tamsin, knowing the auspex has them, scanned the roofs (25): **a man in dark rags lying flat among the aerials on the blockhouse roof behind the Light**, silenced pistol and a frag in hand, watching their backs. He doesn't know he's been seen.
 
@@ -157,7 +159,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 | **Ferro-Ashe** (Light-tech-priest) · he/him | **Kantrael lasgun** (the stolen one; picked by roll, day 33, d8 = 4) | none | Flak-weave robes; helm | thermal optics; mechadendrites and tools |
 | **Ollin Brake** (Light's Quartermaster) · he/him | none | none | Coat | slate; stays aboard |
 
-**Guns:** all **Clean** (cleaned aboard, mostly by Ollin when they're handed in). In the field a gun goes **Dirty after about 30 shots** without cleaning. Exceptions: none.
+**Guns:** all **Clean** (cleaned aboard, mostly by Ollin when they're handed in). In the field a gun goes **Dirty after about 30 shots** without cleaning. Exceptions: **Morcant's heavy stubber Dirty** (six long bursts at the mast, day 33).
 **Helms:** everyone wears one except Nessa (quiet kit). **Pict-lens helms:** Tamsin, Kell, Isk, Corvane, Hollis, Tavi.
 **Vox-beads:** everyone in the Light wears one on THE LIGHT (confirmed by the player, day 33).
 **Penitents** (kit given by Tamsin, ~1053 day 33): **Dannel Rusk** (he/him) and **Joren Brisk** (he/him) each carry a **lasgun with 1 pack seated, a bayonet and a flak coat**. No helm, no bead, no spare packs. **Stats (rolled day 33, civilians):** Dannel STR 27 / DEX 15; Joren STR 23 / DEX 12 (others not rolled).
