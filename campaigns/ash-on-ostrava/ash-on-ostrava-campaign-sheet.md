@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1115 warp day 33, Torvane's Mart: the Spire pad is the Light's.** The first fight is won (14 raiders: 6 dead, 5 held, 3 slipped away off the far roof). Mira has flown the Valkyrie back to the *Bright Light* with the loot (Ollin to unload; Teo bringing the ship round). Kell holds the pad with the Light and the prisoners. **Tamsin, Dace and Tey are at the Spire's blast doors, going up to see Governor Voke.**
+**Where we stopped:** **session 10, ~1115 warp day 33, Torvane's Mart: the Spire pad is the Light's.** The first fight is won (14 raiders: 6 dead, 5 held, 3 slipped away off the far roof). Mira has flown the Valkyrie back to the *Bright Light* with the loot (Ollin to unload; Teo bringing the ship round). Kell holds the pad with the Light and the prisoners. **Tamsin, Dace and Tey have just walked into Governor Voke's counting room** (top floor of the Spire), brought up by Captain Moll.
 
 ### Current state (day 33)
 
@@ -49,6 +49,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
   - **Reps from the fight (tally at day's end):** Tamsin: 9 orders (WIS), the rally speech (CHA), 2 chainsword hits (STR), the Stinger burst + the psyker kill (DEX). Kell: ripper kill + hit (DEX), 'Move!' (WIS). Varga: hop, gunslinger kill, #12 kill (DEX). Dace: stopped the Ogryn (STR). Corvane: Ogryn kill (STR), shotlas hit (DEX). Tey: Ogryn hit (DEX). Isk: psyker hit, crit on #2 (DEX). Sorel: 3 hits (DEX). Tavi: 1 hit (DEX). Brenner: 1 hit (DEX). Hollis: 3 frags (DEX). Sallow: Joren's patch (WIS). Mira: the landing (DEX). Nessa: took a hit, stayed up (CON).
 - ~1108-1112: 'This pad is ours.' Looted the pad, stair and near roof (275 Thrones, no rare: looting d20 16); prisoners disarmed and sat against the parapet; Sallow patched Nessa to Fine (nat 20). Far roof not reached yet.
 - ~1114-1115: Tamsin left the far roof (its three gangers slipped away); Mira lifted off with the loot for the *Light* ('tell Ollin I send my regards'); Kell holds the pad; Tamsin told the Governor 'Coming' and walked to the blast doors with Dace and Tey. Captain Ressa Moll (the Governor's household guard) met them inside.
+- ~1116-1118: up in the cage lift with Moll (60 household guards at dawn, 22 now; the lower gates still holding); into the counting room to meet Voke. From the window: the vox mast still standing, fighting at its base (d20 6).
 
 ### What the Light knows about Thask
 
