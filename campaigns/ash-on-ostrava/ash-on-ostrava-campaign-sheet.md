@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1547 warp day 33, Torvane's Mart: berth 31's lower hold, cleared.** All six hold gardeners are dead; the whole Gut team is up and unhurt. The counting room door (frosted glass, a fire behind it, a shadow feeding it) is ~20 m off; the main stair climbs to the floors above, where the rest are barricaded round Thask at the Bloom's door. The backup six hold the tug dock.
+**Where we stopped:** **session 10, ~1549 warp day 33, Torvane's Mart: berth 31's main stair, below the top floor.** The Gut team pushed up past the empty first floor to the turn below the top landing. A barricade blocks the corridor up there, a dozen or more gardeners behind it, chanting, with something glowing; Thask is at the Bloom's door at the corridor's end. The counting room is still burning below. Team B holds the tug dock; Mira is two minutes from the roof.
 
 ### Current state (day 33)
 
