@@ -603,14 +603,27 @@ What stays on:
   rather than through a hit point total.
 - **Hidden DCs, told saves, no option menus.** All unchanged.
 
-**Health as a state, not a number:**
+**Health as a state, not a number** (penalties set by the player, Ash on Ostrava session 10):
 
-| State | Meaning |
-| --- | --- |
-| Fine | Untouched or scratched |
-| Hurt | Bleeding, slowed, still dangerous |
-| Badly hurt | One more bad exchange from going down |
-| Down | Out of the fight. **Enemies:** d6 after the fight, 1-3 dead. **The Light:** alive; dies only if finished off or hit again while Down (Part 6, Breaking and Down) |
+| State | Meaning | Effect |
+| --- | --- | --- |
+| Fine | Untouched or scratched | none |
+| Hurt | Bleeding, slowed, still dangerous | **-1 on rolls** |
+| Badly hurt | One more bad exchange from going down | **-2 on rolls, no sprint** (a short move only) |
+| Down | Out of the fight. **Enemies:** d6 after the fight, 1-3 dead. **The Light:** alive; dies only if finished off or hit again while Down (Part 6, Breaking and Down) | out |
+
+**Some roles and gear add more, so check them** (each in its own entry):
+- **Extra health stages** (each a free step before Hurt, no penalty): **Zealot** +1 (Grazed), **Skitarius** +1 (Grazed),
+  **Ogryn** +3 (Grazed, Bruised), **Brute / mutant** +2. All in `wh40k_gear/bestiary/roles.md`.
+- **Ignoring the penalties:** a **stimm** ignores Hurt while it lasts; a **concentrated stimm** makes Badly hurt fight as
+  Hurt; **rot-stimm** ignores Hurt and Badly hurt; **berserker** and **chem-doctor** doses ignore Hurt (`drugs.md`;
+  roles.md, Berserker and Chem-doctor).
+- **Keeping on after Down:** **Khorne-blessed** fight one more beat; berserkers with doses left fight a beat after Down
+  (`heretic.md`, Blessed cultists; roles.md, Berserker).
+- **Soaking hits:** **Nurgle-blessed**, the first hit does nothing; **Tzeentch-blessed**, one hit a fight misses
+  (`heretic.md`); **Tamsin's Defense style**, some hits that would make him Hurt only shake him (campaign sheet).
+- **Extra steps on a hit:** some weapons drop the target one extra step (their catalogue entries); a **crit** always does
+  (Part 6, Shots and hits).
 
 The honest trade-off, stated so it isn't a surprise later: when dice stop
 deciding every exchange, the DM decides more. Some tension becomes theatrical.
