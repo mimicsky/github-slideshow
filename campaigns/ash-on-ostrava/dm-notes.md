@@ -25,7 +25,7 @@
   - **Alive but Down (d6 4-6):** #1 (junk shotgun; near roof, behind the water tank), #6 (junk shotgun + stolen shock baton; near roof, by the vents).
   - **Surrendered:** far roof #2 (Rattler SMG; Badly hurt), #4 (autopistol; Hurt), #9 (nailer; Fine); on the main stair facing Dace and Corvane: #10 (knife, autopistol; Hurt), #11 (shank, Quicksilver; Badly hurt), #13 (shank, Hammerfall auto-revolver; Badly hurt).
   - Loot not yet rolled (looting d20 natural 20 = stashed rare); coin on bodies per codex Part 8, Loot.
-  - **The objectives clock:** ~1118 the vox mast is still standing but contested (d20 6: one bad roll from falling); scrubber hall, customs-house strongroom and the lower gates not checked yet.
+  - **The objectives clock:** ~1118 the vox mast is still standing but contested (d20 6: one bad roll from falling); lower gates holding (Moll). **The scrubber hall fell ~1000 to the gardeners themselves** (Voke's last runner; d20 2). They haven't cut the Spire's air yet; if they do, the Spire's reserve tanks last **10 hours** (d6+6 = 10); the rest of the rock has less. **What the gardeners want with the air plant is not set**: let it follow the story (it could tie to the jars and 'the garden opens'). Customs-house strongroom: last heard ~1000.
   - The Governor's guards: 3 of 7 left. Mira still on the pad (asked whether to lift; no answer yet).
 - **Warp exit (pre-rolled 5, rough), USED ~1100 day 33:** the Light drops out into the stream of ships fleeing the Mart; a hauler scrapes the dorsal plating (cosmetic).
 - **Faction wealth:** Mart cultists **Good** (74), rolled day 31.
