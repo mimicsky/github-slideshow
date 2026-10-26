@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1405 warp day 33, Torvane's Mart: at the north valve house on the dock ring.** Tamsin, Varga, Corvane, Tavi and Hollis stand at its locked steel door; the rest of the Light are loading the loot onto the Valkyrie by the gate barricade, to meet up after. Sixteen rescued or buried captives are still in the hall. The Spire has ~8.5 hours of air.
+**Where we stopped:** **session 10, ~1406 warp day 33, Torvane's Mart: at the north valve house on the dock ring.** Varga found the door key on a breathing gardener; Tamsin, Varga, Corvane, Tavi and Hollis stand at the locked steel door with it. The rest of the Light are loading the Valkyrie. Sixteen captives are still in the hall. The Spire has ~8.5 hours of air.
 
 ### Current state (day 33)
 
@@ -104,6 +104,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
   - **Reps (tally at day's end):** Tamsin: ~14 orders (WIS), 'Show me, Corv' (CHA), 3 Vigil crits incl. both haulers (DEX), the Last Word kill (DEX). Corvane: 2 parries, 2 hits on the Singer (STR). Isk: 3 hits incl. the flamer's tank (DEX). Tey: 5 hits, 2 kills (DEX); the cage pull (STR). Kell: 2 kills incl. a natural 20 (DEX). Nessa: the breacher's dart (DEX). Varga: 2 hits (DEX), the fire (WIS). Brenner: 2 hits (DEX), the purge panel (INT). Sallow: a crit kill (DEX), 2 antitoxins (WIS). Dace: the crank (STR). Morcant: the cage snag, the bolt (STR). Tavi: 1 kill (DEX). Hollis: the flash (DEX). Sallow: revived the dock worker and the girl (WIS x2).
 - ~1404: Morcant opened the cage; Sallow revived the dock worker and the girl (all four alive). Inside loot gathered to the barricade (207 Thrones; heretic stuff left); Mira landed for it.
 - ~1405: Tamsin took Varga, Corvane, Tavi and Hollis to the north valve house (locked steel door); the rest load the Valkyrie.
+- ~1406: searching the bodies quietly, Varga found the valve house key ('N. VALVE') on the Lasgun gardener's neck.
 - ~1216: 'INQUISITION, STOP FIRING, WE ARE FRIENDLY' (21): the militia stood down. Sergeant Pim Dorrow: eight left, a pack each, the Hookmen rush the gate every few minutes with a heavy stubber covering from the second bend. The Light took positions along the east wall.
 - ~1218: Tamsin, knowing the auspex has them, scanned the roofs (25): **a man in dark rags lying flat among the aerials on the blockhouse roof behind the Light**, silenced pistol and a frag in hand, watching their backs. He doesn't know he's been seen.
 
