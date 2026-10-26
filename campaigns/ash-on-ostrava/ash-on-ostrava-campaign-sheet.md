@@ -58,6 +58,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1132: **Tamsin's call: take ground and enforce the Ordo until we reach Thask; first the vox mast, clear the area, take back the asteroid.** The Light is up for it. Varga: three hops left in her pack (recharge ~2 h on a station). Mast layout from Voke's plans on Brenner's auspex: lattice tower ~60 m on the central ridge, ~1.5 km south of the Spire; platform ~25 m across, low blast wall, the transmitter blockhouse at the mast's foot, cable trenches; the ridge road switchbacks ~300 m up the east face from the dock ring (Hookmen on the top two bends, abandoned haulers on it); old maintenance stairs up the steep west face to the back of the platform, no heat there.
 - ~1135-1145: Tamsin: push from the west face and bring the Light down on them from above; Mira stays on the *Light* until called (be out fast). Prisoners to Moll. Out the lower gates, down the main stair, west through the dock ring; ~600 m in, Corvane spotted four Tallow Boys looting a chandler's; their auspex man saw the Light through the wall.
 - ~1146: 'PUSH PUSH PUSH': Tamsin stepped out with Vigil, the Light poured round the corner; the four Tallow Boys dropped everything and surrendered (the auspex man: Old Wick told them to take what they want).
+- ~1147: 'ON THE GROUND, GUNS, EVERYTHING': all four face down, weapons in a pile on the step (hand flamer + 1 canister, auspex, lascarbine, nailer, combat knife, frag, 4 scrap throwing knives).
 
 ### What the Light knows about Thask
 
