@@ -8,7 +8,7 @@ Branch: **`claude/ash-ostrava-campaign-closeout-ma000x`**. Rules: [`../../DND_CO
 ## Start checklist (every new chat, and after every context compaction)
 
 Read these in order. Then open the first reply with one line ticking them off, e.g.
-`Checklist: README ✓ sheet ✓ DM notes ✓ codex 6-8 ✓ last chapter ✓ indexes ✓`.
+`Checklist: README ✓ sheet ✓ DM notes ✓ codex Always ✓ last scene ✓`.
 Don't say what's in the DM notes.
 
 1. **This README**, all of it.
@@ -16,7 +16,7 @@ Don't say what's in the DM notes.
 3. **The DM notes** ([`dm-notes.md`](dm-notes.md)), **down to the STOP line only**, read silently, never told to the player: how the campaign runs, the live mission's secrets, nemeses, pre-rolls. Below STOP, open an entry only when its trigger comes up.
 4. **The codex** ([`../../DND_CODEX.md`](../../DND_CODEX.md)): **only the sections marked "Always" in the map at its top** (about 450 lines: the play preferences, house rules 1-6, cover, the roll checklist, shots and hits, breaking and Down, describing the world, armour and weapons). Open the rest when the map's trigger comes up.
 5. **The end of the last chapter** in [`book-season-2.md`](book-season-2.md) (search for the last `## Chapter`; read its final scene), plus the sheet's day log for anything played since.
-6. **Tables of contents only**: [`../../wh40k_gear/catalogue/README.md`](../../wh40k_gear/catalogue/README.md) and [`../../wh40k_gear/bestiary/README.md`](../../wh40k_gear/bestiary/README.md). Open an entry only when it comes up. Read [`../../wh40k_gear/bestiary/roles.md`](../../wh40k_gear/bestiary/roles.md) at the start of any fight.
+6. **Nothing else up front.** The gear catalogue's index, the bestiary's index and its roles file are opened when an item or a fight comes up ("Where things are" below).
 
 Then pick up exactly where we stopped.
 
@@ -29,8 +29,8 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 | A fight starts | [`roles.md`](../../wh40k_gear/bestiary/roles.md): its index, then only the roles in the fight; the enemy team's bestiary entry if it's a special team; codex Part 6: house rules 5 (the exchange) and 6 (shot chains), Cover, the Roll checklist, Shots and hits, Stacking |
 | Someone is hit, goes Down or gets healed | Codex Part 6: Shots and hits, Breaking and Down; Part 8: Armour, the refractor field (Gear rules); `roles.md`: Medic (the patch roll); the catalogue's `drugs.md` (stimm, SCIHU) |
 | A fight ends | Codex Part 6, Breaking and Down (who surrenders, runs, lives); Part 8, Loot (the two rare rolls, coin on a body); house rule 7 (reps: a Down counts as a kill); log witnesses in `dm-notes.md`; update the Full kit (ammo, grenades, Dirty guns) |
-| Rolling enemies | `roll_enemy.py` (commands below); codex Part 8 for enemy stats |
-| A gear item's own rules | The catalogue index, then just that entry |
+| Rolling enemies | `roll_enemy.py` (commands below); [the bestiary index](../../wh40k_gear/bestiary/README.md) for special teams; codex Part 8, Loot, for enemy stats |
+| A gear item's own rules | [The catalogue index](../../wh40k_gear/catalogue/README.md), then just that entry |
 | Heat, hot-shot, drop-prone guns, jams, going Down | Codex Part 8, Gear rules |
 | Shopping or selling | `roll.py`; codex Part 8 (shop size, the quartermaster, the Void Exchange); the sheet's coin |
 | Training and the tally | Codex house rule 7; the sheet's Light table |
@@ -40,8 +40,9 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 | Psykers or the warp | Codex Part 8, Perils and Psyker powers |
 | Walking into a new place | Codex Part 8, Renown; Tamsin's renown on the sheet |
 | A hidden trigger (a sniper, Kesh, Ustrennos, a nemesis) | The index in [`dm-notes.md`](dm-notes.md), then that entry |
-| An NPC or a place, or a Light-bringer's backstory | [`world.md`](world.md): its contents list, then that part |
-| The next mission or Kesh's targets | [`world.md`](world.md): Kesh's target list and the mission briefs |
+| An NPC or a place, or a Light-bringer's backstory | [`world.md`](world.md): its contents list, or search the file for the name |
+| The live mission | The sheet's Current state (orders, plan, what the Mart knows) and the top of `dm-notes.md` |
+| Later missions or Kesh's targets | [`world.md`](world.md): Kesh's target list and the later-mission briefs |
 | The ship's layout | [`world.md`](world.md): "Season Two: how it plays"; [`maps/`](maps) |
 | An item's history, blessing or spirit; the container's stock; builds; books; the wishlist | [`inventory.md`](inventory.md): its contents list, then that part |
 | A picture of an item, a battle map, a ship map | The lore-art skill |
@@ -76,6 +77,7 @@ Award XP (the sheet's XP table), check the book is up to date with every day pla
 - Roll the faction's wealth: `python3 wh40k_gear/roll_enemy.py wealth TYPE` (once per mission or world).
 - Check the DM notes' witnesses and nemeses: bring one back if the story fits (codex Part 8, Nemeses; the DM's call, no automatic rolls).
 - Enemies: `python3 wh40k_gear/roll_enemy.py TYPE COUNT WEALTH [GOD]`. The types are cultist, raider, pirate, traitor and traitor_elite.
+- Any other roll (saves, break checks, loot d20s, NPCs): `python3 wh40k_gear/dice.py d20` (or `3d20`, `d6`...). A rare item: `python3 wh40k_gear/dice.py rare weapons` (rare roll 1, gear in use) or `rare any` (rare roll 2, stashed).
 - Shops: `python3 wh40k_gear/roll.py SELLER SIZE` (restock every 2 days). Sellers: **M** Munitorum or fleet stores, **B** black market or chandlers, **A** Mechanicus shrine, **F** Free Trader or Void Exchange, **E** Ecclesiarchy. Sizes: small (5-7), medium (9-12), large (14-18), huge (20-25).
 
 ---
@@ -92,5 +94,3 @@ Award XP (the sheet's XP table), check the book is up to date with every day pla
 | [`book-season-2.md`](book-season-2.md) | Season Two as a novel (the only story file) |
 | [`book.md`](book.md) | Season One as a novel |
 | [`maps/`](maps) | Pictures of *The Bright Light* |
-
-**Cleanup in progress (session 10).** The sheet is being split. Steps: 2 checklist ✓ · 3 DM notes → `dm-notes.md` ✓ · cold-test fixes ✓ · codex map ✓ · 4 write days 17-33 into the book ✓ (Chapters 28-70) · 5 history → `archive.md` ✓ · 6 rebuild the sheet ✓ · 7 NPCs and missions → `world.md`, gear → `inventory.md` ✓ · 8 remove duplicates, rules into the codex · 9 cold test. Update this table as each file appears; delete this note when done.

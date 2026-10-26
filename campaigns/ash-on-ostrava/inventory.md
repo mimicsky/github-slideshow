@@ -42,16 +42,15 @@ Gear detail: Tamsin's weapons and their history, the Light's containers, builds,
 | Acolyte pin; armband | Armband: *OSTRAVA SECUNDUS - CADIAN REMNANT*, white gate on black, left arm |
 | Strahn's hold order (carbon duplicate) | The copy of the order Tamsin never delivered at Kasr Holn, in Strahn's hand, kept in his coat lining for a year. Given to Tamsin on warp day 4 to the Rest: "For the new man." |
 | Venn's vellum note | In Tamsin's locker: *"Velk. Under the Choir-Ice, past the dead chapel. Fourth stair down. It sleeps. The key fits the cradle, not the door. If I don't come back: don't go down alone. And don't take V's word for what's down there. He wasn't there. I was."* |
-| Vox-beads | 4 Navy beads (Gryphonne pattern), **retuned by Hespa-Vor to an encrypted channel called THE LIGHT** (warp day 5 to Ostrava), linked to the Lantern's vox so Kell can listen. Tamsin, **Kell, Varga and Dace** each wear one, 24/7. **Six more** from the Rest haul (session 7) for Hollis, Brenner, Isk, Tavi, Morcant and Sallow, retuned by Hespa-Vor; all ten on THE LIGHT, 24/7 |
+| Vox-beads | 4 Navy beads (Gryphonne pattern), **retuned by Hespa-Vor to an encrypted channel called THE LIGHT** (warp day 5 to Ostrava), first issued session 5-7 (Tamsin, Kell, Varga, Dace, then Hollis, Brenner, Isk, Tavi, Morcant, Sallow). **Now everyone in the Light wears one, 24/7** (the player, day 33); re-keyed days 27-28; ~23 spares in the container |
 | Purity seal (spare) | Thane's unused sleep seal, held by Varsaine |
 
-## The Light's containers
+## Container stock (the crate)
 
-Two Munitorum shipping containers in the *Bright Light*'s hold (the Light's,
-chalked *PROPERTY OF THE LIGHT* and padlocked, with Tamsin's weapon rack inside;
-and Container 2). Everything the Light owns is counted below.
-
-## Inventory (counted day 25, session 10; day 29 haul added)
+Two Munitorum shipping containers in the *Bright Light*'s hold: the Light's (chalked *PROPERTY OF THE
+LIGHT*, padlocked, Tamsin's weapon rack inside) and Container 2. **What isn't carried by someone** is
+counted here (day 25 count, day 29 haul and day 33 changes added). It's open stock: anyone may take from it;
+update the Full kit row and this count in the same save.
 
 The Light's container, Container 2 and the hold, all together (what isn't carried by someone).
 
@@ -99,7 +98,7 @@ Kasrkin-pattern build (catalogue, kit): about 1 minute of lift per charge in ~6 
 
 The Ustrennos library books went back on day 31; unfinished ones keep only the hours already counted.
 - **Tamsin:** *Questioning of Mutineers and Prisoners*: **+1 on will checks**.
-- **Isk:** *The Munitorum Marksman's Primer* (done day 20). **Corvane:** *Armsmen's Cutlass and Boarding Blade Drill* (done day 20). **Brenner:** the Navy vox-operator's handbook (day 18) and the cogitator primer (day 20).
+- **Isk:** *The Munitorum Marksman's Primer* (done day 20). **Corvane:** *Armsmen's Cutlass and Boarding Blade Drill* (done day 20). **Brenner:** the Navy vox-operator's handbook (day 18) and the cogitator primer (day 20). Their stat bonuses are already applied; **no standing roll bonus**.
 - **Dace:** Ottrick's gunsmith manuals (the Light has them; taken from Ottrick without asking): manual 1 done (**+1 on gun-crafting**), manual 2 at 5 of 8 hours.
 
 ## Trade and debts

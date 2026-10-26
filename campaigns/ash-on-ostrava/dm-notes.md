@@ -29,7 +29,7 @@
 
 | Entry | Open when |
 | --- | --- |
-| [Nemeses and witnesses](#nemeses-and-witnesses) | A mission starts; anyone who got away from the Light shows up; a Chem-Dog, TALLY man or anyone with the Light's voices on a recording |
+| [Nemeses and witnesses](#nemeses-and-witnesses) | A fight ends (log witnesses); a mission starts; anyone who got away from the Light shows up; a Chem-Dog, TALLY man or anyone with the Light's voices on a recording |
 | [The gardener's guest](#the-gardeners-guest) | A sniper, a long case, a shield-breaker or Exitus round, Ustrennos's high side |
 | [Kesh may ask](#kesh-may-ask) | Talking to Kesh, Aldwyn or any Ordo courier |
 | [Kesh's prisoners](#keshs-prisoners) | The penal legion, Harrack, Sly or Fenn, the Weir |

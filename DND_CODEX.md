@@ -420,7 +420,7 @@ change any line and I play by the new version from then on.
 | Ability score generation | Standard array: 15, 14, 13, 12, 10, 8 | Confirmed |
 | Are DCs shown | Hidden, always | Confirmed |
 | Saving throws | I describe the threat before calling the save | Confirmed |
-| Initiative | You roll individually; monsters roll in groups | Confirmed |
+| Initiative | You roll individually; monsters roll in groups (off in narrative mode, house rule 4; fights run in beats) | Confirmed |
 | Initiative ties | Break in the player's favor | Confirmed |
 | Free object interaction | Lenient on trivial actions, strict when tactically relevant | Confirmed |
 | Rules development | Playtest mode: rules get made and logged during play | Confirmed |
@@ -755,7 +755,7 @@ day's end, from the training plan and from what happened in play.
   vox, cogitators), both parts go to INT (+1.5 for an ordinary manual). Some books also
   give a **standing roll bonus** in their subject (e.g. +1 on will checks). Each reader
   gets a book's completion bonus once; rereading gives only the hourly reps. The DM sets
-  each book's hours, stat and bonus when it's found; tracked on the campaign sheet.
+  each book's hours, stat and bonus when it's found; tracked in the campaign's inventory file (Ash on Ostrava: `inventory.md`, Books).
 - **Kills count:** +0.1 per kill (**putting an enemy Down counts as a kill**) in the stat it used: a melee kill (blade, axe,
   knife) is STR, a shot or thrown kill (gun, grenade) is DEX.
 - **Hours are hours of real work:** a mission day counts what they actually did in
@@ -1038,7 +1038,7 @@ own file, and tell you what's still unresolved. That way the next session starts
 from a real record instead of my memory of it.
 
 
-**The book.** Each campaign keeps a `book.md`: the story told as a novel,
+**The book.** Each campaign keeps a book file (Ash on Ostrava: `book.md` for Season One, `book-season-2.md` now): the story told as a novel,
 third person, past tense. **At the end of every in-game day, right after the daily
 tally** (changed by the player, Ash on Ostrava session 10: end-of-session writing let
 seventeen days pile up unwritten), the DM writes that day as full chapters: every scene, the real choices and
@@ -1121,7 +1121,7 @@ session 10):**
 2. **At looting** (one open d20 for the group): a **natural 20** means one of them had something rare
    **stashed on them that they didn't use** (a relic in a pocket, a sealed case, a stolen part).
 
-Either way the item is **drawn at random from the rare items in `wh40k_gear/pools.json`** (weapons and
+Either way the item is **drawn at random from the rare items in `wh40k_gear/pools.json`** (`python3 wh40k_gear/dice.py rare weapons` or `rare any`) (weapons and
 gear for roll 1, anything for roll 2), never chosen to fit. It has a story, is often damaged or short on
 ammunition, and someone may want it back.
 

@@ -12,8 +12,8 @@ People, places, the ship, Kesh's targets and mission briefs. **Not read on resum
 - [Open threads](#open-threads)
 - [Season Two: how it plays (set by the player, end of session 7)](#season-two-how-it-plays-set-by-the-player-end-of-session-7)
 - [Kesh's target list (Season Two, on the *Bright Light*'s hololith)](#keshs-target-list-season-two-on-the-bright-lights-hololith)
-  - [Next mission: Vhal Korrin, Spire Vane (briefed session 9; after Aldwyn's hand-off)](#next-mission-vhal-korrin-spire-vane-briefed-session-9-after-aldwyns-hand-off)
-  - [Next mission: Sennet's Reach (chosen session 8)](#next-mission-sennets-reach-chosen-session-8)
+  - [Later mission: Vhal Korrin, Spire Vane (briefed session 9; after Aldwyn's hand-off)](#later-mission-vhal-korrin-spire-vane-briefed-session-9-after-aldwyns-hand-off)
+  - [Later mission: Sennet's Reach (chosen session 8)](#later-mission-sennets-reach-chosen-session-8)
 - [The hub](#the-hub)
 - [Prisoners with Merrick (Ustrennos)](#prisoners-with-merrick-ustrennos)
 
@@ -157,12 +157,12 @@ Rolled openly for confirmed (11+) or rumoured, session 8.
 | --- | --- | --- | --- |
 | **Gallowmere** (agri world) | Grain barges coming in rotten; crews sick; a sign like three circles scratched in a hold | Rumoured (8) | ~4 days |
 | **Ustrennos** (Drachen's old anchorage) | **Done** (session 8): the Spindle taken. Told in book 2, Part One | Done | ~6 days |
-| **Torvane's Mart** (trade asteroid) | Chaos-marked weapons moving through the Mart's warehouses | Rumoured (6) | ~5 days |
+| **Torvane's Mart** (trade asteroid) | Chaos-marked weapons moving through the Mart's warehouses | **Live mission (from day 31; arriving day 33)**: brief and plan on the campaign sheet's Current state | ~5 days |
 | **Ostrava Primus underhive** | Dark Mechanicus cell under the reactor district, eight-toothed cog sigil (matches the traitor tech-priest's medallion, session 2); servitors going missing; an Arbites patrol lost | **Confirmed (20):** pict-capture of the cog sigil, a known heretek's name: **Magos Vell-Orrin** | ~6 days |
 | **Sennet's Reach** (mining moon) | Mining colony's beacon silent a year; last astropathic scrap mentions an "open gate" | **Confirmed (17):** survey skiff found the colony gates chained open from the inside, Open Gate cult marks | ~3 days |
 | **Vhal Korrin** (hive world, added session 9 by the player as an earlier talk with Kesh) | Overrun hive; cults dug in through the spires and underhive; one of the sector's chaos supply markets (guns, drugs, slaves, relics). Kesh asked the Light to take out enemy outposts | Confirmed (Kesh's request) | ~4 days from Ustrennos |
 
-### Next mission: Vhal Korrin, Spire Vane (briefed session 9; after Aldwyn's hand-off)
+### Later mission: Vhal Korrin, Spire Vane (briefed session 9; after Aldwyn's hand-off)
 
 - **Briefing (Tamsin):** Vhal Korrin is the sector's cult supply hub; hit it and cults like Thask's have nothing to trade or recruit from. The Light's job: **destroy 10 cult compounds in Spire Vane**, on different levels; other teams take the other spires. Intel on some, none on others.
 - **Terminal: Brutal** (Nightmare if tried in one push). Tweaks: ten targets means several drops over days; **with two other teams hitting the other spires and civilians rising against the cult, the whole hive is already at alert from day one, so a single hit doesn't add much warning (player's point, accepted); but while the dead vox-hub stands, Spire Vane's compounds can call each other for help;** civilian uprisings mean some crowds fight the cult and some panic or turn on anyone armed; a hive's levels mean tight ground, crowds, collapsing structure and long climbs; hive gangs and civilians everywhere; the slave pens hold captives; the gun market and the relic trade are where something like an Exitus round would pass through. Rumour: something old and holy is being sold out of the Reliquary.
@@ -180,7 +180,7 @@ Rolled openly for confirmed (11+) or rumoured, session 8.
 - **Plan (Tamsin, ~1630 day 13):** hit the **dead vox-hub first** (no reinforcements); quiet where it pays, but most compounds just need destroying; **one drop at a time**; leave for Vhal Korrin after Aldwyn's hand-off and heal on the way. 'We have time, they don't.'
 - **Reward guide:** a hive armoury's worth of guns and ammo (the Gun Market), combat drugs and medicae (drug works), relics and odd tech (the Reliquary, the manse), salvage from the power plant and vox-hub (plasteel, machine-cores), freed captives (possible recruits), cult records, trade ledgers that may trace the round.
 
-### Next mission: Sennet's Reach (chosen session 8)
+### Later mission: Sennet's Reach (chosen session 8)
 
 - **Briefing (Tamsin):** a sand-dune mining moon gone silent; Open Gate cult confirmed; outposts scattered around the moon; scout first, then raid: take out the heretics, get out.
 - **Terminal:** **Hard.** Tweaks: a year of cult control (the whole colony may have turned); sandstorms can ground the Valkyrie; several outposts, so scouting matters; the gates chained open from inside may be an invitation; Open Gate was Nurgle-touched on Primus, so rebreathers and seals matter. Rumour: the miners dug into something old in the deep shafts before the beacon died.
