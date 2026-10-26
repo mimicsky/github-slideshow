@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1558 warp day 33, Torvane's Mart: berth 31's lower hold, outside the counting room.** The Bloom is a girl, bled for years (her blood shipped to the 6th). Tamsin, furious, ordered everyone onto berth 31 to sweep it clean; Mira is landing team B on the roof; Varga is loading Thask and the loot, Sallow has the girl. Tamsin (Tey behind him) is at the locked counting room door; Ilsabet is inside, alone, burning the ledgers.
+**Where we stopped:** **session 10, ~1559 warp day 33, Torvane's Mart: berth 31's counting room.** Tamsin kicked the door in; **Ilsabet is face down on the floor**, unarmed, under his Stinger. About a third of the ledgers are burned; the rest are on the shelves and stacked by the roaring stove. A locked iron strongbox is bolted under the desk. Team B is sweeping the building; Varga is loading Thask, Sallow has the girl.
 
 ### Current state (day 33)
 
