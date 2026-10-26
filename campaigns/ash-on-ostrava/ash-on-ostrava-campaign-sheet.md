@@ -110,6 +110,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1410: Mira lifted with the hall's loot for the *Light* (back ~1430) to come back for prisoners and civilians; two runs needed.
 - ~1411-1430: Tamsin: civilians first; **the eight breathing gardeners executed** ('of no use to us'). The Light dug the twelve out of the mulch beds: weak and starved, the fungus only skin-deep; all sixteen civilians will live.
 - ~1430: Mira landed for the first twelve civilians (to the Spire's medicae; the last four next run). Brenner laid out what's left on his slate: the customs house, berth 31, Crane Yard 6, the cannery. Sector map updated (~1430).
+- ~1432: **Tamsin's plan:** take Crane Yard 6 to push the Hookmen back, then clear the Tallow Boys off the west side, claim the dock ring and lock down the middle. The team weighed in (Kell: the cranes are high ground, Crale watches from his cab; Nessa: Thask hears every shot; Brenner: holding the middle needs bodies, Moll's guards or Dorrow's militia).
 - ~1216: 'INQUISITION, STOP FIRING, WE ARE FRIENDLY' (21): the militia stood down. Sergeant Pim Dorrow: eight left, a pack each, the Hookmen rush the gate every few minutes with a heavy stubber covering from the second bend. The Light took positions along the east wall.
 - ~1218: Tamsin, knowing the auspex has them, scanned the roofs (25): **a man in dark rags lying flat among the aerials on the blockhouse roof behind the Light**, silenced pistol and a frag in hand, watching their backs. He doesn't know he's been seen.
 
