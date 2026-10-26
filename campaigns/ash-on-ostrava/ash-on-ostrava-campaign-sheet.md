@@ -41,6 +41,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - Everything up to ~1050 day 33 is in the book (Chapter 70).
 - ~1051-1059: Tamsin asked where everyone was (sound-off on THE LIGHT); Nessa brought the penitents to the bridge; they told him their weapons experience (Dannel: one shot, at Tamsin; gutting knives. Joren: never fired; cargo hook); Ollin listed the crate; Tamsin gave each a lasgun, bayonet and flak coat, uncuffed them and promised redemption if they prove themselves.
 - ~1100: braced; rough drop-out into fleeing traffic, hauler scrape; Voke's distress call.
+- ~1102: Brenner tight-beamed Voke; Tamsin named himself (Interrogator Rook, the Inquisition, here for Thask); Voke's brief: revolt since 0500 (gardeners + the Hookmen and Tallow Boys gangs), customs house fallen, militia broken; objectives: vox mast, scrubber hall (air plant), customs-house strongroom (~20 of his men), the Spire's lower gates, berth 31 (Thask). Landing pad at the Spire is Voke's; guns on the stair roofs. Tamsin: Valk to the Spire pad, full kit; walked to the hangar.
 
 ### What the Light knows about Thask
 
