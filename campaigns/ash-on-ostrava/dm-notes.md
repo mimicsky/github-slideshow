@@ -26,6 +26,7 @@
   - **Stair head** (pad's south-east corner, ~10 m from the Valk's door): #3 Ogryn (ripper gun, girder, scrap throwing knives, leathers; STR +6 DEX +1; Dirty; 3 extra health stages; shots at it +2; one charge a fight).
   - **The Governor's guards:** 4 left behind the north parapet (2 dead before, 1 more beat 1).
   - Valk landed door-east (facing the near roof and stair head), nose north.
+  - **Beat 3 (in progress):** Tamsin out the door with Shameholder + Stinger (off hand), orders: Dace charge with him, Varga up to attack the coat guy, the Light to cover. Varga hopped ~15 m up over the pad (airborne; shoots next beat). **The Ogryn's once-a-fight charge is used:** Dace's shield stopped it dead (24 vs 10), it rocked back onto the top step. Waiting on Tamsin's swing; then the rest of the beat (near roof, far roof, psyker's force blast fires, the Light finds cover).
 - **Warp exit (pre-rolled 5, rough), USED ~1100 day 33:** the Light drops out into the stream of ships fleeing the Mart; a hauler scrapes the dorsal plating (cosmetic).
 - **Faction wealth:** Mart cultists **Good** (74), rolled day 31.
 - **Nemeses this mission:** **Kessick Vay rolled 18: he appears this mission.** Hessler rolled 15: not this time; he grows stronger (better gear or more followers). Details under "Nemeses".
