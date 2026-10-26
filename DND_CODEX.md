@@ -668,6 +668,7 @@ modifier.
   body in it.
 - **One swing a beat** (Part 6, A beat): each exchange above is one swing and its defence. **A defender can answer two attackers a beat.** The third and any beyond
   get through undefended.
+- **Follow-up swing** (set by the player, Ash on Ostrava session 10, to balance melee against shot strings): **a melee hit that lands earns a second swing in the same beat, 2 swings a beat at most.** The defender answers it like any swing (it doesn't count as a second attacker). A **parry** on either swing ends the chain and flips the initiative as normal; a **block** just stops that swing's damage (a blocked first swing isn't a hit, so no second). The raw-17 unparryable blow applies to both swings. It works the same for enemies.
 - **Two weapons turn a block into a parry.** Fighting with a weapon in each hand
   does not raise the two-attacker cap — a second blade covers another line, it
   does not double how many people you can track. What it does is convert every
