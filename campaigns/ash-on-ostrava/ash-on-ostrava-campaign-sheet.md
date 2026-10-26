@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1145 warp day 33, Torvane's Mart.** The Spire pad is won; the Light (all sixteen) is on foot through the dock ring's west side, heading for the old maintenance stair on the vox mast's west face (Tamsin's plan: up the west face, then pour fire down on the Hookmen on the ridge road). Prisoners left with Captain Moll in the Spire. Mira on the *Light*, ready to come fast when called. **A Tallow Boys looting crew (4) at a chandler's shop 30 m ahead has just spotted them on an auspex.**
+**Where we stopped:** **session 10, ~1145 warp day 33, Torvane's Mart.** The Spire pad is won; the Light (all sixteen) is on foot through the dock ring's west side, heading for the old maintenance stair on the vox mast's west face (Tamsin's plan: up the west face, then pour fire down on the Hookmen on the ridge road). Prisoners left with Captain Moll in the Spire. Mira on the *Light*, ready to come fast when called. **A Tallow Boys looting crew (4) at a chandler's shop has just surrendered to them without a shot.**
 
 ### Current state (day 33)
 
@@ -57,6 +57,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1130: Tamsin briefed the Light in the receiving hall with the Governor's picture (rep: CHA, briefing). Kell: the mast is the clock; Nessa: she doesn't need the customs house (the tug dock); Sallow: filters on everyone before the scrubber hall; Tavi: the strongroom's under the customs house, so no blowing floors; Dannel: Pell is on Tallow Boys turf.
 - ~1132: **Tamsin's call: take ground and enforce the Ordo until we reach Thask; first the vox mast, clear the area, take back the asteroid.** The Light is up for it. Varga: three hops left in her pack (recharge ~2 h on a station). Mast layout from Voke's plans on Brenner's auspex: lattice tower ~60 m on the central ridge, ~1.5 km south of the Spire; platform ~25 m across, low blast wall, the transmitter blockhouse at the mast's foot, cable trenches; the ridge road switchbacks ~300 m up the east face from the dock ring (Hookmen on the top two bends, abandoned haulers on it); old maintenance stairs up the steep west face to the back of the platform, no heat there.
 - ~1135-1145: Tamsin: push from the west face and bring the Light down on them from above; Mira stays on the *Light* until called (be out fast). Prisoners to Moll. Out the lower gates, down the main stair, west through the dock ring; ~600 m in, Corvane spotted four Tallow Boys looting a chandler's; their auspex man saw the Light through the wall.
+- ~1146: 'PUSH PUSH PUSH': Tamsin stepped out with Vigil, the Light poured round the corner; the four Tallow Boys dropped everything and surrendered (the auspex man: Old Wick told them to take what they want).
 
 ### What the Light knows about Thask
 
