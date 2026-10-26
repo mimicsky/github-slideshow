@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1400 warp day 33, Torvane's Mart: inside the scrubber hall, fight beat 3 done.** Nine of eleven gardeners down; the Singer parried Corvane and has the initiative in the fog at the vat's edge; Isk burst the running flamer's flamer (he's unarmed, badly hurt). The Light have secured the floor. **The cage with four captives is still under the vat's sludge.** The Spire has ~9 hours of air.
+**Where we stopped:** **session 10, ~1401 warp day 33, Torvane's Mart: inside the scrubber hall, fight beat 4 done.** Ten of eleven gardeners down; only the Singer stands, and Corvane parried him and has the initiative while Tamsin watches. Dace and Tey have the cage halfway up on the winch, still under the sludge; Brenner purged the fog; the promethium fire is spreading. The Spire has ~9 hours of air.
 
 ### Current state (day 33)
 
