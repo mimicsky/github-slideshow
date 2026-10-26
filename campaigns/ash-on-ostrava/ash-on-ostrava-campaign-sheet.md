@@ -137,6 +137,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
   recognition **"Thorn"**, answered **"Bloom"**.
 - **The gardener's guest:** an off-world woman who came to the Mart with a long case,
   Thask's honoured guest; she asked for the Exitus round.
+- **The Moebian 6th (day 33, the tug dock):** a traitor Guard regiment gone to Nurgle; Tamsin knows them by reputation: whoever fights them doesn't come out well, they use swarms of poxwalkers, they fill themselves with the rot but still move like a real regiment. Five of them guard Thask's back door. **Tamsin's read: they've been behind it all along** (the garden, the jars, the plans).
 
 ## The character
 

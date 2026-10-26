@@ -15,6 +15,9 @@ Munitorum never cured. Now they spread it on purpose.
 - **Tactics:** they don't charge; they hold and grind. Gas first, then slow,
   steady fire that pins you while their sick walk forward through your shots.
   They foul the air and the water before a fight.
+- **Poxwalker swarms** (added by the player, Ash on Ostrava session 10): they drive swarms of
+  poxwalkers ahead of them, and infuse themselves with the rot, yet still move like a real
+  regiment. Whoever fights them rarely comes out well.
 
 ## The Volscani Cataphracts
 
