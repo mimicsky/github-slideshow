@@ -70,6 +70,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1204-1212: Tamsin: Sallow checks the civilians and tends the two, hauls prisoners and gear into the Valk, then comes up to the platform with Tavi. All loot left in a pile (Tamsin's satchel, the penitents' and Tey's carried guns, Kell's pouch). The rest walked the last 400 m without trouble to the foot of the west-face stair (sound and open, d20 18).
 - ~1212-1215: up the stair quiet; at the top a militiaman panicked and fired on the Light (Corvane hit, shrugged).
 - ~1216: 'INQUISITION, STOP FIRING, WE ARE FRIENDLY' (21): the militia stood down. Sergeant Pim Dorrow: eight left, a pack each, the Hookmen rush the gate every few minutes with a heavy stubber covering from the second bend. The Light took positions along the east wall.
+- ~1218: Tamsin, knowing the auspex has them, scanned the roofs (25): **a man in dark rags lying flat among the aerials on the blockhouse roof behind the Light**, silenced pistol and a frag in hand, watching their backs. He doesn't know he's been seen.
 
 ### What the Light knows about Thask
 
