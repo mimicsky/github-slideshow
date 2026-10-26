@@ -91,6 +91,7 @@
   - **Tending the beds** (~25-35 m, between the vats): **#2 FLAMER** (stolen Ryza flamer + 2 canisters, flak; STR+2 DEX+2; Neglected; found: Chaos grimoire); #5 grunt ranged: sawn-off + toxin needle-blade, flak, rot-spore bottle; found: pipe-bomb; #8 grunt ranged: scattergun + toxin needle-blade, carapace chest, stimm; found: **ward-mark**; DEX+2; #11 grunt melee: toxin needle-blade + **desecrated chainsword** (-1 to parry with it), flak, frag; DEX+2.
   - **#9 BREACHER**: boarding shield + sawn-off, carapace chest, cult amulet; found: pipe-bomb; by the beds nearest the ramp (~20 m).
   - **Hauling mulch sacks at the far end** (~60 m): #1 grunt ranged: stub revolver + chain knife, flak, stimm; found: cult-forged blade; Dirty. #7 grunt ranged: autopistol + Cadian machete, flak, prayer-book; found: stolen officer's laspistol.
+  - **~1357:** at the ramp foot Tamsin asked the Light, low: 'More hostiles, team, ready to engage?' All ready (no beat passed; still unseen). Isk on the catwalk gunner, Nessa in needle range of the breacher (~20 m), Sallow warned off fire near the beds, Hollis: 1 frag + 1 spec flash left.
   - Rot-spore gas: CON save or sickened (drops a health step at the end of the fight unless given antitoxin); rebreathers and gas masks give advantage on the save (Tey and Sorel's filters count as masks).
 - **Warp exit (pre-rolled 5, rough), USED ~1100 day 33:** the Light drops out into the stream of ships fleeing the Mart; a hauler scrapes the dorsal plating (cosmetic).
 - **Faction wealth:** Mart cultists **Good** (74), rolled day 31.
