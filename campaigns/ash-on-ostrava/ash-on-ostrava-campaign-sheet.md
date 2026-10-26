@@ -66,6 +66,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1153-1155: 'Push up quiet, ambush on my call': the Light moved up unseen (20 vs 14; Tamsin 25). In position behind three Tallow Boys dragging four roped civilians toward a side street to the rendering yards. A woman begged 'Mister Wick': **the boss is Old Wick himself.** Wick: 'The gardeners pay ten Thrones a head, so move.' (Nessa's stealth teaching paid off.)
 - ~1156-1157: the ambush: Kell shot the flamer man's arm (disarmed); Tamsin put Vigil bolts through Wick's thigh and gun arm (hand cannon dropped); Dace on the knife man; 'SURRENDER NOW' (18): all three gave up. Reps: Tamsin 4 orders/calls (WIS), 2 hits (DEX), the intimidation (CHA); Kell 1 hit (DEX); the Light's stealth (DEX).
 - ~1158-1200: Sallow patched Wick to Hurt (13+8 = 21); Brenner's scan (17): that's all of them, nothing coming, the mast platform ~11, the ridge road ~25; the civilians cut loose (a dock clerk, a woman, an old man, a boy ~14: rope burns and bruises); Wick's crew searched: 312 Thrones, nothing rare. Reps: Sallow (WIS), Brenner (INT).
+- ~1202: Tamsin called Mira: pick up the prisoners (and the loot) here, take them to the Spire pad, Ferro to escort them down to the Governor's cells. Mira: ~10 min, putting down in a tram yard ~60 m back. Plan: Sallow and Tavi stay with the loot; the rest push the platform, then the road. Sallow objected (no medic for twenty-five Hookmen).
 
 ### What the Light knows about Thask
 
