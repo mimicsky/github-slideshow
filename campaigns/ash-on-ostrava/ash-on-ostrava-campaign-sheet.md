@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1554 warp day 33, Torvane's Mart: berth 31's top floor, the Bloom's door blown in.** Thask (bound) dragged down the stairs by Varga, shouting not to hurt her. Behind the door: **a pale girl about to turn twelve, in a windowless room painted like a garden**, untouched by the blast, pressed into the far corner. The Light stand back, guns up. Mira is bringing team B to the roof (~5 min). Ilsabet is still burning the books below.
+**Where we stopped:** **session 10, ~1558 warp day 33, Torvane's Mart: berth 31's lower hold, outside the counting room.** The Bloom is a girl, bled for years (her blood shipped to the 6th). Tamsin, furious, ordered everyone onto berth 31 to sweep it clean; Mira is landing team B on the roof; Varga is loading Thask and the loot, Sallow has the girl. Tamsin (Tey behind him) is at the locked counting room door; Ilsabet is inside, alone, burning the ledgers.
 
 ### Current state (day 33)
 
