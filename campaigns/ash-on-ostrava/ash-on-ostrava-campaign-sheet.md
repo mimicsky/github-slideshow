@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1407 warp day 33, Torvane's Mart: inside the north valve house.** Varga unlocked it: one empty room, the Spire's main pipe and its red override wheel, shut, the gauge on zero. Tamsin, Varga, Corvane, Tavi and Hollis are inside. The rest of the Light are loading the Valkyrie. Sixteen captives are still in the hall. The Spire has ~8.5 hours of air.
+**Where we stopped:** **session 10, ~1409 warp day 33, Torvane's Mart: inside the north valve house.** **The Spire's air is back on**: Tamsin and four of the Light opened the override wheel; Captain Moll says the vents are blowing. The rest of the Light are loading the Valkyrie by the scrubber hall's gate. Sixteen captives (4 from the cage, 12 buried in the beds) are still in the hall.
 
 ### Current state (day 33)
 
@@ -105,6 +105,8 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1404: Morcant opened the cage; Sallow revived the dock worker and the girl (all four alive). Inside loot gathered to the barricade (207 Thrones; heretic stuff left); Mira landed for it.
 - ~1405: Tamsin took Varga, Corvane, Tavi and Hollis to the north valve house (locked steel door); the rest load the Valkyrie.
 - ~1406: searching the bodies quietly, Varga found the valve house key ('N. VALVE') on the Lasgun gardener's neck.
+- ~1407-1409: inside the valve house (empty; Tamsin's Perception 20: nothing rigged, the air clean). **Tamsin and his four heaved the override wheel open: the Spire's air is back on (~1409).** Mira relayed Captain Moll: air in the Spire's vents, cheering in the halls.
+  - **Reps (tally at day's end):** Tamsin: the Perception (WIS). Varga: found the key (WIS).
 - ~1216: 'INQUISITION, STOP FIRING, WE ARE FRIENDLY' (21): the militia stood down. Sergeant Pim Dorrow: eight left, a pack each, the Hookmen rush the gate every few minutes with a heavy stubber covering from the second bend. The Light took positions along the east wall.
 - ~1218: Tamsin, knowing the auspex has them, scanned the roofs (25): **a man in dark rags lying flat among the aerials on the blockhouse roof behind the Light**, silenced pistol and a frag in hand, watching their backs. He doesn't know he's been seen.
 
