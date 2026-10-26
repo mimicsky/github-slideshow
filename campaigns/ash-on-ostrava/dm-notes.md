@@ -20,14 +20,12 @@
   - Why now: Thask moved early because the Light gutted his Ustrennos line (the circle, Hob, Charter 7).
   - The Governor asking for help overrides Kesh's "no open war"; Thask is still wanted alive; the Bloom is on Tamsin's judgment.
   - **Brutal**, run as several fights of 10-30: Valkyrie drop, objective, extract, repeat.
-- **Fight 1 in progress: the Spire pad (~1106 day 33).** `roll_enemy.py raider 14 poor` (Hookmen and Tallow Boys; gang wealth POOR, d100 27; basic group; group d20 2: no rare gear in use, better-armed 0). Neglected guns jam 1-3 (natural 1 seizes); Dirty jam on a natural 1.
-  - **Near roof** (east, 25 m, 5 m below the pad): #5 gunslinger (two autopistols, leathers, Quicksilver; STR +1 DEX +2; Dirty; on the water tank, calling out the best shot); #8 heavy gunner (ripper gun, leathers, Quicksilver; DEX +3; Neglected; raider: -3 suppression, -2 own shots, walks forward firing); grunts #6 junk shotgun + stolen shock baton, flak (DEX +2, Dirty); #10 melee: combat knife, autopistol, mesh, frag (DEX +1, Dirty); #11 melee: hive shank, flak, Quicksilver (DEX +2, Neglected); #13 melee: hive shank, Hammerfall auto-revolver, mesh (DEX +2, Dirty); #14 pump combat shotgun, combat axe, leathers, stimm (DEX +1, Dirty). **#1 (junk shotgun, knife, leathers, frag) Down** (the Governor's guards, beat 2).
-  - **Far roof** (south, 50 m): #7 rogue psyker (crude staff + knife, flak; DEX +2; Dirty; Perils 1-4 by the role, raider -1 when pressured; powers rolled: **Force blast** (1-beat charge) and **Warp-fire** (2-beat charge); fired a force blast beat 1 (missed), charging another at touchdown); grunts #2 Rattler scrap SMG, hive shank, flak, stimm (STR +3 DEX +2, Dirty); #4 autopistol, combat axe, flak (DEX +2, Neglected); #9 nailer, scrap throwing knives, leathers (DEX +1, Dirty); #12 pipe rifle, combat axe, leathers (DEX +2, Dirty).
-  - **Stair head** (pad's south-east corner, ~10 m from the Valk's door): #3 Ogryn (ripper gun, girder, scrap throwing knives, leathers; STR +6 DEX +1; Dirty; 3 extra health stages; shots at it +2; one charge a fight).
-  - **The Governor's guards:** 4 left behind the north parapet (2 dead before, 1 more beat 1).
-  - Valk landed door-east (facing the near roof and stair head), nose north.
-  - **After beat 4:** **Down:** #1, **the Ogryn** (Tamsin's chainsword to Hurt, Corvane's shotlas + power sword as the undefended third attacker; Down on the stair below the stair head), **the gunslinger** (Varga, two hellgun bolts; Down by the water tank), **#6** (Sorel to Badly hurt, the Governor's guards' nat 20). Up: ripper gunner Fine (pinned by Morcant -2; shot at Dace, shrugged, Dace wear 1 of 3); #14 Hurt behind a vent (unpinned); hook-men on the main stair climbing toward the stair head, ~25 m: #10 Hurt, #11 Badly hurt, #13 Badly hurt (Hollis's frag); psyker Hurt, charging another force blast (fires beat 5; Isk missed); far roof 4 Fine. The Governor's guards: 3. Varga airborne (wear 1 of 3). Tamsin at the stair head with Dace (left), Corvane (right), Tey (behind). Mira still on the pad waiting for an answer about lifting. Group: 14, 4 Down, no leader role; breaks at 7 Down.
-  - **Beat 5 (in progress):** Tamsin: penitents into the fight (general), orders Dace (push the hook-men with Promise Holder) and Kell (the ripper gunner); Tamsin's Stinger 10-round burst at the psyker (waiting on his ten d20s). Done so far: Dace sprinting down the stair at the hook-men (swings next beat); **Kell crit + hit: the ripper gunner Down** (5 Down); the psyker's force blast at Varga missed (6+2-1-3 = 4; Perils 9-1, none), power spent.
+- **Fight 1 done: the Spire pad (~1106-1107 day 33).** 14 raiders (Hookmen and Tallow Boys; `roll_enemy.py raider 14 poor`; group d20 2: no rare gear in use). The group broke at 8 Down; break d20 7: **the rest surrendered.**
+  - **Dead (d6 1-3):** the Ogryn (#3; Corvane's power sword), the gunslinger (#5; Varga), the ripper gunner (#8; Kell), the rogue psyker (#7; Tamsin's Stinger burst, two crits, hit again while Down), #12 pipe rifle (Varga), #14 pump shotgun (the Governor's guards).
+  - **Alive but Down (d6 4-6):** #1 (junk shotgun; near roof, behind the water tank), #6 (junk shotgun + stolen shock baton; near roof, by the vents).
+  - **Surrendered:** far roof #2 (Rattler SMG; Badly hurt), #4 (autopistol; Hurt), #9 (nailer; Fine); on the main stair facing Dace and Corvane: #10 (knife, autopistol; Hurt), #11 (shank, Quicksilver; Badly hurt), #13 (shank, Hammerfall auto-revolver; Badly hurt).
+  - Loot not yet rolled (looting d20 natural 20 = stashed rare); coin on bodies per codex Part 8, Loot.
+  - The Governor's guards: 3 of 7 left. Mira still on the pad (asked whether to lift; no answer yet).
 - **Warp exit (pre-rolled 5, rough), USED ~1100 day 33:** the Light drops out into the stream of ships fleeing the Mart; a hauler scrapes the dorsal plating (cosmetic).
 - **Faction wealth:** Mart cultists **Good** (74), rolled day 31.
 - **Nemeses this mission:** **Kessick Vay rolled 18: he appears this mission.** Hessler rolled 15: not this time; he grows stronger (better gear or more followers). Details under "Nemeses".
@@ -59,7 +57,8 @@
 
 **The rule now (player, session 10):** no automatic rolls. After each fight, add who got away or was left alive and saw it (where, what they saw, how they feel) to the witness list below. Bring one back when the story fits; roll only when genuinely undecided.
 
-**Witnesses:** none logged yet for the Mart.
+**Witnesses:**
+- **The Spire pad prisoners (day 33, ~1107):** 8 Hookmen and Tallow Boys taken (#1, #6 Down; #2, #4, #9, #10, #11, #13 surrendered). They saw the white-trimmed grey plate, the white Valkyrie, Tamsin with the chainsword and machine pistol, the jumper, heard the call-and-answer ('WHAT ARE WE?' 'WE ARE THE LIGHT'). Bought gangers, not believers: scared, beaten, want to live. Nobody escaped from this fight.
 
 **Nemeses (made under the old rule):**
 
