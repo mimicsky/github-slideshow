@@ -187,6 +187,7 @@
 - **~1710-1820: back to the *Bright Light* to resupply.** Mira flew the Light up (~1720). Ollin cleaned every gun (all Clean); packs recharged and swapped; grenades topped up from the crate; Varga's lift pack charged; Ferro took the evidence jar into cold storage. Thask and Ilsabet in the cells, the girl in the medicae with Sallow.
 - **THE PLAYER'S WISH (session 10): the Mart's factions keep fighting.** No easy surrenders or folding: they counterattack, retake ground and dig in. Roll their moves between the Light's hits (fight options only) and **update the sector map at the end of each day** (and when something big moves).
 - **The Mart moves while the Light resupply (~1720-1820, rolled):** **gardeners/the 6th at the customs house dig in and reinforce** (d6 1; +3 = **~28**; sandbags and wire on the approaches; Voke's 20 still sealed in the strongroom below). **The Hookmen raid the east dock ring** (d6 3; **6 raiders** looting toward the burnt tenement and the empty scrubber hall's gate; Crale stays in his cab at CY-6). **The Tallow Boys raise a new boss and hold the cannery and rendering yards** (d6 2; **13**; the new boss, now set: **Marl Tegg**, he/him, a huge renderer with a flensing hook and a burned face, Wick's old yard foreman). No poxwalkers seen yet (d20 2).
+- **~1825:** Tamsin had the spook dose thrown out (jettisoned through the waste lock); his satchel loot unloaded into the crate and the coin box (15,252).
 
 
 

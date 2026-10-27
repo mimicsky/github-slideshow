@@ -63,6 +63,7 @@ The Light's container, Container 2 and the hold, all together (what isn't carrie
 - **Blades:** **Holt's power sabre**, the **captain's power sword** (Ferro's queue), 1 power knife (the other is Nessa's), 1 set of Callidus
   throwing knives, 2 chain-knives (day 25, day 29), 3 hive shanks (day 29; 2 from the Spire pad, day 33), a stolen shock baton and 2 combat knives (Spire pad, day 33), a combat axe (Spire pad), Navy cutlass, 2 officer's sabres, 4 grapple-cutlasses, 3 boarding axes, 2
   bayonets (2 to the penitents, day 33), 2 trench clubs, 5 sets of scrap throwing knives (2 from day 29: Hob's and the welder's; 1 the Ogryn's, day 33).
+- **Unloaded from Tamsin's satchel (day 33, ~1825):** the gunship pilot's stub pistol; a speedloader and a spare Hammerfall cylinder (fits the Hammerfall auto-revolver above); a combat knife; a carton of lho-sticks. **The day's other hauls** (the vox mast, the scrubber hall, the tug dock, berth 31) are listed on the campaign sheet under each loot line; all aboard. The mast's chem-doctor's bag came without its spook dose (thrown out).
 - **Armour:** **12 sound Gate Guard carapace sets**, 5 chalk-marked, 2 holed; 3 TALLY carapace sets; ~13 flak coats (2 to the penitents, day 33) + 3
   battered flak (day 25) + 1 flak armour set (day 29); 1 gas mask (day 29); the Spire-pad gunslinger's long leather coat (two holes) and 2 sets of gang leathers (day 33); ~25 helmets; 3 Navy void-suits; no spare grav-chutes (both issued: Varga's lift pack; Isk's frame waits on a machine-core, and one is now in stock); 1 boarding shield.
 - **Ammunition:** **1 crate of autogun rounds (~2,000)**, ~70 hot-shot packs, ~38 las packs (2 seated in the penitents' lasguns), ~320 shotgun shells, 6
@@ -76,7 +77,7 @@ The Light's container, Container 2 and the hold, all together (what isn't carrie
   blessing; his own 2 in his blade), **1 ceramite**, 1 servo-motor, **1 machine-core** (Merrick, day 31), a seized Rattler scrap SMG (day 29, needs a smith), ~18 station power cells, copper
   cable, 1 flask of sacred oil, the rim gun's firing coupling, the refractor field (Tamsin wears it).
 - **Valuables:** 8 bottles of spire amasec (Nessa's was paid day 25), 2 cases of spire wine (one bottle short), 2 tins of
-  off-world spice. **Coin box: 2,630 Thrones** (in Tamsin's cabin).
+  off-world spice. **Coin box: 15,252 Thrones** (in Tamsin's cabin; day 33's take of 12,622 unloaded ~1825, incl. Thask's strongbox).
 - **Trophies:** the Gate Guard regimental standard.
 - **Supplies:** the *Widow*'s 12 crates; (the *Kestrel's Due*'s 7 crates were opened and sorted on day 13).
 - **For Kesh (locked):** the FOR KESH box (Selk's register, the Gardener's letters, SICK ON FOUR list, the hollow
