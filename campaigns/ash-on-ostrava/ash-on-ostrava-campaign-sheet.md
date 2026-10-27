@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~0229 warp day 34, the customs house's east side (night).** Sneaking round to the east service door, Brenner's vox-caster clanged and the stab-light caught the Light strung out along the east strip; Tamsin, Tavi (with the primed breaching charge) and Dace are at the east wall ~15 m from the door. Venn's 17 wait in the strongroom for the breach. The fight is starting.
+**Where we stopped:** **session 10, ~0232 warp day 34, the customs house (night), fight beat 3 done.** The Light breached the east door, cleared the roof and killed the Sergeant of the 6th; Venn's garrison came up from the strongroom; on Tamsin's shout **the gardeners and Tallow Boys surrendered (~17)**. Still fighting: a gardener duelist in a duel with Corvane, a trooper of the 6th blind in the smoked arch, and 4 poxwalkers in the yard.
 
 ### Current state (day 33)
 
