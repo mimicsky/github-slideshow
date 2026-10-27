@@ -29,12 +29,13 @@ Then pick up exactly where we stopped.
 Start at step 1 and go through every step, in order, before rolling a single die. Don't skip a
 step because it "probably doesn't apply": open it and check. (Set by the player day 34, after
 two fights ran with bonuses missed.) On the first beat after a resume, open the reply with
-`Fight checklist ✓ 1-9`.
+`Fight checklist ✓ 1-10`.
 
 **1. Where are we?** Open the campaign sheet ([`ash-on-ostrava-campaign-sheet.md`](ash-on-ostrava-campaign-sheet.md)):
 "Where we stopped" (line ~9) and the last lines of "Day log". Then [`dm-notes.md`](dm-notes.md), "Live now":
 the live fight's entry, down to its last **"After beat N"** line. Write down: who is up, where, at what
-health, the distances, who is surprised, what the player declared.
+health, the distances, who is surprised, what the player declared. **Positions or distances not set yet? Set them
+and save them before rolling**, so they don't drift between beats.
 
 **2. How the player likes to play.** Codex Part 6, **"How the player likes to play"**: all of it, every fight.
 In fights the ones that bite: everyone acts every beat with their own roll; stop at the first decision point;
@@ -43,11 +44,13 @@ don't act, think or feel for Tamsin; **leftover shots go into another enemy auto
 the still-up board.
 
 **3. The enemy.** In the fight's entry in `dm-notes.md`: each enemy's weapon, armour (after any step-up),
-role, gun condition (Dirty or Neglected guns jam). Then:
+role, gun condition (Dirty or Neglected guns jam). **Anything unclear (an armour step-up, a weapon's reach): rule it
+once and write the ruling into the roster** before rolling. Then:
 - [`../../wh40k_gear/bestiary/README.md`](../../wh40k_gear/bestiary/README.md), top paragraph: a special team's bonuses
   (+5 STR/DEX levels, +1 other rolls, armour one step better). Then the team's own entry (look, tactics: play them that way).
 - [`../../wh40k_gear/bestiary/roles.md`](../../wh40k_gear/bestiary/roles.md): every enemy role in the fight (leader, duelist, jumper, herder...).
 - Codex house rule 4, "Some roles and gear add more": extra health stages, stimms, blessings.
+- **Who never surrenders:** cultist duelists, the Moebian 6th, poxwalkers (mindless); enforcers stop breaks.
 
 **4. The Light: each person in the fight.** In the campaign sheet:
 - **"Full kit"** (line ~207): their row. **Every** weapon, **every** attachment, eye, field, armour piece,
@@ -58,11 +61,15 @@ role, gun condition (Dirty or Neglected guns jam). Then:
 - **The Roles table** (line ~272), then each role in `roles.md` (Commander: Tamsin gives **two orders a beat to
   specialists**, +2 and act first; Jumper; Medic; Duelist; Bodyguard; Heavy gunner...).
 - **"Tamsin's standing modifiers"** and **"The Light's standing modifiers"** (line ~308).
-- Who is **present** (Kell's +1 to Tamsin only when Kell is there), each person's health and conditions.
+- Who is **present**: only the people in **this** team or fight act or take orders (check the team list in the fight's
+  entry; e.g. Kell and Hollis at the cannery aren't at Crane Yard 6). **An order to someone not there is void:** say so in
+  one line. Kell's +1 to Tamsin only when Kell is there. Each person's health and conditions (Hurt, sickened, stimm turns).
 
 **5. Each weapon's and attachment's own rules.** [The catalogue index](../../wh40k_gear/catalogue/README.md), then
 the entry for each gun, melee weapon, attachment and eye in play (`las.md`, `heavy.md`, `stub.md`, `melee.md`;
 `kit.md` for eyes and "Pistol and gun attachments"): string limits, recoil, what armour it gets through, quirks.
+**A bonus not written anywhere** (a named gun's part with no catalogue entry): rule it once and **write the number into
+that person's Full kit row**, so it's never worked out again.
 Then codex Part 8, **Gear rules**: hot-shot, swapping, recoil, slots (**a gun's optic and an eye's aim bonus
 stack**), airborne, gun condition and jams, pack sizes (hot-shot 30, las 45), refractor
 field, doses, drop-prone guns, going Down drops weapons.
@@ -81,7 +88,7 @@ Then roll.
 
 **8. Every hit and every swing.**
 - **Shots:** codex Part 6, **Shots and hits** (hidden number 10 / 15 / 20 + **Cover**), solid hit (beat it by 3+),
-  crits (a natural 20; Tamsin 19-20; Vigil 17-20 with heat).
+  crits (a natural 20; Tamsin 19-20; Vigil 17-20 with heat). **Write each hidden number in the beat's notes.**
 - **Armour:** codex Part 8, **Armour** (shrugs or gets through; part-armour; crits always get through, but only one
   step against armour that would have shrugged it; wear-down: every 3 shrugged hits drop a step). Refractor field rolls.
 - **Melee:** codex house rule 5, **the exchange** (opposed rolls, block 1-2 higher, parry 3+, a raw 17+ can't be stopped;
@@ -89,13 +96,25 @@ Then roll.
 - Health steps, extra stages, Down (enemies d6 after the fight; the Light don't die from Down).
 
 **9. After the beat, then the reply.**
-- **Count:** ammo (packs), Vigil's heat (vent at 3), grenades, shots since cleaning (~30 = Dirty), stimm turns.
-- **Break check** (codex Part 6, Breaking and Down): when half are Down or the leader falls.
+- **Count, for each person, in their Full kit row:** ammo (packs: hot-shot 30, las 45), Vigil's heat (vent at 3), every
+  grenade, charge, stimm and antitoxin used (Sallow's Bag too), shots since cleaning (~30 = Dirty; Stinger's bolt jams past
+  25 straight rounds), wear-down (shrugged hits, every 3 = a step), stimm turns and crashes.
+- **Break check** (codex Part 6, Breaking and Down): when half are Down or the leader falls. **The player wants the Mart's
+  factions to keep fighting:** no easy folding; when they don't surrender they fall back to better ground and counterattack.
 - **Save:** `dm-notes.md` (the beat's line with every roll, then "After beat N"), the sheet ("Where we stopped",
   Full kit counts, the day log and reps), then commit and push.
 - **Reply:** the math lines (full ally tags, enemy role tags, every bonus by name, each roll narrated in a few words),
   then "(saved)", then the scene (second person, detailed, no game terms, nothing done or felt for Tamsin), then the
-  **still-up board**. Stop at the first decision point.
+  **still-up board**. Stop at the first decision point. **A new enemy role, rule or term the player hasn't met:** one line
+  out of character saying what it is. Day log lines go in **time order**.
+
+**10. When the fight ends.**
+- **Down enemies:** d6 each (1-3 dead, 4-6 alive; +2 for limb-shot-only Downs). Codex Part 6, Breaking and Down.
+- **Loot every body, the full count:** every gun, blade, armour piece, grenade and charge, coin, and anything odd (codex
+  Part 8, Loot: the two rare rolls). The player wants the whole haul listed, not a short pick. Loot lines go on the sheet.
+- **Reps** into the day log (kills, hits, orders, successful rolls). **Full kit and the crate** updated.
+- **Witnesses** for nemeses (codex Part 8, Nemeses; `dm-notes.md`).
+- **Who holds what changed** (a faction lost or took a place)? **Update the sector map** and say so.
 
 ## Where things are (open only when it comes up)
 
