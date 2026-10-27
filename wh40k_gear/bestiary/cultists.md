@@ -18,6 +18,15 @@ Munitorum never cured. Now they spread it on purpose.
 - **Poxwalker swarms** (added by the player, Ash on Ostrava session 10): they drive swarms of
   poxwalkers ahead of them, and infuse themselves with the rot, yet still move like a real
   regiment. Whoever fights them rarely comes out well.
+- **Poxwalkers (DM default, Ash on Ostrava session 10; the player may change it):** the plague-dead
+  the 6th drive ahead of them, people rotted into a moaning swarm. **Slow:** about 5 m a beat, never
+  sprint. **No armour, no guns:** claws, teeth, old tools. **One health state:** any hit drops one,
+  but they're **disgustingly resilient**: a hit that isn't solid (and isn't a crit or fire) gets back
+  up next beat on a d6 6 (roll the batch). **Mindless:** no break checks, never surrender. **In
+  contact,** the swarm makes one attack a beat on each person it reaches (d20 +2): a hit drops a step
+  unless armour stops claws (carapace does, like most blades; flak doesn't), and **a bite that lands
+  carries the rot** (CON save vs 13, masks don't help, or sickened). A crowd stays narrative: no
+  exchange per body. Usually driven by a herder or two of the 6th behind them.
 
 ## The Volscani Cataphracts
 
