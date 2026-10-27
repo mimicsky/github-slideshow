@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~0210 warp day 34, in the Valkyrie over the dock ring.** Tamsin chose the scrubber hall over the Spire's gates (Moll holds them alone). The Light, fully kitted, are coming in over the hall just as ~26 poxwalkers reach its gate ramp, a herder of the 6th behind them. Thask and Ilsabet in the cells, the girl in the medicae.
+**Where we stopped:** **session 10, ~0212 warp day 34, the dock ring outside the scrubber hall (night).** The Light dropped behind the poxwalker swarm; the bell-man of the 6th turned 23 of them back at the Light (3 got into the hall), and his gun jammed. Fight about to start. The Spire's gates are holding out alone.
 
 ### Current state (day 33)
 
