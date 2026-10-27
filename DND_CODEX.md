@@ -700,6 +700,10 @@ Both sides roll the stat their weapon runs on, attacking *and* defending:
 **Knife defence is footwork, not blade-on-blade:** with a knife, a *block* (1-2 higher)
 is narrated as a **slip** (dodged, the attacker keeps going) and a *parry* (3+ higher) as
 an **evade and counter** (dodged or the arm checked, initiative flips). Same math.
+**Dodging instead of parrying (DM default, Ash on Ostrava day 34; the player may change it):** any defender may
+dodge with footwork instead of using their weapon: **d20 + DEX**, plus proficiency only if trained in Acrobatics
+(Tamsin: Remarkable Athlete +2 instead). Same math: a block is a **slip**, a parry an **evade** (initiative flips);
+a raw 17+ still can't be dodged.
 **Knife bouts on the mat** (blunted bayonets, chalked edges) use **d20 + DEX each** and
 their own scoring: see "Matches and contests" in Part 6, How the player likes to play.
 
