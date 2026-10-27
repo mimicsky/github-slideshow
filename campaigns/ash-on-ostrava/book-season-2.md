@@ -26941,6 +26941,1944 @@ before the drop-out at Torvane's Mart.
 
 ---
 
+## Chapter 71: One Shot
+
+Tamsin keyed his bead and called a sound-off on THE LIGHT.
+
+The answers came back one after another, short and flat, the way Kell had drilled them.
+The hold. The container. The hangar, where Varga was strapping on her lift pack. Brenner
+at the vox console beside him did not bother with his bead and just raised a hand.
+
+Nessa came up the bridge ladder last, with the two penitents in front of her. Dannel Rusk
+and Joren Brisk stood just inside the hatch with their wrists cuffed in front of them,
+looking at the drop checklist, the brass timer rune and the closed warp-shutters, as if
+they had never seen a bridge before. They probably had not.
+
+"Boss," said Nessa. "Your penitents."
+
+Tamsin asked them what they had ever done with a weapon.
+
+Dannel thought about it honestly. "One shot, Interrogator." He looked at the deck. "At
+you." Then, because that was not enough: "And gutting knives."
+
+Joren rubbed his jaw with both cuffed hands. "Never fired one. Never held one. A cargo
+hook's the only thing I ever swung, and that was at crates."
+
+Ollin had come up behind Nessa with his slate, and he read the crate off it without being
+asked. There were lasguns, a couple of them, and bayonets, and flak coats, a dozen or so.
+He had the packs counted to the last one.
+
+Tamsin chose for them: a lasgun each, with one pack seated, a bayonet, and a flak coat.
+Ollin went down the ladder and came back with his arms full, and Tamsin handed the kit
+over himself. Then he took the cuffs off them, one pair and then the other.
+
+Dannel stood there rubbing his wrists, with Corvane's grey cord still round the right one.
+Joren held the lasgun as if it might go off if he looked at it too hard.
+
+Tamsin told them what it meant. They were going down onto the Gardener's own rock with
+the Light, armed. If they proved themselves today, their redemption was waiting at the end
+of it.
+
+Dannel's face went very still. He shrugged the flak coat on, fumbled the fastenings, and
+got them done on the second try. Joren only nodded.
+
+It was 1059.
+
+---
+
+"Brace," said Mira.
+
+Everyone on the bridge grabbed something. The Geller drone climbed and climbed, and then
+the *Bright Light* fell out of the warp like a dropped tool.
+
+It was a bad exit. The deck bucked, and something in the hold came loose and rolled. The
+timer rune went dark. The warp-shutters ground up off the viewport, and there was no clean
+black outside. There were ships, everywhere, streaming past at every angle: haulers,
+tenders, ore barges, a pilgrim boat with half its running lights out, all burning hard
+away from the rock behind them. Teo swore and threw the *Light* into a roll. A hauler the
+size of a hab-block slid by overhead, close enough to read the rust on its keel, and
+scraped down the dorsal plating with a long, shuddering shriek that went right through the
+hull.
+
+Then it was past, and the stream thinned, and there was Torvane's Mart.
+
+It was a lumpy, dark grey rock, kilometres across, studded with docks and lights and
+cranes. A tower stood up off its north pole, tall and square and pale. A long dock ring ran
+round its middle, and the far end of it was hazed with smoke. Fires burned in three places
+that Tamsin could see.
+
+"Scrape on the dorsal plating," said Teo, breathing hard. "Paint and pride. Nothing
+under it."
+
+Every band on Brenner's console lit up at once.
+
+"*...any Imperial vessel. Any Imperial vessel. This is Governor Halden Voke of Torvane's
+Mart. The Mart is in open revolt. The customs house has fallen. The militia is broken. I
+hold the Spire. Any Imperial vessel receiving this...*"
+
+It was a recording, and it went round and round.
+
+"Brenner," said Tamsin. "Get me the Governor."
+
+Brenner was already at it. It took him less than a minute to find the live carrier under
+the loop and push a tight-beam down it. A voice came on, harried, a man used to being
+listened to and not used to asking.
+
+"*This is Voke. Who is this?*"
+
+"This is Interrogator Rook of the Inquisition. I'm here for Thask."
+
+There was a silence on the beam, just long enough to hear the Governor decide.
+
+Then Voke talked fast. The revolt had started at 0500: the gardeners, and the two dock
+gangs Thask had bought, the Hookmen and the Tallow Boys. The customs house had fallen. The
+militia was broken. What still mattered, Voke said, was this: the vox mast; the scrubber
+hall, which was the air plant; the strongroom under the customs house, where twenty of his
+men were sealed in; the Spire's own lower gates; and berth 31 on the Low Quay, which was
+Thask. The landing pad on top of the Spire was still the Governor's. There were guns on the
+stair roofs around it.
+
+"Valk to the Spire pad," said Tamsin. "Full kit."
+
+He walked to the hangar.
+
+---
+
+At 1103 the hangar was loud. The Valkyrie sat on her skids with her side door open and
+her engines winding up.
+
+Teo stayed on the bridge to fly the *Light* and run augur sweeps over the rock. Ferro-Ashe
+stayed on comms, to relay whatever Teo saw. Mira had the Valk alone.
+
+That left sixteen for the bay, and the bay was built for fewer. They crammed in shoulder to
+shoulder on the benches and in the aisle, plate grinding on plate: Kell, Varga, Dace,
+Hollis, Brenner, Isk, Tavi, Morcant, Sallow, Corvane, Nessa, Tey, Sorel, the two penitents
+and Tamsin. Morcant took up two places on his own with the heavy stubber across his knees.
+Dannel and Joren sat pressed together by the door with their new lasguns upright between
+their knees, and nobody had given them helms.
+
+Mira leaned back out of the cockpit hatch. "Boss. The patch on the port engine mount is
+holding, but it's a patch. I can put her down anywhere you like. I can't throw her about.
+No hard flying."
+
+She went back in. The Valk lifted, tilted, and slid out of the hangar into the black.
+
+Tamsin stood in the middle of the bay with one hand on the overhead rail. Sixteen helmed
+and bare faces turned up to him.
+
+He gave them the rally. It was short and loud, and it ended the way it always ended.
+
+"WHAT ARE WE?"
+
+"**WE ARE THE LIGHT!**"
+
+Dannel had shouted it with them, a beat late. Joren had only moved his lips. Next to them,
+Tey was grinning so hard that his helm could not hide it.
+
+---
+
+The Spire came up fast in the viewports: a square tower at the top of the rock, its upper
+storeys pale stone, its windows shuttered. On its roof was a broad landing pad ringed by a
+low parapet. Around the tower's shoulders lower roofs stepped down, the housings of its
+stairs and lifts, and men were moving on them.
+
+"*Contacts on the roofs,*" said Mira. "*East and south. Lot of them. Something big at the
+head of the stair.*"
+
+On the far roof to the south a man in a ragged coat raised a crooked staff over his head.
+The air in front of the Valk *bent*, like heat over a stove, and something unseen went past
+the nose with a sound like a slammed hatch. The whole airframe shuddered. It had missed.
+
+A heavy *bang* came from the east. A ripper slug came in through the open side door and
+took Joren high on the chest, through the flak coat, and knocked him back into Dannel. He
+grunted and folded over and went grey.
+
+Sallow was across the bay before anyone else had moved. She braced her boots against the
+bench, tore open his coat, and worked on him standing up, with the Valk banking under her
+and the wind howling through the door. She packed it and sealed it and slapped a stimm into
+his thigh. Twenty seconds later Joren was sitting up again, white to the lips but breathing
+easy, staring at her.
+
+"You're fine," said Sallow. "Stay down till we land."
+
+Behind the north parapet of the pad, men in burgundy coats were firing at the east roof.
+There were five of them. As Tamsin watched, one of them jerked and fell back from the
+parapet and did not get up. The others kept firing, and on the east roof a ganger
+staggered and dropped.
+
+"*Going in,*" said Mira.
+
+She did not throw the Valk about. She brought it straight down onto the pad, steady as a
+lift cage, and set it on its skids so gently that Tamsin barely felt the deck touch. The
+nose pointed north. The open side door faced east, toward the near roof, and toward the
+head of the main stair at the pad's south-east corner, ten metres off.
+
+Something huge stood at the head of that stair. It was half again as tall as Morcant, in
+leathers and a gang harness, with a ripper gun in one hand like a pistol and a length of
+steel girder in the other.
+
+It was 1106.
+
+
+## Chapter 72: This Pad Is Ours
+
+Tamsin went out of the door with Shameholder roaring in his right hand and Stinger in his
+left.
+
+"Dace, on me. Varga, get up there and take the coat guy. Everyone else, cover."
+
+Behind him the Light came out of the bay in a rush. Dace was at his shoulder with the
+breaching shield up. Varga's lift pack coughed and she went straight up, fifteen metres,
+into the open air over the pad, with Mercy already at her shoulder.
+
+He had the ground in one sweep as he ran. To the east, twenty-five metres away and five
+below the pad's edge, was the near roof: a water tank, a cluster of vents, and gangers in
+cover behind them. A man in a long leather coat stood on top of the water tank with an
+autopistol in each hand, shouting, pointing out targets. Beside the tank, a ganger with a
+ripper gun was already walking forward, firing from the hip. To the south, across a fifty-
+metre gap, was the far roof, with four gangers with long guns and the man with the staff.
+And ten metres ahead, at the stair head, was the giant.
+
+It saw them coming and charged.
+
+It came off the top step like a hab-block falling, with the girder swinging round in one
+hand, and the whole pad shook under it. Dace did not give a step. He put his shoulder into
+the shield and met it head on, and there was a sound like two cargo containers colliding.
+The giant stopped dead. It rocked back on its heels, off balance, and its boots went back
+down onto the top step.
+
+Tamsin was already there. Shameholder bit into the giant's side where the harness left it
+bare, the teeth screaming as they chewed, and he dragged the blade through and out again.
+Tey, right behind him, put two hellpistol bolts into its chest. It roared. It was still on
+its feet.
+
+Out on the far roof the man with the staff raised it again, and the air bent toward Varga
+in the sky. She jinked sideways on her pack, and the blast went past her and away over the
+rock. Isk, lying by the Valk's tail with Patience, had already answered it. His bolt took
+the psyker high in the body, and the man stumbled back a step on the far roof.
+
+On the water tank the coat guy turned both pistols up at Varga and emptied them. One round
+cracked off her carapace and spun away. Brenner, kneeling by the door, put a bolt into the
+coat guy's ribs, and he staggered on top of the tank.
+
+Morcant planted the heavy stubber on the Valk's door sill and hosed the near roof. Vents
+burst. Concrete flew. The gangers there went flat and stayed flat. Sorel caught one of
+them before he got all the way down, and Tavi caught another, and both of them dragged
+themselves behind the vents.
+
+Three more gangers were coming up the main stair from below to help the giant. Hollis
+lobbed a frag down the stairwell, and it burst among them. Two of them were thrown against
+the wall and came on more slowly, and the third had dived clear.
+
+The ripper gunner walked forward, firing at Kell. The slugs smashed into the deck all
+round Kell's boots.
+
+"*Move!*" Kell shouted. The Light moved. They scattered for the parapet, the Valk's skids
+and the stair housing, and found cover before the ripper gunner had worked his slide.
+
+On the north parapet the Governor's men were down to three.
+
+The giant was still on the top step, still roaring, with blood running down its side.
+
+---
+
+Tamsin swung again. Shameholder went in under the giant's arm, and this time it hurt it.
+It bellowed and swung the girder, but the swing was slow and wild, and he was not there.
+
+Corvane came in on its other side. He fired the shotlas one-handed into its chest at a
+metre, and then the power sword came round in a blue arc and went in under its ribs. The
+giant made a sound like a wounded grox. Its legs went. It went backwards down the stair,
+all of it, the girder clanging off the steps ahead of it, and lay at the turn below and
+did not move again.
+
+Up in the sky Varga had found her shot. Mercy cracked twice, and the coat guy on the water
+tank folded at the middle and went down behind it.
+
+Sorel put another bolt into the ganger he had hit before, and one of the Governor's men on
+the north parapet finished him.
+
+The ripper gunner swung onto Dace. Dace took the burst on his shield and his plate and did
+not even look round.
+
+On the main stair the two hurt gangers kept climbing, with the third behind them, close
+now. Across the gap, the man with the staff was gathering himself for another blast. Isk
+fired at him again and missed.
+
+"Penitents," said Tamsin. "Get in this fight."
+
+Dannel and Joren came out from behind the stair housing with their lasguns and started
+firing, badly, but firing.
+
+"Dace, push them down the stair. Kell, the ripper gunner."
+
+Dace went down the stair with the shield up and Promise Holder out, straight at the three
+coming up.
+
+Kell put Officer to his shoulder and fired twice. The first bolt took the ripper gunner in
+the face. The second was not needed. The man dropped where he stood, and the ripper gun
+clattered across the near roof.
+
+The psyker loosed his blast at Varga again. The air folded and missed her again, and she
+did not even jink this time.
+
+Tamsin turned to the far roof, fifty metres across the gap, and put Stinger on the man with
+the staff.
+
+He held the trigger down. The machine pistol hammered out ten rounds in one long ripping
+burst, and Dace's new barrel held them where he had pointed them. The psyker jerked and
+jerked again. Seven of them hit him. The staff fell out of his hands, and he went over
+backwards onto the far roof and lay there, and the last rounds went into him where he lay.
+
+On the far roof Varga shot the pipe rifle man dead. The Governor's men killed another
+ganger on the near roof. Somewhere on the near roof a shotgun boomed, and Nessa spun round
+by the parapet with her hand clamped to her shoulder and swore.
+
+And then it broke.
+
+On the main stair the three gangers facing Dace's shield and Corvane's blue sword threw
+their weapons down the steps and put their hands up. On the far roof the last three, one
+of them hurt badly, dropped their guns and stood up with their hands over their heads.
+
+The pad went quiet, except for the Valkyrie's engines idling.
+
+It was 1107.
+
+"This pad is ours," said Tamsin.
+
+---
+
+They cleared it in five minutes.
+
+Six of the fourteen raiders were dead: the giant at the turn of the stair, the coat guy
+behind the water tank, the ripper gunner, the psyker on the far roof, the pipe rifle man,
+and a ganger with a pump shotgun whom the Governor's men had shot. Two more lay on the near
+roof, out cold and bleeding, but breathing. The Light disarmed every one of the living and
+sat them down against the parapet with their hands on their heads.
+
+They went over the pad, the stair and the near roof for anything worth taking. There were
+two ripper guns, the giant's and the gunner's, with drums that would fit Morcant's
+Doorknocker. There were junk shotguns, autopistols, a pump shotgun, an auto-revolver, a
+stolen shock baton, knives and shanks, the giant's throwing knives, two frags, a stimm and
+three doses of some combat drug. There was the coat guy's long leather coat, with two holes
+in it. There were two hundred and seventy-five Thrones. They piled it all in the Valk's
+bay.
+
+Sallow sat Nessa on an ammo box and cut her sleeve away. Shotgun pellets had gone through
+the meat of her shoulder. Sallow dug them out with forceps, packed the holes and strapped
+them, and when she had finished, Nessa rolled her shoulder and found that it worked.
+
+The far roof was fifty metres off across a drop, and there was no quick way over. The
+three who had surrendered there stood with their hands up, watching the Light across the
+gap.
+
+"They will probably retreat," said Tamsin.
+
+They did. While the Light worked on the pad, the three on the far roof lowered their hands
+a little at a time, then backed off out of sight down a ladder on the far side. Their guns
+and the dead psyker were left lying where they had dropped.
+
+It was 1114.
+
+Mira had the loot loaded. She leaned out of the cockpit. "Taking this lot back to the
+*Light*, boss? Teo can bring her round close."
+
+"Tell Ollin I send my regards."
+
+Mira laughed and pulled her head in. The Valk lifted off the pad, turned on its tail and
+slid away north toward the *Bright Light*.
+
+Kell held the pad with the Light and the prisoners.
+
+The vox at the north parapet crackled, and the Governor's voice came out of it asking for
+the Interrogator.
+
+"Coming," said Tamsin.
+
+He walked to the Spire's blast doors with Dace and Tey.
+
+The doors were a pair of steel slabs set into the tower's roof housing, scorched, and
+pocked with fresh bullet scars. They ground open a metre as he reached them. Inside, in a
+bare hall lit by caged lumens, stood a woman in a burgundy coat with a lasgun slung across
+her back and a bandage round her head, stained through above one ear. She looked at the
+grey plate, the white trim and the rosette on his chest, and at the chainsword over his
+shoulder, still wet.
+
+"Captain Ressa Moll," she said. "The Governor's household guard. What's left of it." She
+stepped aside. "He's waiting for you, Interrogator."
+
+
+## Chapter 73: The Governor's Picture
+
+The lift was an iron cage on a chain, and it went up slowly. Moll rode it with them, one
+hand on the gate.
+
+"Sixty of us at dawn," she said, without being asked. She was watching the floors go past.
+"Twenty-two now. The lower gates are still holding." She did not say how many of the sixty
+she had watched die. She did not have to.
+
+At the top the cage stopped with a jolt, and she took them along a carpeted corridor to a
+pair of tall doors, and opened them.
+
+It was a counting room, and a rich man's one. There was a long table of dark wood covered
+in ledgers and slates, shelves of more ledgers, a brass cogitator, and tall windows
+looking south down the whole length of the rock. Governor Halden Voke stood at the windows.
+He was a heavy man in a merchant's coat that had cost more than the Light's container, and
+he had not slept.
+
+Through the glass Tamsin could see most of the Mart: the dock ring curving away below, the
+cranes on its east side, smoke over the Low Quay at the far southern end. On the rock's
+central ridge, a kilometre and a half away, stood a lattice tower, the vox mast. It was
+still standing. There was fighting at its foot. Little flashes winked on the ridge road
+below it.
+
+"Interrogator," said Voke. He did not offer his hand. He looked as if he had forgotten
+how.
+
+Tamsin asked him for the picture.
+
+Voke gave it to him plainly, a man who knew his own rock to the last Throne.
+
+The Low Quay was theirs, all of it, and Thask was at berth 31. The customs house had fallen
+at 0600. That was the worst of it, Voke said, because the customs house was the gate
+between the dock ring and the Low Quay, and every road in ran through it. Twenty of his
+men were sealed in the strongroom under it. He had last heard from them at 1000.
+
+The scrubber hall had fallen at 1000, to the gardeners themselves, not the gangs. They had
+not cut the air yet. If they did, the Spire's reserve tanks would last ten hours. The rest
+of the rock had less.
+
+The vox mast was barely his.
+
+The gangs ran the dock ring. The Hookmen held the east side and the cranes, and their boss
+was Dagan Crale. The Tallow Boys held the rendering yards and the cannery side round berth
+44, and their boss was Old Wick. Both gangs were bought with Thask's coin. Kill a boss, Voke
+said, or outbid Thask, and that gang would go home.
+
+"The gardeners won't," he said. "The gardeners don't go home."
+
+The lower gates were holding, for now.
+
+Tamsin heard it all through.
+
+"I'll eradicate everything if I have to." He let that sit. "What do you have, Governor?"
+
+Voke had clearly been waiting to be asked.
+
+He had the schematics of every building on the rock, he said, in his ledgers: the customs
+house, the scrubber hall, the ducts, the service ways, the strongroom. He had the
+strongroom's codes, and a vox channel to his men under the customs house. He had the
+Spire's armoury, which held lasguns, packs, flak and a few crates of frags, and the Spire's
+medicae. He had the long-range vox. He had money, enough to outbid Thask for both gangs,
+if someone could find a way to reach Crale and Wick to make the offer.
+
+He did not have men. Moll's twenty-two were holding the gates. But the militia remnant up
+at the mast was his, he said, if the Light could reach them.
+
+"The plans and the codes go to my ship," said Tamsin.
+
+Voke nodded at once.
+
+"And we do no bidding with scum."
+
+The Governor's mouth tightened, but he nodded again.
+
+"I will let you know what we need."
+
+Voke turned to his cogitator and began working the keys himself. Two minutes later
+Ferro-Ashe came on Tamsin's bead from the *Bright Light*: "*Files received, Interrogator.
+Building schematics, the strongroom codes, a channel key. All intact.*"
+
+Tamsin went back down in the cage with Dace and Tey. Moll rode with them again and said
+nothing at all the whole way down, but at the bottom, when the gate rattled open, she
+looked at Tamsin for a moment longer than she needed to.
+
+---
+
+By 1127 the Light had come in off the pad with the prisoners and was gathered in the
+Spire's receiving hall, a high, cold room inside the blast doors with a dry fountain in the
+middle and burgundy-coated guards at every door. The prisoners went to Moll's people, five
+of them, two carried.
+
+On Tamsin's bead, Mira reported that she had docked on the *Light*. Ollin was unloading the
+pad's loot into the crate, she said, and he was very pleased about the coin.
+
+Then Teo came on with his second augur sweep.
+
+"*The mast. About twenty-six Hookmen coming up the ridge road at it, against about fourteen
+militia on the platform. They're holding, but only just. The customs house: about twenty-five
+heat signatures, gardeners and Tallow Boys mixed in together. The scrubber hall: lots of heat
+under the dock-ring plating there, and I can't count it from up here. The plant's still
+running. Berth 31: heavy heat in the warehouse and the floors over it. No warm engines at
+the berth, so nothing's leaving from there. The tug dock: quiet. A handful. The rest of the
+dock ring: the gangs are all over it, scattered, looting.*"
+
+"*And I'm ready to come and get you whenever,*" said Mira. "*Tight landings are no trouble
+now I'm not hauling sixteen.*"
+
+It was 1128.
+
+---
+
+At 1130 Tamsin stood by the dry fountain and gave the Light the Governor's picture, all of
+it: the Low Quay, the customs house and the strongroom under it, the scrubber hall and the
+air, the mast, the gangs and their bosses, Thask at berth 31.
+
+They listened with their helms off, and when he finished they weighed in, one after
+another.
+
+"The mast's the clock," said Kell. "Twenty-six on fourteen. It won't wait for us."
+
+Nessa was leaning on the dry fountain with her strapped shoulder. "Boss, I don't need the
+customs house. Not to get to Thask. I've got the tug dock. Nobody watches that."
+
+"Filters on everyone before we go anywhere near the scrubber hall," said Sallow.
+
+"The strongroom's under the customs house," said Tavi. "So whatever we do there, nobody
+blows a floor. We'd bring it down on the Governor's men."
+
+Dannel had been standing at the back with his lasgun. He spoke up, low. "Interrogator. The
+cannery's on Tallow Boys ground. Round berth 44. That's where Pell is."
+
+Tamsin made the call.
+
+"We take ground and enforce the Ordo until we reach Thask. First the vox mast. Then we
+clear the area and take back the asteroid."
+
+The Light was up for it. He could see it on all of them.
+
+"Three hops left in my pack, boss," said Varga. "Two hours on a station coupling to fill it.
+Use them well."
+
+Brenner had Voke's plans up on his auspex. He held it out so that everyone could see the
+mast.
+
+The lattice tower was about sixty metres tall, on the rock's central ridge, a kilometre
+and a half south of the Spire. At its foot was a platform about twenty-five metres across,
+with a low blast wall round it, the transmitter blockhouse at the base of the mast, and
+cable trenches across the deck. A road switchbacked about three hundred metres up the
+ridge's east face from the dock ring to the platform's gate, with abandoned haulers on it.
+Teo's heat put the Hookmen on the top two bends of the road. And up the steep west face,
+from the dock ring to the back of the platform, ran an old maintenance stair. There was no
+heat on it at all.
+
+"We push from the west face," said Tamsin. "We come up the stair and bring the Light down
+on them from above. Mira stays on the *Light* until I call her, and then she's out fast."
+
+"*Heard, boss,*" said Mira.
+
+The prisoners stayed with Moll.
+
+At 1135 the Light went out through the Spire's lower gates, past Moll's burgundy-coats
+behind their barricades of overturned cargo carts, down the main stair to the dock ring,
+and turned west.
+
+The dock ring was a wide, roofed street that ran round the rock, lined with shops,
+chandlers, warehouses and hab-blocks, with the docks on its outer side. It had been looted
+end to end. Shutters hung open. Glass crunched underfoot. Here and there a body lay where
+it had fallen, and once a whole family stared down at them from a third-floor window and
+then pulled the shutter closed. The Light moved in a loose file along both sides of the
+street, Corvane at the point.
+
+About six hundred metres in, Corvane raised a fist.
+
+Ahead on the right was a chandler's shop, its storm grille torn half off. Four men in
+greasy leather aprons were looting it. Two were inside, passing coils of rope and crates of
+tins out through the window. One stood in the door with a hand flamer on his hip. The
+fourth, outside, had an auspex in his hand.
+
+As Corvane watched, the auspex man looked at his screen, then looked straight at the wall
+the Light were standing behind, as if he could see through it.
+
+He could.
+
+It was 1145.
+
+
+## Chapter 74: Ten a Head
+
+There was no point waiting. The auspex had them.
+
+"PUSH PUSH PUSH."
+
+Tamsin stepped out round the corner with Vigil up, and the Light poured round it behind
+him, fifteen guns spreading across the street in grey and white. Kell and Varga went wide
+left. Morcant planted himself in the middle of the road with the heavy stubber. Corvane was
+already at the chandler's door.
+
+The four Tallow Boys took one look and dropped everything. Rope, tins, the hand flamer, the
+auspex, all of it hit the step together, and four pairs of hands went up.
+
+"Don't shoot! Don't shoot!" It was the auspex man, the oldest of them, his voice cracking.
+"We're just taking stuff! Old Wick said take what we want! That's all!"
+
+"ON THE GROUND. GUNS. EVERYTHING."
+
+They went down flat on their faces on the step of the chandler's, and the last of their
+weapons came off them in a hurry and went onto the pile: the hand flamer and a spare
+canister, the auspex, a lascarbine, a nailer, a combat knife, a frag, four scrap throwing
+knives.
+
+It was 1147.
+
+The Light searched them. Kell turned out their pockets and their aprons and came up with
+a hundred and thirteen Thrones and a carton of lho-sticks, and nothing else worth having.
+Their flak and leathers stayed on them. Then the Light hauled them up and tied all four by the
+wrists to the chandler's own iron storm grille, with the shop's own mooring line.
+
+"We'll be back for them," said Tamsin.
+
+The penitents slung the long guns, the hand flamer, the lascarbine and the nailer. The
+auspex, the canister, the knife, the frag, the throwing knives and the lho-sticks went into
+Tamsin's satchel. Kell put the coin in a pouch on his belt.
+
+It was 1150.
+
+---
+
+Two streets on, Brenner stopped in a doorway with his auspex shaded against his chest.
+
+"Rough read, boss. Three, maybe four signatures, about two hundred metres up on the
+right." He frowned at it. "And four smaller ones with them, being pulled along. Prisoners,
+maybe. The stair on the west face is clear. Up on the mast platform, I make it about a
+dozen. Fewer than Teo had. And twenty-odd on the top bends of the road."
+
+"Push up quiet," said Tamsin. "Ambush on my call."
+
+The Light went up the street like smoke.
+
+It was everything Nessa had beaten into them in the hold on the long days in the warp:
+eyes on the floor and not on the target, heel and toe, no plate grinding on plate, one at a
+time from cover to cover. Sixteen people in carapace moved two hundred metres up an open
+street in broad lumen-light, and nobody ahead of them looked round once.
+
+At 1155 the whole Light was in position, in the shuttered doorways along the left side of
+the street and behind an abandoned cargo hauler parked across the gutter, twenty metres
+behind three men in Tallow Boys' aprons.
+
+The three were walking away from them, up the street toward a side turning on the right
+that led down to the rendering yards. Between them, roped wrist to wrist in a line, they
+were dragging four people: a dock clerk in a torn coat, a woman, an old man who could
+barely keep his feet, and a boy of about fourteen. The man in front was old and broad, with
+a chain axe slung over his back and a big hand cannon in his belt. A younger one walked in
+the middle with the end of the rope in one fist and a hand flamer in the other. The third
+brought up the rear with a combat knife.
+
+The woman stumbled, and the rope jerked the whole line. She was crying.
+
+"Please, Mister Wick. Please. We haven't done anything. Please, Mister Wick—"
+
+The old man in front did not even turn round. "The gardeners pay ten Thrones a head, so
+move."
+
+Mister Wick.
+
+The boss of the Tallow Boys was walking up the street twenty metres in front of the Light,
+with his back to them.
+
+Tamsin spoke on the bead, barely louder than breathing. They were taking them alive. Leg
+and arm shots, if anyone could manage them. "Kell, the flamer. Dace, push in." Corvane,
+Nessa and the penitents were to push in with Dace.
+
+He laid Vigil's foresight on Old Wick's left thigh.
+
+Kell fired first. His bolt went through the flamer man's right arm just below the elbow,
+and the hand flamer flew out of his fingers and skidded across the deck. He screamed and
+doubled over his arm.
+
+Tamsin fired twice. The first bolt went through Old Wick's thigh, and the old man's leg
+folded under him. The second went through his gun arm as he was going down, and the hand
+cannon dropped out of his hand and clattered on the deck.
+
+The four roped civilians threw themselves flat on the deck by the rope, all at once, the
+way people do who have been shot at before. Nobody else in the Light fired. There was no
+clean line past them.
+
+Dace was already sprinting at the knife man with the shield up. Corvane, Nessa and the
+penitents came out of the doorways behind him.
+
+Old Wick was on one knee in the road, with blood running down his leg. He was reaching
+over his shoulder for the chain axe with his good hand. The flamer man was scrabbling one-
+handed across the deck for his hand flamer. The knife man had turned to meet Dace's shield,
+with his knife out low.
+
+Tamsin stepped out into the open with Vigil on the knife man.
+
+"SURRENDER NOW."
+
+It rang off the shutters all down the street.
+
+The knife man looked at Dace's shield a metre in front of him, at the grey plate coming up
+the street behind it, at sixteen guns, and at the Interrogator's rosette. His knife hit the
+deck. The flamer man stopped reaching and lay down on his face beside his gun, holding his
+arm. Old Wick's good hand came slowly back off the axe haft. He looked at Tamsin for a long
+moment, breathing hard through his teeth. Then he lowered himself the rest of the way onto
+the deck and put his good hand flat beside him.
+
+Old Wick, boss of the Tallow Boys, had surrendered.
+
+It was 1157.
+
+---
+
+Sallow knelt beside Wick and went to work on his leg without asking his opinion. The bolt
+had gone clean through the thigh, and another clean through the forearm. She packed and
+bound both, hard, and when she had finished, the old man was grey and sweating but would
+live.
+
+Brenner swept the street with the auspex. "That's all of them, boss. Nothing coming our
+way. Up top, the mast platform's down to about eleven. The road's about twenty-five."
+
+Corvane cut the civilians loose. The dock clerk, the woman, the old man and the boy sat
+against a wall, rubbing their wrists. There were rope burns on all of them, and bruises.
+The woman would not stop shaking. Sallow went along the line
+of them and checked each one, and none of them was badly hurt.
+
+They searched Wick's crew. Wick had two hundred and fifty Thrones on him, the flamer man
+forty-five and the knife man seventeen, and there was a dose of some combat drug they
+called *slaught*, a carton of lho-sticks and a knife. Kell's pouch had four hundred and
+twenty-five in it now. Tey took Wick's chain axe and the hand cannon. Joren slung the
+second hand flamer and its canister. The rest went in Tamsin's satchel. Wick and his men
+kept their armour on.
+
+Tamsin called Mira.
+
+She was to come and pick up the prisoners and the loot here, and fly them to the Spire pad,
+and Ferro-Ashe was to come with her and walk them down to the Governor's cells.
+
+"*Ten minutes, boss,*" said Mira. "*There's a tram yard about sixty metres back down your
+street. I'll put down there.*"
+
+Tamsin told the Light the plan. Sallow and Tavi would stay here with the loot. Everyone
+else would push the platform, and then the road.
+
+Sallow stood up from the civilians and looked at him.
+
+"Boss. You're going up against twenty-five Hookmen, and you're leaving the medic in the
+street."
+
+So he gave her the rest of it. She was to check the civilians and tend Wick and his flamer
+man, get the prisoners and the gear loaded on the Valk, and then come up to the platform
+with Tavi, as fast as she could.
+
+"Bring my bag back after you load it in the ship."
+
+He handed her the satchel. Sallow took it, looked at him a moment longer, and nodded.
+
+The loot went into a pile in the middle of the street: Tamsin's satchel, the guns the
+penitents and Tey had been carrying, Kell's pouch. Sallow sat down beside it with her
+lascarbine across her knees. Tavi sat on the other side of it, watching Wick.
+
+The rest of the Light walked the last four hundred metres to the foot of the mast's west
+face without trouble.
+
+The maintenance stair went up the cliff of grey rock in a long zigzag, iron treads bolted
+into the stone and a rail on the outside, rusty but sound. At the top, sixty metres above
+them, the lattice of the mast stood against the dock ring's roof lights. Somewhere on the
+other side of it a heavy stubber was hammering in long bursts.
+
+It was 1212.
+
+
+## Chapter 75: The Blockhouse Roof
+
+They went up the stair quiet, single file, Corvane first.
+
+The treads rang a little under the heavier plate no matter how carefully they set their
+feet. But the heavy stubber on the far side of the ridge drowned everything, and the wind
+off the dock ring's vents took the rest. Halfway up they could hear shouting from the
+platform. Near the top they could smell burned propellant and hot metal.
+
+Corvane put his head over the top tread and then the rest of him, and the Light came up
+behind him onto the back of the mast platform.
+
+A militiaman in a padded jacket was crouched at the foot of a mast leg, reloading. He
+turned to grab a fresh pack, and saw them: grey plate coming over the back of his platform
+where nothing had ever come before. He did not think. He brought his lasgun up and fired.
+The bolt cracked off the front of Corvane's chest plate and spun away into the air. Corvane
+did not even stop walking.
+
+Two more militiamen were turning, guns coming round.
+
+"INQUISITION, STOP FIRING, WE ARE FRIENDLY."
+
+It carried over the stubber. The militiamen froze, saw the rosette, and lowered their guns.
+The one who had fired went white.
+
+A man came running back from the east wall at a crouch. He was a sergeant in a militia
+jacket with the sleeves ripped off, with a lasgun in his hands and blood dried on his face
+that was not his.
+
+"Sergeant Pim Dorrow," he said. He looked past Tamsin at the Light coming up the stair,
+still coming, and some of the grey went out of his face. "Eight of us left, sir. A pack a man, about. They rush the gate every few minutes.
+They've got a heavy stubber on the second bend down, covering every rush. We can't put our
+heads up."
+
+The Light went to the east wall and took positions along it. It was a low wall of rockcrete
+blocks, chest high on Morcant and chin high on Tey, chipped and gouged all along its length.
+
+Tamsin looked over.
+
+The platform was the top of the ridge. Below the east wall the rock fell away steeply, and
+the road came up it in switchbacks from the dock ring. The gate was at the platform's
+north-east corner, a barricade of scrap and sandbags across the road's last stretch.
+
+On the top bend, about fifteen metres below the wall, a stalled hauler sat across the road
+against the rock cut. A dozen Hookmen were packed in behind it, waiting for the next rush:
+knives, combat axes, shock batons, stub automatics, a man with a hand flamer, a man with a
+big bolted-together drum autogun, another hugging a canvas satchel to his chest.
+
+On the second bend, thirty metres below and farther out, a second hauler sat broadside, and
+behind it a heavy stubber stood on a tripod with a gunner and a loader. A huge man with a
+boarding shield and a shock maul crouched in front of them. Around them were shooters with
+autoguns, a pipe rifle, a scattergun and a junk shotgun; a man with an auspex and a
+lascarbine; a man with a medic's bag on his hip, sorting through it; and a man in a flight
+jacket with a stub pistol on his belt.
+
+The Hookmen were not looking up at the wall. They did not need to. The man on the second
+bend had an auspex, and he was looking at it.
+
+They knew the Light was here.
+
+Tamsin knew what that could mean. He turned his back on the road, and looked up.
+
+Behind the Light, at the mast's foot, was the transmitter blockhouse, a squat rockcrete
+box with a flat roof bristling with aerials and dishes. And flat among the aerials on that
+roof, so still that a man could look straight at him and not see him, lay a man in dark
+rags. He had a silenced pistol in one hand and a frag in the other, and he was watching the
+Light's backs.
+
+He did not know he had been seen.
+
+It was 1218.
+
+---
+
+Tamsin gave it out on the bead, fast and low.
+
+"Hollis, bomb the grouped ones. Varga, get into the air and go for the stubber team." The
+man on the roof was Nessa's. Kell was to take the man with the shield. Everyone else was to
+hold the high ground and shoot down into them.
+
+Hollis rose up behind the wall and threw. The frag went over in a high arc and came down
+right behind the hauler on the top bend, in the middle of them, and burst. Five of them
+were flung against the rock cut, bleeding.
+
+Varga's pack coughed, and she went up off the platform into the air over the road.
+
+Tamsin laid Vigil over the wall onto the man with the medic's bag on the second bend. The
+man had a stimm in his hand and was turning to jab it into someone. The first bolt took him
+in the side. The second took him in the head, and he went down with the stimm still in his
+fingers before he could dose anyone.
+
+Nessa's needle pistol spat at the blockhouse roof. The dart missed by a finger's width and
+pinged off an aerial. The man in the rags jerked his head up. He knew now.
+
+Kell's bolt hit the shield man in the shoulder, above the rim of the shield. Morcant
+heaved the heavy stubber up onto the wall and raked the top bend, and the whole rush group
+went flat behind the hauler and stayed there, with rounds chewing the rock over their
+heads. Sorel's bolt found the man with the satchel. Joren, braced on the wall with his
+lasgun, squeezed off a shot with his eyes half shut, and it hit the drum-gun man in the
+leg. Joren stared at the man as if he did not believe it.
+
+Below them, the rush group crawled deeper in behind the hauler.
+
+On the second bend the heavy stubber swung up at Morcant and missed. The drum-gun man fired
+up at Isk and missed. The auspex man's lascarbine hit one of the militiamen, who went down
+behind the wall clutching his arm.
+
+On the blockhouse roof the man in the rags rose to one knee and threw his frag.
+
+It came down among Tamsin, Hollis, Dace and Tey. Hollis was already moving, and he went
+over a cable trench in one dive. Tey threw himself flat behind the wall. Dace turned his
+back on it, and the blast slammed into his carapace and staggered him, and he stayed up.
+Tamsin's refractor field flared round him in a shimmering bubble, and the shrapnel
+splashed off it in sparks.
+
+Nobody in the Light was hurt.
+
+It was 1219.
+
+---
+
+"Morcant, spray it down. Kell, help Varga with the stubber team."
+
+Morcant's stubber hammered the top bend again. The flamer man behind the hauler caught a
+round through the shoulder and dropped flat beside his tank, cursing.
+
+Tamsin turned round and put Vigil on the blockhouse roof.
+
+The man in the rags was bringing the silenced pistol up. Vigil cracked twice. The first
+bolt took him through the chest, and he spun. The second took him as he fell, and he went
+down among the aerials and lay there with one arm hanging over the roof's edge. Korren's
+breath was running hot in the coils, and Tamsin felt it through the stock.
+
+Up over the road Varga hung on her pack's thrust with Mercy at her shoulder, and fired
+down into the second bend. The shield man saw it coming and threw himself in front of the
+stubber team with the shield up, and her first bolt went through the rim of the shield and
+into him. He went down on one knee, badly hurt. Her next two went past him into the
+stubber gunner, and the gunner fell back off the tripod.
+
+Isk's bolt took the auspex man. Brenner hit a shooter on the second bend.
+
+Then Tey leaned out over the wall with his hellpistol, with Dace's laser dot on the flamer
+man behind the hauler, and fired.
+
+The bolt went into the flamer man's tank.
+
+The tank burst. A ball of orange fire went up off the top bend higher than the wall, and
+the heat of it washed over the Light's faces fifteen metres above. When it cleared, the
+flamer man was burning on the road, and not moving. Burning fuel had splashed across the
+man next to him, the one with the shock baton, and he was rolling on the road and beating at
+his own legs.
+
+Nessa's second dart caught a Hookman with a chain knife behind the hauler, and he went rigid
+and toppled sideways, paralysed. Dannel, firing over the wall beside Joren, hit a man with
+a stub automatic. Joren hit another.
+
+Hollis's Six Bells thumped, and a frag fell into the second bend among the shooters, and
+three of them were thrown down. A man on the top bend got up on his knees and hurled a frag
+up at the wall. It hit the rock face below the wall, bounced back down and burst on the road
+among his own people's feet, harmlessly.
+
+The heavy stubber on the second bend found Morcant. The rounds hammered into his heavy
+carapace at forty metres and did not get through. Morcant ducked down behind the wall for a
+moment, swearing, and came back up.
+
+Nobody in the Light was hurt yet.
+
+---
+
+"Morcant, more pressure. Isk, the man with the shield."
+
+Morcant's stubber coughed once and missed, but the rush group on the top bend did not know
+that. They stayed flat. Isk's shot at the shield man missed.
+
+Tamsin let Vigil drop on its sling, hot and ticking. He reached over his shoulder for
+Shameholder and drew Last Word with his other hand.
+
+"PUSH WITH ME."
+
+He ran north along the inside of the wall toward the gate, where the road's last stretch
+came up to within three metres of the top, and vaulted over the wall and dropped onto it.
+
+The Light poured over the barricade after him.
+
+Above the road, Varga used the last of her pack. She came down out of the sky onto the
+road below the second bend in a long, roaring dive, firing as she came. The shield man
+threw himself in front of the stubber team again, and this time her bolt put him down for
+good. Her next took the stubber gunner, who had got back to the tripod, and he slumped over
+the gun. Her last went into the loader. She hit the road on her boots in a crouch, with her
+pack empty and smoking on her back.
+
+On the top bend the man with the shock baton had beaten out the fire on his legs. Down on
+the second bend the man with the drum autogun fired at the Light coming down the road and
+missed.
+
+On the platform behind them, a militiaman stood up to shoot and was killed. Dorrow was
+down to seven.
+
+The Light was on the road's last stretch, fifteen metres above the top bend and the hauler,
+with smoke from the burning flamer man drifting up round them.
+
+It was 1221.
+
+
+## Chapter 76: Into the Light
+
+"INTO THE LIGHT!"
+
+Tamsin went down the road at a dead run, straight at the hauler on the top bend, with
+Shameholder screaming in his right hand.
+
+The nearest Hookman was a man with a combat axe and an autopistol, who had been lying flat
+behind the hauler's front wheel with blood all down his side from Hollis's frag. He saw the
+chainsword coming and tried to get up. He never got all the way up. Shameholder took him
+across the chest as he rose, and he went back down against the wheel, badly hurt.
+
+The Light came down the road behind Tamsin, firing as they ran. Corvane's shotlas caught the
+man with the shock baton. Kell's bolt took the drum-gun man in the chest.
+Tey's bolt hit the man with the satchel. Brenner hit a man with a combat knife. Varga, still
+on the road below, swung round and hit a man with throwing knives. Joren fired at a stub
+gunner and hit him too.
+
+Hollis's Six Bells thumped again, and a frag burst on the second bend. Morcant, still up
+on the wall with the stubber, swung his fire onto the second bend, and his rounds walked
+across the loader and put him down behind the tripod. Isk shot the auspex man again, and
+the man folded behind the hauler.
+
+The Hookmen behind the top-bend hauler had nowhere left to go, and they fought.
+
+A man with a knife lunged at Joren, and Joren got his lasgun across in time to block it.
+The drum-gun man swung his gun's butt at Varga, and it cracked off her plate. Another
+slashed at her with a knife, and she knocked it aside with her shovel. Tey parried a
+shock baton with his hellpistol's frame and nearly lost his fingers doing it. Somebody hit
+Kell with a blade, and his plate turned it. A stub gunner rammed his pistol at Tamsin's
+face from a metre away and fired, and missed.
+
+Three of them went for Dannel.
+
+He was the closest, and he had no helm, and he was the slowest. A shock baton caught him
+across the ribs, and the blue crack of it threw him back stunned against the hauler. A
+knife went into him while he was still shaking. Then, from the second bend, the auspex man
+fired his lascarbine up through the gap, and the bolt went through Dannel's flak coat.
+
+Dannel went down in the road beside the hauler's wheel and did not get up.
+
+---
+
+"Dace. I need a shield."
+
+Dace went over Dannel in one stride and planted the breaching shield in the road over him,
+between the boy and the two Hookmen standing over him. Their blows came down on the shield
+instead of Dannel.
+
+"Corvane, finish this."
+
+Corvane went for the man with the combat axe. The power sword came round in a blue arc and
+missed. The shotlas went off a hand's width from the man's head and missed too.
+
+Tamsin turned Last Word on the two men over Dannel, with the laser's red dot on them at a
+metre and a half.
+
+The hair trigger broke three times. The first two bolts went into the man with the shock
+baton, and he dropped across Dannel's legs. The third swung across into the man with the
+knife, under the jaw, and he went down beside him.
+
+Kell's bolt dropped the man with the satchel, and the satchel's cord stayed unpulled.
+Varga put the man in front of her down with Mercy. Tey hit another. Joren hit the knife man
+in front of him. Nessa hit the stub gunner.
+
+Isk, up on the wall with Patience, found the loader behind the second-bend hauler, who had
+dragged himself back to the tripod, and put a bolt through him. The heavy stubber went
+silent.
+
+The man with the combat axe swung at Corvane, and Corvane parried it. The drum-gun man
+swung at Varga, and she parried it too.
+
+The knife man in front of Joren lunged again, and this time Joren did not get the lasgun
+across. The knife went into him, high on the chest. And the stub gunner next to him put his
+pistol to Joren's shoulder and fired.
+
+Joren went down in the road.
+
+On the second bend somebody fired up at the Light with an autogun, and the round found a
+seam in Kell's plate, at the side where the chest plate met the back plate. Kell grunted
+and staggered and stayed on his feet, with blood running out from under the plate.
+
+And on the second bend, the man in the flight jacket stood up from behind the hauler, took
+one look up the road, turned his back and ran. He went down the road past the second bend,
+toward the dock ring, as fast as he could go.
+
+The man with the knife and the stub gunner were standing over Joren.
+
+---
+
+"Corvane, go deep. Isk, the runner."
+
+Corvane sprinted down the road off the top bend, straight into the pinned shooters on the
+second bend, and fired the shotlas into them as he ran, and missed. Isk fired at the man in
+the flight jacket as he ran, and missed by a hand's width. The runner went round the next
+bend of the road and was gone toward the dock ring.
+
+Tamsin turned Last Word on the two men over Joren.
+
+The stub gunner was lifting his pistol to put another round into Joren where he lay. The
+first bolt took him in the chest, and he went down. The second took the knife man as he
+turned, and he went down across Joren's legs. The third went across into the nearest
+Hookman still standing, the man with the combat axe in front of Corvane, and he dropped.
+
+Tey put down the last man with a shock baton. Kell, bleeding, put down the man with the
+throwing knives. Hollis's Six Bells put down a shooter on the second bend. Sorel hit
+another.
+
+That was enough.
+
+The Hookmen on the second bend threw their guns down onto the road and put their hands up.
+The ones still standing behind the top-bend hauler threw down their weapons too, one after
+another, and knelt in the road with their hands on their heads.
+
+It was 1224.
+
+The vox mast was the Governor's again.
+
+Seven of the Hookmen were dead: the man with the medic's bag, the man with the shield, the
+man with the shock baton who had gone for Dannel, the stub gunner who had gone for Joren,
+the man with the combat axe, the man who had caught fire, and the flamer man, who had
+burned. Ten more lay in the road, down but breathing. Eight had surrendered. Up on the
+blockhouse roof, the man in the dark rags was still alive. The man in the flight jacket had
+got away.
+
+---
+
+Tamsin keyed the *Light*.
+
+"Teo. A ship will leave from somewhere near here. Find where it goes, or shoot it down."
+
+"*On it, boss. Bringing her over the ridge now,*" said Teo. "*I've got the augur on the dock
+ring. Nothing's lifted yet.*"
+
+The Light and Dorrow's seven chained the prisoners along the rock cut and to the hauler,
+eighteen of them, the downed dragged into a row and the standing made to sit. They took the
+road and the platform and held them.
+
+Dace was on his knees beside Dannel with the shield laid flat beside him, packing the boy's
+wounds with field dressings, one hand pressed down on his ribs. There was no stimm to give
+him. Sallow had them all.
+
+Tamsin went down on one knee beside Joren.
+
+Joren was on his back in the road, grey, his eyes half open. His chest was moving fast and
+shallow. Tamsin read the wounds the way Sallow had taught him: look, then listen, then feel.
+
+The knife had gone in high on the right side of his chest, and the wound was bubbling.
+Every time Joren breathed in, it sucked; every time he breathed out, it frothed pink. The
+knife had gone into the lung. The stub round had gone in at the left shoulder and smashed
+the collarbone, and the round was still in there. He could feel the edge of the bone and
+the lump of the round under the skin.
+
+Brenner was on the bead behind him. "Boss, Sallow and Tavi are at the foot of the west-face
+stair. Coming up."
+
+Tamsin tore open his own field-dressing packet with his teeth. He took the dressing out,
+and then he took the packet itself, the foil it came in, and pressed it flat over the
+bubbling hole in Joren's chest. He taped it down on three sides and left the bottom edge
+free, so that air could get out and none could get in. The foil sucked in against the
+wound when Joren breathed in, and lifted to let the air out when he breathed out. Joren's
+breathing eased a little, and then a little more.
+
+Then he packed the dressing round the broken collarbone and strapped it down, and did not
+try to get the round out.
+
+"TELL HER TO HURRY."
+
+Sallow came over the top of the west-face stair at a dead run with Tavi behind her and
+Tamsin's satchel banging on her hip. She took in the road in one sweep, dropped her bag
+beside Joren and was on her knees before she had stopped moving.
+
+She looked at the foil on his chest, taped on three sides, for half a second, and
+something in her face eased. Then she went to work.
+
+She was fast and certain. She worked on the lung until his chest rose evenly for the first
+time. She put a stimm into him, sealed the wound again properly, and packed the collarbone
+again. When she sat back on her
+heels, Joren was awake, with his eyes open, breathing on his own.
+
+"The lung's holding," she said. "The round's still in that shoulder, and the bone's in
+pieces. He needs a surgeon today. Today, boss."
+
+She went to Dannel next. It took her two stimms and a long minute with both hands inside
+his flak coat, and for a few seconds of it Dace stopped breathing too. Then Dannel coughed
+and opened his eyes, and Dace let his breath out.
+
+Last she went to Kell, who was sitting against the hauler with his hand pressed to the
+seam in his plate. She cut the strap and worked at the wound, and swore at it, and it would
+not close for her. She strapped it as tight as it would go, and it was not enough. Kell
+would have to carry it.
+
+Sallow handed Tamsin his satchel without a word.
+
+Out over the dock ring, nothing had lifted.
+
+It was 1232.
+
+
+## Chapter 77: The Rocket Pod
+
+Tamsin called Mira in to extract. People first, then the loot.
+
+"*Three runs, boss,*" said Mira. "*Two of people, one of loot. I'll take the people to the
+Spire pad. Ferro's there with the cells, and the Governor's got surgeons for Joren.*"
+
+While they waited, the Light piled the Hookmen's gear in the road below the platform gate.
+There was the tripod heavy stubber and its ammunition, the drum autogun, autoguns, stub
+automatics, autopistols, a scattergun, a nailer, a pipe rifle. The man with the shield had
+carried a boarding shield, a shock maul and a set of quiet, close-woven mesh armour. There
+were shock batons, mono-knives, chain knives, axes, knives and shanks, and nine frags. There
+was the stolen demolition satchel, still sealed. The man in the dark rags had a silenced
+stub pistol and a mono-knife. The man with the medic's bag had carried four stimms, two
+doses of *slaught*, an injector stiletto, and a dose of something the Hookmen called *spook*.
+There were seven hundred and twenty-two Thrones.
+
+Tavi took the demolition satchel and slung it beside his own.
+
+At 1236 the Valkyrie came in over the ridge and set down on the platform as lightly as she
+had on the Spire. Sallow and Kell went with Joren and Dannel on the first run, and eight of
+the downed prisoners went with them, stacked along the bay floor. Joren was going straight
+to the Governor's surgeon.
+
+The Valk lifted and slid away north.
+
+At 1245 the Governor came on the vox, and he sounded like a different man from the one in
+the counting room.
+
+"*Interrogator. They've cut the air. The gardeners have cut the Spire's feed from the
+scrubber hall. We're on the reserve tanks.*" A breath. "*Ten hours.*"
+
+The strongroom under the customs house was still holding, he said. That was all the good
+news he had.
+
+At 1250 Mira was back on the platform for the second run, with the bay door open, and the
+Light were loading the other ten prisoners into it.
+
+Teo came on the bead, sharp.
+
+"*Boss. The gunship's up. It just lifted off the dock ring, east side, by the cranes. It's
+heading straight for the mast.*"
+
+---
+
+"Brenner, read it. Teo, shoot it down."
+
+Brenner had his auspex up before Tamsin had finished. "Scav-rigged cargo lifter. Heavy
+stubber in the nose. Four-tube rocket pod under the belly. Five aboard. Its engine's running
+rough." He looked up. "It's coming in low."
+
+On the *Bright Light*, high over the ridge, the twin autocannon on the spine opened up. Teo
+fired twice, and twice the stream of shells went past the lifter, because it was jinking,
+side to side, all the way in.
+
+Mira stayed in the Valk with her hands on the controls. The rest of the Light finished
+shoving the last prisoners up into the bay.
+
+The gunship came over the crest of the ridge two hundred metres out. It was an ugly thing,
+a cargo lifter with plates bolted on wherever there had been a gap. Its nose swung, slow and sure, onto the Valkyrie sitting on the
+platform with its door open and ten prisoners and Mira inside.
+
+"Morcant, light it up. Isk, the pilot."
+
+Morcant's stubber hammered up at it, and the rounds went under its belly. Isk's bolt
+went past the cockpit. Everyone else in the Light opened fire.
+
+Tamsin brought Vigil up. Its coils had cooled since the mast. He laid the foresight on the
+rocket pod under the lifter's belly, the four fat tubes with the rockets' noses showing,
+and breathed out, and pressed.
+
+The first bolt went wide. The lifter jinked.
+
+He followed it and pressed again, and Korren's breath ran hot through the coils. The bolt
+went into the pod. He pressed a third time, and the bolt went into the same place.
+
+The rockets cooked off in their tubes.
+
+The rocket pod blew out from under the lifter in a white flash, and then the fuel went, and
+the gunship came apart in the air two hundred metres off the ridge before it could fire.
+The cockpit went one way and the tail another. The burning middle of it fell, turning, down
+the east face of the ridge, and smashed down onto the roof of a tenement block on the dock
+ring below.
+
+The tenement's top floors burst into flame.
+
+For a moment nobody on the platform said anything.
+
+It was 1253.
+
+From the edge of the platform they could see it all: the tenement burning, black smoke
+rolling up toward the dock ring's roof lights, people running out into the street below.
+On its roof, three figures were crawling out of the wreck.
+
+---
+
+At 1255 Mira lifted with the ten prisoners for the Spire. She would come back for the
+loot.
+
+Isk lay down on the blast wall with Patience and put his eye to the low-light scope. He
+talked as he looked.
+
+"The pilot's alive. Burned arm. Two of his Hookmen with him, one dragging a leg. They're
+trapped on the roof. The fire's between them and the stairwell. Street: seven civilians
+out. Four down in the street. Two of those are moving. Two aren't." He shifted his aim.
+"Third floor, east window. A woman, two kids and an old man. They're at the glass. The
+stairwell's full of smoke behind them. The fire's only in the top two floors. For now."
+
+He was quiet a moment.
+
+"Nobody's helping them, boss. No fire crews. No militia. Nobody."
+
+Brenner had Voke's plans up again, the scrubber hall this time. He gave it to Tamsin while
+they looked at the fire.
+
+The hall was about five hundred metres south-east of the mast, and down, under the dock
+ring's plating. There was a main gate, a vehicle ramp down off the dock ring, and there
+were maintenance ducts. The Spire's feed left the hall by one main duct. It was controlled
+from the control gallery inside, or from the north valve house on the ring above, which had
+a manual override wheel for the Spire line.
+
+Tamsin left Tey and Sorel at the mast to load the loot when Mira came back. He took
+everyone else down the ridge road toward the fire, and Sergeant Dorrow's seven militia came
+too.
+
+The road was clear all the way down. The burned-out flamer man's patch of road was still
+smoking as they went past it.
+
+It was 1301.
+
+
+## Chapter 78: The Laundry Line
+
+The tenement was five storeys of grey rockcrete hab-block on the dock ring's east side,
+with laundry lines strung between its windows and the street. Its top two floors were
+burning. The wreck of the gunship lay half through its roof, and black smoke poured up out
+of it. In the street below, the seven civilians who had got out stood in a huddle, coughing,
+and four more lay on the deck. Two of the four were still.
+
+Tamsin went in with Dace, Corvane and Nessa. The rest of the Light and Dorrow's militia
+held the street and gathered the civilians.
+
+The stairwell was full of smoke from the second floor up. On the third it was so thick that
+Tamsin could see only a metre in front of him, and he was glad of his rebreather. Nessa,
+with no helm, had her rebreather clamped over her mouth and her scarf over that. The heat
+came down the stairwell from above like the breath of a furnace.
+
+The family's door was the third on the east side. Tamsin hammered on it, and it opened.
+
+A woman stood there with a toddler on her hip. A girl of about six was holding onto her
+skirt. Behind them an old man was trying to get up out of a chair by the window and could
+not.
+
+"LET'S GO, ALL OF YOU."
+
+Dace bent and lifted the old man over his shoulder like a sack of grain. Corvane took the
+woman by the arm, and the toddler with her. Nessa scooped up the girl. They went down the stairwell into the smoke, Dace first with the
+old man, coughing, feeling for the treads.
+
+The ceiling held over them. The old man made it.
+
+Tamsin went the other way, up.
+
+---
+
+The fourth-floor landing was an oven. The stairs above it were gone, buried under the
+collapsed fifth floor, a heap of broken rockcrete and burning beams that roared and spat
+sparks. There was no way to the roof that way.
+
+He looked down the fourth-floor corridor. It ran west, the length of the building, and
+smoke rolled along its ceiling. At the far west end, under where the roof's edge would be,
+there was a window. The three from the gunship were on the roof above the west end.
+
+He ran the corridor.
+
+Burning tar was dripping through the ceiling in places, and there were holes where the
+floor above had come through. He went down it without slowing, past a doorway full of
+flame, and reached the window at the far end. It was sealed, a hab-block window that had
+never been meant to open.
+
+He reached over his shoulder for Shameholder. The chainsword screamed into the frame and
+chewed through it, and the whole pane fell out into the open air.
+
+He climbed out.
+
+The outside of the building was hot to the touch. Above the window, one storey up, was the
+roof's edge. He went up the face of the tenement on window frames and the brackets of the
+laundry lines, hand over hand, with the street five floors below and smoke pouring out of
+the windows round him. Then he hooked an arm over the roof's edge and hauled himself up.
+
+The roof was a ruin. The middle of it was the gunship, a burning tangle of plates and
+girders sunk half through into the floor below. Fire was between him and the roof's
+stairwell housing, and the housing itself was burning.
+
+The three survivors were huddled at the west edge with the fire at their backs.
+
+One was the man in the flight jacket from the mast, the pilot, with his right arm burned
+black, and his stub pistol still in its holster. One was a Hookman with a knife, lying on
+his side with a leg twisted under him. The third was on his knees, with nothing in his
+hands, bleeding from the head.
+
+They saw Tamsin come over the roof's edge in grey plate, and the pilot went down on his
+knees too.
+
+"Please. *Please.* Get us off. I'll tell you everything. The gunship. Crale. Where he is.
+Anything. Just get us off this roof."
+
+"Same way I came up."
+
+There was a laundry line strung from the roof's edge across to the next block. Tamsin tore
+it down, looped it under the arms of the man with the broken leg, braced his boots against
+the parapet and lowered him down the face of the building to the fourth-floor window, a
+storey below. The man got an arm over the sill and dragged himself in. Tamsin pulled the
+line up and lowered the second, and then the pilot, one-armed and sobbing, down the same
+way. Each one went in through the window.
+
+Then he went down himself.
+
+---
+
+The corridor was worse than it had been. The fire had spread along the ceiling, and the
+smoke was down to waist height. Tamsin hoisted the man with the broken leg over his
+shoulder, and the other two came with him.
+
+He went back down the corridor at a run with the man on his shoulder. The Hookman who could
+walk went ahead of him, and made it to the stairs. The pilot was behind him.
+
+He heard the pilot scream.
+
+Tamsin looked back. Burning tar had come down through the ceiling onto the pilot's back,
+and his jacket was on fire. He was down on the corridor floor, six metres behind, rolling,
+then not rolling. And beyond him, at the west end, the roof was coming in. Beams were
+falling through the ceiling one after another, burning, and the whole far end of the
+corridor was folding down.
+
+Tamsin went back.
+
+He kept the man with the broken leg on his shoulder, ran back up the corridor into the
+falling roof, grabbed the pilot by the collar of his burning jacket and dragged him. A beam
+came down where the pilot's legs had been a second before. Tamsin dragged him down the
+corridor to the stairs, with the ceiling coming down behind them.
+
+Dace and Corvane were coming up the stairs. Dace took the man with the broken leg off
+Tamsin's shoulder. Corvane got his arms under the pilot. They went down, all of them,
+through the smoke, and out into the street.
+
+Behind them, with a long roar, the tenement's roof fell in.
+
+It was 1313.
+
+---
+
+The pilot was alive, but he was down and would not wake. His jacket had melted into his
+back. The Hookman with the broken leg lay in the street beside him, badly hurt. The third
+sat with his hands on his head without being told.
+
+Of the two civilians who had been lying still in the street, one was alive, unconscious.
+The other was dead.
+
+The people in the street had watched the Interrogator go into the building and come out of
+the fire carrying the men who had flown the gunship. They watched him now. Nobody said
+anything to him. An old woman pulled a child back out of his way and stared at him as he
+passed, and did not stop staring.
+
+Tamsin called Mira.
+
+"One more trip. Bring back Kell and Sallow."
+
+"*The loot's loaded at the mast, boss,*" said Mira. "*Tey and Sorel loaded it. I'll drop it
+at the* Light*, pick Kell and Sallow up at the Spire and come to you. Twenty minutes. Tey
+and Sorel are riding with the loot.*"
+
+He knelt by the pilot and read him the way Sallow had taught him.
+
+The burns were deep: the right arm, and across the back where the jacket had melted into
+the skin. There was smoke in his lungs. Tamsin could hear it rattle when he breathed. He
+would live if somebody treated him. He would not wake up on his own for a while. A stimm
+would bring him round.
+
+Tamsin took the stub pistol out of the pilot's holster and put it in his satchel. There was
+a cord round the pilot's neck, under the collar of his jacket.
+
+Then he keyed his bead.
+
+"Tey, Sorel. I never said you could extract."
+
+There was a short, guilty silence on the channel.
+
+"*...Coming back down with Kell and Sallow, boss,*" said Tey.
+
+Tamsin pulled the cord out from under the pilot's collar. On it hung three things: a brass
+ignition key, scav-made, the gunship's; a heavy iron padlock key; and a stamped brass dock
+tag. The tag read *CY-6*.
+
+Crane Yard 6, on the east dock ring. The man with the broken leg told them what it was
+when they asked: where the Hookmen had kept the gunship.
+
+Tamsin put the cord in his pocket.
+
+The Light searched the three from the crash. There were a hundred and two Thrones between
+them, a speedloader and a spare cylinder for an auto-revolver, a combat knife and a carton
+of lho-sticks. It all went in Tamsin's satchel.
+
+The man with the broken leg talked about Crale too, lying in the street, without much
+asking. Dagan Crale was an old crane-jockey with a cargo hook for a left hand, he said. He
+had taken Thask's coin a month ago. He liked to watch the fights from his crane cab up in the
+yards.
+
+Tamsin walked off down the street to wait for the Valkyrie.
+
+At 1335 Mira landed in a yard two streets north. Kell came out of the bay still strapped up
+under his plate, with Sallow, Tey and Sorel behind him. Sallow went straight to the
+civilians and went along them, deciding who was worst. The family from the third floor, the
+three injured from the street and the three Hookmen went into the Valk for the Spire, the
+civilians to the medicae and the Hookmen to the cells.
+
+The Valk lifted again.
+
+It was 1340.
+
+
+## Chapter 79: Sweet Air
+
+Tamsin gave them the plan in the street.
+
+They would push the scrubber hall now. Masks on the whole time, nobody unmasking for
+anything. No prisoners: anyone who went down stayed where they fell. They would fight from
+range.
+
+A vent grille in the dock ring's wall was breathing air out into the street beside him.
+It smelled sweet, like rotting fruit and incense. Every one of them could smell it.
+
+The Light carried rebreathers on their belts, all of them except Tey and Sorel. Sallow had
+plague-ward filters in the Bag. She strapped one over Tey's face and one over Sorel's, pulled
+the straps tight, and checked the seals with her thumb. That left her five.
+
+Dorrow's militia had no masks at all.
+
+Brenner swept toward the hall with his auspex and shook his head. "Heat everywhere under
+the plating, boss. The fans and the vats drown it out. I can't give you a count."
+
+Tamsin thanked Dorrow and his men and sent them back to the Spire to regroup. Dorrow led
+his six north up the ring. They would go round by the
+chandler's on the west side on their way and collect the four Tallow Boys tied to the
+storm grille, for the Spire's cells.
+
+That left nobody at the vox mast.
+
+It was 1344.
+
+---
+
+"Let's move."
+
+The Light came up the dock ring toward the scrubber hall at a steady walk, masked, spread
+across the street. The sweet smell got stronger with every hundred metres.
+
+The hall was under the ring, and all that showed of it above was a broad gap in the street
+where the main gate's vehicle ramp went down into the dark, a squat rockcrete blockhouse
+on the ring a little to the north of it, and the great grilles of the fan housings set
+into the deck. A dead tram sat on its rail halfway between the Light and the gate.
+
+They were eighty metres from the gate when the dogs caught their scent.
+
+There were four of them, chained at the barricade of overturned cargo carts across the head
+of the ramp. They were not dogs. They were too long in the body and too thin, with skin like
+wet leather pulled tight over their ribs, and their heads were wrong. They came up off the
+deck all at once, howling, and strained at their chains, and the whole barricade came alive.
+
+Eight gardeners were at the gate, with a handler holding the hounds' chains. There were
+three more at the blockhouse, which was the north valve house, behind sandbags at its
+heavy steel door, with the Spire's air duct rising out of its roof. All of them wore
+sackcloth aprons and wilted garlands of flowers round their necks, and stolen carapace
+chest plates. None of them wore masks. They did not need them.
+
+Behind the barricade a woman raised a crooked staff. A man in a carapace plate with a bolt
+pistol and a power knife was shouting at the others. The handler was reaching for the
+chains.
+
+"LIGHT CONTACT. Find cover and open fire." Then: "Isk, the psyker. Morcant, the dogs."
+
+Isk dropped behind the tram's front bogie with Patience and fired. It was a good shot, at
+the woman's chest. Something round her neck caught it. Thorny black vines burst out of
+nothing round her and took the bolt, and withered, and fell away. She was untouched, and
+she stank.
+
+Morcant planted the heavy stubber on the tram's coupling and fired one long burst.
+
+The handler had let the hounds go. They came across the open deck at the Light, fast and
+low, four of them, and the stubber's rounds met them halfway and walked across all four.
+They went down tumbling, one after another, and did not get up. The burst swung on into
+the barricade and took the handler, and kept going into the man beside him with the drum
+autogun. The whole gate ducked behind the carts.
+
+Tamsin put Vigil on the man with the bolt pistol. The first bolt took him in the head,
+and he reeled back. His second went past a gardener's shoulder.
+His third hit the man with the sawn-off.
+
+Varga's bolt hit the woman with the staff, and this time there was no ward.
+
+Then Hollis's Six Bells thumped, and a spec flash burst on top of the barricade.
+
+The white light of it lit the whole street. Behind the barricade the gardeners were
+screaming, clawing at their eyes, blind and deaf, staggering into each other.
+
+Sorel and Sallow both hit a gardener at the valve house. Brenner hit another one there,
+badly. Corvane's shot at the third was swallowed by another of those wards.
+
+The woman with the staff had begun to glow. Lightning was crawling up the staff, gathering
+at its tip. The man with the bolt pistol fired blind, and his bolt pistol jammed. At the
+valve house a gardener's revolver hit Tavi in the chest, and his plate turned it. A lasgun
+hit Brenner, and his plate turned that too.
+
+---
+
+"Tey, the psyker. Dace, push up. I'm covering you."
+
+Morcant was to swap to Doorknocker and go after Dace, and Corvane with him. Tamsin asked
+Hollis if he needed grenades.
+
+"Loading my last three, boss."
+
+Tey leaned out past the tram with his hellpistol and fired three times at the woman with
+the staff. The first two went past her. The third took her in the body, and the lightning
+gathering on her staff flickered and went out.
+
+Dace sprinted out from behind the tram, shield first, across the open deck. He went forty
+metres before anything came at him, and stopped behind the next cover there was.
+
+Tamsin had Vigil on the barricade again. The woman with the staff was trying to call the
+lightning back. The first bolt took her, and she went down behind the carts. The second
+took the man with the bolt pistol, and he went down. The third went into the man with the
+drum autogun, who had dragged himself back up, and he went down too.
+
+Vigil was screaming hot. Korren's breath had run through the coils three times, and the
+spirit wanted to vent.
+
+Varga hit a gardener with a combat axe. Sorel put the hurt gardener at the valve house
+down. Sallow put the other down.
+
+The leader was down, half of them were down, and the rest kept fighting.
+
+A gardener with a chainsword jabbed something into his own neck and came over the
+barricade at a dead run, chainsword roaring, straight at the tram, his eyes wide and
+staring. Another threw a pipe-bomb over the carts, and it fell short on the open deck and
+burst there, harmlessly. A gardener with a stub automatic fired and his gun jammed. At the
+valve house the last gardener fired his revolver at the Light and missed.
+
+---
+
+"Isk, shoot the sawn-off. Varga, the club."
+
+Isk missed. Varga's bolt hit the man with the trench club.
+
+Tamsin let Vigil hang on its sling and vent, and drew Stinger. The last gardener at the
+valve house was crouched behind his sandbags at the steel door, and every few seconds he
+put his head up to shoot. Tamsin put the machine pistol on the sandbags and fired, and held
+the bead there, and waited for him to come up again. He came up. Six rounds hit him, one
+after another. His stolen chest plate turned every one of them, and every one of them beat
+him down further, until he went down behind the sandbags badly hurt.
+
+The charging gardener with the chainsword was ten metres from the tram. Morcant met him
+with Doorknocker. The first shell took him in the chest, the second in the stomach, and the
+third lifted him off his feet. He went down eight metres short of the tram and did not get
+up.
+
+Kell's bolt hit the man with the axe. Hollis's frag dropped behind the barricade and burst,
+and the man with the club and the man with the sawn-off were flung into the carts. Brenner
+put the club man down. Tey put the sawn-off man down, and then the axe man.
+
+The gate was empty.
+
+Behind the sandbags at the valve house, the last gardener threw his revolver out over the
+top. His hands came up after it, empty.
+
+He was surrendering.
+
+Tamsin still had Stinger on the sandbags. The standing order was no prisoners.
+
+He fired three more rounds. The first went through the plate. The next two went into the
+gardener where he fell. He was dead.
+
+It was 1352.
+
+---
+
+"On me, Light."
+
+The Light moved up onto the bodies and spread out to search them for evidence, for
+anything that would tell them what was in the hall. Tamsin stood on the ring between the
+gate and the valve house, and looked.
+
+Tavi was crouched over the dead gardener behind the valve house sandbags, alone, going
+through his apron. Behind him, three metres back, was a stretch of the ring's deck grating
+over the dark of the underdeck.
+
+There was a face under the grating, looking up through it at Tavi's back. A gardener was
+lying in the dark under the deck, with a needle-blade in his hand, waiting.
+
+He did not know he had been seen.
+
+"TAVI, OUT OF THE WAY."
+
+Tavi did not ask why. He flung himself flat behind the sandbags.
+
+Tamsin put Stinger on the face under the grating, twenty-five metres away, and held the
+trigger down. Nine rounds went through the grating. The man under it jerked, and jerked
+again, and was still. He had never struck.
+
+Tavi stayed flat behind the sandbags a moment longer. Then he got up on one knee and looked
+at the bloody grating three metres behind where he had been crouching, and at Tamsin.
+
+It was 1353.
+
+Kell came over from the gate with a scrap of paper in his hand. He had found it on the
+leader, folded inside a little prayer-book. He read it out through his mask:
+
+"*Hold the lungs till the Lamps. The tower breathes when it kneels. The living go down to
+the beds: ten a head.* Signed G."
+
+He folded it and put it in his own pouch.
+
+Brenner went along the bodies. Four of the gardeners outside were still breathing: the
+woman with the staff and the man with the club at the gate, and two at the valve house.
+
+---
+
+They looted the outside by 1355. There were two hundred and seven Thrones. The handler had
+been carrying a stolen Ryza plasma pistol, and the leader a stolen bolt pistol, jammed, with
+two spare magazines. There were stolen lasguns, an autogun, a drum autogun, stub automatics,
+a revolver, a sawn-off, a power knife, chainswords, an axe, a machete, a chain knife, a
+trench club, needle-blades, throwing knives, a whip, the psyker's staff and knife, six
+stolen carapace chest plates, six shot-up flak vests, two kraks, four choke gas grenades, a
+stimm and a dose of Frenzon.
+
+There were other things too, and Tamsin left those at the barricade: two grimoires bound in
+something he did not want to name, cult-forged blades, spent ward-marks, three bottles of
+greenish gas with rot-spores swirling in them, and the leader's prayer-book.
+
+He called Mira down for the pile.
+
+"*Eight minutes, boss.*"
+
+From down the ramp, out of the dark of the hall, came a sound: a slow, heavy, metallic
+*clank*. A pause. Another *clank*.
+
+Tamsin walked down the ramp toward it. The Light fell in behind him.
+
+The four gardeners still breathing outside were left where they had fallen.
+
+It was 1356.
+
+
+## Chapter 80: The Cage
+
+The ramp went down into a hall as big as a hangar.
+
+Great fans turned in the ceiling, slow and loud, and the noise of them filled everything.
+Below them stood row after row of open scrubber vats, each one wide as a room and full to
+the rim with a green-black sludge. Pale flowers grew on the sludge. They grew everywhere,
+on the vats, on the walkways, on the walls, and the sweet smell of rotting fruit and
+incense was so thick that Tamsin could almost taste it through his rebreather.
+
+Between the vats were troughs of mulch, and there were people in them.
+
+They were buried to the waist, or to the chest, in long rows, twelve of them. Fungus grew
+on their shoulders and arms. Pale flowers had rooted in it. Some of them moved their heads.
+They were alive.
+
+Forty metres from the foot of the ramp, at the rim of the nearest vat, stood a hoist on a
+platform. Two gardeners worked its crank, one heavy *clank* at a time. From its arm, on a
+chain, hung an iron cage over the open vat, and there were four people in the cage. Every
+clank lowered it a little closer to the sludge.
+
+A gardener stood at the very edge of the vat, under the cage, singing up to them in a high,
+sweet voice. He had a chainsword on his back.
+
+One of the four in the cage was a girl. She was holding the bars and looking straight up
+the ramp at Tamsin.
+
+The gardeners had not seen the Light. They were busy at their work. Two hauled sacks of
+mulch on a sled at the far end of the hall, sixty metres off. Four tended the beds between
+the vats, twenty-five or thirty metres away, one of them with a big stolen flamer on his
+back. One with a boarding shield stood by the beds nearest the ramp. Above the cage, on a
+gantry catwalk six metres up, a gardener lounged with a drum autogun. None of them looked
+at the ramp. The fans drowned everything, and they trusted their gate.
+
+Tamsin spoke low on the bead.
+
+"More hostiles, team. Ready to engage?"
+
+They were all ready. Isk already had the gunner on the catwalk. Nessa was in needle range of
+the man with the shield. Hollis had one frag and one spec flash left. Tamsin warned Sallow
+off firing anywhere near the beds.
+
+---
+
+"Hollis, flash first. Nessa, take him down." Then: "Isk, wait for the flash, then the shot.
+Corvane, rush the Singer."
+
+Nobody was to shoot the flamer. Nessa would take him next.
+
+Hollis's spec flash went up and burst high, off the glass of a vat's gauge beside the
+hoist. It went off a little wide of where he had wanted it. The three who had been looking
+that way, one of the crank men, the gunner on the catwalk and a bed tender, reeled back
+blind. The rest were dazzled.
+
+Nessa's needle pistol spat. The dart took the man with the shield in the neck, and he went
+rigid and fell over sideways with his shield on top of him.
+
+Isk's bolt hit the gunner on the catwalk.
+
+Corvane went down the last of the ramp and across forty metres of floor at a flat sprint,
+and reached the Singer at the vat's edge before the man had finished his note.
+
+Tamsin put Vigil on the two crank men. The first bolt took the one with the knives in the
+shoulder. The second took him again, badly. The third swung across into the other crank
+man, the one with bottles hanging off his belt, and he went down across the crank handle.
+
+Kell's bolt put the knife crank man down.
+
+Tavi's bolt at a bed tender with a scattergun hit a ward and died in a puff of rot. Varga
+put the gunner on the catwalk down onto his knees, badly hurt. Brenner hit a tender with a
+chainsword, and Tey put that one down and swung across and hit the one with the
+scattergun. Sallow put the tender with the sawn-off down with one clean shot, well away from
+the beds.
+
+With both crank men down, there was nobody holding the crank.
+
+The winch brake slipped.
+
+The drum spun with a long, rising shriek of chain, and the cage dropped. It hit the
+sludge, and the sludge closed over it, and the cage went under. The chain ran out and
+jammed on the drum, and stopped, and hung there, taut, going straight down into the vat.
+
+The four in the cage were under the sludge.
+
+At the same moment the crank man with the bottles, falling, had smashed one of them on the
+rim platform. A cloud of greenish spores rolled out over the vat's rim round the winch, and
+hung there.
+
+It was 1358.
+
+---
+
+"Nessa, the flamer. Corvane, take him out."
+
+Nessa's dart hit the flamer between the vats. He staggered, and shook it off, and kept his
+feet.
+
+Corvane's power sword came round, and the Singer was too slow, and it cut him across the
+body.
+
+Tamsin put Vigil on the two at the far end of the hall, by the sled. The first bolt hit the
+one with the revolver. The second put him down. The third swung across into the one with
+the machete, and he went down too. Korren's breath had gone round the coils three times,
+and Vigil was howling to vent.
+
+Isk put the gunner on the catwalk down for good. He slumped over the rail, and his drum
+autogun slid off the gantry and clattered down onto the vat's rim. Varga hit the tender
+with the scattergun, badly, and Kell put him down.
+
+The flamer looked round at nine of his people down, and ran. He went deeper into the
+hall, between the vats, toward the back.
+
+The spore cloud had drifted along the vat's rim to where Corvane and the Singer were
+fighting. Corvane breathed it, even through his rebreather, and Tamsin saw him falter and
+cough. The Singer breathed it in like perfume and smiled.
+
+The cage was still under the sludge.
+
+---
+
+"Corvane, finish it. Isk, take out the running flamer." Then, to everyone else: "Secure
+the area."
+
+Tamsin let Vigil hang and vent.
+
+Corvane cut at the Singer, and the Singer parried, and suddenly it was Corvane on the back
+foot.
+
+Isk found the flamer running up a clear aisle between the vats, away from the beds, and
+put a bolt into the tank on his back. The tank burst. This time it was not the man that
+went up: the whole flamer burst into fire on his back, and he tore it off and threw it
+down and stood there, unarmed, badly burned, with burning promethium spreading across the
+aisle round his feet.
+
+The rest of the Light fanned out across the floor, kicking weapons away from the downed,
+covering the far end and the back of the hall.
+
+---
+
+Tamsin gave them all a job.
+
+Isk was to drop the flamer. Morcant was to get the chain. Tey and Dace were to get on the
+winch. Varga, Tavi and Sallow were to put out that fire. Everyone else, Kell, Brenner,
+Sorel, Hollis and Nessa, was to search the hall for some way to get rid of the spores.
+
+Corvane he told to show him he could fight.
+
+Then he walked up to the edge of the spore cloud, three metres behind Corvane and the
+Singer, and stood there to watch.
+
+"SHOW ME, CORV."
+
+Isk put the flamer down beside the burning pool.
+
+The Singer came at Corvane with a pistol in one hand and the chainsword in the other. The
+pistol round cracked off Corvane's chest plate. The chainsword came down, and Corvane
+caught it on the power sword and turned it aside, clean, and the blue field threw sparks
+off the chain teeth.
+
+Dace threw himself on the winch crank in the middle of the spore cloud and heaved, and the
+crank went round. Tey heaved with him and could not get it to go round again. Morcant had
+both hands on the chain and was hauling on it with all his weight, and it did not move for
+him. The cage came halfway up, still under.
+
+Dace coughed, and kept coughing. He had breathed it.
+
+The burning promethium found the first of the mulch sacks, and they caught, and the fire
+ran along the aisle toward the man Isk had just put down.
+
+Up on a gallery on the hall's wall, Brenner found the hall's purge panel, and threw the
+purge. All through the hall the great fans in the ceiling stuttered, stopped, and began to turn the other way,
+and the whole hall's air began to rush up out of it, away to the void. The spore cloud on
+the vat rim tore apart and went up into the fans and was gone.
+
+It was 1401.
+
+---
+
+"CORVANEEEE."
+
+Corvane cut. The power sword went across the Singer's chest, and the Singer staggered,
+badly hurt.
+
+"Sallow. Dace needs medicae." And to Brenner: if he had found anything else, he was to do
+it already.
+
+Sallow sprinted to the winch and jabbed an antitoxin into the side of Dace's neck, and Dace
+stopped coughing.
+
+Dace heaved on the crank, and it would not go. Morcant hauled on the chain, and it would
+not move. Then Tey set his feet, set his teeth, and threw his whole weight onto the crank
+handle, and it went round.
+
+The cage came up out of the sludge, streaming, and swung out over the vat a metre and a half
+beyond the rim, dripping green-black, with four bodies inside.
+
+Two of them were coughing and retching sludge. Two were not moving. One was a man in a dock
+worker's coat. The other was the girl.
+
+Varga and Tavi threw everything they had on the fire, and it did not go out. It reached
+the downed flamer and he burned.
+
+Brenner came back on the bead. He had nothing more. The purge was running.
+
+The Singer was still on his feet in front of Corvane, badly hurt, with his chainsword up.
+
+---
+
+"Sallow, Corv needs one too. Varga, contain that fire."
+
+Sallow put an antitoxin into Corvane.
+
+Varga and Tavi dragged full mulch sacks off the sled and threw them on the burning aisle,
+one after another, and smothered the fire under them until it was only smoke.
+
+Corvane had the Singer. The man's guard was open, and the power sword was coming back for
+the finish.
+
+Tamsin drew Last Word and shot the Singer past Corvane's shoulder, point blank. The first
+bolt put him down at the vat's edge. The second went into him where he lay.
+
+Morcant leaned out over the rim as far as he could reach, snagged the cage's bars and
+dragged it in against the rim. Its door was shut with a plain iron bolt.
+
+The fight was over. All eleven gardeners in the hall were down.
+
+It was 1403.
+
+"Morcant, open that bolt. Brenner, burn it open if he can't."
+
+Morcant got both hands on the bolt and wrenched at it, and it ground back, rusted and
+screaming, and the door swung open.
+
+Sallow was already at the bars. She dragged out the two who were not breathing, laid them
+side by side on the rim platform, and worked on them both at once, one hand on each, back
+and forth between them. The dock worker coughed first, a great gout of sludge, and rolled
+onto his side and breathed. Then the girl.
+
+All four from the cage were alive.
+
+"Gather everything up for extract."
+
+It was 1404.
+
 # Appendix: Session notes
 
 ### Session 8 (Season Two, mission 1: Ustrennos)
