@@ -196,6 +196,9 @@
   - **After beat 1:** **11 poxwalkers** loose, ~60 m and closing 5 m a beat; **3 in the hall**. Down: the Bell-man (his bell on the deck), 12 poxwalkers. The Light unhurt; Vigil heat 0.
   - **Beat 2 (~0214):** 'KEEP FIRING'; orders Morcant ('hose them down') and Isk ('the ones far') at +2. **Morcant (+7, braced): five misses (2, 4, 3, 5, 6), then 21, 21, 19: three down. Isk 18+10 = 28: one down. Tamsin's Vigil into the group: 9+12 = 21, 8+12+2-1 = 21: two down; natural 1: miss.** Varga 5+12 = 17: one. Tavi 8+6 = 14 (not solid): one (resilience d6 5: stays down). Sallow 15+6 = 21: one. Sorel 11+6 = 17: one. **Corvane natural 20: the last one outside.** Kell 12, Brenner 11: miss. Tey, Hollis and Corvane's other shots: no targets left outside. **All 23 poxwalkers outside down.**
   - **After beat 2:** the ring outside the hall is clear. **3 poxwalkers inside the hall**, moaning, coming up toward the noise. The Light unhurt; Vigil heat 0.
+  - **Beat 3 (~0215):** Tamsin's Vigil down the ramp at the last three: 14+12 = 26, 16+12+2-1-1 = 28, 12+12+2-1-1 = 24: **all three down (solid).** **THE NIGHT FIGHT IS OVER (~0215): the swarm of 26 and the Bell-man down.** The Light unhurt. (The Bell-man Down: no prisoners; loot not rolled.)
+  - **~0216: Brenner's auspex, natural 20:** the hall clear (d20 18: nothing else inside); nothing moving within ~300 m. South at the customs house: ~28 warm bodies dug in, and **~4 more cold flickers gathering in its yard** (d20 18; 2d10 4: the 6th's beds making more). **Bonus from the 20 (now set): a coded long-range burst from the customs house, aimed off-rock; one word clean, repeated three times: 'Thorn'** (the recognition word from the *Sable Margin*'s 'Margin to Garden' hail: an alarm to the Tender/Gallowmere that the Bloom is lost). **Teo from above: the Spire's gate attackers are faltering and pulling back (d6 6)**; Moll holding; CY-6 dark and quiet; the cannery quiet, a handful of heat.
+
 
 
 

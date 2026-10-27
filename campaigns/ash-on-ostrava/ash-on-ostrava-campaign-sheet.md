@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~0212 warp day 34, the dock ring outside the scrubber hall (night).** The Light dropped behind the poxwalker swarm; the bell-man of the 6th turned 23 of them back at the Light (3 got into the hall), and his gun jammed. Fight about to start. The Spire's gates are holding out alone.
+**Where we stopped:** **session 10, ~0216 warp day 34, outside the scrubber hall (night).** The poxwalker swarm (26) and its bell-man are down; the hall is clear. Brenner caught a coded long-range burst from the customs house aimed off-rock, one word clean three times: 'Thorn'. Teo: the attackers at the Spire's gates are pulling back; ~4 more shamblers gathering in the customs house yard.
 
 ### Current state (day 33)
 
@@ -132,6 +132,8 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1710-1820: back to the *Bright Light* to resupply (guns cleaned, packs fresh, grenades from the crate, Varga's lift pack charged). **Teo's sweep (~1815):** the customs house dug in (~28); 6 Hookmen raiding the east ring; the Tallow Boys (13) holding the cannery under a new boss, Marl Tegg.
 - ~1825-1830: the spook dose thrown out; Tamsin's satchel unloaded (coin box 15,252). 'Ollin, rekit the team and get us ready for tomorrow. We end this soon.' The Light slept aboard.
 - **~0200 day 34:** Moll's call: Hookmen and Tallow Boys at the Spire's lower gates, going for Wick; Teo: ~26 shamblers crossing the dock ring toward the scrubber hall.
+- ~0203-0216: Tamsin dropped the Light behind the swarm at the scrubber hall; the bell-man turned 23 on them and was killed by Hollis's frag and Tamsin's Vigil; the Light shot the swarm down on the open ring (Morcant's stubber, Corvane's natural 20 on the last), then the three that got into the hall. Brenner's auspex (20): a coded off-rock burst from the customs house: 'Thorn', three times.
+  - **Reps (tally at day's end):** Tamsin: 6 orders (WIS), 7 kills (DEX), the drop call (CHA? no: WIS). Morcant: 9 kills (DEX). Hollis: the frag on the bell-man (DEX). Tey: 4 kills (DEX). Corvane: 2 kills incl. a natural 20 (DEX). Sallow, Sorel, Varga, Tavi, Isk: kills (DEX). Brenner: the auspex (INT). Mira: the hot landing (DEX).
 - ~1216: 'INQUISITION, STOP FIRING, WE ARE FRIENDLY' (21): the militia stood down. Sergeant Pim Dorrow: eight left, a pack each, the Hookmen rush the gate every few minutes with a heavy stubber covering from the second bend. The Light took positions along the east wall.
 - ~1218: Tamsin, knowing the auspex has them, scanned the roofs (25): **a man in dark rags lying flat among the aerials on the blockhouse roof behind the Light**, silenced pistol and a frag in hand, watching their backs. He doesn't know he's been seen.
 
