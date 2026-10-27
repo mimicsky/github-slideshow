@@ -1521,7 +1521,7 @@ guns count one step cleaner.** Never-jam guns (the 'Kasr Frontier') ignore all t
 and the smith crew post ignores the first jam each fight. **Cleaning:** ~30 minutes a
 gun (DEX training, +0.1 an hour). **Enemies:** cultists and raiders roll **Dirty or
 Neglected** (even chance); pirates **Dirty**; traitors and traitor elites **Clean**.
-The roller prints it. **Pack sizes (set by the player, Ash on Ostrava session 10):** a **hot-shot pack** (hellguns, hellpistols, hot-shot conversions) holds **30 shots**; a **regular las pack** (lasguns, lascarbines, laspistols) holds **45**. Special packs keep their own numbers (catalogue). Swapping a pack mid-fight takes the beat's move. The Light's gun condition is tracked on the campaign sheet (one line under the Full kit:
+The roller prints it. **Pack sizes (set by the player, Ash on Ostrava session 10):** a **hot-shot pack** (hellguns, hellpistols, hot-shot conversions) holds **30 shots**; a **regular las pack** (lasguns, lascarbines, laspistols) holds **45**. Special packs keep their own numbers (catalogue). Swapping a pack mid-fight takes the beat's move (DM default; the player may change it). The Light's gun condition is tracked on the campaign sheet (one line under the Full kit:
 only the exceptions are written). **Aboard ship the Light's guns are cleaned routinely, mostly by the
 quartermaster: people hand their guns in to him and he cleans them.**
 
