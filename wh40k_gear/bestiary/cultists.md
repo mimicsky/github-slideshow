@@ -26,7 +26,10 @@ Munitorum never cured. Now they spread it on purpose.
   contact,** the swarm makes one attack a beat on each person it reaches (d20 +2): a hit drops a step
   unless armour stops claws (carapace does, like most blades; flak doesn't), and **a bite that lands
   carries the rot** (CON save vs 13, masks don't help, or sickened). A crowd stays narrative: no
-  exchange per body. Usually driven by a herder or two of the 6th behind them.
+  exchange per body. Usually driven by a **herder** or two of the 6th behind them (an ordinary
+  trooper of the 6th, grunt class, with a bell or a horn): the swarm marches where the bell goes. **Kill
+  the herder and the swarm loses its march**: it stops pushing for the objective and turns on whatever
+  living thing is nearest.
 
 ## The Volscani Cataphracts
 
