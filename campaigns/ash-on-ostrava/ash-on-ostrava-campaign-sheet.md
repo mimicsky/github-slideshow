@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~0340 warp day 34, the customs house, held by the Light.** Mira's three runs done: Venn's 17 to the Spire (Moll held the gates: 2 guards lost, 5 attackers dead, Wick still caged); the 6th's three prisoners chained in the *Bright Light*'s hold cargo cage (Thask and Ilsabet in the cells, the girl in the medicae); the customs house haul aboard. Still on the board: Crane Yard 6 (Crale) and the cannery (~5 Tallow Boys, Pell Rusk). 'Thorn' was sent off-rock at ~0216; nothing has arrived yet.
+**Where we stopped:** **session 10, ~0405 warp day 34, at the fence of Crane Yard 6 (night).** Tamsin split the Light to end it: **Team 2 (Kell, Hollis, Nessa, Sorel, Sallow)** to the cannery for Pell Rusk; **Team 1 (Tamsin, Tey, Corvane, Dace, Morcant, Isk, Varga, Brenner, Tavi)** reached Crane Yard 6 unseen: containers, three cranes, the padlocked hangar, Crale's lit cab ~40 m up the tallest crane.
 
 ### Current state (day 33)
 
