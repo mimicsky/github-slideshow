@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1825 warp day 33, aboard the *Bright Light*, off Torvane's Mart.** Resupplied; the day's loot unloaded (coin box 15,252); the spook dose thrown out. Thask and Ilsabet in the cells, the girl in the medicae with Sallow. Teo's sweep (~1815): the customs house dug in (~28), six Hookmen raiding the east ring, the Tallow Boys (13) at the cannery under Marl Tegg. Next: take the rest of the Mart.
+**Where we stopped:** **session 10, ~0200 warp day 34, aboard the *Bright Light*, off Torvane's Mart.** Day 33 is tallied (book chapters for its afternoon being written). The Light slept aboard, kitted for the morning; Thask and Ilsabet in the cells, the girl in the medicae. **At ~0200: Captain Moll on the vox: ~12 Hookmen and ~8 Tallow Boys are hitting the Spire's lower gates, going for Old Wick; and Teo's augur shows ~26 shambling figures crossing the dock ring toward the unguarded scrubber hall.** Coin box 15,252.
 
 ### Current state (day 33)
 
@@ -130,6 +130,8 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
   - **Reps (tally at day's end):** Tamsin: 'You think I'll negotiate with you?' and the order to sweep (CHA), the Perception on the girl (WIS), the counting room door (STR), the search (INT). Tavi: the door charge (INT). Sallow: the girl (WIS). Tey: bound Ilsabet. Kell: the sweep (WIS).
 - ~1705: the manifest's two crates of jars burned in berth 31's hold (Hollis's flamer, tug promethium); one sealed jar kept for Kesh.
 - ~1710-1820: back to the *Bright Light* to resupply (guns cleaned, packs fresh, grenades from the crate, Varga's lift pack charged). **Teo's sweep (~1815):** the customs house dug in (~28); 6 Hookmen raiding the east ring; the Tallow Boys (13) holding the cannery under a new boss, Marl Tegg.
+- ~1825-1830: the spook dose thrown out; Tamsin's satchel unloaded (coin box 15,252). 'Ollin, rekit the team and get us ready for tomorrow. We end this soon.' The Light slept aboard.
+- **~0200 day 34:** Moll's call: Hookmen and Tallow Boys at the Spire's lower gates, going for Wick; Teo: ~26 shamblers crossing the dock ring toward the scrubber hall.
 - ~1216: 'INQUISITION, STOP FIRING, WE ARE FRIENDLY' (21): the militia stood down. Sergeant Pim Dorrow: eight left, a pack each, the Hookmen rush the gate every few minutes with a heavy stubber covering from the second bend. The Light took positions along the east wall.
 - ~1218: Tamsin, knowing the auspex has them, scanned the roofs (25): **a man in dark rags lying flat among the aerials on the blockhouse roof behind the Light**, silenced pistol and a frag in hand, watching their backs. He doesn't know he's been seen.
 
@@ -166,7 +168,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 | Rank | **Interrogator** of Inquisitor Kesh's Ordo (rosette, warp day 20, session 7). Leads the Light; takes his orders from Kesh (Varsaine stayed with the Lantern). (Interrogator-designate from session 5.) |
 | Class | Fighter 10, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | **Fine** (healed day 20) |
-| Stats (levels 1-100) | STR **29.0** (+2), DEX **71.1** (**+7**), CON **23.5** (+2), INT **10.4** (+1), WIS **25.5** (+2), CHA **13.1** (+1) |
+| Stats (levels 1-100) | STR **30.1** (**+3**), DEX **74.7** (**+7**), CON **23.8** (+2), INT **10.7** (+1), WIS **33.0** (**+3**), CHA **13.9** (+1) (tally day 33) |
 | Renown | **Local (+3)**, close to Regional (codex, Renown). **Ustrennos: +5 more** (the Spindle, the Kestrel, the pirate ship: the station knows his face). **Thask's network knows exactly who he is.** Next step up (Regional): break the Gardener at the Mart |
 | Proficiency | **+4** (level 10). Skills: Perception, Athletics, Survival, Intimidation. **+1 on will checks** (house rule 8; the provost's manual, finished day 19) |
 | Flaw | Doesn't trust officers, and says so |
@@ -223,7 +225,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 **Helms:** everyone wears one except Nessa (quiet kit). **Pict-lens helms:** Tamsin, Kell, Isk, Corvane, Hollis, Tavi.
 **Vox-beads:** everyone in the Light wears one on THE LIGHT (confirmed by the player, day 33).
 **Rebreathers:** everyone carries one on the belt (as in the book) **except Tey, Sorel and the two penitents**, who need them bought (on the wishlist). Tamsin's is the double-filtered plague rebreather.
-**Penitents** (kit given by Tamsin, ~1053 day 33): **Dannel Rusk** (he/him) and **Joren Brisk** (he/him) each carry a **lasgun with 1 pack seated, a bayonet and a flak coat**. No helm, no bead, no rebreather, no spare packs. **Stats (rolled day 33, civilians):** Dannel STR 27 / DEX 15; Joren STR 23 / DEX 12 (others not rolled).
+**Penitents** (kit given by Tamsin, ~1053 day 33): **Dannel Rusk** (he/him) and **Joren Brisk** (he/him) each carry a **lasgun with 1 pack seated, a bayonet and a flak coat**. No helm, no bead, no rebreather, no spare packs. **Stats (rolled day 33, civilians):** Dannel STR 27 / DEX 15.2; Joren STR 23 / DEX 12.4 (others not rolled; tally day 33).
 **The Valkyrie (Mira, Teo):** a pair of rocket pods, **both empty (0 of 6 rockets)**; nothing else.
 **Open:** Kell's shield arm (still to be fitted); rockets for the Valkyrie's pods (Mira's wish); Isk's laspistol is the player's 'I think'.
 
@@ -331,23 +333,23 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 
 | | STR | DEX | CON | INT | WIS | CHA | State |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Kell** | 40 | 37.3 | 30 | 10 | 26 | 10 | Fine. |
-| **Varga** | 25 | 41 | 25 | 10 | 26.7 | 5.1 | Fine. |
-| **Dace** | 25.2 | 22.7 | 20 | 28.2 | 5.4 | 5 | Fine (hip healed by day 33). |
-| **Sorel** | 40.5 | 32 | 29 | 18 | 27.6 | 14 | Fine. Tracker; hive clearance +2. |
-| **Tey** | 17.6 | 43.3 | 28.1 | 14.1 | 9.2 | 14 | Fine. Grunt; **pistol focus (gunslinger) +1** (day 32 = drill day 17; next +1 at drill day 20, ~day 35; +1 per 10 drill days to +5). Pistol drill nightly; 5 for 5 under Varga at dawn on day 32. His flinch came from a long trigger pull (a hair trigger would beat it; not fitted). **At Tamsin's side from day 16: goes everywhere with him, into the action.** |
-| **Hollis** | 28.2 | 41.8 | 32 | 17 | 25.7 | 12 | Fine. |
-| **Brenner** | 21 | 28.3 | 26 | 41.5 | 18.3 | 10 | Fine. |
-| **Isk** | 19 | 47.8 | 28 | 13.5 | 33.7 | 10 | Fine. |
-| **Tavi** | 19.6 | 36.6 | 23 | 32.9 | 17.2 | 17 | Fine. |
-| **Morcant** | 48.8 | 24.3 | 33 | 15 | 19.2 | 17 | Fine. |
-| **Sallow** | 20 | 32.3 | 22 | 25 | 40.7 | 20 | Fine. |
-| **Corvane** | 28.6 | 43.6 | 31.2 | 21.5 | 20.2 | 22 | Fine. |
-| **Nessa** | 17.2 | 49.1 | 18 | 21.1 | 29.1 | 27.3 | Fine. |
-| **Mira** | 14 | 42.5 | 20 | 32.6 | 30.2 | 15 | Fine. |
-| **Teo** | 18.1 | 42.4 | 18 | 26.6 | 19.2 | 28 | Fine. |
-| **Ferro-Ashe** | 19 | 25.3 | 20 | 44.8 | 19.2 | 12 | Fine. |
-| **Ollin Brake** | 18 | 17 | 25 | 23.5 | 18 | 17.1 | Fine. Haggles d20 + CHA bonus (+1); cleans handed-in guns. |
+| **Kell** | 40 | 38.5 | 30.1 | 10 | 26.4 | 10 | **Hurt** (the mast, day 33; patch failed). |
+| **Varga** | 25.2 | 42.6 | 25.1 | 10 | 26.9 | 5.1 | Fine. |
+| **Dace** | 25.6 | 22.8 | 20 | 28.2 | 5.5 | 5 | Fine (hip healed by day 33). |
+| **Sorel** | 40.5 | 32.8 | 29 | 18 | 27.6 | 14 | Fine. Tracker; hive clearance +2. |
+| **Tey** | 17.7 | 45.3 | 28.3 | 14.1 | 9.2 | 14 | Fine. Grunt; **pistol focus (gunslinger) +1** (day 33 = drill day 18; next +1 at drill day 20, ~day 35; +1 per 10 drill days to +5). Pistol drill nightly; 5 for 5 under Varga at dawn on day 32. His flinch came from a long trigger pull (a hair trigger would beat it; not fitted). **At Tamsin's side from day 16: goes everywhere with him, into the action.** |
+| **Hollis** | 28.2 | 42.9 | 32 | 17 | 25.7 | 12 | Fine. |
+| **Brenner** | 21 | 29.3 | 26 | 42 | 18.3 | 10 | Fine. |
+| **Isk** | 19 | 48.9 | 28 | 13.5 | 33.8 | 10 | Fine. |
+| **Tavi** | 19.6 | 37.3 | 23.1 | 32.9 | 17.2 | 17 | Fine. |
+| **Morcant** | 49 | 25.4 | 33.2 | 15 | 19.2 | 17 | Fine. |
+| **Sallow** | 20 | 32.7 | 22 | 25 | 42.2 | 20 | Fine. |
+| **Corvane** | 29.3 | 44.5 | 31.4 | 21.5 | 20.2 | 22 | Fine. |
+| **Nessa** | 17.3 | 50 | 18.1 | 21.2 | 29.1 | 27.4 | Fine. |
+| **Mira** | 14 | 43.1 | 20 | 32.6 | 30.2 | 15 | Fine. |
+| **Teo** | 18.1 | 42.8 | 18 | 26.8 | 19.2 | 28 | Fine. |
+| **Ferro-Ashe** | 19 | 25.3 | 20 | 45.1 | 19.2 | 12 | Fine. |
+| **Ollin Brake** | 18 | 17.3 | 25 | 23.5 | 18 | 17.1 | Fine. Haggles d20 + CHA bonus (+1); cleans handed-in guns. |
 
 ## Hidden notes
 
