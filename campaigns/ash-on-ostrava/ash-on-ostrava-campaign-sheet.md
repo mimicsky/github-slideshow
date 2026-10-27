@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~0216 warp day 34, outside the scrubber hall (night).** The poxwalker swarm (26) and its bell-man are down; the hall is clear. Brenner caught a coded long-range burst from the customs house aimed off-rock, one word clean three times: 'Thorn'. Teo: the attackers at the Spire's gates are pulling back; ~4 more shamblers gathering in the customs house yard.
+**Where we stopped:** **session 10, ~0225 warp day 34, behind wrecked cargo carts ~120 m north of the customs house (night).** The Light (15) moved on the customs house after clearing the scrubber hall; Sgt Dorrow's 5 militia are coming to guard the hall (~0230). The customs house: razor wire across the road, sandbag nests at the arch and on the roof, a stab-light sweeping the approach; the 6th run it; Voke's ~20 men are still sealed in the strongroom beneath.
 
 ### Current state (day 33)
 
