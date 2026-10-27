@@ -90,6 +90,7 @@ People, places, the ship, Kesh's targets and mission briefs. **Not read on resum
 | **Dagan Crale** | Boss of the Hookmen (dock gang: east dock ring and the cranes), Torvane's Mart | Bought by Thask for the rising; not met (Voke, day 33) |
 | **Old Wick** | Boss of the Tallow Boys (dock gang: the rendering yards and the cannery side round berth 44), Torvane's Mart | Bought by Thask for the rising; not met (Voke, day 33) |
 | **Marl Tegg** (he/him) | **New boss of the Tallow Boys** (day 33, after Wick's capture). Huge renderer, flensing hook, a burned face; Wick's old yard foreman | Holds the cannery at berth 44 and the rendering yards with ~13 |
+| **Lieutenant Aster Venn** (she/her) | Governor Voke's customs-house garrison officer; sealed in the strongroom under the customs house since ~0600 day 33 with what's left of her ~20 | 17 left (6 wounded), no food, little water or ammo; in vox touch with the Light ~0226 day 34 |
 | **Captain Severin Holt** | Gate Guard captain, held the Spindle | Surrendered; **sent to Kesh with Aldwyn, day 14**. Not a cultist; ashamed |
 | **Sergeant Brann** | Gate Guard sergeant | Captured in Bay Two; **sent to Kesh with Aldwyn, day 14** |
 | **Sergeant Malk Dresh, 'the Gate Captain'** | Nurgle cult leader among the Gate Guard | **Dead**, with his seed |
