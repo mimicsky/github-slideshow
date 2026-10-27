@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~0225 warp day 34, behind wrecked cargo carts ~120 m north of the customs house (night).** The Light (15) moved on the customs house after clearing the scrubber hall; Sgt Dorrow's 5 militia are coming to guard the hall (~0230). The customs house: razor wire across the road, sandbag nests at the arch and on the roof, a stab-light sweeping the approach; the 6th run it; Voke's ~20 men are still sealed in the strongroom beneath.
+**Where we stopped:** **session 10, ~0229 warp day 34, the customs house's east side (night).** Sneaking round to the east service door, Brenner's vox-caster clanged and the stab-light caught the Light strung out along the east strip; Tamsin, Tavi (with the primed breaching charge) and Dace are at the east wall ~15 m from the door. Venn's 17 wait in the strongroom for the breach. The fight is starting.
 
 ### Current state (day 33)
 
