@@ -28879,6 +28879,932 @@ All four from the cage were alive.
 
 It was 1404.
 
+## Chapter 81: The Red Wheel
+
+Mira put the Valkyrie down on the ring beside the gate barricade, and the Light began
+loading the pile from the barricade into it.
+
+Tamsin left the loading to nine of them: Kell, Sallow, Dace, Morcant, Tey, Sorel,
+Isk, Brenner and Nessa. When it was done they were to come to him, and if anything
+went wrong they had the bead. He took Varga, Corvane, Tavi and Hollis and walked north
+along the ring to the valve house.
+
+It sat squat and grey behind its sandbags, with the Spire's air duct rising out of
+its roof. Two of the gardeners behind the sandbags were still breathing. The third,
+the one who had thrown out his revolver, lay dead behind them, and three metres back
+the man under the grating was dead where Tamsin had left him.
+
+The heavy steel door was locked. There was a vision slit in it at head height, and
+through it Tamsin could see one room, a big red wheel on a main pipe, and beside the
+wheel a gauge with its needle lying on zero.
+
+Nobody had turned up a key on the bodies. They went over the ones at the sandbags again,
+quietly, and Varga found it. It hung on a cord round the neck of the gardener with the
+lasgun, under his flak vest: a heavy iron key with a brass tag stamped *N. VALVE*. He
+was out cold, and he did not stir when she lifted the cord over his head.
+
+"Open it," said Tamsin, low.
+
+Varga turned the key, and the door swung in.
+
+It was one room, and it was empty. The Spire's main came up through the floor and
+went out through the roof, as thick as a man, and the red override wheel sat on it,
+shut. Somebody had tied wilted garlands of flowers round its spokes. On the wall a
+vox panel hung dead.
+
+Tamsin went over the room before anyone touched anything. Nothing was rigged. Nobody
+was hiding. The rim of the wheel was gouged bright where a pry-bar had been jammed into
+the spokes to force it shut in a hurry, and the crowbar lay behind the pipe where it had
+been dropped. The flowers were tied on with plain twine. At the flange under the wheel
+there was a hairline leak, and the air whistling out of it smelled cold and metallic,
+like the air in any pipe. It did not smell sweet.
+
+Varga fetched the crowbar and jammed it through the spokes. Tamsin, Varga, Corvane,
+Tavi and Hollis got their hands on the wheel and the bar, and heaved.
+
+It did not want to go. They heaved again, and it gave a quarter-turn, grinding, and
+then another, and then it was turning under their hands. Somewhere deep in the pipe
+something opened with a heavy *thunk*. The needle came up off zero. It climbed, and
+kept climbing, into the green, and the whole main began to thunder.
+
+The garlands shook loose from the spokes and fell on the floor.
+
+It was 1409.
+
+A minute later Mira came on the bead.
+
+"*Boss, Captain Moll's on my band. The air's coming through the Spire's vents. She
+says they're cheering in the halls up there.*" A pause. "*She says thank you.*"
+
+---
+
+"Is everything loaded?"
+
+"*All of it, boss.*"
+
+"Take off, then come back for prisoners and civs."
+
+"*I can take about twelve a run. That's two runs, boss. Which first?*"
+
+The Valkyrie lifted off the ring with the hall's loot and went away toward the
+*Light*. Nobody rode with it. She would be back in twenty minutes.
+
+The loading party came up the ring to the valve house, and Tamsin looked at what
+was left.
+
+There were sixteen people in the hall who were not gardeners: the four from the cage, and
+twelve still buried in the beds. And there were eight gardeners still breathing. Four
+were out here on the ring: the woman with the staff and the man with the club at
+the gate, and the two at the sandbags, one of them the man Varga had taken the key
+from. Four more were down in the hall, among them the man with the boarding shield,
+still rigid from Nessa's dart.
+
+He keyed his bead to Mira.
+
+"Take the civs first."
+
+Then he said it to the Light.
+
+"Finish the cultists. They are of no use to us."
+
+Kell saw to it. It was one las round each: four out on the ring, and then down the ramp
+and four in the hall, the shots spaced out and flat under the noise of the fans. After
+that there were no gardeners left at the scrubber hall.
+
+---
+
+The Light went down into the hall and dug.
+
+The twelve in the troughs were buried to the waist and to the chest in wet mulch,
+packed heavy and cold, and it came away a handful at a time. The Light dug with their
+hands and with whatever they could find, two to a trough, and dragged them out one by
+one and laid them on the walkway between the vats.
+
+The fungus on their shoulders and arms looked bad. It was not as bad as it looked. Sallow
+went down the line of them, and it came away under her thumb. It was only on the
+skin. Underneath, the skin was white and wrinkled from the damp, but whole. They were
+starved and weak and parched, and the Light had to carry most of them. But all twelve
+would live. So would the four from the cage.
+
+They carried them up the ramp one at a time and laid them on the ring by the barricade.
+
+At 1430 Mira put the Valk down by the gate again. Twelve went aboard: the four from
+the cage, and eight from the beds. The last four would go on the next run. The Valkyrie
+lifted for the Spire's medicae.
+
+
+## Chapter 82: Nessa's Way
+
+While the Valk was away, Brenner sat on the edge of the barricade with his slate on
+his knee and laid out what was left of the Mart.
+
+Four places still stood against them. The customs house, with the Governor's men sealed
+in the strongroom underneath it. Berth 31 on the Low Quay, Thask's. Crane Yard 6 on
+the east dock ring, where the Hookmen had kept their gunship and where Dagan Crale
+watched the yards from his crane cab. And the cannery round berth 44, Tallow Boys
+ground, where Pell Rusk was.
+
+Tamsin looked at it for a while.
+
+"We take Crane Yard 6 and push the Hookmen back. Then we clear the Tallow Boys off
+the west side. We claim the dock ring, and we lock down the middle."
+
+They weighed in.
+
+"The cranes are high ground, boss," said Kell. "And Crale sits up in his cab and
+watches. He'll see us the whole way in."
+
+"Thask hears every shot," said Nessa.
+
+Brenner tapped the middle of the slate. "And holding the middle takes bodies. Moll's
+guards, or Dorrow's militia. We haven't got enough of our own."
+
+Tamsin looked at the slate again, and then at Nessa.
+
+He changed the plan. Thask now, by Nessa's back way.
+
+---
+
+Nessa briefed it there on the ring, crouched by the barricade with Brenner's slate,
+while the purge fans roared on down in the hall behind them.
+
+"First thing. No docker coats. We never bought any, and it doesn't matter now. The
+Quay's in open riot. Nobody's checking faces."
+
+She drew on the slate with one finger, round the outside of the rock.
+
+"We don't go anywhere near customs. Mira takes us low round the rock's outer skin,
+to the tug pens at the south tip. The tugs moor right up against the outer hull, and
+there's a pilots' lock there into the tug dock. Teo's sweep had a handful of heat in
+the dock, no more."
+
+Her finger went in from the tip, under the Quay.
+
+"From the tug dock there's the Gut. It's the tug crews' crawl. It runs under the
+Quay's deck plating all the way to the bonded warehouses. Berth 31's branch ends at the
+tallyman's hatch, in the floor of the lower hold. That's where the untaxed cargo came
+up, past customs. Thask had it cut." She did not look up. "I used it for years. Running
+his guns."
+
+"It's tight. You crouch the whole way, single file. Heavy plate fits, but it's slow,
+and it's loud. Eight at most, boss. The rest go with Mira, loud, as the backup over
+the roof. If the hatch has been welded, Tavi cuts it."
+
+"Inside, it's the lower hold. Bonded cargo, crates, a cargo lift. The counting room's
+off the hold. That's Ilsabet, and the ledger. The main stair goes up from the hold
+through the floors. The top floor's the girl's room. No windows, one door. Thask sleeps
+across it."
+
+"About twenty gardeners in the warehouse and the floors over it. That's an old count."
+
+"Out, it's the same way, back down the Gut to the tug dock. Or up to the roof for Mira,
+if it goes loud."
+
+She sat back on her heels.
+
+Tamsin picked the eight who would go through the Gut: himself, Varga, Brenner, Nessa,
+Tavi, Corvane, Tey and Sallow. The other six would ride with Mira as the backup: Kell,
+Dace, Morcant, Isk, Hollis and Sorel.
+
+It was 1436.
+
+---
+
+Mira came back at 1450 for the last four from the beds and flew them to the Spire. At
+1510 she put down at the gate one last time, and both teams went aboard.
+
+She took the Valk up off the dock ring and out past the edge of the rock, and then
+down, and ran low along its outer skin, with grey rock streaming past below them,
+the long way round, well clear of the customs house. Nobody saw them go.
+
+The tug pens were at the south tip: a row of squat tugs moored nose to tail against
+the outer hull, dark and cold. Mira brought the Valk in among them and set her side
+door against the last lock collar in the row, the pilots' lock, and the eight went
+through into it. Then the Valk pulled away and dropped out of sight off the south tip
+with the backup six aboard, to wait.
+
+It was 1520.
+
+---
+
+The lock was cramped with eight of them in it in full plate. Its inner door had a
+porthole in it, scratched and filmed over with old grime.
+
+Brenner held his auspex against the inner door and watched it.
+
+"Five warm, boss. One close, ten metres off the door. One in the middle of the
+dock. Three at the back, by the gantry." He frowned at it. "And four more at the back
+I can't hold. Cold. They flicker, and they won't lock."
+
+Tamsin scraped a corner of the porthole clean with his thumb and looked through.
+
+The tug dock was a long bay, about fifty metres from end to end. Tug lock collars ran
+down the outer wall, and theirs was the last of them, at the near end. Fuel drums and
+crates stood in rows down the middle. At the far end a crane gantry straddled the bay,
+and behind it, low in the back wall, was a square black opening: the mouth of the Gut.
+
+The close one was pacing ten metres from the lock doors, with a bandolier of throwing
+knives across his chest. In the middle of the dock a man with a rusted lasgun stood by
+a stack of tug fuel drums, and the drums were stencilled for promethium. At the back,
+on the gantry's base, a braced autogun was set up on its legs, and the man behind it
+had it laid on the lock doors; from there it covered the whole dock. By the mouth of
+the Gut a huge man sat on a crate with an engine-block on a chain across his knees,
+for a flail. Beside him a handler held four hounds on chains. They were the same long,
+thin, wrong things the Light had shot down at the scrubber hall.
+
+The men wore Guard carapace, old and gone green at the edges, over fatigues that had
+rotted dark. Their gas masks had grown into their faces. There were open sores on their
+necks and hands, and flies hung round them in the still air of the dock. And they were
+standing a proper watch, each man with his own arc, spaced the way a regiment spaces one.
+
+None of them had looked at the lock.
+
+Tamsin knew them by reputation.
+
+"It's the fucking 6th."
+
+He told the others in the lock what he knew, low and fast. The Moebian 6th had been a
+Guard regiment once. They had gone over to the Plague God and rotted, and they still
+fought like a regiment, and whoever fought them did not come out of it well. They
+filled themselves with the rot. They drove swarms of poxwalkers ahead of them.
+
+And he told them what he read in it, seeing them here, standing guard on Thask's back
+door. The garden, the jars, the plans. The 6th had been behind all of it, all along.
+
+Nobody in the lock said anything.
+
+"No more prisoners. No more quiet."
+
+It was 1523.
+
+
+## Chapter 83: The Back Door
+
+"Varga, the hound guy."
+
+He started to call for Hollis to lob some over, and stopped. Hollis was on the Valk
+with the backup.
+
+"Nessa, the one close."
+
+Tamsin hit the release, and the lock's inner door ground open.
+
+Varga fired first, from the door. Mercy cracked, and at the back of the dock the
+handler reeled against the gantry with a bolt in him. Nessa's needle pistol spat. The
+dart took the pacing man with the knives in the side of the neck, and he went rigid
+and toppled over onto the deck plates with every knife still in its loop.
+
+Tamsin pushed out of the lock with Vigil up and put it on the man by the fuel drums,
+twenty-five metres off. The first bolt hit him. The second took him badly. The third
+put him down at the foot of the drums.
+
+Tey fired three times at the gunner on the gantry and missed with all three. Tavi
+missed him too.
+
+At the back the hounds were up off the deck and howling, straining at their
+chains. Brenner's lascarbine killed one. Sallow put a single clean shot into
+another. Corvane's revolver barked twice, and the last two went down one on top of
+the other and lay still. All four were dead on their chains.
+
+The gunner on the gantry swung his braced autogun off the lock doors and onto Tamsin
+and fired. Three rounds hit him, and the refractor field flared three times and stopped
+all three. Then the autogun jammed.
+
+The big man got up off his crate. He let the engine-block swing down on its chain,
+and came walking up the dock toward them, dragging it. The handler ducked behind a
+leg of the gantry with a frag in his hand.
+
+---
+
+"Varga, take the brute. Tey, shoot the brute."
+
+Varga's shot went wide. Tey hit the brute once, and it barely slowed him, and his next
+went wide.
+
+Tamsin put Vigil on the gantry leg the handler was crouched behind. The first bolt went
+past the steel and took him badly. The second put him down, and the frag fell out of
+his hand onto the deck, live. The third bolt swung up into the gunner on the gantry,
+still working at his jam, and put him down too.
+
+Then the frag went off at the handler's feet. When the smoke cleared the handler was
+dead, and so was the gunner on the gantry above him.
+
+Tavi, Brenner and Sallow all fired at the brute, and all three missed. Corvane drew
+his power sword and stepped out in front of the others, and the blade lit blue. Nessa
+slipped up the dock behind the crates.
+
+Four of his people were down round him. The brute kept walking. He was twenty-five
+metres away.
+
+---
+
+"Out of the way."
+
+Tamsin pushed up past Corvane to fifteen metres, slung Vigil to vent, and drew Stinger.
+
+He emptied ten rounds into the brute, one after another. The carapace turned most of
+them, and every round it turned rocked him and beat him down a little further, and three
+of them found the gaps. He went down onto one knee, and then onto his face, and the
+engine-block rolled off the end of its chain and lay on the deck beside him. He was dead.
+
+Stinger had two rounds left in the stick.
+
+The man with the knives still lay rigid by the lock doors where the dart had dropped
+him. Corvane finished him on the standing order.
+
+None of the Light was hurt.
+
+It was 1526.
+
+---
+
+On four of them, under their collars, the Light found Guard identity discs gone green
+with corrosion, stamped *MOEBIAN 6TH*. There was a watch slate among them, and Brenner
+read it out:
+
+*BACK DOOR. 5 + DOGS. 6 HRS. ON 14. RELIEF FROM THE HOLD.*
+
+There were a hundred and seventy-seven Thrones among the five, and they went into
+Tamsin's satchel. The rest was the rusted lasgun, a chainsword, the braced autogun bent
+by the frag, a chain knife, a set of throwing knives, the handler's whip, a stolen
+krak, a dose of Frenzon, and four sets of carapace, two of them burned through and
+one holed. The brute's cut-down plate and his flail were no use to anyone, and they
+left them. They left the cult blade, and the black candles and chalk.
+
+Nessa came back down the dock from the Gut's mouth.
+
+"The rest can come in through the pilots' lock, boss. Not into the Gut. Eight's the
+most it'll take, and Morcant's too slow and too loud in there. They could hold this dock
+for us, the way out and the Gut's mouth both. Or they stay on the bird for the roof."
+
+"Mira, bring the rest here to hold the dock."
+
+"*Coming in, boss.*"
+
+Mira brought the Valk back in against the pilots' lock, and Kell, Dace, Morcant, Isk,
+Hollis and Sorel came through and spread out across the tug dock and took it: the lock,
+the drums, the gantry and the black mouth of the Gut behind it. The Valk pulled off
+again to hold off the tip.
+
+The Gut team took only what mattered. Tavi took the stolen krak. Brenner took the
+discs and the watch slate. Everything else went in a pile by the pilots' lock for Mira.
+
+Nessa went into the Gut first.
+
+It was 1528.
+
+
+## Chapter 84: The Tallyman's Hatch
+
+The Gut was a square steel crawl under the deck plating of the Low Quay, just too
+low to stand up in. Pipes ran along one wall, sweating with cold. Now and then the
+plating overhead rang with boots, or rumbled with something heavy rolling over it,
+and fine grit sifted down. It smelled of tug fuel and old damp.
+
+They went single file, crouching, Nessa in front and Tamsin behind her, the rest strung
+out behind him and Sallow last. Every so often a branch went off into the dark to one
+side, and Nessa passed it without looking.
+
+Three hundred metres. Nothing came at them.
+
+Then Nessa stopped and put up her hand.
+
+The crawl ended under a square hatch in the ceiling: the tallyman's hatch. It had been
+welded shut from above. Round its edges were fresh tack welds, the metal still bright,
+a few hours old at most.
+
+Brenner had his Navy cutting torch, which was quiet enough but slow, and its glow
+and the smell of hot metal would go up through every gap. Tavi had a cutting charge,
+which was fast, and loud.
+
+Someone was sitting on a crate right above the hatch. They could hear the crate creak
+when he shifted. Farther off in the hold, another voice answered him, and through the
+steel they could make out most of it.
+
+"...Miss Ilsabet's burning the books. Old Man's orders. If the Light gets in, there's
+nothing left to read."
+
+"And him?"
+
+"Hasn't left the girl's door since noon."
+
+Tamsin looked at the welds.
+
+"No time. Tavi, one krak."
+
+Tavi set it in the middle of the hatch, and the rest of them backed off down the crawl
+and turned their backs.
+
+The krak went off with a crack that came through the deck into their boots. It tore
+the hatch through the middle, but two of the welded sides held, and the steel folded
+up into the hold above in a ragged flap, half open, a gap one man could squeeze through
+at a time. Up in the hold the gardener on the crate had been flung off it.
+
+The whole building had heard it. Somewhere above, an alarm bell began to ring.
+
+It was 1544.
+
+---
+
+Tamsin went up first.
+
+He got both hands on the folded edge of the hatch and heaved, and the torn steel
+groaned and bent back on its last welds until the gap stood wide open. He came up out
+of it into the hold with Shameholder in one hand and Last Word in the other.
+
+The lower hold was long and high under caged lumens, stacked with bonded cargo in rows,
+with a cargo lift against one wall. Twenty metres off was a door with a frosted glass
+pane. Firelight flickered orange behind it, and a shadow moved against the glass,
+bending and straightening, feeding the fire. The main stair went up at the far end.
+
+There were six gardeners in the hold, and they were already moving. The one from
+the crate was down on the deck by the hatch, hurt, trying to get up. Ten metres away
+another was running at Tamsin with a glass bottle in his fist, green spores swirling
+in it. Behind him, fifteen metres off, a big man with a chainsword, the voice they
+had heard through the hatch, was pulling the pin on a gas grenade. There was one
+with throwing knives at twelve metres, one with a stub automatic by the cargo lift,
+and one up on the crates with an autogun.
+
+Tamsin fired Last Word three times at the two with the gas. Two bolts hit the bottle
+man. The third swung across and hit the big man. Then he went at the bottle man,
+and Shameholder took him across the body, and he went down. The bottle fell out of
+his hand and hit the deck plates and rolled. It did not break.
+
+Corvane came up out of the hatch behind him and cut down at the man on the deck beside
+it, and left him badly hurt. Varga came up next and fired at the gunner on the crates,
+and missed.
+
+The big man threw his gas. It went down the hatch into the Gut, where everyone below
+wore a rebreather, and a moment later it came billowing back up out of the gap, and
+the man on the deck beside the hatch choked in it. The knife thrower threw at Tamsin
+twice. The first knife went wide, and the refractor field stopped the second. The man by
+the cargo lift fired his stub automatic at Tamsin, and two rounds hit him, and the field
+stopped both. Up on the crates the gunner pulled his trigger, and his autogun jammed.
+
+---
+
+"Corvane, push with me. Varga, take the lift gunner."
+
+Varga missed.
+
+Corvane went at the big man, and the big man caught Corvane's cut on his chainsword
+and turned it, and suddenly it was the big man pressing.
+
+Tamsin went six metres to the knife thrower. Shameholder bit into him, came round,
+and bit into him again, and left him badly hurt.
+
+Nessa came up out of the hatch and fired a dart at the gunner on the crates, who had
+just cleared his jam. It took him, and he went rigid and slid down off the crates.
+
+Tavi came up and fired, and missed.
+
+The man by the cargo lift fired at Tamsin again. One round hit, and the field stopped
+it. Then his stub automatic jammed.
+
+The knife thrower drew his last two knives and threw them at Tamsin from two metres,
+and missed with both. Then he had nothing left to throw.
+
+Nobody came down the stair. Over the bell they could hear something heavy being dragged
+across a floor somewhere far above them.
+
+---
+
+"Corvane, watch the feint. Varga, take out the gunner."
+
+Varga hit the man by the cargo lift.
+
+Tamsin cut the knife thrower down with Shameholder, and in the same breath brought Last
+Word round on the big man, who had his chainsword up to come down on Corvane. The bolt
+took him clean, and he went down before he could swing.
+
+Nessa threw one of the Sisters at the man by the hatch. It went in, and he lay still.
+
+Tavi hit the man by the cargo lift hard. Brenner came up out of the hatch, fired,
+and missed. Tey came up after him and put the man by the cargo lift down.
+
+All six were down. The downed were finished where they lay. Sallow came up out of the
+hatch last. None of the Light was hurt.
+
+It was 1547.
+
+---
+
+Tamsin keyed the bead.
+
+"Light team B."
+
+"*In position, boss,*" said Kell. "*The dock's held. The Gut's mouth is
+covered. Nothing's come our way.*"
+
+"*Holding off the tip,*" said Mira. "*Two minutes to berth 31's roof.*"
+
+The frosted door was still glowing. The shadow behind it had not stopped moving. Tamsin
+looked at it, and then at the stair.
+
+"Let's go finish this, team."
+
+They left the counting room burning and went up.
+
+It was 1549.
+
+
+## Chapter 85: Enough Games
+
+The first floor was offices and a bunk room, and there was nobody in any of
+them. Everyone was at the top.
+
+They stopped at the turn of the stair below the top landing.
+
+The stair came up onto a landing that faced a long corridor. Five metres down it a
+barricade had been thrown across: desks, crates, a wardrobe on its side. Behind it
+were a dozen gardeners and more, chanting low and together. Over the top of it showed
+the muzzles of stub revolvers and autopistols, a scattergun and sawn-offs, and above
+them the heads of trench clubs and the teeth of a chainsword. Some of them wore gas
+masks. Something at the back of them was glowing. At the far end of the corridor,
+twenty metres beyond the barricade, was a single door, and a heavy old man in a long
+coat stood in front of it.
+
+Thask.
+
+They had shouted down the stair for the hold, and the hold had not answered. Now they
+were waiting, with every gun on the stair head.
+
+Tamsin gave Corvane his plain frag. Then, to Tavi and Corvane:
+
+"When I throw, you throw."
+
+He threw. The impact frag went over the barricade and burst a couple of metres behind
+it, and caught every one of them but one. Corvane's frag burst after it. A few of
+them got down in time, and a few had plates that turned it, and the rest it cut up
+badly. Tavi's krak hit the wardrobe in the middle of the barricade and blew it to
+pieces, and the man behind it with it, and left a hole.
+
+Not one of them went down.
+
+At the front, a man in a gas mask with a chain axe jabbed something into his own
+neck. At the back, a woman with a staff had begun to glow, and lightning was crawling
+up the staff. Another gardener planted a pole of bones in the middle of the corridor,
+with a gate chalked at its top, and the chanting rose round it.
+
+A frag came down the stair. Corvane, Tavi, Varga and Nessa threw themselves flat
+round the turn, and the shrapnel went over them, and the refractor field caught what
+reached Tamsin. A second frag hit the wall, bounced down the stair past them and went
+off harmlessly on the first-floor landing below. Then a glass bottle came over the
+barricade, fell short, and smashed on the top landing, and a greenish cloud of spores
+rose between the stair head and the barricade and hung there.
+
+---
+
+"Corvane, toss a flash. Nessa, toss a smoke." Then: "Push up and engage."
+
+Corvane's spec flash went off in the corridor, and everyone behind the barricade went
+blind and deaf at once. Nessa's smoke rolled over the landing and the front of the
+barricade. Tamsin threw his last impact frag into the same place as his first.
+
+It burst, and eight of them went down: the man with the chain axe, the one with the
+bone pole, and six more. The pole toppled and fell across the corridor.
+
+The rest broke. Five of them and the woman with the staff ran for a side door off
+the corridor.
+
+The Light went up through the spores. Tamsin, Corvane, Varga, Tavi and Tey came through
+it clean. Nessa, Brenner and Sallow breathed it, even through their rebreathers, and
+began to cough. They reached the barricade and fired at the runners from the edge of
+the smoke. Varga put one down. Tavi put one down. Tey put down the other three, one
+after another, as they ran. Only the woman with the staff reached the side door. It
+slammed behind her.
+
+The man with the chain axe had gone down in the blast, and he got up anyway. Whatever
+he had put in his neck was still driving him. He came through the hole in the barricade
+at Tamsin, blind from the flash, with the axe roaring, and swung twice. The first came
+down on Tamsin's chest, and the ceramite front Dace had riveted there turned it. Tamsin
+caught the second on Shameholder and turned it aside. He shoved the man off him. The
+man took one more step and fell, and did not get up again.
+
+At the far door Thask stood blinking, with his hands over his eyes.
+
+---
+
+"Tey, take out the witch. Varga, stop that witch."
+
+The side door was bolted. Varga kicked it in. Tey fired through the doorway three times,
+and the first round hit the witch, and the next two missed.
+
+Her lightning came back out through the doorway at Tey. It missed him and blew the
+door frame to splinters. Then her staff was dark.
+
+At the far end of the corridor Thask had his sight back. He stood across the door with
+his hands open and empty, where they could all see them, and called Tamsin by name.
+
+"Interrogator Rook." He did not move from the door. "I'll come quietly. To your
+Inquisitor." His open hands stayed where they were. "But nobody opens this door
+without me."
+
+---
+
+Sallow was to get antitoxin into Nessa, Brenner and herself. She put one into Nessa's
+neck, and one into Brenner's, and one into her own, and the coughing stopped.
+
+"Varga, restrain Thask."
+
+Tamsin walked into Thask's quarters. The witch was behind the desk with her dead staff
+in her hands. He put Last Word on her and fired three times. The first bolt hit her
+badly. The second put her down behind the desk. The third went into her where she lay.
+
+He came back out into the corridor.
+
+"Enough games, Thask. On the ground."
+
+Thask went down slowly and quietly, onto his knees and then onto his face. There was
+no trick in it. Varga knelt on his back and bound his wrists behind him.
+
+All fourteen gardeners on the top floor were dead. The downed were finished where they
+lay. None of the Light was hurt. The chain axe had left one bright score across the
+ceramite on Tamsin's chest.
+
+It was 1553.
+
+
+## Chapter 86: The Painted Room
+
+Thask lay bound on the corridor floor. Close to, he was an old man in his sixties,
+heavy, in a long coat, and he smelled sweet. He turned his head on the floor to look
+up at Tamsin.
+
+"You think I'll negotiate with you?"
+
+Tamsin gave his orders. Tavi was to blow the door. Mira was to drop team B on the
+roof. Varga was to drag Thask down the stairs, out of the way.
+
+Varga hauled Thask up by his bound arms and dragged him off toward the stair. He fought
+her the whole way, twisting round to look back at the door.
+
+"Don't hurt her! She's never even seen the sky!"
+
+The Light circled well back from the door with their guns up. Tavi set his breaching
+charge on it and came back.
+
+The charge went off messily. The door blew in off its hinges, and a spray of splinters
+went across the room beyond.
+
+---
+
+There were no windows. Every wall of the room was painted, floor to ceiling, with a
+garden, green leaves and flowers in every colour, and above it a blue sky that ran
+right up across the ceiling. There were real flowers too, in pots, everywhere, on
+every shelf and all along the floor, growing under warm lamps. There was a narrow bed,
+a shelf of books, a few old toys, and a little writing desk. It was clean. It was the
+cleanest room on the Mart.
+
+In the far corner, pressed back against the painted wall, was a girl.
+
+She was about twelve. She was thin and as pale as paper, with long dark hair, in a
+white nightdress, and the splinters had not touched her.
+
+"Where's my father?"
+
+Tamsin walked in and looked her over.
+
+He had come up the stair with Kesh's leave to kill her if she turned out to be a thing
+and not a girl.
+
+She had nothing in her hands and nothing hidden on her. There was nothing in the
+room: no wards, no marks, no tricks. There were no sores on her, and no mark of rot
+anywhere. She was healthy and bright-eyed, and frightened half to death.
+
+She was a girl.
+
+Then he saw her arms. The insides of both elbows were a mass of needle marks: old
+pinpricks scarred over, layer on layer, and fresh ones on top of them. Years of it.
+
+"Where's my father?" she asked again.
+
+It was 1555.
+
+---
+
+Sallow came in past the broken door and knelt down by the girl.
+
+The rest went through Thask's quarters and the top floor.
+
+In Thask's quarters there was a bundle of letters tied up in green ribbon. Each one
+was sealed in green wax, pressed with a gate and a *6*. They were written in a cramped
+soldier's hand and signed with nothing but the gate. The latest was on top.
+
+*The Lamps are near. Keep her clean. The garden-world is ready to receive her. Ten a
+head for the beds; we will need them all.*
+
+Ten a head. Old Wick had said it in the street that morning, with four people on
+a rope behind him. It had been on the scrap of paper Kell took off the gardeners'
+leader at the scrubber hall.
+
+There was a black notebook too. It was Thask's, page after page of dated entries in
+his own hand, going back years. *Drawn: 2 vials.* *Sent with the Tender.* The amounts
+grew as the years went on. The *Hesk Tender* was the ship that carried the jars.
+
+Asked who her father was, the girl said Orlen Thask.
+
+"Father keeps me safe. He says the air outside makes people sick." She looked at the
+Light in their plate and masks. "Everyone except me."
+
+Ilsabet, she said, was her sister.
+
+The top floor gave up a hundred and eighty-eight Thrones, for Tamsin's satchel. There
+were revolvers and stub automatics, autopistols, a scattergun and two sawn-offs;
+the berserker's chain axe, a chainsword, combat axes, trench clubs, a machete, a
+needle-blade and the witch's knife; four carapace chest plates, every one of them holed
+by the frags; the witch's stolen krak, two pipe-bombs, two choke gas grenades and four
+doses of Frenzon. They left the bone icon where it had fallen, and the witch's staff, a
+grimoire, the candles and chalk, a prayer-book, the amulets, and a desecrated chainsword.
+
+---
+
+Tamsin keyed the bead. The Light had never seen him as angry as he was then.
+
+"Everyone on this place now. We are sweeping this place clean. That's an order."
+
+To Varga:
+
+"Load up the loot and the prisoners. I'll be back."
+
+Overhead the Valk was coming down onto berth 31's roof with team B. Varga took Thask
+up to it. Sallow lifted the girl and carried her up after them.
+
+Tamsin went down the stair alone. Tey went after him, because where Tamsin went,
+Tey went.
+
+It was 1557.
+
+
+## Chapter 87: The Counting Room
+
+At the bottom of the stair the hold was quiet except for the bell. The frosted door
+was still glowing.
+
+It was locked. Tamsin tried the keys from the pilot's cord, the gunship's brass ignition
+key and the heavy iron padlock key. Neither of them fitted.
+
+Stinger had two rounds left in its stick from the tug dock. He changed it for a full
+one and drew it, with his combat knife in his other hand. Shameholder stayed on his
+back, and Last Word in its holster.
+
+He kicked the door, and it burst open.
+
+The counting room was hot as an oven. Shelves of ledgers ran up every wall to the
+ceiling, and about two-thirds of them were still full. More ledgers were stacked by a
+roaring iron stove, and the air was grey with ash. There was a big desk, and under it,
+bolted to the floor, a squat iron strongbox.
+
+A woman stood by the stove with a ledger in her hands, halfway to the fire. She was
+about thirty, in spectacles, with her hair pinned up and her sleeves rolled, ink on
+her fingers and soot on her face.
+
+"On the ground. NOW."
+
+She dropped flat at once. The ledger fell out of her hands onto the floor, unburned.
+
+Tey bound her. There was a key on a chain round her neck.
+
+It was Ilsabet Thask.
+
+---
+
+She had burned the newest years first. The last eight years of ledgers were ash in
+the stove. The rest, the older two-thirds of the shelves, going back decades, were
+still there.
+
+On the desk lay this year's daybook, open. She had not got to it. Its entries ran
+right up to that morning, in a neat, small hand.
+
+There were payments to customs officers, page after page of them, by name.
+
+*D.C., the gunship, 400.* That was Dagan Crale.
+
+*Tallow, 200, for the plant.* The Tallow Boys, hired for the air plant.
+
+*Beds: 31 head @ 10.*
+
+*Tender due at the Lamps.*
+
+And there was a manifest:
+
+*For G.: 2 crates jars; 1 passenger at the Lamps.*
+
+Tamsin read the last line twice.
+
+There were two hundred and fifty Thrones in the cash drawer. Then he took the key from
+round Ilsabet's neck and knelt and opened the strongbox. Inside, in bonded notes and
+coin bags, were ten thousand Thrones.
+
+It was 1600.
+
+---
+
+Team B came down off the roof and swept berth 31 from the top floor to the hold. It
+was clear. The only living thing in it was an old cook, hiding in the pantry on the
+first floor, unarmed, with no mask and no garland. He was not a gardener. Kell held
+him for Tamsin's word.
+
+"Load him up too, then we rip this place clean."
+
+They did.
+
+The six in the hold gave up sixty-nine Thrones, two stub automatics, an autogun,
+two chainswords, a combat axe, a chain knife, throwing knives, two gas masks and two
+flak sets. Thask's bonded cargo gave up six clean Munitorum lasguns and four autoguns,
+and the rest was ordinary goods, off-world spice, bolts of cloth and machine parts,
+and it all went too. They left one gun with the gate carved into its stock, and the
+cult amulets, and the bottle of spores that had not broken.
+
+Among the bonded cargo in the hold were two crates of jars, the two crates from the
+manifest. One of them was cracked, and a sweet green-black seep had run out from under
+it across the deck. Nobody touched them. They were left for Tamsin.
+
+The Valk went three times between berth 31's roof and the *Bright Light*. Everything
+else went: the loot from the hold, the top floor and the counting room, the pile at
+the tug dock, the ledgers, the daybook, the letters and the notebook, the discs and the
+watch slate, the strongbox's ten thousand and the drawer's two hundred and fifty. Thask
+went into one of the *Bright Light*'s cells and Ilsabet into the other. The girl went
+to the ship's medicae, with Sallow. The cook went to the Spire.
+
+On her way up to the roof, Ilsabet asked one question.
+
+"Is my sister alive?"
+
+Nobody answered her.
+
+It was 1700.
+
+---
+
+Tamsin stood over the crates of jars.
+
+The jars were the same as the ones the Light had burned before: thick glass, wax-capped,
+packed in wet sawdust, full of a cloudy green murk with pale threads growing in it.
+
+"Burn them all with promethium. Keep one good sealed jar as evidence."
+
+Brenner went into the unbroken crate and lifted out one sealed jar, slowly, with both
+hands. It went into an empty ammo tin, packed round with rags, and the lid was taped
+down all the way round.
+
+Tavi went back down the Gut and came up again with a can of tug promethium. Hollis
+soaked both crates with it, stepped back, and lit them with his hand flamer.
+
+The fire stayed in the pile. In the heat the jars cracked one after another, with a
+high, thin, wet crackle. Then came the sweet smell, one last time. Then only burning.
+
+Berth 31 still stood.
+
+It was 1705.
+
+
+## Chapter 88: We End This Soon
+
+Mira flew the Light up to the *Bright Light* at 1720.
+
+The hold was already full of the afternoon: the guns and blades and plates of the day's
+fights stacked along the bulkheads, Thask's clean lasguns and autoguns, his bales of
+spice and bolts of cloth and crates of machine parts. Ollin was waiting among it all
+with his slate. Every gun came off its owner's shoulder and went to him, and he cleaned
+every one of them. Spent packs went onto the ship's couplings and fresh ones went into
+every gun. The crate gave up grenades for every pouch that had been emptied on the
+Mart. Varga's lift pack, empty since the mast, went onto a coupling to charge. Brenner
+handed the taped ammo tin to Ferro-Ashe, and Ferro carried it away to keep it cold.
+
+Thask was in one cell and Ilsabet in the other. The girl was in the medicae, with Sallow.
+
+At 1815 Teo came on the wall vox from the bridge with his sweep of the Mart.
+
+"*Customs house is digging in, boss. About twenty-eight warm in there now. And six
+Hookmen raiding along the east ring, heading for the burnt tenement and the empty
+scrubber hall.*"
+
+The Tallow Boys, thirteen of them, were holding the cannery and the rendering yards
+under a new boss.
+
+---
+
+At 1825 Tamsin had the dose of spook from the chem-doctor's bag thrown out through
+the waste lock.
+
+Then he emptied his satchel onto the desk in his cabin. The gunship pilot's stub pistol,
+the speedloader and the spare cylinder, the combat knife and the carton of lho-sticks
+went down to the crate. The coin went to Ollin: nine hundred and fifty Thrones from
+the satchel, four hundred and twenty-five in Kell's pouch from the Tallow Boys, and
+seven hundred and twenty-two from the mast, on top of Thask's ten thousand and the
+drawer's two hundred and fifty. With the two hundred and seventy-five off the Spire
+pad that morning, the day had brought in twelve thousand six hundred and twenty-two
+Thrones. Ollin counted it into the coin box, all of it, and wrote the figure on his
+slate: fifteen thousand two hundred and fifty-two Thrones.
+
+"Ollin, rekit the team and get us ready for tomorrow. We end this soon."
+
+It was 1830.
+
+The Light slept aboard that night. In the cells, Thask and Ilsabet sat behind their
+doors. And in the medicae, under the low night lumens, the girl was asleep.
+
 # Appendix: Session notes
 
 ### Session 8 (Season Two, mission 1: Ustrennos)
