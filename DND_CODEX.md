@@ -878,8 +878,8 @@ in the math (`14 + 4 DEX + 2 aimed rifle + 3 eye + 2 order + 2 surprise - 1 airb
 4. **Surprise:** attacks on a surprised group get **+2** (they can't act or defend that beat; A beat, below).
 5. **Gear:** every attachment by slot (barrel, optic, trigger, stock, grip, muzzle, magazine,
    under-barrel) **and every eye** (shooting eye: targeter +3 aimed, rangefinder +2 past ~30 m, gun link:
-   misses don't cost the chain's -1). **A gun's optic and a HUD eye's aim bonus don't stack: use the better**
-   (Varga's reflex sight adds +0 while her eye's targeter is on). Weapon blessings, crit ranges, the gun's own
+   misses don't cost the chain's -1). **A gun's optic and a HUD eye's aim bonus stack**
+   (Varga: reflex sight +1 inside ~30 m, plus the eye's targeter +3). Weapon blessings, crit ranges, the gun's own
    entry (string limit, armour it pierces, quirks).
 6. **The string:** **shot chain** (house rule 6: +2 after a first-shot hit, +1 after later hits, -1 after a
    miss; some guns differ: the heavy stubber has no hit bonuses), **swapping** (-1 for a different target than
@@ -1527,7 +1527,7 @@ pistols; **1** autoguns on burst, SMGs and machine pistols, shotguns, revolvers,
 **2** bolt weapons, heavy stubbers, anti-materiel rifles. **Slots:** a gun takes **one
 attachment per slot**: muzzle, under-barrel, stock, optic, grip, magazine, trigger, barrel.
 No hard cap on bonuses; every attachment carries a real downside. **A gun's optic and a HUD
-eye's aim bonus don't stack** on the same shot: use the better. Attachments are in the
+eye's aim bonus stack** (changed by the player, Ash on Ostrava day 34: otherwise the optic is just decor). Attachments are in the
 catalogue (kit: pistol and gun attachments).
 
 **Gun condition and jams (set by the player, session 9).** Every gun is **Clean**,

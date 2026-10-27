@@ -332,8 +332,9 @@ module** (uncommon, 2 TV): both in one housing; switch either on alone.
 ### Pistol reflex sight
 
 **Pistol reflex sight** (uncommon, 2 TV). A small glass window with a glowing dot. **+1 on
-aimed pistol shots within ~30 m** (not hip shots: that's the laser's job). Doesn't stack with
-a gun-link HUD eye's aim bonus on the same shot; use the better.
+aimed pistol shots within ~30 m** (not hip shots: that's the laser's job). **Stacks** with a HUD eye's
+aim bonus (changed by the player, Ash on Ostrava day 34). Fits a rifle too (Varga's Mercy): the same +1
+on aimed shots within ~30 m.
 
 ### Ergo grip sleeve
 

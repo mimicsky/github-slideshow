@@ -58,11 +58,11 @@ role, gun condition (Dirty or Neglected guns jam). Then:
 the entry for each gun, melee weapon, attachment and eye in play (`las.md`, `heavy.md`, `stub.md`, `melee.md`;
 `kit.md` for eyes and "Pistol and gun attachments"): string limits, recoil, what armour it gets through, quirks.
 Then codex Part 8, **Gear rules**: hot-shot, swapping, recoil, slots (**a gun's optic and an eye's aim bonus
-don't stack: use the better**), airborne, gun condition and jams, pack sizes (hot-shot 30, las 45), refractor
+stack**), airborne, gun condition and jams, pack sizes (hot-shot 30, las 45), refractor
 field, doses, drop-prone guns, going Down drops weapons.
 
 **5. Write each shooter's bonus line before rolling.** For everyone acting this beat:
-`Varga (Light-bringer, rifle/jumper), Mercy: +4 DEX +2 aimed rifle +3 eye (reflex sight +0) +2 order +2 surprise -1 airborne = +12`.
+`Varga (Light-bringer, rifle/jumper), Mercy: +4 DEX +2 aimed rifle +3 eye +1 reflex sight (inside ~30 m) +2 order +2 surprise -1 airborne = +13`.
 Then roll.
 
 **6. Resolve the beat in this order** (codex Part 6, A beat):
