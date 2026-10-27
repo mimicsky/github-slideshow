@@ -16,9 +16,80 @@ Don't say what's in the DM notes.
 3. **The DM notes** ([`dm-notes.md`](dm-notes.md)), **down to the STOP line only**, read silently, never told to the player: how the campaign runs, the live mission's secrets, nemeses, pre-rolls. Below STOP, open an entry only when its trigger comes up.
 4. **The codex** ([`../../DND_CODEX.md`](../../DND_CODEX.md)): **only the sections marked "Always" in the map at its top** (about 450 lines: the play preferences, house rules 1-6, cover, the roll checklist, shots and hits, breaking and Down, describing the world, armour and weapons). Open the rest when the map's trigger comes up.
 5. **The end of the last chapter** in [`book-season-2.md`](book-season-2.md) (search for the last `## Chapter`; read its final scene), plus the sheet's day log for anything played since.
-6. **Nothing else up front.** The gear catalogue's index, the bestiary's index and its roles file are opened when an item or a fight comes up ("Where things are" below).
+6. **A fight on?** Do the **Fight checklist** (below) before the first die.
+7. **Nothing else up front.** The gear catalogue's index, the bestiary's index and its roles file are opened when an item or a fight comes up ("Where things are" below).
 
 Then pick up exactly where we stopped.
+
+**A fight is on (or starting)?** Before the first die, do the **Fight checklist** below, all of it.
+
+## Fight checklist: START HERE
+
+**Just cleared context? Resuming mid-fight? Reading this from a new entry? A fight starting?**
+Start at step 1 and go through every step, in order, before rolling a single die. Don't skip a
+step because it "probably doesn't apply": open it and check. (Set by the player day 34, after
+two fights ran with bonuses missed.) On the first beat after a resume, open the reply with
+`Fight checklist ✓ 1-8`.
+
+**1. Where are we?** Open the campaign sheet ([`ash-on-ostrava-campaign-sheet.md`](ash-on-ostrava-campaign-sheet.md)):
+"Where we stopped" (line ~9) and the last lines of "Day log". Then [`dm-notes.md`](dm-notes.md), "Live now":
+the live fight's entry, down to its last **"After beat N"** line. Write down: who is up, where, at what
+health, the distances, who is surprised, what the player declared.
+
+**2. The enemy.** In the fight's entry in `dm-notes.md`: each enemy's weapon, armour (after any step-up),
+role, gun condition (Dirty or Neglected guns jam). Then:
+- [`../../wh40k_gear/bestiary/README.md`](../../wh40k_gear/bestiary/README.md), top paragraph: a special team's bonuses
+  (+5 STR/DEX levels, +1 other rolls, armour one step better). Then the team's own entry (look, tactics: play them that way).
+- [`../../wh40k_gear/bestiary/roles.md`](../../wh40k_gear/bestiary/roles.md): every enemy role in the fight (leader, duelist, jumper, herder...).
+- Codex house rule 4, "Some roles and gear add more": extra health stages, stimms, blessings.
+
+**3. The Light: each person in the fight.** In the campaign sheet:
+- **"Full kit"** (line ~207): their row. **Every** weapon, **every** attachment, eye, field, armour piece,
+  grenade and ammo count. Read the whole row, not just the gun's name.
+- **The stats table** (under "How the Light rolls", line ~340): stat bonus = +1 per full 10. **Allies add no
+  proficiency** (d20 + stat + specialty + role or gear). **Tamsin** adds proficiency +4 ("The character").
+- **The Specialty table** (line ~291): +2, only on its kind of roll.
+- **The Roles table** (line ~272), then each role in `roles.md` (Commander: Tamsin gives **two orders a beat to
+  specialists**, +2 and act first; Jumper; Medic; Duelist; Bodyguard; Heavy gunner...).
+- **"Tamsin's standing modifiers"** and **"The Light's standing modifiers"** (line ~308).
+- Who is **present** (Kell's +1 to Tamsin only when Kell is there), each person's health and conditions.
+
+**4. Each weapon's and attachment's own rules.** [The catalogue index](../../wh40k_gear/catalogue/README.md), then
+the entry for each gun, melee weapon, attachment and eye in play (`las.md`, `heavy.md`, `stub.md`, `melee.md`;
+`kit.md` for eyes and "Pistol and gun attachments"): string limits, recoil, what armour it gets through, quirks.
+Then codex Part 8, **Gear rules**: hot-shot, swapping, recoil, slots (**a gun's optic and an eye's aim bonus
+don't stack: use the better**), airborne, gun condition and jams, pack sizes (hot-shot 30, las 45), refractor
+field, doses, drop-prone guns, going Down drops weapons.
+
+**5. Write each shooter's bonus line before rolling.** For everyone acting this beat:
+`Varga (Light-bringer, rifle/jumper), Mercy: +4 DEX +2 aimed rifle +3 eye (reflex sight +0) +2 order +2 surprise -1 airborne = +12`.
+Then roll.
+
+**6. Resolve the beat in this order** (codex Part 6, A beat):
+1. **Surprise:** a group caught unaware can't act or defend this beat; attacks on it get +2.
+2. **Orders first:** the ordered actions (+2) resolve before anyone else's.
+3. **Tamsin** (the player's dice) and **everyone else in the Light**: everyone acts every beat, each with an open roll.
+4. **The enemies** (unless surprised), each with their own roll, played by their role and team tactics.
+- **Every roll:** codex Part 6, **Roll checklist**, all 11 lines, each bonus written by name (stat, specialty, order,
+  surprise, gear and eyes, chain, swap, recoil, airborne, health, cover, darkness).
+
+**7. Every hit and every swing.**
+- **Shots:** codex Part 6, **Shots and hits** (hidden number 10 / 15 / 20 + **Cover**), solid hit (beat it by 3+),
+  crits (a natural 20; Tamsin 19-20; Vigil 17-20 with heat).
+- **Armour:** codex Part 8, **Armour** (shrugs or gets through; part-armour; crits always get through, but only one
+  step against armour that would have shrugged it; wear-down: every 3 shrugged hits drop a step). Refractor field rolls.
+- **Melee:** codex house rule 5, **the exchange** (opposed rolls, block 1-2 higher, parry 3+, a raw 17+ can't be stopped;
+  **chains**: light 3, medium and heavy 2, only a parry ends it; which stat; two weapons; shields).
+- Health steps, extra stages, Down (enemies d6 after the fight; the Light don't die from Down).
+
+**8. After the beat, then the reply.**
+- **Count:** ammo (packs), Vigil's heat (vent at 3), grenades, shots since cleaning (~30 = Dirty), stimm turns.
+- **Break check** (codex Part 6, Breaking and Down): when half are Down or the leader falls.
+- **Save:** `dm-notes.md` (the beat's line with every roll, then "After beat N"), the sheet ("Where we stopped",
+  Full kit counts, the day log and reps), then commit and push.
+- **Reply:** the math lines (full ally tags, enemy role tags, every bonus by name, each roll narrated in a few words),
+  then "(saved)", then the scene (second person, detailed, no game terms, nothing done or felt for Tamsin), then the
+  **still-up board**. Stop at the first decision point.
 
 ## Where things are (open only when it comes up)
 
@@ -26,7 +97,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 
 | When this comes up | Open |
 | --- | --- |
-| A fight starts | [`roles.md`](../../wh40k_gear/bestiary/roles.md): its index, then only the roles in the fight; the enemy team's bestiary entry if it's a special team; codex Part 6: house rules 5 (the exchange) and 6 (shot chains), Cover, the Roll checklist, Shots and hits, Stacking |
+| A fight starts or is on | **The Fight checklist above, every step** (it lists every file and section) |
 | Someone is hit, goes Down or gets healed | Codex Part 6: Shots and hits, Breaking and Down; Part 8: Armour, the refractor field (Gear rules); `roles.md`: Medic (the patch roll); the catalogue's `drugs.md` (stimm, SCIHU) |
 | A fight ends | Codex Part 6, Breaking and Down (who surrenders, runs, lives); Part 8, Loot (the two rare rolls, coin on a body); house rule 7 (reps: a Down counts as a kill); log witnesses in `dm-notes.md`; update the Full kit (ammo, grenades, Dirty guns) |
 | Rolling enemies | `roll_enemy.py` (commands below); [the bestiary index](../../wh40k_gear/bestiary/README.md) for special teams; codex Part 8, Loot, for enemy stats |
@@ -55,7 +126,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 - **Name + role on every mention**, dialogue lines included: `Kell (Light-bringer sergeant, assault): line`.
 - **Enemies get their role tag** in fights, every mention: `Coat guy (gunslinger)`, `Flamer man (flamer)`, `Knife man (grunt)`, `Old Wick (Tallow Boys boss, leader)`.
 - **Full tag on every ally mention**, math lines included: `Tavi (Light-bringer, demolitions)`, never bare `Tavi`. Enemies by bestiary class (`assassin`, `grunt`, `psyker`, `leader`, `beast handler`). **Detail the scene** (sights, sounds, smells, what each person does).
-- **Run the roll checklist on every shot** (codex Part 6, Roll checklist) and **show every bonus by name**: stat, specialty, order (+2), surprise (+2 on attacks vs the surprised), attachments and eyes (Varga's targeter +3, rangefinder +2 past 30 m), shot chain (+2/+1/-1), swapping (-1), recoil, airborne, cover. Set by the player day 34, after a beat ran without them.
+- **In a fight: the Fight checklist (above) before the first die, and the codex Roll checklist on every roll,** with every bonus shown by name (stat, specialty, order, surprise, gear and eyes, chain, swap, recoil, airborne, health, cover).
 - **'Still up' board at the end of every fight beat:** every enemy standing (tag, health, where, weapon), the Down count, the Light's hurt and key states.
 - **Narrate each roll line:** a few words of action with the math (`Kell puts one round into Knife crank man: 16+7 = 23, it rips through him, badly hurt`).
 - **Second person** for Tamsin. **Don't act, think or feel for him.** Stop at the first new decision point.

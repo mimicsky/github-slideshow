@@ -23,6 +23,7 @@ by narrative mode (house rule 4): open them only if the player asks for full rul
 | **Part 6:** the settings table, "How the player likes to play" | **Always** |
 | **Part 6, house rules 1-6:** near-miss, variant pairing, hidden DCs, narrative mode (health states), the exchange, shot chains | **Always** |
 | **Part 6:** Cover, Roll checklist (with Stacking), A beat, Shots and hits, Breaking and Down | **Always** |
+| **A fight is on or starting:** the campaign's **Fight checklist** (Ash on Ostrava: the campaign README), every step, before the first die | **Always, in every fight** |
 | **Part 7:** Describing the world (no option menus, layout is free) | **Always** |
 | **Part 8:** The reskin, Armour, Weapons (incl. named and rebuilt weapons) | **Always** |
 | Part 6, house rule 7: stat levels, training reps, the training manual, coaching, books | At the daily tally; training, coaching or a book comes up |
@@ -857,28 +858,43 @@ side it blocks. Shots from behind or above it ignore it.
 - **Grenades** and flames ignore cover that doesn't close over the target.
 - **Suppressed** targets stay down in their cover (Morcant's -2 applies to their shots).
 
-### Roll checklist (set by the player, Ash on Ostrava session 10)
+### Roll checklist (set by the player, Ash on Ostrava session 10; expanded day 34)
 
-Before resolving **any** roll, the DM runs down this list so nothing is missed. Only what
-applies is added; each modifier shown in the math.
+**Every roll, every line, every time.** In a fight, first do the campaign's **Fight checklist**
+(Ash on Ostrava: the campaign README, "Fight checklist: START HERE"); this list is its step 6.
+Only what applies is added, but **each line is checked and each bonus is written by name**
+in the math (`14 + 4 DEX + 2 aimed rifle + 3 eye + 2 order + 2 surprise - 1 airborne = 26`).
 
 1. **Base:** d20 + stat bonus (+1 per full 10 levels; **melee: STR, or the better of STR/DEX
-   with a finesse weapon such as a knife; house rule 5, "Which stat"**) + proficiency (if trained) + Remarkable
-   Athlete / half-proficiency where it applies.
-2. **Specialty** (+2, or its drilled level) if the roll is its kind.
-3. **Role:** the roller's bestiary role rules, **and any order from a Commander this beat**
+   with a finesse weapon such as a knife; house rule 5, "Which stat"**). **Tamsin** adds proficiency
+   (+4 on attacks and his trained skills) and Remarkable Athlete where it applies. **The Light's allies
+   don't add proficiency:** d20 + stat + specialty + role or gear (campaign sheet, "How the Light rolls").
+2. **Specialty** (+2, or its drilled level) if the roll is its kind (the sheet's Specialty table; e.g.
+   Varga aimed rifle shots, Isk long aimed shots past ~30 m, Tey's pistol focus).
+3. **Role and orders:** the roller's bestiary role rules, **and any order from a Commander this beat**
    (+2 and acts first; **traitor-elite commanders give two orders a beat to specialists**;
-   the Light counts as traitor elites). Leader/rally effects, Morcant's suppression (targets
-   he suppresses take -2), jumper/airborne (-2 own shots, -1 for elites; -3 to hit them),
-   spotters, bodyguards.
-4. **Gear:** attachments by slot (optic or HUD eye, not both), shot-chain modifiers (+2/+1/-1),
-   **swapping** (-1), **recoil** (by gun), drums (-1 quick-draw), weapon blessings, crit ranges.
-5. **Standing bonuses:** finished books (e.g. +1 will checks), crafting manuals, armour
+   the Light counts as traitor elites). Leader/rally effects (Kell's +1 to Tamsin **only when Kell
+   is there**), Morcant's suppression (targets he suppresses take -2), spotters, bodyguards.
+4. **Surprise:** attacks on a surprised group get **+2** (they can't act or defend that beat; A beat, below).
+5. **Gear:** every attachment by slot (barrel, optic, trigger, stock, grip, muzzle, magazine,
+   under-barrel) **and every eye** (shooting eye: targeter +3 aimed, rangefinder +2 past ~30 m, gun link:
+   misses don't cost the chain's -1). **A gun's optic and a HUD eye's aim bonus don't stack: use the better**
+   (Varga's reflex sight adds +0 while her eye's targeter is on). Weapon blessings, crit ranges, the gun's own
+   entry (string limit, armour it pierces, quirks).
+6. **The string:** **shot chain** (house rule 6: +2 after a first-shot hit, +1 after later hits, -1 after a
+   miss; some guns differ: the heavy stubber has no hit bonuses), **swapping** (-1 for a different target than
+   the last shot in the string), **recoil** (each shot after the first: 0 las and stub pistols; 1 autoguns on
+   burst, SMGs, machine pistols, shotguns, revolvers, hand cannons, heavy stubbers braced; 2 bolt weapons, heavy
+   stubbers on the move, anti-materiel rifles), drums (-1 quick-draw), the gun's string limit.
+7. **Movement:** airborne (own shots -2, traitor elites -1; shots at them -3), run and gun (-2), shooting from
+   cover (free).
+8. **Standing bonuses:** finished books (e.g. +1 will checks), crafting manuals, armour
    (heavy carapace front, Defense style), fields (refractor, conversion).
-6. **Conditions:** health step, **food state**, fatigue / no sleep, Hurt shoulder-type limits,
-   blinded / dazzled (spec flash), **cover (Cover table: +1 / +2 / +4 / full)**, darkness / smoke, Neglected or Dirty guns (jam range).
-7. **Saves:** purity seals (advantage vs warp/plague/madness), Indomitable.
-8. **Will checks:** +1 per finished interrogation manual; hard-method +5% and its risk roll.
+9. **Conditions:** health step (Hurt -1, Badly hurt -2), **food state**, fatigue / no sleep, Hurt shoulder-type
+   limits, sickened, blinded / dazzled (spec flash), **cover on the target (Cover table: +1 / +2 / +4 / full)**,
+   darkness / smoke (a low-light optic or lumen cancels darkness), Neglected or Dirty guns (jam range).
+10. **Saves:** purity seals (advantage vs warp/plague/madness), rebreathers (advantage vs gas), Indomitable.
+11. **Will checks:** +1 per finished interrogation manual; hard-method +5% and its risk roll.
 
 **Stacking (set by the player, Ash on Ostrava session 10).** The **same effect from two places counts once**
 (Morcant's suppression -2 is both his role and his specialty: one -2). **Different sources add up** (a leader's
@@ -900,6 +916,9 @@ A **beat** is one moment of a fight, a few seconds. Everyone acts every beat: **
   shot string during it** (pushing up and shooting), at **-2 on those shots**, the same as firing from the air. A melee swing
   at the end of a sprint still needs Action Surge.
 - **Free extras:** a Commander's orders (bestiary roles); a duelist's gun **and** sword in the same beat.
+- **Surprise (ruled at the Wick ambush, Ash on Ostrava session 10; written down day 34):** a group caught unaware (it
+  hasn't seen the attackers when the first shot goes) **can't act or defend for the first beat, and every attack on it that beat
+  gets +2.** From the next beat it fights normally.
 - **Action Surge (Tamsin):** **once per fight**, two main things in one beat. **Extra Attack** is already part of
   his strings; it adds nothing extra.
 
