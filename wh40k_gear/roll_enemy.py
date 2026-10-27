@@ -148,6 +148,13 @@ for n in range(count):
         kit = skit or pick(P['specialists'][role])
         if "two-man team" in kit:
             kit += " [counts as two: gunner + loader with a lasgun and the ammo]"
+        if role == "herder":  # player design, session 10: cultists only; the herd follows their god
+            n_d = random.randint(1, 4) + 1
+            herd = {"nurgle": f"a swarm of {sum(random.randint(1, 10) for _ in range(2)) + 10} POXWALKERS",
+                    "khorne": f"{n_d} BLOODLETTERS (lesser daemons of Khorne)",
+                    "slaanesh": f"{n_d} DAEMONETTES (lesser daemons of Slaanesh)",
+                    "tzeentch": f"{n_d} PINK HORRORS (lesser daemons of Tzeentch)"}.get(god, f"{n_d} FURIES (lesser daemons, undivided)")
+            kit += f" [HERD: {herd}; kill the herder and the herd loses its march]"
         head = f"SPECIALIST {role.upper()} (d20 {role_d20}): {kit}{backup}"
     elif random.random() < ranged_share:
         head = f"grunt, ranged (d20 {role_d20}): {pick(P['weapon'])} | {pick(P['melee'])}"
