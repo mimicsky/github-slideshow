@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1600 warp day 33, Torvane's Mart: berth 31's counting room.** Ilsabet bound by Tey. Tamsin found this year's daybook on the desk (the Tender comes for the girl at the Harvest Lamps), the older ledgers on the shelves, and opened Thask's strongbox with Ilsabet's key: **10,000 Thrones.** Team B is sweeping the building; Varga is loading Thask, Sallow has the girl.
+**Where we stopped:** **session 10, ~1601 warp day 33, Torvane's Mart: berth 31's counting room. Berth 31 is the Light's.** Team B swept it: clear, except an old cook found hiding in the pantry (unarmed, not a gardener), held for Tamsin's word. Thask, Ilsabet and the girl are taken; Thask's 10,000 Thrones, this year's daybook and the older ledgers are secured. Outside, the Low Quay isn't: the customs house, CY-6 and the cannery still stand.
 
 ### Current state (day 33)
 
