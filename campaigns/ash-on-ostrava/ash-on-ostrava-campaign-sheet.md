@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~0452 warp day 34, Crane Yard 6: EVERY MISSION ON THE MART DONE.** The cannery's 2 prisoners went to the Spire and all its loot (incl. 20 crates of tinned protein) to the *Bright Light*, now holding overhead (Teo). **Tamsin shot the cannery's wired satchel from 35 m inside (26): the roller door blown out, nobody hurt.** The Light all at the yard except **Sallow (at the Spire with the 9 children)**; Kell Hurt. **~0453: the 12 yard prisoners (Crale awake) lifted to the Spire under Dace and Corvane; Tamsin opened the hangar: 3 drums of aviation promethium, the gunship's tools, a chain hoist.** The yard's and Crale's cab's hauls here. At the Spire: Tegg + 4, Pell and 8 children, Sallow. Vigil 20/30, heat 0. Sector map updated (~0445).
+**Where we stopped:** **session 10, ~0515 warp day 34, the Spire: EVERY MISSION ON THE MART DONE.** The whole Light at the Spire (Kell Hurt). **All the hauls on the *Bright Light*** (holding overhead): the cannery's, both yard fights', Crale's cab, the hangar's (3 promethium drums, tools, a hoist, the pilot's kit; **the clipboard of flimsies not yet read**). **Prisoners in the Spire's cells:** Crale + 11, Tegg + 4, Old Wick, the gunship pilot **Lenn Cassaway**, day 33's Hookmen. **Dannel and Pell reunited.** **Joren: complications (fever, the lung): Badly hurt; the Governor's surgeon is out of his depth.** Voke wants to see Tamsin. Vigil 20/30, heat 0. Sector map updated (~0445).
 
 ### Current state (day 33)
 
