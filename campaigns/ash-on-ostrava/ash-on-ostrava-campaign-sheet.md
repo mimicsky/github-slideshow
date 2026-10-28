@@ -83,6 +83,8 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
   - **Reps (tally at day's end):** Tamsin: the satchel shot (DEX), Voke's intimidation (CHA), ~6 orders (WIS). Tavi: the gate (INT, partial). Sallow: Joren's treatment (WIS). Brenner: the astropath message (INT).
 - ~0615-1640: Kesh's reply (hold the Mart ~2 days until Aldwyn; then bring Thask, Ilsabet and the girl; nothing on the 6th on open channels; explain the tenement). Tamsin read Ada's letters (Lenn's wife and son Benno at Mott's Landing) and the hangar clipboard (maintenance). Plan: refit the *Bright Light*, not replace her. Teo's tired docking bent berth 12's arm and buckled a hull plate (paid the dockmaster Gil Tannoch 310). Hired Pruitt (4 a day) and Oda (5 with food) off the dock ring as Ollin's porters. Slept ~0840-1640; quiet.
   - **Reps (tally at day's end):** Tamsin: the wage haggling (CHA), the welcome speech (CHA). Teo: the docking (failed: none). Ollin: the sort (INT, hours).
+- ~1640-2200: Tamsin's honours in the galley (titles: Kell MVFW, Varga MVSH, Dace the Protector, Brenner SMVS, Isk MVR and SMVSH, Morcant MVH, Sallow MVS, Corvane SMVFW, Nessa MVA, Mira MVF, Teo SMVF; **Sorel and Tey made full Light-bringers**; Nessa named Dace her little brother; Joren heard it from the doorway). The Light ate and trained till ~2200.
+- **Day 34 tallied (~2200; shown to the player). Session 10 XP awarded (+18,000: Tamsin level 11).**
 
 ### What the Light knows about Thask
 
@@ -115,9 +117,9 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 | Field | Value |
 | --- | --- |
 | Rank | **Interrogator** of Inquisitor Kesh's Ordo (rosette, warp day 20, session 7). Leads the Light; takes his orders from Kesh (Varsaine stayed with the Lantern). (Interrogator-designate from session 5.) |
-| Class | Fighter 10, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
+| Class | Fighter 11, **Champion** (crits on 19-20). Action Surge, Extra Attack, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | **Fine** (healed day 20) |
-| Stats (levels 1-100) | STR **30.1** (**+3**), DEX **74.7** (**+7**), CON **23.8** (+2), INT **10.7** (+1), WIS **33.0** (**+3**), CHA **13.9** (+1) (tally day 33) |
+| Stats (levels 1-100) | STR **30.4** (**+3**), DEX **78.3** (**+7**), CON **23.9** (+2), INT **10.7** (+1), WIS **38.5** (**+3**), CHA **14.6** (+1) (tally day 34) |
 | Renown | **Local (+3)**, close to Regional (codex, Renown). **Ustrennos: +5 more** (the Spindle, the Kestrel, the pirate ship: the station knows his face). **Thask's network knows exactly who he is.** Next step up (Regional): break the Gardener at the Mart |
 | Proficiency | **+4** (level 10). Skills: Perception, Athletics, Survival, Intimidation. **+1 on will checks** (house rule 8; the provost's manual, finished day 19) |
 | Flaw | Doesn't trust officers, and says so |
@@ -130,8 +132,8 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - **System:** D&D 5e chassis reskinned for Warhammer 40,000, narrative mode, all
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
-- **Character level:** **10** (reached session 8, the Spindle). Level 8 ASI spent on DEX. Fighter 9: **Indomitable** (reroll a failed save, once per long rest). Champion 10: **Additional Fighting Style: Defense** (narrative: armour stops a little more; some hits that would make him Hurt only shake him; DM calls it per hit). Proficiency **+4**.
-- **XP:** 80,975. Level 11 at 85,000.
+- **Character level:** **11** (reached session 10, the Mart; 10 at session 8, the Spindle). Level 8 ASI spent on DEX. Fighter 9: **Indomitable** (reroll a failed save, once per long rest). Champion 10: **Additional Fighting Style: Defense** (narrative: armour stops a little more; some hits that would make him Hurt only shake him; DM calls it per hit). Proficiency **+4**.
+- **XP:** **98,975** (session 10: +18,000). **Level 11** (reached session 10, the Mart). Level 12 at 100,000. **Fighter 11: Extra Attack (2)**: proposed in narrative terms as shot strings up to 4 and Shameholder chains of 3 (the player's call; not applied until confirmed).
 
 | XP by session | XP |
 | --- | --- |
@@ -143,6 +145,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 | Session 6, Ostrava mission (the *Ember* taken, Strahn rescued, Tessaly and 24 others captured alive, no deaths) | 8,500 |
 | Session 7 (the crypt and the evidence; Kesh's judgement; the *Gate Unbroken* boarded, Drachen taken alive, no Light-bringer lost) | 15,500 |
 | Session 8 (Season One close-out; Season Two mission 1: Ustrennos, Orsk turned, the Spindle taken, 46 holdouts dead or captured, Dresh and the seed destroyed, six plague vials intercepted, no Light-bringer lost) | 14,500 |
+| Session 10 (Torvane's Mart: the Spire pad, Old Wick taken, the vox mast saved, the gunship down, the burning tenement, the scrubber hall and the air back on, the Moebian 6th uncovered, berth 31: Thask, Ilsabet and the girl taken, the customs house and Venn's garrison freed, Crane Yard 6 and Dagan Crale beaten one on one, the cannery and Pell freed, an elite Hookmen push broken, Voke's bribes and vault, no Light-bringer lost) | 18,000 |
 | Session 9 (Ustrennos Station: the Slack Line and the *Kestrel's Due*, Joss and Wren's crew broken, the Exitus round, Mabry and the strongbox, Aldwyn's hand-off, Marsk and Selk taken, the Bloom located, Orne killed and TALLY broken at the Spindle, no Light-bringer lost) | 16,500 |
 
 ### Full kit (everyone's standing loadout; set by the player, day 33)
@@ -282,21 +285,21 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 
 | | STR | DEX | CON | INT | WIS | CHA | State |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Kell** | 40 | 38.5 | 30.1 | 10 | 26.4 | 10 | **Hurt** (the mast, day 33; worn down to Badly hurt by three shrugged revolver hits at the cannery ~0421; Sallow patched him back to Hurt ~0423). |
-| **Varga** | 25.2 | 42.6 | 25.1 | 10 | 26.9 | 5.1 | Fine. |
-| **Dace** | 25.6 | 22.8 | 20 | 28.2 | 5.5 | 5 | Fine (hip healed by day 33). |
-| **Sorel** | 40.5 | 32.8 | 29 | 18 | 27.6 | 14 | Fine. Tracker; hive clearance +2. |
-| **Tey** | 17.7 | 45.3 | 28.3 | 14.1 | 9.2 | 14 | Fine. Grunt; **pistol focus (gunslinger) +1** (day 33 = drill day 18; next +1 at drill day 20, ~day 35; +1 per 10 drill days to +5). Pistol drill nightly; 5 for 5 under Varga at dawn on day 32. His flinch came from a long trigger pull (a hair trigger would beat it; not fitted). **At Tamsin's side from day 16: goes everywhere with him, into the action.** |
-| **Hollis** | 28.2 | 42.9 | 32 | 17 | 25.7 | 12 | Fine. |
-| **Brenner** | 21 | 29.3 | 26 | 42 | 18.3 | 10 | Fine. |
-| **Isk** | 19 | 48.9 | 28 | 13.5 | 33.8 | 10 | Fine. |
-| **Tavi** | 19.6 | 37.3 | 23.1 | 32.9 | 17.2 | 17 | Fine (a hand-cannon crit at Crane Yard 6's gate ~0435; Dace patched him). |
-| **Morcant** | 49 | 25.4 | 33.2 | 15 | 19.2 | 17 | Fine. |
-| **Sallow** | 20 | 32.7 | 22 | 25 | 42.2 | 20 | Fine. |
-| **Corvane** | 29.3 | 44.5 | 31.4 | 21.5 | 20.2 | 22 | Fine. |
-| **Nessa** | 17.3 | 50 | 18.1 | 21.2 | 29.1 | 27.4 | Fine. |
-| **Mira** | 14 | 43.1 | 20 | 32.6 | 30.2 | 15 | Fine. |
-| **Teo** | 18.1 | 42.8 | 18 | 26.8 | 19.2 | 28 | Fine. |
+| **Kell** | 40.3 | 38.7 | 30.1 | 10 | 26.5 | 10 | **Hurt** (the mast, day 33; worn down to Badly hurt by three shrugged revolver hits at the cannery ~0421; Sallow patched him back to Hurt ~0423). |
+| **Varga** | 25.2 | 45.2 | 25.1 | 10 | 27 | 5.1 | Fine. |
+| **Dace** | 25.6 | 22.8 | 20 | 28.7 | 5.6 | 5 | Fine (hip healed by day 33). |
+| **Sorel** | 40.5 | 33.3 | 29 | 18 | 28 | 14 | Fine. Tracker; hive clearance +2. |
+| **Tey** | 17.7 | 46.8 | 28.3 | 14.1 | 9.2 | 14 | Fine. Grunt; **pistol focus (gunslinger) +1** (day 34 = drill day 19; day 33 = drill day 18; next +1 at drill day 20, ~day 35; +1 per 10 drill days to +5). Pistol drill nightly; 5 for 5 under Varga at dawn on day 32. His flinch came from a long trigger pull (a hair trigger would beat it; not fitted). **At Tamsin's side from day 16: goes everywhere with him, into the action.** |
+| **Hollis** | 28.2 | 43.8 | 32 | 17 | 25.7 | 12 | Fine. |
+| **Brenner** | 21 | 29.5 | 26 | 43.2 | 18.4 | 10 | Fine. |
+| **Isk** | 19 | 50.3 | 28 | 13.5 | 33.8 | 10 | Fine. |
+| **Tavi** | 19.6 | 37.6 | 23.2 | 33.6 | 17.2 | 17 | Fine (a hand-cannon crit at Crane Yard 6's gate ~0435; Dace patched him). |
+| **Morcant** | 49.4 | 27.7 | 33.2 | 15 | 19.2 | 17 | Fine. |
+| **Sallow** | 20 | 33.2 | 22 | 25 | 43.1 | 20 | Fine. |
+| **Corvane** | 29.7 | 45.2 | 31.4 | 21.5 | 20.2 | 22 | Fine. |
+| **Nessa** | 17.3 | 51 | 18.1 | 21.2 | 29.1 | 27.5 | Fine. |
+| **Mira** | 14 | 43.8 | 20 | 32.6 | 30.2 | 15 | Fine. |
+| **Teo** | 18.1 | 44.2 | 18 | 26.8 | 19.2 | 28 | Fine. |
 | **Ferro-Ashe** | 19 | 25.3 | 20 | 45.1 | 19.2 | 12 | Fine. |
 | **Ollin Brake** | 18 | 17.3 | 25 | 23.5 | 18 | 17.1 | Fine. Haggles d20 + CHA bonus (+1); cleans handed-in guns. |
 
