@@ -124,7 +124,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 | **Sallow** (Light-bringer, medic) · she/her | lascarbine (Kesh's; no laspistol) | none | Carapace; helm | chest rig with the drag harness; belt pouch; **the Bag** (**3 antitoxin** (Dace and Corvane at the scrubber hall; Nessa, Brenner and Sallow at berth 31, day 33; Dace and Sallow at the customs house, day 34), **6 stimms** (3 used at the mast; 1 for the girl from the cage at the scrubber hall, day 33), morphia, **5 plague-ward filters** (7 counted day 33; 2 strapped on Tey and Sorel at the scrubber hall; the rest are in the crate), **the SCIHU stim**); rebreather |
 | **Corvane** (Light-bringer, duelist) · he/him | his revolver (stub revolver, **rebuilt** by Dace) + fast action (3-shot chains, no light strikes), ghost-ring sights (+1 inside 15 m), safe-action blade (not drop-prone), plasteel hammer; white and grey, in Dace's cut-down holster. **Shotlas** (las-scattergun): his duelist gun, fired one-handed; the revolver is his sidearm | power sword (the Gate Guard officer's; unnamed; field fixed by Ferro); combat knife | Carapace; helm with pict lens | **3 spec flashes** (1 thrown at berth 31; 2 from the crate, day 33); belt pouch; power-sword scabbard; rebreather |
 | **Nessa** (Light-bringer, infiltrator) · she/her | needle pistol (Kesh's; toxin darts) | **the Sisters** (Callidus throwing knives, 6) + her own 2 throwing knives; power knife | Chest-only carapace; **no helm** (quiet kit) | 2 smoke grenades; belt pouch (her laspistol went back to the crate); rebreather |
-| **Tey** (Light-bringer, gunslinger) · he/him (**made a full Light-bringer by Tamsin, day 34**; the bestiary Gunslinger role's +3 not taken yet: his pistol focus keeps growing) | hellpistol (Kantrael) + laser sight; no hair trigger; no laspistol (swapped for the hellpistol) | none | Carapace; helm | holster (rides crooked; a better one is on the wishlist) |
+| **Tey** (Light-bringer, gunslinger) · he/him (**made a full Light-bringer by Tamsin, day 34**; **Gunslinger role taken ~2300 day 34: +3 on all his shooting**, stacking with his pistol focus; the role's flavour stays his own personality: he doesn't seek duels, but he isn't scared of one) | hellpistol (Kantrael) + laser sight; no hair trigger; no laspistol (swapped for the hellpistol) | none | Carapace; helm | holster (rides crooked; a better one is on the wishlist) |
 | **Sorel** (Light-bringer, tracker) · he/him (**made a full Light-bringer by Tamsin, day 34**) | hellgun (Cadian; given by Tamsin) | none | Carapace; helm | none assigned |
 | **Mira** (Light-pilot) · she/her | laspistol | none | Pilot's flak vest; helm | flies the Valkyrie; rebreather |
 | **Teo** (Light-pilot) · he/him | laspistol | none | Flight jacket over a pilot's flak vest; helm | flies the Valkyrie; rebreather |
@@ -190,6 +190,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 | Ollin Brake | Crew post: Quartermaster (not a fighter); tag: **Light's Quartermaster** |
 | Tamsin | Commander |
 | Mira | Fighter pilot |
+| Tey | Gunslinger (+3 on all his shooting; taken day 34; flavour stays his own: doesn't seek a duel, isn't scared of one) |
 | Teo | Fighter pilot |
 
 | Who | Specialty (+2) |
@@ -216,7 +217,7 @@ carapace from the front (carapace from the side and back); refractor field (auto
 (drop-prone); Indomitable (reroll a failed save, once per long rest); purity seals on Vigil, Last Word, the knife, Shameholder.
 **The Light's standing modifiers:** specialties (+2), roles (bestiary), traitor-elite side notes, finished books, Morcant's
 suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss by 1-2), Corvane's revolver (+1 inside
-15 m, 3-shot chains), Varga's shooting eye (rangefinder, targeter, gun-link).
+15 m, 3-shot chains), **Tey's Gunslinger role (+3 on all his shooting)**, Varga's shooting eye (rangefinder, targeter, gun-link).
 
 **Power ratings (reference only, no in-game effect; codex Part 8 'Power rating'; re-rated day 33 from the Full kit table; re-run whenever it changes):** 0 = civilian, ~100 = Poor cultist.
 
