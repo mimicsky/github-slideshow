@@ -925,8 +925,8 @@ A **beat** is one moment of a fight, a few seconds. Everyone acts every beat: **
   hasn't seen the attackers when the first shot goes) **can't act or defend for the first beat, and every attack on it that beat
   gets +2.** From the next beat it fights normally.
 - **Action Surge (Tamsin):** **once per fight**, two main things in one beat. **Extra Attack** is already part of
-  his strings. **Extra Attack (2) at Fighter 11 (Ash on Ostrava, session 10):** his shot strings go up to **4 shots** (a gun's
-  own lower limit still applies) and his **melee chains get +1 swing**.
+  his strings. **Extra Attack (2) at Fighter 11 (Ash on Ostrava, session 10):** **+1 shot on every shot string and +1 swing on every
+  melee chain**, whatever the weapon's normal limit (simplified by the player).
 
 ### Shots and hits (set by the player, Ash on Ostrava session 10)
 
