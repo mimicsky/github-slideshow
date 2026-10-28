@@ -129,7 +129,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 | **Ferro-Ashe** (Light-tech-priest) · he/him | **Kantrael lasgun** (the stolen one; picked by roll, day 33, d8 = 4) | none | Flak-weave robes; helm | thermal optics; mechadendrites and tools; rebreather |
 | **Ollin Brake** (Light's Quartermaster) · he/him | none | none | Coat | slate; stays aboard; rebreather |
 
-**Guns:** all **Clean** (cleaned aboard, mostly by Ollin when they're handed in). In the field a gun goes **Dirty after about 30 shots** without cleaning. Exceptions: none (Ollin cleaned everything on the ship, ~1730 day 33). **Pack sizes (set day 33): hot-shot packs 30 shots, regular las packs 45.** Everyone's packs fresh as of ~1730 day 33.
+**Guns:** all **Clean** (cleaned aboard, mostly by Ollin when they're handed in). In the field a gun goes **Dirty after about 30 shots** without cleaning. Exceptions: none (Ollin cleaned everything on the ship, ~1730 day 33; the Light cleaned their guns again aboard on the afternoon of day 34, after the night's fights). **Pack sizes (set day 33): hot-shot packs 30 shots, regular las packs 45.** Everyone's packs fresh as of ~1730 day 33.
 **Helms:** everyone wears one except Nessa (quiet kit). **Pict-lens helms:** Tamsin, Kell, Isk, Corvane, Hollis, Tavi.
 **Vox-beads:** everyone in the Light wears one on THE LIGHT (confirmed by the player, day 33).
 **Rebreathers:** everyone carries one on the belt (as in the book) **except Tey, Sorel and the two penitents**, who need them bought (on the wishlist). Tamsin's is the double-filtered plague rebreather.
