@@ -147,7 +147,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 
 ## Every reply (the things that keep slipping)
 
-- **Voices (set by the player, day 34): it's a story game as much as an action game.** Before writing anyone's lines, check their personality and voice entry in [`world.md`](world.md) ("The Light: who they are") and write them that way. **Keep those entries current in the same save:** a new character gets an entry; a new trait, want, fear, relationship, title, or a piece of kit that matters to them goes into their entry. "Newer, still developing" characters: try new things; keep what gets a reaction or sticks.
+- **Voices (set by the player, day 34): it's a story game as much as an action game.** **More detail is always better** in scenes and in these entries. Before writing anyone's lines, check their personality and voice entry in [`world.md`](world.md) ("The Light: who they are") and write them that way. **Keep those entries current in the same save:** a new character gets an entry; a new trait, want, fear, relationship, title, or a piece of kit that matters to them goes into their entry. "Newer, still developing" characters: try new things; keep what gets a reaction or sticks.
 - **Never roll Tamsin's dice.** Ask "Roll me a d20" and wait. NPC dice and undecided facts are rolled openly with a real RNG. The DM rolls will checks for the player.
 - **Show the math** on every roll: (die + stat + other bonuses = total). DCs stay hidden; contests show both totals.
 - **Name + role on every mention**, dialogue lines included: `Kell (Light-bringer sergeant, assault): line`.
