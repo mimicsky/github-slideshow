@@ -94,7 +94,7 @@ flickers, and it cuts machines and servitors at +2.
 
 ## Paired transonic blades
 
-**Paired transonic blades** (rare, 30 TV): two weapons (blocks become parries).
+**Paired transonic blades** (rare, 30 TV): two weapons (dual-wielding: +1 swing and +1 on attacks; codex house rule 5).
 Resonance: after the first hit on a target, its armour counts one step lighter
 against them.
 

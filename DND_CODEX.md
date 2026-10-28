@@ -671,23 +671,18 @@ modifier.
 - **One swing a beat** (Part 6, A beat): each exchange above is one swing and its defence. **A defender can answer two attackers a beat.** The third and any beyond
   get through undefended.
 - **Melee chains** (set by the player, Ash on Ostrava session 10, to balance melee against shot strings): melee swings chain like shots. **Light weapons chain up to 3 swings a beat; medium and heavy weapons up to 2.** Each swing is its own exchange; the defender answers each (the chain doesn't count as extra attackers). **Only a parry ends the chain** (and flips the initiative as normal). A **block** just stops that swing's damage; the chain carries on. The raw-17 unparryable blow applies to every swing. It works the same for enemies. **Classes (DM default; the player may move a weapon):** *light*: knives and daggers (combat, power, chain and throwing knives, shanks, needle-blades), machetes, hatchets; *medium*: one-handed swords, chainswords, axes, batons and mauls (Shameholder, Promise Holder, power swords, shock mauls, combat axes, trench clubs); *heavy*: two-handed weapons (chain axes used two-handed, great hammers, flails, Ogryn and brute weapons).
-- **Two weapons turn a block into a parry.** Fighting with a weapon in each hand
-  does not raise the two-attacker cap — a second blade covers another line, it
-  does not double how many people you can track. What it does is convert every
-  block into a parry: the off hand catches the blow and the other weapon is
-  already free, so initiative flips instead of merely holding. This is the
-  mechanical identity of the twin-axe style, and it is lost the moment one axe
-  is given away.
+- **Two weapons:** see **Dual-wielding** below. (The old rule, two weapons turn a block into a parry, was
+  dropped by the player on Ash on Ostrava day 35.) A second weapon never raises the two-attacker cap.
 - **Dual-wielding (set by the player, Ash on Ostrava day 35).** A weapon in each hand:
-  - **Two melee weapons:** **+1 swing on the chain** and **+1 on every attack** in the exchange, on top of
-    the block-to-parry rule above. Going **back to guns afterwards costs a beat** (a main thing) to put the
-    blades away and draw.
+  - **Two melee weapons:** **+1 swing on the chain** and **+1 on every attack** in the exchange (attacks
+    only: **no bonus on defence**, and blocks stay blocks). Going **back to guns afterwards costs a beat**
+    (a main thing) to put the blades away and draw.
   - **Two one-handed guns** (pistols, machine pistols): fire both at once and the **string doubles** (each
     gun's limit added together, e.g. two hellpistols 3 + 3 = 6), but **every shot in it takes -3**. The shot
     chain, swap and recoil rules run as normal across the whole string; a hair trigger's +1 counts once, on
-    the first shot; Tamsin's Extra Attack (2) adds its one shot after the doubling. **Or** fire one and keep
-    the other up as the reload: when the first runs dry, switching to the loaded one costs nothing, so no
-    reload beat.
+    the first shot; Tamsin's Extra Attack (2) adds its one shot after the doubling. **Or** fire just one
+    (**no -3**, its normal string) and keep the other up as the reload: when the first runs dry, switching
+    to the loaded one costs nothing, so no reload beat.
   - Two-handed weapons can't be dual-wielded, and a shield takes the off hand.
 - **Position decides how many can reach you.** Space, not willingness, limits a
   crowd. In open ground three or four can get at one man, so he answers two and
