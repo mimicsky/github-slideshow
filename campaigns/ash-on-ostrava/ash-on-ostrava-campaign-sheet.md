@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~2330 warp day 34, aboard the *Bright Light* at berth 12 on Torvane's Mart's dock ring: EVERY MISSION ON THE MART DONE.** Tamsin in his cabin (~2325), starting on weapon schematics; **his kit note pinned on the galley wall** (~2320; galley empty, d20 11); the gear piled on a crate by container 1 in the hold (after leaving the workshop ~2230 (Dace's order of work: medals, hull plate, Valk panel; rockets to look for at Vashti's Rock). Coin box **25,218**. **Kesh's orders:** hold the Mart and the prisoners until Aldwyn (~day 36), then take Thask, Ilsabet and the girl to the Rest. **Hired:** Oda and Pruitt (sorted most of the haul into the two containers). **Hull plate:** beaten out, reseated tomorrow morning. Joren resting (Hurt); Kell Hurt; Dannel and Pell aboard. The gang prisoners in Moll's cells at the Spire; the 8 children at the Spire. **To do:** sell the haul at Vashti's Rock; the refit later. Vigil 20/30.
+**Where we stopped:** **session 10, ~2355 warp day 34, aboard the *Bright Light* at berth 12 on Torvane's Mart's dock ring: EVERY MISSION ON THE MART DONE.** Tamsin in his cabin (~2325), starting on weapon schematics; **his kit note pinned on the galley wall** (~2320; galley empty, d20 11); the gear piled on a crate by container 1 in the hold (after leaving the workshop ~2230 (Dace's order of work: medals, hull plate, Valk panel; rockets to look for at Vashti's Rock). Coin box **25,218**. **Kesh's orders:** hold the Mart and the prisoners until Aldwyn (~day 36), then take Thask, Ilsabet and the girl to the Rest. **Hired:** Oda and Pruitt (sorted most of the haul into the two containers). **Hull plate:** beaten out, reseated tomorrow morning. Joren resting (Hurt); Kell Hurt; Dannel and Pell aboard. The gang prisoners in Moll's cells at the Spire; the 8 children at the Spire. **To do:** sell the haul at Vashti's Rock; the refit later. Vigil 20/30.
 
 ### Current state (day 34)
 
@@ -47,7 +47,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~2232-2300: Tamsin took a sheet of flimsy from his cabin; asked for the whole haul and every kit (OOC); then went down to the hold and pulled his picks from the containers (listed in Current state). Brenner's Accatran has the hot-shot conversion too (the player).
 - ~2300-2315: Tamsin wrote his note ('ADDITIONS TO KIT OR SWAPS - ROOK') and pulled the rest of the gear (Current state, Full kit).
 - ~2320-2325: the note pinned on the galley wall (galley empty, lumen left on; d20 11); Tamsin to his cabin to start on schematics.
-- ~2325-2400: Tamsin drew schematic 1, Dace's autopistol (Current state).
+- ~2325-2355: Tamsin drew schematic 1, Dace's autopistol (Current state).
 
 ### What the Light knows about Thask
 
