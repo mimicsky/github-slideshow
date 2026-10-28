@@ -48,6 +48,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~2300-2315: Tamsin wrote his note ('ADDITIONS TO KIT OR SWAPS - ROOK') and pulled the rest of the gear (Current state, Full kit).
 - ~2320-2325: the note pinned on the galley wall (galley empty, lumen left on; d20 11); Tamsin to his cabin to start on schematics.
 - ~2325-2355: Tamsin drew schematic 1, Dace's autopistol (Current state).
+- **Late reps (~2200-0021), tallied ~0021 day 35:** Tamsin CHA +0.1 (the deep talk with Dace), WIS +0.3 (3 orders: the medal job, the order of work, the kit note counted as one), INT +0.1 (~1 h on the schematic); Dace INT +0.2 (~2 h more forge work).
 - ~2355-0020 (into day 35): Tamsin added top and bottom rails and a rapid feeder, and detailed every part and its function on the schematic.
 
 ### What the Light knows about Thask
@@ -83,7 +84,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 | Rank | **Interrogator** of Inquisitor Kesh's Ordo (rosette, warp day 20, session 7). Leads the Light; takes his orders from Kesh (Varsaine stayed with the Lantern). (Interrogator-designate from session 5.) |
 | Class | Fighter 11, **Champion** (crits on 19-20). Action Surge, **Extra Attack (2)**, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | **Fine** (healed day 20) |
-| Stats (levels 1-100) | STR **30.4** (**+3**), DEX **78.3** (**+7**), CON **23.9** (+2), INT **10.7** (+1), WIS **38.5** (**+3**), CHA **14.6** (+1) (tally day 34) |
+| Stats (levels 1-100) | STR **30.4** (**+3**), DEX **78.3** (**+7**), CON **23.9** (+2), INT **10.8** (+1), WIS **38.8** (**+3**), CHA **14.7** (+1) (tally day 34, + the late reps ~2200-0021) |
 | Renown | **Local (+3)**, close to Regional (codex, Renown). **Ustrennos: +5 more** (the Spindle, the Kestrel, the pirate ship: the station knows his face). **Thask's network knows exactly who he is.** Next step up (Regional): break the Gardener at the Mart |
 | Proficiency | **+4** (levels 9-12). Skills: Perception, Athletics, Survival, Intimidation. **+1 on will checks** (house rule 8; the provost's manual, finished day 19) |
 | Flaw | Doesn't trust officers, and says so |
@@ -254,7 +255,7 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Kell** | 40.3 | 38.7 | 30.1 | 10 | 26.5 | 10 | **Hurt** (the mast, day 33; worn down to Badly hurt by three shrugged revolver hits at the cannery ~0421; Sallow patched him back to Hurt ~0423). |
 | **Varga** | 25.2 | 45.2 | 25.1 | 10 | 27 | 5.1 | Fine. |
-| **Dace** | 25.6 | 22.8 | 20 | 28.7 | 5.6 | 5 | Fine (hip healed by day 33). |
+| **Dace** | 25.6 | 22.8 | 20 | 28.9 | 5.6 | 5 | Fine (hip healed by day 33). |
 | **Sorel** | 40.5 | 33.3 | 29 | 18 | 28 | 14 | Fine. Tracker; hive clearance +2. |
 | **Tey** | 17.7 | 46.8 | 28.3 | 14.1 | 9.2 | 14 | Fine. Grunt; **pistol focus (gunslinger) +1** (day 34 = drill day 19; day 33 = drill day 18; next +1 at drill day 20, ~day 35; +1 per 10 drill days to +5). Pistol drill nightly; 5 for 5 under Varga at dawn on day 32. His flinch came from a long trigger pull (a hair trigger would beat it; not fitted). **At Tamsin's side from day 16: goes everywhere with him, into the action.** |
 | **Hollis** | 28.2 | 43.8 | 32 | 17 | 25.7 | 12 | Fine. |
