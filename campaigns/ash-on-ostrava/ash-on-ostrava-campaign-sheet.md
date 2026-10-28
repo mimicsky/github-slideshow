@@ -217,6 +217,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 | --- | --- |
 | Kell | **Handy** (+1 on field repairs and fixing jams), **Brave** (+1 against fear, intimidation and break checks), **Eagle-eyed** (+1 on Perception to spot things). Rolls: good 18, good 9, good 1 |
 | Varga | **Organised** (once a fight, a reload costs no beat; always carries one extra of a small thing), **Lho habit** (needs her lho-sticks: after ~12 h without, -1 on WIS and INT), **Glass jaw** (wear-down every 2 shrugged hits instead of 3). Rolls: bad 11, good 12, bad 18 |
+| Dace | **Light on his feet** (+1 when dodging), **Fast healer** (recovers from a wound in less time; patches on him +1), **Unlucky** (a natural 2 counts as a natural 1). Rolls: good 15, good 7, bad 8 |
 
 **Tamsin's standing modifiers (check every roll; codex Roll checklist):** **Traits: Night owl, Brave (+1 fear/intimidation/break), Claustrophobic (-1 in tight spaces)**; **Extra Attack (2): +1 shot on every string, +1 swing on every melee chain (Shameholder 3)**; Champion crits 19-20 (Vigil 17-20, heat);
 Remarkable Athlete (+2 untrained STR/DEX/CON); proficiency +4 (Perception, Athletics, Survival, Intimidation); **+1 will
