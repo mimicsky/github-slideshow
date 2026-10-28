@@ -865,10 +865,11 @@ game-breaking.
   | Specialists | 2 | an enemy with a bestiary role (a flamer, a sniper, a medic), or a skilled NPC |
   | Important characters | 3 | the Light's named people, and named figures: Captain Merrick, Venn, the bosses (Thask, Crale, Old Wick, Tegg) |
 
-- **Each roll:** first good or bad, then a d20 on that table.
+- **Each roll:** first good or bad, then a **d30** on that table (d20 until the tables grew to 30, day 35).
   - **Everyone except important characters: 50/50** (d2: 1 good, 2 bad).
   - **Important characters: 75/25** (d4: 1-3 good, 4 bad).
-- **Rerolls:** a trait that contradicts one they already have (Eagle-eyed and Short-sighted), a
+- **Rerolls:** a trait that contradicts one they already have (Eagle-eyed and Short-sighted, Strong back
+  and Frail, Runner and Bad knees, Iron will and Big mouth), a
   duplicate, or a trait that contradicts established lore is rerolled. **Ash on Ostrava: no smokers in the Light** (the player,
   day 35): Lho habit is rerolled for them (Varga's and Hollis's became good rerolls by the player's call).
 - **Permanent** for everyone except important characters. An important character's traits can be
@@ -879,9 +880,9 @@ game-breaking.
 - **When they're rolled:** enemies when the group is rolled; NPCs the first time they matter; the
   Light all at once when the system starts, then each new recruit when they join.
 
-**Good traits (d20)**
+**Good traits (d30)**
 
-| d20 | Trait | Effect |
+| d30 | Trait | Effect |
 | --- | --- | --- |
 | 1 | Eagle-eyed | +1 on Perception to spot things |
 | 2 | Keen hearing | +1 to notice by sound, and never caught napping by noise |
@@ -903,10 +904,20 @@ game-breaking.
 | 18 | Handy | +1 on field repairs and fixing jams |
 | 19 | Hardy | No penalty from cold, heat or thin air |
 | 20 | Pious | +1 on saves against the warp and corruption (stacks with seals) |
+| 21 | Iron grip | Can't be disarmed by a solid hit; +1 on STR to hold on, grapple or keep hold of a weapon |
+| 22 | Hard to kill | +1 when a medic patches them up from Down; enemies: +1 on the survival d6 |
+| 23 | Sharp memory | +1 on INT to recall faces, routes, codes and plans |
+| 24 | Runner | +1 on sprints and chases |
+| 25 | Sure-footed | No penalty on bad footing (ice, oil, rubble, a pitching deck); +1 against being knocked down |
+| 26 | Good arm | +1 on throws (grenades, knives) |
+| 27 | Iron will | +1 against interrogation; if taken, their Will starts 10% higher |
+| 28 | Field medic | +1 on patching wounds (a medic's patch, or anyone's Hurt-to-Fine patch) |
+| 29 | Quick reflexes | +1 to act first when it matters who moves first (an ambush going off, a shootout) |
+| 30 | Scrounger | Once a mission, turns up one useful small thing when searching (a pack, a stimm, a tool, a little coin) |
 
-**Bad traits (d20)**
+**Bad traits (d30)**
 
-| d20 | Trait | Effect |
+| d30 | Trait | Effect |
 | --- | --- | --- |
 | 1 | Short-sighted | -1 on shots past ~30 m |
 | 2 | Hard of hearing | -1 to notice by sound; can miss a bead call in a loud fight |
@@ -928,6 +939,16 @@ game-breaking.
 | 18 | Glass jaw | Wear-down every 2 shrugged hits instead of 3 |
 | 19 | Slow learner | -0.1 for every 10 hours of training |
 | 20 | Superstitious | -1 on rolls after a bad omen (Morcant's cursed galley) |
+| 21 | Frail | -1 on STR rolls to haul, carry, climb or breach |
+| 22 | Bad knees | -1 on sprints, chases and jumps |
+| 23 | Poor memory | -1 on INT to recall faces, routes, codes and plans |
+| 24 | Greedy | -1 to resist a bribe or a shiny bit of loot; may pocket things (an NPC may steal) |
+| 25 | Trigger-happy | Fires at the first noise; on a natural 1, the shot goes somewhere it shouldn't (near an ally or a civilian, the DM's call) |
+| 26 | Night-blind | -1 in the dark, on top of darkness penalties, unless they have a lumen or a low-light optic |
+| 27 | Big mouth | -1 on lying and keeping secrets; if taken, their Will starts 10% lower |
+| 28 | Sickly | -1 on saves against disease and plague |
+| 29 | Slow reflexes | -1 to act first when it matters who moves first |
+| 30 | Warp-sick | -1 on all rolls for about an hour after a warp jump or a rough landing |
 
 **Examples:** a militia trooper rolls once: d2 2 (bad), d20 13: **Loud**. A Hookman flamer
 (specialist) rolls twice: good **Iron gut**, bad **Hothead**. Kell (important) rolls three times on
