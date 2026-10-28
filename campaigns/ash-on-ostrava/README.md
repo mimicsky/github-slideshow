@@ -8,16 +8,17 @@ Branch: **`claude/ash-ostrava-campaign-closeout-ma000x`**. Rules: [`../../DND_CO
 ## Start checklist (every new chat, and after every context compaction)
 
 Read these in order. Then open the first reply with one line ticking them off, e.g.
-`Checklist: README ✓ sheet ✓ DM notes ✓ codex Always ✓ last scene ✓`.
+`Checklist: README ✓ sheet ✓ DM notes ✓ codex Always ✓ voices ✓ last scene ✓`.
 Don't say what's in the DM notes.
 
 1. **This README**, all of it.
 2. **The campaign sheet** ([`ash-on-ostrava-campaign-sheet.md`](ash-on-ostrava-campaign-sheet.md)): "Where we stopped", "Current state", "What the Light knows about Thask", "Full kit", Tamsin ("The character"), the Light (roster, roles, specialties, stats). It's about 260 lines, all current state.
 3. **The DM notes** ([`dm-notes.md`](dm-notes.md)), **down to the STOP line only**, read silently, never told to the player: how the campaign runs, the live mission's secrets, nemeses, pre-rolls. Below STOP, open an entry only when its trigger comes up.
 4. **The codex** ([`../../DND_CODEX.md`](../../DND_CODEX.md)): **only the sections marked "Always" in the map at its top** (about 450 lines: the play preferences, house rules 1-6, cover, the roll checklist, shots and hits, breaking and Down, describing the world, armour and weapons). Open the rest when the map's trigger comes up.
-5. **The end of the last chapter** in [`book-season-2.md`](book-season-2.md) (search for the last `## Chapter`; read its final scene), plus the sheet's day log for anything played since.
-6. **A fight on?** Do the **Fight checklist** (below) before the first die.
-7. **Nothing else up front.** The gear catalogue's index, the bestiary's index and its roles file are opened when an item or a fight comes up ("Where things are" below).
+5. **The Light's voices** ([`world.md`](world.md), "The Light: who they are"): every personality and voice entry, **before writing anyone's speech.** This is a story game as much as an action game: each person talks and acts like themselves (set by the player, day 34).
+6. **The end of the last chapter** in [`book-season-2.md`](book-season-2.md) (search for the last `## Chapter`; read its final scene), plus the sheet's day log for anything played since.
+7. **A fight on?** Do the **Fight checklist** (below) before the first die.
+8. **Nothing else up front.** The gear catalogue's index, the bestiary's index and its roles file are opened when an item or a fight comes up ("Where things are" below).
 
 Then pick up exactly where we stopped.
 
@@ -146,6 +147,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 
 ## Every reply (the things that keep slipping)
 
+- **Voices (set by the player, day 34): it's a story game as much as an action game.** Before writing anyone's lines, check their personality and voice entry in [`world.md`](world.md) ("The Light: who they are") and write them that way. **Keep those entries current in the same save:** a new character gets an entry; a new trait, want, fear, relationship, title, or a piece of kit that matters to them goes into their entry. "Newer, still developing" characters: try new things; keep what gets a reaction or sticks.
 - **Never roll Tamsin's dice.** Ask "Roll me a d20" and wait. NPC dice and undecided facts are rolled openly with a real RNG. The DM rolls will checks for the player.
 - **Show the math** on every roll: (die + stat + other bonuses = total). DCs stay hidden; contests show both totals.
 - **Name + role on every mention**, dialogue lines included: `Kell (Light-bringer sergeant, assault): line`.
