@@ -29,6 +29,7 @@ by narrative mode (house rule 4): open them only if the player asks for full rul
 | Part 6, house rule 7: stat levels, training reps, the training manual, coaching, books | At the daily tally; training, coaching or a book comes up |
 | Part 6, Food | Food is in doubt (a mission, a siege, a bad jump); a cook |
 | Part 6, house rule 8: Will | An interrogation or a recruiting attempt |
+| Part 6, house rule 9: Traits | Rolling anyone new (enemies, NPCs, recruits); any roll a trait touches |
 | Part 6, Rulings made at the table | A situation those rulings cover (looting, white armour, undecided facts) |
 | Part 7: Dice are real, Calling for rolls, Pacing and difficulty, Combat, Failure states | Unsure how to call a roll or pace a stretch (Combat and Failure states are superseded) |
 | Part 7: End of session (and the book rule) | The end of an in-game day or a session |
@@ -849,6 +850,89 @@ the player tries to break or win over.
   1-2%, **15-19** within 5%, **10-14** within 10%, lower within 20% (or misread).
   The breaking point is never shown.
 
+**9. Traits (set by the player, Ash on Ostrava day 35; inspired by Project Zomboid).**
+
+Everyone gets a few small traits, rolled at random: the Light, NPCs and enemies alike. They are
+flavour with a light touch: a +1 or -1 on one narrow kind of roll, or a small quirk. Nothing
+game-breaking.
+
+- **How many rolls:**
+
+  | Who | Rolls | Examples |
+  | --- | --- | --- |
+  | NPCs | 1 | traders, shopkeepers, hired hands (Oda, Pruitt) |
+  | Basic grunts | 1 | militia soldiers, basic cultists, gang rank-and-file |
+  | Specialists | 2 | an enemy with a bestiary role (a flamer, a sniper, a medic), or a skilled NPC |
+  | Important characters | 3 | the Light's named people, and named figures: Captain Merrick, Venn, the bosses (Thask, Crale, Old Wick, Tegg) |
+
+- **Each roll:** first good or bad, then a d20 on that table.
+  - **Everyone except important characters: 50/50** (d2: 1 good, 2 bad).
+  - **Important characters: 75/25** (d4: 1-3 good, 4 bad).
+- **Rerolls:** a trait that contradicts one they already have (Eagle-eyed and Short-sighted), a
+  duplicate, or a trait that contradicts established lore is rerolled.
+- **Permanent** for everyone except important characters. An important character's traits can be
+  lost, gained or replaced over time, at the DM's call (a bad trait that grows out of their story,
+  a good one earned in play).
+- **Where they're written:** the Light's in their entries in the campaign's world file and on the
+  sheet; enemies' in the fight's roster in the DM notes; NPCs' in their world-file row.
+- **When they're rolled:** enemies when the group is rolled; NPCs the first time they matter; the
+  Light all at once when the system starts, then each new recruit when they join.
+
+**Good traits (d20)**
+
+| d20 | Trait | Effect |
+| --- | --- | --- |
+| 1 | Eagle-eyed | +1 on Perception to spot things |
+| 2 | Keen hearing | +1 to notice by sound, and never caught napping by noise |
+| 3 | Steady hands | +1 on single aimed shots |
+| 4 | Quick hands | +1 on quick-draws; clearing a jam costs no beat, once a fight |
+| 5 | Strong back | +1 on STR rolls to haul, carry, climb or breach |
+| 6 | Thick-skinned | The first shrugged hit each fight doesn't count toward wear-down |
+| 7 | Fast healer | Recovers from a wound in less time; patches on them +1 |
+| 8 | Iron gut | +1 on saves against poison, gas and plague |
+| 9 | Brave | +1 against fear, intimidation and break checks |
+| 10 | Lucky | Once a mission, reroll a natural 1 |
+| 11 | Night owl | No penalty for short sleep; +1 on night watches |
+| 12 | Organised | Always carries one extra of a small thing (a grenade, a pack, a stimm) |
+| 13 | Fast learner | +0.1 extra for every 10 hours of training |
+| 14 | Inconspicuous | +1 on stealth and blending into a crowd |
+| 15 | Light on their feet | +1 when dodging |
+| 16 | Silver tongue | +1 on persuading and bargaining |
+| 17 | Cool under fire | Suppression on them is -1 instead of -2 |
+| 18 | Handy | +1 on field repairs and fixing jams |
+| 19 | Hardy | No penalty from cold, heat or thin air |
+| 20 | Pious | +1 on saves against the warp and corruption (stacks with seals) |
+
+**Bad traits (d20)**
+
+| d20 | Trait | Effect |
+| --- | --- | --- |
+| 1 | Short-sighted | -1 on shots past ~30 m |
+| 2 | Hard of hearing | -1 to notice by sound; can miss a bead call in a loud fight |
+| 3 | Shaky hands | -1 on single aimed shots |
+| 4 | Clumsy | A natural 1 on a DEX roll also drops or trips over something |
+| 5 | Weak stomach | -1 on saves against gas and poison; retches at gore |
+| 6 | Slow healer | Recovers from a wound in more time; patches on them -1 |
+| 7 | Jumpy | -1 against fear and break checks; startles at loud noises |
+| 8 | Unlucky | A natural 2 counts as a natural 1 |
+| 9 | Heavy sleeper | Hard to wake; loses the first beat of a night attack |
+| 10 | Restless sleeper | -1 on WIS rolls the day after a short night |
+| 11 | Lho habit | Needs their lho-sticks: after ~12 h without, -1 on WIS and INT |
+| 12 | Hothead | -1 on CHA when insulted; may take a taunt and charge |
+| 13 | Loud | -1 on stealth |
+| 14 | Disorganised | -1 on quick-draws; always missing one small thing |
+| 15 | Squeamish | -1 when treating wounds, or when covered in blood |
+| 16 | Claustrophobic | -1 in crawlspaces, vents and tight corridors |
+| 17 | Void-sick | -1 in the open void, on EVA, or in zero gravity |
+| 18 | Glass jaw | Wear-down every 2 shrugged hits instead of 3 |
+| 19 | Slow learner | -0.1 for every 10 hours of training |
+| 20 | Superstitious | -1 on rolls after a bad omen (Morcant's cursed galley) |
+
+**Examples:** a militia trooper rolls once: d2 2 (bad), d20 13: **Loud**. A Hookman flamer
+(specialist) rolls twice: good **Iron gut**, bad **Hothead**. Kell (important) rolls three times on
+75/25: good, good, bad, e.g. **Brave**, **Cool under fire**, **Restless sleeper**. Traits go in the
+roll checklist (line 8, standing bonuses, and line 9, conditions) like any other modifier.
+
 ---
 
 ### Cover (set by the player, Ash on Ostrava session 10)
@@ -899,7 +983,7 @@ in the math (`14 + 4 DEX + 2 aimed rifle + 3 eye + 2 order + 2 surprise - 1 airb
    stubbers on the move, anti-materiel rifles), drums (-1 quick-draw), the gun's string limit, **dual pistols** (string doubled, -3 every shot; house rule 5, Dual-wielding).
 7. **Movement:** airborne (own shots -2, traitor elites -1; shots at them -3), run and gun (-2), shooting from
    cover (free).
-8. **Standing bonuses:** finished books (e.g. +1 will checks), crafting manuals, armour
+8. **Standing bonuses:** **traits** (house rule 9), finished books (e.g. +1 will checks), crafting manuals, armour
    (heavy carapace front, Defense style), fields (refractor, conversion).
 9. **Conditions:** health step (Hurt -1, Badly hurt -2), **food state**, fatigue / no sleep, Hurt shoulder-type
    limits, sickened, blinded / dazzled (spec flash), **cover on the target (Cover table: +1 / +2 / +4 / full)**,
