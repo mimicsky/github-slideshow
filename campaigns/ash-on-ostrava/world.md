@@ -34,7 +34,7 @@ People, places, the ship, Kesh's targets and mission briefs. **Not read on resum
 - **Varga** (storm trooper). Left-handed, dry, protective. Hellgun **Mercy**
   (last bearer died dragging a man out of crossfire on Hesk; his red cloth is on
   the stock) with Tamsin's tap-button refit and Ferro's gun-link port (day 30). Carries Corvane's laspistol and a
-  sharpened Krieg trench shovel. Teaching Dace to parry. **Named the Light's Most Valuable Shooter (MVS) by Tamsin, day 34** (the walking bombs and the psyker at Crane Yard 6).
+  sharpened Krieg trench shovel. Teaching Dace to parry. **Named the Light's Most Valuable Shooter (MVSH) by Tamsin, day 34** (the walking bombs and the psyker at Crane Yard 6).
 - **Dace** (smith, 19; real name Halvic Teodor; **named 'the Protector' by Tamsin, day 34**). Held the gate-room door on
   Cadia for Malcade, for a promise that his family would be evacuated; they
   weren't. Renounced the cult, worked off his sentence at Drel's forge. **Uncollared
