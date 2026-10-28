@@ -451,6 +451,9 @@ NEW = {
   "traitor": [("Dog-handler with 2 war dogs + lasgun","C"),("Handler with 2 cyber-mastiffs + laspistol","U")],
   "traitor_elite": [("Handler with 2 cyber-mastiffs + hellpistol","U"),("Handler with 3 cyber-mastiffs + hellgun","R")],
  },
+ "herder": {
+  "cultist": [("Herder with a goad-staff + stub revolver, driving their god's herd (roles.md, Herder)","C"),("Herder with a bell or horn on a pole + autopistol, driving their god's herd (roles.md, Herder)","U")],
+ },
  "tech-adept": {
   "cultist": [("Heretek: scrap-built auto-turret, cutting torch, autopistol","U"),("Heretek: daemon-bound vox-jammer + servo-arm","R")],
   "raider":  [("Tech-scav: deployable stubber turret + lock-breaker","U"),("Tech-scav: vox jammer + multi-key + autopistol","C")],
