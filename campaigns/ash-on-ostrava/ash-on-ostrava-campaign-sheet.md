@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~0100 warp day 35, aboard the *Bright Light* at berth 12 on Torvane's Mart's dock ring: EVERY MISSION ON THE MART DONE.** Tamsin in his cabin (~0022 day 35), schematics 1 (Dace's autopistol) and 2 (Hollis's hand flamer) done (~0100 day 35); **his kit note pinned on the galley wall** (~2320; galley empty, d20 11); the gear piled on a crate by container 1 in the hold (after leaving the workshop ~2230 (Dace's order of work: medals, hull plate, Valk panel; rockets to look for at Vashti's Rock). Coin box **25,218**. **Kesh's orders:** hold the Mart and the prisoners until Aldwyn (~day 36), then take Thask, Ilsabet and the girl to the Rest. **Hired:** Oda and Pruitt (sorted most of the haul into the two containers). **Hull plate:** beaten out, reseated tomorrow morning. Joren resting (Hurt); Kell Hurt; Dannel and Pell aboard. The gang prisoners in Moll's cells at the Spire; the 8 children at the Spire. **To do:** sell the haul at Vashti's Rock; the refit later. Vigil 20/30.
+**Where we stopped:** **session 10, ~0102 warp day 35, aboard the *Bright Light* at berth 12 on Torvane's Mart's dock ring: EVERY MISSION ON THE MART DONE.** Tamsin in his cabin (~0022 day 35), schematics 1 (Dace's autopistol) and 2 (Hollis's hand flamer) done (~0100 day 35); **his kit note pinned on the galley wall** (~2320; galley empty, d20 11); the gear piled on a crate by container 1 in the hold (after leaving the workshop ~2230 (Dace's order of work: medals, hull plate, Valk panel; rockets to look for at Vashti's Rock). Coin box **25,218**. **Kesh's orders:** hold the Mart and the prisoners until Aldwyn (~day 36), then take Thask, Ilsabet and the girl to the Rest. **Hired:** Oda and Pruitt (sorted most of the haul into the two containers). **Hull plate:** beaten out, reseated tomorrow morning. Joren resting (Hurt); Kell Hurt; Dannel and Pell aboard. The gang prisoners in Moll's cells at the Spire; the 8 children at the Spire. **To do:** sell the haul at Vashti's Rock; the refit later. Vigil 20/30.
 
 ### Current state (day 34)
 
@@ -40,7 +40,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 Safety-net notes, one line per big scene, deleted once the day's chapter is written (README, End of every in-game day).
 
 - **Day 34 is all in the book** (Chapters 109-110 cover ~2200-0021). Day 34's tally and its late reps are done.
-- ~0022 day 35: schematic 1 (Dace's autopistol) put away in his desk drawer; a fresh sheet out. ~0023-0101: schematic 2, Hollis's hand flamer (Current state).
+- ~0022 day 35: schematic 1 (Dace's autopistol) put away in his desk drawer; a fresh sheet out. ~0023-0101: schematic 2, Hollis's hand flamer (Current state). ~0102: schematic 2 into the drawer; a third sheet out.
 
 ### What the Light knows about Thask
 
