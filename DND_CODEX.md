@@ -913,7 +913,7 @@ game-breaking.
 | 27 | Iron will | +1 against interrogation; if taken, their Will starts 10% higher |
 | 28 | Field medic | +1 on patching wounds (a medic's patch, or anyone's Hurt-to-Fine patch) |
 | 29 | Quick reflexes | +1 to act first when it matters who moves first (an ambush going off, a shootout) |
-| 30 | Scrounger | Once a mission, turns up one useful small thing when searching (a pack, a stimm, a tool, a little coin) |
+| 30 | Scrounger | When they're part of the search, the looting d20 finds a stashed rare on a **19 or 20**, not just a natural 20 (Part 8, Loot) |
 
 **Bad traits (d30)**
 
