@@ -869,7 +869,8 @@ game-breaking.
   - **Everyone except important characters: 50/50** (d2: 1 good, 2 bad).
   - **Important characters: 75/25** (d4: 1-3 good, 4 bad).
 - **Rerolls:** a trait that contradicts one they already have (Eagle-eyed and Short-sighted), a
-  duplicate, or a trait that contradicts established lore is rerolled.
+  duplicate, or a trait that contradicts established lore is rerolled. **Ash on Ostrava: no smokers in the Light** (the player,
+  day 35): Lho habit is rerolled for them (Varga's and Hollis's became good rerolls by the player's call).
 - **Permanent** for everyone except important characters. An important character's traits can be
   lost, gained or replaced over time, at the DM's call (a bad trait that grows out of their story,
   a good one earned in play).
