@@ -675,8 +675,7 @@ modifier.
   dropped by the player on Ash on Ostrava day 35.) A second weapon never raises the two-attacker cap.
 - **Dual-wielding (set by the player, Ash on Ostrava day 35).** A weapon in each hand:
   - **Two melee weapons:** **+1 swing on the chain** and **+1 on every attack** in the exchange (attacks
-    only: **no bonus on defence**, and blocks stay blocks). **Two light weapons (knives) double instead:
-    3 + 3 = chains of 6** (the player, day 35: "it's a knife"), still +1 on attacks. Going **back to guns afterwards costs a beat**
+    only: **no bonus on defence**, and blocks stay blocks). Going **back to guns afterwards costs a beat**
     (a main thing) to put the blades away and draw.
   - **Two one-handed guns** (pistols, machine pistols): fire both at once and the **string doubles** (each
     gun's limit added together, e.g. two hellpistols 3 + 3 = 6), but **every shot in it takes -3**. The shot
