@@ -141,6 +141,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 | The live mission | The sheet's Current state (orders, plan, what the Mart knows) and the top of `dm-notes.md` |
 | Later missions or Kesh's targets | [`world.md`](world.md): Kesh's target list and the later-mission briefs |
 | The ship's layout | [`world.md`](world.md): "Season Two: how it plays"; [`maps/`](maps) |
+| The sector map (Torvane's Mart) | Published at https://claude.ai/artifact/MirKYHKs6SLL8LSvm63Zmt (v15, day 35 ~0100). Generator: [`maps/torvanes-mart-sector-map.py`](maps/torvanes-mart-sector-map.py) (`python3 it out.html`, then the lore-art skill's `render.js out.html out.png 1600 1080`; upload the PNG as an asset and swap the `<img src>` in `project/Main.dc.html`) |
 | An item's history, blessing or spirit; the container's stock; builds; books; the wishlist | [`inventory.md`](inventory.md): its contents list, then that part |
 | A picture of an item, a battle map, a ship map | The lore-art skill |
 | Something from long ago | Search the books; [`archive.md`](archive.md) |
