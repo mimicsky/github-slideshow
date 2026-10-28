@@ -133,7 +133,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
   Part 6 house rules
 - **Tone:** grim and grounded. No comic relief unless the player brings it
 - **Character level:** **11** (reached session 10, the Mart; 10 at session 8, the Spindle). Level 8 ASI spent on DEX. Fighter 9: **Indomitable** (reroll a failed save, once per long rest). Champion 10: **Additional Fighting Style: Defense** (narrative: armour stops a little more; some hits that would make him Hurt only shake him; DM calls it per hit). Proficiency **+4**.
-- **XP:** **98,975** (session 10: +18,000). **Level 11** (reached session 10, the Mart). Level 12 at 100,000. **Fighter 11: Extra Attack (2)**: proposed in narrative terms as shot strings up to 4 and Shameholder chains of 3 (the player's call; not applied until confirmed).
+- **XP:** **98,975** (session 10: +18,000). **Level 11** (reached session 10, the Mart). Level 12 at 100,000. **Fighter 11: Extra Attack (2)** (confirmed by the player, day 34): **Tamsin's shot strings go up to 4 shots** (a gun's own lower limit still applies) **and his melee chains get +1 swing** (Shameholder: 3).
 
 | XP by session | XP |
 | --- | --- |
@@ -249,7 +249,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 | Teo | Fast flying, evasion |
 | Ferro-Ashe | Repairs, rites and communing (by data) |
 
-**Tamsin's standing modifiers (check every roll; codex Roll checklist):** Champion crits 19-20 (Vigil 17-20, heat);
+**Tamsin's standing modifiers (check every roll; codex Roll checklist):** **Extra Attack (2): shot strings up to 4, melee chains +1 swing (Shameholder 3)**; Champion crits 19-20 (Vigil 17-20, heat);
 Remarkable Athlete (+2 untrained STR/DEX/CON); proficiency +4 (Perception, Athletics, Survival, Intimidation); **+1 will
 checks** (provost's manual); **Commander: two orders a beat to specialists** (+2, act first); Defense style; heavy
 carapace from the front (carapace from the side and back); refractor field (auto-stops light hits, 3 a beat; heavy hits 5-6); Last Word hair trigger
