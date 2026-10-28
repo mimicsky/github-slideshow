@@ -81,6 +81,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 | Renown | **Local (+3)**, close to Regional (codex, Renown). **Ustrennos: +5 more** (the Spindle, the Kestrel, the pirate ship: the station knows his face). **Thask's network knows exactly who he is.** Next step up (Regional): break the Gardener at the Mart |
 | Proficiency | **+4** (levels 9-12). Skills: Perception, Athletics, Survival, Intimidation. **+1 on will checks** (house rule 8; the provost's manual, finished day 19) |
 | Flaw | Doesn't trust officers, and says so |
+| Traits (house rule 9; rolled day 35, 75/25) | **Night owl** (no penalty for short sleep; +1 on night watches), **Brave** (+1 against fear, intimidation and break checks), **Claustrophobic** (-1 in crawlspaces, vents and tight corridors). Rolls: good 11; good 11 (duplicate, rerolled 9); bad 7 Jumpy (contradicts Brave, rerolled), 5 Weak stomach (retching at gore contradicts his record, rerolled), 16 |
 
 **Campaign:**
 
@@ -210,7 +211,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 | Teo | Fast flying, evasion |
 | Ferro-Ashe | Repairs, rites and communing (by data) |
 
-**Tamsin's standing modifiers (check every roll; codex Roll checklist):** **Extra Attack (2): +1 shot on every string, +1 swing on every melee chain (Shameholder 3)**; Champion crits 19-20 (Vigil 17-20, heat);
+**Tamsin's standing modifiers (check every roll; codex Roll checklist):** **Traits: Night owl, Brave (+1 fear/intimidation/break), Claustrophobic (-1 in tight spaces)**; **Extra Attack (2): +1 shot on every string, +1 swing on every melee chain (Shameholder 3)**; Champion crits 19-20 (Vigil 17-20, heat);
 Remarkable Athlete (+2 untrained STR/DEX/CON); proficiency +4 (Perception, Athletics, Survival, Intimidation); **+1 will
 checks** (provost's manual); **Commander: two orders a beat to specialists** (+2, act first); Defense style; heavy
 carapace from the front (carapace from the side and back); refractor field (auto-stops light hits, 3 a beat; heavy hits 5-6); Last Word hair trigger
