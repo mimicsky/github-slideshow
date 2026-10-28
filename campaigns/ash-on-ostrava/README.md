@@ -45,7 +45,7 @@ don't act, think or feel for Tamsin; **leftover shots go into another enemy auto
 the still-up board.
 
 **3. The enemy.** In the fight's entry in `dm-notes.md`: each enemy's weapon, armour (after any step-up),
-role, gun condition (Dirty or Neglected guns jam). **Anything unclear (an armour step-up, a weapon's reach): rule it
+role, gun condition (Dirty or Neglected guns jam), **traits** (codex house rule 9; roll them with the group if they aren't set). **Anything unclear (an armour step-up, a weapon's reach): rule it
 once and write the ruling into the roster** before rolling. Then:
 - [`../../wh40k_gear/bestiary/README.md`](../../wh40k_gear/bestiary/README.md), top paragraph: a special team's bonuses
   (+5 STR/DEX levels, +1 other rolls, armour one step better). Then the team's own entry (look, tactics: play them that way).
@@ -61,7 +61,7 @@ once and write the ruling into the roster** before rolling. Then:
 - **The Specialty table** (line ~291): +2, only on its kind of roll.
 - **The Roles table** (line ~272), then each role in `roles.md` (Commander: Tamsin gives **two orders a beat to
   specialists**, +2 and act first; Jumper; Medic; Duelist; Bodyguard; Heavy gunner...).
-- **"Tamsin's standing modifiers"** and **"The Light's standing modifiers"** (line ~308).
+- **"Tamsin's standing modifiers"** and **"The Light's standing modifiers"** (line ~308), and **each person's traits** (codex house rule 9).
 - Who is **present**: only the people in **this** team or fight act or take orders (check the team list in the fight's
   entry; e.g. Kell and Hollis at the cannery aren't at Crane Yard 6). **An order to someone not there is void:** say so in
   one line. Kell's +1 to Tamsin only when Kell is there. Each person's health and conditions (Hurt, sickened, stimm turns).
@@ -132,6 +132,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 | Shopping or selling | `roll.py`; codex Part 8 (shop size, the quartermaster, the Void Exchange); the sheet's coin |
 | Training and the tally | Codex house rule 7; the sheet's Light table |
 | Interrogation or recruiting | Codex house rule 8 (Will) |
+| Rolling anyone new, or a roll a trait touches | Codex house rule 9 (Traits): the tables, the roll counts, the 50/50 and 75/25 odds |
 | Food, a cook | Codex house rules, Food |
 | Crafting, blessings, purity seals | Codex Part 8 (crafting, blessings, seals); `inventory.md` (blessings on offer, upgrade paths, builds) |
 | Psykers or the warp | Codex Part 8, Perils and Psyker powers |
