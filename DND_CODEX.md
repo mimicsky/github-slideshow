@@ -678,6 +678,17 @@ modifier.
   already free, so initiative flips instead of merely holding. This is the
   mechanical identity of the twin-axe style, and it is lost the moment one axe
   is given away.
+- **Dual-wielding (set by the player, Ash on Ostrava day 35).** A weapon in each hand:
+  - **Two melee weapons:** **+1 swing on the chain** and **+1 on every attack** in the exchange, on top of
+    the block-to-parry rule above. Going **back to guns afterwards costs a beat** (a main thing) to put the
+    blades away and draw.
+  - **Two one-handed guns** (pistols, machine pistols): fire both at once and the **string doubles** (each
+    gun's limit added together, e.g. two hellpistols 3 + 3 = 6), but **every shot in it takes -3**. The shot
+    chain, swap and recoil rules run as normal across the whole string; a hair trigger's +1 counts once, on
+    the first shot; Tamsin's Extra Attack (2) adds its one shot after the doubling. **Or** fire one and keep
+    the other up as the reload: when the first runs dry, switching to the loaded one costs nothing, so no
+    reload beat.
+  - Two-handed weapons can't be dual-wielded, and a shield takes the off hand.
 - **Position decides how many can reach you.** Space, not willingness, limits a
   crowd. In open ground three or four can get at one man, so he answers two and
   the rest land. In a gateway, doorway or corridor only one or two can reach him
@@ -890,7 +901,7 @@ in the math (`14 + 4 DEX + 2 aimed rifle + 3 eye + 2 order + 2 surprise - 1 airb
    miss; some guns differ: the heavy stubber has no hit bonuses), **swapping** (-1 for a different target than
    the last shot in the string), **recoil** (each shot after the first: 0 las and stub pistols; 1 autoguns on
    burst, SMGs, machine pistols, shotguns, revolvers, hand cannons, heavy stubbers braced; 2 bolt weapons, heavy
-   stubbers on the move, anti-materiel rifles), drums (-1 quick-draw), the gun's string limit.
+   stubbers on the move, anti-materiel rifles), drums (-1 quick-draw), the gun's string limit, **dual pistols** (string doubled, -3 every shot; house rule 5, Dual-wielding).
 7. **Movement:** airborne (own shots -2, traitor elites -1; shots at them -3), run and gun (-2), shooting from
    cover (free).
 8. **Standing bonuses:** finished books (e.g. +1 will checks), crafting manuals, armour
