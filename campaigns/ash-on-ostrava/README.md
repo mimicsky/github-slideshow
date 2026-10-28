@@ -136,7 +136,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 | Psykers or the warp | Codex Part 8, Perils and Psyker powers |
 | Walking into a new place | Codex Part 8, Renown; Tamsin's renown on the sheet |
 | A hidden trigger (a sniper, Kesh, Ustrennos, a nemesis) | The index in [`dm-notes.md`](dm-notes.md), then that entry |
-| An NPC or a place, or a Light-bringer's backstory | [`world.md`](world.md): its contents list, or search the file for the name |
+| An NPC or a place, or a Light-bringer's backstory, **personality or how they talk** | [`world.md`](world.md): its contents list, or search the file for the name (the Light's personality and voice entries are under "The Light: who they are") |
 | The live mission | The sheet's Current state (orders, plan, what the Mart knows) and the top of `dm-notes.md` |
 | Later missions or Kesh's targets | [`world.md`](world.md): Kesh's target list and the later-mission briefs |
 | The ship's layout | [`world.md`](world.md): "Season Two: how it plays"; [`maps/`](maps) |
