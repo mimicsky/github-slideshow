@@ -6,7 +6,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 [`dm-notes.md`](dm-notes.md), history in [`archive.md`](archive.md), rules in the codex, the story in the books.
 **Clean up as we go:** when something closes, move or delete it in the same save.
 
-**Where we stopped:** **session 10, ~1640 warp day 34, aboard the *Bright Light* at berth 12 on Torvane's Mart's dock ring: EVERY MISSION ON THE MART DONE.** Tamsin just woke. Coin box **25,218**. **Kesh's orders:** hold the Mart and the prisoners until Aldwyn (~day 36), then take Thask, Ilsabet and the girl to the Rest. **Hired:** Oda and Pruitt (sorted most of the haul into the two containers). **Hull plate:** beaten out, reseated tomorrow morning. Joren resting (Hurt); Kell Hurt; Dannel and Pell aboard. The gang prisoners in Moll's cells at the Spire; the 8 children at the Spire. **To do:** sell the haul at Vashti's Rock; the refit later. Vigil 20/30.
+**Where we stopped:** **session 10, ~2215 warp day 34, aboard the *Bright Light* at berth 12 on Torvane's Mart's dock ring: EVERY MISSION ON THE MART DONE.** Tamsin in the workshop with Dace (sword-and-shield talk done; Dace asked "...And the job?" — the player hasn't said what it is). Coin box **25,218**. **Kesh's orders:** hold the Mart and the prisoners until Aldwyn (~day 36), then take Thask, Ilsabet and the girl to the Rest. **Hired:** Oda and Pruitt (sorted most of the haul into the two containers). **Hull plate:** beaten out, reseated tomorrow morning. Joren resting (Hurt); Kell Hurt; Dannel and Pell aboard. The gang prisoners in Moll's cells at the Spire; the 8 children at the Spire. **To do:** sell the haul at Vashti's Rock; the refit later. Vigil 20/30.
 
 ### Current state (day 33)
 
