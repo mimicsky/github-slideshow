@@ -155,7 +155,7 @@ The Light, off-screen (rolled 15): drilled daily on the new range and the mat wh
   mission is played.
 - **Open hooks:** Velk (Venn's note and key, "the cradle", the second Nurgle
   seed); the traitor tech-priest's cortex from session 2; Torvane's Mart (trade
-  asteroid, Mag Vashti's warehouses); requisitions in Kesh's name now that Tamsin
+  asteroid; **Mag Vashti's Void Exchange keeps its depot on Vashti's Rock, a small Free Trader asteroid ~8 km off the Mart, with her own armsmen and guns: the rising never reached it**; the Mart's high-side trade halls belong to Voke's merchant houses and stayed shuttered behind their own armsmen through the rising; set by the player, day 34); requisitions in Kesh's name now that Tamsin
   holds a rosette.
 
 ## Kesh's target list (Season Two, on the *Bright Light*'s hololith)
