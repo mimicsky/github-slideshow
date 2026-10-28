@@ -120,6 +120,8 @@ add("explosive","R","BF",[("Phosphex canister (forbidden)",15),("Shrapnel mine",
 add("ammo","C","MBF",[("Las pack",0.25),("Stub/auto rounds (box)",0.5),("Shotgun shells (box)",0.5),("Heavy stubber belt",1)])
 add("ammo","U","MAF",[("Hot-shot pack (Guard)",1),("Hot-shot pack (Mechanicus pattern)",3),("Bolt rounds (10)",8),("Stubber drum magazine",1.5),("Man-stopper shells (box)",1),("Inferno shells (box)",2),("Extended las pack",0.75)])
 add("ammo","R","MF",[("Kraken-pattern bolt rounds (10, Astartes)",20),("Hellfire shells (box)",4)])
+add("ammo","U","MBF",[("Heavy stubber belt, man-stopper (expanding: brutal on flesh and flak, carapace shrugs it)",2),("Heavy stubber belt, inferno (incendiary: a raw 17+ sets them alight)",3)])
+add("ammo","R","MAF",[("Heavy stubber belt, tungsten-core (AP: through heavy carapace at any range)",6),("Heavy stubber belt, hellfire (bio-acid: a hit forces a CON save or one more step)",10)])
 # --- Melee ---
 add("melee","C","MB",[("Combat knife",0.25),("Bayonet",0.25),("Entrenching tool",0.25),("Trench club",0.25),("Cadian machete",0.5)])
 add("melee","U","MBF",[("Navy cutlass",2),("Chainsword",6),("Chain axe",8),("Shock maul",7),("Mono-knife",3),("Krieg trench shovel (sharpened)",0.5),("Officer's sabre",3),("Chain knife",3),("Shock baton (Arbites)",4)])

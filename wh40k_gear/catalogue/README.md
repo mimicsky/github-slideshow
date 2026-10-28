@@ -182,5 +182,6 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 ## [Heavy and vehicle weapons](heavy.md)
 
 - [Heavy stubber](heavy.md#heavy-stubber)
+- [Heavy stubber belts, special](heavy.md#heavy-stubber-belts-special) (man-stopper, inferno, tungsten-core, hellfire)
 - [Valkyrie bolt-rocket pods, pair](heavy.md#valkyrie-bolt-rocket-pods-pair)
 - [Las-cannon, medium tripod emplacement](heavy.md#las-cannon-medium-tripod-emplacement)

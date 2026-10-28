@@ -1190,6 +1190,34 @@
   "sellers": "MF"
  },
  {
+  "name": "Heavy stubber belt, man-stopper (expanding: brutal on flesh and flak, carapace shrugs it)",
+  "tv": 2,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy stubber belt, inferno (incendiary: a raw 17+ sets them alight)",
+  "tv": 3,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy stubber belt, tungsten-core (AP: through heavy carapace at any range)",
+  "tv": 6,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Heavy stubber belt, hellfire (bio-acid: a hit forces a CON save or one more step)",
+  "tv": 10,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
   "name": "Combat knife",
   "tv": 0.25,
   "cat": "melee",
