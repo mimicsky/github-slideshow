@@ -39,19 +39,8 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 
 Safety-net notes, one line per big scene, deleted once the day's chapter is written (README, End of every in-game day).
 
-- Everything up to ~2200 day 34 is in the book (Chapter 108). Day 34's tally is done.
-- ~2205: Tamsin found the girl asleep in the medicae (Sallow gone to bed); her slate drawing: the Valkyrie, the Light in a row, one figure bigger, and a coloured-in circle: 'the sun?'. Her name still not asked.
-- ~2210-2215: Dace still up in the workshop with the five plasteel sheets chalked with plans (Kell's shield arm, a patch for Corvane's plate, the offcuts). **Tamsin's talk: shield and sword: Dace stays close as the shield, and when the Light rush, Promise Holder comes out** (he'd been holding the blade back: swinging reminds him of the Open Gate). Tamsin also has a job for him: **the eleven honour medals** (see Open jobs).
-- ~2215-2220: Tamsin gave Dace the medal job (11 medals; 4 to a quarter sheet, so 3/4 of a sheet, 12 blanks, 1 spare). Dace: hull plate first in the morning, then the bench; done tomorrow night. "...You hand them out. Not me." Tamsin (~2220): "Of course, just have it done quietly" (Tamsin hands them out; Dace keeps the job to himself).
-- ~2225: Tamsin asked Dace whether the Valk was ever fully fixed: no. New clamp jaw in; the flank panel still dented a finger deep (cold-beating from behind, hours overhead; his hip is fine now), then sealant and paint (~a day); rocket pods empty. Dace's queue: hull plate (morning), medals (~a day), the Valk panel (~a day), Kell's shield arm, Shameholder's teeth.
-- ~2230: Tamsin: 'We have time. I'll try and get some rockets at the mart across from the asteroid (Vashti's Rock)... After the medals we can fix the ship, then the Valk.' Dace: medals first, then the hull plate (he'll tell Ferro the plate waits), then the Valk panel. Tamsin went up out of the workshop; awake ~6 h since waking ~1640 after 8 h sleep.
-- ~2232-2300: Tamsin took a sheet of flimsy from his cabin; asked for the whole haul and every kit (OOC); then went down to the hold and pulled his picks from the containers (listed in Current state). Brenner's Accatran has the hot-shot conversion too (the player).
-- ~2300-2315: Tamsin wrote his note ('ADDITIONS TO KIT OR SWAPS - ROOK') and pulled the rest of the gear (Current state, Full kit).
-- ~2320-2325: the note pinned on the galley wall (galley empty, lumen left on; d20 11); Tamsin to his cabin to start on schematics.
-- ~2325-2355: Tamsin drew schematic 1, Dace's autopistol (Current state).
-- **Late reps (~2200-0021), tallied ~0021 day 35:** Tamsin CHA +0.1 (the deep talk with Dace), WIS +0.3 (3 orders: the medal job, the order of work, the kit note counted as one), INT +0.1 (~1 h on the schematic); Dace INT +0.2 (~2 h more forge work).
-- ~2355-0020 (into day 35): Tamsin added top and bottom rails and a rapid feeder, and detailed every part and its function on the schematic.
-- ~0022 day 35: schematic 1 put away in his desk drawer; a fresh sheet out. Schematic 2: Hollis's hand flamer (~0023-0100; Current state).
+- **Day 34 is all in the book** (Chapters 109-110 cover ~2200-0021). Day 34's tally and its late reps are done.
+- ~0022 day 35: schematic 1 (Dace's autopistol) put away in his desk drawer; a fresh sheet out. ~0023-0101: schematic 2, Hollis's hand flamer (Current state).
 
 ### What the Light knows about Thask
 

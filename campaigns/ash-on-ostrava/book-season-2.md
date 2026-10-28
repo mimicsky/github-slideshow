@@ -31872,6 +31872,436 @@ sat behind their doors. In the cargo cage in the hold, the three men of the 6th 
 their chains. And in the medicae, under the low night lumens, Joren slept, and so did the
 girl.
 
+
+## Chapter 109: Shield and Blade
+
+At 2205 Tamsin went to find the girl.
+
+The medicae was dim, lit only by the low blue night lumens, and the machines hummed
+softly. Sallow had finally gone to her bunk. In the far cot Joren slept on his back, and
+his breathing was slow and steady now, without the rattle.
+
+The girl was in the cot by the wall, curled on her side under a grey ship's blanket, with
+her long dark hair spread across the pillow. She still wore the white nightdress from the
+painted room. One thin arm hung over the edge of the cot, and in the blue light the inside
+of her elbow showed the old pinpricks and the newer bruises.
+
+On the deck below her hand, where it had slipped from her fingers, lay the slate Sallow
+had given her.
+
+She had drawn on it in careful, wobbly lines. There was the Valkyrie, too big, and in
+front of it a row of little grey-and-white figures, each one with a gun. One of them was
+drawn bigger than the rest. Above them all, in the corner of the slate, was a big round
+circle with lines coming off it, coloured in as hard as the stylus would go. Under it, in
+a child's careful hand, she had written:
+
+*the sun?*
+
+She had never seen it.
+
+She breathed softly, and she did not stir. Nobody else in the medicae was awake. Tamsin
+still did not know her name.
+
+---
+
+Then he went to find Dace.
+
+The workshop was the only bright room on the ship. A single work lamp burned over the
+bench, and the forge in the corner was banked down to a low red glow.
+
+Dace was on his knees on the deck in his apron, with the five sheets of Voke's plasteel
+laid out round him like the pages of a book. He was drawing on the top one in chalk:
+outlines, measurements, arrows. Half of Tavi's dismantled detonator sat forgotten on the
+bench behind him. There was chalk on his face and on his hands, and somehow in his hair,
+and he was muttering to himself as he worked.
+
+"...shield arm for Kell, that's one sheet, maybe less... Corvane's plate's cracked on the
+left, that's a patch... and if I'm careful, the offcuts..."
+
+He heard Tamsin's step in the hatch and looked up, blinking against the lamp. Then he
+scrambled to his feet and nearly trod on his own drawing.
+
+"Sir! Sorry, I know, I should be asleep." He waved a hand helplessly at the plasteel. "I
+couldn't. Not with *this* sitting here. Five sheets, sir. I've never had five sheets of
+anything."
+
+He wiped his hands on his apron, which only spread the chalk further, and waited. It was
+2210.
+
+"I'd figure you'd get right to that," said Tamsin. "It's fine. I have a job for you
+anyway. And a talk... Which first?"
+
+Dace hesitated, and Tamsin could see him weighing it. A job was easy; he had never once
+said no to a job. But a talk, from Tamsin, at ten at night, made his shoulders go a little
+tight.
+
+"...The talk first, sir. If it's bad, I'd rather know before I pick up a hammer." He gave
+a nervous half-smile. "I don't hit straight when I'm worrying."
+
+He pulled a stool out from under the bench for Tamsin, and perched on an upturned crate
+himself, with his chalky hands clasped between his knees, and looked up at him.
+
+---
+
+"It's not bad, Dace," said Tamsin. "It's more of a request. I know that you're the
+Protector, and you stood in front when we needed you to. I want to see you as sword and
+shield, not just shield... But I also understand you can only protect people if you stand
+by them. So I ask you this as a compromise. I want you to stand close on the team, as a
+shield... but when we rush, I want to see the sword in you come out. I'm sure Promise
+wants you to do so as well."
+
+Dace went quiet. His eyes drifted to the wall above the bench, where Promise Holder hung
+in its scabbard: the plasteel blade he had forged himself, the one that never dulled. It
+hung right where he could see it from the forge.
+
+"...Shield and blade," he said, barely above a whisper. "That's what I said at Drel's
+forge, sir. The day you put the collar on me. 'Shield and blade. That's me.'"
+
+He looked down at his chalky hands.
+
+"I've been holding the blade back. I know I have." It came out slowly, as if it hurt.
+"When I hold the shield up, I'm keeping someone alive. That's the opposite of the door on
+Cadia. That's... clean." He swallowed. "When I swing, I remember who I was. The Open Gate.
+What I did for them."
+
+Then he looked back up, and something settled in his face.
+
+"But you're right. A shield that only stands there just lets the enemy pick their moment."
+
+He got up, crossed to the wall, and put his hand flat against Promise Holder's scabbard.
+
+"When the Light rushes, I'll draw her and go. Shield up front, blade behind it." There was
+the ghost of a smile. "She's been sulking in that scabbard all week anyway. Ferro says
+so."
+
+He turned back, steadier.
+
+"Thank you, sir. For saying it plain." A beat. "...And the job?"
+
+It was 2215.
+
+---
+
+"Well, you know of the honours that I gave out," said Tamsin. "I need you to make small
+medals out of plasteel. Circle cut-outs, with designated engravings in them."
+
+He went through them one by one. The first two would have a bullet engraved inside the
+circle, a rectangle with a curve at the top: one for the Light's Most Valuable Shooter,
+and one for its Second, Varga's and Isk's. A thick cross for Most Valuable Support and
+Second Most Valuable Support, Sallow's and Brenner's. A crosshair in a scope for Most
+Valuable Recon, which was Isk's again. A fortress wall, with crenels along the top, for
+Morcant, the Most Valuable Heavy. A hood with a knife beneath it for Nessa, Most Valuable
+Assassin. Two with a bird, one for Mira, Most Valuable Flyer, and one for Teo, the Second.
+And two more with a blade and a gun crossing, one from the left and one from the right,
+for the Light's Most Valuable Frontline Warrior and its Second, Kell and Corvane. Each
+title would go on in letters, and right below it, on every one of them, *For the Light*.
+And there would be a ring on the top of each circle, so they could hang it on a gun for a
+charm, or wear it on their person.
+
+Dace listened without moving. He counted on his thick fingers as Tamsin went: bullet,
+bullet, cross, cross, scope, wall, hood, bird, bird, blade-and-gun, blade-and-gun.
+
+"Eleven," he said.
+
+He pulled an offcut out from under the shield-arm sheet and chalked a circle on it, about
+the width of two fingers, and then a small loop on top for the ring. He tilted it toward
+the lamp.
+
+"Picture in the middle. Title under it. *For the Light* under that." He tapped the chalk
+on it. "Small letters. Need the fine burin. Got one."
+
+He set the offcut aside with care, as if it were already finished. Then he laid the steel
+rule across one of the sheets, chalked a cross to split off a quarter of it, and fitted
+four circles into the quarter, edge to edge.
+
+"Four to a quarter," he muttered. "Three quarters. One spare."
+
+He chalked the rest in. Twelve circles sat in rows of four, each with its small loop on
+top.
+
+"Hull plate first, morning. Then these. Done tomorrow night."
+
+He looked at Tamsin, and then away, turning the chalk over between his thick fingers.
+
+"...You hand them out. Not me."
+
+"Of course," said Tamsin. "Just have it done quietly."
+
+Dace let out a breath, as if a weight had just come off him, and nodded once.
+
+"Quiet. Nobody sees till you do."
+
+He slid the chalked sheet under the shield-arm plans so the circles were hidden. Then he
+picked up Kell's boarding shield, turned it to the lamp, and laid it face down on the
+bench with a strap across it. A stub of chalk went behind his ear. He measured the strap
+against the plans for Kell's arm with two fingers, frowned, and marked it again. The
+hidden sheet of circles showed under the shield-arm drawings by one curled corner, and
+nothing more.
+
+The workshop smelled of cutting oil and cold metal, and the little forge, banked low,
+ticked as it cooled. Somewhere above them a bunk creaked, and then the ship went still
+again. Through the deck came the faint hum of the *Bright Light* drawing power from berth
+12's coupling. Down the corridor the galley lumen was the only other light still on.
+
+Dace glanced up without lifting his head, and the corner of his mouth tipped up.
+
+"Hull plate's early, brother. Ferro'll want both of us at six." He tapped the strap.
+"This'll keep. You won't."
+
+He went back to his chalk.
+
+"Did we ever fix the Valk fully?" said Tamsin. "We need to do that soon."
+
+Dace stopped with the chalk halfway to the strap. He thought about it honestly, and Tamsin
+could see him running down a list in his head.
+
+"No. Not fully."
+
+He set the chalk down and counted it off on the bench with one thick finger.
+
+"Jaw's in. Ferro fitted the new clamp jaw, she holds fine. But the flank panel's still
+dented. A finger deep." He held up the finger to show it, as if Tamsin might have
+forgotten how deep a finger was. "Ferro's way is cold. Beat it from behind, edge to the
+middle, hammer over my head for hours. I couldn't stand that long with the hip." He
+slapped his hip, hard, and grinned. "Can now."
+
+A second finger.
+
+"Then sealant. Then paint, or Mira cries. She won't say she cries."
+
+A third.
+
+"And the pods are empty, brother. Both. Nothing in them since we got her. That's not a
+hammer job. That's buying."
+
+He looked along the bench at the shield, at the hidden sheet of circles and the chalked
+plans for Kell's arm, and worked it out slowly.
+
+"Hull plate's the morning. Medals are a day. The panel's a day. Kell's arm and the boss's
+teeth after." He meant Shameholder's spare teeth, still to be cast new in plasteel. He
+scratched the back of his neck. "I can do the Valk before the medals, if you want her
+flying right first. Your call."
+
+He waited, chalk in hand.
+
+"We have time," said Tamsin. "I'll try and get some rockets on the asteroid across from
+the Mart... After the medals we can fix the ship, then the Valk."
+
+Dace nodded slowly, turning it over.
+
+"Medals first. Then the plate. Then the Valk." He picked the chalk back up. "I'll tell
+Ferro the plate waits. He'll say the plate doesn't like waiting." He gave a small shrug.
+"Plates don't like anything."
+
+He was already bent back over Kell's strap when Tamsin went.
+
+
+## Chapter 110: No Arguing
+
+Tamsin climbed the narrow stair up out of the workshop. The forge's warmth fell away
+behind him after a few steps. The corridor air was cool, and it smelled of recaf and gun
+oil and the faint dry tang of the ship's scrubbers, and the deck plates were cold through
+his boots. The chrono set into the bulkhead by the stairhead glowed a dull amber.
+
+It was 2231.
+
+He was not tired. He had slept through the day, eight hours of it, and he had been up only
+about six. His eyes were clear and his head was sharp. What he felt was the night before.
+There was a dull ache in his right shoulder, where he had driven it into Dagan Crale's
+chest, and the knuckles of his left hand were stiff and tender from the hook that had
+followed. His legs carried the slow heaviness of a long night's fighting, but nothing that
+wanted a bunk yet.
+
+The ship was quiet. Up the corridor the bunk room's door was shut, and behind it someone
+snored in long, steady pulls. The galley lumen spilled yellow across the deck at the far
+end. Below him, faintly, Dace's chalk scratched on.
+
+---
+
+He went to his cabin.
+
+The door slid shut behind him, and the corridor's cool gave way to the close, familiar
+smell of his own space: gun oil, old paper, and the faint copper tang of the coin box in
+its corner. The desk lumen flickered on at his touch. Ada's letters still sat tied in
+their string beside the hangar clipboard. In the desk's flat drawer, under his warrant
+chain and a spare las pack, there was a short stack of clean flimsy and a stylus. He took
+out a sheet and laid it flat on the desk, its white edge bright under the lamp.
+
+Then he took it down to the hold.
+
+The hold was cold and dim. Only the night lumens burned, two caged bulbs throwing hard
+yellow circles on the deck. The two containers stood side by side under them with their
+doors chained open, and inside them Oda and Pruitt's work showed: the guns racked by type,
+the armour stacked and tagged in Oda's small neat chalk, the blades bundled in canvas, the
+crates labelled down their sides. Oda's counting slate hung on a hook by the first
+container's door, with a stub of chalk tied to it on a string.
+
+It took Tamsin the better part of half an hour to find everything he wanted. The mesh
+armour from the vox mast, light and quiet. Two leathers, and the dark rags. A toxin
+needle-blade. The power knife from the scrubber hall. A sawn-off, and an autopistol. A
+Rashad combat axe and two chain knives. Two gas masks. A silenced stub pistol. Two of the
+stolen Arbites shock batons. The stolen Ryza plasma pistol.
+
+The heavy carapace off the customs house bodyguard was the worst of it: a dead weight of
+plate that he had to drag out from under the flak sets and lay down in pieces. The
+multi-laser came out of its long crate heavier than it looked, with its power pack seated
+and its six barrels cold.
+
+By the end he had it all piled on a crate by container 1: plate and leather and rags, the
+bundle of blades, the pistols laid in a row, the two batons crossed on top, and the plasma
+pistol on its own at the end, its cell window glowing a faint, sullen blue.
+
+Across the hold, behind the bars of the cargo cage, the three men of the 6th lay in their
+chains. Two of them were still, breathing wet and slow. The third, the leg-shot trooper,
+was awake. He had been watching Tamsin from the dark the whole time, and he had not said a
+word.
+
+It was a little after 2300.
+
+---
+
+Tamsin wrote on the crate, with the flimsy laid flat on a plate of the heavy carapace and
+the stylus scratching loud in the quiet hold. The heading went down in hard capitals. Then
+the names, one by one, each with its gear beside it.
+
+> **ADDITIONS TO KIT OR SWAPS - ROOK**
+>
+> NESSA: The mesh armour, two leathers and the dark rags. A toxin needle-blade.
+> VARGA: SWAP shovel for power knife (NO ARGUING). And a sawn-off.
+> DACE: Heavy carapace and autopistol.
+> TAVI: Rashad combat axe.
+> TEY: Gas mask, two chain knives (LEARN HOW TO DUAL WIELD).
+> BRENNER: Mono-knife, auspex rig.
+> SOREL: Stub pistol, shock baton, gas mask.
+> MORCANT: Multi-laser (OFF WEAPON, you can keep the stubber).
+> FERRO: Ryza plasma pistol, shock baton.
+> SALLOW: Needle-blade (swap the fluid if you want) and whatever meds you want to take.
+> ISK: Mezoa long-las (OFF WEAPON) and a jump pack.
+> CORV: Two choke gas, combat shotgun (OFF WEAPON).
+> PENITENTS: CARAPACE OVER FLAK (OLLIN, UPDATE THEIR KITS).
+> EVERYONE ELSE: IF YOUR GUN IS DIRTY OR BROKEN OR IS JUNK SCRAP, HAVE IT FIXED OR
+> REDESIGNED.
+> ALL OF YOU BRING ME ONE OF YOUR WEAPONS, NEW OR OLD, SO I CAN MAKE A NEW DESIGN
+> SCHEMATIC FOR IT.
+
+He underlined NO ARGUING twice.
+
+An off weapon was one to swap in or out, depending on the job or on what its owner wanted.
+Nobody was to haul both into a fight.
+
+Then he went back into the containers for the rest. The mono-knife was bundled in canvas
+with the other blades, its edge so fine that it caught the lumen as a thin line of light.
+The auspex rig sat in its harness in a crate, the wrist readout dark. The Mezoa long-las
+lay long and slim in its rack, with kill marks scratched into the stock by someone who was
+not coming back for it. The Guard jump pack was the ugliest thing there, dented along one
+side, with one suspensor plate bent and its exhaust scorched black. It would not fly until
+it was fixed, and the note's last lines covered that. He added the combat shotgun, two
+choke gas grenades, and two sound Gate Guard carapace sets for the penitents. By the end
+the pile on the crate had doubled.
+
+The note sat on top of it, with the last line in big letters across the bottom.
+
+From the cage, the leg-shot trooper of the 6th had watched all of it. His eyes followed
+the stylus as Tamsin set it down.
+
+It was about 2315.
+
+---
+
+At 2320 Tamsin took the note up to the galley.
+
+The galley was empty. The night lumen over the serving counter had been left burning, and
+it threw a tired yellow pool across the long table, the benches pushed in crooked, and a
+stack of rinsed tins drying on the rack. It smelled of the evening's stew and cold recaf.
+He pinned the note to the wall by the hatch, beside the training rota and the chalked
+scoreboard, where nobody could walk in for breakfast without seeing it. The flimsy hung a
+little crooked, and NO ARGUING sat right at eye height.
+
+---
+
+Then he went back to his cabin to start on the schematics. The desk lumen was still on. He
+cleared a space: Ada's letters and the hangar clipboard pushed to one side, the warrant
+chain coiled on the shelf. A fresh stack of flimsy, the stylus, a steel rule out of the
+drawer. Through the bulkhead the ship hummed low on berth 12's coupling, and very faintly,
+from somewhere below, came the tap of Dace's hammer.
+
+The first sheet lay blank and white under the lamp. It was 2325.
+
+He began with Dace's autopistol.
+
+He had looked it over when he pulled it from the rack. It had been the ugliest of the row:
+a stubby, boxy autopistol of common Munitorum pattern, from the customs house, a
+gardener's gun. It had a squared steel frame, a short barrel under a vented shroud, and
+the box magazine seated in the grip. Somebody had owned it hard and never loved it. The
+bluing was long gone, and the slide was dull grey metal, pitted with rust along the edges
+where sweaty hands had held it. A strip of cloth was wound tight round the grip and
+knotted at the base. It might once have been green, but it was stiff now and darkened with
+old grease, and it gave a little under the thumb. The ejection port was crusted with black
+fouling, and the selector moved stiffly, gritting in its notch. The gun carried a faint,
+sour-sweet smell, the same as the customs house: the smell of the garden. It still worked
+the action when he racked it, just barely, and not quietly.
+
+It was down in the hold now, in the pile for Dace, with the heavy carapace.
+
+What Tamsin drew was a clean pistol. He drew it slowly, the way Ottrick had taught the
+Light to: the side view first, then the top, then each part pulled out and drawn on its
+own, with its measurements beside it.
+
+The frame came out squared and clean. The grip went down tall and thick, a heavy tower of
+a thing that filled the whole hand, built in to fight the recoil, with a palm swell and
+deep finger grooves cut to take a shooter's weight. Under the magwell he sketched a round
+drum to hold a great many rounds, a fat housing with a winding key on its face. He gave it
+a new slide, a light one, with lightening cuts down both sides, long slots that would let
+it snap back and forward faster than any gardener's gun ever had, so that the rounds came
+out faster, and more of them at a time. A faster slide would make the gun climb in the
+hand, and the tower grip was there to soak that. He drew a new selector large in its own
+box, with three positions and a safety catch that locked the trigger bar.
+
+It had to look clean: no rust, no grease, no green rag, no grit, no dirt, nothing. Down
+the margin, in block capitals, he wrote: *NO RUST. NO GREASE. CLEAN. DACE PAINTS IT.*
+
+When he sat back, his shoulder twinged where it had met Crale. The chrono on the bulkhead
+read 2355. The drawing lay finished under the lamp, its edges weighted down with the steel
+rule and an empty mug.
+
+---
+
+He looked at it for a while. Then he pulled a second sheet across and started again round
+the frame, adding.
+
+He put a rail on the top and a rail on the bottom, for attachments, and in the body a
+rapid feeder of his own making, for still more rounds at a time. And this time he detailed
+all of it: every part drawn, and beside each one, what it was for.
+
+*THE FRAME.* A long flat rail along the top of the slide housing, slotted every finger's
+width: *OPTIC MOUNT.* A matching rail along the underside of the frame, forward of the
+trigger guard: *UNDER-BARREL MOUNT: LUMEN / LASER.* Both were cut into the frame itself,
+not bolted on, so that nothing would work loose under fire.
+
+*THE RAPID FEEDER.* This one he drew twice, once whole and once opened up. A spring-driven
+star wheel sat inside the body, just behind the magwell. It stripped rounds off the drum
+and pushed them up into the feed lips faster than a box magazine's spring ever could, so
+the lightened slide would never wait for a round. Beside it, in small capitals: *PAWLS
+FROM THE SCRAP DRUM GUN. TENSION ADJUSTED BY HAND.*
+
+*THE SLIDE.* Lightening cuts down both sides. *FASTER BACK, FASTER HOME.*
+
+*THE TOWER GRIP.* A palm swell, finger grooves, and a weighted base to hold the muzzle
+down. *ALL THE KICK GOES INTO THE HAND. THE BARREL STAYS LEVEL.*
+
+*THE DRUM.* A round housing with a winding key, seated under the magwell. *TWICE A BOX.
+DOES NOT FIT A FAST HOLSTER.*
+
+*THE SELECTOR.* A thumb lever with three marked stops: *SAFE · BURST · AUTO.* And beside
+AUTO, underlined: *SHORT BURSTS OR SHE CHOKES.*
+
+*THE FINISH.* *CLEAN METAL. NO RUST. NO GREASE. DACE PAINTS IT.*
+
+When he set the stylus down, the drawings covered both sheets, every part labelled, with
+arrows running from each piece to its job.
+
+The chrono on the bulkhead had turned over into the next day. It was 0021.
+
 # Appendix: Session notes
 
 ### Session 8 (Season Two, mission 1: Ustrennos)
