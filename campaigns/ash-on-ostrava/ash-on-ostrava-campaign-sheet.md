@@ -39,6 +39,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~2205: Tamsin found the girl asleep in the medicae (Sallow gone to bed); her slate drawing: the Valkyrie, the Light in a row, one figure bigger, and a coloured-in circle: 'the sun?'. Her name still not asked.
 - ~2210-2215: Dace still up in the workshop with the five plasteel sheets chalked with plans (Kell's shield arm, a patch for Corvane's plate, the offcuts). **Tamsin's talk: shield and sword: Dace stays close as the shield, and when the Light rush, Promise Holder comes out** (he'd been holding the blade back: swinging reminds him of the Open Gate). Tamsin also has a job for him: **the eleven honour medals** (see Open jobs).
 - ~2215-2220: Tamsin gave Dace the medal job (11 medals; 4 to a quarter sheet, so 3/4 of a sheet, 12 blanks, 1 spare). Dace: hull plate first in the morning, then the bench; done tomorrow night. "...You hand them out. Not me." Tamsin (~2220): "Of course, just have it done quietly" (Tamsin hands them out; Dace keeps the job to himself).
+- ~2225: Tamsin asked Dace whether the Valk was ever fully fixed: no. New clamp jaw in; the flank panel still dented a finger deep (cold-beating from behind, hours overhead; his hip is fine now), then sealant and paint (~a day); rocket pods empty. Dace's queue: hull plate (morning), medals (~a day), the Valk panel (~a day), Kell's shield arm, Shameholder's teeth.
 
 ### What the Light knows about Thask
 
