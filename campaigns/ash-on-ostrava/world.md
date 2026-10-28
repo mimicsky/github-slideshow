@@ -26,6 +26,8 @@ People, places, the ship, Kesh's targets and mission briefs. **Not read on resum
 
 ## The Light: who they are (bios)
 
+**Personality and voice entries (set with the player, day 34)** sit under each person. **"Newer character, still developing"** (the player's rule): try new things with that person's personality in play; if it gets a reaction from the player or it sticks, keep it and write it into their entry.
+
 - **Sergeant Kell** (storm trooper sergeant, 41, ex-Tempestus Scion, nine years
   with the Ordos). Tamsin's "brother"; their fist-bump handshake. Hellgun
   **Officer** (named by Tamsin): bracket straightened, Ottrick's tube stock,
@@ -79,6 +81,9 @@ People, places, the ship, Kesh's targets and mission briefs. **Not read on resum
 - **Sorel** (Light-bringer, tracker; set with the player, day 34; the book says 'in his forties': age rolled 39 + d10 8). **47.** Tall and lean, pale, ice-blue eyes, frostbite-scarred ears, a neat grey moustache, a quiet Valhallan burr. Valhallan; ten years in the Guard (the 49th), two years of underhive clearance on Tarsus Secundus; took a station posting on Ustrennos to see out his time; Watch-Captain Merrick gave him to the Light ("If you took him, I'd miss him."). Made a full Light-bringer day 34. Beat Kell 5-3 on the mat (day 19).
   **Personality:** **a newer face; his personality is still developing in play.** Quiet, slow and honest; doesn't boast ("I'm no hero, Interrogator. But I don't get lost, and I don't panic."). A hunter: tracks, breath, weight; the notches on his lasgun stock are the men he found. Watchful: back to the wall, door in view; notices what others miss ("That's a runner." / "I didn't hear her land."). Steady as a bulkhead; knows how a hive breathes. **Takes compliments with pride.** **Close with Tey.** A patient coach, never unkind ("That's the whole point, kid." / "Free hand's a weapon too."). Sly in the "Bang" games ("Bang. Snipers never look *up* indoors.").
   **How he talks:** calls Tamsin "sir", "boss" on the bead; Kell "Sergeant"; the young ones "lad" or "kid". Few words, low and plain ("Reporting, sir." / "We've got him, boss. Go."). Practical facts from experience ("Air recycler. Lane two draws left."). Dry, small humour, said quietly.
+- **Tey** (Light-bringer, gunslinger; set with the player, day 34; age rolled 18 + d4 2). **Corran Tey, 20.** A watchman under Merrick on Ustrennos who signed the pass that let the poisoner past her door; begged for a chance to make it right and asked for "the worst job on your ship". At Tamsin's side from day 16; a full Light-bringer day 34. Merrick: "Green, and careless, and he'll get himself killed doing something brave and stupid."
+  **Personality:** **a newer face, still developing in play.** **Looks up to Tamsin and follows him into the fire.** Eager and earnest; salutes more enthusiastic than correct ("Me, boss!"). Wants to be the man who goes toward trouble ("Not the kind who signs a pass and goes back to his chair."). **Doesn't like the dark side of the world:** looks away or turns his back at executions. Excitable when he does well ("I put a man on a catwalk floor, sir! Forty metres up!" / "I SAW IT!"). Flustered and caught out easily ("Nowhere," instantly, much too fast; goes red, says sorry fast). Jumpy around Kell and Varga ("Yes, Sergeant," instantly; Varga calls him "grox calf"). Loves his hellpistol and talks to it ("Hear that?"). Pistol focus growing (the old flinch was a long trigger pull). Close with Sorel. Owes Osk a match.
+  **How he talks:** calls Tamsin "sir", sometimes "boss"; Kell "Sergeant". Quick, breathless, eager. Sincere thank-yous ("Thank you, sir."). A little cheeky once comfortable ("You'll owe us, sir. I'm writing it down.").
 
 ## NPCs
 
