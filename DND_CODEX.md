@@ -893,7 +893,7 @@ game-breaking.
 | 9 | Brave | +1 against fear, intimidation and break checks |
 | 10 | Lucky | Once a mission, reroll a natural 1 |
 | 11 | Night owl | No penalty for short sleep; +1 on night watches |
-| 12 | Organised | Always carries one extra of a small thing (a grenade, a pack, a stimm) |
+| 12 | Organised | **Once a fight, a reload costs no beat** (everything sits where the hand goes), and always carries one extra of a small thing (a grenade, a pack, a stimm) |
 | 13 | Fast learner | +0.1 extra for every 10 hours of training |
 | 14 | Inconspicuous | +1 on stealth and blending into a crowd |
 | 15 | Light on their feet | +1 when dodging |
