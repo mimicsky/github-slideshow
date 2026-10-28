@@ -40,7 +40,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 Safety-net notes, one line per big scene, deleted once the day's chapter is written (README, End of every in-game day).
 
 - **Day 34 is all in the book** (Chapters 109-110 cover ~2200-0021). Day 34's tally and its late reps are done.
-- ~0022 day 35: schematic 1 (Dace's autopistol) put away in his desk drawer; a fresh sheet out. ~0023-0101: schematic 2, Hollis's hand flamer (Current state). ~0102: schematic 2 into the drawer; a third sheet out.
+- ~0022 day 35: schematic 1 (Dace's autopistol) put away in his desk drawer; a fresh sheet out. ~0023-0101: schematic 2, Hollis's hand flamer (Current state). ~0102: schematic 2 into the drawer; a third sheet out. Schematic 3: Morcant's heavy stubber (started ~0103).
 
 ### What the Light knows about Thask
 
