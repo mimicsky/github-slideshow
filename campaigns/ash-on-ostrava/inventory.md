@@ -78,7 +78,7 @@ The Light's container, Container 2 and the hold, all together (what isn't carrie
   blessing; his own 2 in his blade), **1 ceramite**, 1 servo-motor, **1 machine-core** (Merrick, day 31), a seized Rattler scrap SMG (day 29, needs a smith), ~18 station power cells, copper
   cable, 1 flask of sacred oil, the rim gun's firing coupling, the refractor field (Tamsin wears it).
 - **Valuables:** 8 bottles of spire amasec (Nessa's was paid day 25), 2 cases of spire wine (one bottle short), 2 tins of
-  off-world spice. **Coin box: 25,528 Thrones** (in Tamsin's cabin; day 34's 10,276 unloaded ~0615, incl. Voke's 8,000; day 33's 12,622 unloaded ~1825, incl. Thask's strongbox).
+  off-world spice. **Coin box: 25,218 Thrones** (in Tamsin's cabin; -310 for berth 12's docking arm and the dockmaster; day 34's 10,276 unloaded ~0615, incl. Voke's 8,000; day 33's 12,622 unloaded ~1825, incl. Thask's strongbox).
 - **Trophies:** the Gate Guard regimental standard.
 - **Supplies:** the *Widow*'s 12 crates; (the *Kestrel's Due*'s 7 crates were opened and sorted on day 13).
 - **For Kesh (locked):** the FOR KESH box (Selk's register, the Gardener's letters, SICK ON FOUR list, the hollow
