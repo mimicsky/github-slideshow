@@ -30,7 +30,7 @@ People, places, the ship, Kesh's targets and mission briefs. **Not read on resum
   with the Ordos). Tamsin's "brother"; their fist-bump handshake. Hellgun
   **Officer** (named by Tamsin): bracket straightened, Ottrick's tube stock,
   Dace's fore-grip stamped K. Schola fighting knife. **Tessaly's plasma pistol** (given by Tamsin, warp day 1 to the Rest) with its 4-shot cell and a full spare cell. Ordered Tamsin: "Bring them
-  back. All of you." Won the chain axe at rock-paper-scissors.
+  back. All of you." Won the chain axe at rock-paper-scissors. **Named Most Valuable Frontline Warrior (MVFW) by Tamsin, day 34.**
 - **Varga** (storm trooper). Left-handed, dry, protective. Hellgun **Mercy**
   (last bearer died dragging a man out of crossfire on Hesk; his red cloth is on
   the stock) with Tamsin's tap-button refit and Ferro's gun-link port (day 30). Carries Corvane's laspistol and a
