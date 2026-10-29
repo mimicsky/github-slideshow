@@ -357,6 +357,13 @@ out and the bearer is watching it, nobody with a heartbeat inside ~30 m can surp
 he's calling for.** **Blind** to anything without a heartbeat (servitors, machines, daemons, the walking
 dead). **Tell:** the screen glows; in the dark it lights the bearer's face (fold it in to go dark).
 
+### Blacklight tracking visor
+
+**Blacklight tracking visor** (rare, ~4 TV; player design, Ash on Ostrava day 35). A clear visor of auspex
+parts that fits a helm and throws a blacklight scan over a ~10 m cone. Fresh prints, blood, sweat and
+handmarks glow: **+2 on tracking and on finding traces in the scanned area.** **Tell:** the emitter glows
+faint violet in the dark.
+
 ### Ergo grip sleeve
 
 **Ergo grip sleeve** (common, 0.25 TV). A flexible, ribbed plastek sleeve that slides over
