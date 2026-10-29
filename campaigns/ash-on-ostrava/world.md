@@ -176,7 +176,7 @@ People, places, the ship, Kesh's targets and mission briefs. **Not read on resum
 | **Sergeant Malk Dresh, 'the Gate Captain'** | Nurgle cult leader among the Gate Guard | **Dead**, with his seed |
 | **Orlen Thask** | Cult broker, Torvane's Mart, Low Quay ('Thask & Daughters, Bonded Carriers'), 'speaks for the gardeners'. Nessa's old employer | **Taken alive by Tamsin at berth 31, day 33 ~1553** (bound; surrendered at the Bloom's door). Kesh wanted him alive |
 | **Ilsabet Thask** | Thask's daughter, keeps the books at berth 31; about thirty, spectacles, ink-stained fingers. Burned the newest ledgers before the Light got in | **Taken by Tamsin in the counting room, day 33 ~1600**; in the *Bright Light*'s cells. Asked only whether her sister is alive |
-| **'The Bloom'** (she/her) | Thask's youngest daughter, about to turn twelve at the Harvest Lamps (~day 55). Born kept in a windowless room painted like a garden; never sick a day; her arms scarred from years of blood draws (Thask's notebook: her blood shipped 'with the Tender'). A girl, not a thing | **Taken day 33 ~1555**; in Sallow's care in the *Bright Light*'s medicae. Her name not yet asked |
+| **'The Bloom'** (she/her) | Thask's youngest daughter, about to turn twelve at the Harvest Lamps (~day 55). Born kept in a windowless room painted like a garden; never sick a day; her arms scarred from years of blood draws (Thask's notebook: her blood shipped 'with the Tender'). A girl, not a thing | **Taken day 33 ~1555**; in Sallow's care in the *Bright Light*'s medicae. **Her name: Maren** (told to Sallow, day 35) |
 
 ### New crew, Season Two (session 8, rolled openly)
 

@@ -336,6 +336,7 @@
 - **Faction wealth:** Mart cultists **Good** (74), rolled day 31.
 - **Nemeses this mission:** **Kessick Vay rolled 18: he appears this mission.** Hessler rolled 15: not this time; he grows stronger (better gear or more followers). Details under "Nemeses".
 - **Harvest Lamps (~day 55):** the Bloom turns twelve. What "the garden opens" means is not set yet; let it follow the story.
+- **Set day 36 (the leg-shot trooper of the 6th, broken a little by Tamsin's Intimidation 13+5 = 18 vs 17, narrow):** **the Mart was meant to be the 6th's port**: air plant, vox mast and customs house are what a regiment takes to hold a harbour; Gallowmere's grain passes through the Mart's customs to the sector, and the girl was to be shipped from there to the garden-world before the Lamps. **'You took a port. The garden has others.'** (Which other ports: not set.) The Light now knows this.
 
 ## Index
 
