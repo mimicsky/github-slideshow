@@ -996,7 +996,7 @@ in the math (`14 + 4 DEX + 2 aimed rifle + 3 eye + 2 order + 2 surprise - 1 airb
 5. **Gear:** every attachment by slot (barrel, optic, trigger, stock, grip, muzzle, magazine,
    under-barrel) **and every eye** (shooting eye: targeter +3 aimed, rangefinder +2 past ~30 m, gun link:
    misses don't cost the chain's -1). **A gun's optic and a HUD eye's aim bonus stack**
-   (Varga: reflex sight +1 inside ~30 m, plus the eye's targeter +3). Weapon blessings, crit ranges, the gun's own
+   (Varga: reflex sight +2 inside ~30 m, plus the eye's targeter +3). Weapon blessings, crit ranges, the gun's own
    entry (string limit, armour it pierces, quirks).
 6. **The string:** **shot chain** (house rule 6: +2 after a first-shot hit, +1 after later hits, -1 after a
    miss; some guns differ: the heavy stubber has no hit bonuses), **swapping** (-1 for a different target than

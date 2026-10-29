@@ -76,7 +76,7 @@ stack**), airborne, gun condition and jams, pack sizes (hot-shot 30, las 45), re
 field, doses, drop-prone guns, going Down drops weapons.
 
 **6. Write each shooter's bonus line before rolling.** For everyone acting this beat:
-`Varga (Light-bringer, rifle/jumper), Mercy: +4 DEX +2 aimed rifle +3 eye +1 reflex sight (inside ~30 m) +2 order +2 surprise -1 airborne = +13`.
+`Varga (Light-bringer, rifle/jumper), Mercy: +4 DEX +2 aimed rifle +3 eye +2 reflex sight (inside ~30 m) +2 order +2 surprise -1 airborne = +14`.
 Then roll.
 
 **7. Resolve the beat in this order** (codex Part 6, A beat):
