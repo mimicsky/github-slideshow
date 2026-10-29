@@ -333,10 +333,17 @@ module** (uncommon, 2 TV): both in one housing; switch either on alone.
 
 ### Pistol reflex sight
 
-**Pistol reflex sight** (uncommon, 2 TV). A small glass window with a glowing dot. **+1 on
-aimed pistol shots within ~30 m** (not hip shots: that's the laser's job). **Stacks** with a HUD eye's
-aim bonus (changed by the player, Ash on Ostrava day 34). Fits a rifle too (Varga's Mercy): the same +1
+**Pistol reflex sight** (uncommon, 2 TV). A small glass window with a glowing dot. **+2 on
+aimed pistol shots within ~30 m** (raised from +1 by the player, Ash on Ostrava day 35, so it beats the holo
+up close) (not hip shots: that's the laser's job). **Stacks** with a HUD eye's
+aim bonus (changed by the player, Ash on Ostrava day 34). Fits a rifle too (Varga's Mercy): the same +2
 on aimed shots within ~30 m.
+
+### Holo sight
+
+**Holo sight** (uncommon, 2.5 TV; player design, Ash on Ostrava day 35). A squared window with a
+circle-and-dot reticle that floats at any distance. **+1 on aimed shots within ~50 m**: less than a reflex
+up close, but it reaches further. Fits a pistol or a rifle.
 
 ### Ergo grip sleeve
 
