@@ -92,7 +92,7 @@ Then roll.
   crits (a natural 20; Tamsin 19-20; Vigil 17-20 with heat). **Write each hidden number in the beat's notes.**
 - **Armour:** codex Part 8, **Armour** (shrugs or gets through; part-armour; crits always get through, but only one
   step against armour that would have shrugged it; wear-down: every 3 shrugged hits drop a step). Refractor field rolls.
-- **Melee:** codex house rule 5, **the exchange** (opposed rolls, block 1-2 higher, parry 3+, a raw 17+ can't be stopped;
+- **Melee:** codex house rule 5, **the exchange** (opposed rolls, block 1-2 higher, parry 3+, a raw 17+ can't be stopped; **resolve a chain swing by swing: a parry ENDS the chain** (no more swings that beat), a block lets it carry on;
   **chains**: light 3, medium and heavy 2, only a parry ends it; which stat; two weapons; shields).
 - Health steps, extra stages, Down (enemies d6 after the fight; the Light don't die from Down).
 
