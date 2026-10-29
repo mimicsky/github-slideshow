@@ -469,7 +469,7 @@ Standing preferences, set during play. They apply to every campaign.
 - **'Still up' board at the end of every fight beat** (set by the player, Ash on Ostrava session 10). After the scene's math, list every enemy still standing (tag, health, where, what they hold), the Down count, and the Light's hurt and key states (heat, ammo, hazards), so the player can plan the next beat.
 - **Narrate each roll line** (set by the player, Ash on Ostrava session 10). A math line says what happened in a few words, not just the numbers: *Kell (Light-bringer sergeant, assault) puts one round into Knife crank man: 16+7 = 23, it rips through him, badly hurt.* The full scene still follows.
 - **Dialogue as a script.** Speech is written in play format, one line per
-  speaker: `Kell (sergeant): line`. Action and description stay as prose
+  speaker: `Kell (sergeant): "line"` (speech inside quotation marks; the player, Ash on Ostrava day 36). Action and description stay as prose
   around it. Set by the player, session 4.
 - **Describe places in detail, for free,** when asked. Perception is only for
   hidden things. **No text maps;** a drawn picture of the space (a rendered image) is fine when the player asks. Set by the player, Ash on Ostrava session 6.
