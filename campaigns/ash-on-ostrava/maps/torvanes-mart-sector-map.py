@@ -1,4 +1,4 @@
-# Sector map of Torvane's Mart, day 35 ~0100 (end of day 34). The Light's knowledge only. North up, schematic (not to scale).
+# Sector map of Torvane's Mart, day 36 ~0600 (end of day 35). The Light's knowledge only. North up, schematic (not to scale).
 import sys, math, random
 out = sys.argv[1]
 random.seed(31)
@@ -243,7 +243,7 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{
 {ring}{ridge}{high}{low}{west}{scrub}{crash}{ship}{dist}
 {marks}{labels}{notes}
 <text x="24" y="50" class="tt">TORVANE'S MART</text>
-<text x="26" y="74" class="st">DAY 35 · ~0100 · WHAT THE LIGHT KNOWS</text>
+<text x="26" y="74" class="st">DAY 36 · ~0600 · WHAT THE LIGHT KNOWS</text>
 <text x="26" y="100" class="lt2" fill="#ff6b5a">THE MOEBIAN 6TH ARE BEHIND IT ALL</text>
 <text x="26" y="117" class="ls">a rotted Guard regiment · the jars, the girl, the plan</text>
 <text x="26" y="134" class="ls">~0445: all seven done. Thask, Crale, Wick, Tegg taken.</text>
