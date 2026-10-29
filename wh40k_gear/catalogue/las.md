@@ -119,3 +119,10 @@ pack heat; at 3 it vents for a beat. **Weak spot:** when the wearer is hit while
 heat is 2 or more, roll a d6: **1, it ruptures** (the wearer drops a step and the pack
 is destroyed); **2-6, it's damaged beyond use** (the pack is finished; the wearer is
 unhurt).
+
+## Extended las pack
+
+**Extended las pack** (uncommon, 0.75 TV; Munitorum, Free Traders; already in the roller's pools; entry
+written Ash on Ostrava day 35). A longer regular las pack: **60 shots instead of 45**, same punch. Fits
+anything that takes a regular las pack (lasguns, lascarbines, laspistols, the shotlas), as a slot pack or
+a belt pack for cable-fed guns. Recharges at a coupling like any las pack.

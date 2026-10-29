@@ -27,6 +27,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Lasgun, Krieg pattern (Mars-built)](las.md#lasgun-krieg-pattern-mars-built)
 - [Lasgun, Ryza Mechanicus cable pattern](las.md#lasgun-ryza-mechanicus-cable-pattern)
 - [Las backpack cell (Mechanicus pattern)](las.md#las-backpack-cell-mechanicus-pattern)
+- [Extended las pack](las.md#extended-las-pack)
 
 ## [Solid-shot and special guns (autoguns, shotguns, pistols, web, needle)](stub.md)
 

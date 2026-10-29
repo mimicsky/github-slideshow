@@ -323,10 +323,11 @@ its 13th straight round unless its bolt is fixed).
 
 ### Laser sight, under-mount lumen, or both
 
-**Laser sight** (uncommon, 1.5 TV): a red dot where the gun points. **+1 on every shot after a
-target swap within ~30 m** (the dot shows where the gun's pointing, so switching targets is easier; it
-cancels the swap's -1 there) (changed by the player, Ash on Ostrava day 35; was +1 on hip and snap shots
-within ~20 m). **Tell:** in smoke or dark the beam shows, and a sharp-eyed enemy
+**Laser sight** (uncommon, 1.5 TV): a red dot where the gun points. **+1 on hip shots within
+~20 m**, and **+1 on every shot after a target swap within ~30 m** (the dot shows where the gun's
+pointing, so switching targets is easier; it cancels the swap's -1 there). **Not both on one shot.**
+(Changed by the player, Ash on Ostrava day 35: the swap bonus replaced the old snap-shot half; the hip
+half stays.) **Tell:** in smoke or dark the beam shows, and a sharp-eyed enemy
 sees the dot on him or the line back to you. **Under-mount lumen** (common, 0.5 TV): lights
 the target: **no darkness penalty on what's in the beam**, but you're lit up too. **Combo
 module** (uncommon, 2 TV): both in one housing; switch either on alone.
