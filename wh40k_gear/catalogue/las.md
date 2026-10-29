@@ -126,3 +126,9 @@ unhurt).
 written Ash on Ostrava day 35). A longer regular las pack: **60 shots instead of 45**, same punch. Fits
 anything that takes a regular las pack (lasguns, lascarbines, laspistols, the shotlas), as a slot pack or
 a belt pack for cable-fed guns. Recharges at a coupling like any las pack.
+
+## Extended hot-shot pack
+
+**Extended hot-shot pack** (uncommon, 1.5 TV; Munitorum, Free Traders; player pick, Ash on Ostrava day 35).
+A longer hot-shot pack: **40 shots instead of 30**, same punch. Fits anything that takes a hot-shot pack
+(hellguns, hellpistols, hot-shot conversions). A converted gun still drinks it twice as fast (~20 shots).

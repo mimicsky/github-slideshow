@@ -118,7 +118,7 @@ add("explosive","U","MBF",[("Air-frag 'blender' grenade (heavy shrapnel, 2-secon
 add("explosive","R","BF",[("Phosphex canister (forbidden)",15),("Shrapnel mine",3)])
 # --- Ammunition ---
 add("ammo","C","MBF",[("Las pack",0.25),("Stub/auto rounds (box)",0.5),("Shotgun shells (box)",0.5),("Heavy stubber belt",1)])
-add("ammo","U","MAF",[("Hot-shot pack (Guard)",1),("Hot-shot pack (Mechanicus pattern)",3),("Bolt rounds (10)",8),("Stubber drum magazine",1.5),("Man-stopper shells (box)",1),("Inferno shells (box)",2),("Extended las pack",0.75)])
+add("ammo","U","MAF",[("Hot-shot pack (Guard)",1),("Hot-shot pack (Mechanicus pattern)",3),("Bolt rounds (10)",8),("Stubber drum magazine",1.5),("Man-stopper shells (box)",1),("Inferno shells (box)",2),("Extended las pack",0.75),("Extended hot-shot pack",1.5)])
 add("ammo","R","MF",[("Kraken-pattern bolt rounds (10, Astartes)",20),("Hellfire shells (box)",4)])
 add("ammo","U","MBF",[("Heavy stubber belt, man-stopper (expanding: brutal on flesh and flak, carapace shrugs it)",2),("Heavy stubber belt, inferno (incendiary: a raw 17+ sets them alight)",3)])
 add("ammo","R","MAF",[("Heavy stubber belt, tungsten-core (AP: through heavy carapace at any range)",6),("Heavy stubber belt, hellfire (bio-acid: a hit forces a CON save or one more step)",10)])

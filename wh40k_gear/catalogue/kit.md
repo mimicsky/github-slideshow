@@ -346,6 +346,17 @@ on aimed shots within ~30 m.
 circle-and-dot reticle that floats at any distance. **+1 on aimed shots within ~50 m**: less than a reflex
 up close, but it reaches further. Fits a pistol or a rifle.
 
+### Heartbeat scanner (side-rail screen)
+
+**Heartbeat scanner** (rare, ~5 TV; player design, Ash on Ostrava day 35). A wide auspex screen on a
+side rail with a 90° hinge. **Folded in:** flat against the gun, screen off. **Folded out:** the screen
+faces the shooter and wakes; flipping it either way costs nothing. It sees **heartbeats only**, through
+walls and decks, out to **~30 m**, and it's **sharper the closer they are**: 20-30 m, a faint blip and a
+rough direction; 10-20 m, how many and which way; inside ~10 m, exactly where each one is. **While it's
+out and the bearer is watching it, nobody with a heartbeat inside ~30 m can surprise him or the team
+he's calling for.** **Blind** to anything without a heartbeat (servitors, machines, daemons, the walking
+dead). **Tell:** the screen glows; in the dark it lights the bearer's face (fold it in to go dark).
+
 ### Ergo grip sleeve
 
 **Ergo grip sleeve** (common, 0.25 TV). A flexible, ribbed plastek sleeve that slides over

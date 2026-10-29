@@ -28,6 +28,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Lasgun, Ryza Mechanicus cable pattern](las.md#lasgun-ryza-mechanicus-cable-pattern)
 - [Las backpack cell (Mechanicus pattern)](las.md#las-backpack-cell-mechanicus-pattern)
 - [Extended las pack](las.md#extended-las-pack)
+- [Extended hot-shot pack](las.md#extended-hot-shot-pack)
 
 ## [Solid-shot and special guns (autoguns, shotguns, pistols, web, needle)](stub.md)
 
@@ -144,7 +145,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Catachan weapons](kit.md#catachan-weapons): [thumper](kit.md#thumper-catachan-pattern), [butcher knife](kit.md#catachan-butcher-knife), [shotgun](kit.md#catachan-shotgun)
 - [Augmetic eyes](kit.md#augmetic-eyes): [basic](kit.md#basic-augmetic-eye), [bionic](kit.md#bionic-eye), [sensor](kit.md#sensor-eye), [shooting](kit.md#shooting-eye), [commissar](kit.md#commissar-eye), [champion](kit.md#champion-eye) (exotic)
 - [Helm pict-capture](kit.md#helm-pict-capture)
-- [Pistol and gun attachments](kit.md#pistol-and-gun-attachments-player-designs-ash-on-ostrava-session-10): [pressure-pin safety](kit.md#pressure-pin-safety-hair-triggers), [pistol drums](kit.md#pistol-drums), [laser / lumen / combo](kit.md#laser-sight-under-mount-lumen-or-both), [pistol reflex sight](kit.md#pistol-reflex-sight), [ergo grip sleeve](kit.md#ergo-grip-sleeve), [foregrips](kit.md#foregrips-under-barrel-slot), [muzzles](kit.md#muzzles), [rifle stocks](kit.md#rifle-stocks-autogun-lasgun-stub-rifle), [custom barrel](kit.md#custom-barrel-stub-pistols-and-smgs-barrel-slot), [more attachments: hair trigger, match trigger, telescopic, low-light, bipod, folding stock, extended mag, weighted grip, flash hider](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10)
+- [Pistol and gun attachments](kit.md#pistol-and-gun-attachments-player-designs-ash-on-ostrava-session-10): [pressure-pin safety](kit.md#pressure-pin-safety-hair-triggers), [pistol drums](kit.md#pistol-drums), [laser / lumen / combo](kit.md#laser-sight-under-mount-lumen-or-both), [pistol reflex sight](kit.md#pistol-reflex-sight), [holo sight](kit.md#holo-sight), [heartbeat scanner](kit.md#heartbeat-scanner-side-rail-screen), [ergo grip sleeve](kit.md#ergo-grip-sleeve), [foregrips](kit.md#foregrips-under-barrel-slot), [muzzles](kit.md#muzzles), [rifle stocks](kit.md#rifle-stocks-autogun-lasgun-stub-rifle), [custom barrel](kit.md#custom-barrel-stub-pistols-and-smgs-barrel-slot), [more attachments: hair trigger, match trigger, telescopic, low-light, bipod, folding stock, extended mag, weighted grip, flash hider](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10)
 
 ## [Drugs and servo-skulls](drugs.md)
 

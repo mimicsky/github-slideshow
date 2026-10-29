@@ -1176,6 +1176,13 @@
   "sellers": "MAF"
  },
  {
+  "name": "Extended hot-shot pack",
+  "tv": 1.5,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MAF"
+ },
+ {
   "name": "Kraken-pattern bolt rounds (10, Astartes)",
   "tv": 20,
   "cat": "ammo",
