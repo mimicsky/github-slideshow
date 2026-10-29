@@ -164,7 +164,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 - **Save before the scene**: the note is just "(saved)", and the scene is the last thing in the reply. Commit and push after anything important.
 - **Full kit:** when gear is used, swapped, found or handed out, update the sheet's Full kit table and the crate count in the same save.
 - **Don't read pools, hidden notes or nemeses out to the player.**
-- **Questioning a captive or trying to win someone over = the Will system (codex house rule 8), never a plain check against a hidden number.** Before the first question, look up (or set) their Will and breaking point in `dm-notes.md`. **Each push is one session (~an hour) = one will check**, rolled openly **by the DM for the player** (Intimidation, Persuasion or a pairing, by the approach), Will lost by the table; hard methods +5% and their risk roll. They answer truthfully only once broken, and only what they know. Say "(will check)" on the roll line, and save the new Will (hidden) to `dm-notes.md`.
+- **Questioning a captive or trying to win someone over = the Will system (codex house rule 8), never a plain check against a hidden number.** Before the first question, look up (or set) their Will and breaking point in `dm-notes.md`. **Each push is one session (~an hour) = one will check**, rolled openly **by the DM for the player** (Intimidation, Persuasion or a pairing, by the approach), Will lost by the table; hard methods +5% and their risk roll. They answer truthfully only once broken, and only what they know. Say "(will check)" on the roll line, and save the new Will (hidden) to `dm-notes.md`. **Tamsin adds +1 on every will check (the provost's manual).**
 
 ## End of every in-game day
 
