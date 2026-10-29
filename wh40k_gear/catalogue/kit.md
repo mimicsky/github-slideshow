@@ -62,7 +62,9 @@ cover from the front.** Breaks after 3 heavy hits.
 ## Mag belt / bandolier
 
 **Mag belt / bandolier** (common, 0.5 TV): four more packs or mags on hand;
-reloading from it never costs the beat.
+reloading from it never costs the beat. **Grenade bandolier** (common, 0.5 TV; Ash on Ostrava day 35): grenade loops across the
+chest, **six more grenades on hand**; reloading a drum launcher from it takes **half a beat** (reload and fire one shot
+the same beat).
 
 ## Melee sheath / scabbard
 
