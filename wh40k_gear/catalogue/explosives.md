@@ -125,8 +125,19 @@ Set by the player, Ash on Ostrava session 10.
 - **Photon flash:** everyone within **~8 m** is blinded **1 beat (-3 on shots)**. A weaker spec flash, no flares.
 - **Choke gas:** a cloud for **3 beats**. Anyone without a mask, rebreather or void-mask is at **-2** and coughing.
 
+## Grenades and explosives in launchers
+
+Set by the player, Ash on Ostrava day 35. A grenade launcher fires **grenades**: frag, impact frag, smoke,
+photon or spec flash, choke gas. **Explosives** are a different thing: **kraks**, demo satchels and charges,
+breaching and cutting charges, mining charges, melta bombs, crude pipe-bombs. Like loading the wrong
+cartridge into a rifle, a launcher not built for an explosive hates it: the shot takes **-4**, and on a
+**natural 1-5 it goes off at the muzzle** (the shooter and anyone within ~2 m take it); either way **the
+launcher's next shot takes -2**, and it needs a smith's look before it's right again. **The exception is a
+launcher built for one explosive and nothing else** (Tavi's Tiny's krak tube): it fires that one cleanly,
+and nothing else fits it.
+
 ## Revolver-drum grenade launcher ('Six Bells', Hollis's)
 
-Set by the player, Ash on Ostrava session 10. Fires the **same grenades** as above (frag, krak, smoke, flash,
-spec flash) out to **~100 m**. **One shot a beat**, rolled like a throw (d20 + DEX + Hollis's grenadier +2;
+Set by the player, Ash on Ostrava session 10. Fires the **grenades** above (frag, impact frag, smoke, flash,
+spec flash, choke gas; **not kraks**, see below) out to **~100 m**. **One shot a beat**, rolled like a throw (d20 + DEX + Hollis's grenadier +2;
 the near-miss rule applies). The **drum holds 6**; **reloading the whole drum takes a full beat**.
