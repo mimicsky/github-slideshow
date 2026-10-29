@@ -357,6 +357,13 @@ out and the bearer is watching it, nobody with a heartbeat inside ~30 m can surp
 he's calling for.** **Blind** to anything without a heartbeat (servitors, machines, daemons, the walking
 dead). **Tell:** the screen glows; in the dark it lights the bearer's face (fold it in to go dark).
 
+### Arc calculator (launcher sight)
+
+**Arc calculator** (rare, ~4 TV; player design, Ash on Ostrava day 35). Two almost invisible lasers, one above
+a launcher's barrel and one below, feeding a small cogitator that works out the arc. **+3 on launcher shots past
+~30 m** on the first shot of a string, and on a second shot at the same spot; a shot at a new target has no
+firing solution yet. **Tell:** in smoke or dust the two beams show.
+
 ### Blacklight tracking visor
 
 **Blacklight tracking visor** (rare, ~4 TV; player design, Ash on Ostrava day 35). A clear visor of auspex
