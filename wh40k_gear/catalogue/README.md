@@ -47,6 +47,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Lever-action stub rifle, 'Kasr Frontier' pattern](stub.md#lever-action-stub-rifle-kasr-frontier-pattern)
 - [Web pistol, Arbites pattern](stub.md#web-pistol-arbites-pattern)
 - [Needle rifle](stub.md#needle-rifle)
+- [Needle darts (special loads)](stub.md#needle-darts-special-loads)
 
 ## [Scrap guns](scrap.md)
 

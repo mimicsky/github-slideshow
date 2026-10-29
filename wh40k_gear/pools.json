@@ -539,6 +539,48 @@
   "sellers": "BF"
  },
  {
+  "name": "Needle darts, black-tip (10)",
+  "tv": 3,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Needle darts, panic (10)",
+  "tv": 3,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Needle darts, tracker (5)",
+  "tv": 3,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Needle darts, shard (10)",
+  "tv": 4,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Needle darts, widow (10)",
+  "tv": 5,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Needle darts, truth (5)",
+  "tv": 5,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
   "name": "Vraks-pattern sniper autorifle",
   "tv": 7,
   "cat": "stub",

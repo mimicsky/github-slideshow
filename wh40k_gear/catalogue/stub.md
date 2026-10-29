@@ -125,6 +125,22 @@ the target drops a health step next beat. Against carapace, only a solid hit
 (beats the target's roll by 3+) finds a gap. +1 on single aimed shots past 30 m.
 Spare darts uncommon, 2 TV for 8.
 
+## Needle darts (special loads)
+
+**Needle darts, special loads** (player picks, Ash on Ostrava day 35; black market, Free Traders). Fit any
+needle pistol or needle rifle. **The standard toxin dart:** against flesh, flak or mesh the dart gets in;
+**against carapace only a solid hit finds a gap** (the needle rifle's rule); heavier armour stops it. A
+magazine holds one load at a time.
+
+| Load | Rarity, price | Effect |
+| --- | --- | --- |
+| **Black-tip** (potent toxin) | uncommon, 3 TV for 10 | The same toxin, brewed stronger: **the CON save is against 17, not 15**; a target who passes is still woozy: **-1 on their next roll** |
+| **Shard** | rare, 4 TV for 10 | Crystal tips: **through carapace and heavy carapace on any hit**, so the toxin always gets in (ceramite and power armour still stop it) |
+| **Widow** | rare, 5 TV for 10 | Lethal: **a failed save means dead**, no survival roll. Quiet kills |
+| **Panic** | uncommon, 3 TV for 10 | A hallucinogen: **CON save vs 15 or the target drops what's in their hands and runs or hides for 2 beats** |
+| **Truth** | rare, 5 TV for 5 | A truth serum: **CON save vs 15 or ~10 minutes of loose tongue: +4 on interrogating them** |
+| **Tracker** | uncommon, 3 TV for 5 | No toxin: a pinger in the tip. **Feels like a bug bite (WIS 15 to notice).** An auspex rig follows it out to **~1 km for a day** |
+
 ## Combi-pistol, 'Kasr Trident' pattern
 
 **Combi-pistol, 'Kasr Trident' pattern** (player design, Ash on Ostrava session 9;

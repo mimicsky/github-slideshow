@@ -72,7 +72,8 @@ add("mod","U","MBF",[("Muzzle brake (threaded muzzles: a miss in a chain gives n
 add("stub","R","MB",[("Web pistol, Arbites pattern (entangles, no damage; 4 shots a canister)",8)])
 add("ammo","U","MB",[("Web canister (4 shots)",1)])
 add("stub","R","BF",[("Needle rifle (silent toxin darts, 8-dart magazine; CON save or drop a health step)",18)])
-add("ammo","U","BF",[("Needle rifle toxin darts (8)",2)])
+add("ammo","U","BF",[("Needle rifle toxin darts (8)",2),("Needle darts, black-tip (10)",3),("Needle darts, panic (10)",3),("Needle darts, tracker (5)",3)])
+add("ammo","R","BF",[("Needle darts, shard (10)",4),("Needle darts, widow (10)",5),("Needle darts, truth (5)",5)])
 add("stub","R","MBF",[("Vraks-pattern sniper autorifle",7),("Lucius-pattern 'Ironclad' shotgun",4),("Arbites combat shotgun (shock shells)",6)])
 # --- Bolt ---
 add("bolt","U","MF",[("Bolt pistol, Godwyn-Deaz (officer)",12)])
