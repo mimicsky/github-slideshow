@@ -581,6 +581,41 @@
   "sellers": "BF"
  },
  {
+  "name": "Stub/auto rounds, HP (box)",
+  "tv": 1,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Stub/auto rounds, AP (box)",
+  "tv": 1.5,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Stub/auto rounds, HV (box)",
+  "tv": 1,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Stub rounds, flat-tip (box)",
+  "tv": 0.75,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Autogun rounds, CAP ceramite armour-piercing (box of 20)",
+  "tv": 5,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
   "name": "Vraks-pattern sniper autorifle",
   "tv": 7,
   "cat": "stub",
