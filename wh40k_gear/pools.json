@@ -609,11 +609,11 @@
   "sellers": "MBF"
  },
  {
-  "name": "Autogun rounds, CAP ceramite armour-piercing (box of 20)",
-  "tv": 5,
+  "name": "Autogun rounds, CAP ceramite-tipped armour-piercing (box)",
+  "tv": 2,
   "cat": "ammo",
-  "rarity": "R",
-  "sellers": "BF"
+  "rarity": "U",
+  "sellers": "MBF"
  },
  {
   "name": "Vraks-pattern sniper autorifle",

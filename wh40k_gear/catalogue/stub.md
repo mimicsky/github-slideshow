@@ -144,7 +144,7 @@ magazine holds one load at a time.
 ## Stub and autogun rounds (special loads)
 
 **Stub and autogun rounds, special loads** (player picks, Ash on Ostrava day 36; Munitorum, black market,
-Free Traders; CAP black market and Free Traders only). Each load comes in its own box and fits any gun of its
+Free Traders). Each load comes in its own box and fits any gun of its
 calibre: **stub** (stub revolvers, stub automatics, hand cannons, the Kasr Frontier) or **auto** (autoguns,
 autopistols, Hammerfall auto-revolvers, the Kasr Hornet). **Standard rounds** (Stub/auto rounds, box): flak
 shrugs them at range, reinforced flak and carapace shrug them. A magazine holds one load at a time.
@@ -155,7 +155,7 @@ shrugs them at range, reinforced flak and carapace shrug them. A magazine holds 
 | **AP** (armour-piercing) | stub, auto | uncommon, 1.5 TV a box | Hardened steel core. **Flak and reinforced flak don't shrug it; through carapace on a solid hit.** Heavy carapace and heavier shrug it. Punches straight through flesh: **against no armour, a crit drops just one step** (no extra) |
 | **HV** (high velocity) | stub, auto | uncommon, 1 TV a box | Hot load, light bullet. **+1 on aimed shots past 30 m; flak doesn't shrug it at range.** The hot powder fouls the gun: **each HV shot counts as 2 toward Dirty** (never-jam guns ignore this) |
 | **Flat-tip** (the player's design) | stub | uncommon, 0.75 TV a box | A regular round, except against armour it can't get through: **a shrugged flat-tip hit counts as 2 shrugged hits toward wear-down** (Armour: every 3 drop a step) |
-| **CAP** (ceramite armour-piercing) | auto | rare, 5 TV for a box of 20 | A ceramite-cored penetrator. **Through carapace on any hit; through heavy carapace on a solid hit inside ~15 m.** Ceramite-forged and power armour shrug it. Punches through flesh like AP (**against no armour, a crit drops just one step**). Scarce: ceramite is dear |
+| **CAP** (ceramite-tipped armour-piercing) | auto | uncommon, 2 TV a box | A ceramite tip on a steel core (changed by the player, day 36: tipped, not cored, so it's cheap enough to use; a hot-shot pack does the same for free). **Through carapace on any hit; through heavy carapace on a solid hit inside ~15 m.** Ceramite-forged and power armour shrug it. Punches through flesh like AP (**against no armour, a crit drops just one step**) |
 
 ## Combi-pistol, 'Kasr Trident' pattern
 
