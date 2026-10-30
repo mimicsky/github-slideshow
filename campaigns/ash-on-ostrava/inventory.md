@@ -91,6 +91,8 @@ The Light's container, Container 2 and the hold, all together (what isn't carrie
 
 ## The Mart haul (days 33-34)
 
+**SOLD to Mag Vashti, day 36 ~1450: 294.96 TV** (~349 pieces; credit on her slate). **Kept back by Ollin:** everything on Ferro's resource list (sheet), the Godwyn boltgun + 18 rounds, the 3 drums of aviation promethium, the gunship's tool racks and chain hoist, the 20 crates of tinned protein, the 3 named chain axes (Crale's, the berserker's, Wick's: motors for Kell's axe), all explosives (frags, kraks, demo satchels, choke gas, pipe-bombs) into the crate, all drugs and stimms to medicae stock, the 2 Spire-pad ripper guns (drums fit Doorknocker), 2 gas masks (rebreathers for the wishlist), 2 sets of lock-picks (Nessa's wishlist), 2 spare auspexes (Ferro's parts), the hand-flamer canisters, the pilot's letters and pict (personal: Lenn Cassaway's). Everything else below was sold.
+
 Moved from the campaign sheet (day 34). Everything here is aboard: Oda and Pruitt sorted most of it into the two containers. Heretic stuff named here was left where it lay on Tamsin's standing order. Evidence is sealed for Kesh (the sheet's Current state).
 
 - **Spire pad loot (day 33):** unloaded into the crate by Ollin ~1127 (listed in `inventory.md`); 9 dirty or neglected guns for him to clean. **Not reached (the far roof):** the psyker's crude staff, knife and holed flak; a Rattler scrap SMG, a nailer, a pipe rifle, an autopistol, 2 combat axes, a hive shank, flak, a stimm, scrap throwing knives.
