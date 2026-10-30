@@ -76,7 +76,7 @@ stack**), airborne, gun condition and jams, pack sizes (hot-shot 30, las 45), re
 field, doses, drop-prone guns, going Down drops weapons.
 
 **6. Write each shooter's bonus line before rolling.** For everyone acting this beat:
-`Varga (Light-bringer, rifle/jumper), Mercy: +4 DEX +2 aimed rifle +3 eye +2 reflex sight (inside ~30 m) +2 order +2 surprise -1 airborne = +14`.
+`Varga (Light-bringer, jumper), Mercy: +4 DEX +2 aimed rifle +3 eye +2 reflex sight (inside ~30 m) +2 order +2 surprise -1 airborne = +14`.
 Then roll.
 
 **7. Resolve the beat in this order** (codex Part 6, A beat):
@@ -154,7 +154,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 - **Voices (set by the player, day 34): it's a story game as much as an action game.** **More detail is always better** in scenes and in these entries. Before writing anyone's lines, check their personality and voice entry in [`world.md`](world.md) ("The Light: who they are") and write them that way. **Keep those entries current in the same save:** a new character gets an entry; a new trait, want, fear, relationship, title, or a piece of kit that matters to them goes into their entry. "Newer, still developing" characters: try new things; keep what gets a reaction or sticks.
 - **Never roll Tamsin's dice.** Ask "Roll me a d20" and wait. NPC dice and undecided facts are rolled openly with a real RNG. The DM rolls will checks for the player.
 - **Show the math** on every roll: (die + stat + other bonuses = total). DCs stay hidden; contests show both totals.
-- **Name + role on every mention**, dialogue lines included: `Kell (Light-bringer sergeant, assault): "line"` (**speech always inside quotation marks**, the player, day 36).
+- **Name + role on every mention** (**the tag is rank + the role in the sheet's Roles table**, day 36), dialogue lines included: `Kell (Light-bringer sergeant, leader): "line"` (**speech always inside quotation marks**, the player, day 36).
 - **Enemies get their role tag** in fights, every mention: `Coat guy (gunslinger)`, `Flamer man (flamer)`, `Knife man (grunt)`, `Old Wick (Tallow Boys boss, leader)`.
 - **Full tag on every ally mention**, math lines included: `Tavi (Light-bringer, demolitions)`, never bare `Tavi`. Enemies by bestiary class (`assassin`, `grunt`, `psyker`, `leader`, `beast handler`). **Detail the scene** (sights, sounds, smells, what each person does).
 - **In a fight: the Fight checklist (above) before the first die, and the codex Roll checklist on every roll,** with every bonus shown by name (stat, specialty, order, surprise, gear and eyes, chain, swap, recoil, airborne, health, cover).
