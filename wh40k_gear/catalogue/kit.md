@@ -389,9 +389,14 @@ and **disarm attempts against the bearer take -2**.
 
 ### Muzzles
 
-- **Standard silencer** (stub/auto; uncommon, 2 TV): quieter: heard in the next room, not
-  across the deck. **-1 on long shots.**
-- **Heavy suppressor** (stub/auto; uncommon, 3 TV): near-silent. **-2 on aimed shots.**
+- **Standard silencer** (stub/auto; uncommon, 2 TV; reworked by the player, Ash on Ostrava day 36):
+  quieter: heard in the next room, not across the deck. The can soaks the muzzle gas: **recoil -1**
+  (less kick and rise). **No penalty on long shots** (the few extra metres a second it can add just
+  cover what it costs; too slight for a bonus). Costs: longer and heavier at the muzzle, **-1 on
+  quick-draw**; gas blown back into the action: **the gun turns Dirty after ~20 shots, not ~30**.
+- **Heavy suppressor** (stub/auto; uncommon, 3 TV; reworked the same day): near-silent; **recoil -2**.
+  Costs: long and heavy, **-1 on quick-draw and -1 on swapping**; fouls the same way (**Dirty after
+  ~20 shots**).
 - **Compensator** (uncommon, 2 TV): **recoil -2**; **+1 more to the next shot after each
   hit** (a first-shot hit gives +3, later hits +2); **-1 on aimed shots**.
 
