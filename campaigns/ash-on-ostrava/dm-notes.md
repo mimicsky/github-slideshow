@@ -422,7 +422,7 @@ A hidden anchorage in Gallowmere's outer belt, a dead ore-processing platform. O
 
 ### The Bone Wardens
 
-They lost a strike cruiser in this sector about 18 months ago, "out past a dead sun", and the wreck was never found; whoever armed TALLY found it (may tie to Velk: a dead sun, the seed went there 18 months ago). Returning their dead brother's boltgun through Kesh earns the Light a Chapter's remembrance: one day, one favour.
+They lost a strike cruiser in this sector about 18 months ago, "out past a dead sun", and the wreck was never found; whoever armed TALLY found it (may tie to Velk: a dead sun, the seed went there 18 months ago). Returning their dead brother's boltgun through Kesh earns the Light a Chapter's remembrance: one day, one favour. **Their reply came (rolled day 36, d6 6), carried by Aldwyn: a bone-white token, a carved chevron on a cord, and three words: 'Returned is remembered.' Shown to any Bone Warden, it buys Tamsin a hearing and one favour, once.** (What favour, and when the Wardens come: not set.)
 
 ### Vhal Korrin compound 8
 
