@@ -1,0 +1,3250 @@
+[
+ {
+  "name": "Lasgun, Kantrael M36",
+  "tv": 1,
+  "cat": "las",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Lasgun, Lucius No.98 (hotter, eats packs)",
+  "tv": 1.5,
+  "cat": "las",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Laspistol, Kantrael",
+  "tv": 0.5,
+  "cat": "las",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Lascarbine, Accatran Mk IV",
+  "tv": 1.5,
+  "cat": "las",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Lasgun, Accatran Mk XIV (short, fast)",
+  "tv": 2,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy laspistol",
+  "tv": 2,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Lasgun, Agripinaa (sturdy, slow)",
+  "tv": 1.5,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Recon lascarbine, folding stock",
+  "tv": 2.5,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Lasgun, Mezoa 'Lucius' long-barrel",
+  "tv": 2.5,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Hellgun, Ryza pattern",
+  "tv": 5,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Hellpistol, Kantrael",
+  "tv": 4,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Hellgun, Accatran (compact)",
+  "tv": 5.5,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Long-las, Mezoa (sniper)",
+  "tv": 6,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Long-las, Helbore (heavy, single-shot)",
+  "tv": 8,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Hot-shot volley gun",
+  "tv": 12,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Lasgun, Mars pattern (Skitarii, galvanic-ready)",
+  "tv": 6,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Lascarbine, Accatran Mk VI (burst fire)",
+  "tv": 2,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Las-scattergun 'shotlas' (wide spread, short range)",
+  "tv": 4,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Multi-laser, man-portable (braced, drains packs fast)",
+  "tv": 15,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Las-SMG, 'Sterl' pattern (side-mounted pack; 6-shot chains, misses don't penalise the chain; 2 hits = 1 vs carapace; eats packs)",
+  "tv": 3,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Las-box, 'Kasr Barr' pattern light las-LMG (box pack; 6-shot chains; through carapace on a solid hit; heat: chain of 4+ = 1 heat, vent at 3; bipod)",
+  "tv": 8,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Las-box pack (for the Kasr Barr)",
+  "tv": 0.75,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Heavy laspistol, 'Nocturne Ember' pattern (side pack, long barrel; ignites on a raw 17+; heavy trigger: -1 quick-draw, chains of 3 max)",
+  "tv": 14,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "FA"
+ },
+ {
+  "name": "Lasgun, 'Kasr Duet' twin-focus pattern (two crystals, one barrel: a hit lands like a hellgun; 2 charge a pull; chains of 2; braced pad stock; rail)",
+  "tv": 7,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MFA"
+ },
+ {
+  "name": "Long-las, 'Kasr Sprinter' stripped pattern (skeleton stock and grip, 3x sight; +1 aimed 20-60 m; move and aim; light trigger, NO SAFETY: drop-prone)",
+  "tv": 4.5,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Las machine pistol, 'Kasr Wasp' pattern (one-handed; pack in the grip, 30 shots; chains of 10 at -1 each; laspistol punch)",
+  "tv": 3,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Lasgun, Ryza Mechanicus cable pattern (needs a backpack cell; chains of 5, misses free; light)",
+  "tv": 4,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Las backpack cell, Mechanicus pattern (120 shots; pack heat; powers cable-fed las)",
+  "tv": 4,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Lasgun, Krieg pattern (Mars-built; through flak on any hit, 15 shots a pack; fixed bayonet; scope mount; stock pack slot)",
+  "tv": 4,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "M"
+ },
+ {
+  "name": "Las-LMG, 'Kasr Rain' suppression pattern (100-shot box; chains of 12; lasgun punch; suppression -2; heat on 8+)",
+  "tv": 6,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Charge long-las, 'Kasr Lance' pattern (charge to level 3 over two beats; built-in scope; pack in the stock; vent after level 3)",
+  "tv": 12,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Duelling laspistol, noble-house pattern",
+  "tv": 8,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Archeotech lasgun 'sunfire' (worn, works)",
+  "tv": 30,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Pipe pistol (zip gun; one shot, a beat to reload; may burst on a 1)",
+  "tv": 0.25,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Nailer (scrap scattergun; one blast, hits 2 within 5 m; carrier always has a bag of scrap)",
+  "tv": 0.5,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Rivet gun (scrap; chains of 3, heavy stub punch within 15 m; tank can burst)",
+  "tv": 1.5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Torch-thrower (scrap flamer; 5 m line, sets alight; 4 bursts; can ruptures on 1-2)",
+  "tv": 1,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Sump harpoon (scrap spear-gun; silent; pins on a through-hit; cut the cable to free)",
+  "tv": 1,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Battery las (scrap; hellgun punch, one shot a beat, 15 shots; heat; shocks on a 1)",
+  "tv": 2,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Pipe-bomb mortar (scrap tube lobber; open ground only; frag over cover to 40 m; crew of two)",
+  "tv": 0.75,
+  "cat": "explosive",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Bolt-pipe (scrap; one bolt round, hits like a boltgun; -2 recoil; splits on a 1)",
+  "tv": 1,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Pipe rifle (scrap bolt-action; 5 rounds, chains of 2; falls apart on a 1)",
+  "tv": 0.5,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Rattler (scrap SMG; 20-round stick, chains of 5; runs away on a 1)",
+  "tv": 0.75,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Junk shotgun (scrap double-pipe; one or both barrels; both fire on a 1)",
+  "tv": 0.5,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Autogun, Agripinaa",
+  "tv": 1,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Autopistol",
+  "tv": 1,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Stub revolver",
+  "tv": 0.5,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Stub automatic",
+  "tv": 0.75,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Combat shotgun, pump",
+  "tv": 1.5,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Combat shotgun, semi-auto",
+  "tv": 2,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Ripper gun / drum-fed shotgun",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Sawn-off shotgun",
+  "tv": 1,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Hand cannon (big-bore stubber)",
+  "tv": 2,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Scrap autogun with drum",
+  "tv": 1.5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Silenced stub pistol",
+  "tv": 2.5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Holdout stub pistol",
+  "tv": 1,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Hive-gang 'scattergun'",
+  "tv": 1,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Ganger's chain-fed autopistol",
+  "tv": 2,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Auto-revolver, 'Hammerfall' pattern, stub barrel (8-round cylinder, autogun rounds; hold-trigger chains up to 8, no hit bonuses in the chain)",
+  "tv": 2,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Auto-revolver, 'Hammerfall' pattern, long barrel (as stub; +1 on single aimed shots past 20 m)",
+  "tv": 2.5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Speedloader (auto-revolver)",
+  "tv": 0.25,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Compact autogun, 'Kasr Hive' pattern (top 50-round mag; chains of 8; +1 within 10 m, -2 past 30 m)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Anti-materiel rifle, 'Kasr Breaker' pattern (heavy stubber rounds, 5-round box; through cover; 2 steps a hit; braced)",
+  "tv": 15,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Lever-action stub rifle, 'Kasr Frontier' pattern (12-round tube; never jams; chains of 6, or 3 double-lever shots)",
+  "tv": 1.5,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Combi-pistol, 'Kasr Trident' pattern (twin autogun barrels, 40-round mag, chains of 6; under-barrel bolt shot last, -1)",
+  "tv": 12,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Infantry autogun, 'Columnus' pattern (30-round curved mag; single/burst/auto)",
+  "tv": 1.25,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Braced autogun, 'Graia' pattern (60-round box, bipod; full auto chains of 8; suppression braced; heat)",
+  "tv": 2.5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Vigilante autogun, 'Kasr Warden' pattern (20-round straight mag; semi-auto chains of 4; light trigger, drop-prone; vented; threaded muzzle; rails)",
+  "tv": 2,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Shredder autopistol, Ius pattern (Darktide; 30-round mag; full-auto chains of 8, no hit bonuses; autopistol punch)",
+  "tv": 1.5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Headhunter autogun, Agripaa pattern (Darktide; 15-round mag; semi-auto marksman; +2 aimed past 30 m; chains of 2)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Combat shotgun, 'Kasr Sweeper' duckbill pattern (one-piece metal body; 8-shell tube; semi-auto chains of 4; flat spread hits up to 3 abreast within 10 m; -2 past 15 m)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Machine pistol, 'Kasr Hornet' pattern (autogun rounds, 40-round mag; chains of 10, no hit bonuses; hair trigger; jams on shot dice 1-4 from the 13th continuous round; dumps the mag when dropped)",
+  "tv": 2.5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Muzzle brake (threaded muzzles: a miss in a chain gives no -1)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Web pistol, Arbites pattern (entangles, no damage; 4 shots a canister)",
+  "tv": 8,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MB"
+ },
+ {
+  "name": "Web canister (4 shots)",
+  "tv": 1,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MB"
+ },
+ {
+  "name": "Needle rifle (silent toxin darts, 8-dart magazine; CON save or drop a health step)",
+  "tv": 18,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Needle rifle toxin darts (8)",
+  "tv": 2,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Needle darts, black-tip (10)",
+  "tv": 3,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Needle darts, panic (10)",
+  "tv": 3,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Needle darts, tracker (5)",
+  "tv": 3,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Needle darts, shard (10)",
+  "tv": 4,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Needle darts, widow (10)",
+  "tv": 5,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Needle darts, truth (5)",
+  "tv": 5,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Stub/auto rounds, HP (box)",
+  "tv": 1,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Stub/auto rounds, AP (box)",
+  "tv": 1.5,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Stub/auto rounds, HV (box)",
+  "tv": 1,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Stub rounds, flat-tip (box)",
+  "tv": 0.75,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Autogun rounds, CAP ceramite-tipped armour-piercing (box)",
+  "tv": 2,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Vraks-pattern sniper autorifle",
+  "tv": 7,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Lucius-pattern 'Ironclad' shotgun",
+  "tv": 4,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Arbites combat shotgun (shock shells)",
+  "tv": 6,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Bolt pistol, Godwyn-Deaz (officer)",
+  "tv": 12,
+  "cat": "bolt",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Boltgun, Godwyn pattern",
+  "tv": 25,
+  "cat": "bolt",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Boltgun, Phobos pattern",
+  "tv": 28,
+  "cat": "bolt",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Bolt pistol, Ryza pattern",
+  "tv": 14,
+  "cat": "bolt",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Boltgun, Locke Mk IIb 'Spearhead' (Darktide)",
+  "tv": 26,
+  "cat": "bolt",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Bolt-shotgun, 'Breacher' pattern (single-shot breech, loose bolt rounds; 1-2 shots a beat by recoil)",
+  "tv": 10,
+  "cat": "bolt",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Sororitas bolt pistol (Godwyn-De'az)",
+  "tv": 16,
+  "cat": "bolt",
+  "rarity": "R",
+  "sellers": "EF"
+ },
+ {
+  "name": "Sororitas boltgun",
+  "tv": 30,
+  "cat": "bolt",
+  "rarity": "R",
+  "sellers": "EF"
+ },
+ {
+  "name": "Bolt pistol, rebored (unstable)",
+  "tv": 8,
+  "cat": "bolt",
+  "rarity": "R",
+  "sellers": "B"
+ },
+ {
+  "name": "Astartes bolt carbine (Space Marine; human: braced only, -4)",
+  "tv": 55,
+  "cat": "bolt",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Astartes bolt rifle (Space Marine; human: braced only, -4)",
+  "tv": 60,
+  "cat": "bolt",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Astartes auto bolt rifle (Space Marine; human: braced only, -4)",
+  "tv": 65,
+  "cat": "bolt",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Astartes heavy bolt rifle (Space Marine; human: braced only, -4)",
+  "tv": 90,
+  "cat": "bolt",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Astartes heavy bolter (Space Marine; human: mounted only, -4)",
+  "tv": 120,
+  "cat": "bolt",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Macragge service pistol (Ultramarines; M.45, 12 rounds, laser/light module, compensator)",
+  "tv": 35,
+  "cat": "stub",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Exitus pistol (Vindicare; silent, +1; may self-destruct when first picked up)",
+  "tv": 60,
+  "cat": "stub",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Exitus rounds: shield-breaker (each)",
+  "tv": 10,
+  "cat": "stub",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Exitus rounds: turbo-penetrator (each)",
+  "tv": 10,
+  "cat": "stub",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Exitus rounds: hellfire (each)",
+  "tv": 10,
+  "cat": "stub",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Exitus rifle (Vindicare; +3 aimed, no range or weather penalty)",
+  "tv": 150,
+  "cat": "stub",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Neural shredder (Callidus; 10 m cone, CON save or two health steps)",
+  "tv": 180,
+  "cat": "stub",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Executioner pistol (Eversor; bolt pistol + toxin needler)",
+  "tv": 150,
+  "cat": "stub",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Needlespine blaster (Adamus; silent, +2 at range, toxin)",
+  "tv": 140,
+  "cat": "stub",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Poison blades, concealed (Callidus; toxin, hidden on a search)",
+  "tv": 50,
+  "cat": "melee",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Phase sword (Callidus; C'tan blade, ignores armour and shields)",
+  "tv": 200,
+  "cat": "melee",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Neuro gauntlet (Eversor; stun + CON save or two health steps)",
+  "tv": 160,
+  "cat": "melee",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Nemesii blade (Adamus; +2 strike first and parry)",
+  "tv": 150,
+  "cat": "melee",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Psyk-out grenade (Culexus; no powers for 2 turns in the burst)",
+  "tv": 20,
+  "cat": "explosive",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Animus speculum (Culexus; pariah only)",
+  "tv": 250,
+  "cat": "gear",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Venenum toxin kit (injectors and poison globes)",
+  "tv": 120,
+  "cat": "gear",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Plasma pistol, Ryza pattern",
+  "tv": 25,
+  "cat": "plasma",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Plasma gun, Mars pattern",
+  "tv": 30,
+  "cat": "plasma",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Plasma gun, Ryza pattern",
+  "tv": 32,
+  "cat": "plasma",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Plasma cell",
+  "tv": 6,
+  "cat": "plasma",
+  "rarity": "U",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Plasma repeater, 'Kasr Furnace' break-action lever pattern (one plasma cell in the breech: 8 shots, 12 tuned; 2 lever actions a beat (shot or pump, any mix), up to 3 pumps for a charged shot, each pump uses a shot; held charge builds heat)",
+  "tv": 30,
+  "cat": "plasma",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Tuned plasma cell (12 shots, not 8)",
+  "tv": 10,
+  "cat": "plasma",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Plasma blaster, twin-cell 'Lumen' pattern (2 cells; chains up to 4; heat 1 per 4 shots; pistol punch)",
+  "tv": 35,
+  "cat": "plasma",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Plasma pistol, 'Needle' pattern (compact, long barrel; slow heat: 1 per 4 shots; 12 shots a cell; lighter punch)",
+  "tv": 18,
+  "cat": "plasma",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Meltagun",
+  "tv": 35,
+  "cat": "melta",
+  "rarity": "R",
+  "sellers": "MAFE"
+ },
+ {
+  "name": "Inferno pistol (Sororitas; meltagun hit within 8 m, two steps; 6 shots a charge; heat vents at 2)",
+  "tv": 40,
+  "cat": "melta",
+  "rarity": "R",
+  "sellers": "MAFE"
+ },
+ {
+  "name": "Melta charge (spare)",
+  "tv": 5,
+  "cat": "melta",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Flamer, Ryza pattern",
+  "tv": 8,
+  "cat": "flame",
+  "rarity": "U",
+  "sellers": "MBEF"
+ },
+ {
+  "name": "Hand flamer",
+  "tv": 6,
+  "cat": "flame",
+  "rarity": "U",
+  "sellers": "MBEF"
+ },
+ {
+  "name": "Promethium canister",
+  "tv": 1,
+  "cat": "flame",
+  "rarity": "U",
+  "sellers": "MBEF"
+ },
+ {
+  "name": "Ecclesiarchy 'cleansing' flamer",
+  "tv": 9,
+  "cat": "flame",
+  "rarity": "U",
+  "sellers": "MBEF"
+ },
+ {
+  "name": "Heavy flamer",
+  "tv": 20,
+  "cat": "flame",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Incinerator (blessed fuel)",
+  "tv": 25,
+  "cat": "flame",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Underslung grenade launcher, Ryza",
+  "tv": 6,
+  "cat": "launcher",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Grenade launcher, stand-alone",
+  "tv": 5,
+  "cat": "launcher",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Grenade launcher, revolver-drum",
+  "tv": 8,
+  "cat": "launcher",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Heavy stubber",
+  "tv": 4,
+  "cat": "heavy",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy stubber, tripod",
+  "tv": 5,
+  "cat": "heavy",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Mortar with 6 rounds",
+  "tv": 12,
+  "cat": "heavy",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy bolter, 1 belt",
+  "tv": 40,
+  "cat": "heavy",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Missile launcher (2 frag, 1 krak)",
+  "tv": 25,
+  "cat": "heavy",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Autocannon",
+  "tv": 35,
+  "cat": "heavy",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Lascannon",
+  "tv": 45,
+  "cat": "heavy",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Multilaser (crew)",
+  "tv": 30,
+  "cat": "heavy",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Rocket-propelled grenade tube (2 rounds)",
+  "tv": 10,
+  "cat": "heavy",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Frag grenade",
+  "tv": 1,
+  "cat": "explosive",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Smoke grenade",
+  "tv": 1,
+  "cat": "explosive",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Krak grenade",
+  "tv": 2,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Photon flash grenade",
+  "tv": 2,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Choke gas grenade",
+  "tv": 1.5,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Breaching charge",
+  "tv": 2,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Det-tape (5 m)",
+  "tv": 1,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Demolition charge, satchel",
+  "tv": 4,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Incendiary grenade",
+  "tv": 2,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Melta bomb",
+  "tv": 8,
+  "cat": "explosive",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Plasma grenade",
+  "tv": 6,
+  "cat": "explosive",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Haywire grenade (machine-killer)",
+  "tv": 8,
+  "cat": "explosive",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Stun grenade (Arbites)",
+  "tv": 2.5,
+  "cat": "explosive",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Plasma tripwire mine (laser trip, plasma-cell charge)",
+  "tv": 10,
+  "cat": "explosive",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Thrown demo satchel with paired detonator (mag-clamp, throw or set; beeps when armed)",
+  "tv": 5,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Air-frag 'blender' grenade (heavy shrapnel, 2-second fuse, ricochets)",
+  "tv": 2,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Phosphex canister (forbidden)",
+  "tv": 15,
+  "cat": "explosive",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Shrapnel mine",
+  "tv": 3,
+  "cat": "explosive",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Las pack",
+  "tv": 0.25,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Stub/auto rounds (box)",
+  "tv": 0.5,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Shotgun shells (box)",
+  "tv": 0.5,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy stubber belt",
+  "tv": 1,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Hot-shot pack (Guard)",
+  "tv": 1,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Hot-shot pack (Mechanicus pattern)",
+  "tv": 3,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Bolt rounds (10)",
+  "tv": 8,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Stubber drum magazine",
+  "tv": 1.5,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Man-stopper shells (box)",
+  "tv": 1,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Inferno shells (box)",
+  "tv": 2,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Extended las pack",
+  "tv": 0.75,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Extended hot-shot pack",
+  "tv": 1.5,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Kraken-pattern bolt rounds (10, Astartes)",
+  "tv": 20,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Hellfire shells (box)",
+  "tv": 4,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Heavy stubber belt, man-stopper (expanding: brutal on flesh and flak, carapace shrugs it)",
+  "tv": 2,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy stubber belt, inferno (incendiary: a raw 17+ sets them alight)",
+  "tv": 3,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy stubber belt, tungsten-core (AP: through heavy carapace at any range)",
+  "tv": 6,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Heavy stubber belt, hellfire (bio-acid: a hit forces a CON save or one more step)",
+  "tv": 10,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Combat knife",
+  "tv": 0.25,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Bayonet",
+  "tv": 0.25,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Entrenching tool",
+  "tv": 0.25,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Trench club",
+  "tv": 0.25,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Cadian machete",
+  "tv": 0.5,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Navy cutlass",
+  "tv": 2,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Chainsword",
+  "tv": 6,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Chain axe",
+  "tv": 8,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Shock maul",
+  "tv": 7,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Mono-knife",
+  "tv": 3,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Krieg trench shovel (sharpened)",
+  "tv": 0.5,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Officer's sabre",
+  "tv": 3,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Chain knife",
+  "tv": 3,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Shock baton (Arbites)",
+  "tv": 4,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Power maul",
+  "tv": 25,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Power sword",
+  "tv": 30,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Power axe",
+  "tv": 30,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Power knife",
+  "tv": 15,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Chainsword, Lucius heavy",
+  "tv": 10,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Eviscerator (two-handed chainsword)",
+  "tv": 22,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Thunder hammer (damaged)",
+  "tv": 40,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Combat chain-knife, 'Kasr Gnaw' pattern (combat-knife frame, chain blade, spine motor, hilt lever; +1 strike first; chainsword bite)",
+  "tv": 3,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Injector stiletto, 'Kasr Sting' pattern (straight stiletto blade with an injection channel; pommel vial, 1 dose; skeleton hilt, green cord wrap; throwable)",
+  "tv": 2,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Injector vial: toxin (1 dose; CON save or drop a health step)",
+  "tv": 1,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Injector vial: paralytic (1 dose; CON save or can't move or act next beat)",
+  "tv": 1.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Psy-ward amulet (blessed parchment; burns to take one hit that would hurt the wearer)",
+  "tv": 45,
+  "cat": "gear",
+  "rarity": "X",
+  "sellers": "EF"
+ },
+ {
+  "name": "Chaos ward-mark (cult charm; takes one hit, the god's way, at a price)",
+  "tv": 15,
+  "cat": "goods",
+  "rarity": "R",
+  "sellers": "B"
+ },
+ {
+  "name": "Chaos psyker staff (cultist witch's focus; psyker only; touching it is dangerous)",
+  "tv": 25,
+  "cat": "goods",
+  "rarity": "R",
+  "sellers": "B"
+ },
+ {
+  "name": "Chaos grimoire (forbidden book; the DM decides what it does; the Inquisition wants it)",
+  "tv": 12,
+  "cat": "goods",
+  "rarity": "R",
+  "sellers": "B"
+ },
+ {
+  "name": "Cult gas bottle (glass, plastek cage and sealed cap; shatters on impact; gas by cult: plague, rage, euphoria or visions)",
+  "tv": 1.5,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Power fist, Guard pattern (human-sized; through power armour; slow, +2 to block or parry it)",
+  "tv": 35,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Astartes power fist (Space Marine; too big for a human hand: trade or trophy)",
+  "tv": 70,
+  "cat": "melee",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Neo Scar scimitar (White Scars neophyte training blade, one-handed; ceramite edge, +1 strike first, no hilt)",
+  "tv": 45,
+  "cat": "melee",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Fenrisian gift-blade (Space Wolf ceremonial longsword; pelt grip, gold mountain pommel)",
+  "tv": 55,
+  "cat": "melee",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "The 2nd Fist (Imperial Fists huntsman knife; plasteel, saw back, choil, gold guard, yellow grip)",
+  "tv": 30,
+  "cat": "melee",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Blood Blade of Baal (Blood Angels trial short sword; ceramite, gold wing hilt, ruby blood drop, full tang)",
+  "tv": 45,
+  "cat": "melee",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Las-fist, 'Kasr Knuckle' pattern (power fist with a lasgun barrel and crystal; trigger in the fist; -3 to shoot, none point-blank)",
+  "tv": 40,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Power claw, 'Kasr Talon' pattern (four curved power blades; charge and expel into a stabbed target)",
+  "tv": 60,
+  "cat": "melee",
+  "rarity": "X",
+  "sellers": "BF"
+ },
+ {
+  "name": "Force wakizashi, 'Kasr Veil' pattern (psyker only; skeleton grip, no guard; warp-shield intake, Perils 1-3 each beat)",
+  "tv": 35,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "F"
+ },
+ {
+  "name": "Plasteel throwing knives, 'Callidus' pattern, wavy blade (set of 6; through carapace on a solid hit; wound -2 to treat)",
+  "tv": 4,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Hive shank (scrap knife)",
+  "tv": 0.1,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Scrap throwing knives (set of 4)",
+  "tv": 0.4,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Combat axe, Rashad pattern (fast, light)",
+  "tv": 1,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Thunder hammer, Crucis pattern (intact; heavy, slow; thunderclap: two steps and knocked flat)",
+  "tv": 50,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Power falchion (duelling blade)",
+  "tv": 28,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Omnissian power sword (Mechanicus)",
+  "tv": 32,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Transonic blades, paired (Skitarii)",
+  "tv": 30,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Blaze force sword (psyker only)",
+  "tv": 45,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "F"
+ },
+ {
+  "name": "Blaze force greatsword (psyker only)",
+  "tv": 60,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "F"
+ },
+ {
+  "name": "Blessed power maul (Ecclesiarchy)",
+  "tv": 28,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "E"
+ },
+ {
+  "name": "Sororitas power sword",
+  "tv": 32,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "E"
+ },
+ {
+  "name": "Assassin's mono-wire garrotte",
+  "tv": 6,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "B"
+ },
+ {
+  "name": "Needle-blade (toxin)",
+  "tv": 8,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "B"
+ },
+ {
+  "name": "Flak vest",
+  "tv": 0.5,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Flak armour set",
+  "tv": 1,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Flak helmet",
+  "tv": 0.25,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Gas mask / rebreather",
+  "tv": 0.5,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Carapace armour set",
+  "tv": 8,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Carapace chest plate",
+  "tv": 4,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Mesh armour (light, quiet)",
+  "tv": 5,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Boarding shield",
+  "tv": 4,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Void-suit, Navy",
+  "tv": 4,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Hazard suit (plague-rated)",
+  "tv": 5,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Arbites carapace",
+  "tv": 10,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Makeshift shield (wood and scrap; +1 block, 1/3 cover, breaks after 2-3 heavy hits)",
+  "tv": 1,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Forged shield (+2 block, half cover)",
+  "tv": 6,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Shield viewing slot (shoot a pistol through without losing cover)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Shield spikes (charge shield-first: +3 on the charge, +1 shield melee after)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Arbitrator shield (Adeptus Arbites riot shield; +2 block, portable cover, pistol notch)",
+  "tv": 10,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MB"
+ },
+ {
+  "name": "Storm trooper carapace set",
+  "tv": 15,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Storm shield (power field)",
+  "tv": 30,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Refractor field",
+  "tv": 25,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Conversion field (damaged)",
+  "tv": 35,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Skitarii armour (augmetic fit)",
+  "tv": 18,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Tempestus Scion helmet (rebreather, auspex; +2 Perception, +1 shooting)",
+  "tv": 25,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Back gun-scabbard / heavy sling mount (carry a second long gun or a heavy on the back)",
+  "tv": 1,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Mag belt / bandolier (+4 packs or mags ready)",
+  "tv": 0.5,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Melee sheath / scabbard (fits the weapon)",
+  "tv": 0.25,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Belt side-pouch (2 grenades or small kit)",
+  "tv": 0.25,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Pistol holster (hip or chest)",
+  "tv": 0.25,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Sororitas power armour, damaged",
+  "tv": 50,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "E"
+ },
+ {
+  "name": "Rosarius (blessed field, small)",
+  "tv": 30,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "E"
+ },
+ {
+  "name": "Reflex sight",
+  "tv": 3,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Telescopic sight (+2 long shots; -1 hip/snap and inside 15 m)",
+  "tv": 3,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Photo-visor (low-light)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Magnoculars",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Bipod (+2 aimed braced or prone)",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Weapon sling, padded",
+  "tv": 0.25,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Quick-draw holster",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Silencer (stub/auto; quieter; recoil -1; -1 quick-draw; fouls faster)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Extended magazine (+50% shots)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Bayonet lug kit",
+  "tv": 0.25,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Laser designator",
+  "tv": 3,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Pressure-pin safety (hair triggers: not drop-prone while pinned)",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Pistol drum, auto/machine pistol (2x shots; -1 quick-draw)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Pistol drum, stub (2x shots; -1 quick-draw)",
+  "tv": 0.75,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Las drum, pistol double-cell (2x shots; -1 quick-draw)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Laser sight (+1 hip and snap shots within ~20 m; beam shows)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Laser and lumen combo module",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Pistol reflex sight (+1 aimed pistol shots within ~30 m)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Under-mount lumen",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Ergo grip sleeve (never slips; -2 to disarm you)",
+  "tv": 0.25,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Heavy foregrip (+2 aimed; misses -2; -1 swap)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Handstop foregrip (+2 first shot; free swaps; -1 aimed)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy suppressor (stub/auto; near-silent; recoil -2; -1 quick-draw and swap; fouls faster)",
+  "tv": 3,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Compensator (recoil -2; +1 more after hits; -1 aimed)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Tac rifle stock (+1 first, +1 aimed, -2 swap)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Custom barrel, stub pistol/SMG (+1 aimed, +1 past 30 m)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Offset backup sight (cancels scope close penalty; -1 quick-draw)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Low-light optic (no darkness penalty; flash blinds 1 beat)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Match trigger (+1 aimed; -1 hip/snap)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Hair trigger (+1 first shot; drop-prone unless pinned)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Underslung shotgun, masterkey (1-2 blasts; -1 aimed)",
+  "tv": 3,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Underslung grenade launcher (one grenade shot; -1 aimed)",
+  "tv": 5,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Burst limiter (recoil -1; strings max 3)",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Folding stock (+1 quick-draw; -1 aimed)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Flash hider (no muzzle flash in the dark)",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Weighted grip (recoil -1; -1 quick-draw)",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Ergo foregrip (+1 first shot; recoil -1)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Light rifle stock (+2 swap; -1 aimed)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Extended magazine kit, las or stub (+50% shots)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Diamantine whetstone (any edged blade: +1 pierce for the next 2 hits; ~10 uses)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Underslung chain-bayonet (rifle-mounted chainsword)",
+  "tv": 10,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Extended magazine kit, bolt or plasma housing (+50% shots)",
+  "tv": 6,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Range-finder sight (+1 shooting past ~30 m)",
+  "tv": 10,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Power weapon tuning kit (steadies the field, through power armour on any hit)",
+  "tv": 12,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Shock-coil kit (any weapon: +1 on your next roll against a target you hit, +2 for heavy weapons; 6 charges a fight)",
+  "tv": 8,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Hot-shot conversion kit (lasgun)",
+  "tv": 5,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Overcharge capacitor (las)",
+  "tv": 8,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Mechanicus focusing lens",
+  "tv": 10,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Auto-targeter (augur sight)",
+  "tv": 12,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Heat-sink shroud (las)",
+  "tv": 4,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Chainsword teeth, adamantium (set)",
+  "tv": 12,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Motor housing, high-tolerance",
+  "tv": 9,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Micro-bead",
+  "tv": 0.5,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Chrono",
+  "tv": 0.5,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Lumen (torch)",
+  "tv": 0.25,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Field rations (crate)",
+  "tv": 0.5,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Water purifier",
+  "tv": 0.5,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Rope (20 m)",
+  "tv": 0.25,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Lho-sticks (carton)",
+  "tv": 0.25,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Imperial Infantryman's Uplifting Primer",
+  "tv": 0.1,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Map-slate",
+  "tv": 1,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Auspex (hand)",
+  "tv": 6,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Vox-caster (manpack)",
+  "tv": 5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Flares (box of 10)",
+  "tv": 0.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Grav-chute",
+  "tv": 6,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Climbing rig and grapnel",
+  "tv": 1.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Demolitions kit / bag",
+  "tv": 1.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Large field pack",
+  "tv": 1,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Drag harness",
+  "tv": 0.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Multi-key / lockbreaker",
+  "tv": 2,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Cutting torch",
+  "tv": 3,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Med-kit",
+  "tv": 3,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Stimm (dose)",
+  "tv": 0.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Antitoxin (dose)",
+  "tv": 1,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Combat drug 'slaught' (dose)",
+  "tv": 1,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Spook (dose; wakes latent psychic power, Perils 1-6)",
+  "tv": 6,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "B"
+ },
+ {
+  "name": "Obscura (dose; hive narcotic, trade value)",
+  "tv": 0.5,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Spur (dose; ganger stimulant, +1 everything, early crash)",
+  "tv": 0.5,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Kalma (dose; nerve calmer, fearless, -1 strike first)",
+  "tv": 1,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MB"
+ },
+ {
+  "name": "Morphia (dose; painkiller, one health step better)",
+  "tv": 1,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MB"
+ },
+ {
+  "name": "Onslaught (dose; two moves a turn, -2 shooting)",
+  "tv": 1.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Glanding implant (needs an augmetic surgeon; one combat-drug effect a fight)",
+  "tv": 20,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Concentrated stimm (dose)",
+  "tv": 2,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Concentrated antitoxin (dose)",
+  "tv": 4,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Combat drug 'Frenzon', concentrated (+3 melee; backfire 1-2)",
+  "tv": 4,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "SCIHU stim (knockout: coma 2-4 days; unwilling target needs a melee hit, CON 15+ resists; wake one health step better; lasting injuries heal in half the time)",
+  "tv": 4,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Combat drug 'Quicksilver' (speed: +2 Athletics and moving)",
+  "tv": 1.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MB"
+ },
+ {
+  "name": "Combat drug 'Deadeye' (focus: +2 shooting)",
+  "tv": 1.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MB"
+ },
+ {
+  "name": "Combat drug 'Frenzon' (rage: +2 melee)",
+  "tv": 1.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MB"
+ },
+ {
+  "name": "Combat drug 'Slaught' (reflexes: +2 strike first and dodge, +1 STR)",
+  "tv": 1.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MB"
+ },
+ {
+  "name": "Combat drug 'Adrenaline' (senses: +4 Perception, +1 shooting)",
+  "tv": 1.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MB"
+ },
+ {
+  "name": "Servo-skull, gun (built-in laspistol)",
+  "tv": 30,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Servo-skull, burner (built-in micro-flamer)",
+  "tv": 35,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Forged Munitorum ID chits",
+  "tv": 2,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Lock-picks, hive pattern",
+  "tv": 1,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Spoof-tag (fakes a transponder)",
+  "tv": 6,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Black-market data-slate",
+  "tv": 1,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Cogitator spike",
+  "tv": 4,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Servo-skull (utility, used)",
+  "tv": 20,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Servo-skull (medicae)",
+  "tv": 25,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Gun-skull (armed servo-skull; fires d20+3 a beat; eye feed)",
+  "tv": 30,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Bio-scanner (finds life within 30 m; +2 medic treatment up close)",
+  "tv": 8,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Psy-occulus (warp detector, 50 m; strength and direction)",
+  "tv": 15,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Jump pack (Guard pattern)",
+  "tv": 30,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Jump pack, Kasrkin pattern",
+  "tv": 45,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Chameleoline cloak",
+  "tv": 12,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Medicae servitor (old)",
+  "tv": 30,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Purity seal (blessed)",
+  "tv": 2,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "E"
+ },
+ {
+  "name": "Aquila rosary",
+  "tv": 1,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "E"
+ },
+ {
+  "name": "Reliquary fragment",
+  "tv": 10,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "E"
+ },
+ {
+  "name": "Blessed sacred oils (flask)",
+  "tv": 2,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "E"
+ },
+ {
+  "name": "Vial of shrine water",
+  "tv": 1,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "E"
+ },
+ {
+  "name": "Augmetic eye (basic)",
+  "tv": 8,
+  "cat": "augmetic",
+  "rarity": "U",
+  "sellers": "AB"
+ },
+ {
+  "name": "Augmetic hand (basic)",
+  "tv": 8,
+  "cat": "augmetic",
+  "rarity": "U",
+  "sellers": "AB"
+ },
+ {
+  "name": "Respirator implant",
+  "tv": 6,
+  "cat": "augmetic",
+  "rarity": "U",
+  "sellers": "AB"
+ },
+ {
+  "name": "Augmetic arm, Mechanicus",
+  "tv": 20,
+  "cat": "augmetic",
+  "rarity": "R",
+  "sellers": "A"
+ },
+ {
+  "name": "Subdermal armour",
+  "tv": 25,
+  "cat": "augmetic",
+  "rarity": "R",
+  "sellers": "A"
+ },
+ {
+  "name": "Augmetic legs (pair)",
+  "tv": 30,
+  "cat": "augmetic",
+  "rarity": "R",
+  "sellers": "A"
+ },
+ {
+  "name": "Mind-impulse link",
+  "tv": 22,
+  "cat": "augmetic",
+  "rarity": "R",
+  "sellers": "A"
+ },
+ {
+  "name": "Blessed incense grenade (5 m holy smoke, 3 beats: warp things -2 and burn; allies +2 vs fear)",
+  "tv": 4,
+  "cat": "explosive",
+  "rarity": "R",
+  "sellers": "E"
+ },
+ {
+  "name": "Vox-jammer grenade (30 m, 3 beats: all vox and data-links dead, both sides)",
+  "tv": 5,
+  "cat": "explosive",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Spec flash grenade (impact; room ~8 m blinded and deafened 1 beat: -3 shots, no block or parry; anyone looking at it 2 beats, -6)",
+  "tv": 3,
+  "cat": "explosive",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Web grenade, Arbites pattern (3 m; webbed: no moving, -2; harmless)",
+  "tv": 2,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Psyker overload grenade (psykers in 5 m roll: 1-10 down 3 beats then Badly hurt; 11-17 bleed, no powers 2 beats)",
+  "tv": 10,
+  "cat": "explosive",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Hand scanner, Ordo pattern (threat level of one person or object up close)",
+  "tv": 12,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Thunder hammer, one-handed officer's pattern (stagger; thunderclap once a fight)",
+  "tv": 45,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MAE"
+ },
+ {
+  "name": "Thumper (Catachan break-action grenade launcher; one round a beat; never jams)",
+  "tv": 3,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Catachan butcher knife (mercury-filled; hits like a short sword)",
+  "tv": 1.5,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Catachan shotgun (semi-auto 16-gauge, 8-round tube, chains of 4)",
+  "tv": 6,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Catachan mercury shells, 16-gauge (box of 10; poison on a flesh hit)",
+  "tv": 0.5,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Bionic eye (+1 aimed; face recognition)",
+  "tv": 15,
+  "cat": "augmetic",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Sensor eye (+2 sight; scanner; +2 scanned/long shots)",
+  "tv": 22,
+  "cat": "augmetic",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Shooting eye (+2 long, +3 aimed; gun-link HUD)",
+  "tv": 30,
+  "cat": "augmetic",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Commissar eye (flash-proof; infrared; +1 shots; tactical scan; data sync)",
+  "tv": 40,
+  "cat": "augmetic",
+  "rarity": "R",
+  "sellers": "MA"
+ },
+ {
+  "name": "Helm pict-capture (brass helm lens + belt spool; records a day; live feed to linked HUD eyes)",
+  "tv": 1,
+  "cat": "kit",
+  "rarity": "U",
+  "sellers": "M"
+ },
+ {
+  "name": "Champion eye (all eye features; +5 shots and sight)",
+  "tv": 90,
+  "cat": "augmetic",
+  "rarity": "X",
+  "sellers": "AF"
+ },
+ {
+  "name": "Scrap metal (crate)",
+  "tv": 0.5,
+  "cat": "salvage",
+  "rarity": "C",
+  "sellers": "MBA"
+ },
+ {
+  "name": "Plasteel ingot",
+  "tv": 2,
+  "cat": "salvage",
+  "rarity": "C",
+  "sellers": "MBA"
+ },
+ {
+  "name": "Ceramite plate",
+  "tv": 3,
+  "cat": "salvage",
+  "rarity": "U",
+  "sellers": "ABF"
+ },
+ {
+  "name": "Servo-motor",
+  "tv": 3,
+  "cat": "salvage",
+  "rarity": "U",
+  "sellers": "ABF"
+ },
+ {
+  "name": "Machine-core",
+  "tv": 6,
+  "cat": "salvage",
+  "rarity": "U",
+  "sellers": "ABF"
+ },
+ {
+  "name": "Mechanicus sacred oils (flask)",
+  "tv": 1,
+  "cat": "salvage",
+  "rarity": "U",
+  "sellers": "ABF"
+ },
+ {
+  "name": "Spare coupling (Mechanicus)",
+  "tv": 2,
+  "cat": "salvage",
+  "rarity": "U",
+  "sellers": "ABF"
+ },
+ {
+  "name": "Power cell (station)",
+  "tv": 0.5,
+  "cat": "salvage",
+  "rarity": "U",
+  "sellers": "ABF"
+ },
+ {
+  "name": "Adamantium shard",
+  "tv": 6,
+  "cat": "salvage",
+  "rarity": "U",
+  "sellers": "ABF"
+ },
+ {
+  "name": "Cogitator relic",
+  "tv": 12,
+  "cat": "salvage",
+  "rarity": "R",
+  "sellers": "A"
+ },
+ {
+  "name": "Machine-spirit core (old weapon)",
+  "tv": 15,
+  "cat": "salvage",
+  "rarity": "R",
+  "sellers": "A"
+ },
+ {
+  "name": "Promethium crucible charge",
+  "tv": 10,
+  "cat": "salvage",
+  "rarity": "R",
+  "sellers": "A"
+ },
+ {
+  "name": "Valkyrie multilaser charge pack",
+  "tv": 3,
+  "cat": "vehicle",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Valkyrie fuel (load)",
+  "tv": 2,
+  "cat": "vehicle",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Chimera spare track section",
+  "tv": 3,
+  "cat": "vehicle",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Valkyrie bolt-rocket pods, pair (6 rockets that burst into bolt rounds)",
+  "tv": 35,
+  "cat": "vehicle",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Las-cannon, medium tripod emplacement (one heavy beam every other beat)",
+  "tv": 35,
+  "cat": "heavy",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Valkyrie rocket pod (2 Hellstrike)",
+  "tv": 20,
+  "cat": "vehicle",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Valkyrie heavy bolter door-guns (pair)",
+  "tv": 45,
+  "cat": "vehicle",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Void-shield emitter (salvage)",
+  "tv": 40,
+  "cat": "vehicle",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Augur array (small ship)",
+  "tv": 30,
+  "cat": "vehicle",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Amasec (case)",
+  "tv": 2,
+  "cat": "goods",
+  "rarity": "C",
+  "sellers": "BFE"
+ },
+ {
+  "name": "Recaff (sack)",
+  "tv": 0.5,
+  "cat": "goods",
+  "rarity": "C",
+  "sellers": "BFE"
+ },
+ {
+  "name": "Spire wine (case)",
+  "tv": 2,
+  "cat": "goods",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Off-world spice",
+  "tv": 3,
+  "cat": "goods",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Noble's signet (fence)",
+  "tv": 4,
+  "cat": "goods",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Silk bolt",
+  "tv": 2,
+  "cat": "goods",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Grox-hide leather",
+  "tv": 1,
+  "cat": "goods",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Gemstones (pouch)",
+  "tv": 10,
+  "cat": "goods",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Ancient coin hoard",
+  "tv": 15,
+  "cat": "goods",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Ork 'shoota' (confiscated, crude, loud)",
+  "tv": 3,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Ork 'choppa' (crude cleaver)",
+  "tv": 2,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Eldar shuriken pistol (1 magazine)",
+  "tv": 40,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Eldar shuriken catapult (no ammo)",
+  "tv": 35,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Tau pulse carbine (half charge)",
+  "tv": 35,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Tau pulse rifle (no charge)",
+  "tv": 30,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Kroot rifle (bladed stocks)",
+  "tv": 12,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Dark Eldar splinter pistol (poison, 1 mag)",
+  "tv": 35,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Necron gauss flayer fragment (inert)",
+  "tv": 50,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Archeotech laspistol (Dark Age, unknown maker)",
+  "tv": 60,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Astartes combat knife (Space Marine)",
+  "tv": 15,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Astartes bolt pistol (huge, heavy)",
+  "tv": 45,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Sororitas inferno pistol (no charge)",
+  "tv": 30,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Needle pistol (noble's, 6 darts)",
+  "tv": 20,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Exitus-pattern round (single, Assassin)",
+  "tv": 50,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Digital weapon ring (one shot, Jokaero)",
+  "tv": 60,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Webber (Mechanicus, rare)",
+  "tv": 20,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Arc rifle (Skitarii)",
+  "tv": 25,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Radium carbine (Skitarii, toxic)",
+  "tv": 20,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Volkite serpenta (Dark Age pistol)",
+  "tv": 70,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Grav-pistol (no charge)",
+  "tv": 55,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Ork 'burna' (flamer, leaks)",
+  "tv": 8,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Genestealer cult mining laser (heavy)",
+  "tv": 15,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Hrud fusil (temporal, unstable)",
+  "tv": 50,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Squat plasma axe (heirloom)",
+  "tv": 45,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Inquisitorial hexagrammic ward",
+  "tv": 25,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Tarot of the Emperor (deck, psychic)",
+  "tv": 30,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Xenos crystal shard (Eldar, warm)",
+  "tv": 40,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Rogue Trader's warrant fragment (forged)",
+  "tv": 20,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ },
+ {
+  "name": "Mechadendrite (single, salvage)",
+  "tv": 15,
+  "cat": "exotic",
+  "rarity": "X",
+  "sellers": "BFAEM"
+ }
+]
