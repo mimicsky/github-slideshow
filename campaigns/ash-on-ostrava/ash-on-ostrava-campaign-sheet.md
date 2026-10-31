@@ -152,7 +152,7 @@ Moved to `world.md` (day 36 cleanup), under the same heading.
 
 | Who | Role |
 | --- | --- |
-| Kell | Leader |
+| Kell | Leader (+1 to the whole Light when he is present and giving orders: roles.md, Light note; the player's call, day 36) |
 | Varga | Jumper |
 | Hollis | Grenadier (Light role rule: a grenade or launcher shot that misses by 1-2 still does half effect; moved here from his specialty with the player, day 36 cleanup) |
 | Brenner | Vox / auspex |
@@ -202,7 +202,7 @@ Moved to `world.md` (day 36 cleanup), under the same heading.
 | Isk | **Hardy** (no penalty from cold, heat or thin air), **Fast healer** (recovers from a wound in less time; patches on him +1), **Slow learner** (-0.1 for every 10 hours of training). Rolls: good 19, good 7, bad 11 Lho habit (no smokers, rerolled: 11 again, rerolled: 19) |
 | Tavi | **Inconspicuous** (+1 on stealth and blending into a crowd), **Handy** (+1 on field repairs and fixing jams), **Pious** (+1 on saves against the warp and corruption; stacks with seals). Rolls: good 14, good 18, good 14 (duplicate, rerolled 20) |
 | Morcant | **Fast healer** (recovers from a wound in less time; patches on him +1), **Quick hands** (+1 on quick-draws; clearing a jam costs no beat, once a fight), **Pious** (+1 on saves against the warp and corruption; stacks with seals). Rolls: good 7, good 4, good 20 |
-| Kell | Leader (+1 to the whole Light when he is present and giving orders: roles.md, Light note; the player's call, day 36) |
+| Sallow | **Iron gut** (+1 on saves against poison, gas and plague), **Pious** (+1 on saves against the warp and corruption; stacks with seals), **Slow learner** (-0.1 for every 10 hours of training). Rolls: bad 11 Lho habit (no smokers, rerolled: 19), good 8, good 20 |
 | Corvane | **Quick reflexes** (+1 to act first when it matters who moves first; swapped for Handy by the player), **Lucky** (once a mission, reroll a natural 1), **Bad knees** (-1 on sprints, chases and jumps). Rolls (d30): bad 25 Trigger-happy (contradicts his discipline, rerolled: 11 Lho habit, no smokers, rerolled: 22), good 18, good 10 |
 | Nessa | **Silver tongue** (+1 on persuading and bargaining), **Quick reflexes** (+1 to act first when it matters who moves first), **Good arm** (+1 on throws: grenades, knives; the Sisters). Rolls (d30): good 16, good 29, good 26 |
 | Sorel | **Hard to kill** (+1 when a medic patches him up from Down), **Night owl** (no penalty for short sleep; +1 on night watches), **Organised** (once a fight, a reload costs no beat; always carries one extra of a small thing). Rolls (d30): good 22, good 11, good 12 |
