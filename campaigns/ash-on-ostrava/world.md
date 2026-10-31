@@ -16,6 +16,7 @@ People, places, the ship, Kesh's targets and mission briefs. **Not read on resum
   - [Later mission: Sennet's Reach (chosen session 8)](#later-mission-sennets-reach-chosen-session-8)
 - [The hub](#the-hub)
 - [Prisoners with Merrick (Ustrennos)](#prisoners-with-merrick-ustrennos)
+- [What the Light knows about Thask](#what-the-light-knows-about-thask)
 
 ---
 
@@ -287,3 +288,26 @@ Light's container. Crew rallying cry: **"We are the light."**
 - **With Merrick:** Selk, Marsk, Pask Hollow, Davin Mabry (his two honest bunkmates were freed day 14); **Osric Haddle (DEAD day 29: poisoned in his cell; trustee Lusk missing)** and the nine of his circle (split up, fed by her sergeants), the
   *Duty of Coin*'s master and mate; the pilot Marra in processing (Merrick's call). Merrick: plain coats on cold
   store row / Relay 3; *Duty of Coin* impounded. **Merrick is a firm friend.** Kesh (day 28): hold them, she'll send for them.
+
+## What the Light knows about Thask
+
+- **Thask, "the Old Man" or "the Gardener":** sixties, heavy, always in coats, smells
+  sweet; lives above his bonded warehouse at **berth 31, Low Quay, Torvane's Mart**;
+  never leaves the Mart; the Mart's customs are bought. Has been "dying for twenty years
+  and never dies".
+- **Daughters:** Wren (ran his ships; dead at berth 4-2), **Ilsabet** (keeps the books at
+  berth 31), and **the Bloom**, the youngest: kept upstairs over berth 31 in a room with
+  **no windows and one door; Thask sleeps across it**. "Born kept, never sick a day."
+  She "opens the garden" when she **turns twelve** at the Harvest Lamps (~warp day 55).
+- **Ways in:** customs use the front; **Nessa knows a back way through the tug dock** that customs don't. Sly: come in under the Light's own name and Thask 'will know before your ramp's down'.
+- **Forces:** **~20 "gardeners"** (cultists) guard berth 31 and the floors above. Orne's
+  TALLY crew is broken; the *Sable Margin* left under Brask.
+- **The jars:** grown in **Gallowmere's grain silos** ("the garden-world"), carried by
+  the tender ***Hesk Tender*** ("from G."; also one of the false names on Orne's spoof-tag, so the real hull is uncertain); Mabry's book showed the **next load due at
+  Ustrennos warp day 22** (cold store 4-17, now burned out). Two old vox contacts are
+  tagged **GALLOWMERE HIGH ORBIT**.
+- **Codes:** the *Sable Margin* hailed Thask's people as **"Margin to Garden"**,
+  recognition **"Thorn"**, answered **"Bloom"**.
+- **The gardener's guest:** an off-world woman who came to the Mart with a long case,
+  Thask's honoured guest; she asked for the Exitus round.
+- **The Moebian 6th (day 33, the tug dock):** a traitor Guard regiment gone to Nurgle; Tamsin knows them by reputation: whoever fights them doesn't come out well, they use swarms of poxwalkers, they fill themselves with the rot but still move like a real regiment. Five of them guard Thask's back door. **Tamsin's read: they've been behind it all along** (the garden, the jars, the plans). **Day 36, from the leg-shot trooper in the cage:** the Mart was to be the 6th's **port** (air, vox, customs: what a regiment takes to hold a harbour); Gallowmere's grain goes through the Mart's customs to the sector, and the girl was to be shipped from here to the garden-world before the Lamps. **'You took a port. The garden has others.'** **What went through it for them: out, Gallowmere's grain seeded with the rot, and the jars; in, 'beds': living people taken off passing ships through bought customs, ten Thrones a head, to grow more walkers.** He doesn't know the other ports or the Lamps. **'Him' is the 6th's commander, Captain (Biron) Wolfer, 'the Wolfer'** (Tamsin knew the name by reputation): he wrote the green-sealed letters and pays Thask ten a head for the beds. Where he is: unknown. **From Aldwyn (day 36):** the 6th were raised mostly on Atoma Prime and fought long tours in the Fringe War at the edge of the Moebian Domain (heroes to the hive Tertium); sent home to put down a cult there (the Admonition), they turned to the rot instead; their main strength holds Tertium with the cult, fought by Inquisitor Grendyl's people; Wolfer was once a prisoner, and his men took the transport and freed him; nobody expected them this far out, which is why Kesh wants silence about them.
