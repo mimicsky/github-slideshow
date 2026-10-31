@@ -1,7 +1,7 @@
 # Ash on Ostrava
 
 Warhammer 40,000 on the 5e chassis. Season 1: *Seed of Nurgle* (done). Season 2: aboard *The Bright Light*.
-Branch: **`claude/ash-ostrava-campaign-closeout-ma000x`**. Rules: [`../../DND_CODEX.md`](../../DND_CODEX.md).
+Campaign branch: **`claude/ash-ostrava-campaign-closeout-ma000x`**; cleanup branch (day-36 cleanup): **`claude/ash-ostrava-cleanup`**. Rules: [`../../DND_CODEX.md`](../../DND_CODEX.md).
 
 ---
 
@@ -14,7 +14,7 @@ Don't say what's in the DM notes.
 1. **This README**, all of it.
 2. **The campaign sheet** ([`ash-on-ostrava-campaign-sheet.md`](ash-on-ostrava-campaign-sheet.md)): "Where we stopped", "Current state", "What the Light knows about Thask", "Full kit", Tamsin ("The character"), the Light (roster, roles, specialties, stats). It's all current state.
 3. **The DM notes** ([`dm-notes.md`](dm-notes.md)), **down to the STOP line only**, read silently, never told to the player: how the campaign runs, the live mission's secrets, nemeses, pre-rolls. Below STOP, open an entry only when its trigger comes up.
-4. **The codex** ([`../../DND_CODEX.md`](../../DND_CODEX.md)): **only the sections marked "Always" in the map at its top** (about 450 lines: the play preferences, house rules 1-6, cover, the roll checklist, shots and hits, breaking and Down, describing the world, armour and weapons). Open the rest when the map's trigger comes up.
+4. **The codex** ([`../../DND_CODEX.md`](../../DND_CODEX.md)): **only the sections marked "Always" in the map at its top** (about 450 lines: the play preferences, house rules 1-6, cover, the roll checklist, shots and hits, breaking and Down, matches and knife bouts, describing the world, armour and weapons, and the Gear rules' swapping, recoil and pack sizes). Open the rest when the map's trigger comes up. Plain 5e (Parts 1-5, the Quick Reference Card) is in [`../../codex-5e-reference.md`](../../codex-5e-reference.md): skip it.
 5. **The Light's voices** ([`world.md`](world.md), "The Light: who they are"): every personality and voice entry, **before writing anyone's speech.** This is a story game as much as an action game: each person talks and acts like themselves (set by the player, day 34).
 6. **The end of the last chapter** in [`book-season-2.md`](book-season-2.md) (search for the last `## Chapter`; read its final scene), plus the day log (day-log.md, from the day-36 cleanup) for anything played since.
 7. **A fight on?** Do the **Fight checklist** (below) before the first die.
@@ -41,7 +41,7 @@ and save them before rolling**, so they don't drift between beats.
 **2. How the player likes to play.** Codex Part 6, **"How the player likes to play"**: all of it, every fight.
 In fights the ones that bite: everyone acts every beat with their own roll; stop at the first decision point;
 don't act, think or feel for Tamsin; **leftover shots go into another enemy automatically unless he says hold**
-(the one already hurt that it can finish, else the biggest threat; swap -1); full tags; narrate each roll line;
+(the one already hurt that it can finish, else the biggest threat; swap -1; the rule is in codex Part 6, A beat); full tags; narrate each roll line;
 the still-up board.
 
 **3. The enemy.** In the fight's entry in `dm-notes.md`: each enemy's weapon, armour (after any step-up),
@@ -93,7 +93,7 @@ Then roll.
 - **Armour:** codex Part 8, **Armour** (shrugs or gets through; part-armour; crits always get through, but only one
   step against armour that would have shrugged it; wear-down). Refractor field rolls.
 - **Melee:** codex house rule 5, **the exchange** (opposed rolls, block 1-2 higher, parry 3+, a raw 17+ can't be stopped), **melee chains** (resolve a chain swing by swing; **a parry ENDS the chain**, a block lets it carry on), which stat, two weapons, shields.
-- **Knife bouts on the mat** (codex Part 6, Matches and contests): **d20 + DEX each, no specialties** (Tamsin adds his proficiency: +11); **vital (2 hits) only on a raw 17+ or a win by 5+, otherwise minor (1)**: no location rolls; first to 2 hits takes the round, first to 5 rounds the bout. (Added day 36 after Kell's bout was first run at +6 STR and specialty.)
+- **Knife bouts on the mat** (codex Part 6, Matches, bouts and knife bouts): **d20 + DEX each, no specialties** (Tamsin adds his proficiency: +11); **vital (2 hits) only on a raw 17+ or a win by 5+, otherwise minor (1)**: no location rolls; first to 2 hits takes the round, first to 5 rounds the bout. (Added day 36 after Kell's bout was first run at +6 STR and specialty.)
 - Health steps, extra stages, Down (codex Part 6, Breaking and Down).
 
 **9. After the beat, then the reply.**
@@ -125,11 +125,12 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 | When this comes up | Open |
 | --- | --- |
 | A fight starts or is on | **The Fight checklist above, every step** (it lists every file and section) |
+| A match, a bout or a knife bout on the mat | Codex Part 6, Matches, bouts and knife bouts |
 | Someone is hit, goes Down or gets healed | Codex Part 6: Shots and hits, Breaking and Down; Part 8: Armour, the refractor field (Gear rules); `roles.md`: Medic (the patch roll); the catalogue's `drugs.md` (stimm, SCIHU) |
 | A fight ends | Codex Part 6, Breaking and Down (who surrenders, runs, lives); Part 8, Loot (the two rare rolls, coin on a body); house rule 7 (reps: a Down counts as a kill); log witnesses in `dm-notes.md`; update the Full kit (ammo, grenades, Dirty guns) |
 | Rolling enemies | `roll_enemy.py` (commands below); [the bestiary index](../../wh40k_gear/bestiary/README.md) for special teams; codex Part 8, Loot, for enemy stats |
 | A gear item's own rules | [The catalogue index](../../wh40k_gear/catalogue/README.md), then just that entry |
-| Heat, hot-shot, drop-prone guns, jams, going Down | Codex Part 8, Gear rules |
+| Heat, hot-shot, drop-prone guns, jams, going Down | Codex Part 8, Gear rules (one `####` heading per rule; swapping, recoil and pack sizes are Always) |
 | Shopping or selling | `roll.py`; codex Part 8 (shop size, the quartermaster, the Void Exchange); the sheet's coin |
 | Training and the tally | Codex house rule 7; the sheet's Light table |
 | Interrogation or recruiting | Codex house rule 8 (Will) |
@@ -141,12 +142,15 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 | A hidden trigger (a sniper, Kesh, Ustrennos, a nemesis) | The index in [`dm-notes.md`](dm-notes.md), then that entry |
 | An NPC or a place, or a Light-bringer's backstory, **personality or how they talk** | [`world.md`](world.md): its contents list, or search the file for the name (the Light's personality and voice entries are under "The Light: who they are") |
 | The live mission | The sheet's Current state (orders, plan, what the Mart knows) and the top of `dm-notes.md` |
+| What was played today (the day log) | [`day-log.md`](day-log.md): one bullet per timestamp (`- ~HHMM …`) under `## Day N` |
+| One of the 18 schematics | [`schematics.md`](schematics.md): one section per schematic |
 | Later missions or Kesh's targets | [`world.md`](world.md): Kesh's target list and the later-mission briefs |
 | The ship's layout | [`world.md`](world.md): "Season Two: how it plays"; [`maps/`](maps) |
 | The sector map (Torvane's Mart) | Published at https://claude.ai/artifact/MirKYHKs6SLL8LSvm63Zmt (v17, day 36 ~0600). Generator: [`maps/torvanes-mart-sector-map.py`](maps/torvanes-mart-sector-map.py) (`python3 it out.html`, then the lore-art skill's `render.js out.html out.png 1600 1080`; upload the PNG as an asset and swap the `<img src>` in `project/Main.dc.html`) |
 | An item's history, blessing or spirit; the container's stock; builds; books; the wishlist | [`inventory.md`](inventory.md): its contents list, then that part |
 | A picture of an item, a battle map, a ship map | The lore-art skill |
 | Something from long ago | Search the books; [`archive.md`](archive.md) |
+| The player asks for the full 5e rules (initiative, HP, spells) | [`../../codex-5e-reference.md`](../../codex-5e-reference.md): Parts 1-5 and the Quick Reference Card; codex Parts 6-8 override it |
 
 ## Every reply (the things that keep slipping)
 
@@ -197,7 +201,10 @@ Award XP (the sheet's XP table), check the book is up to date with every day pla
 | [`world.md`](world.md) | People, places, the ship, Kesh's targets, mission briefs (on demand) |
 | [`inventory.md`](inventory.md) | Gear detail, the container, builds, books, blessings, wishlist (on demand) |
 | [`dm-notes.md`](dm-notes.md) | Hidden: how the campaign runs, live secrets, nemeses, pre-rolls (top part every resume; entries on demand) |
+| [`day-log.md`](day-log.md) | The day log: one bullet per timestamp; written up as chapters and cleared at day end |
+| [`schematics.md`](schematics.md) | The 18 schematics, one section each |
 | [`archive.md`](archive.md) | Closed history; never read on resume |
 | [`book-season-2.md`](book-season-2.md) | Season Two as a novel (the only story file) |
 | [`book.md`](book.md) | Season One as a novel |
 | [`maps/`](maps) | Pictures of *The Bright Light* |
+| [`../../codex-5e-reference.md`](../../codex-5e-reference.md) | Plain 5e reference moved out of the codex (Parts 1-5, the Quick Reference Card); codex Parts 6-8 override it |
