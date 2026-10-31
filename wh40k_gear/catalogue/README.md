@@ -27,6 +27,8 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Lasgun, Krieg pattern (Mars-built)](las.md#lasgun-krieg-pattern-mars-built)
 - [Lasgun, Ryza Mechanicus cable pattern](las.md#lasgun-ryza-mechanicus-cable-pattern)
 - [Las backpack cell (Mechanicus pattern)](las.md#las-backpack-cell-mechanicus-pattern)
+- [Long-las, Mezoa pattern (sniper)](las.md#long-las-mezoa-pattern-sniper)
+- [Las-scattergun ('shotlas')](las.md#las-scattergun-shotlas)
 - [Extended las pack](las.md#extended-las-pack)
 - [Extended hot-shot pack](las.md#extended-hot-shot-pack)
 
@@ -57,6 +59,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Pipe pistol ("zip gun")](scrap.md#pipe-pistol-zip-gun)
 - [Nailer (scrap scattergun)](scrap.md#nailer-scrap-scattergun)
 - [Rivet gun (converted industrial riveter)](scrap.md#rivet-gun-converted-industrial-riveter)
+- [Hand flamer](scrap.md#hand-flamer)
 - [Torch-thrower (scrap flamer)](scrap.md#torch-thrower-scrap-flamer)
 - [Sump harpoon (spear-gun)](scrap.md#sump-harpoon-spear-gun)
 - [Battery las ("car-battery lasgun")](scrap.md#battery-las-car-battery-lasgun)
