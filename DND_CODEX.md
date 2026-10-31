@@ -889,7 +889,10 @@ tally** (changed by the player, Ash on Ostrava session 10: end-of-session writin
 seventeen days pile up unwritten), the DM writes that day as full chapters: every scene, the real choices and
 the real words spoken at the table, with the dice invisible and only their
 results on the page. Nothing is invented that didn't happen; small connective
-detail (weather, a smell, a look) is fine. The campaign sheet carries a short
+detail (weather, a smell, a look) is fine.
+**Budget (set by the player, Ash on Ostrava day 37, after day 36 ran to 22 chapters): about 8-12 chapters a day.**
+Big scenes (fights, interrogations, turning-point talks, a ceremony) get full chapters; routine ones (handing out gear,
+shopping lists, schedules, repeated handovers) get a paragraph inside a chapter, with the real words kept where they matter. The campaign sheet carries a short
 "Where we stopped" for resuming; the book is the only story file. Set by the player, Ash on Ostrava session 5.
 **Safety net on long days:** after each big scene (a fight, a turning-point talk, a purchase or a
 gift), add a one-line note to the campaign sheet's day log, so nothing is lost if the context is

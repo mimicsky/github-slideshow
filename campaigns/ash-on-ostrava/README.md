@@ -174,7 +174,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 ## End of every in-game day
 
 1. Show the **tally sheet** (Tamsin's stats before and after, then the Light's).
-2. **Write that day as book chapters** in `book-season-2.md` (codex Part 7, The book).
+2. **Write that day as book chapters** in `book-season-2.md` (codex Part 7, The book): **about 8-12 chapters a day** (the player, day 37); big scenes get chapters, routine ones a paragraph.
 3. Delete that day's scene notes from the day log (day-log.md, from the day-36 cleanup; one bullet per timestamp), and update "Where we stopped".
 4. Commit and push.
 
