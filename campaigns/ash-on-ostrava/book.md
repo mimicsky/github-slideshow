@@ -1354,7 +1354,7 @@ gave up on the Imperium. Dace is a man who stands guard for the light of it." He
 kept the name Dace. That night the evidence went out to every captain of the
 Cadian remnant fleet.
 
-## Chapter 16: The Doorstep
+## Chapter 16: Permission to Prove
 
 Three captains declared before dawn, and the *Iron Litany* reported the *Gate
 Unbroken* running for Ustrennos, eight days out. "He will lock down the place
@@ -1376,7 +1376,7 @@ said, "I want him to see my face. The boy from the door."
 
 Six days of drills. The stack ran in its sleep.
 
-## Chapter 17: Gate Unbroken
+## Chapter 17: It's Time
 
 The flagship came out of the warp at two in the morning, four hours before any
 help. Tamsin had the Light kitted in four minutes and was halfway to the boat when
@@ -1405,7 +1405,7 @@ round in a guard's hip; and when the last one's bayonet was a finger from Dace's
 throat, Last Word came out of its holster in Tamsin's left hand and finished it.
 "Thanks, boss."
 
-## Chapter 18: The Runner
+## Chapter 18: The End.?
 
 The bridge doors opened onto four hellguns and a big man on a dais with every
 screen around him showing his younger face at the gate.
