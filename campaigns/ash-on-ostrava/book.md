@@ -142,7 +142,7 @@ Two days out from Ostrava, the Light was three: Rook, Varga and Dace.
 
 # Part Two
 
-## Chapter 1: Ottrick's Watch
+## Chapter 1: Shameholder's Awakening
 
 The armoury lamps were already lit when Tamsin came in at ten past four, his
 right arm wrapped from wrist to elbow and a dented steel tin under the other.
@@ -245,7 +245,7 @@ Kasr Myrak once, no rites, and that lasgun jammed on me three times the next
 week." He jerked his head at the hook. "And take your painted sword off my
 counter. It's dripping."
 
-## Chapter 2: What the Guns Said
+## Chapter 2: Vigil's Rework
 
 The engine deck was loud with the drive straining on the rough road. Hespa-Vor
 had been up all night: a cracked Geller node lay opened on its bench like a
@@ -597,7 +597,7 @@ It was half past eleven on the fifth day of the rough road, and Ostrava was a
 little more than a day away.
 
 
-## Chapter 5: Four Things
+## Chapter 5: Lost Ties
 
 "So like I was saying," Tamsin said, "once you finish those practice swords, we
 can really put in work."
