@@ -147,7 +147,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 | One of the 18 schematics | [`schematics.md`](schematics.md): one section per schematic |
 | Later missions or Kesh's targets | [`world.md`](world.md): Kesh's target list and the later-mission briefs |
 | The ship's layout | [`world.md`](world.md): "Season Two: how it plays"; [`maps/`](maps) |
-| The sector map (Torvane's Mart) | Published at https://claude.ai/artifact/MirKYHKs6SLL8LSvm63Zmt (v17, day 36 ~0600). Generator: [`maps/torvanes-mart-sector-map.py`](maps/torvanes-mart-sector-map.py) (`python3 it out.html`, then the lore-art skill's `render.js out.html out.png 1600 1080`; upload the PNG as an asset and swap the `<img src>` in `project/Main.dc.html`) |
+| The sector map (Torvane's Mart) | Published at https://claude.ai/artifact/MirKYHKs6SLL8LSvm63Zmt (v18, day 37 ~0530: the Light gone from the Mart). Generator: [`maps/torvanes-mart-sector-map.py`](maps/torvanes-mart-sector-map.py) (`python3 it out.html`, then the lore-art skill's `render.js out.html out.png 1600 1080`; upload the PNG as an asset and swap the `<img src>` in `project/Main.dc.html`) |
 | An item's history, blessing or spirit; the container's stock; builds; books; the wishlist | [`inventory.md`](inventory.md): its contents list, then that part |
 | A picture of an item, a battle map, a ship map | The lore-art skill |
 | Something from long ago | Search the books; [`archive.md`](archive.md) |

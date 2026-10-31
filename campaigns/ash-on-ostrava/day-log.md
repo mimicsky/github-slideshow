@@ -227,3 +227,7 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~2251-2300: 'Yeah, cut it for Stinger's sticks; the custom ones are just a box with a Stinger-stick neck.' **Schematic 18 final** (Current state). Plasteel spare after 17 and 18: ~1 3/8 sheets.
 - (OOC ~2302: the player asked if the Super V should beat 10: raised to strings of 12 (Tamsin 13), heat 2 on a 12+ string.)
 - ~2304: Tamsin, to himself: it'll get hot doing its job: added a thicker barrel and cooling fins to schematic 18.
+
+## Day 37
+
+- ~0530: Tamsin woke (slept ~2310-0530; Night owl: no penalty). In the warp, day 2 of ~5 to the Rest. **Teo's plan for the ship's guns slid under the door overnight (d6 6, on a 3+ by morning as sworn).**

@@ -1,4 +1,4 @@
-# Sector map of Torvane's Mart, day 36 ~0600 (end of day 35). The Light's knowledge only. North up, schematic (not to scale).
+# Sector map of Torvane's Mart, day 37 ~0530 (end of day 36: the Light has left). The Light's knowledge only. North up, schematic (not to scale).
 import sys, math, random
 out = sys.argv[1]
 random.seed(31)
@@ -198,7 +198,7 @@ dist += '<text x="720" y="618" text-anchor="middle" class="dn">DOCK RING</text>'
 dist += '<text x="800" y="760" text-anchor="middle" class="dn">LOW QUAY</text>'
 dist += '<text x="800" y="776" text-anchor="middle" class="dn2">docks · canneries · bunk stacks</text>'
 dist += '<text x="868" y="958" class="dn2">tug dock</text>'
-dist += '<text x="330" y="619" text-anchor="middle" class="lt2" fill="#4fa3ff">THE BRIGHT LIGHT · BERTH 12</text><text x="330" y="635" text-anchor="middle" class="dn2" fill="#4fa3ff">docked ~0745 · THE LIGHT IS HERE</text>'
+dist += '<text x="330" y="619" text-anchor="middle" class="lt2" fill="#4fa3ff">BERTH 12 · EMPTY</text><text x="330" y="635" text-anchor="middle" class="dn2" fill="#4fa3ff">the Light left ~1312 day 36</text>'
 dist += '<text x="892" y="560" text-anchor="end" class="dn2" fill="#8fe8e0">air on ~1409 · valve house</text>'
 dist += '<text x="740" y="478" class="dn2">west stair</text>'
 dist += '<text x="852" y="455" class="dn2">ridge road</text>'
@@ -212,6 +212,7 @@ dist += '<path d="M250,258 L470,320" stroke="#d9b45a" stroke-width="1.2" stroke-
 dist += '<text x="200" y="310" text-anchor="middle" class="lt2" fill="#d9b45a">VASHTI\'S ROCK</text>'
 dist += '<text x="200" y="327" text-anchor="middle" class="dn2">Mag Vashti\'s Void Exchange · ~8 km off</text>'
 dist += '<text x="200" y="343" text-anchor="middle" class="dn2">her own guns · the rising never reached it</text>'
+dist += '<text x="200" y="360" text-anchor="middle" class="dn2" fill="#4fa3ff">the Light traded here ~1332-1520 day 36</text>'
 # compass and scale note
 dist += '<g transform="translate(1530 990)"><path d="M0,-30 L8,0 L0,-6 L-8,0 Z" fill="#c9d2d8"/><text y="-36" text-anchor="middle" class="dn2">N</text></g>'
 dist += '<text x="1580" y="1060" text-anchor="end" class="dn2">schematic, not to scale · Spire to mast ~1.5 km · mast to scrubber hall ~500 m</text>'
@@ -243,10 +244,11 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{
 {ring}{ridge}{high}{low}{west}{scrub}{crash}{ship}{dist}
 {marks}{labels}{notes}
 <text x="24" y="50" class="tt">TORVANE'S MART</text>
-<text x="26" y="74" class="st">DAY 36 · ~0600 · WHAT THE LIGHT KNOWS</text>
+<text x="26" y="74" class="st">DAY 37 · ~0530 · WHAT THE LIGHT KNOWS</text>
 <text x="26" y="100" class="lt2" fill="#ff6b5a">THE MOEBIAN 6TH ARE BEHIND IT ALL</text>
 <text x="26" y="117" class="ls">a rotted Guard regiment · the jars, the girl, the plan</text>
 <text x="26" y="134" class="ls">~0445: all seven done. Thask, Crale, Wick, Tegg taken.</text>
+<text x="26" y="151" class="ls">day 36: Aldwyn took the prisoners; the Light left.</text>
 <rect width="{W}" height="{H}" filter="url(#grain)" opacity="0.6"/>
 </svg>'''
 html = f'''<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=IBM+Plex+Mono:wght@500;700&display=block"><style>html,body{{margin:0;background:#000}}svg{{display:block}}</style></head><body>{svg}</body></html>'''
