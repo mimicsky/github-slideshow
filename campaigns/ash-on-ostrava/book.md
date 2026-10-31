@@ -678,7 +678,7 @@ seventeen hundred. Twice in the night the lights flickered, and once something
 whispered behind the wall, and a Geller node in the lower hold tripped and reset
 itself. Nothing came through.
 
-## Chapter 6: Dock Six
+## Chapter 6: Boarding School
 
 Kell's voice woke him at a quarter to six. "Halvard says we're six hours out."
 
@@ -858,7 +858,7 @@ pistol. He doesn't miss with it.
 Varsaine are going after Tessaly. Sallow, patch up Strahn. Dace, watch over
 these people. Everyone, hold this ship. We'll be back soon."
 
-## Chapter 8: Level Nine
+## Chapter 8: Surrender Now…
 
 A cargo lift took five of them up through the spire to a carpeted officers'
 tier that smelled of polish and cigars. Round the corner, a single bored sentry
@@ -1033,7 +1033,7 @@ brought her Tessaly in the room."
 
 "Good. I'll be ready."
 
-## Chapter 10: Grey and White
+## Chapter 10: The Light's Look
 
 Ottrick wanted the bolt rounds. Eight for the pistol, five for the rounds.
 
