@@ -21,7 +21,7 @@ Chapter 19. Season Two begins here.
 
 # Part One: The Spindle
 
-## Chapter 1: The Bright Light
+## Chapter 1: Interrogator Rook and Task Force Light
 
 The pilgrim-bells were ringing somewhere up the spire when the last of the paint
 dried.
@@ -157,7 +157,7 @@ it."
 
 "Alright," said Tamsin, and went to look.
 
-## Chapter 2: The List
+## Chapter 2: First Mission
 
 Green light climbed out of the briefing-room table when he laid his hand on it,
 and Kesh's seal turned slowly over the top. Five worlds hung in the light, each
@@ -276,7 +276,7 @@ When the crates were aboard, Tamsin walked onto the bridge.
 
 "Bring her up," he said, "and on course."
 
-## Chapter 3: Cargo
+## Chapter 3: Nessa?
 
 The *Bright Light* went into the warp hard. The deck shuddered; every light on the
 bridge dimmed and came back; a whine rose through the hull plates and cut off.
@@ -545,7 +545,7 @@ She lay back and turned her face to the wall. "Get me that knife. I'll start pay
 it off on your dock ring."
 
 
-## Chapter 4: The Commodore
+## Chapter 4: Ustrennos Arrival
 
 The *Bright Light* came out of the warp hard and wide of Ustrennos, and the stars
 settled back into place around the old anchorage of Lord-General Drachen.
@@ -994,7 +994,7 @@ Morcant and Tavi went off to the range, arguing about crate sizes. Kell walked N
 back down to her cell. Corvane paused in the doorway, nodded to Tamsin, and went.
 
 
-## Chapter 5: Ring Three
+## Chapter 5: Capturing Point
 
 At 0240 his bead clicked him awake.
 
