@@ -4,7 +4,7 @@ Day log for Ash on Ostrava. One bullet per timestamp. At the day's end the day g
 
 Safety-net notes, one line per big scene, deleted once the day's chapter is written (README, End of every in-game day).
 
-- **Day 36 is all in the book** (Chapters 123-144 cover ~0600-2306). Day 36's tally is done.
+- **Day 36 is all in the book** (Chapters 106-117 cover ~0600-2306). Day 36's tally is done.
 
 ## Day 37
 
