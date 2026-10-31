@@ -1237,7 +1237,7 @@ five to four.
 little on the other side. A confused boy who didn't know the truth of things." On
 a fifteen, Varsaine agreed: a collar, Tamsin's supervision, Kesh's final word.
 
-## Chapter 13: The Penitent
+## Chapter 13: Corvane's Redemption
 
 Varsaine closed the collar round Corvane's neck in the brig at dawn. "Do you
 accept?" "I accept, sir." The red light settled to an ember. "He's yours, Rook."
@@ -1273,7 +1273,7 @@ the field I'd go for my sidearm, and you'd already have killed me. I concede."
 
 "And I'll be up high making sure nobody gets close to you, boss."
 
-## Chapter 14: Saint Ivaine's Rest
+## Chapter 14: Her.?
 
 Eight days in the warp. Every morning on the mat; Dexterity crept up past fifty.
 Strahn sent for Tamsin on the fourth day and gave him a yellowed carbon copy of
@@ -1313,7 +1313,7 @@ Strahn, from his pillows, told her where the evidence was. "You're standing on i
 Near enough." A crypt beneath the Saint's statue, under sanctuary seal. "The word
 is *Kasr Holn*."
 
-## Chapter 15: Under the Saint's Feet
+## Chapter 15: You Have No IDEA
 
 Halfway up the processional way, fifty Cadian refugees and a preacher blocked the
 road. "*That's Kesh!*" Tamsin ringed her with the Light and drew Shameholder.
