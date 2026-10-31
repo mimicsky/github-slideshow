@@ -57,7 +57,7 @@ add("gear","C","MBF",[("Speedloader (auto-revolver)",0.25)])
 # Player designs (session 9): Kasr Hive, Kasr Breaker, Kasr Frontier. Rules in catalogue/stub.md.
 add("stub","U","MBF",[("Compact autogun, 'Kasr Hive' pattern (top 50-round mag; chains of 8; +1 within 10 m, -2 past 30 m)",3)])
 add("stub","R","MBF",[("Anti-materiel rifle, 'Kasr Breaker' pattern (heavy stubber rounds, 5-round box; through cover; 2 steps a hit; braced)",15)])
-add("stub","C","MBF",[("Lever-action stub rifle, 'Kasr Frontier' pattern (12-round tube; never jams; chains of 6, or 3 double-lever shots)",1.5)])
+add("stub","U","MBF",[("Lever-action stub rifle, 'Kasr Frontier' pattern (12-round tube; never jams; chains of 6, or 3 double-lever shots)",2.5)])
 # Player design (session 9): the Kasr Trident combi-pistol. Rules in catalogue/stub.md.
 add("stub","R","BF",[("Combi-pistol, 'Kasr Trident' pattern (twin autogun barrels, 40-round mag, chains of 6; under-barrel bolt shot last, -1)",12)])
 # Darktide-inspired autoguns, player-detailed (session 8). Full rules in DND_CODEX Part 8.
@@ -68,13 +68,13 @@ add("stub","U","MBF",[("Shredder autopistol, Ius pattern (Darktide; 30-round mag
 add("stub","U","MBF",[("Headhunter autogun, Agripaa pattern (Darktide; 15-round mag; semi-auto marksman; +2 aimed past 30 m; chains of 2)",3)])
 add("stub","U","MBF",[("Combat shotgun, 'Kasr Sweeper' duckbill pattern (one-piece metal body; 8-shell tube; semi-auto chains of 4; flat spread hits up to 3 abreast within 10 m; -2 past 15 m)",3)])
 add("stub","U","BF",[("Machine pistol, 'Kasr Hornet' pattern (autogun rounds, 40-round mag; chains of 10, no hit bonuses; hair trigger; jams on shot dice 1-4 from the 13th continuous round; dumps the mag when dropped)",2.5)])
-add("mod","U","MBF",[("Muzzle brake (threaded muzzles: a miss in a chain gives no -1)",1.5)])
+add("mod","U","MBF",[("Muzzle brake (threaded muzzles: a miss in a chain gives no -1; the flash gives you away in the dark)",1.5)])
 add("stub","R","MB",[("Web pistol, Arbites pattern (entangles, no damage; 4 shots a canister)",8)])
 add("ammo","U","MB",[("Web canister (4 shots)",1)])
 add("stub","R","BF",[("Needle rifle (silent toxin darts, 8-dart magazine; CON save or drop a health step)",18)])
 add("ammo","U","BF",[("Needle rifle toxin darts (8)",2),("Needle darts, black-tip (10)",3),("Needle darts, panic (10)",3),("Needle darts, tracker (5)",3)])
-add("ammo","R","BF",[("Needle darts, shard (10)",4),("Needle darts, widow (10)",5),("Needle darts, truth (5)",5)])
-add("ammo","U","MBF",[("Stub/auto rounds, HP (box)",1),("Stub/auto rounds, AP (box)",1.5),("Stub/auto rounds, HV (box)",1),("Stub rounds, flat-tip (box)",0.75),("Autogun rounds, CAP ceramite-tipped armour-piercing (box)",2)])
+add("ammo","R","BF",[("Needle darts, shard (10; through carapace on any hit, heavy carapace on a solid hit)",4),("Needle darts, widow (10)",5),("Needle darts, truth (5)",5)])
+add("ammo","U","MBF",[("Stub/auto rounds, HP (box)",1),("Stub/auto rounds, AP (box; through carapace on a solid hit inside ~15 m)",1.5),("Stub/auto rounds, HV (box)",1),("Stub rounds, flat-tip (box)",0.75),("Autogun rounds, CAP ceramite-tipped armour-piercing (box; through carapace on a solid hit at any range)",2)])
 add("stub","R","MBF",[("Vraks-pattern sniper autorifle",7),("Lucius-pattern 'Ironclad' shotgun",4),("Arbites combat shotgun (shock shells)",6)])
 # --- Bolt ---
 add("bolt","U","MF",[("Bolt pistol, Godwyn-Deaz (officer)",12)])
@@ -107,8 +107,9 @@ add("melta","U","MF",[("Melta charge (spare)",5)])
 add("flame","U","MBEF",[("Flamer, Ryza pattern",8),("Hand flamer",6),("Promethium canister",1),("Ecclesiarchy 'cleansing' flamer",9)])
 add("flame","R","MF",[("Heavy flamer",20),("Incinerator (blessed fuel)",25)])
 # --- Launchers / heavy ---
-add("launcher","U","MF",[("Underslung grenade launcher, Ryza",6),("Grenade launcher, stand-alone",5),("Grenade launcher, revolver-drum",8)])
-add("heavy","U","MBF",[("Heavy stubber",4),("Heavy stubber, tripod",5),("Mortar with 6 rounds",12)])
+add("launcher","U","MF",[("Grenade launcher, stand-alone",5),("Grenade launcher, revolver-drum",8)])
+add("heavy","C","MBF",[("Heavy stubber",4),("Heavy stubber, tripod",5)])
+add("heavy","U","MBF",[("Mortar with 6 rounds",12)])
 add("heavy","R","MF",[("Heavy bolter, 1 belt",40),("Missile launcher (2 frag, 1 krak)",25),("Autocannon",35),("Lascannon",45),("Multilaser (crew)",30),("Rocket-propelled grenade tube (2 rounds)",10)])
 # --- Explosives ---
 add("explosive","C","MBF",[("Frag grenade",1),("Smoke grenade",1)])
@@ -161,14 +162,20 @@ add("gear","U","MBF",[("Back gun-scabbard / heavy sling mount (carry a second lo
 add("gear","C","MBF",[("Mag belt / bandolier (+4 packs or mags ready)",0.5),("Melee sheath / scabbard (fits the weapon)",0.25),("Belt side-pouch (2 grenades or small kit)",0.25),("Pistol holster (hip or chest)",0.25)])
 add("armour","R","E",[("Sororitas power armour, damaged",50),("Rosarius (blessed field, small)",30)])
 # --- Optics / sights / mods ---
-add("mod","U","MBF",[("Reflex sight",3),("Telescopic sight (+2 long shots; -1 hip/snap and inside 15 m)",3),("Photo-visor (low-light)",2),("Magnoculars",1.5),("Bipod (+2 aimed braced or prone)",0.5),("Weapon sling, padded",0.25),("Quick-draw holster",0.5),("Silencer (stub/auto; quieter; recoil -1; -1 quick-draw; fouls faster)",2),("Extended magazine (+50% shots)",1),("Bayonet lug kit",0.25),("Laser designator",3)])
-add("mod","U","MBF",[("Pressure-pin safety (hair triggers: not drop-prone while pinned)",0.5),("Pistol drum, auto/machine pistol (2x shots; -1 quick-draw)",1),("Pistol drum, stub (2x shots; -1 quick-draw)",0.75),("Las drum, pistol double-cell (2x shots; -1 quick-draw)",1.5),("Laser sight (+1 hip and snap shots within ~20 m; beam shows)",1.5),("Laser and lumen combo module",2),("Pistol reflex sight (+1 aimed pistol shots within ~30 m)",2)])
+add("mod","U","MBF",[("Reflex sight",3),("Telescopic sight (+2 long shots; -1 hip/snap and inside 15 m)",3),("Photo-visor (low-light)",2),("Magnoculars",1.5),("Weapon sling, padded",0.25),("Quick-draw holster",0.5),("Silencer (stub/auto; quieter; recoil -1; -1 quick-draw; fouls faster)",2),("Extended magazine (+50% shots)",1),("Bayonet lug kit",0.25),("Laser designator",3)])
+add("mod","U","MBF",[("Pressure-pin safety (hair triggers: not drop-prone while pinned)",0.5),("Pistol drum, auto/machine pistol (2x shots; -1 quick-draw)",1),("Pistol drum, stub (2x shots; -1 quick-draw)",0.75),("Las drum, pistol double-cell (2x shots; -1 quick-draw)",1.5),("Laser sight (+1 hip within ~20 m or +1 after a swap within ~30 m; beam shows)",1.5),("Laser and lumen combo module",2),("Pistol reflex sight (+2 aimed pistol shots within ~30 m; -1 past 30 m)",2)])
 add("mod","C","MB",[("Under-mount lumen",0.5),("Ergo grip sleeve (never slips; -2 to disarm you)",0.25)])
 add("mod","U","MBF",[("Heavy foregrip (+2 aimed; misses -2; -1 swap)",1.5),("Handstop foregrip (+2 first shot; free swaps; -1 aimed)",1.5),("Heavy suppressor (stub/auto; near-silent; recoil -2; -1 quick-draw and swap; fouls faster)",3),("Compensator (recoil -2; +1 more after hits; -1 aimed)",2),("Tac rifle stock (+1 first, +1 aimed, -2 swap)",1.5),("Custom barrel, stub pistol/SMG (+1 aimed, +1 past 30 m)",1.5)])
 add("mod","U","MBF",[("Offset backup sight (cancels scope close penalty; -1 quick-draw)",1),("Low-light optic (no darkness penalty; flash blinds 1 beat)",2),("Match trigger (+1 aimed; -1 hip/snap)",1),("Hair trigger (+1 first shot; drop-prone unless pinned)",1),("Underslung shotgun, masterkey (1-2 blasts; -1 aimed)",3)])
 add("mod","R","MAF",[("Underslung grenade launcher (one grenade shot; -1 aimed)",5)])
 add("mod","C","MB",[("Burst limiter (recoil -1; strings max 3)",0.5),("Folding stock (+1 quick-draw; -1 aimed)",1),("Flash hider (no muzzle flash in the dark)",0.5),("Weighted grip (recoil -1; -1 quick-draw)",0.5)])
-add("mod","C","MB",[("Ergo foregrip (+1 first shot; recoil -1)",1),("Light rifle stock (+2 swap; -1 aimed)",1)])
+add("mod","C","MB",[("Ergo foregrip (+1 first shot only)",1),("Light rifle stock (+2 swap; -1 aimed)",1)])
+add("mod","C","MBF",[("Bipod (+2 aimed braced or prone; a beat to set)",1.5)])
+# Player designs (day 35): holo sight, heartbeat scanner, arc calculator, blacklight tracking visor, grenade bandolier. Rules in catalogue/kit.md.
+add("mod","U","MBF",[("Holo sight (+1 aimed within ~50 m; -1 hip shots)",2.5)])
+add("mod","R","MAF",[("Heartbeat scanner, side-rail screen (heartbeats through walls to ~30 m; no surprise while watched)",5),("Arc calculator, launcher sight (+3 launcher shots past ~30 m, first shot or a repeat on the same spot)",4)])
+add("gear","R","MAF",[("Blacklight tracking visor (helm; +2 tracking and traces in a ~10 m cone)",4)])
+add("gear","C","MBF",[("Grenade bandolier (+6 grenades ready; half-beat drum reload)",0.5)])
 add("mod","U","MBF",[("Extended magazine kit, las or stub (+50% shots)",1.5)])
 add("mod","U","MBF",[("Diamantine whetstone (any edged blade: +1 pierce for the next 2 hits; ~10 uses)",1)])
 add("mod","R","MF",[("Underslung chain-bayonet (rifle-mounted chainsword)",10)])
@@ -176,7 +183,7 @@ add("mod","R","MAF",[("Extended magazine kit, bolt or plasma housing (+50% shots
 add("mod","R","MAF",[("Hot-shot conversion kit (lasgun)",5),("Overcharge capacitor (las)",8),("Mechanicus focusing lens",10),("Auto-targeter (augur sight)",12),("Heat-sink shroud (las)",4),("Chainsword teeth, adamantium (set)",12),("Motor housing, high-tolerance",9)])
 # --- Gear / tech ---
 add("gear","C","MB",[("Micro-bead",0.5),("Chrono",0.5),("Lumen (torch)",0.25),("Field rations (crate)",0.5),("Water purifier",0.5),("Rope (20 m)",0.25),("Lho-sticks (carton)",0.25),("Imperial Infantryman's Uplifting Primer",0.1)])
-add("gear","U","MBF",[("Map-slate",1),("Auspex (hand)",6),("Vox-caster (manpack)",5),("Flares (box of 10)",0.5),("Grav-chute",6),("Climbing rig and grapnel",1.5),("Demolitions kit / bag",1.5),("Large field pack",1),("Drag harness",0.5),("Multi-key / lockbreaker",2),("Cutting torch",3),("Med-kit",3),("Stimm (dose)",0.5),("Antitoxin (dose)",1),("Combat drug 'slaught' (dose)",1)])
+add("gear","U","MBF",[("Map-slate",1),("Auspex (hand)",6),("Vox-caster (manpack)",5),("Flares (box of 10)",0.5),("Grav-chute",6),("Climbing rig and grapnel",1.5),("Demolitions kit / bag",1.5),("Large field pack",1),("Drag harness",0.5),("Multi-key / lockbreaker",2),("Cutting torch",3),("Med-kit",3),("Stimm (dose)",0.5),("Antitoxin (dose)",1)])
 add("gear","R","B",[("Spook (dose; wakes latent psychic power, Perils 1-6)",6)])
 add("gear","C","B",[("Obscura (dose; hive narcotic, trade value)",0.5),("Spur (dose; ganger stimulant, +1 everything, early crash)",0.5)])
 add("gear","U","MB",[("Kalma (dose; nerve calmer, fearless, -1 strike first)",1),("Morphia (dose; painkiller, one health step better)",1)])
@@ -235,7 +242,7 @@ add("exotic","X","BFAEM",[
  ("Eldar shuriken catapult (no ammo)",35),("Tau pulse carbine (half charge)",35),("Tau pulse rifle (no charge)",30),
  ("Kroot rifle (bladed stocks)",12),("Dark Eldar splinter pistol (poison, 1 mag)",35),("Necron gauss flayer fragment (inert)",50),
  ("Archeotech laspistol (Dark Age, unknown maker)",60),("Astartes combat knife (Space Marine)",15),("Astartes bolt pistol (huge, heavy)",45),
- ("Sororitas inferno pistol (no charge)",30),("Needle pistol (noble's, 6 darts)",20),("Exitus-pattern round (single, Assassin)",50),
+ ("Sororitas inferno pistol (no charge)",30),("Needle pistol (noble's, 6 darts)",20),
  ("Digital weapon ring (one shot, Jokaero)",60),("Webber (Mechanicus, rare)",20),("Arc rifle (Skitarii)",25),
  ("Radium carbine (Skitarii, toxic)",20),("Volkite serpenta (Dark Age pistol)",70),("Grav-pistol (no charge)",55),
  ("Ork 'burna' (flamer, leaks)",8),("Genestealer cult mining laser (heavy)",15),("Hrud fusil (temporal, unstable)",50),

@@ -30,7 +30,7 @@ for 4 days, 3-4 for 3 days, 5-6 for 2 days.** They're helpless the whole time an
 medic's watch (fluids, turning). **They wake one health step better**, and **lasting injuries
 heal in half the time** (a healing eye socket, broken bones, surgery recovery: Varga's 1-2
 weeks becomes 4-7 days). **Risk:** on a Down or dying patient the medic rolls d20 at the
-injection: 1-3 the heart can't take it (they stay Down; the next turn decides). One course
+injection: 1-3 the heart can't take it (they stay Down; the next beat decides). One course
 per injury; a second dose on the same wound does nothing more.
 
 ## Combat drugs
@@ -74,9 +74,9 @@ otherwise. Player-approved, session 8.
 | **Obscura** | common, 0.5 TV, black market | The hive narcotic: euphoria and dreams, addictive, illegal and everywhere. No fight bonus; a user is dazed (-2) for the dose. Trade value, and a lead into the underhive and the syndicates |
 | **Kalma** | uncommon, 1 TV | Guard-issue nerve calmer: immune to fear, panic and wavering for the dose, but -1 to strike first |
 | **Morphia** | uncommon, 1 TV | Field painkiller: fight as one health step better, but you can't feel how hurt you are (the DM tracks it secretly) |
-| **Spur** | common, 0.5 TV, black market | Cheap ganger stimulant: +1 to everything, but you crash on the last turn instead of one turn after |
-| **Onslaught** | uncommon, 1.5 TV, black market | Speed: two moves in one turn, but -2 shooting |
-| **Glanding** | rare, 20 TV, needs an augmetic surgeon | An implanted gland, no doses: once a fight, trigger any one combat drug's effect for 2 turns |
+| **Spur** | common, 0.5 TV, black market | Cheap ganger stimulant: +1 to everything, but you crash on the last beat instead of one beat after |
+| **Onslaught** | uncommon, 1.5 TV, black market | Speed: two moves in one beat, but -2 shooting |
+| **Glanding** | rare, 20 TV, needs an augmetic surgeon | An implanted gland, no doses: once a fight, trigger any one combat drug's effect for 2 beats |
 | **Blood-stimm** | Khorne cults only | +3 melee; can't shoot or retreat; must attack the nearest body, friend or foe |
 
 ## Cult and heretic drugs

@@ -44,9 +44,7 @@ Day 32 (training day) recap is in the day log. (transit 2 days: **arrive day 33*
 
 - **Before leaving Ustrennos:** return the library books (Books table); ~~re-key THE LIGHT~~ (done day 27-28); fit Varga's eye if the socket's ready; send the FOR KESH box (Mabry's book already went with Aldwyn, day 14); roll nemeses at mission start.
 
-### Day log, session 10 (days 16-33)
-
-### Day log, session 10 (newest first)
+### Day log, session 10 (days 16-33; newest first)
 
 - **Day 33 (warp):** ~1030 woke; ~1050 kitted and on the bridge, ten minutes out (no lift pack: the player corrected it). **Full kit table set** after the player's corrections (SCIHU stim to Sallow; Varga no grenades; Dace's hip healed, no autopistol; Hollis hellgun, Six Bells backup, hand flamer; Brenner and Sallow no laspistol; Isk a laspistol; Corvane officer's power sword and shotlas; Tey no hair trigger, no laspistol; Sorel a hellgun from Tamsin; Mira and Teo laspistols; Ferro-Ashe's weapon rolled, d8 = 4: the stolen Kantrael lasgun). Then: Hollis carries 4 grenades on him plus Six Bells' loaded drum (8 frags and 2 spec flashes in all), the kraks went to Tavi (the crate is open stock to anyone); Varga's gun-link was fitted day 30; the Valkyrie's rocket pods are empty; Kell's shield arm still to fit; carried gear (chest rig, pouches, scabbards, holsters) added to the Full kit. Power ratings re-run.
 - **Day 32 (warp):** dawn: Tey 5 for 5 under Varga (event 20). Dace dulled two Gate Guard bayonets; **knife bouts** (Corvane, Sorel, Varga, Mira, Morcant, Tavi, Ferro won round one; bracket: **Mira champion**; then **Tamsin beat Mira 5-2**: both titles). Nessa's 'sneak past me' course (Tamsin, Kell, Varga, Ferro across). **Shooting championship: Tamsin 82**, Varga 60. Speech: 'you can't do it all, but the Light can'. Power ratings set (reference only). Laser sights on Last Word and Tey's hellpistol; Dace banded a rail onto Last Word overnight (15).
@@ -150,9 +148,7 @@ Tamsin's labelled drawing on oilcloth, ~1615 day 18. Communed: a young, crude sp
 - **Later attachments** (catalogue, kit: pistol attachments): auto drum (80 rounds), laser/lumen combo, pistol reflex sight, ergo grip sleeve.
 - **Parts:** shops (restock day 20) or Doradne machines them. **Builder: Dace** (+1 from Ottrick's manuals): bench work ~1 day; frame forge work ~2 days, once he can stand.
 
-### Books table (library books returned day 31)
-
-### Books (codex house rule 7, Books; set session 10)
+### Books (codex house rule 7, Books; set session 10; library books returned day 31)
 
 Library books signed out from the **Ustrennos Fleet Archive** (ring one) under the Ordo's name: **return before departure.**
 
@@ -179,8 +175,6 @@ Library books signed out from the **Ustrennos Fleet Archive** (ring one) under t
 
 ### Lift packs (session 9)
 
-### Lift packs (session 9)
-
 Built to the **Kasrkin-pattern jump pack** (catalogue, kit; a real, approved Cadian design), so in the field they pass as approved kit; the build itself is tech-heresy for Ferro-Ashe. Rules: about 1 minute of lift per charge in ~6 hops of 10-15 m, ~2 hours to recharge on a station, loud and bright while lifting, Airborne rules (codex Part 8), a natural 1 on a hop drops the user a step on landing.
 - **Varga's pack: begun ~1730 day 13, Ferro's roll 18: success; ready ~1730 day 15.** Spent: 1 machine-core, 1 servo-motor, 4 power cells.
 - **Isk's** waits on another machine-core.
@@ -189,3 +183,18 @@ Built to the **Kasrkin-pattern jump pack** (catalogue, kit; a real, approved Cad
 ### The Light grew (session 7) and kit wishes
 
 **The Light grew (session 7, warp day 1 to the Rest):** Kell's six storm troopers asked to wear the Light's colours and Tamsin took them in: **Hollis** (Kell's second, calm, grey crop), **Brenner** (vox, hailer), **Isk** (marksman, long scoped hellgun, prayer token), **Tavi** (demolitions, young, quick), **Morcant** (shotgun, broken nose), **Sallow** (medic, seven years with Kell). The Light is now ten. **New rank: Light-bringers** (Tamsin, at the range): every member of the Light is a Light-bringer, not a storm trooper. Role tags from now on (with class, set by the player): Kell (Light-bringer sergeant, assault), Varga (Light-bringer, rifle), Hollis (Light-bringer, grenadier), Brenner (Light-bringer, vox), Isk (Light-bringer, sniper; he/him, set by the player), Tavi (Light-bringer, demolitions), Morcant (Light-bringer, heavy), Sallow (Light-bringer, medic), Dace (Light-bringer, melee/smith); Corvane (penitent; **Light-bringer, point** from session 8; **tag now Light-bringer, duelist**, set by the player day 33). **Kit roles and wishes (warp day 1 to the Rest):** Kell, close assault: plasma pistol, chain axe (coming), Officer or a combat shotgun by the job, full carapace with a left shield-arm plate, 3 frag/2 krak/1 smoke. Dace, front-line shield and blade: real carapace, an autopistol, 2 smoke, swap his cracked visor; one day a masterpiece plasteel blade. Tavi, demolitions/fast: more breaching charges, kraks, a melta bomb some day, a bigger bag, a lascarbine converted to hot-shot (eats packs). **Morcant gets Kade's heavy stubber** (suppression) and keeps his shotgun by the job; wants stubber belts, a drum mag, a maul or shock maul, frags (standard fuse: he cooks them). Isk, long-range marksman: convert their hellgun for range (longer barrel, finer focusing lens, low-light scope) rather than a new long-las; a heavy laspistol sidearm; grey hooded cloak over white helmet when sniping (Tamsin agreed). Sallow, medic: big bag, proper medicae pack (like Haldis's), stimms, 2+ smoke, a lascarbine (her pick over an autocarbine), laspistol, drag harness. Brenner, vox and entry: better vox-caster, auspex, cogitator-spike, flares, smoke, a lascarbine; dreams of a servo-skull. **Took the Navy cutting torch (half charge) and the *Ember*'s engineer's tool roll** from the container. Hollis, the flexible one: underslung grenade launcher, hand flamer, command bead, chrono and map-slate, full carapace. **Tamsin promised Hollis the second fire team when the Light is big enough.** Tamsin told the Light about Corvane's collar: not a warm welcome, not a cold one; he works his way in or he doesn't. Dace asked them to give Corvane the chance they gave him. Quiet night (rolled 20). Uniform (from the start, retconned by the player in session 7): **grey plate with white trim** (edges, helmet stripe, belt), grey Navy coveralls under it; weapons personal. Six sets done, four wait for paint from the Rest (Ottrick buying grey and white deck paint). No stealth penalty in grey.  care about the fight; know your weapon, make it yours and paint it; train hard; family looks after family; the container belongs to all of them; carry loot for the boss without complaint. Painting them needs ~36 L; only ~12 L left.
+
+## XP history
+
+| XP by session | XP |
+| --- | --- |
+| Session 1 (Tower Nine, the Open Gate cult) | 875 |
+| Session 2 (Primus shields, reactor, *Calyx Dawn*) | 6,100 |
+| Session 3 (Kessel's Reach, Merrevane, *Pilgrim's Mercy*) | 11,450 |
+| Session 4 (spiral dreams, chapel speech) | 1,800 |
+| Session 5 (Saint Ivaine's Rest: Kesh saved, ambush, page delivered) | 5,750 |
+| Session 6, Ostrava mission (the *Ember* taken, Strahn rescued, Tessaly and 24 others captured alive, no deaths) | 8,500 |
+| Session 7 (the crypt and the evidence; Kesh's judgement; the *Gate Unbroken* boarded, Drachen taken alive, no Light-bringer lost) | 15,500 |
+| Session 8 (Season One close-out; Season Two mission 1: Ustrennos, Orsk turned, the Spindle taken, 46 holdouts dead or captured, Dresh and the seed destroyed, six plague vials intercepted, no Light-bringer lost) | 14,500 |
+| Session 10 (Torvane's Mart: the Spire pad, Old Wick taken, the vox mast saved, the gunship down, the burning tenement, the scrubber hall and the air back on, the Moebian 6th uncovered, berth 31: Thask, Ilsabet and the girl taken, the customs house and Venn's garrison freed, Crane Yard 6 and Dagan Crale beaten one on one, the cannery and Pell freed, an elite Hookmen push broken, Voke's bribes and vault, no Light-bringer lost) | 18,000 |
+| Session 9 (Ustrennos Station: the Slack Line and the *Kestrel's Due*, Joss and Wren's crew broken, the Exitus round, Mabry and the strongbox, Aldwyn's hand-off, Marsk and Selk taken, the Bloom located, Orne killed and TALLY broken at the Spindle, no Light-bringer lost) | 16,500 |

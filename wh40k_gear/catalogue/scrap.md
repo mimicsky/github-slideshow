@@ -39,6 +39,14 @@ cuts the hose or bursts the tank, and the gun is dead for the fight. **Loud and
 hissing:** no stealth. Carried by ex-manufactorum workers, gang breachers and raider
 heavies; everywhere on a hive world.
 
+## Hand flamer
+
+**Hand flamer** (uncommon, 6 TV; Munitorum, black market, Ecclesiarchy, Free Traders). A one-handed promethium thrower:
+**a ~6 m gout in a narrow line; targets catch fire** (they drop a step next beat unless they spend it putting themselves out);
+**ignores cover that doesn't close over the target**; **4 bursts a canister** (promethium canister, 1 TV). Not a scrap gun, but it
+lives beside the torch-thrower so the two flamers sit together. (DM default, Ash on Ostrava, Hollis's Munitorum-issue one from
+Ottrick's trade; moved here from his kit row in the day-36 cleanup. His rebuild is schematic 2 on the campaign's `schematics.md`.)
+
 ## Torch-thrower (scrap flamer)
 
 **Torch-thrower** (common, 1 TV; black market). A welder's torch, a fuel line and a

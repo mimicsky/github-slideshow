@@ -31,9 +31,8 @@ slim urban-grey receiver, top rail over built-in iron sights, straight 20-round
 magazine, railed handguard, vented barrel cover, threaded muzzle (thread-cap when
 bare). Semi-auto: chains of up to 4 single shots, normal hit bonuses. Light
 trigger: +1 on the first shot of every string, and it is drop-prone. Vented: never
-builds heat, and the handguard stays cool to hold. Muzzle takes a silencer (the
-first shot from cover doesn't give the shooter away; -1 past 30 m) or a muzzle
-brake (a miss in a chain gives no -1). Autogun punch.
+builds heat, and the handguard stays cool to hold. Muzzle takes a silencer or heavy
+suppressor, or a muzzle brake (kit.md, Muzzles). Autogun punch.
 
 ## Headhunter autogun, Agripaa pattern
 
@@ -82,7 +81,8 @@ under the barrel, and a **compensator** on the muzzle.
   solid hit. **12-round magazine.** Effective to about **60 m**.
 - **Semi-auto:** chains of up to 4 single shots, normal hit bonuses.
 - **Compensator:** a miss in a chain gives no -1.
-- **Laser:** +1 on aimed shots out to 60 m. **Light:** no penalty for darkness
+- **Laser:** built-in laser sight (kit.md, Laser sight; changed with the player, day 36
+  cleanup). **Light:** no penalty for darkness
   within 20 m, but while it's on, everyone can see where you are.
 - Anyone from Ultramar knows what it means; the service number says whose it was.
 
@@ -96,6 +96,12 @@ give no +2/+1 to the next shot; misses still give -1. Single aimed shots work as
 normal. Stub barrel: +1 within 10 m, -2 past 20 m, easy to hide. Long barrel: +1 on
 single aimed shots past 20 m. Reloading loose rounds takes a full beat; a
 speedloader (common, 0.25 TV) makes it half a beat.
+
+## Silenced stub pistol
+
+**Silenced stub pistol** (uncommon, 2.5 TV; black market): a stub pistol with a built-in standard silencer; the
+kit.md Muzzles rules apply (recoil -1, no penalty on long shots, -1 on quick-draw, Dirty after ~20 shots). Sorel's
+(campaign sheet).
 
 ## Combat shotgun, 'Kasr Sweeper' duckbill pattern
 
@@ -125,6 +131,13 @@ the target drops a health step next beat. Against carapace, only a solid hit
 (beats the target's roll by 3+) finds a gap. +1 on single aimed shots past 30 m.
 Spare darts uncommon, 2 TV for 8.
 
+## Needle pistol (Kesh's pattern)
+
+**Needle pistol, Kesh's pattern** (Nessa's; not in the shop pools; Ash on Ostrava, session 10, DM default from
+Nessa's 'one dart, done'; the player may change it). Silent, about 25 m, one dart a beat. A hit drops one step as
+normal, and the toxin forces a **CON save against 15 or the target goes Down** (paralysed, alive; wears off after
+the fight). Takes the special darts below.
+
 ## Needle darts (special loads)
 
 **Needle darts, special loads** (player picks, Ash on Ostrava day 35; black market, Free Traders). Fit any
@@ -135,7 +148,7 @@ magazine holds one load at a time.
 | Load | Rarity, price | Effect |
 | --- | --- | --- |
 | **Black-tip** (potent toxin) | uncommon, 3 TV for 10 | The same toxin, brewed stronger: **the CON save is against 17, not 15**; a target who passes is still woozy: **-1 on their next roll** |
-| **Shard** | rare, 4 TV for 10 | Crystal tips: **through carapace and heavy carapace on any hit**, so the toxin always gets in (ceramite and power armour still stop it) |
+| **Shard** | rare, 4 TV for 10 | Crystal tips: **through carapace on any hit; through heavy carapace only on a solid hit** (ceramite and power armour still stop it; changed with the player, day 36 cleanup) |
 | **Widow** | rare, 5 TV for 10 | Lethal: **a failed save means dead**, no survival roll. Quiet kills |
 | **Panic** | uncommon, 3 TV for 10 | A hallucinogen: **CON save vs 15 or the target drops what's in their hands and runs or hides for 2 beats** |
 | **Truth** | rare, 5 TV for 5 | A truth serum: **CON save vs 15 or ~10 minutes of loose tongue: +4 on interrogating them** |
@@ -152,10 +165,10 @@ shrugs them at range, reinforced flak and carapace shrug them. A magazine holds 
 | Load | Calibre | Rarity, price | Effect |
 | --- | --- | --- | --- |
 | **HP** (hollow point) | stub, auto | uncommon, 1 TV a box | Opens up in flesh. **Flak doesn't shrug it, even at range; against no armour or flak, a solid hit drops two steps.** Reinforced flak and heavier shrug it |
-| **AP** (armour-piercing) | stub, auto | uncommon, 1.5 TV a box | Hardened steel core. **Flak and reinforced flak don't shrug it; through carapace on a solid hit.** Heavy carapace and heavier shrug it. Punches straight through flesh: **against no armour, a crit drops just one step** (no extra) |
-| **HV** (high velocity) | stub, auto | uncommon, 1 TV a box | Hot load, light bullet. **+1 on aimed shots past 30 m; flak doesn't shrug it at range.** The hot powder fouls the gun: **each HV shot counts as 2 toward Dirty** (never-jam guns ignore this) |
+| **AP** (armour-piercing) | stub, auto | uncommon, 1.5 TV a box | Hardened steel core. **Flak and reinforced flak don't shrug it; through carapace on a solid hit inside ~15 m.** Heavy carapace and heavier shrug it (changed with the player, day 36 cleanup). Punches straight through flesh: **against no armour, a crit drops just one step** (no extra) |
+| **HV** (high velocity) | stub, auto | uncommon, 1 TV a box | Hot load, light bullet. **+1 on aimed shots past 30 m; flak doesn't shrug it at range.** The hot powder fouls the gun: **each HV shot counts as 2 toward Dirty**; in a never-jam gun (the Kasr Frontier) **the string takes -1 after 20 HV rounds until the gun is cleaned** (changed with the player, day 36 cleanup) |
 | **Flat-tip** (the player's design) | stub | uncommon, 0.75 TV a box | A regular round, except against armour it can't get through: **a shrugged flat-tip hit counts as 2 shrugged hits toward wear-down** (Armour: every 3 drop a step) |
-| **CAP** (ceramite-tipped armour-piercing) | auto | uncommon, 2 TV a box | A ceramite tip on a steel core (changed by the player, day 36: tipped, not cored, so it's cheap enough to use; a hot-shot pack does the same for free). **Through carapace on any hit; through heavy carapace on a solid hit inside ~15 m.** Ceramite-forged and power armour shrug it. Punches through flesh like AP (**against no armour, a crit drops just one step**) |
+| **CAP** (ceramite-tipped armour-piercing) | auto | uncommon, 2 TV a box | A ceramite tip on a steel core (changed by the player, day 36: tipped, not cored, so it's cheap enough to use; a hot-shot pack does the same for free). **Flak and reinforced flak don't shrug it; through carapace on a solid hit at any range.** Heavy carapace and heavier shrug it (changed with the player, day 36 cleanup). Punches through flesh like AP (**against no armour, a crit drops just one step**) |
 
 ## Combi-pistol, 'Kasr Trident' pattern
 
@@ -192,7 +205,8 @@ and goes through carapace on any hit. **Must be braced** on its bipod or on cove
 ## Lever-action stub rifle, 'Kasr Frontier' pattern
 
 **Lever-action stub rifle, 'Kasr Frontier' pattern** (player design, Ash on Ostrava
-session 9; common, 1.5 TV; Munitorum, black market, Free Traders). A classic lever
+session 9; uncommon, 2.5 TV, changed with the player, day 36 cleanup; Munitorum, black
+market, Free Traders). A classic lever
 gun with a **12-round tube**; **never jams**. **Single lever:** chains of up to 6,
 normal stub-rifle shots. **Double lever:** work the lever twice to stack two rounds,
 and the shot lands **as two rounds** (through flak on any hit, through carapace on a

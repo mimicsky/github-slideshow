@@ -93,7 +93,8 @@ shots next beat**, and anyone who breaks cover in the arc **draws a free shot**.
 uncommon, 4 TV; Munitorum). Death Korps issue: a Mars-pattern lasgun with a long
 barrel and handguard, **stock and body one solid piece** like an SKS, and a **scope
 mount** that takes any scope. **Harsh crystal:** hits harder than a lasgun, **through
-flak on any hit**, but eats power: **15 shots a standard pack.** **+1 on aimed shots
+reinforced flak on any hit** (changed with the player, day 36 cleanup), but eats power:
+**15 shots a standard pack.** **+1 on aimed shots
 past ~30 m.** **Integrated bayonet**, always fixed: in melee it hits like a short
 spear, and a charge with it gets +1. **Stock magazine slot:** a spare pack rides in
 the stock, so the first reload each fight costs no time. **Never seizes** (and counts
@@ -119,6 +120,20 @@ pack heat; at 3 it vents for a beat. **Weak spot:** when the wearer is hit while
 heat is 2 or more, roll a d6: **1, it ruptures** (the wearer drops a step and the pack
 is destroyed); **2-6, it's damaged beyond use** (the pack is finished; the wearer is
 unhurt).
+
+## Long-las, Mezoa pattern (sniper)
+
+**Long-las, Mezoa pattern** (rare, 6 TV; Munitorum, Mechanicus, Free Traders). The standard Guard sniper's las: a long barrel
+on a lasgun action with a fixed scope. Lasgun punch; **+1 on aimed shots past ~30 m**; takes a hot-shot conversion. (DM default,
+Ash on Ostrava day 34, written for the stolen one the customs house sniper carried, now Isk's off weapon; moved here from his kit
+row in the day-36 cleanup.)
+
+## Las-scattergun ('shotlas')
+
+**Las-scattergun, 'shotlas'** (rare, 4 TV; Munitorum, black market, Free Traders). A short las weapon whose focusing array
+splits the shot into a fan of pellets: **brutal on flesh and flak inside ~10 m, carapace only on a solid hit, -2 past ~15 m**;
+a regular las pack (45); **strings of 2**. Fired one-handed by a duelist. (DM default, Ash on Ostrava day 35, Corvane's; moved
+here from his kit row in the day-36 cleanup. His rebuild is schematic 11 on the campaign's `schematics.md`.)
 
 ## Extended las pack
 

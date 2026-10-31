@@ -5,7 +5,7 @@ Item rules for this category. General rules (heat, hot-shot, drop-prone, going D
 ## Boarding shield
 
 **Boarding shield** (uncommon, 4 TV): a plain slab of plasteel with a grip.
-**+1 to block, half cover from the front.** Shared shield rules: Codex, Gear rules.
+**+1 on the defender\'s roll (block or parry), half cover from the front.** Shared shield rules: Codex, Gear rules.
 
 ## Arbitrator shield
 
@@ -16,25 +16,25 @@ pistol through it without giving up the cover.
 ## Storm shield
 
 **Storm shield** (rare, 30 TV): a shield with a power field generator.
-**+3 to block, three-quarters cover from the front.**
+**+3 on the defender\'s roll (block or parry), three-quarters cover from the front.**
 
 ## Slab shield (Ogryn)
 
 **Slab shield** (enemy only): Ogryn-sized; no human can carry it in a fight.
-**+3 to block, three-quarters cover from the front** for the Ogryn and one
+**+3 on the defender\'s roll (block or parry), three-quarters cover from the front** for the Ogryn and one
 person standing behind them.
 
 ## Makeshift shield
 
 **Makeshift shield** (common, 1 TV; player design): wood and scrap metal nailed
-together. **+1 to block, one-third cover from the front (+1 to the shooter's
+together. **+1 on the defender\'s roll (block or parry), one-third cover from the front (+1 to the shooter's
 difficulty). Breaks after 2-3 heavy hits:** roll it when the shield is made or
 repaired (d6: 1-3 it takes two, 4-6 three).
 
 ## Forged shield
 
 **Forged shield** (uncommon, 6 TV; player design): smith-made to take blows.
-**+2 to block, half cover from the front.**
+**+2 on the defender\'s roll (block or parry), half cover from the front.**
 
 ## Shield viewing slot (mod)
 
@@ -51,8 +51,14 @@ with the shield after that.**
 
 ## Improvised shield (a door)
 
-**A door or hatch** (enemy brutes, or anyone strong enough): **+1 to block, half
+**A door or hatch** (enemy brutes, or anyone strong enough): **+1 on the defender\'s roll (block or parry), half
 cover from the front.** Breaks after 3 heavy hits.
+
+## Mesh armour
+
+**Mesh armour** (uncommon, 5 TV; Munitorum, black market, Free Traders; Ash on Ostrava, day 34, DM default;
+the player may change it). **Reinforced flak** tier, light and quiet: no noise, fits under clothes; under a
+chest-only plate it covers everything the plate doesn't.
 
 ## Tempestus Scion helmet
 
@@ -87,6 +93,7 @@ is part of the move.
 
 **Range-finder sight** (rare, 10 TV): **+1 on shooting past ~30 m.** Stacks with
 specialties, not with another sight on the same gun.
+Isk's custom range-finder on Patience is a +2 DM-judged part, campaign sheet.
 
 ## Extended magazine kits
 
@@ -231,7 +238,8 @@ and brutal. Rare outside Catachan supply lines.
 **Thumper** (uncommon, 3 TV; Munitorum, black market, Free Traders). A stubby
 break-action grenade launcher: snap it open, drop a round in, snap it shut. **One
 grenade round a shot; fire and reload in the same beat** (one round a beat). Takes
-the same launcher rounds as the revolver-drum launcher (frag, krak, smoke); ~60 m.
+the same launcher rounds as the revolver-drum launcher (frag, smoke, flash; not kraks:
+explosives.md; changed with the player, day 36 cleanup); ~60 m.
 **Never jams** (nothing to foul).
 
 ### Catachan butcher knife
@@ -338,15 +346,17 @@ module** (uncommon, 2 TV): both in one housing; switch either on alone.
 
 **Pistol reflex sight** (uncommon, 2 TV). A small glass window with a glowing dot. **+2 on
 aimed pistol shots within ~30 m** (raised from +1 by the player, Ash on Ostrava day 35, so it beats the holo
-up close) (not hip shots: that's the laser's job). **Stacks** with a HUD eye's
+up close) (not hip shots: that's the laser's job); **-1 on shots past ~30 m** (the dot covers the target
+out there; changed with the player, day 36 cleanup). **Stacks** with a HUD eye's
 aim bonus (changed by the player, Ash on Ostrava day 34). Fits a rifle too (Varga's Mercy): the same +2
-on aimed shots within ~30 m.
+on aimed shots within ~30 m and -1 past it.
 
 ### Holo sight
 
 **Holo sight** (uncommon, 2.5 TV; player design, Ash on Ostrava day 35). A squared window with a
 circle-and-dot reticle that floats at any distance. **+1 on aimed shots within ~50 m**: less than a reflex
-up close, but it reaches further. Fits a pistol or a rifle.
+up close, but it reaches further; **-1 on hip shots** (the window wants a cheek on the stock; changed with the
+player, day 36 cleanup). Fits a pistol or a rifle.
 
 ### Heartbeat scanner (side-rail screen)
 
@@ -381,7 +391,8 @@ and **disarm attempts against the bearer take -2**.
 
 ### Foregrips (under-barrel slot)
 
-- **Ergo foregrip** (common, 1 TV): **+1 on the first shot** of a string; **recoil -1**.
+- **Ergo foregrip** (common, 1 TV): **+1 on the first shot** of a string, nothing after (the recoil -1
+  dropped; changed with the player, day 36 cleanup).
 - **Heavy foregrip** (uncommon, 1.5 TV): **+2 on aimed shots**; a miss in a chain costs
   **-2** instead of -1; **-1 more on swapping**.
 - **Handstop foregrip** (uncommon, 1.5 TV): **+2 on the first shot**; **swapping costs
@@ -399,6 +410,9 @@ and **disarm attempts against the bearer take -2**.
   ~20 shots**).
 - **Compensator** (uncommon, 2 TV): **recoil -2**; **+1 more to the next shot after each
   hit** (a first-shot hit gives +3, later hits +2); **-1 on aimed shots**.
+- **Muzzle brake** (threaded muzzles; uncommon, 1.5 TV; the downside added with the player, day 36 cleanup):
+  **a miss in a chain gives no -1**. **The flash gives you away in the dark:** enemies place you after your
+  first string.
 
 ### Rifle stocks (autogun, lasgun, stub rifle)
 
@@ -428,8 +442,8 @@ and **disarm attempts against the bearer take -2**.
 - **Burst limiter** (common, 0.5 TV): **recoil -1**; strings capped at **3 shots**.
 
 **Under-barrel**
-- **Bipod** (common, 0.5 TV): **+2 on aimed shots while braced or prone**; useless on the
-  move; a beat to set up.
+- **Bipod** (common, 1.5 TV; was 0.5: changed with the player, day 36 cleanup): **+2 on aimed shots while
+  braced or prone**; useless on the move; a beat to set up.
 - **Underslung grenade launcher** (rare, 5 TV): one grenade shot (frag, flash, spec flash)
   without swapping weapons; **-1 on aimed shots**; a beat to reload.
 - **Underslung shotgun ("masterkey")** (uncommon, 3 TV): one or two shotgun blasts for doors

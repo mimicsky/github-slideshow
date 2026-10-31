@@ -79,7 +79,7 @@ nothing; wearing it, make a WIS save each day or lose sleep to dread.
 ## Culexus Temple: Psyk-out grenades
 
 **Psyk-out grenades** (epic, 20 TV each): anti-psychic grenades. A burst about 5 m
-across: **psykers in it can't use powers for 2 turns**, powers already running or
+across: **psykers in it can't use powers for 2 beats**, powers already running or
 charging there end (wards drop, charges break), and daemons in it take a hit.
 
 ## Adamus Temple: Needlespine blaster
