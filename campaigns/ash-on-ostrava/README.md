@@ -17,12 +17,12 @@ Don't say what's in the DM notes.
 4. **The codex** ([`../../DND_CODEX.md`](../../DND_CODEX.md)): **only the sections marked "Always" in the map at its top** (about 450 lines: the play preferences, house rules 1-6, cover, the roll checklist, shots and hits, breaking and Down, matches and knife bouts, describing the world, armour and weapons, and the Gear rules' swapping, recoil and pack sizes). Open the rest when the map's trigger comes up. Plain 5e (Parts 1-5, the Quick Reference Card) is in [`../../codex-5e-reference.md`](../../codex-5e-reference.md): skip it.
 5. **The Light's voices** ([`world.md`](world.md), "The Light: who they are"): every personality and voice entry, **before writing anyone's speech.** This is a story game as much as an action game: each person talks and acts like themselves (set by the player, day 34).
 6. **The end of the last chapter** in [`book-season-2.md`](book-season-2.md) (search for the last `## Chapter`; read its final scene), plus the day log (day-log.md, from the day-36 cleanup) for anything played since.
-7. **A fight on?** Do the **Fight checklist** (below) before the first die.
+7. **A fight on?** Do the **Fight checklist** (below) before the first die, with [`fight-card.md`](fight-card.md) open (the ten fight rules on one screen; the codex wins where they differ).
 8. **Nothing else up front.** The gear catalogue's index, the bestiary's index and its roles file are opened when an item or a fight comes up ("Where things are" below).
 
 Then pick up exactly where we stopped.
 
-**A fight is on (or starting)?** Before the first die, do the **Fight checklist** below, all of it.
+**A fight is on (or starting)?** Before the first die, do the **Fight checklist** below, all of it, with [`fight-card.md`](fight-card.md) open.
 
 ## Fight checklist: START HERE
 
@@ -55,7 +55,7 @@ once and write the ruling into the roster** before rolling. Then:
 
 **4. The Light: each person in the fight.** In the campaign sheet:
 - **"Full kit"**: their row. **Every** weapon, **every** attachment, eye, field, armour piece,
-  grenade and ammo count. Read the whole row, not just the gun's name.
+  grenade and ammo count. Read the whole row, not just the gun's name. Items marked † have their history in `inventory.md`, Ammo and condition log (day-36 cleanup); the row keeps the counts and the numbers that change a roll.
 - **The stats table** (under "How the Light rolls"): stat bonus = +1 per full 10. **Allies add no
   proficiency** (d20 + stat + specialty + role or gear). **Tamsin** adds proficiency +4 ("The character").
 - **The Specialty table**: +2, only on its kind of roll.
@@ -75,11 +75,11 @@ Then codex Part 8, **Gear rules**: hot-shot, swapping, recoil, slots (**a gun's 
 stack**), airborne, gun condition and jams, pack sizes, refractor
 field, doses, drop-prone guns, going Down drops weapons.
 
-**6. Write each shooter's bonus line before rolling.** For everyone acting this beat:
+**6. Write each shooter's bonus line before rolling.** Open [`fight-card.md`](fight-card.md): its sections 3-9 are steps 6-9 here in short, each line anchored to the codex; when a card line is unclear, read the codex text it points at, never guess. For everyone acting this beat:
 `Varga (Light-bringer, jumper), Mercy: +4 DEX +2 aimed rifle +3 eye +2 reflex sight (inside ~30 m) +2 order +2 surprise -1 airborne = +14`.
 Then roll.
 
-**7. Resolve the beat in this order** (codex Part 6, A beat):
+**7. Resolve the beat in this order** (codex Part 6, A beat; fight card §1, §3):
 1. **Surprise** first (codex Part 6, A beat, Surprise).
 2. **Orders first:** the ordered actions (+2) resolve before anyone else's.
 3. **Tamsin** (the player's dice) and **everyone else in the Light**: everyone acts every beat, each with an open roll.
@@ -87,7 +87,7 @@ Then roll.
 - **Every roll:** codex Part 6, **Roll checklist**, all 11 lines, each bonus written by name (stat, specialty, order,
   surprise, gear and eyes, chain, swap, recoil, airborne, health, cover, darkness).
 
-**8. Every hit and every swing.**
+**8. Every hit and every swing** (fight card §2, §4-§7, §10).
 - **Shots:** codex Part 6, **Shots and hits** (hidden number 10 / 15 / 20 + **Cover**), solid hit (beat it by 3+),
   crits (a natural 20; Tamsin 19-20; Vigil 17-20 with heat). **Write each hidden number in the beat's notes.**
 - **Armour:** codex Part 8, **Armour** (shrugs or gets through; part-armour; crits always get through, but only one
@@ -96,8 +96,8 @@ Then roll.
 - **Knife bouts on the mat** (codex Part 6, Matches, bouts and knife bouts): **d20 + DEX each, no specialties** (Tamsin adds his proficiency: +11); **vital (2 hits) only on a raw 17+ or a win by 5+, otherwise minor (1)**: no location rolls; first to 2 hits takes the round, first to 5 rounds the bout. (Added day 36 after Kell's bout was first run at +6 STR and specialty.)
 - Health steps, extra stages, Down (codex Part 6, Breaking and Down).
 
-**9. After the beat, then the reply.**
-- **Count, for each person, in their Full kit row:** ammo (packs: hot-shot 30, las 45), Vigil's heat (vent at 3), every
+**9. After the beat, then the reply** (fight card §8-§9).
+- **Count, for each person, in their Full kit row** (counts; the history goes to `inventory.md`, Ammo and condition log): ammo (packs: hot-shot 30, las 45), Vigil's heat (vent at 3), every
   grenade, charge, stimm and antitoxin used (Sallow's Bag too), shots since cleaning (~30 = Dirty; Stinger's bolt jams past
   25 straight rounds), wear-down (shrugged hits, every 3 = a step), stimm beats and crashes.
 - **Break check** (codex Part 6, Breaking and Down): when half are Down or the leader falls. **The player wants the Mart's
@@ -124,7 +124,8 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 
 | When this comes up | Open |
 | --- | --- |
-| A fight starts or is on | **The Fight checklist above, every step** (it lists every file and section) |
+| A fight starts or is on | **The Fight checklist above, every step** (it lists every file and section), with [`fight-card.md`](fight-card.md) open |
+| A fight beat: to hit, strings, the exchange, armour, heat, gun condition, roles | [`fight-card.md`](fight-card.md) first (one screen, every line anchored); then the codex section the line names when it's unclear |
 | A match, a bout or a knife bout on the mat | Codex Part 6, Matches, bouts and knife bouts |
 | Someone is hit, goes Down or gets healed | Codex Part 6: Shots and hits, Breaking and Down; Part 8: Armour, the refractor field (Gear rules); `roles.md`: Medic (the patch roll); the catalogue's `drugs.md` (stimm, SCIHU) |
 | A fight ends | Codex Part 6, Breaking and Down (who surrenders, runs, lives); Part 8, Loot (the two rare rolls, coin on a body); house rule 7 (reps: a Down counts as a kill); log witnesses in `dm-notes.md`; update the Full kit (ammo, grenades, Dirty guns) |
@@ -160,7 +161,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 - **Name + role on every mention** (**the tag is rank + the role in the sheet's Roles table**, day 36), dialogue lines included: `Kell (Light-bringer sergeant, leader): "line"` (**speech always inside quotation marks**, the player, day 36).
 - **Enemies get their role tag** in fights, every mention: `Coat guy (gunslinger)`, `Flamer man (flamer)`, `Knife man (grunt)`, `Old Wick (Tallow Boys boss, leader)`.
 - **Full tag on every ally mention**, math lines included: `Tavi (Light-bringer, demolitions)`, never bare `Tavi`. Enemies by bestiary class (`assassin`, `grunt`, `psyker`, `leader`, `beast handler`). **Detail the scene** (sights, sounds, smells, what each person does).
-- **In a fight: the Fight checklist (above) before the first die, and the codex Roll checklist on every roll,** with every bonus shown by name (stat, specialty, order, surprise, gear and eyes, chain, swap, recoil, airborne, health, cover).
+- **In a fight: the Fight checklist (above) before the first die, the fight card open, and the codex Roll checklist on every roll,** with every bonus shown by name (stat, specialty, order, surprise, gear and eyes, chain, swap, recoil, airborne, health, cover).
 - **'Still up' board at the end of every fight beat:** every enemy standing (tag, health, where, weapon), the Down count, the Light's hurt and key states.
 - **Narrate each roll line:** a few words of action with the math (`Kell (Light-bringer sergeant, leader) puts one round into Knife crank man: 16+7 = 23, it rips through him, badly hurt`).
 - **Second person** for Tamsin. **Don't act, think or feel for him.** Stop at the first new decision point.
@@ -203,6 +204,7 @@ Award XP (the sheet's XP table), check the book is up to date with every day pla
 | [`dm-notes.md`](dm-notes.md) | Hidden: how the campaign runs, live secrets, nemeses, pre-rolls (top part every resume; entries on demand) |
 | [`day-log.md`](day-log.md) | The day log: one bullet per timestamp; written up as chapters and cleared at day end |
 | [`schematics.md`](schematics.md) | The 18 schematics, one section each |
+| [`fight-card.md`](fight-card.md) | The ten fight rules on one screen, every line anchored to the codex, roles.md or the sheet; derived: the sources win |
 | [`archive.md`](archive.md) | Closed history; never read on resume |
 | [`book-season-2.md`](book-season-2.md) | Season Two as a novel (the only story file) |
 | [`book.md`](book.md) | Season One as a novel |
