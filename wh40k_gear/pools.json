@@ -442,9 +442,9 @@
  },
  {
   "name": "Lever-action stub rifle, 'Kasr Frontier' pattern (12-round tube; never jams; chains of 6, or 3 double-lever shots)",
-  "tv": 1.5,
+  "tv": 2.5,
   "cat": "stub",
-  "rarity": "C",
+  "rarity": "U",
   "sellers": "MBF"
  },
  {
@@ -504,7 +504,7 @@
   "sellers": "BF"
  },
  {
-  "name": "Muzzle brake (threaded muzzles: a miss in a chain gives no -1)",
+  "name": "Muzzle brake (threaded muzzles: a miss in a chain gives no -1; the flash gives you away in the dark)",
   "tv": 1.5,
   "cat": "mod",
   "rarity": "U",
@@ -560,7 +560,7 @@
   "sellers": "BF"
  },
  {
-  "name": "Needle darts, shard (10)",
+  "name": "Needle darts, shard (10; through carapace on any hit, heavy carapace on a solid hit)",
   "tv": 4,
   "cat": "ammo",
   "rarity": "R",
@@ -588,7 +588,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Stub/auto rounds, AP (box)",
+  "name": "Stub/auto rounds, AP (box; through carapace on a solid hit inside ~15 m)",
   "tv": 1.5,
   "cat": "ammo",
   "rarity": "U",
@@ -609,7 +609,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Autogun rounds, CAP ceramite-tipped armour-piercing (box)",
+  "name": "Autogun rounds, CAP ceramite-tipped armour-piercing (box; through carapace on a solid hit at any range)",
   "tv": 2,
   "cat": "ammo",
   "rarity": "U",
@@ -966,13 +966,6 @@
   "sellers": "MF"
  },
  {
-  "name": "Underslung grenade launcher, Ryza",
-  "tv": 6,
-  "cat": "launcher",
-  "rarity": "U",
-  "sellers": "MF"
- },
- {
   "name": "Grenade launcher, stand-alone",
   "tv": 5,
   "cat": "launcher",
@@ -990,14 +983,14 @@
   "name": "Heavy stubber",
   "tv": 4,
   "cat": "heavy",
-  "rarity": "U",
+  "rarity": "C",
   "sellers": "MBF"
  },
  {
   "name": "Heavy stubber, tripod",
   "tv": 5,
   "cat": "heavy",
-  "rarity": "U",
+  "rarity": "C",
   "sellers": "MBF"
  },
  {
@@ -1904,13 +1897,6 @@
   "sellers": "MBF"
  },
  {
-  "name": "Bipod (+2 aimed braced or prone)",
-  "tv": 0.5,
-  "cat": "mod",
-  "rarity": "U",
-  "sellers": "MBF"
- },
- {
   "name": "Weapon sling, padded",
   "tv": 0.25,
   "cat": "mod",
@@ -1981,7 +1967,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Laser sight (+1 hip and snap shots within ~20 m; beam shows)",
+  "name": "Laser sight (+1 hip within ~20 m or +1 after a swap within ~30 m; beam shows)",
   "tv": 1.5,
   "cat": "mod",
   "rarity": "U",
@@ -1995,7 +1981,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Pistol reflex sight (+1 aimed pistol shots within ~30 m)",
+  "name": "Pistol reflex sight (+2 aimed pistol shots within ~30 m; -1 past 30 m)",
   "tv": 2,
   "cat": "mod",
   "rarity": "U",
@@ -2128,7 +2114,7 @@
   "sellers": "MB"
  },
  {
-  "name": "Ergo foregrip (+1 first shot; recoil -1)",
+  "name": "Ergo foregrip (+1 first shot only)",
   "tv": 1,
   "cat": "mod",
   "rarity": "C",
@@ -2140,6 +2126,48 @@
   "cat": "mod",
   "rarity": "C",
   "sellers": "MB"
+ },
+ {
+  "name": "Bipod (+2 aimed braced or prone; a beat to set)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Holo sight (+1 aimed within ~50 m; -1 hip shots)",
+  "tv": 2.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heartbeat scanner, side-rail screen (heartbeats through walls to ~30 m; no surprise while watched)",
+  "tv": 5,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Arc calculator, launcher sight (+3 launcher shots past ~30 m, first shot or a repeat on the same spot)",
+  "tv": 4,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Blacklight tracking visor (helm; +2 tracking and traces in a ~10 m cone)",
+  "tv": 4,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Grenade bandolier (+6 grenades ready; half-beat drum reload)",
+  "tv": 0.5,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MBF"
  },
  {
   "name": "Extended magazine kit, las or stub (+50% shots)",
@@ -2388,13 +2416,6 @@
  },
  {
   "name": "Antitoxin (dose)",
-  "tv": 1,
-  "cat": "gear",
-  "rarity": "U",
-  "sellers": "MBF"
- },
- {
-  "name": "Combat drug 'slaught' (dose)",
   "tv": 1,
   "cat": "gear",
   "rarity": "U",
@@ -3131,13 +3152,6 @@
  {
   "name": "Needle pistol (noble's, 6 darts)",
   "tv": 20,
-  "cat": "exotic",
-  "rarity": "X",
-  "sellers": "BFAEM"
- },
- {
-  "name": "Exitus-pattern round (single, Assassin)",
-  "tv": 50,
   "cat": "exotic",
   "rarity": "X",
   "sellers": "BFAEM"

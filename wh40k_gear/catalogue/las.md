@@ -93,7 +93,8 @@ shots next beat**, and anyone who breaks cover in the arc **draws a free shot**.
 uncommon, 4 TV; Munitorum). Death Korps issue: a Mars-pattern lasgun with a long
 barrel and handguard, **stock and body one solid piece** like an SKS, and a **scope
 mount** that takes any scope. **Harsh crystal:** hits harder than a lasgun, **through
-flak on any hit**, but eats power: **15 shots a standard pack.** **+1 on aimed shots
+reinforced flak on any hit** (changed with the player, day 36 cleanup), but eats power:
+**15 shots a standard pack.** **+1 on aimed shots
 past ~30 m.** **Integrated bayonet**, always fixed: in melee it hits like a short
 spear, and a charge with it gets +1. **Stock magazine slot:** a spare pack rides in
 the stock, so the first reload each fight costs no time. **Never seizes** (and counts

@@ -30,6 +30,13 @@ detonator (line of sight or ~100 m). One satchel does what two kraks do to a
 door; anyone within ~4 m is hit hard. **Armed, it beeps:** heard within a couple
 of metres, or further on a good Perception roll.
 
+## Mining charges
+
+**Mining charges** (the bomb-runners' and bomb zealots' blast; Ash on Ostrava, day 34, DM default; the player may
+change it). A bomb with a **mining charge** in it hits everyone within **~8 m for two steps**; a fire bomb in the
+mix sets them alight; choke gas leaves a cloud for 3 beats. Anyone right on top of it (~2 m) gets no dive. In a
+launcher it is an explosive, not a grenade (Grenades and explosives in launchers, below).
+
 ## Cult gas bottle
 
 (uncommon, 1.5 TV; black market; player design.) A potion-shaped glass bottle with

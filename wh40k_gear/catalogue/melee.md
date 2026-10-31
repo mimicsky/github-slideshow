@@ -24,6 +24,12 @@ drops one health step. A knife is lost (dropped, not broken) only on a natural 1
 success 6; near miss 4; fail, the ingot is wasted; natural 20, 6 masterwork
 (+1 to throw).
 
+## Fan throw (three throwing knives)
+
+**Fan throw** (a throw for any throwing knives, not an item; Ash on Ostrava, day 36, the player's design,
+judged fair). Held as claws between the fingers, thrown flat in one motion: **one roll at -4, all three on one
+target within ~10 m**; a miss and all three miss; a natural 1 scatters them (the knife rule: lost, not broken).
+
 ## Force wakizashi, 'Kasr Veil' pattern
 
 **Force wakizashi, 'Kasr Veil' pattern** (rare, 35 TV, Free Traders; player design):
@@ -58,6 +64,19 @@ save or can't move or act next beat), or a stimm or antitoxin into an ally. Swap
 the vial takes a beat. Throwable, about 8 m; it still injects on a hit, but a
 natural 1 on the throw cracks the vial. Vials: toxin 1 TV, paralytic 1.5 TV
 (uncommon, black market and Free Traders).
+
+## Mono-knife
+
+**Mono-knife** (uncommon, 3 TV; Munitorum, black market, Free Traders; Ash on Ostrava, day 34, DM default; the
+player may change it). A **light** blade (chains 3) with a monomolecular edge: **through flak and mesh on any
+hit, through carapace on a raw 17+**.
+
+## Toxin needle-blade
+
+**Toxin needle-blade** (rare, 8 TV; black market; Ash on Ostrava, day 34, DM default; the player may change it).
+A **light** blade (chains 3). A hit that gets through armour also forces a **CON save against 15, or the toxin
+drops them one more step**. A medic can refill it with something else (a sedative: fail and they go Down,
+asleep, alive). Nessa's (campaign sheet).
 
 ## Combat axe
 
@@ -219,3 +238,10 @@ fighting, and the glow gives the bearer away in the dark.
 heavy club with a shock field in the head. Melee uses **STR** (house rule 5). **A hit that lands also stuns
 for 1 beat** (no block, parry or shot), **even if armour stops the blow**; a hit that gets through armour
 drops a step as usual. **Machines** (Skitarii, servitors) take it **one step harder** (bestiary, Skitarius).
+
+## Shock baton (Arbites)
+
+**Shock baton (Arbites)** (uncommon, 4 TV; Munitorum, black market, Free Traders; Ash on Ostrava, day 34, DM
+default; the player may change it). A **medium** weapon (chains 2). A hit that lands **stuns the target for a
+beat** (they lose their next main thing); against carapace or heavier, only a solid hit (or a raw 17+) stuns.
+Sorel's (campaign sheet).

@@ -30,6 +30,12 @@ special belt beside a standard one and switch with the lever.) A standard belt i
   **a hit that gets through also forces a CON save against 15, or the target drops one more step.**
   Armour as a standard belt.
 
+## Man-portable multi-laser
+
+**Man-portable multi-laser** (rare, 15 TV; Munitorum, Free Traders; rare loot; Ash on Ostrava, day 34, DM
+default; the player may change it). Shot strings **up to 6**; hits like a **hellgun** (through carapace); fires
+**only braced** (no recoil when braced); **a pack lasts 2 strings**. Morcant's (campaign sheet).
+
 ## Valkyrie bolt-rocket pods, pair
 
 **Valkyrie bolt-rocket pods, pair** (rare, 35 TV; one of the best things a
@@ -42,3 +48,10 @@ bolt rounds: everyone within ~6 m is hit through carapace. Fire 1-2 a pass.
 lascannon, bigger than anything carried. Set up in a beat; **one heavy beam
 every other beat** (it recharges). Through power armour and light vehicles;
 needs a coupling or a power cell pack.
+
+## Ship and vehicle autocannons on people
+
+**Ship and vehicle autocannons on people** (a rule, not an item: the autocannon itself is in pools.json; Ash on
+Ostrava, day 34, DM default; the player may change it). A hit **drops one extra step** (heavy explosive rounds).
+A ship's point-defence turret firing at ground targets: **-2** (not built for it); turret-mounted guns have **no
+recoil**.
