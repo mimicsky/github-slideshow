@@ -665,7 +665,7 @@ in the math (`14 + 4 DEX + 2 aimed rifle + 3 eye + 2 order + 2 surprise - 1 airb
 11. **Will checks:** +1 per finished interrogation manual; hard-method +5% and its risk roll.
 
 **Stacking (set by the player, Ash on Ostrava session 10).** The **same effect from two places counts once**
-(Morcant's suppression -2 is both his role and his specialty: one -2). **Different sources add up** (a leader's
+(a heavy stubber's suppression -2 and the heavy gunner role's -2 are the same effect: one -2; Morcant's specialty is braced fire +2, a different effect). **Different sources add up** (a leader's
 +1 to the side and a Commander's +2 order both apply: +3 on the ordered action).
 
 ### A beat (set by the player, Ash on Ostrava session 10)
