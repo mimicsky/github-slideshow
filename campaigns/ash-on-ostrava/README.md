@@ -208,5 +208,6 @@ Award XP (the sheet's XP table), check the book is up to date with every day pla
 | [`archive.md`](archive.md) | Closed history; never read on resume |
 | [`book-season-2.md`](book-season-2.md) | Season Two as a novel (the only story file) |
 | [`book.md`](book.md) | Season One as a novel |
+| [`book-season-2-uncut.md`](book-season-2-uncut.md) | The full first-written text of days 33, 34 and 36, kept as the record when the book was tightened to ~8-12 chapters a day (day 37) |
 | [`maps/`](maps) | Pictures of *The Bright Light* |
 | [`../../codex-5e-reference.md`](../../codex-5e-reference.md) | Plain 5e reference moved out of the codex (Parts 1-5, the Quick Reference Card); codex Parts 6-8 override it |
