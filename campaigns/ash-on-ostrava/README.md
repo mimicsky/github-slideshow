@@ -12,11 +12,11 @@ Read these in order. Then open the first reply with one line ticking them off, e
 Don't say what's in the DM notes.
 
 1. **This README**, all of it.
-2. **The campaign sheet** ([`ash-on-ostrava-campaign-sheet.md`](ash-on-ostrava-campaign-sheet.md)): "Where we stopped", "Current state", "What the Light knows about Thask", "Full kit", Tamsin ("The character"), the Light (roster, roles, specialties, stats). It's about 260 lines, all current state.
+2. **The campaign sheet** ([`ash-on-ostrava-campaign-sheet.md`](ash-on-ostrava-campaign-sheet.md)): "Where we stopped", "Current state", "What the Light knows about Thask", "Full kit", Tamsin ("The character"), the Light (roster, roles, specialties, stats). It's all current state.
 3. **The DM notes** ([`dm-notes.md`](dm-notes.md)), **down to the STOP line only**, read silently, never told to the player: how the campaign runs, the live mission's secrets, nemeses, pre-rolls. Below STOP, open an entry only when its trigger comes up.
 4. **The codex** ([`../../DND_CODEX.md`](../../DND_CODEX.md)): **only the sections marked "Always" in the map at its top** (about 450 lines: the play preferences, house rules 1-6, cover, the roll checklist, shots and hits, breaking and Down, describing the world, armour and weapons). Open the rest when the map's trigger comes up.
 5. **The Light's voices** ([`world.md`](world.md), "The Light: who they are"): every personality and voice entry, **before writing anyone's speech.** This is a story game as much as an action game: each person talks and acts like themselves (set by the player, day 34).
-6. **The end of the last chapter** in [`book-season-2.md`](book-season-2.md) (search for the last `## Chapter`; read its final scene), plus the sheet's day log for anything played since.
+6. **The end of the last chapter** in [`book-season-2.md`](book-season-2.md) (search for the last `## Chapter`; read its final scene), plus the day log (day-log.md, from the day-36 cleanup) for anything played since.
 7. **A fight on?** Do the **Fight checklist** (below) before the first die.
 8. **Nothing else up front.** The gear catalogue's index, the bestiary's index and its roles file are opened when an item or a fight comes up ("Where things are" below).
 
@@ -33,7 +33,7 @@ two fights ran with bonuses missed.) On the first beat after a resume, open the 
 `Fight checklist ✓ 1-10`.
 
 **1. Where are we?** Open the campaign sheet ([`ash-on-ostrava-campaign-sheet.md`](ash-on-ostrava-campaign-sheet.md)):
-"Where we stopped" (line ~9) and the last lines of "Day log". Then [`dm-notes.md`](dm-notes.md), "Live now":
+"Where we stopped", then the last lines of the day log (day-log.md, from the day-36 cleanup). Then [`dm-notes.md`](dm-notes.md), "Live now":
 the live fight's entry, down to its last **"After beat N"** line. Write down: who is up, where, at what
 health, the distances, who is surprised, what the player declared. **Positions or distances not set yet? Set them
 and save them before rolling**, so they don't drift between beats.
@@ -54,17 +54,17 @@ once and write the ruling into the roster** before rolling. Then:
 - **Who never surrenders:** cultist duelists, the Moebian 6th, poxwalkers (mindless); enforcers stop breaks.
 
 **4. The Light: each person in the fight.** In the campaign sheet:
-- **"Full kit"** (line ~207): their row. **Every** weapon, **every** attachment, eye, field, armour piece,
+- **"Full kit"**: their row. **Every** weapon, **every** attachment, eye, field, armour piece,
   grenade and ammo count. Read the whole row, not just the gun's name.
-- **The stats table** (under "How the Light rolls", line ~340): stat bonus = +1 per full 10. **Allies add no
+- **The stats table** (under "How the Light rolls"): stat bonus = +1 per full 10. **Allies add no
   proficiency** (d20 + stat + specialty + role or gear). **Tamsin** adds proficiency +4 ("The character").
-- **The Specialty table** (line ~291): +2, only on its kind of roll.
-- **The Roles table** (line ~272), then each role in `roles.md` (Commander: Tamsin gives **two orders a beat to
-  specialists**, +2 and act first; Jumper; Medic; Duelist; Bodyguard; Heavy gunner...).
-- **"Tamsin's standing modifiers"** and **"The Light's standing modifiers"** (line ~308), and **each person's traits** (codex house rule 9).
+- **The Specialty table**: +2, only on its kind of roll.
+- **The Roles table**, then each role in `roles.md` (Commander: Tamsin's orders, the Commander entry and its
+  traitor-elite note; Jumper; Medic; Duelist; Bodyguard; Heavy gunner...).
+- **"Tamsin's standing modifiers"** and **"The Light's standing modifiers"**, and **each person's traits** (codex house rule 9).
 - Who is **present**: only the people in **this** team or fight act or take orders (check the team list in the fight's
   entry; e.g. Kell and Hollis at the cannery aren't at Crane Yard 6). **An order to someone not there is void:** say so in
-  one line. Kell's +1 to Tamsin only when Kell is there. Each person's health and conditions (Hurt, sickened, stimm turns).
+  one line. **Kell's +1 to the whole Light when he's present** (`roles.md`, Leader; changed with the player, day 36 cleanup). Each person's health and conditions (Hurt, sickened, stimm beats).
 
 **5. Each weapon's and attachment's own rules.** [The catalogue index](../../wh40k_gear/catalogue/README.md), then
 the entry for each gun, melee weapon, attachment and eye in play (`las.md`, `heavy.md`, `stub.md`, `melee.md`;
@@ -72,7 +72,7 @@ the entry for each gun, melee weapon, attachment and eye in play (`las.md`, `hea
 **A bonus not written anywhere** (a named gun's part with no catalogue entry): rule it once and **write the number into
 that person's Full kit row**, so it's never worked out again.
 Then codex Part 8, **Gear rules**: hot-shot, swapping, recoil, slots (**a gun's optic and an eye's aim bonus
-stack**), airborne, gun condition and jams, pack sizes (hot-shot 30, las 45), refractor
+stack**), airborne, gun condition and jams, pack sizes, refractor
 field, doses, drop-prone guns, going Down drops weapons.
 
 **6. Write each shooter's bonus line before rolling.** For everyone acting this beat:
@@ -80,7 +80,7 @@ field, doses, drop-prone guns, going Down drops weapons.
 Then roll.
 
 **7. Resolve the beat in this order** (codex Part 6, A beat):
-1. **Surprise:** a group caught unaware can't act or defend this beat; attacks on it get +2.
+1. **Surprise** first (codex Part 6, A beat, Surprise).
 2. **Orders first:** the ordered actions (+2) resolve before anyone else's.
 3. **Tamsin** (the player's dice) and **everyone else in the Light**: everyone acts every beat, each with an open roll.
 4. **The enemies** (unless surprised), each with their own roll, played by their role and team tactics.
@@ -91,20 +91,19 @@ Then roll.
 - **Shots:** codex Part 6, **Shots and hits** (hidden number 10 / 15 / 20 + **Cover**), solid hit (beat it by 3+),
   crits (a natural 20; Tamsin 19-20; Vigil 17-20 with heat). **Write each hidden number in the beat's notes.**
 - **Armour:** codex Part 8, **Armour** (shrugs or gets through; part-armour; crits always get through, but only one
-  step against armour that would have shrugged it; wear-down: every 3 shrugged hits drop a step). Refractor field rolls.
-- **Melee:** codex house rule 5, **the exchange** (opposed rolls, block 1-2 higher, parry 3+, a raw 17+ can't be stopped; **resolve a chain swing by swing: a parry ENDS the chain** (no more swings that beat), a block lets it carry on;
+  step against armour that would have shrugged it; wear-down). Refractor field rolls.
+- **Melee:** codex house rule 5, **the exchange** (opposed rolls, block 1-2 higher, parry 3+, a raw 17+ can't be stopped), **melee chains** (resolve a chain swing by swing; **a parry ENDS the chain**, a block lets it carry on), which stat, two weapons, shields.
 - **Knife bouts on the mat** (codex Part 6, Matches and contests): **d20 + DEX each, no specialties** (Tamsin adds his proficiency: +11); **vital (2 hits) only on a raw 17+ or a win by 5+, otherwise minor (1)**: no location rolls; first to 2 hits takes the round, first to 5 rounds the bout. (Added day 36 after Kell's bout was first run at +6 STR and specialty.)
-  **chains**: light 3, medium and heavy 2, only a parry ends it; which stat; two weapons; shields).
-- Health steps, extra stages, Down (enemies d6 after the fight; the Light don't die from Down).
+- Health steps, extra stages, Down (codex Part 6, Breaking and Down).
 
 **9. After the beat, then the reply.**
 - **Count, for each person, in their Full kit row:** ammo (packs: hot-shot 30, las 45), Vigil's heat (vent at 3), every
   grenade, charge, stimm and antitoxin used (Sallow's Bag too), shots since cleaning (~30 = Dirty; Stinger's bolt jams past
-  25 straight rounds), wear-down (shrugged hits, every 3 = a step), stimm turns and crashes.
+  25 straight rounds), wear-down (shrugged hits, every 3 = a step), stimm beats and crashes.
 - **Break check** (codex Part 6, Breaking and Down): when half are Down or the leader falls. **The player wants the Mart's
   factions to keep fighting:** no easy folding; when they don't surrender they fall back to better ground and counterattack.
 - **Save:** `dm-notes.md` (the beat's line with every roll, then "After beat N"), the sheet ("Where we stopped",
-  Full kit counts, the day log and reps), then commit and push.
+  Full kit counts, reps) and the day log (day-log.md), then commit and push.
 - **Reply:** the math lines (full ally tags, enemy role tags, every bonus by name, each roll narrated in a few words),
   then "(saved)", then the scene (second person, detailed, no game terms, nothing done or felt for Tamsin), then the
   **still-up board**. Stop at the first decision point. **A new enemy role, rule or term the player hasn't met:** one line
@@ -153,13 +152,13 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 
 - **Voices (set by the player, day 34): it's a story game as much as an action game.** **More detail is always better** in scenes and in these entries. Before writing anyone's lines, check their personality and voice entry in [`world.md`](world.md) ("The Light: who they are") and write them that way. **Keep those entries current in the same save:** a new character gets an entry; a new trait, want, fear, relationship, title, or a piece of kit that matters to them goes into their entry. "Newer, still developing" characters: try new things; keep what gets a reaction or sticks.
 - **Never roll Tamsin's dice.** Ask "Roll me a d20" and wait. NPC dice and undecided facts are rolled openly with a real RNG. The DM rolls will checks for the player.
-- **Show the math** on every roll: (die + stat + other bonuses = total). DCs stay hidden; contests show both totals.
+- **Show the math** on every roll, DCs hidden (codex Part 6, How the player likes to play, "Show the math").
 - **Name + role on every mention** (**the tag is rank + the role in the sheet's Roles table**, day 36), dialogue lines included: `Kell (Light-bringer sergeant, leader): "line"` (**speech always inside quotation marks**, the player, day 36).
 - **Enemies get their role tag** in fights, every mention: `Coat guy (gunslinger)`, `Flamer man (flamer)`, `Knife man (grunt)`, `Old Wick (Tallow Boys boss, leader)`.
 - **Full tag on every ally mention**, math lines included: `Tavi (Light-bringer, demolitions)`, never bare `Tavi`. Enemies by bestiary class (`assassin`, `grunt`, `psyker`, `leader`, `beast handler`). **Detail the scene** (sights, sounds, smells, what each person does).
 - **In a fight: the Fight checklist (above) before the first die, and the codex Roll checklist on every roll,** with every bonus shown by name (stat, specialty, order, surprise, gear and eyes, chain, swap, recoil, airborne, health, cover).
 - **'Still up' board at the end of every fight beat:** every enemy standing (tag, health, where, weapon), the Down count, the Light's hurt and key states.
-- **Narrate each roll line:** a few words of action with the math (`Kell puts one round into Knife crank man: 16+7 = 23, it rips through him, badly hurt`).
+- **Narrate each roll line:** a few words of action with the math (`Kell (Light-bringer sergeant, leader) puts one round into Knife crank man: 16+7 = 23, it rips through him, badly hurt`).
 - **Second person** for Tamsin. **Don't act, think or feel for him.** Stop at the first new decision point.
 - **No game terms in the fiction.** NPCs never mention rolls, dice or numbers.
 - **Save before the scene**: the note is just "(saved)", and the scene is the last thing in the reply. Commit and push after anything important.
@@ -171,7 +170,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 
 1. Show the **tally sheet** (Tamsin's stats before and after, then the Light's).
 2. **Write that day as book chapters** in `book-season-2.md` (codex Part 7, The book).
-3. Delete that day's scene notes from the day log, and update "Where we stopped".
+3. Delete that day's scene notes from the day log (day-log.md, from the day-36 cleanup; one bullet per timestamp), and update "Where we stopped".
 4. Commit and push.
 
 On a long day, add a one-line note to the day log after each big scene, so nothing is lost if the context is cut.
@@ -186,7 +185,7 @@ Award XP (the sheet's XP table), check the book is up to date with every day pla
 - Check the DM notes' witnesses and nemeses: bring one back if the story fits (codex Part 8, Nemeses; the DM's call, no automatic rolls).
 - Enemies: `python3 wh40k_gear/roll_enemy.py TYPE COUNT WEALTH [GOD]`. The types are cultist, raider, pirate, traitor and traitor_elite.
 - Any other roll (saves, break checks, loot d20s, NPCs): `python3 wh40k_gear/dice.py d20` (or `3d20`, `d6`...). A rare item: `python3 wh40k_gear/dice.py rare weapons` (rare roll 1, gear in use) or `rare any` (rare roll 2, stashed).
-- Shops: `python3 wh40k_gear/roll.py SELLER SIZE` (restock every 2 days). Sellers: **M** Munitorum or fleet stores, **B** black market or chandlers, **A** Mechanicus shrine, **F** Free Trader or Void Exchange, **E** Ecclesiarchy. Sizes: small (5-7), medium (9-12), large (14-18), huge (20-25).
+- Shops: `python3 wh40k_gear/roll.py SELLER SIZE`. Sellers: **M** Munitorum or fleet stores, **B** black market or chandlers, **A** Mechanicus shrine, **F** Free Trader or Void Exchange, **E** Ecclesiarchy. Sizes: small, medium, large, huge (the counts and the restock: codex Part 8, Shop size by market).
 
 ---
 

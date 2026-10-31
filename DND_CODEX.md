@@ -456,7 +456,7 @@ Standing preferences, set during play. They apply to every campaign.
   named. The pause-after-the-player rule is about story moves, not combat
   turns. Set by the player, session 5.
 - **Leftover shots go into an enemy automatically** (set by the player, Ash on Ostrava day 34). When the player's target goes Down (or is already Down) before his string is spent, the leftover shots go into another enemy, without asking, **unless the player said to hold them**. The DM picks the one the player would most want: the one already hurt that the shot can finish, else the biggest threat in view. The swap -1 applies as normal.
-- **Matches and contests go round by round** (shootouts, bouts, races): roll one round, show it, stop for the player (who may coach or react), then the next. Never run a whole match in one go. **In mat bouts a "round" is a touch:** play the blocks and parries straight through and stop only when a touch lands. Mat bouts use blunt practice swords only (no shields, no specialties): d20 + STR each. **Knife bouts** (blunted knives, chalked edges; no specialties): **d20 + DEX each**; blocks are **slips**, parries are **evade-and-counter**; a landed strike to hand, arm or leg is **minor (1 hit)**, to head, neck, torso or back is **vital (2 hits)**: vital on a **raw 17+ or a win by 5+**, otherwise minor; **first to 2 hits wins the round, first to 5 rounds wins the bout** (in Ash on Ostrava, Dace and Hollis judge). In real fights knives use the better of STR or DEX (house rule 5, "Which stat"). Set by the player, Ash on Ostrava session 10.
+- **Matches and contests go round by round** (shootouts, bouts, races): roll one round, show it, stop for the player (who may coach or react), then the next. Never run a whole match in one go. **In mat bouts a "round" is a touch:** play the blocks and parries straight through and stop only when a touch lands. Mat bouts use blunt practice swords only (no shields, no specialties): d20 + STR each. **Knife bouts** (blunted knives, chalked edges; no specialties): **d20 + DEX each** (**Tamsin adds his proficiency**: +11; changed with the player, day 36 cleanup); blocks are **slips**, parries are **evade-and-counter**; a landed strike to hand, arm or leg is **minor (1 hit)**, to head, neck, torso or back is **vital (2 hits)**: vital on a **raw 17+ or a win by 5+**, otherwise minor; **first to 2 hits wins the round, first to 5 rounds wins the bout** (in Ash on Ostrava, Dace and Hollis judge). In real fights knives use the better of STR or DEX (house rule 5, "Which stat"). Set by the player, Ash on Ostrava session 10.
 - **Speech in quotes** is the character talking aloud; everything else is action.
 - **Narrate the player character in second person** ("you"), not his name in the third person, in scenes. (The book stays third person.) Set by the player, Ash on Ostrava session 10.
 - **No game terms in the fiction.** NPCs never mention rolls, dice, natural 20s, DCs or modifiers; they describe what they saw. Set by the player, Ash on Ostrava session 10.
@@ -464,12 +464,12 @@ Standing preferences, set during play. They apply to every campaign.
   give the name then what it is, e.g. Hespa-Vor (enginseer), Velk (ice world),
   Officer (Kell's hellgun). Every mention, not just the first.
 - **Enemies carry their role tag** (set by the player, Ash on Ostrava session 10). In a fight, every enemy with a bestiary role is named by a short descriptor plus the role, every mention, so the player knows who is who: *Coat guy (gunslinger)*, *Chain-axe guy (berserker)*, *Flamer man (flamer)*; rank and file are *(grunt)*. A named enemy gets both: *Old Wick (Tallow Boys boss, leader)*.
-- **Full name and role on every mention, everywhere** (set by the player, Ash on Ostrava session 10). Every ally carries their full tag from the kit table each time they appear: in the math lines, the dice lists and the scene, not only the first time: *Tavi (Light-bringer, demolitions)*, *Kell (Light-bringer sergeant, leader)*, *Tey (Light Trainee, grunt)*. A short 'Tavi 1, Sorel 14: missed' is wrong. **The name is the one in the Full kit's first column** (Dace, Isk, Kell): never add a surname the table doesn't give (set by the player, Ash on Ostrava day 34, after made-up surnames slipped in). Enemies use their bestiary class, never a made-up word: *Grate man (assassin)*, not *(blade)*.
+- **Full name and role on every mention, everywhere** (set by the player, Ash on Ostrava session 10). Every ally carries their full tag from the kit table each time they appear: in the math lines, the dice lists and the scene, not only the first time: *Tavi (Light-bringer, demolitions)*, *Kell (Light-bringer sergeant, leader)*, *Tey (Light-bringer, gunslinger)*. A short 'Tavi 1, Sorel 14: missed' is wrong. **The name is the one in the Full kit's first column** (Dace, Isk, Kell): never add a surname the table doesn't give (set by the player, Ash on Ostrava day 34, after made-up surnames slipped in). Enemies use their bestiary class, never a made-up word: *Grate man (assassin)*, not *(blade)*.
 - **Detail the scenes** (set by the player, same session). Show what it looks, sounds and smells like, and what each person in the shot is doing, so the player can picture it; keep the math lines compact and the detail in the scene.
 - **'Still up' board at the end of every fight beat** (set by the player, Ash on Ostrava session 10). After the scene's math, list every enemy still standing (tag, health, where, what they hold), the Down count, and the Light's hurt and key states (heat, ammo, hazards), so the player can plan the next beat.
 - **Narrate each roll line** (set by the player, Ash on Ostrava session 10). A math line says what happened in a few words, not just the numbers: *Kell (Light-bringer sergeant, leader) puts one round into Knife crank man: 16+7 = 23, it rips through him, badly hurt.* The full scene still follows.
 - **Dialogue as a script.** Speech is written in play format, one line per
-  speaker: `Kell (sergeant): "line"` (speech inside quotation marks; the player, Ash on Ostrava day 36). Action and description stay as prose
+  speaker: `Kell (Light-bringer sergeant, leader): "line"` (speech inside quotation marks; the player, Ash on Ostrava day 36). Action and description stay as prose
   around it. Set by the player, session 4.
 - **Describe places in detail, for free,** when asked. Perception is only for
   hidden things. **No text maps;** a drawn picture of the space (a rendered image) is fine when the player asks. Set by the player, Ash on Ostrava session 6.
@@ -591,7 +591,7 @@ What is switched off:
 - Initiative, turn order, and rounds
 - The action / bonus action / movement economy
 - Armor Class and to-hit arithmetic
-- Opportunity attacks, cover, and positioning in feet
+- Opportunity attacks and positioning in feet (cover: Part 6, Cover; distances in metres; fights run in beats: Part 6, A beat)
 - Hit points as a running number
 
 What stays on:
@@ -653,7 +653,7 @@ totals:
 | Defender's total vs attacker's | Result |
 | --- | --- |
 | Lower or equal | The attack lands |
-| 1 or 2 higher | **Block.** No damage. The attacker keeps initiative and swings again **next beat** |
+| 1 or 2 higher | **Block.** No damage. It stops that swing only: the attacker keeps initiative and the chain carries on (Melee chains, below) |
 | 3 or more higher | **Parry.** No damage, and **initiative flips.** The defender swings **next beat** |
 
 **The unparryable blow.** A **raw d20 of 17 or higher** cannot be parried or
@@ -669,7 +669,7 @@ modifier.
 - **Mobs stay narrative.** When a crowd is pressing rather than individuals
   trading, the DM describes the pressure and does not roll an opposed die per
   body in it.
-- **One swing a beat** (Part 6, A beat): each exchange above is one swing and its defence. **A defender can answer two attackers a beat.** The third and any beyond
+- **Swings chain** (Melee chains, below; Part 6, A beat): each exchange above is one swing and its defence; light weapons chain up to 3 swings a beat, medium and heavy 2. **A defender can answer two attackers a beat.** The third and any beyond
   get through undefended.
 - **Melee chains** (set by the player, Ash on Ostrava session 10, to balance melee against shot strings): melee swings chain like shots. **Light weapons chain up to 3 swings a beat; medium and heavy weapons up to 2.** Each swing is its own exchange; the defender answers each (the chain doesn't count as extra attackers). **Only a parry ends the chain** (and flips the initiative as normal). A **block** just stops that swing's damage; the chain carries on. The raw-17 unparryable blow applies to every swing. It works the same for enemies. **Classes (DM default; the player may move a weapon):** *light*: knives and daggers (combat, power, chain and throwing knives, shanks, needle-blades), machetes, hatchets; *medium*: one-handed swords, chainswords, axes, batons and mauls (Shameholder, Promise Holder, power swords, shock mauls, combat axes, trench clubs); *heavy*: two-handed weapons (chain axes used two-handed, great hammers, flails, Ogryn and brute weapons).
 - **Two weapons:** see **Dual-wielding** below. (The old rule, two weapons turn a block into a parry, was
@@ -700,7 +700,7 @@ Both sides roll the stat their weapon runs on, attacking *and* defending:
 | Weapon | Stat |
 | --- | --- |
 | **Finesse:** knives, daggers, bayonets used in hand, short blades, light sabres | **the better of STR or DEX** |
-| **Heavy:** chainswords, axes, mauls, hammers, power fists, long blades (e.g. Promise Holder) | **STR** |
+| **Strength weapons:** chainswords, axes, mauls, hammers, power fists, long blades (e.g. Promise Holder) (the row was "Heavy"; changed with the player, day 36 cleanup, so "heavy" only means the chain class) | **STR** |
 | Unarmed: grappling and shoving | STR |
 | Unarmed: slipping and dodging | DEX |
 
@@ -711,8 +711,7 @@ an **evade and counter** (dodged or the arm checked, initiative flips). Same mat
 dodge with footwork instead of using their weapon: **d20 + DEX**, plus proficiency only if trained in Acrobatics
 (Tamsin: Remarkable Athlete +2 instead). Same math: a block is a **slip**, a parry an **evade** (initiative flips);
 a raw 17+ still can't be dodged.
-**Knife bouts on the mat** (blunted bayonets, chalked edges) use **d20 + DEX each** and
-their own scoring: see "Matches and contests" in Part 6, How the player likes to play.
+**Knife bouts on the mat** (blunted knives, chalked edges): the roll and the scoring are in Part 6, How the player likes to play, "Matches and contests".
 
 ---
 
@@ -829,9 +828,10 @@ the player tries to break or win over.
   - **Recruiting:** they genuinely want in. They won't betray or fight the player,
     like Nessa. The DM still plays them as themselves.
 - **Will checks.** Each push is one session of talk or pressure (about an hour).
-  The player says when they're making a will check and rolls a d20; the DM picks the
-  skill from the approach (Intimidation, Persuasion, a variant pairing) and takes
-  Will down:
+  When the player says or does something that would really land, the DM calls the will
+  check and rolls it openly for them (the player doesn't have to ask; Ash on Ostrava, set
+  session 9); the DM picks the skill from the approach (Intimidation, Persuasion, a variant
+  pairing) and takes Will down:
 
   | Total | Will lost |
   | --- | --- |
@@ -845,7 +845,6 @@ the player tries to break or win over.
   roll a d20 each session: **1-3** the subject goes Down (and may die), and anything
   said under pain may be a lie told to make it stop (DM rolls, hidden). Three
   sessions a day at most before they pass out.
-- **Who rolls it (Ash on Ostrava, set session 9):** when the player says or does something that would really land, the DM calls the will check and rolls it openly for them; the player doesn't have to ask.
 - **Reading them.** A Perception check reads their current Will: **20+** within
   1-2%, **15-19** within 5%, **10-14** within 10%, lower within 20% (or misread).
   The breaking point is never shown.
@@ -926,7 +925,7 @@ game-breaking.
 | 5 | Weak stomach | -1 on saves against gas and poison; retches at gore |
 | 6 | Slow healer | Recovers from a wound in more time; patches on them -1 |
 | 7 | Jumpy | -1 against fear and break checks; startles at loud noises |
-| 8 | Unlucky | A natural 2 counts as a natural 1 |
+| 8 | Unlucky | Once a mission, the first natural 2 counts as a natural 1 (changed with the player, day 36 cleanup) |
 | 9 | Heavy sleeper | Hard to wake; loses the first beat of a night attack |
 | 10 | Restless sleeper | -1 on WIS rolls the day after a short night |
 | 11 | Lho habit | Needs their lho-sticks: after ~12 h without, -1 on WIS and INT |
@@ -950,7 +949,7 @@ game-breaking.
 | 29 | Slow reflexes | -1 to act first when it matters who moves first |
 | 30 | Warp-sick | -1 on all rolls for about an hour after a warp jump or a rough landing |
 
-**Examples:** a militia trooper rolls once: d2 2 (bad), d20 13: **Loud**. A Hookman flamer
+**Examples:** a militia trooper rolls once: d2 2 (bad), d30 13: **Loud**. A Hookman flamer
 (specialist) rolls twice: good **Iron gut**, bad **Hothead**. Kell (important) rolls three times on
 75/25: good, good, bad, e.g. **Brave**, **Cool under fire**, **Restless sleeper**. Traits go in the
 roll checklist (line 8, standing bonuses, and line 9, conditions) like any other modifier.
@@ -990,8 +989,8 @@ in the math (`14 + 4 DEX + 2 aimed rifle + 3 eye + 2 order + 2 surprise - 1 airb
    Varga aimed rifle shots, Isk long aimed shots past ~30 m, Tey's pistol focus).
 3. **Role and orders:** the roller's bestiary role rules, **and any order from a Commander this beat**
    (+2 and acts first; **traitor-elite commanders give two orders a beat to specialists**;
-   the Light counts as traitor elites). Leader/rally effects (Kell's +1 to Tamsin **only when Kell
-   is there**), Morcant's suppression (targets he suppresses take -2), spotters, bodyguards.
+   the Light counts as traitor elites). Leader/rally effects (**Kell's +1 to the whole Light when he's present**: bestiary roles,
+   Leader; changed with the player, day 36 cleanup), Morcant's suppression (targets he suppresses take -2), spotters, bodyguards.
 4. **Surprise:** attacks on a surprised group get **+2** (they can't act or defend that beat; A beat, below).
 5. **Gear:** every attachment by slot (barrel, optic, trigger, stock, grip, muzzle, magazine,
    under-barrel) **and every eye** (shooting eye: targeter +3 aimed, rangefinder +2 past ~30 m, gun link:
@@ -1011,6 +1010,7 @@ in the math (`14 + 4 DEX + 2 aimed rifle + 3 eye + 2 order + 2 surprise - 1 airb
    limits, sickened, blinded / dazzled (spec flash), **cover on the target (Cover table: +1 / +2 / +4 / full)**,
    darkness / smoke (a low-light optic or lumen cancels darkness), Neglected or Dirty guns (jam range).
 10. **Saves:** purity seals (advantage vs warp/plague/madness), rebreathers (advantage vs gas), Indomitable.
+    **Enemies' CON saves** (needle toxins and the like): **d20 + their STR bonus** (STR level /10) (changed with the player, day 36 cleanup).
 11. **Will checks:** +1 per finished interrogation manual; hard-method +5% and its risk roll.
 
 **Stacking (set by the player, Ash on Ostrava session 10).** The **same effect from two places counts once**
@@ -1022,12 +1022,12 @@ in the math (`14 + 4 DEX + 2 aimed rifle + 3 eye + 2 order + 2 surprise - 1 airb
 A **beat** is one moment of a fight, a few seconds. Everyone acts every beat: **one main thing plus a short move.**
 
 - **Main thing, pick one:** a **shot string** (up to **3 shots** by default, or the gun's own limit if its entry
-  gives one: some 6, full-auto 10); a **throw** or one launcher shot; **one melee swing** (below); or something
+  gives one: some 6, full-auto 10); a **throw** or one launcher shot; **a melee chain** (below); or something
   else: a patch, a reload, venting, clearing a jam, using an item, a lift-pack hop, a sprint. **A Jumper hops
   and shoots in the same beat** (burst up, hover, fire: one main thing; bestiary roles, Jumper).
-- **Melee is one swing a beat.** The attacker swings and the target rolls to defend, all in that beat: it lands,
-  is blocked or is parried. **Next beat**, whoever holds the initiative swings: after a block the attacker swings
-  again; after a parry the defender does (house rule 5).
+- **Melee chains** (house rule 5): light weapons chain up to 3 swings a beat, medium and heavy 2. Each swing is its
+  own exchange: the attacker swings and the target rolls to defend; it lands, is blocked or is parried. A block stops
+  that swing, the chain carries on; a parry ends it and flips initiative: the defender's chain comes **next beat**.
 - **Short move:** a few metres, or to the next cover, is free. A real sprint is the main thing.
 - **Run and gun (set by the player, Ash on Ostrava session 10):** a sprint is still the whole move, but **a gun can still fire a
   shot string during it** (pushing up and shooting), at **-2 on those shots**, the same as firing from the air. A melee swing
@@ -1092,19 +1092,19 @@ rests, and leveling.
 | Looting bodies | Loot follows the fiction: enemies carry what they plausibly would. When looting a group, the DM rolls one d20 in the open; on a natural 20, one of them had something rare **stashed on them that they didn't use** (this is roll 2; see Part 8, Loot). It always has a story, may be damaged or low on ammo, and someone may want it back | Ash on Ostrava, session 2 |
 | Bright white armour (general ruling; the Light wears grey plate with white trim, which carries no penalty) | -2 to stealth and hiding in ordinary places (dark, grey, industrial) for anyone in white plate; covering it with a cloak, hood or dirt removes the penalty. +2 in snow, ice or bright white settings. Enemies spot the Light sooner at range, told in the fiction. No blanket penalty to fighting, and no free bonus to talking; any reputation the white earns comes through the story | Ash on Ostrava, session 7 |
 | Non-lethal (limb) shots | Aiming for an arm or leg to take someone alive: **+2 to the hidden number** (a smaller target). A hit drops a step as normal; a solid hit on a gun arm also disarms. Anyone dropped to Down only by limb shots gets **+2 on the survival d6** after the fight (dead only on a 1) | Ash on Ostrava, session 10 (DM default; the player may change it) |
-| Man-portable multi-laser (rare loot) | Shot strings **up to 6**; hits like a **hellgun** (through carapace); fires **only braced** (no recoil when braced); **a pack lasts 2 strings** | Ash on Ostrava, day 34 (DM default; the player may change it) |
-| Mining charges and bomb-runner blasts | A bomb with a **mining charge** in it hits everyone within **~8 m for two steps**; a fire bomb in the mix sets them alight; choke gas leaves a cloud for 3 beats. Anyone right on top of it (~2 m) gets no dive | Ash on Ostrava, day 34 (DM default; the player may change it) |
-| Ship and vehicle autocannons on people | A hit **drops one extra step** (heavy explosive rounds). A ship's point-defence turret firing at ground targets: **-2** (not built for it); turret-mounted guns have **no recoil** | Ash on Ostrava, day 34 (DM default; the player may change it) |
+| Man-portable multi-laser (rare loot) | → catalogue: heavy.md, Man-portable multi-laser | Ash on Ostrava, day 34 (DM default; the player may change it) |
+| Mining charges and bomb-runner blasts | → catalogue: explosives.md, Mining charges | Ash on Ostrava, day 34 (DM default; the player may change it) |
+| Ship and vehicle autocannons on people | → catalogue: heavy.md, Ship and vehicle autocannons on people | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | A non-medic patching | Anyone can patch **Hurt to Fine** at **d20 + WIS** (no medic +4) against the normal 15; **only a medic brings someone back from Down** | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | A failed medic patch | Can be tried again next beat; the medic's 'once per person' counts only the patches that work | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | Unarmed knockouts | A fist, shoulder or kick that puts someone Down counts as **non-lethal, like a limb shot**: **+2 on the survival d6** (dead only on a 1) when every step came from limb shots or unarmed blows | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | Selling loot to a trader | The trader pays **half the catalogue TV for sound items, a quarter for Dirty, Neglected or damaged, a tenth for scrap** (shot-up flak, stripped parts); the quartermaster's haggle adds its % on top | Ash on Ostrava, day 36 (DM's call, Vashti's Rock; the player may overrule) |
-| Fan throw (three throwing knives at once) | Held as claws between the fingers, thrown flat in one motion: **one roll at -4, all three on one target within ~10 m**; a miss and all three miss; a natural 1 scatters them (the knife rule: lost, not broken) | Ash on Ostrava, day 36 (the player's design, judged fair) |
-| Mono-knife | A **light** blade (chains 3) with a monomolecular edge: **through flak and mesh on any hit, through carapace on a raw 17+** | Ash on Ostrava, day 34 (DM default; the player may change it) |
-| Mesh armour | **Reinforced flak** tier, light and quiet: no noise, fits under clothes; under a chest-only plate it covers everything the plate doesn't | Ash on Ostrava, day 34 (DM default; the player may change it) |
-| Shock baton (Arbites) | A **medium** weapon (chains 2). A hit that lands **stuns the target for a beat** (they lose their next main thing); against carapace or heavier, only a solid hit (or a raw 17+) stuns | Ash on Ostrava, day 34 (DM default; the player may change it) |
-| Toxin needle-blade | A **light** blade (chains 3). A hit that gets through armour also forces a **CON save against 15, or the toxin drops them one more step**. A medic can refill it with something else (a sedative: fail and they go Down, asleep, alive) | Ash on Ostrava, day 34 (DM default; the player may change it) |
-| Needle pistol (Nessa's, Kesh's pattern) | Silent, about 25 m, one dart a beat. A hit drops one step as normal, and the toxin forces a **CON save against 15 or the target goes Down** (paralysed, alive; wears off after the fight) | Ash on Ostrava, session 10 (DM default from Nessa's 'one dart, done'; the player may change it) |
+| Fan throw (three throwing knives at once) | → catalogue: melee.md, Fan throw (three throwing knives) | Ash on Ostrava, day 36 (the player's design, judged fair) |
+| Mono-knife | → catalogue: melee.md, Mono-knife | Ash on Ostrava, day 34 (DM default; the player may change it) |
+| Mesh armour | → catalogue: kit.md, Mesh armour | Ash on Ostrava, day 34 (DM default; the player may change it) |
+| Shock baton (Arbites) | → catalogue: melee.md, Shock baton (Arbites) | Ash on Ostrava, day 34 (DM default; the player may change it) |
+| Toxin needle-blade | → catalogue: melee.md, Toxin needle-blade | Ash on Ostrava, day 34 (DM default; the player may change it) |
+| Needle pistol (Nessa's, Kesh's pattern) | → catalogue: stub.md, Needle pistol (Kesh's pattern) | Ash on Ostrava, session 10 (DM default from Nessa's 'one dart, done'; the player may change it) |
 | Genuinely undecided facts | When the DM hasn't decided something in advance (what an unlabelled lever does), it is rolled in the open, not chosen | Ash on Ostrava, session 2 |
 
 ---
@@ -1119,8 +1119,7 @@ instead of drifting.
 *Target numbers stay hidden (Part 6: "Are DCs shown: Hidden, always"); the roll and the modifiers are shown.*
 
 I roll with an actual random number generator, not by choosing a result that
-feels right. I show you the roll, the modifier, and the target number. If the
-dice say the situation goes badly for you, it goes badly for you.
+feels right. If the dice say the situation goes badly for you, it goes badly for you.
 
 ### Calling for rolls
 
@@ -1130,9 +1129,7 @@ I only ask for a roll when failure is interesting and success is uncertain. If
 there's no meaningful cost to failing, you just succeed. If the action is
 impossible, no roll saves it.
 
-When I call for a roll I tell you the DC before you roll, unless the DC is
-itself a secret. Default DCs: 10 easy, 15 medium, 20 hard. I vary them, so if
-every check in a session has been DC 15, call me on it.
+Default DCs: 10 easy, 15 medium, 20 hard.
 
 **Who starts the roll.** I do. The player describes the action in plain
 language, and I name the check and the DC. The player never has to know which
@@ -1213,15 +1210,13 @@ steering. It never comes unprompted.
 
 *Superseded by narrative mode (house rule 4): health states, not HP or initiative.*
 
-I track initiative, HP, and conditions for every creature, and I state enemy
-HP as descriptions rather than numbers unless you've found a way to know. I
-apply monster tactics honestly. Enemies flee, focus fire, and use their abilities.
+I apply monster tactics honestly. Enemies flee, focus fire, and use their abilities.
 
 ### Failure states
 
 *Superseded: no HP or death saves. Health states (house rule 4); the Light dies only if finished off or hit again while Down (Part 6, Breaking and Down).*
 
-Death is on the table. When you hit 0 HP you roll death saves like anyone else.
+Death is on the table.
 I won't kill you out of nowhere, but I also won't rescue you from a choice you
 made with the information available.
 
@@ -1268,7 +1263,7 @@ limited to what the character would know. Darktide is a useful shared reference.
 Armor Class stays off in narrative mode. Armour decides how far down the health
 ladder a hit moves you.
 
-**Armour tiers (expanded by the player, Ash on Ostrava session 10):**
+**Armour tiers (expanded by the player, Ash on Ostrava session 10; chain vs ceramite-forged and plasma vs power armour changed with the player, day 36 cleanup):**
 
 | Armour | Shrugs off | Still gets through |
 | --- | --- | --- |
@@ -1277,8 +1272,8 @@ ladder a hit moves you.
 | **Reinforced flak** | **stub, autogun and glancing las, fully** | clean las hits, hellguns, shotguns up close, chain, frags |
 | Carapace | lasguns, autoguns, stub, shotguns at range, most blades, frags (unless the throw was a solid hit) | hellguns, hot-shot, bolters, heavy stubbers, chain, power weapons, plasma, krak |
 | **Heavy carapace** | all of the above, **plus hellguns and heavy stubbers at range** | hellguns and heavy stubbers up close (inside ~15 m), bolters, chain on a solid hit, power weapons, plasma, melta, krak |
-| **Ceramite-forged** | all of the above, **plus hellguns and heavy stubbers even up close** | bolters, chain, power weapons, plasma, melta, krak |
-| Power armour | almost everything a soldier carries | bolters, plasma, melta, power weapons, krak |
+| **Ceramite-forged** | all of the above, **plus hellguns and heavy stubbers even up close** | bolters, chain on a solid hit, power weapons, plasma, melta, krak |
+| Power armour | almost everything a soldier carries | bolters, plasma on a solid hit, melta, power weapons, krak |
 
 - **Part-armour:** a plate that only covers one side counts only from that side (Tamsin's heavy front: shots
   from the side or back hit plain carapace; a chest-only carapace protects the chest).
@@ -1344,7 +1339,7 @@ their purse by how they live. Valuables (gems, gold, rings) come on top.
 | Very rich: rogue trader, noble house, a broker like Thask (strongbox or vault, not purse) | d10 x 2,000 (2,000-20,000) |
 
 **Special teams and the bestiary (set by the player, session 8).** Before a fight,
-2d20 added: 31-40 makes the group a named special team of its type (+1 on all
+2d20 added: 31-40 makes the group a named special team of its type (+5 STR and DEX levels, +1 on other
 rolls, armour one step better, +3 to the better-armed d20, favoured weapons). The
 teams' lore, look, weapons and tactics are in
 [`wh40k_gear/bestiary/README.md`](wh40k_gear/bestiary/README.md) (a table of
@@ -1425,7 +1420,7 @@ carries into the mission.
 ### The quartermaster's stock
 
 The hub's armoury stock **refreshes every 2 days** (Shop size by market, below): a handful of items,
-priced in salvage or trade, never coin. Some are canon, some invented for the
+priced in salvage or trade. Some are canon, some invented for the
 setting. **Rolled stock (set by the player, Ash on Ostrava session 8).** Stock is never
 picked to match the wish list. It's rolled at random from the 40k gear pools in
 [`wh40k_gear/`](wh40k_gear) (~260 items: weapons, armour, mods, gear, augmetics,
@@ -1637,7 +1632,7 @@ dump), it's an ammo crate: four times the amount.** In shops a crate costs 3.5x
 the single price.
 
 **Shields.** A shield takes one hand: only a pistol or a one-handed melee weapon
-in the other. **In melee** its bonus goes on the defender's roll in the exchange
+in the other. **In melee** its bonus goes on the defender's roll, block or parry
 (a raw 17+ still can't be blocked). **Against shots** it is cover the bearer
 carries, from the front only; shots from the side or behind ignore it. Going Down
 drops it, like anything in hand. Each shield's numbers are in the catalogue (kit).
@@ -1654,9 +1649,9 @@ are in the catalogue (kit). The **Jumper** role is in the bestiary (roles).
 **-1**. **Recoil:** every gun has a rating; each shot in a string **after the first** takes
 **-recoil**: **0** las weapons (lasguns, hellguns, laspistols, hellpistols) and stub/auto
 pistols; **1** autoguns on burst, SMGs and machine pistols, shotguns, revolvers, hand cannons;
-**2** bolt weapons, heavy stubbers, anti-materiel rifles. **Slots:** a gun takes **one
+**2** bolt weapons, heavy stubbers on the move (1 braced), anti-materiel rifles. **Slots:** a gun takes **one
 attachment per slot**: muzzle, under-barrel, stock, optic, grip, magazine, trigger, barrel.
-No hard cap on bonuses; every attachment carries a real downside. **A gun's optic and a HUD
+No hard cap on bonuses; nearly every attachment carries a real downside; the few that don't are priced for it. **A gun's optic and a HUD
 eye's aim bonus stack** (changed by the player, Ash on Ostrava day 34: otherwise the optic is just decor). Attachments are in the
 catalogue (kit: pistol and gun attachments).
 
@@ -1691,8 +1686,8 @@ shot). **On 1-3 the shot goes through and the field burns out: it needs a repair
 conversion field blocks only on 5-6.
 
 **Doses: stimms and combat drugs.** When you take a dose, roll a d6: **1-3 it
-lasts 3 turns, 4-6 it lasts 4 turns.** When those turns are over you can take
-another dose to keep it going (roll again). **One turn after the last dose ends,
+lasts 3 beats, 4-6 it lasts 4 beats.** When those beats are over you can take
+another dose to keep it going (roll again). **One beat after the last dose ends,
 you crash: drop to Badly hurt.** Chain **3 or more doses** in a row and the crash
 puts you **straight to Down** instead. A combat drug that rolls 18-20 on its
 backfire doesn't crash.
@@ -1710,7 +1705,7 @@ psyker 1-6).
 | --- | --- |
 | 1 | **Daemon breach.** The psyker is torn apart and a random warp daemon takes their place |
 | 2-4 | **Warp blast.** The psyker goes Down; everyone within ~3 m drops a health step |
-| 5-8 | **Backlash.** The power fails and a force blast throws the psyker away, into or out of the fight: they drop a health step and lose their next turn |
+| 5-8 | **Backlash.** The power fails and a force blast throws the psyker away, into or out of the fight: they drop a health step and lose their next beat |
 | 9-12 | **Burn.** The power fails; the psyker drops a health step |
 | 13-16 | **Misfire.** The power hits a random target nearby, friend or enemy; the psyker takes -2 next beat |
 | 17-19 | **Nosebleed.** The power fails; no powers next beat |
@@ -1728,7 +1723,7 @@ Wounding, stunning or disarming the psyker breaks a charge, as with the staff.
 | 1 | 1 beat | **Lightning** | Hits one target and one person beside them. Ignores flak; anyone hit takes -2 next beat |
 | 2 | 1 beat | **Force blast** | Hits like a hellgun and knocks the target down |
 | 3 | 0 | **Warp ward** | Blocks the first shot and the first melee hit at them this beat (a raw 17+ still gets through) |
-| 4 | 2 beats | **Mind-lash** | One target: WIS save or frozen a turn (a purity seal gives advantage) |
+| 4 | 2 beats | **Mind-lash** | One target: WIS save or frozen a beat (a purity seal gives advantage) |
 | 5 | 2 beats | **Telekinesis** | Rips a weapon from a hand, or pulls one person 4 m (out of cover, off a ledge) |
 | 6 | 2 beats | **Warp-fire** | Hits like a flamer and sets the target alight |
 | 7 | 3 beats | **Soulblaze ball** | Launches a fiery ball that drifts slowly to where it's sent, stops, then explodes: everything within 10 m catches fire |

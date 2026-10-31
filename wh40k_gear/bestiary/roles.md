@@ -25,8 +25,8 @@ is shouting orders, ducks when shot at, and is the first to run when the leader
 falls (unless an enforcer is watching). Fights better in numbers; alone, often
 surrenders.
 
-*Side note: cultists and traitor elites are braver: they hold longer when the leader
-falls and rarely surrender (fanatics and fallen professionals).*
+*Side note: cultists and traitor elites are braver: they hold longer and rarely
+surrender while the leader stands (fanatics and fallen professionals).*
 
 ## Grunt (melee)
 
@@ -61,6 +61,9 @@ fight.*
 move quickly after every shot, play behind their team so they can't be rushed, and
 will run but will take a close fight.*
 
+*Side note: the Light's sniper (Isk) counts as a traitor elite and **adds the +1 to
+shooting** on his shooting lines (changed with the player, day 36 cleanup).*
+
 ## Grenadier
 
 **Who has it:** all five types.
@@ -73,6 +76,10 @@ through.
 *Side note: cultist and raider grenadiers don't think, they just lob. Careless:
 they throw even when it puts their own team in danger, and they throw several
 grenades into the same spot.*
+
+*Side note: the Light's grenadier (Hollis): **a grenade or launcher shot that misses
+by 1-2 still does half effect** (the role's rule; his specialty stays +2 on launcher
+shots) (changed with the player, day 36 cleanup).*
 
 ## Heavy gunner
 
@@ -91,6 +98,10 @@ their own shots** from firing on the move.*
 run dry, move from cover to cover while firing, and if they run out of ammo they
 switch to a backup weapon or take ammo from the ground or a teammate. Pressure
 doesn't bother them.*
+
+*Side note: the Light's heavy gunner (Morcant) has the role's -2 suppression once; his
+specialty is **Braced fire: +2 on shots when braced or on the tripod**, not a second
+suppression (changed with the player, day 36 cleanup).*
 
 ## Heavy team
 
@@ -131,7 +142,7 @@ Wants to be close and loves close quarters. Clears cover by burning it, and **sp
 fire over cover to suppress** whoever is behind it. Moves forward behind other
 troops. **The tank is a target**: a solid hit on it can make it burst. **On a burst,
 roll a d6: 1-4, the flamer (the user) goes up in a ball of flame, and so does the
-floor around them: they **spend 2 turns putting themselves out**; 5-6, the weapon goes up in flames and they lose their next turn.**
+floor around them: they **spend 2 beats putting themselves out**; 5-6, the weapon goes up in flames and they lose their next beat.**
 
 *Side note: cultist flamers only like close range: they only take fights there,
 rush to get there, and will burn their own melee fighters if they're in the way.*
@@ -139,7 +150,7 @@ rush to get there, and will burn their own melee fighters if they're in the way.
 *Side note: traitor soldier and traitor elite flamers burn doors and exits so you
 can't leave, and always suppress cover when their side pushes or rushes. On the
 burst d6, a 6 means they throw the burning gun away instead, and don't lose the
-turn.*
+beat.*
 
 ## Demolitions
 
@@ -158,7 +169,7 @@ run into you and blow themselves up.*
 
 **Who has it:** all five types.
 
-Stays behind the line and drags the wounded back. **Patches one ally a turn: moves
+Stays behind the line and drags the wounded back. **Patches one ally a beat: moves
 them back one health state, once per person** (Down to Hurt, Hurt to Fine); **can't
 bring back the dead.** **The patch roll (set by the player, Ash on Ostrava session 10): d20 + WIS + 4
 against a normal target, the same every time: no penalty for worse wounds or for being under fire;
@@ -194,6 +205,10 @@ The voice of the group: preacher, boss, captain, sergeant or officer. Stays wher
 they can see and be heard, **gives orders (+1 to their side's rolls)**, and keeps the
 rest fighting. Usually fights hard when cornered. **Kill or silence them and the
 rest waver** (grunts may run or surrender).
+
+*Side note: the Light's leader (Kell): **his +1 goes to the whole side, every
+Light-bringer and Tamsin, whenever Kell is present and giving orders**, the same as the
+enemy Leader (changed with the player, day 36 cleanup: "Kell goes for everyone").*
 
 *Side note: cultist leaders chant and inspire: their side is braver, and
 **suppression on them is 1 less**. When the leader goes down, the whole group becomes
@@ -352,6 +367,9 @@ Cocky, flashy and very good. **Rolls 50/50 for two pistols or one good gun.**
 **+3 on shooting.** **Seeks a one-on-one with the party's best shooter**, even if
 it costs their team: calls them out, steps into the open to duel. Talks the whole
 time. Pride is their weakness: they can be baited.
+
+*Side note: the Light's gunslinger (Tey): the **+3 applies to one-handed guns only**
+(pistols, machine pistols) (changed with the player, day 36 cleanup).*
 
 ## Brute / mutant
 

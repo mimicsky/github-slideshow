@@ -5,7 +5,7 @@ Item rules for this category. General rules (heat, hot-shot, drop-prone, going D
 ## Boarding shield
 
 **Boarding shield** (uncommon, 4 TV): a plain slab of plasteel with a grip.
-**+1 to block, half cover from the front.** Shared shield rules: Codex, Gear rules.
+**+1 on the defender\'s roll (block or parry), half cover from the front.** Shared shield rules: Codex, Gear rules.
 
 ## Arbitrator shield
 
@@ -16,25 +16,25 @@ pistol through it without giving up the cover.
 ## Storm shield
 
 **Storm shield** (rare, 30 TV): a shield with a power field generator.
-**+3 to block, three-quarters cover from the front.**
+**+3 on the defender\'s roll (block or parry), three-quarters cover from the front.**
 
 ## Slab shield (Ogryn)
 
 **Slab shield** (enemy only): Ogryn-sized; no human can carry it in a fight.
-**+3 to block, three-quarters cover from the front** for the Ogryn and one
+**+3 on the defender\'s roll (block or parry), three-quarters cover from the front** for the Ogryn and one
 person standing behind them.
 
 ## Makeshift shield
 
 **Makeshift shield** (common, 1 TV; player design): wood and scrap metal nailed
-together. **+1 to block, one-third cover from the front (+1 to the shooter's
+together. **+1 on the defender\'s roll (block or parry), one-third cover from the front (+1 to the shooter's
 difficulty). Breaks after 2-3 heavy hits:** roll it when the shield is made or
 repaired (d6: 1-3 it takes two, 4-6 three).
 
 ## Forged shield
 
 **Forged shield** (uncommon, 6 TV; player design): smith-made to take blows.
-**+2 to block, half cover from the front.**
+**+2 on the defender\'s roll (block or parry), half cover from the front.**
 
 ## Shield viewing slot (mod)
 
@@ -51,7 +51,7 @@ with the shield after that.**
 
 ## Improvised shield (a door)
 
-**A door or hatch** (enemy brutes, or anyone strong enough): **+1 to block, half
+**A door or hatch** (enemy brutes, or anyone strong enough): **+1 on the defender\'s roll (block or parry), half
 cover from the front.** Breaks after 3 heavy hits.
 
 ## Mesh armour
