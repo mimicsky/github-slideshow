@@ -35320,6 +35320,6142 @@ lamp clicked off.
 
 Then Tamsin went to sleep.
 
+
+## Chapter 123: A Short Note
+
+The ship woke him before the chrono did. Boots went past in the corridor. Pans clanged in
+the galley, and the air smelled of recaf and frying grox. It was 0600, day 36, and Tamsin
+had slept straight through, deep and dreamless. He could feel it.
+
+Through the door came a voice he had not heard at full strength in three days.
+
+"Range in twenty, mat after. Hollis, your lot first. Joren, Dannel, you're on your feet,
+so you're on the run with me. Don't look at Sallow, she already said yes."
+
+"Yes, Sergeant," said Joren.
+
+Kell sounded like himself again, the bark back in it and nothing held back. His boots went
+off toward the hold.
+
+Nobody else was very loud. The usual galley racket was there, but lower and more careful,
+the noise of a crew that knew the Interrogator's door was shut and remembered what had
+come through it last night. Somewhere down the corridor Hollis said something, and someone
+shushed him.
+
+When Tamsin opened his door, there was a small wooden ammo box sitting square on the deck
+in front of it, set so that he would have to step over it. A strip of flimsy was tucked
+under the lid in Dace's blocky hand.
+
+> *Brother. Didn't knock (orders). Ten done, and the square one. Mine. Did it last, like I
+> said. It's the best one.*
+>
+> *Sallow's cracked at the ring when I punched the hole. My fault. I rushed it to get to
+> mine. Recutting it from the spare today, first thing, slow this time.*
+>
+> *The rest are good. They're ready for your paint.*
+>
+> *— D.*
+>
+> *P.S. Still can't believe the square one.*
+
+Under the flimsy, nested in folded oilcloth in neat rows, the medals caught the corridor
+light: small plasteel discs, each with its ring at the top and its emblem cut clean into
+the face. A bullet. A crosshair in a scope. A fortress wall. A hood over a knife. A bird,
+and another bird. A blade and a gun crossing. In the corner, set apart on its own fold of
+cloth, was the square one: a shield with a star in the middle and *LP* cut into it, deeper
+and cleaner than any of the others.
+
+There was one empty space in the rows, where Sallow's cross should have been.
+
+From the galley came the scrape of benches as people headed for the range.
+
+---
+
+He lifted the box off the deck. It was heavier than it looked: eleven pieces of plasteel
+and the oilcloth folded round them. Inside, he set it on the desk and slid open the second
+drawer, the one under the schematics. He laid the medals in, still in their rows on the
+cloth, and pushed it shut. Sixteen drawings in the top drawer, the medals in the bottom
+one. Nobody aboard knew what was in either.
+
+Out in the corridor, boots went by in twos and threes, heading aft for the hold. The
+voices dropped as they passed his door and picked up again once they were past it.
+
+One pair of boots slowed right outside. They stopped for a second, then went on, a little
+too quickly. Light, quick steps, someone young. Tavi, keeping his head down the way he had
+been told, or the way he thought he had been told.
+
+Kell's voice carried up the stair from the hold.
+
+"Range is open! Hollis, your lot. Joren, Dannel, with me, we're running. Move!"
+
+The ship settled into its morning noise. It was about 0602. Aldwyn's couriers were due
+around midday.
+
+---
+
+Tamsin dropped into the chair and tapped the bead. Last night's iron went straight back
+into his voice, as if he had only stopped to sleep on it.
+
+"Brenner. My office. Now."
+
+The channel went silent.
+
+Nobody counted. Nobody said *seven*. The open line hissed for a long breath, and behind it
+he could hear the range: a las crack, and then the next one never came. Somebody had
+lowered a gun.
+
+Then a click. Crisp and level, the voice Brenner used to log things on a mission.
+
+"*Logged, sir. Coming.*"
+
+It took him three minutes from the range. Tamsin heard him on the stair, then in the
+corridor: an even, measured walk, the walk of a man going toward something he had already
+decided to face properly.
+
+Two knocks, exactly spaced.
+
+When the door opened Brenner was standing straight in the corridor, his carbine slung
+barrel down and the auspex rig still strapped across his chest. The wrist readout glowed
+faintly. He had not taken it off, and Tamsin doubted it had occurred to him to. His face
+was calm, but he was pale. His thumb rested on the edge of the readout, very still, the
+way another man might hold a prayer bead.
+
+"Sir."
+
+"Sit," said Tamsin. "Bead out on the table."
+
+Brenner stepped in and let the door close behind him. He unslung the carbine first and
+leaned it against the chair leg, muzzle down. Then he unhooked the bead from his ear and
+set it on the desk, squared exactly to the edge, the way he would lay out tools for a
+splice. The rig stayed on.
+
+He folded his hands on his knee and looked at Tamsin, steady, reading him the way he read
+a signal.
+
+"Sir. If it's my shooting, I already know." His voice was quiet and even, as if he were
+reading off a report. "I've been logging my own misses since the Mart. Every engagement.
+It's not a short list."
+
+His thumb found the edge of the readout.
+
+"I'd rather hear it from you than guess."
+
+"You understand you play an important role, yes?" said Tamsin. "And when you fail at that,
+it puts the team in jeopardy..." He let that sit. "Now I will talk to you, and you will be
+quiet. Not loud, and you won't make a fuss. Understand? Tell me what went wrong on the
+Mart..."
+
+Brenner did not flinch at *jeopardy*. He nodded once, slowly, as if Tamsin had confirmed a
+figure he had already worked out.
+
+"Understood, sir."
+
+He kept it quiet, barely above the hum of the air through the grille. When he started, he
+did not pick and choose. He started at the worst one.
+
+"The customs house. 0229. The east strip." His jaw tightened, just slightly. "My
+vox-caster swung on my back and hit the side of a cart. The strap had worked loose, and I
+didn't check it. The stab-light came straight down on the noise and lit the whole file up
+in the open. You and Tavi and Dace were at the wall unseen, sir. I gave all of you away."
+
+A breath.
+
+"Then I stood in the beam instead of getting out of it. I shot the lamp out, but I stood
+there to do it. That drum gun put a round into my plate. If it had been a hand cannon,
+Sallow would be sitting where I am, telling you how long."
+
+His thumb moved on the readout once and went still again.
+
+"Berth 31. I missed the brute, with Tavi and Sallow, all three of us. Then I breathed the
+gas, through my rebreather, and Sallow had to spend antitoxin on me. The crowd at the
+customs house: missed. The crane yard gate..."
+
+That one cost him something. He held Tamsin's eyes anyway.
+
+"Tavi was out there alone with the satchel, and the five were coming up the road. I fired
+and missed. He went down behind that stack, and I was one of the guns that should have
+kept their heads down."
+
+He stopped. The readout glowed on his wrist.
+
+"The auspex was right every time, sir. I wasn't."
+
+He sat there quietly, as he had been told to, and waited for the rest.
+
+"Good," said Tamsin. "I'm glad you own up to it. I'm proud of you for that... And
+Brenner?"
+
+At *proud of you*, something in Brenner's shoulders let go a little. He swallowed and gave
+one short nod. "Thank you, sir." Then he straightened again, ready for the next item on
+the list.
+
+"How have you, of all people, not noticed? You think I could figure out the helm picts on
+my own?"
+
+Brenner frowned. It was the small, focused frown he wore over a bad signal. Tamsin could
+almost see him running back through the whole of the last day. His eyes went to the desk:
+no slate, no pict viewer, no spool reader, nothing plugged in anywhere.
+
+The frown stopped.
+
+"...You never asked for the spools."
+
+He said it slowly, like a result he did not quite believe yet.
+
+"Six pict-lens helms aboard. Every spool from the Mart is still sitting in its helm.
+Nobody's pulled one. Nobody's asked me to. You'd have had to ask *me*. You couldn't review
+any battle data without me."
+
+His eyes widened a fraction.
+
+"There *is* no battle data review."
+
+Tamsin watched the rest fall into place behind his eyes, one entry after another: Morcant
+with his head down, Tey, Isk silent, Varga's *Don't*, Sallow carrying a tray, last night's
+shouting through the bulkheads.
+
+"Tavi. Last night. That was..."
+
+He stopped, and sat back slowly in the chair. Then, very quietly, in the dry, polite voice
+he used when he had been caught out:
+
+"I log everything, sir. I didn't log that."
+
+The corner of his mouth twitched. He pressed his lips together hard to stay quiet, as
+ordered, but his eyes had gone bright with something between relief and professional
+embarrassment. They flicked to the desk drawer and back.
+
+Tamsin slid the schematic over.
+
+"Made just for you. And it's a different field for you."
+
+Brenner took the sheet in both hands and turned it square to himself. For a second he only
+looked at the heading: **SCHEMATIC 12: BRENNER. ACCATRAN.** Then he read it the way he
+read everything, like a manual: top to bottom, every label, every arrow, his lips moving
+silently over the numbers.
+
+At the screen on its hinge, his finger stopped.
+
+"Heartbeats." He said it under his breath, like testing a frequency. "Not heat. Not
+movement. Heartbeats. That cuts out all the noise. Machinery, steam, vermin, a lift
+running..."
+
+He followed the cone across the page with his fingertip.
+
+"Thirty metres. The rig reaches a lot further. But the rig can't tell me which side of a
+door a man's standing on. This can. Closer means sharper..."
+
+He reached the parts list in the margin, and his finger stopped again.
+
+"My old handheld."
+
+Something moved across his face, small and private. That auspex was the one that had sat
+on his blanket in the station medicae, the one he would not stop tapping.
+
+"So it's still with me."
+
+He moved on, quick and quiet. *Blind to servitors. Blind to walkers.* He nodded: noted,
+not a complaint. At the strings of seven he did the sum in his head, and his mouth
+tightened.
+
+"Seven a string eats fourteen off an extended pack. I'll carry four. And I'll write Ferro
+a wiring list for the screen tonight, if he'll take one." A pause. "He won't, but I'll
+write it."
+
+Then he reached the note at the bottom and read it once, slowly. At *now you can stare at
+something other than your auspex rig in battle*, a laugh escaped him: one short, silent
+breath through the nose, his shoulders jumping once.
+
+"It was a short note."
+
+He laid the sheet flat on the desk with both hands resting on it, and for a moment he only
+looked at it. When he looked up his eyes were bright, but his voice was as steady and dry
+as ever.
+
+"Thank you, sir. Truly."
+
+He glanced at the door, already a step ahead.
+
+"What's my story when I walk out, sir?"
+
+---
+
+"Hmm," said Tamsin. "Well, you already told the story yourself. You know your mess-ups,
+and I'm telling you it's okay, and we'll get better over time. That's why we train. Just
+say I chewed you out over shooting and the house." Then: "And Brenner. Train hard for me.
+I mean that as myself, and not as a front."
+
+Brenner listened without moving. At *that's why we train* he nodded slowly, the way he
+would acknowledge a corrected reading. At *as myself, and not as a front*, his eyes came
+up and held Tamsin's.
+
+"Understood, sir. Both ways."
+
+He slid the sheet back across the desk, squared to the edge. He hooked the bead over his
+ear, slung the carbine barrel down, and stood. He was at the door with his hand on the
+frame when Tamsin spoke again.
+
+"I'm proud of you. You've come a long way..."
+
+Brenner did not turn round straight away. His hand stayed on the frame. His shoulders rose
+and fell, once, slowly.
+
+Then he looked back. The last time Tamsin had seen him this close to tears, he had been
+propped on two pillows in a station medicae with a tube in his throat, asking for
+something to do. His eyes were wet now, and his voice was perfectly level.
+
+"Logged, sir."
+
+A small pause.
+
+"It's official now."
+
+Then he turned to the corridor, and his face changed. It went pale and tight-jawed and
+stiff, the face of a man who had just been taken apart over his shooting. It was not hard
+for him. Half of it had been true an hour before. He walked out at the same even pace he
+had come in with, and the door slid shut behind him.
+
+His boots went off toward the hold. A moment later there was a voice at the bottom of the
+stair, low, asking something. It might have been Hollis. Brenner answered with one word,
+too quiet to make out, and kept walking.
+
+It was about 0623.
+
+
+## Chapter 124: Read the Bottom First
+
+Tamsin keyed the bead again, in the same voice the whole ship had been hearing since
+yesterday.
+
+"Nessa. Office. No games..."
+
+The channel held its breath. Then a click, and her voice, flat and dry, with something
+underneath it gone very still.
+
+"*...Lovely.*"
+
+He did not hear her coming. Brenner had been audible from the range, and Tavi from the far
+end of the ship. With Nessa there were no boots on the stair and nothing in the corridor.
+The first he knew of her was a single knock, light and precise, from someone who had been
+standing outside for he did not know how long.
+
+When the door opened she was in the corridor with her arms folded, in her dark work
+leathers with the sleeves pushed up, and a half-eaten heel of bread still in one hand from
+the galley. She had not put it down. She looked like a woman who refused to look as if she
+had rushed. Her eyes went round the cabin once, a fast, practised sweep of the desk, the
+shut drawers and the chair set out in front of him, and then they landed on him. Her face
+was perfectly neutral. It was the face she wore on a job, walking past a guard.
+
+"Boss."
+
+"Sit. Bead out on the table."
+
+She came in without a sound, even on the deck plates, and sat. She did not perch on the
+front edge the way Tavi had. She sat all the way back with one leg crossed over the other,
+the way she would sit across from a customs officer she meant to outlast. She took the
+bead from her ear and set it on the desk. After a moment she set the bread down beside it,
+as if that were out of reach now too.
+
+Her arms folded. For a breath she read him, and whatever she saw, she did not like it.
+
+"If this is about him." Low and flat. She tipped her head a fraction toward the deck
+below, toward the cells. "Thask. Two decks down, in a cell, and me walking past it to get
+to the galley. Two years I ran guns for that man. I saw the gate on his crates and kept
+running for the money."
+
+Her jaw set.
+
+"If that's what this is... if somebody's said something, or you've been thinking it all
+day in here... then say it to my face, boss. No games. You said so."
+
+She did not blink. Her fingers had gone white where they gripped her own arms.
+
+"I talk, you listen, and be quiet," said Tamsin. "You can barely do that." Then: "You're
+smart. You know why you're in here? What I would call you in for?"
+
+At *you can barely do that*, the corner of her mouth tightened. A comeback was right there
+on her tongue, and Tamsin watched her bite it back. It cost her. At *you're smart*, her
+eyes narrowed. She was reading him like a lock, and it did not add up the way she wanted
+it to. She gave up on it and answered straight.
+
+"Fine."
+
+She lifted one hand off her arm and counted on her fingers, flat and quick, without
+looking at them.
+
+"I threw a stylus at your head. At the berth 31 map. In front of half the Light. Shouted
+your name like you were a deckhand."
+
+Second finger.
+
+"Bread roll in the galley. I was aiming at Varga. It hit Hollis."
+
+The third came slower.
+
+"The customs house. The strip. I was sweeping the rear. I saw Brenner's caster swinging on
+his back two carts before it hit, and I reached for it too late. I should've been closer.
+That stab-light was on all of you because of one bad strap I watched happen."
+
+The hand dropped back onto her arm.
+
+"And the one I already said. Two decks down, in a cell." Her chin came up a fraction,
+daring him. "Pick one, boss."
+
+Then she shut her mouth, as ordered, and waited.
+
+Tamsin leaned in, hands together, sterner.
+
+"Do you think this is a game? I let you come onto this team, and now you play games in my
+face? What did I say? No games..."
+
+She did not lean back. She never did. But at *I let you come onto this team*, the job-face
+cracked down the middle, and for a second Tamsin saw what was under it. She looked, very
+briefly, like a woman standing on a ship's ramp with a collar on her neck, waiting to be
+sent back.
+
+Then it was gone, shoved down. Her jaw set hard.
+
+"No, boss."
+
+It came out quieter than she meant it to. She heard that, and hated it.
+
+"It's not a game. Not to me. Not any of it." Her fingers dug into her sleeves. "Nine years
+I ran guns, and I never had... This is the only..."
+
+She stopped. The word was right there, the one she had thrown a stylus at his head over.
+She would not say it, not here, not like this. Her mouth closed on it, and her eyes
+dropped to the bread on the desk.
+
+"It won't happen again. The stylus. The bread. Any of it. You'll get the job from me and
+nothing else."
+
+She brought her eyes back up by force. They were bright and furious, and he could not tell
+whether the fury was for him or for herself.
+
+"...Boss."
+
+"You wanna know why you're in this room," said Tamsin.
+
+For a moment she did not answer. She looked at him the way she would look at a door she
+could not pick: the last hard look before you either walk away or kick it in.
+
+"Yes."
+
+One word. No *boss*, no edge on it, nothing to hide behind. She unfolded her arms and laid
+her hands flat on her knees, and they stayed there. It was the stillest he had ever seen
+her.
+
+Tamsin stood up.
+
+"You. Got. Played..." He let it land. "Honestly, I would expect you to figure it out.
+Sallow did, and you're the same as her in a way. But honestly, I'm disappointed too. All
+the deep talks, the connection, and the timing of me commending my team and then ripping
+on them? Really, you buy that? You're very perceptive, Nessa. Look around. What do you
+see? Not shit. No screen, no slate, no cams..."
+
+She did not move. Only her eyes went, the way he told them to: round the cabin, slowly
+this time and properly, the way she would case a room before a job. A lamp, a pencil,
+shavings. Bare plate walls and two palm-sized grilles. No screen, no pict reader, no spool
+rack, nothing plugged into anything. A man who had been reviewing battle data since
+yesterday afternoon, in a room with nothing in it to review it on.
+
+He watched it hit her in stages. First, blankness. Then her lips parted. Then the colour
+climbed up her neck, red and furious and mortified all at once, all the way to her
+hairline.
+
+Her hand shot out and grabbed the heel of bread off the desk. Her arm cocked back,
+perfectly, the throw already lined up on his head.
+
+And stopped.
+
+He could see her remember. *The stylus. The bread. Any of it. It won't happen again.* Her
+arm hung there in the air, trembling. Then, very slowly, with what looked like real pain,
+she lowered it and set the bread back on the desk exactly where it had been.
+
+"*Rook.*"
+
+She hissed it through her teeth, barely louder than the air through the grille, so it
+would not carry.
+
+"Sallow *got it*?" She shut her eyes. "Of course Sallow got it. She'll never let me..."
+
+She pressed the heels of both hands into her eyes and breathed out, long and shaky. When
+she dropped her hands the fury was still there, but under it, plain as day, was relief.
+Nobody was sending her anywhere. There was no collar and no ramp.
+
+She looked up at him, red to the ears, her mouth trying to stay in a hard line and failing
+at the corners.
+
+"...Lovely. That's very lovely, boss." Then her eyes narrowed, sharp and curious, back on
+the job. "So why *am* I in here?"
+
+Tamsin slid her schematic over. "Read the bottom first."
+
+She gave him a long, suspicious look, the look of a woman who had been played once and
+would not be played twice. Then she pulled the sheet over by one corner and did exactly as
+she was told. She skipped the drawing and went straight to the bottom.
+
+*Can't do much for this, but what I can do is buy you better ammo.*
+
+Her eyebrows went up. Her eyes dropped to the margin, where the darts ran down the page
+one under another, and she read them under her breath the way she would read a back-room
+price list.
+
+"Black-tip. Stronger brew. Shard..." She tapped it once with a fingernail. "Crystal tips.
+Through a carapace man like he's wearing a coat. Those don't come cheap, boss, and they
+don't come from anyone honest."
+
+At widow her mouth went flat, and she nodded once, professional. Panic got a small, nasty
+smile. At truth she looked up at him sideways.
+
+"That one's yours, isn't it. An Interrogator's dart."
+
+Tracker got a "Hm," approving. Then her eyes reached the last line, in bigger capitals
+than the rest.
+
+**GIVE ME A BETTER CHALLENGE.**
+
+She stared at it. Then she laughed, one short, startled breath through the nose that she
+clapped a hand over too late.
+
+"There's nothing *wrong* with her. That's why."
+
+She said it with the pride of a woman who had picked well. Only then did she let herself
+look up the page at the drawing: the longer, finer barrel, the slim reflex window, the
+ribbed sleeve on the grip. She studied it far longer than she had studied the note, and
+her face went quiet.
+
+"You didn't cut her up." It was almost a whisper. Eighteen months that pistol had sat in
+an Arbites locker. "Good."
+
+She slid the sheet back across the desk to him, squared to the edge, and sat back. The red
+had gone from her neck. What was left was the old dry spark, sharper than ever.
+
+"Challenge accepted, boss. Next time I'll pick you something properly broken." She tipped
+her head at the door. "And when I walk out, I'll walk out like you've just taken my pistol
+off me. They'll buy it. Lying to people's faces is the part I'm good at."
+
+One eyebrow lifted, waiting for his word.
+
+"Good. Sell it," said Tamsin. "And I'll buy you darts before the hive city."
+
+At *darts*, her eyes lit up for half a second before she shut it away. She stood, hooked
+her bead over her ear and picked up the bread. Her face fell into a cold, flat, wounded
+fury, the face of a woman who had just had her gun taken off her. It was good. It was very
+good. She walked out with it.
+
+The door did not quite seal behind her, and her voice carried back through the gap, low
+and bitter.
+
+"He took her. Don't."
+
+"Took what?" said Hollis.
+
+A pause.
+
+"...She's on your hip, Nessa."
+
+A much longer pause. Tamsin could almost hear her looking down at the needle pistol
+sitting snug in its holster, exactly where it always was.
+
+"The darts. He took the *darts*."
+
+"Mm."
+
+One syllable, mild and even, and full of something. Her footsteps went off down the
+corridor, quick and silent. Hollis's heavier boots went the other way, unhurried. They
+paused once outside the door, as if he were thinking about knocking, and moved on.
+
+It was about 0640, and one of the men the last sheets were for was starting to wonder.
+
+
+## Chapter 125: Read the Trail
+
+At 0641 Tamsin put the anger back in, short and hard.
+
+"Sorel. Now."
+
+The channel went quiet. A pause, then a click, and the low Valhallan burr, unhurried as
+always.
+
+"*Coming, boss.*"
+
+He took the ladder up from the hold at the same steady pace he took everything. Tamsin
+heard him the whole way: not loud, not quiet, just a man walking. Two knocks.
+
+When the door opened he was standing straight-backed in the corridor, tall and lean, his
+hellgun slung short across his chest the hive-clearance way. His ice-blue eyes did what
+they always did in a room: the corners first, then the door, then the walls. Then the
+desk, with no slate on it. A lamp, a pencil, shavings, nothing else.
+
+His face did not change. But under the neat grey moustache the corner of his mouth moved,
+just once, the way it did in the Bang games right before he said *snipers never look up
+indoors*.
+
+"Reporting, sir."
+
+"Sit. Bead out on the table."
+
+Sorel stepped in, shut the door and sat. He unslung the hellgun and leaned it against the
+chair, muzzle up, within reach. He set his bead on the desk and rested his big scarred
+hands on his knees, and he looked at Tamsin, calm and level, the way he would look down a
+corridor he already knew was empty.
+
+"Before you start, sir." His voice was low and plain. "I'll play it however you want it
+played. Walk out of here whatever way you like. But I'll not lie to you in your own
+cabin."
+
+A small, dry pause.
+
+"The lad's been grinning at a crate laspistol all morning, when he thinks nobody's
+looking. Two guns in his hands like Varga showed him. Doesn't look like a boy who's been
+told he's only here for more hands." He tipped his head at the door. "Morcant hums when he
+thinks he's alone in the hold. He was humming last night. And not one of the ones who came
+out of here has said a word against you since. Not to each other, not in the bunk room
+after lights-out. Men who've been torn apart do talk, sir. In the dark, they talk."
+
+He spread his hands a little.
+
+"You learn to read the trail, not the face."
+
+There was no fear in him at all, only a quiet, patient curiosity and the faint crease at
+the corners of his eyes that was as close as Sorel ever came to a grin.
+
+"Honestly, I figured you'd catch it," said Tamsin. "So first, tell me what everyone else
+thinks right now."
+
+Sorel nodded slowly, like a man asked for a patrol report. He took a moment to put it in
+order, and then he gave it plain, one name at a time.
+
+"The Sergeant doesn't see it. But he's not worried about the team, sir. He's worried about
+you. Kesh, the couriers, the tenement, all of it on your back. He thinks it's got to you.
+He was on the run this morning with the penitents, and he kept looking up at your deck."
+
+"Corvane believes every word. He's been polishing that sword since dinner, sitting very
+straight. Waiting for his turn. I think he believes he's earned it."
+
+A small grimace under the moustache.
+
+"Dace believes it too. He's frightened you'll call him in over Sallow's medal. He's been
+at the bench since five, recutting it, and every time a boot goes down the stair he stops
+hammering."
+
+"The enginseer knows." He said it with something like respect. "Passed me in the hold last
+night and said, without stopping, 'The stress in the Interrogator's voice is wrong for
+anger.' Then he went back to his bench. I don't think he's told anyone else. I don't think
+anyone else has asked him."
+
+"The pilots are arguing about it. Teo says it's an act. Mira says it's not and it's coming
+for the Valk, and they've been at it since breakfast. She won't hear it from him, so
+nobody else is, either."
+
+He shifted a fraction in the chair.
+
+"Hollis came down the ladder ten minutes ago, after Nessa. He didn't say anything, but
+he's thinking. Ollin's gone through his ledger twice this morning in case he's next. The
+two penitents are scared stiff. They think one wrong move sends them back. And the ones
+who've been in here are holding their stories, every one. You'd not get a word out of them
+with pliers."
+
+He rested his hands back on his knees.
+
+"That's the trail, sir."
+
+"Alright, thanks," said Tamsin. "Now, I'm sure you can sell it well, but that's not what
+you're here for anyway... Ready?"
+
+At *I'm sure you can sell it well*, Sorel straightened a fraction in the chair, a lift of
+the chin, his shoulders settling square. It was how he took a compliment: quietly, and he
+kept it. At *that's not what you're here for*, his eyes flicked once to the desk drawer
+and back, and the patient curiosity sharpened. The hunter had caught a scent.
+
+"Ready, sir."
+
+Tamsin slid the sheet over. "Work in progress. Tell me anything you want changed or
+replaced."
+
+Sorel laid it flat on his knee and read it the way he tracked: slowly, from the edges in,
+nothing skipped. He took his time over the green body redrawn, the holo, the stock and the
+tall squared grip. At the selector with its single **3** he stopped, and the corner of his
+mouth moved.
+
+"Threes." He said it quietly. "That's how I shot against Hollis on the range. Threes. You
+remembered that."
+
+His finger went on to the helm in the corner, the counter and the little speech mark by
+the ear, and then down to the visor, the clear plate threaded like frost, and the cone
+shaded across the bottom of the page with a boot print, a smear on a doorframe and a hand
+on a wall drawn inside it.
+
+He went very still. For a long moment he did not say anything. His thumb rested on the
+drawn boot print.
+
+"That's a tracker's eye, sir."
+
+His voice had gone rough, the burr thicker than usual. He cleared his throat once.
+
+"On Valhalla you read frost. In the hive you read dust. This reads both."
+
+He read the line at the bottom, *Need more info on your style before I make you a gun*,
+and nodded slowly, as if that were fair and honest. Then he looked up.
+
+"You asked. Then I'll tell you three things, and you can say no to any of them."
+
+He held up one scarred finger.
+
+"The voice in the helm. Calling my count. I'd keep the counter, but not the voice. On a
+hunt I'm listening for breath, a boot on grit, a man swallowing behind a door. I can't
+have someone counting in my ear. A tap, or a glow at the edge of the visor. Something
+silent."
+
+The second finger came slower.
+
+"My old lasgun. The notches on the stock, the ones I found. If Dace could cut that strip
+out and set it into the new stock... they'd ride with me. I'd like that."
+
+Third.
+
+"The stock. I turn a lot, room to room, and that one turns heavy. But you've seen me shoot
+more than I have. If you say it stays, it stays."
+
+He lowered his hand.
+
+"And my style, since you asked. Slow. Sure. Second through the door, behind the point man.
+I shoot when I'm certain. And I don't get lost."
+
+He set the sheet squarely on the desk and slid it back, and he sat back, quietly proud,
+waiting.
+
+Tamsin pulled the sheet toward him and picked up the pencil. Sorel watched every stroke.
+
+The little speech mark by the helm's ear went first, two lines through it. Beside it
+Tamsin drew a small glowing dot at the edge of the visor and wrote *tap, not talk*. Then
+the stock. He crossed out the heavy tac stock and drew it again as a light tube skeleton,
+notched for length, easy to turn. Along its cheek, very carefully, he drew a narrow strip
+set flush into the frame, and on it the small, neat notches, the same count as on the old
+lasgun in the rack. Under it, small: *the ones he found*.
+
+Sorel did not say a word while he drew. But when the pencil reached the notches he leaned
+forward an inch, and he stayed leaned forward until it was done.
+
+The sheet went into the drawer with the others.
+
+Sorel sat back slowly. His ice-blue eyes were steady, but there was a brightness in them
+he did not bother to hide, and his chin was up.
+
+"Thank you, sir."
+
+He said it simply, the way he said everything. Then, after a moment, dry and quiet:
+
+"And when I walk out? How angry are you with me?"
+
+"Not that angry, but still upset," said Tamsin. "I feel like that's more believable than
+me being angry at everyone. Say the only thing bad was some of your shots, and your
+calls."
+
+Sorel nodded slowly. "Upset, not angry. Aye. That's a truer face, sir. Men believe a quiet
+officer more than a loud one."
+
+He hooked his bead over his ear, slung the hellgun short and stood. At the door he took
+one breath and let something settle into his face. It was not much: his jaw a little set,
+his eyes a little lower, the face of a sergeant who had been told his calls were not good
+enough. Then he opened the door.
+
+It did not seal behind him. Through the gap came boots stopping short in the corridor,
+light and quick.
+
+"Sorel... You alright?" It was Tey.
+
+"Some of my shots, lad. Some of my calls." A pause, lower and plain. "He's not wrong."
+
+"...He never is."
+
+They both delivered it with perfectly straight faces. Then the boots went off together
+down the corridor, one long stride and one quick one, and just before they were out of
+earshot Tamsin caught a whisper, high and delighted.
+
+"*You too?*"
+
+"Hush, lad."
+
+The corridor was empty. It was about 0703.
+
+
+## Chapter 126: Pride and Honour
+
+At 0704 Tamsin keyed the bead and let disappointment into it. It was quieter than the
+others, and heavier for it.
+
+"Corvane. My office. Now."
+
+The channel went still. Then a click.
+
+"*Coming, boss.*"
+
+Two words, crisp and level, exactly as he would answer an order to take a door. He did not
+run, and he did not drag his feet. His boots came along the corridor at a measured march,
+the pace of an officer walking to his own court-martial with his chin up. Two knocks,
+firm.
+
+When the door opened Corvane was at attention in the corridor: heels together, shoulders
+square, hands flat at his sides. His fatigues were pressed. The power sword hung at his
+hip in its scabbard, the hilt polished so bright it threw the corridor light back, as if
+he had been at it all night. His face was calm and composed, almost serene, the face of a
+man who had already decided to take whatever came without a word of complaint. Only his
+eyes gave him away. They flicked once to Tamsin's and held there, searching.
+
+"Boss."
+
+"Sit. Bead out on the table."
+
+Corvane stepped in and shut the door. Before he sat he unbuckled the scabbard from his
+belt, a soldier's courtesy in an officer's room, and laid the sword across his knees as he
+lowered himself into the chair. He kept his back straight and did not touch the chair's
+back at all. He set his bead on the desk, squared, and rested both hands flat on the
+scabbard.
+
+He did not fidget or guess, and he offered no excuses. He met Tamsin's eyes the way he
+would stand in front of a tribunal.
+
+"I am ready, boss."
+
+"Missed shots," said Tamsin. "Bad swings. Bad calls. Terrible footwork. I've watched it
+all, seen all the footage, and I..."
+
+Every word landed on Corvane like a blow he had chosen not to block. At *missed shots* his
+jaw set. At *bad swings* a muscle jumped in his cheek. *Terrible footwork* got a flicker
+of real hurt, because footwork was the thing he was proudest of. He held his face still
+anyway.
+
+Tamsin stopped mid-word, looked at him, and stood up as if he were furious.
+
+"Are you paying attention?!"
+
+Corvane was on his feet before Tamsin had finished rising. Officer's reflex, years deep.
+The sword started to slide off his knees, and he caught the scabbard one-handed without
+looking and brought it to his side as he snapped to attention. Heels together. Chin up.
+Eyes fixed on a point just past Tamsin's shoulder.
+
+"Yes, boss." Crisp and loud, a parade-ground answer. "Every word." Then, lower and steady,
+with no self-pity in it at all: "I have no excuse, boss."
+
+"No. You're not paying attention."
+
+Corvane blinked. For the first time since he had walked in, the officer's composure
+slipped into confusion. He took it as an order. His eyes left the point past Tamsin's
+shoulder and moved round the room the way he read a breach: quick, systematic, corners
+first. The desk. The lamp. The shut drawers. The chair. Tamsin. He was looking for the
+thing he had missed, the tell, the trap in the doorway.
+
+He found nothing, and Tamsin could see that frustrate him more than anything he had said.
+His jaw worked once.
+
+"Then tell me what I am missing, boss." His voice was quiet, steady and painfully honest.
+"I will not guess at it. I would rather hear it plainly than insult you with the wrong
+answer."
+
+"Do you think I run my team as a game? Why are you not paying attention?"
+
+At *a game*, something hard came into Corvane's face. It was not defiance. It was memory.
+
+"No, boss." He said it at once. "I served under a man who ran his men as a game. I
+followed Drachen. I watched him spend boarding parties like counters on a board, and I
+called it duty, and I went first through every door he pointed at."
+
+His grip tightened on the scabbard, knuckles white.
+
+"I know what that looks like, boss. I know it better than anyone aboard this ship." His
+chin came up a fraction. "You are not him. You have never been him."
+
+Then *why are you not paying attention* reached him, and the steadiness wavered. His eyes
+went round the room again, faster, almost desperate, searching it the way he would search
+a corridor for the one man he had not spotted. Nothing.
+
+His voice dropped, very soft.
+
+"I do not know what I am failing to see, boss." A pause. "And that is my failure, not
+yours."
+
+Tamsin sat down.
+
+"Corv... you're my pride and honour. And you can't even read between the lines. You might
+be the most gullible out of the entire team."
+
+The first part hit him before the rest of it did. His face simply stopped. All the
+officer's composure, the jaw, the chin, the eyes fixed past Tamsin's shoulder, went still
+and then came apart very quietly. His lips parted. For a moment he looked younger than
+twenty-six.
+
+"...Boss."
+
+Barely a breath.
+
+Then the rest arrived, piece by piece, the way it had arrived for Tavi and Nessa. *Seen
+all the footage*, and there was no screen in the room. *Missed shots, bad swings, terrible
+footwork*, all in the same voice that had called him in, while Tey grinned at a crate
+laspistol two decks down. A man who was angry did not call you his pride and honour.
+
+His eyes closed.
+
+"May I sit, boss?"
+
+He asked it very formally, and he did not wait for the answer quite as long as he should
+have. He lowered himself into the chair with the sword across his knees again and put one
+hand over his eyes. His shoulders moved once: a laugh, or something close to it, held in
+hard.
+
+When the hand came down his eyes were bright, and his mouth was fighting to stay level and
+losing at one corner.
+
+"...That is just *unfair*." A breath. "The most gullible. Thank you for that, boss. Very
+kind."
+
+He said it with perfect dry dignity. Then, softer, not quite looking at Tamsin:
+
+"...Pride and honour."
+
+He sat with both hands flat on the scabbard, and for the first time since he came in he
+did not look braced for anything.
+
+"For a man who can read an attack," said Tamsin, "mind games are not your specialty?"
+
+Corvane let out a slow breath through his nose, somewhere between rueful and wounded.
+
+"No, boss. Apparently not." He turned the scabbard a fraction on his knees and looked down
+at the polished hilt. "A blade tells the truth. A man's weight tells you where he'll step
+before he knows it himself. His shoulder tells you the feint. I can read all of that."
+
+He looked back up. The dry humour was still there, but under it was something plainer.
+
+"I read the men in front of me, boss. I never thought I would need to read the one I stand
+behind." The corner of his mouth tightened. "It will not happen twice."
+
+He said it like a vow. The tips of his ears had gone faintly red.
+
+Tamsin slid the sheet over. "Here's your prize for figuring it out..."
+
+Corvane looked at the sheet, then at him.
+
+"I did not figure it out, boss."
+
+But he took it anyway. He set the sword against the chair leg, laid the sheet flat on his
+knee and read it slowly and carefully, the way he would study a map of a ship he was about
+to board. At the crossed-out stock he nodded once. At the grip with its finger grooves,
+his free hand closed slightly in the air, testing the shape. At the laser line he said
+nothing. Then he reached the second trigger, set off to the side, and his reading stopped.
+
+He raised his left hand and closed it round an invisible grip, his index finger on an
+invisible trigger. Then, slowly, his knuckle reached sideways and down for the other one.
+He did it twice, eyes half closed, feeling the distance.
+
+"A parry will not fire it. Nor a bind. Nor a cut on the backswing." His voice was very
+quiet. "You have to *mean* it."
+
+He read the tiers down the margin and the note below. At *a Corv feel*, the corner of his
+mouth moved. Then his eyes reached the two words boxed at the bottom, and he went
+completely still.
+
+**ARMOUR, NOT STATUS.**
+
+He looked at them for a long time.
+
+"Drachen would have aimed it at rank. The officer. The man with the braid. Whoever looked
+most important across the deck." He touched the box with one fingertip. "I was rank, once.
+I was the braid."
+
+He lifted his eyes. They were very steady and very bright.
+
+"You drew it for the man I am now, boss. Not the one I was."
+
+He slid the sheet back across the desk, squared to the edge. Then he buckled the sword on,
+stood, and came to attention, but softer this time, without the rigidity.
+
+"And when I walk out, I can walk out like a man who has just been court-martialled." A
+small, rueful pause. "I have done it before. I remember how it goes."
+
+"Actually, no," said Tamsin. "Say I got on to you for ineffectiveness. Something small,
+not another big one like the others."
+
+Corvane nodded. "Ineffectiveness. Something small. Understood, boss."
+
+He hooked his bead on and squared his shoulders. At the door his face settled into the
+look of an officer who had just been handed a fair note he did not like and was too proud
+to argue with, a little stiff, a little tight at the mouth. Then he went.
+
+The door did not seal. Through the gap Tamsin heard him nearly walk into someone.
+
+"Corv. Small one, was it?" said Hollis.
+
+"Ineffectiveness. A fair note."
+
+Clipped and even, a little sour, a man who would rather not discuss it. It was perfect.
+
+A pause.
+
+"Fair notes." Hollis's voice was mild as ever. "Everyone's getting fair notes today."
+
+Corvane's boots went off down the corridor without answering, measured and correct.
+Hollis's did not move for a moment. Then they went too, slowly, the other way.
+
+It was about 0721, and Hollis was still out there somewhere, doing sums.
+
+
+## Chapter 127: Ten Thrones
+
+"Teo. Mira. My office. Now."
+
+The channel held for a moment. Then two clicks, nearly on top of each other.
+
+"*...Coming, sir,*" said Mira.
+
+"*On our way, boss!*"
+
+Teo's was a shade too bright for a man being called in. Somebody on the channel let out a
+sharp breath. It might have been Mira.
+
+They came from opposite ends of the ship, one set of boots up from the hangar and one down
+from the cockpit, and they met right outside the door. The knock did not come. Instead,
+through the plate, low and furious, Tamsin heard the two of them going at it in whispers.
+
+"Both of us. Same time. Nobody gets chewed out in *pairs*, Mira. That's not how it works.
+It's a bit, I'm telling you, it's a whole bit..."
+
+"It's the Valk. It's the flank panel. I *knew* he'd get to the panel..."
+
+"Ten Thrones says we walk out of there grinning."
+
+"Ten Thrones says shut up and knock."
+
+Then two knocks, one sharp and one a half-second behind it, as if they had both gone for
+the door at once.
+
+When it opened they were standing shoulder to shoulder. Mira was in her flight vest with
+her hair scraped back and grease on her knuckles from the hangar, her jaw tight and her
+chin up, braced for a fight about her Valk. Teo was in his flight jacket with his hands
+jammed in his pockets, working very hard to keep his face serious. It was not going well.
+One corner of his mouth kept trying to escape.
+
+"Sir."
+
+"Boss."
+
+"Sit now," said Tamsin. "Both of you. Beads out on the table."
+
+There was one chair. They both looked at it.
+
+Mira took it, fast, the way she took the left seat. Teo glanced round the cabin, found
+nothing else, and dropped onto the coin box in the corner. He sat on twenty-five thousand
+Thrones like a crate in a hangar, knees up, elbows on them. Two beads went down on the
+desk. Mira's was squared to the edge. Teo's landed slightly crooked, and he nudged it
+straight with one finger when he saw hers.
+
+Mira did not wait. She sat forward with her hands clasped tight between her knees, and it
+came out fast and clipped, like a pre-flight check she had rehearsed all the way up from
+the hangar.
+
+"Sir, if this is about the Valk's flank panel, it's on Dace's list. Medals, then the hull
+plate, then the panel. Your order. I've had the sealant and the paint ready since the
+Mart, and I've flown her every time you've asked with the hole in her side, and I'll fly
+her again..."
+
+From the coin box, very gently, Teo stretched out a boot and tapped the side of hers.
+
+She stopped and shot him a look that could strip paint. Teo only raised his eyebrows at
+her, all innocence, and then turned them on Tamsin. The corner of his mouth was still
+losing its fight.
+
+"You think I'm joking, Teo?"
+
+Teo jumped. He actually jumped on the coin box, as if a round had gone past his ear, and
+the grin dropped off his face so fast it nearly took his eyebrows with it.
+
+"No, boss! No. Not joking. Absolutely not joking. Wouldn't dream of it."
+
+It all came out in one breath. Then, being Teo, he could not leave it there.
+
+"It's just... with respect, boss. Nobody gets chewed out in pairs. You chew out one at a
+time, so the other one can't back you up. Racing crews, Navy, smugglers, everyone. And
+Morcant, Isk, Brenner, they came out looking like death and then went straight back to the
+range and shot *better*. Men who've been taken apart don't shoot better. They shoot worse
+for a week."
+
+He stopped. He heard himself. His eyes went wide.
+
+"...Boss. Sir."
+
+Beside him Mira had gone rigid in the chair. She turned her head very slowly to stare at
+him with pure, horrified disbelief.
+
+"*Teo.*"
+
+Teo shrank down on the coin box with his knees up and his hands raised a little, half
+terrified, and still, very faintly, hopeful.
+
+Tamsin stood and leaned over the desk.
+
+"You think that's how it works? There's a certain way to do things? You guys are a pair,
+and you hold each other accountable." His fist came down on the desk. "That's why you're
+here. Now, are you going to keep taking this as a joke?"
+
+Both beads jumped. The pencil rolled off the edge and clattered on the deck.
+
+Teo flinched so hard he nearly went off the coin box backwards. He caught himself on the
+bulkhead with one hand, and when he straightened, the hope was gone from his face, all of
+it. What was left was a twenty-three-year-old void racer who had suddenly realised he
+might have read the whole thing wrong, out loud, to the Interrogator's face.
+
+"No, boss."
+
+Small. No slang, no grin, no extra words. For Teo, that was the most frightening thing in
+the room.
+
+Mira had gone pale under the grease. But at *you guys are a pair*, her chin came up.
+Whatever she thought of Teo's mouth, she was not letting him sit there and take it alone.
+She sat forward, back straight, hands flat on her knees.
+
+"Understood, sir. We'll hold each other to it." A tiny pause, and her voice went tight.
+"Both of us. It won't be a joke again."
+
+On the coin box Teo nodded fast, still pressed against the bulkhead, very quiet. The only
+sound in the cabin was the pencil rolling slowly to a stop on the deck.
+
+"The Valk hits," said Tamsin. "The damaged ship. The warp entries and exits. The
+extraction times. They cost something, and it's not what I want it to cost." Then: "My
+team hears me say something, and I chew into them, and they spit it back at the range.
+That's why they are there, working hard."
+
+Every item landed on Mira like a hit on her own airframe. At *the Valk hits* her jaw
+locked. At *extraction times* her hands closed on her knees. She was a pilot first, and he
+had just read her own flight log back to her.
+
+"The Valk's hits are mine, sir." Clipped and tight, and her voice did not shake. "Every
+one. I held the hover too long over Bay Two. I took her in tight at the Mart because I
+wanted the extraction quick, and I didn't make it quick. I made it close. That's on me.
+Not Dace, not the panel. Me."
+
+On the coin box Teo had gone grey. At *the damaged ship* he had shut his eyes. Now he
+opened them, and for once there was no grin anywhere to hide behind.
+
+"The ship's mine, boss." Barely above the air vent. "The rough exits. Both of them. I
+fight the translation instead of riding it. And the..."
+
+He swallowed, and did not look at Mira.
+
+"The docking arm. At berth 12. That was me. The hull plate Dace is fixing. I was awake two
+days straight, and I brought her in hot and clipped the arm. I paid the dockmaster out of
+my share."
+
+Mira turned her whole head. Slowly.
+
+"The *arm*?" Dead flat. "That was *you*? You told me the berth crane *swung*."
+
+Teo winced as if she had struck him. He did not answer. He kept looking at Tamsin, because
+Tamsin was the safer of the two right now.
+
+Then the last words reached him: *they spit it back at the range, that's why they're there
+working hard.* Tamsin watched his theory fall apart behind his eyes. Morcant, Isk,
+Brenner, going straight to the lanes and shooting better.
+
+"...Oh." Very small. "That's why they shot better."
+
+He sank back against the bulkhead. Beside him Mira sat rigid in the chair, still staring
+sideways at him with murder in her eyes.
+
+Tamsin let his voice go back to normal.
+
+"Guys, guys... Gullible, gullible. And Mira? You of all people. You argued with me on day
+one. I'm surprised Teo got it."
+
+The whole room changed with his voice. For a full second neither of them moved. Mira was
+still half-turned toward Teo, murder frozen on her face, and Teo was still flat against
+the bulkhead. Then *gullible, gullible* reached them, and *I'm surprised Teo got it*.
+
+Teo came off the bulkhead like a launched shuttle. The colour flooded back into his face
+all at once, and the grin came back so big it looked painful.
+
+"I *can*."
+
+He pointed at Tamsin, then at himself, then at Mira, with both hands.
+
+"Nobody gets chewed out in pairs! I *said*! In the corridor, I said! *Ten Thrones*, Mira!"
+
+Mira closed her eyes and took one long breath through her nose.
+
+"Throne's teeth."
+
+She opened her eyes and looked at Tamsin. He had told her she was the one who had argued
+with him on day one, the one who had said *I fly, I'm not a soldier* to his face, and he
+watched it land: she had just been played by the man she had been so sure she had figured
+out. Her cheeks went hot under the hangar grease.
+
+"I just *confessed Bay Two* to you, sir. For nothing."
+
+Then her head turned, slowly, back to Teo.
+
+"And *you*..."
+
+Teo's grin faltered.
+
+"The docking arm was real."
+
+"...The arm was real."
+
+"The berth crane *swung*, Teo."
+
+"Twenty Thrones if you never bring it up again?"
+
+"*No.*"
+
+She turned back to Tamsin with her arms folded tight, still red, still furious with him,
+and in spite of herself a smile was fighting the corner of her mouth.
+
+"So what are we actually here for, sir?"
+
+On the coin box, Teo leaned forward with his elbows on his knees, eyes bright, waiting
+too.
+
+"Well, it was for my design showcase," said Tamsin. "But I don't design the Valk, Mira
+does. And Teo does the ship's guns. So nothing, actually. Just to sell it to you. And I
+want you to go get it under Kell's skin too."
+
+At *I don't design the Valk, Mira does*, something happened to Mira's face that had not
+happened all morning. The fury and the embarrassment both dropped away. Her arms came
+unfolded. For a second she just looked at him, and then her whole expression went bright
+and open, like a canopy sliding back.
+
+"...I do." She said it quietly, testing whether it was true. "*I* design her."
+
+On the coin box, at *Teo does the ship's guns*, Teo had gone still in a different way: a
+racer who had just been handed the keys.
+
+"The ship's guns. Mine." He breathed it. "*Lascannon*, Mira."
+
+"Not now, Teo."
+
+Then *get it under Kell's skin* reached him, and his grin went slow and wide and wicked.
+He rubbed his hands together on his knees.
+
+"Oh, I *can*."
+
+Mira shot him a look and turned back to Tamsin. She was still glowing from *I design her*,
+but she was sharp and practical again. The Sergeant was the Sergeant, and she knew exactly
+who she would be winding up.
+
+"The Sergeant's already worried about you, sir. Sorel would've seen it. He keeps looking
+up at your deck." She tilted her head. "How far do you want us to push him?"
+
+"Just enough to get him worried. After all, I chewed out *his* team."
+
+Teo was on his feet before Tamsin had finished. "Just enough. Worried. Got it, boss."
+
+Mira stood, scooped both beads off the desk and handed Teo his without looking. At the
+door they stopped, and Tamsin watched them put their faces on. Mira went pale and tight,
+eyes down, a pilot who had just had her whole flight record read back to her. Teo was
+worse. He let the grin die completely, rounded his shoulders and dragged his feet. He
+looked like a man who had been grounded for life.
+
+The door slid shut behind them, and their boots went off slowly toward the hold.
+
+For a few minutes there was nothing but the ship's morning hum. Then, faintly, up through
+the deck, came Teo's voice. Tamsin could not make out the words, only the tone: shaky,
+low, and far too much of it. A deep voice answered, short, asking something. Teo again.
+Then silence.
+
+Then heavy boots on the stair.
+
+Tamsin knew that walk. It was not quick. It was measured and solid, the walk of a man who
+set the pace for others. It came along the corridor and stopped square outside his door.
+
+Two knocks. Firm, and not rushed.
+
+"Brother." Kell's voice came through the plate, low and level. "A word."
+
+It was about 0745.
+
+
+## Chapter 128: The Light's Sucker
+
+"Sit," said Tamsin.
+
+Kell came in and shut the door behind him. He sat. He did not take out his bead, because
+he had not been told to, and he did not ask. He sat square in the chair with his forearms
+on his knees and his big hands loosely clasped. He was on his feet properly for the first
+time in three days, and he looked it: steady, solid, the colour back in his face.
+
+He looked at Tamsin for a long moment. It was the look he gave a floor plan before a
+breach.
+
+"Brother." Low and quiet, facts first, the way he always did it. "That's a dozen of the
+Light through that door since yesterday. They come out looking like they've been flogged.
+The pilots just came down to the hold looking grounded for life. Teo says you know about
+the arm. Says you've got a list on every one of us. Mira won't look at anybody."
+
+He paused.
+
+"If they've earned it, they've earned it. Your call. It's always your call. I'll back it."
+
+His thumbs pressed together.
+
+"But you've been two days behind a shut door. Aldwyn's here at noon. You've got a burned
+tenement to stand in front of Kesh and explain. That's a lot on one man, brother." He held
+Tamsin's eyes. "And this isn't how you run the Light. You never have."
+
+A pause.
+
+"That's my word. Said once."
+
+He sat back a fraction and waited. He was not angry and he was not afraid. He was ready to
+follow whatever Tamsin said next.
+
+"Tell me, Kell. It's your strike team, so who do I blame? You, or them?"
+
+Kell did not take a breath to think about it.
+
+"Me." Flat and certain. "They're mine. I trained them. I lead them through the door. If
+they're slipping, I let them slip."
+
+He opened his clasped hands, palms up: here, take it.
+
+"Put all of it on me, brother. Every miss, every bad call, the arm, the strap, the lot.
+Let them go back to the range and shoot it out. That's where they get better. They don't
+get better sitting in that chair." His jaw set. "If you need somebody to tear into, tear
+into me. I can take it. That's what the stripes are for."
+
+Tamsin changed his tone.
+
+"My own brother. *My* sergeant. This gullible. I suppose you really are a washed-up
+Scion." He let the sarcasm sit. "Kell, look around. Do you see any battle info? You said
+you were going to do that yourself, so why would I do it and not talk to you about it?"
+
+Kell blinked once at *washed-up Scion*. His open hands stayed where they were.
+
+Then he did as he was told and looked round. He took his time, the way he would check a
+room he had just been told was clear: the desk, the lamp, the pencil on the deck where it
+had rolled. The bare walls. Two grilles. No slate, no pict reader, no spools, not so much
+as a map. He stopped at the desk drawer for a moment, then looked back at Tamsin.
+
+For a long time his face did not change at all. Tamsin could see him running the whole of
+it back: Morcant's head down at dinner, Tavi through the bulkheads last night, Varga's
+*Don't*, a dozen faces coming down the stair looking flogged. *You said you were going to
+do that yourself.*
+
+"...The pilots." Quiet and flat. "Teo. Down there with his lip shaking, telling me you've
+got a list on every one of us."
+
+He breathed out slowly through his nose. The corner of his mouth moved. He fought it, the
+way he always fought a grin, and for once he did not quite win. It got out at one side,
+small and crooked.
+
+Then it faded, and something plainer was left. It was what he had actually come up the
+stair for.
+
+"So you're alright."
+
+He said it low. It was not a question.
+
+He sat back in the chair at last, the first time he had let himself lean on anything since
+he came in, and folded his arms. The deadpan came down like a shutter.
+
+"Washed-up Scion." He nodded slowly, as if filing it. "You still owe me a one-on-one,
+brother. I'm collecting."
+
+Tamsin slid both of Kell's sheets across the desk.
+
+"You want to lose mind games and one-on-ones too?"
+
+Kell did not take the bait. He looked at Tamsin over his folded arms, deadpan.
+
+"We'll see on the mat, brother."
+
+Then he unfolded his arms and pulled the two sheets toward him. The chain axe was on top.
+He read it the way he read a breach plan, once fast for the shape and then slow for the
+details. The motor. The plasteel teeth, and his eyebrows went up a fraction. Then the
+grip: curved hardwood drawn to fit a hand, with *no more tape* written beside it.
+
+His thumb stopped on those words.
+
+"You noticed the tape."
+
+He said it quietly, almost to himself. He had had cloth tape wound round that haft since
+he won the axe at rock-paper-scissors.
+
+He read the bite switch and the note under it. At the line about flipping it before the
+swing, not during, he nodded once, slowly, the way he would take a correction from a range
+officer he respected.
+
+"Before, never during. Aye."
+
+He set the axe sheet down carefully and picked up the second one. **SCHEMATIC 8: KELL.
+OFFICER.** His face went very still. This was the gun Tamsin had named.
+
+The reflex. The short barrel. The skeleton grip. The blessing he had asked for, drawn in
+as a little seal with Ferro's rite marked beside it. The twin switch, and he read that
+twice, lips moving: *two bolts in one.* Then the note at the bottom, line by line, until
+he reached the last one.
+
+*Did I forget about you now?*
+
+Kell stared at it. The grin he had been fighting since he walked in finally won outright.
+It broke across his face, and a laugh came out of him, low and short and real, the first
+Tamsin had heard from him in days.
+
+"Hollis and I must've been on a different note."
+
+He shook his head, still grinning, laid the two sheets side by side on the desk and
+squared them to the edge with two fingers, the way all the others had. He looked at them a
+moment longer than he needed to. Then the sergeant came back into his face, brother and
+soldier at once.
+
+"Right. What do you need from me?"
+
+"Sell it to Hollis now," said Tamsin. "He's the last one, and I want this one to be good.
+Say he did the worst of them all, and that's why he's last. I know it's bugging him."
+
+At *the worst of them all*, one of Kell's eyebrows lifted a fraction. At *I know it's
+bugging him*, he nodded slowly, the nod of a man who had known Hollis for twenty years and
+knew exactly where the sore spot was.
+
+"He's been doing sums since Nessa walked past him with her pistol on her hip."
+
+He stood, rolled his shoulders once, and let the grin go. All of it. What was left was the
+sergeant's face on a bad day: flat, heavy, a little grey round the eyes, a man who had
+just been told something he did not want to hear about one of his own.
+
+"I'll give him a sum."
+
+He went. The door did not seal behind him, and his boots went down the stair heavier than
+they had come up.
+
+For a minute there was nothing. Then, faintly through the deck from the hold, Kell's
+voice, low and short. It was not the drill voice. It was the quiet one, and it went on
+longer than Kell usually talked.
+
+Then Hollis's voice, mild as ever, but with something under it Tamsin had never heard
+there before.
+
+"...The worst?"
+
+Kell said something else, very short.
+
+Then nothing. No reply from Hollis at all. Only the hold's ordinary noise, a crate
+scraping, the range starting up again, and no sound from the man who usually called the
+scores.
+
+It was about 0802.
+
+---
+
+"Hollis. Here."
+
+The channel was silent. Nobody breathed on it. Then a click.
+
+"*Aye, sir.*"
+
+Two words, mild and even. Too even. It was the voice he used when something was serious.
+
+He came up the stair without hurrying, his boots steady, one after another, like a man
+walking a long corridor he had walked before. They stopped outside the door, and for a
+moment nothing happened. Then two knocks, unhurried.
+
+When the door opened Hollis was standing in the corridor with his hands at his sides. No
+Six Bells on his back, no hellgun, nothing. His grey crop was neat. His face was calm, the
+grown-up in every room, but it had gone a shade greyer than usual, and the faint crease at
+the corner of his mouth, the one that was always halfway to a joke, had gone flat. He
+looked at Tamsin directly. Not at the floor, not at the drawer or the chair.
+
+"Sir."
+
+"Sit."
+
+He came in and closed the door gently, the way you would close a door on a sleeping ward.
+He sat. He did not take out his bead, because he had not been told to. He rested his hands
+flat on his knees, back straight, the way an old soldier sits in front of an officer, and
+for a moment he said nothing at all. He had spent twenty years waiting for the next thing
+to go wrong and meeting it calmly when it did.
+
+"Kell says I'm last because I'm the worst."
+
+He said it plainly, with no edge, as if reading a score off a board.
+
+"I'll hear it, sir."
+
+His hands stayed flat on his knees. Only the missing half-smile showed that it had hit
+him.
+
+"Then I'll cut to it," said Tamsin. "I'm having you reassigned when Aldwyn comes. That's
+it. You fall under expectation, you get cut."
+
+Hollis did not move.
+
+For a long moment nothing in his face changed. His hands stayed flat, his back stayed
+straight. He had stood through sieges and breaches and boarding actions, and he took this
+the same way, standing still and letting it hit.
+
+Then, very slightly, his throat moved.
+
+"Aye, sir."
+
+Barely above the hum of the ship. Mild. Even. Quieter than Tamsin had ever heard him.
+
+He looked down at his hands for the first time since he had come in. He turned his right
+hand over on his knee, palm up, and looked at it as if it belonged to someone else. Then
+he turned it back.
+
+"Twenty years in Kell's squad."
+
+It was not quite said to Tamsin. It was more like a figure he was checking.
+
+When he looked up his eyes were bright, but his voice held. It was the voice he would use
+to tell a lad where to stand.
+
+"One thing, sir, if I may." A breath. "Let me tell Kell's lot myself. Not on the bead.
+Face to face. They'll want to hear it from me."
+
+Another pause.
+
+"And tell Tavi our rematch is his. By forfeit. He'll be insufferable about it. Let him."
+
+Something almost like the old half-smile tried to come, and did not make it.
+
+"Who'll carry Six Bells, sir? She doesn't like just anyone loading her."
+
+Tamsin started laughing.
+
+"Hollis, you think I'd cut you?"
+
+Hollis stared at him. For a second he looked like a man who had just watched a grenade
+land at his feet and fail to go off.
+
+Tamsin tapped the bead.
+
+"Ahem. Let me have everyone's attention. Hollis is officially the Light's sucker."
+
+The channel exploded.
+
+"*SUCKER HOLLIS!*" Tavi. "*That's a gang name! That's a* ship *name!*"
+
+"*Ten Thrones!*" Teo. "*Everybody! Every single one of you owes me ten Thrones!*"
+
+Morcant's laugh came next, so loud it distorted the whole channel.
+
+"*Pistol was on my hip the whole time, Hollis,*" said Nessa. "*Lovely work.*"
+
+"*Don't,*" said Varga. A moment, and then she broke too, laughing, short and helpless.
+
+"*...Wait.*" Dace. "*Brother?* Wait. *Was it... was* all *of it...*"
+
+"*Sorry, Hol.*" Kell, deadpan, from somewhere in the hold.
+
+Tamsin took the bead off the channel.
+
+"Hollis, you performed great out there. You were so close, then you lost it... Kell is a
+great actor."
+
+Across the desk, Hollis had gone completely limp. His hands slid off his knees. His head
+went back against the bulkhead, and he let out a long breath that turned, halfway through,
+into a laugh: low and cracked and helpless, the laugh of a man who had just been handed
+his whole life back. He put one hand over his eyes. His shoulders shook.
+
+When the hand came down his eyes were wet, and the half-smile was back at the corner of
+his mouth, fully home.
+
+"Somebody has to be the lid." He shook his head slowly. "Kell. *Kell* sold me that. Twenty
+years in that squad, and he's never lied to me once." He wiped his eye with his thumb. "He
+picked a good day to start."
+
+He sat forward again, hands back on his knees, the old steady Hollis, but with light in
+his face now and a scorekeeper's curiosity.
+
+"So, sir. If I'm not cut... why *am* I last?"
+
+Tamsin slid both of Hollis's sheets across the desk.
+
+"Saved the best for last."
+
+Hollis looked at the two sheets, then up, and at *saved the best for last* the half-smile
+turned into the whole thing.
+
+"Judges. Finally, some respect."
+
+He pulled the first one over. **SCHEMATIC 2: HOLLIS. HAND FLAMER.** His eyebrows went up.
+He had not even put that one on his tag. He read it slowly, nodding along, his thumb
+tracing the drawn barrel out to its new length.
+
+"Ten metres. And a wider spread at the end, for a crowd. Two canisters..." At the
+heavy-burst switch he let out a low whistle. "That'll empty a room."
+
+Then the second sheet. **SCHEMATIC 16: HOLLIS. SIX BELLS.** He went very quiet.
+
+The drum. The gas block with its two little arrows, *one, two*. The angled grip, the
+skeleton stock notched with *set to H.*, the holo. Then the two faint laser lines running
+out across the page to meet far off, and the long, high arc drawn from that point.
+
+"It does the sums." He breathed it. "Every throw, every shot, I do the arc in my head.
+Twenty years of it. This does it for me."
+
+His finger moved to the frame above the drum, where the seal was drawn back in exactly as
+it was, red wax and vellum: *Six rounds. Each one rings for someone.* He touched it
+lightly, and his jaw worked.
+
+Then the bandolier sketched in the corner, loops for six, and the belt pouches.
+
+"The bandolier." He looked up. "I put that on your wishlist months ago, sir."
+
+He read the note last. At *and not drop them in front of my team* he winced, and he read
+it twice, the way it had been written.
+
+"...Fair."
+
+He laid both sheets side by side on the desk and squared them with two fingers. Then he
+sat back, calm and pleased with himself, the scorekeeper again.
+
+"Score for the day, sir. Since somebody ought to call it." He counted on his fingers.
+"Interrogator, eleven. Light, four: Sallow, Sorel, the enginseer, and that cocky pilot."
+
+The half-smile was all the way home.
+
+"Best game this ship's ever played."
+
+---
+
+Tamsin keyed the bead.
+
+"Eleven owe me ten hours on the range, knowing how to shoot or not. And that is a real
+order."
+
+The channel went quiet for exactly one breath. Then:
+
+"*TEN HOURS?*" Morcant. "*Boss, that's not a punishment, that's a* holiday!"
+
+"*Ten... Throne.*" Tavi. "*My arms. My poor arms.*"
+
+"*Not arguing,*" said Varga. She managed to sound sour about it and amused at the same
+time.
+
+"*...Lovely,*" said Nessa.
+
+"*And the four of us who* weren't *suckers will be in the galley,*" said Teo. "*Eating.
+Thinking of you all.*"
+
+"*Teo, I* swear..." said Mira.
+
+"*You heard him.*" Kell's flat drill voice cut straight through it. "*Range opens now.
+First five on the line, rest on the mat. Move.*"
+
+Under it Tamsin could hear boots already moving in the hold.
+
+Across the desk Hollis had his head down and his shoulders shaking. He was laughing
+silently into his hand at the thought of Tavi's arms. He looked up, eyes still wet.
+
+"Real order. Aye, sir. I'll keep the tally."
+
+Of course he would.
+
+It was about 0822. Aldwyn's couriers were due around midday, and in the drawer there were
+two sheets left: Dace's and Ferro's.
+
+
+## Chapter 129: Best Job
+
+Hollis was already on his feet as Tamsin reached for the bead.
+
+"I'll leave you to it, sir. Somebody has to keep Tavi's tally honest."
+
+He went, still smiling.
+
+"Dace. My office."
+
+"*Coming, brother!*"
+
+He did not sound frightened. He sounded bright and eager, a man who had just found out the
+whole day was a game and knew exactly what was in the drawer for him. His boots pounded up
+from the workshop two stairs at a time.
+
+Then they slowed outside the door, and stopped. There was a long pause before the knock:
+one knock, smaller than Tamsin would have expected.
+
+When the door opened Dace was standing in the corridor in his leather apron, a smear of
+chalk across one cheek and the loupe still hanging on its cord round his neck. The grin he
+had come up the stair with was gone. In his open palm he held a small plasteel disc with a
+ring at the top, cracked clean across where the ring met the edge.
+
+He held it out before Tamsin could say anything.
+
+"Sallow's. The spare." His ears had gone red. "I went slow, brother. Slow as I've ever
+gone. Since five. And it went right where the other one did. Right at the ring."
+
+He swallowed.
+
+"That's two blanks. There's one more corner off the offcuts big enough, maybe. Maybe."
+
+He stood in the doorway with the cracked medal on his palm. All the brightness from the
+stair had gone out of him.
+
+"Sit," said Tamsin. "It's okay. We can still melt them back down. And we'll need more
+plasteel for everyone."
+
+Dace blinked at *melt them back down*. Tamsin could see the smith in him catch up with the
+panic.
+
+"...I can, can't I."
+
+He looked down at the cracked disc as if he were only now seeing it as metal again and not
+as a failure.
+
+"Forge is still hot from this morning. Two cracked ones melt down into one good blank,
+near enough. Lose a little in the pour, but..."
+
+He breathed out, long, and some of the red went out of his ears. He came in and perched on
+the chair, apron and all, and set the cracked medal carefully on the corner of the desk,
+ring side up, as if it might still be saved.
+
+"Third time, slow. Slower. I'll do Sallow's right, brother." At *more plasteel for
+everyone* he nodded quickly. "We're scraped clean. Ferro's been counting."
+
+Then he went quiet. He was sitting in the chair half the Light had sat in since yesterday,
+and he had heard the whole ship laughing on the channel ten minutes before. Slowly,
+helplessly, his eyes drifted sideways to the desk drawer.
+
+They stayed there. He tried to look away, and failed.
+
+"...Brother."
+
+It was very small, and very hopeful.
+
+Tamsin slid his schematic over. "You wanted to see it."
+
+Dace took the sheet in both hands as carefully as if it were hot from the forge. For a
+second he only held it, looking at the heading: **SCHEMATIC 1: DACE. AUTOPISTOL.**
+
+"...One." Barely a whisper. "I was first."
+
+Then he read, out loud and under his breath, the way he talked himself through a hard job
+at the bench.
+
+"Tower grip, built up for the kick from the slide... drum mag, round, twice the load...
+lightened slide, there's your speed... selector with a proper safety, SAFE, BURST,
+AUTO..."
+
+His finger stopped on the rapid feeder, drawn in cutaway inside the body, and the grin
+started.
+
+"*Rapid feeder.* Brother. Brother, that's..." He traced the feed path with his fingertip,
+nodding. "That'll work. That'll actually work. I'd cut the pawls off the drum autogun in
+the haul..."
+
+Rails top and bottom. Then the finish line: *clean, no rust, no grease, no grime.* And
+under it: *Dace paints it himself.*
+
+He stopped talking. He looked at those words for a long moment. Tamsin was painting
+everyone's medals, and Dace would paint this. His ears went red again, for an entirely
+different reason.
+
+"...I paint it."
+
+He looked up with his eyes wet, grinning through it, and the deadpan slipped out anyway.
+
+"Worth the wait, brother. Still cruel. But worth it."
+
+Then he laid the sheet flat, and the smith took over. He sat up straighter. His eyes went
+to the drawer, and he did sums, the way Hollis did arcs.
+
+"Brother. How many sheets are in that drawer?" A pause. "And where does this one go in my
+queue? Because I've got Sallow's medal, the hull plate, the Valk's panel, Kell's arm, the
+Shameholder teeth..."
+
+He trailed off, counting on his fingers.
+
+Tamsin opened the drawer and slid the whole stack across: sixteen sheets, thick as a
+manual.
+
+Dace stared at it.
+
+He picked up the top one. **MORCANT. HEAVY STUBBER.** Tripod, twin feed, the walking
+plate. He set it aside very carefully. **TEY.** **KELL**, twice. **MERCY.** **PATIENCE.**
+**TINY!!!** He read faster and faster, flipping sheet after sheet, his lips moving. Now
+and then he stopped dead on a part, a krak launcher under a lascarbine, a heartbeat
+scanner, and Tamsin watched the smith in him light up and start building it in his head
+before he moved on.
+
+He reached the plasma pistol and stopped.
+
+"Ferro's." He looked up. "Does *Ferro* know?"
+
+Then he went back through the pile from the top, slower, counting on his fingers. He ran
+out of fingers twice.
+
+"Four days for mine. Five for Morcant's. Three, three, three..."
+
+He laid both hands flat on the stack and breathed out.
+
+"Forty-odd days at the bench, brother. Me and Ferro side by side, three weeks each, maybe
+more. And half the parts aren't aboard. Sights, stocks, the crystal, the cells, darts. All
+Vashti's Rock. And every scrap of plasteel's already got a name on it."
+
+He looked down at the sixteen sheets under his hands. Then he looked up, and his face was
+shining. He was not daunted. He was delighted.
+
+"It's the best job anyone's ever given me."
+
+He squared the stack against the edge of the desk with both hands, exactly, the way he
+squared his tools.
+
+"So. Order, brother? What goes on the anvil first?"
+
+"The people who figured it out first," said Tamsin. "Ferro, Sallow, Sorel. Then everyone
+else, at random draw."
+
+Dace pulled Ferro's, Sallow's and Sorel's sheets off the stack and laid them in a neat row
+on the desk: one, two, three.
+
+"The ones who saw through it. Fair."
+
+Then he turned the other thirteen face down and shuffled them like a hand of cards, badly.
+One nearly slid off the desk, and he caught it. He fanned them out, shut his eyes, and
+started drawing.
+
+"Brenner." He flipped it and laid it down. "Mercy. Varga'll be smug. Corvane. Tey..."
+
+He drew his own eighth and grinned at it, a little embarrassed, and put it down without a
+word. Nessa. Kell's axe. Six Bells. Patience. Officer. Morcant's came fourteenth, and he
+winced.
+
+"He'll be loudest about that."
+
+Hollis's flamer, fifteenth.
+
+There was one sheet left face down in his hand. He did not need to look. He turned it over
+anyway.
+
+**SCHEMATIC 9: TAVI. TINY!!!**
+
+Dace stared at the three exclamation marks.
+
+"...Tavi's last." A long pause. "He's going to cry, brother. Actual tears."
+
+He laid it at the end of the row, squared all sixteen into one stack in their new order
+and held it against his chest with both arms like something precious.
+
+"Sallow's medal first. Then the plate, then the panel. Then these." He looked at Tamsin
+over the top of the stack, chalk on his cheek, eyes shining. "Can I go tell Ferro,
+brother? About his?"
+
+"We can both go."
+
+---
+
+They went down the narrow stair together, Dace a step behind with the sixteen sheets
+hugged to his chest, trying very hard not to take the stairs two at a time and pass him.
+
+The workshop door was open. Inside it was warm and close, and it smelled of hot metal,
+machine oil and the faint sweet incense Ferro burned for the spirits. Dace's forge sat
+banked in the corner. Ferro's bench ran along the far wall under a hanging lumen, crowded
+with work: a housing in pieces, a coil of copper wire, a cogitator slate scrolling green
+script. Kell's boarding shield leaned on the wall where it had leaned for days.
+
+Ferro-Ashe was at the bench with his back to them, robed and hooded. Two mechadendrites
+were working over something small under a magnifier while his hands rested still on the
+bench. A low, fast murmur of binary came from under his vox-grille.
+
+Beside him in a padded cradle sat the Ryza plasma pistol, bronze, its coils scorched blue
+at the muzzle, its cell out and resting beside it. Clean, oiled and untouched, exactly
+where he kept it.
+
+The binary stopped. The mechadendrites went still. He did not turn round straight away.
+
+"Interrogator." His voice was flat and even. "The stress in your voice has returned to its
+normal parameters."
+
+Now he turned. The lens where his face should have been clicked once, focusing on Tamsin,
+then on Dace, then on the stack of sheets crushed against Dace's chest.
+
+"The game has concluded."
+
+It was not a question.
+
+"Too bad you saw right through..." said Tamsin. "I saw your pick, and I came to deliver
+it, and to tell you to start working on it."
+
+Dace could not hold it any longer. He thumbed through the stack, pulled out one sheet and
+held it out to Ferro with both hands.
+
+Ferro took it in one mechadendrite and lifted it into the light of the hanging lumen. The
+lens clicked. **SCHEMATIC 15: FERRO-ASHE. RYZA PLASMA PISTOL.**
+
+He read it the way he read a machine: top to bottom, in silence, stopping at every part.
+The binary under his grille started again, very low, and cut off. The third channel under
+the barrel, lined in ceramite.
+
+"'A third channel is possible.'"
+
+He read his own tag line back in his flat voice. Then the cell, ribbed and longer, with
+*12* written beside it and the matched fill.
+
+"'The fault is in the fill, not the pistol.'"
+
+Then the trigger drawn three times down the margin: quick, half-held, fully held with the
+coils bright.
+
+"'It wishes to be used, not carried.'"
+
+He lowered the sheet a fraction.
+
+"You answered all three lines, Interrogator. In order."
+
+And his face changed. It was very slight, as it always was, something in the set of the
+vox-grille and a fractional tilt of the hood. On anyone else it would have been nothing.
+On Ferro it was a great deal.
+
+He turned to the cradle and looked down at the pistol for a long moment.
+
+"The ceramite is the correct choice. Plasteel would have warped under a full charge." His
+voice was flat and exact again. "I can cut the channel today. The sight, the laser and the
+tuned cells must be bought. Vashti's Rock."
+
+Dace practically burst. "You're *first*, Ferro! You, Sallow and Sorel. Because you saw
+through it."
+
+Ferro's lens clicked toward him, then back to Tamsin.
+
+"...First." A pause. "Then the plate first. The plate does not like waiting. Then she
+begins."
+
+He set the sheet beside the cradle, squared to its edge, and rested one mechadendrite
+lightly on the pistol's bronze housing. It was about 0858.
+
+"Now, Dace, Ferro," said Tamsin. "I need a full resource list for all the schematics."
+
+Ferro was already reaching for a blank data-slate before he finished. Dace dropped onto
+the stool by the forge with the sixteen sheets on his knees and began reading them off one
+by one, and Ferro's stylus moved without pause.
+
+"Morcant's. Three-quarter sheet, the tripod off the mast gun..."
+
+"From stock. Next."
+
+"Brenner's. Holo, tac stock, grip, repeater crystal, extended packs..."
+
+"To purchase. Five items. Next."
+
+It went like that for a quarter of an hour: Dace's voice reading, Ferro's flat *stock* or
+*purchase*, the scratch of the stylus. Twice Ferro stopped Dace to ask how many: how many
+darts, how many cells. Once he corrected him without looking up. "The crystal is not the
+capacitor. Two separate items."
+
+When it was done he turned the slate round and held it out in one mechadendrite: two
+columns of neat green script, every line totalled.
+
+"From stock: all of the plasteel, the ceramite, the core, and a great deal of the haul. To
+purchase: approximately eleven thousand Thrones. Plus plasteel, which has no fixed price
+until we see the dealer." He paused. "The Valkyrie and the turret are not on this list.
+They have not been designed."
+
+Dace looked up from the stack. "Mira and Teo's."
+
+"I assigned them their own jobs of doing so," said Tamsin.
+
+Ferro inclined his hood a fraction. It was his nod.
+
+"Then I will expect their requisitions. On a slate. Itemised."
+
+He added two blank lines to the bottom of the list, labelled in neat script **VALKYRIE
+(DHAL)** and **SHIP'S GUNS (BRACK)**, and left them empty.
+
+Dace snorted from the stool. "Teo's going to ask for a lascannon. First line. Underlined."
+
+"He will not receive one."
+
+It was said with absolute flatness. Ferro had already turned back to the bench, and one
+mechadendrite picked up a scribe-tool and began marking a line on the Ryza pistol's
+housing where the third channel would go.
+
+Dace grinned at Tamsin over the stack, then caught himself. He stood, tucked the
+schematics under one arm and nodded toward the forge.
+
+"Sallow's medal first, brother. Slow."
+
+The forge breathed as he worked the bellows. Up the stair the range was going, steady las
+cracks, and under them Hollis calling a tally. It was about 0917.
+
+
+## Chapter 130: Scarier Than You
+
+The range ran down the cargo deck, loud and crowded. Kell's first five were on the line,
+Morcant, Isk, Varga, Tavi and Brenner, firing in steady strings at paper men forty metres
+off. Hollis stood behind them with a slate, calling scores in his mild voice. Mat thumps
+carried over from the far end, where Corvane and Nessa were going at it.
+
+Ollin was at the cleaning bench by the ammunition crates, on a stool with his sleeves
+rolled up. On an oilcloth in front of him lay two lasguns stripped to parts, a rag, a
+brush and a tin of oil. He worked fast and careful, the way a dock hauler handles a load
+that matters, wiping barrel, spring and pack seat and laying each back in its exact place.
+
+He looked up as Tamsin's shadow fell across the bench, and jumped. The rag went flying. He
+caught it, and nearly knocked over the oil.
+
+"Boss!"
+
+His face went through it all at once: alarm, then memory, then relief, so plain it was
+almost funny. He had heard the channel. He knew.
+
+"...Boss. Morning." He wiped his hands on his trousers, half rising off the stool, not
+sure whether to stand. "I've been cleaning them as they come off the line. Range orders,
+Sergeant says, ten hours. They'll go through a lot of packs."
+
+Tamsin handed him Ferro's slate.
+
+"This is everything we will use from the haul, and what we need. When we get there, I
+expect you know what I can and cannot sell."
+
+Ollin wiped his hands twice more before he would touch it. Then he took it carefully and
+read it the way he read a manifest, lips moving, a finger running down Ferro's neat green
+columns. Every few lines he nodded and muttered a crate number.
+
+"Tripod stubber, container two, back left. Hand flamers, two, crate by the hoist. Warden
+autoguns, both, container one..."
+
+He did not need his ledger. He had the whole haul in his head. When he reached the bottom,
+the purchase column and Ferro's total, his eyebrows went up. Then he looked back up, very
+serious, the quartermaster taking an order.
+
+"Aye, boss. Anything on Ferro's list stays aboard. I'll chalk those crates today, a big X,
+so nobody sells what Dace needs. Not even me by mistake."
+
+He hesitated, then held up three fingers, a little nervously.
+
+"Three things I'm not sure on, boss. They're not on the list, but I didn't want to sell
+them without asking." One finger. "The Godwyn boltgun. Eighteen rounds with it. Dearest
+gun in the haul, and nobody's carrying a bolter." Two. "The sensor eye from Crale's cab.
+Two thousand two hundred Thrones in its case. That's more than half the whole goods pile."
+Three. "And the three drums of aviation promethium off the gunship. Are those Mira's for
+the Valk, or do they go?"
+
+"And Kesh's evidence box is right and ready?"
+
+Ollin straightened on the stool like a man asked about his own child.
+
+"Aye, boss. All in one crate. The grey one with the Munitorum stencil, hold, under the
+stair, away from the haul so nobody mixes it up. It's locked. Key's here." He touched a
+key on a cord at his belt. "I counted it twice, boss."
+
+He ticked it off on his fingers without a slate. He had this one by heart.
+
+"Thask's daybook and the ledgers that didn't burn. The green-sealed letters, and his black
+notebook. The Governor's manifests, all eleven years. Crale's papers. The nine identity
+discs and their watch slate. The customs sergeant's slate. Tegg's slate. The one about the
+children."
+
+His voice went quieter on the last one.
+
+"The jar's not in it. Ferro keeps that cold in the workshop. He won't let it out of the
+cold. And the chemist's bag's in the locked heretic crate, with the staff. I didn't want
+it near the rest."
+
+His ears went a little pink.
+
+"It's not sealed, boss. It wants your seal on it. The Inquisition's, I mean. I didn't dare
+put anything on it myself."
+
+"Good," said Tamsin. "Now, what about the eye, the boltgun and the promethium?"
+
+Ollin blinked. He had not been expecting to be asked. Nobody used to ask him. Then he sat
+up straighter, and Tamsin watched him put on his quartermaster's head like a cap.
+
+"Right. Aye. Well, boss..." The first finger again. "The eye, I'd sell. Nobody's short an
+eye. Varga's got hers, and anyone else would need a surgeon to fit it, and we haven't got
+one. A box doing nothing, and it's a fifth of Ferro's whole list, right there."
+
+Second finger. He frowned, honest.
+
+"The boltgun I'd keep, boss. Bolters don't come up for sale, not out here. And the
+eighteen rounds are worth more than the gun is. If we sell it, we'll never buy another one
+back at the price. Keep it in the armoury for when somebody big needs to hit something
+very hard."
+
+He glanced, without meaning to, down the range at Morcant, who was laughing at a target he
+had just shredded. Third finger, and a small grin.
+
+"And the promethium stays, boss. That's aviation grade. That's the Valk's drink. If I sold
+Mira's fuel out from under her, she'd skin me and use me for a seat cover." He lowered his
+hand. "But it's your call, boss. I'll do it however you say."
+
+"Good call, Ollin. Sell the eye, keep the rest. You're the quartermaster, so I trust in
+you." Then: "Also, when Aldwyn gets here, have the bag and the staff in the box, and the
+jar in a cooler for her to take. And you get to be there and see her too." Tamsin smiled.
+"She's scary."
+
+At *you're the quartermaster, so I trust in you*, Ollin went pink to the ears. He looked
+down at the slate and back up, and did not quite know what to do with his face.
+
+"...Aye, boss. Eye goes. Boltgun and fuel stay."
+
+He said it like he was carving it into the slate. Then the orders for Aldwyn: he nodded
+along, quick and serious, already working out which cooler, and whether Ferro would let
+the jar out of the cold for it.
+
+"I'll have it all at the ramp before she's down the tube, boss. The bag and the staff in,
+locked, the jar packed cold..." He stopped. "It still wants your seal, though, boss.
+Before she takes it. I can't put the Inquisition's mark on anything."
+
+Then the last words reached him, *you get to be there and see her too*, and the smile, and
+*she's scary*. He swallowed.
+
+"...Scarier than you, boss?"
+
+It came out before he could stop it. He heard it, went pinker, and let out a short,
+nervous laugh. The rag in his other hand was being twisted into a rope.
+
+Down the range Hollis called a score, and someone groaned. It was about 0928.
+
+"I'm not that scary," said Tamsin.
+
+"No, boss."
+
+Far too quickly. Ollin heard how it sounded and scrambled off the stool before he could
+make it worse.
+
+"Come."
+
+---
+
+They went down into the hold. It was cooler there, and dim. The two containers stood where
+Oda and Pruitt had stacked them, the haul crates in rows. In the far corner, from behind
+the bars of the cage, the leg-shot trooper of the 6th watched them pass. Under the stair,
+set apart on its own with a hand's width of clear deck all round it, was a grey crate with
+a faded Munitorum stencil.
+
+Ollin knelt, unlocked it with the key from his belt, and lifted the lid.
+
+Everything lay inside in neat rows, each piece wrapped or bagged and labelled in his
+careful hand. Thask's daybook, its corners scorched. A bundle of letters tied in green
+ribbon, the green wax and the chalk gate still on them. The black notebook. Voke's
+manifests, eleven years of them, in three stacked folios. Crale's papers. Nine corroded
+identity discs in a small tin, with the watch slate beside them. Two more slates: the
+customs sergeant's, and Tegg's, with a strip of tape across it that Ollin had labelled,
+very small, *children*.
+
+Tamsin reached for the wax.
+
+"Boss, wait..." Ollin had gone pale, one hand half raised. "The bag and the staff are
+meant to go in first. Before the seal. You said." He swallowed. "Only the staff... Ferro
+said nobody touches it without him. Or the priest. Nobody. It's in the heretic crate, and
+I've never even opened that lid."
+
+Tamsin keyed the bead.
+
+"Ferro. Come to the hold. Bring gloves. The bag and staff go in the crate for Kesh."
+
+"*Understood. Coming.*"
+
+He was there in two minutes, robes whispering on the stair, pulling on a pair of heavy
+insulated gauntlets, the kind used for plasma coils, with a length of grey cloth folded
+over one mechadendrite. Ollin stood well back.
+
+The heretic crate sat against the far bulkhead, chained and padlocked. Ferro opened it
+himself. The chemist's bag sat in one corner, a battered leather satchel with its clasp
+wired shut. Along the bottom lay the staff: dark wood gone almost black, bound in
+tarnished metal bands, with a cracked crystal set in its head. Nobody aboard had touched
+it since it came out of the scrubber hall.
+
+Ferro stopped. Under the vox-grille, low and fast, binary began, a litany, steady and
+even.
+
+He lifted the bag first in one gloved hand and set it in the evidence crate beside the
+folios. Then he shook out the grey cloth, laid it over the staff and wrapped it end to end
+without letting so much as a fingertip touch the wood. Two mechadendrites took the weight,
+one at each end. He lifted it the way you would lift something sleeping.
+
+The crystal in its head did not glow, and the air did not change. Nothing happened at all.
+
+He laid it in Kesh's crate along the side, still wrapped, and only then did the litany
+stop.
+
+"It is quiet." A pause. "It does not like being moved. But it is quiet."
+
+He stepped back and peeled off the gauntlets. Ollin let out a breath he had clearly been
+holding the whole time.
+
+Ollin lowered the lid. It settled onto the crate with a dull wooden knock, and he stepped
+back to give Tamsin room. Ferro produced a stick of red sealing wax from somewhere in his
+robes, unasked, and a small heating rod. He warmed the wax over the seam until it softened
+and ran in a thick red line across the join where lid met crate.
+
+Tamsin took the warrant from round his neck on its chain, the Ordo's mark worn smooth at
+the edges by his thumb, and pressed it into the wax.
+
+It sank, held, and came away clean. The mark stood there in red across the seam: the
+stylised *I*, the skull, the Inquisition's sign. Nobody would open this crate now without
+breaking it, and nobody would break it but Kesh.
+
+Ollin stared at it. A dock hauler from ring four, and that was the Inquisition's seal on a
+crate he had packed.
+
+"...That's it, then." Barely a whisper.
+
+"The jar remains cold in the workshop until the Sister arrives," said Ferro. "I will pack
+it myself."
+
+He tucked the wax back into his robes.
+
+From the cage, the leg-shot trooper of the 6th had watched all of it. His eyes stayed on
+the red seal.
+
+It was about 0939.
+
+
+## Chapter 131: The Garden Has Others
+
+Tamsin turned round and walked to the cage.
+
+His boots rang on the deck plates, loud in the quiet. Behind him Ollin and Ferro went
+still by the sealed crate.
+
+The cage was welded bar and mesh, bolted to the deck in the hold's far corner, with a slop
+bucket, a water can and a single bench. Inside were the last three of the Moebian 6th
+taken at the customs house. Up close there was a faint smell, sweet, like fruit left too
+long in a warm room. Sallow had them on filters, and their water came in sealed cans.
+Nobody went in without a mask.
+
+The drum gunner, a heavyset trooper, lay on his back along the bench with one forearm over
+his eyes. He did not move.
+
+The plague medic sat on the deck against the far bars, thin and grey-skinned, his knees
+drawn up and his eyes shut. His lips moved very slightly, soundlessly, as if he were
+counting something, or praying to something.
+
+The leg-shot trooper sat nearest the bars with both legs out straight in front of him,
+bandaged thigh and shin. He had been watching since Tamsin came down the stair. Pale eyes
+in a sallow face, and the corroded *MOEBIAN 6TH* stamp still on the collar of his torn
+fatigues. His gaze went once past Tamsin to the red seal on the crate, then came back to
+his face.
+
+None of them said anything. It was about 0940.
+
+"Want to tell me why the 6th is here?" said Tamsin. "Doing all this? For what?" Then:
+"It's okay if you don't. Kesh will rip it out of you."
+
+At *Kesh*, the medic's lips stopped moving. His eyes stayed shut, but he was listening
+now. On the bench the gunner's forearm did not shift, but his breathing went slower and
+more careful. The leg-shot trooper did not blink. Something worked in his jaw.
+
+Then the medic smiled with his eyes still shut, a small, slow, private smile, as if he had
+been told something pleasant. The gunner did not move at all.
+
+But the trooper's jaw kept working. He looked at the red seal behind Tamsin, then at
+Tamsin, and Tamsin could see the sum going on behind his pale eyes: an Inquisitor's cell,
+and what happens in one. When he finally spoke, his voice was hoarse from disuse, flat, a
+soldier's voice from a man who had been a soldier once.
+
+"For what." He said it back as if it were a stupid question. "You've seen what we took.
+Air. Vox. Customs. You were a soldier. What does a regiment take first, when it means to
+hold a harbour?"
+
+He let that sit.
+
+"The grain comes out of Gallowmere. It goes through customs on the Mart. Out to the whole
+sector. Every hold, every hive. Whoever holds the Mart decides what gets through."
+
+His eyes went, just for a second, toward the stair, toward the medicae above it.
+
+"And she was to go home from here. Before the Lamps."
+
+Then something closed in his face, as if he had heard himself say too much. He sat back
+against the bars, his bandaged legs straight out. Under the fear there was a thin, bitter
+satisfaction.
+
+"You took a port, Interrogator." A pause. "The garden has others."
+
+He shut his mouth. Against the far bars, the medic was still smiling. It was about 0943.
+
+"One less port for you," said Tamsin, "and one 'important' port, from the looks of it.
+You're bummed. I get it. I would be too, if my own medic tried to kill me, and I had to
+watch helplessly as my brothers died. What? I thought he made you stronger? Thought he
+made you a new... Guess not."
+
+The trooper did not answer. But at *your own medic* his eyes moved, quick, sideways to the
+thin grey man against the far bars, and then down to his own legs in their bandages. They
+were clean white field dressings, Sallow's work, not the medic's. He stared at them a
+moment too long. His hands, flat on the deck either side of him, closed slowly into fists.
+
+He said nothing.
+
+Then, for the first time since Tamsin had come down the stair, the medic opened his eyes.
+They were watery, pale and very calm. He did not look at the trooper. He looked at Tamsin,
+and the small smile was still there, patient as a man at a sickbed.
+
+"He is stronger than he knows, Interrogator." His voice was soft, almost kind. "They
+always are. At the end."
+
+On the bench the gunner did not lift the forearm from his eyes, but his voice came out
+from under it, low and rough.
+
+"Shut it, Doc."
+
+The medic's smile did not change. He closed his eyes again and went back to counting. The
+trooper sat rigid between them, fists on the deck, staring at the bars in front of his
+face. Behind Tamsin, by the sealed crate, Ollin had gone very still.
+
+"What does this Mart let in and out that you care for...?" said Tamsin. "Don't want to be
+cooperative? I've got a dart that makes you talk. Ooh, and it leaves a sting while it's in
+you."
+
+There were no such darts aboard. Truth darts were on Nessa's list for Vashti's Rock, still
+unbought. The men in the cage did not know that.
+
+At *a dart that makes you talk*, the gunner's forearm shifted a finger's width off his
+eyes. The trooper's fists tightened on the deck. The medic kept counting.
+
+*It leaves a sting while it's in you.*
+
+The trooper had seen Inquisition cells, or heard enough about them. Something went out of
+his shoulders. He did not look at the medic this time, and he did not look at Tamsin. He
+looked at the bars in front of his face and talked to them, low and fast, like a man
+getting it over with.
+
+"Out. The grain. Gallowmere's. It's seeded in the silos before it ever goes on a barge. It
+goes through customs here clean on the papers and out to every hold that'll buy cheap. And
+the jars, on the Tender."
+
+A breath.
+
+"In. Beds."
+
+His mouth twisted on the word.
+
+"People. Off the ships coming through. Haulers, pilgrims, convict hulks, anyone nobody
+counts. Customs is bought, so a few go missing off every manifest. Ten a head. Ten
+Thrones." He almost laughed. "That's what they're worth to him. They go in the beds, and
+they come out walking."
+
+Behind Tamsin, Ollin made a small sound and covered his mouth.
+
+"*Hush,*" said the medic. Soft, almost tender, his eyes still shut.
+
+On the bench the gunner took his arm off his face and sat up for the first time. He did
+not say anything. He just stared at the trooper, long and flat, the way you would look at
+a man who was already dead.
+
+The trooper kept his eyes on the bars.
+
+"That's all I know. The other ports, the Lamps, that's above me. I'm a trooper, not a
+colonel."
+
+He shut his mouth hard, and this time it showed in his face. He would not open it again
+here. It was about 0948.
+
+"Worth to who," said Tamsin.
+
+The trooper's jaw locked. He had heard his own word come back at him, *him*, and realised
+he had let a name-shaped hole open in what he had said. His eyes stayed fixed on the bars.
+A muscle jumped in his cheek. On the bench the gunner was still staring at him. The medic
+had stopped counting.
+
+"Wolfer?" said Tamsin. "I've heard that name, and I know it's a high one in the 6th. So is
+that who you're talking about?"
+
+He knew it by reputation. Captain Biron Wolfer, who commanded the Moebian 6th.
+
+The cage changed.
+
+The trooper did not answer, but he did not need to. His head snapped round from the bars
+so fast it must have hurt. All the colour left his sallow face. For a second, under the
+soldier, Tamsin saw a frightened young man who had just heard a name said aloud in a place
+it was never meant to be said.
+
+"Don't." Barely a breath. "Don't say his name in here."
+
+He looked, without meaning to, toward the far bars. The medic's eyes were open again, and
+he was not smiling any more. He was watching the trooper with mild, patient interest, the
+way a surgeon watches a wound.
+
+The trooper turned back to Tamsin, and his voice dropped to almost nothing.
+
+"The Captain. He writes the letters. The Old Man sells, and the Captain pays. Ten a head."
+
+Then he pressed his back hard against the bars and shut his eyes, like a man waiting for a
+blow.
+
+On the bench the gunner got slowly to his feet. He was heavy, his head nearly brushing the
+cage roof, and he stood looking down at the trooper without a word. It was about 0950.
+
+"Where is Wolfer now?" said Tamsin. "Or will I have to sting you?"
+
+The trooper's eyes opened. They went to Tamsin, then up to the gunner standing over him in
+the cramped cage, a head and a half taller, saying nothing. Then back to Tamsin. He was
+caught between two things that frightened him, trying to work out which was worse.
+
+For a moment he looked as if he might. His mouth opened.
+
+Then the gunner moved. He did not hit him or say anything. He lowered himself onto the
+deck right beside the trooper, slowly and heavily, shoulder to shoulder, so close their
+arms touched. He rested his big forearms on his knees and looked straight ahead at Tamsin
+through the bars. He was not a cellmate any more. He was a guard.
+
+The trooper's mouth closed.
+
+"I don't know where the Captain is." It came out flat, a recitation. "Nobody does. That's
+the point of him."
+
+That was all. His eyes went back to the bars and stayed there, empty, and Tamsin knew he
+had lost him. Not for good, maybe. But not here, with the gunner's shoulder pressed
+against his and the medic watching. Against the far bars the medic had closed his eyes
+again, and the small, patient smile was back.
+
+It was about 0952.
+
+---
+
+Tamsin keyed the bead and said it aloud, standing right in front of the bars where all
+three could hear it.
+
+"Nessa. Cage room. Bring the talking darts..."
+
+There was a pause on the channel, exactly long enough for a sharp mind to remember a list
+it had read three hours before, with *truth* on it, still unbought.
+
+"*...The talking darts.*" Flat and dry, and he could hear the smile under it. "*Coming,
+boss.*"
+
+Nobody heard her come. One moment the hold was quiet. The next she was at his shoulder in
+her dark leathers, the needle pistol in her hand and a small black case under her arm: the
+dart case, battered leather, its clasp worn bright.
+
+She did not look at him. She looked at the cage, at each of them in turn, slowly. Then she
+set the case on a crate where they could all see it and opened it. In neat foam slots lay
+a row of slim darts. They were her ordinary toxin darts. The men in the cage did not know
+that.
+
+She took one out between two fingers, held it up to the lumen and turned it so the needle
+caught the light. Then she slid it into the pistol's breech with a soft, deliberate click.
+She did it all very slowly, like a woman with all the time in the world.
+
+"Which one, boss?" Bored, almost.
+
+In the cage the trooper had gone the colour of old paper. The gunner's shoulder stayed
+pressed to his, but the gunner's eyes were on the dart now. The medic had stopped
+counting. It was about 0955.
+
+"Which one of you wants to talk?" said Tamsin. "Or should I shoot all three, and see who
+gives me the best answer?"
+
+The question landed in the cage as if the dart were already in the air.
+
+The trooper's breath went ragged. His hands were shaking openly against the deck. He
+looked at the needle pistol, then at Tamsin, and his mouth opened. But the gunner's hand
+closed round his upper arm, not hard, just there, and the trooper's mouth shut again. He
+stared at the floor. He held.
+
+The gunner said nothing. His eyes stayed on the dart, flat and wary. A sheen of sweat had
+come up on his grey forehead.
+
+Then the medic opened his eyes. He got to his feet, slowly, unhurried, and stepped to the
+front of the cage, right up to the bars, an arm's length from Nessa's muzzle. He looked at
+the dart, then at her, then at Tamsin. He was smiling.
+
+"Begin with me."
+
+He said it softly, kindly, as if offering to go first at a field hospital.
+
+"I would very much like to see what your little sting does to me, Interrogator. I think it
+would be educational. For both of us."
+
+Nessa did not move. Her pistol stayed level on his chest. Out of the corner of her eye she
+glanced at Tamsin: *your call*.
+
+"I should have figured a doctor would catch on," said Tamsin.
+
+The medic's smile widened at *doctor*, slowly, gently, a teacher pleased with a pupil.
+
+"A paralytic." He said it almost fondly, his eyes on the dart's casing in her breech.
+"Grey sleeve, ridged cap. Arbites issue, or a copy of it. It stops the limbs,
+Interrogator. It doesn't open the mouth. Nothing in a dart opens the mouth. Only the soul
+does that."
+
+Nessa did not lower the pistol an inch. But one corner of her mouth went flat.
+
+"...Lovely."
+
+Behind the medic, the trooper heard it. The shaking in his hands slowed. He took one long
+breath, then another. Beside him the gunner let go of his arm. He did not need to hold him
+any more. The fear that had been doing the work had just been taken out of the room.
+
+The medic stood at the bars, still smiling, still waiting, as if Tamsin might shoot him
+anyway just to see. It was about 0958.
+
+"Good," said Tamsin. "At least I know Kesh will get something useful out of you. And she
+has the real darts." Then: "We'll be back soon..."
+
+At *Kesh* and *the real darts*, the medic's smile did not move at all. The gunner's jaw
+tightened. But it was the trooper Tamsin watched as he turned away. The trooper's eyes
+followed him all the way across the hold, and did not go to the other two once.
+
+Nessa lowered the pistol, thumbed the dart back out of the breech and slotted it into its
+foam. She snapped the case shut and fell in at his shoulder. Behind them, very faintly,
+the medic started counting again.
+
+Ollin and Ferro were still by the sealed crate. Ollin looked as if he would rather be
+anywhere else on the ship. As they passed, Ferro inclined his hood a fraction and turned
+back toward the workshop stair.
+
+At the foot of the stair, out of earshot of the cage, Nessa stopped him with two fingers
+on his sleeve and kept her voice low.
+
+"You told a plague doctor a paralytic was a truth serum, boss." Dry as dust. A pause. "It
+was a good try."
+
+Then she tipped her head back toward the cage, and the dryness went out of her voice. She
+was reading people now, the thing she was best at.
+
+"The young one's close. Real close. He was going to talk, twice. It's the other two
+holding him up. The big one by the arm, the doctor by... whatever the doctor does. Get him
+on his own and he'll go."
+
+She let go of his sleeve. "Your call."
+
+"Didn't think he'd know," said Tamsin. "He OD'd on stimms... I thought he was dumb. But
+it's fine. Kesh will get something out of them. That's all I really wanted to know."
+
+Nessa snorted quietly.
+
+"Nobody who reads a dart casing from two metres off is dumb, boss. Stimm-addled, maybe.
+Not dumb." She tucked the case under her arm and glanced once more toward the cage, where
+the counting had started again. "But aye. Kesh'll have them singing. She has people for
+that. And the real darts."
+
+She tilted her head up the stair, toward the steady crack of las fire from the range
+above.
+
+"Meanwhile, I owe somebody ten hours on a range. For being a sucker." She said *sucker*
+with great distaste. "...Lovely."
+
+And she was gone up the stair without a sound, the way she had come.
+
+"Maybe next time be more 'aware', as you would say," Tamsin called after her.
+
+From somewhere above, without a footstep to give her away, her answer came back down,
+flat.
+
+"I heard that, Rook."
+
+It was about 1002.
+
+
+## Chapter 132: Then We Both Work at It
+
+The range was the busiest it had been all voyage. All three lanes were full, with a second
+line waiting behind on the sandbags. Morcant, Isk and Varga were on the line, firing in
+steady strings at paper men forty metres off. Tavi sat on an ammo crate behind them,
+shaking out his arms and groaning theatrically. Brenner sat beside him with his carbine
+across his knees, quietly writing on a slate, probably his wiring list for Ferro.
+
+Kell walked behind the line with his arms folded, calling corrections in a low voice.
+
+"Breathe out, Tav. Not in. Out."
+
+"I'm not *on* the line, Sarge!"
+
+"Practise anyway."
+
+Hollis stood at the end of the sandbags with his slate, keeping the tally. Every few
+strings he marked something down and called it out mildly. "Morcant, one hour twenty. Isk,
+one hour twenty. Varga, one hour twenty. Eight hours forty to go, each, give or take."
+
+Nessa slipped onto the end of the waiting line beside Corvane, set down her dart case and
+started checking her pistol without a word to anyone. Corvane glanced at her, then at
+Tamsin as he came in, and gave him a small, rueful nod. At the far end of the deck Teo
+lounged against a bulkhead with a mug of recaf, very obviously not shooting, grinning at
+all of them. Mira stood on the waiting line with her laspistol, glaring at him.
+
+Morcant spotted Tamsin over his shoulder.
+
+"*BOSS!* Ten hours! Best order you ever gave!"
+
+It was about 1003.
+
+"Who wants to take a break?" said Tamsin.
+
+Tavi's hand shot up so fast he nearly fell off the crate. "ME! Me, boss. Me. My arms
+are..."
+
+He stopped and looked round. Nobody else had moved. Everyone on the deck had gone very
+still and was looking at Tamsin with exactly the same expression: the faces of people who
+had been played all morning.
+
+"It's a trap," said Nessa, flat, without looking up from her pistol.
+
+"Is this another bit?" Varga lowered Mercy a fraction and squinted down the line with her
+one eye.
+
+"Does it come off the ten hours, sir?" said Hollis. "Because I'm not changing the tally
+for a trick."
+
+"Is that an order, boss?" said Corvane. "Or an offer?" He asked it very carefully, the way
+a man checks a floor for tripwires.
+
+"*No!*" said Morcant. "No break! I've got eight hours forty left and I'm going to enjoy
+every one!"
+
+On lane one Isk did not even look round. *Crack.* Another hit.
+
+Slowly Tavi's hand came down. He looked at the others, then at Tamsin, and his eyes
+narrowed. "...Wait. Is it a trap?"
+
+Down at the bulkhead, Teo had to put his recaf down because he was laughing too hard to
+hold it.
+
+"No one else wants to go?" Tamsin walked down the lanes, slowly, past each one, warm and
+reasonable, the voice of a man offering something good. "You'll be here for ten hours
+straight, and I'm offering a break?"
+
+Varga's eye followed him the whole way. Corvane straightened a little on the waiting line,
+as if considering it. Mira looked at the laspistol in her hand, then at the long hours
+ahead, and wavered.
+
+It almost worked. Tamsin could see it almost work.
+
+Mira actually took half a step off the line. Then Teo, down by the bulkhead, raised his
+mug at her in a cheerful little salute. She stopped dead, planted her feet and turned back
+to the lanes.
+
+"...No. I'm fine. I'm *shooting*."
+
+Varga brought Mercy back up to her shoulder. "Not arguing, boss." *Crack.* "Not taking it
+either."
+
+Corvane inclined his head, perfectly polite. "If it is an offer, boss, I will decline it.
+With thanks."
+
+"*NO!*" said Morcant.
+
+On lane one Isk fired again without looking up. Nessa did not dignify it with a glance.
+Hollis made a small mark on his slate, as if scoring a point to the Light.
+
+And Tavi sat on his ammo crate alone, looking slowly from one closed face to the next. His
+arms hung at his sides. He took a deep breath.
+
+"...I'll take it." He stood, shoulders squared, like a man walking to a firing squad. "If
+it's a trap, it's a trap."
+
+"No trap, Tav," said Tamsin. "Go get some food and rest."
+
+Tavi blinked at *no trap*, and the relief flooded his face. "Thank you, boss. *Thank* you.
+Food. Rest. Arms."
+
+He grabbed his Accatran off the crate and headed for the hatch at the end of the deck,
+practically skipping, grinning back over his shoulder at the rest of them. "Enjoy your
+eight hours forty, *suckers*..."
+
+He got one foot over the hatch coaming.
+
+"Stop."
+
+Tavi froze mid-step, one boot in the corridor and one still on the range. For a long
+second he did not turn round. His shoulders climbed slowly toward his ears.
+
+The range went silent. Varga lowered Mercy. Morcant stopped firing. Even Isk looked up
+from his scope.
+
+Very slowly Tavi turned his head and looked back over his shoulder.
+
+"...It's a trap." His voice was tiny.
+
+From the waiting line, without looking up from her pistol, Nessa said, "Told you."
+
+"Grab me Vigil, would you," said Tamsin.
+
+For a moment Tavi only stared at him. Then all the air went out of him at once, and he
+sagged against the hatch frame.
+
+"...That's it? *That's* the trap?"
+
+Down the line Morcant burst out laughing. Varga snorted. Hollis made another small mark on
+his slate.
+
+"Aye, boss. Vigil. Going."
+
+He went at a jog, up the stair and along the corridor toward the cabin. Then a pause, and
+he came back slower and careful.
+
+When he came through the hatch he was carrying Vigil in both hands, flat across his
+forearms, the way you would carry a sleeping child or a relic. The Cadian camo, with
+Korren's tallies ghosting through underneath. The sling wrapped in Tamsin's own camo. The
+copper-gold wire of the old coil wound round the forestock. The purity seal on the stock.
+He had the two spare hot-shot packs tucked into his belt as well, without being told.
+
+He held it out very carefully, not quite meeting Tamsin's eyes. Everyone aboard knew whose
+gun it had been before it was Tamsin's.
+
+"Here, boss. Packs too." Then, hopefully, shifting from foot to foot: "...Can I go now?"
+
+"Uhh, not quite," said Tamsin. "Now you owe me a knife match, for getting shot. Kell too.
+But yeah, you can take fifteen."
+
+Tavi's face went through about four things at *knife match*. He had beaten himself up
+about that hand-cannon round every day since the gate.
+
+"...A knife match. With *you*." He swallowed. "Aye, boss. Fair. Fifteen minutes."
+
+He was out of the hatch before Tamsin could change his mind. His boots went off fast
+toward the galley, and from the corridor came, faintly: "*...and Kell too, ha.*"
+
+Tamsin slung Vigil and walked down to the line. The old gun settled against his shoulder
+the way it always did. The coil hummed faintly under his hand, and the copper-gold wire
+was warm.
+
+"Whose lane can I take for a bit?"
+
+Morcant and Isk both stepped back from their lanes at exactly the same moment, then looked
+at each other.
+
+"Mine, boss! Mine! I want to hear her sing!"
+
+Isk said nothing. He rose from prone, picked up the long-las and stood aside, very
+correctly.
+
+From lane two Varga did not take her eye off her scope. "Take Isk's, boss. He could use
+the rest. Been missing all morning."
+
+"*Varga.*"
+
+Behind the line Hollis looked up from his slate, stylus poised. "Does the boss count
+toward the tally, sir? Because I'll need a new column."
+
+"Isk it is," said Tamsin. "Morcant, you can't get off until you fix those groupings with
+the multi. I already told you that."
+
+Isk inclined his head and stepped back to the sandbags. He sat on one with the long-las
+across his knees to watch, his eyes on Vigil. He gave Varga one long, flat look on the
+way. She did not see it, or pretended not to.
+
+Morcant lit up like a flare.
+
+"The multi? I get the *multi*?" He was already moving. "She's only got half a pack in her,
+boss, one string. I'll put her on the coupling to charge and run the stubber till she's
+full. Then tight groups. *Tight.* You'll see."
+
+He bounded off toward the coupling panel by the hatch, where the multi-laser sat against
+the bulkhead, talking to it as he went in a low, happy croon, the way Hollis talked to Six
+Bells.
+
+Lane one was Tamsin's. A sandbag rest at the firing line, and forty metres down the deck a
+fresh paper man pinned to a crate, the old one in shreds on the floor beside it. Behind
+him the deck had gone a little quieter. Nobody said it, but they had all turned to watch
+the boss shoot Vigil.
+
+He fired four, fast and clean, four bright lances down the deck one after another.
+
+The first took the paper man in the chest. The second went through the middle of the head.
+The third went through the same hole, and so did the fourth. There was daylight through a
+single ragged ring where his face had been.
+
+Then the coil's hum climbed to a high whine. The vents along the barrel shroud opened with
+a sharp hiss, and heat shimmered off the casing in a wave he could feel on his cheek. The
+copper-gold wire was suddenly hot under his palm. Vigil held him there for a moment,
+venting, the way the old gun always did when it had been asked for everything. He did not
+fire through it. He had promised its spirit he never would.
+
+The range was silent.
+
+Then Hollis looked down at his slate and made a mark. "Four for four. Three in the black."
+
+On lane two Varga did not lower Mercy. "Show-off."
+
+From over by the coupling, Morcant bellowed, "I do *TEN*, boss!"
+
+On the sandbags behind, Isk had his eyes on the target. "...Clean." He said it very
+quietly. It was the highest praise he gave.
+
+The vents snapped shut. Vigil's hum settled back to its deep, steady purr. Sixteen left in
+the pack. It was about 1016.
+
+---
+
+"Isk, step in," said Tamsin. "I get to coach you, though."
+
+Isk was up off the sandbags before he had finished. He said nothing at first, only nodded
+once, very seriously, the way he nodded when Kell gave him a position.
+
+He went past the long-las and picked up Patience instead, his own marksman hellgun: the
+low-light scope, the long barrel, the prayer token tied at the sling swivel. He lay down
+prone behind the rest on lane one, settled the stock into his shoulder and the cheek-weld
+into place, and worked the scope's focus ring a click at a time. Tamsin had watched him do
+it a hundred times. He breathed in, and out.
+
+Then he turned his head a fraction, not taking his eye from the glass.
+
+"Ready, boss." Low and calm, the voice he used on the bead. "Forty metres. Paper man.
+Head's gone, thanks to you." A dry pause. "What do you want to see?"
+
+On lane two Varga had stopped firing. She was watching out of the corner of her eye,
+pretending not to.
+
+"Well, Varga said you're missing," said Tamsin. "So let's see if she was lying..."
+
+Isk did not answer. He settled a fraction lower behind the rest and let out half a breath.
+
+"Chest."
+
+*Crack.* A hole opened left of centre on the paper man's chest.
+
+"Chest."
+
+*Crack.* The second went in a finger's width from the first.
+
+"Heart."
+
+*Crack.* The third went in right between them, where a heart would be. Three holes you
+could cover with one palm.
+
+He lifted his eye from the scope, slowly, and did not look at Tamsin. He looked across at
+lane two. Varga was looking down the deck at the target with her one eye, her mouth a thin
+line.
+
+"...Lucky."
+
+"Patience."
+
+He said the name of his gun as if it were an answer, which it was. Then he put his eye
+back to the scope and waited, very correctly, for his coach. Behind the line Hollis was
+grinning down at his slate.
+
+"Shooting where it matters," said Tamsin. "Centre mass. Now show me a shot that takes
+someone prisoner."
+
+Isk shifted the barrel down a hair. The scope settled low on the paper man.
+
+"Left knee."
+
+He breathed out. But this time the breath caught, just slightly, at the bottom, and the
+shot came a fraction early. *Crack.* The bolt punched into the crate a hand's width below
+where the paper man's knee would be, and a puff of splinters jumped out of the wood.
+
+Isk lifted his eye and stared at it for a long moment.
+
+"...Pulled it." Quiet, and furious with himself. "Rushed the breath. Wanted it too much."
+
+His thumb found the prayer token at the sling swivel and rubbed it once. On lane two Varga
+had her eye on the splintered crate. She opened her mouth, the comeback right there, and
+closed it again and said nothing. She went back to her own scope.
+
+"Don't think about why you're shooting it, or what it costs," said Tamsin. "Just centre on
+it, and do as normal."
+
+Isk listened without moving. *Don't think about why.* His shoulders came down a fraction.
+He settled back into the stock, and this time when he breathed out, the breath went all
+the way to the bottom without catching.
+
+"Left knee."
+
+*Crack.* The bolt clipped the bottom edge of the paper man low on the shin, tearing a
+notch out of the margin before it hit the crate. Closer, but not the knee.
+
+Isk let the breath out slowly through his nose. This time he did not say *pulled it*. He
+looked at the notch, measuring, like a man reading wind.
+
+"Low. The breath was right. I aimed it low." He put his eye back to the glass. "Again,
+boss."
+
+On lane two Varga had stopped pretending not to watch. Behind the line Hollis's stylus was
+still.
+
+"Again."
+
+Isk did not call it this time. He just breathed, in and out, all the way to the bottom,
+steady, and the barrel came up a hair from where it had sat.
+
+*Crack.*
+
+The paper man's left leg jumped. When it settled there was a ragged tear on the outside
+edge of the knee: not through it, but a scorched notch where the bolt had kissed the edge
+of the joint and gone on into the crate. In a fight a man would stagger and swear. He
+would not go down.
+
+Isk looked at it for a long moment.
+
+"...Edge."
+
+He did not sound angry now. He sounded like a man who could see it.
+
+On lane two, so low that only Tamsin and Isk could have heard it, Varga murmured,
+"Nearly."
+
+Isk's jaw tightened. He was not hurt. He was taking it as a challenge. He settled back
+into the stock without being told.
+
+"Think about this shot as the shot you need for Patience's new design," said Tamsin. "If
+you miss, he rips it. If you hit it, he goes down, and you save it..."
+
+Something went through Isk at that. Tamsin saw it in the back of his neck, a tightening.
+He knew exactly which sheet of paper was meant. He had read every line of it in the cabin
+and grinned at *MVSH?*
+
+He settled. He breathed. But this time the breath did not go all the way down. It stopped
+halfway and held there, tight, the breath of a man thinking about a schematic in a drawer.
+
+*Crack.* The bolt went wide right, past the outside of the knee by a full hand, and
+smacked into the crate beside the leg in a puff of splinters.
+
+Isk stayed very still on the deck. Then he lifted his eye slowly from the scope and turned
+his head to look at Tamsin over his shoulder. His face was calm. His voice was quiet and
+dry, and very honest.
+
+"You told me not to think about what it costs, boss." A pause. "Then you told me what it
+costs."
+
+He did not say it angrily. It was a correction, the kind he would give Tavi about his
+shoulders. Behind the line Hollis had gone very carefully quiet. On lane two Varga had her
+eye pressed to her scope and her shoulders shaking. She was laughing without a sound.
+
+"On the field, all you do is think," said Tamsin. "Here, you're shooting a target. Out
+there, you're saving your team... Again."
+
+Isk held his eyes a moment longer. Then he nodded once and turned back to the scope.
+
+He settled. His shoulders dropped. The breath went in, and out, all the way to the bottom,
+and stayed there, empty and still. Tamsin could see the difference from behind him. There
+was nothing in him now but the glass and the paper.
+
+He did not call it.
+
+*Crack.*
+
+The paper man's left leg jerked back against the crate. When it swung still there was a
+clean, scorched hole straight through the middle of the knee, dead centre of the joint,
+where a man would fold and go down and stay down, alive.
+
+Isk let the breath out. "Knee." Quiet. Just a report.
+
+On lane two Varga lowered Mercy and looked at the hole for a long moment.
+
+"...Show-off."
+
+From Varga, that was a medal. Behind the line Hollis made a mark on his slate, and Tamsin
+saw him underline it.
+
+Isk rolled onto his side behind the rest and looked up. His face was calm, but there was
+something warm in it that he did not bother to hide. His thumb rested on the prayer token.
+
+"Thank you, boss."
+
+"Work that in," said Tamsin. "If you're able to see past the target and still keep your
+composure, you're a real sniper. I still do it, even when I'm not there."
+
+Isk listened with his whole attention, the way he listened to a vox call that mattered. At
+*I still do it*, his eyes came up and stayed, surprised, maybe, that Tamsin would say it.
+He was quiet for a moment.
+
+"Then we both work at it, boss."
+
+He said it simply, with no flattery in it, as if it were settled. Then he rolled back onto
+his stomach, settled the stock and put his eye to the glass without waiting to be told.
+
+"Right shoulder." *Crack.* "Left knee." *Crack.*
+
+Slow and even, a breath between each, and he called every one before he took it. He was
+not trying to impress anyone now. He was drilling.
+
+On lane two Varga had gone back to her own strings. She kept glancing sideways at Isk's
+target, and she had started calling her own shots too, under her breath, as if she did not
+want anyone to notice.
+
+Over by the coupling the multi-laser's charge light had crept from red to amber. Morcant
+was sitting cross-legged beside it, watching it like a kettle. It was about 1024.
+
+
+## Chapter 133: Feet Flat
+
+Tamsin looked down the line.
+
+Lane one: Isk, prone, calling his shots in a low, steady voice. Lane two: Varga, firing
+clean strings and muttering her own calls now. Lane three: nobody. The sandbag rest sat
+empty, a fresh paper man pinned at the far end, waiting.
+
+On the waiting line by the bulkhead, Corvane, Nessa and Mira stood with their weapons
+checked and nothing to shoot at. Corvane was perfectly patient. Nessa was checking her
+pistol for the fourth time. Mira kept glaring past them at Teo, still lounging against the
+far bulkhead with his recaf. Brenner sat on an ammo crate, writing on his slate. Morcant
+was cross-legged by the coupling, watching the charge light crawl toward green. Kell
+walked behind the line with his arms folded, owing ten hours himself and not firing a
+shot. Hollis stood at the end with his slate, owing ten hours too and keeping everyone
+else's.
+
+On the slate, Morcant, Varga and Isk had an hour and forty each. Brenner and Tavi had an
+hour and twenty. Corvane, Nessa and Mira had none; they had been on the mat. Kell and
+Hollis had none at all.
+
+"Alright," said Tamsin. "Everyone swap out. Let's get some even times in here."
+
+Kell did not need telling twice.
+
+"You heard him. Off the line: Isk, Varga. On: Corv, lane one. Nessa, two. Mira, three."
+
+It happened fast, the way the Light did everything when Kell ran it. Isk rose from prone
+and stepped back, giving Tamsin a small nod on the way. Varga lowered Mercy, muttered
+something about *just finding her rhythm*, and sat on the sandbags beside him without
+looking at him. Corvane took lane one with a crisp nod, his revolver already out. Nessa
+slid onto lane two without a sound. Mira took lane three and immediately fired a hard pair
+into the paper man, staring straight at Teo while she did it.
+
+"Hourly rotation," said Kell. "Next hour: me, Hol, Brenner. Then Tavi and the rest round
+again. Everybody even by tonight."
+
+Hollis looked down at his slate. "If I'm shooting, Sergeant, who's counting?"
+
+Kell did not even turn his head. He held out one hand toward the far bulkhead without
+looking.
+
+"Teo. Slate."
+
+Over by the bulkhead Teo's grin died slowly. He looked at his recaf, then at Kell's
+outstretched hand.
+
+"...I wasn't a sucker, Sarge."
+
+"No. You're not shooting. You're counting."
+
+On lane three Mira fired another pair, and this time she was smiling.
+
+"Teo," said Tamsin. "Ferro is also waiting on your sheet. Have it done soon."
+
+Teo took the tally slate from Kell with the air of a man accepting a sentence. Then the
+words reached him, and his face changed completely.
+
+"My sheet. The ship's guns."
+
+He flipped the tally slate over to its blank back without a second's thought and started
+writing on it right there, standing up.
+
+"Tonight, boss. I'll have it to Ferro tonight. Between counts."
+
+He scribbled one line, underlined it twice, and held the slate up so Tamsin could see it:
+**LASCANNON.**
+
+"First line."
+
+On lane three Mira fired a pair, lowered her laspistol and called over without looking
+round. "And mine, boss. The Valk. Ferro gets mine tonight too. *Itemised.*" She said it
+pointedly, in Teo's direction.
+
+"Teo," said Kell. "Front of the slate. Count."
+
+"Counting, Sarge!"
+
+He flipped it back, found the right column and squinted at the three lanes like a man who
+had never counted anything in his life. It was about 1028.
+
+---
+
+Tamsin leaned on the sandbags with Vigil slung and watched the hatch.
+
+The rotation settled in behind him: Corvane's revolver in clean, even pairs on lane one,
+Nessa's needle pistol hissing on lane two, Mira hammering lane three. Teo called the hour
+wrong, and Kell corrected him without looking up.
+
+Twenty-six past came, and the hatch stayed empty. Twenty-eight. Thirty. Down the line,
+Nessa glanced at the hatch, then at Tamsin, and one eyebrow went up.
+
+At thirty-three, boots came pounding along the corridor at a full sprint, skidded on the
+deck plates, and Tavi came through the hatch so fast he had to grab the frame to stop. His
+Accatran was slung crooked. One side of his face had a deep red crease from a table edge,
+and there was a crumb of bread stuck to his cheek.
+
+He saw Tamsin waiting at the line, watching the hatch, and went white.
+
+"Sorry, boss! Sorry! I sat down for one second, just to eat, just *one second*, and then
+Sallow was shaking my shoulder saying I'd been snoring into the stew..."
+
+He stopped for breath. Somebody on the line snorted.
+
+"...I'm late."
+
+"Hmm," said Tamsin. "And when I'm nice for once... Alright. Set your gun down and go to
+the mat. Everyone else, try to pay attention to your shooting, and not us."
+
+Tavi looked at him for one long, tragic second. Then he set his Accatran down on the ammo
+crate very gently, as if saying goodbye to it, and walked to the mat like a man walking to
+the gallows. He wiped the crumb off his cheek on the way.
+
+Kell was already there. He pulled two blunted training knives off the rack, chalked both
+edges white and handed one to each of them.
+
+Behind them the range kept firing, crack, crack, crack, noticeably slower than a minute
+before. Corvane's head was turned a fraction toward the mat. Mira had stopped shooting
+altogether. Teo had forgotten the tally slate entirely.
+
+Kell stepped to the edge of the mat and folded his arms.
+
+"Same rules as last time, boss? Hand or leg's one. Head, neck, body, back's two. First to
+two takes the round. First to five rounds takes the match." He glanced at Tavi, then at
+Tamsin. The deadpan held, mostly. "And who swings first?"
+
+Tavi stood in the middle of the mat with the chalked knife held out in front of him in
+both hands, like a candle.
+
+"Yes, same rules." Tamsin backed into his corner. "In a fight, does one say who swings
+first?" Then, smug: "Oh, and Tavi. I'm going to make you wish you went down instead."
+
+Tavi heard it, and Tamsin watched him decide he would not be caught waiting. *Make you
+wish you went down instead.* That did it.
+
+With a strangled yell he came straight across the mat, arm out long, the chalked knife
+leading and every bit of his weight thrown onto his front foot. His shoulder dropped a
+full half-second before the blade moved, telegraphing everything. The white edge came in
+low and straight for Tamsin's stomach.
+
+Tamsin stepped off the line of it, barely a shift of the hips, half a pace to the side.
+The blade went through the space where his stomach had been. Tavi went with it. All that
+weight on the front foot, and nothing there to stop it. As he went past, Tamsin put a hand
+flat between his shoulder blades and pushed.
+
+He went down face first. His knife skittered off across the mat. He landed with a loud,
+flat *whump* and a wheeze as all the air left him at once.
+
+Down the range somebody winced. *Crack.* Mira had missed her paper man completely.
+
+Tamsin walked round him to the far side of the mat and turned to Kell.
+
+"Change of plans, Kell. Tavi can't leave until he gets three *rounds* on me... Got it?"
+
+Kell looked down at Tavi, face down on the mat, then up at Tamsin. Tamsin watched him run
+the sum, the same sum anyone on the deck would run.
+
+"That'll take a while, boss."
+
+He said it once, flat, and settled back on his heels.
+
+"Got it." He looked down again. "No touch. Round's still live. Up, Tav."
+
+Face down on the canvas, without lifting his head, Tavi said one muffled word.
+
+"...*Throne.*"
+
+Then he pushed himself up onto his hands and knees, retrieved his knife and got to his
+feet. He had a mat burn on his chin and a look on his face Tamsin had not seen before. He
+was not scared any more, only angry. He set his feet properly this time, low, the way Kell
+had taught him.
+
+Tamsin tucked his knife away into his belt and showed him an empty hand. Two fingers
+curled toward himself: *come on, then.*
+
+Tavi did not yell this time.
+
+That was the first thing Tamsin noticed. No strangled noise, no wild lunge. He stayed low
+and kept his feet under him, the stance Kell had drilled into him years ago and he had
+never once used against Tamsin. His eyes were fixed on Tamsin's middle. For half a second
+nothing happened at all.
+
+Then he moved. It was short and fast, a small step and a tight thrust with no shoulder
+drop and no warning, the kind of move he had watched Corvane make a hundred times from the
+edge of this mat.
+
+The chalked edge dragged across Tamsin's ribs, left side, under the arm. When Tavi pulled
+back there was a clean white line across his fatigues.
+
+The whole deck went silent.
+
+Tavi stared at the chalk mark, then at the knife in his own hand, then at the chalk mark
+again. His mouth was slightly open.
+
+Kell looked at the line on Tamsin's ribs for a long moment. His face did not move, but his
+voice had something in it that had not been there a minute before.
+
+"Body. Two." A pause. "Round to Tavi."
+
+The range exploded. Morcant roared from the coupling. Mira's laspistol clattered onto the
+sandbags as she threw both arms in the air. Teo dropped the tally slate. Even Corvane on
+lane one said "*Ha!*" out loud, and then looked faintly embarrassed about it.
+
+Tavi stood in the middle of the mat, chest heaving, the mat burn still red on his chin,
+looking at Tamsin as if he expected the deck to open and swallow him.
+
+"...Boss?"
+
+"Hmm. Interesting," said Tamsin. "Too bad it was luck."
+
+He went back to his corner with the knife still in his belt.
+
+Tavi's jaw set. He did not wait for Kell this time. He was across the mat before Tamsin
+had finished settling, low, fast, knife held short.
+
+Tamsin's palm cracked across his wrist, and the knife jerked wide past his shoulder. Tavi
+did not stop. He came straight back with a second thrust, faster, and this time Tamsin
+simply was not there. He slid off the line, and Tavi stabbed empty air where his chest had
+been a heartbeat before. The miss dragged him half a step forward, off balance again.
+
+He caught himself, breathing hard, and stared at Tamsin with the knife still up. He had no
+idea what to do next. Tamsin was standing there empty-handed, and he could not touch him.
+
+"No touch," said Kell.
+
+Down the line all three lanes had stopped shooting. Nobody was pretending now.
+
+Tamsin stepped back. "You get close on someone and what? Flop on them? Again..."
+
+Tavi's face went red to the ears. He came in high and fast with a slash at Tamsin's
+shoulder that never reached him. Then a cut back across at the collarbone, too big, all
+arm. It went so wide that it carried him round off balance, his weight on the wrong foot.
+Whatever he had planned for a third, it died right there.
+
+He stumbled back a step to catch himself, breathing hard. There was still only one line on
+Tamsin.
+
+"No touch."
+
+Tamsin slid in close, inside his reach, his hands coming up for Tavi's chest. And for once
+Tavi saw him coming. He even got his free hand up. It did not matter. Tamsin's palms hit
+his chest square, and his front foot had already been light on the mat, heel up, half a
+step from a lunge he had not started yet. All his weight went backward at once. He
+staggered three steps, windmilled one arm and nearly sat down hard, catching himself on
+the edge of the mat at the last second.
+
+"See? Flopping all over the mat," said Tamsin. "First, fix your footing, Tavi. If any of
+your feet leave this mat in a swing, you're doing it wrong."
+
+Tavi straightened slowly, red-faced, and did not argue. His eyes dropped to his own boots.
+He looked at his feet for a long moment, and then, very deliberately, he set them: wider,
+flat, heels down, knees soft. It was the stance Kell had drilled into him years ago, the
+one he forgot every time he got excited. He rocked his weight once, testing it, keeping
+both soles on the canvas.
+
+"...Flat. Both down." A murmur to himself, like a kid repeating a lesson.
+
+At the edge of the mat Kell gave a very small nod. It was what he had been telling Tavi
+for six years.
+
+"Wanna make up for your mistakes?" said Tamsin. "This is the first step."
+
+He said it to get under his skin, and Tamsin watched it go in. The gate. The satchel. Dace
+running out under fire to fetch him. Tavi's jaw locked hard enough that the muscle jumped.
+
+But his feet did not move. They stayed flat, heels down, exactly where he had set them.
+
+Then he came. Not a lunge this time. One short step with his back foot following, planted,
+and a tight thrust from the hip at Tamsin's ribs with the whole of his weight behind it
+and none of it leaving the mat.
+
+It never reached him. The chalked edge passed a finger's width from Tamsin's ribs, close
+enough that he felt the air move, and was turned away.
+
+But Tavi did not fall over this time. His feet stayed exactly where they were. The miss
+did not drag him anywhere. He rocked back onto his rear foot, balanced, the knife already
+coming back up in front of him. For the first time in the match he did not look as if he
+were about to trip over himself. He looked like someone who could fight.
+
+He noticed it himself. His eyes flicked down to his boots, both still planted, then back
+up. Something in his face shifted. He was not happy, exactly. He was focused. At the edge
+of the mat Kell did not say anything, but his folded arms loosened a fraction.
+
+Tamsin spun, fast, dropping his weight, his leg coming round low behind Tavi's planted
+heel. Tavi saw the turn start. His eyes went wide. His feet were flat. It did not save
+him.
+
+Tamsin's heel hooked in behind his ankle and swept it, and for one long moment Tavi hung
+in the air with nothing under him. His arms went out wide and the knife flew loose. Then
+he landed flat on his back with a sound like a dropped crate, and all the air went out of
+him in one great *whoof*.
+
+He lay there staring up at the deck lumens, his mouth opening and closing like a landed
+fish. Down the range Morcant groaned out loud in sympathy. Somebody laughed. Mira winced
+and looked away.
+
+Kell looked down at Tavi sprawled on the canvas, then at Tamsin. "No touch." He said it
+mildly. His mouth was doing something complicated at one corner.
+
+Tamsin moved away. "Up. Let's go."
+
+Tavi rolled onto his side, coughed once and pushed himself up. He limped over to his knife
+and scooped it off the mat. Before he did anything else he looked down and set his feet:
+wide, flat, heels down. One breath.
+
+Then he came. He stepped in planted and thrust low at Tamsin's thigh, quick and tight, a
+smaller target this time and a smarter one.
+
+Tamsin stepped into it instead of away. He dropped and rolled under the line of the thrust
+and came up inside Tavi's reach before Tavi had finished extending, shoulder to shoulder
+with him, so close he could hear him breathing.
+
+Tavi froze. His knife arm was still out long, past Tamsin, pointing at nothing. His feet
+were planted the way he had been told, and now they kept him rooted in place while Tamsin
+stood right against his ribs. He turned his head and looked at Tamsin from a hand's width
+away, his eyes very wide. He knew exactly where Tamsin was, and that he could do nothing
+about it.
+
+Tamsin's knuckles cracked into the front of his shoulder, hard. Not a punch, just a sharp
+rap right where the joint met the collarbone, where a blade would go in. Tavi's whole arm
+jolted and the knife dipped. Then Tamsin was past him, three strides back across the mat,
+hands loose at his sides.
+
+Tavi stayed where he was for a second. Slowly he brought his free hand up and rubbed the
+shoulder. He looked at the spot, then at Tamsin, and Tamsin saw him understand it. That
+one was not chalk. If Tamsin had had the knife out, that would have been the round.
+
+"...No touch," said Kell. He said it slowly, and he was looking at Tavi.
+
+Tavi turned to face him, still rubbing his shoulder. His feet were still planted, but his
+face had changed again. The anger had gone, and something quieter had come in under it. He
+was watching Tamsin's hands and feet and hips now, the way Corvane watched an opponent. He
+was not watching his face any more.
+
+"You're overextending," said Tamsin. "Play into your opponent, not with them."
+
+He pulled his knife back out of his belt and got set for him.
+
+Tavi heard it, and Tamsin could see him try. He stayed compact this time, elbow tucked,
+knife held short, and stepped in close the way Tamsin had just done to him. But he was
+thinking about it, and it showed. His eyes went to Tamsin's knife, to his own feet, back
+again, and the moment he picked came half a moment late. The chalked blade came in short
+and tight at Tamsin's ribs, slow, the cut of a man doing three new things at once and none
+of them yet without thinking.
+
+Tamsin's off hand came up under the cut and found his forearm. No grab, no force, only a
+palm against the inside of his arm, steering. The chalked edge kept going exactly the way
+it was going, only now it was going past Tamsin, out wide to his left. It took Tavi's arm
+with it, then his shoulder, then the whole front of him.
+
+He ended up half sideways, knife arm flung out into empty space, his chest and ribs and
+the side of his neck all open in front of Tamsin's blade. His feet were still planted.
+That was the only part of him still doing what he had meant it to.
+
+He saw it. His eyes went from his outflung arm to Tamsin's knife, held low and close, a
+hand's width from his ribs.
+
+"...Oh."
+
+Tamsin tapped him with the flat of the chalked knife, firm, on the open ribs. One clean
+white line.
+
+"Body. Two. Round to the boss."
+
+"Again," said Tamsin.
+
+Tavi reset without a word. Feet planted. Elbow in.
+
+The next round he came in short, and Tamsin turned it. Tamsin countered, and gave him a
+chance, and for the first time all morning Tavi turned *him*. He was barely in time, but
+his feet stayed down and the cut went wide. He did not stop to celebrate. He stepped in
+close, the way he had been shown, inside instead of along, and the chalk dragged across
+Tamsin's stomach.
+
+"...Body. Round to Tavi."
+
+The one after that was over almost before it started. One planted step and a tight, quick
+thrust with nothing in it but the move. Tamsin read it a hair too late, and there was a
+third white line on him.
+
+Kell looked down at the chalk on Tamsin, then at Tavi, and took a long breath through his
+nose.
+
+"Round to Tavi." A pause. "That's three."
+
+The range exploded. Morcant was roaring. Teo was pounding the bulkhead. Mira and Nessa
+were both on their feet. Hollis was standing on the sandbags with both arms up, and
+Corvane was clapping, actually clapping, slow and formal.
+
+Tavi stood in the middle of the mat with the chalked knife hanging from his hand, chest
+heaving, sweat running into his eyes. There was chalk on his own sleeve where Tamsin had
+got him once. He stared at the three white lines across Tamsin's fatigues as if they might
+vanish if he blinked. It had taken him about fifteen minutes.
+
+"...Boss." His voice cracked on it. "I can go?"
+
+"You can go back to the range..."
+
+For a moment Tavi only stood there. Tamsin watched his face light up at *go*, and then
+catch on the rest of the sentence. It fell like a brick off a crane.
+
+"...The range."
+
+Somebody on the line howled. It was Teo, doubled over against the bulkhead. Morcant was
+wheezing. Even Nessa had a hand over her mouth.
+
+Tavi looked at Tamsin, then at the range, then back. And then, slowly, helplessly, he
+started to laugh, a tired, breathless, cracked laugh with his hands on his knees, chalk on
+his sleeve and sweat dripping off his nose.
+
+"Of *course* the range. Of course it is."
+
+He straightened, wiped his face on his sleeve, picked up his Accatran and trudged off
+toward the waiting line. As he passed Hollis, Hollis held out one hand without looking up
+from the slate, and Tavi slapped it on the way past.
+
+Kell racked the two training knives and came to stand beside Tamsin at the edge of the
+mat, arms folded, watching Tavi go. He said it low, so only Tamsin could hear.
+
+"Six years I've had him. He's never moved like that, brother." A pause. "Not once."
+
+"He has a reason to move like that now," said Tamsin.
+
+Kell was quiet for a moment. His eyes went down the deck to Tavi on the waiting line,
+where Tavi was showing Brenner his chalk-marked sleeve with both hands, talking fast.
+Kell's face did not change, but he nodded slowly, once.
+
+Tamsin stepped down off the edge of the mat. "I'll let you prepare for our match later..."
+
+Kell did not turn his head. He watched the range with his arms folded, deadpan as a
+bulkhead.
+
+"Take your time, brother." A pause. "I won't need three rounds."
+
+The corner of his mouth moved, just once. Then he walked off down the line, calling
+Corvane's footwork in his low drill voice as if nothing had been said.
+
+The range started up again. Teo was trying to work out whose hour he was on. By the
+coupling the multi-laser's charge light had gone green, and Morcant was already on his
+feet with it cradled in his arms like a newborn, looking at lane three with naked longing.
+It was about 1052.
+
+
+## Chapter 134: Lead With the Last One
+
+Corvane was mid-string when he heard Tamsin's boots behind him. He did not stop or rush.
+He finished the pair, *crack-crack*, two holes a thumb's width apart in the paper man's
+chest. Then he lowered the revolver and turned his head.
+
+The rebuilt revolver gleamed white and grey in his hand: the plasteel hammer, the
+ghost-ring sights, Dace's work in every part of it. He thumbed the cylinder open and began
+reloading without looking down, his eyes on Tamsin.
+
+"Boss." Even and formal. His ears were still faintly pink from the morning.
+
+"After this, I'm redoing training for the days," said Tamsin. "You'll be on the mat, sword
+fighting. I'll say I'm impressed by your duels. But I want to make sure you can't lose...
+so you'll duel me."
+
+Corvane's fingers stopped on the last cartridge, halfway into the cylinder.
+
+He said nothing for a moment. His face held its usual composure, but something went very
+still behind it. For Corvane a one-on-one was not a bout. It was the honour he had lost
+under Drachen, earned back a fight at a time, and this one would be in front of the only
+man he had been trying to prove it to.
+
+He seated the cartridge, closed the cylinder with a soft click and holstered the revolver.
+
+"Understood, boss." Crisp and correct. Then, much quieter, almost to himself, as Tamsin
+turned away: "...I will not make it easy."
+
+---
+
+On lane two Nessa was prone behind the sandbag rest with the needle pistol braced and one
+eye shut, sighting at a paper man forty metres off. It was farther than her pistol liked,
+and the strain showed in the set of her wrist. She fired: a soft hiss, and the dart landed
+low and left. She muttered something extremely rude under her breath.
+
+She did not look round, but she knew he was there. She always knew.
+
+"Boss."
+
+"I buy you knives," said Tamsin, "and you're yet to find a living target with them... Are
+you scared you can't hit anything with them? I can take them back, if you'd like?"
+
+Nessa lowered the pistol very slowly. She rolled onto one elbow behind the sandbags and
+looked up at him with an expression of deep, weary patience.
+
+"Berth 31, boss." Flat and precise. "The upstairs hatch. The man coming up at Corvane's
+back while you were busy being heroic with your chainsword. One of the Sisters, right
+under the jaw." She held up one finger. "He lay down, and he didn't get up again. You were
+about four metres away."
+
+A pause. One eyebrow climbed.
+
+"And no. You can't have them back."
+
+Her hand went, without seeming to think about it, to the bandolier across her chest where
+the six wavy plasteel blades sat in their loops, and rested there. Then the dry voice
+sharpened and she sat up properly. She was being challenged, and Nessa never let that go.
+
+"Forty metres is a gun's distance. Give me ten and a mark, boss, and I'll put one through
+his eye."
+
+"Then show me here," said Tamsin. "Let's see if you can back it up." He stepped back.
+"This should be Lovely."
+
+At *Lovely*, Nessa stopped dead halfway to her feet. She turned her head and gave him a
+long, slow, murderous look.
+
+"Don't steal my word, Rook."
+
+Then she got up, walked down the side of her lane past the sandbags, and kept walking.
+Thirty metres. Twenty. She stopped about ten from the paper man, planted her feet and
+rolled her shoulders once.
+
+Her right hand went to the bandolier. She did not look down. One of the Sisters slid out
+of its loop, the wavy plasteel blade and black grip catching the lumen in a thin line of
+light. She did not wind up. She did not aim, not that anyone could see. Her arm moved
+once, short and flat from the shoulder.
+
+*Thock.*
+
+The Sister stood out of the paper man's face, buried to the guard in the crate behind it,
+right through his left eye.
+
+The range had gone quiet again. On lane one Corvane had stopped shooting to look. Mira had
+her mouth open.
+
+Nessa walked forward, pulled the knife out of the crate with a small wrench, wiped it once
+on her sleeve and slid it back into its loop. Then she walked back up the lane without
+hurrying and stopped in front of him.
+
+"Lovely."
+
+She said it flatly, taking her word back. Then she lay down behind her sandbags again,
+picked up the needle pistol and went back to her lane as if nothing had happened.
+
+"Hmm," said Tamsin. "Seems you've gotten good at throwing one. Now let me have three, and
+I'll show you something else."
+
+Nessa looked at him over the needle pistol for a long moment. Her face said she would
+rather hand him a kidney. Then she sighed through her nose, sat up and drew them one at a
+time from the bandolier. She did not toss them. She held each one out grip first, the
+blade laid flat along her own forearm, the way you would pass a scalpel. Three of the
+Sisters, wavy plasteel and black grips, balanced so finely they barely seemed to weigh
+anything.
+
+She did not let go of the third straight away. Her fingers stayed on the blade as she
+looked up at him.
+
+"You bring every one of them back." She let go. "Not a scratch, boss."
+
+Then she folded her arms and sat back on her heels to watch. On lane one Corvane had
+stopped shooting altogether. On lane three Mira had turned all the way round.
+
+"Move aside," said Tamsin. "Let me actually teach you something."
+
+Nessa shifted aside on her elbows with very bad grace.
+
+He walked down to her ten-metre mark. On the way the three Sisters moved in his right
+hand. His fingers worked them apart and laced them through, one between each knuckle,
+until three wavy plasteel blades jutted from his fist like claws. It took a couple of
+seconds, one-handed, the knives turning over his knuckles as if he had done it a thousand
+times.
+
+Behind him Nessa made a small, strangled sound.
+
+He let the hand hang at his side, claws down. Then he brought his arm up and across his
+chest, the blades fanned flat by his left shoulder, and set his feet. The whole range was
+watching. Corvane. Mira. Kell, arms folded at the end of the line. Teo had stopped
+pretending to count. The paper man waited ten metres off, his one remaining eye staring
+back.
+
+His arm uncoiled flat across his body. The three blades left his fingers together, a
+single whispering fan of plasteel.
+
+*Thock-thock-thock.*
+
+They landed in a tight horizontal row across the paper man's chest, left to right, barely
+two fingers apart, all three buried in the crate behind it with their black grips
+quivering in a neat line, like the bars of a gate.
+
+"In a barracks on Cadia, you try things and you learn," said Tamsin. "This is a trick I
+picked up. I've only ever tried it five times or so. Get fast at it... get good at it,
+even? And you'll be a nasty threat."
+
+For a moment nobody on the range said anything at all.
+
+Nessa was on her feet. She did not seem to remember getting up. She walked past him down
+the lane without a word, stopped in front of the crate and stared at the three grips. Then
+she pulled them out one at a time, slowly, and held each up to the lumen, turning it,
+checking the edge, the point, the wavy blade, the way a jeweller checks stones.
+
+Not a scratch. Not on any of them.
+
+She slid them back into their loops. Then she turned round and looked at him, and her face
+was doing something she clearly did not want it to: a reluctant, sideways, professional
+respect fighting its way out through the sarcasm. She had listened to every word. Then her
+coaching voice came out, the one she used on Tey and Tavi, crisp and impatient, and it was
+aimed at him.
+
+"Again." She held three of the Sisters back out to him, grips first. "Slower. And show me
+the fingers."
+
+Tamsin took the knives and stepped up, and talked while he did it.
+
+"So you basically just interlink them. If I drilled it, it would be faster. Using two
+hands is the easy method, but one hand makes you better." He showed her the finished claw.
+"Then honestly, you can throw it however. Horizontally, vertically. If I want to hit
+centre, or body, I go horizontal. If I want to hit upper or lower, I throw vertical."
+
+He made the motion, flat and then upright, but did not throw.
+
+"Then it's all about the release itself. You know that. You release early, you miss. You
+release late, you miss. This one is very different, since you're throwing three. You want
+to lead with the last one. So if I throw vertical, going down, I lead with the bottom one
+and release on that. If I throw horizontal, going left, I lead with the top one. You get
+what I'm saying?"
+
+Nessa watched his hands, not his face. Her eyes followed every finger as the blades slid
+through and locked, and her lips moved silently, filing it away. When he showed her the
+claw she leaned in close to see how the grips sat against his knuckles. When he made the
+throwing motion her own right hand twitched at her side, copying it without meaning to.
+
+At *lead with the last one*, she went still. He could see it land.
+
+"Lead with the trailing blade." She said it back like the last pin in a lock clicking
+over. "Flat for the body. Vertical for high or low. Lead with whatever's last off the
+hand, or the fan opens up behind it and they go everywhere."
+
+She frowned at his fingers again.
+
+"And the middle one. How does it not wobble? It's got a blade either side fighting it."
+
+He showed her: fingers spread even, the middle grip seated deeper, all three released off
+the same line. She nodded slowly, once. Then she held out her hand, palm up, flat and
+still and not asking twice.
+
+"My turn."
+
+Tamsin handed her the knives. "Try one of a thousand."
+
+She took them without a word and held them in her open palm. Then she laced them through
+her fingers, slowly, one at a time, her tongue between her teeth. The first sat right. The
+second slipped, and she reseated it. The third went in, and she spread her fingers the way
+he had shown her, testing the weight of the claw. It was slower than his, and clumsier,
+and she did not care.
+
+She walked to the ten-metre mark and set her feet. Her arm came up across her chest,
+blades fanned by her shoulder. She breathed out, and he could see her think it: *lead with
+the trailing blade.*
+
+She threw.
+
+*Thock... thock-thock.*
+
+All three hit, but not together. The first went in high on the paper man's shoulder. The
+middle one came in turning, slapped flat against the paper, then bit at an angle into the
+chest. The last went in low, down by the hip. Three hits a hand-span apart top to bottom:
+ragged, but in.
+
+Nessa stared at them. For a second something showed on her face that she had very clearly
+not authorised, a quick, bright, startled flash of delight. Then she shoved it straight
+back down and frowned at the spread with enormous disapproval.
+
+"Too wide." She marched down to pull them out, examining each edge as she went. "The
+middle one turned. My fingers weren't even." She came back up the lane already lacing them
+through her knuckles again, faster. "Again."
+
+She said it to herself.
+
+"Now throw it under pressure," said Tamsin. "And at twenty."
+
+She walked back to twenty metres, lacing the knives as she went, faster at it than a
+minute before. Twenty metres was twice as far as the Sisters liked to fly. She set her
+feet, and Tamsin's count started at her back, quick and hard, giving her no time to
+settle.
+
+She threw on the count.
+
+At ten metres the fan had held together. At twenty it opened. The three blades spread
+apart in the air, the gap widening with every metre. The first clipped the top edge of the
+crate and spun off with a sharp *tink*. The second struck the crate side-on and dropped.
+The third went low and skidded flat along the deck plates, stopping a metre short of the
+paper man's feet.
+
+None of them was anywhere near him.
+
+Nessa did not swear. That was how he knew how badly she had wanted it. She walked down the
+lane, picked up all three, and turned each over in the light: point, edge, the wavy line
+of the blade. Not a mark on any of them. She let out a breath. When she walked back to the
+twenty-metre line her jaw was set the way Tavi's had been on the mat. She was already
+lacing them through her fingers, fast and even now, and the middle one sat right first
+time.
+
+"Again."
+
+"Let's see."
+
+She threw on the breath this time, not on the count. The fan still opened, but less, the
+three blades flying closer together, wobbling, a ragged line instead of a spray. *Thock.
+Thock.* Two bit into the crate a hand's width off the edge of the paper man's shoulder,
+side by side, close enough that the paper fluttered. *Tink.* The third clipped the crate's
+bottom corner and dropped at his feet.
+
+Close. But close did not count.
+
+Nessa stood at the line looking at the two grips stuck in the bare wood just past the
+paper. Her head tilted a fraction. She was measuring the miss the way Isk had measured his
+low knee shot.
+
+"...Released late. Pulled them right."
+
+She walked down, wrenched them free and checked each edge again. No marks. On the way back
+up the lane she passed Corvane's sandbags, and he murmured something to her, too low to
+catch. She shot him a look and kept walking. At the twenty-metre line she laced the three
+blades through her knuckles, quick and even, the middle grip seated deep, and looked back
+at Tamsin over her shoulder.
+
+"Here is where you say thank you," said Tamsin, "and 'I'll get it down.'"
+
+She looked at him for a long moment with the three Sisters laced through her fingers. The
+sarcasm was trying to find a way out, and not quite managing it.
+
+"...Thank you, boss." Quiet and plain, with no edge on it at all. "I'll get it down."
+
+She turned back to the twenty-metre line before he could see her face do anything else. He
+had barely taken two steps when he heard it behind him, *thock... thock... tink*, then her
+boots going down the lane to fetch them, and the soft slide of blades being laced through
+fingers again.
+
+
+## Chapter 135: For the Medals
+
+On lane three Mira stood at the sandbag rest with her laspistol in a two-handed grip,
+firing fast pairs at her paper man. She was good: tight, clean, a pilot's quick hands. But
+every few pairs her eyes slid to the far bulkhead, where Teo was trying to rub out a
+mistake on the tally slate with his thumb, and her next pair went a little wide.
+
+She heard Tamsin come up behind her and lowered the pistol at once. "Sir." Clipped and
+formal, still a little guarded after the morning, but her eyes were curious.
+
+"Schematics, Mira. Schematics," said Tamsin. "And make sure there's a gun in the front.
+I'll need strafing runs from you constantly." Then: "Now, show me that if someone boards
+my Valk, they won't take it from you..."
+
+At *a gun in the front*, her guarded face simply opened.
+
+"A nose gun." She said it the way other people say a lover's name. "A forward gun for
+strafing. Constant runs, sir, aye. *Aye.* It's on the list. It's the *top* of the list..."
+
+Then *show me*, and the pilot snapped back into her face. She holstered the laspistol,
+turned and marched down the lane until she was three metres from the paper man, the width
+of a Valkyrie's crew bay. She stood side-on to it, hands loose at her sides, the way she
+would be twisted round in the pilot's seat if someone came through the hatch behind her.
+
+Then she moved: draw, twist, fire.
+
+*Crack.* Chest. *Crack.* Chest again, a hand from the first. The third came a hair too
+fast. Her wrist rolled on the recoil, and the bolt went wide past the paper man's ribs
+into the crate.
+
+She stood with the pistol still up, breathing hard, staring at the miss.
+
+"...Throne's teeth." She lowered the gun. "He'd still be on me, sir. Two in him, and a man
+in carapace keeps coming."
+
+She did not sound defensive. She sounded like a pilot reading a bad landing off the
+gauges.
+
+"Not bad," said Tamsin. "But I'd be harder on you if it was a strafing run."
+
+She turned to face him properly. The guardedness went out of her completely, and what was
+left was pilot's pride, sharp and bright.
+
+"Then give me a strafing run, sir." Her chin came up. "Give me a nose gun and a target,
+and be as hard as you like. I'll put it where you point."
+
+"Good."
+
+---
+
+He left the crack of the range behind and went down into the hold.
+
+The two containers stood open side by side, their doors swung wide. Ollin was between them
+with a stick of yellow chalk in one hand and Ferro's slate under his arm, moving from
+crate to crate, checking each against the list and marking the keepers with a big careful
+**X** on the lid. The tripod stubber's crate already had one. So did the crate by the
+hoist with the two hand flamers.
+
+He heard Tamsin's boots on the stair and turned, and the chalk nearly went flying again.
+
+"Boss!" He wiped his chalky hand on his trousers and left a yellow streak down the thigh.
+"Halfway through the X's. Nothing on Ferro's list leaves this hold."
+
+"I need black, white, gold and grey paint."
+
+Ollin did not even need to check his slate. "Paint shelf, container one, back on the left.
+Aye, boss."
+
+He was into the container and back inside a minute, his arms full, and set it all out on
+the lid of a crate in a neat row: a tin of black, the same deep ash black that was on
+Shameholder; a tin of white, the Cadian kind, with a smear of it dried down the side; a
+small, squat tin of gilt, so little left in it that it rattled faintly; and a tin of grey,
+the Light's own colour. Beside them he put a roll of fine brushes in oilcloth and a jar of
+thinner. Tamsin had not asked for those. Ollin had brought them anyway.
+
+He straightened and looked at the four tins, then at Tamsin, working it out.
+
+"...For the medals, boss?" Then, quickly: "The gold's low. Enough for small work, maybe.
+Not much more."
+
+"Good. Thank you."
+
+Tamsin carried them up to his cabin: four tins in the crook of his arm, the brush roll in
+his pocket, the jar of thinner in his hand. Through the deck came the far-off crack of the
+range, and from below, faintly, the low murmur of the cage. He set the tins on the desk in
+a row. It was about 1116.
+
+He slid open the bottom drawer. The medals lay where he had left them in their rows on the
+oilcloth, with the square one apart in its corner and the one empty space.
+
+He took out the first. It was Morcant's. Dace had cut it first, because Morcant would have
+been the loudest if it went wrong. A small plasteel disc, cool and heavier than it looked,
+about the width of two thumbs. The ring at the top was worn smooth where Dace had filed
+it. The emblem was cut deep into the face, a fortress wall with crenels along the top, the
+stones lined in with careful strokes. Below it, in tight square capitals, **MVH**, and
+below that, smaller, **For the Light.** All bare metal, the engraving catching the
+lamplight in thin bright lines.
+
+He cleared the desk to the edges, laid the oilcloth flat, and set them all out on it so he
+could do them together, each one square to the next, faces up to the lamp. The two
+bullets, Varga's **MVSH** and Isk's **SMVSH**. The two birds with their wings spread,
+Mira's **MVF** and Teo's **SMVF**. The two blades crossed with guns, Kell's **MVFW** and
+Corvane's **SMVFW**. The thick cross, Brenner's **SMVS**, and the empty space beside it
+where Sallow's **MVS** should have been. The fortress wall on its own. Nessa's hood over a
+knife, **MVA**. Isk's crosshair in a scope, **MVR**, his second. And set apart at the end
+of the cloth, the square one, a shield with a star in the middle and **LP** cut deeper and
+cleaner than any of the rest.
+
+Eleven pieces of bare plasteel, and *For the Light* cut along the bottom of every one.
+
+He started with the white: one thin coat over every face, the brush working into the
+engraving and out again. It was slow work, eleven small discs, the ring at the top of each
+one fiddly. When the last was done the whole cloth looked like a row of tiny moons. He
+left them to dry and washed the brush out in the thinner.
+
+Then the gold. He prised the lid off the squat tin, and Ollin had been right: there was
+barely a skin of it in the bottom. It would be just enough, if he scraped the tin. He
+worked it carefully with a fine brush, a little at a time. First the rims, a thin bright
+line round the edge of every disc and every side of the square. Then the emblems, down
+into the cuts: Morcant's wall, stone by stone. The two bullets. Nessa's hood and knife.
+The two birds, feather by feather...
+
+He was on the seventh, Brenner's thick cross, the gold catching in the deep lines, when
+the bead clicked in his ear.
+
+"*Boss.*" Brenner, crisp, on duty. "*Ordo courier on approach. Ident checks: Kesh's seal.
+Sister Aldwyn aboard. They're asking for berth 12, alongside us. Docking in about fifteen
+minutes.*" A pause. "*Do you want me to clear them in, sir?*"
+
+Seven medals were gold-lined on the cloth. Four still waited for their emblems: Kell's and
+Corvane's crossed blades, Isk's crosshair, and the square at the end. None of them had its
+grey or its black yet.
+
+It was about 1158.
+
+
+## Chapter 136: Returned Is Remembered
+
+"Yes," said Tamsin. "Clear them in."
+
+"*Clearing them in, sir. Berth 12, alongside.*"
+
+He set the brush across the thinner jar and left the medals where they lay on the cloth,
+seven gold and four still bare, the paint drying under the lamp.
+
+Then he kitted up, piece by piece, the way he had before every drop since Cadia. The
+carapace chest plate with Dace's riveted ceramite front went on over the flak, the straps
+cinched tight. The refractor field's housing clicked in at the small of his back and
+hummed awake. Shameholder went onto his back, Venn's brass key swinging from the pommel
+ring. Last Word on his right thigh, the strap over the hammer. The Stinger and its two
+full sticks. The combat knife. Three frags and a smoke on the webbing. The warrant on its
+chain went inside the plate, against his chest. The helm and its pict lens went under his
+arm.
+
+Vigil last. He checked the pack, sixteen, with two spares on the belt, and slung it.
+
+By the time he was done the deck under his boots had changed: a low shudder as another
+hull's clamps took hold alongside, and the long hiss of a docking seal mating.
+
+The bead clicked.
+
+"*Brother. Courier's on the clamps. Ollin's got the crate at the ramp, and Ferro's
+bringing the cold box up now.*" A pause. "*Do you want the Light at the ramp? Kitted, or
+as we are?*"
+
+It was about 1210.
+
+"Kitted. Everyone at the ramp, with the prisoners."
+
+"*You heard him,*" said Kell on the open channel. "*Kitted, at the ramp, now. Cage party,
+with me.*"
+
+By the time Tamsin reached the ramp the Light were already forming up in carapace and
+helms, weapons slung, in two rough lines down either side of its foot. Kell took the head
+of the left line. Varga had the right, Mercy across her chest. Morcant stood at the back
+with the stubber, beaming as if this were a parade.
+
+The 6th's three came up from the hold in chains, wrists and ankles, each in a rebreather
+mask Sallow had fitted and checked herself. She walked beside them with her own mask on
+and her hand near the Bag. The leg-shot trooper limped between Corvane and Sorel. The drum
+gunner walked heavily, saying nothing. The plague medic looked round at all of them with
+mild, pleasant interest, as if he were visiting. Thask, Ilsabet and the girl stayed below.
+They were going to Kesh with the Light.
+
+The sealed crate sat at the ramp's foot with the red seal across its seam. Beside it Ferro
+set down a small grey cold box, frost already furring its edges. Ollin stood by them both,
+very straight, trying not to look terrified.
+
+Across the narrow gap of the docking collar, the courier's hatch cycled open with a hiss.
+
+Sister Aldwyn stepped through. She was tall and older, grey at the temples, her power
+armour black and bone-white under a scarlet half-cape, the Inquisitor's rosette at her
+throat. Behind her came Sister Ivra with the heavy flamer, its pilot light a small blue
+tongue in the gloom, and four Ordo armsmen in grey flak with chains over their shoulders.
+
+Aldwyn stopped at the top of the ramp. Her eyes went once over the Light, down both lines,
+measuring. Then over the three chained men of the 6th. Then to the red seal on the crate.
+Then to Tamsin.
+
+Something in her severe face eased, very slightly.
+
+"Interrogator Rook." Her voice was dry and clipped, a soldier's voice. "The Inquisitor
+sends her regards. The Mart holds. She is pleased."
+
+A pause, exactly long enough to mean something.
+
+"Pleased is not a word she spends lightly."
+
+It was about 1214.
+
+"Good to see you too," said Tamsin. "Last time, I returned a bolter... Did I get a reply?
+Also, what have you been up to?"
+
+Aldwyn looked at him for a moment, as if deciding something. Then she reached into a pouch
+at her belt.
+
+"You did."
+
+She held it out on her armoured palm: a small token of polished bone-white, no bigger than
+a medal, on a plain black cord. A chevron was carved into its face, black on bone, the
+same mark that had been half scraped off that boltgun's stock. On the back, cut small and
+deep, were three words.
+
+*Returned is remembered.*
+
+"It came to the Rest eleven days ago, by their own courier. A Space Marine, Interrogator.
+He stood in the Inquisitor's hall for exactly as long as it took to hand that over, and he
+left."
+
+Her voice stayed dry, but she was watching him closely.
+
+"Show that to any Bone Warden, anywhere, and you'll be heard. A Chapter remembers who
+brings its dead home. Keep it close."
+
+She let him take it.
+
+At *what have you been up to*, the severe face did something that was almost amused.
+"Carrying the Inquisitor's prisoners. Burning what she points at."
+
+Behind her Sister Ivra spoke for the first time, flat. "And losing at cards."
+
+Aldwyn did not look round. "*Ivra.*"
+
+Then her eyes went past him to the three chained men, the sealed crate and the frosted
+cold box, and the amusement faded back into business.
+
+"Now. What have you got for her?"
+
+"A lot of evidence," said Tamsin. "And prisoners that might know where someone important
+is..."
+
+Aldwyn came down the ramp, three steps, her armour ringing on the plate. She stopped at
+the sealed crate first and bent to look at his mark in the red wax, the *I* and the skull,
+unbroken. She nodded once, short and approving. Then the cold box with frost on its edges.
+She did not open it. She knew what was in it from his reports.
+
+Then she turned to the three of the 6th.
+
+The drum gunner did not look at her. The leg-shot trooper dropped his eyes to the deck at
+once. The plague medic looked straight back at her through his rebreather mask, and the
+corners of his eyes creased. He was smiling at her.
+
+Behind Aldwyn, Ivra's heavy flamer gave a soft hiss. Its blue pilot light flared, then
+settled. Ivra did not otherwise move.
+
+Aldwyn's jaw tightened a fraction. Then she turned back to Tamsin, and at *someone
+important*, her voice dropped, low and private, for him and nobody else on the ramp.
+
+"Who, Interrogator?"
+
+"I don't believe I should say in the open, Sister," said Tamsin. "I can give you a brief
+inside?"
+
+Something in her face settled. It was not quite approval, but it was close.
+
+"Good." Quietly. "Not on the open ramp. Not on any channel. She'll like that."
+
+She turned her head without taking her eyes off him.
+
+"Ivra. The three, the crate and the box. Aboard. Their medic walks them over."
+
+"Sister."
+
+The four armsmen stepped forward with their chains. Sallow moved with them, one hand on
+the leg-shot trooper's elbow, keeping the masks on and the distance right. As the plague
+medic passed Aldwyn he inclined his head to her, very politely. She did not look at him.
+Ollin and Ferro carried the crate and the cold box up across the docking collar between
+them, very carefully, as if both might go off.
+
+Aldwyn turned back to Tamsin. "Your ship, Interrogator. Lead on."
+
+---
+
+He led her up the stair and along the corridor. Her armour was too wide for the *Bright
+Light*'s passages. She turned a shoulder at every hatch and did not complain once.
+
+The galley was empty, with everyone at the ramp. The long table still had breakfast's
+ghosts on it, a ring from a mug and a scatter of crumbs where Tavi had fallen asleep in
+his stew. The stew pot sat cooling on the hob. On the bulkhead by the hatch hung the board
+where the Light had pinned their weapon tags, empty now, the pins still in it.
+
+Aldwyn looked round once, the corners and the hatches, and pulled the hatch shut behind
+her. It closed with a solid clunk. She did not sit. She stood at the end of the table with
+her armoured hands resting on its edge, the scarlet half-cape hanging still.
+
+"Now, Interrogator." Low. Just the two of them and the hum of the ship.
+
+"Don't like my dinner table?" said Tamsin.
+
+The scar at the corner of her mouth pulled. It was the ghost of a smile he had seen once
+before, on Ustrennos.
+
+"I've stood at worse."
+
+She pulled out a bench and sat. Her armour creaked against the wood, and the bench groaned
+under the weight.
+
+"Well, here's the brief," said Tamsin.
+
+He told her all of it. The 6th behind everything. What the regiment had taken on the Mart,
+and why: the port. The grain seeded in Gallowmere's silos, and the jars on the Tender. The
+beds, ten a head, people taken off passing ships through bought customs. The girl, Maren,
+meant to be shipped to the garden-world before the Lamps. The green-sealed letters. And
+the name.
+
+She listened without interrupting once. Her face stayed still as stone through every word.
+Only her hands moved, flat on the table, the armoured fingers slowly closing.
+
+"So that's it," said Tamsin. "The 6th are behind it. And I believe they know where Wolfer
+is. If not, Thask definitely does."
+
+At *Wolfer* her hands stopped.
+
+For a long moment she said nothing. The ship hummed. Somewhere below, the courier's clamps
+creaked against the hull.
+
+"The Inquisitor knows that name." Very low. "So did some worlds that aren't there any
+more."
+
+She breathed out slowly through her nose.
+
+"You're right about Thask. He'll talk to her. Everyone does, eventually." Her eyes came
+back to his. "Bring him quickly, Interrogator. Him, the daughter and the girl. And the
+tenement..." A small pause. "...that she hears from you. Not from me."
+
+Then she sat back, the bench creaking again, and asked it exactly as she had asked it on
+Ustrennos, three weeks before.
+
+"Is there anything you need, Interrogator? Say it plainly. I'll carry it."
+
+It was about 1235.
+
+
+## Chapter 137: Shame Is Still Hungry
+
+"Not really," said Tamsin. "If anything, we should be the ones giving. We cleared a whole
+Mart of people. We're stacked... But that is funding for my team, for the Emperor's
+cause." Then: "A couple of things I want to ask. Have you talked to Varsa at all?"
+
+At *we're stacked*, Aldwyn's eyebrows lifted a fraction. It was the most surprise he had
+ever seen on her.
+
+"Spoils of war. Spend them well, Interrogator. On them." She tipped her head toward the
+hatch and the Light waiting below. "Not on yourself."
+
+Then *Varsa*, and her face changed, just slightly. Something almost fond touched the
+stone.
+
+"The *Lantern* put in at the Rest about a week ago. A day to resupply, then out again on
+the Inquisitor's business. Where to, I don't know, and I wouldn't tell you if I did." A
+pause. "He asked about you before he asked about anything else. Before his own orders. He
+read your reports from the Mart twice, standing in the corridor outside her door. I
+watched him do it."
+
+The ghost of the smile pulled at the scar again.
+
+"He gave me a message for you, if I saw you." She delivered it in a perfectly flat voice,
+exactly as given. "*Tell him he's still late.*"
+
+It was an old joke between them. Varsaine had always hated anyone being late. From a man
+who did not do warm words, it was as close to warm as he came.
+
+"Late I am..." said Tamsin.
+
+At that, the corner of Aldwyn's mouth moved. The scar pulled it into something close to a
+smile, and then it was gone. She set both gauntlets flat on the table, and the armour
+creaked.
+
+"He said you'd say that."
+
+"So, by my perception, I'd say you know of the 6th," said Tamsin. "Care to share?"
+
+She looked at the galley door. It was shut. She kept her voice low anyway.
+
+"Some. Not all. What I'm allowed." She paused. "The Moebian Sixth. Most of them were
+raised on Atoma Prime. They spent years in the Fringe War, out on the feral worlds at the
+edge of the Domain. Hive Tertium called them heroes."
+
+"Then they were sent home to put down a cult in Tertium. The Admonition. They didn't put
+it down. They joined it. How exactly, nobody agrees. What came back wasn't loyal. They
+hold that hive now, with the cult. Inquisitor Grendyl's people are fighting them there,
+floor by floor."
+
+She tapped one finger on the table, once.
+
+"Wolfer. They had him once, in chains on a prison transport. His men hit the transport and
+took him back. He's been loose since."
+
+"Here's the part that matters to you. Nobody in the Ordo expected the Sixth this far out.
+Not one report put them in this sector. If they're here, they've spread. And someone is
+feeding them ships. That's why she wants their name off every open channel. Whoever's
+feeding them is listening."
+
+She leaned back, and the bench groaned under her.
+
+"Anything past that is the Inquisitor's to tell, not mine."
+
+Through the deck came boots on the ramp and a crate scraping. Loading had started.
+
+"What else, Interrogator?"
+
+"Well, all we ever fight is cultists," said Tamsin, "because that's our department, and
+our job. But what about you? What have you fought?"
+
+Aldwyn looked at him for a long moment. Then she breathed out through her nose, which
+might have been a laugh.
+
+"Your department. Interrogator, I was burning cultists before you could hold a spoon. Your
+department was mine first."
+
+She turned one gauntlet over on the table, palm up, and counted off on the fingers.
+
+"Cultists. More than I kept count of. Witches. A mutant rising in an underhive, three
+weeks in the dark. Greenskins once." Her mouth twisted. "Loud. Very loud. Not clever."
+
+She stopped counting. The hand closed.
+
+"The worst was a forge moon. Caddis Reach. The tech-priests there turned. They traded the
+Machine God for something in the warp, and it answered." Her voice did not change. "They
+didn't come at us themselves. They walked their servitors at our line. Hundreds. Things
+that used to be men, still wearing their work tools. Drills. Saws. Cutters."
+
+She lifted her hand and drew one finger down the scar, from the brow, across the lip, to
+the jaw.
+
+"One got close. A cutter arm, the kind that cuts hull plate. It went through my helm like
+it was paper. I put my bolter in its chest and kept firing till it stopped. Then I kept
+going. We had a gate to hold." She lowered the hand. "The surgeon offered to make it
+pretty. I told him to fix my eye and leave the rest."
+
+"We burned the forge temple at the end. Every cogitator in it. The Mechanicus still won't
+say the moon's name."
+
+The scraping of crates came up through the deck again.
+
+"Cultists are cultists, Interrogator. Same rot, different coat. You learn one, you've
+learned them all." A pause. "Until the day you haven't."
+
+"Hmm," said Tamsin. "So if that's the worst, you've never gotten close to death? Because I
+sure as hell have." Then: "Also, I know you might not tell me, but did Kesh say anything
+about me? Or my team? Or just that one bit?"
+
+Aldwyn's eyebrow went up, the one the scar had not taken.
+
+"Never close? Interrogator, the cutter." She tapped her jaw just under the scar. "A finger
+lower and it takes my throat instead of my face. I lay in the gate with my helm in two
+pieces and my blood in my mouth, praying through it. Then I got up, because the servitors
+didn't stop for prayers. That's as close as I've been. Close enough."
+
+She looked at him, flat and steady.
+
+"And I know you have. I carried your reports to her. I read them on the way. Most men who
+write reports like yours end up as a line in someone else's." A pause. "Death doesn't
+frighten me. The Emperor wasn't done with me then. When He is, He'll say so."
+
+At the second question her face shut like a door.
+
+"She said what she said. She's pleased the Mart holds. She sends her regards. And the
+tenement. Past that, she didn't tell me. If she had, I wouldn't carry it to you without
+leave."
+
+The scarred corner of her mouth moved, just barely.
+
+"Ask her yourself. You'll be standing in front of her soon enough."
+
+Down the corridor someone called to Ferro about the cold box. Then quiet.
+
+"Anything else before I take your prisoners?"
+
+"Tell Varsa I said Shame is still hungry," said Tamsin.
+
+Aldwyn repeated it once under her breath, the way Sisters learn scripture: "Shame is still
+hungry." She did not ask what it meant.
+
+"Word for word. The *Lantern* comes back to the Rest in time. It'll be waiting for him
+when it does."
+
+Tamsin stood. "Thank you, Sister. The Emperor protects."
+
+A heartbeat later she stood too, ceramite grinding. Standing, she was half a head taller
+than him. She put her fist to the fleur on her breastplate.
+
+"He protects, Interrogator. He also expects."
+
+She looked him over once, plate, helm and Shameholder, the way a quartermaster checks a
+rifle she is about to sign out.
+
+"Bring her the three below in one piece. And the tenement. To her face."
+
+She picked up her bolter from where she had leaned it against the bench and went to the
+door. It hissed open, and the noise of the hold rolled in: chains rattling, Ivra laughing
+at something, and Ollin's voice, too high, saying, "Yes, Sister. No, Sister. The seal's
+right there, Sister."
+
+Her boots rang off down the corridor toward the ramp, and Tamsin was alone in the galley.
+It was about 1247.
+
+---
+
+He walked out to the ramp and watched them leave.
+
+The Light were still in a loose line along it, kitted, helms under their arms. Nobody was
+talking much. Sallow had her lascarbine across her chest and her eyes on the courier's
+open hatch, where the 6th's three had gone in.
+
+At the bottom of the ramp Ollin held his slate out to Aldwyn with both hands, like an
+offering.
+
+"Three prisoners, Sister. One crate, sealed. One cold box. That's... that's all of it.
+Sister."
+
+Aldwyn read every line. Then she pressed her signet to the slate, and it chimed.
+
+"Counted true, quartermaster."
+
+"Thank you, Sister." He stepped back so fast he nearly trod on Ferro.
+
+Ferro did not seem to notice. He was crouched by the cold box at the courier's hatch, one
+mechadendrite on its readout. "Holding at four below. The seal is good. It will stay cold
+for nine days."
+
+Aldwyn nodded to him. She did not look back at Tamsin. She did not need to. She walked up
+into the courier with her bolter on her shoulder.
+
+Sister Ivra went last. At the top of the hatch she turned, found Tavi in the line, and
+pointed two fingers at him, then at her own eyes. Tavi grinned and gave her a little wave.
+
+The hatch ground shut at about 1253.
+
+The docking clamps let go with a bang Tamsin felt through his boots. Warning lights turned
+amber along the berth. At about 1258 the courier lifted off berth 12 on its manoeuvring
+jets, a blunt black wedge with the Ordo's mark on its flank, and climbed toward the Spire
+to collect Captain Moll's prisoners.
+
+Brenner had a hand to his ear. "Courier's calling the Spire pad, boss. Pickup for Captain
+Moll's lot. Crale, Tegg, Old Wick, the Wardens, the pilot, the chemist. Then they're
+gone."
+
+The berth went quiet. The amber lights went back to white.
+
+Kell stepped up beside Tamsin, his eyes still on the courier as it shrank.
+
+"That's that, brother. Everyone's still kitted. What do you want them on?"
+
+
+## Chapter 138: Robbing You Politely
+
+"Let's go get our supplies," said Tamsin. "Then get to Kesh."
+
+Kell turned to the line. "You heard him. Kit off, stowed, void stations. Range rotation
+picks up after. Move."
+
+The line broke up: boots on the ramp, the clank of plate going back into lockers. Ollin
+was already off at a jog toward the hold, slate in hand.
+
+"Chalked crates stay, boss! Everything else is going to make us rich!"
+
+On the bridge Brenner raised the Mart's traffic office. "Mart traffic, *Bright Light*,
+departing berth twelve for Vashti's Rock." A pause. "Cleared, boss. And the Rock's
+answered. Docking collar two. Their words: 'Keep your guns cold.'"
+
+Mira dropped into the pilot's seat and cracked her knuckles. "Eight klicks. I could walk
+it, boss. Teo, clamps."
+
+"Clamps... clamps off. We're loose."
+
+At about 1312 the *Bright Light* slid off berth 12 on her thrusters. Through the viewport
+Torvane's Mart turned slowly away: the dock ring, the cranes, the vox mast on its ridge,
+and the black scar on the ring where the tenement had burned.
+
+Then the Rock came up out of the dark. It was small, a lump of stone perhaps a kilometre
+long, with turrets bolted along its spine, every one of them tracking the ship as it came
+in. A painted sign over the docking collars said **VOID EXCHANGE** in yellow letters as
+tall as a man, under a merchant's mark: a set of scales over a star.
+
+They docked at about 1332. The collar sealed with a thump, and Tamsin went down to the
+airlock.
+
+The outer door cycled open. Six armsmen in matching grey stood on the far side with combat
+shotguns held low, not pointed at anyone yet. In front of them stood a woman in a long,
+oil-dark coat with brass buttons, her grey hair pulled back tight. Her left hand was
+augmetic, steel fingers, and the right was heavy with rings. She looked at his rosette
+before she looked at his face, and nothing in her face moved.
+
+"Interrogator," said Mag Vashti. "I've had the Mart on fire across my bow for three days.
+No ships in, no ships out. Nobody buying."
+
+She folded her arms. The steel fingers tapped once against her sleeve.
+
+"So tell me now, before I open my doors. Did you come here to buy? Or to take?"
+
+"I apologise for my fighting on the Mart," said Tamsin. "I'm sure it caused business to
+be... hard. But I am here to do trading. That is all."
+
+She studied him for a long moment. Her face did not soften, but the steel fingers stopped
+tapping.
+
+"An Inquisition man who says sorry. That's a first on my rock." A pause. "Sorry doesn't
+fill a hold, Interrogator. Thrones do. But fine. You're a customer."
+
+She lifted her ringed hand without looking back. Behind her the six armsmen shifted their
+shotguns to their shoulders, muzzles up. One of them hit a stud on the wall, and the inner
+doors ground open.
+
+"My terms. Exchange prices. That's dear, and I won't pretend it isn't. Thrones or trade
+goods. No chits, no promissory notes, no Ordo paper. Nothing on my shelves gets
+'requisitioned in the Inquisitor's name.' Not today, not ever. And my people walk the
+floor with yours."
+
+Past her lay the depot: a long hall cut into the rock, lit by hanging lumens. Racks of las
+packs and stub rounds in tidy rows. Crates stencilled with a dozen forge marks. A rack of
+rifles behind wire mesh. Plasteel sheets standing on edge like cards. Near the back, a
+glass case of small things that glinted.
+
+Ollin was right behind Tamsin's shoulder with his slate held tight to his chest, staring
+past her at the shelves like a child in a sweet shop.
+
+"Throne, boss," he said, very quietly. "She's got *everything*."
+
+Mag's eyes went to Ollin, then back to Tamsin.
+
+"You've got two containers full of somebody else's war, I hear. I'll look at that myself."
+A pause. "So. Selling first, or buying?"
+
+"My quartermaster handles the business part," said Tamsin. "I just do the fighting."
+
+Mag's eyes slid to Ollin, and something close to interest showed in her face for the first
+time.
+
+"Then I'll talk to him."
+
+Ollin swallowed. Then he squared his shoulders and held up his slate. "Two containers,
+ma'am. Chalked crates stay. The rest's for sale. Come and look."
+
+---
+
+Mag walked the containers with four of her people and a slate of her own. She opened
+everything. She worked the action on every gun and ran a steel thumb down every
+chainsword's teeth. She held the sensor eye up to a lumen in its padded case for a long,
+quiet minute.
+
+Ollin argued every piece. Tamsin could hear him from the ramp. He did not win much, and
+she did not move. But she did not cheat him either. Every price she named was the same
+price, piece after piece, and her people stacked the goods onto loaders and rolled them
+off down the collar.
+
+What stayed was what Ollin had chalked: everything on Ferro's list, the Godwyn boltgun and
+its rounds, the Valk's promethium, the tool racks and the hoist, the protein, the chain
+axes for their motors, every explosive and every drug and stimm, and the two ripper guns
+from the Spire pad. He kept back two sets of lock-picks for Nessa. Nothing that had
+already been handed out on Tamsin's note went near a loader.
+
+At one point Ollin pulled two auspex rigs off a loader and put them back in a chalked
+crate.
+
+"Ferro wanted two for parts," he muttered to himself. "Why buy two when we've got two?"
+
+At about 1450 Mag tapped her slate and turned it so Ollin could read it. "It sits on my
+slate as credit, against what you buy."
+
+Ollin read it twice, lips moving. Then he came up the ramp to Tamsin, a little pale and
+very proud.
+
+"Didn't get a Throne off her, boss. She's a wall. But it's a fair wall. It's all on her
+slate, and the coin box ain't touched." He flipped his slate to the buy list. "Ferro's
+list, I've got. Then the extras. Plasteel's four hundred Thrones a sheet here. Rockets for
+the Valk: a pod of two Hellstrikes is four thousand. The pair of bolt-rocket pods is seven
+thousand." He looked up. "How much plasteel, boss? And which rockets?"
+
+Tamsin keyed the bead. "Ferro, Mira, Teo. Come here for a sec."
+
+Ferro was already there. He had been standing at the container mouth through the whole
+sale, his lens whirring every time a loader went past. "Interrogator."
+
+The bead clicked twice, and Mira's voice came over it, a little muffled, as if she were
+chewing. "*Coming, boss.*"
+
+"*That was* my *half...*" Teo, in the background.
+
+"*Was.*"
+
+Boots on the deck. Mira came round the corner first with half a ration bar in her hand,
+and Teo a step behind, looking robbed. Then Mira saw the hall past the airlock, the racks,
+the crates, the glass case glinting at the back, and stopped dead.
+
+"...Throne's teeth."
+
+"Oh, we're *shopping*," said Teo. "Boss. You should've led with that."
+
+"You both did your plans?" said Tamsin.
+
+Mira did not even blink. She tucked the ration bar into her flight vest, pulled her slate
+from her thigh pocket, thumbed it awake and held it out.
+
+"Done since the range, boss. Hardpoints are bare. Whoever had her on the *Gate Unbroken*
+stripped her." She tapped down the list as she talked, clipped, a pre-flight check. "One.
+Nose multi-laser, your ask. Pilot fires it, straight down the line of the run. Two.
+Rockets. Bolt-rocket pods. Six rockets, each one bursts into bolt rounds. What we fight
+comes in crowds, and that's what they're for. Hellstrikes are for tanks. Later."
+
+"Three. Plasteel on the cockpit and the engine cowls, four sheets. Somebody shot at me a
+lot this week." A pause. "Four. Heavy bolter door guns. That's 'later, if we're rich.'"
+She glanced past him at the hall full of shelves. "...Are we rich?"
+
+Teo had gone very still. He was grinning, but it was the wrong kind of grin.
+
+"So. Boss. Funny thing. Mine's... *conceptual.* Still up here." He tapped his temple.
+"Spine gun. Big one. For the ground. Missiles. Those turrets you said, the ones that shoot
+by themselves. It's all in there. It just hasn't come *out* yet." He leaned in and dropped
+his voice. "Don't tell Mira."
+
+"I'm standing right here," said Mira.
+
+Ferro was reading Mira's slate over Tamsin's shoulder, his lens whirring. "Her list fits
+the airframe. All four. I can mount them."
+
+"One job," said Tamsin to Teo. "One." Then: "Ferro, add Mira's into the mix, add it all
+up, and buy what we need." He turned to the airlock. "Mag, can I walk through and take a
+browse at your weapons, armour, explosives?"
+
+Teo opened his mouth with a joke ready. He looked at Tamsin's face, and the joke died.
+
+"...Yeah. One job." He rubbed the back of his neck. "Tonight, boss. On paper. Every gun.
+You'll have it before we jump."
+
+Mira did not say anything. She did not have to. She tucked her slate back in her pocket,
+very slowly.
+
+"Understood, Interrogator," said Ferro. "Mira's list, added. The door guns are 'later.' I
+will buy what we need."
+
+He took Ollin's slate, and his mechadendrites unfolded and began tapping figures. Ollin
+watched like a man watching someone else drive his groundcar.
+
+"The credit does not cover it. The rest comes from the coin box. Five items she does not
+have. She will send them to the Rest. The capacitor I will build myself. It is not
+difficult."
+
+"...He's good with numbers, boss," said Ollin quietly.
+
+Ferro bought what was on the shelf: the laser sights and holo sights and the pistol
+reflex, the stocks and grips and the hardwood blank, the extended packs, the darts Mag had
+in, two kraks for Tavi, Tey's second hellpistol, the Valk's nose multi-laser and two
+charge packs for it, and six sheets of plasteel, four for the Valk and two spare. What she
+did not have, she would send after them to the Rest by courier, already paid for: two
+tuned plasma cells, a repeater crystal, the widow and truth darts, and the bolt-rocket
+pods.
+
+---
+
+Mag waited at the inner door with two armsmen. She did not smile. She tipped her head at
+the hall.
+
+"Walk, Interrogator. Look. Touch nothing behind wire unless I open it."
+
+She walked half a step behind him down the aisles, the lumens buzzing overhead. "Guns
+along that wall. Explosives in the cage at the end. Armour..."
+
+She stopped beside a stack of carapace chest plates, scuffed, still smelling faintly of
+the Mart.
+
+"Armour, I bought off your quartermaster an hour ago. You're welcome to buy it back."
+
+Further along, behind the wire, a man-portable multi-laser sat on a rack of its own: grey
+Munitorum paint, a Lucius forge stamp, a price chit on its trigger guard.
+
+"Something catch your eye?"
+
+"Let me get one lever stub rifle," said Tamsin. "Two extended mags, three bandoliers, and
+two sheaths. What ammo do you have in stock?"
+
+Mag lifted a hand. An armsman took the lever rifle off the wall rack and worked the lever
+once, *clack-clack*, checked the tube and handed it to Tamsin stock first. The wood was
+dark and oiled, and the receiver was plain steel with no markings but a forge number.
+
+"Kasr Frontier. Farmers' gun. It doesn't jam, it doesn't care, it'll outlive you."
+
+The magazines, bandoliers and sheaths went into a canvas sack.
+
+"Two bandoliers. That's all I've got. You want a third, you wait for the next ship." She
+tapped it onto her slate. "A thousand. Off your box."
+
+At *ammo* she turned and walked him to the back wall without a word. Floor to ceiling:
+crates of las packs stacked like bricks, shell boxes in rows, stubber belts coiled in
+tins, and a locked cabinet with a few small grey boxes behind glass.
+
+"Packs, shells, stub, belts, bolt. Darts, if your woman with the needle pistol wants more.
+The good shells are in the cabinet: hellfire, Catachan mercury." She rapped the glass with
+a steel knuckle. "The special belts and the Astartes bolt, I don't keep. Too dear to sit
+on a shelf. I can order them." She turned back with her arms folded. "How much do you
+want?"
+
+"Two boxes of stub, two boxes of auto, two man-stopper belts, and one more multi-laser
+charge pack."
+
+Mag did not write anything down. She called it out, and an armsman pulled it as she went.
+
+"Stub, two. Auto, two. Man-stopper belts, two."
+
+The boxes thumped onto a hand-trolley. The belts came out of their tin coiled like snakes,
+fat brass rounds with hollow noses.
+
+"Those open up in meat. Carapace shrugs them, so don't waste them on anyone wearing
+plate."
+
+She took the last Valkyrie charge pack off its hook herself and weighed it in her steel
+hand for a second before she set it on the trolley.
+
+"That's my last one. Your pilot's going to be happy, and I'm going to be out." She tapped
+her slate. "Eighteen hundred. Off your box."
+
+The armsman rolled the trolley off toward the collar, where Ferro's buy was still going
+aboard crate by crate, with Ollin counting every one.
+
+"Anything else, Interrogator? Or are we done?"
+
+"Can I see the Columnus?"
+
+An armsman lifted one of the two Columnus rifles off its pegs, dropped the magazine,
+locked the bolt back, checked the chamber and handed it over. It was a mid-length rifle,
+all dark parkerised steel, matte so it would not catch the light. The stock was a folding
+wire frame with a rubber butt-cap, folded flat along the right side, and it snapped out
+straight with a flick. The handguard was short and ribbed, with a rail along the top. The
+front sight sat under a square hood, and the rear flipped up. An olive canvas sling hung
+off it, a bit faded. The curved magazine sat on the counter beside it, empty. On the left
+side above the grip was a three-position selector stamped with the forge's marks: one dot,
+three dots, a solid bar.
+
+The armsman tapped each one. "Single. Burst. Rock and roll."
+
+"Columnus," said Mag. "Guard issue. Half the sector carries one. Nothing pretty about it.
+It works wet, it works dirty, and it's cheap to feed." She glanced at the stub boxes on
+the trolley. "Same rounds you just bought."
+
+"Add it on," said Tamsin. "I'm feeling generous."
+
+Mag's mouth twitched. It was not a smile. It might have been the start of one.
+
+"Generous. On my rock that's a dangerous word." She tapped her slate. "Two hundred and
+fifty. Off your box."
+
+The armsman slung the Columnus over his shoulder and dropped it on the trolley with the
+rest.
+
+Mag opened the cabinet behind the ammo wall with a key on a chain round her neck. Inside,
+below the hellfire and mercury boxes, were rows of small stub and auto boxes, each with a
+coloured band painted across the lid: red, black, white, yellow, and a row of green.
+
+"Hollow points, red. Penetrators, black. Hot loads, white. Flat-noses for stub, yellow."
+She tapped a green box. "Ceramite-tipped, auto only. Tips only, so it's cheap enough to
+actually shoot." She left the cabinet open and looked at him. "Well?"
+
+"I'll take two boxes of each."
+
+Mag lifted an eyebrow. "Each. Both calibres."
+
+She did not wait for an answer. She pulled boxes two at a time and stacked them on the
+cabinet's shelf by colour: red, black, white and yellow for stub; red, black, white and
+green for auto. The armsman counted them onto a second trolley, sixteen in all.
+
+"Thirty-nine hundred." She tapped it onto her slate, and looked at the figure a second
+longer than she needed to. "You've spent more on my rock in an afternoon than the Mart has
+in a month." The steel fingers tapped once on the slate's edge. "I'll remember that,
+Interrogator."
+
+She locked the cabinet and dropped the key back inside her collar. Down the aisle, near
+the collar, Ollin was waving his slate over his head. Behind him the last of Ferro's
+crates were going aboard.
+
+"Anything else? Or have you finished robbing yourself?"
+
+Tamsin chuckled. "If anyone has robbed, it has been you."
+
+For the first time Mag Vashti laughed. It was short and dry, more breath than sound, but
+it was real.
+
+"Interrogator, I'm a Free Trader. Robbing you politely is the whole trade."
+
+She walked him back down the aisle toward the collar, her armsmen trailing. At the inner
+door she stopped, took a small brass token from her coat pocket and held it out. A string
+of numbers was stamped into one face, and the scales over a star into the other.
+
+"My vox code. Anywhere in real space, you call, I'll quote. You want something I don't
+carry, I'll find it." The steel fingers closed her coat again. "Customers who pay and
+don't shoot my armsmen are rare. I keep the rare ones."
+
+---
+
+At about 1515 the last trolley rolled up the *Bright Light*'s ramp. Ollin jogged over with
+his slate held up like a trophy.
+
+"All aboard, boss! Every crate. Matches her slate to the Throne. I checked twice." He
+lowered his voice. "Three times. The five on order go by courier. They'll meet us at the
+Rest."
+
+Through the hangar hatch Tamsin could see Mira kneeling on a crate beside the Valk with a
+Valkyrie charge pack in each arm, grinning at nothing. Ferro passed with the nose
+multi-laser on a loader, his lens fixed on it, binary murmuring under his grille.
+
+"The airframe will accept it, Interrogator. Two days to fit and bless."
+
+Brenner's voice came over the bead from the bridge. "*Boss, the Rock's asking if we're
+staying or going. Collar two's booked for a hauler at seventeen hundred.*"
+
+"I suppose we are going, for now," said Tamsin. "Kesh will need us."
+
+"*Copy, boss. Telling the Rock we're gone.*" A pause. "*Rock says, quote, 'Safe void. Come
+back richer.'*"
+
+Mag Vashti was still standing at her inner door with her armsmen. She lifted two steel
+fingers to her brow, the barest salute, as the *Bright Light*'s hatch ground shut between
+them.
+
+"Collar's released. Pushing off." Mira's hands were light on the controls, and she was
+still grinning from the hangar. "Teo, call the turrets."
+
+"Six turrets tracking us. Six turrets... still tracking us." A pause. "Five. Six. Okay,
+they really like us."
+
+The Rock drifted away under the viewport, its yellow sign shrinking. Beyond it the Mart
+turned slowly in the dark: the cranes, the vox mast, the dock ring with its burned scar.
+Then Mira brought the nose round, and both rocks slid out of sight.
+
+"Course laid for the jump point, boss. Five hours, give or take. Translation around
+twenty-thirty."
+
+"*The Geller field will be tested at nineteen hundred, Interrogator,*" said Ferro on the
+bead, from below. "*All three rites.*"
+
+Down in the hold, the last of the Ordo's prisoners sat locked below: Thask, Ilsabet, and
+the girl, Maren. Five hours to the jump, then five days to the Rest, and to standing in
+front of Kesh.
+
+Kell came up the bridge stair and stopped at Tamsin's shoulder.
+
+"We're off the Rock, brother. Five hours of nothing till the jump. Range rotation back
+on?"
+
+It was about 1520.
+
+
+## Chapter 139: The Rack, Not Your Back
+
+"Come with me to my room," said Tamsin. "I want to redo the training schedule. But yes,
+range rotation back on."
+
+Kell nodded once and touched his bead. "*Range rotation's back on. Tavi, Morcant, Tey,
+lanes. Now. Teo, send the tally slate down to Isk, you're flying.*" A pause. "*Hours I
+miss, I'll owe. Same as everyone.*"
+
+In the hold the trolleys were parked by container 2, half unloaded. The Columnus lay on
+top of the sack of bandoliers with its folded stock tight along its side, and the Kasr
+Frontier beside it, the oiled wood dark under the hold lumens. Tamsin took both. Down the
+hold the first shots cracked on the range, and Tavi's voice carried over them, already
+complaining about something.
+
+In the cabin the medals lay where he had left them, drying in their rows on the desk,
+seven emblems gilded and four not yet, no grey and no black. Kell stepped round them
+carefully and did not touch. He took the chair, sat forward with his forearms on his
+knees, and eyed the two new guns.
+
+"New toys." Then he looked up. "So. The schedule. What's changing, brother?"
+
+"Change Tavi to shooting, and demo and breach," said Tamsin. "Morcant, shooting only.
+Sallow, add on light range work. Nessa, add throwing practice. Mira on light shooting and
+intellect work. Same for Teo. Dace, add mat sword practice. Sorel, add shooting. Ferro,
+schematic work."
+
+Kell took out his slate and wrote as he talked. He did not interrupt. When it was done he
+read it back, low and flat, one line at a time.
+
+"Tavi, shooting and demo. Morcant, shooting, nothing else. Sallow keeps surgery, adds the
+range, light. Nessa keeps stealth, adds throwing. Mira and Teo, light shooting and book
+work. Dace adds the mat, swords. Sorel adds shooting. Ferro, schematics."
+
+He looked up.
+
+"Morcant'll be happy. He hates the carapace drill. Says it's just walking in a hot can." A
+pause. "Ferro won't say he's happy. He will be."
+
+He tapped the line with Dace's name on it.
+
+"One thing, brother. Dace is on the bench three weeks with Ferro, building all those
+sheets. Mat time comes out of that. Builds go a bit slower."
+
+He said it once and left it there, and squared the slate on his knee.
+
+"And the range debt still goes first for the eleven. Anything else before I post it?"
+
+"Nope, that's it. Post it." Then: "You see all the ammo I bought? Too bad you don't like
+auto or stub guns..."
+
+Kell tapped the slate twice. Somewhere below decks, every slate aboard chimed at once.
+
+"Posted."
+
+At the ammo he snorted quietly through his nose, the closest he came to a laugh.
+
+"Saw it. Two trolleys of it. Ollin nearly kissed the boxes." He leaned back, and the chair
+creaked. "Not that I don't like them, brother. Officer goes through what they bounce off.
+Why carry a gun that needs special bullets to do what mine does for free?" A pause. "But
+the coloured boxes are pretty."
+
+His eyes went to the Columnus and the Kasr Frontier, lying across the end of the bunk.
+
+"So who are those for?"
+
+"I was thinking," said Tamsin. "They get more shots off in a second than a las, so they're
+better in that aspect. But they lack punch with regular rounds. So maybe the Columnus as
+an off weapon, mostly for close quarters. And the Kasr with the hollow points or the hot
+loads, for long range, or when I want poor cultists down fast."
+
+Kell listened all the way through, rubbing his thumb along his jaw. When it was done he
+nodded slowly.
+
+"Thinking's right. They spit faster. Bounce off plate. The coloured boxes fix some of
+that."
+
+Then he leaned forward and counted on his fingers, the way he did a floor plan.
+
+"But look at you, brother. Vigil on the sling. Shameholder on your back. Last Word on your
+thigh. Stinger for close work, and that's what Stinger's *for*. Forty a stick." He held up
+the fifth finger and looked at the two rifles on the bunk. "Where's a third long gun ride?
+And a fourth? You'll clank like Morcant's kit bag."
+
+He said it once. Then he sat back, done arguing.
+
+"Your call. Both yours, then? Or does one of them go to somebody?"
+
+"No. It's an off weapon, not a secondary. I use it per mission, or when the mission calls
+for it."
+
+Kell blinked. Then the corner of his mouth went up.
+
+"Ah. The rack, not your back." He tapped two fingers against his temple. "Like Morcant's
+multi. Like Isk's long-las. Pick the tool for the job."
+
+He looked at the two rifles again, differently this time.
+
+"Close work, the Columnus. A crowd of cultists at a distance, the lever gun and the red
+boxes." A short nod. "That's sense. Forget I said anything."
+
+He stood and tucked his slate into his chest rig. Through the deck came Tavi's lasgun
+cracking, then Morcant's laugh, loud enough to come through two bulkheads.
+
+"Morcant's read the new plan."
+
+He stopped at the door with his hand on the frame. "Anything else, brother? Or I'll go put
+in my hour."
+
+"Get prepared. You owe me a match."
+
+Kell stopped. Slowly he turned round. He was not smiling, but his eyes were.
+
+"Wondered when you'd remember."
+
+He rolled his shoulders once, and something in his neck cracked.
+
+"Watched you take Tavi apart this morning. I'm not Tavi." He drew his combat knife from
+its sheath, turned it over once and slid it back. That was habit, not a threat. "Now,
+then. The mat. Training blades and chalk, same as his. Limb one, body or head two, first
+to two takes the round, first to five rounds wins." He tilted his head. "But I judged
+Tavi's. Can't judge my own. Who's calling it?"
+
+"Doesn't matter to me... You pick?"
+
+Kell did not even think about it.
+
+"Hollis. He's watched me fight for fifteen years. He'll call it straight even if it costs
+me." He touched his bead. "*Hollis. Mat. Bring the chalk. You're judging.*"
+
+"*...Reporting, Sergeant.*" A short pause on the channel. "*Should I bring Sallow too?*"
+
+"*Funny.*"
+
+
+## Chapter 140: New, Kell, New
+
+Word moved through the *Bright Light* faster than the bead did. By the time they reached
+the mat, the people off the lanes had drifted up to its edge: Varga with her arms folded,
+Corvane standing very straight, Nessa sitting cross-legged on a crate, Sallow leaning on a
+stanchion, Dace with forge soot still on his forearms, and Sorel beside him. Isk hovered
+at the top of the stair with the tally slate, trying to look as if he were not watching.
+
+Hollis chalked two training knives, dull grey blades with white-dusted edges, and handed
+one to each of them. Then he stepped back to the mat's edge.
+
+"Limb, one. Body or head, two. Two takes the round. Five rounds takes it." He looked at
+Kell, then at Tamsin. "Clean fight. Go when you're ready."
+
+Kell sank into his stance: low and square, his weight on the balls of his feet, the knife
+held reversed along his forearm and his off hand open and high. He did not bounce the way
+Tavi had. He did not move at all. He watched Tamsin's centre and waited.
+
+The range below cracked on. Nobody up here was listening to it. It was about 1543.
+
+Tamsin reversed his grip, widened his stance and got a little lower than before.
+
+Kell saw it, and something in his face sharpened. He knew that stance. It was his.
+
+He did not come in. He started to circle instead, slow flat-footed steps to Tamsin's left,
+toward his knife hand's blind side, keeping exactly the same distance, two long strides.
+Every time Tamsin adjusted, Kell adjusted. His blade stayed tucked along his forearm. His
+open hand drifted a little lower, then back up, testing whether Tamsin's eyes would follow
+it.
+
+The mat creaked under his weight. Nobody at the edge said a word.
+
+Then Nessa leaned toward Sallow and whispered, not quietly enough, "They're going to stand
+there till we hit the warp."
+
+"Quiet on the mat," said Hollis.
+
+Kell kept circling. Half a turn now. The lumen over the mat was behind his shoulder, then
+sliding toward Tamsin's eyes.
+
+Tamsin came off the back foot fast, closing the two strides in one, his arm going high.
+The chalked blade came down overhead at Kell's collarbone. Kell's eyes went up with it,
+and his open hand rose to meet the wrist. And halfway down the blade was not there any
+more. Tamsin snapped it back tight to his chest and drove it straight out, low, at the gap
+under the rising arm. It was an old trick.
+
+Kell's hand closed on air where the wrist was supposed to be. By the time his eyes came
+down, the chalked blade had already kissed him under the arm, a short sharp drive into the
+ribs, and was gone again.
+
+He stopped and looked down. A white smear ran across his grey undershirt, right where a
+real knife would have gone in between the ribs.
+
+"Body. Two. Round to the Interrogator."
+
+The edge of the mat broke. Varga whistled through her teeth. Nessa clapped twice, slow.
+Dace said "*Ha*," very loudly, then looked embarrassed about it.
+
+Kell rubbed the chalk with his thumb and looked up. The corner of his mouth twitched.
+
+"Saw the overhead. Knew it was a lie." He shook out his knife hand. "Went for it anyway.
+Old trick still works on old dogs."
+
+"Back to your marks."
+
+Kell walked back to his mark and sank low again. This time his blade came forward of his
+body instead of along his arm, and his off hand stayed low, guarding his ribs. He had
+learned.
+
+"Round two. Go."
+
+Tamsin came in at a walk. One step, two. Kell let him, blade forward, eyes on his chest.
+Then the last stride turned into a burst, and the knife swept out flat, wide and low.
+
+Kell got his blade arm across to cover. He was quick, but he was guarding the wrong thing.
+The chalked edge whipped in under the arm and across his stomach, and left a long white
+stripe.
+
+"Body. Two. Round to the Interrogator. Two-nil."
+
+The edge of the mat was louder now. Corvane said, very precisely, "Two, nil," as if he
+were writing it down. Sorel shook his head slowly, grinning.
+
+Kell breathed out, long and steady, his hands on his knees for a second. Then he
+straightened and looked at the chalk on his stomach and then at Tamsin.
+
+"...Throne. You're quicker than last time."
+
+He walked back to his mark, and on the way he flipped the training knife from reverse grip
+to forward, point out, like a man holding a short sword. When he dropped into his stance
+this time he was taller and more upright, his weight on the front foot. He did not look as
+if he meant to wait any more.
+
+"Round three. Go."
+
+Tamsin rolled the knife in his fingers from reverse to forward, point out, the same grip
+Kell was holding now. Kell's eyes flicked to his hand and back to his chest. Tamsin
+stepped in and cut down, quick and short, a flick from the shoulder at Kell's lead arm and
+collar.
+
+Kell was not under it. He rolled his front shoulder back, and the chalked edge whispered
+past his chest by a finger's width. His off hand flicked up and brushed Tamsin's forearm,
+just enough to carry the blade past him. It was a slip, not a counter. He was still right
+there, close, upright on that front foot, his point held out between them, waiting for the
+next one.
+
+Tamsin did not fight the miss. He let the cut carry him round, hips first, then shoulders,
+a full turn on the ball of his front foot. For a heartbeat his back was to Kell. Somebody
+at the edge of the mat sucked in a breath. Then the blade came back round the far side,
+flat and fast at chest height, a second cut chasing the first.
+
+Kell had read the first cut and slipped it. He never saw the second. When Tamsin's back
+turned he stepped in to take the gap, and that step put his chest right where the blade
+came round. The flat of the training knife slapped across him armpit to armpit and left a
+long white bar of chalk.
+
+"...Chest. Two. Round to the Interrogator." Hollis cleared his throat. "Three-nil."
+
+The edge of the mat went up like a cheer at a pit fight. Dace was on his feet. Varga was
+laughing outright. Corvane had one eyebrow raised so high it was nearly in his hair. From
+the stair Isk called down to the range, "*Three-nil!*" A second later Tavi's voice floated
+back up: "*Throne*, I'm glad it's not me!"
+
+Kell stood with his arms half out, looking down at the chalk bar across his chest. He
+shook his head slowly.
+
+"Turned your back on me." He sounded almost offended. "And I *walked into it*."
+
+He went back to his mark. He did not drop into a stance this time. He stood loose, both
+hands low, the knife hanging easy in his fingers, and rolled his neck one way and then the
+other.
+
+"Alright, brother. No more waiting." His eyes settled on Tamsin, flat and steady. "Come
+on, then."
+
+"Round four. Go."
+
+"No," said Tamsin. "You come on."
+
+He waited.
+
+Kell heard it, and something in his shoulders settled, like a man who had been given
+permission. He came. No feint, no circling. He crossed the mat in two long, low strides,
+faster than a man his size had any right to move. On the second stride his knife hand
+dropped and hooked in low and hard at Tamsin's lead thigh, the cut a real fighter uses to
+put a man on the deck, with his off hand already rising behind it to follow up high.
+
+Tamsin drew his leg back a hand's width and at the same moment leaned his whole body the
+other way, away from the line of the blade. The chalked edge hissed through empty air
+where his knee had been. Kell's weight was all on that cut, and it carried him half a step
+further than he meant. His follow-up hand was still rising, rising at nothing. For one
+heartbeat he was stretched out and open, knife arm across his own body, flank turned.
+
+Tamsin's blade went flat and fast at the side of his neck. Kell had no time to get the
+knife back. Instead he dropped, folding at the knees with his chin tucked into his chest,
+and the chalked edge passed over the top of his head so close it ruffled his hair. He came
+up already moving sideways, out of the line, his knife arm hauling back toward guard. He
+was not set yet. He was half a heartbeat from it.
+
+Tamsin let the missed cut pull him round again: hips, shoulders, a full spin on the ball
+of his foot, his back to Kell for a heartbeat. But this time the blade did not come round
+flat. He brought it in tight to his chest through the turn and came out of it point first,
+driving straight at Kell's breastbone.
+
+Kell's eyes went wide. He had seen the spin before. He knew what came out of it. He got
+his knife halfway back across his body, and halfway was not enough. The point landed dead
+centre on his breastbone, a hard, short punch that knocked him back a full step onto his
+heel.
+
+There was a perfect white chalk dot in the middle of his chest, right where his heart sat
+behind the bone.
+
+The mat went dead quiet for one breath.
+
+"...Heart. Two. Round to the Interrogator." Then, louder: "Four-nil."
+
+Then the noise hit: Dace roaring, Varga pounding the stanchion with her fist, Nessa
+whistling through two fingers. Sallow was shaking her head with her hand over her mouth.
+Corvane said something that sounded like "*exquisite*," very softly. Isk shouted it down
+to the range again, and this time the whole range shouted back.
+
+Kell looked down at the dot on his chest for a long moment. Then he laughed, short and
+rough and real.
+
+"Twice. The same spin. *Twice*." He pointed his knife at Tamsin. "Next time you turn your
+back on me, I'm stabbing it."
+
+He walked back to his mark, still shaking his head, and settled in low, knife forward.
+This time he was grinning.
+
+"One more. Make me earn it."
+
+"Round five. Go."
+
+"Show me something new, Kell!" said Tamsin, and waited for him to come.
+
+Kell grinned at *something new*. He did not answer. He just came.
+
+This time he stamped. His lead foot slammed the mat with a bang like a dropped crate, loud
+enough to make Nessa flinch on her crate. In the same instant his empty hand snapped up at
+Tamsin's face, fingers loose, flicking at his eyes. It was not a strike. It was a
+distraction, something sudden and close to make a man blink and pull his head back.
+Underneath it, low, where the eyes were not, his knife was already coming in, a short
+rising thrust at the belly tucked tight behind his hip.
+
+Tamsin did not blink. His hips turned instead, and he slipped past it, just. The thrust
+came in under the flicking hand, and he was not in front of it any more. It was close
+enough that the chalked edge brushed the cloth of his shirt as it went past. There was no
+chalk on him, only a whisper of white dust in the air where it had grazed.
+
+Kell's thrust had nothing to stop it. It carried his knife arm out past Tamsin's hip, and
+the stamp had planted him heavy and square. He could not get back from that quickly. His
+whole side was open, ribs to neck.
+
+At the edge of the mat somebody whispered, "...*Oh*."
+
+Tamsin backed up and made space, giving up the hit.
+
+"New, Kell. New."
+
+Kell watched him back off and give up the opening. For a second he looked almost insulted.
+Then the grin came back, slower and wider.
+
+"New. Right."
+
+He came in square, knife low and forward in his right hand, where it had been all fight.
+Tamsin's eyes were on it. Everyone's eyes were on it.
+
+Halfway through his step, the knife went behind his back.
+
+It was there and then it was not, swallowed behind his hip. His right hand came back round
+empty and open, reaching for Tamsin's knife wrist. And from the *other* side, out from
+behind his left hip, the blade came in reversed in his left hand: a short, ugly stab round
+the outside of Tamsin's guard, in under the arm, low on the left side where the kidney
+sits.
+
+Tamsin felt the dull point thump home before he had even found the knife again.
+
+A pause. Then a white chalk mark, low on his back, left side.
+
+"...Kidney," said Hollis, after a moment, in disbelief. "Two. Round to the Sergeant." He
+checked his slate. "Four-one."
+
+The edge of the mat exploded. Morcant had come up the stair from the range and was
+bellowing "*SARGE!*" Tavi was right behind him with his hands on his head. Varga was
+laughing so hard she had to hold the stanchion.
+
+Kell stepped back and flipped the knife from his left hand to his right, breathing hard
+and grinning like a man half his age.
+
+"Hand switch. Old storm trooper trick. Never had a reason to show you." He settled back
+onto his mark. "You asked."
+
+"Round six. Go."
+
+"Good one," said Tamsin, and waited for him again.
+
+Kell nodded once. He looked pleased in a way he was trying not to show.
+
+He came in the same as last time, square, the knife low and forward in his right hand.
+Halfway through the step his right hand swung back behind his hip again, and Tamsin's eyes
+went to his left side, waiting for the blade to come out of it.
+
+His left hand came round empty.
+
+The knife had never left his right hand. It snapped back out from behind his hip on the
+same side it had gone in, a straight, fast thrust at the centre of Tamsin's chest while he
+was looking at the wrong hand.
+
+Instead of backing off, Tamsin stepped *into* it.
+
+His off hand came up and met Kell's forearm just behind the wrist. No grab and no block.
+He guided it, a firm push that carried the point past his ribs and out wide, off his body.
+Kell's momentum did the rest. He was driving forward into a thrust that was going nowhere,
+and Tamsin was right there inside it, chest to chest with him, Kell's knife arm out past
+his side and his blade pointing at nothing.
+
+Kell's eyes met his from a hand's width away. He knew exactly where he was.
+
+Tamsin's knife hand came up short and tight between them, no swing and no wind-up, and
+drove the dull point into his ribs, right under the arm he was holding off. It was a punch
+more than a stab.
+
+Kell grunted. He did not try to twist away. He knew there was nowhere to go. A white chalk
+smudge sat on his ribs, under Tamsin's hand.
+
+"Ribs. Two." Hollis took a breath. "Round, and the bout, to the Interrogator. Five-one."
+
+The mat erupted. Morcant lifted Tavi clean off the deck in a bear hug for no reason at
+all. Dace and Sorel were pounding each other's backs. Nessa was standing on her crate,
+whistling. Varga shouted "*Pay up!*" at Corvane, who sighed and handed her a single Throne
+without a word. From the range below somebody fired a celebratory las bolt into the
+backstop, and Isk yelled, "*That counts toward your hours, Brenner!*"
+
+Kell stepped back and looked down at himself: chalk on his ribs, his chest, his stomach,
+under his arm. He was covered in white, like a man who had been through a flour sack. He
+dropped the training knife point down into the mat and held out his hand, open.
+
+"Debt's paid, brother." His grip was hard and dry. "Next time you get shot, I'm telling
+Sallow to leave the bullet in."
+
+He let go and tapped the chalk dot on his breastbone, the one from the spin, almost
+fondly.
+
+"And I'm learning that turn."
+
+"Good match, brother," said Tamsin.
+
+Kell's hand found his again, and they did it the way they always did: the grip, the pull,
+the knock of shoulders. Nobody else on the ship shook like that. A few of them at the edge
+of the mat noticed and pretended they had not.
+
+"Good match, brother."
+
+Tamsin stepped off the mat. The crowd began to break up the way crowds do after a good
+fight, slowly, still talking about it. Hollis collected the training knives, wiped the
+chalk off on a rag and put them back in their box. He went past Tamsin with a small nod.
+From him, that was a speech.
+
+Morcant shoved Tavi back toward the stair. "Lanes, lad! The boss's fight doesn't count
+toward your hours!"
+
+"It *should*."
+
+Kell slapped the chalk off his shirt in a white cloud and headed down after them to put in
+his hour. On the way past Isk he said something low, and Isk marked it on the tally slate.
+
+Nessa hopped down off her crate and passed close. "The spin," she said quietly. "I want
+that one too."
+
+Then she was gone.
+
+The mat was empty, a few smudges of chalk on the canvas. Through the deck the range was
+cracking again in its steady rhythm, with the engines humming under it. The *Bright Light*
+was running out toward the jump point. It was coming up on 1600.
+
+
+## Chapter 141: Don't Swear on My Valk
+
+Tamsin went to his cabin to finish the medals.
+
+They lay where he had left them on the desk, in their rows. The white base was hard and
+dry now, and the gold rims caught the lumen. And at the end of the cloth, wrapped in an
+oily rag, Dace had left Sallow's.
+
+Tamsin unwrapped it. It was the third try: the two cracked blanks melted down into one and
+recut, the thick cross clean and deep in the centre, **MVS** below it, *For the Light*
+under that. The edge was a hair thicker than the others where two broken blanks had become
+one, but the face was smooth. It was whole. He set it in the gap beside Brenner's, where
+it belonged, and gave it its coat of white.
+
+Then he opened the gold again. Four emblems were still bare white. Kell's blade and gun
+crossing, and Corvane's, mirrored from the other side so that the pair faced each other.
+Isk's crosshair in its scope ring: a thin circle, a fine cross, a tiny dot at the heart.
+Then the star on the LP shield. He went slowly round its five points until the gold sat
+flat and bright in the engraving. When Sallow's white had dried he ran the gold round its
+rim and down into its cross, scraping the last of the tin to do it.
+
+At about 1625 he switched to the fine brush and the grey.
+
+*For the Light*, twelve times. The letters were small, cut shallow under each title, and
+the brush had to follow the engraving exactly or the grey bled onto the white. He held his
+breath through the curve of every *g*. He did Morcant's first, the fortress wall, then
+Kell's, then Varga's, one after another down the row. By the eighth his hand had found the
+rhythm.
+
+At about 1700, the black.
+
+The titles sat right under the emblems, bold and blocky: **MVH**, **MVFW**, **SMVFW**,
+**MVSH**, **SMVSH**, **MVS**, **SMVS**, **MVR**, **MVA**, **MVF**, **SMVF**. On the
+square, just two letters inside the shield under the gold star: **LP**. The black was the
+easiest to see and the least forgiving. One shaky stroke and there was nowhere to hide it.
+He took it slow.
+
+Somewhere around Brenner's the range went quiet below, then started again as the hour
+turned over. Kell's voice on the bead called the next three onto the lanes.
+
+At about 1735 he was done. He sat back. Twelve medals lay on the desk, wet paint shining
+under the lumen. White fields, gold rims, gold emblems, the grey line of *For the Light*,
+and the black titles beneath. On the LP square the gold star sat in the middle of its
+shield, bright as a fresh coin. At the end of Brenner's pair, Sallow's cross sat gold on
+white, and you would only see the thicker edge if you knew to look.
+
+He propped them up to dry on the shelf above his bunk, each one leaning on its ring so
+that the wet faces touched nothing. Twelve in a row, catching the light.
+
+---
+
+He took the paint back to the hold.
+
+Ollin was knee-deep in Vashti crates with Oda and Pruitt, the two dockers he had hired off
+the Mart. Pruitt read the stencils aloud and Oda hauled, while Ollin ticked things off on
+his slate with his tongue between his teeth. He saw the tins in Tamsin's hands and
+brightened.
+
+"Boss! They done?" He took the tins and checked the lids were tight, the way he checked
+everything. "Gold's nearly out. Grey and black, plenty. Logged back in." He set them on a
+shelf, then hesitated. "...Can I see them? After? When they're dry?"
+
+---
+
+The bridge was dim and quiet, lit by the soft green of the augur screens and the slow
+wheel of the stars ahead. The engines were a low, steady thrum through the deck.
+
+Mira had the controls, sitting easy with one hand resting on the yoke, her eyes moving
+between the viewport and the nav plot.
+
+"Boss on the bridge."
+
+Teo was in the second seat with a slate on his knee, scribbling. When he heard Tamsin he
+flipped it face down so fast he nearly dropped it, and looked at the ceiling like a man
+with nothing to hide.
+
+"Boss. Nice day for it."
+
+Brenner sat at the vox station with one ear cup on and one off, and gave a small nod. On
+the nav plot a small amber marker blinked: the jump point. The numbers beside it counted
+down quietly. Two hours and forty-four minutes. It was about 1745.
+
+Tamsin settled in to wait. The bridge was quiet in the way only a ship running clean can
+be quiet: Mira's small corrections on the yoke, the tick of the augur, Brenner murmuring
+the odd acknowledgement into the vox. Through the viewport the stars barely moved. Below
+decks the range kept time, three lanes cracking, a pause, three more. On the hour Kell's
+voice came over the bead, flat and steady, calling the next names.
+
+At 1900 the lumens dimmed for a moment, then steadied. Through the deck the hum shifted
+and rose as the Geller field woke for its test.
+
+"*First rite,*" said Ferro on the bead, binary murmuring behind his words. "*Second.
+Third. The field is whole, Interrogator. It holds.*"
+
+By 2000 Teo had been scribbling, rubbing out and scribbling again for two hours. At last
+he let out a long breath and turned round in his seat. The slate was half full: lines,
+little sketches of guns, a column of numbers with question marks beside most of them.
+
+"So. Boss. About 'before we jump.'" He winced. "It's half. The good half. After the jump,
+tonight, I swear on the Valk."
+
+"Don't swear on my Valk," said Mira, without looking round.
+
+At 2025 the amber marker on the nav plot turned red.
+
+"*All hands,*" said Brenner, ship-wide. "*Translation in five. Shutters coming down. Find
+something to hold on to.*"
+
+The armoured shutters ground down over the viewport and closed out the stars. The bridge
+went dimmer, lit only by the screens. Mira's hands settled on the yoke.
+
+"Point in sight. Engines to full. Here we go."
+
+At 2030 the *Bright Light* translated.
+
+It never felt the same twice. A pressure behind the eyes, like a dive into deep water. A
+sound that was not a sound, a long low groan that came from everywhere at once. For one
+stretched heartbeat the bridge seemed to tilt the wrong way, and the screens showed
+colours that had no names. Then the Geller field's hum swelled round them, steady and
+thick, and the world settled back into its proper shape.
+
+The engines changed their note to the deep, slow pulse of the warp.
+
+Mira let out a breath. "...We're in. Clean."
+
+"Five days of nothing but purple." Teo stretched. "Love it."
+
+The *Bright Light* ran on through the warp toward the Rest, and Kesh, and whatever came
+after. It was half past twenty hundred, and the evening was Tamsin's.
+
+
+## Chapter 142: Only the Best
+
+The cabin was quiet except for the deep, slow pulse of the warp engines through the
+bulkhead. The medals sat on the shelf above the bunk where he had left them, leaning on
+their rings in a neat row.
+
+He took down the first, Morcant's, and ran his thumb lightly across the face. It was dry.
+The paint was hard and smooth, with no tack and nothing coming off on his skin. He tilted
+it to the lumen. The gold of the fortress wall and its crenels caught the light, *For the
+Light* sat crisp and grey beneath it, and **MVH** was bold and black.
+
+He checked them one by one. Kell's and Corvane's, the blade and the gun crossing, mirrored
+so that the pair faced each other. Varga's and Isk's bullets, point up. Sallow's and
+Brenner's thick crosses. Isk's crosshair, the fine gold lines unbroken. Nessa's hood over
+the knife. Mira's and Teo's birds, wings swept back. All dry, and not a single run in the
+lettering. Last, the square, with the gold star in its shield and **LP** in black beneath
+it. It was heavier in his hand than the round ones, its corners cut a little rough where
+Dace had worked it from the offcuts.
+
+Twelve medals, ready. It was about 2035.
+
+He keyed the bead.
+
+"Kell, Corv, Varga, Isk, Brenner, Nessa, Mira and Teo, Sallow... my office."
+
+The channel was quiet for half a second. Then the answers came in, overlapping.
+
+"*Coming, brother.*"
+
+"*On my way, sir.*"
+
+"*Both of us?*" said Mira. "*...Teo, what did you* do."
+
+"*Nothing! I'm* working *on it!*"
+
+"*...Again?*" said Nessa.
+
+Out in the corridor the boots and voices came closer: Kell's low rumble, Varga laughing at
+something, Corvane's precise steps, Isk saying almost nothing, Brenner's polite murmur,
+Nessa silent as always. Mira and Teo were still arguing.
+
+"...I'm *telling* you, it's not about the plan, he'd have said..."
+
+"He said *both of us*, Teo."
+
+"If anybody's bleeding," said Sallow, dry, "I didn't bring my bag."
+
+They stopped outside the door. There was a short shuffle while they worked out who went
+first. Then two knocks. Kell's.
+
+"Brother. We're here."
+
+"Come in," said Tamsin. "Find somewhere to stand."
+
+The door opened and the cabin began to fill.
+
+Kell came first and went straight to the far bulkhead, arms folded, the way he stood at a
+briefing. Varga followed and took the corner by the desk, still grinning from whatever she
+had been laughing at. Corvane stepped in and stopped just inside the door, very straight,
+his hands clasped behind his back. Isk slid along the wall to the end of the bunk and made
+himself narrow. Brenner edged in with a polite "Sir," and ended up wedged beside the desk.
+
+Nessa did not use the floor at all. She hopped up onto the coin box in the corner and sat
+cross-legged on it as if she owned it.
+
+Sallow came in shaking her head, hands empty. "Nobody's bleeding. Good. I'm off duty." She
+leaned on the door frame, since there was nowhere left to lean.
+
+Mira and Teo came last and had to squeeze. Mira took the only chair without asking. Teo
+was left standing in the middle of the cabin with nowhere to go, his half-done slate
+tucked under his arm like a shield.
+
+"Boss, before you say anything, about the plan, I..."
+
+Then his eyes, which never missed anything, went past Tamsin to the shelf above the bunk.
+To the twelve small white discs with gold rims, propped on their rings and catching the
+lumen.
+
+He stopped talking.
+
+Mira followed his eyes. So did Varga. Then Isk. One by one the cabin went quiet as people
+found the shelf. Nobody said a word. Nine people crammed into a cabin built for one, all
+looking at Tamsin.
+
+"ATTENTION."
+
+He said it in his officer's voice, and the word cracked off the bulkheads like a shot.
+
+They moved all at once, every one of them, the way the Guard beats it into people. Kell's
+arms dropped from their fold and his heels came together with a thud, chin up, eyes front.
+Varga was half a moment behind him and just as straight, the grin gone from her face as if
+it had never been there. Isk snapped flat to the wall. Brenner's back went rigid against
+the desk, his hands at the seams of his trousers.
+
+Corvane had already been standing straight. Somehow he got straighter. His heels met with
+a precise little click, and his eyes fixed on a point a hand's width above Tamsin's head,
+the way an officers' school teaches it.
+
+Mira was out of the chair and on her feet in one motion. Navy drill does not leave you,
+even after they throw you out. She stood stiff as a rod. The chair skidded back and bumped
+Brenner's knee, and he did not flinch.
+
+Nessa dropped off the coin box onto her feet. Her stance was a little too loose and her
+hands did not quite know where to go, but her chin was up and her eyes were front. Sallow
+straightened off the door frame, not a parade-ground soldier, but steady and still.
+
+Teo was last. He nearly dropped the slate, caught it, jammed it under his arm and drew
+himself up, a moment late and a little crooked. He was trying very hard.
+
+Then nothing. Nine people at attention, shoulder to shoulder, nobody breathing loudly. The
+only sound was the slow pulse of the warp engines through the deck. Every eye was front,
+but Tamsin could feel all of them still aware of the shelf behind him.
+
+He turned to the shelf and took the medals down one at a time, holding them in his palm.
+They were cool and smooth and heavy for their size, and the gold rims chimed softly when
+they touched.
+
+Kell's was on top: the blade and the gun crossing in gold, **MVFW** in black, *For the
+Light* in grey beneath it.
+
+He turned back and stepped to the far bulkhead. Kell stood at attention, chin up, eyes
+fixed on the wall over Tamsin's shoulder, exactly as regulations demand. He did not look
+down. He did not have to. He could see the white and gold at the edge of his sight, and
+his jaw went very tight.
+
+Tamsin pressed the medal into his hand.
+
+"You earned this, brother. Keep up the good work."
+
+For a moment Kell stayed exactly as he was, at attention, eyes on the wall. Then his
+fingers closed round it. His throat moved once.
+
+"...Thank you, brother." Low.
+
+That was all. He did not look at it, not yet. He held it tight against his side in a
+closed fist and kept his eyes front. But the muscles in his jaw were working, and his eyes
+had gone bright in a way Kell's eyes never went. Beside him Varga swallowed hard and
+stared fixedly at the far wall.
+
+Tamsin stepped to the door, where Corvane stood at attention, straighter than any of them,
+his eyes a hand's width over Tamsin's head. The same blade and gun crossing as Kell's,
+mirrored, so that the two medals faced each other. **SMVFW** in black beneath it. Corvane
+did not move a muscle, but his breathing had gone very shallow and very careful, like a
+man trying not to disturb something fragile.
+
+"Good work," said Tamsin. "You earned this."
+
+Corvane took the medal the way he would take a sword from a superior officer: both hands,
+palms up, with a short, precise bow of the head as it touched his skin.
+
+Then he looked down at it. Just for a second, against every rule of attention he had ever
+been taught. He looked at the blade and the gun, and then across the cabin at Kell's
+closed fist, holding its mirror. When he spoke it was very quietly.
+
+"Thank you, boss. I did not..." He stopped and started again. "I did not expect to be
+given anything. Ever again." His hands closed round the disc. "Thank you."
+
+He lifted his eyes back to the point above Tamsin's head and stood straight. But his hands
+stayed cupped together in front of him round the medal, as if it might fly away. On the
+coin-box side of the cabin Nessa had gone very still. Sallow blinked rapidly at the
+ceiling.
+
+Varga was in the corner by the desk, at attention, her face as flat and dry as the Schola
+had taught her to keep it. Tamsin stopped in front of her and held out a single gold
+bullet, point up, on white. **MVSH** in black beneath it.
+
+She took it in her left hand. Of course it was her left.
+
+"Good work," said Tamsin. "I'm proud of you."
+
+Something happened to her face. It was small. Most people would not have seen it. Her
+mouth stayed flat and her chin stayed up, but her eyes dropped to the medal and stayed
+there a second too long. When they came back up they were wet at the edges.
+
+"...Nobody's said that to me before, boss." Very low.
+
+The cabin was so quiet Tamsin could hear Isk swallow.
+
+Then she blinked hard, twice, and the dry voice came back, a little rough round the edges.
+
+"Don't make it a habit. I'll get soft."
+
+She closed her fist round the bullet and held it against her chest, right over her heart,
+and stared at the far wall as if daring it to say something.
+
+Isk was pressed flat against the wall at the end of the bunk, as narrow as he could make
+himself. He had watched it go round the room without moving his eyes once. Tamsin stopped
+in front of him with two medals in his palm. One was the bullet, the same as Varga's, gold
+on white, **SMVSH** beneath it. The other was the crosshair in its scope ring, a fine gold
+circle, a thin cross, a tiny dot at the heart. **MVR**. Tamsin had held his breath
+painting those lines.
+
+Isk saw two discs instead of one. Something flickered across his face, confusion first and
+then something he could not quite hide, and he went very still. Even his breathing slowed,
+the way it did on the long-las just before he squeezed.
+
+Tamsin handed him both. "You earned both of these. Keep it up."
+
+Isk took them carefully, one in each hand, as if they were live rounds. He looked from the
+bullet to the crosshair and back. His right hand went up, still holding the crosshair, and
+touched the prayer token at his collar, the way it always did when he was thinking. His
+lips moved without sound for a second. A short prayer, whatever it was.
+
+"Thank you, sir." Low and calm, like a report on the bead. "I'll keep them both clean."
+
+Then, very slowly, without moving his head, his eyes slid sideways across the cabin to
+Varga in the corner, to the single bullet clenched against her chest.
+
+"...Two." Barely audible.
+
+"Don't," said Varga, eyes front, not moving her lips.
+
+Somebody at the back of the cabin, probably Teo, made a sound like a strangled laugh and
+turned it into a cough. Kell's eyes stayed on the wall. The corner of his mouth did not.
+
+Isk went back to attention with both medals held flat against his chest, one over the
+other. For once in his life he looked like a man who was not thinking about a single
+missed shot.
+
+Sallow was at the door frame, at attention in her own steady, unshowy way, her hands at
+her sides. She had been watching the others with a medic's eye, the way she would watch
+for shock. Now she saw Tamsin coming, and her expression went careful.
+
+He held up her medal: the thick cross, gold on white, **MVS** in black beneath it, *For
+the Light* in grey. Close up, its edge was a fraction thicker than the rest. She looked at
+it. Her eyes flicked to Brenner, wedged by the desk, and back to the medal.
+
+"...That's the one Dace kept cracking, isn't it." Dry and very quiet.
+
+It was not a question. Her voice was flat, but her hands at her sides had closed into
+loose fists.
+
+Tamsin handed it to her. "Only the best... for the best."
+
+Sallow held it in her palm and looked at it for a long moment, the same clinical way she
+looked at a wound: the gold cross, the black letters, the slightly thick edge where two
+broken things had become one whole one.
+
+"...Only the best." Flat, dry, very quiet.
+
+Her mouth did something complicated. For a second the medic was gone, and there was only a
+tired woman of thirty-eight who had patched every person in this room more times than she
+could count, and had never once been thanked for it in front of them.
+
+Then she was back. She reached out and took hold of Tamsin's wrist, a firm squeeze, two
+fingers resting on the pulse just for a moment, out of habit.
+
+"Then stop getting shot, boss. And I'll keep earning it."
+
+She let go, pressed the medal against her chest with both hands, over her heart, and went
+back to attention against the door frame. Her eyes were very bright.
+
+Wedged against the desk, Brenner had gone pale and rigid. He had seen the thick cross. He
+knew what his was.
+
+He stood between the desk and Mira's empty chair, at attention so rigidly he looked
+carved, eyes front, hands flat at the seams of his trousers. A muscle jumped in his cheek.
+Tamsin stopped in front of him and held out the thick cross, the twin of Sallow's, gold on
+white. **SMVS** in black beneath it.
+
+Brenner's eyes dropped to it. They were supposed to stay front, and he knew it, but they
+dropped anyway, and he could not get them back up.
+
+"...Sir." It was barely a whisper, and his voice cracked on the one word.
+
+"You keep on with the good work," said Tamsin, and handed it to him.
+
+Brenner took it in both hands and stared at it, and his throat worked. When the words came
+out they were the ones he always used, the ones he had said that morning at the door, and
+they came out cracked down the middle.
+
+"Logged, sir." A breath. "...It's official now."
+
+He held it flat against his chest with both palms, as if to keep it from blowing away, and
+stared at the wall over Tamsin's shoulder, blinking hard.
+
+
+## Chapter 143: The Protector
+
+Tamsin turned to the corner by the coin box.
+
+Nessa stood where she had dropped, at attention in her own loose, slightly wrong way, her
+hands not quite at her sides. She had not taken her eyes off him since Kell. Her face was
+the flat, sardonic mask she always wore.
+
+He held up her medal: a gold hood over a gold knife, on white. **MVA** in black beneath
+it.
+
+She looked at it. The mask did not move, but she had stopped breathing. He could see it in
+her shoulders.
+
+"...Lovely." Very quiet, and flat. But it came out wrong, too small and too careful. It
+did not sound sardonic at all.
+
+"For the Light's assassin," said Tamsin, and handed it to her.
+
+For a moment she only held it in her open palm and looked down at the hood and the knife,
+gold on white. Then her other hand drifted up, without her seeming to know it, and her
+fingers touched her own throat. There was nothing there now but skin. It was the place
+where the collar used to sit, before he cut it off her.
+
+"...First thing anyone's ever given me that wasn't a collar, boss."
+
+She said it so quietly that only Tamsin and Corvane could have heard it. Her hand dropped
+from her throat. Her fist closed round the medal, tight enough that the knuckles went
+white.
+
+Then she lifted her chin and the mask came back down, almost the same mask as before. But
+her eyes were bright and furious with themselves for it, and she stared straight ahead as
+if she would stab anyone who mentioned it.
+
+Across the cabin, Mira and Teo were the only two left without one. They were both very
+carefully not looking at each other. In Tamsin's hand there were four left: Mira's bird,
+Teo's bird, Morcant's fortress wall, and Dace's square.
+
+He keyed the bead and called Morcant.
+
+"*Boss?*" Loud, with his mouth full. "*...Coming!*"
+
+Boots pounded up the stair at a run, heavy enough that the cabin floor trembled. Then
+Morcant filled the doorway behind Sallow. He had to stoop to look in, a ration bar still
+in one fist and crumbs on his chin. He took one look at the room, nine people at attention
+with white and gold in their hands, Kell's eyes red at the rims, and the ration bar went
+straight into his pocket. He snapped to attention so hard his heels banged like a door
+slamming.
+
+"Reporting, boss!"
+
+Sallow edged aside to let him lean in. Tamsin stepped over and held out the fortress wall,
+gold crenels on white, **MVH** beneath it. It was the first one Dace had ever cut.
+
+"Good work," said Tamsin. "Keep being our heavy."
+
+Morcant's hand was so big that the medal looked like a coin in it. He stared down at it,
+and for once in his life the loud, grinning man had nothing to say. His mouth opened and
+closed. Then the grin came, slowly, until it split his face ear to ear.
+
+"*Throne*, boss." His voice was thick. "I'll be your heavy till they put me in the ground.
+Heaviest I'll ever be."
+
+He closed his fist round it, pressed it to his chest, and stood in the doorway like a wall
+himself, beaming at the ceiling.
+
+Mira stood by the chair she had given up, at attention, Navy-straight, with the precise
+stillness of a pilot holding a hover. Tamsin held out the bird, gold wings swept back on
+white, **MVF** in black beneath it.
+
+"Best pilot I've seen in a while."
+
+She took it with two fingers and a thumb, as delicately as a fuse.
+
+"...Throne's teeth." Very quiet.
+
+She looked down at it, at the swept wings, and her calm cracked. Not much. Just enough.
+
+"The Navy threw me out with nothing. Not a pin. Not a line in a book." Her voice was
+tight. "You gave me a Valk. And now this."
+
+Her thumb ran once round the gold rim. She swallowed. Then she lifted her head, and the
+pilot came back, precise and dry and on the clock. One eyebrow went up.
+
+"'In a while'?"
+
+Somewhere behind her Varga snorted. Kell's shoulders shook once.
+
+Mira closed her hand round the bird and held it against her flight vest, right over the
+pocket where she kept her slate. She was grinning now, properly, the grin from the hangar
+that afternoon, and she did not even try to hide it.
+
+Beside her Teo was the last one in the room without a medal. He was staring very hard at
+the wall, and his ears had gone red.
+
+Tamsin held out the twin of Mira's, the same swept wings, **SMVF** beneath it.
+
+"More shooting from the ship from you, soon."
+
+Teo took the bird with his slate still jammed under his other arm. The joke he had ready
+died on his face. For once in his life Teo Brack was dead serious.
+
+"Angel of death from above, boss." He held the medal up a little, like a toast. "Plan's on
+your desk by morning. All of it. Every gun." He tapped the slate under his arm. "Swear
+on..." He caught Mira's look. "...on *my* medal."
+
+He looked down at the bird in his hand, then over at Mira's, held against her vest. The
+grin crept back.
+
+"Second behind her." He sighed, theatrically. "Story of my life."
+
+"And don't you forget it," said Mira, eyes front, without missing a beat.
+
+The cabin broke, just a little. Varga laughed out loud, Morcant boomed from the doorway,
+Sallow shook her head. Even Corvane's mouth twitched. Nobody was really at attention any
+more. Ten of them crammed into a cabin built for one, all holding small white and gold
+discs against their chests.
+
+One medal was left in Tamsin's hand: the square, the gold star on its shield, **LP** in
+black beneath it. Dace's. And Dace was not in the room.
+
+"Dace, my office."
+
+"*Coming, brother!*" A hammer was ringing somewhere behind him. Then the hammering
+stopped.
+
+Boots came up the stair at a jog, and then Dace was in the corridor behind Morcant, trying
+to see past him. He was still in his forge apron, soot to the elbows, with a smear of it
+across his forehead where he had wiped away sweat. His hair stuck up in three directions.
+
+"Let the man through!" said Morcant, and turned himself sideways, and Dace squeezed past
+him into the doorway.
+
+He stopped dead.
+
+He saw the room: the Light, every one of them holding a small white disc against their
+chest. Gold rims, gold emblems. *His* discs, the ones he had cut and engraved, cracked and
+recut, painted now and finished. Kell's fortress of a face with red eyes. Varga's fist
+over her heart. Sallow's thick cross with the edge he knew was a hair too thick.
+
+"...Oh." Very small.
+
+Then his eyes went to Tamsin's hand and the last one in it. The square, with the gold star
+in its shield and **LP** in black beneath. He knew what it was. He had made it last, on
+purpose, because it was his. His soot-black hands hung at his sides, and he did not seem
+to know what to do with them.
+
+Tamsin put the square in his hand.
+
+"Last but not least. The Light's Pride. The most special medal. The protector."
+
+Dace looked down at the shield, at the gold star, at the two letters he had cut himself,
+last of all, the night he finished the others. His mouth opened. Nothing came out.
+
+"...Brother." Barely there.
+
+Then he stepped forward and hugged Tamsin hard, apron, soot, square medal crushed between
+them and all. He held on for a long second and let go before anyone could say anything.
+There was a grey soot print on Tamsin's shirt in the shape of his arms. He stared at the
+floor, his ears scarlet.
+
+"...Hugging's allowed," said Morcant thickly, from the doorway.
+
+Tamsin stepped back to the bulkhead so that the whole cabin could see him.
+
+"They all have rings. You can attach them to your guns, your melee, your necklace, a chest
+piece. Really, anything that has a ring, it can go on."
+
+It took them about two seconds.
+
+Varga already had Mercy's sling off her shoulder. She threaded her bullet onto the stock
+beside the dead man's faded red cloth, and her thumb rested on both for a moment.
+
+Isk split his two without hesitating. The bullet went on Patience's sling swivel. The
+crosshair went onto the cord at his collar, right beside his prayer token, so the two
+clinked together when he breathed.
+
+Kell clipped his to his chest rig, high on the left side over his heart, where his hand
+could find it.
+
+Corvane hung his from the pommel ring of his sword. He studied how it sat, turned it a
+quarter-turn, then nodded once.
+
+Brenner hooked his onto the strap of his vox-set. He touched it, then touched it again to
+make sure it was real.
+
+Sallow looped hers onto the strap of the Bag. She gave it a sharp tug to test it and
+looked satisfied.
+
+Nessa did not show anyone. Her medal went onto a cord, and the cord went inside her
+collar, under the cloth, against the skin where the iron used to be. She dared anyone to
+ask with one look. Nobody did.
+
+Morcant hooked his onto Doorknocker's sling swivel and boomed, "*Now* it knocks proper!"
+
+Mira held hers up to the lumen. "Cockpit. Right above the yoke. Where I can see it on
+every run."
+
+Teo zipped his onto the pull of his flight jacket and wiggled it so it swung. Mira rolled
+her eyes so hard it was nearly audible.
+
+Dace only held the square in both hands and looked at it. Then, quietly, to himself more
+than anyone:
+
+"Promise Holder's shield. Right in the middle."
+
+It was quiet for a moment. Twelve medals, twelve people, all crammed into a cabin built
+for one, and nobody seemed in any hurry to leave.
+
+"Good," said Tamsin. "Dismissed."
+
+They came off attention all at once, but nobody rushed. They filed out slowly, one by one,
+squeezing past Morcant in the doorway, every one of them holding the medal or touching it
+where it hung.
+
+Varga went past without a word, but her shoulder bumped his on the way, deliberately. Isk
+gave him a small nod, the crosshair clinking against his prayer token. Brenner said "Sir,"
+very softly. Sallow tapped the soot print on his shirt and said, "You'll want to wash
+that," and almost smiled. Nessa slipped out like a shadow. Corvane bowed his head as he
+went, a short formal bow, and his medal swung gently on his sword's pommel.
+
+Mira went out already arguing with Teo. "Right above the yoke. Not on the side. *Above.*"
+
+"Yeah, yeah. I'm finishing this plan." Teo waved the slate over his shoulder. "Morning,
+boss!"
+
+Morcant thumped the door frame twice with his fist as he left, grinning. Dace went out
+last but one, the square held flat in both palms like something that might spill. Tamsin
+heard him on the stair, heading down toward the forge and Promise Holder's shield.
+
+Kell was last. He stopped in the doorway with his hand on the frame. He did not say
+anything. He looked at Tamsin for a second, touched the medal over his heart once, nodded,
+and went.
+
+The door slid shut.
+
+The cabin was empty again, and it felt very big after so many people. The shelf above the
+bunk was bare. Through the bulkhead came the slow, deep pulse of the warp engines, and
+somewhere far below, faint and steady, the ring of Dace's hammer starting up again.
+
+It was twenty-one hundred. Five days to the Rest.
+
+
+## Chapter 144: Something New
+
+Tamsin took the Kasr Frontier down from the rack and sat on the edge of the bunk with it
+across his knees.
+
+It was longer than it had looked on Mag's wall, and heavier: honest weight, all steel and
+wood. The stock and fore-end were dark hardwood, oiled so deep the grain looked wet under
+the lumen. There were small dings along the underside of the fore-end where somebody,
+somewhere, had rested it on rough stone for years. The receiver was plain blued steel,
+worn silver at the edges where hands had gripped it. No eagle and no cog, no maker's pride
+at all, only a forge number stamped small on the left side, and below it, almost rubbed
+away, a single scratched initial that nobody had bothered to file off.
+
+The tube ran under the barrel nearly to the muzzle. Twelve rounds. On the right side of
+the receiver was the loading gate, a small spring-steel flap smooth from use. He pressed
+it with his thumb, and it gave and snapped back. The lever hung below, a big open loop of
+steel sized for a gloved hand. When he worked it, it moved with a long, oiled
+*clack-clack*, and the bolt slid back, showed him an empty chamber, and slid home again,
+smooth as a closing door. The sights were simple: a low notched rear on a little steel
+ramp, and a blade at the muzzle. Nothing to break, nothing to fog.
+
+It smelled of gun oil and wood, and a faint ghost of somebody else's tabac.
+
+He keyed the bead. "Ollin, can you come to my office? Bring the gun cleaning kits."
+
+"*Aye, boss! Kits. Coming.*"
+
+At about 2105 there was a knock, and Ollin backed in through the door because his arms
+were full: two canvas rolls tied with cord, one long and one short, a tin of oil wedged
+under his chin and a bundle of clean rags over his shoulder. He set it all on the desk and
+unrolled the long one for rifles: a jointed steel rod, brass brushes in three sizes, a
+bore snake, patches, a little bottle of solvent and a pick for the corners. The short roll
+was the pistol kit, the same things in miniature.
+
+"Rifle roll, pistol roll, oil, rags. Solvent's fresh from Vashti's." He lined the brushes
+up by size without being asked, then looked up, beaming. "Boss, I *saw* them. On the
+stair. Morcant stopped me and showed me his. Then he showed me again." He held up three
+fingers. "Three times. And Brenner's on his vox-set, and Mira's..." He stopped himself, a
+bit embarrassed. "They're beautiful, boss. Really."
+
+His eyes went to the Kasr Frontier across Tamsin's knees, then to the Columnus in the
+rack.
+
+"New ones need a proper clean before they're fired. Factory grease, and whoever had 'em
+before." He rolled up his sleeves. "Want me to do 'em, boss? Or are you doing it
+yourself?"
+
+"I appreciate it," said Tamsin. "Well, I'm going to clean the lever action. Can you clean
+the auto?"
+
+Ollin pulled the desk chair round, took the Columnus off the rack and had it apart before
+Tamsin had finished unrolling the long kit. It came apart the Guard way: magazine out,
+bolt locked back, a pin pushed through with his thumb, and the receiver opened like a
+book. He laid the pieces out on a rag in a neat row, then wrinkled his nose at the bolt.
+
+"Throne, who fired this last? Carbon like tar."
+
+He started scrubbing with the brass brush, tongue between his teeth.
+
+Tamsin laid the Kasr Frontier across his knees on a rag. A lever gun did not fall open
+like the Columnus. He took it down slowly. First the screw that held the lever, then the
+lever itself. The bolt slid out the back of the receiver into his palm, heavy and oily. He
+unscrewed the plug at the end of the tube and drew out the long spring and the follower
+and laid them in a line.
+
+The bore was filthy. The first patch through it came out black, and so did the second. By
+the fifth it was grey, and by the eighth it came out clean, the rifling bright and sharp
+when he held the barrel to the lumen and squinted down it. Somebody had fired this gun a
+lot. But somebody had also never let it rust.
+
+Inside the receiver, under the old grime, the scratched initial turned up again, scratched
+just as roughly on the inside of the side plate where nobody would ever see it. An *H*, or
+maybe an *A*.
+
+"Mag spring's good," said Ollin without looking up. "Extractor's good. Gas port was half
+choked." He held up a pick with a curl of black on the end. "Not any more."
+
+Tamsin oiled every part, a thin coat, and wiped off the excess. Then it went back together
+in reverse: follower, spring, plug, bolt, lever, screw. He worked the lever, and the
+action ran slicker than it had at Mag's, a long, smooth *clack-clack* that ended in a
+solid lock.
+
+At about 2136 Ollin snapped the Columnus's receiver shut, worked the bolt twice,
+*chak-chak*, and held it out stock first.
+
+"Clean, boss. Both of 'em. Like they came off the forge."
+
+He started rolling up the kits.
+
+---
+
+Tamsin took two blank sheets and laid them on the desk. On the first he wrote *lever
+action*, and on the second, *autogun*.
+
+"I have some ideas, but I want your opinion too. You've been working on guns a lot, so I
+think you can help."
+
+Ollin stopped halfway through tying the rifle roll. He looked at the two blank sheets,
+then at Tamsin.
+
+"Me, sir?"
+
+That was *sir*, not *boss*. He was nervous. He put the kit down very carefully, as if it
+might go off, pulled the chair in closer to the desk and sat on the front edge of it with
+his hands on his knees.
+
+"I'm no smith, boss. Not like Dace, not like Ferro. I just clean 'em." A pause. "But I
+clean *everybody's*. I see what wears out first. What breaks. What people curse at."
+
+He glanced at the two freshly cleaned guns, and his eyes sharpened a little.
+
+"What are you thinking, boss? Tell me yours first. Then I'll tell you if anything I've
+seen says different."
+
+He pulled a stub of pencil from behind his ear, just in case.
+
+"Well, first, for the lever action," said Tamsin, drawing as he talked. "Replace the
+hinge, to make it pull faster, so more rounds. Then a double tube, side by side, for twice
+the ammo. Extended tubes. A muzzle brake. A long-range scope. A sling. And two speed
+loaders, custom-made ones that you just push on the tubes, and the rounds go in fast. Then
+make the stock skeletonised, and ergonomic handling on the grip and the handguard." He
+looked up. "What do you think?"
+
+Ollin watched the pencil move: the lever, the two tubes side by side, the brake, the
+scope, the skeleton stock taking shape, the little push-loaders sketched off to one side.
+He did not interrupt once. But by the end he was leaning so far over the desk his nose was
+nearly on the paper.
+
+"That's a lot of gun, boss." He said it like a compliment. He tapped the twin tubes with
+his pencil stub. "Three things. From cleaning, not from smithing."
+
+He counted them off on his fingers, the way he did crates.
+
+"One. Two tubes. Put a switch on it, here, by your thumb." He drew a small lever on the
+side of the receiver. "Pick which tube feeds. Then you put the red boxes in one and the
+white boxes in the other. A crowd up close, flick. Somebody far off, flick back. Two guns
+in one."
+
+"Two. Springs. Long tubes eat springs. The longer the tube, the weaker the push on the
+last rounds. Last few feed slow, then they don't feed at all." He shook his head. "I've
+pulled dead tube springs out of every pump on this ship. Get Dace to wind 'em in plasteel.
+They'll outlast the gun."
+
+"Three." He tapped the brake at the muzzle, then the ends of the extended tubes sticking
+out just under it. "Your tubes'll poke out past the muzzle with the extensions. If the
+brake vents downward, every shot blasts the tube caps. Get Dace to cut the ports so they
+go up and out to the sides. Away from the tubes. Kills the climb too."
+
+He sat back and looked at Tamsin a little anxiously, the pencil held in both hands.
+
+"...That's all I've got, boss. The rest's good. Really good."
+
+Tamsin pulled the sheet back and drew in what Ollin had said while Ollin watched. A small
+lever on the left side of the receiver, right where the thumb rested, with two marks
+beside it, **L** and **R**, and in the margin, *selector: one load per tube*. On each long
+tube, at the follower end, a tight coil labelled *plasteel*. At the muzzle the brake got
+its ports redrawn, little slots angled up and out to the sides, with arrows showing the
+blast going up and away, clear of the two tube caps underneath.
+
+Then, in the bottom corner where Dace would see it, he wrote a line crediting the
+selector, the springs and the ports to Ollin.
+
+Ollin saw it. He read it twice. His ears went red.
+
+"...You didn't have to put my name on it, boss." Very quietly.
+
+He looked at the finished drawing, the twin tubes, the skeleton stock, the scope, the
+switch by the thumb, and shook his head slowly, half grinning.
+
+"Thirty-six rounds, two loads, and it never jams. That's not a farmer's gun any more."
+
+It was about 2208. The second sheet lay beside it, blank except for one word across the
+top: *autogun*. Ollin's pencil was still in his hand.
+
+"Now the autogun," said Tamsin. "I'm going to make this a completely different gun. Remove
+the mag, and replace the magwell with a box-mag adapter. Shorten the barrel. Add a
+compensator on it. Add a light trigger. Then remove the rifling and replace it with
+something I call the super round generator."
+
+He drew it as he explained it. Instead of the bolt and its mass going straight back the
+way they did in any rifle, the bolt would connect to a weighted slider on an off-axis
+path, and on every shot the slider would be forced down into a housing behind the magazine
+well. The angled rails and the cam path would control how the bolt opened and met the
+mass, so that the whole thing cycled fast and controlled and picked up the next round. And
+the barrel would sit low, right in line with the hand and wrist instead of high above the
+grip, so there was nothing to lever the muzzle up, and it could cycle at a wild speed
+without the sights bouncing.
+
+"Then a laser sight. A reflex sight. A skeleton pistol grip..."
+
+Ollin's eyebrows climbed higher and higher as Tamsin talked and drew. When he got to the
+weighted slider driving down into a housing behind the magwell, Ollin's pencil stopped
+moving altogether.
+
+"...Throne, boss. That's not an autogun any more. That's something else."
+
+He leaned over the sheet and studied the slider and the angled rails for a long moment.
+Then he held up a finger.
+
+"Don't pull the rifling. Please." He winced, apologetic. "I've cleaned smoothbores. Junk
+guns off gangers. They spray. Can't hit a door at twenty paces." He tapped the drawing
+behind the magwell. "Your slider lives *here*, in the body. The barrel just needs to be a
+good barrel. Keep it rifled."
+
+A second finger.
+
+"If that slider eats the kick like you say, you won't need the comp on the end. It'll just
+make it harder to aim. Your call. But I'd leave it off and save the weight."
+
+A third finger. He looked almost pleased with this one.
+
+"And this is blowback, aye? Not gas?" He did not wait for an answer. "Then rip the gas
+tube out. Tonight I pulled a curl of carbon out of that port like tar. No gas port,
+nothing to choke. One less thing to clean."
+
+He sat back, pencil in both hands. "Rest of it's good, boss. Short, fast and nasty. It'll
+chew through a corridor."
+
+"Alright. Keep the rifling," said Tamsin. "And how about a suppressor instead, for reach
+and quietness? It might make it harder to shoot. And no gas tube, correct?" He looked up.
+"Anything else?"
+
+He scratched out the compensator at the muzzle and drew a fat silencer can in its place.
+On the barrel he wrote *rifled: keep*. He crossed out the gas tube and its port with one
+long line.
+
+Ollin nodded along at each one, satisfied. Then he squinted at the magwell for a long
+moment.
+
+"Anything else... aye. One thing. Maybe two." He tapped the box-mag adapter. "The Columnus
+mags are curved, boss. Like a banana. They won't seat in a straight box well, not with
+your slider housing sitting right behind it." He pointed at Stinger in its holster on the
+rack. "But Stinger's sticks are straight. Same autogun rounds. Forty a stick. You've got
+two."
+
+His eyes lit up.
+
+"Have Dace cut the adapter for Stinger's sticks. Then one mag fits both guns. Run Stinger
+dry in a corridor, slap the stick in this one. Or the other way. Never caught with the
+wrong mag."
+
+A second finger, more hesitant.
+
+"And the laser. If you're going quiet with the can on, that red line shows in the dark and
+the smoke. Whoever's at the other end sees it come right back to you." He shrugged. "Just
+keep it switched off when you're sneaking. That's not a drawing thing. Just a... habit
+thing." He put the pencil down. "That's me done, boss. Honest."
+
+Tamsin told him how he saw the can: it would soak up the kick and keep the muzzle flatter,
+and maybe give it a hair more reach.
+
+Ollin nodded slowly, matching it against something he had seen.
+
+"Aye. The silenced stubbers from the haul. They didn't jump like the plain ones. I'll give
+you that, boss." Then he wrinkled his nose. "But Throne, they were *filthy* inside. Worse
+than anything. All that gas has to go somewhere, and it goes back into the works." He
+tapped the slider housing. "This thing's going to eat rounds fast. With a can on, it'll
+want cleaning after every fight. Every one." He shrugged. "Not saying don't. Just saying
+hand it to me after, and I'll keep it sweet."
+
+He nodded at the magwell again, where the adapter was still waiting for a size.
+
+"So. The adapter, boss. Stinger's sticks? Or its own mags?"
+
+"And no," said Tamsin. "This is more of a support-gun box mag. That's the kind of gun I
+was going for."
+
+Ollin's eyes went round. "A *belt*? Off a box?" He looked at the slim drawing on the
+sheet, then held his hands about a forearm apart. "Boss, that's a support gun. That's
+Morcant's kind of thing, in a little body."
+
+He grinned in spite of himself, then got practical fast, counting on his fingers again.
+
+"Links, first. Autogun links aren't stubber links. Wrong size. Dace'll have to stamp 'em.
+A hundred a box, two boxes at least. I'll belt 'em up myself." He paused. "You can mix a
+belt, you know. Four plain, one of the black ones. Or reds all the way. Whatever you load,
+that's the order it comes out."
+
+He chewed his lip.
+
+"The Guard's support guns, the proper ones? Some of 'em take a belt *and* a stick. There's
+a little well on the side for when the belt runs dry and there's no time to lay a new
+one." He pointed at Stinger again. "Put a side well on it for Stinger's sticks. Belt runs
+out mid-fight, slap a stick in the side and keep shooting. Lay the new belt when it's
+quiet." He looked up, hopeful. "Worth drawing in? Or keep it belt only?"
+
+It was not a belt Tamsin meant. He scratched the belt out and sketched the one he did: a
+squat box hung under the gun in a canvas cover with snaps down the side, and a narrow,
+stick-shaped tower rising out of the top into the magwell.
+
+Ollin leaned in. Then he laughed, a short, delighted bark.
+
+"Oh, that's *better*, boss. No links. No laying belts in a firefight. Pull it, slap a new
+one in, done." He traced the canvas cover with his pencil. "Cover keeps the grit out.
+Smart."
+
+Then he tapped the little tower on top, and his eyes lit up the way they had over Stinger.
+
+"And look. The top's a stick. So have Dace cut the tower the exact shape of Stinger's
+sticks. Same rounds, same size." He grinned. "Then the well takes the box *and* Stinger's
+forty-rounders. Box runs dry, you've got two spare sticks on you anyway for Stinger. Slap
+one in. Never empty."
+
+He sat back.
+
+"And the spring in a box that size wants to be plasteel too, same as the lever gun's
+tubes. Or the last thirty'll crawl." He looked at the drawing, then at Tamsin. "Want the
+tower cut for Stinger's sticks, boss?"
+
+"Yeah, cut it for Stinger's sticks," said Tamsin. "And then the custom ones are just a box
+with a Stinger-stick neck."
+
+On the magwell he wrote *cut to Stinger stick*. Under the box he added a little note and
+an arrow: *box mag: Stinger-stick neck, 100, canvas cover, plasteel spring*. The neck on
+the drawing he redid thinner and straighter, an exact match for the stick in Stinger's
+grip.
+
+Ollin watched the last line go down. Then he let out a long breath, as if he had been
+holding it since the lever gun.
+
+"Two guns in one night." He shook his head, grinning. "Dace is going to *cry*, boss. Happy
+crying."
+
+He gathered up the kits, tied the rolls, tucked the oil tin under his chin, and stopped at
+the door. He looked back at the two finished sheets on the desk, the lever gun and the
+box-fed beast beside it, with his name in the corner of both.
+
+"...Thanks for asking me, boss. Really." Then, quickly, before it could get awkward:
+"Night, boss."
+
+The door slid shut behind him.
+
+---
+
+It was about 2300, and the cabin was quiet. Two schematics lay on the desk under the
+lumen. The Kasr Frontier and the Columnus sat clean in the rack. Through the bulkhead came
+the deep pulse of the warp engines, and faint and far below, Dace's hammer, still going.
+
+Tamsin pulled the second sheet back and frowned at the barrel.
+
+"Hmm. Slight problem," he said to the empty cabin. "It's going to get hot doing its job.
+So we need a thicker barrel, and cooling fins."
+
+On the drawing it was thin, a plain autogun tube. He rubbed it out and drew it again,
+thick and heavy, almost as wide as the silencer can. Then down its length, from the
+receiver to just short of the can, a row of deep rings, cooling fins, close-spaced like
+the ribs of a grate. Beside them he wrote *heavy barrel: fins to shed heat*.
+
+He held the sheet up to the lumen. It did not look like a Columnus any more. It looked
+squat and mean, all box and fins and can: the box with its Stinger-stick neck, the slider
+housing behind it, the thick finned barrel, the can on the end, the skeleton grip and the
+little reflex window on top. Every line on it was his or Ollin's. None of it existed yet.
+
+Below, Dace's hammer finally stopped. The ship went quiet except for the deep, slow pulse
+of the warp.
+
+"Now that is something new..."
+
+It was about 2306.
+
+He set the second sheet on top of the first, squared the edges, and laid them in the top
+drawer, where the sixteen had been that morning. Ollin's name was pencilled in the corner
+of both.
+
+The rack held the clean Kasr Frontier, the Columnus that would not look like itself for
+much longer, and Stinger with its two sticks. The shelf above the bunk was bare. Every
+medal he had painted that day was hanging off someone's gun, rig, strap or collar
+somewhere on the ship.
+
+Through the bulkhead came the slow, deep pulse of the warp engines. Somewhere below, a
+hatch closed softly, and a pair of boots went aft toward the bunk room. The *Bright Light*
+was quiet. Five days to the Rest.
+
+The lamp clicked off.
+
+Then Tamsin went to sleep.
+
 # Appendix: Session notes
 
 ### Session 8 (Season Two, mission 1: Ustrennos)
