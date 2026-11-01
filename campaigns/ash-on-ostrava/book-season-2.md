@@ -27932,7 +27932,7 @@ Out over the dock ring, nothing had lifted.
 It was 1232.
 
 
-## Chapter 76: The Laundry Line
+## Chapter 76: A Shooter and Savior
 
 Tamsin called Mira in to extract. People first, then the loot.
 
@@ -28425,7 +28425,7 @@ gardeners still breathing outside were left where they had fallen.
 It was 1356.
 
 
-## Chapter 78: The Cage
+## Chapter 78: Raider Scum
 
 The ramp went down into a hall as big as a hangar.
 
@@ -28747,7 +28747,7 @@ cage, and eight from the beds. The last four would go on the next run. The Valky
 for the Spire's medicae.
 
 
-## Chapter 79: The Back Door
+## Chapter 79: It's Time
 
 While the Valk was away, Brenner sat on the edge of the barricade with his slate on his
 knee and laid out what was left of the Mart.
