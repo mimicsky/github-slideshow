@@ -11630,7 +11630,7 @@ tripwires."
 be up at about 0740."
 
 
-## Chapter 31: Better Than New
+## Chapter 31: Eye Problems
 
 At 0740 on warp day 17, Tamsin woke to the dull thump of boots on the sparring mat
 through the bulkhead, and Kell's voice counting. Drill had been running since 0600.
@@ -12049,7 +12049,7 @@ At his desk, Orderly Fesk glanced over, saw books instead of vox gear, and nodde
 approval.
 
 
-## Chapter 32: In Your Hands
+## Chapter 32: Plans.
 
 At about 1340 they were back aboard the *Bright Light*. It was midday on Kell's rota,
 and the whole ship was at work.
@@ -13028,7 +13028,7 @@ flash and the two side-pouches.
 "Robbing you? Good doing business."
 
 
-## Chapter 35: A Small Steel Case
+## Chapter 35: A Secret Gift
 
 At about 0915 they came down the tram to ring four. Old Marrow looked up from his
 chained ledger.
