@@ -37796,7 +37796,7 @@ their note to the deep, slow pulse of the warp.
 "Five days of nothing but purple." Teo stretched. "Love it."
 
 
-## Chapter 116: The Protector
+## Chapter 116: Honor Day.
 
 At about 2035 Tamsin checked the medals on the shelf one by one, a thumb across each face.
 All dry, the paint hard and smooth, not a single run in the lettering. The square was
@@ -38141,7 +38141,7 @@ and steady, the ring of Dace's hammer starting up again.
 It was twenty-one hundred. Five days to the Rest.
 
 
-## Chapter 117: Something New
+## Chapter 117: A Different View
 
 Tamsin took the Kasr Frontier down from the rack and sat on the edge of the bunk with it
 across his knees. It was longer and heavier than it had looked on Mag's wall: dark
