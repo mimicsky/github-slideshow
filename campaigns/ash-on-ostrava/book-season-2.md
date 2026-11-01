@@ -22956,7 +22956,7 @@ It was 0920.
 Kell did not ask. He took Officer off the rack and followed Tamsin down the ramp.
 
 
-## Chapter 61: The Sump Lantern
+## Chapter 61: Last Words for Ustrennos
 
 They took the tram to the spine and the spine down to ring four. They went past the galley
 queue and the 4-D hauler blocks, and down a narrow iron stair under the galley level into
@@ -23371,7 +23371,7 @@ it."
 Nessa came on the vox sounding far too pleased. "*Mandatory.* Oh, I like that word."
 
 
-## Chapter 62: The Galley
+## Chapter 62: Stealth and Clearing
 
 By 1200 Nessa had turned the hold into a course. She had restacked the crates into blind
 corners, laid lumens low on the deck so that they threw long shadows, and scattered loose
@@ -23814,7 +23814,7 @@ The whole Light gathered at the hold hatch, sweaty and laughing and a little she
 waiting on Tamsin and Kell.
 
 
-## Chapter 63: Read the Room
+## Chapter 63: Light vs Light
 
 "Again," said Tamsin. "But this time all items allowed, from Brenner's auspex to Hollis's
 fake grenades. We'll call out if you die from one."
@@ -24737,7 +24737,7 @@ Tamsin went to his cabin and lay down, and slept. Around the *Bright Light* the 
 field droned on, and the ship ran on through the warp toward Torvane's Mart.
 
 
-## Chapter 65: Blunt Edges
+## Chapter 65: Knife Fights
 
 At 0600 on warp day 32, Tamsin woke to the long, steady drone of the Geller field.
 
