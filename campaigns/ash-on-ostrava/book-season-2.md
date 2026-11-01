@@ -4899,7 +4899,7 @@ tired half-smile. "We're good, boss. Truly. Go do what you need to do."
 Dace lifted his hand off the blanket again, and Tamsin went.
 
 
-## Chapter 16: The Gold Tip
+## Chapter 16: A Bullet?
 
 The walk was slow. Down the ward, out past the medicae desk, where an orderly looked
 as though she wanted to stop him and decided not to. Up the spoke lift to ring two.
@@ -5117,7 +5117,7 @@ the pirate vox-caster, swearing softly at its cipher. W. Thask, who had signed f
 spoke for her father, had burned in the hold of her own ship four days ago. And
 somewhere on Torvane's Mart, the gardener was waiting.
 
-## Chapter 17: The Quiet Room
+## Chapter 17: Interrogation
 
 Thask would keep. Tamsin went to the prisoners from the last fight instead, and Kell
 fell in beside him.
@@ -5722,7 +5722,7 @@ Merrick watched from the guardroom door and said nothing. Tamsin and Kell walked
 round the ring to berth 2-9, and Tamsin's side had had enough of the day.
 
 
-## Chapter 18: The Collar
+## Chapter 18: Welcome… Nessa
 
 At 1600 the Light filled the briefing room, sitting on the table edge, leaning on
 walls, crammed round the dark hololith. Kell was by the door. Varga had her arms
@@ -6165,7 +6165,7 @@ hands it over."
 It was half past five. The pack would be ready in two days, somewhere in the warp.
 
 
-## Chapter 19: First to Five
+## Chapter 19: Bad Deal
 
 Ferro-Ashe was bent over Varga's opened chute with his mechadendrites deep in the
 housing, chanting in that strange second rhythm, and the first of the suspensor plates
@@ -6612,7 +6612,7 @@ He held the handset out with his hand over the mouthpiece.
 
 "Says he's Captain Orne of the *Sable Margin*. Says he wants to talk about his men."
 
-## Chapter 20: The Second Key
+## Chapter 20: More Jars…
 
 "Pass me the headset."
 
