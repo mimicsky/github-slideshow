@@ -15164,7 +15164,7 @@ breathing again. Nessa walked off rubbing her ribs, and Morcant was very loudly
 retelling the two strikes Kell never saw coming to Hollis, who had been there.
 
 
-## Chapter 40: One Little Clink
+## Chapter 40: A Wishlist…
 
 At 1210 Tamsin went down the stair to the lower deck. The forge was hot. Dace had
 somehow beaten him down there, cane and all, and he was back in his chair at the bench,
