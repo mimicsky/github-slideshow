@@ -7108,7 +7108,7 @@ fell into his bunk in his fatigues.
 Three hours of hard, dreamless sleep.
 
 
-## Chapter 21: Not Much Trouble
+## Chapter 21: Aldwyn's Arrival
 
 Kell's knock came at twenty to eight. Twice, then once.
 
@@ -7565,7 +7565,7 @@ She turned and walked up the ramp. At noon exactly the courier's clamps let go, 
 the black-and-silver needle slid away from the station and was gone.
 
 
-## Chapter 22: Light Designed
+## Chapter 22: Light Trainees
 
 Tamsin walked back to ring one. It was the third time that day, and his side was
 letting him know about it.
@@ -8756,7 +8756,7 @@ plastek with a column of numbers scratched into it.
 It was 0355, and the rest of the Light was looking at him.
 
 
-## Chapter 24: The Little Garden
+## Chapter 24: Heretic
 
 "Let's go get Deacon Selk at the chapel."
 
