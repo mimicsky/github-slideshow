@@ -30961,7 +30961,7 @@ The Governor wanted to see the Interrogator.
 It was 0517.
 
 
-## Chapter 89: The Till's Man
+## Chapter 89: Con Man
 
 At 0520 Tamsin rode the iron cage up to Voke's counting room.
 
@@ -31155,7 +31155,7 @@ it about where the gunship had flown.
 It was 0715.
 
 
-## Chapter 90: The Hiring Post
+## Chapter 90: New Hands
 
 At 0720 Tamsin found Ollin in the hold among the piles.
 
