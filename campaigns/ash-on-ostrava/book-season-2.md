@@ -25113,7 +25113,7 @@ neck.
 For a beat nobody moved. They had all just watched that.
 
 
-## Chapter 66: False Trail
+## Chapter 66: No Match
 
 Then three voices came at once.
 
@@ -25505,7 +25505,7 @@ one." He handed his bayonet back. "And maybe an eye-patch for Varga, to make it 
 Varga sat down beside Corvane. "No."
 
 
-## Chapter 67: No Engine on a Mat
+## Chapter 67: A Knife Pilot?
 
 The edge of the mat looked round at itself. Isk, Tavi, Morcant, Sallow, Mira, Teo, Brenner
 and Ferro-Ashe had not fought yet.
@@ -26221,7 +26221,7 @@ anyone had ever seen on her.
 "Then get on the mat, boss."
 
 
-## Chapter 69: Both Titles
+## Chapter 69: A True Champion
 
 The hold erupted. Morcant was banging on a container. Tey was already running for the
 sparring mat to clear it. Corvane folded his arms with a look of great interest. Nessa sat
@@ -26624,7 +26624,7 @@ Dace was already at his slate with a rag. He wiped out *KNIFE CHAMPION: MIRA*, w
 It was about 1830.
 
 
-## Chapter 70: What the Light Can Do
+## Chapter 70: Almost There
 
 "Good fight," said Tamsin. "But still, Mira beat the entire Light that does see
 ground-to-ground action."
