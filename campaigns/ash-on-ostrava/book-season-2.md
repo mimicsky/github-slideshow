@@ -1370,7 +1370,7 @@ coat.
 "All here, boss," said Varga. "Orsk's crew in thirty minutes."
 
 
-## Chapter 6: The Grey Widow
+## Chapter 6: Scheme
 
 "Once they arrive, we surround them and take them by surprise," said Tamsin. "If
 they're as innocent as he says, they'll surrender easily. If they're bad, they go
@@ -1943,7 +1943,7 @@ team two, on me. We're going to get the rest."
 plasteel."
 
 
-## Chapter 8: The Gardener
+## Chapter 8: Rage
 
 Team one went to work hauling crates down the *Widow's* ramp and walking bound Gate
 Guard up it. Team two fell in on Tamsin: Kell, Dace with his shield up front,
@@ -2258,7 +2258,7 @@ Then the bead clicked. Holt, on the command deck, careful.
 "...Dresh is dead. I heard it go quiet. Interrogator. We should talk."
 
 
-## Chapter 9: Mercy
+## Chapter 9: Swift Strike
 
 "WHERE THE FUCK ARE YOU, HOLT? YOU COME TO ME, OR IF I FIND YOU... IT'LL BE YOUR
 HEAD!"
