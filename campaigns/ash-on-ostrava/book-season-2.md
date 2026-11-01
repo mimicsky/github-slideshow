@@ -19887,7 +19887,7 @@ Lane one was still his. Tamsin stepped up to it. He would shoot until Varga left
 he would coach the boy himself, late into the night.
 
 
-## Chapter 52: The Circle
+## Chapter 52: Training N Planning
 
 It was 0100 on warp day 27 when Tamsin finally called it.
 
@@ -20794,7 +20794,7 @@ answer had come back through Merrick: hold the prisoners. She would send for the
 The rest of day 28 was training, and at night Tamsin coached Tey.
 
 
-## Chapter 55: Plasteel Order
+## Chapter 55: Poison Again?
 
 At about 0700 on warp day 29, Varga sat on the cot in the medicae bay with her chin up
 while Sallow peeled the last dressing off her left eye socket and shone a pen-lumen into
