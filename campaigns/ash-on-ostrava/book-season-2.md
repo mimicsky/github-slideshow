@@ -29245,7 +29245,7 @@ ceramite on Tamsin's chest.
 It was 1553.
 
 
-## Chapter 81: The Painted Room
+## Chapter 81: A Girl?
 
 Thask lay bound on the corridor floor. Close to, he was an old man in his sixties, heavy,
 in a long coat, and he smelled sweet. He turned his head on the floor to look up at
@@ -29508,7 +29508,7 @@ It was 1830.
 The Light slept aboard that night. In the cells, Thask and Ilsabet sat behind their doors.
 And in the medicae, under the low night lumens, the girl was asleep.
 
-## Chapter 82: The Bell-Man
+## Chapter 82: Horde
 
 At 0200 the wall vox in Tamsin's cabin woke him.
 
@@ -29659,7 +29659,7 @@ on the ring, the disc at his neck, and his bell, to be sorted with the rest.
 It was 0216.
 
 
-## Chapter 83: The Stab-Light
+## Chapter 83: Nighttime Raid
 
 "Brenner, tell the militia to guard the scrubber hall." Then, to the Light: "Team, let's
 go clear the customs house."
@@ -29945,7 +29945,7 @@ The customs house was the Light's. None of the Light was hurt.
 It was 0234.
 
 
-## Chapter 84: Last Word
+## Chapter 84: Venn?
 
 When it was over, they counted.
 
@@ -30073,7 +30073,7 @@ On the third she took the haul.
 At 0340 the Light stood in the empty customs house.
 
 
-## Chapter 85: One on One
+## Chapter 85: Light Split
 
 "Let's put a final stop to this assault."
 
