@@ -26941,7 +26941,7 @@ before the drop-out at Torvane's Mart.
 
 ---
 
-## Chapter 71: One Shot
+## Chapter 71: A Whole Different Story
 
 Tamsin keyed his bead and called a sound-off on THE LIGHT. The answers came back one after
 another, short and flat, the way Kell had drilled them.
@@ -27094,7 +27094,7 @@ steel girder in the other.
 It was 1106.
 
 
-## Chapter 72: This Pad Is Ours
+## Chapter 72: The Light's Takeover
 
 Tamsin went out of the door with Shameholder roaring in his right hand and Stinger in his
 left.
@@ -27259,7 +27259,7 @@ wet.
 stepped aside. "He's waiting for you, Interrogator."
 
 
-## Chapter 73: The Governor's Picture
+## Chapter 73: The Overview
 
 The lift was an iron cage on a chain, and it went up slowly. Moll rode it with them, one
 hand on the gate.
