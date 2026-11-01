@@ -3406,7 +3406,7 @@ waiting on Kesh's answer.
 
 # Part Two: Ustrennos Station
 
-## Chapter 11: Berth 2-9
+## Chapter 11: Orsk.?
 
 The galley was the only warm place for kilometres. Past the viewport the Spindle hung
 black against the stars, and frost was beginning to film its hull wherever the *Bright
@@ -3540,7 +3540,7 @@ minutes' walk from here."
 Down the corridor, the stair to the lower deck was dark. Cell 2 was quiet.
 
 
-## Chapter 12: Black Fingertips
+## Chapter 12: Black Tips
 
 "Let me get kitted up," said Tamsin. "Then let's go."
 
@@ -3842,7 +3842,7 @@ A drunk dockhand stumbled out of the hatch past them, saw the rosette, and walke
 lot straighter for the next ten metres.
 
 
-## Chapter 13: The Slack Line
+## Chapter 13: Bar Fight
 
 "He's got to be in the back," said Tamsin. "Let's go there."
 
@@ -4077,7 +4077,7 @@ Two troopers hauled Joss up and cuffed him. He did not fight.
 Merrick looked at the station chrono on her wrist. It read 0457. On ring four, at
 berth 4-2, the *Kestrel's Due* was due to undock in a little over an hour.
 
-## Chapter 14: Berth 4-2
+## Chapter 14: Brother Shoots Brother
 
 Three minutes to five, and the *Kestrel's Due* undocked at six.
 
@@ -4543,7 +4543,7 @@ again. But this time a voice was shouting, "*Station security! Weapons down!*"
 Merrick's people.
 
 
-## Chapter 15: Up at Four
+## Chapter 15: Hurt Again
 
 Tamsin keyed his bead. "Light, help each other out. If you're not hurt, do the most
 you can before Sallow can tend to them."
