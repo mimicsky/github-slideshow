@@ -31296,7 +31296,7 @@ his fever stayed down.
 Tamsin woke at 1640.
 
 
-## Chapter 91: Light-Bringers
+## Chapter 91: Honors and New Lights
 
 At 1650 Tamsin called them all into the galley.
 
@@ -31669,7 +31669,7 @@ Ferro the plate waits. He'll say the plate doesn't like waiting." He gave a smal
 He was already bent back over Kell's strap when Tamsin went.
 
 
-## Chapter 93: No Arguing
+## Chapter 93: New Kits
 
 Tamsin climbed the narrow stair up out of the workshop. It was 2231.
 
@@ -31831,7 +31831,7 @@ arrows running from each piece to its job.
 
 The chrono on the bulkhead had turned over into the next day. It was 0021.
 
-## Chapter 94: Name Her
+## Chapter 94: Design Fever Pt 1
 
 The two finished sheets went into the desk's flat drawer, on top of the spare las pack.
 Tamsin slid it shut, and the drawings were gone from sight.
@@ -32025,7 +32025,7 @@ the third was crowded front and back.
 The chrono read 0246.
 
 
-## Chapter 95: At My Shoulder
+## Chapter 95: Design Fever Pt 2
 
 The stubber's sheet went in on top of the others, its back side up with the note on it,
 and the drawer slid shut on three schematics.
