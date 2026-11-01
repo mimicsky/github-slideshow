@@ -17886,7 +17886,7 @@ it. "*Again.*" Faintly, from far up the station's spine, the dawn bell rang on r
 The chapel was open.
 
 
-## Chapter 47: The Oil of Seeing
+## Chapter 47: A Rite of Passage
 
 Tamsin walked out onto the upper deck. Kell was on the mat with Sorel, and called the
 drill off when he saw Tamsin's face. Corvane was already up and dressed, buckling his
@@ -18409,7 +18409,7 @@ with excitement, and then Corvane laughing, which was a rare sound.
 It was about 1430.
 
 
-## Chapter 48: A Hundred Percent
+## Chapter 48: Optimized Team
 
 In his cabin, Tamsin pulled a sheet of scrap vellum and a stylus out of the desk drawer
 and spread the vellum flat on the fold-down desk under the lumen. His weapon drafts for
@@ -18843,7 +18843,7 @@ boss." Morcant banged his spoon on the table once. Tey sat up straight. Even Var
 Tamsin went to bed.
 
 
-## Chapter 49: Courier Still Berthed
+## Chapter 49: Flee
 
 Warp day 24 began like any other training morning. Tamsin woke at 0600 to Kell running
 Sorel on the mat, the range cracking, and Dace's hammer already ringing through the deck.
@@ -19037,7 +19037,7 @@ Tamsin keyed the bead on the move. "He's on the hauler. Hold the lock."
 "*Holding.*"
 
 
-## Chapter 50: Duty of Coin
+## Chapter 50: A Signal…
 
 At 0344 they reached berth 4-31. The freight berths were louder than the rest of the ring:
 cargo lifters whining, servitors clanking, lumens blazing white over the loading bay.
