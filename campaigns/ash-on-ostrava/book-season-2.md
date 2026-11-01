@@ -15530,7 +15530,7 @@ He leaned back and looked at it all. It came to a great many Thrones. He had eig
 It was about 2300 when he put out the lumen and went to sleep.
 
 
-## Chapter 41: Restock Day
+## Chapter 41: Feed Shame
 
 At 0600 on warp day 20, Tamsin woke, rolled his shoulder out of habit, and waited for
 the bite. It did not come. There was a dull stiffness when he pushed it all the way, and
@@ -16028,7 +16028,7 @@ Morcant were both standing well back, staring.
 It was about 1200.
 
 
-## Chapter 42: Not My Sergeant
+## Chapter 42: Disappointment
 
 Tamsin looked over at Kell. "Me, you... ring. Just hands."
 
@@ -16452,7 +16452,7 @@ empty corridor for a long moment.
 the first time." A sip. "Either way, we've got two nights clean now. I'll take that."
 
 
-## Chapter 43: Thorn
+## Chapter 43: Pictures?
 
 At 0610 on warp day 21, Tamsin had been up all night on watch. The corridor was waking
 up, and Kell was on the mat with Sorel and expected him there too.
@@ -16968,7 +16968,7 @@ one. *Hull done, one guard.* Tonight's picts never left the slate."
 It was about 0320.
 
 
-## Chapter 44: Cold Store Row
+## Chapter 44: Got 'Em Both
 
 "What time do you meet him, and when are we to drop off the photos?"
 
@@ -17223,7 +17223,7 @@ It was about 1440. Tamsin had been awake since 2130 the night before, and his ey
 burning. He went up to his cabin and lay down, to sleep until he was not tired any more.
 
 
-## Chapter 45: Waiting
+## Chapter 45: A Hit
 
 At 0040 on warp day 23, Tamsin woke on his own in his cabin. For the first time in days he
 was fully rested, and the ship was night-quiet around him.
