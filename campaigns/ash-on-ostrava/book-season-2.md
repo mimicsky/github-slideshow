@@ -9591,7 +9591,7 @@ happily. Her lift pack was done.
 
 Orne's buoy call was at 1000. The trade was at noon.
 
-## Chapter 26: Seal the Deal
+## Chapter 26: Backstab
 
 At 0615 on warp day 16, Tamsin kitted up in his cabin.
 
@@ -10125,7 +10125,7 @@ Kell sat down heavily on the ramp and pulled his mask off.
 "Hell of a deal, boss."
 
 
-## Chapter 27: What It Costs
+## Chapter 27: Afterwards
 
 The hold of the *Bright Light* was full of people coming down off a fight. Sallow went
 with the stretchers. Corvane sat on a crate waiting his turn for stitches. Hollis was
@@ -10301,7 +10301,7 @@ the *Sable Margin* was going away with sixty mouths aboard and a quartermaster i
 chair.
 
 
-## Chapter 28: For the Light
+## Chapter 28: Light Days
 
 The recaf was bitter and too hot. The galley was small: one long steel table bolted to
 the deck, a hot-plate, a row of lockers, and a vox-grille over the door hissing on low.
@@ -10783,7 +10783,7 @@ workshop, the lathe spun up for the Valkyrie's jaw.
 It was about 1530.
 
 
-## Chapter 29: To Save a Life
+## Chapter 29: One Eyed
 
 Ustrennos was a fleet anchorage and ran on watch shifts, so its shops stayed open well
 into the evening. Tamsin did not wait for morning. He would take them one by one: the
@@ -11191,7 +11191,7 @@ room when she wakes up."
 "I'll be here at 0800."
 
 
-## Chapter 30: The Next Shot
+## Chapter 30: Little Kid
 
 He was back up the ramp of the *Bright Light* at about 2000.
 
