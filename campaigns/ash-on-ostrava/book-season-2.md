@@ -21101,7 +21101,7 @@ him, boss? Loud or quiet?"
 way."
 
 
-## Chapter 56: Under the Berths
+## Chapter 56: Red Handed
 
 At about 1410 they were on ring four. The freight berths were loud with haulers and
 loader-servitors. Sorel led them round the back of the spine-lift housing to a grimy
@@ -21502,7 +21502,7 @@ people made to do the bidding, she looked away down the dark run of pipes, and h
 tightened. After a moment she said, "Yeah." And then, more quietly: "Yeah. Let's go home."
 
 
-## Chapter 57: Bunk Sixty-One
+## Chapter 57: Gone with the Light
 
 They climbed out of the under-deck, rode the spine lift and took the tram back round to
 ring two.
@@ -22271,7 +22271,7 @@ Tamsin, Kell, Corvane and Tavi went round the back of the lift housing, through 
 access panel and down the rungs into the dark.
 
 
-## Chapter 59: Tank Three
+## Chapter 59: Takeover
 
 As they passed the debt men's alcoves, faces turned. The old woman with the spoon watched
 them go by without a word. Dekker lifted his burned hand an inch off his knee and let it
@@ -22654,7 +22654,7 @@ Hollen Brake was on his feet by the end of the day. And the crate man who had br
 own spores lived, on Merrick's antitoxin.
 
 
-## Chapter 60: The New Eye
+## Chapter 60: Gift Giver
 
 At 0800 on warp day 31, Tamsin stood in station medicae on ring one and waited for the
 dressing to come off.
