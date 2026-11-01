@@ -37444,7 +37444,7 @@ me." He touched his bead. "*Hollis. Mat. Bring the chalk. You're judging.*"
 "*Funny.*"
 
 
-## Chapter 115: New, Kell, New
+## Chapter 115: Mat Issues
 
 Word moved through the *Bright Light* faster than the bead did. By the time they reached
 the mat the people off the lanes had drifted up to its edge: Varga with her arms folded,
