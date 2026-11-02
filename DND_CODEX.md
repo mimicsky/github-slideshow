@@ -576,7 +576,7 @@ game-breaking.
 | 5 | Weak stomach | -1 on saves against gas and poison; retches at gore |
 | 6 | Slow healer | Recovers from a wound in more time; patches on them -1 |
 | 7 | Jumpy | -1 against fear and break checks; startles at loud noises |
-| 8 | Unlucky | Once a mission, the first natural 2 counts as a natural 1 (changed with the player, day 36 cleanup) |
+| 8 | Unlucky | Once a day, the first natural 20 is rerolled (set by the player, Ash on Ostrava day 37; was a natural 2 counting as a 1) |
 | 9 | Heavy sleeper | Hard to wake; loses the first beat of a night attack |
 | 10 | Restless sleeper | -1 on WIS rolls the day after a short night |
 | 11 | Lho habit | Needs their lho-sticks: after ~12 h without, -1 on WIS and INT |
