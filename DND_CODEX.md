@@ -515,7 +515,7 @@ game-breaking.
   | Specialists | 2 | an enemy with a bestiary role (a flamer, a sniper, a medic), or a skilled NPC |
   | Important characters | 3 | the Light's named people, and named figures: Captain Merrick, Venn, the bosses (Thask, Crale, Old Wick, Tegg) |
 
-- **Each roll:** first good or bad, then a **d32** on that table (d20 until the tables grew to 30, day 35; d32 from day 37, when the player added Defender, Brawler, Exposed and Hesitant).
+- **Each roll:** first good or bad, then a **d36** on that table (d20 until the tables grew to 30, day 35; d36 from day 37, when the player added Defender, Brawler, Exposed, Hesitant and the eight enemy-type traits).
   - **Everyone except important characters: 50/50** (d2: 1 good, 2 bad).
   - **Important characters: 75/25** (d4: 1-3 good, 4 bad).
 - **Rerolls:** a trait that contradicts one they already have (Eagle-eyed and Short-sighted, Strong back
@@ -530,9 +530,9 @@ game-breaking.
 - **When they're rolled:** enemies when the group is rolled; NPCs the first time they matter; the
   Light all at once when the system starts, then each new recruit when they join.
 
-**Good traits (d32)**
+**Good traits (d36)**
 
-| d32 | Trait | Effect |
+| d36 | Trait | Effect |
 | --- | --- | --- |
 | 1 | Eagle-eyed | +1 on Perception to spot things |
 | 2 | Keen hearing | +1 to notice by sound, and never caught napping by noise |
@@ -566,10 +566,14 @@ game-breaking.
 | 30 | Scrounger | When they're part of the search, the looting d20 finds a stashed rare on a **17-20**, not just a natural 20 (Part 8, Loot; changed by the player, Ash on Ostrava day 37; was 19-20) |
 | 31 | Defender | Better in cover: **cover on them counts one step more** (light +2, half +3, heavy +5) (added by the player, Ash on Ostrava day 37) |
 | 32 | Brawler | **+1 on melee rolls**, attacking and defending in the exchange (added by the player, Ash on Ostrava day 37; name the DM's) |
+| 33 | Raider Hater | **+1 on attacks against raiders** (shots and melee) (added by the player, Ash on Ostrava day 37) |
+| 34 | Cultist Eradicator | **+1 on attacks against cultists** (added by the player, day 37) |
+| 35 | Heretic Destroyer | **+1 on attacks against traitor elites** (renegade Inquisition teams, traitor storm troopers) (added by the player, day 37) |
+| 36 | Traitor Hater | **+1 on attacks against traitors** (renegade Guard, e.g. the Moebian 6th) (added by the player, day 37) |
 
-**Bad traits (d32)**
+**Bad traits (d36)**
 
-| d32 | Trait | Effect |
+| d36 | Trait | Effect |
 | --- | --- | --- |
 | 1 | Short-sighted | -1 on shots past ~30 m |
 | 2 | Hard of hearing | -1 to notice by sound; can miss a bead call in a loud fight |
@@ -603,8 +607,12 @@ game-breaking.
 | 30 | Warp-sick | -1 on all rolls for about an hour after a warp jump or a rough landing |
 | 31 | Exposed | Bad in cover: **cover on them counts one step less** (light gives nothing, half +1, heavy +3) (added by the player, Ash on Ostrava day 37) |
 | 32 | Hesitant | **-1 on melee rolls**, attacking and defending in the exchange (added by the player, Ash on Ostrava day 37; name the DM's) |
+| 33 | Retired Raider | **-1 on attacks against raiders** (old crew; they still look like friends) (added by the player, Ash on Ostrava day 37) |
+| 34 | Cultist Rememberer | **-1 on attacks against cultists** (some part of them remembers the chant) (added by the player, day 37) |
+| 35 | Forgotten Penitent | **-1 on attacks against traitor elites** (the ones who judged them once) (added by the player, day 37) |
+| 36 | Renowned Traitor | **-1 on attacks against traitors** (they know the name, and the name hesitates) (added by the player, day 37) |
 
-**Examples:** a militia trooper rolls once: d2 2 (bad), d32 13: **Loud**. A Hookman flamer
+**Examples:** a militia trooper rolls once: d2 2 (bad), d36 13: **Loud**. A Hookman flamer
 (specialist) rolls twice: good **Iron gut**, bad **Hothead**. Kell (important) rolls three times on
 75/25: good, good, bad, e.g. **Brave**, **Cool under fire**, **Restless sleeper**. Traits go in the
 roll checklist (line 8, standing bonuses, and line 9, conditions) like any other modifier.
