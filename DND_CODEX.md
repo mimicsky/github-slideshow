@@ -515,7 +515,7 @@ game-breaking.
   | Specialists | 2 | an enemy with a bestiary role (a flamer, a sniper, a medic), or a skilled NPC |
   | Important characters | 3 | the Light's named people, and named figures: Captain Merrick, Venn, the bosses (Thask, Crale, Old Wick, Tegg) |
 
-- **Each roll:** first good or bad, then a **d30** on that table (d20 until the tables grew to 30, day 35).
+- **Each roll:** first good or bad, then a **d32** on that table (d20 until the tables grew to 30, day 35; d32 from day 37, when the player added Defender, Brawler, Exposed and Hesitant).
   - **Everyone except important characters: 50/50** (d2: 1 good, 2 bad).
   - **Important characters: 75/25** (d4: 1-3 good, 4 bad).
 - **Rerolls:** a trait that contradicts one they already have (Eagle-eyed and Short-sighted, Strong back
@@ -530,13 +530,13 @@ game-breaking.
 - **When they're rolled:** enemies when the group is rolled; NPCs the first time they matter; the
   Light all at once when the system starts, then each new recruit when they join.
 
-**Good traits (d30)**
+**Good traits (d32)**
 
-| d30 | Trait | Effect |
+| d32 | Trait | Effect |
 | --- | --- | --- |
 | 1 | Eagle-eyed | +1 on Perception to spot things |
 | 2 | Keen hearing | +1 to notice by sound, and never caught napping by noise |
-| 3 | Steady hands | +1 on single aimed shots |
+| 3 | Steady hands | +1 on aimed shots (changed by the player, Ash on Ostrava day 37; was single aimed shots only) |
 | 4 | Quick hands | +1 on quick-draws; clearing a jam costs no beat, once a fight |
 | 5 | Strong back | +1 on STR rolls to haul, carry, climb or breach |
 | 6 | Thick-skinned | The first shrugged hit each fight doesn't count toward wear-down |
@@ -546,7 +546,7 @@ game-breaking.
 | 10 | Lucky | Once a mission, reroll a natural 1 |
 | 11 | Night owl | No penalty for short sleep; +1 on night watches |
 | 12 | Organised | **Once a fight, a reload costs no beat** (everything sits where the hand goes), and always carries one extra of a small thing (a grenade, a pack, a stimm) |
-| 13 | Fast learner | +0.1 extra for every 10 hours of training |
+| 13 | Fast learner | +0.1 extra for every 5 hours of training (changed by the player, Ash on Ostrava day 37; was every 10) |
 | 14 | Inconspicuous | +1 on stealth and blending into a crowd |
 | 15 | Light on their feet | +1 when dodging |
 | 16 | Silver tongue | +1 on persuading and bargaining |
@@ -563,11 +563,13 @@ game-breaking.
 | 27 | Iron will | +1 against interrogation; if taken, their Will starts 10% higher |
 | 28 | Field medic | +1 on patching wounds (a medic's patch, or anyone's Hurt-to-Fine patch) |
 | 29 | Quick reflexes | +1 to act first when it matters who moves first (an ambush going off, a shootout) |
-| 30 | Scrounger | When they're part of the search, the looting d20 finds a stashed rare on a **19 or 20**, not just a natural 20 (Part 8, Loot) |
+| 30 | Scrounger | When they're part of the search, the looting d20 finds a stashed rare on a **17-20**, not just a natural 20 (Part 8, Loot; changed by the player, Ash on Ostrava day 37; was 19-20) |
+| 31 | Defender | Better in cover: **cover on them counts one step more** (light +2, half +3, heavy +5) (added by the player, Ash on Ostrava day 37) |
+| 32 | Brawler | **+1 on melee rolls**, attacking and defending in the exchange (added by the player, Ash on Ostrava day 37; name the DM's) |
 
-**Bad traits (d30)**
+**Bad traits (d32)**
 
-| d30 | Trait | Effect |
+| d32 | Trait | Effect |
 | --- | --- | --- |
 | 1 | Short-sighted | -1 on shots past ~30 m |
 | 2 | Hard of hearing | -1 to notice by sound; can miss a bead call in a loud fight |
@@ -599,8 +601,10 @@ game-breaking.
 | 28 | Sickly | -1 on saves against disease and plague |
 | 29 | Slow reflexes | -1 to act first when it matters who moves first |
 | 30 | Warp-sick | -1 on all rolls for about an hour after a warp jump or a rough landing |
+| 31 | Exposed | Bad in cover: **cover on them counts one step less** (light gives nothing, half +1, heavy +3) (added by the player, Ash on Ostrava day 37) |
+| 32 | Hesitant | **-1 on melee rolls**, attacking and defending in the exchange (added by the player, Ash on Ostrava day 37; name the DM's) |
 
-**Examples:** a militia trooper rolls once: d2 2 (bad), d30 13: **Loud**. A Hookman flamer
+**Examples:** a militia trooper rolls once: d2 2 (bad), d32 13: **Loud**. A Hookman flamer
 (specialist) rolls twice: good **Iron gut**, bad **Hothead**. Kell (important) rolls three times on
 75/25: good, good, bad, e.g. **Brave**, **Cool under fire**, **Restless sleeper**. Traits go in the
 roll checklist (line 8, standing bonuses, and line 9, conditions) like any other modifier.
