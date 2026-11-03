@@ -465,3 +465,4 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 - ~0936 Tamsin's cabin: Nessa's spot (d3 1): **flat under the bunk**, hide 19. **Her shot if Tamsin's search misses (kept hidden till used): 3+5 = 8 (misses).** No +2 surprise (aimed and ready).
 - ~0937 Nessa out (Tamsin's shot 27 vs 15: under the bunk, partial cover). Left: **Kell (bridge, 17)**, with Teo at the helm.
 - ~0940 Bridge: Tamsin's shot under the forward console (Kell tucked low, partial cover, ~9 m; clear line left of Teo's chair if Tamsin gets low): **hidden number 15**. Kell's return shot if Tamsin misses: 19+4 = 23 (hits).
+- ~0941 Kell out (shot 29 vs 15). **Game 1 over: attackers win; Tamsin 6 of 6; Mira out to Isk.** Game 2: new spots and hides to roll when the next team is picked.
