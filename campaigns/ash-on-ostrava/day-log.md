@@ -233,3 +233,65 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1140: **Hollis's doors (d20 + 4): right 5+4 = 9 fail (the heel is back): -1 on his next shot; left 8+4 = 12 pass, just.** Tamsin: 'GO, GO, GO, KELL!' **Kell, lap 6 (+1; chain):** lane one 2+1 = 3 miss, 10+1-1 = 10 miss, 16+1-1 = 16 hit; vault; lane two 11+1 = 12 miss, 16+1-1 = 16 hit, **natural 1: the grit patch, again**, miss; vault; lane three 2+1 = 3 miss, 5+1-1 = 5 miss, 17+1-1 = 17 hit: **3 of 9**, the same as lap 5: one hit in every lane. Heading for the right-hand door.
 - ~1142: **Kell's doors (d20 + 4): right 5+4 = 9 fail; left 6+4 = 10 fail** (still glaring at the grit): **-2 on his next shot.** Tamsin: 'GO, GO, GO, TEY!' **Tey, lap 6 (alternating; R +4, L +3 with tired -1; -1 on the very first from his door; chain):** lane one R 10+4-1 = 13 miss, L 12+3-1 = 14 miss, R 15+4-1 = 18 hit; vault; lane two L 13+3 = 16 hit, R 18+4+2 = 24 hit, L 19+3+1 = 23 hit, three straight; vault; lane three R 5+4 = 9 miss, L 12+3-1 = 14 miss, R 13+4-1 = 16 hit: **5 of 9**. Heading for the right-hand door. Brenner next, the last of lap 6.
 - ~1144: **Tey's doors (d20 + 3: +4, tired -1): right 9+3 = 12 pass, just; left 15+3 = 18 pass.** Tamsin: 'GOOOOO!' **Brenner, lap 6 (+0; -1 on the very first from his door; chain; Lucky spent):** lane one 9-1 = 8 miss, **natural 20: dead centre**, 4+2 = 6 miss; vault (good leg); lane two 9 miss, 3-1 = 2 miss, **natural 1: the strapped ankle turned on the landing**, miss; vault; lane three 3 miss, 2-1 = 1 miss, 7-1 = 6 miss: **1 of 9**. Lap 6 done; hour 3 closes when he's over the walls.
+- ~1146-1306 (the player: roll hour 3's checks, 'CORVANE BACK IN, GO, GO, GO!', then simulate the hour). All rolls open (SystemRandom, the same RNG as dice.py); the raw roll sheet follows. Fixes to the sim's bookkeeping: Varga and Tey, hurt at the end of hour 3, rested hour 4 (laps 7-8) and are **back for lap 9** (the sheet's 'out 1' is a counting slip).
+  - **Brenner's lap 6 doors: both fail (-2 on his next shot).**
+  - **End of hour 3: Nessa fine; Tavi tired (now -2); VARGA 1: HURT (the shoulder, properly this time; rested hour 4); Morcant tired (-1); Mira tired (-2); Isk tired (-2); Hollis fine; Kell fine; TEY 1-1 = 0: HURT (a cramp knotted his calf on the left-hand wall; rested hour 4); Brenner tired (-1).** Corvane's rest up: back in, first.
+  - **Hour 4 (laps 7-8, three shots a lane), hits: Isk 7/18, Corvane 6/18, Hollis 6/18, Tavi 4/18, Morcant 4/18, Mira 4/18, Kell 4/18, Brenner 4/18, Nessa 2/18** (Varga and Tey resting). Highlights: Tavi two natural 20s in lap 7; Morcant a natural 20 off the line in lap 8 and another in lane two; Isk's lap 8 ended hit-hit-natural 20; Nessa had three natural 1s in two laps.
+  - **End of hour 4: Corvane tired (-1); Nessa fine; Tavi tired (now -3); Morcant tired (-2); MIRA 4-2 = 2: HURT (the bruised hip seized; out laps 9-10); Isk fine; Hollis fine; Kell fine; Brenner tired (-2).**
+  - **Carried into lap 9:** Corvane tired -1, first shot -1; Nessa tired -1, first shot -2; Tavi tired -3, first shot -2; Morcant tired -2; Isk tired -2, first shot -1; Hollis first shot -2; Kell first shot -1; Brenner tired -2, first shot -2; Varga and Tey back, fresh (their rest cleared the stacks); Mira out.
+  - **Totals after eight laps (hits/shots):** Tey 20/36 and Varga 16/36 (rested hour 4); Isk 26/54; Hollis 21/54; Nessa 17/54; Mira 16/54; Tavi 14/54; Morcant 14/54; Kell 14/54; Corvane 12/36; Brenner 8/39.
+  - **Range debt:** hard-training hours (they count): Nessa, Tavi, Morcant, Mira, Isk, Hollis, Kell 4h each; Corvane, Varga, Tey 3h; Brenner 2h; plus the ~25 minutes Brenner, Corvane and Nessa did before the course. **Left: Brenner 4h45, Tey 4h, Corvane 3h35, Varga 3h20, Mira 3h, Tavi 2h40, Nessa 2h35, Kell 2h30, Hollis 2h30, Isk 2h20, Morcant 2h20: about 33h35 in all** (from 73h50 at ~0902). DEX for the tally: +0.2 an hour of hard training each (no coaching +0.1: eleven runners is no small group).
+  - It's ~1306.
+  <details><summary>Raw roll sheet, hours 3-4</summary>
+
+```
+Brenner's lap 6 doors:
+  Brenner doors: right 9+2=11 fail (-1); left 2+2=4 fail (-1)
+END OF HOUR 3: Nessa 16-1=15 fine; Tavi 11-1=10 tired (now -2); Varga 1+0=1 HURT; Morcant 9+0=9 tired (now -1); Mira 8-1=7 tired (now -2); Isk 9-1=8 tired (now -2); Hollis 17+0=17 fine; Kell 13+0=13 fine; Tey 1-1=0 HURT; Brenner 5+0=5 tired (now -1)
+LAP 7:
+  Corvane lap 7: 7-1=6 3-2=1 12+0=12 | 18+0=18* 18+1=19* 17+0=17* | 16+0=16* 9+1=10 12+0=12  -> 4/9
+  Corvane doors: right 7+3=10 fail (-1); left 16+3=19 pass
+  Nessa lap 7: 1+1=N1 1+1=N1 2+1=3 | 2+2=4 12+1=13 17+1=18* | 9+2=11 8+1=9 2+1=3  -> 1/9
+  Nessa doors: right 15+4=19 pass; left 4+4=8 fail (-1)
+  Tavi lap 7: 15-1=14 14-2=12 15-2=13 | 20-1=N20* 5+1=6 18-2=16* | 7-1=6 20-2=N20* 8+0=8  -> 3/9
+  Tavi doors: right 13+1=14 pass; left 14+1=15 pass
+  Varga: resting
+  Morcant lap 7: 13-2=11 1-4=N1 19-4=15* | 4-1=3 13-4=9 11-4=7 | 6-1=5 2-4=-2 1-4=N1  -> 1/9
+  Morcant doors: right 16+4=20 pass; left 17+4=21 pass
+  Mira lap 7: 19+0=19* 19+2=21* 11+1=12 | 9+0=9 2-1=1 2-1=1 | 4+0=4 16-1=15* 7+1=8  -> 3/9
+  Mira doors: right 12+2=14 pass; left 11+2=13 pass
+  Isk lap 7: 2+2=4 17+1=18* 19+3=22* | 1+2=N1 5+1=6 11+1=12 | 5+2=7 1+1=N1 8+1=9  -> 2/9
+  Isk doors: right 17+3=20 pass; left 20+3=23 pass
+  Hollis lap 7: 2+1=3 18+1=19* 15+3=18* | 1+2=N1 15+1=16* 1+3=N1 | 8+2=10 12+1=13 6+1=7  -> 3/9
+  Hollis doors: right 9+4=13 pass; left 15+4=19 pass
+  Kell lap 7: 11-1=10 6+0=6 11+0=11 | 17+1=18* 3+3=6 14+0=14 | 4+1=5 3+0=3 16+0=16*  -> 2/9
+  Kell doors: right 4+4=8 fail (-1); left 13+4=17 pass
+  Tey: resting
+  Brenner lap 7: 16-3=13 14-2=12 14-2=12 | 20-1=N20* 1+1=N1 10-2=8 | 4-1=3 1-2=N1 7-2=5  -> 1/9
+  Brenner doors: right 2+1=3 fail (-1); left 11+1=12 pass
+LAP 8:
+  Corvane lap 8: 10-1=9 4-2=2 6+0=6 | 1+0=N1 18-2=16* 9+0=9 | 10+0=10 18-2=16* 13+0=13  -> 2/9
+  Corvane doors: right 11+3=14 pass; left 6+3=9 fail (-1)
+  Nessa lap 8: 3+1=4 8+1=9 3+1=4 | 10+2=12 6+1=7 8+1=9 | 1+2=N1 13+1=14 17+1=18*  -> 1/9
+  Nessa doors: right 3+4=7 fail (-1); left 5+4=9 fail (-1)
+  Tavi lap 8: 1-1=N1 10-2=8 11-2=9 | 1-1=N1 9-2=7 5-2=3 | 18-1=17* 10+1=11 13-2=11  -> 1/9
+  Tavi doors: right 9+1=10 fail (-1); left 6+1=7 fail (-1)
+  Varga: resting
+  Morcant lap 8: 20-1=N20* 18-3=15* 2-3=-1 | 13-1=12 8-4=4 20-4=N20* | 4-1=3 9-4=5 11-4=7  -> 3/9
+  Morcant doors: right 12+4=16 pass; left 13+4=17 pass
+  Mira lap 8: 7+0=7 17-1=16* 2+1=3 | 7+0=7 14-1=13 8-1=7 | 4+0=4 13-1=12 13-1=12  -> 1/9
+  Mira doors: right 17+2=19 pass; left 4+2=6 fail (-1)
+  Isk lap 8: 17+2=19* 7+4=11 4+1=5 | 8+2=10 8+1=9 17+1=18* | 15+2=17* 18+4=22* 20+3=N20*  -> 5/9
+  Isk doors: right 8+3=11 fail (-1); left 17+3=20 pass
+  Hollis lap 8: 5+2=7 18+1=19* 8+3=11 | 3+2=5 5+1=6 3+1=4 | 16+2=18* 4+4=8 19+1=20*  -> 3/9
+  Hollis doors: right 7+4=11 fail (-1); left 2+4=6 fail (-1)
+  Kell lap 8: 2+0=2 16+0=16* 6+2=8 | 10+1=11 14+0=14 14+0=14 | 2+1=3 16+0=16* 6+2=8  -> 2/9
+  Kell doors: right 8+4=12 pass; left 4+4=8 fail (-1)
+  Tey: resting
+  Brenner lap 8: 12-2=10 19-2=17* 5+0=5 | 14-1=13 17-2=15* 18+0=18* | 7-1=6 8-2=6 9-2=7  -> 3/9
+  Brenner doors: right 4+1=5 fail (-1); left 7+1=8 fail (-1)
+END OF HOUR 4: Corvane 6+0=6 tired (now -1); Nessa 20-1=19 fine; Tavi 10-2=8 tired (now -3); Varga resting; Morcant 5-1=4 tired (now -2); Mira 4-2=2 HURT; Isk 13-2=11 fine; Hollis 17+0=17 fine; Kell 14+0=14 fine; Tey resting; Brenner 9-1=8 tired (now -2)
+HOUR 4 HITS: {'Corvane': '6/18', 'Nessa': '2/18', 'Tavi': '4/18', 'Varga': '0/0', 'Morcant': '4/18', 'Mira': '4/18', 'Isk': '7/18', 'Hollis': '6/18', 'Kell': '4/18', 'Tey': '0/0', 'Brenner': '4/18'}
+CARRIED: {'Corvane': {'tired': -1, 'first_shot': -1, 'out': 0}, 'Nessa': {'tired': -1, 'first_shot': -2, 'out': 0}, 'Tavi': {'tired': -3, 'first_shot': -2, 'out': 0}, 'Varga': {'tired': 0, 'first_shot': 0, 'out': 1}, 'Morcant': {'tired': -2, 'first_shot': 0, 'out': 0}, 'Mira': {'tired': 0, 'first_shot': 0, 'out': 2}, 'Isk': {'tired': -2, 'first_shot': -1, 'out': 0}, 'Hollis': {'tired': 0, 'first_shot': -2, 'out': 0}, 'Kell': {'tired': 0, 'first_shot': -1, 'out': 0}, 'Tey': {'tired': 0, 'first_shot': 0, 'out': 1}, 'Brenner': {'tired': -2, 'first_shot': -2, 'out': 0}}
+```
+  </details>
