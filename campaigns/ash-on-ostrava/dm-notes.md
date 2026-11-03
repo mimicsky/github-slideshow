@@ -443,3 +443,7 @@ Cast out of the Mechanicus for letting a cogitator learn on its own. He still ke
 ### Varsaine
 
 His own story is true as far as it goes: keep him honest but not fully forthcoming. Agreement: Tamsin looks his way before going off-script.
+
+## Recruiting Wills (house rule 8)
+
+- **Dannel Rusk (recruiting; set day 37 ~0836, hidden): starts 55%** (Tamsin's read since day 34: about half-willing; he wants in but won't ask: shame (the garden, the shot at Tamsin) and Pell hold him back); **breaking point 40%** (below it he genuinely wants in, says so, and means it). What gets in: Pell (her safety, her future, her looking up to him), being trusted with real work, the garden named for the lie it was; what doesn't: being shamed for the mast (he already shames himself). **~0836: 'I see bravery here very little; I saved your sister; what do you want to do now?' (Pell and his shame: gets in) Persuasion 4+2 = 6, -1%: Will 54%.**
