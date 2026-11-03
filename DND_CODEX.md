@@ -479,6 +479,12 @@ the player tries to break or win over.
   - **Recruiting:** they genuinely want in. They won't betray or fight the player,
     like Nessa. The DM still plays them as themselves.
 - **Will checks.** Each push is one session of talk or pressure (about an hour).
+  **It's played as a real interrogation, in words (changed with the player, Ash on Ostrava day 37):** the player
+  says what Tamsin says, line by line, and the DM judges each line. **New leverage earns an extra check inside
+  the same hour:** something the subject didn't know the player had (a name, proof, a confession from someone
+  else, a loved one, a lie caught out). Saying the same thing again, or in harder words, doesn't count: that
+  card is already played. The words pick the skill: a threat is Intimidation, reason or kindness is Persuasion,
+  a lie is Deception.
   When the player says or does something that would really land, the DM calls the will
   check and rolls it openly for them (the player doesn't have to ask; Ash on Ostrava, set
   session 9); the DM picks the skill from the approach (Intimidation, Persuasion, a variant
