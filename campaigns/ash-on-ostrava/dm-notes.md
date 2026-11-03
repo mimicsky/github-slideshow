@@ -457,3 +457,4 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 - Game 1 progress: ~0918 Morcant out (container 1, Tamsin's shot 28). ~0921 Mira out (medicae: found Isk 22, her shot 6 missed, Isk's 19 hit). Left: Nessa (Tamsin's cabin, 19), Varga (galley, 11), Isk (medicae, 11), Kell (bridge, 17), Dannel (bunk room, 11).
 - ~0922 Isk re-hid in the medicae after shooting Mira: **11+5 = 16**, spot (d3 3): **the blind side by the door, low behind the near cot (hinge side)**. Ruling: Tamsin slicing the pie, aimed and ready = no +2 surprise on Isk's shot if Tamsin's search misses.
 - ~0923 Isk out (Tamsin's search 18 vs 16; shot 25). Left: Nessa (Tamsin's cabin, 19), Varga (galley, 11), Kell (bridge, 17), Dannel (bunk room, 11).
+- ~0924 Galley: Varga's listen (WIS +2), alert from the medicae shot: **2+2 = 4** (hidden). Ruling: Tamsin's Stealth (d20+9) beats it = she doesn't hear him; if his search then misses, she gets no shot.
