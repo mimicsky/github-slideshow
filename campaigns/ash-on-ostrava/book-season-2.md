@@ -38668,8 +38668,8 @@ Brenner came over with the machete in both hands, held flat, as if it might bite
 
 ## Chapter 119: Body's the Brake
 
-Tamsin took the machete and climbed the stair out of the hold, and the cracks of the range
-followed him up through the deck plates. The sparring mat lay on the upper deck where the
+Tamsin took the machete and walked forward out of the hold along the main corridor, and
+the cracks of the range followed him past the stair head. The sparring mat lay on the upper deck where the
 old forge used to be: grey canvas over the plates, still smudged with chalk from
 yesterday's bouts.
 
@@ -38678,7 +38678,7 @@ the tip. The grip was a plain wrap with no wear on it at all. The edge had never
 anything but a whetstone.
 
 Brenner stopped at the edge of the canvas with his hands clasped behind him as if he were
-on parade. Footsteps came up the stair behind them, and Mira leaned on the rail at the top
+on parade. Footsteps came along the corridor behind them, and Mira leaned in the doorway
 and folded her arms.
 
 "Don't mind me, boss. Just scouting the competition."
@@ -39841,7 +39841,7 @@ Valk?"
 
 ---
 
-He took her down the stair into the hold. On the port side the two big Munitorum
+He took her aft down the main corridor into the hold. On the port side the two big Munitorum
 containers sat chained to the deck, rust-red and scuffed, PROPERTY OF THE LIGHT chalked
 across the doors and a padlock on them the size of her fist.
 
@@ -40255,7 +40255,7 @@ he could say anything she let go and ran: down the ramp, across the hangar deck,
 through the big door.
 
 Through it he heard Ollin's startled voice by the stores. "Whoa, careful, miss... Galley?
-Aye, I'll walk you up. This way. Mind the ladder."
+Aye, I'll walk you up. This way. Mind the sandbags."
 
 Their footsteps faded toward the hold.
 
@@ -40631,7 +40631,7 @@ carefully left white, were dozens of stars, every one with exactly five neat poi
 something out of a child's book. It was the only kind of star anyone had ever told her
 about. Ollin's paper twist lay empty between them.
 
-Joren's place was empty; Ollin had taken him down to the stores for light work. At the far
+Joren's place was empty; Ollin had taken him aft to the stores for light work. At the far
 end of the table Dannel sat alone with a cold mug, watching the two girls with a careful
 half-smile, like a man who did not quite trust what he was seeing to last. He was on his
 feet the moment he saw Tamsin, and the bench scraped. "S-sir."
@@ -40660,11 +40660,11 @@ their chests. Dannel half rose. "Sir... should I take them? To the hangar?"
 "No, let them go."
 
 They were gone in a scramble of socks and boots and flapping chart paper, Maren telling
-Pell the way, and their voices clattered off toward the hold stair.
+Pell the way, and their voices clattered off aft toward the hold.
 
 "Where's Joren?" said Tamsin.
 
-"J-Joren, sir? Mister Brake took him down to the stores. To help count the tins." A small,
+"J-Joren, sir? Mister Brake took him back to the stores. To help count the tins." A small,
 almost-smile. "Sallow said light work was all right now. He was glad. He hates sitting." A
 pause. "Should I... go and fetch him, sir?"
 
@@ -40744,7 +40744,7 @@ I'll be at the ramp every hour you're out there." He said it the way a man swear
 "I swear it."
 
 Then, for a second, the nineteen-year-old came back. The corner of his mouth tugged up,
-and his eyes went to the hatch, toward the hold stair and the hangar and the two girls'
+and his eyes went to the hatch, toward the hold and the hangar and the two girls'
 voices. "...Can I tell Pell?"
 
 "Stand, Dannel," said Tamsin. "At attention."
@@ -40770,7 +40770,7 @@ everything. "She thinks I count tins."
 
 Dannel broke attention so fast it was nearly a stumble, caught himself, and gave a sharp,
 clumsy salute, more enthusiastic than correct, the way Tey did it. Then he was gone, out
-of the hatch and down the corridor toward the hold stair at very nearly a run.
+of the hatch and down the corridor toward the hold at very nearly a run.
 
 ---
 
@@ -40951,7 +40951,7 @@ could only be a one-armed clap on the back.
 
 "Sorry! Sorry. Throne. Welcome aboard. *Properly* aboard."
 
-Their voices drifted off toward the stair. Tamsin sat alone among the crates and the chalk
+Their voices drifted off forward up the corridor. Tamsin sat alone among the crates and the chalk
 marks. It was about 0855.
 
 
@@ -41043,8 +41043,8 @@ Kell grabbed the next sandbag off the stack by the containers without a word, an
 them they built a solid grey wall across the right-hand doorway, waist high, and then the
 left. Kell slapped the top bag flat with his palm. "That'll bark some shins."
 
-By the time the second wall was up, the hold had filled. Mira came down the stair two at a
-time with Tey behind her, Tavi trailed in looking betrayed, Hollis and Isk came together,
+By the time the second wall was up, the hold had filled. Mira came aft along the corridor at a
+run with Tey behind her, Tavi trailed in looking betrayed, Hollis and Isk came together,
 Varga dropped the last few rungs without a sound, and Morcant came last, filled the
 doorway, and saw the wall. "...Oh, come *on*." Round the frame of the hangar door appeared
 Pell, Maren and Dannel, with charcoal-black fingers, and Mira gave Maren a quick wave.
@@ -41438,7 +41438,7 @@ it, and let him see that she did not, and took a slow sip and let it go.
 Lunch drifted on. Isk fell asleep sitting up, and Varga propped his mug upright so it
 would not spill. Faintly through the deck plates came the whine of Dace's wheel.
 
-At 1408, when the hour was up, Tamsin finished eating and took the Light down to the
+At 1408, when the hour was up, Tamsin finished eating and took the Light aft to the
 hangar, stiff but moving better than an hour before. Mira walked on her own, the hip
 holding, and Varga rolled her shoulder and seemed surprised it worked. Under the
 Valkyrie's white wing Ollin stood by a crate with four knives laid across it in a row,
