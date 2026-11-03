@@ -462,3 +462,4 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 - ~0926 Varga out (shot 24 vs 20 through the gap). Left: Nessa (Tamsin's cabin, 19), Kell (bridge, 17), Dannel (bunk room, 11).
 - ~0927 Bunk room: hatch open (d2 1). Dannel heard the galley shot (alert). Tamsin's search from the galley's forward door: d20+8 -2 (partial view from outside) vs Dannel's 11. **Dannel's shot if the search misses (kept hidden till used): natural 20, 20+1 = 21 (hits).** No +2 surprise (Tamsin aimed and ready from cover).
 - ~0928 Dannel out (search 17 vs 11; shot 29). Left: Nessa (Tamsin's cabin, 19), Kell (bridge, 17).
+- ~0936 Tamsin's cabin: Nessa's spot (d3 1): **flat under the bunk**, hide 19. **Her shot if Tamsin's search misses (kept hidden till used): 3+5 = 8 (misses).** No +2 surprise (aimed and ready).
