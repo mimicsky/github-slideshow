@@ -460,3 +460,4 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 - ~0924 Galley: Varga's listen (WIS +2), alert from the medicae shot: **2+2 = 4** (hidden). Ruling: Tamsin's Stealth (d20+9) beats it = she doesn't hear him; if his search then misses, she gets no shot.
 - ~0925 Tamsin's shot at the pantry locker: the door is steel, so the beam must go through the finger-wide gap: **hidden number 20** (hard). Varga's return shot if he misses: 14+4 = 18 (hits).
 - ~0926 Varga out (shot 24 vs 20 through the gap). Left: Nessa (Tamsin's cabin, 19), Kell (bridge, 17), Dannel (bunk room, 11).
+- ~0927 Bunk room: hatch open (d2 1). Dannel heard the galley shot (alert). Tamsin's search from the galley's forward door: d20+8 -2 (partial view from outside) vs Dannel's 11. **Dannel's shot if the search misses (kept hidden till used): natural 20, 20+1 = 21 (hits).** No +2 surprise (Tamsin aimed and ready from cover).
