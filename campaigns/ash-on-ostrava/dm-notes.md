@@ -456,3 +456,4 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 - Shots (set ~0921): a marker shot hits on a hidden **10** (a found or close target in a room); the hider's surprise shot also vs 10 (+2 surprise). NPC shot = d20 + DEX mod.
 - Game 1 progress: ~0918 Morcant out (container 1, Tamsin's shot 28). ~0921 Mira out (medicae: found Isk 22, her shot 6 missed, Isk's 19 hit). Left: Nessa (Tamsin's cabin, 19), Varga (galley, 11), Isk (medicae, 11), Kell (bridge, 17), Dannel (bunk room, 11).
 - ~0922 Isk re-hid in the medicae after shooting Mira: **11+5 = 16**, spot (d3 3): **the blind side by the door, low behind the near cot (hinge side)**. Ruling: Tamsin slicing the pie, aimed and ready = no +2 surprise on Isk's shot if Tamsin's search misses.
+- ~0923 Isk out (Tamsin's search 18 vs 16; shot 25). Left: Nessa (Tamsin's cabin, 19), Varga (galley, 11), Kell (bridge, 17), Dannel (bunk room, 11).
