@@ -426,6 +426,19 @@ day's end, from the training plan and from what happened in play.
   coach earns their own coaching rep (WIS +0.1 an hour) and does nothing else in that hour.
   The coach should know the thing they're teaching (a rifle shot can coach breathing and
   flinch for a pistol, not knife work).
+- **Hard training (set by the player, Ash on Ostrava day 37).** Training pushed past comfort:
+  **+0.2 an hour** in the stat (instead of +0.1). **Tamsin or Kell must be there the whole
+  time**; nobody hard-trains alone. **After each hour, roll a d20 for each trainee** (the DM
+  rolls openly; the trainee's stacked penalty applies to it):
+  - **1-3: hurt.** A strain, a burn, a pulled shoulder: off the line, **resting for an hour**.
+  - **4-10: tired.** **-1 on all their rolls**, the next hourly d20 included. **Penalties stack**
+    each time (-1, -2, -3...) **until they rest**.
+  - **11-20: a little tired, no penalty.**
+  A rest of an hour clears the stacked penalties (DM assumption, day 37). Coaching on top still
+  adds its +0.1 (DM assumption, day 37: so hard training with a coach is +0.3 an hour). Range
+  debt hours served as hard training still count as range debt hours.
+  Example (the player's): hour 1, d20 10: tired, -1. Hour 2, d20 8 - 1 = 7: tired again, -2;
+  a shot of 11 is rolled as 11 - 2.
 - **Books (set by the player, Ash on Ostrava session 10).** Every book has a **reading
   time** (hours), a **stat** (the one its subject trains: a shooting manual is DEX, a
   smithing or vox manual INT, an interrogation manual CHA), and a **completion bonus**.
