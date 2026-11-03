@@ -342,3 +342,4 @@ CARRIED: {'Corvane': {'tired': -1, 'first_shot': -1, 'out': 0}, 'Nessa': {'tired
 ## Day 38
 
 - ~0600: Tamsin woke (slept ~2300-0600: full rest). Warp day 3 of ~5 to the Rest (~day 41). **The night quiet (d20 10).** **Brenner's ankle (rolled): d4 2 + 1 (Slow healer) = 3 days; Sallow's care 13+4+4 = 21: a day off: down by the morning of day 39** (no mat till then). Kell's rotation starting on the range (most owed first: Brenner, Tavi, Corvane); recaf in the galley; Dace down at the forge sealing the Valk panel.
+- ~0605: Tamsin to the galley. **Ollin at the stove (frying ration bricks, recaf on); at the table (2d12 4, 2): Isk and Morcant.** Morcant on his third brick, still retelling his fall in the final to anyone; Isk with recaf and the token round his left hand, quiet. Morcant: 'Champion!' Ollin: a mug and a plate for the boss before he'd sat down.
