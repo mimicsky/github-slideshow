@@ -440,6 +440,7 @@ day's end, from the training plan and from what happened in play.
   Example (the player's): hour 1, d20 10: tired, -1. Hour 2, d20 8 - 1 = 7: tired again, -2;
   a shot of 11 is rolled as 11 - 2.
   **On a run-and-gun course, two laps count as one hour** (the player, Ash on Ostrava day 37): the hourly d20 comes every two laps.
+  **The sandbag course (the player's design, Ash on Ostrava day 37):** knee-high sandbags across each lane line (vaulted, not rolled), waist-high walls in the exit and entry doors (**rolled: d20 + the better of STR or DEX, minus any tired penalty, vs a hidden number; fail = a scramble, -1 on the next shot; natural 1 = a fall, d6: 1-2 hurt (rest an hour), 3-6 bruised (-1 on the next shot)**). Shots on the move after each vault: run and gun -2; one, two or three per lane as called (a lane's shots are a string: the chain and recoil apply); a natural 1 on a shot is a stumble.
 - **Books (set by the player, Ash on Ostrava session 10).** Every book has a **reading
   time** (hours), a **stat** (the one its subject trains: a shooting manual is DEX, a
   smithing or vox manual INT, an interrogation manual CHA), and a **completion bonus**.
@@ -758,6 +759,7 @@ What the DM has always done, written down so anyone can run it.
 
 ### Matches, bouts and knife bouts
 
+- **Two-on-two knife matches ('team building', the player's design, Ash on Ostrava day 37):** pairs (chosen or drawn); knife-bout points (minor 1, vital 2: a raw 17+ or a win by 5+); **a fighter is down at 2 hits; one round: the match ends when both of one pair are down**; initiative d20 + DEX; in order, each fighter still up chains up to 3 strikes (knives are light; only an evade-and-counter ends the chain) at an opponent of their choosing; the losing pair does push-ups until the next match ends. Tamsin adds +11 as in the knife bouts.
 - **Matches and contests go round by round** (shootouts, bouts, races): roll one round, show it, stop for the player (who may coach or react), then the next. Never run a whole match in one go. **In mat bouts a "round" is a touch:** play the blocks and parries straight through and stop only when a touch lands. Mat bouts use blunt practice swords only (no shields, no specialties): d20 + STR each. **Knife bouts** (blunted knives, chalked edges; no specialties): **d20 + DEX each** (**Tamsin adds his proficiency**: +11; changed with the player, day 36 cleanup); blocks are **slips**, parries are **evade-and-counter**; a landed strike to hand, arm or leg is **minor (1 hit)**, to head, neck, torso or back is **vital (2 hits)**: vital on a **raw 17+ or a win by 5+**, otherwise minor; **first to 2 hits wins the round, first to 5 rounds wins the bout** (in Ash on Ostrava, Dace and Hollis judge). In real fights knives use the better of STR or DEX (house rule 5, "Which stat"). Set by the player, Ash on Ostrava session 10.
 
 ### Rulings made at the table
