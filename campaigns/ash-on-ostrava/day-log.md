@@ -48,3 +48,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~0932: Tamsin to Kell's cabin door: same drill. **Empty** (no roll). Left unchecked: the briefing room, Tamsin's cabin, the bridge (past the main hatch/lock). Two hiders left.
 - ~0933: Tamsin peeked into the lock (main hatch) and the corridor corner by it. **Empty** (not a hiding spot; no roll). Left: the briefing room, Tamsin's cabin, the bridge. Two hiders left.
 - ~0934: Tamsin at his own cabin door, listening (same ruling as the galley: d20+3 vs a hidden number). **The player's d20 11 +3 = 14: misses it. Nothing learned either way** (only the ship's hum and the air grilles).
+- ~0935: Tamsin opened his cabin door and pulled out of line, flat against the corridor wall beside it. No beam, no sound (a hider inside won't fire at an empty doorway). He can see none of the room from there.
