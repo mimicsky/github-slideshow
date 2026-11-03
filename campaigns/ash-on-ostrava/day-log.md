@@ -296,3 +296,4 @@ CARRIED: {'Corvane': {'tired': -1, 'first_shot': -1, 'out': 0}, 'Nessa': {'tired
 ```
   </details>
 - ~1307: Tamsin: 'Everyone gather around.' The Light gathered at the painted line: the walking ones on their feet, Tavi hauled up by Morcant, Brenner hopping; Varga, Tey and Mira stayed against the bulkhead under Sallow's eye but turned to face him; Corvane up on one leg. Ollin at the hangar door with the girls and Dannel. Quiet, waiting.
+- ~1308: Tamsin: good work everyone, hard work; another after lunch; for now go eat and rest for an hour, then his next challenge is waiting. (Lunch ~1308-1408 is an hour's rest: every tired stack clears, Mira's hour of rest for the hip is served, Varga's shoulder and Tey's calf likewise; all fresh at ~1408 under the hard-training rule.) The Light to the galley: Morcant half-carrying Tavi; Sallow walking Mira; Ollin's stew and bread. Tavi, face-down on the galley table: what's the next challenge? Everyone looked at the boss.
