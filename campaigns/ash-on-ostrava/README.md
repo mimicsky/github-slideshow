@@ -165,7 +165,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 - **'Still up' board at the end of every fight beat:** every enemy standing (tag, health, where, weapon), the Down count, the Light's hurt and key states.
 - **Narrate each roll line:** a few words of action with the math (`Kell (Light-bringer sergeant, leader) puts one round into Knife crank man: 16+7 = 23, it rips through him, badly hurt`).
 - **Second person** for Tamsin. **Don't act, think or feel for him.** Stop at the first new decision point.
-- **No game terms in the fiction.** NPCs never mention rolls, dice or numbers.
+- **No game terms in the fiction.** NPCs never mention rolls, dice or numbers. **What the player says to the DM out of character never reaches the characters** (slipped day 37: 'they're soldiers' echoed back by the Light).
 - **Save before the scene**: the note is just "(saved)", and the scene is the last thing in the reply. Commit and push after anything important.
 - **Full kit:** when gear is used, swapped, found or handed out, update the sheet's Full kit table and the crate count in the same save.
 - **Don't read pools, hidden notes or nemeses out to the player.**
