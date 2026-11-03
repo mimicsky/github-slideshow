@@ -478,24 +478,23 @@ the player tries to break or win over.
     give what they don't know.
   - **Recruiting:** they genuinely want in. They won't betray or fight the player,
     like Nessa. The DM still plays them as themselves.
-- **Will checks.** Each push is one session of talk or pressure (about an hour).
-  **It's played as a real interrogation, in words (changed with the player, Ash on Ostrava day 37):** the player
-  says what Tamsin says, line by line, and the DM judges each line. **New leverage earns an extra check inside
-  the same hour:** something the subject didn't know the player had (a name, proof, a confession from someone
-  else, a loved one, a lie caught out). Saying the same thing again, or in harder words, doesn't count: that
-  card is already played. The words pick the skill: a threat is Intimidation, reason or kindness is Persuasion,
-  a lie is Deception.
-  When the player says or does something that would really land, the DM calls the will
-  check and rolls it openly for them (the player doesn't have to ask; Ash on Ostrava, set
-  session 9); the DM picks the skill from the approach (Intimidation, Persuasion, a variant
-  pairing) and takes Will down:
+- **Will checks: a real interrogation, in words (changed with the player, Ash on Ostrava day 37; replaces
+  'one check per push, about an hour').** The player says what Tamsin says, line by line. **The DM decides
+  whether each line gets in, by who the subject is:** what they fear, love, guard and believe. A line that
+  gets in earns a will check; a line that doesn't, earns nothing. **New leverage gets in most easily**
+  (something they didn't know the player had: a name, proof, someone else's confession, a loved one, a lie
+  caught out); the same card played twice, or the same thing said harder, usually doesn't. No checks by the
+  clock. The DM calls the check and rolls it openly for the player (the player doesn't have to ask; Ash on
+  Ostrava, set session 9). The words pick the skill: a threat is Intimidation, reason or kindness is
+  Persuasion, a lie is Deception (or a variant pairing). **Each check takes 1-10% off** (the player, day 37;
+  was 0-20%):
 
   | Total | Will lost |
   | --- | --- |
-  | 9 or less | 0-2% |
-  | 10-14 | 5-10% |
-  | 15-19 | 10-15% |
-  | 20+ | 15-20% |
+  | 9 or less | 1-2% |
+  | 10-14 | 3-5% |
+  | 15-19 | 6-8% |
+  | 20+ | 9-10% |
 
   A natural 20 doubles it. A natural 1 does nothing (no Will lost, set by the player).
 - **Hard methods** (pain, injury, deprivation; **a spoken threat alone is ordinary pressure, not a hard method**: the player, Ash on Ostrava day 36) take **5% more** on each check, but
