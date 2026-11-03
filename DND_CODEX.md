@@ -439,6 +439,7 @@ day's end, from the training plan and from what happened in play.
   debt hours served as hard training still count as range debt hours.
   Example (the player's): hour 1, d20 10: tired, -1. Hour 2, d20 8 - 1 = 7: tired again, -2;
   a shot of 11 is rolled as 11 - 2.
+  **On a run-and-gun course, two laps count as one hour** (the player, Ash on Ostrava day 37): the hourly d20 comes every two laps.
 - **Books (set by the player, Ash on Ostrava session 10).** Every book has a **reading
   time** (hours), a **stat** (the one its subject trains: a shooting manual is DEX, a
   smithing or vox manual INT, an interrogation manual CHA), and a **completion bonus**.
