@@ -493,3 +493,4 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 - ~1207 Office bunks (Kell 9): only Tamsin's search counts (Tey faces back); no penalty from the doorway of a small room. Kell's surprise strike at Tamsin if the search misses (hidden till used): 12+4+2 = 18.
 - ~1209 Shrine (Hollis 7): Hollis's surprise strike at Tamsin if the search misses (hidden till used): 13+4+2 = 19.
 - ~1211 Mat (Nessa 12): Nessa's surprise strike at Tamsin if the search misses (hidden till used): 5+5+2 = 12 (hits).
+- ~1215 Blind fire round the medicae frame at Varga (tight to the wall on Tamsin's side): no laser bonus (he can't see the dot): d20+11 vs **hidden 18** (blind, but he knows the strip is narrow). If he misses, Varga's knife at the exposed gun arm: 15+4 = 19 (hits; an arm hit counts).
