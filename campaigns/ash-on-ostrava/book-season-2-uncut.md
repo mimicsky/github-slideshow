@@ -1,6 +1,6 @@
 # Ash on Ostrava, Season Two: uncut chapters (days 33, 34, 36, 37 and 38)
 
-The full text of these three days as first written, kept as the record when the book was tightened to about 8-12 chapters a day (the player, day 37). The main book (`book-season-2.md`) holds the shortened versions. Chapter numbers here are the original ones.
+The full text of these days as first written, kept as the record when the book was tightened: days 33, 34 and 36 to about 8-12 chapters a day (the player, day 37); days 37 and 38 to 2 chapters and 1 (the player, day 38: quiet days get 1-2). The main book (`book-season-2.md`) holds the shortened versions. Chapter numbers here are the original ones.
 
 # Day 33 (original Chapters 71-88)
 
