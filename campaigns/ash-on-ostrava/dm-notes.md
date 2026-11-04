@@ -495,3 +495,4 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 - ~1211 Mat (Nessa 12): Nessa's surprise strike at Tamsin if the search misses (hidden till used): 5+5+2 = 12 (hits).
 - ~1215 Blind fire round the medicae frame at Varga (tight to the wall on Tamsin's side): no laser bonus (he can't see the dot): d20+11 vs **hidden 18** (blind, but he knows the strip is narrow). If he misses, Varga's knife at the exposed gun arm: 15+4 = 19 (hits; an arm hit counts).
 - ~1219 Tamsin crossing to the spare cabin, his back to the bunk room hatch: Dace (stalking from the bunk room, 13) acts as he passes. Tamsin's Perception d20+8 vs 13. Dace's knife from behind if Tamsin misses (hidden till used): 11+2+2 = 15 (hits).
+- ~1223 Tamsin's cabin (Mira 22): Tamsin walks straight in. Mira's surprise knife if his search misses (hidden till used): natural 1 +4+2 = 7 (misses).
