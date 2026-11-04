@@ -496,3 +496,4 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 - ~1215 Blind fire round the medicae frame at Varga (tight to the wall on Tamsin's side): no laser bonus (he can't see the dot): d20+11 vs **hidden 18** (blind, but he knows the strip is narrow). If he misses, Varga's knife at the exposed gun arm: 15+4 = 19 (hits; an arm hit counts).
 - ~1219 Tamsin crossing to the spare cabin, his back to the bunk room hatch: Dace (stalking from the bunk room, 13) acts as he passes. Tamsin's Perception d20+8 vs 13. Dace's knife from behind if Tamsin misses (hidden till used): 11+2+2 = 15 (hits).
 - ~1223 Tamsin's cabin (Mira 22): Tamsin walks straight in. Mira's surprise knife if his search misses (hidden till used): natural 1 +4+2 = 7 (misses).
+- ~1224 Dark round 5 over: attackers win. Tamsin 6 of 6 (Kell 25, Hollis 31, Nessa 25, Varga blind 28 vs 18, Dace 25, Mira 28); Tey down to Varga (12), whose quiet takedown failed (7 vs Tamsin's 19).
