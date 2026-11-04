@@ -42033,6 +42033,2878 @@ Four days to the Rest.
 
 Tamsin went to sleep.
 
+
+## Chapter 129: Something Else
+
+Tamsin woke at 0600 after a full night's sleep, and a quiet one. It was day 38, the third
+day of the warp, and the Rest was three days off. Through the bulkhead the engines pulsed
+on, deep and steady, and under them, faint through the deck plates, came the first cracks
+from the range. Kell's rotation had already started, most owed first. Somewhere below,
+Dace was at the forge sealing the Valk's panel, and the smell of recaf had found its way
+down the corridor.
+
+The galley was warm and loud. Ollin stood at the stove frying ration bricks in a pan, the
+urn ticking beside him, and at the long table sat Isk and Morcant, and nobody else yet.
+Morcant was on his third brick and still retelling his fall in the final to anyone who
+would listen, which at that hour meant Isk, who was not listening. Isk had his recaf in
+both hands and his prayer token wound round his left one, and he was very quiet.
+
+"*Champion!*" boomed Morcant the moment Tamsin came through the hatch.
+
+Ollin had a mug and a plate in front of the boss before he had finished sitting down.
+
+"Morning, boys," said Tamsin.
+
+"Morning, boss!"
+
+"Boss," said Isk.
+
+"Morning, boss," said Ollin from the stove, and flipped a brick.
+
+Morcant leaned across the table, hopeful as a dog at a mess hatch. "Boss. Is there another
+course today? The sandbags?"
+
+Isk turned his mug a quarter turn on the table and spoke without looking up, very quietly.
+"My arms still remember yesterday, sir. If it's the course again, I'd like to know before
+I pick Patience up."
+
+"Might have a redo of an old game," said Tamsin. "Then some hard strength training after."
+
+Morcant's whole face lit up. "*Strength.*" He said it the way other men said *payday*.
+"Finally. Boss, that's my *trade*." Then the first half caught up with him, and he pointed
+his fork across the table. "An old game. A *redo*. Light versus Light? The clearing
+drill?"
+
+Isk had not moved at all. "...Strength," he said, very quietly, to his recaf. A long
+pause, while he turned the token over between two fingers. "At least it isn't Patience's
+weight."
+
+"If it's the clearing drill, boss," said Ollin over his shoulder, "Hollis's fakes are back
+in their crate. I counted them in."
+
+"You'll see soon enough," said Tamsin, and finished eating.
+
+Morcant groaned and grinned at the same time, which only Morcant could do. Isk finished
+his recaf in silence and set the mug down very precisely. Ollin came and cleared the
+plate, and his eyes went to the pan, where a fourth brick was already spitting.
+
+"No, I'm alright," said Tamsin.
+
+It was about 0617.
+
+---
+
+The range was cold and bright, and the plates downrange were still scorched black from the
+day before. Brenner had lane one, his strapped ankle braced up on a sandbag so the weight
+came off it; Tavi had lane two; Corvane had lane three and stood very straight on his
+stiff knee, as though good posture could argue it into working. They had been on the line
+since 0600. The sandbags from the course were stacked by the door in a grey heap, split
+seams and all, and through the hangar hatch Tamsin could see Ollin's chalk bracket still
+standing on its crate under the Valk's wing, *THE BOSS & TEY* circled twice at the top.
+
+Kell walked behind the three of them with the slate. He glanced round at the step on the
+deck. "Morning, brother."
+
+"We'll do this for three hours," said Tamsin. "Then I have something else in mind."
+
+"Three hours. Three lanes." Kell did the sum without looking down. "Nine on the slate.
+Leaves about six and a half." He let that sit a moment. "Something else."
+
+He did not ask what. He never did. He only looked, for one long, flat second, at the
+sandbags by the door.
+
+Tamsin took the line. He walked it the way he had walked it every morning since the warp,
+a step behind each lane in turn, and called the faults as he saw them: a breath held too
+long, a shoulder come up off the stock, a trigger snatched to be done with it. A small
+group every hour, three lanes and three people, and each of them was a little better
+coming off the line than going on. At 0700 the shift changed, and Nessa, Kell and Hollis
+came on, and Hollis kept the slate during Kell's hour with his tongue between his teeth,
+mild as milk and much too pleased about it. At 0800 it was Varga, Isk and Morcant. Isk
+took up Patience with the face of a man taking up a cross. Somewhere about then the forge
+went quiet below them; down there, the Valk's panel was sealed.
+
+At 0900 the third hour ended. Kell took the slate back from the bench where Hollis had
+left it and read it down, mostly to himself.
+
+"Six thirty-five, brother." He tapped it twice. "Tey and Mira an hour each. Brenner
+forty-five. Everyone else forty or under." A dry beat. "Nobody got clever."
+
+---
+
+Tamsin went aft into the hangar and keyed the ship vox, and his voice crackled out of
+every speaker on the *Bright Light*.
+
+"Light-bringers to the hangar. Everyone who's healthy."
+
+They came. Kell came straight off the range with the slate under his arm, and Varga, Isk
+and Morcant came off the lanes behind him, Morcant almost at a run. Dace came up from the
+forge with his apron off and his sleeves still rolled. Hollis came, and Tavi, warily.
+Sallow came with the Bag over her shoulder, out of pure habit, and stopped just inside the
+hatch where she could see everybody at once. Corvane came walking very carefully on the
+stiff knee. Nessa drifted in with her arms folded and her eyes already going round the
+hangar for whatever it was. Tey arrived at a jog, red in the face, as though he had been
+afraid he would be last.
+
+Last but one came Sorel, and a few heads turned, because nobody had seen much of him in
+days. He had been in the dark end of the hold running his tracking drills alone, hour
+after hour, and he came out of it now blinking a little at the hangar lamps, tall and
+quiet, and took his usual place with his back to the wall and the door in view.
+
+Last of all came Mira. She was a Light-pilot, not a Light-bringer, but she was healthy,
+and she was not about to miss it. She planted herself in the middle of the deck as if
+daring anyone to send her back to the cockpit.
+
+Not all of them came. Teo had the helm. Ferro-Ashe was at the Geller rites, and the low
+binary drifted faintly through the plates. Brenner came as far as the hangar door on his
+strapped ankle and stopped there, leaning on the frame to watch, which was as far as
+Sallow would let him come. Ollin was not a Light-bringer and had not been called, and
+followed anyway, with a stub of chalk in his fist.
+
+They gathered under the Valk's white wing, beside Ollin's crate and its bracket.
+
+"Sallow," said Tamsin. "The other two aren't cleared for this?"
+
+Sallow did not need to ask which two. "Brenner, no." She did not even look at the door.
+"Not till tomorrow morning. The ankle's down by then. Not before." From the door frame
+Brenner sighed, quite loudly. "Joren, no. The collarbone. Light work, nothing over his
+head, for a week. He's not to so much as reach for a high shelf." She looked down the
+gathered faces once, clinical, one after another, the way she checked a dressing.
+"Dannel's fit, if you want him, boss. Nothing that hits hard. That jaw won't take it." A
+flat beat. "Everyone in this hangar's cleared. Bruises and all."
+
+"Where's my other penitent, then?"
+
+"Galley, boss," said Ollin at once. "With Pell and Maren. I left him watching the girls
+while I came for the call." He was already shifting his weight toward the hatch. "Want me
+to fetch him?"
+
+"Or the bead," said Kell, flat.
+
+"Yeah, go get him, Ollin."
+
+Ollin went at a run. He was back in three minutes with Dannel at a near-run beside him,
+and behind the two of them, because Ollin could not very well leave two eleven-year-olds
+alone in the galley with a hot stove, came Pell and Maren, Pell at full speed and Maren in
+her white-trimmed jacket a step behind. Dannel skidded to a stop on the hangar deck,
+breathless, and came to attention so hard his heels clicked.
+
+"Sir."
+
+The girls went straight to the door, where Brenner was, and stood on either side of him,
+and Pell immediately started asking him what was happening, and Brenner said he did not
+know, which was the truth and visibly hurt him.
+
+"Alright," said Tamsin. "Everyone get into a team of two."
+
+The hangar broke up and came back together almost at once, because most of them did not
+need to think about it. Kell did not even look round; he jerked his chin, and Hollis
+stepped up beside him. Varga looked at Isk, and Isk was already looking at her. Morcant
+threw an arm round Tavi's shoulders before Tavi could get away, and Tavi sagged under it
+like a man accepting his fate. Sorel turned to Tey and said, low and plain, "With me,
+kid," and Tey went to his side as though he had been called by name on parade. Nessa
+looked at Dace for half a second and jerked her head. "Little brother." Dace came,
+grinning. Corvane crossed the deck on his careful knee to where Dannel stood alone, and
+stopped in front of him, and the grey cord on Dannel's wrist was Corvane's own; Corvane
+had chosen him, and inclined his head, formal and calm, and Dannel stared at him and then
+nodded too fast.
+
+Mira did not look at anyone. She walked straight across the hangar to Tamsin and stopped
+at his shoulder, arms folded.
+
+"You said come and see you for pairs," she said. "So I'm seeing you."
+
+Sallow stayed exactly where she was, by the hatch, with the Bag. "Somebody has to be the
+medic."
+
+---
+
+Tamsin had eight training las packs in his kit, and he brought them out now and laid them
+on Ollin's crate in a row, under the bracket. They had been in his own gear since he left
+the Lighthouse, out of Ottrick's stores: marker packs, made for beginners. Fitted to a las
+weapon, they threw a bright, harmless beam that showed exactly where a shot had gone. No
+recoil. They recharged almost at once.
+
+Hollis bent and peered at the row, and then at Tamsin, and slowly began to smile.
+
+Tamsin laid out the game. It was the old clearing drill, redone. There would be six hiders
+spread through the ship, in new spots, anywhere at all from the hangar to the bridge: both
+containers, the range, the old cargo office with its two bunks, the shrine, the mat, the
+armoury, the medicae, the galley, the bunk room, every cabin aboard including his own, the
+briefing room, the bridge itself. The attackers went in pairs. They started from the
+hangar and cleared together, room by room, forward toward the bridge. One attacking pair
+cleared the whole ship; then everyone reset, the hiders went into new spots, and the next
+pair went in. He would pick the first two attacking teams himself. Then the hiders would
+step up. Then he would hand out the packs.
+
+There was a short silence while the Light took it in.
+
+"*LIGHT VERSUS LIGHT!*" Morcant roared, and the hangar rang with it.
+
+Nessa smiled. It was a small smile, and not a nice one; hiding was her trade.
+
+"Not the galley," said Tavi, to the deck. He had hidden in the galley once before, in the
+first clearing drill, behind the flour sacks, and remembered it. "Whatever happens. *Not*
+the galley."
+
+Mira's team would attack first, Tamsin told them: Mira and himself. Whoever wanted to hide
+against them could step up.
+
+They stepped up fast. Nessa first, unfolding her arms, because it was her trade and this
+was her game. Varga next, without a word, and the look she gave Tamsin with her one good
+eye said *payback*: she had not forgotten the reverse grip, or the sideways spring that
+had put her straight onto his blade. Isk, quietly. Morcant, every one of his two metres,
+entirely undeterred by the fact that there was no corner on the *Bright Light* big enough
+to hold him. Kell, flat and silent, who had taken chalk three times the day before. And
+then, after a moment, from the back, Dannel. Nobody had asked him. He stepped forward on
+his own, pale and set, the cord tight on his wrist, to prove himself.
+
+Corvane, beside the space Dannel had left, watched him go and said nothing at all.
+
+Tamsin handed out the packs. Six went to the hiders, and two stayed: one for Mira's
+laspistol, and one for Last Word. Mira seated hers with a click and checked it twice.
+
+The hiders had three minutes. They went off forward into the ship at a jog, six people
+going six different ways, and Nessa was gone from the hatch before anyone saw her leave
+it. Morcant's footsteps could be heard for a good deal longer. Ollin took up his post by
+the crate with the chalk and the chrono, and the rest of the Light settled in to watch
+from the hangar: Sallow by the hatch, Brenner and the girls at the door, and the six who
+were not hiding, already arguing quietly about where they would have gone.
+
+Mira stood at the mouth of the hangar with her pistol low and her eyes on the hold ahead.
+
+It was about 0915.
+
+
+## Chapter 130: Good Gap
+
+"Time, boss," said Ollin, with his thumb on the chrono.
+
+"Area by area," said Tamsin. "Containers first. Stay wide and cover my cross."
+
+Mira gave one short nod, the way she acknowledged a heading, and moved out to his left, a
+good three metres off, pistol low in both hands. They went forward out of the hangar
+together, slow, and edged up to the mouth of the hold.
+
+It looked the way it always looked. To port the two big cargo containers stood end to end
+against the bulkhead, their doors facing the open deck. To starboard the range ran away
+down its lanes, the plates still scorched from the day before, the sandbags gone from the
+course and stacked back by the door. The overhead lamps hummed. Somewhere far forward
+Teo's helm gave a faint chime, and then nothing. Nothing moved.
+
+Mira stopped. She did not look at Tamsin. She was looking at the first container.
+
+Its door was shut, but not quite. The latch had not caught; there was a dark line down the
+edge where it sat a finger off true. And from behind it, if you stood very still, came a
+sound like a bellows being worked very slowly and very carefully by someone who had been
+told bellows were not allowed: the unmistakable sound of a very large man trying to
+breathe quietly.
+
+The range lanes were empty. The second container's door was shut and latched, and nothing
+came from it. Mira lifted her off hand from the pistol grip and signed, quick and small,
+the way pilots sign across a cockpit when the vox is too loud: *container one. Door.* Then
+she touched two fingers to her own lips and puffed her cheeks out, very slightly.
+*Breathing.*
+
+Tamsin motioned her toward the range. She went, pistol up, and swept the lanes one by one,
+low behind the lane walls and high along the overhead, and turned back and shook her head.
+Empty.
+
+Tamsin walked up close to the first container, right up beside the door, so that whoever
+was inside would have to come all the way to the edge to see him. Then he took hold of the
+door, swung it wide, and shot.
+
+Morcant was crouched in the back of the container with his knees up round his ears,
+between a stack of crates and the end wall, two metres of storm trooper folded into a
+space made for one metre of cargo, his pack held up in front of him in both fists. He had
+perhaps a quarter of a second to see the door move. The marker beam crossed the container
+in a bright white-blue line and splashed across his chest in a burst of light, harmless
+and very, very visible.
+
+For a moment Morcant simply looked down at it.
+
+"In the *container*," he said. He sounded betrayed to the bottom of his soul. "You looked
+in the *container*."
+
+He unfolded himself, a joint at a time, and climbed out past Tamsin with as much dignity
+as a man can have with a bright splash on his chest, and trudged off aft toward the
+hangar, still muttering about the container.
+
+Mira had already checked the second container while he was complaining: empty, the crates
+lashed down, nobody behind them. She came back across the deck and signed it. *Clear.* The
+hold was clear.
+
+One down. Five to go.
+
+---
+
+Forward from the hold the main corridor ran the length of the ship toward the bridge.
+First came the old cargo office, which had two bunks in it now, and the head of the stair
+that went down to the lower deck. Then the shrine to port and the mat to starboard.
+
+Tamsin signed it out: he would take the office and the shrine. Mira had the mat. She
+nodded and went.
+
+The office was a small room and an honest one. Ollin's bunk was made up square, the
+blanket pulled so tight across it you could have bounced a coin, his boots side by side
+underneath. The other bunk was bare to the frame. Nobody under either, nobody behind the
+door. The stair head beside it dropped away into the dark of the lower deck, and that was
+not the game; the game was the main deck. Tamsin went on.
+
+The shrine was dim and close. The candles burned low and steady in their cups under the
+icon, the way they always did, and the little kneeling bench stood in front of them, and
+there was nobody there at all. He swept it twice, the corners and the alcove beside the
+icon, and came out.
+
+Across the corridor Mira came out of the mat at the same moment and signed, flat-handed.
+*Clear.*
+
+Next forward: the armoury to port, the medicae to starboard, door facing door across the
+corridor.
+
+Tamsin pointed her to the medicae and took the armoury himself. It was racks and lockers,
+guns in their cradles, the smell of gun oil. Nobody behind the lockers. Nobody under the
+bench. He stood in the doorway with his back to the corridor and Last Word low, finishing
+the last corner.
+
+Across the corridor Mira went into the medicae the way they had all been taught to go into
+a room, wide off the door, gun up. She saw him at once. There was a shape behind the far
+cot, low down, pressed into the gap between the cot and the cabinet, a grey cloak and the
+muzzle of a pack braced on the edge of the mattress, and Mira's pistol came round onto it,
+fast.
+
+Too fast. The beam went past the cot and splashed white-blue across the cabinet door a
+hand's width above Isk's head.
+
+Isk did not hurry. He never did. "Pilot," he said quietly, the way he called a target on
+the bead, and fired once.
+
+The beam took Mira square on the shoulder and splashed bright across her collarbone. She
+stood there in the doorway, looking down at it.
+
+"...Throne's *teeth*," said Mira, through them.
+
+She went aft, pistol hanging from one hand, muttering. Tamsin was alone in the armoury
+doorway across the corridor, and somewhere behind that cot Isk was alive, and alert, and
+he knew now exactly where the door was.
+
+---
+
+Tamsin turned back and went to the medicae door.
+
+He did not go through it. He came at it from the side, gun up, and sliced it: a step out
+from the wall, a sliver more of the room each step, clearing it piece by piece from the
+outside in. The near cot. The far cot, empty now, the cabinet behind it with Mira's miss
+still splashed bright across its door. The curtain. The deck beneath the cots.
+
+Isk had not stayed where Mira had found him. He had moved, the moment she went down, and
+he had moved well. He was low on the hinge side now, right up tight against the wall
+behind the near cot, so close to the door that anyone stepping through it would walk
+straight past him, and his pack was braced across the cot's edge with its muzzle on the
+doorway, waiting for a body to fill it.
+
+But nobody filled it. Tamsin had come round the edge instead. The last slice of the room
+opened up, and there was Isk's grey cloak against the wall, and Isk's eyes over the cot,
+still on the doorway.
+
+Tamsin had the first shot, and took it. The beam splashed across Isk's chest.
+
+Isk looked down at it, and then up at the edge of the door frame where Tamsin stood, and
+then back at the doorway he had been aiming at so carefully. He let out a long breath
+through his nose.
+
+"...I had the door," he said quietly. "Not the edge." He rose, and wound the prayer token
+round his left hand, and there was no comfort in it. "I should have had the edge."
+
+He went aft without another word. Two down. Mira out. Four hiders left: Nessa, Varga, Kell
+and Dannel. Tamsin was alone.
+
+Next forward was the galley.
+
+---
+
+He changed his footing before he went.
+
+Until then he had been walking the way soldiers walk through a ship, heel and toe, steady
+and ready. Now he came up onto the outsides of his feet and rolled each step down slowly,
+weight low, the way Nessa moved when she did not want to be heard, and the corridor went
+silent under him. He went up to the galley's aft hatch like that. It was shut. Through it
+came nothing but the hum of the ship, the low drone of the air grilles, the ticking of the
+urn somewhere inside as it cooled.
+
+Nobody inside had heard him come. He stood at the hatch and listened.
+
+At first there was only the hum. Then, under it, very faint, so faint that a man who had
+not stopped to listen would never have heard it at all: a hinge, creaking a fraction. Slow
+breathing, very controlled, the breathing of someone who was good at this. And a boot
+shifting its weight a few centimetres, and the tiny tinny scrape of a boot sole on a tin.
+
+It was all on the far side, by the stove, where the pantry locker stood: a tall steel
+locker where Ollin kept the tins. Someone was in it, with the door pulled to.
+
+He did not know who it was. He knew where.
+
+He pushed the hatch open. Across the galley, past the long table, the pantry locker's door
+stood open a finger's width: a thin dark line down its edge, enough to see out of, enough
+to shoot out of. He shot at the pantry locker.
+
+The locker door was steel, and a marker beam would not go through steel. It did not need
+to. It went through the gap: through a finger's width of dark down the edge of the door,
+from the far side of the galley, the long table between them. The beam went in through the
+gap like a thread through a needle and lit the inside of the locker white-blue for an
+instant.
+
+There was a short, flat silence.
+
+Then the locker door swung open, and Varga stepped out of it among the tins with a splash
+of light across the side of her face, the side of her good eye, harmless and very bright.
+She looked at Tamsin across the galley. She looked at the gap. She looked at him again.
+
+"Through the *gap*," said Varga, deadpan.
+
+She stepped over a tin of protein, walked the length of the galley, and stopped beside him
+at the hatch on her way out.
+
+"Show-off."
+
+She went aft. Three down. Three left: Nessa, Kell and Dannel. Ahead of Tamsin, beyond the
+galley's forward door, lay the cabins and the bunk room, and the main hatch, and the
+briefing room, and his own cabin, and the bridge.
+
+It was about 0926.
+
+---
+
+Tamsin crossed the galley to its forward door and stopped just inside it, and looked out.
+
+The corridor beyond was empty, lit and bare, and nobody could hide in a corridor. Across
+it, to starboard, the bunk room's hatch stood open, and through it he could see a slice of
+the room: the first row of bunks, the end of the second, the lockers along the wall beyond
+them, the kit bags hanging from their hooks. He could not see all of it from the galley
+door. He did not step out to see more. He stood where he was, Last Word low, and searched
+it from there, a piece at a time.
+
+The first row was empty, blankets flat. The end of the second row. The lockers.
+
+Between the second row of bunks and the lockers there was a gap, and in the gap a kit bag
+hung from its hook almost to the deck. Under the bag, a boot toe. Under the bag, a few
+centimetres further along, the round black muzzle of a pack. And over the top of the bag,
+if you knew to look for them, a pair of eyes, very wide, fixed on the galley door five
+metres away.
+
+Dannel had found a good spot, and he had kept still in it, which was harder. But he had
+picked a bag that did not reach all the way down.
+
+Tamsin shot first. The beam crossed the corridor and the bunk room in a line and splashed
+white-blue across the front of Dannel's carapace, just above the kit bag.
+
+Dannel came up out of his crouch at once and stood to attention between the bunks, heels
+together, chin up, out of pure habit, the splash glowing on his chest like a medal. He
+stood there for a second before he remembered there was no reason to stand to attention.
+Then he went red to the ears and went aft without a word, past Tamsin at the galley door,
+eyes front.
+
+Four down. Nessa and Kell left.
+
+---
+
+Tamsin went into the bunk room and cleared the far end of it, the rest of the bunks, row
+by row, under every frame and behind every locker. It was empty. Somebody's boots,
+somebody's book left open face-down on a blanket, nobody.
+
+Across the corridor, to port, ran the cabins: the spare, then Varga's, then Kell's. Beyond
+them the corridor opened at the main hatch, and beyond that lay the briefing room and
+Tamsin's own cabin, and at the end of it all, the bridge. Six places left, and two hiders.
+
+He took the spare cabin first. He did not walk into it. He opened the door and pulled
+himself straight back out of the line of fire, flat to the corridor wall beside the frame,
+and waited. Nothing. No beam, no movement, no breath. He looked in. A bare bunk, a
+fold-down desk folded up, a locker far too small for anyone but Pell. Empty.
+
+Varga's cabin, the same drill: open, pull out of line, wait, look. Empty. Her cabin was
+very neat, the bunk made, nothing out of place but a gun-cleaning kit laid out on the
+desk, every brush and rod and rag squared off with the edge of it as if with a ruler.
+
+Kell's cabin, the same. Empty.
+
+He went on to the main hatch. The lock was shut and dark, its red lamp glowing steady over
+the frame. He looked into it and into the corridor corner beside it, where the bulkhead
+turned. Nobody could hide there for long, and nobody had tried. Empty.
+
+That left three: the briefing room, his own cabin, and the bridge.
+
+---
+
+He stopped outside his own cabin door, close against it, and listened.
+
+There was nothing to hear. Only the ship's hum, the air grilles breathing, a faint tick
+from somewhere in the overhead. No breath, no creak, no shifting boot. He could not tell
+if anyone was in there or not.
+
+He opened the door and pulled out of line, flat against the corridor wall beside the
+frame.
+
+No beam came. No sound. If anyone was inside, they were not going to waste a shot on an
+empty doorway. From where he stood, flat to the wall, he could see none of the room at
+all.
+
+He swung wide into the doorway with Last Word up.
+
+The room was dim. The lumen was off. The desk, the chair, the rack with the Kasr Frontier
+and the Columnus side by side, the locker, the bunk with its blanket hanging down over the
+side to the deck. He swept it, desk to locker to bunk, and found nothing.
+
+A beam came out from under the bunk.
+
+It came from behind the hanging blanket, low, flat along the deck, and it missed him by a
+hand's width and splashed bright white-blue across the door frame beside his shoulder.
+
+Nessa was under his bunk. She had been lying flat on her back under it behind the blanket
+the whole time, and she had waited for him to fill the doorway, and she had missed. And
+now the shot had told him exactly where she was.
+
+He swung wide again, out of the doorway's line and back into it at a different angle, and
+shot at the bunk, low, through the dark under the frame where the blanket hung. It was a
+hard shot; most of her was under the frame and behind the cloth.
+
+The beam went under the blanket. There was a short, sharp exhale from under the bunk.
+
+Nessa slid out from beneath it on her back, slowly, a splash of light across her shoulder,
+and lay there on the deck for a moment looking up at the overhead.
+
+"...Lovely," she said.
+
+She got up, and brushed herself down, and then looked at her hands, and then at Tamsin,
+perfectly flat.
+
+"Your bunk's dusty, boss."
+
+She went aft. Five down.
+
+---
+
+The briefing room was empty. He cleared it corner by corner, round the hololith table,
+under it, behind the door, along the bench seats. Nobody.
+
+Only the bridge was left, and on the bridge, whatever else was there, there was Teo.
+
+Tamsin stood outside the bridge door and listened, and Teo made it hard. Teo was never
+still at the helm. He shifted in his chair, and the chair creaked. He tapped the console.
+The helm chimed and burbled under his hands, and somewhere in the middle of it all he was
+humming to himself, tunelessly, through his teeth. Through a shut door, with all of that
+on the other side of it, there was very little else to hear.
+
+Tamsin listened anyway, long and still.
+
+Under Teo's noises, between a creak of the chair and the next tap on the console, there
+was a breath. Slow, long, careful. Not Teo's. It came from low down, forward, to the left
+of the helm. And then a tiny sound, a knee easing its weight on the deck plates, the
+smallest shift of a body that had been crouched too long in one spot.
+
+Low. Under the forward console, beneath the viewport, a metre to the left of Teo's chair.
+Nine metres from the door, give or take. Whoever was in there had no idea he was standing
+on the other side of it.
+
+Tamsin got down low, on the side of the door that opened, and cracked it a hand's width.
+
+From down there, low in the doorway, there was a line. It ran across the bridge deck under
+the edge of the forward console, past the leg of Teo's chair, into the dark beneath the
+viewport where the console overhung the deck. It was a narrow line, and a tucked body at
+the end of it, mostly behind the console's lip. He put Last Word through the gap and shot
+along it.
+
+The beam went under the console and splashed.
+
+Teo jumped so hard his chair spun half round. "*Throne!*"
+
+From under the forward console, after a short pause, came a single quiet word.
+
+"...Brother."
+
+Kell crawled out from under the console into the light from the viewport, and sat back on
+his heels on the bridge deck, and looked down at the white-blue splash on his chest rig,
+just below the medal. Then he looked at the door, at the hand's width of gap Tamsin had
+shot through, low down, past the chair leg, under the console.
+
+"Good gap," said Kell.
+
+"I never said a *word*, boss," said Teo at once, both hands up off the helm, swivelling
+back round. "Not a *word*. On my medal. He crawled in there ages ago and I didn't even
+look at him. Much."
+
+That was six. Morcant in the container, Isk in the medicae, Varga in the pantry locker,
+Dannel in the bunk room, Nessa under the bunk, and Kell under the bridge console. Tamsin
+had cleared all six of them himself. The only one to fall on the attackers' side was Mira,
+to Isk. It had taken about twenty-five minutes, and it was about 0941.
+
+---
+
+Tamsin held out his fist.
+
+"Good work, Kell. A little loud, though."
+
+Kell looked at the fist, and then bumped it with his own.
+
+"...Loud." He thought about that, flat. "Breathing." A beat. "I'll work on it."
+
+"He was really quiet, boss, honest," said Teo, leaning out of the helm chair. "I only knew
+he was there because I watched him crawl in. I'd have bet my boat on him."
+
+Kell got up off the deck, and brushed his knees off, and looked at Teo.
+
+"And Teo hums."
+
+They walked aft together through the ship, past the briefing room and the shut lock with
+its red lamp, past the bunk room and the galley and the armoury, past the shrine with its
+candles and the office with Ollin's square bunk, and into the hangar.
+
+Hollis was already calling it before they were through the hatch. He stood on Ollin's
+crate with both arms up like a man announcing a prize fight. "*Boss six! Hiders nil!*"
+
+The hangar was full of splashes. Mira sat on the Valk's landing skid with her collarbone
+lit up white-blue, groaning. "The *medicae*. The *medicae* got me. I had him, boss. I
+*had* him." Morcant stood by the hatch with his arms folded over the splash on his chest,
+still sore about the container, telling Tavi about it, and Tavi was nodding as though he
+had heard it more than once already. Isk sat a little apart with the token wound round his
+left hand, turning it, quiet. Varga leaned against the bulkhead with the splash still
+bright on the side of her face and did not even look round.
+
+"Show-off," said Varga.
+
+Nessa had a splash on her shoulder and had not tried to rub it off. She addressed the
+hangar at large, flat as a deck plate. "The boss's bunk is dusty."
+
+Dannel stood at the very back, splash on his chest, still at very nearly attention, as
+though if he stood straight enough nobody would remember the kit bag.
+
+Ollin had his chalk out. He bent over the side of the crate, next to *THE BOSS & TEY*, and
+wrote a large careful *6* under it, and underlined it.
+
+At the hangar door Brenner stood with the two girls. Pell was hopping from foot to foot.
+Maren was staring at the splashes on everyone, the white-blue light on Mira's collarbone
+and Morcant's chest and Varga's face, wide-eyed, as if she could not quite work out how
+something so bright could not hurt.
+
+Six pairs still had not attacked: Kell and Hollis, Varga and Isk, Morcant and Tavi, Sorel
+and Tey, Nessa and Dace, Corvane and Dannel. They were all looking at Tamsin.
+
+It was about 0944.
+
+
+## Chapter 131: Two From One Box
+
+Tamsin picked Sorel and Tey.
+
+"Let's see what you got."
+
+"Kid," said Sorel, low and plain, and jerked his head. "With me."
+
+Tey was at his side so fast he nearly overshot, eager and red in the face, his hellpistol
+already in his hand. Sorel did not hurry at all. He looked once round the hangar, and once
+down the corridor, and seemed to be listening to something nobody else could hear.
+
+The hiders stepped up for the second game by who they were. Nessa first, because a bunk
+had beaten her and she wanted it back. Hollis, mild as milk, rubbing his hands: he had not
+had a go yet. Corvane, formal and calm, on his careful knee. Tavi, who announced to the
+hangar that wherever he went it would not be the galley. Mira, still with the splash on
+her collarbone, because she wanted a go from the other side. And Isk, quietly, with the
+token round his hand. He had had the door and not the edge, and he meant to fix it.
+
+Tamsin handed out the packs. There were eight, and eight players, so he took his own out
+of Last Word and handed that one over as well.
+
+"Hurry it up."
+
+The six scattered forward into the ship. Ollin had the chrono. Sorel and Tey stood at the
+mouth of the hangar with their packs seated, and Tey shifted from foot to foot, and Sorel
+stood perfectly still.
+
+Three minutes went by.
+
+"Time," said Ollin.
+
+Tamsin said nothing at all. He stood behind them, and when nobody told them to go, Sorel
+took Ollin's word and the boss's silence together and made his own sense of them.
+
+"Time's time, kid."
+
+They went into the hold together, slow, Sorel in front and Tey at his shoulder, and Tamsin
+followed at a distance, a long way back, watching.
+
+Sorel went the way he went everywhere: slow, quiet, eyes moving, reading the deck. He
+looked at the range lanes and the overhead and the gaps between things. He looked at the
+first container, and nothing about it caught his eye. Tey looked at it too and saw nothing
+but a shut door.
+
+So Tey went to it, eager, and swung it open.
+
+Tavi was in there, tucked down low just inside the doorway, pack up, grinning, and he had
+been waiting for exactly that. The beam took Tey square in the chest before the door had
+finished swinging.
+
+"*Oh*," said Tey, looking down at it.
+
+Sorel was already moving. He did not stand in the open and trade. He went sideways across
+the deck in three long strides to the corner of the second container and put the steel
+corner between himself and the first container's door, and fired from behind it. The beam
+splashed across the edge of the door, a hand from Tavi's head; Tavi was tucked in tight
+behind it, only an eye and a muzzle showing. Tavi fired back. That one splashed across the
+container corner a hand from Sorel's face. Sorel fired again, slow and careful, and missed
+again; Tavi was very small behind that door.
+
+Tavi fired again, and the beam caught Sorel on the shoulder, just past the edge of the
+corner.
+
+Sorel looked at it, and then at the door of the first container, where Tavi was climbing
+out with both fists in the air.
+
+"*TWO!*" Tavi's voice cracked. "*Two!* From the *box!* Morcant's *box!* Not the galley!
+*NOT THE GALLEY!*"
+
+The second game had lasted about a minute. The other five hiders were somewhere forward in
+the ship, waiting for attackers who were never going to come.
+
+Tamsin put his hand over his face.
+
+"You owe push-ups," he said, through it. "Until the next group is done."
+
+"Fair, sir," said Sorel, and got down at once onto the hold deck and started, slow and
+even, every one of them all the way down and all the way up.
+
+"Yes, sir!" said Tey, and dropped beside him, and went much too fast.
+
+---
+
+Tamsin went back to the hangar with Tavi bouncing at his side, and Sorel and Tey brought
+their push-ups with them and set up on the hangar deck by the Valk's skid, where everyone
+could watch. Sorel's pace had not changed at all. Tey's had already started to slow.
+
+Morcant met Tavi at the hatch with one finger pointed at him like a charge he was about to
+throw. "*My* spot. You took *my spot.*"
+
+"You got *found* in it," said Tavi. "I *won* in it."
+
+"Two from one box," said Varga, flat, without looking up from where she leaned on the
+bulkhead.
+
+"Call them in, brother?" said Kell. The other five were still out there, forward, hiding
+hard against nothing.
+
+Ollin was already holding the vox handset, and keyed it. "*Game's over! Tavi got both from
+container one. Everybody back to the hangar, please.*"
+
+They came in one at a time. Hollis came first, all the way from the briefing room,
+disgusted to his boots; nobody had come within thirty metres of him. He looked at Tavi,
+and at the two attackers doing push-ups on the deck, and made it official anyway, in the
+loud, delighted voice he used for scores. "*Tavi two! Attackers nil!*" Then, mild: "I was
+in the briefing room the *whole time*." Mira came in from the shrine. Corvane came from
+Kell's cabin, and Kell gave him a long look and said nothing. Isk came from the armoury,
+the edge he had meant to fix still unfixed. Nessa came in last, from somewhere, and would
+not say where.
+
+"Where were you?" said Mira.
+
+"Somewhere," said Nessa.
+
+Five pairs left to attack: Kell and Hollis, Varga and Isk, Morcant and Tavi, Nessa and
+Dace, Corvane and Dannel. Sorel and Tey went on with their push-ups.
+
+It was about 0952.
+
+---
+
+Tamsin picked Kell and Hollis for the third.
+
+Kell gave one nod. "Hollis. With me."
+
+"Twenty years I've followed him through doors, boss," said Hollis, mildly, to the hangar
+in general, stepping up to Kell's shoulder. "Twenty years. I'm not stopping now."
+
+The hiders stepped up. Tavi first, on a hot streak and glowing with it. Morcant, who was
+going to hide *properly* this time, he said, and nobody asked him what that meant. Nessa.
+Dace, to hide alongside his sister. Mira, again. And Dannel, again, from the back.
+
+Tamsin handed out the packs and nodded, and they took the nod as the go for the whole
+game. The hiders scattered. On the deck Sorel and Tey were still going, Sorel slow and
+even, Tey's arms starting to shake.
+
+Ollin called time, and Kell and Hollis went into the hold, and Tamsin followed at a
+distance again. What followed was the cleanest thing anyone saw all morning.
+
+They had done it together for twenty years, and it showed. They did not talk. Kell took a
+side and Hollis took the other without either of them choosing, and they swept the hold in
+the time it took Tey to do ten push-ups. On the range, Hollis found Dannel and put a beam
+across his chest before Dannel had seen him look. In the armoury Hollis found Morcant
+almost the moment he looked in, because hiding properly in an armoury, when you were two
+metres wide, turned out to mean crouching behind a gun locker that came up to your waist.
+Hollis shot him too.
+
+"*How?*" said Morcant, from behind the locker.
+
+"You're bigger than it, lad," said Hollis kindly.
+
+Mira had gone into Kell's own cabin. Hollis found her. His shot went wide, and Mira's came
+straight back and went wide too, and while the two of them were still looking at their
+misses, Kell stepped round Hollis's shoulder into his own cabin doorway and shot her
+square in the chest. Mira looked down at the second splash of her morning in silence.
+
+In the briefing room Kell found Nessa. Only just; it took him a second look, and a long
+one, at a shadow that should not have been there. Then he shot her. Nessa said nothing at
+all, which was worse than *lovely*.
+
+In Tamsin's cabin Hollis found Dace, crouched beside the locker, much too big for the
+space beside it and with nowhere else to go, and Hollis's shot was the best of the game,
+clean and quick, dead centre on Dace's chest.
+
+"...Yes," said Dace, looking down at it. "Fair."
+
+On the bridge, Hollis found Tavi tucked down beside the helm, and Teo said, "Don't look at
+*me*, I said *nothing*," and Hollis shot Tavi anyway. Tavi's streak was over. "...Aw."
+
+Six of six. Kell and Hollis had not been touched. Hollis had four of them, Kell two. Back
+in the hangar, Sorel and Tey's push-ups ended with the game; Sorel rose as though he had
+been doing nothing more strenuous than reading, and Tey lay flat on his face on the deck
+for some time.
+
+Tamsin caught up with them on the bridge.
+
+"Good work, you two."
+
+"Twenty years, boss," said Hollis. He did not even sound smug; he sounded as though he was
+explaining the weather. "I know where the Sarge is going to look before the Sarge does."
+
+"Hollis talks," said Kell.
+
+It was about 1016.
+
+---
+
+Back in the hangar, Tamsin picked Varga and Isk for the fourth game.
+
+"Copy," said Varga.
+
+Isk turned to her at once, before she had finished saying it, and spoke quietly, the token
+turning round his fingers. "Most tags wins?"
+
+Varga looked at him with her one good eye. "You're on."
+
+The hiders stepped up. Tey was first, still flushed from the push-ups, because he wanted
+another go after the container and did not intend to be doing push-ups again. Hollis
+stepped up after him, mild and interested: snipers clearing rooms was something he wanted
+to see. Nessa. Dannel. Dace. Mira.
+
+Tamsin handed out the packs and nodded. The hiders scattered, Ollin called time, and Varga
+and Isk went in. Tamsin followed at a distance.
+
+It was the most competitive clearance any of them had ever seen, and it was mostly between
+the two people on the same side.
+
+In the hold, Isk found Dace in the second container, low behind the crates, and put a beam
+across his chest before Varga had finished checking the range. "One," said Isk quietly.
+
+At the old office with its two bunks, neither of them saw Mira at all. She had been
+waiting, and she came up out of her spot with her pistol already on Varga, from close and
+from the side, and fired. It went past Varga's ear and splashed the bulkhead. Varga
+turned, without any hurry whatsoever, and shot her.
+
+"One," said Varga, flat.
+
+Mira looked down at her third splash of the morning. "...I'm not even *mad*," she said.
+"I'm just *tired*."
+
+On the mat, Isk found Tey and shot him. "Two." Tey said "*Aw*, no" and went aft.
+
+In the bunk room Varga found Hollis behind the second row of bunks and shot him. "Two."
+
+"Snipers clearing rooms," said Hollis, looking down at the splash. "I did want to see it."
+A mild sigh. "Should have watched from the hangar."
+
+Two each.
+
+In the spare cabin, Varga found Dannel. He was crouched in the corner behind the fold-down
+desk, and she saw him at once, and her shot went wide, past his shoulder, into the bunk
+frame. And Dannel, shaking, eyes enormous, brought his pack round and fired back, and it
+hit her. The beam splashed bright across Varga's chest.
+
+There was a moment of total silence in the spare cabin.
+
+Varga looked down at it. Then she looked at Dannel, crouched in the corner with his mouth
+open, staring at what he had done as if he could not believe it had happened.
+
+"...*Huh*," said Varga.
+
+Isk, behind her, put a beam across Dannel's chest before Dannel had finished being
+astonished. "Three," said Isk.
+
+Dannel did not even seem to notice he was out. He walked aft past Tamsin in a daze with
+the splash on his carapace, and his first tag of the day behind him, and every few steps
+he looked down at his own hands.
+
+That left Isk alone, with three tags to Varga's two, and one hider still out: Nessa,
+somewhere forward in the rest of the ship.
+
+Isk went on alone. He went into Kell's cabin slow and careful, and looked, and did not see
+her.
+
+Nessa did not miss. The beam came out of nowhere, from somewhere behind him, and caught
+Isk across the back before he had turned.
+
+"...Ah," said Isk.
+
+The fourth game was over. The hiders had won it, and Nessa was the last one standing. But
+Isk had three tags and Varga had two, and when Isk came back into the hangar, splashed
+from behind, and Varga looked up at him from the bulkhead with a splash on her own chest,
+he said nothing at all. He just held up three fingers.
+
+"You got shot in the *back*," said Varga.
+
+"Three," said Isk.
+
+"By *Nessa*."
+
+"Three."
+
+Varga looked at the three fingers for a long, flat moment. "...Show-off."
+
+It was about 1040.
+
+
+## Chapter 132: It's Always the Box
+
+Tamsin picked Morcant and Tavi for the fifth game.
+
+"*LIGHT VERSUS LIGHT!*" roared Morcant, exactly as loudly as the first time, and swept
+Tavi off his feet in a one-armed hug.
+
+Tavi did not even complain. He was still riding the second game, two from the box, and he
+came down off Morcant's arm grinning and already planning out loud. "We go slow. We go
+*smart*. We check *everything*. I know how they think, Morcant, I *am* how they think..."
+
+The hiders stepped up. Sorel, for the first time all day, because he had not had a go at
+hiding yet and wanted to see it from the other side. Corvane. Nessa, on the back of her
+win in the fourth game. Isk. Dannel, who had not stopped glowing since the spare cabin; he
+kept looking at Varga as if to make sure it had really happened, and Varga kept not
+looking back. And Varga herself, last, without a word.
+
+Tamsin handed out the packs.
+
+"Do good."
+
+The hiders scattered forward. Ollin called time. Morcant and Tavi went into the hold
+together, side by side, Tavi whispering plans, and Tamsin followed at a distance.
+
+They went straight to the first container.
+
+Of course they did. Morcant had been caught in it, and Tavi had won from it, and if anyone
+knew to look in that box it was the two of them. They came at it together, slow and
+careful, and looked it over top to bottom. Tavi even checked the latch. Neither of them
+saw a thing; whoever was in there had pulled the door to just right and was breathing the
+way Nessa breathed, which was to say not at all.
+
+Morcant reached out and swung the door open.
+
+Varga was crouched just inside it, low and tight, her pack already up. The beam hit
+Morcant in the chest from a metre away. He staggered back a step in pure outrage.
+
+Tavi fired at once, and it went wild; the beam went high over the container and splashed
+across the overhead, and Tavi stared up at it as though the overhead had moved. Varga,
+without any hurry at all, put the next one through the middle of his chest.
+
+The fifth game had lasted about as long as it took Morcant to open a door.
+
+Varga climbed out of the container and stood in front of Tavi, very close, and looked down
+at the splash on his chest with her one good eye.
+
+"Your own trick," she said.
+
+"...*Throne*," said Tavi.
+
+Morcant stood in the middle of the hold deck staring at the first container. It had found
+him in the first game, and it had been stolen from him in the second, and now it had shot
+him. He looked at it the way a man looks at a dog that has bitten him three times. "...It
+*hates* me," he said, quietly, to nobody.
+
+It was about 1045.
+
+---
+
+Ollin got on the vox and called the other five in, the same as after the second game, and
+they came drifting back: Sorel from Tamsin's cabin, where nobody had come near him, then
+Corvane, Nessa, Isk and Dannel.
+
+Tamsin picked Nessa and Dace for the sixth.
+
+"Lovely," said Nessa, and jerked her head. "Come on, little brother."
+
+Dace nodded once and came to her shoulder, grinning.
+
+The hiders stepped up. Morcant went first, with great dignity, and announced to the hangar
+that wherever he went, it would *not* be the box. Corvane, who had not been found all
+morning and meant to keep it that way. Mira, for the fifth time; she had stopped counting
+her splashes, but everyone else had not. Tavi. Tey. And Sorel, again.
+
+Tamsin handed out the packs and nodded. The hiders scattered, Ollin called time, and Nessa
+and Dace went in, and Tamsin followed at a distance.
+
+Nessa cleared a ship the way she did everything: quick, quiet, almost bored. She went to
+the first container before anything else, and opened it, and there was Corvane.
+
+Corvane looked at her from inside the container, and she shot him.
+
+"...That is the first time I have been found all morning," said Corvane, looking down at
+the splash. "And it was the box."
+
+"*Everybody* goes in the box," said Nessa, already moving.
+
+On the range she found Mira in one look and shot her. "*Four*," said Mira, to the
+overhead, and went aft.
+
+At the shrine it was Dace who found Morcant, wedged as small as he could make himself
+behind the end of the kneeling bench, under the candles. Dace's shot went wide, and
+Morcant came up out of the shadows roaring with his pack in both hands and put a beam
+square into Dace's chest.
+
+"*I GOT ONE!*" Morcant's whole face was alight. "*Dace!* I got *Dace!*"
+
+"...Yes," said Dace, looking down.
+
+Nessa shot Morcant while he was still celebrating. He did not even seem to mind. He went
+aft past Tamsin with a splash on his chest and his arms up like a champion. "*My first
+tag, boss!* Did you *see?*"
+
+On the mat Nessa found Tavi and shot him. In the spare cabin she found Tey and shot him.
+She went forward through the ship like a broom, and every room she went into came out
+clean, and by the time she reached the bridge she had five.
+
+On the bridge she looked, and looked, and did not see him.
+
+Sorel had found the one place on the ship nobody would think to look twice: behind Teo's
+helm chair, in the narrow space between the back of the chair and the bulkhead, where
+Teo's own body and Teo's own noise hid him. Nessa searched the bridge, the console and the
+viewport and every corner, and stepped past the helm, and Sorel came out from behind it at
+her back and put a beam between her shoulder blades.
+
+Nessa stood very still on the bridge deck.
+
+"...Lovely," she said.
+
+"Sorry, Nessa," said Teo, not very sorry at all. "He asked nicely."
+
+She had five tags. She had cleared the whole ship but one. And Sorel had won the sixth
+game for the hiders, from behind the helm.
+
+It was about 1110.
+
+---
+
+The seventh game was the last pair: Corvane and Dannel.
+
+"Make it through," said Tamsin.
+
+"I intend to, boss," said Corvane, formal and calm.
+
+Dannel came to his side at once. "Sir."
+
+The hiders stepped up. Varga went first; Dannel had tagged her in the fourth game, and
+nobody tagged Varga and walked away from it. Sorel, on the back of his win. Nessa, to make
+up for the bridge. Mira, for the sixth time. Morcant, still riding his first tag and
+telling anyone who would listen about it. And Isk.
+
+Tamsin handed out the packs and nodded.
+
+"Good luck."
+
+The hiders scattered forward. Ollin called time, and Corvane and Dannel went into the hold
+together, Corvane in front, a boarding officer's careful advance with his pack up, Dannel
+half a step behind with his face set and white.
+
+They went to the first container. Everybody went to the first container. Corvane had been
+found in it himself not half an hour before; he went over it carefully, the door, the
+latch, the gap at the bottom. He saw nothing. Neither did Dannel.
+
+Corvane opened the door.
+
+Mira was in the box.
+
+She had been in it the whole time, low and still, with her pistol already up and the grip
+already set, finger by finger, and her beam took Corvane in the middle of the chest before
+the door had finished moving. Dannel fired back, fast and frightened, and missed; the beam
+splashed the inside of the container a long way from Mira. Mira shot him too.
+
+She climbed out of the container with four splashes on her from the morning and her first
+two tags at last, and stood there between them, triumphant. "*Finally.*" She looked at
+Corvane, and at Dannel, and at the box. "Throne's teeth. I should have been in here *all
+morning.*"
+
+Corvane looked down at the second splash of his day, from the same box as the first.
+"...The box," he said, very quietly. "Again."
+
+---
+
+That was the clearing game: all seven pairs done, from about 0916 to 1115. The attackers
+had won two of the seven: Tamsin and Mira, with Tamsin taking all six of the hiders
+himself, and Kell and Hollis, six to nothing. The hiders had won the other five. And four
+of those seven games had been decided in the same place, the first cargo container in the
+hold. Morcant had been caught in it. Tavi had taken both attackers from it, and then
+Varga, and then Mira.
+
+Ollin chalked it all up on the side of his crate in neat columns, and drew a little box at
+the bottom, and underlined it twice.
+
+The last of the hiders came back in a few minutes later. Varga, Sorel, Nessa and Isk came
+in from forward, and Morcant came last, all the way back from the briefing room, where he
+had been hiding the whole game, beautifully, unseen, waiting for attackers who had never
+got out of the hold.
+
+"What happened?" said Morcant. "Who won? Where did they get them?"
+
+"Container one," said Hollis.
+
+Morcant stopped dead in the hangar hatch. His face went through disbelief, outrage and
+despair in about one second.
+
+"*THE BOX!*" He threw both arms up at the overhead. "*IT'S ALWAYS THE BOX!*"
+
+The hangar fell apart laughing. Tavi had to sit down.
+
+"Ollin," said Tamsin. "Go turn off all the lights on the ship."
+
+Ollin looked at him. "All of them, boss?"
+
+There was no answer, and Ollin did not seem to need one. "...Aye," he said, to himself,
+and went forward at a trot.
+
+The main lighting board was on the bridge. It took him a minute or two to get there. The
+hangar waited, and the laughing died away into a different kind of quiet, as one by one
+the Light worked out what the boss had just said.
+
+"...*All* of them?" said Tavi.
+
+At about 1119 the *Bright Light* went dark.
+
+It went section by section, from the bow aft, a wave of black rolling down the length of
+the main corridor toward them: the bridge, the briefing room, the cabins, the galley, the
+shrine, the hold. Then the hangar lamps went out over their heads, and there was nothing.
+
+Not quite nothing. Far forward, at the very end of the long black corridor, Teo's helm
+consoles still glowed faint green on the bridge, where he would not let anyone turn them
+off. And halfway along, the main hatch's red lamp burned steady over the lock, a single
+red point in the dark. That was all. The rest of the ship was black.
+
+At the hangar door, Maren took Pell's hand. Brenner stood beside them in the dark and did
+not move.
+
+---
+
+"New pairs," said Tamsin, out of the blackness. "Now."
+
+They found each other by voice and by touch. There was a great deal of shuffling and
+somebody's elbow in somebody's ribs, and in the dark, as in the light, most of them did
+not need to think about it, and nobody went back to the partner they had had before. Kell
+said "Corvane," flat and quiet, and Corvane said "Here," and that was that. Hollis found
+Dannel by his breathing. "Here, lad." Isk and Sorel ended up side by side without either
+of them saying anything at all, two quiet men in a dark room. Nessa said "Tavi" in a tone
+that made it an order, and Tavi said "*Yes*," and sounded thrilled. Morcant found Dace by
+walking into him. Varga said "Mira," and Mira said "Fine," and they stood together.
+
+Sallow stayed out of it again, a shape by the hatch with the Bag.
+
+Somewhere near Tamsin in the dark, someone very close came feeling their way along with
+one hand out, the other on a pistol grip, and stopped.
+
+"Sir?" A pause. Breathless, uncertain. "...Is this you, sir?"
+
+It was Tey.
+
+"Yeah, that's me," said Tamsin. "It's fine."
+
+It was about 1121.
+
+
+## Chapter 133: Just Old Habit
+
+"New rules," said Tamsin, into the dark. "Flashlight attachments on some of the guns.
+Attackers get the flashlights. Hiders get knives..."
+
+A light came bobbing aft down the long black corridor toward the hangar, swinging a little
+at every step, throwing a white circle along the deck plates and up the bulkheads and back
+down again. It was Ollin, back from the bridge at a trot. He had a small gun-mounted light
+switched on in one hand to find his way by, and another one, dark, tucked under his arm.
+
+"Boss." A little out of breath. He held them up, one lit, one not, so the beam swung
+across a dozen faces and made them all squint. "Found these stored away while I was
+cleaning her. Spares. Left aboard from when we took the ship, I reckon. Clamp straight
+onto a rail." He looked at the two of them. "Only the two, boss."
+
+Two lights for the attackers. That was one pair at a time.
+
+The knives were another matter. There were six hiders to a round and four training knives
+aboard: Hollis's pair from the mat locker, and the two Dace had blunted the day before. In
+the edge of Ollin's beam, Dace was already counting on his fingers.
+
+"Two more," said Dace. "The combat knife out of your satchel, brother. And a hive shank.
+Grind the edges off. Round the points. Wrap the grips. Chalk. Fifteen minutes." He caught
+Morcant's face in the swing of Ollin's light, and answered it before Morcant could open
+his mouth. "Blunted, Morcant. Like the bout ones."
+
+He took the second light off Ollin, switched it on, and went off forward through the black
+to the stair head, the beam bouncing ahead of him, and down the stair to the forge. A
+minute later the whine of the grinding wheel came faintly up through the deck plates.
+
+"Attacker pairs search with flashlights," said Tamsin, "while the hiders have to use
+stealth and hiding skills to take out the attackers. One hit equals a down. Take one
+attacker down without the other realizing, and that earns you an hour off your shooting
+debt."
+
+A pause went round the hangar in the dark. Then several people breathed in at once.
+
+"An *hour*," said somebody. It sounded like Tey.
+
+"Ollin," said Tamsin. "Turn on the lights for the hangar so we can see."
+
+Ollin keyed the vox handset by the hatch. "Teo? Can you put the hangar lights up for us?
+Just the hangar."
+
+"*Hangar only,*" came Teo's voice out of the speaker, cheerful and crackling, from the far
+end of the black ship. "*Aye.*"
+
+The hangar lamps came up overhead, slowly, warming from orange to white, and the Light
+stood blinking under the Valk's wing. Through the hatch the rest of the ship was still
+pure black, the corridor going away into nothing, with the red point of the main hatch
+lamp floating far off in the middle of it and the faint green of the bridge at the very
+end. Dace was still down at the forge. The wheel whined on.
+
+It was about 1124.
+
+---
+
+Tamsin picked Varga and Mira to attack first in the dark.
+
+"Copy," said Varga.
+
+Mira looked at the gun-light in Ollin's hand, and then at Tamsin, and her whole face
+changed. "I finally get a *light*." She said it as though she had been handed a Valkyrie.
+
+The hiders stepped up. Nessa first, unfolding her arms, because knives in the dark were
+her trade and she had been waiting all morning to say so. Tey, who had heard the word
+*hour* and could think of nothing else; he owed an hour, and here it was, going spare.
+Corvane. Sorel, quiet and plain. Morcant, who swore on the Throne and on the sergeant that
+he could be quiet. And Tavi.
+
+Four training knives were ready on Ollin's crate. Dace's two would be up in about nine
+minutes. One gun-light was in Ollin's hand, and the other was down at the forge with Dace.
+
+"We wait," said Tamsin.
+
+They waited.
+
+Morcant spent the nine minutes practising walking quietly across the hangar deck. He was
+not quiet. He went across the deck on his toes, very slowly, with his arms out for
+balance, and every step boomed like a dropped crate, and he looked round at the end of
+every crossing for approval. Tavi stood at the end of the deck with Ollin's chrono and
+timed him, solemnly, and announced each time that it had been the quietest yet. It had
+not. Nessa sat on the Valk's landing skid with her eyes shut, perfectly still, listening;
+once, when Morcant boomed past her, she said "*Lovely*" without opening her eyes. Tey
+stood near Tamsin and fidgeted, opening and shutting his hands. Varga took Ollin's
+gun-light and clamped it onto the rail of her laspistol, and switched it on, and checked
+the beam against the hangar wall, and switched it off, and switched it on again, and
+adjusted it a hair, and checked it again.
+
+At about 1134 the wheel stopped below. A beam came bobbing up the stair from the lower
+deck and aft through the black hold, and Dace came into the light of the hangar with the
+second gun-light in one hand and two new training knives in the other: the combat knife,
+and the hive shank, both blunted, the points rounded off, the grips fresh-wrapped in grey
+cord and a stripe of white chalk drawn down every edge.
+
+He laid them on Ollin's crate beside the other four. Six knives in a row, and two lights.
+
+---
+
+Tamsin handed out the knives, and before the hiders could go, he stopped them.
+
+"You're not sitting in a corner waiting," he said. "The attackers are looking for you.
+Find a way to get the drop on them. Get behind them. Stay hidden first, and come out
+behind them. Heard?"
+
+"*Heard*," said six voices together. Morcant's was very loud.
+
+"Go hide. You have two minutes. After that I send the seekers."
+
+The six of them went into the dark.
+
+It was a strange thing to watch. They went out of the lit hangar into the black hold one
+by one, and the black took them as they crossed the hatch. Nessa was simply gone. Sorel
+went after her, tall and quiet, and then was not there. Tey and Corvane and Tavi went,
+their footsteps fading off forward. Morcant went last, and his footsteps did not fade for
+a good deal longer.
+
+Ollin had the chrono. Varga and Mira stood facing the hangar wall with their backs to the
+hatch and their lights switched off, Mira bouncing on her toes, Varga perfectly still.
+
+Two minutes.
+
+"Time, boss," said Ollin.
+
+"Go get them," said Tamsin.
+
+Varga and Mira switched their lights on and turned, and went out of the hangar into the
+dark. Varga went in front, her light sweeping slow and low, Mira a step behind and to the
+side, trailing, sweeping high. Tamsin followed them at a distance with no light at all,
+going by their beams.
+
+---
+
+The hold was a different place in the dark.
+
+In the light it was a hold: two containers, a range, a stack of sandbags. In the dark it
+was a cave full of shapes. The two gun-lights cut white tunnels through it and showed
+everything they touched in hard, flat light, and everything they did not touch went
+blacker than before. The containers stood up out of the dark like cliffs. The range lanes
+ran away into nothing.
+
+Varga's beam went down the range. Mira's went along the overhead.
+
+At the far end of the lane walls, something moved.
+
+It was a very large shape, and it was trying very hard. It was coming round the end of the
+last lane wall, low and slow, easing itself along, one huge careful step at a time, with a
+training knife held out in front of it. It was a stalk worthy of a hunter, and it was
+being done by a man two metres wide who could not have hidden behind anything on the range
+if his life had depended on it.
+
+Both beams found him at once.
+
+Morcant froze in the double spotlight with one foot in the air and the knife held out,
+like a man caught stealing a cake.
+
+Mira shot him. The marker beam splashed across his chest.
+
+"I was being *quiet*," said Morcant, outraged, into both lights. "I was being so *quiet*!"
+
+"You were," said Varga flatly. "For you."
+
+He went off aft to the hangar, muttering, and his footsteps went with him the whole way.
+One down. Five to go.
+
+They went on. The old office with its two bunks was empty; their lights went under the
+bunks and behind the door and found Ollin's boots and nothing else. Varga went forward
+toward the shrine and the mat, and Mira followed her, trailing, sweeping behind them with
+her light.
+
+Somewhere far forward in the ship, there was a dull metallic clang, and then nothing. Both
+beams flicked toward it, and then back.
+
+The shrine was dark except for the candles. They burned low and steady under the icon,
+three or four small gold flames, and in the dark they gave just enough light to make every
+shadow in the little room into a hiding place. Varga's beam went into the shrine and swept
+it. Mira's swept behind them. Varga took a step inside, then another, her light on the
+alcove beside the icon, on the kneeling bench, on the corners.
+
+They did not see him. Neither of them saw him at all.
+
+Sorel had been in the shrine the whole time, in the dark, waiting. He did not come out of
+a corner. He came out of the dark behind them as Mira's light swung away, a tall lean
+shape, without a sound, and drew the chalked edge of his knife across the back of Mira's
+neck, quick and light.
+
+Mira went perfectly still.
+
+She was out, and she knew it, and she kept her mouth shut. She did not make a sound. Her
+light dropped and went still, pointing at the deck.
+
+Varga did not turn round. Her own beam was on the far corner of the shrine, behind the
+icon, and she was looking very carefully at the dark there, and she had not heard a thing.
+For one long moment Sorel stood behind her in the candlelight, with the knife low, and
+Varga's back to him, and the trailing light behind her gone still on the deck, and she did
+not know.
+
+Then he stepped in and drew the knife across Varga's back too.
+
+Varga stopped. She looked down at herself, and then over her shoulder at Sorel, and then
+at Mira standing behind them both, silent, with chalk on her neck and her light on the
+deck.
+
+"...Since *when*," said Varga.
+
+"Since the door," said Mira. "He got me at the door. I'm *dead*, Varga. Dead people don't
+*talk*."
+
+The first round in the dark was over. The hiders had won it, and Sorel had taken both
+attackers by himself in the shrine, the first one so quietly that the second never knew.
+
+It was about 1139.
+
+---
+
+"Good stuff, Sorel," said Tamsin, from the dark of the corridor. "...Impressive."
+
+"Thank you, sir." Sorel's quiet burr came out of the dark of the shrine. He did not sound
+pleased, exactly, but there was something under it. "It wasn't impressive. Just old
+habit." A beat. "I don't get lost. And I don't panic."
+
+From across the corridor, out of the dark of the mat, came a voice.
+
+"*Lovely.*"
+
+Nessa came out of the mat, where she had been the whole time, a few metres away, waiting
+in the dark for the pair to come past her so she could take them. She had watched all of
+it. She looked at Sorel with deep, flat, personal resentment.
+
+"You stole my two," said Nessa.
+
+Sorel said nothing, which was answer enough.
+
+They walked back to the hangar together in the beams of Varga's and Mira's lights: Sorel,
+Nessa, Mira with chalk on her neck, Varga with chalk on her back. Kell was waiting under
+the wing with the slate, and when Mira had told him, loudly, exactly how it had happened,
+he marked something down.
+
+"Sorel doesn't owe," said Kell. "So the hour's in hand." A dry beat. "Bank it."
+
+Three hiders were still out in the dark: Tey, Corvane and Tavi.
+
+"Yeah," said Tamsin. "Call them in, Ollin."
+
+Ollin keyed the vox, and his voice went out into the black ship, and they came back one at
+a time. Tey came in first, from the bunk room, flushed and almost tragic: he had found the
+perfect spot, he said, the *perfect* spot, and nobody had ever come anywhere near it, and
+he had never got his chance. Corvane came in from Varga's cabin.
+
+Varga stared at him. "My *cabin*?"
+
+"It was the nearest door," said Corvane, perfectly formal.
+
+Tavi came in last, from Tamsin's cabin, limping slightly and rubbing his knee.
+
+"That clang was *you*," said Mira.
+
+"That was me," said Tavi. "The boss's locker. My knee." He rubbed it again and looked at
+Tamsin, wounded. "Boss, your locker sticks out."
+
+Everyone was back in the lit hangar. Six pairs had not attacked in the dark yet: Tamsin
+and Tey, Kell and Corvane, Hollis and Dannel, Isk and Sorel, Nessa and Tavi, and Morcant
+and Dace.
+
+It was about 1141.
+
+
+## Chapter 134: Down's Down
+
+Tamsin picked Morcant and Dace for the second round in the dark.
+
+Varga and Mira had put the two gun-lights back on Ollin's crate. Morcant looked at them,
+and his whole broken-nosed face split into a grin. "Now *I* have the light." He rubbed his
+hands together. "Now *I'm* the one looking."
+
+Dace gave one nod.
+
+The hiders stepped up. Tey first, fast, before anyone else could; he still owed an hour,
+and he had seen Sorel do it. Nessa, because Sorel had stolen her two and she meant to have
+two of her own. Kell stepped up next, flat and quiet, and when Hollis looked at him he
+said only, "From behind." Mira, who owed an hour too. Hollis. And Dannel.
+
+Tamsin handed out the knives and the lights.
+
+"Two minutes. Go hide."
+
+The six of them went into the dark. Morcant and Dace stood facing the hangar wall with
+their lights off, Morcant humming to himself, Dace perfectly still. At about 1145 Ollin
+looked up from the chrono.
+
+"Time, boss."
+
+"Search every corner," said Tamsin. "Watch each other's backs."
+
+They switched on and turned, and went out of the hangar into the black hold, Morcant in
+front with his light sweeping and Dace trailing behind him, sweeping the dark at their
+backs. Tamsin followed at a distance, with no light, by their beams.
+
+Morcant went straight to the first container.
+
+He knew that box now. It had caught him and robbed him and shot him, and he was not going
+to let it do it again. He went at it slow and careful and very thoroughly, the door and
+the latch and the seam at the bottom where it met the deck, and then he swung the door
+open and put his light inside, into every corner, along the crates and the lashings and
+the end wall. Dace's light went in over his shoulder and along the gaps. Neither of them
+saw a thing.
+
+"*Empty*," said Morcant, with enormous satisfaction. "It's *empty*, Dace. For once." And
+he turned his back on it, and went for the second container, and Dace turned to follow
+him.
+
+Tey had not been in the box. He had been behind it, in the dark at its far end, where
+neither light had reached, and when the two of them turned their backs on it he came out
+from behind it without a sound, light on his feet, a slight young shape with a knife low
+in his hand, and drew the chalked edge across the back of Dace's neck.
+
+Dace stopped dead. His light dropped and stayed on the deck. He did not make a sound. He
+did not even breathe out.
+
+Morcant had not noticed. His light was on the second container's door, and he was talking.
+"This one, though. This one I don't trust either. You check the latch, Dace, I'll..."
+
+Tey stepped in behind him and drew the knife across his back.
+
+Morcant stopped. He turned round, slowly, and looked at Tey, standing behind him in the
+light of Dace's dropped beam with a training knife in his hand and his eyes shining. Then
+he looked at Dace, chalk on his neck, perfectly silent. Then he looked past them both at
+the first container, its door standing open, the way he had left it.
+
+He did not say anything at all. For Morcant, that was a great deal.
+
+The second round was over. The hiders had won it, and Tey had taken both attackers by the
+first container, the first one so quietly that Morcant had gone right on talking. It was
+the fifth time that day the box had decided a game.
+
+It was about 1146.
+
+---
+
+"Good work, Tey," said Tamsin, coming up out of the dark behind them. "Nessa has taught
+you well."
+
+"Thank you, sir!" Tey was almost vibrating. "Thank you, sir. I just... I stayed hidden
+first, sir. Like you said. And came out behind them."
+
+A voice came out of the dark of the range, a few metres away, flat and dry.
+
+"I never taught him a thing."
+
+Nessa came out of the dark range lane, where she had been the whole time, waiting. She
+looked at Tey, and at the chalk on Dace's neck and Morcant's back, and something in her
+face very nearly approved.
+
+"He must have been watching," said Nessa. Then, after a moment, dry as dust: "He can keep
+the credit."
+
+There was a scrape behind them, and the door of the second container swung open, and
+Dannel climbed out of it, a knife in his hand and a sheepish look on his face. He had been
+in there the whole time too, a few metres away, while it all happened right outside.
+
+Tamsin went back to the hangar.
+
+"Call them back, Ollin."
+
+Ollin got on the vox, and the rest came in out of the dark. Kell came from the bunk room,
+completely unbothered. Mira came from the medicae, complaining loudly that she had been in
+there for ages and had never so much as seen a beam. Hollis came from the briefing room,
+mild and aggrieved.
+
+"Nobody ever comes to the briefing room," said Hollis. "I'm going to start keeping my
+things in there."
+
+Kell had the slate again. He looked at Tey, and made a mark, and then looked at Tey again,
+and the corner of his mouth moved very slightly. "Tey's clear." Flat. "Five thirty-five on
+the slate."
+
+Tey stared at him. Then he stared at Sorel, who was leaning against the bulkhead with his
+arms folded, and Sorel gave him the smallest nod in the world.
+
+Five pairs had not attacked in the dark yet: Tamsin and Tey, Kell and Corvane, Hollis and
+Dannel, Isk and Sorel, Nessa and Tavi.
+
+It was about 1148.
+
+---
+
+For the third round Tamsin picked Kell and Corvane to attack, and this time he went in to
+hide himself, and so did Mira. Ollin would follow behind the attackers to watch.
+
+The hiders made six: Tamsin, Mira and Nessa, and then Tey, Sorel and Dace.
+
+They went into the dark at the go, as every hider had before them, out of the lit hangar
+into the black hold. But Tamsin caught the other five just inside the hold, before any of
+them could split up and slip off into the ship.
+
+"Come here, you guys."
+
+They came, by voice. In the black beside the first container they huddled up close in a
+ring, shoulder to shoulder, so close they could feel each other breathe: Mira, Nessa, Tey,
+Sorel, Dace, and Tamsin. Back in the hangar, Ollin's chrono was running. Somebody's
+stomach growled. Somebody else hissed at it.
+
+"All of us hide in one area," said Tamsin, very low. "The galley. When the attackers come
+in and start to search, we get the drop on them. They expect one person per area. So we're
+all in one spot."
+
+There was a short silence in the huddle.
+
+"Like a pack," said Sorel quietly. There was something in his voice that might have been
+approval.
+
+"Six bodies in one room," said Nessa. "Somebody's going to breathe."
+
+"I like it," said Mira at once.
+
+"Yes, sir," said Tey.
+
+"I'll take the door," said Dace.
+
+They went forward through the dark together to the galley, fast and quiet, with a minute
+and a bit left on the chrono. The galley was black. The urn ticked somewhere in the dark.
+They found it by memory and by touch: the long table, the benches, the stove, the pantry
+locker, the forward door. The others began to slip off into the room, each of them finding
+a spot by feel, low behind something, tight against something.
+
+Tamsin stopped inside the aft hatch and felt above it.
+
+Over the galley's aft hatch, up near the overhead, a solid shelf ran along the bulkhead: a
+conduit shelf, cable trays and a pipe run bolted in a channel, deep enough and strong
+enough to hold a man, with room on it for exactly one. Nobody in the galley ever looked at
+it. Nobody ever looked up.
+
+It was an easy climb. He went up off the end of the bench and the frame of the hatch, and
+lay along the shelf flat on his stomach with the cable trays under him and the overhead a
+hand's width above his back, right over the hatch that anyone coming from aft would have
+to come through. Before he settled, he checked his way back down: the hatch frame, then
+the bench end. Quiet both ways.
+
+Below him in the dark the galley settled into silence. Five people, hidden in one room,
+all breathing very carefully.
+
+---
+
+"*Time*," said Ollin, far off in the hangar.
+
+Kell and Corvane came forward through the ship with their lights on, slow and thorough,
+Corvane in front with his pack up and Kell trailing, covering behind. They cleared the
+hold, both containers and the range. They cleared the old office with its two bunks, and
+the shrine, and the mat. They cleared the armoury, and the medicae. Every room was empty.
+Behind them, well back, came Ollin, with his own small light, watching.
+
+From the shelf Tamsin saw their beams before he saw them: white light swinging across the
+corridor outside the galley, growing, sweeping along the bulkheads.
+
+Corvane came through the aft hatch first, with his light up. Kell came through behind him
+and stopped, right under the shelf.
+
+Corvane's beam swept the galley.
+
+It was a good sweep, a boarding officer's sweep, low and then high and then into the
+corners, and it caught them. One after another it found them in the dark, and every time
+it touched one of them it stopped, and moved on, and found the next. It found Mira. It
+found Nessa. It found Tey, tucked low at the far end of a bench, and Sorel, deep in the
+pantry corner beside the locker.
+
+Four. In one room.
+
+"*CONTACT!*" roared Corvane.
+
+He fired at once, at Mira, and the beam splashed across her and lit her up white-blue.
+Behind him Kell's light came round, and Kell fired at Nessa, and Nessa took it across her
+chest and said something short and bitter. Two of the pack were down before they had
+moved.
+
+Then the galley erupted.
+
+Dace came out of the dark by the forward door, where neither light had found him, and went
+at Corvane and drew his knife across Corvane's side. Tey came off the far bench like a
+spring and went at Corvane too, and his knife went across Corvane's chest before Corvane
+had finished turning, and Corvane went down with two long white lines on him. Out of the
+pantry corner Sorel came at Kell, fast and low, and his chalked edge went across Kell's
+ribs.
+
+And at the same instant, from directly above, Tamsin dropped off the shelf onto Kell.
+
+He came down on top of him and took him to the deck in a flying tackle, and they went down
+together onto the galley plates in a tangle of legs and arms and gun-light, the beam
+spinning wildly round the overhead. Tamsin landed on Kell, rolled with it, and came up.
+Nobody was hurt.
+
+Kell lay flat on his back on the galley deck, the gun-light still on his gun pointing
+straight up at the empty shelf.
+
+"...Brother," said Kell.
+
+He looked at the shelf. He looked at Sorel standing over him with a knife. He looked down
+at the chalk line Sorel had already drawn across his ribs.
+
+"I was already down," said Kell.
+
+The galley fell apart laughing. Mira and Nessa were sitting at the table, splashed, out of
+the game, and Mira had her head down on her arms and was laughing so hard she could not
+breathe. Tey was bent double. Corvane lay on his back on the deck where Dace and Tey had
+put him, looking at the two chalk lines on his chest and his side, and his mouth was
+twitching. Dace was grinning all over his face. Even Nessa had a hand over her mouth.
+
+In the aft hatch, holding up his light, stood Ollin, beaming.
+
+"I saw *all* of it," said Ollin. "Boss, I saw it all. He came off the *ceiling*."
+
+Nobody had earned an hour. Corvane had shouted contact, and after that there had not been
+anybody in the galley who did not know. But the hiders had won the third round, all six of
+them together.
+
+It was about 1153.
+
+---
+
+"Had to make sure you were down for good," said Tamsin to Kell.
+
+Sorel held out a hand, and Kell took it, and Sorel hauled him up off the deck.
+
+"Down's down," said Kell, flat. He looked down at himself, at the chalk from Sorel and the
+dust from the galley deck and the place on his chest where the boss had landed on him. A
+beat. "Now I'm down twice."
+
+He brushed off the chalk.
+
+Four pairs had not attacked in the dark yet: Tamsin and Tey, Hollis and Dannel, Isk and
+Sorel, Nessa and Tavi.
+
+It was about 1154.
+
+
+## Chapter 135: Make Me, Boss
+
+For the fourth round Tamsin picked Isk and Sorel to attack, and he went in to hide again
+himself.
+
+The hiders made six: Tamsin, and Nessa and Mira, and then Dace, Tey and Kell. Isk and
+Sorel took the gun-lights. Isk clamped his onto his gun without a word and checked it once
+against the wall. Sorel looked at his for a long moment, as if it were a tool he did not
+entirely trust, and then clamped it on too.
+
+"Everyone spread out this time," said Tamsin.
+
+Nobody argued. The six of them went into the dark at the go and scattered, each to a
+different part of the ship.
+
+Tamsin went to the containers.
+
+He did not go into one. He went up the side of the second container, off its door hinges,
+which made an easy ladder, and over the top edge onto the roof. He lay down flat along it
+on his stomach, in the dark, with the cold steel under him and the overhead not far above,
+and breathed low and slow.
+
+The height would not hide him this time. Sorel had been in the galley for the ceiling
+drop. He had seen the boss come down off the shelf onto Kell with his own eyes. And Isk
+had sat in the hangar afterward and heard all about it. They would both be looking up.
+
+"*Time*," said Ollin, faintly, from the hangar.
+
+Isk and Sorel came into the hold with their lights on. Sorel was in front, the hunter,
+slow and silent, reading the deck. Isk trailed him a few metres back, covering, his beam
+moving steadily. And they did look up. Their beams swept low and then high, along the deck
+and under the lane walls and then up, along the overhead, along the tops of the
+containers, along the conduits.
+
+Sorel's beam went across the top of the second container, and across Tamsin, lying flat
+along it, and did not stop.
+
+Isk's beam went over it a second later, slower, and did not stop either.
+
+Neither of them saw him. They went on below him into the hold, working the containers and
+the range, checking the first container with great care, the way everyone checked the
+first container now. Sorel opened it and swept it and went in a step. Isk came to the
+second container's door, right under the roof edge where Tamsin lay, and put his light on
+its latch.
+
+Tamsin lowered himself off the roof of the second container.
+
+He did it slowly, over the far edge, his weight on his hands, and let himself down the
+side the way he had come up, the hinges under his boots, without a sound. Isk was at the
+door, a metre away round the corner of the container, with his back to that side. Sorel
+had come out of the first container and gone on three metres toward the range, his back
+turned, his light on the lane walls.
+
+Then Tamsin went fast. He went past Isk, under the roof edge, behind his back, and across
+the open deck toward Sorel, low.
+
+He got to Sorel before Sorel heard a thing. He dropped low, nearly prone on the deck, and
+slashed the chalked knife across the back of Sorel's legs, and came up and slashed it once
+more across his back.
+
+Sorel stood still. He did not turn round. His light stayed on the lane wall. He did not
+make a sound. Behind them at the second container, Isk was still working the latch, his
+back to them both, and had heard nothing at all.
+
+Tamsin threw the knife.
+
+It went end over end across the dark hold, once, twice, through the edge of Sorel's beam,
+and came down edge first exactly where it needed to: the chalked edge smacked flat across
+Isk's back between his shoulder blades and clattered to the deck.
+
+Isk stopped with his hand on the latch.
+
+He looked down at the training knife lying by his boot, and then reached round with one
+hand and touched the middle of his back, and his fingers came away white with chalk. He
+turned round slowly. Sorel was standing three metres off with his light on the lane wall
+and two chalk lines on him. And Tamsin was standing beside Sorel, with nothing in his
+hands.
+
+"...Down," said Isk quietly, the way he called a target.
+
+The fourth round was over. The hiders had won it, and Tamsin had taken both attackers in
+the hold, the first so quietly the second never knew. The other five hiders had not even
+been touched; they were somewhere forward in the dark, still waiting.
+
+Sorel turned round at last and looked at the back of his own legs, and then at the boss,
+and said nothing at all.
+
+It was about 1200.
+
+---
+
+"Call them back," said Tamsin, back in the hangar.
+
+Ollin keyed the vox. "*Round's over. The boss got both of them, in the hold. Everyone back
+to the hangar, please.*"
+
+They came in out of the dark. Nessa came first, from the bunk room, flat and sour: she had
+been out in the dark for four rounds now and had not put her knife on a single person all
+day. Mira came from the shrine, Dace from the galley, Tey from the boss's cabin, and Kell
+last, from the armoury, with chalk still on him from the galley.
+
+Kell looked at Isk's back and Sorel's legs, and listened to Isk tell it in four short
+sentences, and made a mark on the slate.
+
+"Boss doesn't owe," said Kell. "So that one's in hand too." A dry beat. "Bank it."
+
+Three pairs had not attacked in the dark yet: Tamsin and Tey, Hollis and Dannel, Nessa and
+Tavi.
+
+---
+
+"Alright, Tey," said Tamsin. "Let's go... we're clearing it, yeah?"
+
+"Yes, sir!" Tey was at his side before he had finished saying it.
+
+For the fifth round the hiders stepped up by who they were. Nessa went first, without a
+word, with a look on her face like a storm coming; her day had been empty, and she wanted
+somebody. Kell stepped up, flat and silent, the place on his chest where the boss had
+landed on him still dusty from the galley deck. Varga came next; she had called the boss a
+show-off twice already that morning, and meant to make him earn a third. After them came
+Mira, Dace and Hollis.
+
+The knives went out to the six of them. The gun-lights went to Tamsin and Tey. Tamsin
+clamped his onto Last Word's rail, alongside the laser sight, and switched them both on.
+Two minutes went by in the dark.
+
+"*Time*," said Ollin.
+
+"Tey, on my back," said Tamsin. "Looking back. Right behind me."
+
+Tey put himself at Tamsin's back, close, facing aft, his light sweeping the way they had
+come, and that was how they went into the hold: Tamsin forward, Tey backward, two lights
+going two ways.
+
+The hold was empty. Tamsin cleared it all: both containers, inside and out; the range
+lanes, behind every wall; and the roofs of both containers, his own trick. His beam went
+along the top of the second container, where he had lain a few minutes before. There was
+nobody on it.
+
+They went forward, Tey at his back, to the old office with its two bunks.
+
+Tamsin did not go in. He cleared it from the corridor, slicing the doorway, a sliver at a
+time, his light and his laser going in together. Tey stood at his back facing aft and did
+not look round. Ollin's square bunk. The bare one. The deck under them both.
+
+The dark corner behind the door.
+
+Kell was crouched in it, low, with his knife held low in front of him, waiting for someone
+to step through the doorway so that he could take them from behind as they went past. He
+had picked the one spot in the room the doorway did not show. But Tamsin had not stepped
+through the doorway. He had come round it from the outside, a sliver at a time, and the
+last sliver was the corner, and Kell was in it.
+
+Tamsin swung wide, already aimed, and shot him.
+
+The beam splashed across Kell's chest from two metres away. Kell looked down at it in the
+beam of Tamsin's light, the knife still held out in front of him for the man who had never
+come through the door.
+
+"Too late, Kell," said Tamsin.
+
+"...Brother," said Kell.
+
+He stood up out of the corner, and looked at the splash, and at the chalk from the galley
+still on his ribs, and the dust on his chest.
+
+"That's three times today," said Kell.
+
+He went aft past Tey without looking at him. Five hiders left.
+
+---
+
+Next forward were the shrine to port and the mat to starboard. Tamsin went to the shrine,
+with Tey at his back.
+
+The candles burned under the icon. In the light of the candles and his beam the little
+room had very few places in it at all, and Tamsin went through every one of them. The
+corners. Under the kneeling bench. The alcove beside the icon.
+
+Hollis was in the alcove.
+
+He was far, far too big for it. He had wedged himself into it as small as a
+forty-two-year-old grenadier could go, which was not very small, and it had nearly worked;
+the kneeling bench in front of it covered most of him. But past the end of the kneeling
+bench there was a boot. And over the top of it, in the candlelight, there was a grey crop.
+
+Tamsin shot him square on the forehead.
+
+The splash lit up white-blue right between his eyes, harmless and very bright. Hollis sat
+in the alcove and blinked at it, cross-eyed, trying to see his own forehead.
+
+"Right between the eyes," said Hollis mildly. He climbed out, one limb at a time. "I'll
+wear it to lunch."
+
+He went off aft, and Tey, still facing the way they had come, stood aside to let him past
+without turning his head. Four hiders left.
+
+---
+
+The mat was across the corridor. Tamsin went to it.
+
+It was black inside, the way every room aboard was black. His beam went in and swept it:
+the mats on the deck, the corners, the heavy bag hanging from its chain in the middle of
+the room.
+
+The heavy bag was swinging.
+
+Not much. Only a little, a slow sway on its chain, back and forth. But nothing in the room
+should have been moving it. Nobody had touched it. The ship was steady. And as Tamsin's
+light went across it, it swung a little more, not with the light, but against it, the way
+a bag swings when somebody behind it is moving with it to stay in its shadow.
+
+Nessa came round the bag at him like a knife thrown.
+
+She was very fast. She had been waiting behind it all along, turning with it as his beam
+moved, keeping the bag between herself and the light, and the moment she knew she was
+found she did not wait to be shot. She came straight off the bag at him, low and lunging,
+the chalked edge coming up for his chest.
+
+Tamsin shot her mid-lunge. The beam splashed across her from a metre away and lit the
+whole mat up white-blue.
+
+Nessa stopped. She stood there at the end of her lunge, half a metre short, the knife out
+in front of her, the splash bright on her chest.
+
+"Thought you were supposed to be good at hiding," said Tamsin.
+
+"*ROOK!*"
+
+It came out of her loud enough to ring off the bulkheads. Then, through her teeth, very
+quietly and very bitterly:
+
+"The bag *swung*."
+
+She went off aft, furious. Every line of her said it. The best infiltrator on the ship had
+now been out in the dark for five rounds and had not put her knife on a single person.
+
+Three hiders left: Varga, Mira and Dace. Tamsin went on forward, with Tey at his back.
+
+It was about 1212.
+
+---
+
+Next forward were the armoury to port and the medicae to starboard, door facing door
+across the corridor. Tamsin took the armoury. It was empty: racks and lockers and cradles
+in the white of his beam, nobody behind them, nobody under the bench.
+
+He sent Tey into the medicae.
+
+"Don't die."
+
+"No, sir," said Tey, and turned forward for the first time all round, and went across the
+corridor and into the medicae with his light up.
+
+Tamsin stood in the armoury doorway with his back to the racks and Last Word low,
+finishing the last corner of the armoury, and across the corridor he could see Tey's beam
+moving through the medicae door. It went over the near cot. It went over the far cot. It
+went over the cabinet, and the curtain, and back.
+
+Then it went still.
+
+There was no shout. There was a soft scuff on the deck. A breath, cut short, the way a
+man's breath stops when someone touches the back of his neck with something cold. And
+Tey's light, which had been moving all round, stopped moving altogether, and lay there in
+the doorway's slice of the room pointing at the legs of a cot.
+
+Tamsin turned round and put Last Word on the medicae doorway, from inside the armoury,
+across the corridor, and held it there.
+
+Nothing came out.
+
+---
+
+Inside the medicae Varga had made her choice. She had a knife, and he had a gun, and she
+was not going to walk out of that door into a laser and a gun-light to find out who was
+faster. So she stayed inside, tight against the wall right beside the door, where anyone
+coming in would have to come past her, and waited for him to come to her.
+
+Tey was down. He had set his gun down on the deck when he knew he was out, with its light
+still on, pointing at the cot legs, and knelt beside it in silence. He did not look at the
+wall. He did not look at the door. He was out, and out meant quiet.
+
+Tamsin edged up to the medicae doorway, slowly.
+
+He did not cross the corridor all at once. He came across it a step at a time, and stopped
+short of the door, holding it from outside, a good distance off: far enough that if
+anything came out of it at a rush, it would have to come a long way before it reached him.
+Then he began to slice it with his beam. A sliver at a time. The near cot. The far cot.
+The cabinet. The curtain. The deck under the cots. Tey, kneeling out in the middle of the
+room by his light, perfectly silent, not looking at anything.
+
+All of it empty. Everything he could see from outside was empty.
+
+There was one strip of the room he could not see from outside: the wall right beside the
+door frame, on his own side. To see that he would have to put himself in the doorway, or
+find another way.
+
+He found another way. He put Last Word round the frame, toward that side, without putting
+his head round after it, and fired blind.
+
+He could not see where the laser dot was. He could not see anything at all round that
+corner. He could only point the gun along the wall where a body would be if a body was
+there, and pull the trigger.
+
+The beam splashed. There was a sharp intake of breath on the other side of the frame.
+
+Varga stepped out into the doorway with a white-blue splash across her shoulder, her knife
+still raised, waiting to come down on the first part of him that came round that frame.
+His gun arm had come round it. It had come round it shooting.
+
+She looked at the splash. She looked at the gun in his hand, which had been round a
+corner, and at him, who had not.
+
+"You didn't even *look*," said Varga, flat.
+
+A long, very flat moment.
+
+"Show-off."
+
+Behind her in the medicae Tey let out a long breath, like a man surfacing, and turned
+round on his knees. "*Sir.* Sir, she was right *there*, sir, the whole time, she got me as
+soon as I came in, I didn't even..."
+
+Two hiders left: Mira and Dace. Tey was out. Tamsin was alone.
+
+---
+
+He went forward to the galley's aft hatch, and peeked in from outside, beam first.
+
+The long table. The benches. The stove. The pantry locker, shut tight this time. All of it
+empty, as far as he could see from the hatch. But there were places he could not see from
+outside: under the far end of the table, behind the hatch itself, the corner by the
+forward door, and the shelf above the hatch. His own trick.
+
+He went in further, and checked up top first. The conduit shelf over the hatch was empty.
+His own scuffs were still in the dust along it from the third round. Then behind the
+hatch, under the table, the forward door's corner. All empty.
+
+The galley was clear.
+
+Forward of it lay the bunk room to starboard and the cabins to port, then the main hatch,
+the briefing room, his own cabin, and the bridge. Two hiders left.
+
+He went out of the galley's forward door and crossed to the port side to check the spare
+cabin, and that put his back to the bunk room hatch.
+
+Behind him, very faintly, a hinge creaked.
+
+It was the smallest sound in the world: the hinge of the bunk room hatch giving a fraction
+under a hand. But there was a big shape easing out through it, behind him, low, with a
+knife held low in its fist, coming at his back, and the hinge had told him so.
+
+Tamsin turned round and shot.
+
+The beam took Dace square in the chest, a metre out of the bunk room hatch, the knife
+still low in his hand. Dace stopped where he was and looked down at the splash.
+
+"Slow, brother," said Tamsin.
+
+"...Yes," said Dace. He looked at the splash a moment longer, and then turned his head and
+looked, with deep and personal reproach, at the hatch he had just come through. "The
+hinge."
+
+He went off aft. One hider left: Mira.
+
+---
+
+Tamsin checked the cabins one by one: the spare, Varga's, Kell's. Open the door, pull out
+of line, look. All three were empty. Varga's gun-cleaning kit still sat squared off on her
+desk in the beam of his light.
+
+That left the far end of the bunk room, the briefing room, his own cabin, and the bridge.
+And one hider.
+
+He went into his own cabin. He did not stop to listen this time, or stand flat against the
+wall. He went straight in, with his light up.
+
+The door swung in ahead of him and his beam went across the room: the desk, the chair, the
+rack, the locker that had caught Tavi's knee, the bunk with its blanket. Nobody under the
+bunk this time. He swung the light back toward the door.
+
+Mira was behind it.
+
+She was pressed flat to the wall in the dark behind his door as it swung in, the knife
+held flat against her thigh, so close that the door had nearly touched her coming open.
+She had been there in the dark the whole time, and now she was in his light.
+
+"Mira," said Tamsin. "Get out of my room."
+
+"Make me, boss," said Mira, and came off the wall at him.
+
+She came fast, the knife coming round with all the speed of the Light's old knife champion
+behind it. He side-stepped the swing, and her chalked edge went past him through the place
+he had been, and he shot her.
+
+The beam splashed across her chest, dead centre, exactly where he had put the point of his
+knife the day before.
+
+The fifth round was over, and this time the attackers had won it. Tamsin had taken all six
+hiders himself: Kell behind the office door, Hollis in the shrine's alcove, Nessa behind
+the bag, Varga round the medicae door without looking, Dace at the bunk room hinge, and
+Mira behind his own door. The only one down on the attackers' side was Tey, to Varga, in
+the medicae.
+
+It was about 1224.
+
+---
+
+Mira stood in the middle of his cabin with the splash on her chest and groaned at the
+overhead.
+
+"The *door*. Your *door* got me, boss. Behind your own *door*. I had the *door*." She
+looked round at the bunk, and her lip curled. "And your bunk's *dusty*."
+
+"Second time someone's said that," said Tamsin. "My bunk is not dusty."
+
+"Nessa said it *first*," said Mira at once. "I'm only backing her up." She folded her
+arms.
+
+She looked at the bunk again. Then, because she was Mira and could not leave a thing
+alone, she knelt down and ran one finger along the underside of the bunk frame, slowly,
+end to end, and held it up into his light and looked at it.
+
+It was clean.
+
+"...Fine," said Mira. "It's not dusty."
+
+She looked at her clean finger for a moment longer. A slow, wicked delight began to spread
+over her face.
+
+"Nessa *lied*."
+
+She went off aft at a run, splash and all, absolutely thrilled to have something on Nessa
+at last.
+
+---
+
+Tamsin went back to the hangar. The Light was waiting there in the lamp-light under the
+Valk's wing, splashed and chalked from head to foot, most of them several times over.
+
+"Too easy, people," said Tamsin.
+
+The groan that went up from the hangar was enormous. Somebody threw a glove.
+
+"*Not dusty!*" Mira was already in front of Nessa, pointing at her with the clean finger,
+loud enough for the whole hangar. "It's *not* dusty! I *checked*! You *lied*, Nessa!"
+
+"I was *under* it," said Nessa, flat as a deck plate, arms folded. "You weren't."
+
+"Too easy," said Hollis, mildly, from the Valk's skid. The splash was still glowing right
+between his eyes. "Says the man who came off a ceiling. And a roof."
+
+"The boss never touches the *floor*," said Morcant to the hangar at large, with deep
+feeling. "Have you noticed? He's never on the *floor*."
+
+Two pairs were left to attack in the dark: Hollis and Dannel, and Nessa and Tavi.
+
+It was about 1227.
+
+
+## Chapter 136: Shut Up and Eat
+
+For the sixth round Tamsin picked Hollis and Dannel.
+
+"About time," said Hollis mildly, unfolding himself off the Valk's skid with the splash
+still glowing between his eyes. He held out a hand to Dannel. "Here, lad."
+
+"Sir," said Dannel, and came.
+
+The hiders stepped up. Nessa went first, with a look on her face that could have stripped
+paint; five rounds in the dark, and she still had not put her knife on anybody. Corvane.
+Varga, who looked straight at Dannel as she stepped up, because he had tagged her in the
+fourth game and she had not forgotten it for one moment since. Morcant, Dace and Mira.
+
+"Go," said Tamsin. "Two minutes."
+
+The knives and lights went out, and the six hiders went into the dark. At about 1231 Ollin
+looked up from the chrono and called time, and Hollis and Dannel stood at the hangar hatch
+with their lights on, looking at Tamsin.
+
+"Go," said Tamsin. "Make it all the way..."
+
+They went into the hold, Hollis in front with his light sweeping steady and mild, Dannel
+trailing behind him, covering, his light shaking very slightly. Tamsin followed them at a
+distance, by their beams.
+
+The hold was empty. They cleared it properly, both containers and the range, and went on
+forward to the old office with its two bunks.
+
+Neither of them saw her. Hollis's light went into the office and over Ollin's square bunk
+and the bare one and under both, and Dannel's covered the corridor behind them, and both
+of them went straight past her.
+
+Varga came out of the dark behind Dannel.
+
+She did it very fast and very cleanly, the way she did everything she cared about, and her
+chalked edge went across the back of Dannel's neck in one stroke. Dannel froze. His light
+dropped. He did not make a sound.
+
+It was the cleanest strike anyone made all day. It was payback, for the spare cabin, and
+Varga made sure of it.
+
+Hollis had not noticed a thing. He was still in the office doorway with his light on the
+far bunk, saying mildly over his shoulder, "Nobody here either, lad. On we go." And Varga
+stepped in behind him and drew the knife across his back.
+
+Hollis stopped. He turned round slowly, and looked at Varga, and at Dannel behind her with
+chalk on his neck and his light on the deck, perfectly silent.
+
+"...Well," said Hollis mildly. "That's me told."
+
+The sixth round was over. The hiders had won it, and Varga had taken both attackers at the
+office, the first one so quietly that Hollis had gone right on talking to a man who was
+already down.
+
+She looked at Dannel, flat.
+
+"Now we're even," said Varga.
+
+"Push-ups now," said Tamsin. "Both of you."
+
+Hollis and Dannel got down on the deck by the office bunks. Hollis went down slowly and
+grumbling, every push-up a complaint. Dannel went down fast and silent and did not stop.
+
+It was about 1233.
+
+---
+
+Back in the hangar, Kell had the slate out before anyone had told him anything, and when
+Varga came in and told him, in one short sentence, what had happened at the office, he
+made a mark.
+
+"Varga's clear," said Kell. "Forty in hand." He looked at the slate. "Five fifteen."
+
+Varga said nothing. But she rolled her shoulder once, slowly, the way a person does when
+something has finally gone right.
+
+"Call them in, Ollin," said Tamsin.
+
+The rest came back out of the dark: Nessa from the bunk room, Corvane from the spare
+cabin, Morcant from the armoury, Mira from the briefing room. And Dace from Varga's cabin.
+
+Varga looked at him.
+
+"My cabin," said Varga. "*Again*."
+
+"It was dark," said Dace, a little sheepishly.
+
+There was one pair left to attack in the dark: Nessa and Tavi.
+
+"Lovely," said Nessa, and something in the way she said it made Tavi, beside her, look
+thrilled and frightened at once.
+
+The hiders stepped up for the last round: Sorel, Varga and Corvane, and then Dace, Mira
+and Tey. Down by the office bunks Hollis and Dannel went on with their push-ups.
+
+"Two minutes," said Tamsin, and handed out the knives. "Go hide."
+
+At about 1237 Ollin called time. Nessa and Tavi stood at the hangar hatch with their
+lights on, waiting on the word.
+
+"Make it past the first one," said Tamsin. "...Or else."
+
+"Tavi," said Nessa. "On my back. Facing aft. You watch behind. I'll look."
+
+"*Yes*," said Tavi.
+
+They went into the hold that way, Nessa in front with her light sweeping, Tavi behind her
+and facing the other way, his light going over the hangar hatch behind them and the dark
+corners they had already passed. Tamsin followed.
+
+In the hold, a big shape came easing out from behind the range's lane wall.
+
+It was Dace, stalking, low and careful, with a knife in his fist. He was doing it well. He
+was also the size of a door, and the lane wall was not.
+
+Nessa found him at once, and shot him. The splash lit up across his chest.
+
+"Lovely," said Nessa to her little brother, and almost smiled. "You're too big for the
+lane wall."
+
+"...Yes," said Dace.
+
+They were past the first one.
+
+They went on forward, past the old office, where Hollis and Dannel were still doing
+push-ups by the bunks and the office was otherwise empty, and on to the shrine.
+
+The candles burned low under the icon. Nessa's light went into the shrine and swept it,
+corner by corner, the alcove and the kneeling bench, and did not find him. Behind her
+Tavi's light swept the corridor they had come down, and did not find anything either.
+
+Tey came out of the dark of the shrine at Nessa.
+
+He came from where she had already looked, light on his feet, quick and silent, and his
+chalked knife went across her neck. Nessa stood very still. She did not make a sound. Her
+light went down.
+
+Tavi had not noticed. He was facing aft, the way he had been told, with his light on the
+corridor behind them, humming very quietly under his breath.
+
+Tey stepped up behind Nessa's shoulder and went for Tavi too. Tavi was facing the wrong
+way for a strike from behind, but that did not matter; Tey's knife came in round Nessa and
+across Tavi's chest before Tavi had finished his tune.
+
+"...*Aw*," said Tavi.
+
+The seventh round was over. The hiders had won it, and Tey had taken both attackers at the
+shrine. It was his second double of the day.
+
+Nessa turned round slowly in the candlelight and looked at Tey. There was chalk on her
+neck, put there by the boy the boss said she had taught.
+
+"...Lovely," said Nessa.
+
+Tey went very red and said, "Sorry, Nessa," and then, because he could not help it,
+"...but, *two*."
+
+It was about 1240.
+
+---
+
+That was the dark game: seven rounds, from about 1136 to 1240. The attackers had won one
+of the seven, Tamsin and Tey, with Tamsin taking all six. The hiders had won the other
+six: Sorel's two at the shrine; Tey's two at the first container; the galley pack and the
+drop off the ceiling; Tamsin's two in the hold, off the roof of the second container, with
+a thrown knife to finish it; Varga's two at the office bunks; and Tey's two again at the
+shrine.
+
+On Kell's slate the hours stood like this: Tey's debt was cleared, with a second hour in
+hand from the shrine; Varga's was cleared, with forty minutes in hand; and Sorel and the
+boss had an hour in hand each. Five hours and fifteen minutes were left on the range debt.
+
+"Yeah," said Tamsin to Hollis and Dannel at the office bunks, on his way back past them.
+"You can stop."
+
+Hollis went flat on his face on the deck and stayed there. Dannel was on his feet at once.
+
+Tamsin went back to the hangar with Nessa, Tavi and Tey behind him. The rest of the ship
+was still black. Four hiders were still out in the dark: Sorel, Varga, Corvane and Mira.
+
+Ollin was at the vox. "Call the rest in, boss?" He hesitated. "And should I put lunch on?"
+
+"Yeah, call them in," said Tamsin. "And put lunch on, Ollin."
+
+Ollin keyed the vox, and the last of them came in: Sorel from the briefing room, Varga
+from the spare cabin, Corvane from the medicae, and Mira from the galley, where she had
+been all along, because nobody had come that far.
+
+Ollin was already halfway to the hatch when he stopped. "Boss? I'll need light to cook.
+All the lights back on? Or just the galley?"
+
+"Have Teo put them all on."
+
+Ollin got on the vox to the bridge. A moment later the *Bright Light*'s lamps came back
+on, section by section from the bow aft, the corridor filling with light all the way down
+from the bridge to the hold, and the Light stood in the hangar blinking at one another,
+splashed and chalked from head to foot.
+
+---
+
+Tamsin went to the galley and sat down. Ollin was at the stove: ration bricks in the pan,
+a pot of something hot on the back ring, the urn ticking with fresh recaf. At about 1245
+the Light came crowding in, and the galley filled up with noise and splashes and chalk
+dust.
+
+Tey sat down beside Tamsin and did not stop smiling. Nessa sat down directly across the
+table from Tey, folded her arms, and began to interrogate him about who had taught him,
+exactly, and when, and where he had been watching from, and Tey answered every question as
+fast as he could and kept going red. Mira was still going on about the bunk, to anybody
+who would listen, *not* dusty, she had *checked*, Nessa had *lied*; and Nessa, without
+taking her eyes off Tey, said flatly, "Under the *mattress*," and Mira opened her mouth
+and shut it again. Morcant was still going on about the box. Hollis had kept his word, and
+sat at the end of the bench with the splash still bright right between his eyes, wearing
+it to lunch. Sallow came in with the Bag.
+
+Brenner came hobbling in on his strapped ankle with Maren and Pell, one on either side of
+him. Maren stopped in the hatch and stared round the galley at all of them, at the
+white-blue splashes on chests and shoulders and faces and the white chalk lines across
+backs and necks.
+
+"Everyone's covered in chalk and paint," said Maren, wonderingly.
+
+Morcant was already halfway through his first brick. "Boss," he said with his mouth full.
+"Strength training after lunch? Like you said?"
+
+"Yep," said Tamsin.
+
+"*YES*," said Morcant.
+
+At the far end of the table Isk lifted his recaf, and said, very quietly, into it:
+"...Strength."
+
+Tavi groaned and put his head down on the table. Hollis raised one hand. "Do push-ups
+count, boss? Only Dannel and I did quite a lot of them."
+
+"No," said Kell, flat.
+
+Lunch went on.
+
+---
+
+Brenner lowered himself onto the bench directly across from Tamsin, with his plate, and
+swung the strapped ankle up out of the way.
+
+"Sir." Crisp, as if reporting. "I heard most of the game from the hangar door." He tapped
+his ear. "The hinge, before Dace moved. Morcant's every step." A dry pause. "Every
+*single* step." Then, more carefully: "Next time, sir, ankle or not, I'd like to hide." He
+glanced at Sallow, further down the table, and back. "And Sallow says the ankle's down by
+morning. So." He took a breath. "Is the mat still on for tomorrow, sir?"
+
+"Yeah," said Tamsin. "If you're ready for it."
+
+"I'll be ready, sir." Brenner did not even hesitate. "I've been reading about it." He had,
+too; he was the one who read the manual nobody else would. "First thing after my range
+hours, sir."
+
+He started on his plate.
+
+"You'd better hope you're well rested," said Tamsin, "or you'll lose bad."
+
+Brenner looked up at him over his fork, dry and polite. "I lost five to one with a good
+ankle, sir." He considered it. "*Bad* is the only way I know." A beat. "But I'll sleep
+early."
+
+Sallow was passing behind him with her bowl. She did not stop. "He'll sleep early," she
+said, flat, "because I say so."
+
+---
+
+Tamsin looked down the table.
+
+"Anyone had anything better than this?" he said. "No offence, Ollin."
+
+"None taken, boss," said Ollin cheerfully from the stove. "I'm working with bricks and
+tins."
+
+There was a pause, while the whole table thought about it.
+
+"Snow-hare," said Sorel, quietly. Everyone looked at him. He was looking at nothing in
+particular, somewhere a long way off. "On Valhalla. Fresh-killed. Cooked over a stove in a
+dugout." The faintest movement under the grey moustache. "Best thing I ever ate."
+
+"The officers' mess on the *Steadfast Ninth*," said Corvane, after a moment, formal and a
+little distant. "On the Emperor's day. Grox fillet." He did not say anything else, and
+nobody asked him to.
+
+"Eggs," said Mira. "*Real* eggs. On feast days, at the academy." She stabbed her brick.
+
+Nessa did not look up from her plate. "Spire fruit. Off a noble's cargo. Once." A beat. "I
+stole a crate."
+
+Kell, Isk, Varga, Tavi, Hollis and Brenner looked at one another down the table. They had
+all been Schola-raised, every one of them, and there was only one answer.
+
+"The Schola's porridge," said Hollis.
+
+"The Schola's porridge," agreed Tavi, with feeling.
+
+Isk nodded slowly. Brenner nodded. Kell said nothing, but his spoon paused for a moment,
+which for Kell was the same as nodding.
+
+"This," said Tavi, pointing at his ration brick with his fork, "is *better*. This is so
+much better. Ollin, I love you."
+
+"Shut up and eat," said Varga.
+
+It was about 1258.
+
+
+## Chapter 137: Almost Did It
+
+At about 1300 Tamsin finished eating and took them all aft to the hangar for the hard
+strength training.
+
+Thirteen of them came. Kell, Varga, Dace, Hollis, Isk, Tavi, Morcant, Sorel, Corvane,
+Nessa, Tey and Mira, and Dannel. Brenner could not, on the ankle, and Sallow did not even
+have to say so; he went to the hangar door and stood there with Maren and Pell, the way he
+had all morning. Joren could not, with the collarbone. Teo had the helm, and Ferro-Ashe
+had the rites. Sallow came with the Bag, and stood by the hatch where she could see
+everyone at once.
+
+The course's sandbags were still stacked by the range door. They hauled them aft into the
+hangar, one each, by the ears, grit sifting out of the split seams onto the deck, and
+dropped them in a ragged line under the Valk's wing. Morcant carried two, because he
+could.
+
+"A sandbag each," said Tamsin. "Ten push-ups, then five squats with the sandbag. Round
+after round, until failure."
+
+He took a sandbag himself, and dropped it at the end of the line, and got down beside it.
+Kell got down beside him.
+
+"*Strength*," said Morcant, rolling his huge shoulders, beaming at the overhead.
+"*Finally*."
+
+Isk looked at his sandbag for a long time, the way he had looked at his recaf that
+morning, and said nothing at all.
+
+---
+
+The first set went to failure, and it did not take long to sort them out.
+
+Ten push-ups, then up, the sandbag hauled onto the shoulders, five squats, the bag down,
+ten push-ups again. The hangar filled with the sound of breathing and boots and the slap
+of hands on the deck plates, and Hollis counted rounds aloud in the loud, delighted voice
+he used for scores, and it went on, and on.
+
+Mira went first. She got through four rounds and on the fifth her arms simply stopped,
+halfway down a push-up, and she lay flat on her face on her sandbag and did not get up.
+"...*Throne's teeth*," she said into the canvas. Dannel went at four as well, a few
+seconds after her, his arms shaking and then folding under him, and he lay on the deck
+staring at the plates in silent disbelief. Varga went at five. She set her bag down very
+precisely, and sat back on her heels, and said "...*Copy*," as if someone had given her an
+order to stop. Isk went at six, without a word, and lay on his back with his arms out,
+looking at the Valk's wing.
+
+At eight, Dace, Nessa and Tey went together, Dace with a grunt, Nessa with "*lovely*"
+through her teeth, Tey all in a rush and flat on his back, gasping. Tavi went at nine and
+announced it to the whole hangar as he collapsed. "*NINE!* Nine, Hollis! Write that down!
+I'm *dying*, and it was *nine*!"
+
+At ten, four of them went down at once, as if they had agreed it: Tamsin, Hollis, Sorel
+and Corvane, all together on the tenth round, the sandbags thumping onto the deck in a
+single ragged *thud*. Hollis lay on his back with his eyes shut. "Old ass," he said mildly
+to the overhead, "is still *ten*." Corvane rested on one knee with perfect posture and
+breathed through his nose.
+
+Kell went at eleven, flat and silent, and set his bag down as though he were putting down
+a crate he had been asked to carry and had carried.
+
+And Morcant kept going.
+
+He went to twelve, grinning. He went to thirteen, and looked round to make sure everyone
+was watching, and they were. He went to fourteen, roaring every squat, showing off with
+every push-up, and on the last squat of the fourteenth round his arms finally gave, and
+the sandbag came off his shoulders and fell, and he whipped his foot out from under it
+with about a finger's width to spare. The bag hit the deck with a *boom* where his toes
+had been.
+
+"*FOURTEEN!*" roared Morcant, flat on his back, triumphant. "*Fourteen!* Did you *see*? I
+nearly broke my *foot*!"
+
+It was about 1310.
+
+"One minute rest," said Tamsin, "then we keep going."
+
+---
+
+They kept going.
+
+After a minute's rest they went again, to failure, and then rested a minute and went
+again, and each set was shorter than the one before, and they kept on doing it for the
+rest of the hour. The rounds that had come easily in the first set began to come hard.
+Push-ups that had gone all the way down began to stop halfway. Squats that had gone all
+the way to the deck began to stop at the knee.
+
+Corvane was the first to start flagging, his stiff knee taking longer to straighten on
+every squat. Dannel was the next, his arms going early in every set, his face grey and set
+and determined. Everyone else held.
+
+Then, on a squat near the end of the hour, with the sandbag across her shoulders, Mira
+made a sharp, short sound and dropped the bag behind her and put her hand to her back,
+high up on the right, along the edge of her shoulder blade.
+
+Sallow was there before the bag had stopped rolling. Two fingers along the shoulder blade,
+quick and clinical, watching Mira's face.
+
+"Pulled." Flat. "The muscle along your shoulder blade. Rest an hour. Nothing over your
+head." She looked at Mira, who had opened her mouth. "Don't argue."
+
+Mira closed it again and sat down against the bulkhead, white-lipped, with her arm folded
+across her.
+
+At 1400 the first hour was done. The rest of them sat or lay on the deck by their
+sandbags, dripping, and breathing hard.
+
+"One minute's break," said Tamsin. "Then another hour."
+
+---
+
+The second hour was the hour that began to break them.
+
+Mira sat it out against the bulkhead and watched. Corvane and Dannel had been flagging
+when it started, and it got worse. Dannel's sets got shorter and shorter until they were
+two rounds, and then one, and he did them anyway. Dace began to flag too, about halfway
+in, the big smith's arms that could swing a hammer all night suddenly heavy and slow under
+a sandbag.
+
+Then the injuries came, all in a rush.
+
+Varga went first. On a squat, with the sandbag on her shoulders, her lower back caught,
+and she went down onto one knee and stayed there, and set the bag down very carefully, and
+did not say anything, and her face went white. Tavi went a few minutes after her: his
+knee, the one he had cracked on Tamsin's locker in the dark, gave on a squat, and he went
+over sideways with the sandbag on top of him and lay underneath it swearing by the Throne.
+And then Corvane's stiff knee, which had been taking longer and longer to straighten,
+simply did not straighten, and he went down on it with his jaw locked on a sound he would
+not make.
+
+Sallow went down the line, one after another. Varga's back. Tavi's knee. Corvane's knee.
+
+"An hour's rest," said Sallow to each of them, flat. "Each."
+
+Corvane, on the deck, with his face grey, managed a short formal nod. "...Understood."
+
+At 1501 the second hour was done. Tamsin was on his knees by his sandbag, out of breath.
+
+"Come on, team," said Tamsin. "Push through it. Another hour." He drew a breath. "We're
+not stopping until me and Morcant are down."
+
+Morcant, flat on his back on the deck beside his sandbag, raised one fist in the air.
+
+---
+
+In the third hour Mira came back off her hour's rest, and Varga, Tavi and Corvane sat
+theirs out against the bulkhead, three in a row, watching.
+
+It was the hour where the exhaustion caught up with nearly everyone. Sorel did not seem to
+slow at all; he went down and up, down and up, slow and even, exactly the same as he had
+in the first set, as though he had all the time in the world and nowhere else to be. Nessa
+held too, cool and steady, her mouth set. Dannel, astonishingly, held, his short sets no
+shorter than they had been, his face grey but his arms still moving.
+
+Everyone else began to slow. Kell's sets got shorter, though nothing showed in his face.
+Hollis stopped counting rounds aloud halfway through and started counting them under his
+breath. Isk began to stop halfway down his push-ups and finish them with his jaw clenched.
+Morcant's grin stayed on his face, but his arms began to shake on every push-up. Tey's
+sets went from long to short. Mira, back on the line, could do half a set before her
+shoulder told her to stop. Dace, who had been flagging since the second hour, was moving
+now like a man underwater.
+
+Tamsin, too, began to slow.
+
+At 1602 the third hour was done.
+
+"I'm not down," said Tamsin. "How's Morcant feeling?"
+
+Morcant was lying on his back on the deck beside his sandbag, his huge arms shaking so
+badly that they twitched against the plates, and he was grinning up at the Valk's wing.
+
+"*Great*, boss!" said Morcant. "Never better!" He tried to lift one arm and failed. "I
+can't feel my arms." He considered this. "But they'll come back."
+
+Neither of them was down.
+
+---
+
+For the fourth hour they were all back in: Varga, Tavi and Corvane off their rest, stiff
+but cleared, and every one of them on the hangar deck again.
+
+It was the longest hour of the day. Isk got slower still; by the end of it he was doing
+his push-ups one at a time, with a long breath between each, his prayer token swinging
+from his collar. Sorel began to slow at last, and so did Nessa, and when Nessa slowed she
+said "*lovely*" under her breath every round, like a prayer of her own. Dace was barely
+moving, and kept moving anyway.
+
+Halfway through the hour, on a push-up, Tey's wrist went. He went down onto his face with
+a yelp, and rolled over clutching it to his chest.
+
+"Wrist," said Sallow, already kneeling. She turned it gently one way and then the other,
+watching his face. "An hour's rest." She was already strapping it. "You can swear if you
+like."
+
+Tey swore. He did it quietly, and he did it well.
+
+Tamsin got slower again.
+
+At 1703 the fourth hour was done. Morcant was still not down.
+
+"Come on..." said Tamsin.
+
+---
+
+In the fifth hour Tey sat against the bulkhead with his wrist strapped, and watched, and
+the hangar began to fall apart.
+
+Sorel got slower again, though he still went down and up as evenly as ever, only with
+longer between. The others held, by inches.
+
+Then Morcant's back went.
+
+It happened on a squat, near the end of the hour. He had the sandbag across his shoulders
+and was coming up out of the bottom of the squat, grinning, the way he had been grinning
+for five hours, and his lower back simply gave. He went down onto both knees with the
+sandbag rolling off behind him, and stayed there with one hand flat on the deck, and for
+the first time all day he was not grinning.
+
+"...*Throne*, boss," said Morcant, through his teeth. "There it goes."
+
+Sallow was already there. "Lower back. Down. An hour's rest, on your back, flat." She
+helped him over. He lay down on the deck beside his sandbag, very slowly, and stared at
+the Valk's wing, and the grin came back, a little crooked.
+
+"*Down*," said Morcant to the overhead, with a kind of pride. "I'm *down*, boss."
+
+He was not the only one. A few minutes later Dace's shoulder went on a push-up, and he
+rolled off his sandbag clutching it, and lay beside Morcant without a word. And then Mira,
+back on the line, made the same sharp short sound she had made in the first hour, on a
+squat, and dropped the bag, and put her hand to the same place on her right shoulder
+blade.
+
+Sallow looked at the shoulder, and then at Mira.
+
+"Same one. You're done for the day." Flat. "That's not an hour. That's done."
+
+Mira did not argue this time. She sat down against the bulkhead beside Tey and let Sallow
+strap her arm across her, and stared at the deck.
+
+At 1804 the fifth hour was done. Morcant was down. Tamsin was on his hands and knees
+beside his sandbag, his arms shaking.
+
+"I'm still here..." said Tamsin.
+
+---
+
+The sixth hour began with Tey back on the line, his wrist strapped, and Morcant and Dace
+on their backs against the bulkhead, and Mira done for the day.
+
+Kell did not seem to slow down any further. Neither did Tey, oddly, off his rest, who went
+at it with a strapped wrist and something to prove. But Hollis slowed again, and Isk
+again, and Dannel again, and Tavi began to slow too.
+
+And then the hurts came one after another, like the last of the course the day before.
+
+Nessa's forearm went on a push-up, and she went down on her side clutching it and said
+"*ROOK*" in the boss's general direction. Sorel's back went at last, on a squat, slow and
+steady even then; he set the bag down very carefully, and straightened, and did not
+straighten all the way, and stood there for a moment with one hand on his lower back, and
+said, quietly, "...Ah. There." Varga's back went again, the same place as before, and she
+went down without a word. And on a squat near the end of the hour Corvane's knee went
+again, the stiff one, folding under him for the second time that day.
+
+Sallow went down the line with the Bag.
+
+Seven were still up: Kell, Hollis, Isk, Dannel, Tavi, Tey and Tamsin.
+
+Near the end of the sixth hour, on a squat, with the sandbag across his shoulders, Tamsin
+went down.
+
+He did not stop and kneel, or set the bag down. He went down. His legs gave at the bottom
+of the squat, and the sandbag rolled off his shoulders and thumped onto the deck, and he
+went over sideways onto the plates, and lay there.
+
+He was out for a few seconds.
+
+Sallow was on him before the bag had stopped rolling. Two fingers on his throat. Her other
+hand flat on his chest, feeling it rise and fall.
+
+"Breathing's fine." Flat and fast. "Pulse is fast." She lifted his eyelid with her thumb,
+and then ran her hands quickly down his arms and his legs and his ribs. "Exhaustion.
+Nothing broken." By then he was coming round. "Water. Sit up slow. An hour's rest." She
+did not take her eyes off him. "*Slow*, boss."
+
+Kell stood over the two of them with his hands on his knees, breathing hard, and looked
+down at the boss on the deck, and over at Morcant on his back against the bulkhead.
+
+"That's the boss down. And Morcant." Flat, final. "We're done."
+
+It was about 1905. Six hours.
+
+---
+
+"Almost did it..." said Tamsin, weakly.
+
+"Six hours, brother," said Kell. "That's not almost."
+
+From the bulkhead, flat on his back, Morcant lifted his head an inch off the deck.
+"*Almost?!*" His voice cracked. "*Almost?!* Boss, I can't feel my *legs*!"
+
+"I'd hate to see the boss try properly," said Hollis mildly, from where he sat against his
+sandbag.
+
+Sallow put a canteen into Tamsin's hand and closed his fingers round it with her own.
+
+"Drink."
+
+Dannel was still standing. He stood in the middle of the hangar deck beside his sandbag,
+swaying very slightly, his arms hanging, his face grey, and he did not seem to know that
+he was one of the last on his feet. Around him the only others still standing were Kell,
+Hollis, Isk, Tavi and Tey. Everyone else was down on the deck.
+
+Ollin had been watching from the hatch. He looked at all of them, lying across the deck
+among the sandbags like the wreck of a battle.
+
+"I'll put supper on, boss," said Ollin.
+
+"Good," said Tamsin. "I'll be there in a second."
+
+He rested a minute on the deck first, with the canteen. Then he got up, slowly, the way
+Sallow had told him to, with Sallow at his elbow for the first few steps, and went forward
+to the galley.
+
+"Supper counts as your hour," said Sallow, walking beside him. "*Sitting*."
+
+---
+
+The Light limped into the galley after him.
+
+Morcant came with one hand flat on the bulkhead the whole way for his back, moving like an
+old man. Corvane came on his bad knee and Tavi on his, side by side, holding each other
+up. Varga came stiff as a board. Nessa came holding her forearm against her chest. Mira
+had her arm strapped across her, and Tey had his wrist strapped, and they sat down
+together at the end of a bench and did not say anything.
+
+Ollin was at the stove with the big pot. He turned round as Tamsin sat down.
+
+"Boss? Can I open one of the two tins of off-world spice for the stew?"
+
+"Sure," said Tamsin.
+
+Ollin opened one of the tins and tipped it into the pot.
+
+The galley filled with a smell that nobody aboard the *Bright Light* recognised. It came
+up out of the pot and rolled down the length of the long table, warm, and sharp, and
+sweet, all at once, like nothing in a ration brick and nothing in a tin.
+
+Morcant sat up straight, despite his back. Sorel closed his eyes. Kell lifted his head.
+
+Ollin ladled the stew out into bowls, and Tamsin ate, and they all ate, and for a moment
+nobody said a word.
+
+"That..." said Corvane at last, very quietly, looking down into his bowl. "...is a
+*sauce*."
+
+Kell finished his bowl and got up and fetched himself a second one without a word, and sat
+back down, and ate that too.
+
+"Better than academy eggs," said Mira, one-armed, with her spoon.
+
+"*Lovely*," said Nessa. And she meant it.
+
+At the stove Ollin stood with his ladle and grinned and grinned.
+
+Supper was quieter than lunch had been. They were too tired to argue. Morcant fell asleep
+sitting up halfway through his second bowl, and his head started going forward toward the
+table, slowly, and Dace caught it with his good hand before it hit and held it there, and
+Morcant did not wake up. Tavi was asleep with his head on his arms beside his bowl. At the
+end of the table Maren and Pell sat with Brenner, and Maren was watching everybody,
+quietly, the way she did.
+
+By about 1950 people were starting to drift off to their bunks early, one or two at a
+time, stiff and slow and chalked, and Sallow was already herding Brenner toward his,
+because she had said so.
+
+Tamsin went to his cabin. The desk, the cogitator, the ledgers, the coin box. The bunk,
+which was not dusty, whatever anybody said. Every muscle he owned ached, and he lay down,
+and he was asleep almost before his head was down.
+
+The *Bright Light* hummed on through the warp toward the Rest.
+
 # Appendix: Session notes
 
 ### Session 8 (Season Two, mission 1: Ustrennos)
