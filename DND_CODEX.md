@@ -924,7 +924,7 @@ seventeen days pile up unwritten), the DM writes that day as full chapters: ever
 the real words spoken at the table, with the dice invisible and only their
 results on the page. Nothing is invented that didn't happen; small connective
 detail (weather, a smell, a look) is fine.
-**Budget (set by the player, Ash on Ostrava day 37, after day 36 ran to 22 chapters): about 8-12 chapters a day.**
+**Budget (set by the player, Ash on Ostrava day 37, after day 36 ran to 22 chapters; changed day 38): chapters by how much the day matters. A quiet day (training, games, travel, rest) gets 1-2 chapters; a day where the story moves, a few; only a big mission day runs long (up to ~8-12).**
 Big scenes (fights, interrogations, turning-point talks, a ceremony) get full chapters; routine ones (handing out gear,
 shopping lists, schedules, repeated handovers) get a paragraph inside a chapter, with the real words kept where they matter. The campaign sheet carries a short
 "Where we stopped" for resuming; the book is the only story file. Set by the player, Ash on Ostrava session 5.
