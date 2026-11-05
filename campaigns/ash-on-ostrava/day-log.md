@@ -38,3 +38,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1501: Isk: 'Better?' Tamsin just reloaded and kept shooting. Isk nodded once and raised Patience again.
 - ~1505: Tamsin slung Vigil, went to the armoury: seated a full hot-shot pack from the stores (30/30 + 2 full spares); the part-used one (16/30) on the charging rack. ~1510 to the mat. **Anyone there (d6 1): empty.**
 - ~1512: Tamsin took a practice knife and worked the training peg on the mat (knife work, solo; DEX training).
+- ~1512-1712: **2 hours of knife work on the peg** (normal training, solo: DEX, tally). Anything happen (d20 9; 1-5 something): quiet.
