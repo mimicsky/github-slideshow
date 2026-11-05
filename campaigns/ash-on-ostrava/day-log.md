@@ -42,3 +42,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1715: Tamsin to the galley. **At the table (d4 2; d13 10, 2): Corvane and Varga**, early for supper, a deck of cards between them. **Ollin's supper (d6 5, 4-6 better): grox sausage and onion stew with real bread**, bought at the Rest's pilgrim market this morning ('Don't get used to it').
 - ~1716: Tamsin: 'How did you pay for it, Ollin?' Ollin: from the coin box, the stores money, written in the book: **18 Thrones (2d6 12 + 6) -> coin box 7,419**.
 - ~1717: Tamsin, eyebrow up: the full price? haggled? **Ollin's haggle (d20 10, middling): asked 24, paid 18**; 'Mam said never pay the first number.' The bread woman wouldn't budge; the sausage man did.
+- ~1718-1735: Tamsin washed up and changed; back to the galley as it filled for supper. Ollin served the stew and bread. Varga dealt him a hand: 'Want in, boss? Corv's losing.'
