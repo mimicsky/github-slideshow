@@ -39,3 +39,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1505: Tamsin slung Vigil, went to the armoury: seated a full hot-shot pack from the stores (30/30 + 2 full spares); the part-used one (16/30) on the charging rack. ~1510 to the mat. **Anyone there (d6 1): empty.**
 - ~1512: Tamsin took a practice knife and worked the training peg on the mat (knife work, solo; DEX training).
 - ~1512-1712: **2 hours of knife work on the peg** (normal training, solo: DEX, tally). Anything happen (d20 9; 1-5 something): quiet.
+- ~1715: Tamsin to the galley. **At the table (d4 2; d13 10, 2): Corvane and Varga**, early for supper, a deck of cards between them. **Ollin's supper (d6 5, 4-6 better): grox sausage and onion stew with real bread**, bought at the Rest's pilgrim market this morning ('Don't get used to it').
