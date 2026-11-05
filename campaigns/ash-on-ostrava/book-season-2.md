@@ -39857,6 +39857,1516 @@ owned ached, and he lay down, and he was asleep almost before his head was down.
 
 The *Bright Light* hummed on through the warp toward the Rest.
 
+
+## Chapter 121: Mind the Furniture
+
+Tamsin woke at 0600 after a full night's sleep, and a quiet one. It was day 39, the fourth
+day of the warp, and the Rest was two days off. The whole ship was stiff and sore from six
+hours of sandbags, but the night had slept off the worst of yesterday's strains, and
+Brenner's ankle was down at last, after Sallow's three days. On the range Kell's rotation
+had started at 0600, most owed first: Mira, then Brenner, then Tavi.
+
+In the galley Ollin was at the stove with the bricks and the recaf. Nessa and Sorel had
+the table. Nessa sat with her stiff forearm across her chest, glaring into her recaf;
+Sorel sat across from her, calm, eating slowly. She had been asking him how he had gone so
+quiet on the shrine floor.
+
+"Morning," said Tamsin, and sat and ate.
+
+They argued the shrine floor in low voices all through breakfast, Nessa's questions short
+and sharp and Sorel's answers shorter and patient, and Nessa conceded nothing.
+
+---
+
+At about 0650 Brenner came straight off his forty-five minutes on the lane and into the
+galley. The ankle was unstrapped, on Sallow's say-so.
+
+"Boss. Ankle's down. Mat?"
+
+"You ready?" said Tamsin.
+
+He was ready, sir. He had been reading up, and Sallow had cleared the ankle. They went
+forward to the mat, on the starboard side across from the shrine, and Brenner took a blunt
+practice sword off the rack, tested the weight of it, and set his feet. There was nobody
+to call the touches this time. Mira was on the lane until seven.
+
+"Same as last time," said Tamsin. "First to five."
+
+He charged straight in with a lunge, a plain straight stab, and the blunt point was in the
+middle of Brenner's chest before Brenner's sword had come across. He had set himself for a
+slash, not a thrust. One to nothing.
+
+Tamsin came again with a huge overhead, and this time Brenner had read it: up and across,
+and the blade rode off his. He came back off the parry with a short, hard side cut, and
+Tamsin brought his own sword down to meet it and knocked it wide. Then Tamsin rocked his
+body back and brought the sword round in a wide swing across, and the blunt edge took
+Brenner along his open left side, under the arm. Two.
+
+Tamsin laughed. "What manual?"
+
+"The close-quarters primer, sir. From the Schola." Brenner was already breathing hard.
+"Everybody had to learn it. I'm the only one who ever read it."
+
+Tamsin stepped back and braced for him. Brenner came in with a feint that never turned
+into anything, a swing that tangled itself up halfway, and Tamsin dodged over it and
+stepped in. Brenner got a block on the first cut; Tamsin met the blade and shoved him off
+it, and Brenner stumbled back with his guard all over the place. The next cut would have
+landed. Tamsin held it back on purpose and let Brenner parry it, and not so obviously that
+Brenner could tell. Brenner came off the parry with a rising cut at Tamsin's arm, and
+Tamsin parried that one for real and threw him well off balance, and as Brenner came back
+upright the blunt edge came down across his chest and stomach. Three.
+
+"I parried one," said Brenner, to the canvas. "I *parried* one."
+
+He did not know.
+
+"Don't let me beat you without a scratch..." said Tamsin, and braced.
+
+Brenner came hard, fired up, with a big committed chop and far too much body in it again.
+Tamsin stepped in, parried and forced Brenner's sword up above his head. Then he stepped
+back and gave him space.
+
+"Come on, Brenner," said Tamsin, "or I'll have to take my gift back."
+
+"...Gift?" said Brenner slowly.
+
+A beat. His eyes went to his own sword. He was working something out, and he decided not
+to ask yet. Then he came in, and this time it was a tighter cut, at Tamsin's leading hip,
+with the body held back behind it. Tamsin blocked it, but Brenner hit hard and it
+staggered him, and Brenner came straight back in at the same hip while Tamsin's feet were
+wrong. Tamsin dodged to the side, and the blade brushed his sleeve going past. Then he
+stepped in with a wide slash, and it landed. Four to nothing.
+
+Brenner was chalk-white with effort. One more, and he would be beaten without a scratch.
+
+"Come on, then," said Tamsin, and braced.
+
+Brenner put everything into it, and held it: a feint high, then a cut at the thigh. Tamsin
+read the feint and dodged back, and Brenner cut at nothing. Tamsin raised the sword high
+and came down in an overhead, and Brenner blocked it with both hands on the hilt and the
+blade crossed over his head. Tamsin reset and swung again, and Brenner blocked that too,
+though his arms were going after two heavy blocks. Then Tamsin reset into a stab and held
+it back, well this time too, and Brenner's blade knocked it aside. Brenner came off it
+with a short, straight cut at Tamsin's forearm, and Tamsin went to parry and missed his
+placement, and the blunt edge cracked across his sword arm.
+
+Four to one. Not without a scratch.
+
+Tamsin stepped back. "You need a minute?"
+
+"The primer says take a rest when it's offered, sir." Brenner put his hands on his knees.
+"I'll take thirty seconds."
+
+He took them, breathing. Then he came up. "Ready, sir."
+
+"Alright," said Tamsin. "Come on, then."
+
+Brenner's arms were finished. The cut came in slow and low, and Tamsin parried it hard
+enough to tear the sword out of his tired hands, and it skidded off the canvas onto the
+deck plates. Brenner stood there, empty-handed and open.
+
+"Good fight," said Tamsin, and laid the blunt edge lightly across his shoulder.
+
+Five to one.
+
+Brenner was grinning through the sweat. "Thank you, sir. The primer's wrong about one
+thing. It never says how much your arms hurt." Then, quieter, bending to pick up his
+sword: "The gift, sir. I worked it out." He straightened with it in his hand. "I'll take
+it. But next time I want the touch without one."
+
+"Next time you'd better get two," said Tamsin.
+
+"Two," said Brenner, dry. "Logged, sir."
+
+It was about 0707.
+
+---
+
+The rest of the warp went by quietly.
+
+At about 0800 on day 39 Kell's rotation put the last of them through the lanes, Corvane,
+Nessa, Kell himself, Hollis, Isk and Morcant, and the range debt was done: all hundred and
+ten hours of it, served over four days. The training plan was back on, six hours each, and
+with the debt gone Corvane went onto sword work on the mat. Tamsin coached for three hours
+and shot for three. In a quiet spell in the Geller field Ferro started fitting the Valk's
+new nose multi-laser, and Dace went to work on her plasteel plates. Maren was with Sallow,
+and the girls with Brenner, for most of the day. Down on the lower deck Thask and Ilsabet
+were quiet in their cells, and Ollin's trays went in and came out.
+
+Day 40 was the same: the training plan, Ferro's fitting going on, Dace's plates going on,
+and nothing out of the ordinary. On Kell's slate the debt was wiped clean, and under the
+empty line he noted the hours still banked: Tey's and Varga's, Sorel's, and the boss's.
+
+At about 0900 on day 41 Ferro finished the nose gun, fitted and blessed, though nobody
+could test it until they were out of the warp. The morning went by on the plan. At about
+1400 the *Bright Light* came out of the warp at Saint Ivaine's Rest.
+
+---
+
+Tamsin was on the bridge for it. Teo brought her out clean, with Mira in the second seat,
+and when the shutters came up the Rest was ahead of them: the spire with its pilgrim
+berths, and the lanes all round it thick with pilgrim haulers. Brenner sat at the vox
+board waiting for the word, from Kesh's closed channel or from the port's berth master.
+Kesh's orders had not changed since the Mart. Thask, Ilsabet and the girl, brought to her
+by his own hand, under guard. Nothing of the Sixth on an open channel. And the burned
+tenement, explained to her face.
+
+Mira was looking at the traffic. "Boss. Once we're clear of all this. Can I test the new
+nose gun?"
+
+Brenner had Kesh's private line by then, and it was not Kesh who answered. It was a soft
+old voice in no hurry at all: Mother Oculine.
+
+"*We felt you come out of the warp, Interrogator. And the three aboard.*" A pause. "*And
+the small bright one among them.*" The Lady expected him. He was to let the port berth his
+ship wherever it liked, and then bring the three down himself, by his own bird, to the
+landing below the residence, under guard. "*Nothing else on this line.*"
+
+"Heard," said Tamsin, and cut it.
+
+"Berth master next, sir?" said Brenner.
+
+At *by your own bird* Mira had turned her head. "The Valk," she said quietly.
+
+"Yeah," said Tamsin. "Call the berth master."
+
+The berth master was a bored voice with too many ships in its lanes. Berth 38, on the
+outer ring, once the pilgrim haulers ahead had cleared; about thirty minutes. Teo held
+station in the queue.
+
+At 1405 Tamsin went on the ship vox. Everyone into full kit. The prisoners up and in
+cuffs. Sallow was to keep the girl in the medicae, nowhere near Thask or "the sister".
+
+For twenty minutes the *Bright Light* filled up with grey plate and white trim and the
+Light's own guns. Kell and Corvane went down the stair with Dace, cuffed Thask and Ilsabet
+with their hands behind them, and walked them up the stair to the hold. Thask was warm and
+rich all the way up.
+
+"Saint Ivaine's Rest. I'd hoped to see it one day." And then: "The Lady Inquisitor. How
+lovely."
+
+Ilsabet said nothing all the way up. At the top of the stair she looked once toward the
+medicae corridor, and then away. They sat the two of them on a crate by container one,
+under Kell's and Corvane's guns. In the medicae Sallow shut the hatch with Maren inside,
+and Maren asked whether they had arrived, and whether she could see the stars now.
+
+By about 1425 everyone was ready. At about 1435 they docked at berth 38.
+
+---
+
+"Ollin," said Tamsin, "get the others and load up the evidence and get it ready."
+
+Ollin had run the handover at the Mart himself. Sister Aldwyn had taken the evidence crate
+and the cold box, sealed, for her hands only. What was still aboard for the Lady, he said,
+was the boss's own report slate, in his desk, and the lad's locked slate, Dannel's, from
+the stakeout on Ustrennos, with the cogged runes nobody had ever cracked. "Bring both down
+in the Valk, boss?"
+
+"Yes, both slates," said Tamsin. "And write up a requisition request for the ship."
+
+"Aye, boss. What goes on it?" Ollin counted off what he knew. Berths: twenty-four aboard,
+comfortable for about twenty-two, crammed past thirty-two. Mira's bolt-rocket pods, on
+order here already, waiting to be collected. Ferro's parts list for the builds: sights,
+stocks, cells, crystals, darts. "And Teo's been saying he left you a plan for the ship's
+guns, boss. I've not seen it." He sent for the two slates.
+
+"Never mind the requisition," said Tamsin. "I'll talk to her myself about what I want. Get
+me Teo's schematic, though."
+
+Ollin went to the boss's cabin on his word. At the foot of the Valk's ramp he handed
+Tamsin his satchel, with all three inside: Teo's gun plan out of the top drawer, the
+boss's report, and the lad's locked slate.
+
+At the Valk Tamsin looked round at the Light.
+
+"Who are the four coming with me and Mira?"
+
+Five stepped up. "Brother," said Kell. Her orders; he went where the boss went. Dace was
+the Protector, and a shield went between the boss and anything. Sallow said the girl would
+need someone she knew, and she was not handing Maren to strangers. Corvane said that Kesh
+had uncollared him, and he would like to stand in front of her as a Light-bringer. And
+Nessa said Kesh was a smuggler's daughter who had taken a liking to her, and she would
+walk Ilsabet.
+
+"Five, then," said Tamsin. "Everyone else watches my ship."
+
+Hollis took the ship as Kell's second. "Aye, sir. We'll keep the lights on." Teo stayed on
+the bridge, and the rest went to their posts.
+
+They loaded the way Tamsin wanted it, with the girl kept well away from Thask and Ilsabet.
+Kell and Corvane walked Thask aboard to the rear bench, and Nessa walked Ilsabet in behind
+him. Sallow brought Maren last, straight up front behind the cockpit, with a blanket round
+her, facing forward. Thask saw her come aboard and smiled. Ilsabet did not look.
+
+At about 1448 the ramp came up. "Clear to lift?" said Mira.
+
+"Take us, Mira," said Tamsin.
+
+---
+
+The Valk slid out through the hangar door into the pilgrim lanes, and Maren pressed
+herself against the cockpit glass. The stars were out there, all round them, and they were
+real.
+
+On the approach to the residence the landing below it was dark. There was no beacon and
+there were no landing lights, and the residence's lower windows were dark too. Tamsin had
+seen those dark windows once before. It was Kesh's own warning.
+
+Mira held off at about two kilometres. "Boss. The landing's dark."
+
+"Brenner," said Tamsin on the bead, "get Kesh back on the comms."
+
+Brenner patched the Valk through to the private line, and again it was Oculine who
+answered, and this time she was guarded. The flower's gardeners had come to watch for her.
+There were eyes on the high roofs west of the landing, "*and something in their hands that
+wants to burn*." The Lady had put out the lights so that he would not come in where they
+could see him. She would open the old ice-hauler door for him instead, the way he came the
+first time. "*And again. Nothing more on this line.*"
+
+"Mira," said Tamsin, "you heard her. Go."
+
+Mira slid in behind a slow pilgrim hauler and rode along in its shadow, then broke off low
+along the spire's eastern flank, away from the western roofs, and came round to the old
+ice-hauler door, where the Light had come in once before. It was grinding open as they
+came. She set the Valk down inside the cold lock bay, with frost on every wall, and the
+door ground shut behind them.
+
+Waiting in the bay, out of sight of any roof, were Sister Aldwyn and four armsmen.
+
+"Good to see you again," said Tamsin, and walked over to her.
+
+"And you, Interrogator." The scarred corner of her mouth moved. "Varsaine would say you're
+still late." Then: "Bring all three. In your own hands. The Lady wants to see them that
+way."
+
+They went up through the residence's dark lower levels, past drawn shutters and armsmen at
+every stair, Kell and Corvane on Thask, Nessa on Ilsabet, Dace behind Tamsin, and Sallow
+at the back carrying Maren in her blanket. Mira stayed with the Valk in the lock. At about
+1500 they came into a high chamber with its lamps turned low, and Inquisitor Aurelia Kesh
+was standing at a shuttered window with the silver-chased plasma pistol at her hip.
+
+"Lady..." said Tamsin.
+
+"You came in by the ice door. Good." She did not move from the window. "The garden's
+people have been on my west roofs since yesterday. I have let them watch." Then: "Aldwyn.
+Those two to the lower cells. Apart."
+
+Aldwyn's armsmen took Thask and Ilsabet from Kell, Corvane and Nessa. Thask went warmly.
+"Lady Inquisitor. An honour."
+
+Kesh did not look at him. Ilsabet looked back once, at Maren, and then she was gone
+through the door.
+
+"The girl stays with you for now," said Kesh. "The tenement. To my face, as I asked."
+
+"Straight to business?" said Tamsin. "You don't want to ask how my trip was?"
+
+"You are alive," said Kesh flatly. "The Mart is mine. And you have brought me an
+asteroid's worth of prisoners and paper. I assume the trip was adequate." A beat. "The
+tenement."
+
+"Also got a smile..." said Tamsin. Then: "Alright. Here it is."
+
+He told her all of it. The Hookmen's gunship, a scav-rigged cargo lifter with a rocket pod
+and a nose stubber, coming for the Valk off the vox mast ridge with Mira and ten prisoners
+aboard, about to fire. Vigil's bolts into the rocket pod. The lifter blowing apart two
+hundred metres off the ridge, and its burning middle falling down the east face onto a
+five-storey tenement on the dock ring, and the top floors catching at 1253. People running
+out into the street.
+
+Kesh cut in there. "How many in the street? And how many of them got up again?"
+
+He told her. The three from the gunship, the pilot and two Hookmen, off the roof: lowered
+down the face of the building on a laundry line, and the pilot dragged out as the roof
+came in. A family of four out of the third floor, a woman, a toddler, a girl of six and an
+old man, with Dace carrying the old man. Seven had made it out to the street. Four of them
+were hurt. Two of them didn't get up.
+
+"Didn't get up," said Kesh, precisely. "Or dead, Interrogator?"
+
+"One of them didn't make it," said Tamsin. "The other one lived. We got everybody out of
+there, and Sallow got her back up."
+
+Sallow had seen to the one who lived, once she and Dorrow's militia had got her off the
+street. "Smoke," she said from behind him, flat. "She lived."
+
+One dead in the street. Everyone in the building had come out.
+
+Kesh looked at him a moment longer. "The gunship fell where it fell. You went into the
+fire for a family, and for the men who were trying to kill you. Voke wrote at length. The
+Mart will remember the Inquisition's man who climbed it." That was the tenement done. She
+held out her hand. "Your report."
+
+He gave her the slate, and as she read he went on aloud through the rest. The Mart's seven
+objectives, taken. Thask, Ilsabet and the Bloom. The Moebian 6th, their Captain Biron
+Wolfer, and the beds at ten a head. The daybook that had not burned, and its *one
+passenger at the Lamps*. The *Hesk Tender*, a paper name, with the real hull still in
+Ilsabet's head. The garden opening when the girl turned twelve, and a ship coming at the
+Harvest Lamps. And Maren not Thask's blood at all, by Ilsabet's own words: *He found her*.
+
+Kesh stopped him at the next line on the slate. She read it twice. "Under your own wing."
+She looked up. "Your *ward*."
+
+"Honestly," said Tamsin, "I'd like to speak to you about that in private."
+
+She considered him for a moment. "Very well." Then, to the rest of them: "Outside."
+
+Aldwyn took Kell, Dace, Corvane and Nessa out to the antechamber, and Sallow with Maren in
+her arms, and shut the door behind them. Kesh set the slate down on the table and folded
+her hands behind her back.
+
+"Now."
+
+---
+
+"When I talked to Thask about the girl," said Tamsin, "he said he found her. They're not
+relatives. And there's something pure about her. Cultist talk is strange. But maybe she is
+pure. Immune to the plague, and maybe to other Chaos forces." He held her eyes. "I'd like
+to ask if she can be sent to the Schola. For the Sororitas. I know it's an ask, and it's
+your call. But a gift like that shouldn't be wasted."
+
+Kesh had his report, and Aldwyn's crate had been in her hands only a few hours. Nothing
+had been tested yet.
+
+"*Pure*, from a heretic's mouth, means something else until it is proven," she said.
+"Oculine called the girl the small bright one. Oculine does not waste words. She will look
+at her tonight, and my chirurgeon after her." She did not raise her voice. "And the
+garden's people are on my roofs for that child, Interrogator. Right now. A Schola is a
+house full of children with one gate. Until the garden is ash, she is a target wherever
+she sleeps."
+
+She let that sit.
+
+"It is not no. It is *not yet*. She is tested first. When the Lamps are put out, we will
+speak of the Schola. And of the Sisters, if she is what you hope. Until then she is your
+ward, as you wrote. On your ship, under your guns."
+
+"Can me and my team go find these cultists on the Rest?" said Tamsin. "I don't want them
+anywhere near these people. This is like my second home."
+
+"It is *my* home," said Kesh, dry. "You may treat it as your second, if you mind the
+furniture."
+
+The answer was yes, on terms. At least one taken alive who could talk: who sent them, and
+how they knew to watch for the girl. And quiet. The west slope was pilgrim hostels, and
+half of it belonged to the Ecclesiarchy. No fire on that slope, and no open channels. Her
+armsmen were his if he wanted them, and Aldwyn too.
+
+Then she told him what she knew. About five of them, arrived yesterday, on the roof of a
+pilgrim hostel three roofs up the slope west of the landing, the one with blue prayer
+lamps along its parapet. A long case among them. A pict-lens. They had been watching the
+landing ever since. "My people have not let them know they've been seen."
+
+"No need for your people," said Tamsin. "A small strike team, built for moving quiet and
+tracking. I'll have all five for you."
+
+He stood up. "Seems you don't like sharing your home."
+
+"I share it with a psyker, a Sister, a house full of armsmen, and now a garden," said
+Kesh. "I have been generous enough this week." Then: "All five would be welcome. One will
+do."
+
+"I have one more ask."
+
+"Ask."
+
+"Two asks," said Tamsin. "First. Two of my penitents have been converted, and they have
+family. One is aboard: the little girl we saved. Pell, Dannel's sister. She has nowhere to
+go. The other is on Ustrennos. Annet Brisk, Joren's mother, block 4-E, ring four. I'd like
+to take her off and place her somewhere I know is safe. I'm not asking you to take them
+in. More whether they could live on the Rest."
+
+"Yes," said Kesh.
+
+The Rest fed and housed pilgrims by the thousand. There was a hospice on the lower ring,
+run by Hospitaller Sisters, that took in pilgrims' orphans, and the pilgrim kitchens
+always wanted hands. A word from her, and both would have a place. But not until his roof
+was clear: the garden was watching her house today. The girl's face had been on Tegg's
+slate of the children, so she would go in under another name. The mother was his to fetch
+from Ustrennos, or her next courier's. "And I will want to look at your two converts
+myself before I sign anything with their names on it." Then: "And the second?"
+
+"The two penitents need their faith evaluated," said Tamsin, "since the priest I had it
+done by turned out a heretic. And I value your judgement more than anything."
+
+He went on before she could answer.
+
+"Second ask. A big one. The ship and the team are growing fast. I want to take on bigger
+responsibilities and bigger targets, and run operations from the ship. But she's too
+small. I know I'm newly an Interrogator, and I'm proud of it, and I'd understand a no. My
+only ask is funding to expand the ship. I'll pay what I can from all we've taken." A
+breath. "I'm just asking for help."
+
+"Oculine will look at both your converts herself," said Kesh. "Whoever tested them
+before."
+
+On the ship she said nothing for a long while. She went back to the shuttered window and
+stood there with her hands behind her back, and the lamps hissed, and somewhere far up the
+spire a pilgrim bell rang. Then she turned round.
+
+"You asked plainly. And you have earned the right to ask."
+
+The Ordo would pay for the core refit: more berths, a bigger hold, a proper armoury. The
+Ordo would pay half of the guns, and he would pay the other half from what the Light had
+taken. Not before the Lamps. Until the garden was ash she needed him flying, not sitting
+in a slip; after the Lamps she would get him a slip at a yard she trusted. The *Bright
+Light* would stay the Ordo's ship in his hands, as she had been given. "I want your
+pilot's gun list on my table before you leave today. And an honest count of what the Light
+have in their coin box."
+
+Tamsin took Teo's pages out of Ollin's satchel and laid them on her table. Then he keyed
+his bead. "Ollin. What is the count on the coin box?"
+
+Ollin answered at once, straight off his slate. "*Seven thousand four hundred and
+thirty-seven Thrones, boss. That's after Oda's and Pruitt's wages at the Mart.*"
+
+Kesh read Teo's pages one by one: the blind spots, the belly lascannon, the stubbers over
+the ramp and the hangar door, the Hellstrike pods and the augur. She costed the first four
+in her head without a word. At the fifth, the void shield, she did not even slow down.
+"No. Not this year." At the bottom of the last page she read Teo's line, *I can fly
+anything you bolt to her*, and set the pages down on her table.
+
+"Your pilot will get his lascannon."
+
+"Done, my lady," said Tamsin.
+
+At the door he turned. "I missed you too."
+
+Kesh did not look up from Teo's pages. "Noted."
+
+And as the door closed behind him: "Mind the furniture."
+
+
+## Chapter 122: Still Dark
+
+In the antechamber Kell, Dace, Corvane and Nessa were waiting with Sallow and the girl,
+and Aldwyn stood at the far door. Tamsin keyed his bead.
+
+"Mira, where are you at?"
+
+"*In the ice lock with the bird, boss. Engines cold.*"
+
+"Nessa, Sorel, Tey," said Tamsin. "Get ready. We're going in to take down a couple of
+rats. I want them all alive."
+
+"Lovely," said Nessa, beside him.
+
+"*Copy, sir,*" said Sorel, from the ship at berth 38.
+
+"*Yes, sir!*" said Tey.
+
+Sorel had the practical question ready. He and Tey could come across through the station's
+corridors on foot, outer ring to the residence, about twenty minutes. Or Mira could fetch
+them out the way she had come in.
+
+Tamsin gave the three of them Kesh's picture over the bead. About five of them, come
+yesterday. The roof of a pilgrim hostel three roofs up the slope west of the landing, with
+blue prayer lamps along its parapet. A long case. A pict-lens. Watching the landing, and
+no idea they had been seen.
+
+They had their say before he made the call.
+
+"A long case on a roof over a landing is a long-las or a launcher," said Nessa. "Take that
+first." And the slope was all pilgrims, so they should walk in as pilgrims: robes, hoods,
+up the hostel's own stairs. "Nobody looks twice at a pilgrim."
+
+"*Come at a roof from higher up the slope,*" said Sorel. "*Never from below. Watchers
+watch where they've been told to. The landing. Not behind them.*" He would like an hour on
+the slope first. "*But I'll take twenty minutes.*"
+
+"*Alive means hands, sir,*" said Tey. "*And knees. And something to put them down quiet.*"
+Sorel carried one of the stolen Arbites shock batons and Ferro the other, and there was a
+third in the container, the one from the Spire pad. And Sorel had his silenced stub
+pistol.
+
+Kell was not on the team. "I'll hold here, brother. Me and Dace and Corvane. On the girl."
+
+"On foot," said Tamsin. "I'll meet you there. I know the way."
+
+---
+
+Aldwyn let Tamsin and Nessa out through the residence's east servants' passage, away from
+the west roofs. Sorel and Tey came from berth 38 through the station, and Tey had gone
+into the container on his own and brought the third shock baton. The way was clear. At
+about 1540 they met on the slope above the hostel, among the upslope roofs and the pilgrim
+steps.
+
+Sorel lay along the edge of a roof higher up and looked down at the hostel for a while
+without moving. Then he came back to them.
+
+"All five, sir. Door man at the stairwell housing, sitting. Dozing. Stub pistol in his
+lap. Two by the water tank with the long case open: one on his front with a tube, watching
+the landing, one kneeling over the rockets. Three rockets. Two at the front parapet with
+the pict-lens and a vox set, backs to us. One of those has a stub pistol." A beat.
+"Nobody's watching behind."
+
+"Quietly," said Tamsin. "On my move. The door man first. Then we move in and take the
+other two. Sorel, you shoot legs, or stun them if you're close. Nessa, no lethal throws.
+Tey, knives, with me."
+
+He drew Last Word and his knife and went down toward the stairwell housing, with Tey at
+his shoulder and Sorel and Nessa wide behind. He came down the last of the slope and
+reached the housing without the door man seeing a thing.
+
+Three steps behind him, Tey put his boot on a loose roof tile.
+
+It made a small scraping clack. The door man's head came up. His eyes went straight past
+Tamsin, who was beside him at the corner of the housing and out of his eyeline, and up the
+slope toward the sound. He was waking up: his mouth opening, his hand closing on the stub
+pistol in his lap.
+
+Tamsin clamped a hand over the man's mouth and drove the knife's pommel into his temple,
+and he went out cold without a sound. Tamsin lowered him against the housing, and Tey took
+the stub pistol out of his lap.
+
+Nobody on the roof turned round.
+
+The rocket team was by the water tank, about ten metres off: the launcher man lying on his
+front with the tube, watching the approach to the landing, and the loader kneeling over
+the three rockets. The other two were at the front parapet, about twenty metres off, with
+their backs to the roof, murmuring over the pict-lens. Sorel and Nessa had come up to the
+corners of the housing.
+
+Tamsin signalled Nessa to shoot the launcher man, and pushed out toward the loader.
+
+Nessa's needle pistol made no more noise than a breath. The black-tip dart took the
+launcher man where he lay, and he went still, with his face on his folded arms beside the
+tube, paralysed and alive. He never made a sound. A metre away the loader did not see his
+partner go still.
+
+Tamsin came up behind the loader with Tey behind him, and the loader never knew. He was
+still bent over the three rockets, counting them under his breath. At the parapet the two
+were still facing the landing, still murmuring over the lens.
+
+Tamsin bent to the loader's ear.
+
+"Death has come for you..."
+
+He knocked him out cold. The man's caught breath never became a sound, and Tey eased him
+down onto the cloth beside the rockets.
+
+Three of five, all alive.
+
+From the parapet, low: "Still dark. Nobody's come in."
+
+"They will. The Prophet said the flower comes to the Lady's house."
+
+Tamsin signalled to Nessa: the left one, but hold. Then he went up on the pair and came in
+right behind them, and neither of them knew he was there. The left one was bent over the
+pict-lens. The right one was leaning on the parapet, with a stub pistol at his belt and
+the vox set by his knee. Behind Tamsin, Nessa's needle was on the left one, holding.
+
+Tamsin gave the signal.
+
+The dart took the left one, and he slumped over the pict-lens and did not move again. In
+the same moment Tamsin took the right one from behind, an arm across him and the knife at
+his throat.
+
+"Don't try anything."
+
+The grab held. The man froze and did as he was told, and opened his hands, and left the
+stub pistol at his belt, and Tey took it.
+
+All five, between about 1543 and 1547, and not a shot heard on the slope. The door man out
+cold. The launcher man paralysed. The loader out cold. The left one at the parapet
+paralysed. And the right one held, awake, with a knife at his throat. With them were the
+tube launcher and its three rockets, the pict-lens on its tripod, and the vox set. Down
+below, the landing was still dark.
+
+"Who's in charge of this little operation?" said Tamsin.
+
+He was young, and he was shaking. It was him, he said: the one with the tube. He said
+when. He said nothing about who had sent them.
+
+"Yeah?" said Tamsin. "And what was the plan?"
+
+The plan was plain enough from the roof, and he gave it. They were to watch the landing.
+When the white bird came in, the man with the tube was to put one into its engines, low
+over the landing, and then they would all go down to the wreck and take the flower out of
+it. "She's not to be hurt. She's never to be hurt." Nobody else in it mattered. If the
+bird didn't come, they were to watch the Lady's house until it did. Then, smaller: "The
+garden has to have her."
+
+"Fuck your garden," said Tamsin, and knocked him out.
+
+---
+
+Sorel and Tey bound the five at the wrists with laundry line. Nessa packed the launcher
+and the rockets back into the long case, and the pict-lens and the vox set went into a
+bag. That left five bodies and a long case on a roof on the Ecclesiarchy's slope.
+
+Tamsin keyed his bead. "Mira, bring a ship down to pick these guys up."
+
+"*On my way, boss.*"
+
+She came out of the ice lock and round the spire's flank, and at about 1555 the Valk hung
+over the hostel roof with its skids just clear of the parapet and its ramp down into the
+wash. Pilgrims gawked from the windows and the steps, and that was all. Sorel, Tey, Nessa
+and Tamsin carried the five aboard, and the long case after them, and at about 1600 the
+ramp came up and Mira took them back round toward the ice lock.
+
+In the troop bay, with the five laid out at their feet, Tamsin looked at Tey.
+
+"I don't make promises lightly," he said. "You know that."
+
+"Yes, sir. I know, sir." Then, quieter: "That's why I wanted in."
+
+At about 1605 the Valk set down in the ice lock, and the door ground shut behind it.
+Waiting in the frost were Aldwyn and her armsmen, and Kell. Aldwyn looked down the row of
+five on the bay floor, and at the long case strapped down beside them, and for a moment
+she said nothing at all.
+
+"The Lady said one would do."
+
+Tamsin pointed out the launcher man. "That one's the leader." He stepped off the ramp.
+"They're all hers."
+
+Aldwyn's armsmen carried the five out of the bay toward the lower cells, to be kept apart
+from Thask and Ilsabet, and the long case went after them. The Lady would have them
+questioned tonight, Aldwyn said. Oculine would see the girl tonight, and the two converts
+tomorrow; he should bring them up from the ship. The Lady expected the Interrogator at her
+table at 1900, and the rest of the Light could stand down aboard. Kell reported that the
+girl was asleep upstairs with Sallow, and Dace and Corvane were on the door.
+
+"Tey, with me..." said Tamsin. "Nessa, Sorel, bring me the two."
+
+Nessa and Sorel went off through the station's corridors to berth 38 for Dannel and Joren,
+twenty minutes each way. Kell went back up to the girl's door. In the Valk's cockpit Mira
+was running the bird down.
+
+Tey stood at Tamsin's shoulder in the frosty bay. "Where do you want me, sir?"
+
+"Nowhere in particular," said Tamsin. "Just by my side."
+
+"Yes, sir."
+
+There was a long quiet. Then: "Thank you, sir."
+
+They waited in the lock bay. Mira finished her checks and came down to sit on the ramp. At
+about 1650 Nessa and Sorel came back through the inner door with Dannel and Joren. Joren's
+arm was still strapped. Both of them wore their carapace and carried no weapons, and
+Corvane's cord was round Dannel's wrist. They looked round at the frost and the armsmen
+like men who had been called up for judgement.
+
+"No worries," said Tamsin. "But be ready."
+
+---
+
+He took them up toward Kesh's chamber, Tey, the two converts, Nessa and Sorel. Aldwyn met
+them at the head of the stair. The Lady was below with the five. She had begun with the
+tube man. She would see the Interrogator at nineteen hundred, as she had said, and not
+before, and the converts' seeing was still for tomorrow, unless the Lady said otherwise.
+
+That left two hours.
+
+"Can I join in on Kesh's interrogation?" said Tamsin. "I'm trying to get better. And
+first-hand from a professional is the best." To his people: "You wait up here."
+
+Aldwyn took the ask down the stair herself and brought the answer back up. Yes. Come and
+watch, and say nothing.
+
+At about 1700 Tamsin stood at the back of a cell on the lower level and watched Kesh work
+the tube man. She was quiet and precise. She told him what he was. She asked him one
+question. Then she said nothing at all, and watched his hands.
+
+He gave her nothing.
+
+"He's been asked before," said Kesh in the corridor. "By worse than me. He'll keep." She
+looked at Tamsin. "Which one did you speak to on the roof?"
+
+Tamsin told her: the right-hand one at the parapet, the one he had held at knifepoint.
+
+"Then he's yours," said Kesh. "I'll watch."
+
+In the third cell the young man from the parapet was awake now, his wrists chained to the
+wall ring, staring at the door.
+
+"You're young," said Tamsin, "so you don't know how this goes. It's over for you, unless
+you give up and cave in. I already know who you work for..." He let it sit. "So what was
+the plan?"
+
+The young man broke. It came out of him all at once, and he was crying.
+
+His name was Wenn. He was a kitchen hand in a hostel on the Rest. There was a man they
+called the Prophet, who preached at the evening office in the long pilgrim hall on the
+lower ring, behind the candle market: tall and thin, in grey sackcloth, barefoot, with a
+staff wound round with dried flowers and a soft voice. He preached the garden as the
+Emperor's mercy, blooming. Weeks ago he had picked Wenn and the door man out of the crowd,
+and fed them, and blessed them. Three days ago he had told them that the Lady would bring
+the flower home to her house, and set them to watch for it. The man with the tube, the
+loader and the other one had come yesterday on a pilgrim courier. The launcher had come in
+a pilgrim crate. How the Prophet had known the flower was coming, Wenn did not know.
+
+"He knew. The garden tells him."
+
+"Where's the Prophet now?" said Tamsin. "And what was your objective?"
+
+The Prophet never missed the evening office at the eighteenth bell, in the long pilgrim
+hall. Where he slept, Wenn didn't know. Wenn himself had been meant to go down at the
+office tonight and tell him *still dark*. The objective was to bring the bird down over
+the landing, take the flower out of the wreck alive, and carry her to the Prophet. Nobody
+else in the wreck mattered. And the courier that had brought the other three was still at
+the pilgrim berths, waiting to take her to the real garden. Wenn didn't know its name, or
+its berth.
+
+It was about 1704. The office was in less than an hour.
+
+"What does he look like?" said Tamsin.
+
+Tall, Wenn said. Thin. In his fifties. His head shaved except for a thin ring of white
+hair. Very pale grey eyes. Always half smiling. Grey sackcloth, and barefoot. A ring of
+dried flowers round his neck, and more wound round his staff. The two smallest fingers of
+his left hand were gone. And he smelled sweet. "Like flowers left too long in water."
+
+Tamsin stepped back out to Kesh. "Your call."
+
+"Not in the hall," said Kesh. "An evening office is a crowd of pilgrims in an Ecclesiarchy
+hall. A prophet dragged out of it in front of them makes a martyr, and a riot." She did
+not need to think about the rest. "This one goes down at the eighteenth bell, as he was
+told, and tells him *still dark*, so that the Prophet suspects nothing. Your people watch
+from the crowd. After the office you follow him to where he sleeps, and to the courier,
+and you take him there. Quietly. Alive." Her armsmen would go through the pilgrim berths
+tonight for a courier that had come in yesterday with three passengers. "The Prophet is
+yours, Interrogator. Supper can wait." She did not look at any chrono. "Fifty-four
+minutes."
+
+"Heard," said Tamsin.
+
+He went back into the cell and stood over Wenn.
+
+"I don't lie," he said. "Do you want to live, and make it out of here? You gave me
+information, so I'll help you too. I just need one thing."
+
+"Anything," said Wenn at once. "*Anything.*"
+
+"You're going to pull yourself together," said Tamsin, "and go talk to the Prophet at the
+meeting point. My team will be on overwatch, seeing your every move. Say anything, do
+anything, and you don't make it off this ring." A beat. "Got it?"
+
+"Got it. Got it, sir." Wenn wiped his face on his sleeve and tried to stop shaking. He
+would have to hold together in front of the Prophet. Kesh nodded to the armsman, and the
+armsman unchained him.
+
+"You want to get him prepped and ready?" said Tamsin to Kesh. "I'll go brief my team."
+
+Aldwyn would wash his face, Kesh said, and give him back his own coat, and walk him
+through it twice. He would be at the head of the stair at 1740.
+
+---
+
+At the head of the stair Tamsin briefed them: Tey, Nessa, Sorel, Dannel and Joren. The
+Prophet: the face, the dried flowers, the two missing fingers, the sweet smell. The
+evening office at the eighteenth bell in the long pilgrim hall behind the candle market.
+Wenn going down to tell him *still dark*. The courier waiting somewhere in the pilgrim
+berths. And Kesh's terms: not in the hall; take him where he sleeps, or at the courier;
+alive.
+
+"Same team as before," said Tamsin. "This time stay in the shadows. Recon, then follow.
+That's it."
+
+"Robes," said Nessa at once. "Pilgrim robes and hoods out of the house stores. Then we're
+shadows in a crowd of pilgrims." And she had five tracker darts. One in his back at the
+office, and they could follow him at a street's distance. The pinger would show on an
+auspex rig out to about a kilometre, for a day. "Brenner's rig's on the ship."
+
+"Shadows," said Sorel. "Aye."
+
+"Yes, sir," said Tey.
+
+Dannel spoke up, quietly. He had grown up in a garden. He knew how its people looked at
+you in a crowd. "If you want another pair of eyes, sir. I'd be one."
+
+Joren said nothing. His arm was still strapped across his chest.
+
+"Nessa," said Tamsin, "do we have enough for all of us?"
+
+They did. Aldwyn's household kept a press of pilgrim sackcloth and hoods for Kesh's own
+people, enough for six and more.
+
+"Dannel can come," said Tamsin. "As part of the crowd. And that's it."
+
+"Yes, sir."
+
+Tamsin keyed his bead. "Brenner, I need you to meet me. Double time."
+
+"*Double time. Aye, sir.*" He would bring his auspex rig. He always did.
+
+They pulled the sackcloth on over their kit. At about 1727 Brenner came up the stair at a
+run with the rig on his back, breathing hard. "Sir. Here. What's the job?"
+
+Tamsin pulled the robe off again. He took off his heavy carapace and kept the flak, and
+pulled the robe back on over it and the grey coveralls, with the refractor field's belt
+unit still on underneath, and Last Word and the knife under the sackcloth where nobody
+would see them. Sorel, Tey and Dannel followed the boss's lead and stripped their carapace
+too; Nessa kept her mesh. The plate went into a stack in the antechamber under an
+armsman's eye. Tonight it would be robes, with sidearms and blades under the sackcloth.
+
+Then Tamsin briefed Brenner. The Prophet. Wenn's *still dark*. A tracker dart in the
+Prophet at the office, and Brenner following the pinger on his rig from a street back
+while the team shadowed him. Take him where he slept, or at the courier. Alive. He gave
+him a robe.
+
+"Tracker on the rig," said Brenner. "Logged, sir."
+
+He stripped his own carapace, and the rig went on under the sackcloth like a pilgrim's
+pack. He tuned it to Nessa's tracker band and showed her the test blip.
+
+At about 1740 Aldwyn brought Wenn up the stair, with his face washed and his hair combed,
+in his own kitchen coat, still pale. He had been walked through it twice.
+
+"He knows his part," said Aldwyn. The long pilgrim hall was about twelve minutes down
+through the lower ring.
+
+"Nessa," said Tamsin, "pass me the needle gun..." He held out his hand. "I'll take that
+shot."
+
+There was the smallest pause. "...Lovely."
+
+She swapped the black-tip magazine for the tracker load, five darts, and handed him her
+needle pistol butt first. "Silent. About twenty-five metres. One shot at a time. It'll
+feel like a bug bite to him." She did not let go of it quite yet. "Don't scratch her."
+
+She kept her throwing knives, and the toxin needle-blade.
+
+"Let's move out," said Tamsin.
+
+---
+
+They went down through the lower ring in their robes, with Wenn out ahead alone and the
+team strung out behind him among the pilgrims, and Brenner's rig humming faintly under his
+sackcloth. Nobody looked at them twice.
+
+At about 1753 they came to the long pilgrim hall behind the candle market. It was a long
+nave, all benches and candle stands, with an Ecclesiarchy priest readying the altar at the
+far end for the evening office. The crowd was thin tonight, about fifty pilgrims.
+
+The Prophet was exactly where Wenn had said he would be: on the steps of the side chapel,
+halfway down the left aisle. Tall and thin, with the ring of white hair and the
+flower-wound staff across his knees, he was talking softly to a small circle of listeners.
+
+Wenn stopped just inside the door, shaking. It was seven minutes to the bell.
+
+Tamsin signalled him.
+
+Wenn walked down the left aisle to the side chapel and knelt at the edge of the circle. He
+held together.
+
+"Still dark," said Wenn.
+
+The Prophet smiled, and laid his left hand on Wenn's head. The two missing fingers were
+plain to see.
+
+"Then we are patient, little one. The flower comes when the garden calls her. Go back up,
+and watch."
+
+Wenn rose and walked back up the aisle toward the door, with his eyes on the floor. The
+Prophet believed him. He sat with his back to the chapel steps, facing the aisle, with one
+of his two watchers on either side of him. It was about five minutes to the bell.
+
+"Someone make a distraction," said Tamsin on the bead, quietly. "Get those guards away
+from him."
+
+"*On it,*" said Nessa.
+
+On the far side of the nave she shrieked: "*THIEF!* He's got my *purse*!"
+
+Tey, with his hood up, ran for the right-hand door as if he had it. Both the watchers got
+up and went after the commotion, shouldering through the benches, and all over the hall
+heads turned to the right. The Prophet sat alone on the chapel steps with his circle,
+looking toward the noise.
+
+Tamsin went down the left aisle, a pilgrim among pilgrims, to the end of the bench nearest
+the side chapel, about eight metres off, and nobody saw him come. He slipped the needle
+pistol out under his robe, with only the barrel showing from his sleeve, and laid it on
+the Prophet.
+
+The tracker dart went into the side of the Prophet's neck, just above the sackcloth
+collar, under the hanging dried flowers. He never felt it.
+
+"*Got him,*" said Brenner on the bead, very low. "*Green and steady.*"
+
+On the far side of the hall Nessa found her purse in her own sleeve, and blessed everyone
+loudly for their trouble. Tey had already slipped out through the right-hand door. The two
+watchers came back to the chapel steps, scowling at all the fuss.
+
+At 1800 the eighteenth bell rang, and the priest began the evening office. On the chapel
+steps the Prophet bowed his head with all the rest.
+
+
+## Chapter 123: Bring Me Back One
+
+Tamsin walked on past the chapel steps like any pilgrim, to a bench near the middle of the
+nave, and sat down. Latecomers were still drifting in to the benches as the bell died
+away, and nobody looked at one more.
+
+"Make yourselves look innocent," he said on the bead, very low, "and uninteresting."
+
+Nessa sat on the right-hand benches with her head bowed, still murmuring blessings. Sorel
+stood by a pillar at the back. Brenner had the back bench, with his pilgrim's pack. Dannel
+sat two benches behind Tamsin, and Tey waited outside the right-hand door. The office went
+on for half an hour. The Prophet sat head-bowed on the chapel steps, and his watchers
+looked at the floor.
+
+At about 1830 came the last response, and the priest's blessing, and the benches began to
+empty. The Prophet rose with his two watchers, but he did not go back up the hall. He went
+out by the left-hand door, through the candle market.
+
+"*Blip's moving, sir,*" said Brenner. "*North-east. Now down. Toward the pilgrim stair.
+The lower quay of the pilgrim berths.*"
+
+"Everyone stays here," said Tamsin. "Nessa, on me. We follow."
+
+Brenner stayed with the rig at the hall and called the blip on the bead, and Tamsin and
+Nessa went a street back through the candle market toward the pilgrim stair. Tamsin moved
+through the crowd and nobody saw him at all. But at the top of the pilgrim stair one of
+the watchers looked back, and his eyes caught on Nessa: the purse woman from the hall,
+following. He hurried down after the Prophet and spoke close to his ear, and the three of
+them picked up their pace down the stair.
+
+"*They're speeding up, sir. Straight down. Lower quay.*"
+
+"He made me," said Nessa through her teeth. "Lovely."
+
+"Nessa," said Tamsin, "drop back. Further behind me."
+
+She fell back up the stair into the crowd. Tamsin went on down after the three alone,
+closing in now. They were watching for a tail, and he moved up in the gaps after each of
+their looks back, on Brenner's callouts, and they never saw him.
+
+The lower quay was long and cold, a row of berths and gangways with pilgrim haulers and
+couriers sitting in their clamps. At the far end lay a small grey pilgrim courier with her
+name on her bow, the *Lamb of Ivaine*. Her gangway was down and her engines were already
+humming warm. A crewman stood at the foot of the gangway beckoning, and another waited by
+the mooring clamps. The Prophet and his watchers were walking fast toward her, about forty
+metres ahead of Tamsin. There were no armsmen on this quay. Nessa was well back up the
+stair, and the rest were at the hall, minutes away.
+
+Tamsin pushed up fast but quiet, on his toes, and drew Last Word under the robe.
+
+He reached the shadow of the next berth's clamp housing, about ten metres from the
+gangway, and nobody had seen him. The Prophet was halfway up the gangway with his staff in
+his hand. His two watchers stood at its foot, with the gangway hand beside them, and there
+was a bulge under the gangway hand's coat. The clamp hand stood about six metres off, at
+the mooring release lever. Inside, the pilot was bringing the engines up.
+
+Tamsin looked them over. The watchers had long knives up their sleeves, and no armour
+under the sackcloth. The gangway hand had a stub autopistol under his coat, and a flak
+vest under that. The clamp hand had a heavy wrench in his fist and a knife at his belt.
+The Prophet wore no armour at all, and the foot of his staff was a sharpened iron ferrule.
+The pilot was out of sight.
+
+The Prophet was nearly at the top of the gangway.
+
+Tamsin opened fire from the shadow of the clamp housing.
+
+His first shot took the Prophet in the thigh, and the Prophet tumbled back down the
+gangway onto the quay. The second took the gangway hand; las went straight through his
+flak. The third took the first watcher. The fourth took the second watcher in the side,
+and he went down on the quay holding it.
+
+They had not seen him until then. The clamp hand hauled on the mooring release, and the
+*Lamb of Ivaine* came free of her clamps; but her pilot held her at the berth for the
+Prophet, engines screaming, the gangway still down. The gangway hand got his stub
+autopistol out and fired three at the clamp housing. Two went wide. The third would have
+hit, and the refractor field flared and stopped it. The first watcher ran to the Prophet
+and hauled him up by the arms, dragging him toward the gangway.
+
+Up the stair Nessa had heard the shots, and she was coming at a run. "*Shots!*" said
+Brenner on the bead. "*Sir?*"
+
+Tamsin put two more into the gangway hand, and he went down. He put two more into the
+watcher hauling the Prophet, and that one went down too.
+
+The Prophet sat on the plating with his leg useless under him, and shouted up at the open
+hatch.
+
+"*GO! Tell the garden the Lady has her!*"
+
+The pilot went. The *Lamb of Ivaine* lifted out of her berth with the gangway still
+hanging from her and dragging sparks along the quay, and swung away toward the berth mouth
+and the void. The clamp hand dropped his wrench and ran up the quay. The second watcher
+stayed down, and the Prophet was alone on the plating, with the flowered staff a metre
+from his hand.
+
+"Brenner," said Tamsin, "call in Kesh. Tell her a courier is leaving, and I have the
+Prophet in custody. Tell her to arm the ring's weapons and blow it apart."
+
+Brenner relayed it on Kesh's private line. About forty seconds later he came back. "*The
+Lady says: done.*"
+
+A lance from the ring's defence battery took the *Lamb of Ivaine* just past the berth
+mouth, and she came apart. The flash lit the whole lower quay white through the berth
+mouth's shield, and then there was only debris, tumbling away into the black.
+
+Tamsin walked over to the Prophet. The Prophet lay still on the plating and smiled up at
+him.
+
+"Silence, heretic," said Tamsin.
+
+He had no cuffs under the robe, so Nessa, off the stair now, bound the Prophet's wrists
+with his own rope belt. Tamsin knelt and tended the thigh the way Sallow had shown the
+Light. He packed the wound with strips torn from the Prophet's own sackcloth and bound it
+tight, and the bleeding stopped. The Prophet was stable and silent, and he went on
+smiling.
+
+The gangway hand was alive, but out. The watcher who had hauled the Prophet up was dead.
+The other watcher was alive. The clamp hand was gone up the quay, and the courier and her
+pilot and crew were gone into the black.
+
+"I'm alive and well," said Tamsin on the bead. "I need an escort for some of them."
+
+The first to the quay were Kesh's armsmen, eight of them, coming at the double out of the
+pilgrim berths where they had been searching, at about 1846, with a stretcher pole. Their
+sergeant had the Lady's orders: the prisoners to the lower cells, the dead one in a sack,
+and nothing said to anyone on this quay. They took the Prophet on the stretcher, and the
+gangway hand and the watcher, and the body, while two of them kept the pilgrims back.
+Sorel, Tey, Brenner and Dannel came down from the hall.
+
+"Good work, team," said Tamsin. "Let's head back to Kesh."
+
+They went back up through the lower ring behind the armsmen and the stretcher, still in
+their robes, and the pilgrims on the stair parted for the armsmen. At about 1901 they came
+into the residence, and Aldwyn was at the head of the stair. The rest of the Light could
+stand down aboard, she said. Kell, Dace and Corvane were still on the girl's door
+upstairs. Tamsin's plate and kit were in the antechamber where he had left them.
+
+Nessa held out her hand.
+
+Tamsin gave her back her needle pistol, with four tracker darts left in it and one in the
+Prophet's neck. She turned it over in the lamplight and checked it all the way along. It
+was not scratched.
+
+"Lovely."
+
+The team went down to the ship. Aldwyn turned to Tamsin. "The Lady's table."
+
+---
+
+It was a long dark table in a small panelled room with the lamps low, and two places were
+laid. There was real food on it: fresh bread, a roast of grox, pickled greens and a jug of
+watered wine. Kesh was already seated, with Teo's pages and Tamsin's report slate at her
+elbow.
+
+Tamsin sat. "I said I'd get all five."
+
+"You did. And a prophet, and more besides. One of them in a sack." She picked up the
+carving knife. "Eat. Your bricks have made you thin."
+
+She carved the grox herself, and he ate: fresh grox, bread still warm, the greens sharp,
+and the watered wine. Kesh ate little and watched him eat. Then she set down her knife.
+
+"What I keep turning over," she said, "is how the garden knew to set watchers on my house
+*three days ago*."
+
+Very few had known the girl was coming here. Her own household. Aldwyn. The Interrogator's
+own Light. And her reply to him from the Mart, which had gone by astropath through
+Governor Voke's Spire. She did not know yet. She was reasoning it aloud. She would put
+that question to the Prophet herself tonight, unless the Interrogator wanted him.
+
+"They knew we were coming?" said Tamsin. "Interesting. So do I have a rat, Kesh?"
+
+"Perhaps," said Kesh, level. "It is my first question about every Interrogator's people.
+But reason it. Your ship was in the warp from the day you jumped, and nobody sends out of
+the warp. So whoever told the garden did it from the Mart, in the two days between my
+reply and your jump. A rat on your ship, who left it on the Mart in those two days and
+spoke to someone. Or a rat in Voke's Spire, where my reply came through. Or a rat in my
+house." She did not blink. "I have already looked at mine." She would start with the
+Spire. But she would like him to think hard about who on his ship had gone ashore on the
+Mart in those two days.
+
+"Voke sold the Mart's customs to Thask," said Tamsin. "The two dockers I hired to sort and
+haul, set down on the Mart before the jump. A dockmaster. Mag Vashti, maybe. The Sixth's
+three traitors, though they're with you now. That's all I can think of."
+
+Kesh took them one at a time. Voke had sold his customs to Thask, and his Spire had
+carried her words; she would be astonished if his house were clean. The Sixth's three had
+never left Aldwyn's sight. Mag Vashti sold to anyone, but she had not been told anything
+worth selling. "The dockers. Their names." Tonight she would send to Captain Moll on the
+Mart, by her own astropath and not Voke's. Moll was to take the Spire's astropath and his
+scribes into her cells, and find the two dockers and hold them, gently, until someone
+asked them a question.
+
+"And the Prophet, Interrogator. Him, or me?"
+
+"I can do it," said Tamsin.
+
+"Then he's yours. The fourth cell."
+
+She set something on the table between them. It was a small stoppered glass vial on a
+cord, and the sweet smell of it came faintly even through the glass. It smelled like the
+Mart's jars. Her armsmen had found it at the Prophet's chest when they stripped him for
+the cells.
+
+"Don't open it."
+
+Oculine would sit in, if he wanted her. Or not. "And the dockers' names, when you have a
+moment."
+
+"Oda and Pruitt," said Tamsin. "And yes. I'd appreciate Oculine being there."
+
+"Noted."
+
+He left the vial where it lay on her table.
+
+---
+
+At about 1930 he went down to the fourth cell on the lower level. Mother Oculine was
+already there, seated on a stool in the corner: old and small, with a black silk blindfold
+over her eyes and a blackwood cane across her knees. The Prophet was chained to the wall
+ring by his wrists, stripped to a plain shift, with Tamsin's packing still on his thigh.
+He was smiling.
+
+"He is very quiet inside," said Oculine, to no one in particular, in her soft unhurried
+voice. "Like a seed."
+
+Tamsin came and stood next to him.
+
+"Your own team left you stranded," he said. "We know all about everything. Now. Who told
+you we'd be here?"
+
+"The garden strands no one, Interrogator," said the Prophet gently. "I sent my children
+home. The Lady sent them on to your Emperor instead. That is her business." Who had told
+him? "The garden tells me what I need. As your Emperor tells you."
+
+"Still quiet," said Oculine.
+
+"You sent them to their deaths," said Tamsin. "Their ship, ripped apart in the stars. The
+Sixth is cut back a lot, and their advance cut short. And now we know where Wolfer is.
+Everything is done and gone. And you have failed your grandfather."
+
+The Prophet's eyes moved, once, at *Wolfer*.
+
+"There," said Oculine softly. "A ripple."
+
+Then he was smiling again. "Grandfather fails no one, Interrogator. He loves even you.
+*Especially* you." And of Wolfer: "I don't know the man."
+
+"Bullshit," said Tamsin. "I'll have Wolfer's corpse on your doorstep soon. A champion of
+the grandfather, dead, because you can't live up to your grandfather. Your missiles. Your
+team on a roof. A man you thought was your own, coming up to you." He leaned in. "Is it
+still dark? Or was that a lie?"
+
+The smile went out of the Prophet's face for the first time. There was a long silence.
+Then, very low:
+
+"Little Wenn."
+
+"Now he's awake," said Oculine.
+
+The Prophet came back too quickly. It did not matter. "The garden already knows the Lady
+has her."
+
+"Who told the garden she was coming here, Prophet?" said Tamsin.
+
+"Who tells the seed when to open?"
+
+In her corner Oculine reached for the surface of his thought as the question landed, and
+found nothing clear. "Only flowers. He's put it under flowers." His fists were still
+clenched in the chains.
+
+"We can play these games," said Tamsin. "I have suspects. Voke? Oda? Pruitt? A dockmaster?
+Which one? Or someone different?"
+
+He watched the Prophet's body as the names went by, not his face. The face was guarded.
+The body was not. At *Voke* the Prophet's fists locked, and his shoulders came off the
+wall a finger's width. At Oda, at Pruitt, at the dockmaster, his hands went slack.
+
+"Death is a great servitude to your god," said Tamsin. "But your schemes stop here. You'll
+be held here for endless hours, and watch your grandfather fail, and your children suffer.
+Your own men sold you out. Do you think it gets better?"
+
+The threat did nothing. But Oculine had been listening under the names.
+
+"At the governor's name," she said softly, "he thought of a tower with a singing room. And
+a thin man with ink on his fingers, copying words out by lamplight." A pause. "Not the
+governor himself. Someone in his house."
+
+"Good," said Tamsin. "That's all I need. I appreciate your service to the Emperor..." He
+let that land. "Now. What were the missiles for? And even if you'd got the girl, what
+would you have done?"
+
+That one hit home. He had just given up the garden's man, and he knew it. But he did not
+break. He answered the way the proud answer, in zeal.
+
+"For the white bird. The Lady's bird, coming down with my flower in it." His pale eyes
+were bright. "She would have gone home. To the garden. To Gallowmere, to open at the
+Harvest Lamps. And every field would have drunk from her." Then, quietly, almost rapt:
+"She was *born* to open, Interrogator."
+
+"She was born to be saved," said Tamsin. "Not used by fanatics. She'll be taken in and
+trained. A child who fights for the Emperor. Your blessed child will be the one who kills
+Wolfer. With me. It's you who failed your grandfather." He did not stop. "And the choir on
+the Mart. I've seen them. Not many left. Not many to take apart. And I know which one it
+is. Nosy. Much too nosy. Too bad you'll be the reason for his death."
+
+It barely moved him. The Prophet laughed softly, and it was at the Sister. "Dress her in
+red and silver if you like. She'll bloom all the same." At the scribe, nothing at all:
+"Then he blooms early."
+
+"Quiet again," said Oculine.
+
+"You made Voke crack pretty easily," said Tamsin. "It's hard to say no to a single team
+that wiped a force off the Mart. Maybe I go back and pay him a visit." A beat. "So which
+scribe is it?"
+
+"Go and ask Voke," said the Prophet. "Voke will tell you anything you like. True or not."
+
+Oculine reached for a name as *which scribe* landed, and came back with nothing. "He's
+shut. He felt me looking the last time." She turned her blindfolded face toward Tamsin. He
+would keep that name a long time, she said. But Kesh's people would have the Spire's
+scribes in Moll's cells by morning anyway, and a thin one with ink on his fingers was a
+short list.
+
+"The name..." said Tamsin. "What's it start with? A? B? C?"
+
+He went on through the letters one at a time, watching him, listening to his breathing,
+watching for anything he tried to hold back. There was nothing. He was guarding his body
+now as well as his face. The breathing stayed even and slow, the same at every letter, all
+the way to the end.
+
+"You'll get to Z eventually, Interrogator," said the Prophet mildly. "I'll still be here."
+
+"You lie..." said Tamsin. "I see through you... It's a C, isn't it."
+
+The Prophet's face held. He only smiled.
+
+"That one landed, Interrogator," said Oculine.
+
+The Prophet's smile stayed exactly where it was, which was its own answer.
+
+"So it is a C," said Tamsin. "You just can't help serving the other side, can you?"
+
+The Prophet said nothing at all. He closed his eyes and leaned his head back against the
+stone.
+
+"Angry," said Oculine. "Under the flowers, he's very angry." Then: "He'll give nothing
+more tonight, Interrogator. Not by asking."
+
+Tamsin got up and turned away. "Thank you for your help, Prophet. Let me know if you need
+me to re-tend that wound."
+
+The Prophet's eyes opened, and for one heartbeat the hatred was plain on his face. Then,
+softly, to Tamsin's back: "The garden will tend you, Interrogator. In time. It tends
+everyone."
+
+Oculine rose on her cane and went out with Tamsin, and the armsman locked the fourth cell
+behind them.
+
+"Thank you for your help," said Tamsin in the corridor. "Without you, my bluffs would be
+less effective."
+
+"Your bluffs were your own," said Oculine. "I only listened for which ones landed. The
+letter was your guess. And a good one." She turned toward the stair. She was going up now,
+she said, to see the small bright one, as the Lady had asked. "She's very loud inside,
+your girl. Like a bell."
+
+"Thank you," said Tamsin.
+
+She went off up the stair on her cane.
+
+---
+
+Kesh was back in the small panelled room. The plates had been cleared, and the vial still
+sat on the table, under a cloth now, with Teo's pages squared beside it. Kesh stood at the
+shuttered window and did not turn round.
+
+"Well?"
+
+Tamsin told her everything he had got. Wolfer: a ripple, and *I don't know the man*.
+Little Wenn and the roof, the first crack. The leak: at Voke's name, Oculine had seen a
+tower with a singing room, the Spire's astropath choir, and a thin man with ink on his
+fingers copying words by lamplight. Someone in Voke's house, not Voke. The body read, the
+fists at Voke and the slack hands at Oda, Pruitt and the dockmaster. The name began with a
+C; Oculine had felt it land. The missiles had been for the Valk. The girl would have gone
+home to the garden, to Gallowmere, to open at the Harvest Lamps, and *every field would
+have drunk from her*. *She was born to open*. And: *the garden already knows the Lady has
+her*.
+
+Moll would have the letter tonight, said Kesh: the Spire's scribes whose names began with
+C. Thin. Inky. A short list.
+
+Then, still at the window: "Gallowmere feeds half the sector. Its grain goes out through
+the Mart's customs." She was quiet a moment. "*Every field would have drunk from her.*"
+
+The Harvest Lamps were fourteen days off.
+
+"Vhal Korrin waits," said Kesh. "You'll have Gallowmere."
+
+Tonight the Light would rest. Tomorrow, Oculine's word on the girl and on his two
+converts. Then the briefing.
+
+"So we go to Gallowmere to thin the herd there too?" said Tamsin.
+
+"Not thin it. Root it out." She turned from the window. "The garden opens at the Lamps.
+You will see that it never does." The silos, the garden's people, and whatever of the
+Sixth sat in Gallowmere high orbit. The briefing would be tomorrow, when she had Moll's
+answer and Oculine's word. "Go and see your girl, Interrogator. Then sleep. You look like
+a man who's been up a hostel roof."
+
+Tamsin was far too excited. "So you're telling me I get a whole mission that's just
+destroying heretics?"
+
+"That," said Kesh, dry, "is what the Inquisition is *for*, Interrogator." Then, flatter:
+"Don't sound so pleased. The Sixth fill themselves with the rot and still march like a
+regiment. Whoever fights them doesn't come out well." A beat. "*Come out well.*"
+
+Then: "Goodnight."
+
+"Goodnight," said Tamsin.
+
+---
+
+Kell, Dace and Corvane were on the door of a small upper room. "Brother," said Kell.
+
+Inside there was a lamp and a narrow bed. Sallow sat on a stool. Maren was awake, sitting
+up in the grey blanket, and Oculine was perched on the edge of the bed holding Maren's
+scarred hand in both of hers.
+
+Maren saw Tamsin and lit up. "The old lady can see without her *eyes*."
+
+Oculine rose on her cane.
+
+"Nothing in her that shouldn't be there, Interrogator." A pause. "And something I've seen
+once before, in sixty years."
+
+The rest was for the Lady, in the morning. She went out.
+
+Tamsin came to the bed. "Almost all of them," he said. "Soon there'll be no more people
+wanting to hurt you. But I have some bad news for you."
+
+Maren pulled the blanket up to her chin. "Bad news?" Her voice had gone small. On her
+stool Sallow looked up.
+
+"We'll have to leave soon for a mission," said Tamsin. "And I can't have you come with us.
+For your own safety."
+
+Maren went very still. "You're leaving me?" Then, smaller still: "You said I was your
+family." Who would she stay with?
+
+Sallow said nothing. She was watching Tamsin.
+
+"No, no, no," said Tamsin. "We're not leaving you. It's just a quick trip. We'll be back
+to come and get you. I promise."
+
+Maren looked at him for a long time. "You *promise*?"
+
+He just had. She let the blanket down an inch. Then: "Can Sallow stay with me?"
+
+Sallow went very still on her stool.
+
+Tamsin crouched by the bed. "I need everyone on the team. They're your family. And all
+your family is going to fight so you're safe. I need everyone, and I bet they all want to
+go and make sure you're safe too." He held her eyes. "We're almost there. You're almost
+going to be safe."
+
+It took her a while. Then, very bravely: "Okay."
+
+Sallow got up off her stool. She took a clean roll of bandage out of the Bag, wound a
+strip of it once round Maren's scarred wrist, and tied it off: something of the Light's
+for her to keep while they were gone. Maren held the wrist against her chest.
+
+"Will you see stars where you're going?" She lay down. "Bring me back one."
+
+"I'll let you see all the stars you want when we get back," said Tamsin. "And I'll try to
+bring you something back. As an apology gift."
+
+Maren was nearly asleep, and smiling. "A star," she said, and then she was asleep. Sallow
+sat back down on her stool.
+
+Outside the door Kell looked at him. The Lady's armsmen could take the door tonight, he
+said, or the three of them could hold it. And was the boss sleeping here, or on the ship?
+
+"I won't make you do anything," said Tamsin. "But you can if you want. I'll be on the
+ship. I have a couple of things to finish." He glanced down the passage. "Do you know
+where Joren and Pell are?"
+
+They would hold the door. "The Lady's men can have the stairs," said Kell. Dace was
+already sitting down against the wall with Promise Holder across his knees. "At your back,
+boss," said Corvane. Joren had gone back to the ship with the others an hour ago; he had
+waited at the head of the stair the whole time, with his arm. And Pell was aboard the
+*Bright Light* with Ollin. She had never left the ship today.
+
+Tamsin collected his plate and kit from the antechamber.
+
+---
+
+He went back through the station to berth 38 with his plate over one shoulder, still in
+the pilgrim robe. Mira and the Valk stayed in Kesh's ice lock for the night. Hollis met
+him at the ramp.
+
+"Ship's quiet, boss. Lights on." A beat. "Mostly."
+
+The Light were standing down, and the stew pot was on again. In the galley Ollin was at
+the stove. Pell sat at the long table drawing on a slate, and Joren sat beside her with
+his strapped arm across his chest, keeping her company. Dannel had just come in from the
+hall and was sitting with them.
+
+"Good news and bad news," said Tamsin. "Which first?"
+
+"*Good!*" said Pell at once.
+
+Dannel was half on his feet. "...Bad, sir," he said quietly. "Please."
+
+"Good first, Interrogator," said Joren, plain. "Then it can't get worse."
+
+"Okay," said Tamsin. "Pell, and Joren's mom, are allowed here. And they'll have jobs too."
+
+"*Here?*" said Pell. "On the *Rest*? With the *bells*?"
+
+Dannel sat down hard, with his hand over his mouth and Corvane's cord on his wrist. Joren
+did not move at all for a moment. Then, very low and plain: "My mam. Here." And: "When,
+Interrogator?"
+
+"We'd have to pick her up," said Tamsin, "so it'll be a while. Or she'd have to get a ride
+here."
+
+Joren nodded slowly. Aye, he understood. Ring four was a long way. Then, carefully: the
+boss had said, four days back, that a message could go to her from the Rest. Could he send
+her word tonight? So she knew he was alive, and that she had somewhere to come to?
+
+"Tomorrow you can," said Tamsin.
+
+"Thank you, Interrogator." He meant it.
+
+Dannel braced himself. "And the bad news, sir?"
+
+"I'm having you both re-evaluated, as you know," said Tamsin. "And Dannel, you'll be
+leaving Pell in a little while. We have a mission. And picking up Joren's mam will take a
+while too. The job comes first, as you know."
+
+"Aye," said Joren, steady. "The job first."
+
+Dannel looked at his sister. Very quietly: "...And Pell? Where does Pell go, sir? While
+we're gone?"
+
+"You're going away *again*?" said Pell, small.
+
+"Pell will stay with Maren on the Rest," said Tamsin. "You'll be together."
+
+Pell's face uncrumpled all at once. "With *Maren*?"
+
+Dannel let out a long breath and bowed his head. "Thank you, sir." Joren put his good hand
+on Dannel's shoulder.
+
+"I expect you both to pass tomorrow," said Tamsin. "Now that I've made your wishes come
+true..." He turned to the stove. "Ollin, bring me a bowl, would you?"
+
+"We'll pass, sir," said Dannel, on his feet.
+
+"Aye, Interrogator," said Joren.
+
+Pell waved.
+
+At about 2030 Ollin knocked at the cabin door and came in with a bowl of the stew, a heel
+of bread and a mug of recaf, and set them down on the desk by the cogitator. The second
+tin of spice was still on the galley shelf, unopened. "There you are, boss."
+
+Tamsin's plate and kit sat stacked in the corner of the cabin. He ate. The *Bright Light*
+sat quiet in her clamps at berth 38, with her lights on, mostly, and up the spire Maren
+slept with a strip of Sallow's bandage round her wrist.
+
+Tamsin went to sleep.
+
 # Appendix: Session notes
 
 ### Session 8 (Season Two, mission 1: Ustrennos)
