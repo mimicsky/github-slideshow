@@ -44,3 +44,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1717: Tamsin, eyebrow up: the full price? haggled? **Ollin's haggle (d20 10, middling): asked 24, paid 18**; 'Mam said never pay the first number.' The bread woman wouldn't budge; the sausage man did.
 - ~1718-1735: Tamsin washed up and changed; back to the galley as it filled for supper. Ollin served the stew and bread. Varga dealt him a hand: 'Want in, boss? Corv's losing.'
 - ~1736: Tamsin: 'Gambling on my ship? That's a first.' Varga: not gambling, no Thrones: the loser does Ollin's pots tonight. Corvane has lost three hands (pots x3 so far, he says, 'by choice').
+- ~1737: Tamsin: 'Alright, let's raise the stakes a little.' The table waiting on what.
