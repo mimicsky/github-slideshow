@@ -37,3 +37,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1441-1500: Tamsin: 'I don't want them dead, I want them evaporated... I'm making sure no one gets near my team.' Kept shooting. Isk unslung Patience, took lane five: 'Then I'll take the far ones.' Side by side to ~1500; the second pack ran dry (training: not counted). ~1 hour of range work (1405-1500).
 - ~1501: Isk: 'Better?' Tamsin just reloaded and kept shooting. Isk nodded once and raised Patience again.
 - ~1505: Tamsin slung Vigil, went to the armoury: seated a full hot-shot pack from the stores (30/30 + 2 full spares); the part-used one (16/30) on the charging rack. ~1510 to the mat. **Anyone there (d6 1): empty.**
+- ~1512: Tamsin took a practice knife and worked the training peg on the mat (knife work, solo; DEX training).
