@@ -36,3 +36,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1410-1440: Tamsin reloaded and kept shooting every lane. **~1440 someone came (d6 6; d13 6 on the Light-bringers list: Isk).** Isk in the doorway with Patience over his shoulder, watching.
 - ~1441-1500: Tamsin: 'I don't want them dead, I want them evaporated... I'm making sure no one gets near my team.' Kept shooting. Isk unslung Patience, took lane five: 'Then I'll take the far ones.' Side by side to ~1500; the second pack ran dry (training: not counted). ~1 hour of range work (1405-1500).
 - ~1501: Isk: 'Better?' Tamsin just reloaded and kept shooting. Isk nodded once and raised Patience again.
+- ~1505: Tamsin slung Vigil, went to the armoury: seated a full hot-shot pack from the stores (30/30 + 2 full spares); the part-used one (16/30) on the charging rack. ~1510 to the mat. **Anyone there (d6 1): empty.**
