@@ -983,6 +983,9 @@ No weapon has a damage number. Better weapons drop a target in fewer hits and
 get through better armour. Ammunition is the real cost: hot-shot packs, bolt
 rounds and plasma are scarce, las packs recharge from any ship's coupling.
 
+**Training shots aren't counted (set by the player, Ash on Ostrava day 42).** Range work and drills
+aboard the ship spend no packs, rounds or cells. Only shots in the field (missions, fights) are tracked.
+
 **Named and rebuilt weapons (set by the player, Ash on Ostrava session 10).** A name changes nothing.
 A named weapon is its **base weapon** (Vigil, Officer and Mercy are hellguns; Stinger is a Kasr Hornet
 machine pistol) **plus its listed attachments, mods and blessing**, each with its own catalogue entry.
