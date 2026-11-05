@@ -40,6 +40,7 @@ Gear detail: Tamsin's weapons and their history, the Light's containers, builds,
 | Medicine | 1 tin purification salve. No antitoxin |
 | Warrant of trial | Iron Inquisition I with a bar across it, on a chain, with the container's padlock key |
 | Medal | Cadian service medal, Kasr Holn. **Carried in his pocket.** The eagle he filed off in shame is **restored**, as Kesh ordered (warp day 9 at the Rest), and it carries a **purity seal: wax only, no parchment**. (Before that: Thane's black wax aquila.) |
+| Maren's stars | A sheet of paper covered in pencil stars, five points each, coloured yellow (Pell showed her how). **Given by Maren day 42 ~1112 'so you have stars where you're going', and so he doesn't forget his promise that she'll see real ones. Folded in his pocket.** |
 | Acolyte pin; armband | Armband: *OSTRAVA SECUNDUS - CADIAN REMNANT*, white gate on black, left arm |
 | Strahn's hold order (carbon duplicate) | The copy of the order Tamsin never delivered at Kasr Holn, in Strahn's hand, kept in his coat lining for a year. Given to Tamsin on warp day 4 to the Rest: "For the new man." |
 | Venn's vellum note | In Tamsin's locker: *"Velk. Under the Choir-Ice, past the dead chapel. Fourth stair down. It sleeps. The key fits the cradle, not the door. If I don't come back: don't go down alone. And don't take V's word for what's down there. He wasn't there. I was."* |
