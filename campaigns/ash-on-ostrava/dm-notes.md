@@ -539,3 +539,7 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 - ~1939 The alphabet read (the scribe is Corlis: C): the Prophet now guards body and face (he learned from the names): **22**. Tamsin's Insight d20 + 4 needs 22.
 - ~1941 'You lie... it's a C, isn't it' (a bluff that happens to be right: Corlis): Deception will check 6 + 2 = 8: -2% -> **68%**. His face held; **Oculine felt the ripple at C (12 + 7 = 19 vs 15)**: confirmed to Tamsin that the letter landed.
 - **Oculine's seeing of Maren (day 41 ~1945-2000; her word to Kesh tomorrow):** no taint of the warp in her, no mark, no psyker's spark; 'loud like a bell' is the rarest thing Oculine knows: a soul the warp slides off. **And in her blood the rot, asleep, that doesn't touch her** (it never has: the infant on the quarantined hauler). Oculine tells Tamsin tonight only: 'Nothing in her that shouldn't be there. And something I've seen once before in sixty years.' The rest is for the Lady.
+
+## Day 42 (hidden; never read out)
+
+- **Moll's answer by morning (d6 4): she took the Spire's astropath and four scribes into her cells; a fifth scribe, thin, inky fingers, CORLIS, was gone before her men got there**: his cot cold, his slate wiped, a pilgrim courier's passage chit in his things (outbound, the day after the Light jumped). Kesh tells Tamsin at the briefing: 'one of them ran'; the name Corlis comes from the other scribes. Where he went: toward Gallowmere (not yet known in play).
