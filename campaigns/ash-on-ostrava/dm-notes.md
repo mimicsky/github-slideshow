@@ -563,3 +563,4 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 - ~1841 Aft (d6 2: the traitors move): **Nessa on Sorel in the hold: Stealth 17 + 7 = 24 vs his Perception 14 + 5 = 19: touched, SOREL DOWN. Brenner on Corvane: 14 + 2 = 16 vs 2 + 2 = 4: touched, CORVANE DOWN.** Both sitting in the hold by the range lanes, silent. Nobody forward heard anything. **Left: Tamsin, Isk, Varga, Tey (sheriff), Dace; traitors Brenner, Nessa.**
 - ~1842 Tamsin's Perception 9 + 8 = 17: finds the 2 Thrones (10); **misses Varga (18), by one** (she's in the tall locker, door pulled to).
 - ~1844 Varga's read on Tamsin (he's telling the truth): 11 + 2 = 13 vs 10: **she believes him.**
+- ~1845 Traitors' plan (d6 3: forward, hunting singles): Brenner and Nessa leave the hold, coming forward through the mat and armoury toward the galley (the only way forward). Isk and Varga reach the galley first. Bunk room Thrones: 4, Perception 10.

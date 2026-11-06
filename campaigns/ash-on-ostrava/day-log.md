@@ -76,3 +76,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1842: Perception 9 + 8 = 17: Tamsin found 2 Thrones under the mattress edge (**Tamsin: 2 Thrones**). The cabin looked empty.
 - ~1843: 'You see anything, Isk?' (Nothing.) Tamsin opened the locker: **Varga inside**, knees up, arms crossed. 'Took you long enough, boss.' She doesn't know what card he holds; she's wary.
 - ~1844: Tamsin: 'Hmm, you'd hide here.' Then: he's innocent, but Nessa isn't: he saw a knife in her boot. Varga believed him; climbed out. Varga: Nessa went out right after Brenner. Isk heard it from the door.
+- ~1845: Tamsin: 'Isk, Varga, you go out and tell him. I'm going to search around for some more Thrones.' Isk and Varga back aft to the galley (Tey, Dace). Tamsin alone into the bunk room, across the corridor. Perception (the player's d20).
