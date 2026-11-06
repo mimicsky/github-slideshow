@@ -43,3 +43,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1640: Tamsin to the mat with a practice sword: forms on the post (STR). ~1720 Dannel came in, hovering; asked for a word.
 - ~1722: Tamsin: 'Could be the name of the silo... that's big, Dannel, real big. I suppose they made a blunder with their mind tricks on you... Don't worry, Dannel, you're safe. I'll make sure of all of that.' **The lead: 'back to the Ninth', 'G-IX' ('Home'), sweet dust: maybe the silo's name** (clever play: INT rep). Dannel lit up; went off lighter. Tamsin back to the post.
 - ~1725-1940: Tamsin kept at the post (3 hours of sword forms in all, STR). Supper went by without him; Ollin kept a bowl back (bricks and the last of the grox stew).
+- ~1945-2010: Tamsin ate Ollin's bowl, then in his cabin got into full kit (carapace over flak, refractor field, Last Word on the thigh, Stinger, Vigil (unsealed), the knife), Shameholder on his belt.
