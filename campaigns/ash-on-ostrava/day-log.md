@@ -48,3 +48,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~2017: Tamsin to Ferro: 'If we get attacked, I'll be the first one to clean it up.' Then forward to find Kell and Hollis (first node watch at 2200): in the galley over recaf, kit beside them.
 - ~2020: Tamsin: 'Silence. You don't want to fight me on this one.' Leaned on the bulkhead to wait for the watch. Kell, after a beat: 'No, boss.' Picked his mug back up. Hollis grinned into his.
 - ~2200: Watch on (Kell and Hollis at the node, Varga and Corvane at the bunk room). Tamsin to the bridge: Mira at the helm on the night watch, shutters down over the warp.
+- ~2205: Tamsin to Mira: 'I suppose... I'll be up here with you.' Sat in Teo's seat: 'We'll be ready.' The trace flat.
