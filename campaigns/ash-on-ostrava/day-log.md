@@ -50,3 +50,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~2200: Watch on (Kell and Hollis at the node, Varga and Corvane at the bunk room). Tamsin to the bridge: Mira at the helm on the night watch, shutters down over the warp.
 - ~2205: Tamsin to Mira: 'I suppose... I'll be up here with you.' Sat in Teo's seat: 'We'll be ready.' The trace flat.
 - ~2300-0600: 'Yeah, I'll be here till morning.' Tamsin and Mira on the bridge all night. The watches changed every two hours (0000 Sorel and Isk / Dace and Tey; 0200 Nessa and Morcant / Brenner and Tavi; 0400 Sallow and Kell / Dannel and Joren), each checking in on the vox. **The trace stayed flat; nothing came.** ~0600 day 44 the day lamps came up.
+- ~0602: Tamsin: 'Let's do it.' Down to the node with Ferro. ~0610 the rite began: censer, fresh prayer strips on every coupling, Ferro's litany; Tamsin to set the knife's scorched tip into the node's rune at the last verse and hold it.

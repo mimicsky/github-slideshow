@@ -600,3 +600,7 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 - **Ferro's second rite (from ~1300, done ~1630): 7 + 4 = 11 vs 15: FAILS** (no damage this time; the trace didn't spike). Tonight still 1-7; the seal still gives the crew advantage. Another try tomorrow; help from someone who knows the litany (or Tamsin holding the knife to the rune) could give advantage.
 - **~1720 on the mat (d20 3: something; d6 3: Dannel comes to talk; d4 3: a memory from the garden).** Last night's voice shook loose something: as a boy in Thask's garden he carried crates to the *Hesk Tender*'s crew, and they always said they were going **'back to the Ninth'**, like a place; sweet dust on their boots; once a crate stencilled **'G-IX'**. **True (set now): the garden's heart on Gallowmere is in the Ninth tithe-district, Silo Complex IX.** Dannel doesn't know what it means. (Varrow, a tithe-reeve, would know the districts.)
 - **Night of day 43 (d20 14 vs 1-7): it does NOT try tonight.** Quiet.
+
+## Day 44 (hidden; never read out)
+
+- **The third warding rite (~0610-0815), Tamsin assisting.** At the last verse Tamsin sets the knife's Geller-scorched tip into the node's rune and holds, and the trace spikes (it watches again). **Tamsin: WIS d20 + 4 vs 13 to hold steady through the spike: success gives Ferro advantage; a natural 20 also counts as the rite taking outright. Ferro: d20 + 4 (INT) vs 15.** Success: the node hardened, each night's chance drops to 1-3. Fail: as it was (1-5 a night; the 'answered' bonus was for the one night only).
