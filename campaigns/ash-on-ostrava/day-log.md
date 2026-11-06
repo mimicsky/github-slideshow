@@ -83,3 +83,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1854: Tamsin to Nessa: 'Seems so... and you? You seem like an innocent, or maybe you're as deceitful as usual...' Walking aft. Deception (the player's d20).
 - ~1855: Deception natural 20 + 1 = 21: Nessa bought it ('Deceitful? Me? I'm wounded, boss'). Tamsin walked aft; through the medicae's open hatch: Tey and Varga searching the cots.
 - ~1856: Tamsin crept to the side of the medicae doorway to reach in and kill the lights. Stealth (the player's d20).
+- ~1856: Stealth 12 + 10 = 22: unseen. Tamsin reached in and killed the medicae lights. Dark inside but for the corridor light through the hatch. Tey yelped; Varga: 'Quiet.' Both froze somewhere among the cots.
