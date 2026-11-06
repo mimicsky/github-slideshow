@@ -109,6 +109,8 @@ add("flame","R","MF",[("Heavy flamer",20),("Incinerator (blessed fuel)",25)])
 # --- Launchers / heavy ---
 add("launcher","U","MF",[("Grenade launcher, stand-alone",5),("Grenade launcher, revolver-drum",8)])
 add("heavy","C","MBF",[("Heavy stubber",4),("Heavy stubber, tripod",5)])
+# Player design (Ash on Ostrava day 44): rules in catalogue/heavy.md.
+add("heavy","R","MBF",[("Brute stubber, 'Kasr Deddog' pattern (brutes only, STR 50+; heavy stubber belts; strings of 8; recoil 1 on the move; -2 past ~30 m)",6)])
 add("heavy","U","MBF",[("Mortar with 6 rounds",12)])
 add("heavy","R","MF",[("Heavy bolter, 1 belt",40),("Missile launcher (2 frag, 1 krak)",25),("Autocannon",35),("Lascannon",45),("Multilaser (crew)",30),("Rocket-propelled grenade tube (2 rounds)",10)])
 # --- Explosives ---

@@ -994,6 +994,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Brute stubber, 'Kasr Deddog' pattern (brutes only, STR 50+; heavy stubber belts; strings of 8; recoil 1 on the move; -2 past ~30 m)",
+  "tv": 6,
+  "cat": "heavy",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
   "name": "Mortar with 6 rounds",
   "tv": 12,
   "cat": "heavy",

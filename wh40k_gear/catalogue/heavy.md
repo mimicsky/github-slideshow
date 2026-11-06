@@ -30,6 +30,21 @@ special belt beside a standard one and switch with the lever.) A standard belt i
   **a hit that gets through also forces a CON save against 15, or the target drops one more step.**
   Armour as a standard belt.
 
+## Brute stubber, 'Kasr Deddog' pattern
+
+**Brute stubber, 'Kasr Deddog' pattern** (player design, Ash on Ostrava day 44; rare, ~6 TV; Munitorum,
+black market, Free Traders; or built by a smith from a heavy stubber as a schematic). Named for Nork
+Deddog, the Ogryn who guarded Lord Castellan Creed of Cadia. A heavy stubber cut down into a rifle
+shape for a big man's hands: **no stock, a short barrel**, a top carry handle and a forward grip; it
+feeds **heavy stubber belts from a box mag through an LMG-style feed tray**.
+- **Brutes only: STR 50+** (Ogryns; a human that strong). Anyone weaker can fire it **only braced, at -3**.
+- **Strings of up to 8**, no hit bonuses in the string (a miss still costs -1 on the next shot), as the heavy stubber.
+- **Recoil 1, standing or on the move:** a heavy stubber a brute can walk and fire (a heavy stubber is 2 on the move).
+- **Short barrel: -2 on shots past ~30 m.**
+- **No stock: no aimed bonuses and no optic slot.**
+- **Hits as a heavy stubber:** gets through flak and carapace; heavy carapace shrugs it at range. **Suppression** as the heavy stubber (-2 on the target's shots while it fires; counts once).
+- **Belts:** any heavy stubber belt, the special belts included.
+
 ## Man-portable multi-laser
 
 **Man-portable multi-laser** (rare, 15 TV; Munitorum, Free Traders; rare loot; Ash on Ostrava, day 34, DM
