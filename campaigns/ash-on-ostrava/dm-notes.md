@@ -591,3 +591,4 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 - ~0111 Tamsin's rally on Morcant ('BIG GUY, SNAP OUT OF IT! I'M HERE!'): Intimidation (not a will check) d20 + 6 (CHA 2 + proficiency 4) vs **12**: success clears Morcant's shaken now; a natural 20 steadies the whole room.
 - ~0111 Rally: Intimidation 16 + 6 = 22 vs 12: **Morcant snaps out (shaken cleared).** ~15 s left till the field comes back.
 - ~0112 Tamsin's rally on Dannel ('IT'S NOT REAL! STAY HERE WITH ME!'): Intimidation d20 + 6 vs **14** (his save was the worst on the ship, and the voice wears his dead mam's). The field comes back right after this.
+- ~0112 Rally: 14 + 6 = 20 vs 14: **Dannel snaps out (shaken cleared).** ~0113 **the field back** (Ferro): hum, lights, frost to water, the whispers gone. Still shaken till they sleep: Tavi, Brenner, Sorel, Sallow, Mira, Teo, Ferro, Ollin.
