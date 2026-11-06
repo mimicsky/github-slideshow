@@ -9,3 +9,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 ## Day 44
 
 - ~0602: Tamsin: 'Let's do it.' Down to the node with Ferro. ~0610 the rite began: censer, fresh prayer strips on every coupling, Ferro's litany; Tamsin to set the knife's scorched tip into the node's rune at the last verse and hold it.
+- ~0815: Tamsin held the knife in the rune through the spike (WIS 13 + 4 = 17). **Ferro's third rite took (16/18 + 4 = 22): the node is hardened.** The node rang like a struck bell; the pressure drew back off the blade. The trace still there, fainter, keeping pace.

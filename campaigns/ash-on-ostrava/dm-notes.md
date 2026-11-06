@@ -604,3 +604,4 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 ## Day 44 (hidden; never read out)
 
 - **The third warding rite (~0610-0815), Tamsin assisting.** At the last verse Tamsin sets the knife's Geller-scorched tip into the node's rune and holds, and the trace spikes (it watches again). **Tamsin: WIS d20 + 4 vs 13 to hold steady through the spike: success gives Ferro advantage; a natural 20 also counts as the rite taking outright. Ferro: d20 + 4 (INT) vs 15.** Success: the node hardened, each night's chance drops to 1-3. Fail: as it was (1-5 a night; the 'answered' bonus was for the one night only).
+- ~0815 Tamsin held through the spike: WIS 13 + 4 = 17 vs 13: Ferro gets advantage. **Ferro's rite: 16/18 + 4 = 22 vs 15: THE NODE IS HARDENED.** Each warp night left: **1-3** (from tonight). The trace is still there, faint, keeping pace.
