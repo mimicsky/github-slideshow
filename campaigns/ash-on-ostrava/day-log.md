@@ -72,3 +72,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1839: Tamsin to Nessa: 'I'll keep it interesting...' and went over to Isk by the forward hatch. The galley emptying.
 - (Fix, the player asked why Brenner limps: **he doesn't**; his ankle was down by the morning of day 39 (Sallow). The limp at supper, the card game and TTT is struck. Also: Brenner and Nessa went out the aft hatch toward the armoury and mat; the bunk room is forward of the galley.)
 - ~1840: Tamsin to Isk: 'Let's stick together, Isk... and make some ground away from Nessa, fast.' Out the forward hatch into the cabin corridor (the bunk room, the cabins, the briefing room, Tamsin's cabin and the bridge ahead).
+- ~1841: Tamsin into the spare cabin ('Let me know if you see anything'); Isk on the door, watching the corridor. Tamsin's Perception in the cabin (the player's d20).
