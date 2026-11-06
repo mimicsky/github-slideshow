@@ -47,3 +47,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~2015: Tamsin in full kit down to the Geller node aft. Ferro there on a stool with his trace-slate (the trace faint and steady). Vigil's seal on the node's housing.
 - ~2017: Tamsin to Ferro: 'If we get attacked, I'll be the first one to clean it up.' Then forward to find Kell and Hollis (first node watch at 2200): in the galley over recaf, kit beside them.
 - ~2020: Tamsin: 'Silence. You don't want to fight me on this one.' Leaned on the bulkhead to wait for the watch. Kell, after a beat: 'No, boss.' Picked his mug back up. Hollis grinned into his.
+- ~2200: Watch on (Kell and Hollis at the node, Varga and Corvane at the bunk room). Tamsin to the bridge: Mira at the helm on the night watch, shutters down over the warp.
