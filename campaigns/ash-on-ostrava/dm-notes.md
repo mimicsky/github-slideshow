@@ -582,3 +582,7 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 - ~1903 The bridge (Mira on watch at the helm, not playing): **Isk hide 15 + 5 = 20** (flat under the forward nav console); **Sorel 13 + 3 = 16** (pressed into the shadow behind the viewport frame, port side). **Brenner's search 17 + 3 = 20: finds both** (a tie finds).
 - ~1904 Asked to give up: **Sorel (d6 4) and Isk (d6 4) both break for the door** together: Sorel fast from port; Isk scrambling out from under the console (a beat slower).
 - ~1904 Tamsin's hip shots with the training pistol (no hair trigger, no laser; hidden number 12, running targets at 2-3 m): **Sorel 12 + 12 = 24: hit, down. Isk 15 + 12 + 2 chain - 1 swap = 28: hit, down. TRAITORS WIN game 2** (Tamsin and Brenner the last two).
+
+## Day 43 (hidden; never read out)
+
+- **The night (d20 4: something; d6 1: a Geller flicker; d6 1: something brushes through; d4 1: ~0110).** The field stutters for ~20 seconds: lights dim to ember, the hum drops, frost creeps on the inner bulkheads; in each sleeper's ear, a whisper in a loved one's voice. **In Tamsin's cabin: frost spreads across Maren's page of stars, and a child's voice in the dark says 'Are you coming back?'** Ferro re-seats the field from the Geller node. **Everyone aboard: a save vs fear/the warp, d20 + WIS mod (+1 Brave, +1 Pious, advantage with a purity seal) vs 13: fail = shaken (-1 on all rolls till they've slept again; bad dreams).** Teo on the bridge watch.
