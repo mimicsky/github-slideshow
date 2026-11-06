@@ -74,3 +74,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1840: Tamsin to Isk: 'Let's stick together, Isk... and make some ground away from Nessa, fast.' Out the forward hatch into the cabin corridor (the bunk room, the cabins, the briefing room, Tamsin's cabin and the bridge ahead).
 - ~1841: Tamsin into the spare cabin ('Let me know if you see anything'); Isk on the door, watching the corridor. Tamsin's Perception in the cabin (the player's d20).
 - ~1842: Perception 9 + 8 = 17: Tamsin found 2 Thrones under the mattress edge (**Tamsin: 2 Thrones**). The cabin looked empty.
+- ~1843: 'You see anything, Isk?' (Nothing.) Tamsin opened the locker: **Varga inside**, knees up, arms crossed. 'Took you long enough, boss.' She doesn't know what card he holds; she's wary.
