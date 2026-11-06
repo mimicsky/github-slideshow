@@ -85,3 +85,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1856: Tamsin crept to the side of the medicae doorway to reach in and kill the lights. Stealth (the player's d20).
 - ~1856: Stealth 12 + 10 = 22: unseen. Tamsin reached in and killed the medicae lights. Dark inside but for the corridor light through the hatch. Tey yelped; Varga: 'Quiet.' Both froze somewhere among the cots.
 - ~1857: Tamsin at the threshold to slip in; Varga shouted for the sheriff ('CORVANE! MEDICAE!'). Boots from the galley.
+- ~1857: Tamsin rushed in to touch Tey and re-hide the knife before Corvane reaches the door (the player's two d20s: knife, then Sleight of Hand).
