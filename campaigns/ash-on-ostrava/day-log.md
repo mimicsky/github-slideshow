@@ -87,3 +87,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1857: Tamsin at the threshold to slip in; Varga shouted for the sheriff ('CORVANE! MEDICAE!'). Boots from the galley.
 - ~1857: Tamsin rushed in to touch Tey and re-hide the knife before Corvane reaches the door (the player's two d20s: knife, then Sleight of Hand).
 - ~1857: Knife 14 + 12 - 2 = 24: **Tey touched, down** (sitting by a cot). Knife back in the jacket (Sleight of Hand 16 + 8 - 2 = 22). Corvane hit the lights from the doorway, pistol up, Dace and Nessa behind him: Tamsin standing between the cots, Tey sitting down, Varga crouched behind the far cot. Corvane: 'Interrogator. Explain.'
+- ~1858: Tamsin's story to Corvane: no idea what happened; Varga was by the lights; he came over to check on Tey, the lights went, a figure stabbed Tey right beside him and moved off; it probably thought Tey was him. Corvane: 'Varga?' Varga: 'He's lying.' Deception (the player's d20).
