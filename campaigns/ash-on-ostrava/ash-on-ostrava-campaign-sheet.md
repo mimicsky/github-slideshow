@@ -147,7 +147,7 @@ Moved to `world.md` (day 36 cleanup), under the same heading.
 | Dace | Forge work and Ottrick's manuals (3 h) + **mat sword practice** (3 h) (added day 36) | INT + STR/DEX |
 | Sorel | Tracking drills with Nessa (3 h) + **shooting** (3 h) (added day 36) | WIS + DEX |
 | Tey | Pistol drill (his gunslinger focus) | DEX |
-| Ferro-Ashe | **Schematic work** (changed day 36) | INT |
+| Ferro-Ashe | **Schematic work** (changed day 36) + **range work with his lasgun** (from day 44, Tamsin: he goes down on Gallowmere; 3 h and 3 h: DM's assumption) | INT + DEX |
 
 **Roles (set by the player, session 9).** **Tags (set by the player, day 36): every tag is rank + this role** (e.g. Kell (Light-bringer sergeant, leader), Dace (Light-bringer, bodyguard), Mira (Light-pilot, fighter pilot)). Each member of the Light now also has a **bestiary role** (`wh40k_gear/bestiary/roles.md`), with its rules in bold, and **the Light counts as traitor elites** for the role side notes (professionals: e.g. a jumper takes only -1 airborne). Specialty bonuses stay as below.
 
