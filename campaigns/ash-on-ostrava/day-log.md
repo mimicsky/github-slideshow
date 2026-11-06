@@ -49,3 +49,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~2020: Tamsin: 'Silence. You don't want to fight me on this one.' Leaned on the bulkhead to wait for the watch. Kell, after a beat: 'No, boss.' Picked his mug back up. Hollis grinned into his.
 - ~2200: Watch on (Kell and Hollis at the node, Varga and Corvane at the bunk room). Tamsin to the bridge: Mira at the helm on the night watch, shutters down over the warp.
 - ~2205: Tamsin to Mira: 'I suppose... I'll be up here with you.' Sat in Teo's seat: 'We'll be ready.' The trace flat.
+- ~2300-0600: 'Yeah, I'll be here till morning.' Tamsin and Mira on the bridge all night. The watches changed every two hours (0000 Sorel and Isk / Dace and Tey; 0200 Nessa and Morcant / Brenner and Tavi; 0400 Sallow and Kell / Dannel and Joren), each checking in on the vox. **The trace stayed flat; nothing came.** ~0600 day 44 the day lamps came up.
