@@ -97,3 +97,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1901: Tamsin signalled Brenner up to search the rooms; Brenner came forward and took the cabins on the left (Kell's, Varga's, the spare): empty. Tamsin at the bunk room hatch (the nearest), listening: nothing inside. (Isk and Sorel still on the bridge.)
 - ~1902: Tamsin looked into the bunk room: empty. Left forward: the briefing room, his cabin, the bridge.
 - ~1903: Tamsin to Brenner: 'They're not here; they must be on the other side... that's a big guess, though.' To the bridge. Mira on watch at the helm. Brenner spotted them both: Isk under the forward nav console, Sorel in the shadow behind the port viewport frame.
+- ~1904: Tamsin: 'Well found... Isk. You both want to give it up?' Sorel: 'No, Interrogator.' Both broke for the door at once, Sorel from the port side, Isk rolling out from under the console.
