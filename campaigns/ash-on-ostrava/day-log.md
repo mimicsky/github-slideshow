@@ -81,3 +81,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1848-1852: 'It was interesting, wasn't it?' Thrones collected (Tamsin's 6 back to Joren; Joren gathered the rest) and re-hidden. Circle again. **Game 2: Tamsin drew a JOKER (traitor); at the look-up he saw Brenner looking back. A training knife pressed into his hand. Heads up: Corvane has the sheriff's pistol.**
 - ~1853: Tamsin hid the knife deep in his jacket (Sleight of Hand 17 + 8 = 25). Nessa came straight over to look him over: saw nothing; asked him what he drew.
 - ~1854: Tamsin to Nessa: 'Seems so... and you? You seem like an innocent, or maybe you're as deceitful as usual...' Walking aft. Deception (the player's d20).
+- ~1855: Deception natural 20 + 1 = 21: Nessa bought it ('Deceitful? Me? I'm wounded, boss'). Tamsin walked aft; through the medicae's open hatch: Tey and Varga searching the cots.
