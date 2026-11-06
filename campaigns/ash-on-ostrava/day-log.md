@@ -63,3 +63,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1817: Tamsin: just for fun, a little betrayal and reading people; who's in? **(d6 each, 3-6 in): IN: Dace 5, Brenner 3, Isk 6, Corvane 4, Sorel 3, Tey 3, Joren 6, Ollin 5 (8). OUT: Kell 2 (pots), Varga 2, Hollis 2, Tavi 2, Morcant 2, Sallow 1, Nessa 2, Dannel 1.**
 - ~1818: Before they left: 'Nessa, Varga, I think you might want to reconsider...' (Persuasion, the player's d20).
 - ~1818: 'I think you both would love to stab me in the back, yeah?' **Persuasion 15 + 1 = 16: both back** (Nessa and Varga in). 10 players: Dace, Brenner, Isk, Corvane, Sorel, Tey, Joren, Ollin, Nessa, Varga. Dace: 'How's it played?'
+- ~1819: Tamsin needs one volunteer to hold the deck. **Volunteer (d10 7 on the ten in order: Dace, Brenner, Isk, Corvane, Sorel, Tey, Joren, Ollin, Nessa, Varga): Joren** ('I've had all the luck I'm owed tonight').
