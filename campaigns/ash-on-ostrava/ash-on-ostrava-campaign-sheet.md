@@ -219,7 +219,7 @@ Moved to `world.md` (day 36 cleanup), under the same heading.
 Remarkable Athlete (+2 untrained STR/DEX/CON); proficiency +4 (Perception, Athletics, Survival, Intimidation); **+1 will
 checks** (provost's manual); **Commander: two orders a beat to specialists** (+2, act first); Defense style; heavy
 carapace from the front (carapace from the side and back); refractor field (auto-stops light hits, 3 a beat; heavy hits 5-6); Last Word hair trigger
-(drop-prone); Indomitable (reroll a failed save, once per long rest); purity seals on Vigil, Last Word, the knife, Shameholder; **Knife bouts: Tamsin +12 (8 DEX + 4 prof)** (codex, Knife bouts; confirmed with the player, day 36 cleanup; DEX +8 from the day 38 tally). **Last Word: d20 + 13** (DEX 8, prof 4, laser +1 on hip shots within ~20 m).
+(drop-prone); Indomitable (reroll a failed save, once per long rest); purity seals on Last Word, the knife, Shameholder (Vigil's went to the Geller node, day 43); **Knife bouts: Tamsin +12 (8 DEX + 4 prof)** (codex, Knife bouts; confirmed with the player, day 36 cleanup; DEX +8 from the day 38 tally). **Last Word: d20 + 13** (DEX 8, prof 4, laser +1 on hip shots within ~20 m).
 **The Light's standing modifiers:** specialties (+2), roles (bestiary), traitor-elite side notes, finished books, Morcant's
 suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss by 1-2: Grenadier role rule), Corvane's revolver (+1 inside
 15 m, 3-shot chains), **Tey's Gunslinger role (+3 with one-handed guns only)**, Varga's shooting eye (rangefinder, targeter, gun-link).
