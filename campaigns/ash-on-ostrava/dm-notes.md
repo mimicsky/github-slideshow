@@ -556,3 +556,4 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 - Players in order (d9): 1 Tamsin, 2 Dace, 3 Brenner, 4 Isk, 5 Corvane, 6 Sorel, 7 Tey, 8 Nessa, 9 Varga. Joren the deck holder; Ollin the armoury shop (5 Thrones = a laspistol with a training pack).
 - **Cards (d9 rolls 3, 8, 7): TRAITORS (jokers): BRENNER and NESSA. SHERIFF (king): TEY** (his pistol carried openly). **Tamsin: a number card, innocent.** Everyone else innocent: Dace, Isk, Corvane, Sorel, Varga.
 - **The Thrones (20 from Tamsin's purse, 2 a spot; d16 on the clearing-game spot list): shrine 2, spare cabin 2, range 2, medicae 2, galley 2, Tamsin's cabin 2, Kell's cabin 2, Varga's cabin 2, bunk room 4.** None in the containers, mat, old cargo office, armoury, briefing room or bridge.
+- ~1838 Tamsin to Nessa: 'You're an innocent, aren't you?' Perception (d20 + 8) to spot the knife on her vs **her concealment 7 + 7 = 14**.
