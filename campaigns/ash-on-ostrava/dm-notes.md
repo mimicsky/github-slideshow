@@ -550,3 +550,9 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 - **Her help (d6 4): papers and a name.** An Administratum tithe-assessors' warrant (cover for the Light) and one informant on Gallowmere: **a tithe-reeve at the main grain port** (name to be given in play); **last report ~20 days ago (d6 3): within the usual cadence, not yet overdue.**
 - **~1108 Tamsin asks again about Maren and the Schola. Kesh's answer: still not yet, after the Lamps. How much of Oculine's read she shares (d6 3, table: 1-2 nothing, 3-4 a hint, 5-6 all): a hint.** Her chirurgeon drew Maren's blood last night (set now); 'something in that blood I want understood' before she goes near a Schola; not tainted, not a witch. She does NOT say the rot sleeps in it.
 - ~1818 (hidden) Tamsin calls Varga and Nessa back ('I think you might want to reconsider'): Persuasion (not a will check: d20 + 1). Hidden numbers: **Nessa 11, Varga 13** (one roll against both).
+
+## Day 42 evening: TTT, game 1 (hidden; never read out)
+
+- Players in order (d9): 1 Tamsin, 2 Dace, 3 Brenner, 4 Isk, 5 Corvane, 6 Sorel, 7 Tey, 8 Nessa, 9 Varga. Joren the deck holder; Ollin the armoury shop (5 Thrones = a laspistol with a training pack).
+- **Cards (d9 rolls 3, 8, 7): TRAITORS (jokers): BRENNER and NESSA. SHERIFF (king): TEY** (his pistol carried openly). **Tamsin: a number card, innocent.** Everyone else innocent: Dace, Isk, Corvane, Sorel, Varga.
+- **The Thrones (20 from Tamsin's purse, 2 a spot; d16 on the clearing-game spot list): shrine 2, spare cabin 2, range 2, medicae 2, galley 2, Tamsin's cabin 2, Kell's cabin 2, Varga's cabin 2, bunk room 4.** None in the containers, mat, old cargo office, armoury, briefing room or bridge.
