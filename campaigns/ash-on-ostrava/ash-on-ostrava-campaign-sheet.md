@@ -64,7 +64,7 @@ Moved to `world.md` (day 36 cleanup), under the same heading.
 | Rank | **Interrogator** of Inquisitor Kesh's Ordo (rosette, warp day 20, session 7). Leads the Light; takes his orders from Kesh (Varsaine stayed with the Lantern). (Interrogator-designate from session 5.) |
 | Class | Fighter 11, **Champion** (crits on 19-20). Action Surge, **Extra Attack (2)**, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | **Fine** (healed day 20) |
-| Stats (levels 1-100) | STR **32.3** (**+3**), DEX **84.0** (**+8**, crossed 80 day 38), CON **23.9** (+2), INT **13.6** (+1), WIS **47.0** (**+4**), CHA **19.1** (+1) (tally day 41) |
+| Stats (levels 1-100) | STR **32.3** (**+3**), DEX **85.1** (**+8**, crossed 80 day 38), CON **23.9** (+2), INT **13.9** (+1), WIS **48.0** (**+4**), CHA **20.0** (**+2**, crossed 20 day 42) (tally day 42). **CHA +2 from day 43: Persuasion/Deception +2 off will checks, +3 on will checks (CHA 2 + manual 1); Intimidation +7 on will checks (CHA 2 + proficiency 4 + manual 1).** |
 | Renown | **Local (+3)**, close to Regional (codex, Renown). **Ustrennos: +5 more** (the Spindle, the Kestrel, the pirate ship: the station knows his face). **Thask's network knows exactly who he is.** Next step up (Regional): re-rate at the Rest (the Gardener taken, day 33) |
 | Proficiency | **+4** (levels 9-12). Skills: Perception, Athletics, Survival, Intimidation. **+1 on will checks** (house rule 8; the provost's manual, finished day 19) |
 | Flaw | Doesn't trust officers, and says so |
@@ -253,22 +253,22 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 
 | | STR | DEX | CON | INT | WIS | CHA | State |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Kell** | 43.0 | 41.3 | 30.1 | 10 | 27.3 | 10 | Fine (day 36 morning; Hurt from the mast, day 33, to then). |
-| **Varga** | 26.2 | 49.5 | 25.1 | 10 | 27.1 | 5.2 | Fine. |
-| **Dace** | 27.2 | 23.2 | 20 | 32.1 | 5.6 | 5.1 | Fine (hip healed by day 33). |
-| **Sorel** | 41.7 | 34.9 | 29 | 18 | 30.8 | 14.1 | Fine. Tracker; hive clearance +2. |
-| **Tey** | 18.7 | 51.2 | 28.3 | 14.1 | 9.2 | 14.1 | Fine. **Pistol focus (gunslinger) +2** (day 36 = drill day 21; day 35 = drill day 20: up from +1; next +1 at drill day 30; +1 per 10 drill days to +5). Pistol drill nightly; 5 for 5 under Varga at dawn on day 32. His flinch came from a long trigger pull (a hair trigger would beat it; not fitted). **At Tamsin's side from day 16: goes everywhere with him, into the action.** |
-| **Hollis** | 29.4 | 48.3 | 32 | 17 | 25.8 | 12 | Fine. |
-| **Brenner** | 21.2 | 31.2 | 26 | 45.2 | 18.6 | 10 | Fine. |
-| **Isk** | 20.1 | 54.2 | 28 | 13.5 | 33.8 | 10 | Fine. |
-| **Tavi** | 20.6 | 40.8 | 23.2 | 34.8 | 17.2 | 17.1 | Fine (a hand-cannon crit at Crane Yard 6's gate ~0435; Dace patched him). |
-| **Morcant** | 51.0 | 31.1 | 33.2 | 15 | 19.2 | 17 | Fine. |
-| **Sallow** | 20 | 33.7 | 22 | 25 | 46.3 | 20 | Fine. |
-| **Corvane** | 31.3 | 48.6 | 31.4 | 21.5 | 20.2 | 22.1 | Fine. |
-| **Nessa** | 18.5 | 55.9 | 18.1 | 21.2 | 29.1 | 27.5 | Fine. |
-| **Mira** | 14.8 | 47.7 | 20 | 33.6 | 30.2 | 15 | Fine. |
-| **Teo** | 18.1 | 45.4 | 18 | 27.7 | 19.6 | 28.1 | Fine. |
-| **Ferro-Ashe** | 19 | 25.3 | 20 | 47.1 | 19.7 | 12 | Fine. |
+| **Kell** | 43.3 | 41.3 | 30.1 | 10 | 27.3 | 10 | Fine (day 36 morning; Hurt from the mast, day 33, to then). |
+| **Varga** | 26.2 | 49.8 | 25.1 | 10 | 27.2 | 5.2 | Fine. |
+| **Dace** | 27.3 | 23.2 | 20 | 32.3 | 5.6 | 5.1 | Fine (hip healed by day 33). |
+| **Sorel** | 41.7 | 35.0 | 29 | 18 | 31.0 | 14.1 | Fine. Tracker; hive clearance +2. |
+| **Tey** | 18.7 | 51.7 | 28.3 | 14.1 | 9.3 | 14.1 | Fine. **Pistol focus (gunslinger) +2** (day 36 = drill day 21; day 35 = drill day 20: up from +1; next +1 at drill day 30; +1 per 10 drill days to +5). Pistol drill nightly; 5 for 5 under Varga at dawn on day 32. His flinch came from a long trigger pull (a hair trigger would beat it; not fitted). **At Tamsin's side from day 16: goes everywhere with him, into the action.** |
+| **Hollis** | 29.4 | 48.6 | 32 | 17 | 25.8 | 12 | Fine. |
+| **Brenner** | 21.2 | 31.3 | 26 | 45.5 | 18.7 | 10 | Fine. |
+| **Isk** | 20.1 | 54.5 | 28 | 13.5 | 33.8 | 10 | Fine. |
+| **Tavi** | 20.6 | 41.0 | 23.2 | 34.9 | 17.2 | 17.1 | Fine (a hand-cannon crit at Crane Yard 6's gate ~0435; Dace patched him). |
+| **Morcant** | 51.0 | 31.4 | 33.2 | 15 | 19.2 | 17 | Fine. |
+| **Sallow** | 20 | 33.8 | 22 | 25 | 46.5 | 20 | Fine. |
+| **Corvane** | 31.4 | 48.9 | 31.4 | 21.5 | 20.2 | 22.1 | Fine. |
+| **Nessa** | 18.5 | 56.4 | 18.1 | 21.2 | 29.2 | 27.5 | Fine. |
+| **Mira** | 14.8 | 48.1 | 20 | 33.8 | 30.2 | 15 | Fine. |
+| **Teo** | 18.1 | 45.5 | 18 | 27.9 | 19.6 | 28.1 | Fine. |
+| **Ferro-Ashe** | 19 | 25.3 | 20 | 47.4 | 19.7 | 12 | Fine. |
 | **Ollin Brake** | 18 | 17.5 | 25 | 24.6 | 18 | 17.7 | Fine. Haggles d20 + CHA bonus (+1); cleans handed-in guns. |
 
 ## Hidden notes
