@@ -94,3 +94,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1859: Knife 10 + 12 = 22: **Nessa touched, down.** The sheriff's pistol on the deck at Tamsin's feet. Down in game 2: Tey, Varga, Corvane, Dace, Nessa. Ollin, across the corridor, slowly applauding.
 - ~1900: Tamsin picked up the pistol: 'One man and a lie... good call, Corv.' Out into the corridor to look round (Perception, the player's d20).
 - ~1900: Perception 12 + 8 = 20: Tamsin spotted Brenner tucked at the head of the stair, aft. Forward: Joren and Kell in the galley (not playing); the cabin corridor beyond empty, every door shut. No sign of Isk or Sorel.
+- ~1901: Tamsin signalled Brenner up to search the rooms; Brenner came forward and took the cabins on the left (Kell's, Varga's, the spare): empty. Tamsin at the bunk room hatch (the nearest), listening: nothing inside. (Isk and Sorel still on the bridge.)
