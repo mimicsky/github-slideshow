@@ -41367,6 +41367,926 @@ slept with a strip of Sallow's bandage round her wrist.
 
 Tamsin went to sleep.
 
+
+## Chapter 124: Light Hands
+
+Tamsin woke at about 0900 after a full night's sleep, and a quiet one. It was day 42, and
+the *Bright Light* still sat in her clamps at berth 38 on the Rest's outer ring, with her
+lights on. Someone had pushed a note under his door in the night. It was in Sister
+Aldwyn's square hand. The Lady would brief him at 1100. Mother Oculine would see his two
+converts at 1000, in the residence. The girl had slept through.
+
+He read it twice, put it in his pocket, and went to the galley.
+
+Ollin was at the stove with the bricks, and the recaf was on. Isk and Morcant had the
+table, the same two as four mornings ago, Isk with both hands round his mug and Morcant
+with three bricks stacked in front of him. At the end of the table sat Dannel and Joren in
+clean coveralls, scrubbed pink for the seer, with their hair wet and flattened, and
+neither of them was eating much. Pell sat between them working steadily through a brick.
+
+"Boss!" said Morcant. "Heard you blew up a whole ship!"
+
+Isk, quietly, over his recaf: "Heard you shot a prophet in the leg."
+
+Word had gone round the ship last night.
+
+Tamsin sat down and looked along the table at his two converts. "You both ready?"
+
+Dannel swallowed. "...Yes, sir." Corvane's grey cord was still on his wrist, and he was
+turning it round and round with his other hand.
+
+Joren was as ready as he'd ever be, Interrogator. He had never been looked at by a seer
+before. Brother Kade's oil, aye. Bit warm, that. Never a seer. "What does she do?"
+
+"Looks right through you," said Morcant cheerfully, with his mouth full, "and tells you
+what you had for breakfast."
+
+"She doesn't," said Isk.
+
+Joren looked down at his brick as if it might give evidence against him. Pell looked from
+her brother to Joren and back again, worried, and stopped eating. It was fifty minutes to
+the seeing, and twenty of them would be the walk.
+
+"Alright," said Tamsin. "Eat up, then we go."
+
+Dannel and Joren forced down a brick each. Ollin came round with the pot and filled their
+mugs a second time without being asked, and gave each of them a nod, as one ring-four boy
+to another. At about 0935 they were at the ramp. Pell was at Dannel's elbow with her slate
+under her arm, and she had clearly been waiting all through breakfast to ask.
+
+Could she come too? To see Maren?
+
+"Not with us," said Tamsin. "But you can get one of the guys to take you to her."
+
+Hollis was on the ramp, with his arms folded, watching the berth. He unfolded them. "Here,
+lass. I'll walk you over."
+
+Pell went off down the berth with him, chattering, and Hollis bent his grey head to listen
+to every word of it.
+
+---
+
+Tamsin took Dannel and Joren through the station on foot: along the outer ring's
+corridors, through the pilgrim crowds and the candle smoke, and up toward the residence.
+The bells were going somewhere up the spire. Neither of the two said a word the whole way.
+Dannel walked with his eyes on the deck plates. Joren walked like a man going to a hearing
+he had been told about but never seen, with his shoulders up round his ears.
+
+They came into the residence at about 0955. Aldwyn met them at the head of the stair,
+looked the two of them over once, and took the three of them up to a small room with a
+single lamp in it and nothing else but a stool. Oculine sat on the stool with her
+blackwood cane across her knees and her black silk blindfold over her eyes, and her face
+was already turned toward the door before they came through it. Kesh came up behind them
+and stood in the doorway, and did not come in. She watched.
+
+At 1000 Oculine held out her hands, palms up, and waited.
+
+Dannel went first. He had grown up in a garden, and he was more afraid of what she might
+find in him than anyone in the room. He went to her like a man walking out onto thin ice.
+She took his hands in hers and drew him down until her blindfolded face was close to his,
+and then she held them a long minute without speaking. Dannel stood rigid. He did not seem
+to breathe. The lamp hissed. In the doorway Kesh did not move.
+
+"There was a garden in this one once," said Oculine at last, in her soft unhurried voice.
+"It's ash now." She let go of one hand and patted the back of the other. "He grieves,
+that's all. Let him."
+
+Dannel made a small sound and stepped back.
+
+Then Joren. He gave her his hands the way a docker gives over his tally sheet to the
+foreman, square and plain and braced for the worst, and she held them just as long. Her
+thumbs moved once across his knuckles, over the old scars.
+
+"A docker who loves his mother," she said, "and owes nobody anything any more." She let
+him go. "Nothing else in him."
+
+"I'll sign their names," said Kesh from the door.
+
+Dannel was shaking with relief, all over, and could not stop. Joren let out a breath he
+had been holding since the galley.
+
+"Eleven o'clock, Interrogator," said Kesh. "My room. You've the better part of an hour."
+
+Dannel was wiping his face with the back of his wrist. Joren put a hand on his shoulder.
+
+"Dannel, Joren," said Tamsin. "Come here."
+
+Dannel got up too fast and nearly lost his footing, and Joren steadied him by the elbow,
+and they came across the little room to him together. Dannel's eyes were red. He stood as
+straight as he could and did not trust himself to speak. Joren stopped beside him with his
+cap in his hands. "Interrogator."
+
+Tamsin stood between them, and spoke quietly.
+
+"Head high. Stand at attention."
+
+They did it, as well as two men could who had never been drilled to it: Dannel with his
+chin up and his eyes still wet, and Joren square and stiff, his cap crushed in one fist at
+his side, the way he had watched the Light-bringers stand in the hold. Tamsin stepped back
+and looked at the two of them: the collector lad out of Thask's garden and the docker off
+ring four, both scrubbed pink, both standing as straight as they knew how.
+
+"You've proven you're brave," he said. "Both of you. You've adjusted to your lives. And
+you've atoned for your past." He let it sit a moment. "So I make you both members of the
+Light. You're Light Hands."
+
+Nobody moved for a second. There had never been a Light Hand before. There had been no
+such thing until he said it.
+
+Then Dannel made a sound halfway between a laugh and a sob. "Sir. Yes, sir." His hand went
+to the grey penitent's cord on his wrist, Corvane's cord. He did not take it off. He only
+held it.
+
+Joren swallowed hard. "Light Hands." He said it slowly, as if he were testing the weight.
+"My mam's going to cry, Interrogator. She'll want it in writing."
+
+In the doorway Kesh had a slate out, and was writing on it.
+
+"Then she'll have it in writing," she said. "Two names for the Light's roll. Light Hands."
+She looked up at Tamsin. "Your rank. Your book. I'll seal it."
+
+Oculine, on her stool, said nothing at all, and something close to a smile moved her
+mouth.
+
+---
+
+They waited out the hour in the residence. Dannel and Joren went off to find Pell, who was
+somewhere in Kesh's house with Maren and Hollis, to tell her. Tamsin stayed in the
+antechamber with the lamps and the armsmen and the far-off pilgrim bells, and watched the
+pilgrim lanes through a gap in the shutters, the haulers coming and going round the spire.
+
+At about 1040 Aldwyn came hurrying up the stair with a sealed slate from the Rest's choir
+in her hand. She went past him without a word and into Kesh's room, and Kesh's door shut
+behind her.
+
+---
+
+At 1100 he went in.
+
+Kesh was standing at her table, not at the window. The slate lay face down beside her
+hand, and she did not offer him a chair. Her mouth was a thin line, and she looked as if
+she had not slept, though with Kesh it was hard to be sure. Whatever the Rest's choir had
+brought her, the Lady was in a foul mood, and she did not trouble to hide it.
+
+"Moll has answered," she said. "She took the Spire's astropath and four of his scribes
+into her cells. There was a fifth. He ran." She said the name as if it tasted bad.
+"Corlis. The other four gave him to me." A C, as Tamsin had guessed in the fourth cell.
+Where he had gone, nobody knew. Not Moll, and not Kesh. "So the leak was in Voke's Spire.
+That much is settled. The man is not."
+
+Tamsin thought of the Prophet chained in the fourth cell, smiling at the wall. *Then he
+blooms early.* It seemed he had not bloomed at all. He had run.
+
+She turned the slate over under her hand and did not look at it.
+
+"And Gallowmere's choir has been silent four days. Nothing in. Nothing out." What she had
+on that world was thin, and she did not pretend otherwise.
+
+Gallowmere fed half the sector, and its grain went out through the Mart's customs. And the Prophet in his chains, with his pale eyes bright: *every field
+would have drunk from her*. Now the whole world had gone quiet, thirteen days before the
+Lamps.
+
+He thought about it.
+
+"It's the same as the Mart," he said. "A last stand. All they've got left is the silos and
+the Lamps. All their people in one place. So we move fast. A full assault."
+
+"Fast, yes," said Kesh. "You leave today." She put one finger down on the table. "A last
+stand here, perhaps. Not for the Sixth. Their strength is on Atoma Prime." Then she looked
+up at him, and her eyes were very cold. "But you cannot assault what you cannot find,
+Interrogator. Gallowmere is a whole world of silos, and I do not know which of them is the
+garden. Find it first. Then hit it with everything you have."
+
+She slid a fold of papers across the table to him. It was an Administratum warrant, sealed
+and stamped, for a party of tithe-assessors.
+
+"My one name on Gallowmere," she said. "Tithe-Reeve Osk Varrow, at the main grain port.
+His last report reached me about twenty days ago."
+
+Tamsin picked up the papers and turned them over. The seal was real, and heavy, and the
+Administratum's. Men with papers like these walked into grain ports every season to count
+the harvest and the tithe, and nobody on an agri world was glad to see them, and nobody
+turned them away.
+
+"Then an infiltration first," he said.
+
+"Agreed." She nodded once. In as assessors. Find Varrow. Find the garden. The assault
+after, and not before. She folded her hands behind her back and waited. "What else do you
+need?"
+
+"Pell stays with Maren," said Tamsin, "until the Light come back. And Joren's mother can
+watch over them too, when she's here."
+
+"Yes," said Kesh.
+
+She had already said the pair of them could live on the Rest, and she did not waste breath
+saying it twice. The child would live in this house, with Maren. Aldwyn would have the
+keeping of both. Oculine would sit with Pell once today, first. "Anyone who sleeps that
+close to Maren gets seen." Joren's mother would be welcome when she was here. "And your
+docker's letter goes out in my packet today. If he has written it."
+
+"And about Maren," said Tamsin. "And putting her in?"
+
+"Still after the Lamps." Kesh did not soften it, and she did not look away. "Oculine has
+seen her. My chirurgeon drew her blood last night. She is not tainted. She is not a
+witch." A pause. "But there is something in her blood I want understood before I send her
+to a house full of children."
+
+Until then the girl was his ward, as he had written in his report, and she would sleep
+under Kesh's roof, with Aldwyn's armsmen on the stair.
+
+"After the Lamps," said Kesh. "If she is what you hope, I'll write to the Schola myself,
+and to the Sisters after them."
+
+"Wait," said Tamsin. "So was Thask just mad? Is she something special, or is she just a
+regular girl?"
+
+"Thask?" Kesh's mouth twisted. "Thask was a heretic. That is not the same as mad. He saw
+something real and gave it the wrong name. That's how most of them start." She tapped one
+finger on the table. "She's a girl. She eats, she sleeps, she's frightened of the dark
+under Aldwyn's stairs. And she's rare. Oculine has seen one like her before, in sixty
+years. Rare isn't holy, Interrogator, and it isn't damned. It's rare. Thask made a saint
+of it. The Sixth made a crop of it."
+
+She held his eyes.
+
+"What exactly it is, I'll tell you when I know. I don't yet. I'm not hiding the answer from
+you. I'm hiding the *guess*. Guesses about that child get people killed."
+
+She picked up the choir slate again.
+
+"Now go. Gallowmere won't wait for either of us."
+
+"Consider it done already," said Tamsin.
+
+
+## Chapter 125: What Are We?
+
+Out in the passage, with the warrant inside his jacket, Tamsin keyed his bead.
+
+"Light, get ready for takeoff. We're leaving now. I'll brief you aboard soon. Say your
+goodbyes." Then: "Sallow, if you're with Maren, tell her she'll be safe soon."
+
+"*Heard,*" said Kell.
+
+"*Aboard, boss,*" said Sallow. "*Not with her.*"
+
+"*I am, boss,*" said Hollis. "*Still here with the girls.*" There was a murmur behind him,
+and a pause, and a small voice asking something. "*Told her. She wants to know if you'll
+come and say goodbye yourself.*"
+
+Dannel and Joren were with them too. They had no beads, and they had not heard the call.
+
+Tamsin went down through Kesh's house to find them. An armsman on the back stair pointed
+him the way without being asked: down past the kitchens, where the house cooks were
+scrubbing the breakfast pans, to a door standing half open at the end of a short passage,
+with a girl's voice behind it.
+
+---
+
+The little room off the kitchen was warm and smelled of the morning's bread. Maren and
+Pell had a table under the window with their slates spread across it, and their heads
+close together. Hollis sat on a stool by the door with his arms folded, and Dannel and
+Joren stood against the wall, out of the way, the way men stand in a room that is not
+theirs.
+
+Pell saw him first, and went quiet. Then Maren looked up.
+
+She was in a plain grey shift from Kesh's household, too big for her, with the sleeves
+rolled back off her scarred forearms. She had been born in one windowless room, painted to
+look like a garden, and she had lived in it with the needles in her arms until the Light
+came for her.
+
+Maren got up when Tamsin came in. She came to him across the room, and stopped a step
+short of him, and looked up.
+
+"Are you coming back?"
+
+She was holding a sheet of paper against her chest. When she lowered it he could see what
+was on it: stars, dozens of them, drawn in careful pencil and coloured in yellow, every one
+with five points. "Pell showed me how to draw them with five points," she said. She had seen the real ones for the first time yesterday,
+through the Valk's cockpit glass, with her nose pressed flat against it.
+
+*Bring me back one*, she had said last night, nearly asleep.
+
+"We'll come back," said Tamsin.
+
+Maren nodded slowly, as if she were putting that away somewhere safe. Then she held the
+drawing out to him with both hands.
+
+"Then take this with you. So you have stars where you're going." She hesitated. "You said I
+could see real ones one day. This is so you don't forget you said it."
+
+He took the page from her and looked at it for a long moment. Then he folded it carefully,
+twice, and put it away in his pocket.
+
+"This fight is for you to see the stars, Maren," he said. "Remember that."
+
+She closed the last step and hugged him round the middle, quick and hard. Then she let go, and stood
+back, and held her chin up.
+
+"I'll remember."
+
+At the table Dannel was crouched beside Pell, saying goodbye. She cried, and tried not to,
+and cried anyway, with her face screwed up and her slate clutched against her chest. He
+promised to bring her something back from the next world. She made him say it again, and
+he said it again. Dannel wiped her face for her with his thumb, the way he must have done
+when she was very small. Joren stood by the wall and looked carefully at the ceiling.
+
+Hollis gave it as long as he could. Then he stood up off his stool.
+
+"Ship, boss."
+
+---
+
+They went back through the station to berth 38, the four of them, Tamsin and Hollis in
+front and Dannel and Joren behind, through the noon crowds of pilgrims on the ring
+corridors. For once Hollis had nothing to say. Dannel did not say anything either, and his
+eyes were red. Joren wrote his letter as they walked. He did it slowly and carefully,
+stopping at corners and against pillars to get each line down while the pilgrims flowed
+round him, and then hurrying to catch up. His lips moved over the words. On the outside he
+wrote: *Annet Brisk, block 4-E, ring four, Ustrennos*. He did not show it to anyone.
+
+At the foot of the ramp he stopped a berth runner, a boy of about twelve, and paid him a
+coin out of his own pocket to carry the letter to the Lady's house for her packet. He
+watched the boy all the way to the end of the corridor, until he turned the corner and was
+gone.
+
+Then he came up the ramp.
+
+---
+
+The Light were waiting in the hold, kitted, in grey plate and white trim with their guns
+slung. It was about 1135. Kell stood at the front of them with Officer across his chest,
+and Varga beside him, and Dace with Promise Holder on his arm. Ferro-Ashe stood by the
+hangar hatch with his hands folded into his sleeves, and Ollin by the stair with his
+slate. Teo was leaning on container one as if he owned it. Mira came straight across the
+deck to Tamsin before he had reached them, and she did not look happy.
+
+"Boss. The pods aren't here."
+
+The Valk's bolt-rocket pods had been on order at the Rest since the Mart, and she had been
+counting the days to them ever since. The hauler bringing them was late, and nobody on the
+Rest could say when it would come in. Not the berth master, not the yards, not anybody.
+"So we fly with the nose gun and nothing else," said Mira. "And the nose gun's never been
+fired. Unless we wait."
+
+"We can't wait," said Tamsin. "We have to go now. Kesh's orders."
+
+Mira took it the way she took a bad crosswind: one breath, and then on to the next thing.
+The pods would stay on order at the Rest, and Kesh's people would hold them for the Light.
+"Then I'll test the nose gun when we drop out," she said.
+
+"Light," said Kell. "Listen up."
+
+The hold went quiet. The brief was Tamsin's.
+
+---
+
+He gave it to them plain.
+
+Gallowmere. An agri world, about four days through the warp. The garden was there, in the
+grain silos, where the jars had been grown. The Harvest Lamps were about thirteen days
+off. Gallowmere's astropath choir had been silent four days, nothing in and nothing out.
+The leak that had put watchers on Kesh's roofs had been a scribe in Voke's Spire; Captain
+Moll had taken the rest of them into her cells, and one had run. On Gallowmere they would
+go in first, quietly, as Administratum tithe-assessors, under Kesh's papers. They would
+find Kesh's man at the main grain port, and through him they would find the garden.
+
+Then the full assault.
+
+When he was done the Light were quiet. Nobody moved. Nobody asked a question. He had more
+to say, and they could all see it.
+
+"A small team goes in first," said Tamsin. "We get the information, and we get out. Then
+we hit them." He looked along the faces. "This isn't a hive. It's an open world. So the
+fight's on the ground. Boots on the ground. Teo from above. Mira in the sky."
+
+Teo grinned. Mira did not, but she stood a little straighter.
+
+"The Light-bringers go in on the assault," said Tamsin, "and we leave no heretic standing.
+Nowhere for them to run. This is their last stand in this sector. We wipe it out, and we
+keep this whole area clear."
+
+He pointed past them, past the ramp and the hull, at the Rest.
+
+"Not just for us. For them. So those two girls don't have to have a moment's worry. So the
+people on this ring don't have to worry who's walking among them." A beat. "We are the
+Light. And we will show them that we mean it."
+
+"*LIGHT!*" Morcant got there first, as he always did, with his fist on Doorknocker's casing, and then the whole hold had it, a
+roar off the deck plates that rang in the containers and came back again.
+
+Tamsin waited for it to die down. Then he walked into the middle of them and began to
+circle, slowly, looking each of them in the eye as he passed. Kell. Varga. Dace. Corvane,
+very still. Tey, very pale. Sallow. Nessa, for once not smiling. Dannel and Joren, at the
+back, by the stair.
+
+"I'm sick of what this cult does to people," he said. "Forcing them into what they're not.
+Men who joined them because it was their last hope. A little girl, made part of their
+manufacturing. All the sickness, and all the death, for their god." He kept walking. "They
+used and tortured one of our own."
+
+Nobody needed to be told who. Sallow's jaw was set hard, and Dace's knuckles had gone
+white on the shield grip.
+
+"No more days for them," said Tamsin. "We march on. We're here for vengeance." He stopped
+in the middle of the hold and looked round at all of them.
+
+"*WHAT ARE WE?*"
+
+"*THE LIGHT!*"
+
+"*WHAT ARE WE?*" Morcant bellowed it back at them before Tamsin could.
+
+"*THE LIGHT!*"
+
+Tamsin drew breath for the third, and Kell beat him to it, in the voice he kept for the field.
+"*WHAT ARE WE?*"
+
+"*THE LIGHT!*"
+
+---
+
+The bridge vox had been left open to the berth master's channel. It had not carried a word
+of the brief. It had carried the shouting, all three times, and somewhere up the Rest's
+outer ring a berth master now knew a good deal more about berth 38 than he had wanted to.
+
+Tamsin went up to the bridge. Mira was already in the seat, running her hands over the
+board.
+
+"Take us out, Mira."
+
+At about 1152 the clamps let go, and the *Bright Light* came free of berth 38. Mira took
+her out slowly through the Rest's traffic lanes, past the pilgrim haulers and the slow
+couriers queuing at the spire, and then faster, out into the black beyond them. Behind
+them the spire got smaller, with its pilgrim berths and its bells, and Kesh's house
+somewhere on it, and two girls in a little room off the kitchen.
+
+At about 1400 they made the jump. The Geller field came up round the ship, and the
+shutters came down over the viewports, and the warp closed over the *Bright Light*.
+Gallowmere was four days off, and when they came out the Lamps would be nine days away.
+
+---
+
+At about 1405 Tamsin took Vigil out of his cabin and went to the range. Nobody was there.
+The lanes were empty and the targets hung still at the far end, and the deck hummed under
+his boots with the warp a hand's width away on the other side of the hull.
+
+He shot free. He went across every lane and back, swapping targets as he went, near and
+far, four strings straight down the range, and when the pack ran dry he reloaded and kept
+shooting. He did not stop for half an hour. The air over the lanes went hot and sharp with
+the smell of it.
+
+At about 1440 someone came. Tamsin glanced back. It was Isk, standing in the doorway with
+Patience over his shoulder, watching him work.
+
+"I don't want them dead," said Tamsin, still shooting. "I want them evaporated." Another
+string went down the lane. "I'm making sure no one gets near my team."
+
+Isk said nothing to that. He came in, unslung Patience and took lane five beside him.
+
+"Then I'll take the far ones."
+
+They shot side by side, Tamsin's hellgun cracking across the near targets and Patience
+taking the far ones, slow and patient, one at a time. Neither of them said anything else.
+At about 1500 Isk lowered his long-las and looked across at him.
+
+"Better?" said Isk.
+
+Tamsin just reloaded and kept shooting. Isk nodded once and raised Patience again.
+
+
+## Chapter 126: As Promised
+
+At about 1505 Tamsin left Isk on the range, slung Vigil and went to the armoury. He seated
+a full pack from the stores and put the part-used one on the charging rack. Then he went
+on to the mat. There was nobody on it.
+
+He took a practice knife off the rack and went to work on the training post. He worked it
+for two hours, cut and thrust and cut, the same three or four moves over and over until
+they came without thinking. Nothing interrupted him. By 1712 the post was scored pale all
+down one side, and his forearm burned.
+
+---
+
+At about 1715 he came into the galley. Corvane and Varga were at the table early for
+supper, with a deck of cards between them, and a smell was coming off Ollin's stove that
+had nothing to do with bricks. It was grox sausage and onion stew, and there was real
+bread on the board beside it, a whole loaf, with a crust on it.
+
+"Bought it at the pilgrim market on the Rest this morning, boss," said Ollin. "Don't get
+used to it."
+
+"How did you pay for it, Ollin?"
+
+From the coin box, said Ollin, out of the stores money, and it was written in the book.
+Eighteen Thrones. "Seven thousand four hundred and nineteen left in the box, boss."
+
+Tamsin raised an eyebrow. "The full price? Or did you haggle?"
+
+Ollin went a little pink. They had asked twenty-four, and he had paid eighteen. "Mam said
+never pay the first number." The bread woman wouldn't budge, he admitted. The sausage man
+did.
+
+Tamsin went off and washed and changed, and by the time he came back at about 1735 the
+galley was filling for supper. Ollin served the stew and the bread, and the Light fell on
+it. Varga dealt him a hand without looking up.
+
+"Want in, boss? Corv's losing."
+
+"Gambling on my ship?" said Tamsin. "That's a first."
+
+"Not gambling," said Varga. "No Thrones." The loser did Ollin's pots tonight. Corvane had
+lost three hands already.
+
+"Pots three times so far," said Corvane, with dignity. "By choice."
+
+Tamsin sat back. "Alright. Let's raise the stakes a little."
+
+The table waited.
+
+"First to win three hands gets their schematic moved up to second place in the build
+order," said Tamsin. "And can put five hours of range debt on anyone they like. Me
+included." He looked round the galley. "If you want to play, Light, you'd better join in.
+Not me, though. I'll watch."
+
+Chairs scraped. Kell put down his spoon and came over. So did Brenner, and Isk, and
+Morcant, and Nessa, and, last of all, a little uncertainly, Joren. With Varga and Corvane
+that made eight. Dace, Hollis, Tavi, Sallow, Sorel, Tey and Dannel stayed where they were
+with their stew and settled in to watch.
+
+Varga's game was the simplest one there was. One card each, face down. Turn them over
+together. The highest card took the hand, and a tie was cut again between the tied.
+
+---
+
+Morcant took the first hand with a high court card, and slapped it down so hard the bowls
+jumped.
+
+"Looks like Morcant's stubber is going to have a makeover," said Tamsin.
+
+"The stubber deserves a makeover!" said Morcant.
+
+"That stubber," said Varga, "deserves a funeral."
+
+Then Joren turned over the highest card in the deck. He looked at it as if it might bite
+him.
+
+"If you win," said Tamsin to Joren, "you get a gift instead of a schematic." Joren had no
+schematic in the order to move.
+
+Joren thought about it, honestly, with his card face down under his hand. If it was a
+gift, he'd want something for his mam.
+
+Corvane took the third hand, quietly, and turned his card over with two fingers like a man
+laying down a sword.
+
+"Never lost a duel to a heretic," said Tamsin. "But cards..."
+
+The fourth hand came down a tie at the top, Nessa and Joren, and they cut again. Nessa
+turned up something miserable. Joren turned up the highest card in the deck, again. Two
+hands to Joren, and the galley started to pay attention.
+
+"My new hands are going to beat my own soldiers," said Tamsin. "I'll have to double
+training."
+
+Isk took the fifth, without expression.
+
+"Kell," said Tamsin, "I think you have to yell at them."
+
+Kell looked at his face-down card the way he looked at a new recruit. "*SORT YOURSELVES
+OUT.*" He turned it over. It was the lowest card in the pack. Nessa took the hand.
+
+"Maybe ask politely?" said Tamsin.
+
+Kell considered his next card. "Please," he said to it, very civilly, and turned it over.
+It was not much better. Brenner took the seventh hand.
+
+"Varga has dealer luck," said Tamsin.
+
+Varga dealt herself the lowest card in the pack. Brenner took the eighth, and he was on
+two with Joren.
+
+"Joren and Brenner would never make me do drills," said Tamsin, "so I'm fine."
+
+"Never, sir," said Brenner. Much too quickly.
+
+On the ninth hand Varga dealt herself the lowest card in the pack again, and Corvane
+turned the highest. It was the first time anyone but Joren had seen it all night.
+
+Varga looked at her card for a long moment. "Dealer luck," she said flatly. "Myth."
+
+"Want me to deal?" said Tamsin.
+
+Varga slid him the deck.
+
+On the tenth hand, with the boss dealing, Nessa took it, and there were four of them on
+two: Joren, Brenner, Corvane and Nessa. Tamsin looked round them while he shuffled.
+
+"So either I'm safe," he said, "or I have to teach someone to throw knives, or I have to
+duel the other."
+
+The eleventh hand came up three ways level at the top: Varga, Nessa and Joren. They cut
+again among the three, and Varga took it, with something very close to a smile. It was her
+first hand of the night.
+
+Kell was still on nought.
+
+"Kell?" said Tamsin. "How you feeling over there?"
+
+"Like a sergeant," said Kell, "whose own squad has outflanked him."
+
+Tamsin dealt the twelfth hand. Eight cards went over together, and the galley leaned in.
+Morcant had a high one and started to grin. Nessa had a good one. Then Joren turned his
+over, and it was the highest card in the deck, for the third time that night.
+
+The galley went up. Morcant groaned. Hollis was calling the score from the next bench to
+anyone who would listen, and Dace was laughing. Joren just sat there with his hand flat on
+the card.
+
+Joren had three. Brenner, Corvane and Nessa had two each. Morcant, Isk and Varga had one.
+Kell had nought.
+
+There were still the five hours of range debt, for Joren to put on anyone he liked, the
+boss included. Joren shook his head at once. "I don't want to put anyone on the range,
+Interrogator."
+
+Kell, last on nought, stood up and went to the stove for Ollin's pots without a word. The
+pots had been the stake before Tamsin raised it, and somebody still had to scrub them.
+
+"What would you like?" said Tamsin to Joren.
+
+Joren knew straight away. A warm coat for his mam. She was always cold. Ring four's
+heaters never worked, and she had worn hand-me-downs all his life. A proper one. New.
+"Maybe Gallowmere has wool," he said.
+
+"Alright," said Tamsin. Then, to the galley: "Now. I have a late-night game we can play.
+Anyone interested?"
+
+The galley stopped emptying.
+
+---
+
+It was just for fun, he said. A little betrayal, and reading people. Who was in?
+
+Dace was in, and Brenner, and Isk, and Corvane. Sorel, and Tey, and Joren, and Ollin. Kell
+had the pots. Varga, Hollis, Tavi, Morcant, Sallow, Nessa and Dannel got up to go.
+
+"Nessa, Varga," said Tamsin. "I think you might want to reconsider." The two of them
+stopped in the hatch. "I think you both would love to stab me in the back, yeah?"
+
+Varga and Nessa looked at each other. Then they came back and sat down.
+
+"How's it played?" said Dace.
+
+Tamsin wanted one volunteer to hold the deck. It was Joren. "I've had all the luck I'm
+owed tonight."
+
+So Tamsin explained it. He called it TTT. Ten cards out of the deck: seven numbers, two
+jokers and one king. Everyone in a circle, heads down and eyes shut, and the deck holder
+would give each of them one card to read and hand back. A number was innocent. A joker was
+a traitor. The king was the sheriff. The deck holder carried two dull training knives and
+one laspistol loaded with training rounds. The traitors got a knife each, hidden, and they
+won by putting down everyone else until they were the last two standing. The sheriff got
+the pistol, to root out the traitors and shoot them. The innocents could team up, or hide,
+or hunt for the Thrones the deck holder would scatter round the ship, to be collected
+after the game. Five Thrones bought a gun of your own, for anyone. When the cards were
+read, heads still down, the deck holder would call the traitors to look up and see each
+other.
+
+"Any questions?"
+
+There were. One touch was a down, said Tamsin. The downed sat where they were touched or
+shot, and did not talk. A sheriff who shot an innocent went down too, and dropped the gun
+where he stood for anyone to pick up. Ollin would sit in the armoury once the game
+started, so that anyone buying knew where to find him. The game was the whole ship.
+
+Joren counted on his fingers. With Ollin in the armoury, that was nine players and ten
+cards.
+
+"Lights on or off?" said Sorel.
+
+Tamsin took a number card out of the ten, and said lights on. Joren went off round the
+ship with twenty Thrones out of Tamsin's purse and scattered them where he liked, and at
+about 1835 the nine of them sat in a circle on the galley deck with their heads down.
+
+Joren dealt. Tamsin drew a number. Innocent. Then the traitors were called to look up, and
+somewhere in the circle two knives changed hands without a sound, and heads came up. Tey
+had the sheriff's laspistol out in the open, and looked as if he would like to give it
+back. "Oh, Throne," said Tey.
+
+---
+
+Game one began at about 1837.
+
+Tamsin went straight to Nessa. "I know you, and your luck," he said. "You're an innocent,
+aren't you?"
+
+"Would I lie to you, boss?"
+
+He looked her over while she smiled at him, and there it was: the outline of a training
+knife, down inside her right boot.
+
+"I'll keep it interesting," said Tamsin, and walked away from her to where Isk stood by
+the forward hatch. The galley was emptying fast in both directions.
+
+"Let's stick together, Isk," he said quietly. "And make some ground away from Nessa.
+Fast."
+
+They went out through the forward hatch into the cabin corridor, with the bunk room and
+the cabins along it, and the briefing room, Tamsin's own cabin and the bridge ahead.
+Tamsin ducked into the spare cabin. "Let me know if you see anything." Isk took the door
+and watched the corridor.
+
+Under the edge of the mattress Tamsin found two Thrones. The cabin looked empty.
+
+"You see anything, Isk?"
+
+Nothing.
+
+Tamsin opened the locker. Varga was inside it, folded up with her knees to her chin and
+her arms crossed.
+
+"Took you long enough, boss."
+
+She did not know what card he held, and she did not move. She was watching his hands.
+
+"Hmm," said Tamsin. "You'd hide here." Then he told her straight. He was innocent. Nessa
+wasn't. He had seen a knife in her boot.
+
+Varga looked at him a moment longer, and believed him, and climbed out stiffly. Nessa had
+gone out the aft hatch right after Brenner, she said. Isk had heard it all from the door.
+
+"Isk, Varga," said Tamsin. "You go out and tell him." Tey had the gun. "I'm going to
+search around for some more Thrones."
+
+Isk and Varga went back aft toward the galley, where Tey and Dace were. Tamsin crossed the
+corridor into the bunk room alone, and went through it bunk by bunk, and found four more
+Thrones. He had six.
+
+Through the bulkhead he heard Tey shouting at Nessa. Then two snaps of the training
+pistol, close together. A silence. Then the galley erupting.
+
+When he came back aft he got the story from everyone at once. Nessa had come for Tey with
+the knife, and Tey had shot her as she came. Brenner had lunged at him from the side, and
+Tey had turned and shot him too. Both traitors were down. Sorel and Corvane were sitting
+on the deck of the hold where Nessa and Brenner had caught them earlier. The innocents had
+won, and the tip had gone from Tamsin to Varga and Isk to Tey just in time. Tamsin, Isk,
+Varga, Tey and Dace were still standing.
+
+"It was interesting," said Tamsin, "wasn't it?"
+
+---
+
+Joren took the Thrones back, Tamsin's six with the rest, and went round the ship and hid
+them again. At about 1850 the circle sat down for game two.
+
+Tamsin drew a joker.
+
+When the traitors were called to look up, he raised his head and saw Brenner looking back
+at him across the circle. A training knife was pressed into his hand. When the heads came
+up, Corvane had the sheriff's pistol.
+
+Tamsin put the knife deep inside his jacket. Nessa came straight over to look him over,
+slowly, head to boots. She found nothing.
+
+"What did you draw, boss? Innocent again?"
+
+"Seems so," said Tamsin. "And you? You seem like an innocent." He started to walk aft. "Or
+maybe you're as deceitful as usual..."
+
+"Deceitful?" said Nessa. "Me? I'm wounded, boss."
+
+She let him go.
+
+Tamsin walked aft. Through the medicae's open hatch he could see Tey and Varga, searching
+the cots for Thrones. He crept up to the side of the doorway, out of their sight, reached
+in round the frame and killed the medicae lights.
+
+It went dark inside, but for the corridor light falling through the hatch. Tey yelped.
+
+"Quiet," said Varga.
+
+Both of them froze, somewhere in among the cots. Tamsin was at the threshold, about to
+slip in, when Varga shouted at the top of her voice.
+
+"*CORVANE! MEDICAE!*"
+
+Boots came running from the galley. Tamsin went in fast. He touched Tey in the dark, and
+Tey sat down hard by a cot, and the knife was back inside the jacket before the boots
+reached the door.
+
+Corvane hit the lights from the doorway with the pistol up, and Dace and Nessa behind him.
+There was Tamsin, standing between the cots. There was Tey, sitting on the deck. And there
+was Varga, crouched behind the far cot.
+
+"Interrogator," said Corvane. "Explain."
+
+Tamsin said he had no idea what had happened. Varga had been by the lights. He had come
+over to check on Tey, and the lights went, and a figure stabbed Tey right beside him in
+the dark and moved off. "It probably thought Tey was me."
+
+"Varga?" said Corvane.
+
+"He's lying," said Varga.
+
+"Corv," said Tamsin. "Varga only joined to get me. She was going to go to sleep, but she
+stayed just for me. Tey's my boy. Me and Tey were standing right next to each other. She
+probably thought she got me."
+
+Corvane looked from one to the other for a long second. Then he believed him, and shot
+Varga.
+
+Varga was innocent. By the rules, Corvane went down too, and he sat down in the doorway,
+and the sheriff's pistol fell to the deck at the threshold. Dace and Nessa were in the
+corridor a step behind it. Tamsin was four metres inside.
+
+He drew the knife and lunged long at Dace. Dace bent for the gun and Nessa dived for it at
+the same moment. The knife touched Dace's shoulder as he bent, and Dace sat down in the
+doorway. Nessa came up off the deck with the sheriff's pistol in her hand, a metre and a
+half from Tamsin.
+
+The knife touched her before she could bring it round.
+
+The pistol clattered to the deck at Tamsin's feet. Tey, Varga, Corvane, Dace and Nessa all
+sat where they had fallen, saying nothing, as the rules said. Across the corridor, in the
+armoury hatch, Ollin was slowly applauding.
+
+Tamsin picked up the pistol.
+
+"One man and a lie," he said. "Good call, Corv."
+
+Corvane's face did a great many things, and none of them were allowed to talk.
+
+Tamsin went out into the corridor and looked round. Aft, he spotted Brenner tucked up at
+the head of the stair. Forward, Joren and Kell were in the galley, not playing. The cabin
+corridor beyond them was empty, every door shut. There was no sign of Isk or Sorel.
+
+He signalled Brenner up to search. Brenner came forward and took the cabins on the left,
+Kell's, Varga's and the spare: empty. Tamsin took the bunk room hatch, the nearest, and
+listened at it. Nothing inside. He looked in. It was empty. That left the briefing room,
+his own cabin and the bridge.
+
+"They're not here," he said to Brenner. "They must be on the other side." A beat. "That's
+a big guess, though."
+
+They went to the bridge. Mira was on watch at the helm, and did not turn round. Brenner
+looked once round the bridge and found them both: Isk folded up under the forward nav
+console, and Sorel standing in the shadow behind the port viewport frame.
+
+"Well found," said Tamsin. Then: "...Isk. You both want to give it up?"
+
+"No, Interrogator," said Sorel.
+
+They broke for the door together, Sorel from the port side and Isk rolling out from under
+the console. Tamsin fired twice from the hip, and the training rounds took Sorel and then
+Isk, and both of them sat down on the bridge deck.
+
+The traitors had won.
+
+Tamsin had put down Tey, Dace and Nessa with the knife, and Sorel and Isk with the
+sheriff's own pistol, and Varga and Corvane with one lie. Brenner had put down nobody at
+all, and had made one very good search. Joren went round the ship and brought all twenty
+Thrones back to Tamsin's purse.
+
+---
+
+At about 1906 they were all back in the galley. Tamsin stood in the middle of them with
+his hands up, proud.
+
+"Sooo," he said. "How do we all feel?"
+
+"Betrayed," said Varga. "As promised."
+
+Nessa wanted a rematch. Tomorrow. And she would be checking his jacket this time.
+
+"You stabbed me in the *dark*, boss," said Tey.
+
+Corvane said that he would never live it down. Sorel said, quietly, that it was well
+played. Dace was laughing too hard to say anything.
+
+At about 1912 Tamsin gave Joren the game kit to put away: the cards, the training knives,
+and the pistol with its training pack.
+
+"Good game, everyone," he said. "Maybe next time..." Then, louder, at Kell, at the end of
+the table with a mug in his hands: "*MAYBE NEXT TIME THE REST OF THE TEAM WILL PLAY...*"
+
+Kell did not look up from his recaf. "Someone has to scrub the pots, boss."
+
+"Goodnight, everyone," said Tamsin. "Good fun."
+
+He went to his cabin at about 1913, and took out Maren's page, folded twice. He opened it
+out and smoothed it flat against the bulkhead above his bunk: dozens of careful pencil
+stars coloured in yellow, five points each, a few of them lopsided where Pell had still
+been teaching her. Down in one corner, very small, there was something he had not seen
+before: a ship with a white bird on its side, and a stick figure in its window. He pinned
+the page to the wall with a thumb tack.
+
+Outside the hull the warp went by, and the *Bright Light* went on toward Gallowmere.
+
+Tamsin went to sleep.
+
 # Appendix: Session notes
 
 ### Session 8 (Season Two, mission 1: Ustrennos)
