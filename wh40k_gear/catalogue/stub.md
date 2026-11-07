@@ -170,6 +170,20 @@ everywhere**.
   grip, magazine, trigger, barrel).
 - A magazine is about two strings; a fresh one takes half a beat.
 
+## Bullpup SMG, 'Kasr Adder' pattern
+
+**Bullpup SMG, 'Kasr Adder' pattern** (player design, Ash on Ostrava day 45; uncommon, ~4 TV; Munitorum, Free
+Traders). A compact stub SMG built bullpup: the **magazine sits behind the grip**, the stock is part of the
+receiver, a **hand-stop is moulded into the front of the trigger guard** for the support hand, and a **short
+barrel** pokes out ahead of a short top rail with flip-up sights. A **32-round magazine.**
+- Strings of up to **10**, no hit bonuses in the string (misses still -1).
+- **Hand-stop:** the support hand locks it down: **no recoil for the first 4 shots of a string, recoil 1 after.**
+- **Compact:** it's short enough to move through tight corridors and crawlways like a pistol; **+1 on the
+  quick-draw.**
+- **Bullpup reload:** the magazine is back by the shoulder, so a fresh one takes **a full beat**.
+- Stub rounds: **through flak on a solid hit.** The top rail takes an optic; the threaded barrel takes a muzzle
+  attachment.
+
 ## Macragge service pistol
 
 **Macragge service pistol** (player design, epic: an exotic find, natural 20 only;

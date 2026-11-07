@@ -50,6 +50,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Boarding SMG, Navy 'Gyre' pattern](stub.md#boarding-smg-navy-gyre-pattern) (gyro: no recoil in zero-g; caseless)
 - [Needle SMG, Assassinorum pattern](stub.md#needle-smg-assassinorum-pattern) (silent toxin darts)
 - [Submachine gun, 'Kasr Scorpion' pattern](stub.md#submachine-gun-kasr-scorpion-pattern) (fastest: strings of 18; every attachment slot)
+- [Bullpup SMG, 'Kasr Adder' pattern](stub.md#bullpup-smg-kasr-adder-pattern) (hand-stop: first 4 shots no recoil; compact)
 - [Macragge service pistol](stub.md#macragge-service-pistol) (epic, Ultramarines)
 - [Auto-revolver, 'Hammerfall' pattern](stub.md#auto-revolver-hammerfall-pattern)
 - [Phosphor blast pistol (Mechanicus)](stub.md#phosphor-blast-pistol-mechanicus) (lights targets up; burns on a solid hit)

@@ -483,6 +483,13 @@
   "sellers": "B"
  },
  {
+  "name": "Bullpup SMG, 'Kasr Adder' pattern (stub; 32-round mag behind the grip; strings of 10, first 4 shots no recoil; +1 quick-draw; reload a full beat)",
+  "tv": 4,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
   "name": "Submachine gun, 'Kasr Scorpion' pattern (fastest: strings of 18, recoil 2; 40-round mag; every attachment slot)",
   "tv": 5,
   "cat": "stub",

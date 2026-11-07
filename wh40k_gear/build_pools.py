@@ -62,6 +62,7 @@ add("stub","U","BF",[("Twin-barrel autopistol, 'Kasr Hydra' pattern (stub; 40-ro
 add("stub","U","BF",[("Silenced submachine gun, 'Kasr Whisper' pattern (subsonic stub; not heard past 10 m; strings of 6, no recoil)",4),("Boarding SMG, Navy 'Gyre' pattern (gyro: no recoil in zero-g; caseless; strings of 8)",5)])
 add("stub","U","B",[("Rotary SMG, 'Hive Spinner' pattern (spin up a beat, then strings of 12; 60-round drum; loud)",3)])
 add("stub","R","B",[("Riot SMG, Arbites pattern (shock rounds: CON 13 or stunned; 50-round drum; strings of 6)",6)])
+add("stub","U","MF",[("Bullpup SMG, 'Kasr Adder' pattern (stub; 32-round mag behind the grip; strings of 10, first 4 shots no recoil; +1 quick-draw; reload a full beat)",4)])
 add("stub","R","BF",[("Submachine gun, 'Kasr Scorpion' pattern (fastest: strings of 18, recoil 2; 40-round mag; every attachment slot)",5)])
 add("stub","L","BF",[("Needle SMG, Assassinorum pattern (silent toxin darts; strings of 4; CON 13 or a step)",40)])
 add("las","U","MF",[("Las bullpup SMG, 'Kasr Volt' pattern (lasgun punch; strings of 8; 40 shots a pack; heat 1 per 10)",4)])
