@@ -1548,6 +1548,9 @@ wishes to help you"), and presses the seal onto the gear that earned it. Then th
 - **Burn it:** once, when you choose, you call on the seal for something bigger. **The seal burns away** (and
   its standing edge with it) until a full tally earns a new one.
 - **A piece of gear carries one deed seal** beside its purity seal.
+- **Everyone earns them:** the player and every ally in the Light. The DM keeps each one's tallies.
+- **Who burns it:** the player says when Tamsin burns his. **The allies call their own** (the DM plays them,
+  and they burn a seal when it matters to them).
 
 | Seal | Tally | While it stands | Burn it |
 | --- | --- | --- | --- |

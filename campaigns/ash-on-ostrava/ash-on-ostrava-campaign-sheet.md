@@ -215,7 +215,7 @@ Moved to `world.md` (day 36 cleanup), under the same heading.
 | Joren (penitent) | **Hard to kill** (+1 when a medic patches him up from Down), **Cool under fire** (suppression on him is -1 instead of -2), **Void-sick** (-1 in the open void, on EVA, or in zero gravity). Rolls (d30): good 22, good 22 (duplicate, rerolled 17), bad 17 |
 | Dannel (penitent) | **Lucky** (once a mission, reroll a natural 1), **Sharp memory** (+1 on INT to recall faces, routes, codes and plans), **Glass jaw** (wear-down every 2 shrugged hits instead of 3). Rolls (d30): good 10, bad 18, good 23 |
 
-**Tamsin's deed-seal tallies (codex, Deed seals; counted from day 45):** Purger 0/30 heretic kills · Charge 0/20 melee kills · Bulwark 0/10 hits taken for others · Steady-hand 0/50 kills at range · Shepherd 0/25 innocents saved · Mercy 0/15 wounded patched under fire · Unbroken 0/10 (stayed up Badly hurt, or warp/fear saves passed) · Shadow 0/20 silent takedowns.
+**Tamsin's deed-seal tallies (codex, Deed seals; counted from day 45):** Purger 0/30 heretic kills · Charge 0/20 melee kills · Bulwark 0/10 hits taken for others · Steady-hand 0/50 kills at range · Shepherd 0/25 innocents saved · Mercy 0/15 wounded patched under fire · Unbroken 0/10 (stayed up Badly hurt, or warp/fear saves passed) · Shadow 0/20 silent takedowns. **The Light's tallies (counted from day 45, by the DM):** none yet; each ally's counts are added here as they start. **Burning:** the player calls Tamsin's; the allies call their own.
 
 **Power cells (codex, Power cells; set day 44: 30 power-mode swings a cell):** Corvane's power sword **30/30**; Varga's power knife **30/30**; Nessa's power knife **30/30**.
 
