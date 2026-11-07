@@ -54,3 +54,4 @@ The DM decides; these are tendencies.
 - [The Sand-Ghosts, Tallarn (fallen company)](traitor-elites.md#the-sand-ghosts-tallarn-fallen-company)
 - [The Disowned, Vostroyan Firstborn (fallen company)](traitor-elites.md#the-disowned-vostroyan-firstborn-fallen-company)
 - [The Green Hell deserters, Catachan (fallen company)](traitor-elites.md#the-green-hell-deserters-catachan-fallen-company)
+- [The Broken Badge, renegade Arbites (fallen precinct)](traitor-elites.md#the-broken-badge-renegade-arbites-fallen-precinct)

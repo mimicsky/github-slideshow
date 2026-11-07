@@ -1,7 +1,8 @@
 # Traitor elite special teams
 
-Fallen companies of the Imperium's most famous regiments: rolled as a traitor
-elite special team (2d20 31+). The regiments are loyal; these companies broke.
+Fallen companies of the Imperium's most famous regiments, and one fallen Arbites
+precinct: rolled as a traitor elite special team (2d20 31+). The regiments and the
+Arbites are loyal; these broke.
 
 ## The Lost 88th Cadian (fallen company)
 
@@ -50,3 +51,24 @@ ever made, now working for whoever pays.
 - **Tactics:** ambush specialists: traps, tripwires, hidden positions, then a short
   violent fight with knives. In the dark or the jungle, assume they're already
   around you.
+
+## The Broken Badge, renegade Arbites (fallen precinct)
+
+(player request, Ash on Ostrava day 44.) An Adeptus Arbites precinct-fortress that went
+silent: its judges declared the Lex void and themselves the law. They still act like
+the law. They read out charges, take prisoners for confession and trial, and carry out
+their own sentences.
+- **Look:** black Arbites carapace and full helms, visors painted red, the scales of
+  the Lex scratched through on the shoulder plate, manacles chained at the belt;
+  cyber-mastiffs on short chains.
+- **Weapons:** Arbites combat shotguns with shock shells, shock mauls behind
+  suppression shields, web pistols, stun grenades, semi-auto combat shotguns.
+- **Tactics:** close-quarters law enforcement turned on you. Shield walls in
+  corridors and doorways, working in pairs (one shield, one shotgun). Mastiffs go
+  ahead to pin the runners. Web and stun first, to take prisoners; they kill
+  the ones who won't kneel. They never surrender. They are at their best indoors
+  and weakest in the open at range.
+- **Team rules:** **one in three comes with a cyber-mastiff** (2 health steps; pins
+  like a beast handler's beasts). **"HALT!", once a fight per team:** their leader's
+  command makes one target in earshot save on WIS against 13 or hesitate (-2 on
+  their next roll).
