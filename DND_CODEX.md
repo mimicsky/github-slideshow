@@ -1536,6 +1536,28 @@ priest summons them unprompted and seals a piece of their gear, chosen by the
 DM. Honour seals have no mechanical effect; they record deeds. Risk earns them,
 asking does not.
 
+#### Deed seals
+
+**Deed seals (set by the player, Ash on Ostrava day 45).** Parchment blessings for what you've *done*, beside
+the plain red purity seal. When a priest blesses you, he looks into you and names a deed ("I sense you have
+slain many heretics; the Emperor wishes to help you"). **The DM checks the record since your last deed seal for
+a deed that fits a category below** (no roll; risk earns them, asking does not), and the priest presses that
+seal onto the gear that did the deed. **A piece of gear can carry one deed seal beside its purity seal.**
+**Each works once a mission**; after that the wax is spent until a priest renews it for a fresh deed.
+
+| Seal | The deed | Once a mission |
+| --- | --- | --- |
+| **Purger's seal** (black wax) | Slew many heretics (five or more in a mission) | A hit with this weapon on a heretic, cultist or traitor **drops one extra step** |
+| **Seal of the charge** (red and gold) | Charged into the fight and carried it with strength | **+2 on the first swing after a charge**, and no fear or suppression that beat |
+| **Bulwark seal** (grey) | Shielded a comrade, took the hit for someone else | **Take a hit meant for an ally within reach** (as a bodyguard), and **+2 on the save or defence** that follows |
+| **Steady-hand seal** (blue) | Precise shooting: kills at range, the hard shot made | **Reroll one shot** with this weapon |
+| **Shepherd's seal** (white) | Saved innocents: civilians, the helpless, the lost | **One ally in sight rerolls a failed fear, break or warp save** |
+| **Seal of mercy** (green) | Saved the wounded: patched the fallen under fire | **A patch brings someone back one extra step** |
+| **Unbroken seal** (iron) | Endured: stayed up through grievous wounds, or stood against the warp | When you would go **Down, stop at Badly hurt** instead |
+| **Shadow seal** (ash grey) | Struck unseen: silent takedowns, the knife in the dark | **+2 on one stealth roll** |
+
+The player may propose more. They should be about this strong, and fit a deed.
+
 ### Weapon blessings
 
 The Darktide system, adapted. A tech-priest consecrates a weapon to the
