@@ -483,6 +483,13 @@
   "sellers": "B"
  },
  {
+  "name": "Heavy SMG, 'Orlock' pattern (steel and wood; heavy stub, through flak on any hit; 45-round mag; strings of 8; never jams; no attachments)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Bullpup SMG, 'Kasr Adder' pattern (stub; 32-round mag behind the grip; strings of 10, first 4 shots no recoil; +1 quick-draw; reload a full beat)",
   "tv": 4,
   "cat": "stub",

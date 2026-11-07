@@ -184,6 +184,20 @@ barrel** pokes out ahead of a short top rail with flip-up sights. A **32-round m
 - Stub rounds: **through flak on a solid hit.** The top rail takes an optic; the threaded barrel takes a muzzle
   attachment.
 
+## Heavy SMG, 'Orlock' pattern
+
+**Heavy SMG, 'Orlock' pattern** (player design, Ash on Ostrava day 45; uncommon, ~3 TV; black market, Munitorum,
+Free Traders). Named for Necromunda's House of Iron, whose gangers swear by guns like it. An old-world SMG: the
+**whole gun is one piece of plain steel**, with a **wooden stock and a wooden fore-grip** bolted on like panels,
+the brass thrown out of a **port on top**, and a **45-round straight magazine** that feeds straight up into it.
+Heavy stub rounds.
+- Strings of up to **8**, no hit bonuses in the string (misses still -1); **recoil 1.**
+- **Heavy rounds:** good on flesh; **through flak on any hit**; **carapace on a raw 19-20.**
+- **Never jams:** like the Kasr Frontier, it ignores gun condition.
+- **No attachment slots at all:** it is what it is.
+- **Heavy and steady:** the wooden stock makes single aimed shots **+1** when it's shouldered.
+- A magazine is about five strings; a fresh one takes half a beat.
+
 ## Macragge service pistol
 
 **Macragge service pistol** (player design, epic: an exotic find, natural 20 only;
