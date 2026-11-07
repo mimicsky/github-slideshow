@@ -1778,6 +1778,13 @@
   "sellers": "AF"
  },
  {
+  "name": "Seeker shurikens, Mechanicus pattern (4; folding plasteel stars; ~15 m; dig in on a hit, -1 till torn out; return on a miss)",
+  "tv": 8,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
   "name": "Blaze force sword (psyker only)",
   "tv": 45,
   "cat": "melee",

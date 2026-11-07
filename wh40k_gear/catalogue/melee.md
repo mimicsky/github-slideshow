@@ -101,6 +101,20 @@ drops one health step. A knife is lost (dropped, not broken) only on a natural 1
 success 6; near miss 4; fail, the ingot is wasted; natural 20, 6 masterwork
 (+1 to throw).
 
+## Seeker shurikens, Mechanicus pattern
+
+**Seeker shurikens, Mechanicus pattern** (player design, Ash on Ostrava day 45; rare, ~8 TV for 4;
+Mechanicus, Free Traders). Throwing stars of **sharpened plasteel** whose blades **fold away** into a flat
+disc for carrying (safe in a pocket, **+1 to keep hidden**). A **sensor** in the hub snaps the blades out in
+flight and knows whether it struck or missed.
+- **Thrown ~15 m;** chains of up to 3 a beat, like throwing knives (a fan throw works too).
+- **Plasteel edges:** easily through flak; **through carapace on a solid hit.**
+- **On a hit it digs in:** it stays lodged, and the target takes **-1 on all rolls** until they spend a move
+  tearing it out.
+- **On a miss it comes back:** the sensor turns it in the air, it folds its blades, and it **drops back into
+  the thrower's hand** at the end of the beat, ready to throw again.
+- **Natural 1:** the sensor glitches; it clatters off somewhere and has to be found after the fight.
+
 ## Fan throw (three throwing knives)
 
 **Fan throw** (a throw for any throwing knives, not an item; Ash on Ostrava, day 36, the player's design,
