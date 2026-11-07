@@ -18,6 +18,20 @@ pistol through it without giving up the cover.
 **Storm shield** (rare, 30 TV): a shield with a power field generator.
 **+3 on the defender\'s roll (block or parry), three-quarters cover from the front.**
 
+## Compact power shield, 'Praesidium' pattern
+
+**Compact power shield, 'Praesidium' pattern** (player design, Ash on Ostrava day 44; rare, ~35 TV;
+Mechanicus, Free Traders). Named for the Custodes' shields. Folded, it's **four small flat plasteel plates
+held together round a circular emitter**, worn on the forearm. Press the emitter and it **expands into a
+see-through power field the size of a riot shield.** Very light: no penalty to carry or move.
+- **Off: a buckler.** +1 to parry; no cover.
+- **On (no beat to wake it):** **+2 to block or parry, three-quarters cover from the front**, and **it works
+  as a refractor field against hits from the front**: light hits stopped automatically, heavy hits stopped
+  on a d6 of 5-6 (codex, Refractor field). You can see through it.
+- **Power:** it runs on **power cells, with two cell slots: 60 charge in all.** **Each beat it's on costs 1;
+  each hit it stops costs 1.** At 0 it folds back to a buckler until a cell is swapped (a beat) or recharged
+  at a coupling.
+
 ## Slab shield (Ogryn)
 
 **Slab shield** (enemy only): Ogryn-sized; no human can carry it in a fight.

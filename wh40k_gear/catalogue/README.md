@@ -143,6 +143,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Boarding shield](kit.md#boarding-shield)
 - [Arbitrator shield](kit.md#arbitrator-shield)
 - [Storm shield](kit.md#storm-shield)
+- [Compact power shield, 'Praesidium' pattern](kit.md#compact-power-shield-praesidium-pattern) (buckler off; field on, 60 charge)
 - [Slab shield (Ogryn)](kit.md#slab-shield-ogryn)
 - [Makeshift shield](kit.md#makeshift-shield)
 - [Cogitator shield (scrap)](kit.md#cogitator-shield-scrap)

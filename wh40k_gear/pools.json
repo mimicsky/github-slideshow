@@ -1687,6 +1687,13 @@
   "sellers": "AMF"
  },
  {
+  "name": "Compact power shield, 'Praesidium' pattern (folds to a buckler; on: +2 block, 3/4 cover, refractor from the front; 2 cells, 60 charge, 1 a beat and 1 a hit)",
+  "tv": 35,
+  "cat": "kit",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
   "name": "Fire bottle (scrap firebomb; ~15 m; 2 m pool, dive 12 or alight; dud on a d6 of 1)",
   "tv": 0.1,
   "cat": "explosive",
