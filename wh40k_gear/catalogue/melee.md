@@ -111,6 +111,22 @@ fighting a single opponent.
 **Omnissian power sword** (rare, 32 TV): Mechanicus-made; its field never
 flickers, and it cuts machines and servitors at +2.
 
+## Relic blade, 'Thorian' pattern
+
+**Relic blade, 'Thorian' pattern** (player design, Ash on Ostrava day 44; rare, ~40 TV; Mechanicus,
+Ecclesiarchy, Free Traders). Named for Sebastian Thor, the saint who remade the Ecclesiarchy. A
+two-handed greatblade with a **forged ceramite blade** and a **power field that is charged up**, not
+left running. **Mostly carried by prestigious zealot champions of the Ministorum and by the Adepta
+Sororitas**; anyone else holding one will be asked how they came by it.
+- **Two-handed and heavy:** melee chains of up to **2 swings** (+1 with Extra Attack). No pistol in
+  the off hand, no shield. **STR 30+**, or -2 on every swing.
+- **Uncharged:** a heavy edge: **through flak on any hit, through carapace on a solid hit.**
+- **Ceramite blade:** never breaks; can block a chainsword or a power weapon without being cut.
+- **Charge:** spend a beat charging the field (you can still defend that beat, but not strike).
+  **For the next 3 swings it hits as a power weapon** (through power armour) **and a hit drops one
+  extra step.** Then the field vents, and it needs another beat to charge again.
+- **Heavy:** defenders get **+1** to block or parry it.
+
 ## Paired transonic blades
 
 **Paired transonic blades** (rare, 30 TV): two weapons (dual-wielding: +1 swing and +1 on attacks; codex house rule 5).

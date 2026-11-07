@@ -1631,6 +1631,13 @@
   "sellers": "MAF"
  },
  {
+  "name": "Relic blade, 'Thorian' pattern (two-handed ceramite greatblade; charge a beat: 3 swings as a power weapon, +1 step a hit; zealot champions and the Sororitas)",
+  "tv": 40,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "AEF"
+ },
+ {
   "name": "Blaze force sword (psyker only)",
   "tv": 45,
   "cat": "melee",
