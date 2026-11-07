@@ -101,6 +101,17 @@ is part of the move.
 
 **Pistol holster** (common, 0.25 TV): hip or chest; the quick-draw rig (0.5 TV) is faster.
 
+## Mag-strip holster
+
+**Mag-strip holster** (uncommon; Mechanicus, Munitorum, Free Traders; player design, Ash on Ostrava day 44).
+A thin magnetic strip that clips onto anything: a belt, a strap, armour plate, a pack. It holds any metal
+weapon to it with real force, so nothing shakes it loose (a fall, a jump, a hard landing), but you **peel**
+it off the strip in one easy motion. Lightweight, takes up almost no space. **Three sizes:** small (pistols,
+knives; 0.75 TV), medium (machine pistols, carbines, swords; 1 TV), large (long guns, heavy blades; 1.5 TV).
+- **Guns:** **+2 on the quick-draw**, on the first shot after drawing.
+- **Melee:** **+2 on the first move after drawing**, attack or defence (the wielder's choice).
+- One holster per weapon (it doesn't stack with a quick-draw rig on the same gun).
+
 ## Range-finder sight
 
 **Range-finder sight** (rare, 10 TV): **+1 on shooting past ~30 m.** Stacks with

@@ -157,6 +157,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Belt side-pouch](kit.md#belt-side-pouch)
 - [Back gun-scabbard / heavy sling mount](kit.md#back-gun-scabbard--heavy-sling-mount)
 - [Pistol holster](kit.md#pistol-holster)
+- [Mag-strip holster](kit.md#mag-strip-holster) (3 sizes; +2 first draw)
 - [Range-finder sight](kit.md#range-finder-sight)
 - [Extended magazine kits](kit.md#extended-magazine-kits)
 - [Power weapon tuning kit](kit.md#power-weapon-tuning-kit)

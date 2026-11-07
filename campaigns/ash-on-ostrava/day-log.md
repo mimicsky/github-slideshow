@@ -22,3 +22,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1808: Tamsin to Varga: not his to say; she thinks of something and he'll judge it; but it'd be something that rains down, literally. Varga, after a long chew: frags off a bandolier on the way down, and something in her off hand that empties fast while she drops. She'll draw it up for Dace and Ferro.
 - ~1905: Tamsin to the bridge for the night (Kell's list: 'ALL NIGHT: THE BOSS'). Mira at the helm on the night watch.
 - ~1906: Tamsin in Teo's seat: 'He knows better, that's what.' (OOC rule, the player: power weapons run on cells, 30 power-mode swings a cell; codex Power cells.)
+- ~2205: Tamsin to Mira: 'I remember when we first met and you argued with me the first day... you probably thought I was another heartless man.' Mira: she did, for about a week; heartless men don't sit up all night for their crew.

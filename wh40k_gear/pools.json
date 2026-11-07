@@ -1666,6 +1666,27 @@
   "sellers": "B"
  },
  {
+  "name": "Mag-strip holster, small (pistols, knives; +2 first draw)",
+  "tv": 0.75,
+  "cat": "kit",
+  "rarity": "U",
+  "sellers": "AMF"
+ },
+ {
+  "name": "Mag-strip holster, medium (carbines, machine pistols, swords; +2 first draw)",
+  "tv": 1,
+  "cat": "kit",
+  "rarity": "U",
+  "sellers": "AMF"
+ },
+ {
+  "name": "Mag-strip holster, large (long guns, heavy blades; +2 first draw)",
+  "tv": 1.5,
+  "cat": "kit",
+  "rarity": "U",
+  "sellers": "AMF"
+ },
+ {
   "name": "Fire bottle (scrap firebomb; ~15 m; 2 m pool, dive 12 or alight; dud on a d6 of 1)",
   "tv": 0.1,
   "cat": "explosive",
