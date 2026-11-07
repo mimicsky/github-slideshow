@@ -1673,6 +1673,13 @@
   "sellers": "B"
  },
  {
+  "name": "Sticky vortex grenade (Mechanicus; 3 s fuse; can't be thrown back; ~10 m warp shockwave: blown back and knocked flat, ~3 m also a step; daemons two steps)",
+  "tv": 25,
+  "cat": "explosive",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
   "name": "Thunder hammer, Crucis pattern (intact; heavy, slow; thunderclap: two steps and knocked flat)",
   "tv": 50,
   "cat": "melee",

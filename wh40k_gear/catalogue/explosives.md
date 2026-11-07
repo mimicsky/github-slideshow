@@ -128,6 +128,19 @@ minutes from a bottle, promethium and a rag). A hive gang's firebomb: **weaker t
   light it).
 - **Natural 1:** the rag drips and catches the thrower's sleeve: **the thrower is alight.**
 
+## Sticky vortex grenade (Mechanicus)
+
+**Sticky vortex grenade** (rare, ~25 TV; Mechanicus, Free Traders; player design, Ash on Ostrava day 44).
+A Mechanicus-forged sphere the size of a fist, smooth but for one small stud. **Click the stud, throw it,
+and three seconds later it goes off**: a blast of raw warp energy that tears outward as a shockwave.
+Carrying one draws questions from the Ordos, and from any tech-priest who sees it.
+- **Sticky:** its skin grips whatever it touches, so it **can't be thrown back or kicked away**.
+- **Shockwave, ~10 m:** everyone in it is **blown back ~5 m and knocked flat** (they spend their next beat
+  getting up). Armour doesn't help against the shove, and walls don't stop the wave.
+- **Close in, ~3 m:** they **also drop a step.**
+- **Warp:** a psyker caught in it rolls the Perils trigger; **daemons and warp-things in it drop two steps.**
+- It doesn't care whose side you're on: indoors, it hits the thrower's own people too.
+
 ## Grenades: throwing and the standard types
 
 Set by the player, Ash on Ostrava session 10.

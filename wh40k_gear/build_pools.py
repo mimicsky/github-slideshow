@@ -155,6 +155,7 @@ add("melee","C","B",[("Chain-flail (scrap; wraps a block or parry: next swing +1
 add("melee","C","MB",[("Grox-prod (farm shock prod; two-handed, long; CON 13 or stunned; 6 jolts)",1)])
 add("kit","C","B",[("Cogitator shield (scrap; +2 block, half cover; sparks; one shock bash a fight; -1 DEX rolls)",1.5)])
 add("explosive","C","B",[("Fire bottle (scrap firebomb; ~15 m; 2 m pool, dive 12 or alight; dud on a d6 of 1)",0.1)])
+add("explosive","R","AF",[("Sticky vortex grenade (Mechanicus; 3 s fuse; can't be thrown back; ~10 m warp shockwave: blown back and knocked flat, ~3 m also a step; daemons two steps)",25)])
 add("melee","R","MAF",[("Thunder hammer, Crucis pattern (intact; heavy, slow; thunderclap: two steps and knocked flat)",50),("Power falchion (duelling blade)",28),("Omnissian power sword (Mechanicus)",32),("Transonic blades, paired (Skitarii)",30)])
 # Player design (Ash on Ostrava day 44): rules in catalogue/melee.md.
 add("melee","R","AEF",[("Relic blade, 'Thorian' pattern (two-handed ceramite greatblade; charge a beat: 3 swings as a power weapon, +1 step a hit; zealot champions and the Sororitas)",40)])
