@@ -1792,6 +1792,13 @@
   "sellers": "AEF"
  },
  {
+  "name": "Tactical breaching axe, 'Kasr Sapper' pattern (plasteel, full tang; one or two hands; +2 STR to force doors; can't break)",
+  "tv": 4,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
   "name": "Great chain axe, 'Butcher' pattern (two-handed; through heavy carapace, power armour on 18+; +1 step on flesh; STR 30+)",
   "tv": 18,
   "cat": "melee",

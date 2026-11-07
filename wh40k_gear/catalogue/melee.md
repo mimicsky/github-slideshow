@@ -200,6 +200,18 @@ of Khorne's Berzerkers, who love them; Imperial forges make them too.
 - **Heavy:** defenders get **+1** to block or parry it. **Loud:** everyone nearby hears it running.
 - **Natural 1:** the chain throws a tooth and stalls; **a beat to rev it back up.**
 
+## Tactical breaching axe, 'Kasr Sapper' pattern
+
+**Tactical breaching axe, 'Kasr Sapper' pattern** (player design, Ash on Ostrava day 45; uncommon, ~4 TV;
+Munitorum, Free Traders). A better firefighter's axe: **solid plasteel, full tang**, a broad axe head on one
+side and a **prying spike and claw** on the other, a long enough haft for big swings and a choke grip for
+close work.
+- **One or two hands;** melee chains of up to **2**; **+1 to hit two-handed** (the big swing).
+- **Plasteel head:** through flak on any hit; **through carapace on a solid hit.**
+- **Breaching:** **+2 on STR rolls to force doors, hatches, lockers, crates and shutters**; a light door or
+  hatch goes in a beat. The claw hooks a shield rim: **-1 to the target's next block** after a hooking swing.
+- **Can't break:** full-tang plasteel; prying, levering and hammering never snap it.
+
 ## Thunder hammer, intact
 
 **Thunder hammer, intact** (rare, 50 TV): two-handed, devastating. Every hit
