@@ -1127,6 +1127,118 @@
   "sellers": "MF"
  },
  {
+  "name": "Shock shells (box; Arbites combat shotgun)",
+  "tv": 1.5,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Subsonic stub rounds (box; Kasr Whisper)",
+  "tv": 0.75,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Shock-round drum (50; Arbites riot SMG)",
+  "tv": 2,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "B"
+ },
+ {
+  "name": "Caseless stub rounds (box; Navy Gyre boarding SMG)",
+  "tv": 1,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Frag missile (missile launcher)",
+  "tv": 2,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Heavy bolter belt",
+  "tv": 10,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Autocannon shells (belt)",
+  "tv": 4,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Krak missile (missile launcher)",
+  "tv": 4,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Mortar rounds (6)",
+  "tv": 2,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "M"
+ },
+ {
+  "name": "RPG rounds (2)",
+  "tv": 2,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MB"
+ },
+ {
+  "name": "Lascannon power pack",
+  "tv": 5,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "MA"
+ },
+ {
+  "name": "Valkyrie bolt-rocket reload (6 rockets)",
+  "tv": 12,
+  "cat": "vehicle",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Rivets (hopper of 20; rivet gun)",
+  "tv": 0.1,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Spare harpoon spear (sump harpoon; when a cable is cut)",
+  "tv": 0.2,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Pipe-bomb (pipe-bomb mortar or thrown)",
+  "tv": 0.1,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Vehicle battery (battery las: 15 shots; recharges at a coupling in ~2 hours)",
+  "tv": 0.5,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
   "name": "Hellstrike missile (Valkyrie or Bone'ead launcher)",
   "tv": 8,
   "cat": "ammo",
