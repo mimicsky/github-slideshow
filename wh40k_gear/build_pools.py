@@ -150,7 +150,7 @@ add("melee","C","MB",[("Hive shank (scrap knife)",0.1),("Scrap throwing knives (
 # Player design (Ash on Ostrava day 44): rules in catalogue/melee.md.
 add("melee","C","B",[("Pipe pick (scrap war pick; two-handed; through carapace on a solid hit; the point snaps off in the plate on a d6 of 1)",0.25)])
 add("melee","C","B",[("Railroad spike knife (scrap; +2 to hide; stab only; a hit forces CON 12 or the wound festers, -1 till cleaned)",0.1)])
-add("melee","U","B",[("Syringe spike (scrap injector; long needle, stab only, no parry; 3 doses, one a hit; uncanny)",0.75)])
+add("melee","U","B",[("Syringe spike (scrap injector; long needle, stab only, no parry; 3 doses, one a hit)",0.75)])
 add("melee","R","MAF",[("Thunder hammer, Crucis pattern (intact; heavy, slow; thunderclap: two steps and knocked flat)",50),("Power falchion (duelling blade)",28),("Omnissian power sword (Mechanicus)",32),("Transonic blades, paired (Skitarii)",30)])
 # Player design (Ash on Ostrava day 44): rules in catalogue/melee.md.
 add("melee","R","AEF",[("Relic blade, 'Thorian' pattern (two-handed ceramite greatblade; charge a beat: 3 swings as a power weapon, +1 step a hit; zealot champions and the Sororitas)",40)])
