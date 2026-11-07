@@ -167,6 +167,7 @@ add("melee","R","MAF",[("Thunder hammer, Crucis pattern (intact; heavy, slow; th
 add("melee","R","AEF",[("Relic blade, 'Thorian' pattern (two-handed ceramite greatblade; charge a beat: 3 swings as a power weapon, +1 step a hit; zealot champions and the Sororitas)",40)])
 add("melee","R","AF",[("Power odachi, 'Eversor' pattern (light curved ceramite blade, shredding teeth; power stud; one or two hands; CON 13 or a step more)",50)])
 add("melee","R","AF",[("Seeker shurikens, Mechanicus pattern (4; folding plasteel stars; ~15 m; dig in on a hit, -1 till torn out; return on a miss)",8)])
+add("melee","R","AF",[("Collapsing spear, 'Ordo Sicarius' pattern (folds to a forearm cylinder, +2 hide; reach +1 strike first; thrown ~20 m)",12)])
 add("melee","R","F",[("Blaze force sword (psyker only)",45),("Blaze force greatsword (psyker only)",60)])
 add("melee","R","E",[("Blessed power maul (Ecclesiarchy)",28),("Sororitas power sword",32)])
 add("melee","R","B",[("Assassin's mono-wire garrotte",6),("Needle-blade (toxin)",8)])

@@ -1785,6 +1785,13 @@
   "sellers": "AF"
  },
  {
+  "name": "Collapsing spear, 'Ordo Sicarius' pattern (folds to a forearm cylinder, +2 hide; reach +1 strike first; thrown ~20 m)",
+  "tv": 12,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
   "name": "Blaze force sword (psyker only)",
   "tv": 45,
   "cat": "melee",

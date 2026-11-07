@@ -115,6 +115,19 @@ flight and knows whether it struck or missed.
   the thrower's hand** at the end of the beat, ready to throw again.
 - **Natural 1:** the sensor glitches; it clatters off somewhere and has to be found after the fight.
 
+## Collapsing spear, 'Ordo Sicarius' pattern
+
+**Collapsing spear, 'Ordo Sicarius' pattern** (player design, Ash on Ostrava day 45; rare, ~12 TV; Free
+Traders, Mechanicus; Ordo issue). Named for the Inquisition's ordo that watches the Officio Assassinorum.
+Carried by **assassins and Inquisition strike teams.** Folded, it's a **plain cylinder about a forearm long**;
+**one press of a stud and it shoots out to a full spear**, locking rings turning into place down the shaft.
+Light plastek inside, a sharpened plasteel skin and head outside.
+- **Folded:** **+2 to keep it hidden.** **Unfolding takes no beat.**
+- **In the hand:** one or two hands; **long: +1 to strike first**; melee chains of up to 2. **Through flak on
+  any hit; through carapace on a solid hit.** The locked shaft takes a block like a staff and doesn't break.
+- **Thrown:** ~20 m, as a throwing weapon: **through flak on any hit, carapace on a solid hit**. A thrown spear
+  stays where it lands until someone picks it up.
+
 ## Fan throw (three throwing knives)
 
 **Fan throw** (a throw for any throwing knives, not an item; Ash on Ostrava, day 36, the player's design,
