@@ -54,7 +54,7 @@ side firing twice as fast, fed from a **belt box** that sits underneath and feed
 top, and **no sight at all**: it's made to spray and pray.
 - **Brutes only: STR 50+** (Ogryn-sized). Anyone weaker can only fire it from a mount, at -3.
 - **Strings of up to 16** (twice a heavy stubber), no hit bonuses in the string, and **-1 on every shot** (no
-  sight). **Recoil 1 standing, 2 on the move.**
+  sight). **Recoil 2 standing, 3 on the move.**
 - **Hits as a heavy stubber:** through flak and carapace; heavy carapace shrugs it at range.
 - **Heavy suppression:** whoever it fires at takes **-3 on their shots** while it keeps firing, hit or miss
   (counts once; it replaces the heavy stubber's -2).
