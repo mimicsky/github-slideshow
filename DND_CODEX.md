@@ -1466,7 +1466,7 @@ Wounding, stunning or disarming the psyker breaks a charge, as with the staff.
 #### Quick powers (no Perils)
 
 **Quick powers (set by the player, Ash on Ostrava day 45).** Fast powers that need only a roll: **no charge
-and no Perils trigger.** **Every psyker knows both**, on top of their rolled powers. The power roll is
+and no Perils trigger.** **Every psyker knows all three**, on top of their rolled powers. The power roll is
 **d20 + WIS** against the DM's hidden number for the target (as a shot).
 - **Head Taker.** The psyker reaches through the warp into one target's head (~30 m, line of sight) and
   strikes. **If the power roll lands, roll a d20:** **1-5** nothing happens; **6-10** the target is
@@ -1476,6 +1476,11 @@ and no Perils trigger.** **Every psyker knows both**, on top of their rolled pow
   to 3 a beat, like throwing knives). A hit lands like a throwing knife, and then the target makes a **CON
   save against 13 or the crystal burns them: -1 on all rolls for the rest of the fight.** **Already burned
   and burned again:** they **drop an extra health step** instead (the -1 doesn't stack).
+- **Warp Push.** A shove of raw warp force at one target (~15 m, line of sight). **If the power roll lands,
+  roll a d20:** **1-8** a push: they're shoved back a few metres (up to ~10 m), off balance but on their
+  feet; **9-13** they're **sent flying and land flat on their back**, and make a **CON save against 13 or drop
+  a health step**; **14-20** they're **sent flying and slammed into something** (the ground, a wall, the
+  ceiling): they **drop a health step and lose their next beat.**
 
 ### Custom weapons and crafting
 
