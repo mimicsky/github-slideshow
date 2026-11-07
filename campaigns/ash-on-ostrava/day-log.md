@@ -10,3 +10,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 
 - ~0600: Dawn on the bridge after a quiet night (warp day 4, the last full day). Tamsin: 'It's too quiet... it's plotting.' Mira: a day and a half left, then real space.
 - ~0605: Tamsin: 'Come in, Ferro... what's going on?' Ferro: tonight the same watch; but tomorrow, translation: the field must cycle down for a few seconds as the ship drops out, the door's weakest moment; if it means to try, it will try then. He wants Tamsin at the node at translation, and the Light kitted.
+- ~0607: Tamsin: 'I'll be there... with the knife and my chainsword... it won't get anything but death.' **Translation plan: Tamsin and Ferro at the node at ~1200 day 46; the Light kitted and ready.** Ferro to tell Kell.
