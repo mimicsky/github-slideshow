@@ -149,6 +149,7 @@ add("melee","R","BF",[("Plasteel throwing knives, 'Callidus' pattern, wavy blade
 add("melee","C","MB",[("Hive shank (scrap knife)",0.1),("Scrap throwing knives (set of 4)",0.4),("Combat axe, Rashad pattern (fast, light)",1)])
 # Player design (Ash on Ostrava day 44): rules in catalogue/melee.md.
 add("melee","C","B",[("Pipe pick (scrap war pick; two-handed; through carapace on a solid hit; the point snaps off in the plate on a d6 of 1)",0.25)])
+add("melee","C","B",[("Railroad spike knife (scrap; +2 to hide; stab only; a hit forces CON 12 or the wound festers, -1 till cleaned)",0.1)])
 add("melee","R","MAF",[("Thunder hammer, Crucis pattern (intact; heavy, slow; thunderclap: two steps and knocked flat)",50),("Power falchion (duelling blade)",28),("Omnissian power sword (Mechanicus)",32),("Transonic blades, paired (Skitarii)",30)])
 # Player design (Ash on Ostrava day 44): rules in catalogue/melee.md.
 add("melee","R","AEF",[("Relic blade, 'Thorian' pattern (two-handed ceramite greatblade; charge a beat: 3 swings as a power weapon, +1 step a hit; zealot champions and the Sororitas)",40)])
@@ -267,7 +268,7 @@ E = {
   "weapon": [("Pipe rifle (scrap)","C"),("Rattler (scrap SMG)","C"),("Junk shotgun (scrap double-pipe)","C"),("Nailer (scrap scattergun)","C"),("Torch-thrower (scrap flamer)","C"),("Rivet gun (scrap)","U"),("Battery las (scrap)","U"),("Sump harpoon (scrap)","U"),("Bolt-pipe (scrap, one bolt round)","R"),("Autogun, Agripinaa","C"),("Stub automatic","C"),("Stub revolver","C"),("Autopistol","C"),("Lasgun, Kantrael M36 (stolen)","C"),
              ("Scrap autogun with drum","U"),("Sawn-off shotgun","U"),("Hive-gang 'scattergun'","U"),("Lasgun, Lucius No.98 (stolen)","U"),
              ("Hellgun, Ryza pattern (stolen Guard issue)","R"),("Flamer, Ryza pattern (stolen)","R")],
-  "melee":  [("Hive shank (scrap knife)","C"),("Trench club","C"),("Cadian machete","C"),("Scrap throwing knives (set of 4)","C"),("Pipe pick (scrap war pick)","C"),
+  "melee":  [("Hive shank (scrap knife)","C"),("Trench club","C"),("Cadian machete","C"),("Scrap throwing knives (set of 4)","C"),("Pipe pick (scrap war pick)","C"),("Railroad spike knife","C"),
              ("Chain knife","U"),("Combat axe, Rashad pattern","U"),("Chainsword","U"),("Needle-blade (toxin)","R")],
   "armour": [("Rags, no armour","C"),("Flak vest","C"),("Gas mask / rebreather","C"),("Flak armour set","U"),("Carapace chest plate (stolen)","R")],
   "extra":  [("Nothing","C"),("Frag grenade","C"),("Black candles and chalk","C"),("Crude iron cult amulet","C"),("Stimm (dose)","U"),
@@ -280,7 +281,7 @@ E = {
   "weapon": [("Pipe rifle (scrap)","C"),("Rattler (scrap SMG)","C"),("Junk shotgun (scrap double-pipe)","C"),("Nailer (scrap scattergun)","C"),("Torch-thrower (scrap flamer)","C"),("Rivet gun (scrap)","U"),("Battery las (scrap)","U"),("Sump harpoon (scrap)","U"),("Bolt-pipe (scrap, one bolt round)","R"),("Autogun, Agripinaa","C"),("Autopistol","C"),("Stub automatic","C"),("Combat shotgun, pump","C"),
              ("Ganger's chain-fed autopistol","U"),("Hive-gang 'scattergun'","U"),("Auto-revolver, 'Hammerfall' pattern, stub barrel","U"),("Braced autogun (heavy barrel)","U"),
              ("Hand cannon (big-bore stubber)","U"),("Ripper gun / drum-fed shotgun","R"),("Heavy stubber","R")],
-  "melee":  [("Hive shank (scrap knife)","C"),("Combat knife","C"),("Combat axe, Rashad pattern","C"),("Scrap throwing knives (set of 4)","C"),("Pipe pick (scrap war pick)","C"),
+  "melee":  [("Hive shank (scrap knife)","C"),("Combat knife","C"),("Combat axe, Rashad pattern","C"),("Scrap throwing knives (set of 4)","C"),("Pipe pick (scrap war pick)","C"),("Railroad spike knife","C"),
              ("Chain knife","U"),("Shock baton (Arbites, stolen)","U"),("Mono-knife","U"),("Chain axe","R")],
   "armour": [("Leathers, no armour","C"),("Flak vest","C"),("Flak armour set","U"),("Mesh armour (light, quiet)","U"),("Arbites carapace (stolen)","R")],
   "extra":  [("Nothing","C"),("Frag grenade","C"),("Lho-sticks (carton)","C"),("Lock-picks, hive pattern","U"),("Combat drug 'slaught' (dose)","U"),

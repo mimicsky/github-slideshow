@@ -1610,6 +1610,13 @@
   "sellers": "B"
  },
  {
+  "name": "Railroad spike knife (scrap; +2 to hide; stab only; a hit forces CON 12 or the wound festers, -1 till cleaned)",
+  "tv": 0.1,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
   "name": "Thunder hammer, Crucis pattern (intact; heavy, slow; thunderclap: two steps and knocked flat)",
   "tv": 50,
   "cat": "melee",

@@ -19,6 +19,18 @@ gang and cult work. **Who carries them:** cultists and raiders of a Poor or Stea
   point snaps off and stays stuck in the armour.** What's left is a length of pipe: a club, and armour
   stops it.
 
+## Railroad spike knife
+
+**Railroad spike knife** (common, 0.1 TV; black market; player design, Ash on Ostrava day 44; made in
+an hour with a file, no roll). A long iron rail spike filed down to a point, with rag wound round the
+top for a grip and a guard. Rusted to the core. **Who carries them:** poor cultists, raiders, gang kids
+and prisoners: the thing up the sleeve.
+- **Easy to hide:** **+2 to keep it hidden** (Sleight of Hand, or against a search).
+- **Stab only, no slash:** a light weapon, melee chains of up to 3, but **-1 to block or parry with it**
+  (nothing to catch a blade on). Deadly on flesh; **through flak on a solid hit**; carapace stops it.
+- **Rust:** **every hit forces a CON save against 12.** On a fail the wound **festers: -1 on all rolls**
+  until a medic cleans it (a field dressing does it).
+
 ## Scrap throwing knives
 
 **Scrap throwing knives** (common, 0.4 TV for 4; player design): cheap, anyone can
