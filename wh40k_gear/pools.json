@@ -1792,6 +1792,13 @@
   "sellers": "AEF"
  },
  {
+  "name": "Tactical hand axe, 'Fenris' pattern (light bearded plasteel axe; chains of 4; hook disarms on a raw 18+; throwable)",
+  "tv": 2,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
   "name": "Tactical breaching axe, 'Kasr Sapper' pattern (plasteel, full tang; one or two hands; +2 STR to force doors; can't break)",
   "tv": 4,
   "cat": "melee",

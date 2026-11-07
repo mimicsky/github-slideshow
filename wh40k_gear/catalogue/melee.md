@@ -212,6 +212,19 @@ close work.
   hatch goes in a beat. The claw hooks a shield rim: **-1 to the target's next block** after a hooking swing.
 - **Can't break:** full-tang plasteel; prying, levering and hammering never snap it.
 
+## Tactical hand axe, 'Fenris' pattern
+
+**Tactical hand axe, 'Fenris' pattern** (player design, Ash on Ostrava day 45; uncommon, ~2 TV; Munitorum,
+Free Traders). Named for the Space Wolves' ice world, whose axes it copies. A small one-handed axe: a
+**straight, light cylinder haft** and a **curved, bearded plasteel head** in the old Fenrisian style. Built to
+be fast: a flurry of cuts, not one big blow.
+- **Light and fast:** melee chains of up to **4** (one more than other light weapons), no hit bonuses in the
+  chain (misses still -1). Good in pairs (codex, Dual-wielding).
+- **Plasteel edge:** through flak on any hit; **through carapace on a raw 18+.**
+- **Bearded hook:** on a **raw 18+** you can hook instead of cutting: **disarm** them, or **pull them off
+  balance (-2 on their next defence).**
+- **Throwable:** ~10 m, like a throwing knife.
+
 ## Thunder hammer, intact
 
 **Thunder hammer, intact** (rare, 50 TV): two-handed, devastating. Every hit

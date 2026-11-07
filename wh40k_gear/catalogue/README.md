@@ -127,6 +127,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Shock baton (Arbites)](melee.md#shock-baton-arbites)
 - [Great chain axe, 'Butcher' pattern](melee.md#great-chain-axe-butcher-pattern) (two-handed eviscerator-sized chain axe)
 - [Tactical breaching axe, 'Kasr Sapper' pattern](melee.md#tactical-breaching-axe-kasr-sapper-pattern) (plasteel, full tang; +2 to force doors)
+- [Tactical hand axe, 'Fenris' pattern](melee.md#tactical-hand-axe-fenris-pattern) (light, chains of 4; bearded hook; throwable)
 - [Thunder hammer, intact](melee.md#thunder-hammer-intact)
 - [Thunder hammer, one-handed officer's pattern](melee.md#thunder-hammer-one-handed-officers-pattern)
 - [Power falchion](melee.md#power-falchion)
