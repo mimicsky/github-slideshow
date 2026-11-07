@@ -100,6 +100,7 @@ add("melee","L","BF",[("Phase sword (Callidus; C'tan blade, ignores armour and s
 add("explosive","X","BF",[("Psyk-out grenade (Culexus; no powers for 2 turns in the burst)",20)])
 add("gear","L","BF",[("Animus speculum (Culexus; pariah only)",250),("Venenum toxin kit (injectors and poison globes)",120)])
 # --- Plasma / melta / flame ---
+add("plasma","R","AF",[("Plasma SMG, 'Kasr Spark' pattern (low-yield bolts; strings of 8, hits like a hellgun; 30 shots a standard cell; heat 1 per 6)",22)])
 add("plasma","R","MAF",[("Plasma pistol, Ryza pattern",25),("Plasma gun, Mars pattern",30),("Plasma gun, Ryza pattern",32)])
 add("plasma","U","MAF",[("Plasma cell",6)])
 add("plasma","R","AF",[("Plasma repeater, 'Kasr Furnace' break-action lever pattern (one plasma cell in the breech: 8 shots, 12 tuned; 2 lever actions a beat (shot or pump, any mix), up to 3 pumps for a charged shot, each pump uses a shot; held charge builds heat)",30)])

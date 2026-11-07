@@ -875,6 +875,13 @@
   "sellers": "BF"
  },
  {
+  "name": "Plasma SMG, 'Kasr Spark' pattern (low-yield bolts; strings of 8, hits like a hellgun; 30 shots a standard cell; heat 1 per 6)",
+  "tv": 22,
+  "cat": "plasma",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
   "name": "Plasma pistol, Ryza pattern",
   "tv": 25,
   "cat": "plasma",
