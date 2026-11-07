@@ -12,3 +12,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~0605: Tamsin: 'Come in, Ferro... what's going on?' Ferro: tonight the same watch; but tomorrow, translation: the field must cycle down for a few seconds as the ship drops out, the door's weakest moment; if it means to try, it will try then. He wants Tamsin at the node at translation, and the Light kitted.
 - ~0607: Tamsin: 'I'll be there... with the knife and my chainsword... it won't get anything but death.' **Translation plan: Tamsin and Ferro at the node at ~1200 day 46; the Light kitted and ready.** Ferro to tell Kell.
 - ~0610: Tamsin to Ferro: 'I will' (sleep). Slept ~0612-1200 (d20 13: quiet).
+- 1200: Tamsin woke (slept ~0612-1200). Lunch on; the Light on their plan; Ferro asleep after his watch; Varga waiting in the galley with a slate: her off-weapon drawing for Dace and Ferro.
