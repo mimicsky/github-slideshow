@@ -1538,25 +1538,27 @@ asking does not.
 
 #### Deed seals
 
-**Deed seals (set by the player, Ash on Ostrava day 45; reworked the same day into a grind).** Parchment
-blessings for what you've *done*, beside the plain red purity seal. **Each seal has a tally that builds across
-missions** (counted from day 45; the sheet keeps the count). When a tally is full, the next priest who
-blesses you looks into you and names it ("I sense you have slain many heretics; the Emperor wishes to help
-you"), and presses the seal onto the gear that earned it. Then that tally starts again from 0.
-- **They last:** a deed seal stays until the gear is lost or destroyed, or the seal burns (warp-fire, Perils,
-  daemon-filth: the DM's call). **A piece of gear carries one deed seal** beside its purity seal.
-- **They do more:** a small edge **all the time**, and a bigger one **once a fight.**
+**Deed seals (set by the player, Ash on Ostrava day 45; reworked the same day into a grind, then into burn
+seals).** Parchment blessings for what you've *done*, beside the plain red purity seal. **Each seal has a tally
+that builds across missions** (counted from day 45; the sheet keeps the count). When a tally is full, the next
+priest who blesses you looks into you and names it ("I sense you have slain many heretics; the Emperor
+wishes to help you"), and presses the seal onto the gear that earned it. Then that tally starts again from 0.
+- **While it stands:** a small edge **all the time.** It stays until you burn it, or the gear is lost or
+  destroyed, or the seal burns some other way (warp-fire, Perils, daemon-filth: the DM's call).
+- **Burn it:** once, when you choose, you call on the seal for something bigger. **The seal burns away** (and
+  its standing edge with it) until a full tally earns a new one.
+- **A piece of gear carries one deed seal** beside its purity seal.
 
-| Seal | Tally | Always | Once a fight |
+| Seal | Tally | While it stands | Burn it |
 | --- | --- | --- | --- |
-| **Purger's seal** (black wax) | **30 heretic kills** (cultists, traitors, heretics, the Sixth) | **+1 to hit heretics** with this weapon | A hit on a heretic **drops one extra step** |
-| **Seal of the charge** (red and gold) | **20 melee kills** | **+1 to shove, grapple or knock down** | **+2 on the first swing after a charge**, and no fear or suppression that beat |
-| **Bulwark seal** (grey) | **10 hits taken for someone else** (stepping in, shielding, covering) | **+1 on defence while an ally is within reach** | **Take a hit meant for an ally within reach**, +2 on that defence |
-| **Steady-hand seal** (blue) | **50 kills at range** | **+1 on aimed shots past ~30 m** with this weapon | **Reroll one shot** |
-| **Shepherd's seal** (white) | **25 innocents saved** (civilians, prisoners, the helpless) | **+2 to persuade or order civilians** | **An ally in sight rerolls a failed fear, break or warp save** |
-| **Seal of mercy** (green) | **15 wounded patched under fire** | **+1 on treating the wounded** | **A patch brings someone back one extra step** |
-| **Unbroken seal** (iron) | **10 times stayed up when Badly hurt**, or **10 warp or fear saves passed** | **+1 on saves against fear** | When you would go **Down, stop at Badly hurt** instead (**once a mission**, not once a fight) |
-| **Shadow seal** (ash grey) | **20 silent takedowns** | **+1 on stealth** | **+2 on one stealth roll**, or a takedown that makes no sound at all |
+| **Purger's seal** (black wax) | **30 heretic kills** (cultists, traitors, heretics, the Sixth) | **+1 to hit heretics** with this weapon | A hit on a heretic **drops two extra steps** |
+| **Seal of the charge** (red and gold) | **20 melee kills** | **+1 to shove, grapple or knock down** | **+3 on every swing of the first chain after a charge**, no fear or suppression that beat, and the target is **knocked flat** |
+| **Bulwark seal** (grey) | **10 hits taken for someone else** (stepping in, shielding, covering) | **+1 on defence while an ally is within reach** | **Take a hit meant for an ally within reach, and the seal takes it: nobody is hurt** |
+| **Steady-hand seal** (blue) | **50 kills at range** | **+1 on aimed shots past ~30 m** with this weapon | **One shot lands as a solid hit**, no roll |
+| **Shepherd's seal** (white) | **25 innocents saved** (civilians, prisoners, the helpless) | **+2 to persuade or order civilians** | **Every ally in sight passes one failed fear, break or warp save** this beat |
+| **Seal of mercy** (green) | **15 wounded patched under fire** | **+1 on treating the wounded** | **A patch brings someone back two steps** (from Down, to Hurt) |
+| **Unbroken seal** (iron) | **10 times stayed up when Badly hurt**, or **10 warp or fear saves passed** | **+1 on saves against fear** | When a hit would drop you, **you don't drop at all** |
+| **Shadow seal** (ash grey) | **20 silent takedowns** | **+1 on stealth** | **One move is unseen and unheard, no roll**: a crossing, an approach, or a takedown that makes no sound |
 
 The player may propose more seals: a tally that takes real time to fill, and an effect about this strong.
 
