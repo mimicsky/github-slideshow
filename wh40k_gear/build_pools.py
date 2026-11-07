@@ -111,6 +111,8 @@ add("launcher","U","MF",[("Grenade launcher, stand-alone",5),("Grenade launcher,
 add("heavy","C","MBF",[("Heavy stubber",4),("Heavy stubber, tripod",5)])
 # Player design (Ash on Ostrava day 44): rules in catalogue/heavy.md.
 add("heavy","R","MBF",[("Brute stubber, 'Kasr Deddog' pattern (brutes only, STR 50+; heavy stubber belts; strings of 8; recoil 1 on the move; -2 past ~30 m)",6)])
+add("heavy","R","MF",[("Hellstrike launcher, 'Bone'ead' pattern (Ogryn; brutes only, STR 50+; one Valkyrie Hellstrike a shot, reload a beat; two steps through power armour, ~4 m blast; backblast)",30)])
+add("ammo","R","MF",[("Hellstrike missile (Valkyrie or Bone'ead launcher)",8)])
 add("heavy","U","MBF",[("Mortar with 6 rounds",12)])
 add("heavy","R","MF",[("Heavy bolter, 1 belt",40),("Missile launcher (2 frag, 1 krak)",25),("Autocannon",35),("Lascannon",45),("Multilaser (crew)",30),("Rocket-propelled grenade tube (2 rounds)",10)])
 # --- Explosives ---
@@ -518,7 +520,7 @@ NEW = {
   "cultist": [("Ogryn: slab shield and a spiked club","C"),("Ogryn: ripper gun, chains wrapped round its fists","U"),("Ogryn: a cult-forged maul and a chain of skulls","U")],
   "raider":  [("Ogryn: slab shield and power maul (stolen)","U"),("Ogryn: ripper gun and a girder","C"),("Ogryn: grenadier gauntlet","R")],
   "pirate":  [("Ogryn: slab shield and boarding maul","C"),("Ogryn: ripper gun","U"),("Ogryn: grenadier gauntlet","R")],
-  "traitor": [("Ogryn: slab shield and power maul","U"),("Ogryn: ripper gun","C"),("Ogryn: grenadier gauntlet","R")],
+  "traitor": [("Ogryn: slab shield and power maul","U"),("Ogryn: ripper gun","C"),("Ogryn: grenadier gauntlet","R"),("Ogryn: Hellstrike launcher, Bone'ead pattern, and 2 missiles","R")],
   "traitor_elite": [("Ogryn bone'ead: slab shield and power maul","U"),("Ogryn: ripper gun with a bayonet","U"),("Ogryn: grenadier gauntlet","R")],
  },
 }

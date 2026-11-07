@@ -45,6 +45,18 @@ feeds **heavy stubber belts from a box mag through an LMG-style feed tray**.
 - **Hits as a heavy stubber:** gets through flak and carapace; heavy carapace shrugs it at range. **Suppression** as the heavy stubber (-2 on the target's shots while it fires; counts once).
 - **Belts:** any heavy stubber belt, the special belts included.
 
+## Hellstrike launcher, 'Bone'ead' pattern (Ogryn)
+
+**Hellstrike launcher, 'Bone'ead' pattern** (player design, Ash on Ostrava day 45; rare, ~30 TV; Munitorum,
+Free Traders; **Hellstrike missiles ~8 TV each**). Named for the Ogryn sergeants who get the brain implant. A
+shoulder tube the size of a man, built for an Ogryn, that fires **the Valkyrie's own Hellstrike missiles**.
+- **Brutes only: STR 50+.** Anyone weaker can only fire it from a mount (a vehicle, a sandbagged tripod), at -3.
+- **One missile, one shot;** reloading the tube takes a beat. No strings.
+- **Hellstrike:** the target is hit **through power armour and light vehicles and drops two steps.** The
+  blast catches everyone else within **~4 m**: a **dive (DEX) or drop a step.**
+- **Arming distance ~10 m:** closer than that the warhead doesn't arm; it's a hard hit, one step, no blast.
+- **Backblast:** anyone **~3 m behind the tube** drops a step. **Loud:** the whole area hears it.
+
 ## Man-portable multi-laser
 
 **Man-portable multi-laser** (rare, 15 TV; Munitorum, Free Traders; rare loot; Ash on Ostrava, day 34, DM

@@ -1001,6 +1001,20 @@
   "sellers": "MBF"
  },
  {
+  "name": "Hellstrike launcher, 'Bone'ead' pattern (Ogryn; brutes only, STR 50+; one Valkyrie Hellstrike a shot, reload a beat; two steps through power armour, ~4 m blast; backblast)",
+  "tv": 30,
+  "cat": "heavy",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Hellstrike missile (Valkyrie or Bone'ead launcher)",
+  "tv": 8,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
   "name": "Mortar with 6 rounds",
   "tv": 12,
   "cat": "heavy",
