@@ -1792,6 +1792,13 @@
   "sellers": "AEF"
  },
  {
+  "name": "Omnissian axe (Mechanicus power axe; cog head; +1 step on machines; +2 tech rolls for a tech-priest)",
+  "tv": 38,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "A"
+ },
+ {
   "name": "Hydraulic push axe, 'Kasr Ram' pattern (two-handed; after a hit, punch: one armour tier more and +1 step, once a beat, 6 a canister; STR 30+)",
   "tv": 12,
   "cat": "melee",

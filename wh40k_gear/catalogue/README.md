@@ -134,6 +134,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Thunder hammer, one-handed officer's pattern](melee.md#thunder-hammer-one-handed-officers-pattern)
 - [Power falchion](melee.md#power-falchion)
 - [Omnissian power sword](melee.md#omnissian-power-sword)
+- [Omnissian axe](melee.md#omnissian-axe) (Mechanicus power axe; machine-breaker; +2 tech rolls for a tech-priest)
 - [Relic blade, 'Thorian' pattern](melee.md#relic-blade-thorian-pattern) (two-handed, ceramite, charged field)
 - [Power odachi, 'Eversor' pattern](melee.md#power-odachi-eversor-pattern) (light, ceramite, shredding teeth, power stud)
 - [Paired transonic blades](melee.md#paired-transonic-blades)

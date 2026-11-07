@@ -168,6 +168,7 @@ add("explosive","R","AF",[("Sticky vortex grenade (Mechanicus; 3 s fuse; can't b
 add("melee","R","MAF",[("Thunder hammer, Crucis pattern (intact; heavy, slow; thunderclap: two steps and knocked flat)",50),("Power falchion (duelling blade)",28),("Omnissian power sword (Mechanicus)",32),("Transonic blades, paired (Skitarii)",30)])
 # Player design (Ash on Ostrava day 44): rules in catalogue/melee.md.
 add("melee","R","AEF",[("Relic blade, 'Thorian' pattern (two-handed ceramite greatblade; charge a beat: 3 swings as a power weapon, +1 step a hit; zealot champions and the Sororitas)",40)])
+add("melee","R","A",[("Omnissian axe (Mechanicus power axe; cog head; +1 step on machines; +2 tech rolls for a tech-priest)",38)])
 add("melee","R","AM",[("Hydraulic push axe, 'Kasr Ram' pattern (two-handed; after a hit, punch: one armour tier more and +1 step, once a beat, 6 a canister; STR 30+)",12),("Pressure canister (hydraulic push axe, 6 punches)",0.5)])
 add("melee","U","MF",[("Heavy war axe, 'Kasr Gate' pattern (two-handed plasteel, double head: a missed or blocked swing returns at +1; spear butt +1 strike first; STR 30+)",8)])
 add("melee","U","MF",[("Tactical hand axe, 'Fenris' pattern (light bearded plasteel axe; chains of 4; hook disarms on a raw 18+; throwable)",2)])

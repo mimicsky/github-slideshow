@@ -312,6 +312,19 @@ grip that wakes the power field.** Carried by **high authority** (Inquisitors, l
   step** as the teeth tear.
 - **Ceramite blade:** never breaks; can block a chainsword or a power weapon without being cut.
 
+## Omnissian axe
+
+**Omnissian axe** (rare, ~38 TV; **Mechanicus only**, and seldom sold to outsiders; Ash on Ostrava day 45). The
+tech-priest's badge of office and weapon: a long haft and a **power axe head shaped like half a cog**, the
+skull-in-cog of the Machine God at its heart. It is a key and a tool as much as a weapon.
+- **Two hands** (a tech-priest with a servo-arm can hold it in one); melee chains of up to **2**.
+- **Power field:** with the field on, it **hits as a power weapon** (through power armour). Power cells as usual
+  (**30 power-mode swings a cell**; codex, Power cells).
+- **Machine-breaker:** a hit on a **servitor, machine or vehicle drops one extra step.**
+- **Key and tool:** the haft carries a data-spike and interface ports. **In a tech-priest's hands, +2 on rolls to
+  repair, override, open or command machines** (doors, cogitators, servitors) it can touch.
+- Carrying one without the Mechanicus's blessing is theft from the Machine God; tech-priests take it personally.
+
 ## Paired transonic blades
 
 **Paired transonic blades** (rare, 30 TV): two weapons (dual-wielding: +1 swing and +1 on attacks; codex house rule 5).
