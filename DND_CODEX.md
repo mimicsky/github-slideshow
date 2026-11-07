@@ -1463,6 +1463,20 @@ Wounding, stunning or disarming the psyker breaks a charge, as with the staff.
 | 8 | 3 beats | **Power force charge** | Moves cover, objects and people away from or towards the psyker. Throwing someone into a wall drops them a health step; can rip weapons apart |
 | 9 | 2 beats | **Great warp shield** | A bigger warp ward that covers 2-3 people close by. Each beat it's up, roll the Perils trigger, and its range grows by 1 (1-4, then 1-5, then 1-6...) |
 
+#### Quick powers (no Perils)
+
+**Quick powers (set by the player, Ash on Ostrava day 45).** Fast powers that need only a roll: **no charge
+and no Perils trigger.** **Every psyker knows both**, on top of their rolled powers. The power roll is
+**d20 + WIS** against the DM's hidden number for the target (as a shot).
+- **Head Taker.** The psyker reaches through the warp into one target's head (~30 m, line of sight) and
+  strikes. **If the power roll lands, roll a d20:** **1-5** nothing happens; **6-10** the target is
+  **disoriented: -3 on all rolls for 2 beats**; **11-15** the target **drops a health step**; **16-20** the
+  target **drops a step and is disoriented.**
+- **Assail.** The psyker makes a shard of warp-crystal and hurls it like a throwing spike (~20 m; chains of up
+  to 3 a beat, like throwing knives). A hit lands like a throwing knife, and then the target makes a **CON
+  save against 13 or the crystal burns them: -1 on all rolls for the rest of the fight.** **Already burned
+  and burned again:** they **drop an extra health step** instead (the -1 doesn't stack).
+
 ### Custom weapons and crafting
 
 Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:
