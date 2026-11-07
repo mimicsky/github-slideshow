@@ -1508,7 +1508,8 @@ and no Perils trigger.** **Every psyker knows all three**, on top of their rolle
 
 **Ammo with every gun (Ash on Ostrava day 45, after the ammo audit):** when a new gun uses ammo the pools don't
 already sell, its ammo goes into the pools in the same change. Exotic one-off finds are the exception: their ammo
-stays scarce on purpose.
+stays scarce on purpose (the player, day 45: finding more is a season-long hunt). **When the player gets an exotic
+gun, the DM tells them at once how much ammo is in it.**
 
 Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:
 
