@@ -1792,6 +1792,13 @@
   "sellers": "AEF"
  },
  {
+  "name": "Heavy war axe, 'Kasr Gate' pattern (two-handed plasteel, double head: a missed or blocked swing returns at +1; spear butt +1 strike first; STR 30+)",
+  "tv": 8,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
   "name": "Tactical hand axe, 'Fenris' pattern (light bearded plasteel axe; chains of 4; hook disarms on a raw 18+; throwable)",
   "tv": 2,
   "cat": "melee",

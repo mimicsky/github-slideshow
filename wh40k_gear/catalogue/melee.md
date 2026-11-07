@@ -225,6 +225,18 @@ be fast: a flurry of cuts, not one big blow.
   balance (-2 on their next defence).**
 - **Throwable:** ~10 m, like a throwing knife.
 
+## Heavy war axe, 'Kasr Gate' pattern
+
+**Heavy war axe, 'Kasr Gate' pattern** (player design, Ash on Ostrava day 45; uncommon, ~8 TV; Munitorum,
+Free Traders). Named for the Cadian Gate. A two-handed war axe of **solid plasteel**: a **double-sided head**,
+a blade each way, and a **spear point** on the butt of the haft.
+- **Two-handed and heavy:** melee chains of up to **2**. **STR 30+**, or -2 on every swing.
+- **Plasteel heads:** through flak on any hit; **through carapace on a solid hit; heavy carapace on a raw 18+.**
+- **Double head:** if a swing misses or is blocked, **the return cut comes off the other blade at +1.**
+- **Spear butt:** lead with the point for a thrust: **+1 to strike first**, and it reaches someone behind you
+  or at your flank with no penalty.
+- **Heavy:** defenders get **+1** to block or parry it. **Can't break:** full plasteel.
+
 ## Thunder hammer, intact
 
 **Thunder hammer, intact** (rare, 50 TV): two-handed, devastating. Every hit
