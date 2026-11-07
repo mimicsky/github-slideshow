@@ -2,6 +2,14 @@
 
 Item rules for this category. General rules (heat, hot-shot, drop-prone, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
 
+## Las bullpup SMG, 'Kasr Volt' pattern
+
+**Las bullpup SMG, 'Kasr Volt' pattern** (Ash on Ostrava day 45; uncommon, ~4 TV; Munitorum, Free Traders). A
+compact lasgun with the **pack behind the grip** and a **finned heat sink** along the top.
+- Strings of up to **8**; **no recoil** (las). **Hits like a lasgun.** **40 shots a pack.**
+- **Heat sink:** **heat 1 per 10 shots** in a fight; at **3 heat** it vents a beat. Heat clears after venting or
+  when the fight ends.
+
 ## Las-SMG, 'Sterl' pattern
 
 **Las-SMG, 'Sterl' pattern** (player design, uncommon, 3 TV). Side-mounted pack.

@@ -455,6 +455,55 @@
   "sellers": "BF"
  },
  {
+  "name": "Silenced submachine gun, 'Kasr Whisper' pattern (subsonic stub; not heard past 10 m; strings of 6, no recoil)",
+  "tv": 4,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Boarding SMG, Navy 'Gyre' pattern (gyro: no recoil in zero-g; caseless; strings of 8)",
+  "tv": 5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Rotary SMG, 'Hive Spinner' pattern (spin up a beat, then strings of 12; 60-round drum; loud)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Riot SMG, Arbites pattern (shock rounds: CON 13 or stunned; 50-round drum; strings of 6)",
+  "tv": 6,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "B"
+ },
+ {
+  "name": "Submachine gun, 'Kasr Scorpion' pattern (fastest: strings of 18, recoil 2; 40-round mag; every attachment slot)",
+  "tv": 5,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Needle SMG, Assassinorum pattern (silent toxin darts; strings of 4; CON 13 or a step)",
+  "tv": 40,
+  "cat": "stub",
+  "rarity": "L",
+  "sellers": "BF"
+ },
+ {
+  "name": "Las bullpup SMG, 'Kasr Volt' pattern (lasgun punch; strings of 8; 40 shots a pack; heat 1 per 10)",
+  "tv": 4,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
   "name": "Stamped submachine gun, 'Munitorum Mk I' pattern (mass-produced stub SMG; safe and auto only, strings of 8; wire stock; threaded muzzle; cannibalise two into one)",
   "tv": 1,
   "cat": "stub",

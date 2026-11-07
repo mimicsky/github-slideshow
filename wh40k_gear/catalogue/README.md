@@ -16,6 +16,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 
 ## [Las weapons](las.md)
 
+- [Las bullpup SMG, 'Kasr Volt' pattern](las.md#las-bullpup-smg-kasr-volt-pattern) (lasgun punch, heat sink)
 - [Las-SMG, 'Sterl' pattern](las.md#las-smg-sterl-pattern)
 - [Las-box, 'Kasr Barr' pattern light las-LMG](las.md#las-box-kasr-barr-pattern-light-las-lmg)
 - [Heavy laspistol, 'Nocturne Ember' pattern](las.md#heavy-laspistol-nocturne-ember-pattern)
@@ -43,6 +44,12 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Machine pistol, 'Kasr Hornet' pattern](stub.md#machine-pistol-kasr-hornet-pattern)
 - [Submachine gun, 'Kasr Locust' pattern](stub.md#submachine-gun-kasr-locust-pattern) (stub SMG; auto, burst, semi; folding stock)
 - [Stamped submachine gun, 'Munitorum Mk I' pattern](stub.md#stamped-submachine-gun-munitorum-mk-i-pattern) (mass-produced; safe and auto only; wire stock)
+- [Silenced submachine gun, 'Kasr Whisper' pattern](stub.md#silenced-submachine-gun-kasr-whisper-pattern) (quiet past 10 m; subsonic)
+- [Riot SMG, Arbites pattern](stub.md#riot-smg-arbites-pattern) (shock rounds: CON 13 or stunned)
+- [Rotary SMG, 'Hive Spinner' pattern](stub.md#rotary-smg-hive-spinner-pattern) (spin up, then strings of 12)
+- [Boarding SMG, Navy 'Gyre' pattern](stub.md#boarding-smg-navy-gyre-pattern) (gyro: no recoil in zero-g; caseless)
+- [Needle SMG, Assassinorum pattern](stub.md#needle-smg-assassinorum-pattern) (silent toxin darts)
+- [Submachine gun, 'Kasr Scorpion' pattern](stub.md#submachine-gun-kasr-scorpion-pattern) (fastest: strings of 18; every attachment slot)
 - [Macragge service pistol](stub.md#macragge-service-pistol) (epic, Ultramarines)
 - [Auto-revolver, 'Hammerfall' pattern](stub.md#auto-revolver-hammerfall-pattern)
 - [Phosphor blast pistol (Mechanicus)](stub.md#phosphor-blast-pistol-mechanicus) (lights targets up; burns on a solid hit)

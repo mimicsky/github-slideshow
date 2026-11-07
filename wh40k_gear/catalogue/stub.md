@@ -114,6 +114,62 @@ your hands, and it does, on purpose.
 - **Simple:** strips and cleans in **~15 minutes**; anyone can fix it, and **two broken ones make one working
   one.** A magazine lasts about three full strings; a fresh one takes half a beat.
 
+## Silenced submachine gun, 'Kasr Whisper' pattern
+
+**Silenced submachine gun, 'Kasr Whisper' pattern** (Ash on Ostrava day 45; uncommon, ~4 TV; black market, Free
+Traders). An infiltrator's SMG: a fat **integral silencer** the length of the barrel and **subsonic stub
+rounds** from a 30-round magazine.
+- Strings of up to **6**, no hit bonuses in the string (misses still -1); **no recoil** (heavy, slow rounds).
+- **Quiet:** it **can't be heard past ~10 m**, and the muzzle doesn't flash.
+- **Subsonic:** weaker than ordinary stub: **flak stops it except on a raw 18+**; carapace stops it.
+
+## Riot SMG, Arbites pattern
+
+**Riot SMG, Arbites pattern** (Ash on Ostrava day 45; rare, ~6 TV; Arbites issue, black market). A drum-fed SMG
+for taking people alive: a **50-round drum of shock rounds** (or standard stub drums).
+- Strings of up to **6**; **recoil 1.**
+- **Shock rounds:** a hit **doesn't wound**; it forces a **CON save against 13, or the target is stunned and loses
+  their next beat.** Flak doesn't help; **carapace gives +2 on the save**; power armour ignores them.
+- With a standard drum it's an ordinary stub SMG (through flak on a solid hit).
+
+## Rotary SMG, 'Hive Spinner' pattern
+
+**Rotary SMG, 'Hive Spinner' pattern** (Ash on Ostrava day 45; uncommon, ~3 TV; black market). A ganger's mini
+rotary: **three barrels that spin** on a little motor, fed from a **60-round drum**.
+- **Spin-up:** the first beat it only spins (no shots); after that, while you keep it spinning, strings of up to
+  **12**, no hit bonuses in the string; **recoil 1.**
+- **Loud:** the whine carries across a hab block.
+- Stub rounds: **through flak on a solid hit.** Natural 1: it jams (a beat to clear).
+
+## Boarding SMG, Navy 'Gyre' pattern
+
+**Boarding SMG, Navy 'Gyre' pattern** (Ash on Ostrava day 45; uncommon, ~5 TV; Navy stores, Free Traders). A void
+boarding gun: a **gyro in the stock** and **caseless** rounds in a 40-round magazine.
+- Strings of up to **8**, no hit bonuses in the string; **recoil 1**, but **no recoil in zero-g, on a pitching deck
+  or on mag-boots** (the gyro holds it).
+- **Caseless:** no brass to float around a corridor or betray where you fired from.
+- Stub rounds: **through flak on a solid hit.**
+
+## Needle SMG, Assassinorum pattern
+
+**Needle SMG, Assassinorum pattern** (Ash on Ostrava day 45; legendary, ~40 TV; Assassinorum, by arrangement only).
+The needle pistol's big brother: a slim, silent gun that cycles **toxin darts** from a 20-dart magazine.
+- Strings of up to **4**; **no recoil; silent.**
+- **Darts:** a hit forces a **CON save against 13, or the target drops a step** (the toxin); special needle darts
+  (black-tip, tracker and so on) work as in the needle pistol.
+- Owning one is a question the Officio Assassinorum will want answered.
+
+## Submachine gun, 'Kasr Scorpion' pattern
+
+**Submachine gun, 'Kasr Scorpion' pattern** (player design, Ash on Ostrava day 45; rare, ~5 TV; Free Traders, black
+market). The **fastest-firing gun there is**: a short, angular stub SMG with a **40-round magazine** and **rails
+everywhere**.
+- Strings of up to **18**, no hit bonuses in the string (misses still -1); **recoil 2.**
+- Stub rounds: **through flak on a solid hit.**
+- **Attachment slots all over:** it takes **one attachment in every slot** (muzzle, under-barrel, stock, optic,
+  grip, magazine, trigger, barrel).
+- A magazine is about two strings; a fresh one takes half a beat.
+
 ## Macragge service pistol
 
 **Macragge service pistol** (player design, epic: an exotic find, natural 20 only;
