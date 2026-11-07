@@ -237,6 +237,20 @@ a blade each way, and a **spear point** on the butt of the haft.
   or at your flank with no penalty.
 - **Heavy:** defenders get **+1** to block or parry it. **Can't break:** full plasteel.
 
+## Hydraulic push axe, 'Kasr Ram' pattern
+
+**Hydraulic push axe, 'Kasr Ram' pattern** (player design, Ash on Ostrava day 45; rare, ~12 TV; Mechanicus,
+Munitorum engineer issue). A heavy two-handed axe whose head rides on a **hydraulic ram**: hit, then thumb the
+stud on the haft, and the blade **punches forward** into whatever it's already in.
+- **Two-handed and heavy:** melee chains of up to **2**. **STR 30+**, or -2 on every swing.
+- **Head:** through flak on any hit; through carapace on a solid hit.
+- **Punch** (after a hit, **once a beat**: the ram re-pressurises): the hit **gets through one armour tier more**
+  (carapace on any hit, heavy carapace on a solid hit) **and drops one extra step.** **6 punches a pressure
+  canister** (~0.5 TV; swapping one takes a beat).
+- **Breaching:** a punched blow wrecks locks and hinges: **+2 on STR rolls to force doors and hatches.**
+- **Natural 1 on a punched swing:** the ram jams; no punch until it's cleared (a beat).
+- **Heavy:** defenders get **+1** to block or parry it. **Loud:** the ram goes off like a pneumatic hammer.
+
 ## Thunder hammer, intact
 
 **Thunder hammer, intact** (rare, 50 TV): two-handed, devastating. Every hit

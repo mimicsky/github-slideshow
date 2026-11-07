@@ -1792,6 +1792,20 @@
   "sellers": "AEF"
  },
  {
+  "name": "Hydraulic push axe, 'Kasr Ram' pattern (two-handed; after a hit, punch: one armour tier more and +1 step, once a beat, 6 a canister; STR 30+)",
+  "tv": 12,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "AM"
+ },
+ {
+  "name": "Pressure canister (hydraulic push axe, 6 punches)",
+  "tv": 0.5,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "AM"
+ },
+ {
   "name": "Heavy war axe, 'Kasr Gate' pattern (two-handed plasteel, double head: a missed or blocked swing returns at +1; spear butt +1 strike first; STR 30+)",
   "tv": 8,
   "cat": "melee",
