@@ -649,6 +649,9 @@ against 13 or hesitates (**-2 on their next roll**). **Works in pairs** where it
 (one shield, one shotgun). **Uses web and stun grenades first** if it can take a
 prisoner. **Never surrenders.**
 
+*Side note: rolled for a new person or an ally (Rolling new people, below), an arbitrator is a
+**loyal** Arbites enforcer: same kit and rules, and the "HALT!" works for the Light.*
+
 ## Rolling new people (recruits and NPCs)
 
 Set by the player, session 9. Someone new and at least slightly important is rolled
@@ -661,6 +664,8 @@ like an enemy, from the **traitor-elite role list** (the Light counts as traitor
 2. **Role d20:** **1-15 grunt** (no role yet; grows into one in play), **16-20** a
    role from the list.
 3. A **tech-adept** roll checks for a **loyal Skitarius** (second d20, 18-20).
+4. An **arbitrator** roll (player-set, Ash on Ostrava day 44) makes them a **loyal Adeptus Arbites
+   enforcer**: the Arbitrator role's kit and rules, on our side (shield or hound, "HALT!" once a fight).
 
 ## Ogryn
 
