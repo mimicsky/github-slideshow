@@ -187,6 +187,19 @@ asleep, alive). Nessa's (campaign sheet).
 **Combat axe** (common, 1 TV): fast and light. When your swing is blocked, the
 next swing in the exchange is at +1. Weak against carapace.
 
+## Great chain axe, 'Butcher' pattern
+
+**Great chain axe, 'Butcher' pattern** (player design, Ash on Ostrava day 45; rare, ~18 TV; black market,
+Free Traders; cult forges make cruder ones). A two-handed eviscerator-sized axe: a long haft, a broad
+chain-toothed head as wide as a man's chest, and a roaring motor in the cheek. Named for the Butcher's Nails
+of Khorne's Berzerkers, who love them; Imperial forges make them too.
+- **Two-handed and heavy:** melee chains of up to **2**. **STR 30+,** or -2 on every swing.
+- **Teeth:** **through heavy carapace on any hit; ceramite on a solid hit; power armour on a raw 18+** (it
+  chews through).
+- **Gore:** a hit on someone in flak or less **drops one extra step.**
+- **Heavy:** defenders get **+1** to block or parry it. **Loud:** everyone nearby hears it running.
+- **Natural 1:** the chain throws a tooth and stalls; **a beat to rev it back up.**
+
 ## Thunder hammer, intact
 
 **Thunder hammer, intact** (rare, 50 TV): two-handed, devastating. Every hit

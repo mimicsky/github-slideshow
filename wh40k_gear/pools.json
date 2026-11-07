@@ -448,6 +448,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Submachine gun, 'Kasr Wasp' pattern (stub; 30-round mag; auto strings of 8, bursts of 4 as two rounds, semi +1 stock out; folding stock)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Phosphor blast pistol (Mechanicus; 6-chamber phosphor cylinder; strings of 3; a hit lights them up, +1 to shots at them; solid hit sets alight)",
   "tv": 14,
   "cat": "stub",
@@ -1783,6 +1790,13 @@
   "cat": "melee",
   "rarity": "R",
   "sellers": "AEF"
+ },
+ {
+  "name": "Great chain axe, 'Butcher' pattern (two-handed; through heavy carapace, power armour on 18+; +1 step on flesh; STR 30+)",
+  "tv": 18,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "BF"
  },
  {
   "name": "Power odachi, 'Eversor' pattern (light curved ceramite blade, shredding teeth; power stud; one or two hands; CON 13 or a step more)",

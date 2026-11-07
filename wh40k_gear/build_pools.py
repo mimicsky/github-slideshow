@@ -58,6 +58,7 @@ add("gear","C","MBF",[("Speedloader (auto-revolver)",0.25)])
 add("stub","U","MBF",[("Compact autogun, 'Kasr Hive' pattern (top 50-round mag; chains of 8; +1 within 10 m, -2 past 30 m)",3)])
 add("stub","R","MBF",[("Anti-materiel rifle, 'Kasr Breaker' pattern (heavy stubber rounds, 5-round box; through cover; 2 steps a hit; braced)",15)])
 add("stub","U","MBF",[("Lever-action stub rifle, 'Kasr Frontier' pattern (12-round tube; never jams; chains of 6, or 3 double-lever shots)",2.5)])
+add("stub","U","MBF",[("Submachine gun, 'Kasr Wasp' pattern (stub; 30-round mag; auto strings of 8, bursts of 4 as two rounds, semi +1 stock out; folding stock)",3)])
 add("stub","R","AF",[("Phosphor blast pistol (Mechanicus; 6-chamber phosphor cylinder; strings of 3; a hit lights them up, +1 to shots at them; solid hit sets alight)",14)])
 add("ammo","U","A",[("Phosphor cylinder (6 rounds, phosphor blast pistol)",0.5)])
 # Player design (session 9): the Kasr Trident combi-pistol. Rules in catalogue/stub.md.
@@ -167,6 +168,7 @@ add("explosive","R","AF",[("Sticky vortex grenade (Mechanicus; 3 s fuse; can't b
 add("melee","R","MAF",[("Thunder hammer, Crucis pattern (intact; heavy, slow; thunderclap: two steps and knocked flat)",50),("Power falchion (duelling blade)",28),("Omnissian power sword (Mechanicus)",32),("Transonic blades, paired (Skitarii)",30)])
 # Player design (Ash on Ostrava day 44): rules in catalogue/melee.md.
 add("melee","R","AEF",[("Relic blade, 'Thorian' pattern (two-handed ceramite greatblade; charge a beat: 3 swings as a power weapon, +1 step a hit; zealot champions and the Sororitas)",40)])
+add("melee","R","BF",[("Great chain axe, 'Butcher' pattern (two-handed; through heavy carapace, power armour on 18+; +1 step on flesh; STR 30+)",18)])
 add("melee","R","AF",[("Power odachi, 'Eversor' pattern (light curved ceramite blade, shredding teeth; power stud; one or two hands; CON 13 or a step more)",50)])
 add("melee","R","AF",[("Seeker shurikens, Mechanicus pattern (4; folding plasteel stars; ~15 m; dig in on a hit, -1 till torn out; return on a miss)",8)])
 add("melee","R","AF",[("Collapsing spear, 'Ordo Sicarius' pattern (folds to a forearm cylinder, +2 hide; reach +1 strike first; thrown ~20 m)",12)])
@@ -463,7 +465,7 @@ for k in ("cultist","raider","pirate"):
 SPEC["raider"]["heavy team"] = [("Heavy stubber on a tripod (two-man team)","C"),("Autocannon, salvaged (two-man team)","R"),("Mortar with 6 rounds (two-man team)","U")]
 SPEC["pirate"]["heavy team"] = [("Heavy stubber on a tripod (two-man team)","C"),("Heavy bolter, stolen (two-man team)","R"),("Multi-laser on a deck mount (two-man team)","U")]
 BERSERK = {
-  "cultist": [("Chain axe + 4 doses of Frenzon (frothing, chanting)","U"),("Cleaver and spiked club + 3 doses of slaught","C"),("Chainsword + 4 doses of Frenzon","U"),("Eviscerator + 5 doses of Frenzon","R")],
+  "cultist": [("Great chain axe, Butcher pattern + 2 doses of Frenzon (roaring)","R"),("Chain axe + 4 doses of Frenzon (frothing, chanting)","U"),("Cleaver and spiked club + 3 doses of slaught","C"),("Chainsword + 4 doses of Frenzon","U"),("Eviscerator + 5 doses of Frenzon","R")],
   "raider":  [("Chain axe + 3 doses of slaught","U"),("Two hive shanks + 4 doses of Frenzon","C"),("Spiked knuckle-duster blades + 3 doses of Frenzon","C"),("Chainsword + 5 doses of slaught","R")],
   "pirate":  [("Boarding axe + 3 doses of slaught","C"),("Chain axe + 4 doses of Frenzon","U"),("Two cutlasses + 3 doses of Frenzon","C"),("Power axe + 4 doses of slaught","R")],
   "traitor": [("Chainsword + 3 doses of Frenzon (a broken penal trooper)","U"),("Sharpened trench shovel + 3 doses of slaught","C"),("Chain axe + 4 doses of Frenzon","U")],

@@ -68,6 +68,20 @@ cracks (out of the fight until repaired). **Dropped:** on the drop-prone table's
 "fires" result it dumps the whole magazine, spraying the area: roll the
 where-it-goes d20 once for every 10 rounds left (at least once).
 
+## Submachine gun, 'Kasr Wasp' pattern
+
+**Submachine gun, 'Kasr Wasp' pattern** (player design, Ash on Ostrava day 45; uncommon, ~3 TV; Munitorum,
+black market, Free Traders). The Hornet's bigger sister: a compact stub SMG with a **30-round curved
+magazine**, a **select-fire switch**, a front grip and a **folding stock**. Stub rounds: good on flesh,
+**through flak on a solid hit**, carapace stops them.
+- **Full auto:** strings of up to **8**, no hit bonuses in the string (misses still -1); **recoil 1.**
+- **Burst:** strings of up to **4 bursts**; each burst that hits **lands as two rounds** (through flak on any
+  hit, carapace on a solid hit); recoil 1.
+- **Semi:** single aimed shots, **no recoil**, and **+1 with the stock out**.
+- **Folding stock:** folded, it fits a holster and draws like a pistol (-1 quick-draw); out, it shoulders
+  like a carbine.
+- A magazine lasts about **three full strings**; a fresh one takes half a beat.
+
 ## Macragge service pistol
 
 **Macragge service pistol** (player design, epic: an exotic find, natural 20 only;
