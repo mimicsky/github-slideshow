@@ -175,6 +175,8 @@ add("armour","U","MBF",[("Forged shield (+2 block, half cover)",6)])
 add("mod","U","MBF",[("Shield viewing slot (shoot a pistol through without losing cover)",1.5),("Shield spikes (charge shield-first: +3 on the charge, +1 shield melee after)",2)])
 add("armour","R","MB",[("Arbitrator shield (Adeptus Arbites riot shield; +2 block, portable cover, pistol notch)",10)])
 add("armour","R","MAF",[("Storm trooper carapace set",15),("Storm shield (power field)",30),("Refractor field",25),("Conversion field (damaged)",35),("Skitarii armour (augmetic fit)",18)])
+# Player design (Ash on Ostrava day 45): rules in DND_CODEX, Iron halo (human pattern).
+add("armour","L","AF",[("Iron halo, human pattern (field ring on a back or belt frame; stops what power armour stops, heavier hits on 5-6; 5 hits a beat)",150)])
 add("armour","R","MF",[("Tempestus Scion helmet (rebreather, auspex; +2 Perception, +1 shooting)",25)])
 add("gear","U","MBF",[("Back gun-scabbard / heavy sling mount (carry a second long gun or a heavy on the back)",1)])
 add("gear","C","MBF",[("Mag belt / bandolier (+4 packs or mags ready)",0.5),("Melee sheath / scabbard (fits the weapon)",0.25),("Belt side-pouch (2 grenades or small kit)",0.25),("Pistol holster (hip or chest)",0.25)])

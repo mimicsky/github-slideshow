@@ -1416,6 +1416,21 @@ shot). **On 1-3 the shot goes through and the field burns out: it needs a repair
 (a tech-adept such as Ferro-Ashe, about an hour) before it works again. A **damaged**
 conversion field blocks only on 5-6.
 
+#### Iron halo (human pattern)
+
+**Iron halo, human pattern (player design, Ash on Ostrava day 45).** The great field-ring of a Space Marine
+captain, remade at enormous cost for a mortal: a big iron-and-gold ring that stands up behind the head, on a
+frame strapped to the back or the belt. Made only for the top of the line: lord-inquisitors, cardinals, lord
+militants, saints-in-waiting. **Anyone else seen wearing one will be asked, very seriously, how.**
+- **Stops everything power armour would stop**, automatically (the air rings like struck iron). **Hits that
+  get through power armour** (bolters, plasma on a solid hit, melta, power weapons, krak): **d6, 5-6 the
+  halo takes it.**
+- **Overload:** it stops at most **5 hits in one beat**; a 6th or more that beat gets through, and the halo is
+  **down for 1 beat** while it resets.
+- **Big:** it can't be hidden, it marks the wearer from across a battlefield, and it doesn't stack with a
+  refractor or conversion field (one field at a time).
+- **Price:** legendary, ~150 TV; Free Traders and the Mechanicus, by special arrangement only.
+
 #### Doses: stimms and combat drugs
 
 **Doses: stimms and combat drugs.** When you take a dose, roll a d6: **1-3 it
