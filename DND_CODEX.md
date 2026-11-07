@@ -1506,6 +1506,10 @@ and no Perils trigger.** **Every psyker knows all three**, on top of their rolle
 
 ### Custom weapons and crafting
 
+**Ammo with every gun (Ash on Ostrava day 45, after the ammo audit):** when a new gun uses ammo the pools don't
+already sell, its ammo goes into the pools in the same change. Exotic one-off finds are the exception: their ammo
+stays scarce on purpose.
+
 Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:
 
 1. **Add it to the pool (out of character).** The player describes an item (what
