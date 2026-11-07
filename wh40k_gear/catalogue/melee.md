@@ -84,6 +84,26 @@ poor man's shock spear. **Two-handed and long: +1 to strike first;** melee chain
   void-suit.** Without the shock it hits like a stick.
 - **6 jolts a battery;** recharge at a coupling (about an hour).
 
+## Scrap axe
+
+**Scrap axe** (common, 0.2 TV; black market; Ash on Ostrava day 45; anyone with a cutting torch makes one in an
+hour). A blade cut from a hull plate and ground to an edge, bolted to a length of pipe or rebar. **Who carries
+them:** poor cultists, raiders and gangs.
+- **One hand;** melee chains of up to **2**.
+- **Through flak on a solid hit;** carapace stops it.
+- **Scrap:** on a **natural 1** the bolts shear and the head comes off; it's a pipe until it's bolted back on.
+
+## Heavy scrap axe
+
+**Heavy scrap axe** (common, 0.4 TV; black market; Ash on Ostrava day 45). A slab of girder or stamped deck plate
+welded to a thick pipe: crude, top-heavy, and frightening. **Who carries them:** cult brutes, raider bosses,
+anyone big and poor.
+- **Two-handed and heavy:** melee chains of up to **2**. **STR 25+**, or -2 on every swing.
+- **Through flak on any hit; through carapace on a raw 18+.**
+- **Top-heavy:** defenders get **+1** to block or parry it.
+- **Scrap:** on a **natural 1** the weld cracks and the head **flies off ~3 m** in the direction of the swing
+  (anyone there makes a dive or drops a step); what's left is a heavy pipe.
+
 ## Scrap throwing knives
 
 **Scrap throwing knives** (common, 0.4 TV for 4; player design): cheap, anyone can

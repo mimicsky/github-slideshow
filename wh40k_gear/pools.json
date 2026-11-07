@@ -1673,6 +1673,20 @@
   "sellers": "B"
  },
  {
+  "name": "Scrap axe (hull-plate blade on a pipe; through flak on a solid hit; head shears on a natural 1)",
+  "tv": 0.2,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Heavy scrap axe (girder head on a pipe; two-handed, STR 25+; through flak, carapace on 18+; head flies off on a natural 1)",
+  "tv": 0.4,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
   "name": "Chain-flail (scrap; wraps a block or parry: next swing +1; disarms on a raw 17+)",
   "tv": 0.3,
   "cat": "melee",

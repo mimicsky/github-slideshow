@@ -108,6 +108,8 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Pipe pick (scrap war pick)](melee.md#pipe-pick-scrap-war-pick)
 - [Railroad spike knife](melee.md#railroad-spike-knife)
 - [Syringe spike (scrap injector)](melee.md#syringe-spike-scrap-injector)
+- [Scrap axe](melee.md#scrap-axe)
+- [Heavy scrap axe](melee.md#heavy-scrap-axe)
 - [Chain-flail (scrap)](melee.md#chain-flail-scrap)
 - [Rivet knuckles](melee.md#rivet-knuckles)
 - [Saw-cleaver](melee.md#saw-cleaver)
