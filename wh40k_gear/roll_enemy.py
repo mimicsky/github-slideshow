@@ -176,7 +176,7 @@ for n in range(count):
     extra = pick(P['extra'])
     if head.startswith("SPECIALIST BOMB ZEALOT"):
         extra = "STRAPPED ON: " + ", ".join(pick(BOMBS) for _ in range(random.randint(3, 5)))
-    cond = random.choice(["Dirty", "Neglected"]) if kind in ("cultist", "raider") else "Dirty" if kind in ("pirate", "commoner") else "Clean"
+    cond = random.choice(["Dirty", "Neglected"]) if kind in ("cultist", "raider") else "Dirty" if kind == "pirate" else "Clean"  # commoners: Clean (they barely fire them and have time to clean)
     line = f"{n+1}. {head} | {armour} | {extra} | {stats(role if role_d20 >= 16 else None, "SKITARIUS" in head)} | guns {cond}"
     if n in lucky:
         line += f"  ** FOUND/MADE: {random.choice([f for f in P['found'] if not poor or f[1] != 'R'] or P['found'])[0]}"

@@ -7,7 +7,7 @@ people with guns). Rolled with `../roll_enemy.py commoner COUNT [WEALTH]`.
 
 - **Wealth:** **Poor** (most), **Steady**, or **Good** in rich places; **never past Good.** Roll it with
   `../roll_enemy.py wealth commoner` (1-50 Poor, 51-90 Steady, 91-100 Good).
-- **Stats:** civilians: **STR 10-30, DEX 10-25.** Guns are kept **Dirty**.
+- **Stats:** civilians: **STR 10-30, DEX 10-25.** Guns are **Clean**: they barely fire them, and they have the time to clean them.
 - **No named special teams.** Their specialists are local: the headman, the lay healer, the hunter, the herder
   with his prod, the big farmhand, the preacher, the man with the farm hounds, the one who knows the old PDF
   armoury.
