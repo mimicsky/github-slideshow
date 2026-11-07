@@ -58,7 +58,7 @@ add("gear","C","MBF",[("Speedloader (auto-revolver)",0.25)])
 add("stub","U","MBF",[("Compact autogun, 'Kasr Hive' pattern (top 50-round mag; chains of 8; +1 within 10 m, -2 past 30 m)",3)])
 add("stub","R","MBF",[("Anti-materiel rifle, 'Kasr Breaker' pattern (heavy stubber rounds, 5-round box; through cover; 2 steps a hit; braced)",15)])
 add("stub","U","MBF",[("Lever-action stub rifle, 'Kasr Frontier' pattern (12-round tube; never jams; chains of 6, or 3 double-lever shots)",2.5)])
-add("stub","U","MBF",[("Submachine gun, 'Kasr Wasp' pattern (stub; 30-round mag; auto strings of 8, bursts of 4 as two rounds, semi +1 stock out; folding stock)",3)])
+add("stub","U","MBF",[("Submachine gun, 'Kasr Locust' pattern (stub; 30-round mag; auto strings of 8, bursts of 4 as two rounds, semi +1 stock out; folding stock)",3)])
 add("stub","R","AF",[("Phosphor blast pistol (Mechanicus; 6-chamber phosphor cylinder; strings of 3; a hit lights them up, +1 to shots at them; solid hit sets alight)",14)])
 add("ammo","U","A",[("Phosphor cylinder (6 rounds, phosphor blast pistol)",0.5)])
 # Player design (session 9): the Kasr Trident combi-pistol. Rules in catalogue/stub.md.

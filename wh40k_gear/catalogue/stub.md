@@ -68,10 +68,10 @@ cracks (out of the fight until repaired). **Dropped:** on the drop-prone table's
 "fires" result it dumps the whole magazine, spraying the area: roll the
 where-it-goes d20 once for every 10 rounds left (at least once).
 
-## Submachine gun, 'Kasr Wasp' pattern
+## Submachine gun, 'Kasr Locust' pattern
 
-**Submachine gun, 'Kasr Wasp' pattern** (player design, Ash on Ostrava day 45; uncommon, ~3 TV; Munitorum,
-black market, Free Traders). The Hornet's bigger sister: a compact stub SMG with a **30-round curved
+**Submachine gun, 'Kasr Locust' pattern** (player design, Ash on Ostrava day 45; uncommon, ~3 TV; Munitorum,
+black market, Free Traders). The Hornet's bigger sister (named for a swarm): a compact stub SMG with a **30-round curved
 magazine**, a **select-fire switch**, a front grip and a **folding stock**. Stub rounds: good on flesh,
 **through flak on a solid hit**, carapace stops them.
 - **Full auto:** strings of up to **8**, no hit bonuses in the string (misses still -1); **recoil 1.**
