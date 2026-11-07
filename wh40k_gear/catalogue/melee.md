@@ -7,6 +7,18 @@ Item rules for this category. General rules (heat, hot-shot, drop-prone, going D
 **Hive shank** (common, 0.1 TV): a scrap knife anyone can make in minutes, no
 roll. Breaks on a natural 1.
 
+## Pipe pick (scrap war pick)
+
+**Pipe pick** (common, 0.25 TV; black market; player design, Ash on Ostrava day 44; anyone with a
+cutting torch makes one in an hour, no roll). A length of heavy pipe for a haft, with a point of
+sharpened scrap welded or bolted on like a war pick's spike. Poorly made and badly balanced: hive
+gang and cult work. **Who carries them:** cultists and raiders of a Poor or Steady faction.
+- **Two-handed, heavy:** melee chains of up to 2.
+- **The point:** through flak on any hit; **through carapace on a solid hit.**
+- **Poorly made:** **every time it goes through plate (carapace or heavier), roll a d6: on a 1 the
+  point snaps off and stays stuck in the armour.** What's left is a length of pipe: a club, and armour
+  stops it.
+
 ## Scrap throwing knives
 
 **Scrap throwing knives** (common, 0.4 TV for 4; player design): cheap, anyone can

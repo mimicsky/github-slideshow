@@ -1603,6 +1603,13 @@
   "sellers": "MB"
  },
  {
+  "name": "Pipe pick (scrap war pick; two-handed; through carapace on a solid hit; the point snaps off in the plate on a d6 of 1)",
+  "tv": 0.25,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
   "name": "Thunder hammer, Crucis pattern (intact; heavy, slow; thunderclap: two steps and knocked flat)",
   "tv": 50,
   "cat": "melee",
