@@ -1500,7 +1500,7 @@ and no Perils trigger.** **Every psyker knows all three**, on top of their rolle
 - **Warp Slash** (only with a psyker melee weapon: a force sword, force staff or force blade). In one swing
   the psyker draws warp-fire along the blade and **throws the slash**: a flat crescent of warp energy ~2 m wide
   at waist height, out to ~30 m. **No charge.** Power roll as usual to aim it. **It hits everyone along that
-  line as a power weapon** (through power armour); anyone lying flat is under it. **Dodging it (DEX) depends
+  line like a hellgun** (through flak and carapace; heavy carapace and power armour stop it); anyone lying flat is under it. **Dodging it (DEX) depends
   on range:** within ~5 m **no dodge**; ~5-15 m **dodge against 15**; ~15-30 m **dodge against 10** (easy,
   they see it coming). No Perils.
 
