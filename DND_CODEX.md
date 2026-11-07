@@ -1464,7 +1464,8 @@ psyker 1-6).
 A rogue psyker without a staff knows **2 powers**: roll a d10 twice (reroll a 10
 or a repeat). Witches with a staff keep the staff's list and god powers. **Charge**
 is how many beats the power builds before it fires (0 = fires this beat).
-Wounding, stunning or disarming the psyker breaks a charge, as with the staff.
+Wounding, stunning or disarming the psyker breaks a charge, as with the staff. **Psykers charging a power
+get into cover first if they can** (set by the player, day 45): they know a charge makes them a target.
 
 | d10 | Charge | Power | What it does |
 | --- | --- | --- | --- |
@@ -1496,12 +1497,12 @@ and no Perils trigger.** **Every psyker knows all three**, on top of their rolle
   feet; **9-13** they're **sent flying and land flat on their back**, and make a **CON save against 13 or drop
   a health step**; **14-20** they're **sent flying and slammed into something** (the ground, a wall, the
   ceiling): they **drop a health step and lose their next beat.**
-- **Warp Slash** (only with a psyker melee weapon: a force sword, force staff or force blade). **Beat one:** the
-  psyker draws warp-fire along the blade (a charge: wounding, stunning or disarming them breaks it). **Beat
-  two:** they swing and **throw the slash**, a flat crescent of warp energy ~2 m wide at waist height, out to
-  ~30 m. Power roll as usual to aim it. **It hits everyone along that line as a power weapon** (through power
-  armour); anyone lying flat is under it. **Dodging it (DEX) depends on range:** within ~5 m **no dodge**;
-  ~5-15 m **dodge against 15**; ~15-30 m **dodge against 10** (easy, they see it coming). No Perils.
+- **Warp Slash** (only with a psyker melee weapon: a force sword, force staff or force blade). In one swing
+  the psyker draws warp-fire along the blade and **throws the slash**: a flat crescent of warp energy ~2 m wide
+  at waist height, out to ~30 m. **No charge.** Power roll as usual to aim it. **It hits everyone along that
+  line as a power weapon** (through power armour); anyone lying flat is under it. **Dodging it (DEX) depends
+  on range:** within ~5 m **no dodge**; ~5-15 m **dodge against 15**; ~15-30 m **dodge against 10** (easy,
+  they see it coming). No Perils.
 
 ### Custom weapons and crafting
 

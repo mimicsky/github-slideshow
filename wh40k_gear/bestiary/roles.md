@@ -263,7 +263,8 @@ their basic grunts, melee and ranged, charge.*
 **Who has it:** all five types.
 
 Unsanctioned and dangerous, mostly to themselves. Uses powers when they feel safe
-or desperate. **Perils trigger 1-4** (see Perils of the Warp in the Codex, Gear rules).
+or desperate. **When charging a power, they get into cover first if they can** (a charge
+makes them a target; set by the player, Ash on Ostrava day 45). **Perils trigger 1-4** (see Perils of the Warp in the Codex, Gear rules).
 Other enemies keep their distance. Their own team sees them as the most dangerous
 thing on the field, to them and to the enemy.
 
