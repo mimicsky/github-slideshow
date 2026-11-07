@@ -24,3 +24,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1906: Tamsin in Teo's seat: 'He knows better, that's what.' (OOC rule, the player: power weapons run on cells, 30 power-mode swings a cell; codex Power cells.)
 - ~2205: Tamsin to Mira: 'I remember when we first met and you argued with me the first day... you probably thought I was another heartless man.' Mira: she did, for about a week; heartless men don't sit up all night for their crew.
 - ~2210-0600: Tamsin on the bridge all night with Mira. Watches changed every two hours, all quiet; the trace flat. (Night d20 18: nothing.) ~0600 day 45 the day lamps.
+- ~0605: Tamsin: 'Come in, Ferro... what's going on?' Ferro: tonight the same watch; but tomorrow, translation: the field must cycle down for a few seconds as the ship drops out, the door's weakest moment; if it means to try, it will try then. He wants Tamsin at the node at translation, and the Light kitted.
