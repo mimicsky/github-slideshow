@@ -76,7 +76,7 @@ god_given = bool(rest)
 god = (rest[0].lower() if rest else random.choice(["khorne", "nurgle", "slaanesh", "tzeentch", "undivided"]))
 STATS = {"cultist": ((10, 30), (10, 25)), "raider": ((15, 35), (15, 30)), "pirate": ((15, 35), (20, 35)),
          "traitor": ((20, 35), (25, 40)), "traitor_elite": ((25, 45), (35, 50))}
-STR_ROLES = {"brute", "berserker", "breacher", "bodyguard", "enforcer", "duelist", "zealot", "bomb zealot"}
+STR_ROLES = {"brute", "berserker", "breacher", "bodyguard", "enforcer", "duelist", "zealot", "bomb zealot", "arbitrator"}
 DEX_ROLES = {"sniper", "grenadier", "assassin", "flamer", "demolitions", "jumper", "spotter", "tracker", "fighter pilot",
              "heavy gunner", "heavy team", "plasma gunner", "infiltrator", "gunslinger"}
 def stats(role, skitarius=False):

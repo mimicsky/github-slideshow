@@ -14,7 +14,7 @@ applies.
 
 ## Index (open only the roles in the fight)
 
-[Grunt (ranged)](#grunt-ranged) · [Grunt (melee)](#grunt-melee) · [Sniper](#sniper) · [Grenadier](#grenadier) · [Heavy gunner](#heavy-gunner) · [Heavy team](#heavy-team) · [Plasma / melta gunner](#plasma--melta-gunner) · [Flamer](#flamer) · [Demolitions](#demolitions) · [Medic](#medic) · [Chem-doctor](#chem-doctor) · [Leader](#leader) · [Bodyguard](#bodyguard) · [Enforcer](#enforcer) · [Icon bearer](#icon-bearer) · [Rogue psyker](#rogue-psyker) · [Vox / auspex](#vox--auspex) · [Tech-adept / heretek](#tech-adept--heretek) · [Breacher](#breacher) · [Assassin](#assassin) · [Infiltrator](#infiltrator) · [Gunslinger](#gunslinger) · [Brute / mutant](#brute--mutant) · [Beast handler](#beast-handler) · [Herder](#herder) · [Berserker](#berserker) · [Bomb zealot](#bomb-zealot) · [Blessed](#blessed) · [Jumper](#jumper) · [Duelist](#duelist) · [Commander](#commander) · [Fighter pilot](#fighter-pilot) · [Spotter](#spotter) · [Tracker](#tracker) · [Zealot](#zealot) · [Skitarius](#skitarius) · [Rolling new people (recruits and NPCs)](#rolling-new-people-recruits-and-npcs) · [Ogryn](#ogryn)
+[Grunt (ranged)](#grunt-ranged) · [Grunt (melee)](#grunt-melee) · [Sniper](#sniper) · [Grenadier](#grenadier) · [Heavy gunner](#heavy-gunner) · [Heavy team](#heavy-team) · [Plasma / melta gunner](#plasma--melta-gunner) · [Flamer](#flamer) · [Demolitions](#demolitions) · [Medic](#medic) · [Chem-doctor](#chem-doctor) · [Leader](#leader) · [Bodyguard](#bodyguard) · [Enforcer](#enforcer) · [Icon bearer](#icon-bearer) · [Rogue psyker](#rogue-psyker) · [Vox / auspex](#vox--auspex) · [Tech-adept / heretek](#tech-adept--heretek) · [Breacher](#breacher) · [Assassin](#assassin) · [Infiltrator](#infiltrator) · [Gunslinger](#gunslinger) · [Brute / mutant](#brute--mutant) · [Beast handler](#beast-handler) · [Herder](#herder) · [Berserker](#berserker) · [Bomb zealot](#bomb-zealot) · [Blessed](#blessed) · [Jumper](#jumper) · [Duelist](#duelist) · [Commander](#commander) · [Fighter pilot](#fighter-pilot) · [Spotter](#spotter) · [Tracker](#tracker) · [Zealot](#zealot) · [Skitarius](#skitarius) · [Arbitrator](#arbitrator) · [Rolling new people (recruits and NPCs)](#rolling-new-people-recruits-and-npcs) · [Ogryn](#ogryn)
 
 ## Grunt (ranged)
 
@@ -627,6 +627,27 @@ human, obeying their Tech-Priests through data-links. Corrupted ones serve heret
 
 *Side note: corrupted Skitarii fight as a heretek's hands: precise, unafraid, and
 they never break while their master lives.*
+
+## Arbitrator
+
+**Who has it:** traitor elites. (player-set, Ash on Ostrava day 44.)
+
+A fallen Adeptus Arbites enforcer who still acts like the law: reads out charges,
+orders people to kneel, takes prisoners for confession and kills the ones who won't.
+**Arbites carapace** (heavy carapace on the front). Comes as **one of two kinds**
+(the kit roll says which):
+- **Shield:** a **suppression shield (+2 to block or parry, three-quarters cover from
+  the front)** and a shock maul; **a maul hit staggers the target: -2 on their next
+  roll.** Advances behind the shield and holds doorways.
+- **Hound:** an Arbites combat shotgun and a **cyber-mastiff (2 health steps)** that
+  runs ahead and **pins like a beast handler's beasts** (pinned: melee, can only
+  defend; a raw 20 throws it off). If the arbitrator goes Down, the mastiff stands
+  over him and attacks whoever comes closest.
+
+**"HALT!", once a fight:** a booming command; one target in earshot saves on WIS
+against 13 or hesitates (**-2 on their next roll**). **Works in pairs** where it can
+(one shield, one shotgun). **Uses web and stun grenades first** if it can take a
+prisoner. **Never surrenders.**
 
 ## Rolling new people (recruits and NPCs)
 

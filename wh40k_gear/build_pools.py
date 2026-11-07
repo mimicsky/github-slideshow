@@ -416,6 +416,8 @@ SPEC["raider"]["duelist"] = [("Two-handed boarding axe + stub pistol","C"),("Gre
 SPEC["pirate"]["duelist"] = [("Naval cutlass + autopistol","C"),("Naval sabre + flintlock-pattern las pistol","U")]
 SPEC["traitor"]["duelist"] = [("Officer's sabre + laspistol","C"),("Power sword (stolen) + bolt pistol","R")]
 SPEC["traitor_elite"]["duelist"] = [("Chainsword + hot-shot laspistol","U"),("Power sword + bolt pistol","R")]
+# Arbitrator (player-set, Ash on Ostrava day 44): a fallen Arbites enforcer, traitor elites only. Rules in bestiary/roles.md.
+SPEC["traitor_elite"]["arbitrator"] = [("Arbitrator: suppression shield + shock maul + stub revolver, Arbites carapace","C"),("Arbitrator: Arbites combat shotgun (shock shells) + cyber-mastiff, Arbites carapace","U"),("Arbitrator: power maul + suppression shield + web pistol, Arbites carapace","R")]
 # Commander, fighter pilot (renamed from pilot, session 9), spotter, tracker, zealot (player picks, Ash on Ostrava session 9).
 for k,(cmd,spot,trk,zel) in {
  "cultist": ([("Laspistol + chain knife (cult planner)","C")],[("Magnoculars + autogun","C")],[("Hound leash + shotgun","C"),("Scope-autogun + knife","C")],[("Chainsword + stub pistol, screaming","C"),("Flamer-torch + icon","U")]),
