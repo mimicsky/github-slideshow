@@ -1834,6 +1834,13 @@
   "sellers": "MF"
  },
  {
+  "name": "Librarius aide's stave (Astartes-forged gift; WIS 50+ psykers only; no charge, no Perils; hits as a power weapon)",
+  "tv": 150,
+  "cat": "melee",
+  "rarity": "L",
+  "sellers": "F"
+ },
+ {
   "name": "Blessed power maul (Ecclesiarchy)",
   "tv": 28,
   "cat": "melee",

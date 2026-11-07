@@ -261,6 +261,19 @@ sanctioned psyker's hands they burn with warp-fire; anyone else wields a plain
 sword (greatsword: two-handed, heavy).
 
 
+## Librarius aide's stave
+
+**Librarius aide's stave** (player design, Ash on Ostrava day 45; legendary, ~150 TV; **never sold**: a gift).
+A force stave forged in an Adeptus Astartes Librarius, sized for a human: given by a Space Marine Librarian
+to the one mortal psyker he trusts as his right hand. Psychic hood-work runs up the shaft into a crown of
+crystal and bound scripture. **Only a truly strong human psyker can wield it (WIS 50+);** in anyone weaker's
+hands it's a dead staff that refuses them.
+- **No charge:** every power fires the beat it's called.
+- **No Perils:** the wielder **never rolls the Perils trigger** while holding it.
+- **A psyker melee weapon** (Warp Slash); **hits as a power weapon** in a psyker's hands.
+- **A gift, not loot:** the Chapter knows every stave it has given. Carried by the one it was given to, it
+  opens Astartes doors; taken from a corpse, the Chapter hunts whoever holds it.
+
 ## Witch-knife (scrap)
 
 **Witch-knife** (common, ~5 TV; black market; Ash on Ostrava day 45). A hive or cult knife with a cheap,

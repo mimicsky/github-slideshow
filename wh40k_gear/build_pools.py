@@ -174,6 +174,7 @@ add("melee","C","B",[("Witch-knife (scrap; a psyker focus; +1 Perils trigger on 
 add("melee","U","B",[("Scrap force sword (Catachan-style short sword with a crystal; psyker focus; burns daemons; +1 Perils trigger)",8)])
 add("melee","U","M",[("Psykana force stave (sanctioned issue; through carapace on a solid hit; -1 Perils trigger)",20)])
 add("melee","R","MF",[("Captain's force stave (gold-chased; through carapace on any hit; +1 power rolls; -1 Perils trigger; marks an officer)",40)])
+add("melee","L","F",[("Librarius aide's stave (Astartes-forged gift; WIS 50+ psykers only; no charge, no Perils; hits as a power weapon)",150)])
 add("melee","R","E",[("Blessed power maul (Ecclesiarchy)",28),("Sororitas power sword",32)])
 add("melee","R","B",[("Assassin's mono-wire garrotte",6),("Needle-blade (toxin)",8)])
 # --- Armour ---

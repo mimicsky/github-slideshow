@@ -131,6 +131,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Power odachi, 'Eversor' pattern](melee.md#power-odachi-eversor-pattern) (light, ceramite, shredding teeth, power stud)
 - [Paired transonic blades](melee.md#paired-transonic-blades)
 - [Blaze force sword / greatsword](melee.md#blaze-force-sword--greatsword)
+- [Librarius aide's stave](melee.md#librarius-aides-stave) (gift only; no charge, no Perils; WIS 50+)
 - [Witch-knife (scrap)](melee.md#witch-knife-scrap)
 - [Scrap force sword](melee.md#scrap-force-sword)
 - [Psykana force stave (issue)](melee.md#psykana-force-stave-issue)
