@@ -1001,6 +1001,20 @@
   "sellers": "MBF"
  },
  {
+  "name": "Twin-linked heavy stubber, 'Bullgryn' pattern (brutes only, STR 50+; strings of 16, -1 a shot, no sight; -3 suppression; belt box, 3 strings, 2 beats to seat)",
+  "tv": 12,
+  "cat": "heavy",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Twin-linked belt box (two heavy stubber belts)",
+  "tv": 2,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
   "name": "Hellstrike launcher, 'Bone'ead' pattern (Ogryn; brutes only, STR 50+; one Valkyrie Hellstrike a shot, reload a beat; two steps through power armour, ~4 m blast; backblast)",
   "tv": 30,
   "cat": "heavy",

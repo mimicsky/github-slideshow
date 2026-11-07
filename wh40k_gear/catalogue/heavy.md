@@ -45,6 +45,22 @@ feeds **heavy stubber belts from a box mag through an LMG-style feed tray**.
 - **Hits as a heavy stubber:** gets through flak and carapace; heavy carapace shrugs it at range. **Suppression** as the heavy stubber (-2 on the target's shots while it fires; counts once).
 - **Belts:** any heavy stubber belt, the special belts included.
 
+## Twin-linked heavy stubber, 'Bullgryn' pattern
+
+**Twin-linked heavy stubber, 'Bullgryn' pattern** (player design, Ash on Ostrava day 45; rare, ~12 TV;
+Munitorum, black market, Free Traders). Named for the Ogryn shock troops. Two heavy stubber barrels side by
+side firing twice as fast, fed from a **belt box** that sits underneath and feeds up into the guns. A
+**skeleton chainsaw-style handgrip** at the back, a **horizontal handle** at the front, a **carry handle** on
+top, and **no sight at all**: it's made to spray and pray.
+- **Brutes only: STR 50+** (Ogryn-sized). Anyone weaker can only fire it from a mount, at -3.
+- **Strings of up to 16** (twice a heavy stubber), no hit bonuses in the string, and **-1 on every shot** (no
+  sight). **Recoil 1 standing, 2 on the move.**
+- **Hits as a heavy stubber:** through flak and carapace; heavy carapace shrugs it at range.
+- **Heavy suppression:** whoever it fires at takes **-3 on their shots** while it keeps firing, hit or miss
+  (counts once; it replaces the heavy stubber's -2).
+- **Belt box:** a box (two heavy stubber belts, ~2 TV) lasts **3 full strings**. **Seating a new box takes two
+  beats** while the belt is aligned in the feed (**one beat** with a loader helping).
+
 ## Hellstrike launcher, 'Bone'ead' pattern (Ogryn)
 
 **Hellstrike launcher, 'Bone'ead' pattern** (player design, Ash on Ostrava day 45; rare, ~30 TV; Munitorum,
