@@ -169,6 +169,11 @@ add("melee","R","AF",[("Power odachi, 'Eversor' pattern (light curved ceramite b
 add("melee","R","AF",[("Seeker shurikens, Mechanicus pattern (4; folding plasteel stars; ~15 m; dig in on a hit, -1 till torn out; return on a miss)",8)])
 add("melee","R","AF",[("Collapsing spear, 'Ordo Sicarius' pattern (folds to a forearm cylinder, +2 hide; reach +1 strike first; thrown ~20 m)",12)])
 add("melee","R","F",[("Blaze force sword (psyker only)",45),("Blaze force greatsword (psyker only)",60)])
+# Force weapons for every tier (Ash on Ostrava day 45): rules in catalogue/melee.md.
+add("melee","C","B",[("Witch-knife (scrap; a psyker focus; +1 Perils trigger on charged powers)",5)])
+add("melee","U","B",[("Scrap force sword (Catachan-style short sword with a crystal; psyker focus; burns daemons; +1 Perils trigger)",8)])
+add("melee","U","M",[("Psykana force stave (sanctioned issue; through carapace on a solid hit; -1 Perils trigger)",20)])
+add("melee","R","MF",[("Captain's force stave (gold-chased; through carapace on any hit; +1 power rolls; -1 Perils trigger; marks an officer)",40)])
 add("melee","R","E",[("Blessed power maul (Ecclesiarchy)",28),("Sororitas power sword",32)])
 add("melee","R","B",[("Assassin's mono-wire garrotte",6),("Needle-blade (toxin)",8)])
 # --- Armour ---
@@ -343,7 +348,7 @@ SPEC = {
   "demolitions": [("Demo satchel + detonator","U"),("3 krak grenades (stolen)","R"),("Mining charges x2 + stub pistol","C")],
   "medic":       [("Med-kit + 3 stimms + autopistol","C"),("Cult 'blessings' (stimms and drugs) + knife","C")],
   "leader":      [("Chainsword + laspistol (cult preacher)","U"),("Desecrated chainsword + autopistol","U"),("Bolt pistol (stolen) + power knife","R")],
-  "psyker":      [("Witch: rogue psyker, crude staff + knife (warp power; Perils on a natural 1)","C"),("Witch with a Chaos psyker staff + knife (fire, lightning, force; Perils 1-3 a beat)","U")],
+  "psyker":      [("Witch: rogue psyker, crude staff + knife (warp power; Perils on a natural 1)","C"),("Witch with a witch-knife and a stub pistol (scrap focus; +1 Perils trigger)","C"),("Witch with a Chaos psyker staff + knife (fire, lightning, force; Perils 1-3 a beat)","U")],
  },
  "raider": {
   "sniper":      [("Scoped autogun + autopistol","C"),("Long-las, Mezoa + heavy laspistol","U"),("Vraks-pattern sniper autorifle","R")],
@@ -382,7 +387,7 @@ SPEC["traitor"] = {
 }
 # Shared roles added (player-set): rogue psyker, breacher, vox/auspex for every type;
 # plasma gunner for raiders and pirates too.
-PSY = [("Rogue psyker: crude staff + knife (unsanctioned; basic warp powers, Perils 1-3 a beat)","C"),("Rogue psyker with a stolen force staff (stronger powers, Perils 1-3 a beat)","R")]
+PSY = [("Rogue psyker: crude staff + knife (unsanctioned; basic warp powers, Perils 1-3 a beat)","C"),("Rogue psyker: scrap force sword + autopistol (psyker focus; +1 Perils trigger)","U"),("Rogue psyker with a stolen force staff (stronger powers, Perils 1-3 a beat)","R")]
 BREACH = [("Boarding shield + sawn-off shotgun","U"),("Combat shotgun, semi-auto + shock baton","U"),("Breaching charge + pump shotgun","C")]
 VOX = [("Vox-caster + autopistol (calls in the rest)","U"),("Auspex + lascarbine (sees through walls)","U")]
 PLASMA = [("Plasma pistol, Ryza pattern (slow-filled cell) + autopistol","R"),("Plasma gun, Mars pattern (stolen, rushed cell)","R"),("Hot-shot hellgun","U")]

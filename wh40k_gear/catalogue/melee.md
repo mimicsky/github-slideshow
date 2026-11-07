@@ -260,6 +260,41 @@ against them.
 sanctioned psyker's hands they burn with warp-fire; anyone else wields a plain
 sword (greatsword: two-handed, heavy).
 
+
+## Witch-knife (scrap)
+
+**Witch-knife** (common, ~5 TV; black market; Ash on Ostrava day 45). A hive or cult knife with a cheap,
+cloudy psychic crystal wired into the hilt. **In anyone's hands it's a plain knife.** In a psyker's, it's a
+focus: **it counts as a psyker melee weapon** (Warp Slash). **Unstable crystal: +1 to the Perils trigger
+range** whenever the psyker uses a charged power while holding it (1-3 becomes 1-4). **Natural 1:** the crystal
+cracks, and it's only a knife until a new one is wired in. Poor cult and raider witches carry these.
+
+## Scrap force sword
+
+**Scrap force sword** (uncommon, ~8 TV; black market; player design, Ash on Ostrava day 45). A heavy short
+sword hammered out of scrap, Catachan-style (it **hits like a short sword**, through flak on any hit and
+carapace on a solid hit, but **draws and works like a knife**), with a psychic crystal set into the guard. In a
+psyker's hands it's a focus: **it counts as a psyker melee weapon** (Warp Slash) and it **burns warp-things**
+(a hit on a daemon drops one extra step). **Unstable crystal: +1 to the Perils trigger range** on charged
+powers. **Natural 1:** the crystal cracks; it's just a short sword until it's re-set.
+
+## Psykana force stave (issue)
+
+**Psykana force stave** (uncommon, ~20 TV; Munitorum; Ash on Ostrava day 45). The plain staff the Scholastica
+Psykana issues its sanctioned psykers: dark wood shod in iron, the Psykana eye on the crown. In anyone else's
+hands it's a quarterstaff. In a psyker's: **a psyker melee weapon** (Warp Slash), it **hits through carapace on
+a solid hit**, and it steadies the mind: **-1 to the Perils trigger range** (1-2 becomes 1; it can't go below a
+natural 1).
+
+## Captain's force stave
+
+**Captain's force stave** (rare, ~40 TV; Munitorum officer issue, Free Traders; player design, Ash on Ostrava
+day 45). A senior psyker's stave (a Primaris psyker or a Psykana officer): the issue stave remade in black iron,
+**chased in gold**, with a gilded crown and honour-chains, made to be seen. In a psyker's hands: **a psyker melee
+weapon** (Warp Slash), it **hits through carapace on any hit**, **+1 on power rolls**, and **-1 to the Perils
+trigger range** (it can't go below a natural 1). **Stands out:** it marks the bearer as an officer, and enemies
+who see it pick them out first.
+
 ## Power fist, Guard pattern
 
 (rare, 35 TV; Munitorum, Mechanicus, Free Traders.) The human-sized power fist

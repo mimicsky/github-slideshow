@@ -1806,6 +1806,34 @@
   "sellers": "F"
  },
  {
+  "name": "Witch-knife (scrap; a psyker focus; +1 Perils trigger on charged powers)",
+  "tv": 5,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Scrap force sword (Catachan-style short sword with a crystal; psyker focus; burns daemons; +1 Perils trigger)",
+  "tv": 8,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Psykana force stave (sanctioned issue; through carapace on a solid hit; -1 Perils trigger)",
+  "tv": 20,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "M"
+ },
+ {
+  "name": "Captain's force stave (gold-chased; through carapace on any hit; +1 power rolls; -1 Perils trigger; marks an officer)",
+  "tv": 40,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
   "name": "Blessed power maul (Ecclesiarchy)",
   "tv": 28,
   "cat": "melee",
