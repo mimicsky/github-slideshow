@@ -204,6 +204,22 @@ Sororitas**; anyone else holding one will be asked how they came by it.
   extra step.** Then the field vents, and it needs another beat to charge again.
 - **Heavy:** defenders get **+1** to block or parry it.
 
+## Power odachi, 'Eversor' pattern
+
+**Power odachi, 'Eversor' pattern** (player design, Ash on Ostrava day 44; rare, ~50 TV; Free Traders,
+Mechanicus). Named for the Eversor Temple of the Officio Assassinorum. A long, thin, curved blade of
+**forged ceramite** with **shredding teeth forged in and laid flat along the edge**, so it cuts and then
+tears. A small guard that juts forward toward the blade, a **full-tang plasteel grip**, and **a stud on the
+grip that wakes the power field.** Carried by **high authority** (Inquisitors, lords, Rogue Traders) and by
+**assassins**; anyone else with one will be asked where they got it.
+- **Very light:** **one hand or two**; **+1 to hit two-handed.** Melee chains of up to 3. **+1 to strike first.**
+- **Unpowered:** a superb edge: through flak on any hit, **through carapace on a solid hit.**
+- **Field on (the stud, no beat to wake it):** it hits as a **power weapon** (through power armour). The
+  cell runs a fight; recharge at a coupling.
+- **Shred:** a hit that gets through armour forces a **CON save against 13, or the target drops one more
+  step** as the teeth tear.
+- **Ceramite blade:** never breaks; can block a chainsword or a power weapon without being cut.
+
 ## Paired transonic blades
 
 **Paired transonic blades** (rare, 30 TV): two weapons (dual-wielding: +1 swing and +1 on attacks; codex house rule 5).

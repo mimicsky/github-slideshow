@@ -159,6 +159,7 @@ add("explosive","R","AF",[("Sticky vortex grenade (Mechanicus; 3 s fuse; can't b
 add("melee","R","MAF",[("Thunder hammer, Crucis pattern (intact; heavy, slow; thunderclap: two steps and knocked flat)",50),("Power falchion (duelling blade)",28),("Omnissian power sword (Mechanicus)",32),("Transonic blades, paired (Skitarii)",30)])
 # Player design (Ash on Ostrava day 44): rules in catalogue/melee.md.
 add("melee","R","AEF",[("Relic blade, 'Thorian' pattern (two-handed ceramite greatblade; charge a beat: 3 swings as a power weapon, +1 step a hit; zealot champions and the Sororitas)",40)])
+add("melee","R","AF",[("Power odachi, 'Eversor' pattern (light curved ceramite blade, shredding teeth; power stud; one or two hands; CON 13 or a step more)",50)])
 add("melee","R","F",[("Blaze force sword (psyker only)",45),("Blaze force greatsword (psyker only)",60)])
 add("melee","R","E",[("Blessed power maul (Ecclesiarchy)",28),("Sororitas power sword",32)])
 add("melee","R","B",[("Assassin's mono-wire garrotte",6),("Needle-blade (toxin)",8)])
