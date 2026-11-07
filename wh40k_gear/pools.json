@@ -1617,6 +1617,13 @@
   "sellers": "B"
  },
  {
+  "name": "Syringe spike (scrap injector; long needle, stab only, no parry; 3 doses, one a hit; uncanny)",
+  "tv": 0.75,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
   "name": "Thunder hammer, Crucis pattern (intact; heavy, slow; thunderclap: two steps and knocked flat)",
   "tv": 50,
   "cat": "melee",

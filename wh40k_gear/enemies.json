@@ -519,6 +519,10 @@
     [
      "Chem-witch: injector stiletto (paralytic), drug satchel, heretic charms",
      "R"
+    ],
+    [
+     "Chem-doctor: syringe spike loaded with 3 doses of the god's 'medicine', drug satchel, stub pistol",
+     "U"
     ]
    ],
    "bodyguard": [
@@ -1090,6 +1094,10 @@
     ],
     [
      "Chem-doc: concentrated stimms, Frenzon, a forbidden tonic, laspistol",
+     "U"
+    ],
+    [
+     "Chem-doc: syringe spike (3 doses of slaught), stimms, autopistol",
      "U"
     ]
    ],

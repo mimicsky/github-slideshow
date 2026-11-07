@@ -31,6 +31,23 @@ and prisoners: the thing up the sleeve.
 - **Rust:** **every hit forces a CON save against 12.** On a fail the wound **festers: -1 on all rolls**
   until a medic cleans it (a field dressing does it).
 
+## Syringe spike (scrap injector)
+
+**Syringe spike** (uncommon, 0.75 TV; black market; player design, Ash on Ostrava day 44). A big
+glass-and-brass syringe, its barrel a hand long, clamped and welded onto a knife hilt or a length of
+pipe, with a hollow needle as long as a forearm for a blade and the plunger at the pommel. Cloudy
+liquid sloshes in the barrel as it moves. It looks wrong, and it is meant to. **Mostly carried by
+chem-doctors** (cultists, raiders, pirates).
+- **Stab only, can't block or parry at all.** **Long: +1 to strike first.** Melee chains of up to 2.
+- **The needle:** **through flak on a solid hit; carapace on a raw 19-20** (it finds a gap).
+- **Injection:** any hit that gets through **drives in one dose** of whatever is loaded, and it does
+  what it does: a toxin (CON save or drop a step), a paralytic (CON save or lose the next beat), a combat
+  drug or cult drug forced into an enemy (its effect and its backfire), or a stimm into an ally. **The
+  barrel holds 3 doses**; refilling it takes a beat.
+- **Glass barrel:** on a natural 1 it cracks, and **the wielder gets a dose** of what's in it.
+- **Uncanny:** the first time someone squares up to it, **WIS save against 11 or -1 on their first roll
+  against the wielder.**
+
 ## Scrap throwing knives
 
 **Scrap throwing knives** (common, 0.4 TV for 4; player design): cheap, anyone can

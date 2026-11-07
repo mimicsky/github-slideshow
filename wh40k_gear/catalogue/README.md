@@ -103,6 +103,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Hive shank](melee.md#hive-shank)
 - [Pipe pick (scrap war pick)](melee.md#pipe-pick-scrap-war-pick)
 - [Railroad spike knife](melee.md#railroad-spike-knife)
+- [Syringe spike (scrap injector)](melee.md#syringe-spike-scrap-injector)
 - [Scrap throwing knives](melee.md#scrap-throwing-knives)
 - [Plasteel throwing knives, 'Callidus' pattern](melee.md#plasteel-throwing-knives-callidus-pattern)
 - [Fan throw (three throwing knives)](melee.md#fan-throw-three-throwing-knives) (rule)

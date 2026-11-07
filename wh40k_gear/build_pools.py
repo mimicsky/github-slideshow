@@ -150,6 +150,7 @@ add("melee","C","MB",[("Hive shank (scrap knife)",0.1),("Scrap throwing knives (
 # Player design (Ash on Ostrava day 44): rules in catalogue/melee.md.
 add("melee","C","B",[("Pipe pick (scrap war pick; two-handed; through carapace on a solid hit; the point snaps off in the plate on a d6 of 1)",0.25)])
 add("melee","C","B",[("Railroad spike knife (scrap; +2 to hide; stab only; a hit forces CON 12 or the wound festers, -1 till cleaned)",0.1)])
+add("melee","U","B",[("Syringe spike (scrap injector; long needle, stab only, no parry; 3 doses, one a hit; uncanny)",0.75)])
 add("melee","R","MAF",[("Thunder hammer, Crucis pattern (intact; heavy, slow; thunderclap: two steps and knocked flat)",50),("Power falchion (duelling blade)",28),("Omnissian power sword (Mechanicus)",32),("Transonic blades, paired (Skitarii)",30)])
 # Player design (Ash on Ostrava day 44): rules in catalogue/melee.md.
 add("melee","R","AEF",[("Relic blade, 'Thorian' pattern (two-handed ceramite greatblade; charge a beat: 3 swings as a power weapon, +1 step a hit; zealot champions and the Sororitas)",40)])
@@ -500,8 +501,8 @@ NEW = {
   "traitor_elite": [("Gunslinger: two hellpistols","U"),("Gunslinger: two Nocturne Ember heavy laspistols","R"),("Gunslinger: Kasr Duet twin-focus lasgun","R"),("Gunslinger: bolt pistol and a duelling laspistol","R")],
  },
  "chem-doctor": {
-  "cultist": [("Plague-doctor: rot-stimms, 3 doses of slaught, a jar of the god's 'medicine', autopistol","U"),("Chem-witch: injector stiletto (paralytic), drug satchel, heretic charms","R")],
-  "raider":  [("Chem-doc: 4 stimms, 3 combat drugs, injector stiletto, autopistol","C"),("Chem-doc: concentrated stimms, Frenzon, a forbidden tonic, laspistol","U")],
+  "cultist": [("Plague-doctor: rot-stimms, 3 doses of slaught, a jar of the god's 'medicine', autopistol","U"),("Chem-witch: injector stiletto (paralytic), drug satchel, heretic charms","R"),("Chem-doctor: syringe spike loaded with 3 doses of the god's 'medicine', drug satchel, stub pistol","U")],
+  "raider":  [("Chem-doc: 4 stimms, 3 combat drugs, injector stiletto, autopistol","C"),("Chem-doc: concentrated stimms, Frenzon, a forbidden tonic, laspistol","U"),("Chem-doc: syringe spike (3 doses of slaught), stimms, autopistol","U")],
   "pirate":  [("Ship's chem-doc: stimms, slaught, Quicksilver, a heretic cure-all, shotgun","C"),("Chem-doc: concentrated stimm, injector stiletto (toxin), ward-mark","U")],
  },
  "bodyguard": {t: [("Bodyguard: boarding shield and shock maul","C"),("Bodyguard: heavy carapace, combat shotgun and a shield","U"),("Bodyguard: storm shield and power maul","R")] for t in ("cultist","raider","pirate","traitor","traitor_elite")},
