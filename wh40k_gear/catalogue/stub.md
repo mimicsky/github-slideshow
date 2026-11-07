@@ -82,6 +82,23 @@ magazine**, a **select-fire switch**, a front grip and a **folding stock**. Stub
   like a carbine.
 - A magazine lasts about **three full strings**; a fresh one takes half a beat.
 
+## Stamped submachine gun, 'Munitorum Mk I' pattern
+
+**Stamped submachine gun, 'Munitorum Mk I' pattern** (player design, Ash on Ostrava day 45; common, ~1 TV;
+Munitorum mass issue, black market). Made by the million in forge-world manufactories with only the parts it
+needs: a stamped tube receiver, a **barrel that screws onto the front** (threaded at the muzzle), a
+**30-round stub magazine** that feeds straight into the receiver, a **wire stock** that folds flat along it, and
+a **skeletal grip** that looks like scaffolding with the panels left off. It looks like it would come apart in
+your hands, and it does, on purpose.
+- **Safe and auto, nothing else:** strings of up to **8**, no hit bonuses in the string (misses still -1);
+  **recoil 1.** No aimed single shots (a single short pull is just a string of one).
+- **Stub rounds:** good on flesh; **through flak on a solid hit**; carapace stops them.
+- **Wire stock:** folded, it draws like a big pistol (-1 quick-draw) and takes **-1 past ~15 m**; out, it
+  shoulders fine.
+- **Threaded muzzle:** takes any muzzle attachment (a silencer, a flash hider).
+- **Simple:** strips and cleans in **~15 minutes**; anyone can fix it, and **two broken ones make one working
+  one.** A magazine lasts about three full strings; a fresh one takes half a beat.
+
 ## Macragge service pistol
 
 **Macragge service pistol** (player design, epic: an exotic find, natural 20 only;

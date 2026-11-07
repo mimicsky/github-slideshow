@@ -58,6 +58,7 @@ add("gear","C","MBF",[("Speedloader (auto-revolver)",0.25)])
 add("stub","U","MBF",[("Compact autogun, 'Kasr Hive' pattern (top 50-round mag; chains of 8; +1 within 10 m, -2 past 30 m)",3)])
 add("stub","R","MBF",[("Anti-materiel rifle, 'Kasr Breaker' pattern (heavy stubber rounds, 5-round box; through cover; 2 steps a hit; braced)",15)])
 add("stub","U","MBF",[("Lever-action stub rifle, 'Kasr Frontier' pattern (12-round tube; never jams; chains of 6, or 3 double-lever shots)",2.5)])
+add("stub","C","MB",[("Stamped submachine gun, 'Munitorum Mk I' pattern (mass-produced stub SMG; safe and auto only, strings of 8; wire stock; threaded muzzle; cannibalise two into one)",1)])
 add("stub","U","MBF",[("Submachine gun, 'Kasr Locust' pattern (stub; 30-round mag; auto strings of 8, bursts of 4 as two rounds, semi +1 stock out; folding stock)",3)])
 add("stub","R","AF",[("Phosphor blast pistol (Mechanicus; 6-chamber phosphor cylinder; strings of 3; a hit lights them up, +1 to shots at them; solid hit sets alight)",14)])
 add("ammo","U","A",[("Phosphor cylinder (6 rounds, phosphor blast pistol)",0.5)])
@@ -351,7 +352,7 @@ E["traitor"] = {
 E["commoner"] = {
   "weapon": [("Pipe rifle (scrap)","C"),("Junk shotgun (scrap double-pipe)","C"),("Stub revolver","C"),("Combat shotgun, pump","C"),
              ("Hunting stub rifle (old, iron sights)","C"),("Sawn-off shotgun","C"),
-             ("Autogun, Agripinaa (old militia issue)","U"),("Lever-action stub rifle, 'Kasr Frontier' pattern","U"),("Hunting stub rifle with an old scope","U"),
+             ("Autogun, Agripinaa (old militia issue)","U"),("Stamped submachine gun, 'Munitorum Mk I' pattern","U"),("Lever-action stub rifle, 'Kasr Frontier' pattern","U"),("Hunting stub rifle with an old scope","U"),
              ("Lasgun, Lucius No.98 (PDF surplus)","R"),("Submachine gun, 'Kasr Locust' pattern","R")],
   "melee":  [("Farm tool: pitchfork, sickle or billhook","C"),("Hive shank (scrap knife)","C"),("Scrap axe","C"),("Machete","C"),("Grox-prod (farm shock prod)","C"),
              ("Trench club","C"),("Combat knife","U"),("Tactical breaching axe, 'Kasr Sapper' pattern","U"),("Chainsword (an old militia officer's)","R")],

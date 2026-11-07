@@ -448,6 +448,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Stamped submachine gun, 'Munitorum Mk I' pattern (mass-produced stub SMG; safe and auto only, strings of 8; wire stock; threaded muzzle; cannibalise two into one)",
+  "tv": 1,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
   "name": "Submachine gun, 'Kasr Locust' pattern (stub; 30-round mag; auto strings of 8, bursts of 4 as two rounds, semi +1 stock out; folding stock)",
   "tv": 3,
   "cat": "stub",
