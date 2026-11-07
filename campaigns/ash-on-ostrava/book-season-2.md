@@ -43228,8 +43228,12 @@ hand that empties fast while I'm falling. Loud."
 
 Down the table Hollis looked up from his plate with real interest.
 
-"I'll draw it up," said Varga. "For Dace and Ferro." She bit into the second half. "We'll
-see."
+"I'll draw it up," said Varga. "For Dace and Ferro. If you like it."
+
+"We'll see," said Tamsin.
+
+"We'll see," Varga agreed, and bit into the second half of the brick as if she had won
+something.
 
 ---
 
