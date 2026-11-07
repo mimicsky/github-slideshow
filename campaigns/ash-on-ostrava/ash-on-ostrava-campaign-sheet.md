@@ -215,6 +215,8 @@ Moved to `world.md` (day 36 cleanup), under the same heading.
 | Joren (penitent) | **Hard to kill** (+1 when a medic patches him up from Down), **Cool under fire** (suppression on him is -1 instead of -2), **Void-sick** (-1 in the open void, on EVA, or in zero gravity). Rolls (d30): good 22, good 22 (duplicate, rerolled 17), bad 17 |
 | Dannel (penitent) | **Lucky** (once a mission, reroll a natural 1), **Sharp memory** (+1 on INT to recall faces, routes, codes and plans), **Glass jaw** (wear-down every 2 shrugged hits instead of 3). Rolls (d30): good 10, bad 18, good 23 |
 
+**Power cells (codex, Power cells; set day 44: 30 power-mode swings a cell):** Corvane's power sword **30/30**; Varga's power knife **30/30**; Nessa's power knife **30/30**.
+
 **Tamsin's standing modifiers (check every roll; codex Roll checklist):** **Traits: Night owl, Brave (+1 fear/intimidation/break), Claustrophobic (-1 in tight spaces)**; **Extra Attack (2): +1 shot on every string, +1 swing on every melee chain (Shameholder 3)**; Champion crits 19-20 (Vigil 17-20, heat);
 Remarkable Athlete (+2 untrained STR/DEX/CON); proficiency +4 (Perception, Athletics, Survival, Intimidation); **+1 will
 checks** (provost's manual); **Commander: two orders a beat to specialists** (+2, act first); Defense style; heavy

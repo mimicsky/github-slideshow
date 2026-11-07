@@ -1367,6 +1367,15 @@ No hard cap on bonuses; nearly every attachment carries a real downside; the few
 eye's aim bonus stack** (changed by the player, Ash on Ostrava day 34: otherwise the optic is just decor). Attachments are in the
 catalogue (kit: pistol and gun attachments).
 
+#### Power cells
+
+**Power cells (set by the player, Ash on Ostrava day 44).** Every power weapon (power swords, axes, mauls,
+knives, falchions, fists and claws, thunder hammers, the relic blade, the power odachi) runs its field off a
+cell: **30 swings in power mode per cell.** A swing with the field off doesn't use the cell (a charged relic
+blade's swings count). **A spent cell:** the weapon fights as its plain blade (a fist or hammer as a heavy
+club) until a fresh cell goes in (a beat) or it's recharged at a coupling (about an hour). Count power-mode
+swings like ammunition, in the field only (training swings aboard aren't counted). Spare cells: ~1 TV.
+
 #### Gun condition and jams
 
 **Gun condition and jams (set by the player, session 9).** Every gun is **Clean**,

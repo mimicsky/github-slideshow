@@ -201,7 +201,8 @@ Sororitas**; anyone else holding one will be asked how they came by it.
 - **Ceramite blade:** never breaks; can block a chainsword or a power weapon without being cut.
 - **Charge:** spend a beat charging the field (you can still defend that beat, but not strike).
   **For the next 3 swings it hits as a power weapon** (through power armour) **and a hit drops one
-  extra step.** Then the field vents, and it needs another beat to charge again.
+  extra step.** Then the field vents, and it needs another beat to charge again. Charged swings come off its cell
+  (**30 a cell**, codex, Power cells).
 - **Heavy:** defenders get **+1** to block or parry it.
 
 ## Power odachi, 'Eversor' pattern
@@ -214,8 +215,8 @@ grip that wakes the power field.** Carried by **high authority** (Inquisitors, l
 **assassins**; anyone else with one will be asked where they got it.
 - **Very light:** **one hand or two**; **+1 to hit two-handed.** Melee chains of up to 3. **+1 to strike first.**
 - **Unpowered:** a superb edge: through flak on any hit, **through carapace on a solid hit.**
-- **Field on (the stud, no beat to wake it):** it hits as a **power weapon** (through power armour). The
-  cell runs a fight; recharge at a coupling.
+- **Field on (the stud, no beat to wake it):** it hits as a **power weapon** (through power armour). **30
+  swings in power mode per cell** (codex, Power cells); recharge at a coupling.
 - **Shred:** a hit that gets through armour forces a **CON save against 13, or the target drops one more
   step** as the teeth tear.
 - **Ceramite blade:** never breaks; can block a chainsword or a power weapon without being cut.
