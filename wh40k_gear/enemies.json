@@ -2251,6 +2251,252 @@
    ]
   }
  },
+ "commoner": {
+  "weapon": [
+   [
+    "Pipe rifle (scrap)",
+    "C"
+   ],
+   [
+    "Junk shotgun (scrap double-pipe)",
+    "C"
+   ],
+   [
+    "Stub revolver",
+    "C"
+   ],
+   [
+    "Combat shotgun, pump",
+    "C"
+   ],
+   [
+    "Hunting stub rifle (old, iron sights)",
+    "C"
+   ],
+   [
+    "Sawn-off shotgun",
+    "C"
+   ],
+   [
+    "Autogun, Agripinaa (old militia issue)",
+    "U"
+   ],
+   [
+    "Lever-action stub rifle, 'Kasr Frontier' pattern",
+    "U"
+   ],
+   [
+    "Hunting stub rifle with an old scope",
+    "U"
+   ],
+   [
+    "Lasgun, Lucius No.98 (PDF surplus)",
+    "R"
+   ],
+   [
+    "Submachine gun, 'Kasr Locust' pattern",
+    "R"
+   ]
+  ],
+  "melee": [
+   [
+    "Farm tool: pitchfork, sickle or billhook",
+    "C"
+   ],
+   [
+    "Hive shank (scrap knife)",
+    "C"
+   ],
+   [
+    "Scrap axe",
+    "C"
+   ],
+   [
+    "Machete",
+    "C"
+   ],
+   [
+    "Grox-prod (farm shock prod)",
+    "C"
+   ],
+   [
+    "Trench club",
+    "C"
+   ],
+   [
+    "Combat knife",
+    "U"
+   ],
+   [
+    "Tactical breaching axe, 'Kasr Sapper' pattern",
+    "U"
+   ],
+   [
+    "Chainsword (an old militia officer's)",
+    "R"
+   ]
+  ],
+  "armour": [
+   [
+    "Work clothes, no armour",
+    "C"
+   ],
+   [
+    "Padded work jacket",
+    "C"
+   ],
+   [
+    "Flak vest",
+    "U"
+   ],
+   [
+    "Old PDF flak armour set",
+    "U"
+   ],
+   [
+    "Cogitator shield (scrap)",
+    "U"
+   ],
+   [
+    "Carapace chest plate (a family heirloom)",
+    "R"
+   ]
+  ],
+  "extra": [
+   [
+    "Nothing",
+    "C"
+   ],
+   [
+    "Fire bottle (scrap)",
+    "C"
+   ],
+   [
+    "Lho-sticks",
+    "C"
+   ],
+   [
+    "Field dressing",
+    "C"
+   ],
+   [
+    "Family aquila charm",
+    "C"
+   ],
+   [
+    "Frag grenade (old PDF stock)",
+    "U"
+   ],
+   [
+    "Stimm (dose)",
+    "U"
+   ],
+   [
+    "Militia vox-bead",
+    "U"
+   ]
+  ],
+  "found": [
+   [
+    "Grandfather's laspistol (old, kept clean)",
+    "U"
+   ],
+   [
+    "Box of hunting rounds",
+    "U"
+   ],
+   [
+    "A blessed icon from the chapel",
+    "U"
+   ],
+   [
+    "PDF lasgun with three packs",
+    "R"
+   ],
+   [
+    "Mining charge (farm demolition)",
+    "R"
+   ]
+  ],
+  "specialists": {
+   "leader": [
+    [
+     "Headman: stub revolver and a loud voice",
+     "C"
+    ],
+    [
+     "Militia captain: old PDF officer's laspistol + chainsword",
+     "U"
+    ]
+   ],
+   "medic": [
+    [
+     "Lay healer: field dressings, two stimms, a prayer book",
+     "C"
+    ]
+   ],
+   "sniper": [
+    [
+     "Hunter: hunting stub rifle with an old scope",
+     "C"
+    ],
+    [
+     "Hunter: Kasr Frontier lever-action",
+     "U"
+    ]
+   ],
+   "heavy gunner": [
+    [
+     "Braced autogun, 'Graia' pattern",
+     "U"
+    ],
+    [
+     "Old heavy stubber from the PDF armoury, 1 belt",
+     "R"
+    ]
+   ],
+   "grenadier": [
+    [
+     "Bag of 4 fire bottles + stub revolver",
+     "C"
+    ],
+    [
+     "2 mining charges + pump shotgun",
+     "U"
+    ]
+   ],
+   "tracker": [
+    [
+     "Herder: grox-prod and a hunting rifle",
+     "C"
+    ]
+   ],
+   "beast handler": [
+    [
+     "3 farm hounds + pump shotgun",
+     "C"
+    ]
+   ],
+   "brute": [
+    [
+     "Big farmhand: heavy scrap axe or a sledgehammer",
+     "C"
+    ]
+   ],
+   "zealot": [
+    [
+     "Preacher: a blessed icon, a stub pistol, the crowd behind him",
+     "C"
+    ]
+   ],
+   "vox": [
+    [
+     "Militia vox-caster + autogun",
+     "U"
+    ]
+   ]
+  }
+ },
  "traitor_elite": {
   "weights": {
    "C": 25,

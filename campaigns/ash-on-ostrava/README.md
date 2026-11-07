@@ -188,7 +188,7 @@ Award XP (the sheet's XP table), check the book is up to date with every day pla
 
 - Roll the faction's wealth: `python3 wh40k_gear/roll_enemy.py wealth TYPE` (once per mission or world).
 - Check the DM notes' witnesses and nemeses: bring one back if the story fits (codex Part 8, Nemeses; the DM's call, no automatic rolls).
-- Enemies: `python3 wh40k_gear/roll_enemy.py TYPE COUNT WEALTH [GOD]`. The types are cultist, raider, pirate, traitor and traitor_elite.
+- Enemies: `python3 wh40k_gear/roll_enemy.py TYPE COUNT WEALTH [GOD]`. The types are cultist, raider, pirate, traitor, traitor_elite and commoner (a militia of ordinary people).
 - Any other roll (saves, break checks, loot d20s, NPCs): `python3 wh40k_gear/dice.py d20` (or `3d20`, `d6`...). A rare item: `python3 wh40k_gear/dice.py rare weapons` (rare roll 1, gear in use) or `rare any` (rare roll 2, stashed).
 - Shops: `python3 wh40k_gear/roll.py SELLER SIZE`. Sellers: **M** Munitorum or fleet stores, **B** black market or chandlers, **A** Mechanicus shrine, **F** Free Trader or Void Exchange, **E** Ecclesiarchy. Sizes: small, medium, large, huge (the counts and the restock: codex Part 8, Shop size by market).
 

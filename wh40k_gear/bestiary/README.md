@@ -4,8 +4,8 @@ Enemy forces the Light can meet. For the DM: read this index; open a team's entr
 when it shows up.
 
 **How enemies are rolled** (`../roll_enemy.py TYPE COUNT [WEALTH] [GOD]`; roll the faction's wealth first with `../roll_enemy.py wealth TYPE`, codex Part 8): every group
-is one of five **basic types** (cultists, raiders, pirates, traitor soldiers,
-traitor elites). Before the fight, **2d20 added**: **2-30** a basic group, **31-40** a
+is one of six **basic types** (cultists, raiders, pirates, traitor soldiers,
+traitor elites, and commoners: a militia of ordinary people, with no named teams). Before the fight, **2d20 added**: **2-30** a basic group, **31-40** a
 **named special team** of that type (below), about 1 fight in 7. A special team
 gets **+5 STR and DEX levels** (+1 on other rolls), **armour one step better**, **+3 to their
 better-armed d20**, and half their guns are the team's favoured weapons. Their
@@ -16,6 +16,10 @@ also rolls its own STR and DEX (ranges in `DND_CODEX.md` Part 8); no per-book bo
 
 Every grunt and specialist role, how it tends to think and fight, and its rules.
 The DM decides; these are tendencies.
+
+## [Commoners (militia)](commoners.md)
+
+Ordinary people under arms: Poor, Steady, or Good in rich places. Brittle; can be talked down.
 
 ## [Cultists](cultists.md)
 

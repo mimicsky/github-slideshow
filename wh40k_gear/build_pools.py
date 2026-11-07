@@ -347,6 +347,22 @@ E["traitor"] = {
              ("Shotgun with the eagle scratched off","U"),("Plasma pistol, Ryza pattern (taken from a dead officer)","R"),("Melta bomb","R"),
              ("Commissar's power sword (trophy)","R")],
 }
+# Commoners (player-set, Ash on Ostrava day 45): a militia of ordinary people. Rules in bestiary/commoners.md.
+E["commoner"] = {
+  "weapon": [("Pipe rifle (scrap)","C"),("Junk shotgun (scrap double-pipe)","C"),("Stub revolver","C"),("Combat shotgun, pump","C"),
+             ("Hunting stub rifle (old, iron sights)","C"),("Sawn-off shotgun","C"),
+             ("Autogun, Agripinaa (old militia issue)","U"),("Lever-action stub rifle, 'Kasr Frontier' pattern","U"),("Hunting stub rifle with an old scope","U"),
+             ("Lasgun, Lucius No.98 (PDF surplus)","R"),("Submachine gun, 'Kasr Locust' pattern","R")],
+  "melee":  [("Farm tool: pitchfork, sickle or billhook","C"),("Hive shank (scrap knife)","C"),("Scrap axe","C"),("Machete","C"),("Grox-prod (farm shock prod)","C"),
+             ("Trench club","C"),("Combat knife","U"),("Tactical breaching axe, 'Kasr Sapper' pattern","U"),("Chainsword (an old militia officer's)","R")],
+  "armour": [("Work clothes, no armour","C"),("Padded work jacket","C"),("Flak vest","U"),("Old PDF flak armour set","U"),("Cogitator shield (scrap)","U"),
+             ("Carapace chest plate (a family heirloom)","R")],
+  "extra":  [("Nothing","C"),("Fire bottle (scrap)","C"),("Lho-sticks","C"),("Field dressing","C"),("Family aquila charm","C"),
+             ("Frag grenade (old PDF stock)","U"),("Stimm (dose)","U"),("Militia vox-bead","U")],
+  "found":  [("Grandfather's laspistol (old, kept clean)","U"),("Box of hunting rounds","U"),("A blessed icon from the chapel","U"),
+             ("PDF lasgun with three packs","R"),("Mining charge (farm demolition)","R")],
+}
+
 # Specialist kits (player-set, session 8): rolled on 16-20 on the enemy's role d20.
 # Each role: (main kit, rarity) options; the specialist also rolls armour and an extra.
 SPEC = {
@@ -441,6 +457,18 @@ for k in ("traitor","traitor_elite"):
 SPEC["traitor"]["heavy gunner"] = [("Heavy stubber + 2 belts, carried","C"),("Braced autogun, 'Graia' pattern","C"),("Ripper gun / drum-fed shotgun","U"),("Las-box, 'Kasr Barr' light las-LMG","R")]
 SPEC["traitor_elite"]["heavy gunner"] = [("Las-box, 'Kasr Barr' light las-LMG","U"),("Hot-shot volley gun","U"),("Heavy stubber with drum mag, carried","C"),("Multi-laser, man-portable, carried","R")]
 # Jumper (player design, Ash on Ostrava session 9): all five types.
+SPEC["commoner"] = {
+  "leader":      [("Headman: stub revolver and a loud voice","C"),("Militia captain: old PDF officer's laspistol + chainsword","U")],
+  "medic":       [("Lay healer: field dressings, two stimms, a prayer book","C")],
+  "sniper":      [("Hunter: hunting stub rifle with an old scope","C"),("Hunter: Kasr Frontier lever-action","U")],
+  "heavy gunner":[("Braced autogun, 'Graia' pattern","U"),("Old heavy stubber from the PDF armoury, 1 belt","R")],
+  "grenadier":   [("Bag of 4 fire bottles + stub revolver","C"),("2 mining charges + pump shotgun","U")],
+  "tracker":     [("Herder: grox-prod and a hunting rifle","C")],
+  "beast handler":[("3 farm hounds + pump shotgun","C")],
+  "brute":       [("Big farmhand: heavy scrap axe or a sledgehammer","C")],
+  "zealot":      [("Preacher: a blessed icon, a stub pistol, the crowd behind him","C")],
+  "vox":         [("Militia vox-caster + autogun","U")],
+}
 SPEC["cultist"]["jumper"] = [("Scrap jump pack (homemade; sputters on a 1) + chain axe","C"),("Stolen grav-chute rigged to hop + autopistol + machete","U")]
 SPEC["raider"]["jumper"] = [("Scrap jump pack + boarding axe + stub pistol","C"),("Stolen Guard jump pack + chainsword","U")]
 SPEC["pirate"]["jumper"] = [("Boarders' lift pack + cutlass + autopistol","U"),("Boarders' lift pack + combat shotgun","U")]

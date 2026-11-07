@@ -3,7 +3,8 @@
 Usage: python3 roll_enemy.py TYPE COUNT [WEALTH] [GOD]
        python3 roll_enemy.py wealth TYPE   (roll a faction's wealth at mission start)
   TYPE:  cultist, raider, pirate, traitor (renegade Guard), traitor_elite
-         (traitor storm troopers, renegade Inquisition teams)
+         (traitor storm troopers, renegade Inquisition teams), commoner (a militia of
+         ordinary people; Poor, Steady, or Good in rich places)
   WEALTH: poor, steady, good, rich, wealthy (the faction's level, rolled d100 at mission
          start; default steady, traitors good)
   COUNT: how many enemies in the group (a named enemy alone: 1)
@@ -32,7 +33,8 @@ its role uses; a special team gets +5 levels to both.
 Faction wealth (player-set, session 9): rolled d100 once per mission or world (or the
 first meeting with that faction there). Cultists, raiders, pirates: 1-30 Poor, 31-60
 Steady, 61-80 Good, 81-95 Rich, 96-100 Wealthy. Traitors and traitor elites (Good and up):
-1-50 Good, 51-85 Rich, 86-100 Wealthy. Gear C/U/R: Poor 80/20/0 (found items never rare,
+1-50 Good, 51-85 Rich, 86-100 Wealthy. Commoners (player-set, day 45; never past Good): 1-50 Poor, 51-90 Steady,
+91-100 Good. Gear C/U/R: Poor 80/20/0 (found items never rare,
 lots of scrap guns), Steady 70/25/5 (some scrap), Good 55/35/10, Rich 40/45/15 and
 Wealthy 25/50/25 (armour one step better). Epic items: each enemy of a Rich faction has a
 2% chance, of a Wealthy faction 5%, to carry one (no Assassinorum gear). An elite team is
@@ -61,6 +63,8 @@ if len(sys.argv) > 1 and sys.argv[1].lower() == "wealth":  # roll a faction's we
     d = random.randint(1, 100)
     if t.startswith("traitor"):
         lvl = "good" if d <= 50 else "rich" if d <= 85 else "wealthy"
+    elif t.startswith("common"):
+        lvl = "poor" if d <= 50 else "steady" if d <= 90 else "good"
     else:
         lvl = "poor" if d <= 30 else "steady" if d <= 60 else "good" if d <= 80 else "rich" if d <= 95 else "wealthy"
     print(f"{t} faction wealth: d100 {d} = {lvl.upper()}")
@@ -72,10 +76,12 @@ rest = [a for a in sys.argv[3:] if not a.isdigit() and a.lower() not in LEVELS] 
 given = [a.lower() for a in sys.argv[3:] if a.lower() in LEVELS]
 level = given[0] if given else ("good" if kind.startswith("traitor") else "steady")
 if kind.startswith("traitor") and LEVELS.index(level) < 2: level = "good"  # traitors are Good and up
+if kind == "commoner" and LEVELS.index(level) > 2: level = "good"  # commoners are never past Good
 god_given = bool(rest)
 god = (rest[0].lower() if rest else random.choice(["khorne", "nurgle", "slaanesh", "tzeentch", "undivided"]))
 STATS = {"cultist": ((10, 30), (10, 25)), "raider": ((15, 35), (15, 30)), "pirate": ((15, 35), (20, 35)),
-         "traitor": ((20, 35), (25, 40)), "traitor_elite": ((25, 45), (35, 50))}
+         "traitor": ((20, 35), (25, 40)), "traitor_elite": ((25, 45), (35, 50)),
+         "commoner": ((10, 30), (10, 25))}
 STR_ROLES = {"brute", "berserker", "breacher", "bodyguard", "enforcer", "duelist", "zealot", "bomb zealot", "arbitrator"}
 DEX_ROLES = {"sniper", "grenadier", "assassin", "flamer", "demolitions", "jumper", "spotter", "tracker", "fighter pilot",
              "heavy gunner", "heavy team", "plasma gunner", "infiltrator", "gunslinger"}
@@ -91,7 +97,7 @@ sys.path.insert(0, here)
 from factions import F
 team_roll = random.randint(1, 20) + random.randint(1, 20)
 team = None
-if team_roll >= 31:
+if team_roll >= 31 and any(f["type"] == kind for f in F):  # commoners have no named teams
     opts = [f for f in F if f["type"] == kind and (kind != "cultist" or not god_given or f.get("god") == god)] or [f for f in F if f["type"] == kind]
     team = random.choice(opts)
     if team.get("god"): god = team["god"]
@@ -170,7 +176,7 @@ for n in range(count):
     extra = pick(P['extra'])
     if head.startswith("SPECIALIST BOMB ZEALOT"):
         extra = "STRAPPED ON: " + ", ".join(pick(BOMBS) for _ in range(random.randint(3, 5)))
-    cond = random.choice(["Dirty", "Neglected"]) if kind in ("cultist", "raider") else "Dirty" if kind == "pirate" else "Clean"
+    cond = random.choice(["Dirty", "Neglected"]) if kind in ("cultist", "raider") else "Dirty" if kind in ("pirate", "commoner") else "Clean"
     line = f"{n+1}. {head} | {armour} | {extra} | {stats(role if role_d20 >= 16 else None, "SKITARIUS" in head)} | guns {cond}"
     if n in lucky:
         line += f"  ** FOUND/MADE: {random.choice([f for f in P['found'] if not poor or f[1] != 'R'] or P['found'])[0]}"
