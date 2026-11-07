@@ -266,7 +266,8 @@ sword (greatsword: two-handed, heavy).
 **Librarius aide's stave** (player design, Ash on Ostrava day 45; legendary, ~150 TV; **never sold**: a gift).
 A force stave forged in an Adeptus Astartes Librarius, sized for a human: given by a Space Marine Librarian
 to the one mortal psyker he trusts as his right hand. Psychic hood-work runs up the shaft into a crown of
-crystal and bound scripture. **Only a truly strong human psyker can wield it (WIS 50+);** in anyone weaker's
+crystal and bound scripture. **The crown bears the giving Chapter's symbol, large and bright enough to be
+seen from far away:** anyone who knows the Chapters knows whose it is at a glance. **Only a truly strong human psyker can wield it (WIS 50+);** in anyone weaker's
 hands it's a dead staff that refuses them.
 - **No charge:** every power fires the beat it's called.
 - **No Perils:** the wielder **never rolls the Perils trigger** while holding it.
