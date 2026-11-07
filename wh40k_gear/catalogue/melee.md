@@ -46,6 +46,44 @@ chem-doctors** (cultists, raiders, pirates).
   barrel holds 3 doses**; refilling it takes a beat.
 - **Glass barrel:** on a natural 1 it cracks, and **the wielder gets a dose** of what's in it.
 
+## Chain-flail (scrap)
+
+**Chain-flail** (common, 0.3 TV; black market; player design, Ash on Ostrava day 44). A length of
+heavy chain with a sprocket or a gear welded on the end, taped at the handle. Melee chains of up to 2.
+- **Weight:** through flak on a solid hit; carapace stops it, but a hit still staggers (-1 on their next roll).
+- **Wraps:** if the defender blocks or parries it, the chain wraps round their weapon: **your next swing
+  this beat is +1.**
+- **Wrap and yank:** on a **raw 17+** you can **disarm** instead of hitting; their weapon goes flying
+  (Iron grip holds on).
+- **Natural 1:** it wraps round your own arm; you lose your next swing.
+
+## Rivet knuckles
+
+**Rivet knuckles** (common, 0.2 TV; black market; player design, Ash on Ostrava day 44). Knuckle-dusters
+cut from rail plate, with rivet heads for spikes. A light weapon: melee chains of up to 3.
+- **Through flak on a solid hit.** **Can't be disarmed.** **+2 to keep them hidden.**
+- **Spike attachment** (0.1 TV; screws onto the knuckle bar in a beat): a short spike that **stabs through
+  flak on any hit and carapace on a raw 19-20**. While it's fitted they're only +1 to hide.
+
+## Saw-cleaver
+
+**Saw-cleaver** (common, 0.5 TV; black market; player design, Ash on Ostrava day 44). A crate-cutter's
+circular saw blade bolted to a handle, unpowered and toothed. One hand; melee chains of up to 2.
+- **Nasty on flesh:** a hit on someone in flak or less **drops one extra step**; through flak on a solid hit.
+- **Stuck:** a hit on carapace or heavier doesn't get through, and the teeth bite into the plate: **you lose
+  your next swing** pulling it free (or let it go).
+- **Slow:** defenders get +1 to block or parry it.
+
+## Grox-prod
+
+**Grox-prod** (common on agri worlds, 1 TV elsewhere; Munitorum, black market; player design, Ash on
+Ostrava day 44). A long insulated farm prod with a battery pack and two brass prongs, for driving grox: a
+poor man's shock spear. **Two-handed and long: +1 to strike first;** melee chains of up to 2.
+- **Shock:** the prongs only need to touch (flak doesn't stop it): **a hit forces a CON save against 13, or
+  the target is stunned and loses their next beat.** **No shock through power armour or a sealed
+  void-suit.** Without the shock it hits like a stick.
+- **6 jolts a battery;** recharge at a coupling (about an hour).
+
 ## Scrap throwing knives
 
 **Scrap throwing knives** (common, 0.4 TV for 4; player design): cheap, anyone can

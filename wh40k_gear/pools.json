@@ -1624,6 +1624,48 @@
   "sellers": "B"
  },
  {
+  "name": "Chain-flail (scrap; wraps a block or parry: next swing +1; disarms on a raw 17+)",
+  "tv": 0.3,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Rivet knuckles (rail plate; can't be disarmed; +2 to hide)",
+  "tv": 0.2,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Rivet knuckle spike attachment (stabs through flak; carapace on a raw 19-20)",
+  "tv": 0.1,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Saw-cleaver (scrap; +1 step on flesh and flak; sticks in carapace)",
+  "tv": 0.5,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Grox-prod (farm shock prod; two-handed, long; CON 13 or stunned; 6 jolts)",
+  "tv": 1,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Cogitator shield (scrap; +2 block, half cover; sparks; one shock bash a fight; -1 DEX rolls)",
+  "tv": 1.5,
+  "cat": "kit",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
   "name": "Thunder hammer, Crucis pattern (intact; heavy, slow; thunderclap: two steps and knocked flat)",
   "tv": 50,
   "cat": "melee",

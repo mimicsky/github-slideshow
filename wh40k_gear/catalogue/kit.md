@@ -31,6 +31,18 @@ together. **+1 on the defender\'s roll (block or parry), one-third cover from th
 difficulty). Breaks after 2-3 heavy hits:** roll it when the shield is made or
 repaired (d6: 1-3 it takes two, 4-6 three).
 
+## Cogitator shield (scrap)
+
+**Cogitator shield** (common, 1.5 TV; black market; player design, Ash on Ostrava day 44): a gutted
+cogitator casing with handles riveted inside, its old power cell still wired in. Heavier and better than a
+makeshift shield, and nastier.
+- **+2 on the defender's roll (block or parry), half cover from the front.**
+- **Sparks:** every melee hit it takes spits sparks into the attacker's face: **-1 on their next roll.**
+- **Old cell, once a fight:** a shield bash discharges it: **CON save against 12 or stunned** (lose the next
+  beat). Then it's dead until recharged at a coupling.
+- **Heavy and clumsy:** -1 on the bearer's DEX rolls (dodges, quick-draws) while it's carried.
+- **Breaks after 4-5 heavy hits** (roll when made or repaired: d6 1-3 four, 4-6 five).
+
 ## Forged shield
 
 **Forged shield** (uncommon, 6 TV; player design): smith-made to take blows.
