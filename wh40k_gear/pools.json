@@ -448,6 +448,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Twin-barrel autopistol, 'Kasr Hydra' pattern (stub; 40-round mag; strings of 16; heat 1 per 8; jams on a 1-2; +1 quick-draw)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
   "name": "Stamped submachine gun, 'Munitorum Mk I' pattern (mass-produced stub SMG; safe and auto only, strings of 8; wire stock; threaded muzzle; cannibalise two into one)",
   "tv": 1,
   "cat": "stub",

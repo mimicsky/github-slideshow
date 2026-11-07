@@ -48,6 +48,21 @@ market, Free Traders). A compact full-auto pistol with a 30-round magazine.
 Shot chains of up to 8 with no hit bonuses (misses still -1). Autopistol punch:
 good on flesh, poor on flak, through carapace only on a solid hit.
 
+## Twin-barrel autopistol, 'Kasr Hydra' pattern
+
+**Twin-barrel autopistol, 'Kasr Hydra' pattern** (player design, Ash on Ostrava day 45; uncommon, ~3 TV; black
+market, Free Traders). Two stub barrels stacked under one slide, fed from a **40-round twin-column magazine**,
+firing **twice as fast as an autopistol**, with an **ergonomic moulded grip**. Both barrels eject through **one
+port**, which is its weak point.
+- **Twice the rate:** strings of up to **16**, no hit bonuses in the string (misses still -1); **recoil 1.**
+- **Stub rounds:** good on flesh; **through flak on a solid hit**; carapace stops them.
+- **Ergonomic grip:** **+1 on the quick-draw.**
+- **Runs hot:** **heat 1 per 8 shots** in a fight. At **3 heat** it must cool for a beat; firing anyway, d20 **1-5**
+  the slide seizes and the grip scalds (the shooter drops a step, the pistol is out of the fight). Heat clears
+  after cooling or when the fight ends.
+- **One ejection port:** any shot die of **1-2** is a **jam** instead of the shot (a beat to clear).
+- A magazine lasts about two and a half full strings; a fresh one takes half a beat.
+
 ## Machine pistol, 'Kasr Hornet' pattern
 
 **Machine pistol, 'Kasr Hornet' pattern** (player design, uncommon, 2.5 TV; black

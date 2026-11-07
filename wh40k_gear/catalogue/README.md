@@ -39,6 +39,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Vigilante autogun, 'Kasr Warden' pattern](stub.md#vigilante-autogun-kasr-warden-pattern)
 - [Headhunter autogun, Agripaa pattern](stub.md#headhunter-autogun-agripaa-pattern)
 - [Shredder autopistol, Ius pattern](stub.md#shredder-autopistol-ius-pattern)
+- [Twin-barrel autopistol, 'Kasr Hydra' pattern](stub.md#twin-barrel-autopistol-kasr-hydra-pattern) (strings of 16; runs hot; jams on 1-2)
 - [Machine pistol, 'Kasr Hornet' pattern](stub.md#machine-pistol-kasr-hornet-pattern)
 - [Submachine gun, 'Kasr Locust' pattern](stub.md#submachine-gun-kasr-locust-pattern) (stub SMG; auto, burst, semi; folding stock)
 - [Stamped submachine gun, 'Munitorum Mk I' pattern](stub.md#stamped-submachine-gun-munitorum-mk-i-pattern) (mass-produced; safe and auto only; wire stock)
