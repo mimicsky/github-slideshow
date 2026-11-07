@@ -97,6 +97,19 @@ normal. Stub barrel: +1 within 10 m, -2 past 20 m, easy to hide. Long barrel: +1
 single aimed shots past 20 m. Reloading loose rounds takes a full beat; a
 speedloader (common, 0.25 TV) makes it half a beat.
 
+## Phosphor blast pistol (Mechanicus)
+
+**Phosphor blast pistol** (rare, ~14 TV; Mechanicus, Free Traders; player request, Ash on Ostrava day 45). A
+heavy Skitarii sidearm built like a revolver: a **6-chamber cylinder of phosphor cells**, a vented barrel and
+Mechanicus sigils on the frame. Each shot is a spitting white-green bolt of burning phosphor.
+- **Strings of up to 3; recoil 1** (as a revolver).
+- **Phosphor:** **through flak on any hit; through carapace on a solid hit.**
+- **Lit up:** a hit leaves the target **glowing with phosphor** until the end of their next beat: **+1 to every
+  shot at them**, and darkness and smoke don't hide them.
+- **Burns:** a **solid hit sets them alight** (they spend their next beat putting it out, or drop a step).
+- **Bright:** every shot lights up the shooter too; they can't stay hidden after firing.
+- **Reload:** a fresh cylinder takes a beat. **Phosphor cylinders ~0.5 TV each** (Mechanicus).
+
 ## Silenced stub pistol
 
 **Silenced stub pistol** (uncommon, 2.5 TV; black market): a stub pistol with a built-in standard silencer; the

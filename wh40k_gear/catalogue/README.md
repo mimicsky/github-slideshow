@@ -42,6 +42,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Machine pistol, 'Kasr Hornet' pattern](stub.md#machine-pistol-kasr-hornet-pattern)
 - [Macragge service pistol](stub.md#macragge-service-pistol) (epic, Ultramarines)
 - [Auto-revolver, 'Hammerfall' pattern](stub.md#auto-revolver-hammerfall-pattern)
+- [Phosphor blast pistol (Mechanicus)](stub.md#phosphor-blast-pistol-mechanicus) (lights targets up; burns on a solid hit)
 - [Silenced stub pistol](stub.md#silenced-stub-pistol)
 - [Combat shotgun, 'Kasr Sweeper' duckbill pattern](stub.md#combat-shotgun-kasr-sweeper-duckbill-pattern)
 - [Combi-pistol, 'Kasr Trident' pattern](stub.md#combi-pistol-kasr-trident-pattern)

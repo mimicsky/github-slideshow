@@ -448,6 +448,20 @@
   "sellers": "MBF"
  },
  {
+  "name": "Phosphor blast pistol (Mechanicus; 6-chamber phosphor cylinder; strings of 3; a hit lights them up, +1 to shots at them; solid hit sets alight)",
+  "tv": 14,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Phosphor cylinder (6 rounds, phosphor blast pistol)",
+  "tv": 0.5,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "A"
+ },
+ {
   "name": "Combi-pistol, 'Kasr Trident' pattern (twin autogun barrels, 40-round mag, chains of 6; under-barrel bolt shot last, -1)",
   "tv": 12,
   "cat": "stub",
