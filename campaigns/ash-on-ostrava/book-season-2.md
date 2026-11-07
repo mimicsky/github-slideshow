@@ -42927,6 +42927,379 @@ at his belt.
 
 The *Bright Light* went on through the warp toward Gallowmere.
 
+
+## Chapter 129: Let It Try
+
+At about 0602 Ferro-Ashe came onto the bridge with a censer in one hand and a bundle of
+new prayer strips in the other, rolled tight and tied with wire. Mira glanced round at him
+from the helm, and back at the board.
+
+"Interrogator," said Ferro. "Bright and early, as you said."
+
+Tamsin got up out of Teo's seat.
+
+"Let's do it."
+
+---
+
+The Geller node sat low on the aft bulkhead behind its cage of cables, a squat block of
+old brass and iron, with its rune plates dark and its little lamps steady. Vigil's seal
+was on the housing, red wax and vellum pressed flat against the metal. Ferro's trace-slate
+lay on the stool beside it. The green line on it was faint, and it was there.
+
+Ferro lit the censer and swung it once round the whole of the node, and the smoke went up
+grey and sweet into the cables. Then he went round the couplings, every one of them, and
+bound a fresh prayer strip round each, and spoke over each in binary as he tied it off.
+There were a great many couplings. Tamsin stood by and watched him do it.
+
+When the last strip was on, Ferro turned his lens to him.
+
+"At the last verse, Interrogator, set the tip into the rune. Then hold it there. Whatever
+comes up the blade, do not take it out until I have finished."
+
+Tamsin drew his knife. The tip was scorched black, with the rainbow sheen on the steel,
+and near the point, burned in as thin as a hair, was the tiny cog with an eye in it. On
+the node's face, in the middle of the dark plates, was the same mark cut into the brass a
+hand across: the cog, and the eye.
+
+At about 0610 Ferro began.
+
+He chanted in High Gothic, and under it, low and fast, in binary, so that he seemed to
+speak with two voices at once. At the end of every verse he swung the censer. The smoke
+gathered under the deckhead and hung there. The hum went on in the deck, and the lamps on
+the node's face did not change.
+
+Tamsin knelt on the oily deck in front of the node with the knife in his hand, and waited.
+
+The first hour went by like that, and then most of the second. Now and then boots went
+past the hatch, quietly, and did not stop. Somewhere forward the galley started up. Ferro
+did not slow, and his voice did not tire.
+
+At about 0810 it changed. The words came slower, each one set down on its own, like stones
+laid in a wall. Ferro's lens turned to Tamsin and stayed on him.
+
+The last verse.
+
+Tamsin set the scorched tip into the heart of the rune, where the eye was, and held it
+there.
+
+For a moment there was nothing.
+
+Then the cold came up the blade.
+
+It came up into the grip and into his hand, sharp as ice water, and then deeper than that,
+into the bones of his wrist. Frost spread out across the brass from the point of the
+knife, white and feathered, and crept up the steel and over his knuckles. His breath
+smoked. The lamps on the node's face dipped toward red. The hum in the deck wavered, and
+came back, and wavered.
+
+On the slate the green line climbed.
+
+Something was leaning on the blade. There was no other way to say it. It pressed from the
+far side, the way a man leans on a door that somebody else is holding shut, steady and
+heavy and patient, and the knife wanted to come back out of the rune. Tamsin's arm began
+to shake. His fingers went numb, and then they hurt, and then they went numb again. He
+closed his other hand over the first, and held.
+
+Ferro did not falter. His voice rose, harder and faster, Gothic and binary together, and
+the censer swung, and the smoke whirled round the cage of cables. He came to the end of
+the verse and went into the closing lines without a breath between.
+
+The cold pushed. Tamsin held.
+
+Ferro spoke the last word.
+
+The node rang.
+
+It rang like a struck bell: one deep, clear note that went out through the brass and the
+bulkhead and the deck plates and the whole length of the ship, and went on ringing long
+after it should have stopped. Tamsin felt it in his teeth. And the pressure drew back off
+the blade all at once, the way a tide goes out.
+
+The frost on the brass went to water and ran down the rune plates in thin lines. The lamps
+came back up, steady. The hum settled in the deck. The note faded at last, and was gone.
+
+It was about 0815.
+
+Tamsin took the knife out of the rune. His fingers would not come open off the grip, and
+he had to work them loose one at a time. The steel was wet. The scorch on the tip looked
+just as it always had.
+
+Ferro set the censer down on the deck and picked up the slate, and looked at it for a long
+moment.
+
+"The rite has taken," he said. "The node is hardened, Interrogator." The lens turned. "The
+trace remains. It is fainter. It keeps pace with us."
+
+Under the lens, very slightly, his face changed.
+
+"Good work," said Tamsin. "Now rest up." He sheathed the knife. "And I want to see you on
+the range as well. You're down with us on that world."
+
+Ferro was quiet a moment.
+
+"On the ground, on Gallowmere," he said. "Yes. A grain port is a great deal of machinery.
+Lifters. Conveyors. The silo engines. Someone must speak to them." He folded his oily
+hands. "I have a lasgun. I will bring it to the range when I have slept. I tell you now,
+Interrogator, so that you are not disappointed. I will be poor at it."
+
+He went aft to his workshop with the censer. The training plan changed with him: from
+today, Ferro would shoot.
+
+---
+
+At about 0825 Tamsin lay down in his cabin under Maren's stars, and slept.
+
+At about 0930 someone knocked. He was up on one elbow with his hand on Shameholder before
+the second knock came. It was Kell.
+
+"Hollis burned his hand," said Kell. "Left palm. Arc drills with Six Bells. A practice
+round hung in the barrel, and the barrel was hot from an hour of drilling, and he cleared
+it bare-handed." A beat. "Sallow's dressed it. He's off an hour. That's all it is."
+
+Tamsin looked at him. Kell looked back, perfectly level.
+
+"You said first, boss."
+
+He went away again. Tamsin lay back down, and nothing else came to the door.
+
+---
+
+He woke at 1200, and the ship had gone on without him, the way it was meant to. Ferro was
+asleep in his workshop. Hollis was back on the line with his palm bandaged white. Lunch
+was on in the galley, and Isk and Tavi were at the table.
+
+Ollin put a bowl in front of him. Onion broth, with bricks crumbled into it to thicken it.
+
+"Last of the Rest onions," said Ollin. "Last of the good stuff, boss."
+
+Tavi was leaning across the table before Tamsin had his spoon.
+
+"Boss. This morning. That was you, wasn't it? At the node?" He was bright with it. "It
+came right up through the bunk room deck. Like a bell. The whole bunk room sat up."
+
+"Like a chapel bell," said Isk. He touched the prayer token at his collar. "I said a
+prayer for it."
+
+Tamsin ate some of the broth. It was good broth. Then he put the spoon down.
+
+"Any of you know why Hollis needed to reload so bad he burned himself?"
+
+The table went quiet. Isk looked at Tavi. Tavi looked at his bowl.
+
+"A practice round hung, boss," said Tavi. "The barrel was hot. From an hour of arcs."
+
+Tamsin waited.
+
+Tavi's ears went red. Then it all came out at once.
+
+"We were racing. Arcs, on the far frames. First to ten. Loser does Ollin's pots for a
+week." He swallowed. "He was one behind me. The round hung, and clearing it proper
+would've cost him, so he just... grabbed it." He put both hands flat on the table. "That's
+on me, boss."
+
+"Tavi was winning," said Isk.
+
+Tamsin looked at the two of them for a long moment, and sighed.
+
+"Alright, then."
+
+Tavi waited. He was half out of his seat already, ready for the deck and the push-ups.
+They did not come. Tamsin picked his spoon back up and went on with his broth, and after a
+while Tavi sat down again, slowly, and went on with his.
+
+---
+
+At about 1225 Tamsin went aft to the range with every gun he had.
+
+There were three on the lanes. Tey was on lane one at pistol drill, draw and fire and
+holster and draw again, with his tongue between his teeth. Tavi was on lane two with Tiny,
+shooting at the far frames with a good deal more care than usual. Corvane was on lane
+three with his white-and-grey revolver, one slow shot at a time.
+
+Tamsin took whichever lane came free, and went through his guns one after another. Last
+Word first, from the hip at the near frame, the laser's red dot on the target a heartbeat
+before the shot. Then Stinger, a stick at a time, in short hard bursts, until the barrel
+ticked with heat. Then Vigil from the shoulder at the far frame, unsealed now, with the
+bare patch on the stock under his hand. Then the Kasr Frontier, working the lever, the
+brass spinning off over his shoulder onto the deck. Then the Columnus autogun. Then back
+to Last Word, and round again.
+
+Nobody talked much. Once Tey looked over when Last Word put three through the near frame
+faster than he could clear his own holster, and went red, and went back to his drill.
+
+At about 1400 Ferro came into the range with a Kantrael lasgun held in both hands, the way
+he had held Vigil.
+
+"Interrogator," he said. "As I said."
+
+He took the lane Tey had left, and he was poor, as he had said. He stood square to the
+frame like a man at a workbench, with his elbows out and the stock somewhere near his
+collarbone. After every shot he studied the frame through his lens, as if the miss were a
+fault in the gun. Most of them went wide. Some went very wide.
+
+After a while Corvane came over from lane three and stood behind him.
+
+"May I, Ferro?"
+
+"Please."
+
+"Your feet first." Corvane moved one of them with the side of his boot. "Not square. The
+left foot forward. Lean into it, a little. The stock goes here, in the pocket of the
+shoulder. Not on the bone." He set it there with two fingers. "Elbows down. The gun is not
+a machine on a bench. It moves, and you move with it."
+
+"Understood," said Ferro.
+
+The next shot went into the frame. Not all the ones after it did, but more of them than
+before.
+
+"I was poor," said Ferro, at the end of the hour. "As I said I would be."
+
+"You were," said Corvane. "You will be less poor tomorrow."
+
+---
+
+At about 1700 Ferro's wrist-slate chimed.
+
+It was a small sound, but every gun on the range stopped. Ferro lifted his wrist, and the
+lens whirred in on it.
+
+"The trace," he said. "It is rising. It presses on the node."
+
+Nobody moved. Tey had his hellpistol half out of its holster and had forgotten it there.
+The hum went on in the deck under their boots. Tamsin listened to it, and it did not
+change. Ferro watched the slate. Thirty seconds was a long time on a quiet range.
+
+"It has fallen back," said Ferro. "The node held."
+
+Tamsin lowered Vigil.
+
+"Let it try." He looked down the lane at the far frame. "My team doesn't give up either."
+
+"I will keep watching it, Interrogator," said Ferro. Then he lifted the lasgun again, and
+set his left foot forward the way Corvane had shown him.
+
+Tamsin shot on until about 1800.
+
+---
+
+Supper was bricks.
+
+"That's the good stuff gone, boss," said Ollin, and put the plate down in front of him
+with real sorrow.
+
+Nearly all of them were in the galley for it. Hollis was eating one-handed, with the
+bandaged one held up out of the way. Ferro had come forward and sat in the corner, with
+his slate on the bench beside him where he could see it. Kell came in last, and pinned the
+night's list outside the hatch before he sat down.
+
+> *WATCH. FROM 2200. TWO AND TWO. ARMED.*
+>
+> *2200. Node: Sorel, Isk. Bunk room: Dace, Tey.*
+>
+> *0000. Node: Nessa, Morcant. Bunk room: Brenner, Tavi.*
+>
+> *0200. Node: Sallow, Kell. Bunk room: Dannel, Joren.*
+>
+> *0400. Node: Kell, Hollis. Bunk room: Varga, Corvane.*
+>
+> *ALL NIGHT: THE BOSS. (DON'T ARGUE.)*
+>
+> *CORRIDOR LIGHTS UP. CALL IN ON CHANGE. K.*
+
+The same pairs as last night, turned round. Kell had put himself on it twice again, back
+to back this time.
+
+Varga sat down across from Tamsin with her bricks, and broke one in half, and did not eat
+it.
+
+"Been thinking," she said. "About an off weapon."
+
+"That's not mine to say," said Tamsin. "You think of something, and I'll judge it." He bit
+into a brick. "But it'd be something that rains down." A beat. "Literally."
+
+Varga ate her half-brick. She chewed it for a long time, looking at nothing, the way she
+looked down a scope.
+
+"Frags," she said at last. "Off a bandolier. On the way down. Pull and drop, pull and
+drop." She turned the other half of the brick in her fingers. "And something in the off
+hand that empties fast while I'm falling. Loud."
+
+Down the table Hollis looked up from his plate with real interest.
+
+"I'll draw it up," said Varga. "For Dace and Ferro." She bit into the second half. "We'll
+see."
+
+---
+
+At about 1905 Tamsin went forward to the bridge.
+
+Mira was at the helm on the night watch, with the shutters down over the viewports and the
+board lighting her hands. She looked round when he came in.
+
+"Kell's list says all night, the boss," she said. "Don't argue." She raised an eyebrow.
+"What's that about?"
+
+Tamsin sat down in Teo's seat and laid Vigil across his knees.
+
+"He knows better, that's what."
+
+Mira snorted, and went back to the helm.
+
+Ferro's trace ran across one corner of the board, a thin green line. It was fainter than
+it had been last night. It was still there.
+
+At 2200 the vox crackled. "*On,*" said Sorel. "*Quiet.*" The watch had changed, Sorel and
+Isk at the node, Dace and Tey outside the bunk room.
+
+At about 2205 Tamsin spoke into the quiet.
+
+"I remember when we first met," he said. "You argued with me the first day." He looked at
+the green line, not at her. "You probably thought I was another heartless man."
+
+Mira's hands stayed on the board. She was quiet for a while.
+
+"I did," she said. "For about a week."
+
+She touched something on the board, and the ship answered her.
+
+"Then I flew Joren off that mast. Sallow told me what you'd done for him in the road,
+before she got there. And I saw that tenement burning from the cockpit, and after, they
+told me you'd gone back in. For people you'd never seen in your life." She looked round at
+him then, at the kit and the sword at his belt and Vigil across his knees. "Heartless men
+don't sit up all night for their crew, boss."
+
+She turned back to the helm.
+
+"I still think you're wrong about third chances."
+
+Tamsin did not argue with that either.
+
+---
+
+The watches changed every two hours, and each pair called in as they went on.
+
+At midnight it was Nessa and Morcant at the node, and Brenner and Tavi at the bunk room.
+"*On,*" said Nessa. "*Lovely and quiet.*"
+
+At 0200 it was Sallow and Kell at the node, and Dannel and Joren outside the bunk room.
+Dannel called it in, as formal on the vox as he had been the night before.
+
+At 0400 Kell's voice came on again, the same as two hours before, as if he had not moved.
+Hollis was with him. Varga and Corvane had the bunk room.
+
+In between there was nothing. Mira flew. Tamsin sat in Teo's seat with Vigil across his
+knees and Shameholder at his belt, and watched the green line, and it stayed flat. The hum
+stayed steady in the deck. Once, about 0300, Mira hummed something under her breath for a
+minute, and then stopped, and neither of them said anything about it.
+
+At about 0600 on day 45 the day lamps came up along the corridors, and the last watch
+came off the node and the bunk room hatch. Mira yawned hugely behind her hand. Tamsin was
+still in Teo's seat with Vigil across his knees, wide awake, and the green line was flat.
+
+Gallowmere was a day and a half away.
+
 # Appendix: Session notes
 
 ### Session 8 (Season Two, mission 1: Ustrennos)
