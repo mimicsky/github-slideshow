@@ -116,6 +116,18 @@ becomes the normal effect; normal becomes -1 for 1 beat). **The thrower's side**
 outside the room or looking away, or it takes them too. A **natural 1 on the throw** bursts
 it at the thrower's feet.
 
+## Fire bottle (scrap)
+
+**Fire bottle** (common, 0.1 TV; black market; player design, Ash on Ostrava day 44; anyone makes one in
+minutes from a bottle, promethium and a rag). A hive gang's firebomb: **weaker than an incendiary grenade.**
+- **Thrown** like a grenade (d20 + DEX against the hidden number for the spot), but only to **~15 m**.
+- **Small splash:** it bursts in a pool **~2 m** across. Anyone in it makes a **dive (DEX) against 12**; a
+  fail **sets them alight** (next beat they spend putting it out, or they drop a step). The pool burns for
+  **2 beats**: anyone crossing it makes the same dive.
+- **Dud:** on a **d6 of 1** the rag goes out in the air: just glass and fuel (a flame nearby can still
+  light it).
+- **Natural 1:** the rag drips and catches the thrower's sleeve: **the thrower is alight.**
+
 ## Grenades: throwing and the standard types
 
 Set by the player, Ash on Ostrava session 10.

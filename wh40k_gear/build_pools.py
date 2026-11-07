@@ -154,6 +154,7 @@ add("melee","U","B",[("Syringe spike (scrap injector; long needle, stab only, no
 add("melee","C","B",[("Chain-flail (scrap; wraps a block or parry: next swing +1; disarms on a raw 17+)",0.3),("Rivet knuckles (rail plate; can't be disarmed; +2 to hide)",0.2),("Rivet knuckle spike attachment (stabs through flak; carapace on a raw 19-20)",0.1),("Saw-cleaver (scrap; +1 step on flesh and flak; sticks in carapace)",0.5)])
 add("melee","C","MB",[("Grox-prod (farm shock prod; two-handed, long; CON 13 or stunned; 6 jolts)",1)])
 add("kit","C","B",[("Cogitator shield (scrap; +2 block, half cover; sparks; one shock bash a fight; -1 DEX rolls)",1.5)])
+add("explosive","C","B",[("Fire bottle (scrap firebomb; ~15 m; 2 m pool, dive 12 or alight; dud on a d6 of 1)",0.1)])
 add("melee","R","MAF",[("Thunder hammer, Crucis pattern (intact; heavy, slow; thunderclap: two steps and knocked flat)",50),("Power falchion (duelling blade)",28),("Omnissian power sword (Mechanicus)",32),("Transonic blades, paired (Skitarii)",30)])
 # Player design (Ash on Ostrava day 44): rules in catalogue/melee.md.
 add("melee","R","AEF",[("Relic blade, 'Thorian' pattern (two-handed ceramite greatblade; charge a beat: 3 swings as a power weapon, +1 step a hit; zealot champions and the Sororitas)",40)])
@@ -275,7 +276,7 @@ E = {
   "melee":  [("Hive shank (scrap knife)","C"),("Trench club","C"),("Cadian machete","C"),("Scrap throwing knives (set of 4)","C"),("Pipe pick (scrap war pick)","C"),("Railroad spike knife","C"),("Chain-flail (scrap)","C"),("Rivet knuckles","C"),("Saw-cleaver","C"),
              ("Chain knife","U"),("Combat axe, Rashad pattern","U"),("Chainsword","U"),("Needle-blade (toxin)","R")],
   "armour": [("Rags, no armour","C"),("Flak vest","C"),("Gas mask / rebreather","C"),("Flak armour set","U"),("Carapace chest plate (stolen)","R")],
-  "extra":  [("Nothing","C"),("Frag grenade","C"),("Black candles and chalk","C"),("Crude iron cult amulet","C"),("Stimm (dose)","U"),
+  "extra":  [("Nothing","C"),("Frag grenade","C"),("Fire bottle (scrap)","C"),("Black candles and chalk","C"),("Crude iron cult amulet","C"),("Stimm (dose)","U"),
              ("Combat drug 'Frenzon' (dose)","U"),("Choke gas grenade","U"),("Cult gas bottle (gas of their god)","U"),("Cult prayer-book","R")],
   "found":  [("Cult-forged blade (crude, sharp; +1 vs flesh, breaks on a natural 1)","U"),("Jury-rigged autogun (fires full chains; jams on a 1-2)","U"),
              ("Pipe-bomb (frag, short fuse; a natural 1 goes off in hand)","U"),("Cult gas bottle x2 (gas of their god)","U"),("Stolen officer's laspistol","U"),
@@ -288,7 +289,7 @@ E = {
   "melee":  [("Hive shank (scrap knife)","C"),("Combat knife","C"),("Combat axe, Rashad pattern","C"),("Scrap throwing knives (set of 4)","C"),("Pipe pick (scrap war pick)","C"),("Railroad spike knife","C"),("Chain-flail (scrap)","C"),("Rivet knuckles","C"),("Saw-cleaver","C"),
              ("Chain knife","U"),("Shock baton (Arbites, stolen)","U"),("Mono-knife","U"),("Chain axe","R")],
   "armour": [("Leathers, no armour","C"),("Flak vest","C"),("Flak armour set","U"),("Mesh armour (light, quiet)","U"),("Arbites carapace (stolen)","R")],
-  "extra":  [("Nothing","C"),("Frag grenade","C"),("Lho-sticks (carton)","C"),("Lock-picks, hive pattern","U"),("Combat drug 'slaught' (dose)","U"),
+  "extra":  [("Nothing","C"),("Frag grenade","C"),("Fire bottle (scrap)","C"),("Lho-sticks (carton)","C"),("Lock-picks, hive pattern","U"),("Combat drug 'slaught' (dose)","U"),
              ("Combat drug 'Quicksilver' (dose)","U"),("Stimm (dose)","U"),("Forged Munitorum ID chits","R")],
   "found":  [("Bolted-together drum autogun (heavy; +1 suppression, -1 from the hip)","U"),("Spiked knuckle-duster blade","U"),("Speedloader and spare Hammerfall cylinder","U"),
              ("Demo satchel (stolen)","U"),("Silenced stub pistol","R"),("Auto-revolver, 'Hammerfall' pattern, long barrel","R"),("Bolt pistol, rebored (unstable)","R")],

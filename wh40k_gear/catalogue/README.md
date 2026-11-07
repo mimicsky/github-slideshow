@@ -94,6 +94,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Vox-jammer grenade](explosives.md#vox-jammer-grenade)
 - [Blessed incense grenade (Ecclesiarchy)](explosives.md#blessed-incense-grenade-ecclesiarchy)
 - [Spec flash grenade](explosives.md#spec-flash-grenade)
+- [Fire bottle (scrap)](explosives.md#fire-bottle-scrap)
 - [Grenades: throwing and the standard types](explosives.md#grenades-throwing-and-the-standard-types) (frag, impact frag, krak, smoke, photon flash, choke gas)
 - [Grenades and explosives in launchers](explosives.md#grenades-and-explosives-in-launchers) (rule)
 - [Revolver-drum grenade launcher ('Six Bells')](explosives.md#revolver-drum-grenade-launcher-six-bells-holliss)

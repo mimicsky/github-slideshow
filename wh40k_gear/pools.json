@@ -1666,6 +1666,13 @@
   "sellers": "B"
  },
  {
+  "name": "Fire bottle (scrap firebomb; ~15 m; 2 m pool, dive 12 or alight; dud on a d6 of 1)",
+  "tv": 0.1,
+  "cat": "explosive",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
   "name": "Thunder hammer, Crucis pattern (intact; heavy, slow; thunderclap: two steps and knocked flat)",
   "tv": 50,
   "cat": "melee",
