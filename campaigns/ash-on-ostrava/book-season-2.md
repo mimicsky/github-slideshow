@@ -43304,6 +43304,304 @@ still in Teo's seat with Vigil across his knees, wide awake, and the green line 
 
 Gallowmere was a day and a half away.
 
+
+## Chapter 130: It's Plotting
+
+The day lamps had been up for a few minutes. The shutters were still down over the
+viewports, and the green line still ran flat across the corner of the board, as it had all
+night. Tamsin sat in Teo's seat with Vigil across his knees and looked at it.
+
+"It's too quiet," he said. "It's plotting."
+
+Mira did not look round from the helm. "A day and a half, boss." She touched something on
+the board, and the ship answered her. "Then real space."
+
+Tamsin went on looking at the line. Out in the corridor the last watch was coming off the
+node: Kell's boots and Hollis's, going past the bridge hatch toward the galley, and Kell's
+voice, low, saying something that made Hollis laugh.
+
+The hatch opened behind them. Ferro-Ashe stood in it with his trace-slate under one arm
+and the night's oil dried grey on his sleeves, and waited to be asked.
+
+"Come in, Ferro," said Tamsin. "What's going on?"
+
+Ferro came in. "Tonight we keep the same watch, Interrogator. Tonight does not trouble
+me." The lens turned. "Tomorrow does. At translation the field must cycle down, for a few
+seconds, while the ship tears out of the warp. It is the door's weakest moment. If it
+means to try, it will try then." He folded his hands into his sleeves. "I want you at the
+node when we translate. And the Light kitted and ready."
+
+"I'll be there," said Tamsin. "With the knife and my chainsword. If it comes through, it
+won't get anything but death."
+
+"About noon tomorrow, then. At the node. I will tell Kell." The lens rested on him a
+moment longer: the carapace, the field, the sword at his belt, the whole night in the
+chair. "Sleep today, Interrogator."
+
+"I will."
+
+Ferro went out. Mira waited until the hatch had shut behind him.
+
+"Look at that," she said to the board. "Taking orders from a tech-priest now, boss."
+
+Tamsin got up out of Teo's seat and went aft to his cabin. At about 0612 he lay down under
+Maren's stars, and slept until noon. Nobody knocked.
+
+---
+
+At 1200 lunch was on. The Light had their orders from Kell already: on point tomorrow,
+kitted, at noon. Ferro was asleep in his workshop after his night at the node. And Varga
+was waiting in the galley with a slate.
+
+Ollin put a bowl in front of him: bricks, soaked in hot water until they gave up and went
+to porridge. "Sorry, boss," he said. Varga pushed the slate across the table before Tamsin
+had his spoon.
+
+"For Dace and Ferro," she said. "If you like it."
+
+It was drawn in grease pencil, as neat as a range card. A short rig across the chest, like
+a cut-down bandolier, with six frags hung on it, every pin on its own ripcord, so that a
+hand could rip them loose one after another. Below it, clipped to the harness of her jump
+pack, a lanyard; and on the end of the lanyard a stubby autopistol with a drum under it.
+
+Tamsin looked at it for a while.
+
+"Not much of an idea person, are we?" he said. "Pull frags, and have shards all round your
+feet coming down?"
+
+He tapped the pistol. "The lanyard I like. Drop it, it hangs. Easy pick-up."
+
+Varga did not so much as blink. "I pull at height," she said. "A fused frag goes off
+before I land." She took the pencil and touched it to the frags, one after another. "Or
+impact frags. Ottrick's conversion. Two red bands. They burst on the ground, and I'm not
+on it yet."
+
+Tamsin looked at the slate again.
+
+"Want to clear the ground, those do the trick," he said. "Just make sure you get above the
+targets and drop them."
+
+He pushed the slate back across to her. It would go to Dace and Ferro, at the end of a
+long list of builds; but it would go.
+
+Varga took it. One corner of her mouth went up, very slightly, and nearly made it to a
+smile.
+
+"Thanks, boss."
+
+---
+
+Varga took her slate off to find Dace. Nessa, Sorel and Sallow sat down in her place with
+their bowls, and Sallow had a list of her own.
+
+"Gallowmere's rot country," she said. "Whoever goes down wears a mask. Rebreather or gas
+mask, I don't care which. Nobody breathes it bare." She ran a finger down the list. "And
+we're short."
+
+"Which comes down to who's going," said Nessa. "The small team. The ones who go in first
+and have a look."
+
+"Joren and Dannel stay on the ship," said Tamsin. "They aren't fighters." He looked at
+Nessa. "Do I need to tell you? Same team that went and got the watchers on the Rest."
+
+Nessa smiled into her bowl. Sorel nodded once. Tamsin, Nessa, Sorel and Tey: the four who
+had gone up onto the hostel roof on the Rest.
+
+"Then the masks go to whoever goes down," said Sallow, "and the ship keeps the rest."
+
+"I've got my own rebreather," said Tamsin. "Most of us do. It's Nessa, Sorel and Tey who
+don't."
+
+Sallow did not look up from her list. "Nessa has a rebreather. Tey and Sorel carry gas
+masks. Same job." She ticked something off. "Your four are covered, boss. The spares go to
+whoever follows you down."
+
+Tamsin let it stand. He looked at Nessa. "You and Sorel blended in well on the Rest."
+
+"Nobody looks twice at a pilgrim," said Nessa.
+
+"Tey's the one," said Tamsin. "He's still young. An ego in the making. But he's still
+scared inside."
+
+"He jumps forward," said Sallow. "So nobody sees it."
+
+"He's brave because he's scared," said Nessa. "That's not nothing. But it shows, if you
+know where to look."
+
+Sorel set his spoon down and folded his hands on the table, and went still: a clerk at his
+desk, a man waiting for a stamp. For a moment he was very easy not to see.
+
+"I'll take him this afternoon," he said. "Teach him to be nobody in a room."
+
+"And I'll teach him to look bored," said Nessa. "Which, for Tey, is harder than it
+sounds."
+
+"Fine by me," said Tamsin.
+
+---
+
+At about 1225 he went aft to the range with every gun he had, and stayed until six. Last
+Word, Stinger, Vigil, the Kasr Frontier, the autogun, and round again, until the brass lay
+round his boots like spilled grain and every barrel on the bench ticked with heat.
+
+Through the hold hatch, between the containers, he could see Tey's lessons going on. Sorel
+had him sitting on a crate with his hands on his knees.
+
+Tey's foot tapped.
+
+"No," said Sorel.
+
+He scratched his nose. "No." He looked round at the crack of Vigil from the range. "No."
+
+Later it was Nessa's turn. She had him leaning on a container with his arms folded.
+
+"You're on a door," she said. "You've been on it for six hours. Nothing has happened.
+Nothing is going to happen. Your feet hurt. Your dinner is bricks."
+
+Tey tried. For nearly a minute he looked quite convincingly bored. Then he caught Tamsin
+watching through the hatch and grinned, and Nessa clipped him round the ear.
+
+At about 1400 Ferro came in with the Kantrael lasgun and took a lane two down from
+Tamsin's, with his left foot forward the way Corvane had shown him and his slate on the
+bench beside him. He was less poor than yesterday, as Corvane had promised. Not by a great
+deal, but some. Nothing chimed all afternoon. The green line stayed flat.
+
+---
+
+Supper was bricks again. Nearly all of them were in the galley for it. Hollis was still
+eating one-handed. Ferro sat in the corner with his slate on the bench beside him where he
+could see it, and Tey sat between Sorel and Nessa and was being very still, and very
+bored, at the same time, which made him look faintly ill.
+
+Kell looked down the table. "Anything to tell them before we drop out, boss?"
+
+"Only that my Light-bringers are on point and ready." Tamsin looked along the bench to
+Hollis. "And learn some patience."
+
+The galley laughed. Hollis held up his bandaged hand in surrender.
+
+"On point at noon," said Kell, to all of them.
+
+"I've almost finished the wishlist," said Tamsin. "Everything but our schematics." He
+looked down the table. "Dace, where are we?"
+
+Dace put his brick down and gave it to him straight.
+
+"Medal's done. The Valk panel isn't. The hull-plate manual went back to the Archive, and I
+need it." Down the table, Mira sighed. "Ferro's pistol's a third done. He lost his bench to
+the nose gun, and then to the node. Sallow's carbine I've barely started." He spread his
+hands. "Most of the list is after Gallowmere, boss."
+
+"My drums," said Morcant, too loud, from the end of the bench. "And the compensator. Still
+on the wishlist."
+
+"I said almost, didn't I?" said Tamsin.
+
+He turned back to Dace. "Shift it round. The schematics first, and the hull, and so on.
+I'll have Kell change your schedule. From tomorrow you're at the forge and the bench full
+time."
+
+Kell nodded, and wrote it on his slate.
+
+"I'll try the panel anyway," said Dace. "Slow and cold. An inch at a time."
+
+Tamsin looked across at Corvane. "Corv. You haven't mentioned your cutlass. Still want it,
+or is the power sword better?"
+
+Corvane took a moment over it, the way he took a moment over a shot.
+
+"The power sword is the better blade," he said. "I'll fight with it. But the cutlass was
+mine on the *Steadfast Ninth*. It hangs on Ottrick's wall, aboard the *Lantern*." He
+looked at his plate. "I still mean to earn it back. To carry beside the sword. Not instead
+of it."
+
+"It's on Ottrick's wall," said Tamsin. "And Ottrick's a deal-maker. But I'm the one who
+sold it to him. So I'll buy it back."
+
+Corvane stood up from the bench and bowed from the waist, the old officer's way. Then he
+sat down again.
+
+Tamsin looked at Tey, and Corvane, and Sorel. "You don't have to keep calling me
+Interrogator."
+
+"I already say boss, boss," said Tey.
+
+"Habit of the Ninth," said Corvane. "I'll try." A beat. "Boss." It came out stiff as a
+parade-ground salute, and Hollis put his face in his good hand.
+
+Sorel considered it. "Forty-seven years in the Guard," he said. "I'll keep Interrogator on
+duty. Boss at the table." He picked up his recaf. "If that suits."
+
+It suited. Tamsin turned to Varga, across from him.
+
+"Varga. Anything to say about your eye? Do you miss your old one?"
+
+The steel rim whirred as the eye came round onto him.
+
+"It's better," said Varga. "That's the annoying part. It doesn't blink. It doesn't water.
+It sees the wind." She turned a brick over in her fingers. "I miss being able to cry out
+of both sides." She said it flatly, the way she said everything. "And colours. They used
+to be warm."
+
+Then she looked up.
+
+"Thank you for it, boss. I never said."
+
+"Only the best for my team," said Tamsin.
+
+---
+
+At about 1845 he went to his cabin and got into full kit, piece by piece. Flak, then the
+carapace over it. The refractor field. Last Word on his thigh. Stinger. Vigil, unsealed.
+The knife with its scorched black tip. Shameholder. His plague rebreather went on his
+belt, where he could reach it.
+
+At 1900 he went to find the Light. Most of them were in the hold, with their kit laid out
+on tarps along the containers for Kell's check: masks, packs, blades, in rows. Sallow was
+going down the tarps with an armful of spare masks, handing them out. In the forge corner
+Dace had Varga's slate propped against the vice. Ferro sat at the bench beside him with a
+frag in pieces on a rag, fitting the impact conversion the way Ottrick did it. Tey was
+sitting very still on a crate by his tarp, with his gas mask in his lap, looking
+enormously bored. Nessa patted him on the head as she went past.
+
+Kell was walking the rows with his slate. Tamsin stopped beside him.
+
+"Brother."
+
+"Boss."
+
+Tamsin looked down the tarps. "I don't think anything is going to happen," he said. "But I
+still wonder. With what's out there, hunting for us."
+
+Kell took his time over it.
+
+"Either it's a beaten dog," he said, "or a patient one."
+
+At the bench Ferro looked up. His slate lay by the parts of the frag. "The trace is flat,"
+he said. "Faint. Still there." The lens turned down to it, and back. "Patient."
+
+Nobody said anything else. Kell went on down the rows, and Sallow went on with her masks,
+and Ferro went back to his frag.
+
+---
+
+At about 1905 Tamsin went forward to the bridge. Mira was at the helm on the night watch,
+with the shutters down and the board lighting her hands. She looked round at the kit, and
+back at the board, and said nothing at all about tech-priests.
+
+He sat down in Teo's seat and laid Vigil across his knees.
+
+The watches changed every two hours, and each pair called in on the vox as they went on,
+and every one of them said it was quiet. Once, about midnight, after the pair at the node
+had called in, Ferro's voice came on behind them with a single word. "*Flat.*" In between
+there was nothing. Mira flew. The hum stayed steady in the deck. Ferro's trace ran across
+the corner of the board, a thin green line, and it stayed flat all night.
+
+At about 0600 on day 46 the day lamps came up along the corridors. Tamsin was still in
+Teo's seat, in full kit, wide awake.
+
+At noon they would come out of the warp.
+
 # Appendix: Session notes
 
 ### Session 8 (Season Two, mission 1: Ustrennos)
