@@ -611,3 +611,4 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 ## Day 45 (hidden; never read out)
 
 - **Ferro's worry (set now; sound tech-lore, he says it in play):** when the ship translates out of the warp (~midday day 46) the Geller field must cycle down for a few seconds as the drive tears back into real space: the door's weakest moment. **At translation, d20: 1-6 it tries** (tonight, as before, 1-3). If it tries at translation: a real push, not a whisper; with Tamsin and Ferro at the node and the Light kitted and ready, the crew get +2 on their saves and Ferro +2 on holding the field.
+- **Night of day 45 (d20 10 vs 1-3): it does NOT try.** Quiet. The translation roll at noon day 46 still stands (1-6).
