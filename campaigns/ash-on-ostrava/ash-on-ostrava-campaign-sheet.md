@@ -145,7 +145,7 @@ Moved to `world.md` (day 36 cleanup), under the same heading.
 | Nessa | Stealth, silent movement (3 h) + **throwing practice** (3 h) (added day 36) | DEX |
 | Mira | **Light shooting** (2 h) + **intellect work** (4 h) (changed day 36; flying drills off while in the warp) | DEX + INT |
 | Teo | **Light shooting** (2 h) + **intellect work** (4 h) (changed day 36, same as Mira) | DEX + INT |
-| Dace | Forge work and Ottrick's manuals (3 h) + **mat sword practice** (3 h) (added day 36) | INT + STR/DEX |
+| Dace | **Forge and bench work, all 6 h: the schematics and the Valk panel first** (Tamsin, day 45; was forge 3 h + mat sword 3 h) | INT |
 | Sorel | Tracking drills with Nessa (3 h) + **shooting** (3 h) (added day 36) | WIS + DEX |
 | Tey | Pistol drill (his gunslinger focus) | DEX |
 | Ferro-Ashe | **Schematic work** (changed day 36) + **range work with his lasgun** (from day 44, Tamsin: he goes down on Gallowmere; 3 h and 3 h: DM's assumption) | INT + DEX |
