@@ -739,3 +739,12 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
     - **Lasgun man (grunt):** Kantrael lasgun, sharpened trench shovel; flak set; +2/+3. Trait: Fast learner. **DOWN** (Isk, then Varga twice).
     - **Machete man (grunt):** Cadian machete, laspistol; flak set; stimm; +2/+3. Trait: Squeamish. **Badly hurt** (Kell, Sorel).
   - **Positions, start of beat 5 (~0345):** Tamsin and Dace in the open stubble ~150 m inside the gate, ~350 m from the river-side silos (the beds: Odile's base by the landing door), ~300 m from the office (north-west side of the yard). Kell, Morcant, Hollis, Corvane, Tavi, Isk, Brenner, Tey, Sorel, Nessa at the gate wreck. Varga hovering over the gate (2 hops used). Mira airborne over the inland road (~800 m). **The far side:** the burning hauler by the yard's far edge (7 walkers knocked down, 1 back up); the wrecked hauler in the ditch on the inland road; **one more hauler loading at the ramps (~40 walkers aboard, ~60 still in the yard), 6 herders and tenders with bells (grunts, herder role).** The beds: the tenders burn them when the Light reaches the yard (beat 6) or at ~0500.
+- **THE HERDERS (rolled ~0345: `roll_enemy traitor 6 good`, basic group, guns Clean; all six working the bells and the loading; traits d2/d36):**
+  - **Commissar (enforcer):** renegade commissar: bolt pistol and chainsword, greatcoat; looted storm trooper carapace; krak; STR+3 DEX+3. Traits: Brawler, Runner. (Enforcers stop breaks.)
+  - **Preacher (zealot):** chainsword and laspistol, preaching to the walkers; carapace set; +2/+2; **+1 health stage (Grazed)**. Traits: Night-blind, Quick hands.
+  - **Ripper man (heavy gunner):** ripper gun (drum-fed shotgun); flak set; +3/+4. Traits: Strong back, Superstitious.
+  - **Bell man A (herder):** Agripinaa autogun, chain knife, a bell; carapace chest; +2/+2. Trait: Big mouth.
+  - **Bell man B (herder):** Accatran lascarbine, chain knife, a bell; flak set; krak; +3/+3. Trait: Organised.
+  - **Bell man C (herder):** Agripinaa autogun, chain knife, a bell; flak vest and helmet; stimm; +2/+3. Trait: Fast healer.
+  - **~450 m from Tamsin and Dace, at the ramps of the last hauler on the far side of the yard, lit by the fires.** Kill a bell man and his part of the swarm loses its march and turns on the nearest living.
+- **Commander rule added (the player, day 47): ordered allies answer with a short line, every order** (roles.md, Commander).

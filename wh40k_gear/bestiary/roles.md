@@ -514,6 +514,8 @@ one ally a direct order (it doesn't use the commander's own action that beat): t
 ally gets +2 on the ordered action and acts first that beat.** Enemy snipers and
 leaders go for commanders first.
 
+**Ordered allies answer (set by the player, Ash on Ostrava day 47):** every time the commander gives an order, the ally who got it answers aloud with a short line of their own, in their own voice (in quotes, script format), before or as they act: *Hollis (Light-bringer, grenadier): "Ringing the bells, boss!"* Every order, every beat.
+
 **When orders count (DM ruling, session 9):** any time the scene runs in beats:
 fights, chases, breaches, disasters (a gale, a fire, a ship bearing down). Any kind
 of action can be ordered (a shot, a throw, a hack, first aid). In calm scenes
