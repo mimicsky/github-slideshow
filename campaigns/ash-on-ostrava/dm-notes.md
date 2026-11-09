@@ -612,3 +612,8 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 
 - **Ferro's worry (set now; sound tech-lore, he says it in play):** when the ship translates out of the warp (~midday day 46) the Geller field must cycle down for a few seconds as the drive tears back into real space: the door's weakest moment. **At translation, d20: 1-6 it tries** (tonight, as before, 1-3). If it tries at translation: a real push, not a whisper; with Tamsin and Ferro at the node and the Light kitted and ready, the crew get +2 on their saves and Ferro +2 on holding the field.
 - **Night of day 45 (d20 10 vs 1-3): it does NOT try.** Quiet. The translation roll at noon day 46 still stands (1-6).
+
+## Day 46 (hidden; never read out)
+
+- **Translation (~1200): it did NOT try (d20 18 vs 1-6).** Clean, ordinary drop (warp exit d6 4: normal). **In real space the field powers down and the trace goes dead**: whether it waits for them at the next jump is not set.
+- **Gallowmere on arrival (rolled):** **orbital traffic DEAD QUIET (d6 1)**: no barges, no lifters, no tenders in the lanes, days before the harvest tithe should peak. **High orbit: nothing on the auspex (d6 1)**: whatever the old 'GALLOWMERE HIGH ORBIT' vox tags meant, nothing is showing (hidden, cold, or gone: not set). **Port control answers with a human officer (d6 5)**: **Port Controller Hesper Vael at Hearthgate, the main grain port**: brisk, polite, routine, as if nothing were odd. (Whether Vael is honest, frightened or compromised: not set; let Insight and play decide.) **~4 hours to orbit (d4 2 + 2): ~1600.**
