@@ -10,3 +10,4 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 
 - ~0600: Dawn on the bridge after the last warp night (quiet). Mira: ~6 hours to the translation point, noon. Kell on the ship vox: translation at 1200; full kit and at posts by 1130; masks on belts. Ferro at the node from 1100.
 - ~0605-1000: Tamsin slept in his cabin in kit (d20 15: quiet). Woke 1000.
+- ~1005: Tamsin to the Geller node. Ferro there early, laying out censer and fresh prayer strips. He walked Tamsin through translation: the drive tears them out; the field drops for three to six heartbeats; Tamsin sets the knife in the rune at Ferro's word and holds until the field is back; Ferro chants the litany through the drop.
