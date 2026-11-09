@@ -726,3 +726,16 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
   - **Mira lifted off and strafed a hauler pulling out on the inland road: NATURAL 20: destroyed, crashed into the ditch** (walkers spilling out of it, where it came to rest: ~800 m out).
   - **The office's fire (10 d20, suppressed -2; long range):** best 19 + 3 - 2 = 20 vs the runners' 22: nothing landed; no natural 20s.
   - **Office group: o1 Down; o2 Hurt; o3 Badly hurt; o4 Hurt; o5 Hurt; 5 Fine.** (Their kit: not rolled yet; roll when the Light closes.)
+- **Fight checklist, before beat 5 (the player called for more detail; the checklist had been skipped this fight: role tags, bonus lines, still-up boards, traits).** Gate group's traits were never rolled (all Down now: moot).
+  - **THE OFFICE GROUP (rolled now: `roll_enemy traitor 10 good`, basic group, better-armed 0, guns Clean; no leader rolled) with traits (d2 good/bad, d36), mapped to the hits so far:**
+    - **Tracker (tracker):** scout's long-las + knife; carapace set; STR+2 DEX+4. Traits: Iron will, Eagle-eyed. **Fine.**
+    - **Shotgun man (grunt):** semi-auto combat shotgun, knife; flak set; +2/+3. Trait: Cultist Rememberer (bad; n/a). **Hurt** (Varga).
+    - **Autogun man (heavy gunner):** braced 'Graia' autogun; flak vest and helmet; stimm; +3/+4. Traits: Raider Hater (n/a), Weak stomach. **Hurt** (Isk).
+    - **Bayonet man (grunt):** fixed bayonet; flak set; +3/+3. Trait: Raider Hater (n/a). **Fine.**
+    - **Power-knife man (grunt):** power knife, laspistol; carapace chest; frag; +2/+3. Trait: Quick hands. **Fine.**
+    - **Frag man (grenadier):** 4 frags, 2 kraks, lasgun; flak vest and helmet; smoke; +2/+3. Traits: Weak stomach, Hard of hearing. **Hurt** (Tavi).
+    - **Knife man (grunt):** combat knife, laspistol; carapace set; krak; +3/+2. Trait: Hothead. **Fine.**
+    - **Trooper-plate man (grunt):** fixed bayonet, laspistol; looted storm trooper carapace; krak; +3/+3. Trait: Claustrophobic. **Fine.**
+    - **Lasgun man (grunt):** Kantrael lasgun, sharpened trench shovel; flak set; +2/+3. Trait: Fast learner. **DOWN** (Isk, then Varga twice).
+    - **Machete man (grunt):** Cadian machete, laspistol; flak set; stimm; +2/+3. Trait: Squeamish. **Badly hurt** (Kell, Sorel).
+  - **Positions, start of beat 5 (~0345):** Tamsin and Dace in the open stubble ~150 m inside the gate, ~350 m from the river-side silos (the beds: Odile's base by the landing door), ~300 m from the office (north-west side of the yard). Kell, Morcant, Hollis, Corvane, Tavi, Isk, Brenner, Tey, Sorel, Nessa at the gate wreck. Varga hovering over the gate (2 hops used). Mira airborne over the inland road (~800 m). **The far side:** the burning hauler by the yard's far edge (7 walkers knocked down, 1 back up); the wrecked hauler in the ditch on the inland road; **one more hauler loading at the ramps (~40 walkers aboard, ~60 still in the yard), 6 herders and tenders with bells (grunts, herder role).** The beds: the tenders burn them when the Light reaches the yard (beat 6) or at ~0500.
