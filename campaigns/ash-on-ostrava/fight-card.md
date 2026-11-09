@@ -7,7 +7,7 @@ It is steps 6-9 of the campaign README's Fight checklist in short; steps 1-5 (wh
 - One **main thing** + a **short move** (a few metres, or to the next cover): a shot string, a throw or one launcher shot, a melee chain, or a patch, reload, vent, jam clear, item, lift-pack hop or sprint (codex, A beat).
 - **Everyone acts every beat**, allies and enemies, each with their own open roll; a Commander's order and a duelist's shot-and-swing are free extras (codex, How the player likes to play; A beat).
 - **Surprise:** a group that hasn't seen the attackers when the first shot goes can't act or defend that beat, and every attack on it gets **+2**; next beat it fights normally (codex, A beat).
-- **Run and gun:** sprint and still fire a string at **-2**. **Leftover shots** go into another enemy on their own unless Tamsin said hold (swap -1). **Tamsin:** Action Surge once a fight = two main things (codex, A beat).
+- **Run and gun:** sprint and still fire a string at **-2**; or **run and reload** (a reload on the move, no penalty; day 47). **Leftover shots** go into another enemy on their own unless Tamsin said hold (swap -1). **Tamsin:** Action Surge once a fight = two main things (codex, A beat).
 ## 2. To hit
 - Hidden target number: **10** easy (close, still), **15** normal, **20** hard (far, moving, small); people in melee use the exchange instead (codex, Shots and hits).
 - Cover adds to it: light **+1**, half **+2**, heavy **+4**, full = can't be shot (except through-cover guns, grenades round it, flamers); only from the front or side it blocks; shooting from cover is free, moving out of it loses it that beat (codex, Cover).

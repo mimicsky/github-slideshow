@@ -716,6 +716,8 @@ A **beat** is one moment of a fight, a few seconds. Everyone acts every beat: **
 - **Run and gun (set by the player, Ash on Ostrava session 10):** a sprint is still the whole move, but **a gun can still fire a
   shot string during it** (pushing up and shooting), at **-2 on those shots**, the same as firing from the air. A melee swing
   at the end of a sprint still needs Action Surge.
+- **Run and reload (DM ruling, Ash on Ostrava day 47, at the player's call):** a sprint can carry a reload instead of a string
+  (thumbing rounds into a tube, swapping a pack or a drum on the move): no roll, no penalty. Reloading and shooting in one beat still needs Action Surge.
 - **Free extras:** a Commander's orders (bestiary roles); a duelist's gun **and** sword in the same beat.
 - **Surprise (ruled at the Wick ambush, Ash on Ostrava session 10; written down day 34):** a group caught unaware (it
   hasn't seen the attackers when the first shot goes) **can't act or defend for the first beat, and every attack on it that beat
