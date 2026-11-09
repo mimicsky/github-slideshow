@@ -652,3 +652,10 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 - ~2110 **Mira's approach and landing: 19 + 6 = 25 vs hidden 15: unseen, unheard.** Set down in standing grain ~3.5 km downriver of IX, ~200 m off the river road; the team out, the Valk away low along the river back to the ship.
 - ~2112 **Brenner's auspex on landing: 3 + 4 INT + 2 role = 9 vs hidden 12; Lucky reroll (mission: DM's call, this one matters; 1 of 3 today): 1 + 6 = 7: nothing useful** (the fields still holding the day's heat; a smear). **Brenner's Lucky: 2 left today.**
 - ~2115 **Ground event (d20 3: something; d6 1: a hauler on the road):** a grain hauler grinding upriver toward IX on the river road, headlamps sweeping the grain ~200 m off; no warning from the auspex. Who and what's aboard: not set.
+- ~2120 **Tamsin's look from the levee (3.5 km, night, pict-lens helm): Perception 18 + 5 WIS + 4 prof = 27: all that can be seen from here.** Set now:
+  - **The gate:** on the river road at the stubble ring's edge: a pole barrier, a sandbagged post, **two sentries in long Guard greatcoats and rebreathers (the 6th)** with lasguns; they stopped the hauler, walked round it with a lamp, waved it in to the loading yard.
+  - **Gun pits on this (downriver) side of the ring: 2 (d4 1 + 1)**, sandbagged, each with a crew-served gun's outline (heavy stubber or similar), set to cover the stubble.
+  - **A searchlight on the tallest silo sweeps the stubble about every 6 minutes (d6 6).**
+  - **In the loading yard under the lamps: ~90 figures (2d10 9 x 10) standing in rows, swaying, not working** (walkers; the 'beds' under the tarps likely). Brenner's auspex reads them as the cold smear.
+  - **Heat shimmer rising off the silo vents** (the rot's warmth); the sweet smell on the wind.
+  - **On the far side: the old granary office, windows lit, a vox mast on its roof** (the command post; the Major's, likely: not confirmed).
