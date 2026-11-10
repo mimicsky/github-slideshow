@@ -713,6 +713,9 @@ A **beat** is one moment of a fight, a few seconds. Everyone acts every beat: **
   that swing, the chain carries on; a parry ends it and flips initiative: the defender's chain comes **next beat**.
 - **Leftover shots go into an enemy automatically** (set by the player, Ash on Ostrava day 34). When the player's target goes Down (or is already Down) before his string is spent, the leftover shots go into another enemy, without asking, **unless the player said to hold them**. The DM picks the one the player would most want: the one already hurt that the shot can finish, else the biggest threat in view. The swap -1 applies as normal.
 - **Short move:** a few metres, or to the next cover, is free. A real sprint is the main thing.
+- **Lies the player character doesn't deliver himself (set by the player, Ash on Ostrava day 47):** when an ally carries the lie
+  (a coded message, a forged order, a disguise someone else wears), the ally rolls their craft and **the target rolls
+  against it** (an open d20 + their WIS, plus any reason to doubt), not the player.
 - **Run and gun (set by the player, Ash on Ostrava session 10):** a sprint is still the whole move, but **a gun can still fire a
   shot string during it** (pushing up and shooting), at **-2 on those shots**, the same as firing from the air. A melee swing
   at the end of a sprint still needs Action Surge.
