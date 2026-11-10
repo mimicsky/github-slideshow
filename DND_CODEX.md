@@ -744,8 +744,8 @@ What the DM has always done, written down so anyone can run it.
   | **Extreme, 131 m and beyond** | **25** |
 
   **Cover adds to it** (+1 / +2 / +4; see Cover above); running and shooting is -2 on the shot (Run and gun), and the
-  gun's own sights, scopes, range-finders and blessings still apply on top. (Moving or small targets: see the player's
-  call, open as of day 47.)
+  gun's own sights, scopes, range-finders and blessings still apply on top. **A moving target: +3** (leading a shot is
+  hard). **A small or precise shot** (an arm, a leg, a lamp, a hand): **+1**. (Both set by the player, day 47.)
   The shooter's total (roll checklist) must reach it. Melee between people uses the exchange (house rule 5) instead.
 - **Damage:** a hit drops the target **one health step** (Fine → Hurt → Badly hurt → Down),
   **unless their armour stops that kind of weapon** (Part 8, Armour: "shrugs off" means no step for that hit, but **shrugged hits wear them down**: every 3 drop a step, every 5 for power armour).
@@ -797,7 +797,7 @@ rests, and leveling.
 | --- | --- | --- |
 | Looting bodies | Loot follows the fiction: enemies carry what they plausibly would. When looting a group, the DM rolls one d20 in the open; on a natural 20, one of them had something rare **stashed on them that they didn't use** (this is roll 2; see Part 8, Loot). It always has a story, may be damaged or low on ammo, and someone may want it back | Ash on Ostrava, session 2 |
 | Bright white armour (general ruling; the Light wears grey plate with white trim, which carries no penalty) | -2 to stealth and hiding in ordinary places (dark, grey, industrial) for anyone in white plate; covering it with a cloak, hood or dirt removes the penalty. +2 in snow, ice or bright white settings. Enemies spot the Light sooner at range, told in the fiction. No blanket penalty to fighting, and no free bonus to talking; any reputation the white earns comes through the story | Ash on Ostrava, session 7 |
-| Non-lethal (limb) shots | Aiming for an arm or leg to take someone alive: **+2 to the hidden number** (a smaller target). A hit drops a step as normal; a solid hit on a gun arm also disarms. Anyone dropped to Down only by limb shots gets **+2 on the survival d6** after the fight (dead only on a 1) | Ash on Ostrava, session 10 (DM default; the player may change it) |
+| Non-lethal (limb) shots | Aiming for an arm or leg to take someone alive: **+1 to the hidden number** (a smaller target; was +2, changed by the player with the range bands, day 47). A hit drops a step as normal; a solid hit on a gun arm also disarms. Anyone dropped to Down only by limb shots gets **+2 on the survival d6** after the fight (dead only on a 1) | Ash on Ostrava, session 10 (DM default; the player may change it) |
 | Man-portable multi-laser (rare loot) | → catalogue: heavy.md, Man-portable multi-laser | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | Mining charges and bomb-runner blasts | → catalogue: explosives.md, Mining charges | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | Ship and vehicle autocannons on people | → catalogue: heavy.md, Ship and vehicle autocannons on people | Ash on Ostrava, day 34 (DM default; the player may change it) |

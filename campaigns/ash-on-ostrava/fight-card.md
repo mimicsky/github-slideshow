@@ -9,9 +9,9 @@ It is steps 6-9 of the campaign README's Fight checklist in short; steps 1-5 (wh
 - **Surprise:** a group that hasn't seen the attackers when the first shot goes can't act or defend that beat, and every attack on it gets **+2**; next beat it fights normally (codex, A beat).
 - **Run and gun:** sprint and still fire a string at **-2**; or **run and reload** (a reload on the move, no penalty; day 47). **Top up:** any gun loaded round by round (revolvers, lever-actions, tube shotguns, break-actions) can spend a string's unfired shots loading one round each; not mags, packs, drums or belts (day 47). **Leftover shots** go into another enemy on their own unless Tamsin said hold (swap -1). **Tamsin:** Action Surge once a fight = two main things (codex, A beat).
 ## 2. To hit
-- Hidden target number **by distance** (day 47): **1-10 m: 7 · 11-30 m: 10 · 31-60 m: 15 · 61-100 m: 17 · 101-130 m: 20 · 131 m+: 25 (extreme)**; people in melee use the exchange instead (codex, Shots and hits).
+- Hidden target number **by distance** (day 47): **1-10 m: 7 · 11-30 m: 10 · 31-60 m: 15 · 61-100 m: 17 · 101-130 m: 20 · 131 m+: 25 (extreme)**; **moving target +3; small or precise shot (a limb) +1**; people in melee use the exchange instead (codex, Shots and hits).
 - Cover adds to it: light **+1**, half **+2**, heavy **+4**, full = can't be shot (except through-cover guns, grenades round it, flamers); only from the front or side it blocks; shooting from cover is free, moving out of it loses it that beat (codex, Cover).
-- **Solid hit** = the total beats the number by **3+**. Taking someone alive with a limb shot: **+2** to the number (codex, Shots and hits; Rulings).
+- **Solid hit** = the total beats the number by **3+**. Taking someone alive with a limb shot: **+1** to the number (day 47) (codex, Shots and hits; Rulings).
 ## 3. Roll checklist (every roll; write each bonus by name)
 1. **Base:** d20 + stat (+1 per full 10 levels); melee STR, or the better of STR/DEX with a finesse weapon. **Tamsin adds proficiency +4** (attacks, trained skills; Remarkable Athlete +2 on untrained STR/DEX/CON); **the Light add no proficiency** (codex, Roll checklist 1; sheet, How the Light rolls).
 2. **Specialty:** **+2** (or its drilled level), only on its kind of roll (codex, Roll checklist 2; sheet, Specialty table).
