@@ -744,8 +744,9 @@ What the DM has always done, written down so anyone can run it.
   | **Extreme, 131 m and beyond** | **25** |
 
   **Cover adds to it** (+1 / +2 / +4; see Cover above); running and shooting is -2 on the shot (Run and gun), and the
-  gun's own sights, scopes, range-finders and blessings still apply on top. **A moving target: +3** (leading a shot is
-  hard). **A small or precise shot** (an arm, a leg, a lamp, a hand): **+1**. (Both set by the player, day 47.)
+  gun's own sights, scopes, range-finders and blessings still apply on top. **Moving targets** (set by the player, day 47): **still or
+  shambling (poxwalkers) +0; walking pace +1; running or fast +2; abnormally fast (jump packs, bikes and
+  vehicles, beasts or daemons at the charge) +3**. **A small or precise shot** (an arm, a leg, a lamp, a hand): **+1**. (Both set by the player, day 47.)
   The shooter's total (roll checklist) must reach it. Melee between people uses the exchange (house rule 5) instead.
 - **Damage:** a hit drops the target **one health step** (Fine → Hurt → Badly hurt → Down),
   **unless their armour stops that kind of weapon** (Part 8, Armour: "shrugs off" means no step for that hit, but **shrugged hits wear them down**: every 3 drop a step, every 5 for power armour).
