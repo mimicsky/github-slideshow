@@ -206,6 +206,7 @@ The Ustrennos library books went back on day 31; unfinished ones keep only the h
 - **Kit:** **the vault keys (three big iron keys, Kreel's belt)**; **an officer's map-slate** (the dormitory commander's; on, not yet read); stimms x2; spare las packs x6; hot-shot packs x2; ration packs and lho; the gate lamp.
 - **Coin:** **3,676 Thrones** off the bodies (the Major 2,000; the priest 500; Kreel 300; the Gate-sergeant 100; the dormitory commander 50; 25 others 726).
 - **The main hall, ground floor (~1138):** **90 Thrones** from the kit bags; **a bundle of unsent letters home to Moebius** (evidence and the book); **the volkite's EMPTY RELIC CASE** (brass plate: presented to the Moebian Sixth by the Forge of Ryza for the holding of the Kalt Gate, held in trust by the regimental Enginseer).
+- **The Major's rooms (~1142-1146):** **the war-table map** (from the hall below); **a packet of coded slips signed 'Q'** (for Brenner and the codebook); the duty log; **the regiment's pay strongbox: 2,000 Thrones** and the pay roll ledger. (The footlocker: still locked.)
 - **Left:** defaced regimental insignia, cult trappings.
 - **Still there:** the last hauler from the Ninth (empty) and the Light's stolen hauler; ~140 walkers behind the vault doors.
 
