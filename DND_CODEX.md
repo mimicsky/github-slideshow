@@ -731,8 +731,21 @@ A **beat** is one moment of a fight, a few seconds. Everyone acts every beat: **
 
 What the DM has always done, written down so anyone can run it.
 
-- **To hit:** the DM sets a **hidden target number** for each shot: **10** easy (close, still target),
-  **15** normal, **20** hard (far, moving, small). **Cover adds to it** (+1 / +2 / +4; see Cover above).
+- **To hit:** the DM sets a **hidden target number** for each shot **by distance** (the range bands, set by the
+  player, Ash on Ostrava day 47; they replace the old 10 / 15 / 20 easy-normal-hard):
+
+  | Distance | Target |
+  | --- | --- |
+  | Point blank, 1-10 m | **7** |
+  | Close, 11-30 m | **10** |
+  | Mid, 31-60 m | **15** |
+  | Long, 61-100 m | **17** |
+  | Far, 101-130 m | **20** |
+  | **Extreme, 131 m and beyond** | **25** |
+
+  **Cover adds to it** (+1 / +2 / +4; see Cover above); running and shooting is -2 on the shot (Run and gun), and the
+  gun's own sights, scopes, range-finders and blessings still apply on top. (Moving or small targets: see the player's
+  call, open as of day 47.)
   The shooter's total (roll checklist) must reach it. Melee between people uses the exchange (house rule 5) instead.
 - **Damage:** a hit drops the target **one health step** (Fine → Hurt → Badly hurt → Down),
   **unless their armour stops that kind of weapon** (Part 8, Armour: "shrugs off" means no step for that hit, but **shrugged hits wear them down**: every 3 drop a step, every 5 for power armour).
