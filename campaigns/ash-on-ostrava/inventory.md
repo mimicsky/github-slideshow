@@ -189,11 +189,11 @@ The Ustrennos library books went back on day 31; unfinished ones keep only the h
 ## Haul, day 47: Complex IX and the Hearthgate round-up (heretic trappings left, per the standing order)
 
 **Complex IX (the gate, the pits, the searchlight, the office, the ramps):**
-- **Guns:** 2 Ryza-pattern plasma pistols (found items); the pit A heavy stubber (intact) + belts (pit B's wrecked); the Commissar's bolt pistol; a ripper gun (drum-fed shotgun); a scout long-las; a braced 'Graia' autogun; an autogun (the jumper's); 3 Agripinaa autoguns; an Accatran Mk IV lascarbine; Kantrael M36 lasguns x2; a Lucius No.98 lasgun; 2 more lasguns (the Enginseer's, the Frag man's); 2 semi-auto combat shotguns; a shotgun with the eagle scratched off (found); laspistols x5; an officer's laspistol (found).
-- **Melee:** chainswords x3 (the Commissar's, the Preacher's, the Chainsword man's); a power knife; Cadian machetes x3; sharpened Krieg trench shovels x2; entrenching tools x2; chain knives x4; combat knives x4; bayonets x3.
-- **Armour:** looted storm trooper carapace x2; carapace sets x6; carapace chest plates x5; flak sets x8; flak vests and helmets x4; the Commissar's greatcoat.
-- **Kit:** **a Guard jump pack (the jumper's, intact)**; a long-range vox set (the office's mast set); the Enginseer's repair kit (his auto-turret wrecked); spare las packs x12 (4 sets of 3); hot-shot packs x2 (found); stimms x2; ration packs x4.
-- **Grenades:** frags x7, kraks x6, a smoke.
+- **Guns:** 2 Ryza-pattern plasma pistols (found items); the pit A heavy stubber (intact) + belts (pit B's wrecked); the Commissar's bolt pistol; a ripper gun (drum-fed shotgun); a scout long-las; a braced 'Graia' autogun; an autogun (the jumper's); 3 Agripinaa autoguns; an Accatran Mk IV lascarbine; Kantrael M36 lasguns x2; a Lucius No.98 lasgun; 2 more lasguns (the Enginseer's, the Frag man's); 2 semi-auto combat shotguns; a shotgun with the eagle scratched off (found); laspistols x6; an officer's laspistol (found).
+- **Melee:** chainswords x3 (the Commissar's, the Preacher's, the Chainsword man's); a power knife; Cadian machetes x3; sharpened Krieg trench shovels x2; entrenching tools x2; chain knives x4; combat knives x5; bayonets x3.
+- **Armour:** looted storm trooper carapace x2; carapace sets x7; carapace chest plates x5; flak sets x9; flak vests and helmets x5; the Commissar's greatcoat.
+- **Kit:** **a Guard jump pack (the jumper's, intact)**; a long-range vox set (the office's mast set); the Enginseer's repair kit (his auto-turret wrecked); spare las packs x12 (4 sets of 3); hot-shot packs x2 (found); stimms x3; ration packs x5.
+- **Grenades:** frags x7, kraks x7, a smoke.
 - **Coin:** **983 Thrones** off the bodies.
 - **Evidence (for Kesh):** the half-burned order sheet; **the 6th's vox codebook**; a dozen empty jars and samples from the pump room's tap. **Left:** defaced insignia, the herders' bells, cult trappings; the fuel can and the torch.
 
