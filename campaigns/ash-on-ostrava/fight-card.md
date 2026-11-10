@@ -76,6 +76,7 @@ It is steps 6-9 of the campaign README's Fight checklist in short; steps 1-5 (wh
 - **First to 2 hits takes the round, first to 5 rounds the bout.** Play blocks and parries straight through, stop when a touch lands, hand back to the player. Sword bouts on the mat: blunt practice swords, **d20 + STR** (codex, Matches, bouts and knife bouts).
 ## 11. The Light's roles (the Light count as traitor elites: each role's elite side note applies)
 - **Tamsin, Commander:** **1 order a beat, 2 if both go to specialists**; the ordered ally gets **+2 and acts first**; it doesn't cost his own action; only in scenes run in beats (fights, chases, breaches, disasters) (roles.md, Commander; sheet, Tamsin's standing modifiers).
+- **Tamsin's fire calls (set by the player, day 47):** **'RIFLES FIRE'** = everyone in the Light with a gun in their hands. **'ALL LIGHT'** = the rifles **plus** Hollis's Six Bells, Teo's ship turret and Mira's Valk guns. Anything held by name (e.g. Tavi's satchel) waits for its own word.
 - **Kell, Leader:** **+1** to every Light-bringer and Tamsin whenever he is present and giving orders (roles.md, Leader; sheet, Roles).
 - **Sallow, Medic:** one patch a beat, one step back, once per person (only patches that work count); **d20 + WIS + 4**, no penalties; Down → Hurt costs a stimm; anyone else patches Hurt → Fine only, at d20 + WIS (roles.md, Medic; codex, Rulings).
 - **Varga, Jumper:** airborne her shots **-1**, shots at her **-3**; a hop and a string in one beat (roles.md, Jumper; codex, Gear rules: Airborne).
