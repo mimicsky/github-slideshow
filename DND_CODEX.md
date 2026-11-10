@@ -716,7 +716,7 @@ A **beat** is one moment of a fight, a few seconds. Everyone acts every beat: **
 - **Run and gun (set by the player, Ash on Ostrava session 10):** a sprint is still the whole move, but **a gun can still fire a
   shot string during it** (pushing up and shooting), at **-2 on those shots**, the same as firing from the air. A melee swing
   at the end of a sprint still needs Action Surge.
-- **Top up from the string (set by the player, Ash on Ostrava day 47):** with a gun that loads one round at a time (a tube-fed lever-action like the Kasr Frontier, a tube-fed shotgun), the shots of a string the shooter doesn't fire can be spent thumbing rounds in: **one round per unused shot**, the same beat. Not for magazines, packs, drums or belts (those swap whole).
+- **Top up from the string (set by the player, Ash on Ostrava day 47):** with **any gun loaded round by round** (loose rounds thumbed in: revolvers, lever-actions like the Kasr Frontier, tube-fed shotguns, break-actions, internal-magazine rifles), the shots of a string the shooter doesn't fire can be spent loading rounds: **one round per unused shot**, the same beat. Not for detachable magazines, las and hot-shot packs, drums or belts (those swap whole). Widened by the player the same day.
 - **Run and reload (DM ruling, Ash on Ostrava day 47, at the player's call):** a sprint can carry a reload instead of a string
   (thumbing rounds into a tube, swapping a pack or a drum on the move): no roll, no penalty. Reloading and shooting in one beat still needs Action Surge.
 - **Free extras:** a Commander's orders (bestiary roles); a duelist's gun **and** sword in the same beat.
