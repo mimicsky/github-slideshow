@@ -801,3 +801,14 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
   - **The leaderless herd (~51) turned (d6 2) on the nearest living: the Preacher and Bell man C at N2** (slow: 5 m a beat).
   - **Odile's base: the fight roused 6 more walkers (d6 3; 2d6 6): turning toward the door.** Walkers left there: ~20 (6 stirring, ~14 dormant; one of Ferro's may rise).
   - **After beat 9:** 6th up: **Bayonet man (Badly hurt; initiative on Nessa)**; **Preacher (Fine, torch) and Bell man C (Hurt, can) at N2, heading for N3**. Down: 25. Light: all as before; Varga ~150 m from the Commissar.
+- **BEAT 10 (~0350). Orders: Corvane ('help Nessa': he fired his revolver from the office doorway, the player's call) and Isk ('long shot on the preacher, he's lit') at +2; Ferro ('get those captives up and on the ship') without. Tamsin and Dace pushed the six stirring walkers.**
+  - **Corvane (revolver, d20 + 4 DEX + 2 order + 1 Kell + 1 ghost-ring ≤15 m = +8 vs 12): NATURAL 20: the Bayonet man (grunt) DOWN.** THE OFFICE: ALL TEN DOWN.
+  - **Isk (Patience, aimed, +11 + 2 order = +13; the Preacher lit by the fires, ~250 m, moving: 15): 8 + 13 = 21, solid: the Preacher Grazed** (zealot's free stage).
+  - **Tamsin, Shameholder (+9 vs 10), the player's dice 13, 10, 9: 22, 21 (+2), 19 (+1): three walkers down for good.**
+  - **Dace, Promise Holder (+3): 20, 18 (+2): two down for good.** One stirring walker left in the base: it went for Ferro (8 + 2 = 10 vs 15: missed).
+  - **Ferro freeing the captives (d20 + 4 INT + 2 tech = +6; 10+: d4+1, 15+: d4+3, 20: all): 9 + 6 = 15: four freed (d4 1 + 3): Odile, Tobin Marle, the weak lucid one, the fevered one** (chains cut, feed lines pulled). **Five still chained: the three nearly turned and the two hooded newcomers.**
+  - **Kell's team running for the north silos, firing on the run at the Preacher (20):** Kell 13, then **20: Hurt**; **Morcant NATURAL 20 (heavy stubber, crit): the Preacher DOWN** at the third silo's door before he could light it; Tavi, Brenner: misses; **Sorel's limb shot at Bell man C: 10: miss.** Kell's team ~50 m from the second silo at the end of the beat.
+  - **N2: THE SIX CAPTIVES IN THE SECOND NORTH SILO DIED IN THE FIRE at the end of beat 10** (nobody reached them). **N3 not lit: the torch lies by the downed Preacher at its door; Bell man C (Hurt, the can) beside it.** The herd ~45 m from them, closing.
+  - **Varga reached the downed Commissar: irons on him, wound bound** (survival d6 at the fight's end).
+  - Rouse check (d6 6): no more stirred. Ferro's weak hit stayed down (d6 3).
+  - **After beat 10:** the 6th up: **Bell man C (herder), Hurt, the fuel can, at the third silo's door; the torch at his feet.** Down: **27.** Odile's base: 1 stirring walker (at Ferro), ~14 dormant; 4 captives freed, 5 chained. N1 and N2 burning (9 dead); N3: 3 alive inside. The herd (~50) shambling on Bell man C. 8 loose walkers shambling toward Kell's team.
