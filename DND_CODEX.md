@@ -15,7 +15,9 @@ separate file per campaign, not in here.
 ## How to read this codex (the map)
 
 Like the gear catalogue's table of contents: **read the "Always" sections on every resume (about 450
-lines); open the rest only when its trigger comes up.** Parts 1-5 are plain 5e reference, switched off
+lines); open the rest only when its trigger comes up.**
+
+**The paper trail (set by the player, day 47): things that connect point to each other.** Any rule, item or entry that depends on another names where that other one is (a "see ..." or a link), both ways where it matters: an item with a gear ability carries an **Abilities:** line to [`wh40k_gear/catalogue/abilities.md`](wh40k_gear/catalogue/abilities.md), and the ability lists the item. Follow the trail and nothing connected gets missed. New rules are written that way from now on. Parts 1-5 are plain 5e reference, switched off
 by narrative mode (house rule 4): open them only if the player asks for full rules (they now live in
 [`codex-5e-reference.md`](codex-5e-reference.md)).
 
@@ -1396,17 +1398,7 @@ drops it, like anything in hand. Each shield's numbers are in the catalogue (kit
 
 #### Gear abilities
 
-**Gear abilities (set by the player, Ash on Ostrava day 47).** Abilities that come from **what someone carries, not
-their role or class**: anyone holding that kind of gear can use it, friend or enemy, and each piece of gear can
-differ (its catalogue entry may add to or change the ability). Listed here as they're designed.
-
-- **Shield: Plant.** The bearer sets the shield and plants himself for the beat (it takes the beat's move: he
-  can't move while planted). **He counts as in full cover from the front.** **He can't aim:** he can only **blind
-  fire (-4, no chain bonuses; DM default)**, or, **if his shield has a viewing slot (Dace's does), fire through
-  the slot (-2; semi-accurate; DM default)**. **One other person can crouch behind him and shoot round it, peeking
-  out: they count as in half cover (+2)** and shoot normally. Heavy weapons (krak, melta, plasma, heavy weapons)
-  treat a planted shield as heavy cover (+4), not full, unless the shield's entry says otherwise (DM default).
-  Shots from the side or behind ignore it, as with any shield.
+**Gear abilities (set by the player, Ash on Ostrava day 47): moved to their own list, [`wh40k_gear/catalogue/abilities.md`](wh40k_gear/catalogue/abilities.md).** Abilities come from what someone carries, not their role. Every ability is written once there with the items that have it; every item with an ability has an **Abilities:** line in its catalogue entry pointing back.
 
 #### Airborne (jump packs and lift packs)
 

@@ -1,5 +1,8 @@
 # Gear catalogue: table of contents
 
+**[Gear abilities](abilities.md)** (day 47): abilities that come from what someone carries (Plant, for shields, and more as they're designed); each lists its items, and each item's entry has an **Abilities:** line pointing back.
+
+
 Every item with its own special rules, by category. Plain items (a standard lasgun,
 a flak vest) follow the general weapon rules in DND_CODEX Part 8 and are not
 listed here. Prices and rarity live in `../pools.json`.

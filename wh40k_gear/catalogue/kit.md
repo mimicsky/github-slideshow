@@ -4,10 +4,14 @@ Item rules for this category. General rules (heat, hot-shot, drop-prone, going D
 
 ## Boarding shield
 
+**Abilities:** [Plant](abilities.md#plant).
+
 **Boarding shield** (uncommon, 4 TV): a plain slab of plasteel with a grip.
 **+1 on the defender\'s roll (block or parry), half cover from the front.** Shared shield rules: Codex, Gear rules.
 
 ## Arbitrator shield
+
+**Abilities:** [Plant](abilities.md#plant) (the pistol notch counts as a viewing slot).
 
 **Arbitrator shield** (rare, 10 TV): the Adeptus Arbites riot shield. **+2 to
 block, three-quarters cover from the front**, and a **pistol notch**: fire a
@@ -15,10 +19,14 @@ pistol through it without giving up the cover.
 
 ## Storm shield
 
+**Abilities:** [Plant](abilities.md#plant).
+
 **Storm shield** (rare, 30 TV): a shield with a power field generator.
 **+3 on the defender\'s roll (block or parry), three-quarters cover from the front.**
 
 ## Compact power shield, 'Praesidium' pattern
+
+**Abilities:** [Plant](abilities.md#plant) (only when on; see-through: counts as a viewing slot).
 
 **Compact power shield, 'Praesidium' pattern** (player design, Ash on Ostrava day 44; rare, ~35 TV;
 Mechanicus, Free Traders). Named for the Custodes' shields. Folded, it's **four small flat plasteel plates
@@ -34,11 +42,15 @@ see-through power field the size of a riot shield.** Very light: no penalty to c
 
 ## Slab shield (Ogryn)
 
+**Abilities:** [Plant](abilities.md#plant).
+
 **Slab shield** (enemy only): Ogryn-sized; no human can carry it in a fight.
 **+3 on the defender\'s roll (block or parry), three-quarters cover from the front** for the Ogryn and one
 person standing behind them.
 
 ## Makeshift shield
+
+**Abilities:** [Plant](abilities.md#plant).
 
 **Makeshift shield** (common, 1 TV; player design): wood and scrap metal nailed
 together. **+1 on the defender\'s roll (block or parry), one-third cover from the front (+1 to the shooter's
@@ -46,6 +58,8 @@ difficulty). Breaks after 2-3 heavy hits:** roll it when the shield is made or
 repaired (d6: 1-3 it takes two, 4-6 three).
 
 ## Cogitator shield (scrap)
+
+**Abilities:** [Plant](abilities.md#plant).
 
 **Cogitator shield** (common, 1.5 TV; black market; player design, Ash on Ostrava day 44): a gutted
 cogitator casing with handles riveted inside, its old power cell still wired in. Heavier and better than a
@@ -59,10 +73,14 @@ makeshift shield, and nastier.
 
 ## Forged shield
 
+**Abilities:** [Plant](abilities.md#plant).
+
 **Forged shield** (uncommon, 6 TV; player design): smith-made to take blows.
 **+2 on the defender\'s roll (block or parry), half cover from the front.**
 
 ## Shield viewing slot (mod)
+
+**Abilities:** gives a planted shield slot fire, -2 ([Plant](abilities.md#plant)).
 
 **Viewing slot** (uncommon, 1.5 TV; player design): a slot cut and framed in any
 shield. **The bearer can see and shoot a pistol through it without giving up the
@@ -70,12 +88,16 @@ shield's cover.** (The Arbitrator shield's pistol notch already does this.)
 
 ## Spiked shield (mod)
 
+**Abilities:** none of its own; the shield keeps [Plant](abilities.md#plant).
+
 **Spikes** (uncommon, 2 TV; player design): spikes fixed to the shield's face,
 crude on a makeshift shield, smith-made on a forged one. **The bearer can charge
 into someone shield-first: +3 on the charge, then +1 in melee when attacking
 with the shield after that.**
 
 ## Improvised shield (a door)
+
+**Abilities:** [Plant](abilities.md#plant).
 
 **A door or hatch** (enemy brutes, or anyone strong enough): **+1 on the defender\'s roll (block or parry), half
 cover from the front.** Breaks after 3 heavy hits.
