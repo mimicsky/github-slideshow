@@ -1,4 +1,6 @@
-# Bosses
+# Mini bosses
+
+**Renamed by the player, day 47: everything in this file is a MINI BOSS.** A real boss would have to be something way different and bigger; not built yet.
 
 Set by the player, Ash on Ostrava day 47, after the Plague Ogryn at Fourteen went down in one beat. **Bosses are
 meant to hurt.** Two kinds: **monster bosses** (bullet sponges) and **human bosses** (commanders with an honour
