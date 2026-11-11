@@ -1394,6 +1394,20 @@ in the other. **In melee** its bonus goes on the defender's roll, block or parry
 carries, from the front only; shots from the side or behind ignore it. Going Down
 drops it, like anything in hand. Each shield's numbers are in the catalogue (kit).
 
+#### Gear abilities
+
+**Gear abilities (set by the player, Ash on Ostrava day 47).** Abilities that come from **what someone carries, not
+their role or class**: anyone holding that kind of gear can use it, friend or enemy, and each piece of gear can
+differ (its catalogue entry may add to or change the ability). Listed here as they're designed.
+
+- **Shield: Plant.** The bearer sets the shield and plants himself for the beat (it takes the beat's move: he
+  can't move while planted). **He counts as in full cover from the front.** **He can't aim:** he can only **blind
+  fire (-4, no chain bonuses; DM default)**, or, **if his shield has a viewing slot (Dace's does), fire through
+  the slot (-2; semi-accurate; DM default)**. **One other person can crouch behind him and shoot round it, peeking
+  out: they count as in half cover (+2)** and shoot normally. Heavy weapons (krak, melta, plasma, heavy weapons)
+  treat a planted shield as heavy cover (+4), not full, unless the shield's entry says otherwise (DM default).
+  Shots from the side or behind ignore it, as with any shield.
+
 #### Airborne (jump packs and lift packs)
 
 **Airborne (jump packs and lift packs; set by the player, session 9).** While someone
