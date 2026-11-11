@@ -12,6 +12,8 @@ better-armed d20**, and half their guns are the team's favoured weapons. Their
 look and tactics are in their entry, and the DM plays them that way. Every enemy
 also rolls its own STR and DEX (ranges in `DND_CODEX.md` Part 8); no per-book bonuses.
 
+**Team units (set by the player, day 47).** A special team has its own units. **When one of its members rolls grunt, roll a d6: 1-2 makes them one of the team's units instead** (listed in `factions.py` and in the team's entry); **3-6 a regular grunt.** The roller does it. A team with no units listed yet gets its list the first time it shows up. **When the story already says who they are** (the 6th at a place of theirs), force the team: `../roll_enemy.py TYPE COUNT [WEALTH] team=moebian`.
+
 ## [Enemy roles: personalities and tendencies](roles.md)
 
 Every grunt and specialist role, how it tends to think and fight, and its rules.

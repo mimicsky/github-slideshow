@@ -40,6 +40,9 @@ Munitorum never cured. Now they spread it on purpose.
   any armed walker is in it, and **a heavy tool (a pick, a sledge, a cleaver) that lands solid gets
   through flak, and through carapace on a natural 20.** Shown in the fiction (a walker dragging a
   pick, a swarm with blades glinting in it) so the Light can see which crowds are dangerous.
+- **The 6th's team units (set by the player, day 47):** when one of the 6th rolls grunt, **a d6: 1-2 makes
+  them a tox flamer, a pox hound or a poxburster instead** (the roller: `team=moebian`); 3-6 a regular
+  grunt. A pox hound or a poxburster takes that man's place in the count.
 - **Poxbursters (set by the player, day 47):** walkers bloated to bursting. Unlike the others they
   **sprint** (~30 m a beat) at the nearest living and **burst on contact or when hit**: everyone within
   ~5 m drops a step (a blast) and makes a **CON save vs 13 or the rot**. Shot down at range, it bursts

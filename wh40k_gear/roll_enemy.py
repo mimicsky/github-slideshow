@@ -1,6 +1,6 @@
 """Roll an enemy group's roles and gear, from enemies.json.
 
-Usage: python3 roll_enemy.py TYPE COUNT [WEALTH] [GOD]
+Usage: python3 roll_enemy.py TYPE COUNT [WEALTH] [GOD] [team=NAME]
        python3 roll_enemy.py wealth TYPE   (roll a faction's wealth at mission start)
   TYPE:  cultist, raider, pirate, traitor (renegade Guard), traitor_elite
          (traitor storm troopers, renegade Inquisition teams), commoner (a militia of
@@ -9,6 +9,11 @@ Usage: python3 roll_enemy.py TYPE COUNT [WEALTH] [GOD]
          start; default steady, traitors good)
   COUNT: how many enemies in the group (a named enemy alone: 1)
   GOD:   cultists only: khorne, nurgle, slaanesh, tzeentch, undivided (default random)
+  team=NAME: force a named special team (part of its name, e.g. team=moebian), when the story
+         already says who they are; it uses TYPE's pool but the team's bonuses and units.
+Team units (player-set, day 47): when a special team's member rolls grunt, a d6: 1-2 makes them one of
+  the team's own units instead (factions.py "units"; the bestiary entry says how they fight); 3-6 a
+  regular grunt. A team with no units listed yet gets its list the first time it shows up.
 
 Role, one d20 per enemy (player-set, session 8):
   1-15  grunt: a coin flip (traitors 75/25) makes them RANGED (main gun + melee backup)
@@ -72,7 +77,8 @@ if len(sys.argv) > 1 and sys.argv[1].lower() == "wealth":  # roll a faction's we
 E = json.load(open(os.path.join(here, "enemies.json")))
 kind = (sys.argv[1] if len(sys.argv) > 1 else "cultist").lower()
 count = int(sys.argv[2]) if len(sys.argv) > 2 else 5
-rest = [a for a in sys.argv[3:] if not a.isdigit() and a.lower() not in LEVELS]  # an old BOOK number is accepted and ignored
+forced_team = [a.split("=", 1)[1].lower() for a in sys.argv[3:] if a.lower().startswith("team=")]
+rest = [a for a in sys.argv[3:] if not a.isdigit() and a.lower() not in LEVELS and not a.lower().startswith("team=")]  # an old BOOK number is accepted and ignored
 given = [a.lower() for a in sys.argv[3:] if a.lower() in LEVELS]
 level = given[0] if given else ("good" if kind.startswith("traitor") else "steady")
 if kind.startswith("traitor") and LEVELS.index(level) < 2: level = "good"  # traitors are Good and up
@@ -98,7 +104,11 @@ sys.path.insert(0, here)
 from factions import F
 team_roll = random.randint(1, 20) + random.randint(1, 20)
 team = None
-if team_roll >= 31 and any(f["type"] == kind for f in F):  # commoners have no named teams
+if forced_team:  # the story says who they are (day 47)
+    team = next((f for f in F if forced_team[0] in f["name"].lower()), None)
+    if team is None: sys.exit(f"no team matching {forced_team[0]!r} in factions.py")
+    if team.get("god"): god = team["god"]
+elif team_roll >= 31 and any(f["type"] == kind for f in F):  # commoners have no named teams
     opts = [f for f in F if f["type"] == kind and (kind != "cultist" or not god_given or f.get("god") == god)] or [f for f in F if f["type"] == kind]
     team = random.choice(opts)
     if team.get("god"): god = team["god"]
@@ -126,7 +136,7 @@ sidearms = [r for r in P["weapon"] if any(x in r[0].lower() for x in ("pistol", 
 BOMBS = [("Frag grenade","C"),("Pipe-bomb","C"),("Fire bomb (promethium)","C"),("Mining charge","C"),
          ("Krak grenade","U"),("Choke gas grenade","U"),("Cult gas bottle (gas of their god)","U"),("Melta bomb","R")]
 ranged_share = 0.75 if kind.startswith("traitor") else 0.5  # soldiers mostly fight with guns
-print(f"SPECIAL TEAM: {team['name']} (2d20 {team_roll}): +5 STR/DEX levels, +1 other rolls, armour one step better, +3 better-armed" if team else f"(2d20 {team_roll}: a basic group)")
+print(f"SPECIAL TEAM: {team['name']} ({'named by the story' if forced_team else f'2d20 {team_roll}'}): +5 STR/DEX levels, +1 other rolls, armour one step better, +3 better-armed" if team else f"(2d20 {team_roll}: a basic group)")
 print(f"{kind} x{count}, wealth {level.upper()}" + ("" if given else " (default; roll it: roll_enemy.py wealth TYPE)") + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{3 if team else 0} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE GEAR IN USE (natural 20)" if raw == 20 else ""))
 lucky = set(random.sample(range(count), better))
 for n in range(count):
@@ -168,9 +178,15 @@ for n in range(count):
     else:
         side = pick(sidearms) if random.random() < 0.5 else "no sidearm"
         head = f"grunt, melee (d20 {role_d20}): {pick(P['melee'])} | {side}"
+    if team and team.get("units") and head.startswith("grunt"):  # team units (day 47)
+        u6 = random.randint(1, 6)
+        if u6 <= 2:
+            head = f"TEAM UNIT (d20 {role_d20}, d6 {u6}): {pick(team['units'])}"
     if team and head.startswith("grunt, ranged") and random.random() < 0.5:
         g = random.choice(team["favoured"])
         head = head.split("): ", 1)[0] + "): " + g + " | " + head.split(" | ", 1)[1]
+    if "(creature)" in head:  # a team's beast or walker: no kit, armour or stats of its own
+        print(f"{n+1}. {head}"); continue
     armour = pick(P['armour'])
     if better_armour:  # one step better: draw the armour from the top of the list
         armour = random.choice([r[0] for r in P['armour'] if r[1] in ("U", "R")] or [armour])

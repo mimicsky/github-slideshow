@@ -2,7 +2,11 @@
 # type: which enemy pool they use. god: cultists only. favoured: their usual guns.
 F = [
  # Cultists (by god)
- {"name":"The Moebian 6th","type":"cultist","god":"nurgle","favoured":["Lasgun, Kantrael M36 (rusted)","Infantry autogun, 'Columnus' pattern","Braced autogun, 'Graia' pattern","Flamer, Ryza pattern (stolen)"]},
+ {"name":"The Moebian 6th","type":"cultist","god":"nurgle","favoured":["Lasgun, Kantrael M36 (rusted)","Infantry autogun, 'Columnus' pattern","Braced autogun, 'Graia' pattern","Flamer, Ryza pattern (stolen)"],
+  # Team units (the player, day 47): a member who rolls grunt rolls a d6; 1-2 makes them one of these instead.
+  "units":[["Tox flamer: gas tanks of rot + autopistol (cultists.md, Tox flamers)","C"],
+           ["Pox hound (creature): a rotted hound in this man's place, 2 states (cultists.md, Pox hounds)","C"],
+           ["Poxburster (creature): a bloated walker loosed in the line (cultists.md, Poxbursters)","U"]]},
  {"name":"The Volscani Cataphracts","type":"cultist","god":"undivided","favoured":["Hellgun, Ryza pattern (stolen)","Combat shotgun, semi-auto","Lasgun, Lucius No.98"]},
  {"name":"The Blood Pact","type":"cultist","god":"khorne","favoured":["Lasgun, Kantrael M36","Autogun, Agripinaa","Combat shotgun, pump"]},
  {"name":"The Sons of Sek","type":"cultist","god":"khorne","favoured":["Autogun, Agripinaa","Lasgun, Lucius No.98","Heavy stubber"]},
