@@ -500,7 +500,9 @@ the player tries to break or win over.
   (something they didn't know the player had: a name, proof, someone else's confession, a loved one, a lie
   caught out); the same card played twice, or the same thing said harder, usually doesn't. No checks by the
   clock. The DM calls the check and rolls it openly for the player (the player doesn't have to ask; Ash on
-  Ostrava, set session 9). The words pick the skill: a threat is Intimidation, reason or kindness is
+  Ostrava, set session 9). **Confirmed by the player, day 47: the will check is the subject's reaction (how
+  much the line moves them and what they give), so the DM rolls it, openly, with Tamsin's bonus; the 'never
+  roll Tamsin's dice' rule doesn't cover it** (on Lenk the player had rolled them himself). The words pick the skill: a threat is Intimidation, reason or kindness is
   Persuasion, a lie is Deception (or a variant pairing). **Each check takes 1-10% off** (the player, day 37;
   was 0-20%):
 
