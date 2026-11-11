@@ -82,9 +82,10 @@ god = (rest[0].lower() if rest else random.choice(["khorne", "nurgle", "slaanesh
 STATS = {"cultist": ((10, 30), (10, 25)), "raider": ((15, 35), (15, 30)), "pirate": ((15, 35), (20, 35)),
          "traitor": ((20, 35), (25, 40)), "traitor_elite": ((25, 45), (35, 50)),
          "commoner": ((10, 30), (10, 25))}
-STR_ROLES = {"brute", "berserker", "breacher", "bodyguard", "enforcer", "duelist", "zealot", "bomb zealot", "arbitrator"}
+STR_ROLES = {"brute", "berserker", "breacher", "bodyguard", "enforcer", "duelist", "zealot", "bomb zealot", "arbitrator",
+             "shield trooper", "mauler", "mutant charger"}
 DEX_ROLES = {"sniper", "grenadier", "assassin", "flamer", "demolitions", "jumper", "spotter", "tracker", "fighter pilot",
-             "heavy gunner", "heavy team", "plasma gunner", "infiltrator", "gunslinger"}
+             "heavy gunner", "heavy team", "plasma gunner", "infiltrator", "gunslinger", "mortar team"}
 def stats(role, skitarius=False):
     (s0, s1), (d0, d1) = ((30, 45), (35, 50)) if skitarius else ((60, 80), (10, 20)) if role == "ogryn" else STATS[kind]
     st, dx = random.randint(s0, s1), random.randint(d0, d1)

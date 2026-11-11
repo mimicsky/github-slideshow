@@ -40,6 +40,20 @@ Munitorum never cured. Now they spread it on purpose.
   any armed walker is in it, and **a heavy tool (a pick, a sledge, a cleaver) that lands solid gets
   through flak, and through carapace on a natural 20.** Shown in the fiction (a walker dragging a
   pick, a swarm with blades glinting in it) so the Light can see which crowds are dangerous.
+- **Poxbursters (set by the player, day 47):** walkers bloated to bursting. Unlike the others they
+  **sprint** (~30 m a beat) at the nearest living and **burst on contact or when hit**: everyone within
+  ~5 m drops a step (a blast) and makes a **CON save vs 13 or the rot**. Shot down at range, it bursts
+  where it falls. One health state; any hit bursts it. **In a swarm: a d6 for every twenty walkers, 1-2
+  means one of them is a burster** (seen in the fiction: swollen, glistening, running).
+- **Pox hounds (set by the player, day 47):** the 6th's hounds, rotted with the plague. **2 health
+  states, fast (~40 m a beat).** They **pounce**: a DEX dodge, or the target is knocked flat and
+  **pinned** (can't act until the hound is hit or Down); **bites carry the rot** (CON vs 13). Run by a
+  beast handler in packs of 3-6; they go for the wounded and whoever's alone.
+- **Tox flamers (set by the player, day 47):** flamers of the 6th spraying not fire but a choking green
+  gas from tanks of rot: **a ~8 m cone, everyone in it makes a CON save vs 13 or is sickened, and the
+  cloud lingers 2 beats** (anyone walking into it rolls too). **Masks and rebreathers give +2 on the save
+  but don't stop it** (the rot eats the filters); armour doesn't help. **A solid hit or a crit on the
+  flamer bursts its tanks** (a cloud ~5 m round it).
 
 ## The Volscani Cataphracts
 

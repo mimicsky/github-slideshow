@@ -14,7 +14,7 @@ applies.
 
 ## Index (open only the roles in the fight)
 
-[Grunt (ranged)](#grunt-ranged) · [Grunt (melee)](#grunt-melee) · [Sniper](#sniper) · [Grenadier](#grenadier) · [Heavy gunner](#heavy-gunner) · [Heavy team](#heavy-team) · [Plasma / melta gunner](#plasma--melta-gunner) · [Flamer](#flamer) · [Demolitions](#demolitions) · [Medic](#medic) · [Chem-doctor](#chem-doctor) · [Leader](#leader) · [Bodyguard](#bodyguard) · [Enforcer](#enforcer) · [Icon bearer](#icon-bearer) · [Rogue psyker](#rogue-psyker) · [Vox / auspex](#vox--auspex) · [Tech-adept / heretek](#tech-adept--heretek) · [Breacher](#breacher) · [Assassin](#assassin) · [Infiltrator](#infiltrator) · [Gunslinger](#gunslinger) · [Brute / mutant](#brute--mutant) · [Beast handler](#beast-handler) · [Herder](#herder) · [Berserker](#berserker) · [Bomb zealot](#bomb-zealot) · [Blessed](#blessed) · [Jumper](#jumper) · [Duelist](#duelist) · [Commander](#commander) · [Fighter pilot](#fighter-pilot) · [Spotter](#spotter) · [Tracker](#tracker) · [Zealot](#zealot) · [Skitarius](#skitarius) · [Arbitrator](#arbitrator) · [Rolling new people (recruits and NPCs)](#rolling-new-people-recruits-and-npcs) · [Ogryn](#ogryn)
+[Grunt (ranged)](#grunt-ranged) · [Grunt (melee)](#grunt-melee) · [Sniper](#sniper) · [Grenadier](#grenadier) · [Heavy gunner](#heavy-gunner) · [Heavy team](#heavy-team) · [Plasma / melta gunner](#plasma--melta-gunner) · [Flamer](#flamer) · [Demolitions](#demolitions) · [Medic](#medic) · [Chem-doctor](#chem-doctor) · [Leader](#leader) · [Bodyguard](#bodyguard) · [Enforcer](#enforcer) · [Icon bearer](#icon-bearer) · [Rogue psyker](#rogue-psyker) · [Vox / auspex](#vox--auspex) · [Tech-adept / heretek](#tech-adept--heretek) · [Breacher](#breacher) · [Assassin](#assassin) · [Infiltrator](#infiltrator) · [Gunslinger](#gunslinger) · [Brute / mutant](#brute--mutant) · [Beast handler](#beast-handler) · [Herder](#herder) · [Berserker](#berserker) · [Bomb zealot](#bomb-zealot) · [Blessed](#blessed) · [Jumper](#jumper) · [Duelist](#duelist) · [Commander](#commander) · [Fighter pilot](#fighter-pilot) · [Spotter](#spotter) · [Tracker](#tracker) · [Zealot](#zealot) · [Skitarius](#skitarius) · [Arbitrator](#arbitrator) · [Rolling new people (recruits and NPCs)](#rolling-new-people-recruits-and-npcs) · [Ogryn](#ogryn) · [Shield trooper](#shield-trooper) · [Mauler](#mauler) · [Mutant charger](#mutant-charger) · [Mortar team](#mortar-team)
 
 ## Grunt (ranged)
 
@@ -692,4 +692,49 @@ A giant abhuman, about 3 m tall: dumb, loyal, and it hits like a truck.
 
 *Side note: cultist Ogryns are the god's beasts: chained, starved and set loose; they
 fight for anything that feeds them.*
+
+## Shield trooper
+
+**Who has it:** cultists (scrap shields), raiders, pirates (boarding shields), traitor soldiers (slab
+shields), traitor elites (storm shields), commoners (riot shields). (Player's pick, Ash on Ostrava day 47.)
+
+A slab of metal in one hand and a sidearm or a club in the other. **From the front, a shield trooper counts as
+in heavy cover (+4)**; a storm shield also stops a heavy hit on a d6 5-6. **Two or more lock shields into a
+shield wall:** it advances a short move a beat, and **anyone right behind it gets heavy cover (+4) from the
+front.** Fires its sidearm over the rim at -1. **Breaking it:** flank it (no cover from the side or rear), go
+over it (grenades landing behind, flamers, a mortar), or **break a shield** (a krak, melta, a power weapon's
+solid hit or an Ogryn's blow shatters one).
+
+## Mauler
+
+**Who has it:** cultists, raiders, pirates, traitor soldiers, traitor elites. (Player's pick, day 47.)
+
+An executioner in heavy plates with a two-handed axe (a scrap great-axe, a headsman's axe, a chain axe, a
+power axe). **Armour one step better than its group.** **Its blows are heavy:** a chain or power axe goes
+through carapace; a scrap or headsman's axe goes through flak, and through carapace on a solid hit. **Cleave:**
+a blow that lands solid carries on into a second target in reach. **Slow:** it walks, never sprints, and never
+fires a gun. Best stopped before it arrives.
+
+## Mutant charger
+
+**Who has it:** cultists, raiders, traitor soldiers (the rot's gift). (Player's pick, day 47.)
+
+A long-limbed, twisted mutant that hunts one target at a time. **Charge (any beat it isn't holding someone):**
+it sprints ~30 m and grabs: the target makes a **DEX dodge against its STR roll**; a fail and it's **grabbed**:
+the charger drags them ~10 m away from their friends, toward its own side, slams them down (a step) and holds
+them. **Grabbed:** can't act except to break free (STR against its STR) until the charger goes Down or takes a
+solid hit. **Two extra health steps** (like a brute). No guns.
+
+## Mortar team
+
+**Who has it:** cultists (looted), raiders (scrap), pirates, traitor soldiers, traitor elites. (Player's pick,
+day 47.)
+
+A **two-man team** (gunner and loader) with a light mortar, **set up out of sight** (behind a wall, a building,
+a ridge) and fed targets by a spotter, a vox or its own eyes. **Indirect fire:** one round a beat onto any spot
+it knows of within ~300 m (d20 + DEX against the DM's hidden number for the spot; the near-miss lands close at
+half effect, as Hollis's grenades). **Frag rounds:** everyone within ~5 m drops a step, and **only cover
+overhead helps** (a roof, not a wall or a parapet). **Smoke rounds:** as smoke grenades. **Walking it in:** the
+first round at a new spot is -2; after a hit, the next on the same spot +2. **Killing it:** find it (Perception,
+the cough of the tube, a spotter's sightline), flank it, or answer it (Six Bells, the ship).
 

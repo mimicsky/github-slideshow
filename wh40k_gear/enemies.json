@@ -584,6 +584,42 @@
      "Ogryn: a cult-forged maul and a chain of skulls",
      "U"
     ]
+   ],
+   "shield trooper": [
+    [
+     "Scrap shield + autopistol + cleaver",
+     "C"
+    ],
+    [
+     "Scrap shield + stub revolver + spiked club",
+     "U"
+    ]
+   ],
+   "mauler": [
+    [
+     "Two-handed scrap great-axe, carapace plates over flak",
+     "C"
+    ],
+    [
+     "Chain axe (two-handed), carapace plates",
+     "U"
+    ]
+   ],
+   "mutant charger": [
+    [
+     "Mutant claws and extra limbs (no gun)",
+     "C"
+    ],
+    [
+     "Chain-hook and mutant claws (no gun)",
+     "U"
+    ]
+   ],
+   "mortar team": [
+    [
+     "Light mortar, looted, 6 frag rounds (two-man team)",
+     "R"
+    ]
    ]
   }
  },
@@ -1188,6 +1224,38 @@
      "Ogryn: grenadier gauntlet",
      "R"
     ]
+   ],
+   "shield trooper": [
+    [
+     "Scrap shield + stub pistol + cleaver",
+     "C"
+    ],
+    [
+     "Scrap shield + sawn-off",
+     "U"
+    ]
+   ],
+   "mauler": [
+    [
+     "Scrap great-axe, scrap plate",
+     "C"
+    ],
+    [
+     "Chain axe (two-handed), scrap plate",
+     "U"
+    ]
+   ],
+   "mutant charger": [
+    [
+     "Mutant claws (no gun)",
+     "C"
+    ]
+   ],
+   "mortar team": [
+    [
+     "Scrap mortar, 6 frag rounds (two-man team)",
+     "U"
+    ]
    ]
   }
  },
@@ -1724,6 +1792,32 @@
      "Ogryn: grenadier gauntlet",
      "R"
     ]
+   ],
+   "shield trooper": [
+    [
+     "Boarding shield + shotgun",
+     "C"
+    ],
+    [
+     "Boarding shield + laspistol + chain knife",
+     "U"
+    ]
+   ],
+   "mauler": [
+    [
+     "Boarding axe (two-handed), carapace",
+     "C"
+    ],
+    [
+     "Chain axe (two-handed), carapace",
+     "U"
+    ]
+   ],
+   "mortar team": [
+    [
+     "Light mortar, frag and smoke rounds (two-man team)",
+     "R"
+    ]
    ]
   }
  },
@@ -2248,6 +2342,50 @@
      "Ogryn: twin-linked heavy stubber, Bullgryn pattern, and a spare box",
      "U"
     ]
+   ],
+   "shield trooper": [
+    [
+     "Slab shield + laspistol + combat knife",
+     "C"
+    ],
+    [
+     "Slab shield + autopistol + shock maul",
+     "U"
+    ],
+    [
+     "Boarding shield + semi-auto shotgun",
+     "U"
+    ]
+   ],
+   "mauler": [
+    [
+     "Headsman's axe (two-handed), carapace",
+     "C"
+    ],
+    [
+     "Chain axe (two-handed), carapace",
+     "U"
+    ],
+    [
+     "Power axe (two-handed), carapace",
+     "R"
+    ]
+   ],
+   "mutant charger": [
+    [
+     "Mutant claws, the rot's gift (no gun)",
+     "C"
+    ]
+   ],
+   "mortar team": [
+    [
+     "Light mortar, frag and smoke rounds (two-man team)",
+     "C"
+    ],
+    [
+     "Light mortar, 6 frag rounds (two-man team)",
+     "U"
+    ]
    ]
   }
  },
@@ -2497,6 +2635,12 @@
     [
      "Militia vox-caster + autogun",
      "U"
+    ]
+   ],
+   "shield trooper": [
+    [
+     "Riot shield + stub pistol + club",
+     "C"
     ]
    ]
   }
@@ -2965,6 +3109,32 @@
     ],
     [
      "Ogryn: grenadier gauntlet",
+     "R"
+    ]
+   ],
+   "shield trooper": [
+    [
+     "Storm shield + hellpistol + power knife",
+     "U"
+    ],
+    [
+     "Slab shield + hellpistol + shock maul",
+     "C"
+    ]
+   ],
+   "mauler": [
+    [
+     "Power axe (two-handed), storm trooper carapace",
+     "U"
+    ],
+    [
+     "Chain axe (two-handed), storm trooper carapace",
+     "C"
+    ]
+   ],
+   "mortar team": [
+    [
+     "Light mortar, krak and frag rounds (two-man team)",
      "R"
     ]
    ]

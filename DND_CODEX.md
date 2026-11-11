@@ -1050,6 +1050,8 @@ Who counts as **poor, middle or rich**: poor = cultists, raiders, poor militia; 
 
 **3. They play for their lives.** **Everyone fights from cover** and moves cover to cover; nobody stands in the open unless they're charging or forced out. **Leaders and specialists stay back**, behind cover and bodyguards, and don't fall first unless the Light earns it (a bluff that draws them out, a flank, a sniper). They use every asset as soon as it makes sense.
 
+**Vehicles:** light vehicles, APCs and tanks are assets added by mission type and wealth, with hull points and armour only heavy hits get through: `wh40k_gear/bestiary/vehicles.md` (set by the player, day 47). **New roles (day 47):** shield trooper, mauler, mutant charger, mortar team (`roles.md`; the roller hands them out); **the 6th's new units:** poxbursters, pox hounds, tox flamers, and armed walkers (`cultists.md`).
+
 **Bosses:** monster bosses and human bosses (commanders with an honour guard) are in `wh40k_gear/bestiary/bosses.md` (set by the player, day 47): templates, the two-boss d6, and a roster from 40k lore.
 
 **4. Every big fight has a complication:** at least one of reinforcements (a d6 each beat), a second force arriving, a flank, or a fallback plan already in place.

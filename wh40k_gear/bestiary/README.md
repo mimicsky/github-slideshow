@@ -21,6 +21,10 @@ The DM decides; these are tendencies.
 
 Monster bosses (bullet sponges: 8 stages, 2 actions, a ranged threat, a phase 2) and human bosses (commanders with an honour guard, the best kit, STR and DEX +6 to +10), a roster from 40k lore, and the two-boss roll (set by the player, day 47).
 
+## [Vehicles](vehicles.md)
+
+Light vehicles, APCs and tanks: when they show up (by mission type and wealth), hull points, what gets through their armour, the damage d6, and what the Light can answer them with (set by the player, day 47).
+
 ## [Commoners (militia)](commoners.md)
 
 Ordinary people under arms: Poor, Steady, or Good in rich places. Brittle; can be talked down.
