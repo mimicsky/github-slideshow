@@ -583,6 +583,18 @@
     [
      "Ogryn: a cult-forged maul and a chain of skulls",
      "U"
+    ],
+    [
+     "Ogryn CRUSHER: full heavy carapace, two-handed power maul (roles.md, Ogryn variants)",
+     "R"
+    ],
+    [
+     "Ogryn BULWARK: a huge slab shield and a mace (roles.md, Ogryn variants)",
+     "U"
+    ],
+    [
+     "Ogryn REAPER: a heavy drum-fed ripper gun (roles.md, Ogryn variants)",
+     "U"
     ]
    ],
    "shield trooper": [
@@ -1223,6 +1235,18 @@
     [
      "Ogryn: grenadier gauntlet",
      "R"
+    ],
+    [
+     "Ogryn CRUSHER: scrap-welded heavy plate, two-handed power maul (stolen) (roles.md, Ogryn variants)",
+     "R"
+    ],
+    [
+     "Ogryn BULWARK: a slab of hull-plate shield and a girder-mace (roles.md, Ogryn variants)",
+     "U"
+    ],
+    [
+     "Ogryn REAPER: a heavy drum-fed ripper gun (roles.md, Ogryn variants)",
+     "U"
     ]
    ],
    "shield trooper": [
@@ -1791,6 +1815,18 @@
     [
      "Ogryn: grenadier gauntlet",
      "R"
+    ],
+    [
+     "Ogryn CRUSHER: full heavy carapace, two-handed power maul (roles.md, Ogryn variants)",
+     "R"
+    ],
+    [
+     "Ogryn BULWARK: a boarding slab shield and a mace (roles.md, Ogryn variants)",
+     "U"
+    ],
+    [
+     "Ogryn REAPER: a heavy drum-fed ripper gun (roles.md, Ogryn variants)",
+     "U"
     ]
    ],
    "shield trooper": [
@@ -2341,6 +2377,18 @@
     [
      "Ogryn: twin-linked heavy stubber, Bullgryn pattern, and a spare box",
      "U"
+    ],
+    [
+     "Ogryn CRUSHER: full heavy carapace, two-handed power maul (roles.md, Ogryn variants)",
+     "U"
+    ],
+    [
+     "Ogryn BULWARK: a huge slab shield and a mace (roles.md, Ogryn variants)",
+     "C"
+    ],
+    [
+     "Ogryn REAPER: a heavy drum-fed ripper gun (roles.md, Ogryn variants)",
+     "C"
     ]
    ],
    "shield trooper": [
@@ -3110,6 +3158,18 @@
     [
      "Ogryn: grenadier gauntlet",
      "R"
+    ],
+    [
+     "Ogryn CRUSHER: full heavy carapace, two-handed power maul (roles.md, Ogryn variants)",
+     "U"
+    ],
+    [
+     "Ogryn BULWARK: a huge slab shield and a power mace (roles.md, Ogryn variants)",
+     "U"
+    ],
+    [
+     "Ogryn REAPER: a heavy drum-fed ripper gun (roles.md, Ogryn variants)",
+     "U"
     ]
    ],
    "shield trooper": [

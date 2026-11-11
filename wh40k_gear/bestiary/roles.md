@@ -693,6 +693,26 @@ A giant abhuman, about 3 m tall: dumb, loyal, and it hits like a truck.
 *Side note: cultist Ogryns are the god's beasts: chained, starved and set loose; they
 fight for anything that feeds them.*
 
+### Ogryn variants: the Crusher, the Bulwark, the Reaper
+
+**Added by the player, Ash on Ostrava day 47, from Darktide (the Moebian 6th's Ogryns).** Each is an Ogryn (the stats,
+the 5 stages, shots at it +2, the once-a-fight charge, loyal and dumb, as above), plus:
+
+- **Crusher.** Sealed in **full heavy carapace** (only heavy hits get through: hellguns and heavy stubbers only
+  inside ~15 m; bolters, chain on a solid hit, power, plasma, melta, krak always). A **two-handed power maul**:
+  its blows go **through any armour** and **a hit knocks the target flat**. **The overhead slam:** every other
+  beat, instead of its swings, it brings the maul down on **everyone in a ~3 m arc in front of it**: each makes a
+  **DEX dodge against its STR roll** or is **knocked flat and drops two steps**. **Slow:** it walks (~10 m a
+  beat), never sprints. Kill it at range, with heavy weapons, or from behind.
+- **Bulwark.** A **huge slab shield**: from the front it's **full cover against anything but heavy weapons**
+  (krak, melta, plasma and heavy weapons treat it as heavy cover, +4), and **anyone right behind it gets heavy
+  cover (+4)** as it walks forward. A **mace** (heavy blows: through flak, and through carapace on a solid hit).
+  **Shield bash:** a hit knocks the target flat. **Breaking it:** flank it, go over it (grenades, a mortar,
+  Six Bells' arc), or blast it (melta, a melta bomb or a demo charge wrecks the shield).
+- **Reaper.** A **heavy drum-fed ripper gun** carried like a rifle: **strings of up to 6 inside ~30 m** (useless
+  past ~60), **recoil 2**; a **solid hit also hits someone next to the target**; **everyone it fires at is
+  suppressed (-2) whether hit or not.** Carapace. Reloading the drum takes a full beat: that's the moment.
+
 ## Shield trooper
 
 **Who has it:** cultists (scrap shields), raiders, pirates (boarding shields), traitor soldiers (slab
