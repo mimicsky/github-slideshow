@@ -1037,7 +1037,7 @@ The Light had been walking through everything: Fourteen fell in a few beats and 
 
 | Wealth | Who | Numbers |
 | --- | --- | --- |
-| **Poor** | cultists, raiders, poor militia | **x3-4** (d2 + 2) |
+| **Poor** | cultists, raiders, poor militia | **x4-5** (d2 + 3; was x3-4, raised by the player the same day) |
 | **Middle** | traitor soldiers (renegade Guard, e.g. the Moebian 6th), pirates | **x2-3** (d2 + 1) |
 | **Rich** | traitor elites (traitor storm troopers, renegade kill-teams) | **x1-1.5** (d2: 1 = x1, 2 = x1.5) |
 
