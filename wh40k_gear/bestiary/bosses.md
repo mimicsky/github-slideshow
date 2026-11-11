@@ -10,6 +10,21 @@ A boss and its escort come **on top of** the mission's force (codex Part 8, Enem
 regular battle**, roll a d6: **5-6, a second boss** (a different kind, or its mate: a commander and his beast, a
 handler and two monsters, two of the same). The DM rolls it openly when the boss shows.
 
+## The boss meter (set by the player, day 47)
+
+A bar that fills over the campaign, so a boss can turn up in any fight, not only the ones the story plans.
+
+- **At the start of every fight, roll a d100 openly: at or under the meter, a boss spawns** (the DM picks which
+  from the roster for that enemy, hidden until it's seen; the two-boss d6 still applies in a big fight).
+- **The meter starts at 1%.** After every fight or mission, **the DM adds 1-5%** for the size of it and what the
+  Light did: about **+1** a stealth or small job, **+2** a kill-team mission, **+3** a regular battle, **+4** a
+  whole-Light fight, **+5** when they kick the hornet's nest (a commander killed, a stronghold burned, the
+  enemy's masters paying attention). The DM's call; never more than +5 at a time.
+- **When a boss spawns from the meter, it drops back to 1%.** (DM default; the player may change it.)
+- **Story bosses are separate:** a boss the story already put somewhere (a Major in his hall, a cult leader in his
+  temple) is there whatever the meter says.
+- **The meter is tracked on the campaign sheet**, next to the coin, where the player can see it.
+
 ## Monster boss template
 
 - **8 health stages:** Fine, Grazed, Bruised, Hurt, Wounded, Badly hurt, Broken, Down.
