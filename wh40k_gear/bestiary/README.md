@@ -17,6 +17,10 @@ also rolls its own STR and DEX (ranges in `DND_CODEX.md` Part 8); no per-book bo
 Every grunt and specialist role, how it tends to think and fight, and its rules.
 The DM decides; these are tendencies.
 
+## [Bosses](bosses.md)
+
+Monster bosses (bullet sponges: 8 stages, 2 actions, a ranged threat, a phase 2) and human bosses (commanders with an honour guard, the best kit, STR and DEX +6 to +10), a roster from 40k lore, and the two-boss roll (set by the player, day 47).
+
 ## [Commoners (militia)](commoners.md)
 
 Ordinary people under arms: Poor, Steady, or Good in rich places. Brittle; can be talked down.
