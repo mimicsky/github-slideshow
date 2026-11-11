@@ -14,7 +14,7 @@ handler and two monsters, two of the same). The DM rolls it openly when the boss
 
 A bar that fills over the campaign, so a boss can turn up in any fight, not only the ones the story plans.
 
-- **At the start of every fight, roll a d100 openly: at or under the meter, a boss spawns** (the DM picks which
+- **At the start of every fight, roll a d100 SECRETLY (changed by the player, day 47: 'don't tell me the boss meter'; the roll and the meter stay out of the narration, so a boss is a surprise): at or under the meter, a boss spawns** (the DM picks which
   from the roster for that enemy, hidden until it's seen; the two-boss d6 still applies in a big fight).
 - **The meter starts at 1%.** After every fight or mission, **the DM adds 1-5%** for the size of it and what the
   Light did: about **+1** a stealth or small job, **+2** a kill-team mission, **+3** a regular battle, **+4** a
@@ -23,7 +23,7 @@ A bar that fills over the campaign, so a boss can turn up in any fight, not only
 - **When a boss spawns from the meter, it drops back to 1%.** (DM default; the player may change it.)
 - **Story bosses are separate:** a boss the story already put somewhere (a Major in his hall, a cult leader in his
   temple) is there whatever the meter says.
-- **The meter is tracked on the campaign sheet**, next to the coin, where the player can see it.
+- **The meter is tracked in the DM notes, not shown in play** (the player, day 47).
 
 ## Monster boss template
 
