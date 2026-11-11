@@ -1039,7 +1039,7 @@ The Light had been walking through everything: Fourteen fell in a few beats and 
 | --- | --- | --- |
 | **Poor** | cultists, raiders, poor militia | **x4-5** (d2 + 3; was x3-4, raised by the player the same day) |
 | **Middle** | traitor soldiers (renegade Guard, e.g. the Moebian 6th), pirates | **x3-4** (d2 + 2; was x2-3, raised by the player the same day) |
-| **Rich** | traitor elites (traitor storm troopers, renegade kill-teams) | **x1-1.5** (d2: 1 = x1, 2 = x1.5) |
+| **Rich** | traitor elites (traitor storm troopers, renegade kill-teams) | **x1.5-2** (d2: 1 = x1.5, 2 = x2; round down; was x1-1.5, raised by the player the same day) |
 
 As the Light grows, so do they. Spread the total across the roller's roles (grunts, specialists, a leader), plus their assets (beasts, walkers, heavy weapons, vehicles). A small detail (a gate, a patrol) can be smaller; **the main force of a place is never.**
 
