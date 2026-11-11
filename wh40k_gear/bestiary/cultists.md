@@ -33,6 +33,13 @@ Munitorum never cured. Now they spread it on purpose.
   trooper of the 6th, grunt class, with a bell or a horn): the swarm marches where the bell goes. **Kill
   the herder and the swarm loses its march**: it stops pushing for the objective and turns on whatever
   living thing is nearest.
+- **Armed walkers (set by the player, day 47):** some of the dead still carry what they died holding,
+  or what the 6th tied into their hands: **scrap melee weapons** (cleavers, pipes, picks, sledges,
+  rusted machetes, hooks). **Roll a d6 for each batch of about ten: that many of the ten are armed.**
+  A swarm with armed walkers in it hits harder: **its contact attack is d20 +4 instead of +2** while
+  any armed walker is in it, and **a heavy tool (a pick, a sledge, a cleaver) that lands solid gets
+  through flak, and through carapace on a natural 20.** Shown in the fiction (a walker dragging a
+  pick, a swarm with blades glinting in it) so the Light can see which crowds are dangerous.
 
 ## The Volscani Cataphracts
 
