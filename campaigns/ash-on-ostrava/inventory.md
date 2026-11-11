@@ -209,6 +209,7 @@ The Ustrennos library books went back on day 31; unfinished ones keep only the h
 - **The Major's rooms (~1142-1146):** **the war-table map** (from the hall below); **a packet of coded slips signed 'Q'** (for Brenner and the codebook); the duty log; **the regiment's pay strongbox: 2,000 Thrones** and the pay roll ledger. (The footlocker: still locked.)
 - **The footlocker (~1150):** **a cold-case of SIX SEALED JARS of the culture** (labelled LOWMERE, SALTBEND, KETTLE FORD, VARN QUAY, HEARTHGATE x2: evidence and a hazard; the chill coil running); the Major's commission; a Moebian service medal. **The volkite serpenta (Ferro, ~1155): Ryza's forge seal (matches the case); sound; TWO SHOTS left in its cell.**
 - **The dormitories (Kell):** las packs ~20; 2 crates of autogun rounds; rations; more unsent letters. **The barns:** tithe grain in sacks (unchecked); fuel drums.
+- **The final search (~1252-1318):** **the vox room's log spool (the 6th's cipher: for Brenner)**; **the beds' belongings from the vaults (travel papers and ship's ID discs, among them the *Odran's Purse*'s: evidence for Kesh)**; **60 Thrones**; the Ogryn's chain and collar ring (left).
 - **Left:** defaced regimental insignia, cult trappings.
 - **Still there:** the last hauler from the Ninth (empty) and the Light's stolen hauler; ~140 walkers behind the vault doors.
 
