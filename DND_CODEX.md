@@ -1033,17 +1033,18 @@ sign of how cheap life is: a stub round costs less than a ration can. In TV
 
 The Light had been walking through everything: Fourteen fell in a few beats and its boss lasted one. **More enemies, and smarter ones.**
 
-**1. Numbers scale with the Light and the enemy's wealth.** Count **everyone of the Light in the fight** (Tamsin included; the ship's guns and the Valk count as **2 each** when they join in), then multiply by the enemy's wealth: **poorer factions have more manpower, richer ones fewer but better.** Kit still comes from the roller, so only the numbers change here.
+**1. Numbers come from the MISSION TYPE and the enemy's wealth, not from who the Light brings** (set by the player, day 47; replaces counting the Light in the fight). **The DM sets the mission type from the situation before the player knows it** (hidden, in the DM notes). The player has to scout and judge: **if he brings a kill team to what is really a regular battle, that's his call and he lives with it. No softening the force to fit the team he brought.** Poorer factions have more manpower, richer ones fewer but better; kit still comes from the roller.
 
-| Wealth | Who | Numbers |
-| --- | --- | --- |
-| **Poor** | cultists, raiders, poor militia | **x4-5** (d2 + 3; was x3-4, raised by the player the same day) |
-| **Middle** | traitor soldiers (renegade Guard, e.g. the Moebian 6th), pirates | **x3-4** (d2 + 2; was x2-3, raised by the player the same day) |
-| **Rich** | traitor elites (traitor storm troopers, renegade kill-teams) | **x1.5-2** (d2: 1 = x1.5, 2 = x2; round down; was x1-1.5, raised by the player the same day) |
+| Mission type | Base | **Poor** x4-5 (d2 + 3) | **Middle** x3-4 (d2 + 2) | **Rich** x1.5-2 (d2: 1 = x1.5, 2 = x2; round down) |
+| --- | --- | --- | --- | --- |
+| **Whole-Light fight** (everything they have: a stronghold, a war) | 19 | **76-95** | **57-76** | **28-38** |
+| **Regular battle** (a ground-force battle: a compound, a main force) | 15 | **60-75** | **45-60** | **22-30** |
+| **Kill-team mission** (a squad's job: a strike, a cell, a convoy) | 7 | **28-35** | **21-28** | **10-14** |
+| **Stealth or small mission** (in and out: a few guards, a patrol) | 2 | **8-10** | **6-8** | **3-4** |
 
-As the Light grows, so do they. Spread the total across the roller's roles (grunts, specialists, a leader), plus their assets (beasts, walkers, heavy weapons, vehicles). A small detail (a gate, a patrol) can be smaller; **the main force of a place is never.**
+Who counts as **poor, middle or rich**: poor = cultists, raiders, poor militia; middle = traitor soldiers (renegade Guard, e.g. the Moebian 6th), pirates; rich = traitor elites (traitor storm troopers, renegade kill-teams). Spread the total across the roller's roles (grunts, specialists, a leader), plus their assets (beasts, walkers, heavy weapons, vehicles).
 
-**Places keep their own garrison; the multiplier is a floor, not a cap** (asked by the player, day 47). A place (a compound, a hive block, a ship) has the garrison its story gives it (Fourteen: thirty of the Sixth and the beds). If the Light's count x the multiplier comes to more, the garrison is raised to that; if the Light comes with fewer, **the garrison stays the same**: going in alone doesn't empty the place, it's a stealth or assassination job, not a stand-up fight. **Encounters that aren't a place's garrison** (a patrol on the road, a pursuit, a random fight, an ambush on the Light) scale to whoever is there: Tamsin alone meets poor 4-5, middle 3-4, rich 1-2.
+**Places keep their mission type.** A place (a compound, a hive block, a ship) is set as one mission type and keeps it whoever comes: going into a regular-battle compound alone doesn't empty it; that's a stealth or assassination job, not a stand-up fight. **Encounters away from a place** (a patrol on the road, a pursuit, an ambush) get their own mission type from the situation (a patrol is usually small; an ambush the enemy planned is sized for what they mean to kill).
 
 **2. The enemy plays chess with Tamsin.** Their commander reads what the Light does each beat and answers it: shifts fire, flanks, falls back to a strongpoint, calls reinforcements on the vox, releases what they're holding (walkers, beasts), goes for the Light's medic and commander, suppresses. **Surprise buys the Light one beat, not the fight:** from the next beat, they fight back with a plan.
 
