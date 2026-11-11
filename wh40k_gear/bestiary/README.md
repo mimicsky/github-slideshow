@@ -14,6 +14,8 @@ also rolls its own STR and DEX (ranges in `DND_CODEX.md` Part 8); no per-book bo
 
 **Team units (set by the player, day 47).** A special team has its own units. **When one of its members rolls grunt, roll a d6: 1-2 makes them one of the team's units instead** (listed in `factions.py` and in the team's entry); **3-6 a regular grunt.** The roller does it. A team with no units listed yet gets its list the first time it shows up. **When the story already says who they are** (the 6th at a place of theirs), force the team: `../roll_enemy.py TYPE COUNT [WEALTH] team=moebian`.
 
+**Special teams fit the mission (set by the player, day 47).** When the mission's enemy is a named team (the 6th on Gallowmere), **every group of theirs rolls as that team** (`team=NAME`: its bonuses and its units), never a random one. When the 2d20 rolls a special team that doesn't fit the mission (e.g. the Urdeshi Deserter Storm Troops turning up in the 6th's own compound, as happened at Fourteen), **reroll the pick until it fits** (same type, and for cultists the same god), instead of ignoring the tag. A mission can also be built around a special team from the start, because of what the mission is.
+
 ## [Enemy roles: personalities and tendencies](roles.md)
 
 Every grunt and specialist role, how it tends to think and fight, and its rules.
