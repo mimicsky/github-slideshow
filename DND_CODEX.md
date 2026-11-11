@@ -1029,6 +1029,26 @@ sign of how cheap life is: a stub round costs less than a ration can. In TV
 | Plasma cell | ~6 TV | Refilled slowly by a tech-priest, or at a Mechanicus shrine |
 | Melta charge / melta bomb | rare, priced on the day | |
 
+### Enemy numbers and tactics (set by the player, Ash on Ostrava day 47)
+
+The Light had been walking through everything: Fourteen fell in a few beats and its boss lasted one. **More enemies, and smarter ones.**
+
+**1. Numbers scale with the Light and the enemy's wealth.** Count **everyone of the Light in the fight** (Tamsin included; the ship's guns and the Valk count as **2 each** when they join in), then multiply by the enemy's wealth: **poorer factions have more manpower, richer ones fewer but better.** Kit still comes from the roller, so only the numbers change here.
+
+| Wealth | Who | Numbers |
+| --- | --- | --- |
+| **Poor** | cultists, raiders, poor militia | **x3-4** (d2 + 2) |
+| **Middle** | traitor soldiers (renegade Guard, e.g. the Moebian 6th), pirates | **x2-3** (d2 + 1) |
+| **Rich** | traitor elites (traitor storm troopers, renegade kill-teams) | **x1-1.5** (d2: 1 = x1, 2 = x1.5) |
+
+As the Light grows, so do they. Spread the total across the roller's roles (grunts, specialists, a leader), plus their assets (beasts, walkers, heavy weapons, vehicles). A small detail (a gate, a patrol) can be smaller; **the main force of a place is never.**
+
+**2. The enemy plays chess with Tamsin.** Their commander reads what the Light does each beat and answers it: shifts fire, flanks, falls back to a strongpoint, calls reinforcements on the vox, releases what they're holding (walkers, beasts), goes for the Light's medic and commander, suppresses. **Surprise buys the Light one beat, not the fight:** from the next beat, they fight back with a plan.
+
+**3. They play for their lives.** **Everyone fights from cover** and moves cover to cover; nobody stands in the open unless they're charging or forced out. **Leaders and specialists stay back**, behind cover and bodyguards, and don't fall first unless the Light earns it (a bluff that draws them out, a flank, a sniper). They use every asset as soon as it makes sense.
+
+**4. Every big fight has a complication:** at least one of reinforcements (a d6 each beat), a second force arriving, a flank, or a fallback plan already in place.
+
 ### Loot
 
 Enemies carry what they plausibly would. **Two separate rare rolls, on purpose (set by the player,
