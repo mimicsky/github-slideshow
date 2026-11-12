@@ -1427,7 +1427,7 @@ drops it, like anything in hand. Each shield's numbers are in the catalogue (kit
 
 #### Gear abilities
 
-**Gear abilities (set by the player, Ash on Ostrava day 47): moved to their own list, [`wh40k_gear/catalogue/abilities.md`](wh40k_gear/catalogue/abilities.md).** Abilities come from what someone carries, not their role. Every ability is written once there with the items that have it; every item with an ability has an **Abilities:** line in its catalogue entry pointing back.
+**Gear abilities (set by the player, Ash on Ostrava day 47): moved to their own list, [`wh40k_gear/catalogue/abilities.md`](wh40k_gear/catalogue/abilities.md).** Abilities come from what someone carries, not their role. Every ability is written once there with the items that have it; every item with an ability has an **Abilities:** line in its catalogue entry pointing back. **One ability per beat, per person; each has a 3-beat cooldown** (day 47).
 
 #### Airborne (jump packs and lift packs)
 

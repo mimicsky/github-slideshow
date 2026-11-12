@@ -18,6 +18,9 @@ class:** anyone holding that kind of gear can use it, friend or enemy.
 ready again on beat 4.** (Two different abilities don't share a cooldown: a Heavy Attack on beat 1 doesn't stop a
 Plant on beat 2.) Passive things that aren't abilities (Strength behind the blow) have none.
 
+**One ability per beat, per person** (set by the player, day 47). Whatever he carries, he uses **one** gear ability
+in a beat (a Plant and a Pinned Fire can't both happen in the same beat; a Field Burst can't ride a Heavy Attack).
+
 ## Not gear, but connected
 
 **Strength behind the blow (STR 50+)** (set by the player, day 47): a body ability, not gear, written in the codex
@@ -221,4 +224,19 @@ and the [Fan throw](melee.md) keep their own rules).
 mono-knives, power knives, chain knives, shanks, hatchets and hand axes. Enemies' alike. **Owned in Ash on Ostrava:**
 Tamsin's scorched-tip knife, Kell's Schola fighting knife, Varga's power knife, Brenner's mono-knife, Tey's chain knives
 and every other knife on the campaign sheet.
+
+## Field Burst
+
+**Power weapons** (set by the player, day 47). He dumps the whole field into one swing.
+- **If it lands, it drops one extra step**, and the flash **knocks the target back a step and costs him his next
+  swing.**
+- **It ends the chain** (and, like every ability, it's his one ability that beat: no Heavy Attack on the same swing).
+- **Then the field is off for the next beat:** the weapon cuts like a plain blade (through flak only) until it comes
+  back.
+- Cooldown: 3 beats, like every ability.
+
+**Items with it:** **every power weapon** in [melee.md](melee.md) (said once at the top of that file): power swords,
+axes, mauls, knives, fists, thunder hammers, relic blades. Enemies' alike. **Owned in Ash on Ostrava:** Junior
+Commissar Varo's power sword (Tamsin's off weapon), Corvane's power sword, Varga's and Nessa's power knives, and any
+other power weapon on the campaign sheet.
 
