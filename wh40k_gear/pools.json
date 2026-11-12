@@ -1337,7 +1337,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Breaching charge",
+  "name": "Breaching charge (door blown in; ~2 m behind: a step and -2)",
   "tv": 2,
   "cat": "explosive",
   "rarity": "U",
@@ -1351,7 +1351,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Demolition charge, satchel",
+  "name": "Demolition satchel (~4 m blast, two steps; dive halves)",
   "tv": 4,
   "cat": "explosive",
   "rarity": "U",

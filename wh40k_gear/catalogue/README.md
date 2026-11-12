@@ -126,6 +126,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 ## [Explosives, mines and grenades](explosives.md)
 
 - [Melta bomb](explosives.md#melta-bomb) (planted on mag-clamps; 3 hull points; fires next beat or on a detonator)
+- [Breaching charge and demolition satchel](explosives.md#breaching-charge-and-demolition-satchel) (set by hand; a door blown in; a ~4 m blast)
 - [Remote detonator](explosives.md#remote-detonator) (wires into any charge or trip wire; fire it free from ~300 m)
 - [Tin-can bomb](explosives.md#tin-can-bomb-scrap) (light it; the timing's off; duds on a 1)
 - [Cracker bundle](explosives.md#cracker-bundle-firecracker-flashbang) (firecracker flashbang; can dud)

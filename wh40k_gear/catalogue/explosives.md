@@ -45,6 +45,17 @@ together or one at a time.
 - **A vox-jammer** (grenade or rig) blocks it inside its radius: the charge stays live but won't fire from the trigger
   until the jam lifts.
 
+## Breaching charge and demolition satchel
+
+(Entries written with the player, Ash on Ostrava day 47, audit C14. Both are **set by hand**: the beat's main thing;
+they fire **at the end of the next beat** on a timer, or on a [remote detonator](#remote-detonator).)
+- **Breaching charge** (uncommon, 2 TV): a shaped strip for doors and hatches. **The door blows inward;** anyone within
+  **~2 m behind it drops a step and takes -2 on their next roll** (stunned). On a vehicle: **2 hull points**
+  ([vehicles.md](../bestiary/vehicles.md)).
+- **Demolition satchel** (uncommon, 4 TV): the big one, for walls and bunkers. **A ~4 m blast: everyone in it drops two
+  steps;** a dive roll (DEX) halves it to one. It blows walls, light cover and doors; on a vehicle: **2 hull points**.
+  (The [thrown demo satchel](#thrown-demo-satchel) is its throwable cousin.)
+
 ## Thrown demo satchel
 
 **Thrown demo satchel** (player design, uncommon, 5 TV). A heavy charge with a

@@ -145,7 +145,7 @@ add("heavy","U","MBF",[("Mortar with 6 rounds",12)])
 add("heavy","R","MF",[("Heavy bolter, Guard pattern, 1 belt (crew-served; strings of 6; a hit +1 step; braced or tripod)",40),("Missile launcher (2 frag, 1 krak; one a beat; krak through power armour; backblast)",25),("Autocannon (strings of 3; two steps on a person, power armour on a solid hit; APCs; braced or tripod)",35),("Lascannon, man-portable (two steps on a person; 1 hull point; braced or tripod; 6-shot packs)",45),("Multilaser (crew)",30),("Rocket-propelled grenade tube (2 rounds)",10)])
 # --- Explosives ---
 add("explosive","C","MBF",[("Frag grenade",1),("Smoke grenade",1)])
-add("explosive","U","MBF",[("Krak grenade",2),("Photon flash grenade",2),("Choke gas grenade",1.5),("Breaching charge",2),("Det-tape (5 m)",1),("Demolition charge, satchel",4),("Incendiary grenade",2)])
+add("explosive","U","MBF",[("Krak grenade",2),("Photon flash grenade",2),("Choke gas grenade",1.5),("Breaching charge (door blown in; ~2 m behind: a step and -2)",2),("Det-tape (5 m)",1),("Demolition satchel (~4 m blast, two steps; dive halves)",4),("Incendiary grenade",2)])
 add("explosive","R","MAF",[("Melta bomb (planted on mag-clamps; 3 hull points; through anything)",6),("Plasma grenade",6),("Haywire grenade (machine-killer)",8),("Stun grenade (Arbites)",2.5)])
 add("explosive","R","MAF",[("Plasma tripwire mine (laser trip, plasma-cell charge)",10)])
 add("explosive","U","MBF",[("Thrown demo satchel with paired detonator (mag-clamp, throw or set; beeps when armed)",5)])
