@@ -15,7 +15,7 @@ class:** anyone holding that kind of gear can use it, friend or enemy.
 ## Not gear, but connected
 
 **Strength behind the blow (STR 50+)** (set by the player, day 47): a body ability, not gear, written in the codex
-(Part 8, Armour). Anyone with STR 50+ drives their melee weapon one armour step further; **power weapons** instead
+(Part 8, Armour). Anyone with STR 50+ drives their **melee or thrown** weapon one armour step further; **power weapons** instead
 **drop two steps a hit.** Who has it: Morcant (STR 51); every Ogryn; the strongest brutes.
 
 ## Plant

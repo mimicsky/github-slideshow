@@ -16,7 +16,7 @@ It is steps 6-9 of the campaign README's Fight checklist in short; steps 1-5 (wh
 - Cover adds to it: light **+1**, half **+2**, heavy **+4**, full = can't be shot (except through-cover guns, grenades round it, flamers); only from the front or side it blocks; shooting from cover is free, moving out of it loses it that beat (codex, Cover).
 - **Solid hit** = the total beats the number by **3+**. Taking someone alive with a limb shot: **+1** to the number (day 47) (codex, Shots and hits; Rulings).
 ## 3. Roll checklist (every roll; write each bonus by name)
-1. **Base:** d20 + stat (+1 per full 10 levels); melee STR, or the better of STR/DEX with a finesse weapon. **Tamsin adds proficiency +4** (attacks, trained skills; Remarkable Athlete +2 on untrained STR/DEX/CON); **the Light add no proficiency** (codex, Roll checklist 1; sheet, How the Light rolls).
+1. **Base:** d20 + stat (+1 per full 10 levels); melee STR, or the better of STR/DEX with a finesse weapon. **Melee or thrown with STR 50+: Strength behind the blow, one armour step further; power weapons two steps a hit** (codex, Part 8 Armour; the sheet flags who). **Tamsin adds proficiency +4** (attacks, trained skills; Remarkable Athlete +2 on untrained STR/DEX/CON); **the Light add no proficiency** (codex, Roll checklist 1; sheet, How the Light rolls).
 2. **Specialty:** **+2** (or its drilled level), only on its kind of roll (codex, Roll checklist 2; sheet, Specialty table).
 3. **Role and orders:** the roller's role rules; an ordered ally **+2 and acts first**; Kell's **+1** to the whole Light when he is present (codex, Roll checklist 3; section 11 below).
 4. **Surprise:** **+2** on a surprised group (codex, Roll checklist 4).

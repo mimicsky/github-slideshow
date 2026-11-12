@@ -669,7 +669,8 @@ Only what applies is added, but **each line is checked and each bonus is written
 in the math (`14 + 4 DEX + 2 aimed rifle + 3 eye + 2 order + 2 surprise - 1 airborne = 26`).
 
 1. **Base:** d20 + stat bonus (+1 per full 10 levels; **melee: STR, or the better of STR/DEX
-   with a finesse weapon such as a knife; house rule 5, "Which stat"**). **Tamsin** adds proficiency
+   with a finesse weapon such as a knife; house rule 5, "Which stat"**). **Melee or thrown and STR 50+? Strength
+   behind the blow: the weapon goes one armour step further (power: two steps a hit) (Part 8, Armour).** **Tamsin** adds proficiency
    (+4 on attacks and his trained skills) and Remarkable Athlete where it applies. **The Light's allies
    don't add proficiency:** d20 + stat + specialty + role or gear (campaign sheet, "How the Light rolls").
 2. **Specialty** (+2, or its drilled level) if the roll is its kind (the sheet's Specialty table; e.g.
@@ -993,11 +994,12 @@ ladder a hit moves you.
 | Power armour | almost everything a soldier carries | bolters, plasma on a solid hit, melta, power weapons, krak |
 
 - **Strength behind the blow (STR 50+; set by the player, Ash on Ostrava day 47).** Anyone with **STR 50 or more**
-  drives their **melee** weapon **one armour step further** than it normally goes (the ladder: flak, carapace, heavy
+  drives their **melee or thrown** weapon (knives, axes, spears; not grenades or guns) **one armour step further** than it normally goes (the ladder: flak, carapace, heavy
   carapace, ceramite-forged, power armour): a machete that only gets through flak gets through carapace; chain
   that needs a solid hit against heavy carapace gets through it on any hit. **Power weapons, which already go
   through everything, instead hit one health step harder: each hit that lands drops the target two steps.**
-  Melee only (thrown weapons and guns don't count). Who has it: in the Light, **Morcant** (STR 51); among enemies,
+  **Melee and thrown** (widened by the player the same day: a strong arm drives a thrown knife deeper); grenades
+  and guns don't count. Who has it: in the Light, **Morcant** (STR 51); among enemies,
   **every Ogryn** (STR 60-80: the Crusher's power maul drops two steps a hit) and the strongest brutes. (Paper
   trail: listed in `wh40k_gear/catalogue/abilities.md`, Not gear, and on the bestiary's Ogryn.)
 - **Part-armour:** a plate that only covers one side counts only from that side (Tamsin's heavy front: shots

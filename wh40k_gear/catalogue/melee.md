@@ -2,6 +2,8 @@
 
 Item rules for this category. General rules (heat, hot-shot, drop-prone, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
 
+**Strength behind the blow:** anyone with **STR 50+** drives a melee or thrown weapon from this file **one armour step further** than its entry says (power weapons: **two steps a hit**) (DND_CODEX Part 8, Armour). Gear abilities (Wide Slash and others): each entry's **Abilities:** line, and `abilities.md`.
+
 ## Hive shank
 
 **Hive shank** (common, 0.1 TV): a scrap knife anyone can make in minutes, no
