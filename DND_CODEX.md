@@ -1008,11 +1008,22 @@ ladder a hit moves you.
   trail: listed in `wh40k_gear/catalogue/abilities.md`, Not gear, and on the bestiary's Ogryn.)
 - **Part-armour:** a plate that only covers one side counts only from that side (Tamsin's heavy front: shots
   from the side or back hit plain carapace; a chest-only carapace protects the chest).
-- **Crits always get through.** Against armour that would have shrugged the hit, a crit drops just one step (no extra).
+- **Crits always get through** (except **Too weak to matter**, below). Against armour that would have shrugged the hit, a crit drops just one step (no extra).
 - **Wear-down: shrugged hits still hurt.** Armour stops a hit from dropping a step, not from mattering. **Every 6
   shrugged hits on the same person in one fight drop them one step** (power armour: every 10) (**6, not 3: the
   player, Ash on Ostrava day 47**, '3 is kinda weak'; power armour's 10 is the DM's default until the rule for
-  which weapons can't wear which armour at all is set). Enough hellgun
+  which weapons can't wear which armour at all is set: done, below).
+- **Too weak to matter (set by the player, Ash on Ostrava day 47).** Some weapons **can't touch** some armour at all:
+  **no wear-down, and even their crits are shrugged.** A Space Marine shrugs a thousand las bolts.
+
+  | Armour | Can't be touched by |
+  | --- | --- |
+  | **Ceramite-forged** | stub and autogun rounds, standard shotgun shells, needle darts, plain blades, frags |
+  | **Power armour** | all of the above, **plus las** (lasguns, lascarbines, laspistols) |
+
+  **Still wear it down** at the normal rate (power armour every 10): hellguns, hot-shot, heavy stubbers, chain
+  weapons. **Armour-piercing loads** (AP, CAP, man-stopper shells, shard darts) count like hellguns here: they can
+  wear down ceramite-forged, not power armour. Bolters, plasma, melta, power weapons and kraks already get through. Enough hellgun
   shots will hurt even a man in power armour.
 
 Armour takes damage and the DM says when it is failing.
