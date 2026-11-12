@@ -13,8 +13,8 @@ Item rules for this category. General rules (heat, hot-shot, drop-prone, going D
 
 **Abilities:** [Plant](abilities.md#plant) (the pistol notch counts as a viewing slot).
 
-**Arbitrator shield** (rare, 10 TV): the Adeptus Arbites riot shield. **+2 to
-block, three-quarters cover from the front**, and a **pistol notch**: fire a
+**Arbitrator shield** (rare, 10 TV): the Adeptus Arbites riot shield. **+2 on the defender's roll (block or parry),
+three-quarters cover from the front** (audit C10, day 47: worded as every other shield), and a **pistol notch**: fire a
 pistol through it without giving up the cover.
 
 ## Storm shield
