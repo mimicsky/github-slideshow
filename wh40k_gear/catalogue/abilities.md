@@ -95,3 +95,19 @@ swing of the chain, swung wide and flat.**
 - **Enemy roles:** the [Mauler](../bestiary/roles.md#mauler) (two-handed axes) and the Ogryn [Crusher](../bestiary/roles.md#ogryn-variants-the-crusher-the-bulwark-the-reaper) (the power maul).
 - **Owned in Ash on Ostrava:** none yet (the Light's blades and axes are one-handed).
 
+## Heavy Attack
+
+**Every melee weapon** (set by the player, day 47). The wielder winds up and drives in with his whole weight.
+- **The defender gets +3** on his parry or dodge against it (he sees it coming).
+- **There's no block:** the defender's total **3+ higher is a parry** (as normal: no damage, the initiative flips);
+  **anything less, it lands** (a 1-2-higher 'block' counts as a hit).
+- **When it lands, it goes one armour step further and drops the target one extra health step** (two steps).
+- **It's one swing of the chain, and it ends the chain** (the wind-up costs the rest) (DM default).
+- **It stacks with Strength behind the blow** (STR 50+: one more armour step; with a power weapon, one more
+  health step) (DM default).
+- A raw 17+ still can't be parried or dodged, as always.
+
+**Items with it:** **every melee weapon** in [melee.md](melee.md) (said once at the top of that file, not on each
+entry), the Light's and the enemy's alike: Shameholder, Promise Holder, Kell's chain axe, Varo's sabre, the
+Sisters in hand, a Crusher's maul.
+

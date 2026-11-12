@@ -299,6 +299,8 @@ totals:
 | 1 or 2 higher | **Block.** No damage. It stops that swing only: the attacker keeps initiative and the chain carries on (Melee chains, below) |
 | 3 or more higher | **Parry.** No damage, and **initiative flips.** The defender swings **next beat** |
 
+**Gear abilities change the exchange** (day 47): a **Heavy Attack** (any melee weapon) gives the defender +3 but has no block band, and hits harder; a **Wide Slash** (two-handed) can hit two. Both in [`wh40k_gear/catalogue/abilities.md`](wh40k_gear/catalogue/abilities.md).
+
 **The unparryable blow.** A **raw d20 of 17 or higher** cannot be parried or
 blocked at all. It lands. This is the raw die, not the total — otherwise the
 threshold means something different for every character depending on their
