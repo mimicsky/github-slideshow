@@ -3778,5 +3778,12 @@
   "cat": "ammo",
   "rarity": "R",
   "sellers": "BAF"
+ },
+ {
+  "name": "Big melta canister (14 shots; -1 quick-draw and swapping)",
+  "tv": 8,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MAF"
  }
 ]

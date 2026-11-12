@@ -100,3 +100,6 @@ shots, 5 TV. Melta already burns through every armour a person wears. On the
 - **Astartes melta canister** (rare, 15 TV, DM's price; Astartes-pattern, black market, Mechanicus, Free Traders;
   **rare in the enemy roll**). **A hit on a vehicle takes 2 hull points, not 1** ([vehicles.md](../bestiary/vehicles.md)).
   Otherwise a standard canister.
+- **Big melta canister** (uncommon, 8 TV, DM's price; Munitorum, Mechanicus, Free Traders). **14 shots, not 6** (the
+  player's number). Bulky: **-1 on quick-draws and swapping.** It's the canister's size, so any fill can come in one
+  (a big Astartes canister).
