@@ -146,11 +146,23 @@ shells: 4 TV. Fits autocannons, man-portable or mounted. On the [attachment shee
   normal). **A hit on a raw 17+ sets the target alight.** All filler: **no extra step on the target**, and **APCs
   shrug it.**
 
+## Lascannon, man-portable
+
+**Lascannon, man-portable** (rare, 45 TV; a standard pack 6 shots, 5 TV; Munitorum, black market, Free Traders;
+usually a two-man team; rules written with the player, Ash on Ostrava day 47, audit C14).
+- **Through anything a person wears; on a person, a hit drops two steps** (an anti-tank beam).
+- **Vehicles:** through **APCs**, and **tanks from the front**; a hit takes **1 hull point** (a Mechanicus pack: 2)
+  ([vehicles.md](../bestiary/vehicles.md)).
+- **One beam a beat.** **Braced or on its tripod only:** he can't move while firing; **no recoil.**
+- **Packs:** a standard pack holds **6 shots**; **a loader** makes a pack change the beat's move, not a beat. Special
+  packs (Mechanicus, extended, battery): below.
+
+**Abilities:** [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun; one beam a beat, so it gains nothing).
+
 ## Lascannon packs (special loads)
 
-(Written with the player, Ash on Ostrava day 47. **The man-portable lascannon** has no entry of its own yet: it gets
-through anything a person wears, APCs, and tanks from the front ([vehicles.md](../bestiary/vehicles.md)); **one beam a
-beat; a standard lascannon pack holds 6 shots** (DM default, day 47). Fits man-portable lascannons and las-cannon
+(Written with the player, Ash on Ostrava day 47. For the [man-portable lascannon](#lascannon-man-portable) (one beam
+a beat; a standard pack holds 6 shots). Fits man-portable lascannons and las-cannon
 emplacements. On the [attachment sheet](attachments.md#the-rollable-list).)
 
 - **Mechanicus lascannon pack** (rare, 20 TV, DM's price; Mechanicus, Free Traders; **rare in the enemy roll**). More

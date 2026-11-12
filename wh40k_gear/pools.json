@@ -1015,7 +1015,7 @@
   "sellers": "MAFE"
  },
  {
-  "name": "Inferno pistol (Sororitas; meltagun hit within 8 m, two steps; 6 shots a charge; heat vents at 2)",
+  "name": "Inferno pistol (Sororitas; meltagun hit within 8 m, two steps; 6 shots a canister; heat vents at 2)",
   "tv": 40,
   "cat": "melta",
   "rarity": "R",
@@ -1281,7 +1281,7 @@
   "sellers": "MF"
  },
  {
-  "name": "Lascannon",
+  "name": "Lascannon, man-portable (two steps on a person; 1 hull point; braced or tripod; 6-shot packs)",
   "tv": 45,
   "cat": "heavy",
   "rarity": "R",
