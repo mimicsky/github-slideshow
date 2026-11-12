@@ -1540,7 +1540,7 @@
   "sellers": "MAF"
  },
  {
-  "name": "Heavy stubber belt, hellfire (bio-acid: a hit forces a CON save or one more step)",
+  "name": "Heavy stubber belt, hellfire (bio-acid: a hit that gets through, CON vs 10 or one more step)",
   "tv": 10,
   "cat": "ammo",
   "rarity": "R",

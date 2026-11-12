@@ -154,7 +154,7 @@ add("ammo","C","MBF",[("Las pack",0.25),("Stub/auto rounds (box)",0.5),("Shotgun
 add("ammo","U","MAF",[("Hot-shot pack (Guard)",1),("Hot-shot pack (Mechanicus pattern)",3),("Bolt rounds (10)",8),("Stubber drum magazine",1.5),("Man-stopper shells (box; armour-piercing slugs: one target, through carapace on a solid hit inside ~15 m)",1),("Dragon's breath shells (box; incendiary: shot at -1 on his next shot, hit -2; a raw 17+ sets him alight)",2),("Extended las pack",0.75),("Extended hot-shot pack",1.5)])
 add("ammo","R","MF",[("Kraken-pattern bolt rounds (10, Astartes)",20),("Hellfire shells (box; bio-acid: a hit that gets through, CON vs 10 or one more step)",4)])
 add("ammo","U","MBF",[("Heavy stubber belt, hollow point (expanding: brutal on flesh and flak, carapace shrugs it)",2),("Heavy stubber belt, inferno (incendiary: a raw 17+ sets them alight)",3)])
-add("ammo","R","MAF",[("Heavy stubber belt, tungsten-core (AP: through heavy carapace at any range)",6),("Heavy stubber belt, hellfire (bio-acid: a hit forces a CON save or one more step)",10)])
+add("ammo","R","MAF",[("Heavy stubber belt, tungsten-core (AP: through heavy carapace at any range)",6),("Heavy stubber belt, hellfire (bio-acid: a hit that gets through, CON vs 10 or one more step)",10)])
 # --- Melee ---
 add("melee","C","MB",[("Combat knife",0.25),("Bayonet",0.25),("Entrenching tool",0.25),("Trench club",0.25),("Cadian machete",0.5)])
 add("melee","U","MBF",[("Navy cutlass",2),("Chainsword",6),("Chain axe",8),("Shock maul",7),("Mono-knife",3),("Krieg trench shovel (sharpened)",0.5),("Officer's sabre",3),("Chain knife",3),("Shock baton (Arbites)",4)])

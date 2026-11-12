@@ -30,7 +30,8 @@ special belt beside a standard one and switch with the lever.) A standard belt i
   **Gets through heavy carapace at any range** (the standard belt's weakness); ceramite-forged and
   power armour still shrug it (wear-down applies).
 - **Hellfire belt** (rare, 10 TV; Mechanicus, Free Traders): bio-acid rounds, the Hellfire rule:
-  **a hit that gets through also forces a CON save against 15, or the target drops one more step.**
+  **a hit that gets through also forces a CON save against 10, or the target drops one more step** (10, not 15: the
+  player, day 47, so a string doesn't kill outright; the same as hellfire shells).
   Armour as a standard belt.
 
 ## Brute stubber, 'Kasr Deddog' pattern

@@ -98,7 +98,7 @@ A = [
  ("a_hpbelt", "Hollow point stubber belt", "U", "load", {"hs"}, None, None, 0, "against flak or less a solid hit drops an extra step; carapace and heavier shrug it", "heavy.md#heavy-stubber-belts-special"),
  ("a_inferno", "Inferno belt", "U", "load", {"hs"}, None, None, 0, "a hit on a raw 17+ sets the target alight", "heavy.md#heavy-stubber-belts-special"),
  ("a_tungsten", "Tungsten-core belt", "R", "load", {"hs"}, None, None, 0, "through heavy carapace at any range", "heavy.md#heavy-stubber-belts-special"),
- ("a_hellfire", "Hellfire belt", "R", "load", {"hs"}, None, None, 0, "a hit that gets through: CON save vs 15 or one more step", "heavy.md#heavy-stubber-belts-special"),
+ ("a_hellfire", "Hellfire belt", "R", "load", {"hs"}, None, None, 0, "a hit that gets through: CON save vs 10 or one more step", "heavy.md#heavy-stubber-belts-special"),
  ("a_blacktip", "Black-tip darts", "U", "load", {"np", "nr"}, None, None, 0, "the toxin's save is vs 17; a pass is still -1 on their next roll", "stub.md#needle-darts-special-loads"),
  ("a_panic", "Panic darts", "U", "load", {"np", "nr"}, None, None, 0, "CON vs 15 or drops what's in hand and runs or hides 2 beats", "stub.md#needle-darts-special-loads"),
  ("a_tracker", "Tracker darts", "U", "load", {"np", "nr"}, None, None, 0, "a pinger, not a toxin: followed on an auspex ~1 km for a day", "stub.md#needle-darts-special-loads"),
