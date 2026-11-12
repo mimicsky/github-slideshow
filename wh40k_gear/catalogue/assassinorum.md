@@ -2,6 +2,8 @@
 
 Item rules for this category. General rules (heat, hot-shot, drop-prone, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
 
+**Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown).
+
 The Imperium's temple assassins carry gear made for one kill and no witnesses.
 **All of it is epic or legendary** (player-set): **epic** is the exotic tier
 (natural-20 finds only); **legendary** is a natural 20, then a second d20 of

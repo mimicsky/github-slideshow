@@ -1,5 +1,8 @@
 # Scrap guns
 
+**Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown).
+
+
 Handmade guns of the hive gangs, cultists and raiders (player request, Ash on Ostrava
 session 9). General rules (gun condition and jams, drop-prone, going Down) are in
 DND_CODEX Part 8, **Gear rules**. **Scrap guns are always at least Dirty** (they never

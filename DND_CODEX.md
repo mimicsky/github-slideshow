@@ -372,6 +372,8 @@ a raw 17+ still can't be dodged.
 
 ### 6. Shot chains
 
+**See also (day 47):** a shooter can give up the string for one precise shot instead: [Precision Sacrifice](wh40k_gear/catalogue/abilities.md#precision-sacrifice) (+1 per shot given up, up to +3; every gear ability has a 3-beat cooldown).
+
 Added at the player's request in session 5, Ash on Ostrava, because the dice had
 felt too kind. When anyone fires more than one shot in a string at a moment that
 matters, every shot is its own d20, and each result tilts the next.

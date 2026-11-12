@@ -12,6 +12,12 @@ class:** anyone holding that kind of gear can use it, friend or enemy.
 
 **Who uses them (the player asked, day 47):** **everyone who carries the gear, on their own, when it makes sense:** the Light's NPCs and enemies alike, played by the DM like any other choice (Dace plants his shield when the fire gets heavy and Tamsin's in the open; a Bulwark plants as it walks up a street). **An order can also call for one** ('Dace, plant!'); an ordered ally answers and does it. Tamsin uses his only when the player says so.
 
+## Cooldowns (every gear ability)
+
+**Every gear ability has a 3-beat cooldown, per person** (set by the player, day 47): **used on beat 1, it's
+ready again on beat 4.** (Two different abilities don't share a cooldown: a Heavy Attack on beat 1 doesn't stop a
+Plant on beat 2.) Passive things that aren't abilities (Strength behind the blow) have none.
+
 ## Not gear, but connected
 
 **Strength behind the blow (STR 50+)** (set by the player, day 47): a body ability, not gear, written in the codex
@@ -110,4 +116,17 @@ swing of the chain, swung wide and flat.**
 **Items with it:** **every melee weapon** in [melee.md](melee.md) (said once at the top of that file, not on each
 entry), the Light's and the enemy's alike: Shameholder, Promise Holder, Kell's chain axe, Varo's sabre, the
 Sisters in hand, a Crusher's maul.
+
+## Precision Sacrifice
+
+**Every gun that fires strings** (set by the player, day 47). **Give up shots from this beat's string for +1 each
+on the one shot you do fire:** with Vigil's string of 4, give up 3 and fire one precise shot at **+3**. It's the
+first shot of the string, so no recoil, no chain.
+- **Capped at +3** (DM default), so a machine pistol's string of 10 doesn't turn into +9.
+- Everything else still applies: range, cover, moving, run and gun, the gun's crit range.
+- Cooldown: 3 beats, like every ability.
+
+**Items with it:** **every gun** in [las.md](las.md), [stub.md](stub.md), [heavy.md](heavy.md), [bolt.md](bolt.md),
+[plasma.md](plasma.md), [scrap.md](scrap.md) and the guns in [assassinorum.md](assassinorum.md) (said once at the top
+of each file, not on each entry). Launchers that fire one round a beat (Six Bells) gain nothing from it.
 

@@ -2,6 +2,8 @@
 
 Item rules for this category. General rules (heat, hot-shot, drop-prone, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
 
+**Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown).
+
 ## Las bullpup SMG, 'Kasr Volt' pattern
 
 **Las bullpup SMG, 'Kasr Volt' pattern** (Ash on Ostrava day 45; uncommon, ~4 TV; Munitorum, Free Traders). A
