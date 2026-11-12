@@ -318,6 +318,17 @@ roll, AP and CAP count as rare** (only there; the shop rarity below stands: the 
 | **Flat-tip** (the player's design) | stub | uncommon, 0.75 TV a box | A regular round, except against armour it can't get through: **a shrugged flat-tip hit counts as 2 shrugged hits toward wear-down** (Armour: every 3 drop a step) |
 | **CAP** (ceramite-tipped armour-piercing) | auto | uncommon, 2 TV a box | A ceramite tip on a steel core (changed by the player, day 36: tipped, not cored, so it's cheap enough to use; a hot-shot pack does the same for free). **Flak and reinforced flak don't shrug it; through carapace on a solid hit at any range.** Heavy carapace and heavier shrug it (changed with the player, day 36 cleanup). Punches through flesh like AP (**against no armour, a crit drops just one step**) |
 
+## Shotgun shells (special loads)
+
+**Shotgun shells, special loads** (rules written with the player, Ash on Ostrava day 47; the shops already sold
+them). Each load comes in its own box and fits any shotgun. **Standard shells** are full of pellets that spread:
+brutal on flesh and flak up close, weak at range and against carapace. A magazine or tube holds one load at a time
+(a tube-fed gun can be topped up with another load: the shells fire in the order they went in).
+
+| Load | Rarity, price | Effect |
+| --- | --- | --- |
+| **Man-stopper** (armour-piercing slug) | uncommon, 1 TV a box (**rare in the enemy roll**) | One heavy slug instead of shot: **one target, no spread.** **Flak and reinforced flak don't shrug it; through carapace on a solid hit inside ~15 m** (as AP rounds). The 40k meaning of 'man-stopper' (the stubber belt that had the name is now the hollow point stubber belt, heavy.md) |
+
 ## Combi-pistol, 'Kasr Trident' pattern
 
 **Combi-pistol, 'Kasr Trident' pattern** (player design, Ash on Ostrava session 9;

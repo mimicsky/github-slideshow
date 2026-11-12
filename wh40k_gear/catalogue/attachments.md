@@ -36,8 +36,8 @@ his faction's wealth:
   a chain motor only on a chain weapon). If it doesn't fit, roll again on the list.
 - **Special ammo rolls too** (the player, day 47): a gun's special load (HP, AP, HV, belts, darts) is one more slot.
   **Special ammo is uncommon: it's easy to get. Armour-piercing loads are rare** (AP, CAP, tungsten-core belts, shard
-  darts, and for las **the hot-shot conversion with hot-shot packs**, which hits a step harder): they're better.
-  **AP and CAP are rare only in the enemy roll; in shops they stay uncommon** (the player, day 47). The rest keep their catalogue rarity (hellfire belts, widow and truth darts are rare).
+  darts, man-stopper shells, and for las **the hot-shot conversion with hot-shot packs**, which hits a step harder): they're better.
+  **AP, CAP and man-stopper shells are rare only in the enemy roll; in shops they stay uncommon** (the player, day 47). The rest keep their catalogue rarity (hellfire belts, widow and truth darts are rare).
 - **What a gun comes with doesn't count** (a kit's listed scope, a gun's built-in parts): the roll only adds.
 - **Custom builds roll too, by their rarity** (the player, day 47): **simple fixes are common** (swapped springs, cut
   barrels, grips, slings, stocks), **real bench work is uncommon** (a new motor, a twin tray, a matched cell), and
@@ -92,6 +92,7 @@ field, hone, spikes, slot, overdrive, motor, teeth, mgrip, mselector.
 | **Hollow point stubber belt** | uncommon | load | heavy stubbers | against flak or less a solid hit drops an extra step; carapace and heavier shrug it | [heavy.md](heavy.md#heavy-stubber-belts-special) |
 | **Hot-shot conversion and hot-shot packs** | rare | load | las pistols, las rifles (only: ^(?!.*(hellgun or hellpistol or hot-shot or volley gun)).*) | hits one step harder (a lasgun hits like a hellgun); packs drain twice as fast; +1 heat a chain on a gun that builds heat | [../../DND_CODEX.md](../../DND_CODEX.md#hot-shot-conversion) |
 | **Inferno belt** | uncommon | load | heavy stubbers | a hit on a raw 17+ sets the target alight | [heavy.md](heavy.md#heavy-stubber-belts-special) |
+| **Man-stopper shells (armour-piercing slug)** | rare | load | shotguns | one slug, one target, no spread; flak and reinforced flak don't shrug it; through carapace on a solid hit inside ~15 m | [stub.md](stub.md#shotgun-shells-special-loads) |
 | **Panic darts** | uncommon | load | needle pistols, needle rifles | CON vs 15 or drops what's in hand and runs or hides 2 beats | [stub.md](stub.md#needle-darts-special-loads) |
 | **Shard darts** | rare | load | needle pistols, needle rifles | through carapace on any hit, heavy carapace on a solid hit | [stub.md](stub.md#needle-darts-special-loads) |
 | **Tracker darts** | uncommon | load | needle pistols, needle rifles | a pinger, not a toxin: followed on an auspex ~1 km for a day | [stub.md](stub.md#needle-darts-special-loads) |

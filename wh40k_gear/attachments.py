@@ -92,6 +92,7 @@ A = [
  ("a_flat", "Flat-tip rounds", "U", "load", {"sp", "sr"}, STUBCAL, None, 0, "a shrugged hit counts as 2 toward wear-down", "stub.md#stub-and-autogun-rounds-special-loads"),
  ("a_cap", "CAP rounds (ceramite-tipped AP)", "R", "load", {"sp", "smg", "sr"}, AUTOCAL, None, 0, "flak and reinforced flak don't shrug it; through carapace on a solid hit at any range; against no armour a crit drops just one step", "stub.md#stub-and-autogun-rounds-special-loads"),
  ("a_hotshot", "Hot-shot conversion and hot-shot packs", "R", "load", {"lp", "lr"}, r"^(?!.*(hellgun|hellpistol|hot-shot|volley gun)).*", None, 0, "hits one step harder (a lasgun hits like a hellgun); packs drain twice as fast; +1 heat a chain on a gun that builds heat", "../../DND_CODEX.md#hot-shot-conversion"),
+ ("a_manstopper", "Man-stopper shells (armour-piercing slug)", "R", "load", {"sg"}, None, None, 0, "one slug, one target, no spread; flak and reinforced flak don't shrug it; through carapace on a solid hit inside ~15 m", "stub.md#shotgun-shells-special-loads"),
  ("a_hpbelt", "Hollow point stubber belt", "U", "load", {"hs"}, None, None, 0, "against flak or less a solid hit drops an extra step; carapace and heavier shrug it", "heavy.md#heavy-stubber-belts-special"),
  ("a_inferno", "Inferno belt", "U", "load", {"hs"}, None, None, 0, "a hit on a raw 17+ sets the target alight", "heavy.md#heavy-stubber-belts-special"),
  ("a_tungsten", "Tungsten-core belt", "R", "load", {"hs"}, None, None, 0, "through heavy carapace at any range", "heavy.md#heavy-stubber-belts-special"),
