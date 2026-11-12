@@ -257,3 +257,17 @@ SMGs, LMGs), plasma (heat), heavy weapons, launchers, flamers, melta. Said once 
 [stub.md](stub.md) and [bolt.md](bolt.md). Enemies' alike. **Owned in Ash on Ostrava:** Tamsin's Vigil, Last Word and
 the Columnus (on single), and every las gun the Light carry.
 
+## Slam (push-pull)
+
+**Pump shotguns** (the player's design, day 47). He slams the pump as fast as his arms go.
+- **+1 shot to the string.**
+- **-2 on every shot** (accuracy).
+- **No recoil** that string.
+- **But a natural 5 or below on any shot die jams the gun** (clearing takes a beat: codex Part 8, Gun condition and
+  jams).
+- Cooldown: 3 beats, and it's his one ability that beat.
+
+**Items with it:** **every pump-action shotgun** (the Munitorum pump, combat pumps, the CY-6 and the like; said once at
+the top of [stub.md](stub.md)). Not semi-autos (the Kasr Sweeper: [Trigger Finger](#trigger-finger)), break-actions or
+drum guns. Enemies' alike. **Owned in Ash on Ostrava:** the pump shotguns in the crate (and Morcant's old combat pump).
+

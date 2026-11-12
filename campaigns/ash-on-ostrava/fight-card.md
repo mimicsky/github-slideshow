@@ -49,6 +49,7 @@ It is steps 6-9 of the campaign README's Fight checklist in short; steps 1-5 (wh
 - **Throw (light blades not made for throwing; day 47):** out to ~10 m, d20 + DEX **-2**; hits like the blade (STR 50+ still counts); then it's on the floor.
 - **Field Burst (power weapons; day 47):** one swing dumps the field: a land drops **one extra step** and knocks him back (he loses his next swing); ends the chain; the field is **off next beat** (cuts like a plain blade).
 - **Trigger Finger (semi-auto guns; day 47):** **+1 every shot** of the string, **+2 shots** (Vigil 6), but **a miss -2** and **+1 recoil**. Vigil, Last Word, the Columnus on single.
+- **Slam, push-pull (pump shotguns; day 47):** **+1 shot**, **-2 every shot**, no recoil; **a natural 5 or below jams** (a beat to clear).
 - **One ability per beat, per person** (day 47), and each has its 3-beat cooldown.
 - A **raw d20 of 17+** can't be blocked, parried or dodged. Each swing is one exchange; **a defender answers 2 attackers a beat**, the rest get through; a doorway cuts how many can reach (codex, HR5 The exchange).
 - **Chains a beat:** light **3** (knives, daggers, machetes, hatchets), medium **2** (one-handed swords, chainswords, axes, batons, mauls), heavy **2** (two-handed). Tamsin +1 swing (Shameholder 3). Two melee weapons: +1 swing, +1 on attacks, nothing on defence; back to guns costs a beat (codex, HR5 Melee chains; Dual-wielding; sheet, Tamsin's standing modifiers).
