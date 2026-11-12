@@ -3743,5 +3743,12 @@
   "cat": "ammo",
   "rarity": "R",
   "sellers": "AF"
+ },
+ {
+  "name": "Big flamer tank (twice the bursts; -1 dodges; bursts catch ~3 m)",
+  "tv": 2,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MBF"
  }
 ]

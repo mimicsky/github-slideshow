@@ -238,6 +238,8 @@ add("mod","C","MBF",[("Bipod (+2 aimed braced or prone; a beat to set)",1.5)])
 add("mod","U","MBF",[("Holo sight (+1 aimed within ~50 m; -1 hip shots)",2.5)])
 add("gear","C","MBF",[("Grenade bandolier (+6 grenades ready; half-beat drum reload)",0.5)])
 add("mod","U","MBF",[("Extended magazine kit, las or stub (+50% shots)",1.5)])
+# Day 47: flamer tanks and fuels (the player's ideas). Rules in catalogue/scrap.md.
+add("ammo","U","MBF",[("Big flamer tank (twice the bursts; -1 dodges; bursts catch ~3 m)",2)])
 # Day 47: the ancient plasma cell (the player's idea). Rules in catalogue/plasma.md.
 add("ammo","R","AF",[("Ancient plasma cell (through power armour on any hit, +1 step; 1 heat a shot; can't be refilled)",25)])
 # Day 47: the repeater crystal (bought for Brenner's Accatran, schematic 12). Rules in catalogue/kit.md.

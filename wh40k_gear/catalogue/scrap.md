@@ -50,6 +50,19 @@ heavies; everywhere on a hive world.
 lives beside the torch-thrower so the two flamers sit together. (DM default, Ash on Ostrava, Hollis's Munitorum-issue one from
 Ottrick's trade; moved here from his kit row in the day-36 cleanup. His rebuild is schematic 2 on the campaign's `schematics.md`.)
 
+
+## Flamer tanks and fuels (special loads)
+
+(Rules written with the player, Ash on Ostrava day 47; any flamer: hand flamers, flamers, heavy flamers, scrap
+throwers. On the [attachment sheet](attachments.md#the-rollable-list).)
+
+- **Big flamer tank** (uncommon, 2 TV, DM's price; Munitorum, black market, Free Traders). It replaces a flamer's
+  backpack tank, or on a hand flamer adds a backpack where the canister was. **Twice the bursts before a reload.**
+  Heavy: **-1 on dodges** while worn. **The tank is a target,** as the [Flamer role](../bestiary/roles.md#flamer): a
+  solid hit on it can burst it (d6: 1-4 he goes up in a ball of flame with the floor around him and spends 2 beats
+  putting himself out; 5-6 the weapon goes up and he loses his next beat); **with the big tank a 1-4 burst also
+  catches anyone within ~3 m.**
+
 ## Torch-thrower (scrap flamer)
 
 **Torch-thrower** (common, 1 TV; black market). A welder's torch, a fuel line and a
