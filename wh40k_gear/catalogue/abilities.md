@@ -44,11 +44,13 @@ planted.**
 
 **Jump packs and lift packs** (set by the player, day 47). **A big burst of movement, from the ground or in the
 air:** a long leap (~30 m) **into the enemy** (to land in melee), **out of trouble** (a hot escape or a jump
-back), or **up to high ground.** It's the beat's move: the wearer still gets his main thing (a swing on landing,
-a string, a reload).
+back), or **up to high ground.** It's the beat's move. **The main thing that beat is halved, rounded down**
+(the player's nerf, day 47): a string of 3 becomes 1 shot (Tamsin's 4 becomes 2), a melee chain of 3 or 2 becomes
+1 swing; a reload still takes the whole main thing.
 - **It burns two bursts** of the pack's charge (a Kasrkin-pattern charge holds about six).
 - **It's very fast: anyone shooting at the wearer that beat treats him as abnormally fast (+3 to the hidden
-  number).** That's the same speed as Airborne's -3 to shots at a flyer, so the two don't stack (DM default).
+  number), and it STACKS with Airborne's -3 to shots at a flyer** (the player, day 47: for that beat he's like a
+  missile in the air, diving and landing). **Once he's landed, he's normal again** from the next beat.
 - The pack's other rules still apply: loud and bright (no stealth), and **a natural 1** on the landing: the field
   stutters and he drops one step.
 
