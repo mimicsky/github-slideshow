@@ -100,6 +100,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Plasma SMG, 'Kasr Spark' pattern](plasma.md#plasma-smg-kasr-spark-pattern) (low-yield, strings of 8, 30 shots a cell)
 - [Plasma repeater, 'Kasr Furnace' break-action lever pattern](plasma.md#plasma-repeater-kasr-furnace-break-action-lever-pattern)
 - [Inferno pistol](plasma.md#inferno-pistol)
+- [Melta canisters, special](plasma.md#melta-canisters-special-loads) (Astartes)
 
 ## [Explosives, mines and grenades](explosives.md)
 

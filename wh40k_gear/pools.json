@@ -3771,5 +3771,12 @@
   "cat": "ammo",
   "rarity": "R",
   "sellers": "B"
+ },
+ {
+  "name": "Astartes melta canister (a hit on a vehicle: 2 hull points)",
+  "tv": 15,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "BAF"
  }
 ]

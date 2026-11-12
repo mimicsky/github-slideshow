@@ -98,6 +98,7 @@ A = [
  ("a_sulphur", "Sulphur fuel", "U", "load", {"hf", "fl"}, None, None, 0, "everyone hit drops an extra step; fumes: -1 on the next roll in the burned area without a mask", "scrap.md#flamer-tanks-and-fuels-special-loads"),
  ("a_thermite", "Thermite fuel", "R", "load", {"hf", "fl"}, None, None, 0, "+1 step on a hit; through carapace to ceramite-forged on any hit, power armour on a solid hit; burns through light cover; half the reach", "scrap.md#flamer-tanks-and-fuels-special-loads"),
  ("a_phosphex", "Cut phosphex", "R", "load", {"hf", "fl"}, None, None, 0, "can't be beaten out: burns 2 beats, a step each, unless smothered; the ground burns 2 beats; a natural 1 splashes the flamer", "scrap.md#flamer-tanks-and-fuels-special-loads"),
+ ("a_astmelta", "Astartes melta canister", "R", "load", {"mg"}, None, None, 0, "a hit on a vehicle takes 2 hull points, not 1", "plasma.md#melta-canisters-special-loads"),
  ("a_manstopper", "Man-stopper shells (armour-piercing slug)", "R", "load", {"sg"}, None, None, 0, "one slug, one target, no spread; flak and reinforced flak don't shrug it; through carapace on a solid hit inside ~15 m", "stub.md#shotgun-shells-special-loads"),
  ("a_dragon", "Dragon's breath shells", "U", "load", {"sg"}, None, None, 0, "shot at, the target is flashed: -1 on his next shot; hit, -2 instead; a hit on a raw 17+ sets him alight", "stub.md#shotgun-shells-special-loads"),
  ("a_hellshell", "Hellfire shells", "R", "load", {"sg"}, None, None, 0, "a hit that gets through: CON save vs 10 or one more step", "stub.md#shotgun-shells-special-loads"),
@@ -187,7 +188,7 @@ NOT_ROLLED = [
 SKIP = re.compile(r"web pistol|bolt-pipe|rivet gun|harpoon|turret|gauntlet|hellstrike|flare|^'")
 TYPES = [("pp", r"plasma pistol"), ("pg", r"plasma gun"), ("bp", r"bolt pistol"),
          ("hv", r"heavy bolter|autocannon|lascannon|multi-laser"), ("hs", r"heavy stubber"), ("br", r"boltgun"),
-         ("hf", r"hand flamer"), ("fl", r"flamer|torch-thrower|promethium sprayer"), ("mg", r"meltagun|melta gun"),
+         ("hf", r"hand flamer"), ("fl", r"flamer|torch-thrower|promethium sprayer"), ("mg", r"meltagun|melta gun|multi-melta|inferno pistol"),
          ("gl", r"grenade launcher"), ("mo", r"mortar"), ("np", r"needle pistol"), ("nr", r"needle rifle"),
          ("lr", r"shotlas"), ("smg", r"submachine|machine pistol|rattler|\bsmg\b|chain-fed autopistol"),
          ("lp", r"laspistol|las pistol|hellpistol"),

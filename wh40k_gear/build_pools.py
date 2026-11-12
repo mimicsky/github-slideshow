@@ -243,6 +243,8 @@ add("ammo","U","MBF",[("Big flamer tank (twice the bursts; -1 dodges; bursts cat
 add("ammo","R","ABF",[("Thermite fuel (a can; flamers: +1 step, through ceramite, power armour on a solid hit; half reach)",5)])
 add("ammo","R","B",[("Cut phosphex (a can; forbidden: can't be beaten out, burns 2 beats; the ground burns)",20)])
 add("ammo","U","BF",[("Sulphur fuel (a can; flamers: +1 step on a hit; choking fumes)",2)])
+# Day 47: melta canisters (the player's ideas). Rules in catalogue/plasma.md.
+add("ammo","R","BAF",[("Astartes melta canister (a hit on a vehicle: 2 hull points)",15)])
 # Day 47: the ancient plasma cell (the player's idea). Rules in catalogue/plasma.md.
 add("ammo","R","AF",[("Ancient plasma cell (through power armour on any hit, +1 step; 1 heat a shot; can't be refilled)",25)])
 # Day 47: the repeater crystal (bought for Brenner's Accatran, schematic 12). Rules in catalogue/kit.md.

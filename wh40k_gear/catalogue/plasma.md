@@ -86,5 +86,17 @@ One-handed, made to pair with a blade. **Within ~8 m it hits like a meltagun:**
 through any armour (carapace and power armour included), **the target drops two
 health steps**, and it melts doors, locks and light vehicles. **8-15 m:** -3 on the
 shot and only one step. **Past 15 m:** no effect. **One shot a beat; 6 shots per
-melta charge** (spare charges 5 TV). **Heat:** each shot adds 1; at 2 it vents for a
+melta canister** (called a 'charge' before day 47; spare canisters 5 TV; special canisters below). **Heat:** each shot adds 1; at 2 it vents for a
 beat. Fields (refractor, conversion) still roll.
+
+
+## Melta canisters (special loads)
+
+(Rules written with the player, Ash on Ostrava day 47. A melta gun's ammo is a pressurised fuel **canister**, not the
+melta bomb, which is its own explosive. Fits meltaguns, multi-meltas and inferno pistols. A standard canister: 6
+shots, 5 TV. Melta already burns through every armour a person wears. On the
+[attachment sheet](attachments.md#the-rollable-list).)
+
+- **Astartes melta canister** (rare, 15 TV, DM's price; Astartes-pattern, black market, Mechanicus, Free Traders;
+  **rare in the enemy roll**). **A hit on a vehicle takes 2 hull points, not 1** ([vehicles.md](../bestiary/vehicles.md)).
+  Otherwise a standard canister.
