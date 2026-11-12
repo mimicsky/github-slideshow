@@ -182,7 +182,7 @@ one; **fixing or unfixing one takes the beat's move**, and it only counts once i
 
 ## Underslung chain-bayonet
 
-**Abilities:** [Bayonet Charge](abilities.md#bayonet-charge) (it fights as a chain weapon).
+**Abilities:** [Bayonet Charge](abilities.md#bayonet-charge) (it fights as a chain weapon); [Saw Lock](abilities.md#saw-lock).
 
 **Underslung chain-bayonet** (rare, 10 TV): a short chainsword mounted under a
 rifle (lasgun, hellgun, autogun, Las-box). In melee the rifle counts as a

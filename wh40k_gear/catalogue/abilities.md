@@ -158,3 +158,22 @@ knife) fixes on it when he wants it (fixing or unfixing takes the beat's move, D
 the [Hammerfall auto-revolver](stub.md#auto-revolver-hammerfall-pattern), which already hammers its own cylinder, and
 not Six Bells (a launcher). **Owned in Ash on Ostrava:** **Corvane's revolver** (campaign sheet).
 
+## Saw Lock
+
+**Chain weapons** (set by the player, day 47). The teeth bind the other weapon.
+- **When a block happens with his chain weapon** (his swing is blocked, or he blocks), he can lock it.
+- **STR contest** (d20 + STR each):
+  - **He wins:** the enemy's weapon is ripped away and lands ~2 m off; the enemy is unarmed until he spends a beat
+    getting it back.
+  - **He loses:** his chain is **jammed**. He **can still block and parry** with it, and **can hit with it like a
+    blunt weapon** (a club with teeth: no chain bite, the chain's own rules are off), but nothing it does as a chain
+    weapon works until he **spends a beat clearing it** (DM default; the player: jammed, not useless).
+- **It ends the chain** either way.
+- **Not against power weapons:** the field chews the teeth.
+- Cooldown: 3 beats, like every ability.
+
+**Items with it:** **every chain weapon** in [melee.md](melee.md) (chainswords, chain axes, chain knives, eviscerators,
+chain glaives: said once at the top of that file), and the [underslung chain-bayonet](kit.md#underslung-chain-bayonet).
+Enemies' chain weapons alike. **Owned in Ash on Ostrava:** Shameholder, Kell's chain axe, Tey's chain knives, and every
+other chain weapon on the campaign sheet.
+
