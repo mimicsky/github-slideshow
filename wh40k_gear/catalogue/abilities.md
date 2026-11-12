@@ -122,7 +122,7 @@ Sisters in hand, a Crusher's maul.
 **Every gun that fires strings** (set by the player, day 47). **Give up shots from this beat's string for +1 each
 on the one shot you do fire:** with Vigil's string of 4, give up 3 and fire one precise shot at **+3**. It's the
 first shot of the string, so no recoil, no chain.
-- **Capped at +3** (DM default), so a machine pistol's string of 10 doesn't turn into +9.
+- **Capped at a flat +3** (confirmed by the player, day 47, over a 20%-of-the-string cap or a cap by gun class: simple and the same for everyone), so a machine pistol's string of 10 doesn't turn into +9.
 - Everything else still applies: range, cover, moving, run and gun, the gun's crit range.
 - Cooldown: 3 beats, like every ability.
 
