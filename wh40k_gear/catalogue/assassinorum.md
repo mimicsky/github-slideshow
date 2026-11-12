@@ -86,9 +86,14 @@ charging there end (wards drop, charges break), and daemons in it take a hit.
 
 ## Adamus Temple: Needlespine blaster
 
-**Needlespine blaster** (legendary, 140 TV): a precision needle weapon. **Silent, +2
-shooting at range**, goes through flak and mesh, and a hit forces a CON save or
-the target drops a health step.
+**Needlespine blaster** (legendary, 140 TV): a precision needle weapon (buffed with the player, day 47, audit C2: a
+legendary has to beat an 18 TV needle rifle).
+- **Silent and flashless:** firing never gives him away, even after the shot.
+- **Effective to ~200 m; +3 on aimed shots, +1 more past ~30 m.** **Strings of 2.**
+- **Precision needles:** through **carapace on any hit**, **heavy carapace on a solid hit**, and **ceramite-forged and
+  power armour on a crit** (an exception to Too weak to matter: it finds the seam).
+- **Temple venom:** a hit forces **CON 18 or Down** (paralysed, alive), and **a pass still drops a step.** It takes any
+  special dart too (stub.md, Needle darts).
 
 ## Adamus Temple: Nemesii blade
 
