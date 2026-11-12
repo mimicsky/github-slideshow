@@ -177,3 +177,18 @@ chain glaives: said once at the top of that file), and the [underslung chain-bay
 Enemies' chain weapons alike. **Owned in Ash on Ostrava:** Shameholder, Kell's chain axe, Tey's chain knives, and every
 other chain weapon on the campaign sheet.
 
+## Pinned Fire
+
+**Automatic weapons** (set by the player, day 47; **named Pinned Fire, not 'suppressing fire'**, because Tamsin calls
+'suppressing fire' as an order all the time). Anyone's version of Morcant's tripod ARC (schematic 3).
+- **Spend the whole string spraying an area** (~5 m wide: a doorway, a corridor, a group behind a wall).
+- **Everyone in it takes -1 on their shots next beat**, and **anyone who breaks cover in it draws one free shot.**
+- **No damage rolls** for the string itself; it **burns double ammo.**
+- The tripod ARC stays the stronger one (-2, and it rolls).
+- Cooldown: 3 beats, like every ability.
+
+**Items with it:** **heavy stubbers, heavy bolters and multi-lasers** (said once at the top of [heavy.md](heavy.md));
+**las-LMGs** (the Kasr Rain, the Las-box: top of [las.md](las.md)); **autoguns and SMGs that fire full auto**
+(machine pistols, submachine guns, autoguns with an auto setting: top of [stub.md](stub.md)). Enemies' alike.
+**Owned in Ash on Ostrava:** Morcant's heavy stubber and multi-laser; Tamsin's Stinger and Columnus (campaign sheet).
+
