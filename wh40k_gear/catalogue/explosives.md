@@ -22,6 +22,29 @@ is hit, cover inside the room doesn't help, flak is shredded (carapace mostly
 holds). **Ricochet:** anyone friendly in the doorway or within ~5 m of the
 opening makes a DEX save or takes a fragment.
 
+## Melta bomb
+
+**Melta bomb** (rare, 6 TV; Munitorum, Mechanicus, black market; entry written with the player, Ash on Ostrava day 47,
+audit C14). A focused melta charge on **mag-clamps**. **It has to be planted:** pressed against the target (a tank's
+hull, a door, a wall) so it sticks; clamping it is the beat's main thing. Melta burns what it touches and barely
+anything a step away, so **it can't be thrown.** **It fires at the end of the next beat** on its timer, or when a
+[remote detonator](#remote-detonator) fires it.
+- **Through anything:** a vehicle loses **3 hull points** ([vehicles.md](../bestiary/vehicles.md)); a door, hatch or
+  wall gets a man-sized hole.
+- **A tiny blast, ~1 m:** anyone touching it drops two steps.
+
+## Remote detonator
+
+**Remote detonator** (uncommon, 1.5 TV with 4 receivers; spare receivers 0.25 TV; Munitorum, Mechanicus, black market;
+the player's design, Ash on Ostrava day 47). A hand trigger and clip-on receivers. **A receiver wires into any device
+that goes bang:** a melta bomb, a demo or breaching charge, a mining charge, a mine, **a trip wire** (Tavi's trip
+wire then fires on the wire *or* the trigger, whichever comes first). **Up to 4 receivers** on one trigger, fired
+together or one at a time.
+- **Linking a receiver:** a minute out of a fight; **in a fight, the beat's main thing.**
+- **Firing it: free** (one press), from up to **~300 m**, no line of sight needed.
+- **A vox-jammer** (grenade or rig) blocks it inside its radius: the charge stays live but won't fire from the trigger
+  until the jam lifts.
+
 ## Thrown demo satchel
 
 **Thrown demo satchel** (player design, uncommon, 5 TV). A heavy charge with a

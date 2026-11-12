@@ -146,7 +146,7 @@ add("heavy","R","MF",[("Heavy bolter, Guard pattern, 1 belt (crew-served; string
 # --- Explosives ---
 add("explosive","C","MBF",[("Frag grenade",1),("Smoke grenade",1)])
 add("explosive","U","MBF",[("Krak grenade",2),("Photon flash grenade",2),("Choke gas grenade",1.5),("Breaching charge",2),("Det-tape (5 m)",1),("Demolition charge, satchel",4),("Incendiary grenade",2)])
-add("explosive","R","MAF",[("Melta bomb",8),("Plasma grenade",6),("Haywire grenade (machine-killer)",8),("Stun grenade (Arbites)",2.5)])
+add("explosive","R","MAF",[("Melta bomb (planted on mag-clamps; 3 hull points; through anything)",6),("Plasma grenade",6),("Haywire grenade (machine-killer)",8),("Stun grenade (Arbites)",2.5)])
 add("explosive","R","MAF",[("Plasma tripwire mine (laser trip, plasma-cell charge)",10)])
 add("explosive","U","MBF",[("Thrown demo satchel with paired detonator (mag-clamp, throw or set; beeps when armed)",5)])
 add("explosive","U","MBF",[("Air-frag 'blender' grenade (heavy shrapnel, 2-second fuse, ricochets)",2)])
@@ -263,6 +263,7 @@ add("mod","U","MF",[("Range-finder magnoculars (+4 Perception past ~50 m; a call
 add("gear","R","BF",[("Fitted chameleoline cloak (cut for one set of armour: the cloak's bonus over carapace or heavier)",25)])
 add("gear","U","MF",[("Grapnel launcher (hook to ~30 m; winch 10 m a beat)",4)])
 add("gear","U","MBF",[("Rappel harness (over any armour; down 10 m a beat, no penalty on shots)",1)])
+add("explosive","U","MAB",[("Remote detonator (4 receivers; wires into any charge or trip wire; ~300 m)",1.5),("Detonator receiver (spare)",0.25)])
 # Day 47: the player's street gear (burst pistol, derringer, tin-can bomb, cracker bundle, steak knife, taped flashlight).
 add("stub","U","MBF",[("Burst pistol, \'Kasr Trice\' pattern (3-round bursts; 15-round mag; full slots)",2)])
 add("stub","C","B",[("Holdout stub pistol, \'Cutpurse\' pattern (derringer: one round, +3 to hide)",0.25)])

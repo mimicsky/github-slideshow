@@ -1365,8 +1365,8 @@
   "sellers": "MBF"
  },
  {
-  "name": "Melta bomb",
-  "tv": 8,
+  "name": "Melta bomb (planted on mag-clamps; 3 hull points; through anything)",
+  "tv": 6,
   "cat": "explosive",
   "rarity": "R",
   "sellers": "MAF"
@@ -4184,5 +4184,19 @@
   "cat": "gear",
   "rarity": "U",
   "sellers": "MBF"
+ },
+ {
+  "name": "Remote detonator (4 receivers; wires into any charge or trip wire; ~300 m)",
+  "tv": 1.5,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "MAB"
+ },
+ {
+  "name": "Detonator receiver (spare)",
+  "tv": 0.25,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "MAB"
  }
 ]
