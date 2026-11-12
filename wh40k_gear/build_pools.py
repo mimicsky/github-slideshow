@@ -514,7 +514,7 @@ SPEC["traitor_elite"] = {
   "vox":         [("Vox-caster + auspex + hellgun","U")],
   "breacher":    [("Storm shield + bolt pistol","R"),("Boarding shield + duckbill shotgun","U")],
   "psyker":      [("Renegade sanctioned psyker: force staff + laspistol","R")],
-  "assassin":    [("Silenced hellpistol + mono-knife","U"),("Needle rifle + power knife","R")],
+  "assassin":    [("Needle pistol + mono-knife","U"),("Needle rifle + power knife","R")],
 }
 # Heavy gunner (player-set): one soldier carrying a heavy gun, like Morcant. Traitor
 # "heavy" stays the two-man team, renamed; cultists, raiders and pirates' heavies
@@ -610,7 +610,7 @@ NEW = {
  "infiltrator": {
   "raider":  [("Infiltrator: silenced stub pistol, mono-knife, dark rags","U"),("Infiltrator: crossbow-quiet needle pistol, garrotte","R")],
   "traitor": [("Infiltrator: silenced stub pistol, combat knife, chameleoline scraps","U"),("Infiltrator: suppressed Kasr Warden autogun, knife","U")],
-  "traitor_elite": [("Infiltrator: silenced hellpistol, power knife, chameleoline cloak","R"),("Infiltrator: needle rifle, mono-knife, chameleoline cloak","R"),("Infiltrator: suppressed Kasr Warden autogun, knife, cloak","U")],
+  "traitor_elite": [("Infiltrator: suppressed autopistol, power knife, chameleoline cloak","R"),("Infiltrator: needle rifle, mono-knife, chameleoline cloak","R"),("Infiltrator: suppressed Kasr Warden autogun, knife, cloak","U")],
  },
  "enforcer": {
   "traitor": [("Renegade commissar: bolt pistol and chainsword, greatcoat","U"),("Enforcer: laspistol and power maul, the old Commissariat cap","U")],
