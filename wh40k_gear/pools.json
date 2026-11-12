@@ -3862,5 +3862,12 @@
   "cat": "ammo",
   "rarity": "U",
   "sellers": "MAF"
+ },
+ {
+  "name": "Autocannon flak shells (belt; airborne: ignore -3, near misses clip; no extra step on the ground)",
+  "tv": 4,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MF"
  }
 ]

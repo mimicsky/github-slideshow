@@ -96,6 +96,16 @@ lascannon, bigger than anything carried. Set up in a beat; **one heavy beam
 every other beat** (it recharges). Through power armour and light vehicles;
 needs a coupling or a power cell pack.
 
+## Autocannon shells (special loads)
+
+(Written with the player, Ash on Ostrava day 47. An autocannon on people: **a hit drops one extra step** (heavy
+explosive rounds, below); it gets through APC armour ([vehicles.md](../bestiary/vehicles.md)). A standard belt of
+shells: 4 TV. Fits autocannons, man-portable or mounted. On the [attachment sheet](attachments.md#the-rollable-list).)
+
+- **Flak shells** (uncommon, 4 TV a belt, DM's price; Munitorum, Free Traders). Airburst rounds for fliers and
+  jumpers: **shots at an airborne target ignore the -3**, and **a miss by 1-3 still clips him** (bursting near).
+  Against ground targets they're weaker: **no extra step on a hit.**
+
 ## Lascannon packs (special loads)
 
 (Written with the player, Ash on Ostrava day 47. **The man-portable lascannon** has no entry of its own yet: it gets

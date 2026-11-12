@@ -250,6 +250,8 @@ add("ammo","C","BF",[("Off-brand bolt rounds (25; less pen: power armour shrugs 
 add("ammo","R","BAF",[("Meltacore bolt rounds (10; through tank armour; +1 heat a string; +1 recoil)",25)])
 add("ammo","U","MF",[("Storm bolt rounds (10; a near miss still hits; hits land like frags)",10)])
 add("ammo","R","BF",[("Vengeance bolt rounds (5; +1 step against power armour; through APC armour; a natural 1 cooks off)",30)])
+# Day 47: autocannon shells and multi-laser packs (DM's ideas, the player's OK). Rules in catalogue/heavy.md.
+add("ammo","U","MF",[("Autocannon flak shells (belt; airborne: ignore -3, near misses clip; no extra step on the ground)",4)])
 # Day 47: lascannon packs (the player's ideas). Rules in catalogue/heavy.md.
 add("ammo","U","MAF",[("Extended lascannon pack (10 shots; -1 swapping)",8),("Lascannon battery pack (40 shots; set down, the gunner stays within ~3 m)",15)])
 add("ammo","R","AF",[("Mechanicus lascannon pack (a vehicle hit: 2 hull points; +1 heat a shot)",20)])
