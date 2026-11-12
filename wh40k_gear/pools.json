@@ -3932,5 +3932,19 @@
   "cat": "stub",
   "rarity": "C",
   "sellers": "MBF"
+ },
+ {
+  "name": "Recurve bow, 'Reedhawk' pattern (silent; strings of 2; -2 past ~40 m)",
+  "tv": 0.5,
+  "cat": "bow",
+  "rarity": "C",
+  "sellers": "BF"
+ },
+ {
+  "name": "Quiver (20 arrows)",
+  "tv": 0.25,
+  "cat": "kit",
+  "rarity": "C",
+  "sellers": "BF"
  }
 ]

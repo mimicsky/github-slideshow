@@ -72,6 +72,11 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Needle darts (special loads)](stub.md#needle-darts-special-loads)
 - [Stub and autogun rounds (special loads)](stub.md#stub-and-autogun-rounds-special-loads)
 
+## [Bows, quivers and arrows](bows.md)
+
+- [Recurve bow, 'Reedhawk' pattern](bows.md#recurve-bow-reedhawk-pattern) (silent, strings of 2)
+- [Quiver](bows.md#quiver) (20 arrows)
+
 ## [Scrap guns](scrap.md)
 
 - [Pipe pistol ("zip gun")](scrap.md#pipe-pistol-zip-gun)

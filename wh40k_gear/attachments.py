@@ -17,6 +17,7 @@ import random, re
 
 CHANCE = {"poor": 20, "steady": 25, "good": 30, "rich": 40, "wealthy": 50}
 
+# bw bow (day 47: only arrows roll; see catalogue/bows.md).
 # Gun types: lp las pistol, lr las rifle/carbine, sp stub pistol, smg, sr stub rifle/autogun, sg shotgun,
 # bp bolt pistol, br boltgun, pp plasma pistol, pg plasma gun, np needle pistol, nr needle rifle,
 # hf hand flamer, fl flamer, hs heavy stubber, hv other heavy weapon, gl grenade launcher, mo mortar, mg meltagun.
@@ -33,7 +34,7 @@ NAMES = {"lp": "las pistols", "lr": "las rifles", "sp": "stub pistols", "smg": "
          "sg": "shotguns", "bp": "bolt pistols", "br": "boltguns", "pp": "plasma pistols", "pg": "plasma guns",
          "np": "needle pistols", "nr": "needle rifles", "hf": "hand flamers", "fl": "flamers", "hs": "heavy stubbers",
          "hv": "heavy weapons", "gl": "grenade launchers", "mo": "mortars", "mg": "meltaguns",
-         "ch": "chain weapons", "pw": "power weapons", "bl": "blades", "bt": "blunt weapons", "sh": "shields"}
+         "bw": "bows", "ch": "chain weapons", "pw": "power weapons", "bl": "blades", "bt": "blunt weapons", "sh": "shields"}
 
 K = "kit.md#"
 MORE = K + "more-attachments-player-picks-ash-on-ostrava-session-10"
@@ -206,7 +207,7 @@ NOT_ROLLED = [
 # Guns with limited attachment slots (day 47): only these slots roll (special ammo always can).
 SLOTLIMIT = [(re.compile(r"farmer's pump|three-shooter|harrow|trinity"), {"load"}), (re.compile(r"service stub pistol|steadfast"), {"load", "muzzle"})]
 SKIP = re.compile(r"web pistol|bolt-pipe|rivet gun|harpoon|turret|gauntlet|hellstrike|flare|^'")
-TYPES = [("pp", r"plasma pistol"), ("pg", r"plasma gun"), ("bp", r"bolt pistol"),
+TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b"), ("pp", r"plasma pistol"), ("pg", r"plasma gun"), ("bp", r"bolt pistol"),
          ("hv", r"heavy bolter|autocannon|lascannon|multi-laser"), ("hs", r"heavy stubber"), ("br", r"boltgun"),
          ("hf", r"hand flamer"), ("fl", r"flamer|torch-thrower|promethium sprayer"), ("mg", r"meltagun|melta gun|multi-melta|inferno pistol"),
          ("gl", r"grenade launcher"), ("mo", r"mortar"), ("np", r"needle pistol"), ("nr", r"needle rifle"),
