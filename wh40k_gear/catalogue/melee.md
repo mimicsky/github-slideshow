@@ -21,8 +21,6 @@ step on a **solid hit** until it's sharpened (a whetstone, or a few minutes on a
 
 ## Pipe pick (scrap war pick)
 
-**Abilities:** [Wide Slash](abilities.md#wide-slash).
-
 **Pipe pick** (common, 0.25 TV; black market; player design, Ash on Ostrava day 44; anyone with a
 cutting torch makes one in an hour, no roll). A length of heavy pipe for a haft, with a point of
 sharpened scrap welded or bolted on like a war pick's spike. Poorly made and badly balanced: hive
@@ -32,6 +30,8 @@ gang and cult work. **Who carries them:** cultists and raiders of a Poor or Stea
 - **Poorly made:** **every time it goes through plate (carapace or heavier), roll a d6: on a 1 the
   point snaps off and stays stuck in the armour.** What's left is a length of pipe: a club, and armour
   stops it.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash).
 
 ## Railroad spike knife
 
@@ -90,8 +90,6 @@ circular saw blade bolted to a handle, unpowered and toothed. One hand; melee ch
 
 ## Grox-prod
 
-**Abilities:** [Wide Slash](abilities.md#wide-slash).
-
 **Grox-prod** (common on agri worlds, 1 TV elsewhere; Munitorum, black market; player design, Ash on
 Ostrava day 44). A long insulated farm prod with a battery pack and two brass prongs, for driving grox: a
 poor man's shock spear. **Two-handed and long: +1 to strike first;** melee chains of up to 2.
@@ -99,6 +97,8 @@ poor man's shock spear. **Two-handed and long: +1 to strike first;** melee chain
   the target is stunned and loses their next beat.** **No shock through power armour or a sealed
   void-suit.** Without the shock it hits like a stick.
 - **6 jolts a battery;** recharge at a coupling (about an hour).
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash).
 
 ## Scrap axe
 
@@ -111,8 +111,6 @@ them:** poor cultists, raiders and gangs.
 
 ## Heavy scrap axe
 
-**Abilities:** [Wide Slash](abilities.md#wide-slash).
-
 **Heavy scrap axe** (common, 0.4 TV; black market; Ash on Ostrava day 45). A slab of girder or stamped deck plate
 welded to a thick pipe: crude, top-heavy, and frightening. **Who carries them:** cult brutes, raider bosses,
 anyone big and poor.
@@ -121,6 +119,8 @@ anyone big and poor.
 - **Top-heavy:** defenders get **+1** to block or parry it.
 - **Scrap:** on a **natural 1** the weld cracks and the head **flies off ~3 m** in the direction of the swing
   (anyone there makes a dive or drops a step); what's left is a heavy pipe.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash).
 
 ## Scrap throwing knives
 
@@ -155,8 +155,6 @@ flight and knows whether it struck or missed.
 
 ## Collapsing spear, 'Ordo Sicarius' pattern
 
-**Abilities:** [Wide Slash](abilities.md#wide-slash) (when swung two-handed).
-
 **Collapsing spear, 'Ordo Sicarius' pattern** (player design, Ash on Ostrava day 45; rare, ~12 TV; Free
 Traders, Mechanicus; Ordo issue). Named for the Inquisition's ordo that watches the Officio Assassinorum.
 Carried by **assassins and Inquisition strike teams.** Folded, it's a **plain cylinder about a forearm long**;
@@ -167,6 +165,8 @@ Light plastek inside, a sharpened plasteel skin and head outside.
   any hit; through carapace on a solid hit.** The locked shaft takes a block like a staff and doesn't break.
 - **Thrown:** ~20 m, as a throwing weapon: **through flak on any hit, carapace on a solid hit**. A thrown spear
   stays where it lands until someone picks it up.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash) (when swung two-handed).
 
 ## Fan throw (three throwing knives)
 
@@ -230,8 +230,6 @@ next swing in the exchange is at +1. Weak against carapace.
 
 ## Great chain axe, 'Butcher' pattern
 
-**Abilities:** [Wide Slash](abilities.md#wide-slash).
-
 **Great chain axe, 'Butcher' pattern** (player design, Ash on Ostrava day 45; rare, ~18 TV; black market,
 Free Traders; cult forges make cruder ones). A two-handed eviscerator-sized axe: a long haft, a broad
 chain-toothed head as wide as a man's chest, and a roaring motor in the cheek. Named for the Butcher's Nails
@@ -243,9 +241,9 @@ of Khorne's Berzerkers, who love them; Imperial forges make them too.
 - **Heavy:** defenders get **+1** to block or parry it. **Loud:** everyone nearby hears it running.
 - **Natural 1:** the chain throws a tooth and stalls; **a beat to rev it back up.**
 
-## Tactical breaching axe, 'Kasr Sapper' pattern
+**Abilities:** [Wide Slash](abilities.md#wide-slash).
 
-**Abilities:** [Wide Slash](abilities.md#wide-slash) (when swung two-handed).
+## Tactical breaching axe, 'Kasr Sapper' pattern
 
 **Tactical breaching axe, 'Kasr Sapper' pattern** (player design, Ash on Ostrava day 45; uncommon, ~4 TV;
 Munitorum, Free Traders). A better firefighter's axe: **solid plasteel, full tang**, a broad axe head on one
@@ -256,6 +254,8 @@ close work.
 - **Breaching:** **+2 on STR rolls to force doors, hatches, lockers, crates and shutters**; a light door or
   hatch goes in a beat. The claw hooks a shield rim: **-1 to the target's next block** after a hooking swing.
 - **Can't break:** full-tang plasteel; prying, levering and hammering never snap it.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash) (when swung two-handed).
 
 ## Tactical hand axe, 'Fenris' pattern
 
@@ -272,8 +272,6 @@ be fast: a flurry of cuts, not one big blow.
 
 ## Heavy war axe, 'Kasr Gate' pattern
 
-**Abilities:** [Wide Slash](abilities.md#wide-slash).
-
 **Heavy war axe, 'Kasr Gate' pattern** (player design, Ash on Ostrava day 45; uncommon, ~8 TV; Munitorum,
 Free Traders). Named for the Cadian Gate. A two-handed war axe of **solid plasteel**: a **double-sided head**,
 a blade each way, and a **spear point** on the butt of the haft.
@@ -284,9 +282,9 @@ a blade each way, and a **spear point** on the butt of the haft.
   or at your flank with no penalty.
 - **Heavy:** defenders get **+1** to block or parry it. **Can't break:** full plasteel.
 
-## Hydraulic push axe, 'Kasr Ram' pattern
-
 **Abilities:** [Wide Slash](abilities.md#wide-slash).
+
+## Hydraulic push axe, 'Kasr Ram' pattern
 
 **Hydraulic push axe, 'Kasr Ram' pattern** (player design, Ash on Ostrava day 45; rare, ~12 TV; Mechanicus,
 Munitorum engineer issue). A heavy two-handed axe whose head rides on a **hydraulic ram**: hit, then thumb the
@@ -300,14 +298,16 @@ stud on the haft, and the blade **punches forward** into whatever it's already i
 - **Natural 1 on a punched swing:** the ram jams; no punch until it's cleared (a beat).
 - **Heavy:** defenders get **+1** to block or parry it. **Loud:** the ram goes off like a pneumatic hammer.
 
-## Thunder hammer, intact
-
 **Abilities:** [Wide Slash](abilities.md#wide-slash).
+
+## Thunder hammer, intact
 
 **Thunder hammer, intact** (rare, 50 TV): two-handed, devastating. Every hit
 goes through power armour and staggers. **Thunderclap (session 9): every hit
 discharges the field: the target drops two health steps and is knocked flat, with
 anyone right next to them.** Slow: defenders get +2 to block or parry it.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash).
 
 ## Thunder hammer, one-handed officer's pattern
 
@@ -332,8 +332,6 @@ flickers, and it cuts machines and servitors at +2.
 
 ## Relic blade, 'Thorian' pattern
 
-**Abilities:** [Wide Slash](abilities.md#wide-slash).
-
 **Relic blade, 'Thorian' pattern** (player design, Ash on Ostrava day 44; rare, ~40 TV; Mechanicus,
 Ecclesiarchy, Free Traders). Named for Sebastian Thor, the saint who remade the Ecclesiarchy. A
 two-handed greatblade with a **forged ceramite blade** and a **power field that is charged up**, not
@@ -349,9 +347,9 @@ Sororitas**; anyone else holding one will be asked how they came by it.
   (**30 a cell**, codex, Power cells).
 - **Heavy:** defenders get **+1** to block or parry it.
 
-## Power odachi, 'Eversor' pattern
+**Abilities:** [Wide Slash](abilities.md#wide-slash).
 
-**Abilities:** [Wide Slash](abilities.md#wide-slash) (when swung two-handed).
+## Power odachi, 'Eversor' pattern
 
 **Power odachi, 'Eversor' pattern** (player design, Ash on Ostrava day 44; rare, ~50 TV; Free Traders,
 Mechanicus). Named for the Eversor Temple of the Officio Assassinorum. A long, thin, curved blade of
@@ -367,9 +365,9 @@ grip that wakes the power field.** Carried by **high authority** (Inquisitors, l
   step** as the teeth tear.
 - **Ceramite blade:** never breaks; can block a chainsword or a power weapon without being cut.
 
-## Omnissian axe
+**Abilities:** [Wide Slash](abilities.md#wide-slash) (when swung two-handed).
 
-**Abilities:** [Wide Slash](abilities.md#wide-slash).
+## Omnissian axe
 
 **Omnissian axe** (rare, ~38 TV; **Mechanicus only**, and seldom sold to outsiders; Ash on Ostrava day 45). The
 tech-priest's badge of office and weapon: a long haft and a **power axe head shaped like half a cog**, the
@@ -382,6 +380,8 @@ skull-in-cog of the Machine God at its heart. It is a key and a tool as much as 
   repair, override, open or command machines** (doors, cogitators, servitors) it can touch.
 - Carrying one without the Mechanicus's blessing is theft from the Machine God; tech-priests take it personally.
 
+**Abilities:** [Wide Slash](abilities.md#wide-slash).
+
 ## Paired transonic blades
 
 **Paired transonic blades** (rare, 30 TV): two weapons (dual-wielding: +1 swing and +1 on attacks; codex house rule 5).
@@ -390,13 +390,13 @@ against them.
 
 ## Blaze force sword / greatsword
 
-**Abilities:** [Wide Slash](abilities.md#wide-slash).
-
 **Blaze force sword / greatsword** (rare, 45 / 60 TV): psyker weapons. The sword is **medium**, the greatsword
 **two-handed and heavy**; both **chains of 2**. In a sanctioned psyker's hands they burn with warp-fire (audit C8,
 day 47): they **hit as a power weapon**, **a hit on a raw 17+ sets the target alight**, and **against daemons every
 hit counts** (daemon flesh normally only loses a stage to solid hits, crits, fire and blasts: bestiary bosses.md).
 Anyone else wields a plain sword.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash).
 
 
 ## Librarius aide's stave
@@ -481,8 +481,6 @@ Marine, so a human can use it.
 
 ## Fenrisian gift-blade
 
-**Abilities:** [Wide Slash](abilities.md#wide-slash) (when swung two-handed).
-
 (player design, epic: an exotic find, natural 20 only; 55 TV; black market, Free
 Traders.) A ceremonial longsword forged in the ice-cold forges of Fenris, made as
 a traditional gift: the Space Wolves give such blades to mortals who earned their
@@ -497,6 +495,8 @@ the **pommel is a jagged mountain peak, gold-plated.** Human-sized.
 - **A gift, not loot:** anyone from Fenris, and any Space Wolf, knows what it means.
   Carried by its rightful owner, it opens doors; taken from a corpse, the Wolves
   will hunt whoever holds it.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash) (when swung two-handed).
 
 ## The 2nd Fist
 

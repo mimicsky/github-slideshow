@@ -5,7 +5,7 @@ class:** anyone holding that kind of gear can use it, friend or enemy.
 
 **How this list works (the paper trail):**
 - **Every ability is written once, here,** with **the items that have it** listed under it.
-- **Every item that has an ability carries an "Abilities:" line in its own catalogue entry** (and on the
+- **Every item that has an ability carries an "Abilities:" line in its own catalogue entry, at the end of the entry** (day 47, audit C11) (and on the
   campaign sheet, where someone owns one), linking back here. So when an item is rolled or looked up, its entry
   points here, and from here every item with the ability points back.
 - These lines are for the DM and the files; they don't get read out in play.

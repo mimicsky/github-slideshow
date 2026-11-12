@@ -4,29 +4,27 @@ Item rules for this category. General rules (heat, hot-shot, drop-prone, going D
 
 ## Boarding shield
 
-**Abilities:** [Plant](abilities.md#plant).
-
 **Boarding shield** (uncommon, 4 TV): a plain slab of plasteel with a grip.
 **+1 on the defender's roll (block or parry), half cover from the front.** Shared shield rules: Codex, Gear rules.
 
-## Arbitrator shield
+**Abilities:** [Plant](abilities.md#plant).
 
-**Abilities:** [Plant](abilities.md#plant) (the pistol notch counts as a viewing slot).
+## Arbitrator shield
 
 **Arbitrator shield** (rare, 10 TV): the Adeptus Arbites riot shield. **+2 on the defender's roll (block or parry),
 three-quarters cover from the front** (audit C10, day 47: worded as every other shield), and a **pistol notch**: fire a
 pistol through it without giving up the cover.
 
-## Storm shield
+**Abilities:** [Plant](abilities.md#plant) (the pistol notch counts as a viewing slot).
 
-**Abilities:** [Plant](abilities.md#plant).
+## Storm shield
 
 **Storm shield** (rare, 30 TV): a shield with a power field generator.
 **+3 on the defender's roll (block or parry), three-quarters cover from the front.**
 
-## Compact power shield, 'Praesidium' pattern
+**Abilities:** [Plant](abilities.md#plant).
 
-**Abilities:** [Plant](abilities.md#plant) (only when on; see-through: counts as a viewing slot).
+## Compact power shield, 'Praesidium' pattern
 
 **Compact power shield, 'Praesidium' pattern** (player design, Ash on Ostrava day 44; rare, ~35 TV;
 Mechanicus, Free Traders). Named for the Custodes' shields. Folded, it's **four small flat plasteel plates
@@ -40,26 +38,26 @@ see-through power field the size of a riot shield.** Very light: no penalty to c
   each hit it stops costs 1.** At 0 it folds back to a buckler until a cell is swapped (a beat) or recharged
   at a coupling.
 
-## Slab shield (Ogryn)
+**Abilities:** [Plant](abilities.md#plant) (only when on; see-through: counts as a viewing slot).
 
-**Abilities:** [Plant](abilities.md#plant).
+## Slab shield (Ogryn)
 
 **Slab shield** (enemy only): Ogryn-sized; no human can carry it in a fight.
 **+3 on the defender's roll (block or parry), three-quarters cover from the front** for the Ogryn and one
 person standing behind them.
 
-## Makeshift shield
-
 **Abilities:** [Plant](abilities.md#plant).
+
+## Makeshift shield
 
 **Makeshift shield** (common, 1 TV; player design): wood and scrap metal nailed
 together. **+1 on the defender's roll (block or parry), one-third cover from the front (+1 to the shooter's
 difficulty). Breaks after 2-3 heavy hits:** roll it when the shield is made or
 repaired (d6: 1-3 it takes two, 4-6 three).
 
-## Cogitator shield (scrap)
-
 **Abilities:** [Plant](abilities.md#plant).
+
+## Cogitator shield (scrap)
 
 **Cogitator shield** (common, 1.5 TV; black market; player design, Ash on Ostrava day 44): a gutted
 cogitator casing with handles riveted inside, its old power cell still wired in. Heavier and better than a
@@ -71,38 +69,40 @@ makeshift shield, and nastier.
 - **Heavy and clumsy:** -1 on the bearer's DEX rolls (dodges, quick-draws) while it's carried.
 - **Breaks after 4-5 heavy hits** (roll when made or repaired: d6 1-3 four, 4-6 five).
 
-## Forged shield
-
 **Abilities:** [Plant](abilities.md#plant).
+
+## Forged shield
 
 **Forged shield** (uncommon, 6 TV; player design): smith-made to take blows.
 **+2 on the defender's roll (block or parry), half cover from the front.** What the 6 TV buys over a
 scrap shield (re-tuned with the player, day 47): **balanced, so no penalty to DEX rolls**, and **it doesn't
 break from heavy hits** (only a power weapon's Field Burst or a melta can ruin it).
 
-## Shield viewing slot (mod)
+**Abilities:** [Plant](abilities.md#plant).
 
-**Abilities:** gives a planted shield slot fire, -2 ([Plant](abilities.md#plant)).
+## Shield viewing slot (mod)
 
 **Viewing slot** (uncommon, 1.5 TV; player design): a slot cut and framed in any
 shield. **The bearer can see and shoot a pistol through it without giving up the
 shield's cover.** (The Arbitrator shield's pistol notch already does this.)
 
-## Spiked shield (mod)
+**Abilities:** gives a planted shield slot fire, -2 ([Plant](abilities.md#plant)).
 
-**Abilities:** none of its own; the shield keeps [Plant](abilities.md#plant).
+## Spiked shield (mod)
 
 **Spikes** (uncommon, 2 TV; player design): spikes fixed to the shield's face,
 crude on a makeshift shield, smith-made on a forged one. **The bearer can charge
 into someone shield-first: +3 on the charge, then +1 in melee when attacking
 with the shield after that.**
 
-## Improvised shield (a door)
+**Abilities:** none of its own; the shield keeps [Plant](abilities.md#plant).
 
-**Abilities:** [Plant](abilities.md#plant).
+## Improvised shield (a door)
 
 **A door or hatch** (enemy brutes, or anyone strong enough): **+1 on the defender's roll (block or parry), half
 cover from the front.** Breaks after 3 heavy hits.
+
+**Abilities:** [Plant](abilities.md#plant).
 
 ## Mesh armour
 
@@ -186,12 +186,12 @@ one; **fixing or unfixing one takes the beat's move**, and it only counts once i
 
 ## Underslung chain-bayonet
 
-**Abilities:** [Bayonet Charge](abilities.md#bayonet-charge) (it fights as a chain weapon); [Saw Lock](abilities.md#saw-lock).
-
 **Underslung chain-bayonet** (rare, 10 TV): a short chainsword mounted under a
 rifle (lasgun, hellgun, autogun, Las-box). In melee the rifle counts as a
 chainsword, at -1 to block or parry (it's awkward). No overdrive. The rifle
 weighs more; -1 on snap shots from the hip.
+
+**Abilities:** [Bayonet Charge](abilities.md#bayonet-charge) (it fights as a chain weapon); [Saw Lock](abilities.md#saw-lock).
 
 ## Shock-coil kit
 
@@ -213,8 +213,6 @@ burns cold and smells of incense; anyone with psychic sense notices it.
 
 ## Jump pack, Kasrkin pattern
 
-**Abilities:** [Dive](abilities.md#dive).
-
 **Jump pack, Kasrkin pattern** (rare, 45 TV; Munitorum, Mechanicus, Free Trader;
 player design, Ash on Ostrava session 9). A Mechanicus-approved Cadian pattern for
 Kasrkin storm troops: a grav-chute frame with reversed suspensor plates and an elite
@@ -226,15 +224,17 @@ station. Loud and bright while lifting: no stealth during a burst. Uses the
 stutters and the user drops one health step on landing. Approved kit: no heresy to
 carry one.
 
-## Lift pack (heretek grav-chute)
-
 **Abilities:** [Dive](abilities.md#dive).
+
+## Lift pack (heretek grav-chute)
 
 **Lift pack** (unique; built, not sold). A boarders' grav-chute rebuilt **to the
 Kasrkin pattern** above, from memory and without the proper rites (tech-heresy for the
 builder, not the wearer; in the field it passes for approved kit). Same rules as the
 Kasrkin pattern. **Build:** grav-chute + 1 machine-core + 1 servo-motor + 4 power
 cells, 2 days, the crafter's roll (codex Part 8). Varga's (Ash on Ostrava, session 9).
+
+**Abilities:** [Dive](abilities.md#dive).
 
 ## Augmetic eyes
 
