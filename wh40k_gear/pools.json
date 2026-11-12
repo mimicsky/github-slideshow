@@ -504,8 +504,8 @@
   "sellers": "BF"
  },
  {
-  "name": "Needle SMG, Assassinorum pattern (silent toxin darts; strings of 4; CON 13 or a step)",
-  "tv": 40,
+  "name": "Needle SMG, Venenum Temple pattern (silent toxin darts; strings of 4; the dart decides the save)",
+  "tv": 120,
   "cat": "stub",
   "rarity": "L",
   "sellers": "BF"

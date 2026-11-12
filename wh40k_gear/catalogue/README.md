@@ -53,7 +53,6 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Riot SMG, Arbites pattern](stub.md#riot-smg-arbites-pattern) (shock rounds: CON 13 or stunned)
 - [Rotary SMG, 'Hive Spinner' pattern](stub.md#rotary-smg-hive-spinner-pattern) (spin up, then strings of 12)
 - [Boarding SMG, Navy 'Gyre' pattern](stub.md#boarding-smg-navy-gyre-pattern) (gyro: no recoil in zero-g; caseless)
-- [Needle SMG, Assassinorum pattern](stub.md#needle-smg-assassinorum-pattern) (silent toxin darts)
 - [Submachine gun, 'Kasr Scorpion' pattern](stub.md#submachine-gun-kasr-scorpion-pattern) (fastest: strings of 18; every attachment slot)
 - [Bullpup SMG, 'Kasr Adder' pattern](stub.md#bullpup-smg-kasr-adder-pattern) (hand-stop: first 4 shots no recoil; compact)
 - [Heavy SMG, 'Orlock' pattern](stub.md#heavy-smg-orlock-pattern) (steel and wood; 45-round mag; never jams; no attachments)
@@ -243,6 +242,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 
 ## [Officio Assassinorum gear](assassinorum.md) (all epic or legendary)
 
+- [Venenum Temple: Needle SMG](assassinorum.md#venenum-temple-needle-smg) (silent; strings of 4; the darts decide the toxin)
 - [Exitus rifle](assassinorum.md#vindicare-temple-exitus-rifle) (legendary)
 - [Exitus pistol](assassinorum.md#vindicare-temple-exitus-pistol) (epic)
 - [Exitus rounds](assassinorum.md#vindicare-temple-exitus-rounds) (epic)

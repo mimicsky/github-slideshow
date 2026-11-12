@@ -106,6 +106,17 @@ legendary has to beat an 18 TV needle rifle).
 - **Adamus balance:** it **can't be disarmed**, and **a parry that beats the attack by 5+ gives a free
   riposte** (one swing, no chain).
 
+## Venenum Temple: Needle SMG
+
+**Needle SMG, Venenum Temple pattern** (legendary, ~120 TV; Assassinorum, by arrangement only; first written day 45,
+moved here and repriced with the player day 47, audit C3). The needle pistol's big brother: a slim, silent gun that
+cycles **toxin darts** from a **20-dart magazine**.
+- Strings of up to **4**; **no recoil; silent.**
+- **The toxin is the dart's, not the gun's** (as A13): standard darts **CON 15 or Down**; any special dart works
+  (stub.md, Needle darts), and it's often loaded with **Temple venom** (CON 18 or Down, a pass still drops a step).
+- Against carapace, only a solid hit finds a gap; heavier armour stops it.
+- Owning one is a question the Officio Assassinorum will want answered.
+
 ## Venenum Temple: Toxin injectors and poison globes
 
 **Venenum toxin kit** (legendary, 120 TV): injectors and poison globes.

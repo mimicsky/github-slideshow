@@ -152,14 +152,9 @@ boarding gun: a **gyro in the stock** and **caseless** rounds in a 40-round maga
 - **Caseless:** no brass to float around a corridor or betray where you fired from.
 - Stub rounds: **through flak on a solid hit.**
 
-## Needle SMG, Assassinorum pattern
+## Needle SMG (moved)
 
-**Needle SMG, Assassinorum pattern** (Ash on Ostrava day 45; legendary, ~40 TV; Assassinorum, by arrangement only).
-The needle pistol's big brother: a slim, silent gun that cycles **toxin darts** from a 20-dart magazine.
-- Strings of up to **4**; **no recoil; silent.**
-- **Darts:** a hit forces a **CON save against 13, or the target drops a step** (the toxin); special needle darts
-  (black-tip, tracker and so on) work as in the needle pistol.
-- Owning one is a question the Officio Assassinorum will want answered.
+Moved to the Assassinorum file, day 47 (audit C3): [Venenum Temple: Needle SMG](assassinorum.md#venenum-temple-needle-smg).
 
 ## Submachine gun, 'Kasr Scorpion' pattern
 

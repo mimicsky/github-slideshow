@@ -66,7 +66,7 @@ add("stub","R","B",[("Riot SMG, Arbites pattern (shock rounds: CON 13 or stunned
 add("stub","U","MBF",[("Heavy SMG, 'Orlock' pattern (steel and wood; heavy stub, through flak on any hit; 45-round mag; strings of 8; never jams; no attachments)",3)])
 add("stub","U","MF",[("Bullpup SMG, 'Kasr Adder' pattern (stub; 32-round mag behind the grip; strings of 10, first 4 shots no recoil; +1 quick-draw; reload a full beat)",4)])
 add("stub","R","BF",[("Submachine gun, 'Kasr Scorpion' pattern (fastest: strings of 18, recoil 2; 40-round mag; every attachment slot)",5)])
-add("stub","L","BF",[("Needle SMG, Assassinorum pattern (silent toxin darts; strings of 4; CON 13 or a step)",40)])
+add("stub","L","BF",[("Needle SMG, Venenum Temple pattern (silent toxin darts; strings of 4; the dart decides the save)",120)])
 add("las","U","MF",[("Las bullpup SMG, 'Kasr Volt' pattern (lasgun punch; strings of 8; 40 shots a pack; heat 1 per 10)",4)])
 add("stub","C","MB",[("Stamped submachine gun, 'Munitorum Mk I' pattern (mass-produced stub SMG; safe and auto only, strings of 8; wire stock; threaded muzzle; cannibalise two into one)",1)])
 add("stub","U","MBF",[("Submachine gun, 'Kasr Locust' pattern (stub; 30-round mag; auto strings of 8, bursts of 4 as two rounds, semi +1 stock out; folding stock)",3)])
