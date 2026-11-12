@@ -77,6 +77,19 @@ charge from the cell** (a 3-pump shot uses 4). Each pump is half a step more pun
 it gains **1 heat** (normal plasma heat rules). Fire it fast. Firing a pumped shot
 adds its usual heat too, and venting dumps the charge.
 
+## Meltagun
+
+**Meltagun** (rare, 35 TV; standard canisters 6 shots, 5 TV; Munitorum, Mechanicus, black market, Free Traders; rules
+written with the player, Ash on Ostrava day 47, audit C14). A two-handed melta rifle; no brace needed.
+- **Inside ~15 m: through any armour; a hit drops two steps.** It melts doors and locks.
+- **15-25 m: -3 on the shot, and only one step. Past ~25 m: nothing.**
+- **Vehicles: through any vehicle armour, tanks from the front included:** 1 hull point (an Astartes canister: 2)
+  ([vehicles.md](../bestiary/vehicles.md)).
+- **One shot a beat; 6 shots a canister** (special canisters: [below](#melta-canisters-special-loads)).
+- **Heat: +1 a shot; at 2 it vents a beat** (as the inferno pistol).
+
+**Abilities:** [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun; one shot a beat, so it gains nothing).
+
 ## Inferno pistol
 
 **Inferno pistol** (player request, Space Marine 2 style, Ash on Ostrava session 9;

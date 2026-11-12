@@ -1008,7 +1008,7 @@
   "sellers": "MAF"
  },
  {
-  "name": "Meltagun",
+  "name": "Meltagun (two steps through any armour inside ~15 m; any vehicle; 6 shots a canister)",
   "tv": 35,
   "cat": "melta",
   "rarity": "R",
