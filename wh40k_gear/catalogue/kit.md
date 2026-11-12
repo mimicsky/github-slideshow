@@ -33,6 +33,18 @@ No tier costs dodges or stealth (the player kept it that way).
   Perception** (as a full helmet).
 - **Filters:** about an hour of heavy gas each, then a fresh one (0.1 TV a filter).
 
+## Void-suit, Navy
+
+**Void-suit, Navy** (uncommon, 4 TV; Munitorum, Navy chandlers, Free Traders; rules written with the player, Ash on
+Ostrava day 47, audit C14). A close-fitting sealed suit, like a second skin: **no bulk, no penalty to dodges or
+stealth** (the player).
+- **Sealed:** vacuum, gas, smoke and cold don't touch him. **~2 hours of air** in its bottle (a spare bottle 0.5 TV).
+- **Mag-boots:** he walks on a hull or in zero-g.
+- **Armour: counts as flak.**
+- **A hit that gets through tears it:** in vacuum he has a few minutes of air. **Patching it is the beat's move** with
+  a patch kit (common, 0.25 TV for 5).
+- **The sealed helmet: -1 on Perception** (as a full helmet).
+
 ## Boarding shield
 
 **Boarding shield** (uncommon, 4 TV): a plain slab of plasteel with a grip.

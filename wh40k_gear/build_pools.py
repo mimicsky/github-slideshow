@@ -212,7 +212,7 @@ add("melee","R","E",[("Blessed power maul (Ecclesiarchy)",28),("Sororitas power 
 add("melee","R","B",[("Assassin's mono-wire garrotte",6),("Needle-blade (toxin)",8)])
 # --- Armour ---
 add("armour","C","MB",[("Flak vest",0.5),("Flak armour set",1),("Flak helmet",0.25),("Rebreather (mouth and nose: immune to breathed gas)",0.5)])
-add("armour","U","MBF",[("Carapace armour set",8),("Carapace chest plate",4),("Mesh armour (light, quiet)",5),("Boarding shield",4),("Void-suit, Navy",4),("Hazard suit (plague-rated)",5),("Arbites carapace",10)])
+add("armour","U","MBF",[("Carapace armour set",8),("Carapace chest plate",4),("Mesh armour (light, quiet)",5),("Boarding shield",4),("Void-suit, Navy (sealed, ~2 h air, mag-boots; counts as flak; a tear leaks)",4),("Hazard suit (plague-rated)",5),("Arbites carapace",10)])
 add("armour","C","MB",[("Makeshift shield (wood and scrap; +1 block, 1/3 cover, breaks after 2-3 heavy hits)",1)])
 add("armour","U","MBF",[("Forged shield (+2 block, half cover)",6)])
 add("mod","U","MBF",[("Shield viewing slot (shoot a pistol through without losing cover)",1.5),("Shield spikes (charge shield-first: +3 on the charge, +1 shield melee after)",2)])
@@ -257,6 +257,7 @@ add("armour","U","MBF",[("Reinforced flak helmet",0.75),("Reinforced flak vest",
 add("armour","R","MF",[("Heavy carapace helmet (open)",3),("Heavy carapace full helmet (-1 Perception without a lens)",5),("Heavy carapace chest plate",8),("Heavy carapace set",14),("Ceramite-forged helmet (open)",5),("Ceramite-forged full helmet (-1 Perception without a lens)",8),("Ceramite-forged chest plate",12),("Ceramite-forged set",22)])
 add("armour","C","MBF",[("Gas mask (whole face: immune to breathed gas, eyes covered; -1 Perception)",0.25)])
 add("gear","C","MBF",[("Gas mask or rebreather filter (about an hour of heavy gas)",0.1)])
+add("gear","C","MF",[("Void-suit air bottle (~2 hours)",0.5),("Void-suit patch kit (5 patches)",0.25)])
 # Day 47: the player's street gear (burst pistol, derringer, tin-can bomb, cracker bundle, steak knife, taped flashlight).
 add("stub","U","MBF",[("Burst pistol, \'Kasr Trice\' pattern (3-round bursts; 15-round mag; full slots)",2)])
 add("stub","C","B",[("Holdout stub pistol, \'Cutpurse\' pattern (derringer: one round, +3 to hide)",0.25)])

@@ -2212,7 +2212,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Void-suit, Navy",
+  "name": "Void-suit, Navy (sealed, ~2 h air, mag-boots; counts as flak; a tear leaks)",
   "tv": 4,
   "cat": "armour",
   "rarity": "U",
@@ -4135,5 +4135,19 @@
   "cat": "gear",
   "rarity": "C",
   "sellers": "MBF"
+ },
+ {
+  "name": "Void-suit air bottle (~2 hours)",
+  "tv": 0.5,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MF"
+ },
+ {
+  "name": "Void-suit patch kit (5 patches)",
+  "tv": 0.25,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MF"
  }
 ]
