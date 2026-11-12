@@ -99,6 +99,18 @@ C14).
 - **Range-finder magnoculars** (uncommon, 3 TV; spotters carry them): they also give the range. **A shooter the spotter
   calls it to gets +1 on his next shot past ~30 m**, as long as they can hear each other (bead or voice).
 
+## Chameleoline cloak
+
+**Chameleoline cloak** (rare, 12 TV; black market, Free Traders, Ordo and assassins' suppliers; entry written with the
+player, Ash on Ostrava day 47, audit C14). A cloak of light-bending threads that reflect what's around it.
+- **In shadow or the dark: +5 to hide while still, +2 while moving;** shots at him are **+2 to the hidden number** (a
+  smear in the dark).
+- **In bright light** (daylight, floodlights, a lumen on him): **it reflects: no bonus, and -1 to hide** (the shimmer
+  catches the eye).
+- **Worn over clothes or flak** (the player); **over carapace or anything heavier the plates break the drape and it
+  gives nothing** (DM default).
+- No armour of its own; flames ruin it.
+
 ## Boarding shield
 
 **Boarding shield** (uncommon, 4 TV): a plain slab of plasteel with a grip.
