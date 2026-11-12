@@ -174,7 +174,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 
 ## End of every in-game day
 
-1. Show the **tally sheet** (Tamsin's stats before and after, then the Light's).
+1. Show the **tally sheet** (Tamsin's stats before and after, then the Light's). **Anyone whose STR crosses 50: flag 'STR 50+: Strength behind the blow' on their sheet row** (codex Part 8, Armour; the paper trail).
 2. **Write that day as book chapters** in `book-season-2.md` (codex Part 7, The book): **chapters by how much the day matters** (the player, day 38): **a quiet day (training, games, travel, rest) gets 1-2 chapters**; a day where the story moves gets a few; only a big mission day runs long (the old ceiling, ~8-12). Big scenes get the space, routine ones a paragraph.
 3. Delete that day's scene notes from the day log (day-log.md, from the day-36 cleanup; one bullet per timestamp), and update "Where we stopped".
 4. Commit and push.
