@@ -5,6 +5,21 @@ Item rules for this category. General rules (heat, hot-shot, drop-prone, going D
 **Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown). **Heavy stubbers, heavy bolters and multi-lasers also have [Pinned Fire](abilities.md#pinned-fire)** (spray an area: -1 on their shots next beat, breaking cover draws a shot; day 47).
 
 
+## Heavy bolter, Guard pattern
+
+**Heavy bolter, Guard pattern** (rare, 40 TV with one belt; belts 10 TV; Munitorum, black market, Free Traders;
+crew-served; rules written with the player, Ash on Ostrava day 47, audit C14). The Imperial Guard's heavy bolter, a
+human weapon (the Astartes one is a legendary trophy: bolt.md).
+- **Bolts:** through everything up to power armour (as any bolter); **heavy bolts: a hit drops one extra step.**
+- **Strings up to 6, no hit bonuses in the string** (misses still -1).
+- **Braced or on its tripod only:** setting the tripod up or folding it is a main thing; he can't move while firing.
+  **Recoil 2 braced, 0 on the tripod.**
+- **A 60-round belt** (10 strings). **A loader** (the second crewman) makes a belt change the beat's move, not a beat.
+- **Vehicles:** through **light vehicles**; APCs shrug it unless it's loaded with Kraken bolts (bolt.md, Bolt rounds).
+- Takes the special bolt loads (Kraken, off-brand, meltacore, storm, vengeance).
+
+**Abilities:** [Pinned Fire](abilities.md#pinned-fire); [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
+
 ## Heavy stubber
 
 **Heavy stubber** (common, ~4 TV; Munitorum, black market; belts ~1 TV; rules set by the player, Ash on

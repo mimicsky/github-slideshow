@@ -57,4 +57,4 @@ Astartes heavy bolter (120) are **legendary** (a natural 20, then a second d20 o
 braced on cover or a mount, at -4, one shot a beat, and can't move that beat; with
 no brace it can't be fired. Mostly trade value or a trophy, and dangerous to own:
 the Astartes want their gear back. The Imperial Guard heavy bolter (rare, 40 TV,
-crew-served) is a separate, human weapon.
+crew-served) is a separate, human weapon: [heavy.md, Heavy bolter, Guard pattern](heavy.md#heavy-bolter-guard-pattern).
