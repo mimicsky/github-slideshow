@@ -3876,5 +3876,12 @@
   "cat": "ammo",
   "rarity": "R",
   "sellers": "MAF"
+ },
+ {
+  "name": "Autocannon incendiary HE shells (belt; ~2 m splash, raw 17+ sets alight; no extra step)",
+  "tv": 5,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MBF"
  }
 ]

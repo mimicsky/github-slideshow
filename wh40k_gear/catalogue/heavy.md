@@ -108,6 +108,10 @@ shells: 4 TV. Fits autocannons, man-portable or mounted. On the [attachment shee
 - **Penetrator shells** (rare, 8 TV a belt, DM's price; Munitorum, Mechanicus, Free Traders; **rare in the enemy
   roll**). Armour-piercing: **through a tank's armour from the side or rear** (as kraks and plasma; the front still
   shrugs it). On people it keeps the extra step. Dense rounds: **+1 recoil.**
+- **Incendiary HE shells** (uncommon, 5 TV a belt, DM's price; Munitorum, black market, Free Traders). **Splash:** anyone
+  within ~2 m of a hit makes a **DEX dodge against the shooter's roll or drops a step** (the target takes his hit as
+  normal). **A hit on a raw 17+ sets the target alight.** All filler: **no extra step on the target**, and **APCs
+  shrug it.**
 
 ## Lascannon packs (special loads)
 
