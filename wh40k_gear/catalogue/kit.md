@@ -70,6 +70,24 @@ day 47, audit C14). Dressings, sutures, splints, antiseptic. **10 uses** (restoc
 - **Infection:** a wound treated with it gives **+2 on plague, rot or fester saves.**
 - **Without a med-kit,** patching with only a field dressing is at **-2**.
 
+## Vox-caster
+
+**Vox-caster** (manpack; uncommon, 5 TV; Munitorum, Free Traders; entry written with the player, Ash on Ostrava day
+47, audit C14).
+- **Range ~50 km** on the ground, and **orbit with a clear sky** (calling a ship down). Vox-beads reach ~1 km; the
+  caster **relays them** over any range it reaches.
+- **Keyed channels:** set to an encrypted channel (the Light's: THE LIGHT). A captured caster listens in until the
+  channel is re-keyed.
+- **A long message or a relay takes the beat's main thing;** short calls on a bead are free.
+- **A vox-jammer** (grenade or rig: explosives.md) kills it inside its radius.
+- **Worn on the back: a solid hit from behind can smash it** (d6 1-2).
+- **Enemies call for help with it:** an enemy vox man, or
+anyone with a vox-caster, **spends his beat calling** as soon as the fight turns against them (on beat 1 if they
+weren't surprised). **Kill him, put him Down or jam the vox before his beat comes round and no call goes out.** Once
+it's out, **at the start of every beat a d6 5-6 brings reinforcements: a quarter of the starting force** (rounded up),
+from wherever makes sense (the road, the next building, a lander). Killing him after the call doesn't cancel it.
+Surprise (the Light's first beat) means nobody's called yet.
+
 ## Boarding shield
 
 **Boarding shield** (uncommon, 4 TV): a plain slab of plasteel with a grip.

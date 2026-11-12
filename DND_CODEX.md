@@ -1098,6 +1098,8 @@ Who counts as **poor, middle or rich**: poor = cultists, raiders, poor militia; 
 
 **Bosses:** monster bosses and human bosses (commanders with an honour guard) are in `wh40k_gear/bestiary/bosses.md` (set by the player, day 47): templates, the two-boss d6, and a roster from 40k lore.
 
+**Calling for help (day 47):** an enemy vox man (or anyone with a vox-caster) spends his beat calling as soon as the fight turns; stop him before his beat and no call goes out; once out, each beat a d6 5-6 brings **a quarter of the starting force**; killing him afterwards doesn't cancel it (bestiary roles.md, Vox / auspex; catalogue kit.md, Vox-caster). **Played every fight.**
+
 **4. Every big fight has a complication:** at least one of reinforcements (a d6 each beat), a second force arriving, a flank, or a fallback plan already in place.
 
 ### Loot

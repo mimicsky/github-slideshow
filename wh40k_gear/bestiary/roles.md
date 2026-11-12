@@ -291,6 +291,13 @@ Carries a vox, an auspex, or both: the eyes and ears. Calls in help, warns the
 others, stays behind cover more, and only fights when they need to. **Kill them
 first, or more enemies arrive.**
 
+**Calling for help** (set by the player, day 47, after noticing it had never been played): an enemy vox man, or
+anyone with a vox-caster, **spends his beat calling** as soon as the fight turns against them (on beat 1 if they
+weren't surprised). **Kill him, put him Down or jam the vox before his beat comes round and no call goes out.** Once
+it's out, **at the start of every beat a d6 5-6 brings reinforcements: a quarter of the starting force** (rounded up),
+from wherever makes sense (the road, the next building, a lander). Killing him after the call doesn't cancel it.
+Surprise (the Light's first beat) means nobody's called yet.
+
 - **Vox:** can hack into the party's comms and listen in, but can't cut them off.
   If the party talks on comms before the fight, the enemy may already know.
 - **Auspex:** the group **can't be ambushed** while they're on the team. Once the
