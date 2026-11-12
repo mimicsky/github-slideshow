@@ -3883,5 +3883,12 @@
   "cat": "ammo",
   "rarity": "U",
   "sellers": "MBF"
+ },
+ {
+  "name": "Overcharged multi-laser pack (one armour tier harder; lasts 1 string)",
+  "tv": 6,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "AF"
  }
 ]

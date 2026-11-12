@@ -254,6 +254,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Bolt rounds, special](bolt.md#bolt-rounds-special-loads) (Kraken, off-brand, meltacore, storm, vengeance)
 - [Shotgun shells, special](stub.md#shotgun-shells-special-loads) (man-stopper, dragon's breath, hellfire)
 - [Autocannon shells, special](heavy.md#autocannon-shells-special-loads) (flak, penetrator, incendiary HE)
+- [Multi-laser packs, special](heavy.md#multi-laser-packs-special-loads) (overcharged)
 - [Lascannon packs, special](heavy.md#lascannon-packs-special-loads) (Mechanicus, extended, battery)
 - [Heavy stubber belts, special](heavy.md#heavy-stubber-belts-special) (hollow point, inferno, tungsten-core, hellfire)
 - [Brute stubber, 'Kasr Deddog' pattern](heavy.md#brute-stubber-kasr-deddog-pattern) (brutes only, STR 50+)
