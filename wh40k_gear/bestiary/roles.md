@@ -761,3 +761,42 @@ overhead helps** (a roof, not a wall or a parapet). **Smoke rounds:** as smoke g
 first round at a new spot is -2; after a hit, the next on the same spot +2. **Killing it:** find it (Perception,
 the cough of the tube, a spotter's sightline), flank it, or answer it (Six Bells, the ship).
 
+## Role weapons (random kits)
+
+**Set by the player, Ash on Ostrava day 47.** A specialist flips a coin: **preset** (his role's own kit) or **random**.
+On a random kit, **his role's weapon or tool is guaranteed, drawn from his role's list below by the faction's wealth**
+(the same weights as all gear; poor factions never get rares), and **his off weapon is random** (a gun, sidearm or
+melee weapon from his type's lists). Roles that are their kit (Ogryn, herder, heavy team, mortar team, bomb zealot,
+psyker, beast handler, mutant charger) always take the preset. The lists live in
+[`wh40k_gear/role_weapons.py`](../role_weapons.py) and are printed here from it (`python3 role_weapons.py md`).
+
+- **arbitrator:** Combat shotgun, pump, and a shock baton (common); Shock maul and a suppression shield (common); Arbites combat shotgun (shock shells) (uncommon); Web pistol and a shock maul (uncommon); Power maul and a suppression shield (rare)
+- **assassin:** Silenced stub pistol (common); Suppressed autopistol (common); Recurve bow, 'Reedhawk' pattern, and a quiver of metal arrows (common); Service stub pistol, 'Steadfast' pattern, suppressed (common); Suppressed Agripinaa autogun (uncommon); Hunting rifle, 'Kasr Stag' pattern, suppressed, with an old scope (uncommon); Suppressed stamped SMG, 'Munitorum Mk I' pattern (uncommon); Infantry autogun, 'Columnus' pattern, suppressed (uncommon); Needle pistol (uncommon); Compound bow, 'Kasr Talon' pattern, and a quiver of steel arrows (uncommon); Burst pistol, 'Kasr Trice' pattern, suppressed (uncommon); Needle rifle (rare); Suppressed Kasr Warden autogun with a scope (rare); Vraks-pattern sniper autorifle, suppressed (rare); Crossbow-quiet needle pistol (rare)
+- **berserker:** Chainsword (common); Chain axe (common); Heavy scrap axe (common); Saw-cleaver (common); Two chain axes (uncommon); Eviscerator (rare); Great chain axe, 'Butcher' pattern (rare); Power axe (rare)
+- **bodyguard:** Combat shotgun, pump, and a boarding shield (common); Boarding shield and a shock maul (common); Combat shotgun, semi-auto, and a boarding shield (uncommon); Slab shield and a hellpistol (uncommon); Storm shield and a power maul (rare)
+- **breacher:** Combat shotgun, pump, and a breaching charge (common); Pump shotgun, 'Harrow' pattern, and 2 breaching charges (common); Sawn-off shotgun and a breaching charge (common); Combat shotgun, 'Kasr Sweeper' duckbill pattern (uncommon); Tactical breaching axe, 'Kasr Sapper' pattern (uncommon); Lucius-pattern 'Ironclad' shotgun (rare); Bolt-shotgun, 'Breacher' pattern (rare)
+- **brute:** Sledgehammer (common); Heavy scrap axe (common); Two-handed scrap great-axe (common); Trench club and a door for a shield (common); Chain axe (uncommon); Stolen Ogryn ripper gun and a club (rare)
+- **chem-doctor:** Drug satchel: stimms, slaught and Frenzon (common); Syringe spike and a drug satchel (uncommon); Injector stiletto (toxin) and concentrated stimms (rare)
+- **commander:** Chainsword and a command vox (common); Laspistol and a command vox (common); Bolt pistol and a command vox (uncommon); Hellpistol and a command vox (uncommon); Power sword and a command vox (rare); Plasma pistol and a command vox (rare)
+- **demolitions:** 2 breaching charges (common); Mining charges x2 (common); Tin-can bombs x3 (common); Demo satchel and a detonator (uncommon); 3 krak grenades (uncommon); Melta bomb (rare)
+- **duelist:** Naval sabre (common); Chainsword (common); Cutlass and a stub revolver (common); Officer's sabre and a duelling laspistol (uncommon); Paired mono-knife blades (uncommon); Power sword (rare)
+- **enforcer:** Shock maul (common); Shock baton and a stub revolver (common); Combat shotgun, pump (common); Bolt pistol (uncommon); Laspistol and a power maul (rare); Plasma pistol and a chainsword (rare)
+- **fighter pilot:** Flight suit and an autopistol (common); Flight suit and a laspistol (common); Flight suit and a hot-shot laspistol (uncommon)
+- **flamer:** Torch-thrower (scrap flamer) (common); Promethium sprayer (homemade) (common); Hand flamer (uncommon); Flamer, Ryza pattern + 2 canisters (uncommon); Heavy flamer (rare)
+- **grenadier:** Bag of 4 frags (common); Bandolier of 4 frags and 2 smoke (common); Tin-can bombs x4 (common); Cracker bundles x3 and 2 frags (common); Grenade launcher + 6 rounds (uncommon); Grenade launcher with krak and frag (rare)
+- **gunslinger:** Two autopistols (common); Two stub revolvers (common); Two laspistols (common); Two Hammerfall auto-revolvers (uncommon); Two hellpistols (uncommon); Two heavy laspistols (uncommon); Two burst pistols, 'Kasr Trice' pattern (uncommon); Bolt pistol and a duelling laspistol (rare); Two plasma pistols (rare)
+- **heavy gunner:** Heavy stubber (common); Braced autogun with drum (common); Heavy stubber with drum mag (uncommon); Multi-laser, man-portable (uncommon); Las-LMG, 'Kasr Rain' suppression pattern (uncommon); Las-box, 'Kasr Barr' light las-LMG (rare); Heavy bolter, Guard pattern (rare)
+- **icon bearer:** The faction's icon on a pole (common); Defaced regimental colours (uncommon); Daemon-touched icon that whispers (rare)
+- **infiltrator:** the same quiet list as the assassin
+- **jumper:** Scrap jump pack (homemade; sputters on a 1) (common); Stolen grav-chute rigged to hop (common); Boarders' lift pack (uncommon); Guard jump pack (uncommon); Kasrkin-pattern jump pack (rare)
+- **leader:** Chainsword and a command vox (common); Laspistol and a command vox (common); Bolt pistol and a command vox (uncommon); Hellpistol and a command vox (uncommon); Power sword and a command vox (rare); Plasma pistol and a command vox (rare)
+- **mauler:** Heavy scrap axe (common); Two-handed boarding axe (common); Headsman's axe (two-handed) (uncommon); Chain glaive (two-handed) (uncommon); Great chain axe, 'Butcher' pattern (rare); Power axe (two-handed) (rare)
+- **medic:** Med-kit and 3 stimms (common); Field dressings and two stimms (common); Med-kit, antitoxin and 2 stimms (uncommon); Medicae kit and concentrated stimms (rare)
+- **plasma gunner:** Hellgun with hot-shot packs (common); Plasma pistol, Ryza pattern (uncommon); Plasma gun, Mars pattern (slow-filled cell) (uncommon); Plasma gun, Mars pattern (rare); Meltagun (rare); Inferno pistol (rare)
+- **shield trooper:** Boarding shield (common); Riot shield (common); Scrap shield (common); Slab shield (uncommon); Forged shield (uncommon); Storm shield (rare)
+- **sniper:** Scoped lasgun (common); Scoped autogun (common); Hunting rifle, 'Kasr Stag' pattern, with a scope (common); Hunting stub rifle with an old scope (common); Long-las, Mezoa (uncommon); Long-las, 'Kasr Sprinter' stripped pattern (uncommon); Compound bow, 'Kasr Talon' pattern, and a quiver of steel arrows (uncommon); Long-las, Helbore (rare); Vraks-pattern sniper autorifle (rare); Hot-shot long-las with range-finder (rare); Charge long-las, 'Kasr Lance' pattern (rare)
+- **spotter:** Magnoculars (common); Range-finder magnoculars (uncommon); Auspex (uncommon); Vox-caster and range-finder magnoculars (rare)
+- **tech-adept:** Servo-arm and a repair kit (common); Scrap-built auto-turret and a cutting torch (uncommon); Vox jammer and a servo-skull (uncommon); Heavy auto-turret and a servo-arm (rare)
+- **tracker:** Two war dogs on leashes (common); Magnoculars and a hunting rifle (common); Auspex (uncommon); Bio-scanner (rare)
+- **vox:** Vox-caster (common); Vox-caster and an auspex (uncommon); Vox-caster and a spoof-tag (uncommon); Vox jammer (rare)
+- **zealot:** Chainsword (common); Chain axe (common); Flamer-torch (uncommon); Power maul (rare); Eviscerator (rare)
