@@ -110,3 +110,8 @@ every shot after the first is -1; a beat without firing clears it.
 - **Mechanicus melta canister** (rare, 12 TV, DM's price; Mechanicus, Free Traders; **rare in the enemy roll**). The
   player's idea, more damage: **inside ~8 m a hit drops 3 steps** (past that, as standard). **The kick** (-1 on his
   next melta shot). It burns fast: **4 shots, not 6** (a big one: 14 x 4/6 = 9).
+- **Incinerator canister** (rare, 25 TV, DM's price; Mechanicus, black market, Free Traders; **rare in the enemy
+  roll**). The player's idea, armour pen and a lot of damage, the top canister: **inside ~8 m a hit drops 3 steps**;
+  **a hit on a vehicle takes 2 hull points**; it **sets the target alight** and **melts light cover** it hits. **A crit
+  kills the target outright** (no survival roll; the player, day 47). **A bigger kick: -2 on his next melta shot.**
+  **3 shots** (a big one: 7).
