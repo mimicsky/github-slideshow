@@ -1385,10 +1385,11 @@ the entry that comes up in play.
 
 #### Hot-shot conversion
 
-**Hot-shot conversion** (set session 8). Any las weapon can take a hot-shot
-conversion kit: it **hits one step harder** (a lasgun hits like a hellgun), **uses
-ammunition twice as fast**, and a gun that builds heat gains **1 extra heat per
-chain**.
+**Hot-shot conversion** (set session 8; **changed by the player, day 47, audit C14**). Any las weapon that isn't
+already hot-shot can take a hot-shot conversion kit: **it becomes a hellgun-type gun.** It **hits one step harder**
+(a lasgun hits like a hellgun) and **takes only hot-shot packs, used at the normal rate** (30 shots; 40 extended):
+the smaller pack is the cost, so there's **no double drain and no extra heat** (dropped day 47). A smith fits it or
+takes it out in an hour (catalogue las.md, Hot-shot conversion kit).
 
 #### Drop-prone guns
 

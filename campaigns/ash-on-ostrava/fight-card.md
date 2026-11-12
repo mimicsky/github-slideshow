@@ -77,7 +77,7 @@ It is steps 6-9 of the campaign README's Fight checklist in short; steps 1-5 (wh
 ## 8. Heat, packs and fields
 - **Packs:** hot-shot (hellguns, hellpistols, hot-shot conversions) **30 shots**; regular las (lasguns, lascarbines, laspistols) **45**; a pack swap mid-fight is the beat's move (codex, Gear rules: Pack sizes).
 - **Vigil:** crits **17-20**, **each crit +1 heat**; **vent a beat at 3**; firing anyway at 3: d20, **1-5 cracks the coil**; heat clears after venting or at the fight's end (sheet, Full kit, Tamsin; inventory.md, Tamsin's weapons in detail).
-- **Plasma:** **1 heat per 2 shots** in a fight; at **3** it must vent a beat; firing anyway: d20, **1-5 overheats** (bearer Hurt, gun out). **Hot-shot conversion:** one step harder, ammo twice as fast, **+1 heat per chain** on a gun that builds heat (codex, Gear rules: Plasma heat; Hot-shot conversion).
+- **Plasma:** **1 heat per 2 shots** in a fight; at **3** it must vent a beat; firing anyway: d20, **1-5 overheats** (bearer Hurt, gun out). **Hot-shot conversion:** one step harder; **hot-shot packs only, at the normal rate** (30 shots), no extra heat (changed day 47; codex, Gear rules: Hot-shot conversion).
 - Any other gun's heat, string limit and quirks: its own catalogue entry (codex, Gear rules intro).
 - **Refractor field:** light hits (what carapace shrugs) stopped automatically, at most **3 a beat** (a 4th gets through and the field is down 1 beat); heavy hits: d6, **5-6** stopped (codex, Gear rules: Refractor field).
 - **Airborne:** own shots **-2 (the Light -1)**, shots at them **-3**; anyone who shoots at a jumper this beat is open to surprise (+2) from the ground (codex, Gear rules: Airborne).

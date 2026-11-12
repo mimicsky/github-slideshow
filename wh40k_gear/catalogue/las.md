@@ -161,6 +161,14 @@ pack (not hot-shot guns). A poor man's pack: most of the people he shoots wear n
 hard fight he isn't built for** (the player). On the [attachment sheet](attachments.md#the-rollable-list) (common, so
 poor factions roll it most).
 
+## Hot-shot conversion kit
+
+**Hot-shot conversion kit** (rare, 5 TV; Munitorum, Mechanicus, Free Traders; entry written with the player, Ash on
+Ostrava day 47, audit C14). For any las gun that isn't already hot-shot: **it becomes a hellgun-type gun.** It **hits
+one step harder** (a lasgun hits like a hellgun) and **takes only hot-shot packs** (standard 30 or Mechanicus),
+**used at the normal rate;** regular las packs no longer fit. **No extra heat.** A smith fits it in an hour; taking it
+out (back to las packs) is another hour. Rule: codex Part 8, Gear rules, Hot-shot conversion.
+
 ## Hot-shot pack, Mechanicus pattern
 
 **Hot-shot pack, Mechanicus pattern** (uncommon, 3 TV; Mechanicus, Free Traders; **rare in the enemy roll**; rule
@@ -173,4 +181,4 @@ not 30.** On the [attachment sheet](attachments.md#the-rollable-list) as a speci
 
 **Extended hot-shot pack** (uncommon, 1.5 TV; Munitorum, Free Traders; player pick, Ash on Ostrava day 35).
 A longer hot-shot pack: **40 shots instead of 30**, same punch. Fits anything that takes a hot-shot pack
-(hellguns, hellpistols, hot-shot conversions). A converted gun still drinks it twice as fast (~20 shots).
+(hellguns, hellpistols, hot-shot conversions). A converted gun uses it at the normal rate: **40 shots** (changed day 47).
