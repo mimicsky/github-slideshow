@@ -207,3 +207,18 @@ by the player, day 47).
 standard frag, krak and smoke too). Enemies' alike. **Owned in Ash on Ostrava:** every frag, krak and smoke the Light
 carry (Tamsin's 3 frags and smoke, Hollis's frags, Tavi's kraks; Six Bells' rounds are launched, not cooked).
 
+## Throw
+
+**Knives, hatchets and other light blades not made for throwing** (set by the player, day 47; real throwing knives
+and the [Fan throw](melee.md) keep their own rules).
+- **Throw the melee weapon** out to ~10 m: **d20 + DEX at -2** (it isn't balanced for it).
+- **It hits like the blade does**, and **STR 50+ still drives it a step further** (thrown weapons count: codex
+  Part 8, Strength behind the blow).
+- **Then it's gone:** it lies where it landed until someone picks it up; he's empty-handed of it.
+- Cooldown: 3 beats, like every ability.
+
+**Items with it:** **every light blade** in [melee.md](melee.md) (said once at the top of that file): combat knives,
+mono-knives, power knives, chain knives, shanks, hatchets and hand axes. Enemies' alike. **Owned in Ash on Ostrava:**
+Tamsin's scorched-tip knife, Kell's Schola fighting knife, Varga's power knife, Brenner's mono-knife, Tey's chain knives
+and every other knife on the campaign sheet.
+
