@@ -59,10 +59,9 @@ All of **Part A** and **Part B** is already done on branch `claude/intelligent-m
 ## Part C: Found but NOT fixed yet
 
 **Catalogue**
-1. **Heavy stub punch is inconsistent.**
-   - Macragge pistol (`stub.md`): through carapace on a solid hit.
-   - Orlock heavy SMG: through carapace only on a raw 19-20.
-   - Pick one rule.
+1. ~~**Heavy stub punch is inconsistent.**~~ **FIXED (day 47):** one rule for the round in every gun (the player: the
+   bullet does the job): through flak on any hit, carapace only on a crit. The Orlock and the Macragge both use it; the
+   Macragge stands out by its make and look.
 2. **Needlespine blaster** (`assassinorum.md`, legendary, 140 TV) is about a needle rifle +2.
 3. **Needle SMG** (`stub.md`) is legendary but only ~40 TV. It's Assassinorum gear but not filed in `assassinorum.md`.
 4. **Psyker overload grenade** (`explosives.md`): friendly psykers roll d20 + CON, enemies a flat d20. The codex says enemies roll CON saves as d20 + STR bonus.
