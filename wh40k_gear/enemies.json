@@ -2452,6 +2452,10 @@
     "C"
    ],
    [
+    "Holdout stub pistol, 'Cutpurse' pattern",
+    "C"
+   ],
+   [
     "Combat shotgun, pump",
     "C"
    ],
@@ -2507,6 +2511,10 @@
   "melee": [
    [
     "Farm tool: pitchfork, sickle or billhook",
+    "C"
+   ],
+   [
+    "Kitchen steak knife",
     "C"
    ],
    [
@@ -2575,6 +2583,14 @@
    ],
    [
     "Fire bottle (scrap)",
+    "C"
+   ],
+   [
+    "Cracker bundle (firecracker flashbang)",
+    "C"
+   ],
+   [
+    "Tin-can bomb (scrap)",
     "C"
    ],
    [

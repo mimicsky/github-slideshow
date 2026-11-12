@@ -29,7 +29,7 @@ HAND = SIGHT  # guns a hand holds and a grip sleeve fits
 # Melee (day 47): ch chain, pw power, bl edged blade, bt blunt, sh shield.
 MELEE = {"ch", "pw", "bl", "bt"}
 STUBCAL = r"(?<!auto-)revolver|stub pistol|stub automatic|hand cannon|lever|hunting stub|stub rifle|boarding pistol"
-AUTOCAL = r"autogun|autopistol|autorifle|auto-revolver|hammerfall|submachine|rattler|machine pistol|chain-fed|kasr stag"
+AUTOCAL = r"autogun|autopistol|autorifle|auto-revolver|hammerfall|submachine|rattler|machine pistol|chain-fed|kasr stag|burst pistol"
 NAMES = {"lp": "las pistols", "lr": "las rifles", "sp": "stub pistols", "smg": "SMGs", "sr": "autoguns and stub rifles",
          "sg": "shotguns", "bp": "bolt pistols", "br": "boltguns", "pp": "plasma pistols", "pg": "plasma guns",
          "np": "needle pistols", "nr": "needle rifles", "hf": "hand flamers", "fl": "flamers", "hs": "heavy stubbers",
@@ -49,6 +49,7 @@ A = [
  ("rangef", "Range-finder sight", "R", "optic", RIFLE, None, None, 0, "+1 past ~30 m", K + "range-finder-sight"),
  ("offset", "Offset backup sight", "U", "optic2", RIFLE, None, "scope", 0, "cancels the scope's close penalty; -1 quick-draw", MORE),
  ("laser", "Laser sight", "U", "laser", SIGHT, None, None, 0, "+1 hip inside ~20 m, or +1 after a swap inside ~30 m (not both); the beam shows", K + "laser-sight-under-mount-lumen-or-both"),
+ ("tapedlight", "Taped flashlight", "C", "tape", SIGHT | {"hs", "hf", "fl"}, None, None, 0, "a lumen on any gun, slot or not; the beat's move to flick on or off; in a face inside ~5 m in the dark: -2 on their next roll", K + "taped-flashlight"),
  ("lumen", "Under-mount lumen", "C", "laser", SIGHT | {"hs", "fl"}, None, None, 0, "no darkness penalty in the beam; he's lit up too", K + "laser-sight-under-mount-lumen-or-both"),
  ("combo", "Laser and lumen combo", "U", "laser", SIGHT, None, None, 0, "both, switched on alone or together", K + "laser-sight-under-mount-lumen-or-both"),
  ("match", "Match trigger", "U", "trigger", PIST | RIFLE | {"smg", "sg"}, None, None, 0, "+1 aimed; -1 hip/snap", MORE),
@@ -208,7 +209,8 @@ NOT_ROLLED = [
 ]
 
 # Guns with limited attachment slots (day 47): only these slots roll (special ammo always can).
-SLOTLIMIT = [(re.compile(r"farmer's pump|three-shooter|harrow|trinity"), {"load"}), (re.compile(r"service stub pistol|steadfast"), {"load", "muzzle"})]
+SLOTLIMIT = [(re.compile(r"farmer's pump|three-shooter|harrow|trinity|holdout|cutpurse"), {"load", "tape"}),
+             (re.compile(r"service stub pistol|steadfast"), {"load", "muzzle", "tape"})]  # tape needs no slot
 SKIP = re.compile(r"web pistol|bolt-pipe|rivet gun|harpoon|turret|gauntlet|hellstrike|flare|^'")
 TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b"), ("pp", r"plasma pistol"), ("pg", r"plasma gun"), ("bp", r"bolt pistol"),
          ("hv", r"heavy bolter|autocannon|lascannon|multi-laser"), ("hs", r"heavy stubber"), ("br", r"boltgun"),
@@ -216,7 +218,7 @@ TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b"), ("pp", r"p
          ("gl", r"grenade launcher"), ("mo", r"mortar"), ("np", r"needle pistol"), ("nr", r"needle rifle"),
          ("lr", r"shotlas"), ("smg", r"submachine|machine pistol|rattler|\bsmg\b|chain-fed autopistol"),
          ("lp", r"laspistol|las pistol|hellpistol"),
-         ("sp", r"autopistol|revolver|stub pistol|stub automatic|hand cannon|boarding pistol|hammerfall|pipe pistol|three-shooter"),
+         ("sp", r"autopistol|revolver|stub pistol|stub automatic|hand cannon|boarding pistol|hammerfall|pipe pistol|three-shooter|burst pistol"),
          ("sg", r"shotgun|sawn-off|scattergun|nailer|ripper gun"),
          ("lr", r"lasgun|lascarbine|hellgun|long-las|las-box|las-lmg|volley gun|battery las"),
          ("sr", r"autogun|autorifle|stub rifle|lever-action|pipe rifle|hunting rifle")]

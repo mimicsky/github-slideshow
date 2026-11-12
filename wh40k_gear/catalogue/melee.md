@@ -9,6 +9,16 @@ Item rules for this category. General rules (heat, hot-shot, drop-prone, going D
 **Hive shank** (common, 0.1 TV): a scrap knife anyone can make in minutes, no
 roll. Breaks on a natural 1.
 
+## Kitchen steak knife
+
+**Kitchen steak knife** (common, 0.05 TV; any market, any kitchen; the player's design, Ash on Ostrava day 47).
+Someone grabbed it from a drawer: a good knife, a light blade (**chains of 3**), no penalty, but **it can't get
+through any armour** (flak and up shrug it). **It bends:** a hit on armour, d6 1-2, it bends: **-1 on its attacks**
+until it's straightened (a minute out of a fight). **It dulls:** after **5 hits** (armour or flesh) it only drops a
+step on a **solid hit** until it's sharpened (a whetstone, or a few minutes on a step). A kitchen knife.
+
+**Abilities:** [Heavy Attack](abilities.md#heavy-attack), [Throw](abilities.md#throw) (light blade).
+
 ## Pipe pick (scrap war pick)
 
 **Abilities:** [Wide Slash](abilities.md#wide-slash).

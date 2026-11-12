@@ -250,6 +250,13 @@ add("bow","U","BF",[("Compound bow, 'Kasr Talon' pattern (STR 30+; strings of 1;
 add("kit","C","BF",[("Quiver (20 arrows)",0.25)])
 add("ammo","C","BF",[("Scrap arrows (5; break on any armour; made from scrap)",0.05),("Metal arrows (10; dent flak; can break on carapace)",0.25)])
 add("ammo","U","BF",[("Steel arrows (10; through flak; dent carapace)",0.5)])
+# Day 47: the player's street gear (burst pistol, derringer, tin-can bomb, cracker bundle, steak knife, taped flashlight).
+add("stub","U","MBF",[("Burst pistol, \'Kasr Trice\' pattern (3-round bursts; 15-round mag; full slots)",2)])
+add("stub","C","B",[("Holdout stub pistol, \'Cutpurse\' pattern (derringer: one round, +3 to hide)",0.25)])
+add("explosive","C","B",[("Tin-can bomb (light it; ~3 m weak frag; never duds, the timing\'s off)",0.1)])
+add("explosive","C","B",[("Cracker bundle (firecracker flashbang: -2 within ~4 m; duds on 1-2)",0.1)])
+add("melee","C","MB",[("Kitchen steak knife (no armour; bends, dulls after 5 hits)",0.05)])
+add("mod","C","MB",[("Taped flashlight (a lumen on any gun; the beat\'s move to flick)",0.1)])
 # Day 47: the las eco pack (the player's idea). Rules in catalogue/las.md.
 add("ammo","C","MBF",[("Las eco pack (120 shots; weaker: flak shrugs it past ~15 m)",0.5)])
 # Day 47: off-brand bolt rounds (the player's idea). Rules in catalogue/bolt.md.
@@ -407,7 +414,7 @@ E["traitor"] = {
 }
 # Commoners (player-set, Ash on Ostrava day 45): a militia of ordinary people. Rules in bestiary/commoners.md.
 E["commoner"] = {
-  "weapon": [("Pipe rifle (scrap)","C"),("Junk shotgun (scrap double-pipe)","C"),("Stub revolver","C"),("Combat shotgun, pump","C"),("Pump shotgun, \'Harrow\' pattern","C"),("Service stub pistol, \'Steadfast\' pattern","C"),("Pocket revolver, \'Trinity\' pattern","C"),("Hunting rifle, \'Kasr Stag\' pattern","C"),
+  "weapon": [("Pipe rifle (scrap)","C"),("Junk shotgun (scrap double-pipe)","C"),("Stub revolver","C"),("Combat shotgun, pump","C"),("Pump shotgun, \'Harrow\' pattern","C"),("Service stub pistol, \'Steadfast\' pattern","C"),("Pocket revolver, \'Trinity\' pattern","C"),("Holdout stub pistol, \'Cutpurse\' pattern","C"),("Hunting rifle, \'Kasr Stag\' pattern","C"),
              ("Hunting stub rifle (old, iron sights)","C"),("Sawn-off shotgun","C"),
              ("Autogun, Agripinaa (old militia issue)","U"),("Stamped submachine gun, 'Munitorum Mk I' pattern","U"),("Lever-action stub rifle, 'Kasr Frontier' pattern","U"),("Hunting stub rifle with an old scope","U"),
              ("Lasgun, Lucius No.98 (PDF surplus)","R"),("Submachine gun, 'Kasr Locust' pattern","R")],

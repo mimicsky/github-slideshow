@@ -112,6 +112,8 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 
 ## [Explosives, mines and grenades](explosives.md)
 
+- [Tin-can bomb](explosives.md#tin-can-bomb-scrap) (light it; never duds; the timing's off)
+- [Cracker bundle](explosives.md#cracker-bundle-firecracker-flashbang) (firecracker flashbang; can dud)
 - [Plasma tripwire mine](explosives.md#plasma-tripwire-mine)
 - [Air-frag 'blender' grenade](explosives.md#air-frag-blender-grenade)
 - [Thrown demo satchel](explosives.md#thrown-demo-satchel)
@@ -130,6 +132,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 
 ## [Melee weapons](melee.md)
 
+- [Kitchen steak knife](melee.md#kitchen-steak-knife) (no armour; bends and dulls)
 - [Hive shank](melee.md#hive-shank)
 - [Pipe pick (scrap war pick)](melee.md#pipe-pick-scrap-war-pick)
 - [Railroad spike knife](melee.md#railroad-spike-knife)
@@ -218,7 +221,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Augmetic eyes](kit.md#augmetic-eyes): [basic](kit.md#basic-augmetic-eye), [bionic](kit.md#bionic-eye), [sensor](kit.md#sensor-eye), [shooting](kit.md#shooting-eye), [commissar](kit.md#commissar-eye), [champion](kit.md#champion-eye) (exotic)
 - [Helm pict-capture](kit.md#helm-pict-capture)
 - **[The attachment sheet](attachments.md)** (day 47): enemy attachment chances by wealth, the rollable list, and the Light's **custom builds** (Custom, not traditional: no trader carries them).
-- [Pistol and gun attachments](kit.md#pistol-and-gun-attachments-player-designs-ash-on-ostrava-session-10): [pressure-pin safety](kit.md#pressure-pin-safety-hair-triggers), [pistol drums](kit.md#pistol-drums), [laser / lumen / combo](kit.md#laser-sight-under-mount-lumen-or-both), [pistol reflex sight](kit.md#pistol-reflex-sight), [holo sight](kit.md#holo-sight), [heartbeat scanner](kit.md#heartbeat-scanner-side-rail-screen), [blacklight tracking visor](kit.md#blacklight-tracking-visor), [arc calculator](kit.md#arc-calculator-launcher-sight), [ergo grip sleeve](kit.md#ergo-grip-sleeve), [foregrips](kit.md#foregrips-under-barrel-slot), [muzzles: silencer, suppressor, brake, compensator](kit.md#muzzles), [rifle stocks](kit.md#rifle-stocks-autogun-lasgun-stub-rifle), [custom barrel](kit.md#custom-barrel-stub-pistols-and-smgs-barrel-slot), [more attachments: hair trigger, match trigger, telescopic, low-light, bipod, folding stock, extended mag, weighted grip, flash hider](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10), [repeater crystal](kit.md#repeater-crystal), [las auto-fire crystal](kit.md#las-auto-fire-crystal), [sweep emitter](kit.md#sweep-emitter)
+- [Pistol and gun attachments](kit.md#pistol-and-gun-attachments-player-designs-ash-on-ostrava-session-10): [pressure-pin safety](kit.md#pressure-pin-safety-hair-triggers), [pistol drums](kit.md#pistol-drums), [laser / lumen / combo](kit.md#laser-sight-under-mount-lumen-or-both), [pistol reflex sight](kit.md#pistol-reflex-sight), [holo sight](kit.md#holo-sight), [heartbeat scanner](kit.md#heartbeat-scanner-side-rail-screen), [blacklight tracking visor](kit.md#blacklight-tracking-visor), [arc calculator](kit.md#arc-calculator-launcher-sight), [ergo grip sleeve](kit.md#ergo-grip-sleeve), [foregrips](kit.md#foregrips-under-barrel-slot), [muzzles: silencer, suppressor, brake, compensator](kit.md#muzzles), [rifle stocks](kit.md#rifle-stocks-autogun-lasgun-stub-rifle), [custom barrel](kit.md#custom-barrel-stub-pistols-and-smgs-barrel-slot), [more attachments: hair trigger, match trigger, telescopic, low-light, bipod, folding stock, extended mag, weighted grip, flash hider](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10), [repeater crystal](kit.md#repeater-crystal), [las auto-fire crystal](kit.md#las-auto-fire-crystal), [sweep emitter](kit.md#sweep-emitter), [taped flashlight](kit.md#taped-flashlight)
 
 ## [Drugs and servo-skulls](drugs.md)
 
@@ -259,6 +262,8 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Heavy stubber](heavy.md#heavy-stubber)
 - [Flamer tanks and fuels, special](scrap.md#flamer-tanks-and-fuels-special-loads) (big tank, sulphur, thermite, cut phosphex)
 - [Bolt rounds, special](bolt.md#bolt-rounds-special-loads) (Kraken, off-brand, meltacore, storm, vengeance)
+- [Burst pistol, 'Kasr Trice' pattern](stub.md#burst-pistol-kasr-trice-pattern) (3-round bursts, 15 rounds, full slots)
+- [Holdout stub pistol, 'Cutpurse' pattern](stub.md#holdout-stub-pistol-cutpurse-pattern) (a derringer: one round, +3 to hide)
 - [Hunting rifle, 'Kasr Stag' pattern](stub.md#hunting-rifle-kasr-stag-pattern) (bolt action, autogun rounds)
 - [Pocket revolver, 'Trinity' pattern](stub.md#pocket-revolver-trinity-pattern) (tiny 3-shot revolver; +2 to hide)
 - [Service stub pistol, 'Steadfast' pattern](stub.md#service-stub-pistol-steadfast-pattern) (12 rounds; threaded barrel only)

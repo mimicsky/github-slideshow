@@ -517,6 +517,14 @@ rule: **no hit bonuses in the string**, misses still -1. **Heat: strings of 8+ b
 the same place as a [repeater crystal](#repeater-crystal): one or the other. On the
 [attachment sheet](attachments.md#the-rollable-list).
 
+### Taped flashlight
+
+**Taped flashlight** (common, 0.1 TV; any lumen and a roll of tape; the player's design, Ash on Ostrava day 47). A
+flashlight or any light taped to a gun. **Tape needs no slot: it goes on anything**, even a gun with no attachment
+slots. Works as a [lumen](#laser-sight-under-mount-lumen-or-both): **no darkness penalty in the beam**, and he's lit
+up too. **Clunky and wobbly: flicking it on or off takes the beat's move.** **Shone in someone's face in the dark
+(inside ~5 m): -2 on their next roll** (blinded).
+
 ### Sweep emitter
 
 **Sweep emitter** (uncommon, 5 TV, DM's price; Munitorum, Mechanicus, Free Traders; Ash on Ostrava day 47, the

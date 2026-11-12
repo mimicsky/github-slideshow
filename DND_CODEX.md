@@ -1023,7 +1023,13 @@ ladder a hit moves you.
 
   **Still wear it down** at the normal rate (power armour every 10): hellguns, hot-shot, heavy stubbers, chain
   weapons. **Armour-piercing loads** (AP, CAP, man-stopper shells, shard darts) count like hellguns here: they can
-  wear down ceramite-forged, not power armour. Bolters, plasma, melta, power weapons and kraks already get through. Enough hellgun
+  wear down ceramite-forged, not power armour. Bolters, plasma, melta, power weapons and kraks already get through.
+- **Shooting for the gaps (set by the player, Ash on Ostrava day 47).** **Enemies who know their guns can't get through
+  someone's armour aim for what isn't covered:** legs, arms, gaps between plates, an unarmoured spot. (They know it
+  once they've seen their hits shrugged, or from what they've been told.) **A called shot at a weak spot is a small
+  target: +2 to the hidden number;** a hit lands on **whatever covers that spot** (often flak or nothing: a carapace
+  chest plate doesn't cover the legs). **The face only on a crit** (a headshot: as any crit, it gets through). Anyone
+  can make the same call, the Light included. Enough hellgun
   shots will hurt even a man in power armour.
 
 Armour takes damage and the DM says when it is failing.
@@ -1077,7 +1083,7 @@ Who counts as **poor, middle or rich**: poor = cultists, raiders, poor militia; 
 
 **Places keep their mission type.** A place (a compound, a hive block, a ship) is set as one mission type and keeps it whoever comes: going into a regular-battle compound alone doesn't empty it; that's a stealth or assassination job, not a stand-up fight. **Encounters away from a place** (a patrol on the road, a pursuit, an ambush) get their own mission type from the situation (a patrol is usually small; an ambush the enemy planned is sized for what they mean to kill).
 
-**2. The enemy plays chess with Tamsin.** Their commander reads what the Light does each beat and answers it: shifts fire, flanks, falls back to a strongpoint, calls reinforcements on the vox, releases what they're holding (walkers, beasts), goes for the Light's medic and commander, suppresses, **and uses its gear abilities when they fit** (`wh40k_gear/catalogue/abilities.md`). **Surprise buys the Light one beat, not the fight:** from the next beat, they fight back with a plan.
+**2. The enemy plays chess with Tamsin.** Their commander reads what the Light does each beat and answers it: shifts fire, flanks, falls back to a strongpoint, calls reinforcements on the vox, releases what they're holding (walkers, beasts), goes for the Light's medic and commander, suppresses, **and uses its gear abilities when they fit** (`wh40k_gear/catalogue/abilities.md`); **when their guns can't get through someone's armour, they shoot for the gaps** (legs, arms, unarmoured spots; the face only on a crit: Armour, Shooting for the gaps). **Surprise buys the Light one beat, not the fight:** from the next beat, they fight back with a plan.
 
 **3. They play for their lives.** **Everyone fights from cover** and moves cover to cover; nobody stands in the open unless they're charging or forced out. **Leaders and specialists stay back**, behind cover and bodyguards, and don't fall first unless the Light earns it (a bluff that draws them out, a flank, a sniper). They use every asset as soon as it makes sense.
 

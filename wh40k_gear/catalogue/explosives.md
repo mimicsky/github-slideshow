@@ -118,6 +118,22 @@ becomes the normal effect; normal becomes -1 for 1 beat). **The thrower's side**
 outside the room or looking away, or it takes them too. A **natural 1 on the throw** bursts
 it at the thrower's feet.
 
+## Tin-can bomb (scrap)
+
+**Tin-can bomb** (common, 0.1 TV; black market; the player's design, Ash on Ostrava day 47; anyone makes one in minutes
+from a can, gunpowder and a fuse). **Light the fuse yourself** (it needs a flame: lighting it is the beat's move),
+then throw it. **It never duds.** A weak frag: **everyone within ~3 m makes a dive roll (DEX) or drops a step; flak and
+heavier shrug it.** **The timing is off:** a d6 when it lands: **1-2 early** (it bursts ~3 m short, back toward the
+thrower); **3-4 on time**; **5-6 late** (a beat later: everyone near it dives at +2, or it can be kicked or thrown back).
+Not a pin grenade: no [Cook Off](abilities.md#cook-off).
+
+## Cracker bundle (firecracker flashbang)
+
+**Cracker bundle** (common, 0.1 TV; black market, festival stalls; the player's design, Ash on Ostrava day 47): four
+firecrackers taped together on one fuse. **Light it** (the beat's move) **and throw it:** it flashes and bangs, and
+**everyone within ~4 m facing it is disoriented: -2 on their next roll.** **It can dud: a d6 1-2 and it fizzles.** No
+damage. No [Cook Off](abilities.md#cook-off) (a fuse, not a pin).
+
 ## Fire bottle (scrap)
 
 **Fire bottle** (common, 0.1 TV; black market; player design, Ash on Ostrava day 44; anyone makes one in

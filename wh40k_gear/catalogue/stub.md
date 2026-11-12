@@ -263,6 +263,24 @@ flak up close, carapace only on a solid hit). Tough: it can be swung as a club a
 is never damaged by a drop or fall.
 
 
+## Burst pistol, 'Kasr Trice' pattern
+
+**Burst pistol, 'Kasr Trice' pattern** (uncommon, 2 TV, DM's price; Munitorum, black market, Free Traders; the player's
+design, Ash on Ostrava day 47). An autopistol that fires **3-round bursts**: **a string is one burst of 3, and a miss in
+it costs no -1** (the burst rule, as the Columnus); **recoil 1**. **15-round magazine** (5 bursts). Autopistol punch;
+special auto rounds load. **Full attachment slots.**
+
+**Abilities:** [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
+
+## Holdout stub pistol, 'Cutpurse' pattern
+
+**Holdout stub pistol, 'Cutpurse' pattern** (common, 0.25 TV, DM's price; pawn-stalls, black market; the player's
+design, Ash on Ostrava day 47: a derringer). Palm-sized: **super easy to smuggle (+3 to hide it).** **One round:** it
+loads one and fires one; **reloading is the beat's move** (spare rounds carried loose on him). Big-bore: **hits like a
+stub revolver**; **-2 past ~10 m.** **No attachment slots** (a taped flashlight aside; special stub rounds load).
+
+**Abilities:** [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
+
 ## Hunting rifle, 'Kasr Stag' pattern
 
 **Hunting rifle, 'Kasr Stag' pattern** (common, 1 TV, DM's price; hive and agri-world traders, Munitorum surplus, black

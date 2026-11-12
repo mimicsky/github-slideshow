@@ -3974,5 +3974,47 @@
   "cat": "ammo",
   "rarity": "U",
   "sellers": "BF"
+ },
+ {
+  "name": "Burst pistol, 'Kasr Trice' pattern (3-round bursts; 15-round mag; full slots)",
+  "tv": 2,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Holdout stub pistol, 'Cutpurse' pattern (derringer: one round, +3 to hide)",
+  "tv": 0.25,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Tin-can bomb (light it; ~3 m weak frag; never duds, the timing's off)",
+  "tv": 0.1,
+  "cat": "explosive",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Cracker bundle (firecracker flashbang: -2 within ~4 m; duds on 1-2)",
+  "tv": 0.1,
+  "cat": "explosive",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Kitchen steak knife (no armour; bends, dulls after 5 hits)",
+  "tv": 0.05,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Taped flashlight (a lumen on any gun; the beat's move to flick)",
+  "tv": 0.1,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
  }
 ]
