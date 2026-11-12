@@ -72,7 +72,7 @@ All of **Part A** and **Part B** is already done on branch `claude/intelligent-m
    - **No chain class (light, medium or heavy):** Power falchion and Omnissian power sword (`melee.md`).
    - **No warp-fire effect:** Blaze force sword (`melee.md`).
    - **No shot count:** Sterl las-SMG (`las.md`).
-9. `kit.md` still has escaped apostrophes (`defender\'s`) on the Boarding shield, Storm shield, Slab shield, Makeshift shield and Improvised shield entries.
+9. ~~`kit.md` still has escaped apostrophes~~ **FIXED (day 47).** Was: `kit.md` still has escaped apostrophes (`defender\'s`) on the Boarding shield, Storm shield, Slab shield, Makeshift shield and Improvised shield entries.
 10. **Arbitrator shield** says "+2 to block"; every other shield says "block or parry".
 11. Abilities lines sit sometimes before the entry text and sometimes after. Pick one.
 12. `catalogue/README.md`, "Heavy and vehicle weapons" section, lists flamer fuels, bolt rounds and stub guns and shells. They belong in their own sections.

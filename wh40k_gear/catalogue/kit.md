@@ -7,7 +7,7 @@ Item rules for this category. General rules (heat, hot-shot, drop-prone, going D
 **Abilities:** [Plant](abilities.md#plant).
 
 **Boarding shield** (uncommon, 4 TV): a plain slab of plasteel with a grip.
-**+1 on the defender\'s roll (block or parry), half cover from the front.** Shared shield rules: Codex, Gear rules.
+**+1 on the defender's roll (block or parry), half cover from the front.** Shared shield rules: Codex, Gear rules.
 
 ## Arbitrator shield
 
@@ -22,7 +22,7 @@ pistol through it without giving up the cover.
 **Abilities:** [Plant](abilities.md#plant).
 
 **Storm shield** (rare, 30 TV): a shield with a power field generator.
-**+3 on the defender\'s roll (block or parry), three-quarters cover from the front.**
+**+3 on the defender's roll (block or parry), three-quarters cover from the front.**
 
 ## Compact power shield, 'Praesidium' pattern
 
@@ -45,7 +45,7 @@ see-through power field the size of a riot shield.** Very light: no penalty to c
 **Abilities:** [Plant](abilities.md#plant).
 
 **Slab shield** (enemy only): Ogryn-sized; no human can carry it in a fight.
-**+3 on the defender\'s roll (block or parry), three-quarters cover from the front** for the Ogryn and one
+**+3 on the defender's roll (block or parry), three-quarters cover from the front** for the Ogryn and one
 person standing behind them.
 
 ## Makeshift shield
@@ -53,7 +53,7 @@ person standing behind them.
 **Abilities:** [Plant](abilities.md#plant).
 
 **Makeshift shield** (common, 1 TV; player design): wood and scrap metal nailed
-together. **+1 on the defender\'s roll (block or parry), one-third cover from the front (+1 to the shooter's
+together. **+1 on the defender's roll (block or parry), one-third cover from the front (+1 to the shooter's
 difficulty). Breaks after 2-3 heavy hits:** roll it when the shield is made or
 repaired (d6: 1-3 it takes two, 4-6 three).
 
@@ -101,7 +101,7 @@ with the shield after that.**
 
 **Abilities:** [Plant](abilities.md#plant).
 
-**A door or hatch** (enemy brutes, or anyone strong enough): **+1 on the defender\'s roll (block or parry), half
+**A door or hatch** (enemy brutes, or anyone strong enough): **+1 on the defender's roll (block or parry), half
 cover from the front.** Breaks after 3 heavy hits.
 
 ## Mesh armour
