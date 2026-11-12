@@ -2632,27 +2632,6 @@
   "sellers": "MBF"
  },
  {
-  "name": "Heartbeat scanner, side-rail screen (heartbeats through walls to ~30 m; no surprise while watched)",
-  "tv": 5,
-  "cat": "mod",
-  "rarity": "R",
-  "sellers": "MAF"
- },
- {
-  "name": "Arc calculator, launcher sight (+3 launcher shots past ~30 m, first shot or a repeat on the same spot)",
-  "tv": 4,
-  "cat": "mod",
-  "rarity": "R",
-  "sellers": "MAF"
- },
- {
-  "name": "Blacklight tracking visor (helm; +2 tracking and traces in a ~10 m cone)",
-  "tv": 4,
-  "cat": "gear",
-  "rarity": "R",
-  "sellers": "MAF"
- },
- {
   "name": "Grenade bandolier (+6 grenades ready; half-beat drum reload)",
   "tv": 0.5,
   "cat": "gear",

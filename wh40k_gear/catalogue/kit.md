@@ -152,7 +152,7 @@ knives; 0.75 TV), medium (machine pistols, carbines, swords; 1 TV), large (long 
 
 **Range-finder sight** (rare, 10 TV): **+1 on shooting past ~30 m.** Stacks with
 specialties, not with another sight on the same gun.
-Isk's custom range-finder on Patience is a +2 DM-judged part, campaign sheet.
+Isk's custom range-finder on Patience is a +2 DM-judged part (*Custom, not traditional*: [attachments.md, Custom builds](attachments.md#isks-patience-schematic-7)).
 
 ## Extended magazine kits
 
@@ -389,6 +389,8 @@ played by anyone who holds it.
 
 ## Pistol and gun attachments (player designs, Ash on Ostrava session 10)
 
+**The attachment sheet** ([attachments.md](attachments.md)) lists them all for the roller, how enemies roll them, and the Light's **custom builds** (no trader carries those).
+
 A smith (Dace, or Ferro-Ashe) fits any of these in an hour or two at the bench.
 
 ### Pressure-pin safety (hair triggers)
@@ -435,7 +437,7 @@ player, day 36 cleanup). Fits a pistol or a rifle.
 
 ### Heartbeat scanner (side-rail screen)
 
-**Heartbeat scanner** (rare, ~5 TV; player design, Ash on Ostrava day 35). A wide auspex screen on a
+**Heartbeat scanner** (*Custom, not traditional: no trader carries this.* Tamsin's design, Ash on Ostrava day 35, schematic 12; built by the Light's own smiths, parts ~5 TV; [attachments.md, Custom builds](attachments.md#brenners-accatran-schematic-12)). A wide auspex screen on a
 side rail with a 90° hinge. **Folded in:** flat against the gun, screen off. **Folded out:** the screen
 faces the shooter and wakes; flipping it either way costs nothing. It sees **heartbeats only**, through
 walls and decks, out to **~30 m**, and it's **sharper the closer they are**: 20-30 m, a faint blip and a
@@ -446,14 +448,14 @@ dead). **Tell:** the screen glows; in the dark it lights the bearer's face (fold
 
 ### Arc calculator (launcher sight)
 
-**Arc calculator** (rare, ~4 TV; player design, Ash on Ostrava day 35). Two almost invisible lasers, one above
+**Arc calculator** (*Custom, not traditional: no trader carries this.* Tamsin's design, Ash on Ostrava day 35, schematic 16; built by the Light's own smiths, parts ~4 TV; [attachments.md, Custom builds](attachments.md#holliss-six-bells-schematic-16)). Two almost invisible lasers, one above
 a launcher's barrel and one below, feeding a small cogitator that works out the arc. **+3 on launcher shots past
 ~30 m** on the first shot of a string, and on a second shot at the same spot; a shot at a new target has no
 firing solution yet. **Tell:** in smoke or dust the two beams show.
 
 ### Blacklight tracking visor
 
-**Blacklight tracking visor** (rare, ~4 TV; player design, Ash on Ostrava day 35). A clear visor of auspex
+**Blacklight tracking visor** (*Custom, not traditional: no trader carries this.* Tamsin's design, Ash on Ostrava day 35, schematic 14; built by the Light's own smiths, parts ~4 TV; [attachments.md, Custom builds](attachments.md#sorels-hellgun-schematic-14)). A clear visor of auspex
 parts that fits a helm and throws a blacklight scan over a ~10 m cone. Fresh prints, blood, sweat and
 handmarks glow: **+2 on tracking and on finding traces in the scanned area.** **Tell:** the emitter glows
 faint violet in the dark.

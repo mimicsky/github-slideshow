@@ -25,6 +25,10 @@ The DM decides; these are tendencies.
 
 Mini bosses (renamed day 47; real bosses not built yet): monster mini bosses (bullet sponges: 8 stages, 2 actions, a ranged threat, a phase 2) and human bosses (commanders with an honour guard, the best kit, STR and DEX +6 to +10), a roster from 40k lore, and the two-boss roll (set by the player, day 47).
 
+## [Enemy attachments](../catalogue/attachments.md#enemy-attachments)
+
+Each enemy gun rolls a d100 for an attachment by the faction's wealth (poor 20% up to wealthy 50%; special teams +10%; a hit rolls again; it must fit; custom builds are never rolled) (set by the player, day 47).
+
 ## [Vehicles](vehicles.md)
 
 Light vehicles, APCs and tanks: when they show up (by mission type and wealth), hull points, what gets through their armour, the damage d6, and what the Light can answer them with (set by the player, day 47).

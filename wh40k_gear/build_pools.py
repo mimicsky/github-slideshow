@@ -232,10 +232,10 @@ add("mod","R","MAF",[("Underslung grenade launcher (one grenade shot; -1 aimed)"
 add("mod","C","MB",[("Burst limiter (recoil -1; strings max 3)",0.5),("Folding stock (+1 quick-draw; -1 aimed)",1),("Flash hider (no muzzle flash in the dark)",0.5),("Weighted grip (recoil -1; -1 quick-draw)",0.5)])
 add("mod","C","MB",[("Ergo foregrip (+1 first shot only)",1),("Light rifle stock (+2 swap; -1 aimed)",1)])
 add("mod","C","MBF",[("Bipod (+2 aimed braced or prone; a beat to set)",1.5)])
-# Player designs (day 35): holo sight, heartbeat scanner, arc calculator, blacklight tracking visor, grenade bandolier. Rules in catalogue/kit.md.
+# Player designs (day 35): holo sight, grenade bandolier. Rules in catalogue/kit.md.
+# The heartbeat scanner, arc calculator and blacklight tracking visor are CUSTOM (day 47: Tamsin's schematics;
+# no trader carries them): not in the pools. See catalogue/attachments.md, Custom builds.
 add("mod","U","MBF",[("Holo sight (+1 aimed within ~50 m; -1 hip shots)",2.5)])
-add("mod","R","MAF",[("Heartbeat scanner, side-rail screen (heartbeats through walls to ~30 m; no surprise while watched)",5),("Arc calculator, launcher sight (+3 launcher shots past ~30 m, first shot or a repeat on the same spot)",4)])
-add("gear","R","MAF",[("Blacklight tracking visor (helm; +2 tracking and traces in a ~10 m cone)",4)])
 add("gear","C","MBF",[("Grenade bandolier (+6 grenades ready; half-beat drum reload)",0.5)])
 add("mod","U","MBF",[("Extended magazine kit, las or stub (+50% shots)",1.5)])
 add("mod","U","MBF",[("Diamantine whetstone (any edged blade: +1 pierce for the next 2 hits; ~10 uses)",1)])

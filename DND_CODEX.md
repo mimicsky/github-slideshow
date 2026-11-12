@@ -1070,6 +1070,8 @@ Who counts as **poor, middle or rich**: poor = cultists, raiders, poor militia; 
 
 **Vehicles:** light vehicles, APCs and tanks are assets added by mission type and wealth, with hull points and armour only heavy hits get through: `wh40k_gear/bestiary/vehicles.md` (set by the player, day 47). **New roles (day 47):** shield trooper, mauler, mutant charger, mortar team (`roles.md`; the roller hands them out); **the 6th's new units:** poxbursters, pox hounds, tox flamers, and armed walkers (`cultists.md`).
 
+**Enemy attachments** (set by the player, day 47): each enemy gun rolls a d100 for an attachment by wealth (poor 20%, steady 25%, good 30%, rich 40%, wealthy 50%; special teams +10%; a hit rolls again; it must fit the gun; custom builds never): [`wh40k_gear/catalogue/attachments.md`](wh40k_gear/catalogue/attachments.md).
+
 **Bosses:** monster bosses and human bosses (commanders with an honour guard) are in `wh40k_gear/bestiary/bosses.md` (set by the player, day 47): templates, the two-boss d6, and a roster from 40k lore.
 
 **4. Every big fight has a complication:** at least one of reinforcements (a d6 each beat), a second force arriving, a flank, or a fallback plan already in place.
