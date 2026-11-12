@@ -248,6 +248,8 @@ add("ammo","U","BF",[("Sulphur fuel (a can; flamers: +1 step on a hit; choking f
 add("bow","C","BF",[("Recurve bow, 'Reedhawk' pattern (silent; strings of 2; -2 past ~40 m)",0.5)])
 add("bow","U","BF",[("Compound bow, 'Kasr Talon' pattern (STR 30+; strings of 1; arrows a step further; +1 aimed)",2)])
 add("kit","C","BF",[("Quiver (20 arrows)",0.25)])
+add("ammo","C","BF",[("Scrap arrows (5; break on any armour; made from scrap)",0.05),("Metal arrows (10; dent flak; can break on carapace)",0.25)])
+add("ammo","U","BF",[("Steel arrows (10; through flak; dent carapace)",0.5)])
 # Day 47: the las eco pack (the player's idea). Rules in catalogue/las.md.
 add("ammo","C","MBF",[("Las eco pack (120 shots; weaker: flak shrugs it past ~15 m)",0.5)])
 # Day 47: off-brand bolt rounds (the player's idea). Rules in catalogue/bolt.md.

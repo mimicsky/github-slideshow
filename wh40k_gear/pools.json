@@ -3953,5 +3953,26 @@
   "cat": "bow",
   "rarity": "U",
   "sellers": "BF"
+ },
+ {
+  "name": "Scrap arrows (5; break on any armour; made from scrap)",
+  "tv": 0.05,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "BF"
+ },
+ {
+  "name": "Metal arrows (10; dent flak; can break on carapace)",
+  "tv": 0.25,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "BF"
+ },
+ {
+  "name": "Steel arrows (10; through flak; dent carapace)",
+  "tv": 0.5,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "BF"
  }
 ]

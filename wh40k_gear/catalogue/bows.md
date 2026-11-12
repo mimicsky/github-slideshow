@@ -27,3 +27,17 @@ aimed shots**; **-2 past ~60 m.** Silent, no recoil, no attachment slots.
 **Quiver** (common, 0.25 TV; leatherworkers, feral-world traders, Free Traders). Holds **20 arrows**, any mix of
 types; drawing from it is free (it's what the bow's string draws from). Worn on the back or the hip. Without one, an
 archer holds a few arrows in his bow hand: **3 at most**.
+
+## Arrows
+
+(The player's designs, Ash on Ostrava day 47.) **Gets through:** a hit drops a step. **Dents:** the armour shrugs it,
+but it wears the armour down (codex Part 8, Wear-down). **Can break:** a d6 1-3 snaps it (lost). **The bow and the arm
+push an arrow further:** the compound bow and STR 50+ each move it **one armour step** (a steel arrow from a compound
+bow gets through reinforced flak; with STR 50+ too, carapace). Too weak to matter still applies (codex Armour).
+
+| Arrow | Gets through | Dents | Breaks | Rarity, price |
+| --- | --- | --- | --- | --- |
+| **Scrap arrow** | no armour | nothing: flak and up shrug it, **no wear-down** | **always**, on any armour it hits | common; **anyone makes 5 from scrap in a few minutes, no roll** |
+| **Metal arrow** | no armour | flak, reinforced flak | **can break** on carapace and up | common, 0.25 TV for 10 |
+| **Steel arrow** | **flak** | reinforced flak, carapace | **can break** on reinforced flak and up | uncommon, 0.5 TV for 10 |
+
