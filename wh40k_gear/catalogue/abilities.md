@@ -142,6 +142,6 @@ swapping; in melee **a two-handed spear thrust, chains of 2, +1 to strike first*
 
 **Items with it:** [Bayonet](kit.md#bayonet) (any rifle with a lug, a combat knife fixed on one); [Underslung
 chain-bayonet](kit.md#underslung-chain-bayonet) (it thrusts as a chain weapon). **Enemy kits** with a 'bayonet
-(fixed)' have it. **Owned in Ash on Ostrava:** **Vigil**, with Tamsin's combat knife fixed as its bayonet (campaign
-sheet).
+(fixed)' have it. **Owned in Ash on Ostrava:** **Vigil** has a bayonet lug; **Tamsin's scorched-tip combat knife** (the Kasr Holn
+knife) fixes on it when he wants it (fixing or unfixing takes the beat's move, DM default) (campaign sheet).
 
