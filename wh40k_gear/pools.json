@@ -3885,10 +3885,17 @@
   "sellers": "MBF"
  },
  {
-  "name": "Overcharged multi-laser pack (one armour tier harder; lasts 1 string)",
+  "name": "Overcharged multi-laser pack (one armour tier harder; 6 shots)",
   "tv": 6,
   "cat": "ammo",
   "rarity": "R",
   "sellers": "AF"
+ },
+ {
+  "name": "Extended multi-laser pack (36 shots; -1 swapping)",
+  "tv": 4,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MF"
  }
 ]

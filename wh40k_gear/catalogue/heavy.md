@@ -81,17 +81,20 @@ shoulder tube the size of a man, built for an Ogryn, that fires **the Valkyrie's
 
 **Man-portable multi-laser** (rare, 15 TV; Munitorum, Free Traders; rare loot; Ash on Ostrava, day 34, DM
 default; the player may change it). Shot strings **up to 6**; hits like a **hellgun** (through carapace); fires
-**only braced** (no recoil when braced); **a pack lasts 2 strings**. Morcant's (campaign sheet).
+**only braced** (no recoil when braced); **a pack holds 12 shots** (counted as '2 strings' until day 47; the player: shots,
+like every other gun). Morcant's (campaign sheet).
 
 
 ## Multi-laser packs (special loads)
 
 (Written with the player, Ash on Ostrava day 47. A man-portable multi-laser, above: strings up to 6, hellgun hits,
-braced only, **a pack lasts 2 strings**. On the [attachment sheet](attachments.md#the-rollable-list).)
+braced only, **a pack holds 12 shots**. On the [attachment sheet](attachments.md#the-rollable-list).)
 
 - **Overcharged multi-laser pack** (rare, 6 TV, DM's price; Mechanicus, Free Traders; **rare in the enemy roll**).
-  **One armour tier harder:** heavy carapace at any range, ceramite-forged inside ~15 m. It burns out fast: **the pack
-  lasts 1 string, not 2.**
+  **One armour tier harder:** heavy carapace at any range, ceramite-forged inside ~15 m. It burns out fast: **6 shots a
+  pack, not 12.**
+- **Extended multi-laser pack** (uncommon, 4 TV, DM's price; Munitorum, Free Traders). **36 shots, not 12** (the player's
+  '6', read as 6 strings of 6). Heavier: **-1 on swapping.**
 
 ## Valkyrie bolt-rocket pods, pair
 

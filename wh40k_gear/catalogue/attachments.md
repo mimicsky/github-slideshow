@@ -109,7 +109,7 @@ field, hone, spikes, slot, overdrive, motor, teeth, mgrip, mselector.
 | **Mechanicus pattern hot-shot pack** | rare | load | las pistols, las rifles (only: hellgun or hellpistol or hot-shot or volley gun) | one armour tier harder (heavy carapace at any range, ceramite-forged inside ~15 m); 20 shots a pack | [las.md](las.md#hot-shot-pack-mechanicus-pattern) |
 | **Meltacore bolt rounds** | rare | load | bolt pistols, boltguns, heavy weapons (only: bolt) | through a tank's armour from any side; +1 heat a string, vent at 3; +1 recoil | [bolt.md](bolt.md#bolt-rounds-special-loads) |
 | **Off-brand bolt rounds** | common | load | bolt pistols, boltguns, heavy weapons (only: bolt) | heavy carapace and ceramite only on a solid hit; power armour shrugs them; a crit drops just one step | [bolt.md](bolt.md#bolt-rounds-special-loads) |
-| **Overcharged multi-laser pack** | rare | load | heavy weapons (only: multi-laser or multilaser) | one armour tier harder (heavy carapace at any range, ceramite-forged inside ~15 m); the pack lasts 1 string | [heavy.md](heavy.md#multi-laser-packs-special-loads) |
+| **Overcharged multi-laser pack** | rare | load | heavy weapons (only: multi-laser or multilaser) | one armour tier harder (heavy carapace at any range, ceramite-forged inside ~15 m); 6 shots a pack, not 12 | [heavy.md](heavy.md#multi-laser-packs-special-loads) |
 | **Panic darts** | uncommon | load | needle pistols, needle rifles | CON vs 15 or drops what's in hand and runs or hides 2 beats | [stub.md](stub.md#needle-darts-special-loads) |
 | **Penetrator shells (autocannon)** | rare | load | heavy weapons (only: autocannon) | through a tank's side or rear; keeps the extra step on people; +1 recoil | [heavy.md](heavy.md#autocannon-shells-special-loads) |
 | **Shard darts** | rare | load | needle pistols, needle rifles | through carapace on any hit, heavy carapace on a solid hit | [stub.md](stub.md#needle-darts-special-loads) |
@@ -127,6 +127,7 @@ field, hone, spikes, slot, overdrive, motor, teeth, mgrip, mselector.
 | **Extended lascannon pack** | uncommon | mag | heavy weapons (only: lascannon or las-cannon) | 10 shots, not 6; -1 on swapping | [heavy.md](heavy.md#lascannon-packs-special-loads) |
 | **Extended magazine** | common | mag | SMGs, autoguns and stub rifles, las pistols, las rifles, shotguns, stub pistols | +50% shots | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
 | **Extended magazine kit (bolt or plasma)** | rare | mag | bolt pistols, boltguns, plasma guns, plasma pistols | +50% shots | [kit.md](kit.md#extended-magazine-kits) |
+| **Extended multi-laser pack** | uncommon | mag | heavy weapons (only: multi-laser or multilaser) | 36 shots, not 12; -1 on swapping | [heavy.md](heavy.md#multi-laser-packs-special-loads) |
 | **Lascannon battery pack** | uncommon | mag | heavy weapons (only: lascannon or las-cannon) | 40 shots; set down and cabled (the beat's move), the gunner stays within ~3 m; a solid hit on it kills it | [heavy.md](heavy.md#lascannon-packs-special-loads) |
 | **Pistol drum** | uncommon | mag | SMGs, las pistols, stub pistols | twice the shots; no quick-draw holster, -1 quick-draw | [kit.md](kit.md#pistol-drums) |
 | **Tuned plasma cell** | rare | mag | plasma guns, plasma pistols | 12 shots, not 8 | [plasma.md](plasma.md#tuned-plasma-cell) |
