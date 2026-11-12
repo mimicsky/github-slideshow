@@ -42,6 +42,20 @@ cuts the hose or bursts the tank, and the gun is dead for the fight. **Loud and
 hissing:** no stealth. Carried by ex-manufactorum workers, gang breachers and raider
 heavies; everywhere on a hive world.
 
+## Flamer, Ryza pattern
+
+**Flamer, Ryza pattern** (uncommon, 8 TV; Munitorum, Ecclesiarchy, black market, Free Traders; rules written with the
+player, Ash on Ostrava day 47, audit C14). The full flamer: the hand flamer's big brother, fed from a backpack tank.
+- **A ~13 m gout, ~5 m wide at the far end** (the player's numbers). **No roll to hit:** everyone in it is caught;
+  **a DEX dodge (13) throws you clear** if there's somewhere to go.
+- **Caught: drop a step, and you're alight** (next beat, put it out or drop another).
+- **Ignores cover that doesn't close over you.** **Armour up to carapace doesn't help;** heavier armour shrugs the step
+  but still catches fire.
+- **A backpack tank: 6 bursts.** The tank is a target and can burst ([Flamer role](../bestiary/roles.md#flamer)).
+  Fuels and the big tank: [below](#flamer-tanks-and-fuels-special-loads).
+
+**Abilities:** [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun; a gout isn't a string, so it gains nothing).
+
 ## Hand flamer
 
 **Hand flamer** (uncommon, 6 TV; Munitorum, black market, Ecclesiarchy, Free Traders). A one-handed promethium thrower:

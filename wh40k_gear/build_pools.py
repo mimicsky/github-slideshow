@@ -119,7 +119,7 @@ add("plasma","R","AF",[("Plasma blaster, twin-cell 'Lumen' pattern (2 cells; cha
 add("plasma","R","MAF",[("Plasma pistol, 'Needle' pattern (compact, long barrel; slow heat: 1 per 4 shots; 12 shots a cell; lighter punch)",18)])
 add("melta","R","MAFE",[("Meltagun (two steps through any armour inside ~15 m; any vehicle; 6 shots a canister)",35),("Inferno pistol (Sororitas; meltagun hit within 8 m, two steps; 6 shots a canister; heat vents at 2)",40)])
 add("melta","U","MF",[("Melta charge (spare)",5)])
-add("flame","U","MBEF",[("Flamer, Ryza pattern",8),("Hand flamer",6),("Promethium canister",1),("Ecclesiarchy 'cleansing' flamer",9)])
+add("flame","U","MBEF",[("Flamer, Ryza pattern (~13 m gout, ~5 m wide; no roll to hit; 6 bursts a tank)",8),("Hand flamer",6),("Promethium canister",1),("Ecclesiarchy 'cleansing' flamer",9)])
 add("flame","R","MF",[("Heavy flamer",20),("Incinerator (blessed fuel)",25)])
 # --- Launchers / heavy ---
 add("launcher","U","MF",[("Grenade launcher, stand-alone",5),("Grenade launcher, revolver-drum",8)])
