@@ -75,7 +75,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 ## [Bows, quivers and arrows](bows.md)
 
 - [Recurve bow, 'Reedhawk' pattern](bows.md#recurve-bow-reedhawk-pattern) (silent, strings of 2)
-- [Compound bow, 'Kasr Talon' pattern](bows.md#compound-bow-kasr-talon-pattern) (STR 30+; strings of 1; a step further)
+- [Compound bow, 'Kasr Kestrel' pattern](bows.md#compound-bow-kasr-kestrel-pattern) (STR 30+; strings of 1; a step further)
 - [Quiver](bows.md#quiver) (20 arrows)
 - [Arrows](bows.md#arrows) (scrap, metal, steel)
 
@@ -125,7 +125,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Blessed incense grenade (Ecclesiarchy)](explosives.md#blessed-incense-grenade-ecclesiarchy)
 - [Spec flash grenade](explosives.md#spec-flash-grenade)
 - [Fire bottle (scrap)](explosives.md#fire-bottle-scrap)
-- [Sticky vortex grenade (Mechanicus)](explosives.md#sticky-vortex-grenade-mechanicus)
+- [Sticky warp-shock grenade (Mechanicus)](explosives.md#sticky-warp-shock-grenade-mechanicus)
 - [Grenades: throwing and the standard types](explosives.md#grenades-throwing-and-the-standard-types) (frag, impact frag, krak, smoke, photon flash, choke gas)
 - [Grenades and explosives in launchers](explosives.md#grenades-and-explosives-in-launchers) (rule)
 - [Revolver-drum grenade launcher ('Six Bells')](explosives.md#revolver-drum-grenade-launcher-six-bells-holliss)

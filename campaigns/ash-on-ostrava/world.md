@@ -160,7 +160,7 @@ People, places, the ship, Kesh's targets and mission briefs. **Not read on resum
 | **Osric Haddle**, 'the deacon' | Cargo-tally clerk, Thask's lay preacher on Ustrennos | **Taken day 25 on the *Duty of Coin*; in Merrick's cells; DEAD day 29: poisoned in his cell** (trustee Lusk missing). His slate: cracked by Brenner, day 27 |
 | **Marra** | Pilot of the *Duty of Coin* | Cut the engines and talked; in Merrick's processing (her call) |
 | **Dannel Rusk**, **Joren Brisk** | The collector lad and the docker-spotter | **Light Hands** (the Light's ship-crew rank, made by Tamsin ~1006 day 42 after Oculine saw them clean; before that Penitents of the Light; see Current state) |
-| **Pell Rusk** | Dannel's sister, 11, cannery at ~berth 44, Low Quay, Torvane's Mart | **Freed day 34** (the cannery); aboard the *Bright Light* with Dannel |
+| **Pell Rusk** | Dannel's sister, 11, cannery at ~berth 44, Low Quay, Torvane's Mart | **Freed day 34** (the cannery); **lives with Maren in Kesh's house on the Rest** (Aldwyn keeps both; day 42) |
 | **Governor Halden Voke** | Merchant-baron governing Torvane's Mart, tower on the high side, ~300 customs men | 'The till's man'; sells everything. **Dealt with day 34 (~0530):** 8,000 Thrones, 5 plasteel sheets and Thask's eleven years of manifests (now Kesh's evidence) |
 | **Captain Ressa Moll** (she/her) | Captain of Governor Voke's household guard, Torvane's Mart | Held the Spire with the burgundy-coats through the rising; head bandaged; met Tamsin at the blast doors (day 33). Held the gang bosses in her cells for Kesh: **prisoners to Aldwyn day 36** |
 | **Sergeant Pim Dorrow** (he/him) | Militia sergeant holding the vox mast, Torvane's Mart | Eight men left at ~1216 day 33; his man fired on the Light by mistake |
@@ -175,8 +175,19 @@ People, places, the ship, Kesh's targets and mission briefs. **Not read on resum
 | **Sergeant Brann** | Gate Guard sergeant | Captured in Bay Two; **sent to Kesh with Aldwyn, day 14** |
 | **Sergeant Malk Dresh, 'the Gate Captain'** | Nurgle cult leader among the Gate Guard | **Dead**, with his seed |
 | **Orlen Thask** | Cult broker, Torvane's Mart, Low Quay ('Thask & Daughters, Bonded Carriers'), 'speaks for the gardeners'. Nessa's old employer | **Taken alive by Tamsin at berth 31, day 33 ~1553** (bound; surrendered at the Bloom's door). Kesh wanted him alive |
-| **Ilsabet Thask** | Thask's daughter, keeps the books at berth 31; about thirty, spectacles, ink-stained fingers. Burned the newest ledgers before the Light got in | **Taken by Tamsin in the counting room, day 33 ~1600**; in the *Bright Light*'s cells. Asked only whether her sister is alive |
-| **'The Bloom'** (she/her) | Thask's youngest daughter, about to turn twelve at the Harvest Lamps (~day 55). Born kept in a windowless room painted like a garden; never sick a day; her arms scarred from years of blood draws (Thask's notebook: her blood shipped 'with the Tender'). A girl, not a thing | **Taken day 33 ~1555**; in Sallow's care in the *Bright Light*'s medicae. **Her name: Maren** (told to Sallow, day 35). **Day 37: told the truth about Thask by Tamsin; taken under Tamsin's own wing (his ward, 'a real family')** |
+| **Ilsabet Thask** | Thask's daughter, keeps the books at berth 31; about thirty, spectacles, ink-stained fingers. Burned the newest ledgers before the Light got in | **Taken by Tamsin in the counting room, day 33 ~1600**; **handed to Kesh at the Rest, day 41.** Asked only whether her sister is alive |
+| **'The Bloom'** (she/her) | Thask's youngest daughter, about to turn twelve at the Harvest Lamps (~day 55). Born kept in a windowless room painted like a garden; never sick a day; her arms scarred from years of blood draws (Thask's notebook: her blood shipped 'with the Tender'). A girl, not a thing | **Taken day 33 ~1555**; **at the Rest in Kesh's house (with Pell) since day 42**; before that in Sallow's care in the *Bright Light*'s medicae. **Her name: Maren** (told to Sallow, day 35). **Day 37: told the truth about Thask by Tamsin; taken under Tamsin's own wing (his ward, 'a real family')** |
+
+### Gallowmere (days 46-47)
+
+| Who | What | Status |
+| --- | --- | --- |
+| **Governor Ansel Corrow** | Planetary governor; ordered the outbound grain quarantine (day 38) | **A dupe:** his Harvest Lamps address carries the cells' trigger phrase, 'the seed is good'. Tamsin's word to Quint: kept safe |
+| **Under-Secretary Quint** | Corrow's under-secretary and brother-in-law; the garden's man in the governor's house ('Q') | **Taken and broken, day 47**; Cell 1. Tamsin's word: Elin and the children kept safe |
+| **Major Ulric Mordane** | Major of the Moebian 6th; under Wolfer since the turning; shot Colonel Haskane | **Taken at XIV and broken, day 47**; Cell 1 |
+| **Commissar Vosk** | The 6th's commissar at IX | **Taken and broken, day 47**; wants in; **his fate left to Kesh**; in the medicae, restrained |
+| **Tithe-Reeve Osk Varrow** | Kesh's man at the main grain port; honest | Met day 46; stayed at the ground port |
+| **Vael** | Hearthgate port official | Gave the official quarantine story; **not fooled** by the 'Gardener Going'; wardens expected at berth 7 |
 
 ### New crew, Season Two (session 8, rolled openly)
 
@@ -244,7 +255,7 @@ Rolled openly for confirmed (11+) or rumoured, session 8.
 
 | Target | What Kesh has | Status | Warp from the Rest |
 | --- | --- | --- | --- |
-| **Gallowmere** (agri world) | Grain barges coming in rotten; crews sick; a sign like three circles scratched in a hold | Rumoured (8) | ~4 days |
+| **Gallowmere** (agri world) | Grain barges coming in rotten; crews sick; a sign like three circles scratched in a hold | **Active (from day 46):** IX and XIV taken (day 47); the four port cells hit at 1900 day 47; Harvest Lamps ~day 55 | ~4 days |
 | **Ustrennos** (Drachen's old anchorage) | **Done** (session 8): the Spindle taken. Told in book 2, Part One | Done | ~6 days |
 | **Torvane's Mart** (trade asteroid) | Chaos-marked weapons moving through the Mart's warehouses | **Done (session 10):** Thask, Ilsabet and Maren taken (days 33-34); to Kesh at the Rest. The brief and plan were on the campaign sheet's Current state; the haul is in `inventory.md` | ~5 days |
 | **Ostrava Primus underhive** | Dark Mechanicus cell under the reactor district, eight-toothed cog sigil (matches the traitor tech-priest's medallion, session 2); servitors going missing; an Arbites patrol lost | **Confirmed (20):** pict-capture of the cog sigil, a known heretek's name: **Magos Vell-Orrin** | ~6 days |

@@ -183,7 +183,7 @@ The Ustrennos library books went back on day 31; unfinished ones keep only the h
 
 - **Rebreathers for Dannel and Joren** (Tey and Sorel carry gas masks since day 34; the rest of the Light carry their own; added day 33).
 
-- **The hostel roof's rocket tube (day 41, the Rest; the watchers' rocket team, taken with them; never logged till day 47, the player's correction):** a shoulder tube launcher and **3 rockets** (anti-vehicle, krak-type: meant for the Valk on its landing). Not fitted to the Valk: fired from her open door by a crewman. Aboard the Valk with the assault team, day 47.
+- **The hostel roof's rocket tube (day 41, the Rest; the watchers' rocket team, taken with them; never logged till day 47, the player's correction):** a shoulder tube launcher and ~~3 rockets~~ **0 rockets: all 3 fired by Hollis at IX, day 47** (anti-vehicle, krak-type: meant for the Valk on its landing). The empty tube is container stock now, not a wish. Not fitted to the Valk: fired from her open door by a crewman. Aboard the Valk with the assault team, day 47.
 - **Wishlist (on the book crate; pruned day 36):** Morcant drums x4 + compensator; Tavi melta bomb, sapper's charge rig; Hollis command bead, map-slate; Teo pilot glasses; Corvane cutlass when earned; Sallow bigger bag, more SCIHU; Kell spare plasma cell; Brenner servo-skull; Dace a bigger forge (promised with a new ship). **Done:** Varga's eye (day 29); Tey's and Sorel's rebreathers (gas masks, day 34); Nessa's darts (bought day 36) and lock-picks (2 sets kept); Isk's range-finder (schematic 7) and lift-pack core (to Patience; he has the Guard jump pack); Tavi's kraks (2 bought + 2 haul); Tey's holster (schematic 4); Hollis's bandolier (bought day 36; schematic 16); Corvane's quick-draw holster (schematic 11); Kell's Steady spirit blessing (schematic 8); Mira's Valk rockets (bolt-rocket pods ordered); Sorel's rifle (the Cadian hellgun, day 34).
 
 ## Haul, day 47: Complex IX and the Hearthgate round-up (heretic trappings left, per the standing order)
@@ -211,7 +211,7 @@ The Ustrennos library books went back on day 31; unfinished ones keep only the h
 - **The dormitories (Kell):** las packs ~20; 2 crates of autogun rounds; rations; more unsent letters. **The barns:** tithe grain in sacks (unchecked); fuel drums.
 - **The final search (~1252-1318):** **the vox room's log spool (the 6th's cipher: for Brenner)**; **the beds' belongings from the vaults (travel papers and ship's ID discs, among them the *Odran's Purse*'s: evidence for Kesh)**; **60 Thrones**; the Ogryn's chain and collar ring (left).
 - **Left:** defaced regimental insignia, cult trappings.
-- **Still there:** the last hauler from the Ninth (empty) and the Light's stolen hauler; ~140 walkers behind the vault doors.
+- **Still there:** the last hauler from the Ninth (empty) and the Light's stolen hauler.
 
 **Hearthgate round-up (Quay 4, the choir-house, Quint's house):**
 - **Quay 4 (the loaders; guns Neglected):** a pump shotgun and a breaching charge; a scoped autogun and a stub revolver; a silenced stub pistol and a mono-knife; an autopistol; a cleaver and a spiked club; rivet knuckles; a railroad spike knife; 3 frags, a choke gas grenade; 3 doses of slaught; a dose of Frenzon; a gas mask; flak (a set, a vest). **Evidence:** crates of sealed jars, bound for the barges (sealed in the hold). **Left:** cult amulets, a prayer-book; **the cult gas bottle** (Nurgle's gas: sealed as evidence for Kesh, not used).

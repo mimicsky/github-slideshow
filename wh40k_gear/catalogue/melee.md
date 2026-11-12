@@ -213,7 +213,8 @@ natural 1 on the throw cracks the vial. Vials: toxin 1 TV, paralytic 1.5 TV
 
 **Mono-knife** (uncommon, 3 TV; Munitorum, black market, Free Traders; Ash on Ostrava, day 34, DM default; the
 player may change it). A **light** blade (chains 3) with a monomolecular edge: **through flak and mesh on any
-hit, through carapace on a raw 17+**.
+hit, through carapace on a solid hit, heavy carapace on a raw 19-20** (a
+monomolecular edge beats the injector stiletto's thin blade; re-tuned with the player, day 47).
 
 ## Toxin needle-blade
 

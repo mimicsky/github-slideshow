@@ -15,9 +15,9 @@ it is free. **After a fight, each unbroken arrow is found on a d6 4-6.** Bows ha
 A light, fast bow. **Strings of 2** (nock and draw fast). **-2 past ~40 m.** Silent, no recoil, STR 50+ counts (above).
 Feral worlders, poachers and quiet hunters carry it.
 
-## Compound bow, 'Kasr Talon' pattern
+## Compound bow, 'Kasr Kestrel' pattern
 
-**Compound bow, 'Kasr Talon' pattern** (uncommon, 2 TV, DM's price; Free Traders, hunters' outfitters, black market).
+**Compound bow, 'Kasr Kestrel' pattern** (uncommon, 2 TV, DM's price; Free Traders, hunters' outfitters, black market).
 Pulleys and cams: more power and accuracy, less speed. **Needs STR 30+ to draw** (the player, day 47): below that he
 can't use it. **Strings of 1.** **Hits harder: the arrow goes one armour step further** (stacks with STR 50+). **+1 on
 aimed shots**; **-2 past ~60 m.** Silent, no recoil, no attachment slots.
