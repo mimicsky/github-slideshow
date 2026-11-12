@@ -3869,5 +3869,12 @@
   "cat": "ammo",
   "rarity": "U",
   "sellers": "MF"
+ },
+ {
+  "name": "Autocannon penetrator shells (belt; through a tank's side or rear; +1 recoil)",
+  "tv": 8,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "MAF"
  }
 ]

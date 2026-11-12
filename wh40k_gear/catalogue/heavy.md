@@ -105,6 +105,9 @@ shells: 4 TV. Fits autocannons, man-portable or mounted. On the [attachment shee
 - **Flak shells** (uncommon, 4 TV a belt, DM's price; Munitorum, Free Traders). Airburst rounds for fliers and
   jumpers: **shots at an airborne target ignore the -3**, and **a miss by 1-3 still clips him** (bursting near).
   Against ground targets they're weaker: **no extra step on a hit.**
+- **Penetrator shells** (rare, 8 TV a belt, DM's price; Munitorum, Mechanicus, Free Traders; **rare in the enemy
+  roll**). Armour-piercing: **through a tank's armour from the side or rear** (as kraks and plasma; the front still
+  shrugs it). On people it keeps the extra step. Dense rounds: **+1 recoil.**
 
 ## Lascannon packs (special loads)
 

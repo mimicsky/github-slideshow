@@ -112,6 +112,7 @@ A = [
  ("a_extlas", "Extended lascannon pack", "U", "mag", {"hv"}, r"lascannon|las-cannon", None, 0, "10 shots, not 6; -1 on swapping", "heavy.md#lascannon-packs-special-loads"),
  ("a_battlas", "Lascannon battery pack", "U", "mag", {"hv"}, r"lascannon|las-cannon", None, 0, "40 shots; set down and cabled (the beat's move), the gunner stays within ~3 m; a solid hit on it kills it", "heavy.md#lascannon-packs-special-loads"),
  ("a_flak", "Flak shells (autocannon)", "U", "load", {"hv"}, r"autocannon", None, 0, "airborne targets: ignore the -3, a miss by 1-3 still clips; on the ground no extra step", "heavy.md#autocannon-shells-special-loads"),
+ ("a_penetrator", "Penetrator shells (autocannon)", "R", "load", {"hv"}, r"autocannon", None, 0, "through a tank's side or rear; keeps the extra step on people; +1 recoil", "heavy.md#autocannon-shells-special-loads"),
  ("a_manstopper", "Man-stopper shells (armour-piercing slug)", "R", "load", {"sg"}, None, None, 0, "one slug, one target, no spread; flak and reinforced flak don't shrug it; through carapace on a solid hit inside ~15 m", "stub.md#shotgun-shells-special-loads"),
  ("a_dragon", "Dragon's breath shells", "U", "load", {"sg"}, None, None, 0, "shot at, the target is flashed: -1 on his next shot; hit, -2 instead; a hit on a raw 17+ sets him alight", "stub.md#shotgun-shells-special-loads"),
  ("a_hellshell", "Hellfire shells", "R", "load", {"sg"}, None, None, 0, "a hit that gets through: CON save vs 10 or one more step", "stub.md#shotgun-shells-special-loads"),
