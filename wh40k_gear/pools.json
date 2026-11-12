@@ -3729,5 +3729,12 @@
   "cat": "exotic",
   "rarity": "X",
   "sellers": "BFAEM"
+ },
+ {
+  "name": "Repeater crystal, las (strings up to 7; no chain bonuses in the string)",
+  "tv": 8,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "AF"
  }
 ]

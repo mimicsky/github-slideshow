@@ -238,6 +238,8 @@ add("mod","C","MBF",[("Bipod (+2 aimed braced or prone; a beat to set)",1.5)])
 add("mod","U","MBF",[("Holo sight (+1 aimed within ~50 m; -1 hip shots)",2.5)])
 add("gear","C","MBF",[("Grenade bandolier (+6 grenades ready; half-beat drum reload)",0.5)])
 add("mod","U","MBF",[("Extended magazine kit, las or stub (+50% shots)",1.5)])
+# Day 47: the repeater crystal (bought for Brenner's Accatran, schematic 12). Rules in catalogue/kit.md.
+add("mod","R","AF",[("Repeater crystal, las (strings up to 7; no chain bonuses in the string)",8)])
 add("mod","U","MBF",[("Diamantine whetstone (any edged blade: +1 pierce for the next 2 hits; ~10 uses)",1)])
 add("mod","R","MF",[("Underslung chain-bayonet (rifle-mounted chainsword)",10)])
 add("mod","R","MAF",[("Extended magazine kit, bolt or plasma housing (+50% shots)",6),("Range-finder sight (+1 shooting past ~30 m)",10),("Power weapon tuning kit (steadies the field, through power armour on any hit)",12),("Shock-coil kit (any weapon: +1 on your next roll against a target you hit, +2 for heavy weapons; 6 charges a fight)",8)])

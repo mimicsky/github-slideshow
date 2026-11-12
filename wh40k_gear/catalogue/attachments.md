@@ -2,7 +2,7 @@
 
 The Light's attachment sheet (set by the player, Ash on Ostrava day 47). Three parts:
 1. **[Fitted and working](#fitted-and-working-every-attachment)** and **[Enemy attachments](#enemy-attachments):** when one counts, and how enemies roll them.
-2. **[The rollable list](#the-rollable-list):** every traditional attachment and part, for the roller (step 3: being built).
+2. **[The rollable list](#the-rollable-list):** every traditional attachment and custom part an enemy can roll, with its slot and the guns it fits (the roller rolls it).
 3. **[Custom builds](#custom-builds):** every part the Light designed and built themselves. **Custom, not traditional: no
    trader carries these.**
 
@@ -45,8 +45,126 @@ faction's wealth:
 
 ## The rollable list
 
-*(Step 3, next: every traditional attachment and schematic part with its slot and which guns it fits, wired into
-`roll_enemy.py`.)*
+**Set by the player, day 47. The roller rolls it:** `python3 wh40k_gear/roll_enemy.py ...` prints an
+**++ ATTACHMENTS** line under any enemy whose guns got something (the d100s shown). The list lives in
+[`wh40k_gear/attachments.py`](../attachments.py); this table is printed from it (`python3 wh40k_gear/attachments.py md`),
+so the two always match. Each row links to the full entry; **custom rows** link to their gun under
+[Custom builds](#custom-builds) below.
+
+**How a gun rolls:** d100 against the chance above; on a hit, the rarity comes from the faction's wealth (as loot:
+poor C80/U20, steady C70/U25/R5, good C55/U35/R10, rich C40/U45/R15, wealthy C25/U50/R25; **poor never rare**), then
+**one attachment of that rarity that fits the gun and a free slot** (one per slot; a gun's own scope, drum, silencer
+or bayonet already fills its slot). Then roll again. A part that needs another (an offset sight needs a scope, a
+pressure pin needs a hair trigger) only comes once the first is on. **Two guns, two rolls** (a gunslinger's pair, a
+rifle and a sidearm). Melee weapons don't roll.
+
+**Slots:** optic, optic2 (a second sight that rides a scope), laser, trigger, pin, limiter, under (under-barrel),
+bayonet, stock, stockmag, muzzle, mag, grip, sleeve, barrel, coil, action, selector, bolt, slide, igniter, feeder,
+tripod, holster, generator, sling, siderail, counter, vent, arc, tubesel, loader.
+
+| Attachment | Rarity | Slot | Fits | What it does | Full entry |
+| --- | --- | --- | --- | --- | --- |
+| **Repeater crystal** | rare | action | las pistols, las rifles | strings up to 7; no chain bonuses in the string, misses still -1 | [kit.md](kit.md#repeater-crystal) |
+| **Custom barrel** | uncommon | barrel | SMGs, stub pistols | +1 aimed, +1 past ~30 m | [kit.md](kit.md#custom-barrel-stub-pistols-and-smgs-barrel-slot) |
+| **Bayonet (fixed)** | common | bayonet | autoguns and stub rifles, las rifles | a spear thrust in melee: chains 2, +1 to strike first; Bayonet Charge | [kit.md](kit.md#bayonet) |
+| **Underslung chain-bayonet** | rare | bayonet | autoguns and stub rifles, las rifles | fights as a chainsword (-1 block/parry); -1 hip snap shots; Bayonet Charge | [kit.md](kit.md#underslung-chain-bayonet) |
+| **Shock-coil kit** | rare | coil | SMGs, autoguns and stub rifles, bolt pistols, boltguns, heavy stubbers, heavy weapons, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | after a hit, +1 on his next roll against that target (6 charges a fight) | [kit.md](kit.md#shock-coil-kit) |
+| **Weighted grip** | common | grip | SMGs, autoguns and stub rifles, bolt pistols, boltguns, shotguns, stub pistols | recoil -1; -1 quick-draw | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
+| **Laser and lumen combo** | uncommon | laser | SMGs, autoguns and stub rifles, bolt pistols, boltguns, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | both, switched on alone or together | [kit.md](kit.md#laser-sight-under-mount-lumen-or-both) |
+| **Laser sight** | uncommon | laser | SMGs, autoguns and stub rifles, bolt pistols, boltguns, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | +1 hip inside ~20 m, or +1 after a swap inside ~30 m (not both); the beam shows | [kit.md](kit.md#laser-sight-under-mount-lumen-or-both) |
+| **Under-mount lumen** | common | laser | SMGs, autoguns and stub rifles, bolt pistols, boltguns, flamers, heavy stubbers, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | no darkness penalty in the beam; he's lit up too | [kit.md](kit.md#laser-sight-under-mount-lumen-or-both) |
+| **Burst limiter** | common | limiter | SMGs, autoguns and stub rifles, boltguns, heavy stubbers | recoil -1; strings capped at 3 | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
+| **Extended magazine** | common | mag | SMGs, autoguns and stub rifles, las pistols, las rifles, shotguns, stub pistols | +50% shots | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
+| **Extended magazine kit (bolt or plasma)** | rare | mag | bolt pistols, boltguns, plasma guns, plasma pistols | +50% shots | [kit.md](kit.md#extended-magazine-kits) |
+| **Pistol drum** | uncommon | mag | SMGs, las pistols, stub pistols | twice the shots; no quick-draw holster, -1 quick-draw | [kit.md](kit.md#pistol-drums) |
+| **Tuned plasma cell** | rare | mag | plasma guns, plasma pistols | 12 shots, not 8 | [plasma.md](plasma.md#tuned-plasma-cell) |
+| **Compensator** | uncommon | muzzle | SMGs, autoguns and stub rifles, bolt pistols, boltguns, heavy stubbers, shotguns, stub pistols | recoil -2; +1 more after each hit; -1 aimed | [kit.md](kit.md#muzzles) |
+| **Flash hider** | common | muzzle | SMGs, autoguns and stub rifles, bolt pistols, boltguns, heavy stubbers, shotguns, stub pistols | his shots don't give him away in the dark | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
+| **Heavy suppressor** | uncommon | muzzle | SMGs, autoguns and stub rifles, stub pistols | near-silent; recoil -2; -1 quick-draw and swapping; Dirty after ~20 shots | [kit.md](kit.md#muzzles) |
+| **Muzzle brake** | uncommon | muzzle | SMGs, autoguns and stub rifles, bolt pistols, boltguns, heavy stubbers, shotguns, stub pistols | a chain miss costs no -1; the flash places him after his first string | [kit.md](kit.md#muzzles) |
+| **Standard silencer** | uncommon | muzzle | SMGs, autoguns and stub rifles, stub pistols | quieter; recoil -1; -1 quick-draw; Dirty after ~20 shots | [kit.md](kit.md#muzzles) |
+| **Holo sight** | uncommon | optic | SMGs, autoguns and stub rifles, bolt pistols, boltguns, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | +1 aimed inside ~50 m; -1 hip shots | [kit.md](kit.md#holo-sight) |
+| **Low-light optic** | uncommon | optic | SMGs, autoguns and stub rifles, bolt pistols, boltguns, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | no darkness penalty through it; a flash blinds him a beat | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
+| **Range-finder sight** | rare | optic | autoguns and stub rifles, boltguns, las rifles, needle rifles, plasma guns | +1 past ~30 m | [kit.md](kit.md#range-finder-sight) |
+| **Reflex sight** | uncommon | optic | SMGs, autoguns and stub rifles, bolt pistols, boltguns, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | +2 aimed inside ~30 m; -1 past ~30 m | [kit.md](kit.md#pistol-reflex-sight) |
+| **Telescopic sight** | uncommon | optic | autoguns and stub rifles, boltguns, heavy stubbers, las rifles, needle rifles, plasma guns | +2 long shots; -1 hip/snap and inside ~15 m | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
+| **Offset backup sight** | uncommon | optic2 | autoguns and stub rifles, boltguns, las rifles, needle rifles, plasma guns (needs a scope) | cancels the scope's close penalty; -1 quick-draw | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
+| **Pressure-pin safety** | uncommon | pin | SMGs, autoguns and stub rifles, bolt pistols, boltguns, las pistols, las rifles, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols (needs Hair trigger) | the hair trigger isn't drop-prone while pinned | [kit.md](kit.md#pressure-pin-safety-hair-triggers) |
+| **Ergo grip sleeve** | common | sleeve | SMGs, autoguns and stub rifles, bolt pistols, boltguns, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | never slips from his hand; disarms against him -2 | [kit.md](kit.md#ergo-grip-sleeve) |
+| **Folding stock** | common | stock | SMGs, autoguns and stub rifles, las rifles, shotguns | +1 quick-draw; -1 aimed | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
+| **Light rifle stock** | common | stock | autoguns and stub rifles, boltguns, las rifles, shotguns | +2 on swapping; -1 aimed | [kit.md](kit.md#rifle-stocks-autogun-lasgun-stub-rifle) |
+| **Tac rifle stock** | uncommon | stock | autoguns and stub rifles, boltguns, las rifles, shotguns | +1 first shot, +1 aimed; -2 more on swapping | [kit.md](kit.md#rifle-stocks-autogun-lasgun-stub-rifle) |
+| **Hair trigger** | uncommon | trigger | SMGs, autoguns and stub rifles, bolt pistols, boltguns, las pistols, las rifles, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | +1 on the first shot of every string; drop-prone | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
+| **Match trigger** | uncommon | trigger | SMGs, autoguns and stub rifles, bolt pistols, boltguns, las pistols, las rifles, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | +1 aimed; -1 hip/snap | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
+| **Bipod** | common | under | autoguns and stub rifles, boltguns, heavy stubbers, las rifles, needle rifles, plasma guns | +2 aimed braced or prone; a beat to set up | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
+| **Ergo foregrip** | common | under | SMGs, autoguns and stub rifles, boltguns, las rifles, needle rifles, plasma guns, shotguns | +1 on the first shot | [kit.md](kit.md#foregrips-under-barrel-slot) |
+| **Handstop foregrip** | uncommon | under | SMGs, autoguns and stub rifles, boltguns, las rifles, needle rifles, plasma guns, shotguns | +2 on the first shot; swapping costs nothing; -1 aimed | [kit.md](kit.md#foregrips-under-barrel-slot) |
+| **Heavy foregrip** | uncommon | under | SMGs, autoguns and stub rifles, boltguns, las rifles, needle rifles, plasma guns, shotguns | +2 aimed; a chain miss costs -2; -1 more on swapping | [kit.md](kit.md#foregrips-under-barrel-slot) |
+| **Underslung grenade launcher** | rare | under | autoguns and stub rifles, boltguns, las rifles | one grenade shot without swapping; -1 aimed; a beat to reload | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
+| **Underslung shotgun (masterkey)** | uncommon | under | autoguns and stub rifles, boltguns, las rifles | one or two shotgun blasts; -1 aimed | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
+| **New lever linkage** *(Custom)* | uncommon | action | autoguns and stub rifles (only: lever) | single lever chains up to 7, double up to 4; above 6, no hit bonuses | [attachments.md](attachments.md#tamsins-kasr-frontier-schematic-17) |
+| **Plasteel spring and gas-piston trigger** *(Custom)* | rare | action | grenade launchers | 2 grenades a string; the second -1 for the kick | [attachments.md](attachments.md#holliss-six-bells-schematic-16) |
+| **The Super V** *(Custom)* | rare | action | autoguns and stub rifles (only: autogun or columnus) | auto strings up to 12, recoil 0; auto still no hit bonuses | [attachments.md](attachments.md#tamsins-columnus-schematic-18) |
+| **Tuned charger** *(Custom)* | uncommon | action | las pistols, las rifles | strings up to 7; no hit bonuses in the string, misses still -1 | [attachments.md](attachments.md#sallows-carbine-schematic-10) |
+| **Arc calculator** *(Custom)* | rare | arc | grenade launchers, mortars | +3 on launcher shots past ~30 m, the first shot or a repeat on the same spot; the beams show in smoke | [attachments.md](attachments.md#holliss-six-bells-schematic-16) |
+| **Cut-down short barrel** *(Custom)* | common | barrel | autoguns and stub rifles, las rifles | +1 inside ~15 m; -1 past ~30 m | [attachments.md](attachments.md#kells-officer-schematic-8) |
+| **Heavy long barrel** *(Custom)* | common | barrel | autoguns and stub rifles, las rifles, needle rifles | +2 aimed; -1 hip, snap and on the move | [attachments.md](attachments.md#isks-patience-schematic-7) |
+| **Long barrel** *(Custom)* | common | barrel | las rifles | +1 aimed past ~30 m; -1 inside ~5 m | [attachments.md](attachments.md#vargas-mercy-schematic-6) |
+| **Long flamer barrel** *(Custom)* | common | barrel | hand flamers | reach ~10 m; -1 quick-draw | [attachments.md](attachments.md#holliss-hand-flamer-schematic-2) |
+| **Long needle barrel** *(Custom)* | common | barrel | needle pistols | reach ~35 m; +1 aimed; -1 quick-draw | [attachments.md](attachments.md#nessas-needle-pistol-schematic-13) |
+| **Short finned barrel** *(Custom)* | uncommon | barrel | autoguns and stub rifles (only: autogun or columnus) | +1 inside ~10 m, -2 past ~30 m; strings of 8+ build 1 heat, the fins shed 1 when it doesn't fire; -1 swapping | [attachments.md](attachments.md#tamsins-columnus-schematic-18) |
+| **Heavy buffer spring and new bolt** *(Custom)* | common | bolt | SMGs | jams only from the 25th straight round | [attachments.md](attachments.md#stinger-tamsin) |
+| **Light reciprocating parts and plasteel spring** *(Custom)* | common | bolt | heavy stubbers | strings up to 10, no hit bonuses in the string | [attachments.md](attachments.md#morcants-heavy-stubber-schematic-3) |
+| **Helm-linked ammo counter** *(Custom)* | uncommon | counter | SMGs, autoguns and stub rifles, bolt pistols, boltguns, flamers, hand flamers, heavy stubbers, heavy weapons, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | he always knows his count: never caught dry | [attachments.md](attachments.md#sorels-hellgun-schematic-14) |
+| **Open-bolt feeder** *(Custom)* | uncommon | feeder | heavy stubbers | Dirty after ~60 shots; a Dirty stubber doesn't jam | [attachments.md](attachments.md#morcants-heavy-stubber-schematic-3) |
+| **Intensified laser generator** *(Custom)* | rare | generator | las rifles | 3 pack a shot: +1 aimed, through ceramite-forged; a string of 3 adds 1 heat | [attachments.md](attachments.md#isks-patience-schematic-7) |
+| **Angled handguard grip (fitted)** *(Custom)* | common | grip | grenade launchers (needs Plasteel spring and gas-piston trigger) | no -1 on the second grenade | [attachments.md](attachments.md#holliss-six-bells-schematic-16) |
+| **Angled side grip** *(Custom)* | common | grip | heavy stubbers | recoil 1 on the move | [attachments.md](attachments.md#morcants-heavy-stubber-schematic-3) |
+| **Hollow pop-lock grip** *(Custom)* | common | grip | SMGs, autoguns and stub rifles, bolt pistols, boltguns, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | one more stimm or bandage inside | [attachments.md](attachments.md#sallows-carbine-schematic-10) |
+| **Skeleton grip** *(Custom)* | common | grip | autoguns and stub rifles, boltguns, las rifles, needle rifles, plasma guns | no swap penalty; -1 aimed past ~30 m | [attachments.md](attachments.md#kells-officer-schematic-8) |
+| **One-piece crossdraw rig** *(Custom)* | common | holster | bolt pistols, las pistols, needle pistols, plasma pistols, stub pistols | +1 quick-draw | [attachments.md](attachments.md#teys-hellpistol-schematic-4) |
+| **Tuned igniter** *(Custom)* | uncommon | igniter | flamers, hand flamers | the gout opens ~2 m wide at the far end and catches anyone close together | [attachments.md](attachments.md#holliss-hand-flamer-schematic-2) |
+| **Push-loaders** *(Custom)* | common | loader | autoguns and stub rifles, shotguns (only: lever or pump) | refill a tube in the beat's move | [attachments.md](attachments.md#tamsins-kasr-frontier-schematic-17) |
+| **100-round box mags** *(Custom)* | uncommon | mag | autoguns and stub rifles (only: autogun or columnus) | 100 rounds; a loaded box -1 swapping and quick-draw | [attachments.md](attachments.md#tamsins-columnus-schematic-18) |
+| **Bridged double-cell belt pack** *(Custom)* | uncommon | mag | las pistols (only: hellpistol) | 60 shots on the cable | [attachments.md](attachments.md#teys-hellpistol-schematic-4) |
+| **Dual canister cradle** *(Custom)* | uncommon | mag | hand flamers | 8 bursts before a reload | [attachments.md](attachments.md#holliss-hand-flamer-schematic-2) |
+| **Twin feed tray** *(Custom)* | uncommon | mag | heavy stubbers | twice the rounds; two belt types, switched with a lever | [attachments.md](attachments.md#morcants-heavy-stubber-schematic-3) |
+| **Twin side-by-side tubes** *(Custom)* | uncommon | mag | autoguns and stub rifles (only: lever) | 36 rounds; -1 swapping | [attachments.md](attachments.md#tamsins-kasr-frontier-schematic-17) |
+| **Walking plate** *(Custom)* | rare | muzzle | heavy stubbers | one string across up to 3 standing abreast; the swap's -1 once per extra target | [attachments.md](attachments.md#morcants-heavy-stubber-schematic-3) |
+| **Custom long-range scope** *(Custom)* | uncommon | optic | autoguns and stub rifles, boltguns, las rifles, needle rifles, plasma guns | +2 aimed past ~30 m (telescopic: -1 hip/snap and inside ~15 m) | [attachments.md](attachments.md#vargas-mercy-schematic-6) |
+| **Custom range-finder** *(Custom)* | uncommon | optic2 | autoguns and stub rifles, boltguns, las rifles, needle rifles, plasma guns (needs a scope) | +2 aimed past ~30 m (rides the scope) | [attachments.md](attachments.md#isks-patience-schematic-7) |
+| **Dual riser mount with a canted reflex** *(Custom)* | uncommon | optic2 | autoguns and stub rifles, boltguns, las rifles, needle rifles, plasma guns (needs a scope) | the scope's close penalty never applies (the reflex: +2 aimed inside ~30 m); one optic at a time; -1 quick-draw | [attachments.md](attachments.md#vargas-mercy-schematic-6) |
+| **Charge trigger and capacitor** *(Custom)* | rare | selector | las pistols, las rifles | a charge beat draws up to 30 pack, next beat one bolt: 25-30 plasma punch, 20-24 hellgun + heavy carapace, 10-19 hellgun; fire it next beat or lose it; 20+: a vent beat | [attachments.md](attachments.md#corvanes-shotlas-schematic-11) |
+| **Energy selector (LIGHT / MED / HEAVY)** *(Custom)* | rare | selector | las rifles (only: hellgun or hot-shot) | MED: 2 pack a shot, heavy carapace at any range, +1 heat a string; HEAVY: 3 pack a shot, through ceramite-forged, +2 heat a shot; vent at 3 | [attachments.md](attachments.md#vargas-mercy-schematic-6) |
+| **Heavy-burst switch** *(Custom)* | rare | selector | flamers, hand flamers | one pull spends 2 bursts: everyone hit drops an extra step; no flame the next beat | [attachments.md](attachments.md#holliss-hand-flamer-schematic-2) |
+| **Plasma charge (hold the trigger)** *(Custom)* | rare | selector | plasma guns, plasma pistols | quick: one shot, +1 extra step, +2 heat, 2 cell; full: hold a beat, +2 extra steps, +3 heat, 3 cell | [attachments.md](attachments.md#ferros-ryza-plasma-pistol-schematic-15) |
+| **Rate selector (HIGH)** *(Custom)* | rare | selector | heavy stubbers | HIGH: strings up to 12; Dirty at ~30 and jams on a natural 1; recoil 1 braced, 2 moving | [attachments.md](attachments.md#morcants-heavy-stubber-schematic-3) |
+| **Three-round burst with its tower grip** *(Custom)* | rare | selector | las rifles | a string is 2 bursts, each one roll of 3 bolts: a hit drops a step, one armour tier harder, 3 hits toward wear-down; 3 pack a burst | [attachments.md](attachments.md#sorels-hellgun-schematic-14) |
+| **Three-way selector with a rapid feeder** *(Custom)* | rare | selector | stub pistols (only: autopistol) | SAFE / BURST (strings up to 5) / AUTO (strings up to 8, no hit bonuses; from the 13th straight round a shot die of 1-3 jams); not drop-prone | [attachments.md](attachments.md#daces-autopistol-schematic-1) |
+| **Twin-shot switch** *(Custom)* | rare | selector | las rifles | TWIN: a hit drops a step, one armour tier harder, 2 hits toward wear-down; 2 pack a shot | [attachments.md](attachments.md#kells-officer-schematic-8) |
+| **Heartbeat scanner** *(Custom)* | rare | siderail | SMGs, autoguns and stub rifles, boltguns, las rifles, needle rifles, plasma guns | heartbeats through walls to ~30 m; while he watches it, nobody with a heartbeat surprises him | [attachments.md](attachments.md#brenners-accatran-schematic-12) |
+| **Lightened slide and tower grip** *(Custom)* | common | slide | stub pistols (only: autopistol) | strings up to 5; recoil stays 0 | [attachments.md](attachments.md#daces-autopistol-schematic-1) |
+| **Quick-release sling** *(Custom)* | common | sling | SMGs, autoguns and stub rifles, boltguns, las rifles, needle rifles, plasma guns, shotguns | dropping it to his chest or bringing it up costs nothing | [attachments.md](attachments.md#sallows-carbine-schematic-10) |
+| **Ergonomic grip cover (stock removed)** *(Custom)* | common | stock | SMGs, shotguns | +1 quick-draw; fits a holster | [attachments.md](attachments.md#corvanes-shotlas-schematic-11) |
+| **Heavy grip and recoil stock** *(Custom)* | common | stock | heavy stubbers | recoil 0 braced | [attachments.md](attachments.md#morcants-heavy-stubber-schematic-3) |
+| **Heavy shotgun stock with grenade loops** *(Custom)* | common | stock | autoguns and stub rifles, las rifles, shotguns | +1 aimed; -1 swapping; 3 grenade loops | [attachments.md](attachments.md#tavis-tiny-schematic-9) |
+| **Hollow medicine-cabinet stock** *(Custom)* | common | stock | autoguns and stub rifles, las rifles | a stimm, a bandage and a tourniquet inside: he patches from the gun; -1 aimed past ~30 m | [attachments.md](attachments.md#sallows-carbine-schematic-10) |
+| **Stock magazine slot** *(Custom)* | common | stockmag | las rifles | the first reload each fight costs no beat | [attachments.md](attachments.md#kells-officer-schematic-8) |
+| **Traverse tripod (ARC fire)** *(Custom)* | rare | tripod | heavy stubbers | set up as a main thing, no recoil; ARC: everyone in the arc -2 on their shots next beat, breaking cover draws a free shot | [attachments.md](attachments.md#morcants-heavy-stubber-schematic-3) |
+| **Tube selector** *(Custom)* | uncommon | tubesel | autoguns and stub rifles (only: lever) (needs Twin side-by-side tubes) | each tube its own load; flicking it is free | [attachments.md](attachments.md#tamsins-kasr-frontier-schematic-17) |
+| **Custom bipod** *(Custom)* | common | under | autoguns and stub rifles, boltguns, heavy stubbers, las rifles, needle rifles, plasma guns | braced or prone, a chain miss costs no -1; a beat to set up | [attachments.md](attachments.md#isks-patience-schematic-7) |
+| **Underslung krak launcher** *(Custom)* | rare | under | autoguns and stub rifles, las rifles | one krak a beat out to ~60 m, rolled like a throw; a beat to reload | [attachments.md](attachments.md#tavis-tiny-schematic-9) |
+| **Third vent channel** *(Custom)* | uncommon | vent | plasma guns, plasma pistols | sheds 1 heat at the end of every beat | [attachments.md](attachments.md#ferros-ryza-plasma-pistol-schematic-15) |
+
+**Custom parts not in the gun roll:**
+- **Stinger's frame rails; Dace's top and bottom rails:** no rule of their own.
+- **Sorel's and Six Bells' adjustable tube stocks:** they rule as the light rifle stock, which is on the list.
+- **Ferro's matched fill:** it's matched to Ferro's own reclamator.
+- **The Columnus magwell cut:** it takes Stinger's sticks: Tamsin's guns only.
+- **The Frontier's plasteel tube springs:** no rule of their own.
+- **Sorel's blacklight visor:** helm gear, not a gun part: the DM gives it to a tracker.
+- **Varga's drop rig and harness lanyard:** jumper gear, not gun parts: the DM gives them to a jumper.
+- **Shameholder's overdrive; Kell's chain axe parts:** melee: the gun roll doesn't cover melee weapons.
 
 ## Custom builds
 

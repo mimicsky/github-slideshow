@@ -502,6 +502,13 @@ and **disarm attempts against the bearer take -2**.
 
 **Custom barrel** (uncommon, 1.5 TV): **+1 on aimed shots, +1 on shots past ~30 m.**
 
+### Repeater crystal
+
+**Repeater crystal** (rare, ~8 TV; Mechanicus, Free Traders; on Ferro's buy list for Brenner's Accatran, schematic 12;
+entry written day 47). A tuned focusing crystal that cycles a las gun faster: **strings up to 7**, no extra pack per
+shot; the fast-gun rule: **no chain bonuses in the string** (first-shot bonuses still count), misses still -1. Fits
+las guns. On the [attachment sheet](attachments.md#the-rollable-list).
+
 ### More attachments (player picks, Ash on Ostrava session 10)
 
 **Optic**

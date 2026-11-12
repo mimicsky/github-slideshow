@@ -53,6 +53,10 @@ rolls specialist and draws "blessed" rolls the role d20 again: grunt or
 specialist as normal; if specialist, draw a type again; drawing "blessed" a
 second time makes them a blessed grunt
 (wh40k_gear/catalogue/heretic.md, Blessed cultists).
+Attachments (player-set, day 47): every gun an enemy carries rolls a d100 for an attachment: poor 20%,
+steady 25%, good 30%, rich 40%, wealthy 50%, special teams +10%; a hit picks one that fits (rarity by wealth;
+custom parts are the enemy smith's own version) and rolls again. The list and the rules: attachments.py and
+catalogue/attachments.md.
 Special teams (player-set): before the fight, 2d20 added; 31-40 means the group is
 a named special team of this type (factions.py; bestiary/): +5 STR and DEX levels, +1 on other rolls,
 armour one step better, +3 to the better-armed d20, and half their guns are the
@@ -102,6 +106,7 @@ def stats(role, skitarius=False):
 P = E[kind]
 sys.path.insert(0, here)
 from factions import F
+from attachments import describe as attach, CHANCE as ATT_CHANCE
 team_roll = random.randint(1, 20) + random.randint(1, 20)
 team = None
 if forced_team:  # the story says who they are (day 47)
@@ -202,3 +207,6 @@ for n in range(count):
     if blessed:
         line = line.replace(f"{n+1}. ", f"{n+1}. !! BLESSED by {god}, rerolled: ", 1)
     print(line)
+    att = attach(head.split("): ", 1)[-1], level, team, w)  # attachments on every gun (day 47)
+    if att:
+        print(f"   ++ ATTACHMENTS ({ATT_CHANCE[level] + (10 if team else 0)}%): {att}")
