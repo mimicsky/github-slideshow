@@ -199,6 +199,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 
 ## [Kit, armour, sights and mods](kit.md)
 
+- [Armour](kit.md#armour) (flak to ceramite-forged: helmets, full helmets, chest pieces, sets; prices)
 - [Boarding shield](kit.md#boarding-shield)
 - [Arbitrator shield](kit.md#arbitrator-shield)
 - [Storm shield](kit.md#storm-shield)

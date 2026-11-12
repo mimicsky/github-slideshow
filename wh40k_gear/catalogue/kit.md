@@ -2,6 +2,28 @@
 
 Item rules for this category. General rules (heat, hot-shot, drop-prone, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
 
+## Armour
+
+(Written with the player, Ash on Ostrava day 47, audit C14.) **What each tier stops is in the codex** (Part 8, Armour:
+the tiers table, crits, wear-down, Too weak to matter, Shooting for the gaps). This is what's sold.
+- **Pieces:** a **chest piece** (vest or plate) covers only the torso; a **set** covers chest, back, arms and legs. A
+  piece counts only where it covers: **a shot for the gaps** (legs, arms) hits whatever's underneath.
+- **Helmets:** an **open helmet** gives the head its tier, but **the face stays open:** a crit headshot hits bare skin
+  (two steps, as any crit). A **full helmet** covers the face too: a crit headshot meets the armour, so where that tier
+  would have shrugged the round, **the crit drops just one step**; too-weak rounds can't touch ceramite-forged at all.
+  **A full helmet: -1 on Perception** (the visor narrows sight and sound) unless it has a pict lens or an auspex built
+  in (the [Tempestus Scion helmet](#tempestus-scion-helmet) is a full carapace helmet with both).
+
+| Tier | Helmet | Full helmet | Chest piece | Set |
+| --- | --- | --- | --- | --- |
+| **Flak** | 0.25 TV (C) | none | vest 0.5 (C) | 1 (C) |
+| **Reinforced flak** | 0.75 (U) | none | vest 2 (U) | 3 (U) |
+| **Carapace** | 1.5 (U) | 3 (U) | plate 4 (U) | 8 (U) |
+| **Heavy carapace** | 3 (R) | 5 (R) | plate 8 (R) | 14 (R) |
+| **Ceramite-forged** | 5 (R) | 8 (R) | plate 12 (R) | 22 (R) |
+
+No tier costs dodges or stealth (the player kept it that way).
+
 ## Boarding shield
 
 **Boarding shield** (uncommon, 4 TV): a plain slab of plasteel with a grip.

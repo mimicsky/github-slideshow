@@ -1006,6 +1006,8 @@ ladder a hit moves you.
   and guns don't count. Who has it: in the Light, **Morcant** (STR 51); among enemies,
   **every Ogryn** (STR 60-80: the Crusher's power maul drops two steps a hit) and the strongest brutes. (Paper
   trail: listed in `wh40k_gear/catalogue/abilities.md`, Not gear, and on the bestiary's Ogryn.)
+- **Pieces, helmets and prices** (day 47): catalogue `wh40k_gear/catalogue/kit.md`, **Armour** (chest pieces vs sets;
+  open helmets leave the face; a full helmet covers it, -1 Perception without a lens or auspex).
 - **Part-armour:** a plate that only covers one side counts only from that side (Tamsin's heavy front: shots
   from the side or back hit plain carapace; a chest-only carapace protects the chest).
 - **Crits always get through** (except **Too weak to matter**, below). Against armour that would have shrugged the hit, a crit drops just one step (no extra).

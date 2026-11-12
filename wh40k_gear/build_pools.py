@@ -252,6 +252,9 @@ add("kit","C","BF",[("Quiver (20 arrows)",0.25)])
 add("ammo","C","BF",[("Scrap arrows (5; break on any armour; made from scrap)",0.05),("Metal arrows (10; dent flak; can break on carapace)",0.25)])
 add("ammo","U","BF",[("Steel arrows (10; through flak; dent carapace)",0.5)])
 add("ammo","C","MBF",[("Heavy stub rounds (crate; hand cannon, Orlock, Macragge calibre: flak at any range)",1)])
+# Day 47: armour tiers, helmets and full helmets (the player, audit C14). Rules in catalogue/kit.md, Armour.
+add("armour","U","MBF",[("Reinforced flak helmet",0.75),("Reinforced flak vest",2),("Reinforced flak set",3),("Carapace helmet (open)",1.5),("Carapace full helmet (-1 Perception without a lens)",3)])
+add("armour","R","MF",[("Heavy carapace helmet (open)",3),("Heavy carapace full helmet (-1 Perception without a lens)",5),("Heavy carapace chest plate",8),("Heavy carapace set",14),("Ceramite-forged helmet (open)",5),("Ceramite-forged full helmet (-1 Perception without a lens)",8),("Ceramite-forged chest plate",12),("Ceramite-forged set",22)])
 # Day 47: the player's street gear (burst pistol, derringer, tin-can bomb, cracker bundle, steak knife, taped flashlight).
 add("stub","U","MBF",[("Burst pistol, \'Kasr Trice\' pattern (3-round bursts; 15-round mag; full slots)",2)])
 add("stub","C","B",[("Holdout stub pistol, \'Cutpurse\' pattern (derringer: one round, +3 to hide)",0.25)])

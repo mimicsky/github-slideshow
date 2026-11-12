@@ -4030,5 +4030,96 @@
   "cat": "ammo",
   "rarity": "C",
   "sellers": "MBF"
+ },
+ {
+  "name": "Reinforced flak helmet",
+  "tv": 0.75,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Reinforced flak vest",
+  "tv": 2,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Reinforced flak set",
+  "tv": 3,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Carapace helmet (open)",
+  "tv": 1.5,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Carapace full helmet (-1 Perception without a lens)",
+  "tv": 3,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy carapace helmet (open)",
+  "tv": 3,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Heavy carapace full helmet (-1 Perception without a lens)",
+  "tv": 5,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Heavy carapace chest plate",
+  "tv": 8,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Heavy carapace set",
+  "tv": 14,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Ceramite-forged helmet (open)",
+  "tv": 5,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Ceramite-forged full helmet (-1 Perception without a lens)",
+  "tv": 8,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Ceramite-forged chest plate",
+  "tv": 12,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Ceramite-forged set",
+  "tv": 22,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MF"
  }
 ]
