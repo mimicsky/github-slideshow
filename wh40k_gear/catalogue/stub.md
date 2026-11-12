@@ -306,7 +306,9 @@ magazine holds one load at a time.
 Free Traders). Each load comes in its own box and fits any gun of its
 calibre: **stub** (stub revolvers, stub automatics, hand cannons, the Kasr Frontier) or **auto** (autoguns,
 autopistols, Hammerfall auto-revolvers, the Kasr Hornet). **Standard rounds** (Stub/auto rounds, box): flak
-shrugs them at range, reinforced flak and carapace shrug them. A magazine holds one load at a time.
+shrugs them at range, reinforced flak and carapace shrug them. A magazine holds one load at a time. **In the enemy
+roll, AP and CAP count as rare** (only there; the shop rarity below stands: the player, day 47;
+[attachments.md](attachments.md#enemy-attachments)).
 
 | Load | Calibre | Rarity, price | Effect |
 | --- | --- | --- | --- |

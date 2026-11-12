@@ -36,7 +36,8 @@ his faction's wealth:
   a chain motor only on a chain weapon). If it doesn't fit, roll again on the list.
 - **Special ammo rolls too** (the player, day 47): a gun's special load (HP, AP, HV, belts, darts) is one more slot.
   **Special ammo is uncommon: it's easy to get. Armour-piercing loads are rare** (AP, CAP, tungsten-core belts, shard
-  darts, and for las **the hot-shot conversion with hot-shot packs**, which hits a step harder): they're better. The rest keep their catalogue rarity (hellfire belts, widow and truth darts are rare).
+  darts, and for las **the hot-shot conversion with hot-shot packs**, which hits a step harder): they're better.
+  **AP and CAP are rare only in the enemy roll; in shops they stay uncommon** (the player, day 47). The rest keep their catalogue rarity (hellfire belts, widow and truth darts are rare).
 - **What a gun comes with doesn't count** (a kit's listed scope, a gun's built-in parts): the roll only adds.
 - **Custom builds roll too, by their rarity** (the player, day 47): **simple fixes are common** (swapped springs, cut
   barrels, grips, slings, stocks), **real bench work is uncommon** (a new motor, a twin tray, a matched cell), and
