@@ -4,6 +4,15 @@ Item rules for this category. General rules (heat, hot-shot, drop-prone, going D
 
 **Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown).
 
+
+## Bolt rounds (special loads)
+
+**Kraken bolt rounds** (rare, 20 TV for 10; Astartes-pattern, Mechanicus, Free Traders; rule written with the player,
+Ash on Ostrava day 47). Long-range penetrator bolts. A normal bolt already gets through everything up to power
+armour, so a Kraken's edge is reach and vehicles: **it gets through an APC's armour** (Chimeras, Tauroxes, armoured
+haulers: [vehicles.md](../bestiary/vehicles.md); tanks still shrug it), and **+1 on aimed shots past ~30 m**. Fits
+bolt pistols, boltguns and heavy bolters. A magazine holds one load at a time.
+
 ## Bolt-shotgun, 'Breacher' pattern
 
 **Bolt-shotgun, 'Breacher' pattern** (player design, rare, 10 TV). A short,

@@ -31,7 +31,7 @@ force's numbers.**
 | Class | Hull | Armour (what gets through) | Weapons | Speed |
 | --- | --- | --- | --- | --- |
 | **Light** (buggy, technical, Sentinel walker) | **3** | **Carapace-grade:** hellguns, heavy stubbers, plasma, melta, kraks, power and chain weapons, demo charges, the ship. Not las, stub or autogun. | One heavy weapon (heavy stubber, autocannon, multilaser) | Fast, ~60 m a beat; a Sentinel ~30 m but over walls |
-| **APC** (Chimera, Taurox, armoured hauler) | **5** | **Heavy:** only kraks, melta, plasma, autocannons and lascannons, demo charges, melta bombs, the ship's turret, the Valk's rockets. Hellguns and heavy stubbers don't. | A turret (multilaser or heavy bolter) and a hull gun (heavy stubber or flamer) | ~50 m a beat |
+| **APC** (Chimera, Taurox, armoured hauler) | **5** | **Heavy:** only kraks, melta, plasma, autocannons and lascannons, **Kraken bolts** (catalogue bolt.md, day 47), demo charges, melta bombs, the ship's turret, the Valk's rockets. Hellguns and heavy stubbers don't. | A turret (multilaser or heavy bolter) and a hull gun (heavy stubber or flamer) | ~50 m a beat |
 | **Tank** (Leman Russ, scrap crawler) | **8** | **Tank:** from the **front** only melta, lascannons, demo charges or melta bombs set on it, the ship's turret and rockets. From the **side or rear**, kraks and plasma work too. | A battle cannon (a blast: everyone within ~8 m drops **two** steps; cover in the blast is gone) plus sponsons and a hull gun | ~30 m a beat |
 
 **Shots at a vehicle get +2** (a big target; a Sentinel +1).
