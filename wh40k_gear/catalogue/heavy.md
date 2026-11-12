@@ -68,7 +68,7 @@ top, and **no sight at all**: it's made to spray and pray.
 ## Hellstrike launcher, 'Bone'ead' pattern (Ogryn)
 
 **Hellstrike launcher, 'Bone'ead' pattern** (player design, Ash on Ostrava day 45; rare, ~30 TV; Munitorum,
-Free Traders; **Hellstrike missiles ~8 TV each**). Named for the Ogryn sergeants who get the brain implant. A
+Free Traders; **Hellstrike missiles ~8 TV each**; a Valkyrie rocket pod, 20 TV, is the pod (~4 TV) with 2 loaded: audit C13). Named for the Ogryn sergeants who get the brain implant. A
 shoulder tube the size of a man, built for an Ogryn, that fires **the Valkyrie's own Hellstrike missiles**.
 - **Brutes only: STR 50+.** Anyone weaker can only fire it from a mount (a vehicle, a sandbagged tripod), at -3.
 - **One missile, one shot;** reloading the tube takes a beat. No strings.

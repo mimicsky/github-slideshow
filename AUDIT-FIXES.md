@@ -76,7 +76,7 @@ All of **Part A** and **Part B** is already done on branch `claude/intelligent-m
 10. ~~**Arbitrator shield**~~ **FIXED (day 47):** '+2 on the defender's roll (block or parry)'. Was: **Arbitrator shield** says "+2 to block"; every other shield says "block or parry".
 11. ~~Abilities lines~~ **FIXED (day 47):** every Abilities line now sits at the end of its entry (28 moved). Was: Abilities lines sit sometimes before the entry text and sometimes after. Pick one.
 12. ~~`catalogue/README.md`~~ **FIXED (day 47):** the 11 misfiled lines moved to their own sections (scrap, bolt, stub). Was: `catalogue/README.md`, "Heavy and vehicle weapons" section, lists flamer fuels, bolt rounds and stub guns and shells. They belong in their own sections.
-13. **Hellstrike missile price:** ~8 TV each in `heavy.md`. The pools' "Valkyrie rocket pod (2 Hellstrike)" costs 20 (that may include the pod).
+13. ~~**Hellstrike missile price:**~~ **FIXED (day 47):** the pod's 20 TV is the pod (~4 TV) plus 2 missiles at 8; the shop name says so. Was: ~8 TV each in `heavy.md`. The pools' "Valkyrie rocket pod (2 Hellstrike)" costs 20 (that may include the pod).
 14. **Gaps, no entries:**
     - Weapons: heavy bolter, man-portable lascannon, missile launcher, autocannon, meltagun, flamer, heavy flamer (all in the pools)
     - Armour: flak, reinforced flak, carapace, heavy carapace, ceramite-forged

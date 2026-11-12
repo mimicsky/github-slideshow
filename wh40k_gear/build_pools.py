@@ -339,7 +339,7 @@ add("salvage","R","A",[("Cogitator relic",12),("Machine-spirit core (old weapon)
 add("vehicle","U","MF",[("Valkyrie multilaser charge pack",3),("Valkyrie fuel (load)",2),("Chimera spare track section",3)])
 add("vehicle","R","MF",[("Valkyrie bolt-rocket pods, pair (6 rockets that burst into bolt rounds)",35)])
 add("heavy","R","MF",[("Las-cannon, medium tripod emplacement (man-portable lascannon punch; +2 a shot; a beam a beat on a coupling or battery)",35)])
-add("vehicle","R","MF",[("Valkyrie rocket pod (2 Hellstrike)",20),("Valkyrie heavy bolter door-guns (pair)",45),("Void-shield emitter (salvage)",40),("Augur array (small ship)",30)])
+add("vehicle","R","MF",[("Valkyrie rocket pod (the pod ~4 TV and 2 Hellstrikes loaded; reloads 8 TV a missile)",20),("Valkyrie heavy bolter door-guns (pair)",45),("Void-shield emitter (salvage)",40),("Augur array (small ship)",30)])
 # --- Luxury / trade goods ---
 add("goods","C","BFE",[("Amasec (case)",2),("Recaff (sack)",0.5)])
 add("goods","U","BF",[("Spire wine (case)",2),("Off-world spice",3),("Noble's signet (fence)",4),("Silk bolt",2),("Grox-hide leather",1)])
