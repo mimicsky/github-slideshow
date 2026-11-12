@@ -200,7 +200,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 ## [Kit, armour, sights and mods](kit.md)
 
 - [Armour](kit.md#armour) (flak to ceramite-forged: helmets, full helmets, chest pieces, sets; prices)
-- [Chameleoline cloak](kit.md#chameleoline-cloak) (+5 hide in the dark; reflects in bright light; over flak)
+- [Chameleoline cloak](kit.md#chameleoline-cloak) (+5 hide in the dark; reflects in bright light; over flak, or fitted to one armour)
 - [Magnoculars](kit.md#magnoculars) (+4 Perception past ~50 m; range-finder: +1 on a called shot)
 - [Vox-caster](kit.md#vox-caster) (~50 km and orbit; relays beads; enemies call for help)
 - [Med-kit](kit.md#med-kit) (10 uses; Hurt → Fine outside a fight; +2 on plague saves)

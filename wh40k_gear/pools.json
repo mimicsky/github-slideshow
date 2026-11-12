@@ -4163,5 +4163,12 @@
   "cat": "mod",
   "rarity": "U",
   "sellers": "MF"
+ },
+ {
+  "name": "Fitted chameleoline cloak (cut for one set of armour: the cloak's bonus over carapace or heavier)",
+  "tv": 25,
+  "cat": "gear",
+  "rarity": "R",
+  "sellers": "BF"
  }
 ]

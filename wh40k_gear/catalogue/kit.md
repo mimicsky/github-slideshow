@@ -102,13 +102,18 @@ C14).
 ## Chameleoline cloak
 
 **Chameleoline cloak** (rare, 12 TV; black market, Free Traders, Ordo and assassins' suppliers; entry written with the
-player, Ash on Ostrava day 47, audit C14). A cloak of light-bending threads that reflect what's around it.
+player, Ash on Ostrava day 47, audit C14). **A mesh cloak covered in small panels** (the player's picture): when the
+wearer goes still and it draws in, **the panels lock edge to edge** into one smooth skin that bends the light around him.
 - **In shadow or the dark: +5 to hide while still, +2 while moving;** shots at him are **+2 to the hidden number** (a
   smear in the dark).
 - **In bright light** (daylight, floodlights, a lumen on him): **it reflects: no bonus, and -1 to hide** (the shimmer
   catches the eye).
-- **Worn over clothes or flak** (the player); **over carapace or anything heavier the plates break the drape and it
-  gives nothing** (DM default).
+- **Worn over clothes or flak** (soft and padded: the mesh settles and the panels lock). **Over carapace or anything
+  heavier it gives nothing:** the ridges, collars and plate edges push the panels apart, gaps open, and every gap
+  catches the light.
+- **Fitted chameleoline** (rare, 25 TV): **cut and sewn around one specific set of armour** (its ridges and plate
+  edges), so the panels lock over it: the full bonus over that armour, and only that armour. A smith or tailor fits it
+  in a day with the armour on the bench.
 - No armour of its own; flames ruin it.
 
 ## Boarding shield
