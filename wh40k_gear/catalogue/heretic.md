@@ -73,6 +73,9 @@ Perils trigger: **1-3**, then roll the Perils result (Codex, Gear rules).
 
 Wounding, stunning or disarming the witch breaks a power mid-beat.
 
+**The staff as loot:** useless to anyone but a psyker. Anyone else who carries it makes a WIS save each day or hears
+it; the Inquisition wants it destroyed. (Moved here from the daemons paragraph: audit C7, day 47.)
+
 ### God powers: the charge and the summoning
 
 A witch with a staff can call on their god for something bigger, but it takes
@@ -95,8 +98,7 @@ through blood: a sacrifice or a grimoire chant, never a staff.
 
 **Daemons and the Light:** daemons are warp-things. Force weapons and blessed
 blades burn them; a purity seal gives advantage on any save their powers force;
-they fade when their witch falls. Their loot is nothing: ash and a smell. **As loot:** useless to anyone but a psyker. Anyone else who carries it
-makes a WIS save each day or hears it; the Inquisition wants it destroyed.
+they fade when their witch falls. Their loot is nothing: ash and a smell.
 
 ## Chaos ward-mark
 
