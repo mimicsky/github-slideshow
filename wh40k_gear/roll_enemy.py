@@ -21,9 +21,10 @@ Role, one d20 per enemy (player-set, session 8):
   16-20 specialist: a random role from this type's list (sniper, grenadier,
         heavy, assassin, flamer, demolitions, medic, leader, and so on)
 Specialists: a coin flip (player-set, day 47): PRESET, the role's own kit (and 1 in 4 also has a melee backup),
-or RANDOM, a gun and a melee weapon from the type's lists, plus the role's tool if it has one (a medic's med-kit, a
-jumper's pack); he still fights as his role. Roles that ARE their kit (ogryn, herder, heavy team, mortar team, bomb
-zealot, psyker, beast handler, mutant charger) always take the preset.
+or RANDOM: the role's desired weapon is GUARANTEED (the first piece of a preset kit: the sniper's long-las, the
+flamer's flamer, the medic's med-kit), and his off weapon is random (a gun, sidearm or melee weapon from the type's
+lists). Roles that ARE their kit (ogryn, herder, heavy team, mortar team, bomb zealot, psyker, beast handler, mutant
+charger) and any Ogryn kit always take the whole preset. Ogryn kits get Ogryn stats (STR 60-80), whatever the role.
 Every enemy also rolls armour and one extra. Gear is weighted
 common 70 / uncommon 25 / rare 5.
 
@@ -66,7 +67,7 @@ a named special team of this type (factions.py; bestiary/): +5 STR and DEX level
 armour one step better, +3 to the better-armed d20, and half their guns are the
 team's favoured weapons. Their look and tactics are in the bestiary.
 """
-import json, random, sys, os
+import json, random, re, sys, os
 here = os.path.dirname(os.path.abspath(__file__))
 LEVELS = ["poor", "steady", "good", "rich", "wealthy"]
 WEIGHTS = {"poor": {"C": 80, "U": 20, "R": 0}, "steady": {"C": 70, "U": 25, "R": 5}, "good": {"C": 55, "U": 35, "R": 10},
@@ -100,7 +101,8 @@ STR_ROLES = {"brute", "berserker", "breacher", "bodyguard", "enforcer", "duelist
              "shield trooper", "mauler", "mutant charger"}
 DEX_ROLES = {"sniper", "grenadier", "assassin", "flamer", "demolitions", "jumper", "spotter", "tracker", "fighter pilot",
              "heavy gunner", "heavy team", "plasma gunner", "infiltrator", "gunslinger", "mortar team"}
-def stats(role, skitarius=False):
+def stats(role, skitarius=False, ogryn=False):
+    if ogryn: role = "ogryn"  # an Ogryn kit under any role (a brute's 'Renegade Ogryn') gets Ogryn stats (day 47 fix)
     (s0, s1), (d0, d1) = ((30, 45), (35, 50)) if skitarius else ((60, 80), (10, 20)) if role == "ogryn" else STATS[kind]
     st, dx = random.randint(s0, s1), random.randint(d0, d1)
     if role in STR_ROLES and role != "ogryn": st += 5
@@ -145,13 +147,10 @@ sidearms = [r for r in P["weapon"] if any(x in r[0].lower() for x in ("pistol", 
 BOMBS = [("Frag grenade","C"),("Pipe-bomb","C"),("Fire bomb (promethium)","C"),("Mining charge","C"),
          ("Krak grenade","U"),("Choke gas grenade","U"),("Cult gas bottle (gas of their god)","U"),("Melta bomb","R")]
 ranged_share = 0.75 if kind.startswith("traitor") else 0.5  # soldiers mostly fight with guns
-# Specialist kits (day 47): roles that are their kit always take the preset; a random kit keeps the role's tool.
+# Specialist kits (day 47): roles that are their kit always take the preset; a random kit keeps the role's desired
+# weapon (the preset kit's first piece) and randomises the off weapon.
 ALWAYS_PRESET = {"ogryn", "herder", "heavy team", "mortar team", "bomb zealot", "psyker", "beast handler", "mutant charger"}
-ROLE_TOOL = {"medic": "med-kit and 3 stimms", "chem-doctor": "drug satchel and stimms", "vox": "vox-caster",
-             "jumper": "jump pack", "shield trooper": "boarding shield", "icon bearer": "the faction's icon",
-             "fighter pilot": "flight suit", "tracker": "auspex", "spotter": "magnoculars",
-             "demolitions": "2 demo charges", "grenadier": "4 frags", "tech-adept": "servo-arm and repair kit",
-             "infiltrator": "dark cloak and a garrotte", "commander": "command vox", "leader": "command vox"}
+OGRYN_KIT = re.compile(r"^(Renegade )?Ogryn\b|^Ogryn |Bullgryn")
 print(f"SPECIAL TEAM: {team['name']} ({'named by the story' if forced_team else f'2d20 {team_roll}'}): +5 STR/DEX levels, +1 other rolls, armour one step better, +3 better-armed" if team else f"(2d20 {team_roll}: a basic group)")
 print(f"{kind} x{count}, wealth {level.upper()}" + ("" if given else " (default; roll it: roll_enemy.py wealth TYPE)") + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{3 if team else 0} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE GEAR IN USE (natural 20)" if raw == 20 else ""))
 lucky = set(random.sample(range(count), better))
@@ -181,12 +180,14 @@ for n in range(count):
                 skit = f"corrupted SKITARIUS (tech-adept d20 {sk}, kind d6 {k6}), {skit}; augmetic eyes, machine body (extra stage), shock-weak; see roles.md"
         if skit:
             kit = skit
-        elif random_kit:
-            tool = ROLE_TOOL.get(role)
-            kit = f"RANDOM KIT: {pick(P['weapon'])} + {pick(P['melee'])}" + (f" + {tool}" if tool else "")
-            backup = ""
         else:
-            kit = "PRESET: " + pick(P['specialists'][role])
+            preset = pick(P['specialists'][role])
+            if random_kit and not OGRYN_KIT.search(preset):
+                off = pick(P['weapon']) if random.random() < 0.5 else pick(P['melee'])
+                kit = f"RANDOM KIT: {preset.split(' + ')[0]} (his role's weapon, guaranteed) + off weapon: {off}"
+                backup = ""
+            else:
+                kit = "PRESET: " + preset
         if "two-man team" in kit:
             kit += " [counts as two: gunner + loader with a lasgun and the ammo]"
         if role == "herder":  # player design, session 10: cultists only; the herd follows their god
@@ -218,7 +219,7 @@ for n in range(count):
     if head.startswith("SPECIALIST BOMB ZEALOT"):
         extra = "STRAPPED ON: " + ", ".join(pick(BOMBS) for _ in range(random.randint(3, 5)))
     cond = random.choice(["Dirty", "Neglected"]) if kind in ("cultist", "raider") else "Dirty" if kind == "pirate" else "Clean"  # commoners: Clean (they barely fire them and have time to clean)
-    line = f"{n+1}. {head} | {armour} | {extra} | {stats(role if role_d20 >= 16 else None, "SKITARIUS" in head)} | guns {cond}"
+    line = f"{n+1}. {head} | {armour} | {extra} | {stats(role if role_d20 >= 16 else None, "SKITARIUS" in head, bool(OGRYN_KIT.search(head.split("): ", 1)[-1].replace("PRESET: ", ""))))} | guns {cond}"
     if n in lucky:
         line += f"  ** FOUND/MADE: {random.choice([f for f in P['found'] if not poor or f[1] != 'R'] or P['found'])[0]}"
     if EPIC_CHANCE and random.random() < EPIC_CHANCE:
