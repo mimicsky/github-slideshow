@@ -14,7 +14,14 @@
 - The player is a collector: put interesting things in the world; invented gear is fine if it fits. In the field, carry what's plausible.
 - The player's d20s run hot (about 14.5 average in sessions 4-5). The dice stand; shot chains were the player's own answer.
 
-## Live now: the Torvane's Mart mission (from day 33)
+## Live now: Gallowmere, Kettle Ford (day 47, ~1830)
+
+**The live entry is `## Day 46 (hidden; never read out)` below, its last lines** (the Kettle Ford stealth op: H-hour
+1900, four cells, Tamsin and Nessa at house 3, Wil hidden in Corran's back room; the boss meter line). Read from
+"~1635-1708 Launch" to the end of the file. (Updated day 47, audit campaign C2: this heading used to point at the
+Torvane's Mart mission.)
+
+## Done: the Torvane's Mart mission (days 33-34; kept for reference)
 
 - **The rising (the player's twist, accepted):** when the Light drops out of the warp, **Governor Halden Voke is broadcasting an open distress call.** Thask's gardeners and the dock gangs he bought are trying to take the asteroid, with heavy casualties. Planned detail for the reveal: Low Quay and the customs house have fallen, the militia is broken, Voke holds **the Spire** (north pole) with his guard. Layout to show: the Spire at the north pole, Low Quay and berth 31 at the south end, the main dock ring, the vox mast, the cannery near berth 44.
   - Why now: Thask moved early because the Light gutted his Ustrennos line (the circle, Hob, Charter 7).

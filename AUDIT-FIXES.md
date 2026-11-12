@@ -83,11 +83,11 @@ All of **Part A** and **Part B** is already done on branch `claude/intelligent-m
     - Kit: rebreather, gas mask, void-suit, refractor field, conversion field, medkit, vox-caster, magnoculars, chameleoline cloak, grapnel
     - Explosives: melta bombs, demo charges
     - Kits: a hot-shot conversion kit entry
-    - Nothing xenos at all
+    - Nothing xenos at all (**kept that way on purpose, the player, day 47:** xenos lives in the hidden exotic list and stays a surprise until it's found)
 
 **Campaign**
-1. `day-log.md`: day 47 is filed under `## Day 46`. Add a `## Day 47` heading.
-2. `dm-notes.md`: "Live now" still points at the Torvane's Mart mission.
+1. ~~`day-log.md`: day 47 is filed under `## Day 46`.~~ **FIXED (day 47):** a `## Day 47` heading now opens at ~0055. Add a `## Day 47` heading.
+2. ~~`dm-notes.md`: "Live now" still points at the Torvane's Mart mission.~~ **FIXED (day 47):** "Live now" points at Kettle Ford; the Mart section is labelled done.
 3. Sheet, Health block: still from day 38. Dace was Hurt at Quay 4 on day 47.
 4. Sheet, Owed list, stale:
    - Ferro's warding rite (done day 44)
