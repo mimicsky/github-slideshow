@@ -3925,5 +3925,12 @@
   "cat": "stub",
   "rarity": "C",
   "sellers": "MB"
+ },
+ {
+  "name": "Hunting rifle, 'Kasr Stag' pattern (bolt action, autogun rounds, 5-round magazine; strings of 2; +1 aimed past ~30 m)",
+  "tv": 1,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MBF"
  }
 ]

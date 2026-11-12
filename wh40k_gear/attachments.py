@@ -27,8 +27,8 @@ RECOIL = {"sp", "smg", "sr", "sg", "bp", "br", "hs"}
 HAND = SIGHT  # guns a hand holds and a grip sleeve fits
 # Melee (day 47): ch chain, pw power, bl edged blade, bt blunt, sh shield.
 MELEE = {"ch", "pw", "bl", "bt"}
-STUBCAL = r"(?<!auto-)revolver|stub pistol|stub automatic|hand cannon|lever|hunting|stub rifle|boarding pistol"
-AUTOCAL = r"autogun|autopistol|autorifle|auto-revolver|hammerfall|submachine|rattler|machine pistol|chain-fed"
+STUBCAL = r"(?<!auto-)revolver|stub pistol|stub automatic|hand cannon|lever|hunting stub|stub rifle|boarding pistol"
+AUTOCAL = r"autogun|autopistol|autorifle|auto-revolver|hammerfall|submachine|rattler|machine pistol|chain-fed|kasr stag"
 NAMES = {"lp": "las pistols", "lr": "las rifles", "sp": "stub pistols", "smg": "SMGs", "sr": "autoguns and stub rifles",
          "sg": "shotguns", "bp": "bolt pistols", "br": "boltguns", "pp": "plasma pistols", "pg": "plasma guns",
          "np": "needle pistols", "nr": "needle rifles", "hf": "hand flamers", "fl": "flamers", "hs": "heavy stubbers",

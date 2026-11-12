@@ -263,6 +263,17 @@ flak up close, carapace only on a solid hit). Tough: it can be swung as a club a
 is never damaged by a drop or fall.
 
 
+## Hunting rifle, 'Kasr Stag' pattern
+
+**Hunting rifle, 'Kasr Stag' pattern** (common, 1 TV, DM's price; hive and agri-world traders, Munitorum surplus, black
+market; the player's idea, Ash on Ostrava day 47: a bolt-action autoround hunting rifle). **Bolt action on autogun
+rounds:** a **5-round internal magazine** (a stripper clip loads it in half a beat). **Strings of 2** (working the bolt);
+**recoil 1.** A long, true hunting barrel: **+1 on aimed shots past ~30 m.** Autogun punch (good on flesh, poor on flak
+at range, carapace only on a solid hit); special auto rounds load (HP, AP, HV, CAP). **A full rifle's attachment
+slots** (a scope is the usual fit). Commoners and hunters carry it.
+
+**Abilities:** [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun). No Trigger Finger (a manual action).
+
 ## Pocket revolver, 'Trinity' pattern
 
 **Pocket revolver, 'Trinity' pattern** ('the three-shooter'; common, 0.4 TV, DM's price; hive traders, pawn-stalls, black market; the player's design,

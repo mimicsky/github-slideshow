@@ -49,6 +49,7 @@ add("stub","C","B",[("Pipe rifle (scrap bolt-action; 5 rounds, chains of 2; fall
 add("stub","C","B",[("Rattler (scrap SMG; 20-round stick, chains of 5; runs away on a 1)",0.75)])
 add("stub","C","B",[("Junk shotgun (scrap double-pipe; one or both barrels; both fire on a 1)",0.5)])
 add("stub","C","MB",[("Autogun, Agripinaa",1),("Autopistol",1),("Stub revolver",0.5),("Stub automatic",0.75),("Combat shotgun, pump",1.5),("Pump shotgun, \'Harrow\' pattern (6-shell tube; no attachment slots)",0.75),("Service stub pistol, \'Steadfast\' pattern (12-round mag; threaded barrel only)",0.75),("Pocket revolver, \'Trinity\' pattern (tiny 3-shot revolver; +2 to hide; no attachment slots)",0.4)])
+add("stub","C","MBF",[("Hunting rifle, \'Kasr Stag\' pattern (bolt action, autogun rounds, 5-round magazine; strings of 2; +1 aimed past ~30 m)",1)])
 add("stub","U","MBF",[("Combat shotgun, semi-auto",2),("Ripper gun / drum-fed shotgun",3),("Sawn-off shotgun",1),("Hand cannon (big-bore stubber)",2),("Scrap autogun with drum",1.5)])
 add("stub","U","B",[("Silenced stub pistol",2.5),("Holdout stub pistol",1),("Hive-gang 'scattergun'",1),("Ganger's chain-fed autopistol",2)])
 # Player design (session 8): auto-revolver. Full rules in DND_CODEX Part 8.
@@ -400,7 +401,7 @@ E["traitor"] = {
 }
 # Commoners (player-set, Ash on Ostrava day 45): a militia of ordinary people. Rules in bestiary/commoners.md.
 E["commoner"] = {
-  "weapon": [("Pipe rifle (scrap)","C"),("Junk shotgun (scrap double-pipe)","C"),("Stub revolver","C"),("Combat shotgun, pump","C"),("Pump shotgun, \'Harrow\' pattern","C"),("Service stub pistol, \'Steadfast\' pattern","C"),("Pocket revolver, \'Trinity\' pattern","C"),
+  "weapon": [("Pipe rifle (scrap)","C"),("Junk shotgun (scrap double-pipe)","C"),("Stub revolver","C"),("Combat shotgun, pump","C"),("Pump shotgun, \'Harrow\' pattern","C"),("Service stub pistol, \'Steadfast\' pattern","C"),("Pocket revolver, \'Trinity\' pattern","C"),("Hunting rifle, \'Kasr Stag\' pattern","C"),
              ("Hunting stub rifle (old, iron sights)","C"),("Sawn-off shotgun","C"),
              ("Autogun, Agripinaa (old militia issue)","U"),("Stamped submachine gun, 'Munitorum Mk I' pattern","U"),("Lever-action stub rifle, 'Kasr Frontier' pattern","U"),("Hunting stub rifle with an old scope","U"),
              ("Lasgun, Lucius No.98 (PDF surplus)","R"),("Submachine gun, 'Kasr Locust' pattern","R")],
