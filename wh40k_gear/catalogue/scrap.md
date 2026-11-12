@@ -62,6 +62,10 @@ throwers. On the [attachment sheet](attachments.md#the-rollable-list).)
   solid hit on it can burst it (d6: 1-4 he goes up in a ball of flame with the floor around him and spends 2 beats
   putting himself out; 5-6 the weapon goes up and he loses his next beat); **with the big tank a 1-4 burst also
   catches anyone within ~3 m.**
+- **Sulphur fuel** (uncommon, 2 TV a can, DM's price; black market, Free Traders). Sulphur-laced promethium that burns
+  hotter: **everyone the gout hits drops one extra step.** **Stinking yellow fumes:** for the next beat, anyone in the
+  burned area without a rebreather or mask takes **-1 on their next roll** (both sides, the flamer too if he walks
+  into it). Armour as normal fuel.
 
 ## Torch-thrower (scrap flamer)
 

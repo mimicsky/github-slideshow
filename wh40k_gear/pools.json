@@ -3750,5 +3750,12 @@
   "cat": "ammo",
   "rarity": "U",
   "sellers": "MBF"
+ },
+ {
+  "name": "Sulphur fuel (a can; flamers: +1 step on a hit; choking fumes)",
+  "tv": 2,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "BF"
  }
 ]
