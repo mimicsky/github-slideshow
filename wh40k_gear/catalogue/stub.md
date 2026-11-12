@@ -263,6 +263,18 @@ flak up close, carapace only on a solid hit). Tough: it can be swung as a club a
 is never damaged by a drop or fall.
 
 
+## Service stub pistol, PDF pattern
+
+**Service stub pistol, PDF pattern** (common, 0.75 TV, DM's price; Munitorum, PDF quartermasters, hive and agri-world
+traders; the player's design, Ash on Ostrava day 47). A fine-looking, well-made sidearm: the **Planetary Defence
+Force's service pistol**, and a cheap gun for anyone who wants to defend themselves. Semi-auto, **12-round magazine**,
+**iron sights**, stub pistol punch (good on flesh, poor on flak at range, carapace shrugs it). **Threaded barrel: the
+only attachment slot** (a silencer, suppressor, compensator, muzzle brake or flash hider); nothing else fits (special
+stub rounds still load: ammo isn't an attachment). PDF troopers, militia and commoners carry it.
+
+**Abilities:** [Trigger Finger](abilities.md#trigger-finger) (semi-auto); [Precision
+Sacrifice](abilities.md#precision-sacrifice) (every gun).
+
 ## Farmer's pump shotgun
 
 **Farmer's pump shotgun** (common, 0.75 TV, DM's price; agri-world markets, hive traders, black market; the player's

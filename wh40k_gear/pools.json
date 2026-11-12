@@ -3911,5 +3911,12 @@
   "cat": "stub",
   "rarity": "C",
   "sellers": "MB"
+ },
+ {
+  "name": "Service stub pistol, PDF pattern (12-round mag; threaded barrel only)",
+  "tv": 0.75,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MB"
  }
 ]
