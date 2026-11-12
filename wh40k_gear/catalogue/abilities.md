@@ -192,3 +192,18 @@ other chain weapon on the campaign sheet.
 (machine pistols, submachine guns, autoguns with an auto setting: top of [stub.md](stub.md)). Enemies' alike.
 **Owned in Ash on Ostrava:** Morcant's heavy stubber and multi-laser; Tamsin's Stinger and Columnus (campaign sheet).
 
+## Cook Off
+
+**Timed grenades** (frags, kraks, smoke, gas and the like; not impact grenades, which already burst on landing) (set
+by the player, day 47).
+- **Pull the pin, count, then throw:** it **bursts the moment it lands: no diving clear and no throwing it back**
+  (as impact frags).
+- **+1 on the throw** (the player: cooking it takes time, and that time lines the throw up properly).
+- **The risk: on a natural 1-2 it goes off in his hand:** he and anyone within ~2 m drop a step (a krak: as its own
+  rule).
+- Cooldown: 3 beats, like every ability.
+
+**Items with it:** **every timed grenade** (said once at the top of [explosives.md](explosives.md); the codex's
+standard frag, krak and smoke too). Enemies' alike. **Owned in Ash on Ostrava:** every frag, krak and smoke the Light
+carry (Tamsin's 3 frags and smoke, Hollis's frags, Tavi's kraks; Six Bells' rounds are launched, not cooked).
+

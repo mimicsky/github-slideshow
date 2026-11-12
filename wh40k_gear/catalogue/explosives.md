@@ -2,6 +2,8 @@
 
 Item rules for this category. General rules (heat, hot-shot, drop-prone, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
 
+**Every timed grenade (thrown, not launched; not impact grenades) has [Cook Off](abilities.md#cook-off)** (bursts on landing, +1 on the throw, a natural 1-2 goes off in hand; day 47).
+
 ## Plasma tripwire mine
 
 **Plasma tripwire mine** (player design, rare, 10 TV). Clamped beside a door,
