@@ -56,6 +56,21 @@ player, Ash on Ostrava day 47, audit C14). The full flamer: the hand flamer's bi
 
 **Abilities:** [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun; a gout isn't a string, so it gains nothing).
 
+## Heavy flamer
+
+**Heavy flamer** (rare, 20 TV; Munitorum, Ecclesiarchy, black market, Free Traders; rules written with the player,
+Ash on Ostrava day 47, audit C14).
+- **A ~20 m gout** (the player's number), **~7 m wide at the far end.** **No roll to hit;** **a DEX dodge (15)** throws
+  you clear if there's somewhere to go.
+- **Caught: drop a step, and you're alight. Inside ~6 m (the hot core): drop two steps.**
+- **Ignores cover that doesn't close over you.** **Armour up to heavy carapace doesn't help;** ceramite-forged and power
+  armour shrug the step but still catch fire.
+- **Heavy: STR 30+ to fire it on the move;** below that he braces. **-1 on dodges** while he carries it.
+- **A big backpack tank: 8 bursts.** The tank is a target ([Flamer role](../bestiary/roles.md#flamer)), and **a 1-4 burst
+  also catches anyone within ~3 m.** Fuels: [below](#flamer-tanks-and-fuels-special-loads).
+
+**Abilities:** [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun; a gout isn't a string, so it gains nothing).
+
 ## Hand flamer
 
 **Hand flamer** (uncommon, 6 TV; Munitorum, black market, Ecclesiarchy, Free Traders). A one-handed promethium thrower:

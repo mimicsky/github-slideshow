@@ -102,6 +102,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Rattler (stamped scrap SMG)](scrap.md#rattler-stamped-scrap-smg)
 - [Junk shotgun ("double-pipe")](scrap.md#junk-shotgun-double-pipe)
 - [Flamer, Ryza pattern](scrap.md#flamer-ryza-pattern) (~13 m gout, ~5 m wide; no roll; 6 bursts)
+- [Heavy flamer](scrap.md#heavy-flamer) (~20 m gout; two steps in the core; 8 bursts)
 - [Flamer tanks and fuels, special](scrap.md#flamer-tanks-and-fuels-special-loads) (big tank, sulphur, thermite, cut phosphex)
 
 ## [Bolt weapons](bolt.md)
