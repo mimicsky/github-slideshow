@@ -50,6 +50,7 @@ A = [
  ("offset", "Offset backup sight", "U", "optic2", RIFLE, None, "scope", 0, "cancels the scope's close penalty; -1 quick-draw", MORE),
  ("laser", "Laser sight", "U", "laser", SIGHT, None, None, 0, "+1 hip inside ~20 m, or +1 after a swap inside ~30 m (not both); the beam shows", K + "laser-sight-under-mount-lumen-or-both"),
  ("tapedlight", "Taped flashlight", "C", "tape", SIGHT | {"hs", "hf", "fl"}, None, None, 0, "a lumen on any gun, slot or not; the beat's move to flick on or off; can't blind", K + "taped-flashlight"),
+ ("floodbeam", "Floodbeam lumen", "U", "laser", SIGHT | {"hs", "fl"}, None, None, 0, "no darkness penalty to ~50 m; in a face inside ~15 m: -3 on their next roll; strobe: -1 on shots in the beam inside ~10 m; seen from ~200 m", K + "floodbeam-lumen"),
  ("lumen", "Under-mount lumen", "C", "laser", SIGHT | {"hs", "fl"}, None, None, 0, "no darkness penalty in the beam; he's lit up too; in a face inside ~5 m in the dark: -2 on their next roll", K + "laser-sight-under-mount-lumen-or-both"),
  ("combo", "Laser and lumen combo", "U", "laser", SIGHT, None, None, 0, "both, switched on alone or together; the lumen can blind (in a face inside ~5 m in the dark: -2 on their next roll)", K + "laser-sight-under-mount-lumen-or-both"),
  ("match", "Match trigger", "U", "trigger", PIST | RIFLE | {"smg", "sg"}, None, None, 0, "+1 aimed; -1 hip/snap", MORE),

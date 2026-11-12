@@ -421,6 +421,14 @@ the target: **no darkness penalty on what's in the beam**, but you're lit up too
 flashlight can't). **Combo
 module** (uncommon, 2 TV): both in one housing; switch either on alone.
 
+### Floodbeam lumen
+
+**Floodbeam lumen** (uncommon, 3 TV, DM's price; Munitorum, Free Traders; the player's ask, Ash on Ostrava day 47). A
+powerful lumen. **A long beam: no darkness penalty out to ~50 m.** **Blinds harder:** shone in a face inside ~15 m in
+the dark, **-3 on their next roll**. **Strobe mode:** everyone in the beam inside ~10 m takes **-1 on their shots**
+while it flickers (switching modes is the beat's move). **He's seen from ~200 m when it's on**, and **one cell lasts a
+fight**. No weight penalty (the player). Takes the **laser slot**, as the [under-mount lumen](#laser-sight-under-mount-lumen-or-both).
+
 ### Pistol reflex sight
 
 **Pistol reflex sight** (uncommon, 2 TV). A small glass window with a glowing dot. **+2 on

@@ -4023,5 +4023,12 @@
   "cat": "mod",
   "rarity": "U",
   "sellers": "MBF"
+ },
+ {
+  "name": "Floodbeam lumen (a powerful lumen: ~50 m beam; blinds -3; strobe)",
+  "tv": 3,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MF"
  }
 ]

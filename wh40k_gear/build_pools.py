@@ -281,6 +281,7 @@ add("ammo","R","AF",[("Ancient plasma cell (through power armour on any hit, +1 
 add("mod","R","ABF",[("Las auto-fire crystal (basic lasgun: strings up to 12; heat on 8+)",10)])
 add("mod","U","MAF",[("Sweep emitter (multi-laser or las-LMG: one string across up to 3 abreast)",5)])
 add("mod","U","MBF",[("Lumen foregrip (+1 first shot; a lumen with a free switch)",1.5)])
+add("mod","U","MF",[("Floodbeam lumen (a powerful lumen: ~50 m beam; blinds -3; strobe)",3)])
 # Day 47: the repeater crystal (bought for Brenner's Accatran, schematic 12). Rules in catalogue/kit.md.
 add("mod","R","AF",[("Repeater crystal, las (strings up to 7; no chain bonuses in the string)",8)])
 add("mod","U","MBF",[("Diamantine whetstone (any edged blade: +1 pierce for the next 2 hits; ~10 uses)",1)])
