@@ -10,6 +10,8 @@ class:** anyone holding that kind of gear can use it, friend or enemy.
   points here, and from here every item with the ability points back.
 - These lines are for the DM and the files; they don't get read out in play.
 
+**Who uses them (the player asked, day 47):** **everyone who carries the gear, on their own, when it makes sense:** the Light's NPCs and enemies alike, played by the DM like any other choice (Dace plants his shield when the fire gets heavy and Tamsin's in the open; a Bulwark plants as it walks up a street). **An order can also call for one** ('Dace, plant!'); an ordered ally answers and does it. Tamsin uses his only when the player says so.
+
 ## Plant
 
 **Shields.** The bearer sets the shield and plants himself for the beat. **It takes his move: he can't move while
