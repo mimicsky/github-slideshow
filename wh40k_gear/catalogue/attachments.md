@@ -36,7 +36,7 @@ his faction's wealth:
   a chain motor only on a chain weapon). If it doesn't fit, roll again on the list.
 - **Special ammo rolls too** (the player, day 47): a gun's special load (HP, AP, HV, belts, darts) is one more slot.
   **Special ammo is uncommon: it's easy to get. Armour-piercing loads are rare** (AP, CAP, tungsten-core belts, shard
-  darts): they're better. The rest keep their catalogue rarity (hellfire belts, widow and truth darts are rare).
+  darts, and for las **the hot-shot conversion with hot-shot packs**, which hits a step harder): they're better. The rest keep their catalogue rarity (hellfire belts, widow and truth darts are rare).
 - **What a gun comes with doesn't count** (a kit's listed scope, a gun's built-in parts): the roll only adds.
 - **Custom builds roll too, by their rarity** (the player, day 47): **simple fixes are common** (swapped springs, cut
   barrels, grips, slings, stocks), **real bench work is uncommon** (a new motor, a twin tray, a matched cell), and
@@ -88,6 +88,7 @@ field, hone, spikes, slot, overdrive, motor, teeth, mgrip, mselector.
 | **HP rounds (hollow point)** | uncommon | load | SMGs, autoguns and stub rifles, stub pistols | flak doesn't shrug it even at range; against no armour or flak a solid hit drops two steps; reinforced flak and heavier shrug it | [stub.md](stub.md#stub-and-autogun-rounds-special-loads) |
 | **HV rounds (high velocity)** | uncommon | load | SMGs, autoguns and stub rifles, stub pistols | +1 aimed past ~30 m; flak doesn't shrug it at range; each shot counts 2 toward Dirty | [stub.md](stub.md#stub-and-autogun-rounds-special-loads) |
 | **Hellfire belt** | rare | load | heavy stubbers | a hit that gets through: CON save vs 15 or one more step | [heavy.md](heavy.md#heavy-stubber-belts-special) |
+| **Hot-shot conversion and hot-shot packs** | rare | load | las pistols, las rifles (only: ^(?!.*(hellgun or hellpistol or hot-shot or volley gun)).*) | hits one step harder (a lasgun hits like a hellgun); packs drain twice as fast; +1 heat a chain on a gun that builds heat | [../../DND_CODEX.md](../../DND_CODEX.md#hot-shot-conversion) |
 | **Inferno belt** | uncommon | load | heavy stubbers | a hit on a raw 17+ sets the target alight | [heavy.md](heavy.md#heavy-stubber-belts-special) |
 | **Man-stopper belt** | uncommon | load | heavy stubbers | against flak or less a solid hit drops an extra step; carapace and heavier shrug it | [heavy.md](heavy.md#heavy-stubber-belts-special) |
 | **Panic darts** | uncommon | load | needle pistols, needle rifles | CON vs 15 or drops what's in hand and runs or hides 2 beats | [stub.md](stub.md#needle-darts-special-loads) |
