@@ -76,7 +76,9 @@ makeshift shield, and nastier.
 **Abilities:** [Plant](abilities.md#plant).
 
 **Forged shield** (uncommon, 6 TV; player design): smith-made to take blows.
-**+2 on the defender\'s roll (block or parry), half cover from the front.**
+**+2 on the defender's roll (block or parry), half cover from the front.** What the 6 TV buys over a
+scrap shield (re-tuned with the player, day 47): **balanced, so no penalty to DEX rolls**, and **it doesn't
+break from heavy hits** (only a power weapon's Field Burst or a melta can ruin it).
 
 ## Shield viewing slot (mod)
 
@@ -156,13 +158,15 @@ Isk's custom range-finder on Patience is a +2 DM-judged part (*Custom, not tradi
 
 ## Extended magazine kits
 
-**Extended magazine kits** (las/stub uncommon, 1.5 TV; bolt/plasma rare, 6 TV):
-**+50% shots** per mag, pack or cell on that weapon.
+**Extended magazine kits** (autogun and stub only; uncommon, 1.5 TV): **+50% rounds** per magazine on that
+weapon. Las guns use an **Extended las pack** ([las.md](las.md)); plasma uses a **Tuned plasma cell**
+([plasma.md](plasma.md)). (Merged with the attachment-list entry, the player, day 47.)
 
 ## Power weapon tuning kit
 
-**Power weapon tuning kit** (rare, 12 TV): steadies a power field (no flicker
-under strain) and it goes **through power armour on any hit**.
+**Power weapon tuning kit** (rare, 12 TV): steadies a power field (no flicker under strain). Power weapons
+already go through power armour, so the kit gives (the player, day 47): **+1 to parry with the tuned weapon**, and
+**its power cell lasts twice as long: 60 power-mode swings, not 30.**
 
 ## Diamantine whetstone
 
@@ -328,8 +332,8 @@ like a knife. Doubles as a machete and tool; never breaks.
 ### Catachan shotgun
 
 **Catachan shotgun** (rare, 6 TV; Munitorum, Free Traders). A semi-auto **16-gauge**:
-shells load through the breach into an **8-round tube**; it fires fast, like a Baikal
-MP-155. **Semi-auto chains of up to 4;** a hit drops one health step like any
+shells load through the breech into an **8-round tube**; it fires as fast as the trigger
+can be pulled. **Semi-auto chains of up to 4;** a hit drops one health step like any
 shotgun; -2 past ~20 m. **Mercury shells** (0.5 TV a box of 10; rare outside
 Catachan): **a hit that goes into flesh** (not stopped by carapace) **poisons the
 target: weakened (-2 on all rolls) for the next 2 beats; on the 3rd beat roll a d6:
@@ -515,7 +519,8 @@ and **disarm attempts against the bearer take -2**.
 
 ### Custom barrel (stub pistols and SMGs; barrel slot)
 
-**Custom barrel** (uncommon, 1.5 TV): **+1 on aimed shots, +1 on shots past ~30 m.**
+**Custom barrel** (uncommon, 1.5 TV): **+1 on aimed shots.** (The +1 past ~30 m is the range-finder's job: re-tuned
+with the player, day 47.)
 
 ### Repeater crystal
 
@@ -581,7 +586,8 @@ checks one target; enemies stacked one behind another: only the front one. On th
   dark**; no noise reduction.
 
 **Magazine**
-- **Extended magazine** (common, 1 TV): **+50% shots**; no draw penalty.
+- **Extended magazine** (uncommon, 1.5 TV; autogun and stub only): **+50% rounds**; no draw penalty. The same
+  item as **Extended magazine kits**, above.
 
 **Grip**
 - **Weighted grip** (common, 0.5 TV): **recoil -1**; **-1 on quick-draw**.

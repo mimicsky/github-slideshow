@@ -73,11 +73,11 @@ field, hone, spikes, slot, overdrive, motor, teeth, mgrip, mselector.
 | --- | --- | --- | --- | --- | --- |
 | **Las auto-fire crystal** | rare | action | las rifles (only: ^(?!.*(hot-shot or hellgun)).*(lasgun or lascarbine)) | strings up to 12; no hit bonuses in the string, misses still -1; strings of 8+ build 1 heat, vent at 3 | [kit.md](kit.md#las-auto-fire-crystal) |
 | **Repeater crystal** | rare | action | las pistols, las rifles | strings up to 7; no chain bonuses in the string, misses still -1 | [kit.md](kit.md#repeater-crystal) |
-| **Custom barrel** | uncommon | barrel | SMGs, stub pistols | +1 aimed, +1 past ~30 m | [kit.md](kit.md#custom-barrel-stub-pistols-and-smgs-barrel-slot) |
+| **Custom barrel** | uncommon | barrel | SMGs, stub pistols | +1 on aimed shots | [kit.md](kit.md#custom-barrel-stub-pistols-and-smgs-barrel-slot) |
 | **Bayonet (fixed)** | common | bayonet | autoguns and stub rifles, las rifles | a spear thrust in melee: chains 2, +1 to strike first; Bayonet Charge | [kit.md](kit.md#bayonet) |
 | **Underslung chain-bayonet** | rare | bayonet | autoguns and stub rifles, las rifles | fights as a chainsword (-1 block/parry); -1 hip snap shots; Bayonet Charge | [kit.md](kit.md#underslung-chain-bayonet) |
 | **Shock-coil kit** | rare | coil | SMGs, autoguns and stub rifles, blades, blunt weapons, bolt pistols, boltguns, chain weapons, heavy stubbers, heavy weapons, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, power weapons, shotguns, stub pistols | after a hit, +1 on his next roll against that target (6 charges a fight) | [kit.md](kit.md#shock-coil-kit) |
-| **Power weapon tuning kit** | rare | field | power weapons | a steady field: through power armour on any hit | [kit.md](kit.md#power-weapon-tuning-kit) |
+| **Power weapon tuning kit** | rare | field | power weapons | +1 to parry with it; its power cell lasts twice as long (60 power-mode swings) | [kit.md](kit.md#power-weapon-tuning-kit) |
 | **Weighted grip** | common | grip | SMGs, autoguns and stub rifles, bolt pistols, boltguns, shotguns, stub pistols | recoil -1; -1 quick-draw | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
 | **Diamantine whetstone** | uncommon | hone | blades | honed before the fight: +1 pierce on its next 2 hits (~10 uses) | [kit.md](kit.md#diamantine-whetstone) |
 | **Floodbeam lumen** | uncommon | laser | SMGs, autoguns and stub rifles, bolt pistols, boltguns, flamers, heavy stubbers, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | no darkness penalty to ~50 m; in a face inside ~15 m: -3 on their next roll; strobe: -1 on shots in the beam inside ~10 m; seen from ~200 m | [kit.md](kit.md#floodbeam-lumen) |
@@ -128,9 +128,10 @@ field, hone, spikes, slot, overdrive, motor, teeth, mgrip, mselector.
 | **Ancient plasma cell** | rare | mag | plasma guns, plasma pistols | through power armour on any hit; a hit drops an extra step; 1 heat a shot; 8 shots, can't be refilled | [plasma.md](plasma.md#ancient-plasma-cell) |
 | **Big flamer tank** | uncommon | mag | flamers, hand flamers | twice the bursts; -1 on dodges; the tank is a target (a 1-4 burst also catches anyone within ~3 m) | [scrap.md](scrap.md#flamer-tanks-and-fuels-special-loads) |
 | **Big melta canister** | uncommon | mag | meltaguns | 14 shots, not 6; -1 on quick-draws and swapping | [plasma.md](plasma.md#melta-canisters-special-loads) |
+| **Extended hot-shot pack** | uncommon | mag | las pistols, las rifles (only: hellgun or hellpistol or hot-shot or volley gun) | 40 shots, not 30 | [las.md](las.md#extended-hot-shot-pack) |
+| **Extended las pack** | uncommon | mag | las pistols, las rifles (only: ^(?!.*(hellgun or hellpistol or hot-shot or volley gun)).*) | 60 shots, not 45 | [las.md](las.md#extended-las-pack) |
 | **Extended lascannon pack** | uncommon | mag | heavy weapons (only: lascannon or las-cannon) | 10 shots, not 6; -1 on swapping | [heavy.md](heavy.md#lascannon-packs-special-loads) |
-| **Extended magazine** | common | mag | SMGs, autoguns and stub rifles, las pistols, las rifles, shotguns, stub pistols | +50% shots | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
-| **Extended magazine kit (bolt or plasma)** | rare | mag | bolt pistols, boltguns, plasma guns, plasma pistols | +50% shots | [kit.md](kit.md#extended-magazine-kits) |
+| **Extended magazine** | uncommon | mag | SMGs, autoguns and stub rifles, stub pistols | +50% rounds (autogun and stub only; audit A5) | [kit.md](kit.md#extended-magazine-kits) |
 | **Extended multi-laser pack** | uncommon | mag | heavy weapons (only: multi-laser or multilaser) | 36 shots, not 12; -1 on swapping | [heavy.md](heavy.md#multi-laser-packs-special-loads) |
 | **Lascannon battery pack** | uncommon | mag | heavy weapons (only: lascannon or las-cannon) | 40 shots; set down and cabled (the beat's move), the gunner stays within ~3 m; a solid hit on it kills it | [heavy.md](heavy.md#lascannon-packs-special-loads) |
 | **Pistol drum** | uncommon | mag | SMGs, las pistols, stub pistols | twice the shots; no quick-draw holster, -1 quick-draw | [kit.md](kit.md#pistol-drums) |

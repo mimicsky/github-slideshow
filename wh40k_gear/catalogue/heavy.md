@@ -101,13 +101,18 @@ braced only, **a pack holds 12 shots**. On the [attachment sheet](attachments.md
 **Valkyrie bolt-rocket pods, pair** (rare, 35 TV; one of the best things a
 Valkyrie can carry): 6 rockets. Each bursts over its target into a spray of
 bolt rounds: everyone within ~6 m is hit through carapace. Fire 1-2 a pass.
+- **Aiming (DM default, day 47):** the pilot rolls **d20 + DEX** against the hidden number for the spot, like a
+  grenade throw; **miss by 1-2 and it still bursts close, at half effect.**
+- **Reload:** **6 rockets, 12 TV** (rare; Munitorum, Free Traders); reloading takes a landing and ~10 minutes.
 
 ## Las-cannon, medium tripod emplacement
 
-**Las-cannon, medium tripod emplacement** (rare, 35 TV): smaller than the crew
-lascannon, bigger than anything carried. Set up in a beat; **one heavy beam
-every other beat** (it recharges). Through power armour and light vehicles;
-needs a coupling or a power cell pack.
+**Las-cannon, medium tripod emplacement** (rare, 35 TV; re-tuned with the player, day 47, so the bigger gun
+isn't worse than the man-portable one). A lascannon on a heavy tripod. Set up in a beat.
+- **Punch:** as the man-portable lascannon: **through anything a person wears, APCs, and tanks from the front.**
+- **Steady mount: +2 on every shot**, and no recoil; it can't move once set up (a beat to pack it).
+- **One beam a beat** on a coupling or a lascannon battery pack; **every other beat** on a plain lascannon pack.
+- Needs a coupling or a pack (Lascannon packs, below).
 
 ## Autocannon shells (special loads)
 

@@ -93,7 +93,7 @@ Then roll.
 - **Armour:** codex Part 8, **Armour** (shrugs or gets through; part-armour; crits always get through, but only one
   step against armour that would have shrugged it; wear-down). Refractor field rolls.
 - **Melee:** codex house rule 5, **the exchange** (opposed rolls, block 1-2 higher, parry 3+, a raw 17+ can't be stopped), **melee chains** (resolve a chain swing by swing; **a parry ENDS the chain**, a block lets it carry on), which stat, two weapons, shields.
-- **Knife bouts on the mat** (codex Part 6, Matches, bouts and knife bouts): **d20 + DEX each, no specialties** (Tamsin adds his proficiency: +11); **vital (2 hits) only on a raw 17+ or a win by 5+, otherwise minor (1)**: no location rolls; first to 2 hits takes the round, first to 5 rounds the bout. (Added day 36 after Kell's bout was first run at +6 STR and specialty.)
+- **Knife bouts on the mat** (codex Part 6, Matches, bouts and knife bouts): **d20 + DEX each, no specialties** (Tamsin adds his proficiency: +12, 8 DEX + 4); **vital (2 hits) only on a raw 17+ or a win by 5+, otherwise minor (1)**: no location rolls; first to 2 hits takes the round, first to 5 rounds the bout. (Added day 36 after Kell's bout was first run at +6 STR and specialty.)
 - Health steps, extra stages, Down (codex Part 6, Breaking and Down).
 
 **9. After the beat, then the reply** (fight card §8-§9).

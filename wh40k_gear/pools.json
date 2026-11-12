@@ -623,7 +623,7 @@
   "sellers": "MB"
  },
  {
-  "name": "Needle rifle (silent toxin darts, 8-dart magazine; CON save or drop a health step)",
+  "name": "Needle rifle (silent, ~150 m, 8-dart magazine; +2 aimed, +1 more past 30 m; the dart sets the save)",
   "tv": 18,
   "cat": "stub",
   "rarity": "R",
@@ -833,7 +833,7 @@
   "sellers": "BF"
  },
  {
-  "name": "Macragge service pistol (Ultramarines; M.45, 12 rounds, laser/light module, compensator)",
+  "name": "Macragge service pistol (Ultramarines; heavy stub, 12 rounds, laser/light module, compensator)",
   "tv": 35,
   "cat": "stub",
   "rarity": "X",
@@ -917,7 +917,7 @@
   "sellers": "BF"
  },
  {
-  "name": "Nemesii blade (Adamus; +2 strike first and parry)",
+  "name": "Nemesii blade (Adamus; +2 strike first and parry; power edge, solid hit two steps; can't be disarmed)",
   "tv": 150,
   "cat": "melee",
   "rarity": "L",
@@ -1209,6 +1209,13 @@
   "cat": "vehicle",
   "rarity": "R",
   "sellers": "MF"
+ },
+ {
+  "name": "Mining charge",
+  "tv": 2,
+  "cat": "explosive",
+  "rarity": "U",
+  "sellers": "MBF"
  },
  {
   "name": "Rivets (hopper of 20; rivet gun)",
@@ -1960,7 +1967,7 @@
   "sellers": "B"
  },
  {
-  "name": "Sticky vortex grenade (Mechanicus; 3 s fuse; can't be thrown back; ~10 m warp shockwave: blown back and knocked flat, ~3 m also a step; daemons two steps)",
+  "name": "Sticky warp-shock grenade (Mechanicus; 3 s fuse; can't be thrown back; ~10 m warp shockwave: blown back and knocked flat, ~3 m also a step; daemons two steps)",
   "tv": 25,
   "cat": "explosive",
   "rarity": "R",
@@ -2527,7 +2534,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Custom barrel, stub pistol/SMG (+1 aimed, +1 past 30 m)",
+  "name": "Custom barrel, stub pistol/SMG (+1 aimed)",
   "tv": 1.5,
   "cat": "mod",
   "rarity": "U",
@@ -2639,7 +2646,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Extended magazine kit, las or stub (+50% shots)",
+  "name": "Extended magazine kit, autogun or stub (+50% rounds)",
   "tv": 1.5,
   "cat": "mod",
   "rarity": "U",
@@ -2660,13 +2667,6 @@
   "sellers": "MF"
  },
  {
-  "name": "Extended magazine kit, bolt or plasma housing (+50% shots)",
-  "tv": 6,
-  "cat": "mod",
-  "rarity": "R",
-  "sellers": "MAF"
- },
- {
   "name": "Range-finder sight (+1 shooting past ~30 m)",
   "tv": 10,
   "cat": "mod",
@@ -2674,7 +2674,7 @@
   "sellers": "MAF"
  },
  {
-  "name": "Power weapon tuning kit (steadies the field, through power armour on any hit)",
+  "name": "Power weapon tuning kit (steadies the field; +1 parry; cell lasts twice as long)",
   "tv": 12,
   "cat": "mod",
   "rarity": "R",
@@ -3001,13 +3001,6 @@
   "cat": "gear",
   "rarity": "U",
   "sellers": "MB"
- },
- {
-  "name": "Servo-skull, gun (built-in laspistol)",
-  "tv": 30,
-  "cat": "gear",
-  "rarity": "R",
-  "sellers": "MAF"
  },
  {
   "name": "Servo-skull, burner (built-in micro-flamer)",
@@ -3430,7 +3423,7 @@
   "sellers": "MF"
  },
  {
-  "name": "Las-cannon, medium tripod emplacement (one heavy beam every other beat)",
+  "name": "Las-cannon, medium tripod emplacement (man-portable lascannon punch; +2 a shot; a beam a beat on a coupling or battery)",
   "tv": 35,
   "cat": "heavy",
   "rarity": "R",
@@ -3948,7 +3941,7 @@
   "sellers": "BF"
  },
  {
-  "name": "Compound bow, 'Kasr Talon' pattern (STR 30+; strings of 1; arrows a step further; +1 aimed)",
+  "name": "Compound bow, 'Kasr Kestrel' pattern (STR 30+; strings of 1; arrows a step further; +1 aimed)",
   "tv": 2,
   "cat": "bow",
   "rarity": "U",

@@ -48,7 +48,7 @@ Autogun punch.
 **Shredder autopistol, Ius pattern** (Darktide; uncommon, 1.5 TV; Munitorum, black
 market, Free Traders). A compact full-auto pistol with a 30-round magazine.
 Shot chains of up to 8 with no hit bonuses (misses still -1). Autopistol punch:
-good on flesh, poor on flak, through carapace only on a solid hit.
+good on flesh, poor on flak; carapace shrugs it (a crit gets through; AP and CAP loads do better).
 
 ## Twin-barrel autopistol, 'Kasr Hydra' pattern
 
@@ -210,7 +210,7 @@ aspirants who reach the Fortress of Hera in their trials, so it is **human-sized
 golden Ultramarines sigil on the body** and a stamped service number beneath it.
 Exposed hammer, slide serrations front and rear, a **fixed laser and light module**
 under the barrel, and a **compensator** on the muzzle.
-- **M.45 heavy stub rounds:** hits like a stub revolver; through carapace on a
+- **Heavy stub rounds:** hits like a stub revolver; through carapace on a
   solid hit. **12-round magazine.** Effective to about **60 m**.
 - **Semi-auto:** chains of up to 4 single shots, normal hit bonuses.
 - **Compensator:** a miss in a chain gives no -1.
@@ -223,7 +223,7 @@ under the barrel, and a **compensator** on the muzzle.
 
 **Auto-revolver, 'Hammerfall' pattern** (player design, uncommon; stub 2 TV, long
 2.5 TV). Full-metal frame, built-in iron sights, an 8-round cylinder of autogun
-rounds (autogun punch: through carapace only on a solid hit). Holding the trigger
+rounds (autogun punch: carapace shrugs it; a crit gets through). Holding the trigger
 hammers the cylinder: a shot chain of up to 8. Recoil: in that rapid chain, hits
 give no +2/+1 to the next shot; misses still give -1. Single aimed shots work as
 normal. Stub barrel: +1 within 10 m, -2 past 20 m, easy to hide. Long barrel: +1 on
@@ -287,7 +287,7 @@ stub revolver**; **-2 past ~10 m.** **No attachment slots** (a taped flashlight 
 market; the player's idea, Ash on Ostrava day 47: a bolt-action autoround hunting rifle). **Bolt action on autogun
 rounds:** a **5-round internal magazine** (a stripper clip loads it in half a beat). **Strings of 2** (working the bolt);
 **recoil 1.** A long, true hunting barrel: **+1 on aimed shots past ~30 m.** Autogun punch (good on flesh, poor on flak
-at range, carapace only on a solid hit); special auto rounds load (HP, AP, HV, CAP). **A full rifle's attachment
+at range; carapace shrugs it, a crit gets through); special auto rounds load (HP, AP, HV, CAP). **A full rifle's attachment
 slots** (a scope is the usual fit). Commoners and hunters carry it.
 
 **Abilities:** [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun). No Trigger Finger (a manual action).
@@ -347,22 +347,25 @@ a beat's work). 4 shots a canister; spare canisters uncommon, 1 TV.
 ## Needle rifle
 
 **Needle rifle** (rare, 18 TV; black market, Free Traders). Silent. Fires toxin
-darts, 8 to a magazine. Against flesh or flak, a hit forces a CON save: fail and
-the target drops a health step next beat. Against carapace, only a solid hit
-(beats the target's roll by 3+) finds a gap. +1 on single aimed shots past 30 m.
-Spare darts uncommon, 2 TV for 8.
+darts, 8 to a magazine. The needle pistol's punch with a rifle's reach: **effective to ~150 m**
+(the pistol: ~25 m). **Long barrel and a fixed scope: +2 on aimed shots, and +1 more past ~30 m.**
+A hit drops one step as normal, **plus the dart's toxin** (the save number is on the dart, not the gun:
+the standard dart is **CON 15 or Down**; see Needle darts, below). Against carapace, only a solid hit
+(beats the target's roll by 3+) finds a gap. Spare darts uncommon, 2 TV for 8.
 
 ## Needle pistol (Kesh's pattern)
 
 **Needle pistol, Kesh's pattern** (Nessa's; not in the shop pools; Ash on Ostrava, session 10, DM default from
 Nessa's 'one dart, done'; the player may change it). Silent, about 25 m, one dart a beat. A hit drops one step as
-normal, and the toxin forces a **CON save against 15 or the target goes Down** (paralysed, alive; wears off after
-the fight). Takes the special darts below.
+normal, plus the dart's toxin (the standard dart: **CON save against 15 or the target goes Down**, paralysed, alive;
+wears off after the fight). Takes the special darts below.
 
 ## Needle darts (special loads)
 
 **Needle darts, special loads** (player picks, Ash on Ostrava day 35; black market, Free Traders). Fit any
-needle pistol or needle rifle. **The standard toxin dart:** against flesh, flak or mesh the dart gets in;
+needle pistol or needle rifle. **The save number lives on the dart, not the gun** (the player, day 47). **The standard toxin dart:**
+**CON save against 15 or the target goes Down** (paralysed, alive; wears off after the fight). Against flesh,
+flak or mesh the dart gets in;
 **against carapace only a solid hit finds a gap** (the needle rifle's rule); heavier armour stops it. A
 magazine holds one load at a time.
 
@@ -390,7 +393,7 @@ roll, AP and CAP count as rare** (only there; the shop rarity below stands: the 
 | **HP** (hollow point) | stub, auto | uncommon, 1 TV a box | Opens up in flesh. **Flak doesn't shrug it, even at range; against no armour or flak, a solid hit drops two steps.** Reinforced flak and heavier shrug it |
 | **AP** (armour-piercing) | stub, auto | uncommon, 1.5 TV a box | Hardened steel core. **Flak and reinforced flak don't shrug it; through carapace on a solid hit inside ~15 m.** Heavy carapace and heavier shrug it (changed with the player, day 36 cleanup). Punches straight through flesh: **against no armour, a crit drops just one step** (no extra) |
 | **HV** (high velocity) | stub, auto | uncommon, 1 TV a box | Hot load, light bullet. **+1 on aimed shots past 30 m; flak doesn't shrug it at range.** The hot powder fouls the gun: **each HV shot counts as 2 toward Dirty**; in a never-jam gun (the Kasr Frontier) **the string takes -1 after 20 HV rounds until the gun is cleaned** (changed with the player, day 36 cleanup) |
-| **Flat-tip** (the player's design) | stub | uncommon, 0.75 TV a box | A regular round, except against armour it can't get through: **a shrugged flat-tip hit counts as 2 shrugged hits toward wear-down** (Armour: every 3 drop a step) |
+| **Flat-tip** (the player's design) | stub | uncommon, 0.75 TV a box | A regular round, except against armour it can't get through: **a shrugged flat-tip hit counts as 2 shrugged hits toward wear-down** (Armour, wear-down: every 6 drop a step). **Ceramite-forged and power armour: no wear-down at all** (stub is too weak to matter: codex, Armour) |
 | **CAP** (ceramite-tipped armour-piercing) | auto | uncommon, 2 TV a box | A ceramite tip on a steel core (changed by the player, day 36: tipped, not cored, so it's cheap enough to use; a hot-shot pack does the same for free). **Flak and reinforced flak don't shrug it; through carapace on a solid hit at any range.** Heavy carapace and heavier shrug it (changed with the player, day 36 cleanup). Punches through flesh like AP (**against no armour, a crit drops just one step**) |
 
 ## Shotgun shells (special loads)

@@ -92,8 +92,13 @@ the target drops a health step.
 
 ## Adamus Temple: Nemesii blade
 
-**Nemesii blade** (legendary, 150 TV): a precision duelling blade. **+2 to strike
-first and to parry**, and through carapace on a raw 17+.
+**Nemesii blade** (legendary, 150 TV): a precision duelling blade with a power-field edge
+(buffed with the player, day 47: a legendary blade has to beat a 28 TV falchion).
+- **+2 to strike first and to parry.** A light blade: **melee chains of up to 4.**
+- **Power edge:** goes through everything a power weapon does (power armour on any hit), and **a solid
+  hit drops two steps.**
+- **Adamus balance:** it **can't be disarmed**, and **a parry that beats the attack by 5+ gives a free
+  riposte** (one swing, no chain).
 
 ## Venenum Temple: Toxin injectors and poison globes
 

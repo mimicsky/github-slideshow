@@ -34,7 +34,7 @@ of metres, or further on a good Perception roll.
 
 ## Mining charges
 
-**Mining charges** (the bomb-runners' and bomb zealots' blast; Ash on Ostrava, day 34, DM default; the player may
+**Mining charges** (uncommon, 2 TV each, DM's price, day 47; Munitorum, mining guilds, black market; the bomb-runners' and bomb zealots' blast; Ash on Ostrava, day 34, DM default; the player may
 change it). A bomb with a **mining charge** in it hits everyone within **~8 m for two steps**; a fire bomb in the
 mix sets them alight; choke gas leaves a cloud for 3 beats. Anyone right on top of it (~2 m) gets no dive. In a
 launcher it is an explosive, not a grenade (Grenades and explosives in launchers, below).
@@ -147,9 +147,9 @@ minutes from a bottle, promethium and a rag). A hive gang's firebomb: **weaker t
   light it).
 - **Natural 1:** the rag drips and catches the thrower's sleeve: **the thrower is alight.**
 
-## Sticky vortex grenade (Mechanicus)
+## Sticky warp-shock grenade (Mechanicus)
 
-**Sticky vortex grenade** (rare, ~25 TV; Mechanicus, Free Traders; player design, Ash on Ostrava day 44).
+**Sticky warp-shock grenade** (rare, ~25 TV; Mechanicus, Free Traders; player design, Ash on Ostrava day 44).
 A Mechanicus-forged sphere the size of a fist, smooth but for one small stud. **Click the stud, throw it,
 and three seconds later it goes off**: a blast of raw warp energy that tears outward as a shockwave.
 Carrying one draws questions from the Ordos, and from any tech-priest who sees it.
@@ -171,7 +171,7 @@ Set by the player, Ash on Ostrava session 10.
   clear. Cover that doesn't close over them doesn't help.
 - **Impact frag** (Ottrick's conversion; two red tape bands on the cap, standard frags have one): bursts on
   contact, so **no dive and no throwing it back**.
-- **Krak:** hits **one target, door or vehicle** hard and **goes through carapace**. Tiny blast.
+- **Krak:** hits **one target, door or vehicle** hard and **goes through power armour** (and anything lighter; codex, Armour). Tiny blast.
 - **Smoke:** a cloud **~8 m** wide for **2-3 beats**. No aimed shots through it, only blind ones.
 - **Photon flash:** everyone within **~8 m** is blinded **1 beat (-3 on shots)**. A weaker spec flash, no flares.
 - **Choke gas:** a cloud for **3 beats**. Anyone without a mask, rebreather or void-mask is at **-2** and coughing.
@@ -189,6 +189,6 @@ and nothing else fits it.
 
 ## Revolver-drum grenade launcher ('Six Bells', Hollis's)
 
-Set by the player, Ash on Ostrava session 10. Fires the **grenades** above (frag, impact frag, smoke, flash,
+**Rare, ~12 TV** (DM's price, day 47; Munitorum, Free Traders). Set by the player, Ash on Ostrava session 10. Fires the **grenades** above (frag, impact frag, smoke, flash,
 spec flash, choke gas; **not kraks**, see below) out to **~100 m**. **One shot a beat**, rolled like a throw (d20 + DEX + Hollis's grenadier +2;
 the near-miss rule applies). The **drum holds 6**; **reloading the whole drum takes a full beat**.
