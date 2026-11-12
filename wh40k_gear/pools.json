@@ -3855,5 +3855,12 @@
   "cat": "ammo",
   "rarity": "U",
   "sellers": "MAF"
+ },
+ {
+  "name": "Lascannon battery pack (40 shots; set down, the gunner stays within ~3 m)",
+  "tv": 15,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MAF"
  }
 ]

@@ -253,7 +253,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Flamer tanks and fuels, special](scrap.md#flamer-tanks-and-fuels-special-loads) (big tank, sulphur, thermite, cut phosphex)
 - [Bolt rounds, special](bolt.md#bolt-rounds-special-loads) (Kraken, off-brand, meltacore, storm, vengeance)
 - [Shotgun shells, special](stub.md#shotgun-shells-special-loads) (man-stopper, dragon's breath, hellfire)
-- [Lascannon packs, special](heavy.md#lascannon-packs-special-loads) (Mechanicus, extended)
+- [Lascannon packs, special](heavy.md#lascannon-packs-special-loads) (Mechanicus, extended, battery)
 - [Heavy stubber belts, special](heavy.md#heavy-stubber-belts-special) (hollow point, inferno, tungsten-core, hellfire)
 - [Brute stubber, 'Kasr Deddog' pattern](heavy.md#brute-stubber-kasr-deddog-pattern) (brutes only, STR 50+)
 - [Twin-linked heavy stubber, 'Bullgryn' pattern](heavy.md#twin-linked-heavy-stubber-bullgryn-pattern) (brutes only, strings of 16)

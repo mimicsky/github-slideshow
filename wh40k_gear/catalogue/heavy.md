@@ -108,6 +108,11 @@ emplacements. On the [attachment sheet](attachments.md#the-rollable-list).)
   points, not 1.** Runs hot: **+1 heat a shot; vent a beat at 3.**
 - **Extended lascannon pack** (uncommon, 8 TV, DM's price; Munitorum, Mechanicus, Free Traders). **10 shots, not 6.**
   Heavier: **-1 on swapping.** It's the pack's size, so a Mechanicus fill can come in one.
+- **Lascannon battery pack** (uncommon, 15 TV, DM's price; Munitorum, Mechanicus, Free Traders; the player's idea: a
+  set-down pack the size of a cooler). **40 shots.** **Set down to use:** setting it down and cabling in takes the
+  beat's move, and the gunner **can't move more than ~3 m from it** until he unplugs. **Hauling it:** a second person
+  carries it, or the gunner moves at half speed with **-2 on dodges**. **It's a target:** a solid hit on it shorts it
+  out (the pack is dead). It also feeds a las-cannon emplacement.
 
 ## Ship and vehicle autocannons on people
 

@@ -123,6 +123,7 @@ field, hone, spikes, slot, overdrive, motor, teeth, mgrip, mselector.
 | **Extended lascannon pack** | uncommon | mag | heavy weapons (only: lascannon or las-cannon) | 10 shots, not 6; -1 on swapping | [heavy.md](heavy.md#lascannon-packs-special-loads) |
 | **Extended magazine** | common | mag | SMGs, autoguns and stub rifles, las pistols, las rifles, shotguns, stub pistols | +50% shots | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
 | **Extended magazine kit (bolt or plasma)** | rare | mag | bolt pistols, boltguns, plasma guns, plasma pistols | +50% shots | [kit.md](kit.md#extended-magazine-kits) |
+| **Lascannon battery pack** | uncommon | mag | heavy weapons (only: lascannon or las-cannon) | 40 shots; set down and cabled (the beat's move), the gunner stays within ~3 m; a solid hit on it kills it | [heavy.md](heavy.md#lascannon-packs-special-loads) |
 | **Pistol drum** | uncommon | mag | SMGs, las pistols, stub pistols | twice the shots; no quick-draw holster, -1 quick-draw | [kit.md](kit.md#pistol-drums) |
 | **Tuned plasma cell** | rare | mag | plasma guns, plasma pistols | 12 shots, not 8 | [plasma.md](plasma.md#tuned-plasma-cell) |
 | **Compensator** | uncommon | muzzle | SMGs, autoguns and stub rifles, bolt pistols, boltguns, heavy stubbers, shotguns, stub pistols | recoil -2; +1 more after each hit; -1 aimed | [kit.md](kit.md#muzzles) |
