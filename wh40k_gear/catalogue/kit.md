@@ -170,7 +170,19 @@ under strain) and it goes **through power armour on any hit**.
 hone any edged blade (not chain or power): **+1 pierce on its next 2 hits**
 (counts as +1 against armour). About 10 uses.
 
+## Bayonet
+
+**Bayonet** (common, 0.3 TV; Munitorum issue; a combat knife with a lug fits most rifles; set with the player, day 47).
+A blade fixed on a rifle's bayonet lug (lasguns, autoguns, hellguns, stub rifles; the Kasr Frontier and Vigil take
+one). **A gun with a fixed bayonet is a melee weapon too:** no swapping between shooting and stabbing; in melee it's
+**a two-handed spear thrust: chains of 2, +1 to strike first** (the reach). A plain bayonet cuts like a knife
+(through flak; carapace shrugs it).
+
+**Abilities:** [Bayonet Charge](abilities.md#bayonet-charge).
+
 ## Underslung chain-bayonet
+
+**Abilities:** [Bayonet Charge](abilities.md#bayonet-charge) (it fights as a chain weapon).
 
 **Underslung chain-bayonet** (rare, 10 TV): a short chainsword mounted under a
 rifle (lasgun, hellgun, autogun, Las-box). In melee the rifle counts as a

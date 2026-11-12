@@ -195,6 +195,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Extended magazine kits](kit.md#extended-magazine-kits)
 - [Power weapon tuning kit](kit.md#power-weapon-tuning-kit)
 - [Diamantine whetstone](kit.md#diamantine-whetstone)
+- [Bayonet](kit.md#bayonet)
 - [Underslung chain-bayonet](kit.md#underslung-chain-bayonet)
 - [Shock-coil kit](kit.md#shock-coil-kit)
 - [Psy-ward amulet](kit.md#psy-ward-amulet) (epic)

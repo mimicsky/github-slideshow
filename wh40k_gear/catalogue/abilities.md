@@ -130,3 +130,18 @@ first shot of the string, so no recoil, no chain.
 [plasma.md](plasma.md), [scrap.md](scrap.md) and the guns in [assassinorum.md](assassinorum.md) (said once at the top
 of each file, not on each entry). Launchers that fire one round a beat (Six Bells) gain nothing from it.
 
+## Bayonet Charge
+
+**Any gun with a fixed bayonet** (set by the player, day 47). The bayonet also makes the gun a melee weapon: no
+swapping; in melee **a two-handed spear thrust, chains of 2, +1 to strike first** ([Bayonet](kit.md#bayonet)).
+1. **Sprint into melee and thrust: +2 on the first stab.** On a hit, **the target is knocked back a step and loses
+   his next swing.**
+2. **Then one shot, point blank** (1-10 m: the easiest band). **One shot, not the string;** it can come before the
+   thrust (on the way in) or **after it, into him.** (No Precision Sacrifice: there's no string to give up.)
+- Cooldown: 3 beats, like every ability.
+
+**Items with it:** [Bayonet](kit.md#bayonet) (any rifle with a lug, a combat knife fixed on one); [Underslung
+chain-bayonet](kit.md#underslung-chain-bayonet) (it thrusts as a chain weapon). **Enemy kits** with a 'bayonet
+(fixed)' have it. **Owned in Ash on Ostrava:** **Vigil**, with Tamsin's combat knife fixed as its bayonet (campaign
+sheet).
+
