@@ -97,9 +97,16 @@ melta bomb, which is its own explosive. Fits meltaguns, multi-meltas and inferno
 shots, 5 TV. Melta already burns through every armour a person wears. On the
 [attachment sheet](attachments.md#the-rollable-list).)
 
+**The carry-over kick** (the player, day 47): a melta fires one shot a beat, so recoil (which only hits later shots in
+a string) never applies. A canister with **the kick** instead gives **-1 on his next melta shot**: firing every beat,
+every shot after the first is -1; a beat without firing clears it.
+
 - **Astartes melta canister** (rare, 15 TV, DM's price; Astartes-pattern, black market, Mechanicus, Free Traders;
   **rare in the enemy roll**). **A hit on a vehicle takes 2 hull points, not 1** ([vehicles.md](../bestiary/vehicles.md)).
-  Otherwise a standard canister.
+  **The kick** (-1 on his next melta shot). Otherwise a standard canister.
 - **Big melta canister** (uncommon, 8 TV, DM's price; Munitorum, Mechanicus, Free Traders). **14 shots, not 6** (the
   player's number). Bulky: **-1 on quick-draws and swapping.** It's the canister's size, so any fill can come in one
   (a big Astartes canister).
+- **Mechanicus melta canister** (rare, 12 TV, DM's price; Mechanicus, Free Traders; **rare in the enemy roll**). The
+  player's idea, more damage: **inside ~8 m a hit drops 3 steps** (past that, as standard). **The kick** (-1 on his
+  next melta shot). It burns fast: **4 shots, not 6** (a big one: 14 x 4/6 = 9).
