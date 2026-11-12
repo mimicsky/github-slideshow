@@ -106,6 +106,8 @@ emplacements. On the [attachment sheet](attachments.md#the-rollable-list).)
 - **Mechanicus lascannon pack** (rare, 20 TV, DM's price; Mechanicus, Free Traders; **rare in the enemy roll**). More
   pen, and on people there's nothing left to pierce, so it goes into vehicles: **a hit on a vehicle takes 2 hull
   points, not 1.** Runs hot: **+1 heat a shot; vent a beat at 3.**
+- **Extended lascannon pack** (uncommon, 8 TV, DM's price; Munitorum, Mechanicus, Free Traders). **10 shots, not 6.**
+  Heavier: **-1 on swapping.** It's the pack's size, so a Mechanicus fill can come in one.
 
 ## Ship and vehicle autocannons on people
 

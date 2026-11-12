@@ -109,6 +109,7 @@ A = [
  ("a_vengeance", "Vengeance bolt rounds", "R", "load", {"bp", "br", "hv"}, r"bolt", None, 0, "against power armour a hit drops an extra step; through an APC's armour; a natural 1 cooks off: he drops a step, the gun is out", "bolt.md#bolt-rounds-special-loads"),
  ("a_eco", "Las eco pack", "C", "load", {"lp", "lr"}, r"^(?!.*(hellgun|hellpistol|hot-shot|volley gun)).*", None, 0, "120 shots; flak shrugs it past ~15 m, reinforced flak always", "las.md#las-eco-pack"),
  ("a_mechlas", "Mechanicus lascannon pack", "R", "load", {"hv"}, r"lascannon|las-cannon", None, 0, "a hit on a vehicle takes 2 hull points; +1 heat a shot, vent at 3", "heavy.md#lascannon-packs-special-loads"),
+ ("a_extlas", "Extended lascannon pack", "U", "mag", {"hv"}, r"lascannon|las-cannon", None, 0, "10 shots, not 6; -1 on swapping", "heavy.md#lascannon-packs-special-loads"),
  ("a_manstopper", "Man-stopper shells (armour-piercing slug)", "R", "load", {"sg"}, None, None, 0, "one slug, one target, no spread; flak and reinforced flak don't shrug it; through carapace on a solid hit inside ~15 m", "stub.md#shotgun-shells-special-loads"),
  ("a_dragon", "Dragon's breath shells", "U", "load", {"sg"}, None, None, 0, "shot at, the target is flashed: -1 on his next shot; hit, -2 instead; a hit on a raw 17+ sets him alight", "stub.md#shotgun-shells-special-loads"),
  ("a_hellshell", "Hellfire shells", "R", "load", {"sg"}, None, None, 0, "a hit that gets through: CON save vs 10 or one more step", "stub.md#shotgun-shells-special-loads"),

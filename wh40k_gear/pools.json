@@ -3848,5 +3848,12 @@
   "cat": "ammo",
   "rarity": "R",
   "sellers": "AF"
+ },
+ {
+  "name": "Extended lascannon pack (10 shots; -1 swapping)",
+  "tv": 8,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MAF"
  }
 ]
