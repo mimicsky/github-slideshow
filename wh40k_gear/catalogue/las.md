@@ -2,7 +2,7 @@
 
 Item rules for this category. General rules (heat, hot-shot, drop-prone, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
 
-**Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown). **Las-LMGs (the Kasr Rain, the Las-box) also have [Pinned Fire](abilities.md#pinned-fire)** (spray an area: -1 on their shots next beat, breaking cover draws a shot; day 47).
+**Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown). **Las-LMGs (the Kasr Rain, the Las-box) also have [Pinned Fire](abilities.md#pinned-fire)** (spray an area: -1 on their shots next beat, breaking cover draws a shot; day 47). **Every las gun fired single (not the las-LMGs or machine pistols) has [Trigger Finger](abilities.md#trigger-finger)** (+1 every shot, +2 shots, a miss -2, +1 recoil; day 47).
 
 ## Las bullpup SMG, 'Kasr Volt' pattern
 

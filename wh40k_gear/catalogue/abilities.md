@@ -240,3 +240,20 @@ axes, mauls, knives, fists, thunder hammers, relic blades. Enemies' alike. **Own
 Commissar Varo's power sword (Tamsin's off weapon), Corvane's power sword, Varga's and Nessa's power knives, and any
 other power weapon on the campaign sheet.
 
+## Trigger Finger
+
+**Semi-automatic guns** (the player's design, day 47). He works the trigger as fast as the gun will cycle.
+- **+1 on every shot of the string** (the hair trigger's buff, on every shot; it doesn't stack with a fitted hair
+  trigger's first-shot +1: DM default).
+- **+2 shots to the string** (Vigil's 4 becomes 6; a string of 3 becomes 5).
+- **A miss costs -2 in the chain, not -1**, and **+1 recoil** (each shot after the first takes -1 more).
+- Cooldown: 3 beats, and it's his one ability that beat.
+
+**Items with it** (DM default, the player may change it): **guns that fire one round a pull and cycle themselves:**
+every las gun fired single (pistols, rifles, carbines, hellguns, long-las), stub automatics, autopistols and autoguns
+on single, semi-auto shotguns, bolt pistols and boltguns. **Not:** manual actions (lever, pump, bolt-action,
+break-action), revolvers (they have [Fan the Hammer](#fan-the-hammer)), guns that only fire full auto (machine pistols,
+SMGs, LMGs), plasma (heat), heavy weapons, launchers, flamers, melta. Said once at the top of [las.md](las.md),
+[stub.md](stub.md) and [bolt.md](bolt.md). Enemies' alike. **Owned in Ash on Ostrava:** Tamsin's Vigil, Last Word and
+the Columnus (on single), and every las gun the Light carry.
+

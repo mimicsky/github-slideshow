@@ -2,7 +2,7 @@
 
 Item rules for this category. General rules (heat, hot-shot, drop-prone, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
 
-**Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown). **Revolvers** (stub revolvers and any hammer revolver; not the Hammerfall auto-revolver) **also have [Fan the Hammer](abilities.md#fan-the-hammer)** (the whole cylinder in one string, -2 each; day 47). **Autoguns and SMGs that fire full auto also have [Pinned Fire](abilities.md#pinned-fire)** (spray an area: -1 on their shots next beat, breaking cover draws a shot; day 47).
+**Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown). **Revolvers** (stub revolvers and any hammer revolver; not the Hammerfall auto-revolver) **also have [Fan the Hammer](abilities.md#fan-the-hammer)** (the whole cylinder in one string, -2 each; day 47). **Autoguns and SMGs that fire full auto also have [Pinned Fire](abilities.md#pinned-fire)** (spray an area: -1 on their shots next beat, breaking cover draws a shot; day 47). **Semi-auto guns (stub automatics, autopistols and autoguns on single, semi-auto shotguns; not revolvers or manual actions) have [Trigger Finger](abilities.md#trigger-finger)** (+1 every shot, +2 shots, a miss -2, +1 recoil; day 47).
 
 ## Infantry autogun, 'Columnus' pattern
 

@@ -2,7 +2,7 @@
 
 Item rules for this category. General rules (heat, hot-shot, drop-prone, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
 
-**Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown).
+**Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown). **Bolt pistols and boltguns have [Trigger Finger](abilities.md#trigger-finger)** (+1 every shot, +2 shots, a miss -2, +1 recoil; day 47).
 
 
 ## Bolt rounds (special loads)
