@@ -245,6 +245,7 @@ add("ammo","R","B",[("Cut phosphex (a can; forbidden: can't be beaten out, burns
 add("ammo","U","BF",[("Sulphur fuel (a can; flamers: +1 step on a hit; choking fumes)",2)])
 # Day 47: off-brand bolt rounds (the player's idea). Rules in catalogue/bolt.md.
 add("ammo","C","BF",[("Off-brand bolt rounds (25; less pen: power armour shrugs them, a crit just one step)",2.5)])
+add("ammo","R","BAF",[("Meltacore bolt rounds (10; through tank armour; +1 heat a string; +1 recoil)",25)])
 # Day 47: melta canisters (the player's ideas). Rules in catalogue/plasma.md.
 add("ammo","U","MAF",[("Big melta canister (14 shots; -1 quick-draw and swapping)",8)])
 add("ammo","R","BAF",[("Astartes melta canister (a hit on a vehicle: 2 hull points; -1 on the next melta shot)",15),("Mechanicus melta canister (3 steps inside ~8 m; -1 on the next melta shot; 4 shots)",12),("Incinerator canister (3 steps inside ~8 m, 2 hull points, sets alight; a crit: straight to Down; -2 next shot; 3 shots)",25)])

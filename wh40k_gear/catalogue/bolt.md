@@ -19,6 +19,13 @@ badly-made bolts: **less pen:** through carapace, but **heavy carapace and ceram
 **power armour shrugs them** (it can still be worn down by them); **less damage:** **a crit drops just one step** (no
 extra). Fits any bolt weapon.
 
+**Meltacore bolt rounds** (rare, 25 TV for 10, DM's price; Mechanicus, black market, Free Traders; **rare in the
+enemy roll**; the player's idea, day 47: named meltacore, not hellfire, because hellfire means bio-acid on the shells,
+the belt and the Vindicare's rounds). Super-hot cores: **they get through a tank's armour from any side** (a hit takes a
+hull point: [vehicles.md](../bestiary/vehicles.md)). Too hot for the gun: **+1 heat a string; at 3 it vents a beat**
+(Vigil's scale). **Heavier kick: +1 recoil** (each shot after the first in a string takes -1 more: a boltgun's 2
+becomes 3). Fits any bolt weapon.
+
 ## Bolt-shotgun, 'Breacher' pattern
 
 **Bolt-shotgun, 'Breacher' pattern** (player design, rare, 10 TV). A short,

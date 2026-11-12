@@ -3806,5 +3806,12 @@
   "cat": "ammo",
   "rarity": "C",
   "sellers": "BF"
+ },
+ {
+  "name": "Meltacore bolt rounds (10; through tank armour; +1 heat a string; +1 recoil)",
+  "tv": 25,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "BAF"
  }
 ]
