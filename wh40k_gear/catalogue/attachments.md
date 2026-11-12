@@ -1,7 +1,7 @@
 # Attachments
 
 The Light's attachment sheet (set by the player, Ash on Ostrava day 47). Three parts:
-1. **[Enemy attachments](#enemy-attachments):** how enemies roll them.
+1. **[Fitted and working](#fitted-and-working-every-attachment)** and **[Enemy attachments](#enemy-attachments):** when one counts, and how enemies roll them.
 2. **[The rollable list](#the-rollable-list):** every traditional attachment and part, for the roller (step 3: being built).
 3. **[Custom builds](#custom-builds):** every part the Light designed and built themselves. **Custom, not traditional: no
    trader carries these.**
@@ -9,6 +9,13 @@ The Light's attachment sheet (set by the player, Ash on Ostrava day 47). Three p
 **The paper trail:** traditional attachments keep their full entries in [kit.md](kit.md) (and [las.md](las.md),
 [plasma.md](plasma.md)); custom builds are written here in full, each gun linked to the schematic that made it, and
 **every schematic on the campaign's [`schematics.md`](../../campaigns/ash-on-ostrava/schematics.md) links back here.**
+
+## Fitted and working (every attachment)
+
+**An attachment only does anything while it's fully fitted and working** (the player, day 47). Half on, loose, broken
+or still in a pouch, it gives nothing. **Fitting or taking off a quick one in a fight (a bayonet) takes the beat's
+move;** everything else is fitted at the bench (an hour or two: [kit.md](kit.md#pistol-and-gun-attachments-player-designs-ash-on-ostrava-session-10)).
+Tamsin's scorched-tip knife rides on his belt and only gives Vigil a bayonet once it's fixed on the lug.
 
 ## Enemy attachments
 

@@ -174,7 +174,7 @@ hone any edged blade (not chain or power): **+1 pierce on its next 2 hits**
 
 **Bayonet** (common, 0.3 TV; Munitorum issue; a combat knife with a lug fits most rifles; set with the player, day 47).
 A blade fixed on a rifle's bayonet lug (lasguns, autoguns, hellguns, stub rifles; the Kasr Frontier and Vigil take
-one; **fixing or unfixing one takes the beat's move**, DM default). **A gun with a fixed bayonet is a melee weapon too:** no swapping between shooting and stabbing; in melee it's
+one; **fixing or unfixing one takes the beat's move**, and it only counts once it's fully fixed: [attachments.md](attachments.md#fitted-and-working-every-attachment)). **A gun with a fixed bayonet is a melee weapon too:** no swapping between shooting and stabbing; in melee it's
 **a two-handed spear thrust: chains of 2, +1 to strike first** (the reach). A plain bayonet cuts like a knife
 (through flak; carapace shrugs it).
 
@@ -391,7 +391,7 @@ played by anyone who holds it.
 
 **The attachment sheet** ([attachments.md](attachments.md)) lists them all for the roller, how enemies roll them, and the Light's **custom builds** (no trader carries those).
 
-A smith (Dace, or Ferro-Ashe) fits any of these in an hour or two at the bench.
+A smith (Dace, or Ferro-Ashe) fits any of these in an hour or two at the bench. **An attachment only works while it's fully fitted and working** ([attachments.md](attachments.md#fitted-and-working-every-attachment)).
 
 ### Pressure-pin safety (hair triggers)
 
