@@ -43,6 +43,7 @@ force's numbers.**
   **5** a crewman down (that gun stops until someone takes his place); **6** on fire (+1 hull point now and
   another each beat until put out).
 - **An Astartes melta canister** in a melta gun: a hit takes **2 hull points** (catalogue plasma.md, day 47).
+- **A Mechanicus lascannon pack:** a hit takes **2 hull points** (catalogue heavy.md, day 47).
 - **Meltacore bolts** get through a **tank's** armour from any side; **Kraken and vengeance bolts** get through an APC's
   (catalogue bolt.md, day 47).
 - **Charges by hand** (in contact): **a melta bomb clamped on: 3 hull points, through any armour. A demo

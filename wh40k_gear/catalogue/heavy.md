@@ -96,6 +96,17 @@ lascannon, bigger than anything carried. Set up in a beat; **one heavy beam
 every other beat** (it recharges). Through power armour and light vehicles;
 needs a coupling or a power cell pack.
 
+## Lascannon packs (special loads)
+
+(Written with the player, Ash on Ostrava day 47. **The man-portable lascannon** has no entry of its own yet: it gets
+through anything a person wears, APCs, and tanks from the front ([vehicles.md](../bestiary/vehicles.md)); **one beam a
+beat; a standard lascannon pack holds 6 shots** (DM default, day 47). Fits man-portable lascannons and las-cannon
+emplacements. On the [attachment sheet](attachments.md#the-rollable-list).)
+
+- **Mechanicus lascannon pack** (rare, 20 TV, DM's price; Mechanicus, Free Traders; **rare in the enemy roll**). More
+  pen, and on people there's nothing left to pierce, so it goes into vehicles: **a hit on a vehicle takes 2 hull
+  points, not 1.** Runs hot: **+1 heat a shot; vent a beat at 3.**
+
 ## Ship and vehicle autocannons on people
 
 **Ship and vehicle autocannons on people** (a rule, not an item: the autocannon itself is in pools.json; Ash on

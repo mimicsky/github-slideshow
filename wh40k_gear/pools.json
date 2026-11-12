@@ -3841,5 +3841,12 @@
   "cat": "mod",
   "rarity": "R",
   "sellers": "ABF"
+ },
+ {
+  "name": "Mechanicus lascannon pack (a vehicle hit: 2 hull points; +1 heat a shot)",
+  "tv": 20,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "AF"
  }
 ]
