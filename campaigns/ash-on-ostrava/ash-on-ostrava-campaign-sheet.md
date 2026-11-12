@@ -88,7 +88,7 @@ Moved to `world.md` (day 36 cleanup), under the same heading.
 
 ### Full kit (everyone's standing loadout; set by the player, day 33)
 
-**'Full kit for everyone' means exactly this table**, unless the player says otherwise for a mission. **Keep it current in the same save:** when anything is used up, lost, swapped, fitted, found or handed out (ammo, grenades and attachments too), change its row. Don't add gear the player hasn't assigned. Power ratings (below) are re-run from it at refits, not every change. Counts are written only where they are known. **Named weapons:** a name changes nothing; each is its **base weapon (in brackets)** plus the **attachments, mods and blessing after the +**. Rebuilt guns list their rebuild the same way. Rules: the base weapon (codex Part 8 Armour and Weapons, or its catalogue entry) plus each attachment's catalogue entry. **'Off weapon' (the player's term, day 34):** an alternate weapon in that person's kit, swapped in or out depending on the mission or what they want; they don't carry both into a fight. **The crate (the Light's container) is open stock:** anyone may grab from it if they want; when they do, update their row and the crate's count in the same save.
+**'Full kit for everyone' means exactly this table**, unless the player says otherwise for a mission. **Keep it current in the same save:** when anything is used up, lost, swapped, fitted, found or handed out (ammo, grenades and attachments too), change its row. Don't add gear the player hasn't assigned. Power ratings (below) are re-run from it at refits, not every change. Counts are written only where they are known. **Named weapons:** a name changes nothing; each is its **base weapon (in brackets)** plus the **attachments, mods and blessing after the +**. Rebuilt guns list their rebuild the same way. Rules: the base weapon (codex Part 8 Armour and Weapons, or its catalogue entry) plus each attachment's catalogue entry. **'Off weapon' (the player's term, day 34):** an alternate weapon in that person's kit, swapped in or out depending on the mission or what they want; they don't carry both into a fight. **Back aboard, Ollin (the Light's Quartermaster) refills everything automatically** (the player, day 47): ammo, packs, cells, canisters, belts, grenades, stimms and med-kit uses go back to full from the ship's stores; special or rare loads only from stock (short ones go on the buy list). So the rows show full kit at the start of every mission. **The crate (the Light's container) is open stock:** anyone may grab from it if they want; when they do, update their row and the crate's count in the same save.
 
 | Who (role · pronouns) | Guns | Blades and melee | Armour and helm | Other kit |
 | --- | --- | --- | --- | --- |
@@ -191,7 +191,7 @@ Moved to `world.md` (day 36 cleanup), under the same heading.
 | Mira | Precise flying, approaches under fire |
 | Teo | Fast flying, evasion |
 | Ferro-Ashe | Repairs, rites and communing (by data) |
-| Tey | Pistol focus: +2 on pistol shots (his grunt focus, trained from +0: +1 per 10 drill days to +5; added to this table day 36 cleanup) |
+| Tey | Pistol focus: **+3** on pistol shots (his grunt focus, trained from +0: +1 per 10 drill days to +5; **+3 at drill day 30, day 45**: audit campaign C6, confirmed by the player) |
 | Sorel | Hive clearance: +2 in hives (added to this table day 36 cleanup) |
 
 **The Light's traits (codex house rule 9; rolled day 35; important characters: 3 rolls at 75/25; check them on every roll they touch):**
@@ -267,7 +267,7 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 | **Varga** | 26.2 | 51.6 | 25.1 | 10 | 27.7 | 5.2 | Fine. |
 | **Dace** | 27.9 | 23.5 | 20 | 33.2 | 6.1 | 5.1 | Fine (hip healed by day 33). |
 | **Sorel** | 41.7 | 35.7 | 29 | 18 | 32.6 | 14.1 | Fine. Tracker; hive clearance +2. |
-| **Tey** | 18.7 | 53.4 | 28.3 | 14.1 | 9.9 | 14.1 | Fine. **Pistol focus (gunslinger) +2** (day 36 = drill day 21; day 35 = drill day 20: up from +1; next +1 at drill day 30; +1 per 10 drill days to +5). Pistol drill nightly; 5 for 5 under Varga at dawn on day 32. His flinch came from a long trigger pull (a hair trigger would beat it; not fitted). **At Tamsin's side from day 16: goes everywhere with him, into the action.** |
+| **Tey** | 18.7 | 53.4 | 28.3 | 14.1 | 9.9 | 14.1 | Fine. **Pistol focus (gunslinger) +3** (day 45 = drill day 30: up from +2, nightly drill confirmed by the player; next +1 at drill day 40; day 36 = drill day 21; +1 per 10 drill days to +5). Pistol drill nightly; 5 for 5 under Varga at dawn on day 32. His flinch came from a long trigger pull (a hair trigger would beat it; not fitted). **At Tamsin's side from day 16: goes everywhere with him, into the action.** |
 | **Hollis** | 29.4 | 50.3 | 32 | 17 | 26.3 | 12 | Fine. |
 | **Brenner** | 21.2 | 31.3 | 26 | 47.3 | 19.3 | 10 | Fine. |
 | **Isk** | 20.1 | 56.3 | 28 | 13.5 | 34.3 | 10 | Fine. |

@@ -105,3 +105,4 @@ It is steps 6-9 of the campaign README's Fight checklist in short; steps 1-5 (wh
 - **Nessa, Infiltrator:** starts the fight hidden, behind or beside the enemy, quiet guns only; ambushes from the rear, fades if spotted (roles.md, Infiltrator).
 ## 12. Will checks
 - The DM calls them and rolls openly: total **9 or less: 1-2%** Will lost, **10-14: 3-5%**, **15-19: 6-8%**, **20+: 9-10%** (the codex bands, day 37; fixed day 47); a natural 20 doubles it, a natural 1 nothing. **Tamsin +1** (the provost's manual). **Hard methods:** **+5%** on each check, but a d20 each session, **1-3** the subject goes Down (and may die), and pain answers may be lies; **3 sessions a day at most** (codex, HR8 Will; sheet, The character).
+- **After the mission, back aboard (day 47):** Ollin refills everyone's kit to full automatically (ammo, packs, cells, canisters, belts, grenades, stimms, med-kit uses; special loads only from stock). The next mission starts full.

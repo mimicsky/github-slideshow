@@ -54,6 +54,7 @@ All of **Part A** and **Part B** is already done on branch `claude/intelligent-m
 | B12 | Sheet, Coin | Still 7,419 Thrones | **14,228** (+6,809: IX 983, Fourteen's bodies 3,676, main hall 90, pay strongbox 2,000, final search 60) |
 | B13 | Sheet, Prisoners | "Prisoners (now, day 37)", with Thask and Ilsabet aboard | New "Prisoners (now, day 47)": <ul><li>**Cell 1:** Mordane, the plague-priest, Kreel, Quint</li><li>**Cell 2:** Vosk (in the medicae, restrained), Drayle, IX's preacher, Bell man C</li><li>**The hold:** ~25-30 more (worth a head count)</li></ul>The old list is kept, labelled history |
 | B14 | `world.md`, the Pell, Ilsabet and Maren rows; the Gallowmere target row | Old locations; Gallowmere still "Rumoured (8)" | <ul><li>Pell and Maren: in Kesh's house on the Rest</li><li>Ilsabet: handed to Kesh, day 41</li><li>Gallowmere: **Active**</li><li>Added a **Gallowmere (days 46-47)** NPC table: Corrow, Quint, Mordane, Vosk, Varrow, Vael</li></ul> |
+| B15 | (Extended day 47 by the player: **back aboard, the quartermaster refills everything automatically**, codex Crew posts.) |
 | B15 | Ammo and cells (Vigil, Last Word, power cells, Kell's plasma cell) | Looked stale | **No change, by design:** Ollin rekits everything rechargeable after each fight, so the next fight starts full |
 
 ## Part C: Found but NOT fixed yet
@@ -99,7 +100,7 @@ All of **Part A** and **Part B** is already done on branch `claude/intelligent-m
    - The hand flamer, Mezoa long-las and shotlas marked "no catalogue entry" (entries exist)
    - ~24 crate frags (a box of 12 went to Tavi's mines)
    - Hollis handed 2 spec flashes he doesn't have
-6. Tey's pistol focus: probably due +3 (one drill day a day from day 36 puts the next +1 around day 45). Confirm the drill days.
+6. ~~Tey's pistol focus~~ **FIXED (day 47):** +3 (drill day 30 on day 45; nightly drill confirmed by the player). Was: Tey's pistol focus: probably due +3 (one drill day a day from day 36 puts the next +1 around day 45). Confirm the drill days.
 
 ## Part D: New item ideas (optional; the player decides)
 
