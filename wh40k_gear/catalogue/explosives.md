@@ -64,8 +64,8 @@ hazard suit is immune. Enemy cultists can carry them (extras and found-or-made).
 **Psyker overload grenade** (player design, Ash on Ostrava session 9; rare, 10 TV;
 Mechanicus, Free Traders; the Ordo issues them). Prime and throw: a burst of psychic
 noise, like a hive mind's shadow in the warp, over ~5 m. **Non-psykers feel a buzz and
-nothing more.** **Every psyker in the area rolls** (a friendly psyker: d20 + CON bonus;
-an enemy: a flat d20):
+nothing more.** **Every psyker in the area rolls a CON save** (the Light's: d20 + CON bonus; an
+enemy's: d20 + his STR bonus, as every enemy CON save: codex Part 8; audit C4, day 47):
 - **1-10: overloaded.** They drop to the ground fighting it off for **3 beats** (no
   actions), then come out of it **Badly hurt.**
 - **11-17: a minor wound** (eyes and ears bleed): **-1 on all rolls until treated or
