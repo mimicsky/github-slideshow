@@ -56,23 +56,86 @@ line runs low, it goes on the buy list. **Rechargeable packs** (las and hot-shot
 the coupling and come back full; they only come off the total when one is lost or wrecked. (First count compiled from
 this file's haul and stock lines, day 47 ~1830; "~" where the record is a guess.)
 
+**Each load is counted on its own line** (the player, day 47): a gun takes the load its owner carries, and that line
+goes down. A box is ~100 rounds; an ammo crate ~2,000 (DM default). Lines at 0 are on the buy list when someone needs
+them.
+
+**Stub rounds** (stub revolvers, stub automatics, the Kasr Frontier)
+
+| Load | On board | Notes |
+| --- | --- | --- |
+| Standard | ~200 | 2 boxes bought day 36 |
+| HP (hollow point) | ~200 | 2 boxes, day 36 |
+| AP (armour-piercing) | ~200 | 2 boxes, day 36 |
+| HV (high velocity) | ~200 | 2 boxes, day 36 (the Frontier's long-range load) |
+| Flat-tip | ~200 | 2 boxes, day 36 |
+
+**Heavy stub rounds** (hand cannons, the Orlock, the Macragge)
+
+| Load | On board | Notes |
+| --- | --- | --- |
+| Standard | 0 | new calibre, day 47 |
+| HP / AP / HV / flat-tip | 0 each | |
+
+**Autogun rounds** (autoguns, autopistols, the Columnus, Stinger, Hammerfalls, the Kasr Stag)
+
+| Load | On board | Notes |
+| --- | --- | --- |
+| Standard | ~6,000 | 1 crate (~2,000, day 29) + 2 crates from Fourteen's dormitories + 2 boxes, day 36 |
+| HP | ~200 | 2 boxes, day 36 |
+| AP | ~200 | 2 boxes, day 36 |
+| HV | ~200 | 2 boxes, day 36 |
+| CAP (ceramite-tipped AP) | ~200 | 2 boxes, day 36 |
+
+**Bolt rounds**
+
+| Load | On board | Notes |
+| --- | --- | --- |
+| Standard | ~39 | 21 + the Godwyn's 18; Fourteen's bolt pistols had few rounds |
+| Kraken / off-brand / meltacore / storm / vengeance | 0 each | |
+
+**Shotgun shells**
+
+| Load | On board | Notes |
+| --- | --- | --- |
+| Standard | ~320 | |
+| Man-stopper / dragon's breath / hellfire | 0 each | |
+
+**Heavy stubber belts**
+
+| Load | On board | Notes |
+| --- | --- | --- |
+| Standard | ~9 | 6 in stock + IX pit A's + Fourteen's hall roof belt + Morcant's spares |
+| Hollow point | 2 | bought as 'man-stopper' belts, day 36 |
+| Inferno / tungsten-core / hellfire | 0 each | |
+
+**Las and hot-shot packs** (recharge on the coupling; only lost or wrecked packs come off)
+
+| Pack | On board | Notes |
+| --- | --- | --- |
+| Las pack, standard (45) | ~79 | ~38 + IX 12 + Fourteen 6 + the dormitories ~20 + 3 |
+| Las pack, extended (60) / eco (120) | 0 / 0 | Corvane's extended packs on order (schematic 11) |
+| Hot-shot pack, standard (30) | ~74 | ~70 + IX 2 + Fourteen 2 |
+| Hot-shot pack, extended (40) / Mechanicus (20) | 0 / 0 | Brenner's extended packs on order (schematic 12) |
+
+**Needle darts** (Nessa's are on her row; these are spares)
+
+| Load | On board | Notes |
+| --- | --- | --- |
+| Standard | 0 | |
+| Black-tip / shard / panic / tracker | 0 each | all carried by Nessa (6 / 10 / 10 / 4) |
+| Widow / truth | 0 | on order |
+
+**Grenades and the rest**
+
 | Stock | On board | Notes |
 | --- | --- | --- |
-| **Autogun rounds** | **~6,000** | 1 crate (~2,000, day 29) + 2 crates from Fourteen's dormitories (~4,000) + 2 boxes bought day 36 |
-| **Stub rounds** | **~200** | 2 boxes bought day 36 (a box ~100) |
-| **Heavy stub rounds** | **0** | new calibre, day 47 (Crale's hand cannon takes them) |
-| **Bolt rounds** | **~39** | 21 + the Godwyn's 18; Fourteen's bolt pistols had few rounds |
-| **Shotgun shells** | **~320** | |
-| **Heavy stubber belts** | **~9 standard, 2 hollow point** | 6 in stock + IX pit A's + Fourteen's hall roof belt + Morcant's spares; 2 hollow point (day 36) |
-| **Special stub/auto loads** | **2 boxes each** | stub HP, AP, HV, flat-tip; auto HP, AP, HV, CAP (day 36) |
-| **Las packs** (recharge) | **~79** | ~38 + IX 12 + Fourteen 6 + the dormitories ~20 + 3 |
-| **Hot-shot packs** (recharge) | **~74** | ~70 + IX 2 + Fourteen 2 |
-| **Frag grenades** | **~25** | crate ~12 + IX 7 + Fourteen 2 + the dormitories 3 + 1 |
-| **Krak grenades** | **~12** | 4 in stock + IX 7 + Fourteen 1 (Tavi's 4 are on him) |
-| **Smoke / photon flash / choke gas** | **3 / 1 / 1** | Fourteen and IX; plus Hollis's 2 spec flashes back in the crate |
-| **Stimms** (beyond Sallow's Bag) | **~28** | ~6 + ~17 kept from the Mart haul + IX 3 + Fourteen 2 |
-| **Hand-flamer canisters** | **2** | |
-| **Needle darts** | as Nessa's row | black-tip 6, shard 10, panic 10, tracker 4; widow and truth on order |
+| Frag grenades | ~25 | crate ~12 + IX 7 + Fourteen 2 + the dormitories 3 + 1 |
+| Krak grenades | ~12 | 4 in stock + IX 7 + Fourteen 1 (Tavi's 4 are on him) |
+| Smoke / photon flash / choke gas / spec flash | 3 / 1 / 1 / 2 | the 2 spec flashes are Hollis's, back in the crate |
+| Stimms (beyond Sallow's Bag) | ~28 | ~6 + ~17 from the Mart haul + IX 3 + Fourteen 2 |
+| Hand-flamer canisters | 2 | standard promethium; special fuels 0 |
+| Plasma cells | as rows | Kell's small cell + 1 spare; tuned cells on order |
 
 ## Container stock (the crate)
 
