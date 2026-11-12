@@ -93,7 +93,7 @@ All of **Part A** and **Part B** is already done on branch `claude/intelligent-m
    - Ferro's warding rite (done day 44)
    - Brenner's mat time (both "postponed" and "DONE")
    - Shameholder's first cut (kept day 47; "both their rages sated" is still owed)
-5. `inventory.md`:
+5. ~~`inventory.md`~~ **FIXED (day 47):** Varga's pack refilled; Isk flies the IX pack; the three catalogue entries linked; crate frags ~12; Hollis's 2 spec flashes counted back in the crate. Was: `inventory.md`:
    - Varga's lift pack "2 left" (refilled)
    - Isk "flies the stolen jump pack" (he has the IX one now)
    - The hand flamer, Mezoa long-las and shotlas marked "no catalogue entry" (entries exist)
