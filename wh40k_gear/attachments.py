@@ -203,6 +203,7 @@ NOT_ROLLED = [
  ("Varga's drop rig and harness lanyard", "jumper gear, not gun parts: the DM gives them to a jumper"),
 ]
 
+NOSLOTS = re.compile(r"farmer's pump")  # guns with no attachment slots: only special ammo rolls (day 47)
 SKIP = re.compile(r"web pistol|bolt-pipe|rivet gun|harpoon|turret|gauntlet|hellstrike|flare|^'")
 TYPES = [("pp", r"plasma pistol"), ("pg", r"plasma gun"), ("bp", r"bolt pistol"),
          ("hv", r"heavy bolter|autocannon|lascannon|multi-laser"), ("hs", r"heavy stubber"), ("br", r"boltgun"),
@@ -260,6 +261,7 @@ def roll_gun(gtype, src, taken, level, team, weights):
         if d > chance:
             break
         cands = [a for a in A if gtype in a[4] and a[3] not in taken and a[0] not in have
+                 and (a[3] == "load" or not NOSLOTS.search(src))
                  and (a[5] is None or re.search(a[5], src)) and (a[6] is None or a[6] in have)
                  and not (level == "poor" and a[2] == "R")]
         if not cands:

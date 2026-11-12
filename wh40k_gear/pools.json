@@ -3904,5 +3904,12 @@
   "cat": "mod",
   "rarity": "U",
   "sellers": "MAF"
+ },
+ {
+  "name": "Farmer's pump shotgun (6-shell tube; no attachment slots)",
+  "tv": 0.75,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MB"
  }
 ]

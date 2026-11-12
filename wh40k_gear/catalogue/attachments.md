@@ -60,7 +60,7 @@ so the two always match. Each row links to the full entry; **custom rows** link 
 poor C80/U20, steady C70/U25/R5, good C55/U35/R10, rich C40/U45/R15, wealthy C25/U50/R25; **poor never rare**), then
 **one attachment of that rarity that fits the gun and a free slot** (one per slot; a gun's own scope, drum, silencer
 or bayonet already fills its slot). Then roll again. A part that needs another (an offset sight needs a scope, a
-pressure pin needs a hair trigger) only comes once the first is on. **Every weapon rolls** (a gunslinger's pair, a
+pressure pin needs a hair trigger) only comes once the first is on. **Every weapon rolls** (a gun with **no attachment slots**, like the farmer's pump, rolls only special ammo; a gunslinger's pair, a
 rifle and a sidearm, a machete and a shield). **Melee weapons roll too** (the player, day 47); the melee list is
 thin for now, so plain blades and clubs mostly draw the hardwood grip, the whetstone or the shock-coil.
 
@@ -180,7 +180,7 @@ field, hone, spikes, slot, overdrive, motor, teeth, mgrip, mselector.
 | **Skeleton grip** *(Custom)* | common | grip | autoguns and stub rifles, boltguns, las rifles, needle rifles, plasma guns | no swap penalty; -1 aimed past ~30 m | [attachments.md](attachments.md#kells-officer-schematic-8) |
 | **One-piece crossdraw rig** *(Custom)* | common | holster | bolt pistols, las pistols, needle pistols, plasma pistols, stub pistols | +1 quick-draw | [attachments.md](attachments.md#teys-hellpistol-schematic-4) |
 | **Tuned igniter** *(Custom)* | uncommon | igniter | flamers, hand flamers | the gout opens ~2 m wide at the far end and catches anyone close together | [attachments.md](attachments.md#holliss-hand-flamer-schematic-2) |
-| **Push-loaders** *(Custom)* | common | loader | autoguns and stub rifles, shotguns (only: lever or pump) | refill a tube in the beat's move | [attachments.md](attachments.md#tamsins-kasr-frontier-schematic-17) |
+| **Push-loaders** *(Custom)* | common | loader | autoguns and stub rifles, shotguns (only: lever or pump or ironclad) | refill a tube in the beat's move | [attachments.md](attachments.md#tamsins-kasr-frontier-schematic-17) |
 | **100-round box mags** *(Custom)* | uncommon | mag | autoguns and stub rifles (only: autogun or columnus) | 100 rounds; a loaded box -1 swapping and quick-draw | [attachments.md](attachments.md#tamsins-columnus-schematic-18) |
 | **Bridged double-cell belt pack** *(Custom)* | uncommon | mag | las pistols (only: hellpistol) | 60 shots on the cable | [attachments.md](attachments.md#teys-hellpistol-schematic-4) |
 | **Dual canister cradle** *(Custom)* | uncommon | mag | hand flamers | 8 bursts before a reload | [attachments.md](attachments.md#holliss-hand-flamer-schematic-2) |

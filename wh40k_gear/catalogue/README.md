@@ -252,6 +252,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Heavy stubber](heavy.md#heavy-stubber)
 - [Flamer tanks and fuels, special](scrap.md#flamer-tanks-and-fuels-special-loads) (big tank, sulphur, thermite, cut phosphex)
 - [Bolt rounds, special](bolt.md#bolt-rounds-special-loads) (Kraken, off-brand, meltacore, storm, vengeance)
+- [Farmer's pump shotgun](stub.md#farmers-pump-shotgun) (cheap; no attachment slots)
 - [Lucius 'Ironclad' shotgun](stub.md#lucius-pattern-ironclad-shotgun) (heavy pump)
 - [Shotgun shells, special](stub.md#shotgun-shells-special-loads) (man-stopper, dragon's breath, hellfire)
 - [Autocannon shells, special](heavy.md#autocannon-shells-special-loads) (flak, penetrator, incendiary HE)

@@ -263,6 +263,17 @@ flak up close, carapace only on a solid hit). Tough: it can be swung as a club a
 is never damaged by a drop or fall.
 
 
+## Farmer's pump shotgun
+
+**Farmer's pump shotgun** (common, 0.75 TV, DM's price; agri-world markets, hive traders, black market; the player's
+design, Ash on Ostrava day 47). A cheap, basic pump shotgun: **a 6-shell tube** (reloading: half a beat per 2 shells),
+standard shotgun rules (brutal on flesh and flak up close, carapace only on a solid hit, -2 past ~15 m). **No
+attachment slots:** nothing fits it (special shells still load: ammo isn't an attachment). Farmers, militia and
+commoners carry it.
+
+**Abilities:** [Slam (push-pull)](abilities.md#slam-push-pull) (jams on a natural 1-5, as any pump); [Precision
+Sacrifice](abilities.md#precision-sacrifice) (every gun).
+
 ## Lucius-pattern 'Ironclad' shotgun
 
 **Lucius-pattern 'Ironclad' shotgun** (rare, 4 TV; Munitorum, black market, Free Traders; it was a name in the shop
