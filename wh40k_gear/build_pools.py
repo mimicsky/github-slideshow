@@ -88,7 +88,7 @@ add("stub","R","BF",[("Needle rifle (silent toxin darts, 8-dart magazine; CON sa
 add("ammo","U","BF",[("Needle rifle toxin darts (8)",2),("Needle darts, black-tip (10)",3),("Needle darts, panic (10)",3),("Needle darts, tracker (5)",3)])
 add("ammo","R","BF",[("Needle darts, shard (10; through carapace on any hit, heavy carapace on a solid hit)",4),("Needle darts, widow (10)",5),("Needle darts, truth (5)",5)])
 add("ammo","U","MBF",[("Stub/auto rounds, HP (box)",1),("Stub/auto rounds, AP (box; through carapace on a solid hit inside ~15 m)",1.5),("Stub/auto rounds, HV (box)",1),("Stub rounds, flat-tip (box)",0.75),("Autogun rounds, CAP ceramite-tipped armour-piercing (box; through carapace on a solid hit at any range)",2)])
-add("stub","R","MBF",[("Vraks-pattern sniper autorifle",7),("Lucius-pattern 'Ironclad' shotgun",4),("Arbites combat shotgun (shock shells)",6)])
+add("stub","R","MBF",[("Vraks-pattern sniper autorifle",7),("Lucius-pattern 'Ironclad' shotgun (heavy pump; tight choke, recoil 0; Slam jams only on 1-3)",4),("Arbites combat shotgun (shock shells)",6)])
 # --- Bolt ---
 add("bolt","U","MF",[("Bolt pistol, Godwyn-Deaz (officer)",12)])
 add("bolt","R","MF",[("Boltgun, Godwyn pattern",25),("Boltgun, Phobos pattern",28),("Bolt pistol, Ryza pattern",14)])

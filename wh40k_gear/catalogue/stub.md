@@ -262,6 +262,18 @@ one behind another it hits only the front one. Shotgun punch (brutal on flesh an
 flak up close, carapace only on a solid hit). Tough: it can be swung as a club and
 is never damaged by a drop or fall.
 
+
+## Lucius-pattern 'Ironclad' shotgun
+
+**Lucius-pattern 'Ironclad' shotgun** (rare, 4 TV; Munitorum, black market, Free Traders; it was a name in the shop
+list with no entry until the player set it, Ash on Ostrava day 47). A **heavy pump shotgun** of thick Lucius forge-world
+steel with an **8-shell tube** (reloading: half a beat per 2 shells). **Long choked barrel:** the spread stays tight,
+so **the -2 starts past ~25 m**, not ~15 m. **The weight soaks the kick: recoil 0**, but **-1 on swapping**. Standard
+shells as any shotgun (special loads: [below](#shotgun-shells-special-loads)).
+
+**Abilities:** [Slam (push-pull)](abilities.md#slam-push-pull): **its reinforced action only jams on a natural 1-3**
+(not 1-5); and [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
+
 ## Web pistol, Arbites pattern
 
 **Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a

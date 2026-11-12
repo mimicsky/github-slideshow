@@ -186,7 +186,7 @@ A = [
  ("c_lever", "New lever linkage", "U", "action", {"sr"}, "lever", None, 1, "single lever chains up to 7, double up to 4; above 6, no hit bonuses", C + "tamsins-kasr-frontier-schematic-17"),
  ("c_twintubes", "Twin side-by-side tubes", "U", "mag", {"sr"}, "lever", None, 1, "36 rounds; -1 swapping", C + "tamsins-kasr-frontier-schematic-17"),
  ("c_tubesel", "Tube selector", "U", "tubesel", {"sr"}, "lever", "c_twintubes", 1, "each tube its own load; flicking it is free", C + "tamsins-kasr-frontier-schematic-17"),
- ("c_pushload", "Push-loaders", "C", "loader", {"sr", "sg"}, "lever|pump", None, 1, "refill a tube in the beat's move", C + "tamsins-kasr-frontier-schematic-17"),
+ ("c_pushload", "Push-loaders", "C", "loader", {"sr", "sg"}, "lever|pump|ironclad", None, 1, "refill a tube in the beat's move", C + "tamsins-kasr-frontier-schematic-17"),
  ("c_box100", "100-round box mags", "U", "mag", {"sr"}, "autogun|columnus", None, 1, "100 rounds; a loaded box -1 swapping and quick-draw", C + "tamsins-columnus-schematic-18"),
  ("c_superv", "The Super V", "R", "action", {"sr"}, "autogun|columnus", None, 1, "auto strings up to 12, recoil 0; auto still no hit bonuses", C + "tamsins-columnus-schematic-18"),
  ("c_finned", "Short finned barrel", "U", "barrel", {"sr"}, "autogun|columnus", None, 1, "+1 inside ~10 m, -2 past ~30 m; strings of 8+ build 1 heat, the fins shed 1 when it doesn't fire; -1 swapping", C + "tamsins-columnus-schematic-18"),

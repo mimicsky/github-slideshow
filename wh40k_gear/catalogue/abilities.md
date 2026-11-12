@@ -268,6 +268,7 @@ the Columnus (on single), and every las gun the Light carry.
 - Cooldown: 3 beats, and it's his one ability that beat.
 
 **Items with it:** **every pump-action shotgun** (the Munitorum pump, combat pumps, the CY-6 and the like; said once at
-the top of [stub.md](stub.md)). Not semi-autos (the Kasr Sweeper: [Trigger Finger](#trigger-finger)), break-actions or
+the top of [stub.md](stub.md)); the [Lucius 'Ironclad'](stub.md#lucius-pattern-ironclad-shotgun) (its reinforced
+action only jams on a natural 1-3). Not semi-autos (the Kasr Sweeper: [Trigger Finger](#trigger-finger)), break-actions or
 drum guns. Enemies' alike. **Owned in Ash on Ostrava:** the pump shotguns in the crate (and Morcant's old combat pump).
 
