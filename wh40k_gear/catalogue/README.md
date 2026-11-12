@@ -248,7 +248,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 ## [Heavy and vehicle weapons](heavy.md)
 
 - [Heavy stubber](heavy.md#heavy-stubber)
-- [Flamer tanks and fuels, special](scrap.md#flamer-tanks-and-fuels-special-loads) (big tank, sulphur, thermite)
+- [Flamer tanks and fuels, special](scrap.md#flamer-tanks-and-fuels-special-loads) (big tank, sulphur, thermite, cut phosphex)
 - [Bolt rounds, special](bolt.md#bolt-rounds-special-loads) (Kraken)
 - [Shotgun shells, special](stub.md#shotgun-shells-special-loads) (man-stopper, dragon's breath, hellfire)
 - [Heavy stubber belts, special](heavy.md#heavy-stubber-belts-special) (hollow point, inferno, tungsten-core, hellfire)

@@ -3764,5 +3764,12 @@
   "cat": "ammo",
   "rarity": "R",
   "sellers": "ABF"
+ },
+ {
+  "name": "Cut phosphex (a can; forbidden: can't be beaten out, burns 2 beats; the ground burns)",
+  "tv": 20,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "B"
  }
 ]

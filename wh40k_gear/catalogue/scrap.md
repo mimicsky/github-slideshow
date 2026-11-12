@@ -70,6 +70,12 @@ throwers. On the [attachment sheet](attachments.md#the-rollable-list).)
   Thermite gel that burns through metal: **everyone hit drops one extra step**, and it gets **through carapace, heavy
   carapace and ceramite-forged on any hit, power armour on a solid hit.** **It burns through cover:** light cover it
   touches is gone. The gel is heavy: **the gout reaches half as far** (a hand flamer ~3 m).
+- **Cut phosphex** (rare, **20 TV a can** (the player's price); black market only; **rare in the enemy roll**). A
+  nerfed phosphex: the forbidden green-white fire, cut down. **It can't be beaten or rolled out:** anyone hit burns
+  for **2 beats, dropping a step each beat**, unless smothered (sand, foam, a coat) or plunged into water. **It
+  lingers:** the burned ground stays alight **2 beats**, and anyone who enters it catches fire. The nerf: it **doesn't
+  creep toward the living**, it **burns out after 2 beats**, and armour treats it as normal fuel. **A natural 1
+  splashes the flamer himself.** Carrying it is a crime the Inquisition notices.
 
 ## Torch-thrower (scrap flamer)
 
