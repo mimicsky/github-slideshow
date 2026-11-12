@@ -66,7 +66,7 @@ All of **Part A** and **Part B** is already done on branch `claude/intelligent-m
 3. ~~**Needle SMG**~~ **FIXED (day 47):** moved to assassinorum.md as the Venenum Temple needle SMG, legendary ~120 TV; the dart decides the save. Was: (`stub.md`) is legendary but only ~40 TV. It's Assassinorum gear but not filed in `assassinorum.md`.
 4. ~~**Psyker overload grenade**~~ **FIXED (day 47):** everyone rolls a real save: the Light d20 + CON bonus, enemies d20 + STR bonus (codex). Was: (`explosives.md`): friendly psykers roll d20 + CON, enemies a flat d20. The codex says enemies roll CON saves as d20 + STR bonus.
 5. ~~**Psykana force stave**~~ **FIXED (day 47):** the example now reads 'a 1-3 becomes 1-2' (the rule, -1 to the range, unchanged). Was: (`melee.md`) says Perils "1-2 becomes 1". The codex baseline is 1-3 (so: "1-3 becomes 1-2").
-6. **Kasr Rain** (`las.md`) is called "the most efficient las pack made" at 100 shots, but the eco pack and the backpack cell hold 120.
+6. ~~**Kasr Rain**~~ **FIXED (day 47):** now 'the biggest box pack a carried las gun takes; only a backpack cell or a weak eco pack holds more'. Was: (`las.md`) is called "the most efficient las pack made" at 100 shots, but the eco pack and the backpack cell hold 120.
 7. `heretic.md`: the "As loot: useless to anyone but a psyker…" lines sit under the daemons paragraph; they belong under the Chaos psyker staff.
 8. Missing stats:
    - **No chain class (light, medium or heavy):** Power falchion and Omnissian power sword (`melee.md`).
