@@ -329,6 +329,7 @@ brutal on flesh and flak up close, weak at range and against carapace. A magazin
 | --- | --- | --- |
 | **Man-stopper** (armour-piercing slug) | uncommon, 1 TV a box (**rare in the enemy roll**) | One heavy slug instead of shot: **one target, no spread.** **Flak and reinforced flak don't shrug it; through carapace on a solid hit inside ~15 m** (as AP rounds). The 40k meaning of 'man-stopper' (the stubber belt that had the name is now the hollow point stubber belt, heavy.md) |
 | **Dragon's breath** (incendiary) | uncommon, 2 TV a box | Incendiary pellets that light up like a flare. **Shot at, the target is flashed: -1 on his next shot** (like suppression, hit or miss); **hit, the burns throw him off: -2 on his next shot instead.** **A hit on a raw 17+ sets him alight** (next beat he spends putting the fire out or drops a step; anything flammable nearby can catch). Armour as standard shells (the player's name and flash rule, day 47; sold before as 'inferno shells') |
+| **Hellfire** (bio-acid) | rare, 4 TV a box | Pellets coated in bio-acid. **A hit that gets through also forces a CON save against 10, or the target drops one more step** (10, not the belt's 15: the player, day 47, so a string doesn't kill outright). Armour as standard shells |
 
 ## Combi-pistol, 'Kasr Trident' pattern
 
