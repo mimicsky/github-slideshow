@@ -4149,5 +4149,12 @@
   "cat": "gear",
   "rarity": "C",
   "sellers": "MF"
+ },
+ {
+  "name": "Conversion field (intact; blocks on 4-6 with a flash)",
+  "tv": 60,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "AF"
  }
 ]

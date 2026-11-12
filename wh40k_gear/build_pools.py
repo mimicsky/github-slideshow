@@ -258,6 +258,7 @@ add("armour","R","MF",[("Heavy carapace helmet (open)",3),("Heavy carapace full 
 add("armour","C","MBF",[("Gas mask (whole face: immune to breathed gas, eyes covered; -1 Perception)",0.25)])
 add("gear","C","MBF",[("Gas mask or rebreather filter (about an hour of heavy gas)",0.1)])
 add("gear","C","MF",[("Void-suit air bottle (~2 hours)",0.5),("Void-suit patch kit (5 patches)",0.25)])
+add("armour","R","AF",[("Conversion field (intact; blocks on 4-6 with a flash)",60)])
 # Day 47: the player's street gear (burst pistol, derringer, tin-can bomb, cracker bundle, steak knife, taped flashlight).
 add("stub","U","MBF",[("Burst pistol, \'Kasr Trice\' pattern (3-round bursts; 15-round mag; full slots)",2)])
 add("stub","C","B",[("Holdout stub pistol, \'Cutpurse\' pattern (derringer: one round, +3 to hide)",0.25)])

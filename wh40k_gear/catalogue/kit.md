@@ -45,6 +45,21 @@ stealth** (the player).
   a patch kit (common, 0.25 TV for 5).
 - **The sealed helmet: -1 on Perception** (as a full helmet).
 
+## Refractor field
+
+**Refractor field** (rare, 25 TV; Munitorum officers' issue, Mechanicus, Free Traders; entry written day 47, audit
+C14). A worn field generator. **Light hits** (anything carapace would shrug) are **stopped automatically**, at most
+**3 a beat** (a 4th gets through and the field is down a beat); **heavy hits: a d6 5-6 and the field takes it.** Full
+rule: codex Part 8, Gear rules, Refractor field.
+
+## Conversion field
+
+**Conversion field** (rare; **intact 60 TV**, **damaged 35 TV**; Mechanicus, Free Traders; entry written day 47, audit
+C14). A stronger field that turns a hit into light. **When a hit lands, a d6: 4-6 the field takes it with a blinding
+flash** (an attacker within ~5 m: -2 on their next shot); **1-3 it goes through and the field burns out** until a
+tech-adept repairs it (about an hour). **A damaged field blocks only on 5-6.** Full rule: codex Part 8, Gear rules,
+Conversion field.
+
 ## Boarding shield
 
 **Boarding shield** (uncommon, 4 TV): a plain slab of plasteel with a grip.
