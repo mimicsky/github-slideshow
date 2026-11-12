@@ -268,7 +268,7 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 | **Brenner** | 21.2 | 31.3 | 26 | 47.3 | 19.3 | 10 | Fine. |
 | **Isk** | 20.1 | 56.3 | 28 | 13.5 | 34.3 | 10 | Fine. |
 | **Tavi** | 20.6 | 41.9 | 23.2 | 35.8 | 17.8 | 17.1 | Fine (a hand-cannon crit at Crane Yard 6's gate ~0435; Dace patched him). |
-| **Morcant** | 51.0 | 33.2 | 33.2 | 15 | 19.8 | 17 | Fine. |
+| **Morcant** (STR 50+: Strength behind the blow, codex Part 8 Armour) | 51.0 | 33.2 | 33.2 | 15 | 19.8 | 17 | Fine. |
 | **Sallow** | 20 | 34.4 | 22 | 25 | 48.1 | 20 | Fine. |
 | **Corvane** | 32.3 | 49.8 | 31.4 | 21.5 | 20.8 | 22.1 | Fine. |
 | **Nessa** | 18.5 | 58.0 | 18.1 | 21.2 | 30.1 | 27.5 | Fine. |

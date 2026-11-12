@@ -693,6 +693,8 @@ A giant abhuman, about 3 m tall: dumb, loyal, and it hits like a truck.
 *Side note: cultist Ogryns are the god's beasts: chained, starved and set loose; they
 fight for anything that feeds them.*
 
+**Strength behind the blow:** every Ogryn (STR 60-80) has it (codex Part 8, Armour): its melee goes one armour step further, and **a power weapon in an Ogryn's hands drops two steps a hit.**
+
 ### Ogryn variants: the Crusher, the Bulwark, the Reaper
 
 **Added by the player, Ash on Ostrava day 47, from Darktide (the Moebian 6th's Ogryns).** Each is an Ogryn (the stats,

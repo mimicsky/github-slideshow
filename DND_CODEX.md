@@ -992,6 +992,14 @@ ladder a hit moves you.
 | **Ceramite-forged** | all of the above, **plus hellguns and heavy stubbers even up close** | bolters, chain on a solid hit, power weapons, plasma, melta, krak |
 | Power armour | almost everything a soldier carries | bolters, plasma on a solid hit, melta, power weapons, krak |
 
+- **Strength behind the blow (STR 50+; set by the player, Ash on Ostrava day 47).** Anyone with **STR 50 or more**
+  drives their **melee** weapon **one armour step further** than it normally goes (the ladder: flak, carapace, heavy
+  carapace, ceramite-forged, power armour): a machete that only gets through flak gets through carapace; chain
+  that needs a solid hit against heavy carapace gets through it on any hit. **Power weapons, which already go
+  through everything, instead hit one health step harder: each hit that lands drops the target two steps.**
+  Melee only (thrown weapons and guns don't count). Who has it: in the Light, **Morcant** (STR 51); among enemies,
+  **every Ogryn** (STR 60-80: the Crusher's power maul drops two steps a hit) and the strongest brutes. (Paper
+  trail: listed in `wh40k_gear/catalogue/abilities.md`, Not gear, and on the bestiary's Ogryn.)
 - **Part-armour:** a plate that only covers one side counts only from that side (Tamsin's heavy front: shots
   from the side or back hit plain carapace; a chest-only carapace protects the chest).
 - **Crits always get through.** Against armour that would have shrugged the hit, a crit drops just one step (no extra).

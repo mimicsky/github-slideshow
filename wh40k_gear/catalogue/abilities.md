@@ -12,6 +12,12 @@ class:** anyone holding that kind of gear can use it, friend or enemy.
 
 **Who uses them (the player asked, day 47):** **everyone who carries the gear, on their own, when it makes sense:** the Light's NPCs and enemies alike, played by the DM like any other choice (Dace plants his shield when the fire gets heavy and Tamsin's in the open; a Bulwark plants as it walks up a street). **An order can also call for one** ('Dace, plant!'); an ordered ally answers and does it. Tamsin uses his only when the player says so.
 
+## Not gear, but connected
+
+**Strength behind the blow (STR 50+)** (set by the player, day 47): a body ability, not gear, written in the codex
+(Part 8, Armour). Anyone with STR 50+ drives their melee weapon one armour step further; **power weapons** instead
+**drop two steps a hit.** Who has it: Morcant (STR 51); every Ogryn; the strongest brutes.
+
 ## Plant
 
 **Shields.** The bearer sets the shield and plants himself for the beat. **It takes his move: he can't move while
