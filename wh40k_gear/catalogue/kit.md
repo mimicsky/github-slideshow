@@ -164,8 +164,9 @@ weapon. Las guns use an **Extended las pack** ([las.md](las.md)); plasma uses a 
 
 ## Power weapon tuning kit
 
-**Power weapon tuning kit** (rare, 12 TV): steadies a power field (no flicker
-under strain) and it goes **through power armour on any hit**.
+**Power weapon tuning kit** (rare, 12 TV): steadies a power field (no flicker under strain). Power weapons
+already go through power armour, so the kit gives (the player, day 47): **+1 to parry with the tuned weapon**, and
+**its power cell lasts twice as long: 60 power-mode swings, not 30.**
 
 ## Diamantine whetstone
 

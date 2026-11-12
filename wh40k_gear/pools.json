@@ -2674,7 +2674,7 @@
   "sellers": "MAF"
  },
  {
-  "name": "Power weapon tuning kit (steadies the field, through power armour on any hit)",
+  "name": "Power weapon tuning kit (steadies the field; +1 parry; cell lasts twice as long)",
   "tv": 12,
   "cat": "mod",
   "rarity": "R",
@@ -3001,13 +3001,6 @@
   "cat": "gear",
   "rarity": "U",
   "sellers": "MB"
- },
- {
-  "name": "Servo-skull, gun (built-in laspistol)",
-  "tv": 30,
-  "cat": "gear",
-  "rarity": "R",
-  "sellers": "MAF"
  },
  {
   "name": "Servo-skull, burner (built-in micro-flamer)",

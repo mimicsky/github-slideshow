@@ -285,7 +285,7 @@ add("mod","U","MAF",[("Sweep emitter (multi-laser or las-LMG: one string across 
 add("mod","R","AF",[("Repeater crystal, las (strings up to 7; no chain bonuses in the string)",8)])
 add("mod","U","MBF",[("Diamantine whetstone (any edged blade: +1 pierce for the next 2 hits; ~10 uses)",1)])
 add("mod","R","MF",[("Underslung chain-bayonet (rifle-mounted chainsword)",10)])
-add("mod","R","MAF",[("Range-finder sight (+1 shooting past ~30 m)",10),("Power weapon tuning kit (steadies the field, through power armour on any hit)",12),("Shock-coil kit (any weapon: +1 on your next roll against a target you hit, +2 for heavy weapons; 6 charges a fight)",8)])
+add("mod","R","MAF",[("Range-finder sight (+1 shooting past ~30 m)",10),("Power weapon tuning kit (steadies the field; +1 parry; cell lasts twice as long)",12),("Shock-coil kit (any weapon: +1 on your next roll against a target you hit, +2 for heavy weapons; 6 charges a fight)",8)])
 add("mod","R","MAF",[("Hot-shot conversion kit (lasgun)",5),("Overcharge capacitor (las)",8),("Mechanicus focusing lens",10),("Auto-targeter (augur sight)",12),("Heat-sink shroud (las)",4),("Chainsword teeth, adamantium (set)",12),("Motor housing, high-tolerance",9)])
 # --- Gear / tech ---
 add("gear","C","MB",[("Micro-bead",0.5),("Chrono",0.5),("Lumen (torch)",0.25),("Field rations (crate)",0.5),("Water purifier",0.5),("Rope (20 m)",0.25),("Lho-sticks (carton)",0.25),("Imperial Infantryman's Uplifting Primer",0.1)])
@@ -298,7 +298,7 @@ add("gear","R","AF",[("Glanding implant (needs an augmetic surgeon; one combat-d
 add("gear","R","MAF",[("Concentrated stimm (dose)",2),("Concentrated antitoxin (dose)",4),("Combat drug 'Frenzon', concentrated (+3 melee; backfire 1-2)",4)])
 add("gear","R","MAF",[("SCIHU stim (knockout: coma 2-4 days; unwilling target needs a melee hit, CON 15+ resists; wake one health step better; lasting injuries heal in half the time)",4)])
 add("gear","U","MB",[("Combat drug 'Quicksilver' (speed: +2 Athletics and moving)",1.5),("Combat drug 'Deadeye' (focus: +2 shooting)",1.5),("Combat drug 'Frenzon' (rage: +2 melee)",1.5),("Combat drug 'Slaught' (reflexes: +2 strike first and dodge, +1 STR)",1.5),("Combat drug 'Adrenaline' (senses: +4 Perception, +1 shooting)",1.5)])
-add("gear","R","MAF",[("Servo-skull, gun (built-in laspistol)",30),("Servo-skull, burner (built-in micro-flamer)",35)])
+add("gear","R","MAF",[("Servo-skull, burner (built-in micro-flamer)",35)])
 add("gear","U","B",[("Forged Munitorum ID chits",2),("Lock-picks, hive pattern",1),("Spoof-tag (fakes a transponder)",6),("Black-market data-slate",1)])
 add("gear","R","MAF",[("Cogitator spike",4),("Servo-skull (utility, used)",20),("Servo-skull (medicae)",25),("Gun-skull (armed servo-skull; fires d20+3 a beat; eye feed)",30),("Bio-scanner (finds life within 30 m; +2 medic treatment up close)",8),("Psy-occulus (warp detector, 50 m; strength and direction)",15),("Jump pack (Guard pattern)",30),("Jump pack, Kasrkin pattern",45),("Chameleoline cloak",12),("Medicae servitor (old)",30)])
 add("gear","R","E",[("Purity seal (blessed)",2),("Aquila rosary",1),("Reliquary fragment",10),("Blessed sacred oils (flask)",2),("Vial of shrine water",1)])

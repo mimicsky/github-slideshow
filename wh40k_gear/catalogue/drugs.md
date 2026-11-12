@@ -93,7 +93,7 @@ dose rules (Codex, Gear rules: Doses) unless said otherwise.
 
 ## Servo-skull, gun
 
-**Servo-skull, gun** (rare, 30 TV): hovering skull with a laspistol; one shot a
-beat at +0, directed by bead. **Servo-skull, burner** (rare, 35 TV): a
+**Servo-skull, gun:** see **Gun-skull** in [kit.md](kit.md#gun-skull-armed-servo-skull) (fires at d20+3; one entry
+only, the player, day 47). **Servo-skull, burner** (rare, 35 TV): a
 micro-flamer, a few metres' reach, 4 bursts a fight. Fragile: one solid hit
 drops either.
