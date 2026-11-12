@@ -145,3 +145,16 @@ chain-bayonet](kit.md#underslung-chain-bayonet) (it thrusts as a chain weapon). 
 (fixed)' have it. **Owned in Ash on Ostrava:** **Vigil** has a bayonet lug; **Tamsin's scorched-tip combat knife** (the Kasr Holn
 knife) fixes on it when he wants it (fixing or unfixing takes the beat's move, DM default) (campaign sheet).
 
+## Fan the Hammer
+
+**Revolvers only** (set by the player, day 47). The off hand slaps the hammer back again and again.
+- **Fire every round left in the cylinder in one string** (up to 6), instead of the normal string.
+- **-2 on every shot** (on top of recoil), and **no hit bonuses** in the string (misses still -1).
+- **Both hands:** nothing in the other hand that beat (no dual-wielding with it).
+- **Then it's empty:** the next beat is a reload (a speedloader: half a beat).
+- Cooldown: 3 beats, like every ability.
+
+**Items with it:** **stub revolvers** and any revolver with a hammer (said once at the top of [stub.md](stub.md)); not
+the [Hammerfall auto-revolver](stub.md#auto-revolver-hammerfall-pattern), which already hammers its own cylinder, and
+not Six Bells (a launcher). **Owned in Ash on Ostrava:** **Corvane's revolver** (campaign sheet).
+

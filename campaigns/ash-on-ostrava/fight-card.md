@@ -33,6 +33,7 @@ It is steps 6-9 of the campaign README's Fight checklist in short; steps 1-5 (wh
 - **Length:** **3** shots by default, or the gun's own limit; **Tamsin +1** on every string (Extra Attack) (codex, A beat; sheet, Tamsin's standing modifiers).
 - **Recoil**, every shot after the first: **0** las weapons and stub/auto pistols; **1** autoguns on burst, SMGs and machine pistols, shotguns, revolvers, hand cannons, a braced heavy stubber; **2** bolt weapons, a heavy stubber on the move, anti-materiel rifles (codex, Gear rules: Swapping, recoil and attachment slots).
 - **Precision Sacrifice (any gun; day 47):** give up shots from the string for **+1 each on the one shot fired** (Vigil: one shot at +3), **up to +3**. **Every gear ability: 3-beat cooldown** (used beat 1, ready beat 4) (`abilities.md`).
+- **Fan the Hammer (revolvers; day 47):** the whole cylinder (up to 6) in one string, **-2 every shot**, no hit bonuses; both hands; then it's empty (reload next beat). Corvane's revolver.
 - **Swap:** a shot at a different target than the last one in the string **-1** (codex, Gear rules: Swapping, recoil and attachment slots).
 - **Dual pistols:** both guns' limits added together, **-3 on every shot**; or fire one at full value and the other is a free reload (codex, HR5 Dual-wielding).
 ## 5. Melee: the exchange

@@ -2,7 +2,7 @@
 
 Item rules for this category. General rules (heat, hot-shot, drop-prone, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
 
-**Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown).
+**Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown). **Revolvers** (stub revolvers and any hammer revolver; not the Hammerfall auto-revolver) **also have [Fan the Hammer](abilities.md#fan-the-hammer)** (the whole cylinder in one string, -2 each; day 47).
 
 ## Infantry autogun, 'Columnus' pattern
 
