@@ -209,7 +209,7 @@ On paper (3rd). Source: [schematic 14](../../campaigns/ash-on-ostrava/schematics
 
 - **Third vent channel** (action; **uncommon**) *(Custom, not traditional: no trader carries this.)*: **sheds 1 heat at the end of every beat,** fired or not.
 - **Matched fill** (cell; **uncommon**) *(Custom, not traditional: no trader carries this.)*: a tuned plasma cell ([plasma.md](plasma.md#tuned-plasma-cell): 12 shots) matched to Ferro's reclamator: **no misfire,** but **a refill takes 3 days, not 2.**
-- **Charge (hold the trigger)** (trigger; **rare**) *(Custom, not traditional: no trader carries this.)*: **quick charge:** the beat's string becomes one charged shot: **a hit drops 1 step, +2 heat, 2 shots of cell.** **Full charge:** hold through a whole beat (no firing), fire the next: **a hit drops 2 steps, +3 heat, 3 shots of cell.** Plasma punch on both; a crit adds a step.
+- **Charge (hold the trigger)** (trigger; **rare**) *(Custom, not traditional: no trader carries this.)*: **quick charge:** the beat's string becomes one charged shot: **a hit drops 1 extra step (2 in all), +2 heat, 2 shots of cell.** **Full charge:** hold through a whole beat (no firing), fire the next: **a hit drops 2 extra steps (3 in all), +3 heat, 3 shots of cell.** (Extra steps: the player, day 47.) Plasma punch on both; a crit adds a step.
 - *Traditional parts on it:* holo sight, laser sight wired in (kit.md); tuned plasma cells (plasma.md).
 
 ### Hollis's Six Bells (schematic 16)
