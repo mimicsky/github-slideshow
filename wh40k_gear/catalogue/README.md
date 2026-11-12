@@ -70,6 +70,15 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Needle pistol (Kesh's pattern)](stub.md#needle-pistol-keshs-pattern)
 - [Needle darts (special loads)](stub.md#needle-darts-special-loads)
 - [Stub and autogun rounds (special loads)](stub.md#stub-and-autogun-rounds-special-loads)
+- [Heavy stub rounds](stub.md#heavy-stub-rounds) (a thicker calibre: hand cannons, the Orlock, the Macragge)
+- [Burst pistol, 'Kasr Trice' pattern](stub.md#burst-pistol-kasr-trice-pattern) (3-round bursts, 15 rounds, full slots)
+- [Holdout stub pistol, 'Cutpurse' pattern](stub.md#holdout-stub-pistol-cutpurse-pattern) (a derringer: one round, +3 to hide)
+- [Hunting rifle, 'Kasr Stag' pattern](stub.md#hunting-rifle-kasr-stag-pattern) (bolt action, autogun rounds)
+- [Pocket revolver, 'Trinity' pattern](stub.md#pocket-revolver-trinity-pattern) (tiny 3-shot revolver; +2 to hide)
+- [Service stub pistol, 'Steadfast' pattern](stub.md#service-stub-pistol-steadfast-pattern) (12 rounds; threaded barrel only)
+- [Pump shotgun, 'Harrow' pattern](stub.md#pump-shotgun-harrow-pattern) (cheap; no attachment slots)
+- [Lucius 'Ironclad' shotgun](stub.md#lucius-pattern-ironclad-shotgun) (heavy pump)
+- [Shotgun shells, special](stub.md#shotgun-shells-special-loads) (man-stopper, dragon's breath, hellfire)
 
 ## [Bows, quivers and arrows](bows.md)
 
@@ -92,11 +101,13 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Pipe rifle](scrap.md#pipe-rifle)
 - [Rattler (stamped scrap SMG)](scrap.md#rattler-stamped-scrap-smg)
 - [Junk shotgun ("double-pipe")](scrap.md#junk-shotgun-double-pipe)
+- [Flamer tanks and fuels, special](scrap.md#flamer-tanks-and-fuels-special-loads) (big tank, sulphur, thermite, cut phosphex)
 
 ## [Bolt weapons](bolt.md)
 
 - [Bolt-shotgun, 'Breacher' pattern](bolt.md#bolt-shotgun-breacher-pattern)
 - [Astartes bolters](bolt.md#astartes-bolters) (epic and legendary)
+- [Bolt rounds, special](bolt.md#bolt-rounds-special-loads) (Kraken, off-brand, meltacore, storm, vengeance)
 
 ## [Plasma weapons and cells](plasma.md)
 
@@ -260,17 +271,6 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 ## [Heavy and vehicle weapons](heavy.md)
 
 - [Heavy stubber](heavy.md#heavy-stubber)
-- [Flamer tanks and fuels, special](scrap.md#flamer-tanks-and-fuels-special-loads) (big tank, sulphur, thermite, cut phosphex)
-- [Bolt rounds, special](bolt.md#bolt-rounds-special-loads) (Kraken, off-brand, meltacore, storm, vengeance)
-- [Heavy stub rounds](stub.md#heavy-stub-rounds) (a thicker calibre: hand cannons, the Orlock, the Macragge)
-- [Burst pistol, 'Kasr Trice' pattern](stub.md#burst-pistol-kasr-trice-pattern) (3-round bursts, 15 rounds, full slots)
-- [Holdout stub pistol, 'Cutpurse' pattern](stub.md#holdout-stub-pistol-cutpurse-pattern) (a derringer: one round, +3 to hide)
-- [Hunting rifle, 'Kasr Stag' pattern](stub.md#hunting-rifle-kasr-stag-pattern) (bolt action, autogun rounds)
-- [Pocket revolver, 'Trinity' pattern](stub.md#pocket-revolver-trinity-pattern) (tiny 3-shot revolver; +2 to hide)
-- [Service stub pistol, 'Steadfast' pattern](stub.md#service-stub-pistol-steadfast-pattern) (12 rounds; threaded barrel only)
-- [Pump shotgun, 'Harrow' pattern](stub.md#pump-shotgun-harrow-pattern) (cheap; no attachment slots)
-- [Lucius 'Ironclad' shotgun](stub.md#lucius-pattern-ironclad-shotgun) (heavy pump)
-- [Shotgun shells, special](stub.md#shotgun-shells-special-loads) (man-stopper, dragon's breath, hellfire)
 - [Autocannon shells, special](heavy.md#autocannon-shells-special-loads) (flak, penetrator, incendiary HE)
 - [Multi-laser packs, special](heavy.md#multi-laser-packs-special-loads) (overcharged, extended)
 - [Lascannon packs, special](heavy.md#lascannon-packs-special-loads) (Mechanicus, extended, battery)
