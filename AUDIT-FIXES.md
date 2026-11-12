@@ -89,7 +89,7 @@ All of **Part A** and **Part B** is already done on branch `claude/intelligent-m
 1. ~~`day-log.md`: day 47 is filed under `## Day 46`.~~ **FIXED (day 47):** a `## Day 47` heading now opens at ~0055. Add a `## Day 47` heading.
 2. ~~`dm-notes.md`: "Live now" still points at the Torvane's Mart mission.~~ **FIXED (day 47):** "Live now" points at Kettle Ford; the Mart section is labelled done.
 3. ~~Sheet, Health block: still from day 38.~~ **FIXED (day 47):** now day 47 ~1830 (Tamsin Fine, a dressed thumb; Dace patched by Sallow ~1340: everyone Fine). Was: still from day 38. Dace was Hurt at Quay 4 on day 47.
-4. Sheet, Owed list, stale:
+4. ~~Sheet, Owed list, stale~~ **FIXED (day 47):** Ferro's rite and Brenner's mat time struck as done; Shameholder's first cut marked kept (the rages-sated half still owed). Was: Sheet, Owed list, stale:
    - Ferro's warding rite (done day 44)
    - Brenner's mat time (both "postponed" and "DONE")
    - Shameholder's first cut (kept day 47; "both their rages sated" is still owed)
