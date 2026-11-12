@@ -13,6 +13,12 @@ armour, so a Kraken's edge is reach and vehicles: **it gets through an APC's arm
 haulers: [vehicles.md](../bestiary/vehicles.md); tanks still shrug it), and **+1 on aimed shots past ~30 m**. Fits
 bolt pistols, boltguns and heavy bolters. A magazine holds one load at a time.
 
+**Off-brand bolt rounds** (**common, 2.5 TV for 25 rounds** (the player's price; standard bolts are 8 TV for 10);
+black market, hive gunsmiths, Free Traders; **common in the enemy roll**; the player's idea, day 47). Cheap,
+badly-made bolts: **less pen:** through carapace, but **heavy carapace and ceramite-forged only on a solid hit**, and
+**power armour shrugs them** (it can still be worn down by them); **less damage:** **a crit drops just one step** (no
+extra). Fits any bolt weapon.
+
 ## Bolt-shotgun, 'Breacher' pattern
 
 **Bolt-shotgun, 'Breacher' pattern** (player design, rare, 10 TV). A short,

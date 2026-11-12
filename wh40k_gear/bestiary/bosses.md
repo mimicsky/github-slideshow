@@ -8,8 +8,8 @@ guard). The roster below is drawn from 40k lore; each entry is short, and the DM
 
 A boss and its escort come **on top of** the mission's force (codex Part 8, Enemy numbers and tactics).
 
-**Instant kills don't kill a mini boss** (the player, day 47): a crit from an **incinerator canister** (catalogue plasma.md)
-puts him **straight to Down with -1 on his survival roll** instead.
+**An incinerator canister's crit** (catalogue plasma.md) puts anyone **straight to Down**, a mini boss too, with -1 on his
+survival roll; it never kills outright (the player, day 47).
 
 **Two bosses (the player: 'sometimes just challenge me').** Whenever a boss is set for a **whole-Light fight or a
 regular battle**, roll a d6: **5-6, a second boss** (a different kind, or its mate: a commander and his beast, a

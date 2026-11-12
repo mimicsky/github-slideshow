@@ -113,6 +113,6 @@ every shot after the first is -1; a beat without firing clears it.
 - **Incinerator canister** (rare, 25 TV, DM's price; Mechanicus, black market, Free Traders; **rare in the enemy
   roll**). The player's idea, armour pen and a lot of damage, the top canister: **inside ~8 m a hit drops 3 steps**;
   **a hit on a vehicle takes 2 hull points**; it **sets the target alight** and **melts light cover** it hits. **A crit
-  kills the target outright** (no survival roll; the player, day 47); **a mini boss** instead **goes straight to Down,
-  with -1 on his survival roll** (the player: very badly hurt; [bosses.md](../bestiary/bosses.md)). **A bigger kick: -2 on his next melta shot.**
+  puts the target straight to Down** (anyone: the Light, enemies, mini bosses; **never an instant kill**: the player,
+  day 47); an enemy downed this way takes **-1 on his survival roll** (very badly hurt; [bosses.md](../bestiary/bosses.md)). **A bigger kick: -2 on his next melta shot.**
   **3 shots** (a big one: 7).

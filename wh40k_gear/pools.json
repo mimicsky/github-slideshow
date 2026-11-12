@@ -3794,10 +3794,17 @@
   "sellers": "BAF"
  },
  {
-  "name": "Incinerator canister (3 steps inside ~8 m, 2 hull points, sets alight; a crit kills; -2 next shot; 3 shots)",
+  "name": "Incinerator canister (3 steps inside ~8 m, 2 hull points, sets alight; a crit: straight to Down; -2 next shot; 3 shots)",
   "tv": 25,
   "cat": "ammo",
   "rarity": "R",
   "sellers": "BAF"
+ },
+ {
+  "name": "Off-brand bolt rounds (25; less pen: power armour shrugs them, a crit just one step)",
+  "tv": 2.5,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "BF"
  }
 ]
