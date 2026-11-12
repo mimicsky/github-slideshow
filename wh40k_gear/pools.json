@@ -3827,5 +3827,12 @@
   "cat": "ammo",
   "rarity": "R",
   "sellers": "BF"
+ },
+ {
+  "name": "Las eco pack (120 shots; weaker: flak shrugs it past ~15 m)",
+  "tv": 0.5,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "MBF"
  }
 ]

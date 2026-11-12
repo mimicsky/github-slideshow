@@ -152,6 +152,15 @@ written Ash on Ostrava day 35). A longer regular las pack: **60 shots instead of
 anything that takes a regular las pack (lasguns, lascarbines, laspistols, the shotlas), as a slot pack or
 a belt pack for cable-fed guns. Recharges at a coupling like any las pack.
 
+## Las eco pack
+
+**Las eco pack** (common, 0.5 TV, DM's price; Munitorum surplus, black market, hive traders; the player's idea, Ash on
+Ostrava day 47). A low-power pack: **120 shots** (a regular pack holds 45). **Weaker:** **flak shrugs it past ~15 m**,
+and **reinforced flak always shrugs it**; up close it still burns through flak. Fits anything that takes a regular las
+pack (not hot-shot guns). A poor man's pack: most of the people he shoots wear nothing or flak; **the Light are the
+hard fight he isn't built for** (the player). On the [attachment sheet](attachments.md#the-rollable-list) (common, so
+poor factions roll it most).
+
 ## Hot-shot pack, Mechanicus pattern
 
 **Hot-shot pack, Mechanicus pattern** (uncommon, 3 TV; Mechanicus, Free Traders; **rare in the enemy roll**; rule

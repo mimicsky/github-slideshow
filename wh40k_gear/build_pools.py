@@ -243,6 +243,8 @@ add("ammo","U","MBF",[("Big flamer tank (twice the bursts; -1 dodges; bursts cat
 add("ammo","R","ABF",[("Thermite fuel (a can; flamers: +1 step, through ceramite, power armour on a solid hit; half reach)",5)])
 add("ammo","R","B",[("Cut phosphex (a can; forbidden: can't be beaten out, burns 2 beats; the ground burns)",20)])
 add("ammo","U","BF",[("Sulphur fuel (a can; flamers: +1 step on a hit; choking fumes)",2)])
+# Day 47: the las eco pack (the player's idea). Rules in catalogue/las.md.
+add("ammo","C","MBF",[("Las eco pack (120 shots; weaker: flak shrugs it past ~15 m)",0.5)])
 # Day 47: off-brand bolt rounds (the player's idea). Rules in catalogue/bolt.md.
 add("ammo","C","BF",[("Off-brand bolt rounds (25; less pen: power armour shrugs them, a crit just one step)",2.5)])
 add("ammo","R","BAF",[("Meltacore bolt rounds (10; through tank armour; +1 heat a string; +1 recoil)",25)])

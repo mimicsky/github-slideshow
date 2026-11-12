@@ -106,6 +106,7 @@ A = [
  ("a_meltacore", "Meltacore bolt rounds", "R", "load", {"bp", "br", "hv"}, r"bolt", None, 0, "through a tank's armour from any side; +1 heat a string, vent at 3; +1 recoil", "bolt.md#bolt-rounds-special-loads"),
  ("a_storm", "Storm bolt rounds", "U", "load", {"bp", "br", "hv"}, r"bolt", None, 0, "a miss by 1-3 still hits; every hit lands like a frag (flak; carapace on a solid hit; heavier shrugs)", "bolt.md#bolt-rounds-special-loads"),
  ("a_vengeance", "Vengeance bolt rounds", "R", "load", {"bp", "br", "hv"}, r"bolt", None, 0, "against power armour a hit drops an extra step; through an APC's armour; a natural 1 cooks off: he drops a step, the gun is out", "bolt.md#bolt-rounds-special-loads"),
+ ("a_eco", "Las eco pack", "C", "load", {"lp", "lr"}, r"^(?!.*(hellgun|hellpistol|hot-shot|volley gun)).*", None, 0, "120 shots; flak shrugs it past ~15 m, reinforced flak always", "las.md#las-eco-pack"),
  ("a_manstopper", "Man-stopper shells (armour-piercing slug)", "R", "load", {"sg"}, None, None, 0, "one slug, one target, no spread; flak and reinforced flak don't shrug it; through carapace on a solid hit inside ~15 m", "stub.md#shotgun-shells-special-loads"),
  ("a_dragon", "Dragon's breath shells", "U", "load", {"sg"}, None, None, 0, "shot at, the target is flashed: -1 on his next shot; hit, -2 instead; a hit on a raw 17+ sets him alight", "stub.md#shotgun-shells-special-loads"),
  ("a_hellshell", "Hellfire shells", "R", "load", {"sg"}, None, None, 0, "a hit that gets through: CON save vs 10 or one more step", "stub.md#shotgun-shells-special-loads"),
