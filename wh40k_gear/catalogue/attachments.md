@@ -112,6 +112,7 @@ field, hone, spikes, slot, overdrive, motor, teeth, mgrip, mselector.
 | **Tracker darts** | uncommon | load | needle pistols, needle rifles | a pinger, not a toxin: followed on an auspex ~1 km for a day | [stub.md](stub.md#needle-darts-special-loads) |
 | **Truth darts** | rare | load | needle pistols, needle rifles | CON vs 15 or ~10 minutes of loose tongue | [stub.md](stub.md#needle-darts-special-loads) |
 | **Tungsten-core belt** | rare | load | heavy stubbers | through heavy carapace at any range | [heavy.md](heavy.md#heavy-stubber-belts-special) |
+| **Vengeance bolt rounds** | rare | load | bolt pistols, boltguns, heavy weapons (only: bolt) | against power armour a hit drops an extra step; through an APC's armour; a natural 1 cooks off: he drops a step, the gun is out | [bolt.md](bolt.md#bolt-rounds-special-loads) |
 | **Widow darts** | rare | load | needle pistols, needle rifles | a failed save is dead, no survival roll | [stub.md](stub.md#needle-darts-special-loads) |
 | **Ancient plasma cell** | rare | mag | plasma guns, plasma pistols | through power armour on any hit; a hit drops an extra step; 1 heat a shot; 8 shots, can't be refilled | [plasma.md](plasma.md#ancient-plasma-cell) |
 | **Big flamer tank** | uncommon | mag | flamers, hand flamers | twice the bursts; -1 on dodges; the tank is a target (a 1-4 burst also catches anyone within ~3 m) | [scrap.md](scrap.md#flamer-tanks-and-fuels-special-loads) |

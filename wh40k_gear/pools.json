@@ -3820,5 +3820,12 @@
   "cat": "ammo",
   "rarity": "U",
   "sellers": "MF"
+ },
+ {
+  "name": "Vengeance bolt rounds (5; +1 step against power armour; through APC armour; a natural 1 cooks off)",
+  "tv": 30,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "BF"
  }
 ]

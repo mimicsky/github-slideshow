@@ -32,6 +32,12 @@ like a frag, not a bolt:** through flak, through carapace only on a solid hit, h
 wears it down; Too weak to matter applies, codex Armour). More hits, less punch: for crowds in flak. Fits any bolt
 weapon.
 
+**Vengeance bolt rounds** (rare, **30 TV for 5** (the player's price); Deathwatch-pattern, black market, Free Traders;
+**rare in the enemy roll**; the player's idea, day 47: super armour-piercing). **Against power armour a hit drops one
+extra step** (2 in all); against lighter armour, a normal bolt. **Gets through an APC's armour** (as Kraken; tanks shrug
+it). **Unstable: on a natural 1 the round cooks off in the chamber:** the bearer drops a step and the gun is out for
+the fight. Fits any bolt weapon.
+
 ## Bolt-shotgun, 'Breacher' pattern
 
 **Bolt-shotgun, 'Breacher' pattern** (player design, rare, 10 TV). A short,
