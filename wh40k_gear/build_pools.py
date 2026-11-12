@@ -255,6 +255,7 @@ add("ammo","U","MAF",[("Big melta canister (14 shots; -1 quick-draw and swapping
 add("ammo","R","BAF",[("Astartes melta canister (a hit on a vehicle: 2 hull points; -1 on the next melta shot)",15),("Mechanicus melta canister (3 steps inside ~8 m; -1 on the next melta shot; 4 shots)",12),("Incinerator canister (3 steps inside ~8 m, 2 hull points, sets alight; a crit: straight to Down; -2 next shot; 3 shots)",25)])
 # Day 47: the ancient plasma cell (the player's idea). Rules in catalogue/plasma.md.
 add("ammo","R","AF",[("Ancient plasma cell (through power armour on any hit, +1 step; 1 heat a shot; can't be refilled)",25)])
+add("mod","R","ABF",[("Las auto-fire crystal (basic lasgun: strings up to 12; heat on 8+)",10)])
 # Day 47: the repeater crystal (bought for Brenner's Accatran, schematic 12). Rules in catalogue/kit.md.
 add("mod","R","AF",[("Repeater crystal, las (strings up to 7; no chain bonuses in the string)",8)])
 add("mod","U","MBF",[("Diamantine whetstone (any edged blade: +1 pierce for the next 2 hits; ~10 uses)",1)])

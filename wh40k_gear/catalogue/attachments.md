@@ -71,6 +71,7 @@ field, hone, spikes, slot, overdrive, motor, teeth, mgrip, mselector.
 
 | Attachment | Rarity | Slot | Fits | What it does | Full entry |
 | --- | --- | --- | --- | --- | --- |
+| **Las auto-fire crystal** | rare | action | las rifles (only: ^(?!.*(hot-shot or hellgun)).*(lasgun or lascarbine)) | strings up to 12; no hit bonuses in the string, misses still -1; strings of 8+ build 1 heat, vent at 3 | [kit.md](kit.md#las-auto-fire-crystal) |
 | **Repeater crystal** | rare | action | las pistols, las rifles | strings up to 7; no chain bonuses in the string, misses still -1 | [kit.md](kit.md#repeater-crystal) |
 | **Custom barrel** | uncommon | barrel | SMGs, stub pistols | +1 aimed, +1 past ~30 m | [kit.md](kit.md#custom-barrel-stub-pistols-and-smgs-barrel-slot) |
 | **Bayonet (fixed)** | common | bayonet | autoguns and stub rifles, las rifles | a spear thrust in melee: chains 2, +1 to strike first; Bayonet Charge | [kit.md](kit.md#bayonet) |

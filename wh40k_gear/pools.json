@@ -3834,5 +3834,12 @@
   "cat": "ammo",
   "rarity": "C",
   "sellers": "MBF"
+ },
+ {
+  "name": "Las auto-fire crystal (basic lasgun: strings up to 12; heat on 8+)",
+  "tv": 10,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "ABF"
  }
 ]

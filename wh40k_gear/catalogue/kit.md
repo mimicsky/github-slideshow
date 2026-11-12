@@ -509,6 +509,14 @@ entry written day 47). A tuned focusing crystal that cycles a las gun faster: **
 shot; the fast-gun rule: **no chain bonuses in the string** (first-shot bonuses still count), misses still -1. Fits
 las guns. On the [attachment sheet](attachments.md#the-rollable-list).
 
+### Las auto-fire crystal
+
+**Las auto-fire crystal** (rare, 10 TV, DM's price; Mechanicus, black market, Free Traders; the player's idea, Ash on
+Ostrava day 47). A cycling crystal for a basic lasgun or lascarbine (not hellguns): **strings up to 12**; the fast-gun
+rule: **no hit bonuses in the string**, misses still -1. **Heat: strings of 8+ build 1 heat; vent a beat at 3.** It takes
+the same place as a [repeater crystal](#repeater-crystal): one or the other. On the
+[attachment sheet](attachments.md#the-rollable-list).
+
 ### More attachments (player picks, Ash on Ostrava session 10)
 
 **Optic**
