@@ -517,6 +517,14 @@ rule: **no hit bonuses in the string**, misses still -1. **Heat: strings of 8+ b
 the same place as a [repeater crystal](#repeater-crystal): one or the other. On the
 [attachment sheet](attachments.md#the-rollable-list).
 
+### Sweep emitter
+
+**Sweep emitter** (uncommon, 5 TV, DM's price; Munitorum, Mechanicus, Free Traders; Ash on Ostrava day 47, the
+walking plate's idea for las). A fanned emitter for multi-lasers and las-LMGs (the Kasr Rain, the Las-box): **one string
+can be spread across up to 3 enemies standing abreast;** the swap's -1 is paid once per extra target; each shot still
+checks one target; enemies stacked one behind another: only the front one. On the
+[attachment sheet](attachments.md#the-rollable-list).
+
 ### More attachments (player picks, Ash on Ostrava session 10)
 
 **Optic**

@@ -79,6 +79,7 @@ A = [
  ("cbarrel", "Custom barrel", "U", "barrel", {"sp", "smg"}, None, None, 0, "+1 aimed, +1 past ~30 m", K + "custom-barrel-stub-pistols-and-smgs-barrel-slot"),
  ("shockcoil", "Shock-coil kit", "R", "coil", HAND | {"hs", "hv"} | MELEE, None, None, 0, "after a hit, +1 on his next roll against that target (6 charges a fight)", K + "shock-coil-kit"),
  ("autocrystal", "Las auto-fire crystal", "R", "action", {"lr"}, r"^(?!.*(hot-shot|hellgun)).*(lasgun|lascarbine)", None, 0, "strings up to 12; no hit bonuses in the string, misses still -1; strings of 8+ build 1 heat, vent at 3", K + "las-auto-fire-crystal"),
+ ("sweep", "Sweep emitter", "U", "muzzle", {"hv", "lr"}, r"multi-laser|multilaser|las-box|las-lmg|kasr rain", None, 0, "one string across up to 3 standing abreast; the swap's -1 once per extra target", K + "sweep-emitter"),
  ("repeater", "Repeater crystal", "R", "action", {"lp", "lr"}, None, None, 0, "strings up to 7; no chain bonuses in the string, misses still -1", K + "repeater-crystal"),
  # melee (day 47)
  ("tuning", "Power weapon tuning kit", "R", "field", {"pw"}, None, None, 0, "a steady field: through power armour on any hit", K + "power-weapon-tuning-kit"),

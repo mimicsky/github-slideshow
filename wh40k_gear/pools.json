@@ -3897,5 +3897,12 @@
   "cat": "ammo",
   "rarity": "U",
   "sellers": "MF"
+ },
+ {
+  "name": "Sweep emitter (multi-laser or las-LMG: one string across up to 3 abreast)",
+  "tv": 5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MAF"
  }
 ]
