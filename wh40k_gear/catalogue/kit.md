@@ -197,6 +197,8 @@ burns cold and smells of incense; anyone with psychic sense notices it.
 
 ## Jump pack, Kasrkin pattern
 
+**Abilities:** [Dive](abilities.md#dive).
+
 **Jump pack, Kasrkin pattern** (rare, 45 TV; Munitorum, Mechanicus, Free Trader;
 player design, Ash on Ostrava session 9). A Mechanicus-approved Cadian pattern for
 Kasrkin storm troops: a grav-chute frame with reversed suspensor plates and an elite
@@ -209,6 +211,8 @@ stutters and the user drops one health step on landing. Approved kit: no heresy 
 carry one.
 
 ## Lift pack (heretek grav-chute)
+
+**Abilities:** [Dive](abilities.md#dive).
 
 **Lift pack** (unique; built, not sold). A boarders' grav-chute rebuilt **to the
 Kasrkin pattern** above, from memory and without the proper rites (tech-heresy for the

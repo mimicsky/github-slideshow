@@ -39,3 +39,23 @@ planted.**
 - **Mods:** [Shield viewing slot](kit.md#shield-viewing-slot-mod) (gives any planted shield slot fire, -2);
   [Spiked shield](kit.md#spiked-shield-mod) (no change to Plant)
 - **Owned in Ash on Ostrava:** Dace's breaching shield (forged, viewing slot): slot fire, -2 (campaign sheet).
+
+## Dive
+
+**Jump packs and lift packs** (set by the player, day 47). **A big burst of movement, from the ground or in the
+air:** a long leap (~30 m) **into the enemy** (to land in melee), **out of trouble** (a hot escape or a jump
+back), or **up to high ground.** It's the beat's move: the wearer still gets his main thing (a swing on landing,
+a string, a reload).
+- **It burns two bursts** of the pack's charge (a Kasrkin-pattern charge holds about six).
+- **It's very fast: anyone shooting at the wearer that beat treats him as abnormally fast (+3 to the hidden
+  number).** That's the same speed as Airborne's -3 to shots at a flyer, so the two don't stack (DM default).
+- The pack's other rules still apply: loud and bright (no stealth), and **a natural 1** on the landing: the field
+  stutters and he drops one step.
+
+**Items with it** (all in [kit.md](kit.md)):
+- [Jump pack, Kasrkin pattern](kit.md#jump-pack-kasrkin-pattern)
+- [Lift pack (heretek grav-chute)](kit.md#lift-pack-heretek-grav-chute)
+- **Guard jump packs** (no entry of their own: the Kasrkin pattern's rules)
+- **Owned in Ash on Ostrava:** Varga's lift pack; Isk's Guard jump pack (from IX, day 47); the stolen Guard jump
+  pack from the customs house (spare; waiting on Ferro) (campaign sheet).
+
