@@ -45,6 +45,7 @@ force's numbers.**
 - **An Astartes melta canister** in a melta gun: a hit takes **2 hull points** (catalogue plasma.md, day 47).
 - **A Mechanicus lascannon pack:** a hit takes **2 hull points** (catalogue heavy.md, day 47).
 - **Autocannon penetrator shells** get through a **tank's side or rear** (catalogue heavy.md, day 47).
+- **Krak missiles** (missile launcher) get through **APCs**, and **tanks from the side or rear** (catalogue heavy.md, day 47).
 - **Meltacore bolts** get through a **tank's** armour from any side; **Kraken and vengeance bolts** get through an APC's
   (catalogue bolt.md, day 47).
 - **Charges by hand** (in contact): **a melta bomb clamped on: 3 hull points, through any armour. A demo

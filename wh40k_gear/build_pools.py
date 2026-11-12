@@ -142,7 +142,7 @@ add("explosive","U","MBF",[("Mining charge",2)])
 add("ammo","C","B",[("Rivets (hopper of 20; rivet gun)",0.1),("Spare harpoon spear (sump harpoon; when a cable is cut)",0.2),("Pipe-bomb (pipe-bomb mortar or thrown)",0.1),("Vehicle battery (battery las: 15 shots; recharges at a coupling in ~2 hours)",0.5)])
 add("ammo","R","MF",[("Hellstrike missile (Valkyrie or Bone'ead launcher)",8)])
 add("heavy","U","MBF",[("Mortar with 6 rounds",12)])
-add("heavy","R","MF",[("Heavy bolter, Guard pattern, 1 belt (crew-served; strings of 6; a hit +1 step; braced or tripod)",40),("Missile launcher (2 frag, 1 krak)",25),("Autocannon",35),("Lascannon, man-portable (two steps on a person; 1 hull point; braced or tripod; 6-shot packs)",45),("Multilaser (crew)",30),("Rocket-propelled grenade tube (2 rounds)",10)])
+add("heavy","R","MF",[("Heavy bolter, Guard pattern, 1 belt (crew-served; strings of 6; a hit +1 step; braced or tripod)",40),("Missile launcher (2 frag, 1 krak; one a beat; krak through power armour; backblast)",25),("Autocannon",35),("Lascannon, man-portable (two steps on a person; 1 hull point; braced or tripod; 6-shot packs)",45),("Multilaser (crew)",30),("Rocket-propelled grenade tube (2 rounds)",10)])
 # --- Explosives ---
 add("explosive","C","MBF",[("Frag grenade",1),("Smoke grenade",1)])
 add("explosive","U","MBF",[("Krak grenade",2),("Photon flash grenade",2),("Choke gas grenade",1.5),("Breaching charge",2),("Det-tape (5 m)",1),("Demolition charge, satchel",4),("Incendiary grenade",2)])

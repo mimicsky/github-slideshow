@@ -146,6 +146,20 @@ shells: 4 TV. Fits autocannons, man-portable or mounted. On the [attachment shee
   normal). **A hit on a raw 17+ sets the target alight.** All filler: **no extra step on the target**, and **APCs
   shrug it.**
 
+## Missile launcher
+
+**Missile launcher** (rare, 25 TV with 2 frag and 1 krak missile; frag missiles 2 TV, krak missiles 4 TV; Munitorum,
+black market, Free Traders; rules written with the player, Ash on Ostrava day 47, audit C14).
+- **Shoulder-fired, one missile a beat;** he can't move that beat. **Reloading takes a beat** (a loader: the beat's
+  move). **Rolled like a shot**, out to **~150 m**.
+- **Frag missile:** a **~5 m blast:** everyone in it drops a step; a **dive roll** (DEX) gets them clear (the frag
+  grenade's rule, at range).
+- **Krak missile:** one target: **through power armour**; **a hit on a person drops two steps.** Vehicles: through
+  **APCs**, and **tanks from the side or rear**: 1 hull point ([vehicles.md](../bestiary/vehicles.md)).
+- **Backblast:** anyone within **~3 m behind him drops a step;** fired from inside a small room, it hits him too.
+
+**Abilities:** [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun; one missile a beat, so it gains nothing).
+
 ## Lascannon, man-portable
 
 **Lascannon, man-portable** (rare, 45 TV; a standard pack 6 shots, 5 TV; Munitorum, black market, Free Traders;

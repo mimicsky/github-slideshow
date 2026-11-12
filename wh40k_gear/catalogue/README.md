@@ -274,6 +274,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Heavy stubber](heavy.md#heavy-stubber)
 - [Autocannon shells, special](heavy.md#autocannon-shells-special-loads) (flak, penetrator, incendiary HE)
 - [Multi-laser packs, special](heavy.md#multi-laser-packs-special-loads) (overcharged, extended)
+- [Missile launcher](heavy.md#missile-launcher) (frag ~5 m blast; krak through power armour; backblast)
 - [Lascannon, man-portable](heavy.md#lascannon-man-portable) (two steps on a person; 1 hull point; braced)
 - [Lascannon packs, special](heavy.md#lascannon-packs-special-loads) (Mechanicus, extended, battery)
 - [Heavy stubber belts, special](heavy.md#heavy-stubber-belts-special) (hollow point, inferno, tungsten-core, hellfire)
