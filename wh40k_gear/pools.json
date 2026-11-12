@@ -3813,5 +3813,12 @@
   "cat": "ammo",
   "rarity": "R",
   "sellers": "BAF"
+ },
+ {
+  "name": "Storm bolt rounds (10; a near miss still hits; hits land like frags)",
+  "tv": 10,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MF"
  }
 ]

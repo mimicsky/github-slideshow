@@ -26,6 +26,12 @@ hull point: [vehicles.md](../bestiary/vehicles.md)). Too hot for the gun: **+1 h
 (Vigil's scale). **Heavier kick: +1 recoil** (each shot after the first in a string takes -1 more: a boltgun's 2
 becomes 3). Fits any bolt weapon.
 
+**Storm bolt rounds** (uncommon, 10 TV for 10, DM's price; Munitorum, Free Traders; the player's idea, day 47). Each
+bolt bursts into shrapnel by the target: **a near miss still hits** (missing by 1-3 clips him), but **every hit lands
+like a frag, not a bolt:** through flak, through carapace only on a solid hit, heavier armour shrugs it (it still
+wears it down; Too weak to matter applies, codex Armour). More hits, less punch: for crowds in flak. Fits any bolt
+weapon.
+
 ## Bolt-shotgun, 'Breacher' pattern
 
 **Bolt-shotgun, 'Breacher' pattern** (player design, rare, 10 TV). A short,
