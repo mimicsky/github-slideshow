@@ -3736,5 +3736,12 @@
   "cat": "mod",
   "rarity": "R",
   "sellers": "AF"
+ },
+ {
+  "name": "Ancient plasma cell (through power armour on any hit, +1 step; 1 heat a shot; can't be refilled)",
+  "tv": 25,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "AF"
  }
 ]

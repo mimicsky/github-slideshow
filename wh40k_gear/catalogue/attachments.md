@@ -104,6 +104,7 @@ field, hone, spikes, slot, overdrive, motor, teeth, mgrip, mselector.
 | **Truth darts** | rare | load | needle pistols, needle rifles | CON vs 15 or ~10 minutes of loose tongue | [stub.md](stub.md#needle-darts-special-loads) |
 | **Tungsten-core belt** | rare | load | heavy stubbers | through heavy carapace at any range | [heavy.md](heavy.md#heavy-stubber-belts-special) |
 | **Widow darts** | rare | load | needle pistols, needle rifles | a failed save is dead, no survival roll | [stub.md](stub.md#needle-darts-special-loads) |
+| **Ancient plasma cell** | rare | mag | plasma guns, plasma pistols | through power armour on any hit; a hit drops an extra step; 1 heat a shot; 8 shots, can't be refilled | [plasma.md](plasma.md#ancient-plasma-cell) |
 | **Extended magazine** | common | mag | SMGs, autoguns and stub rifles, las pistols, las rifles, shotguns, stub pistols | +50% shots | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
 | **Extended magazine kit (bolt or plasma)** | rare | mag | bolt pistols, boltguns, plasma guns, plasma pistols | +50% shots | [kit.md](kit.md#extended-magazine-kits) |
 | **Pistol drum** | uncommon | mag | SMGs, las pistols, stub pistols | twice the shots; no quick-draw holster, -1 quick-draw | [kit.md](kit.md#pistol-drums) |

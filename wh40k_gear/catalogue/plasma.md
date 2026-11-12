@@ -16,6 +16,15 @@ but power armour only on a solid hit (beats the shot by 3+).
 **Tuned plasma cell** (player design, rare, 10 TV). A Mechanicus-tuned cell:
 **12 shots instead of 8.** Same misfire chance as its fill (slow-filled 1 in 20).
 
+## Ancient plasma cell
+
+**Ancient plasma cell** (rare, 25 TV, DM's price; Mechanicus relic-dealers, Free Traders; **rare in the enemy roll**; the
+player's idea, rule written day 47). A cell from before the knowledge decayed. **Through power armour on any hit**
+(not only a solid one), and **a hit drops one extra step** (2 in all). It runs hot: **1 heat per shot**, not 1 per 2
+(Plasma heat, codex Part 8). **8 shots**, and it **can't be refilled** outside a Mechanicus forge: once it's empty,
+it's done. Fits any plasma pistol or plasma gun. On the [attachment sheet](attachments.md#the-rollable-list) (it takes
+the cell's place, so not with a tuned cell).
+
 ## Plasma blaster, twin-cell 'Lumen' pattern
 
 **Plasma blaster, twin-cell 'Lumen' pattern** (player design, rare, 35 TV). A
