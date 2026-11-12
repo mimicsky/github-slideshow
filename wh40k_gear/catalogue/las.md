@@ -152,6 +152,14 @@ written Ash on Ostrava day 35). A longer regular las pack: **60 shots instead of
 anything that takes a regular las pack (lasguns, lascarbines, laspistols, the shotlas), as a slot pack or
 a belt pack for cable-fed guns. Recharges at a coupling like any las pack.
 
+## Hot-shot pack, Mechanicus pattern
+
+**Hot-shot pack, Mechanicus pattern** (uncommon, 3 TV; Mechanicus, Free Traders; **rare in the enemy roll**; rule
+written with the player, Ash on Ostrava day 47). A purer charge, Mechanicus-filled. Fits anything that takes a
+hot-shot pack (hellguns, hellpistols, hot-shot conversions). **The gun hits one armour tier harder:** a hellgun gets
+through **heavy carapace at any range** and **ceramite-forged inside ~15 m**. It burns out faster: **20 shots a pack,
+not 30.** On the [attachment sheet](attachments.md#the-rollable-list) as a special load.
+
 ## Extended hot-shot pack
 
 **Extended hot-shot pack** (uncommon, 1.5 TV; Munitorum, Free Traders; player pick, Ash on Ostrava day 35).

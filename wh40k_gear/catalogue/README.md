@@ -34,6 +34,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Long-las, Mezoa pattern (sniper)](las.md#long-las-mezoa-pattern-sniper)
 - [Las-scattergun ('shotlas')](las.md#las-scattergun-shotlas)
 - [Extended las pack](las.md#extended-las-pack)
+- [Hot-shot pack, Mechanicus pattern](las.md#hot-shot-pack-mechanicus-pattern)
 - [Extended hot-shot pack](las.md#extended-hot-shot-pack)
 
 ## [Solid-shot and special guns (autoguns, shotguns, pistols, web, needle)](stub.md)
