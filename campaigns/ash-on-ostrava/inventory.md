@@ -4,6 +4,7 @@ Gear detail: Tamsin's weapons and their history, the Light's containers, builds,
 
 ## Contents
 
+- [Onboard stores: the ammo count](#onboard-stores-the-ammo-count)
 - [Tamsin's weapons in detail (history, blessings, spirits)](#tamsins-weapons-in-detail-history-blessings-spirits)
 - [Tamsin's kit in detail](#tamsins-kit-in-detail)
 - [Container stock (the crate)](#container-stock-the-crate)
@@ -46,6 +47,32 @@ Gear detail: Tamsin's weapons and their history, the Light's containers, builds,
 | Venn's vellum note | In Tamsin's locker: *"Velk. Under the Choir-Ice, past the dead chapel. Fourth stair down. It sleeps. The key fits the cradle, not the door. If I don't come back: don't go down alone. And don't take V's word for what's down there. He wasn't there. I was."* |
 | Vox-beads | 4 Navy beads (Gryphonne pattern), **retuned by Hespa-Vor to an encrypted channel called THE LIGHT** (warp day 5 to Ostrava), first issued session 5-7 (Tamsin, Kell, Varga, Dace, then Hollis, Brenner, Isk, Tavi, Morcant, Sallow). **Now everyone in the Light wears one, 24/7** (the player, day 33); re-keyed days 27-28; ~23 spares in the container |
 | Purity seal (spare) | Thane's unused sleep seal, held by Varsaine |
+
+## Onboard stores: the ammo count
+
+**Set by the player, day 47.** Back aboard, **Ollin refills everyone's kit to full, and every round, belt, canister,
+grenade and stimm he hands out comes off these totals.** Update this table in the same save as the refill. When a
+line runs low, it goes on the buy list. **Rechargeable packs** (las and hot-shot packs, the Valk's charge packs) go on
+the coupling and come back full; they only come off the total when one is lost or wrecked. (First count compiled from
+this file's haul and stock lines, day 47 ~1830; "~" where the record is a guess.)
+
+| Stock | On board | Notes |
+| --- | --- | --- |
+| **Autogun rounds** | **~6,000** | 1 crate (~2,000, day 29) + 2 crates from Fourteen's dormitories (~4,000) + 2 boxes bought day 36 |
+| **Stub rounds** | **~200** | 2 boxes bought day 36 (a box ~100) |
+| **Heavy stub rounds** | **0** | new calibre, day 47 (Crale's hand cannon takes them) |
+| **Bolt rounds** | **~39** | 21 + the Godwyn's 18; Fourteen's bolt pistols had few rounds |
+| **Shotgun shells** | **~320** | |
+| **Heavy stubber belts** | **~9 standard, 2 hollow point** | 6 in stock + IX pit A's + Fourteen's hall roof belt + Morcant's spares; 2 hollow point (day 36) |
+| **Special stub/auto loads** | **2 boxes each** | stub HP, AP, HV, flat-tip; auto HP, AP, HV, CAP (day 36) |
+| **Las packs** (recharge) | **~79** | ~38 + IX 12 + Fourteen 6 + the dormitories ~20 + 3 |
+| **Hot-shot packs** (recharge) | **~74** | ~70 + IX 2 + Fourteen 2 |
+| **Frag grenades** | **~25** | crate ~12 + IX 7 + Fourteen 2 + the dormitories 3 + 1 |
+| **Krak grenades** | **~12** | 4 in stock + IX 7 + Fourteen 1 (Tavi's 4 are on him) |
+| **Smoke / photon flash / choke gas** | **3 / 1 / 1** | Fourteen and IX; plus Hollis's 2 spec flashes back in the crate |
+| **Stimms** (beyond Sallow's Bag) | **~28** | ~6 + ~17 kept from the Mart haul + IX 3 + Fourteen 2 |
+| **Hand-flamer canisters** | **2** | |
+| **Needle darts** | as Nessa's row | black-tip 6, shard 10, panic 10, tracker 4; widow and truth on order |
 
 ## Container stock (the crate)
 
