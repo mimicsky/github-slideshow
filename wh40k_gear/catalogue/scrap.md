@@ -66,6 +66,10 @@ throwers. On the [attachment sheet](attachments.md#the-rollable-list).)
   hotter: **everyone the gout hits drops one extra step.** **Stinking yellow fumes:** for the next beat, anyone in the
   burned area without a rebreather or mask takes **-1 on their next roll** (both sides, the flamer too if he walks
   into it). Armour as normal fuel.
+- **Thermite fuel** (rare, 5 TV a can, DM's price; Mechanicus, black market, Free Traders; **rare in the enemy roll**).
+  Thermite gel that burns through metal: **everyone hit drops one extra step**, and it gets **through carapace, heavy
+  carapace and ceramite-forged on any hit, power armour on a solid hit.** **It burns through cover:** light cover it
+  touches is gone. The gel is heavy: **the gout reaches half as far** (a hand flamer ~3 m).
 
 ## Torch-thrower (scrap flamer)
 

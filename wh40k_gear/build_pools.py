@@ -240,6 +240,7 @@ add("gear","C","MBF",[("Grenade bandolier (+6 grenades ready; half-beat drum rel
 add("mod","U","MBF",[("Extended magazine kit, las or stub (+50% shots)",1.5)])
 # Day 47: flamer tanks and fuels (the player's ideas). Rules in catalogue/scrap.md.
 add("ammo","U","MBF",[("Big flamer tank (twice the bursts; -1 dodges; bursts catch ~3 m)",2)])
+add("ammo","R","ABF",[("Thermite fuel (a can; flamers: +1 step, through ceramite, power armour on a solid hit; half reach)",5)])
 add("ammo","U","BF",[("Sulphur fuel (a can; flamers: +1 step on a hit; choking fumes)",2)])
 # Day 47: the ancient plasma cell (the player's idea). Rules in catalogue/plasma.md.
 add("ammo","R","AF",[("Ancient plasma cell (through power armour on any hit, +1 step; 1 heat a shot; can't be refilled)",25)])

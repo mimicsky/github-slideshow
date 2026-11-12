@@ -3757,5 +3757,12 @@
   "cat": "ammo",
   "rarity": "U",
   "sellers": "BF"
+ },
+ {
+  "name": "Thermite fuel (a can; flamers: +1 step, through ceramite, power armour on a solid hit; half reach)",
+  "tv": 5,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "ABF"
  }
 ]

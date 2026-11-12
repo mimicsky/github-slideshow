@@ -101,6 +101,7 @@ field, hone, spikes, slot, overdrive, motor, teeth, mgrip, mselector.
 | **Panic darts** | uncommon | load | needle pistols, needle rifles | CON vs 15 or drops what's in hand and runs or hides 2 beats | [stub.md](stub.md#needle-darts-special-loads) |
 | **Shard darts** | rare | load | needle pistols, needle rifles | through carapace on any hit, heavy carapace on a solid hit | [stub.md](stub.md#needle-darts-special-loads) |
 | **Sulphur fuel** | uncommon | load | flamers, hand flamers | everyone hit drops an extra step; fumes: -1 on the next roll in the burned area without a mask | [scrap.md](scrap.md#flamer-tanks-and-fuels-special-loads) |
+| **Thermite fuel** | rare | load | flamers, hand flamers | +1 step on a hit; through carapace to ceramite-forged on any hit, power armour on a solid hit; burns through light cover; half the reach | [scrap.md](scrap.md#flamer-tanks-and-fuels-special-loads) |
 | **Tracker darts** | uncommon | load | needle pistols, needle rifles | a pinger, not a toxin: followed on an auspex ~1 km for a day | [stub.md](stub.md#needle-darts-special-loads) |
 | **Truth darts** | rare | load | needle pistols, needle rifles | CON vs 15 or ~10 minutes of loose tongue | [stub.md](stub.md#needle-darts-special-loads) |
 | **Tungsten-core belt** | rare | load | heavy stubbers | through heavy carapace at any range | [heavy.md](heavy.md#heavy-stubber-belts-special) |
