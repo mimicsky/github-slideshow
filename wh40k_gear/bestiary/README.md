@@ -21,6 +21,11 @@ also rolls its own STR and DEX (ranges in `DND_CODEX.md` Part 8); no per-book bo
 Every grunt and specialist role, how it tends to think and fight, and its rules.
 The DM decides; these are tendencies.
 
+**Specialist kits (set by the player, day 47): a coin flip.** **Preset:** the role's own kit from the roller's list.
+**Random:** a gun and a melee weapon from the type's lists, plus the role's tool if it has one (a medic's med-kit, a
+jumper's pack); he still fights as his role. Roles that are their kit (Ogryn, herder, heavy team, mortar team, bomb
+zealot, psyker, beast handler, mutant charger) always take the preset. The roller prints PRESET or RANDOM KIT.
+
 ## [Mini bosses](bosses.md)
 
 Mini bosses (renamed day 47; real bosses not built yet): monster mini bosses (bullet sponges: 8 stages, 2 actions, a ranged threat, a phase 2) and human bosses (commanders with an honour guard, the best kit, STR and DEX +6 to +10), a roster from 40k lore, and the two-boss roll (set by the player, day 47).

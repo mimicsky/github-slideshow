@@ -20,7 +20,10 @@ Role, one d20 per enemy (player-set, session 8):
         or MELEE (melee weapon + a sidearm or nothing)
   16-20 specialist: a random role from this type's list (sniper, grenadier,
         heavy, assassin, flamer, demolitions, medic, leader, and so on)
-Specialists carry their role kit, and 1 in 4 also has a melee backup.
+Specialists: a coin flip (player-set, day 47): PRESET, the role's own kit (and 1 in 4 also has a melee backup),
+or RANDOM, a gun and a melee weapon from the type's lists, plus the role's tool if it has one (a medic's med-kit, a
+jumper's pack); he still fights as his role. Roles that ARE their kit (ogryn, herder, heavy team, mortar team, bomb
+zealot, psyker, beast handler, mutant charger) always take the preset.
 Every enemy also rolls armour and one extra. Gear is weighted
 common 70 / uncommon 25 / rare 5.
 
@@ -142,6 +145,13 @@ sidearms = [r for r in P["weapon"] if any(x in r[0].lower() for x in ("pistol", 
 BOMBS = [("Frag grenade","C"),("Pipe-bomb","C"),("Fire bomb (promethium)","C"),("Mining charge","C"),
          ("Krak grenade","U"),("Choke gas grenade","U"),("Cult gas bottle (gas of their god)","U"),("Melta bomb","R")]
 ranged_share = 0.75 if kind.startswith("traitor") else 0.5  # soldiers mostly fight with guns
+# Specialist kits (day 47): roles that are their kit always take the preset; a random kit keeps the role's tool.
+ALWAYS_PRESET = {"ogryn", "herder", "heavy team", "mortar team", "bomb zealot", "psyker", "beast handler", "mutant charger"}
+ROLE_TOOL = {"medic": "med-kit and 3 stimms", "chem-doctor": "drug satchel and stimms", "vox": "vox-caster",
+             "jumper": "jump pack", "shield trooper": "boarding shield", "icon bearer": "the faction's icon",
+             "fighter pilot": "flight suit", "tracker": "auspex", "spotter": "magnoculars",
+             "demolitions": "2 demo charges", "grenadier": "4 frags", "tech-adept": "servo-arm and repair kit",
+             "infiltrator": "dark cloak and a garrotte", "commander": "command vox", "leader": "command vox"}
 print(f"SPECIAL TEAM: {team['name']} ({'named by the story' if forced_team else f'2d20 {team_roll}'}): +5 STR/DEX levels, +1 other rolls, armour one step better, +3 better-armed" if team else f"(2d20 {team_roll}: a basic group)")
 print(f"{kind} x{count}, wealth {level.upper()}" + ("" if given else " (default; roll it: roll_enemy.py wealth TYPE)") + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{3 if team else 0} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE GEAR IN USE (natural 20)" if raw == 20 else ""))
 lucky = set(random.sample(range(count), better))
@@ -161,6 +171,7 @@ for n in range(count):
                     role_d20 = 1  # blessed again: a blessed grunt
     if role_d20 >= 16:
         backup = f" | {pick(P['melee'])}" if random.random() < 0.25 else ""  # 25% carry a melee backup
+        random_kit = role not in ALWAYS_PRESET and random.random() < 0.5  # day 47: 50/50 preset or random kit
         skit = None
         if role == "tech-adept" and kind.startswith("traitor"):
             sk = random.randint(1, 20)
@@ -168,7 +179,14 @@ for n in range(count):
                 k6 = random.randint(1, 6)
                 skit = ("RANGER: galvanic rifle" if k6 <= 3 else "VANGUARD: radium carbine (rad-sickness within ~5 m)" if k6 <= 5 else "SICARIAN: paired transonic blades")
                 skit = f"corrupted SKITARIUS (tech-adept d20 {sk}, kind d6 {k6}), {skit}; augmetic eyes, machine body (extra stage), shock-weak; see roles.md"
-        kit = skit or pick(P['specialists'][role])
+        if skit:
+            kit = skit
+        elif random_kit:
+            tool = ROLE_TOOL.get(role)
+            kit = f"RANDOM KIT: {pick(P['weapon'])} + {pick(P['melee'])}" + (f" + {tool}" if tool else "")
+            backup = ""
+        else:
+            kit = "PRESET: " + pick(P['specialists'][role])
         if "two-man team" in kit:
             kit += " [counts as two: gunner + loader with a lasgun and the ammo]"
         if role == "herder":  # player design, session 10: cultists only; the herd follows their god
