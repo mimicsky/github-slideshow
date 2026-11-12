@@ -19,7 +19,8 @@ Morcant's specialty: it counts once).
 
 (player design, Ash on Ostrava day 35; any heavy stubber; Morcant's twin feed lets him carry one
 special belt beside a standard one and switch with the lever.) A standard belt is common, ~1 TV.
-- **Man-stopper belt** (uncommon, 2 TV; Munitorum, black market, Free Traders): expanding rounds.
+- **Hollow point stubber belt** (uncommon, 2 TV; Munitorum, black market, Free Traders; **renamed by the player, day 47: was
+  the 'man-stopper belt'**, so 'man-stopper' can keep its 40k meaning on shotgun shells): expanding rounds.
   Against **flak or less**, a **solid hit drops one extra step**. They flatten on hard plate:
   **carapace and heavier shrug them** (worse than a standard belt against armour).
 - **Inferno belt** (uncommon, 3 TV; Munitorum, Mechanicus, Free Traders): incendiary rounds, the
