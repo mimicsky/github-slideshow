@@ -190,7 +190,7 @@ other chain weapon on the campaign sheet.
 - The tripod ARC stays the stronger one (-2, and it rolls).
 - Cooldown: 3 beats, like every ability.
 
-**Items with it:** **heavy stubbers, heavy bolters and multi-lasers** (said once at the top of [heavy.md](heavy.md));
+**Items with it:** **heavy stubbers, heavy bolters, autocannons and multi-lasers** (said once at the top of [heavy.md](heavy.md));
 **las-LMGs** (the Kasr Rain, the Las-box: top of [las.md](las.md)); **autoguns and SMGs that fire full auto**
 (machine pistols, submachine guns, autoguns with an auto setting: top of [stub.md](stub.md)). Enemies' alike.
 **Owned in Ash on Ostrava:** Morcant's heavy stubber and multi-laser; Tamsin's Stinger and Columnus (campaign sheet).

@@ -2,7 +2,7 @@
 
 Item rules for this category. General rules (heat, hot-shot, drop-prone, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
 
-**Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown). **Heavy stubbers, heavy bolters and multi-lasers also have [Pinned Fire](abilities.md#pinned-fire)** (spray an area: -1 on their shots next beat, breaking cover draws a shot; day 47).
+**Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown). **Heavy stubbers, heavy bolters, autocannons and multi-lasers also have [Pinned Fire](abilities.md#pinned-fire)** (spray an area: -1 on their shots next beat, breaking cover draws a shot; day 47).
 
 
 ## Heavy bolter, Guard pattern
@@ -129,11 +129,25 @@ isn't worse than the man-portable one). A lascannon on a heavy tripod. Set up in
 - **One beam a beat** on a coupling or a lascannon battery pack; **every other beat** on a plain lascannon pack.
 - Needs a coupling or a pack (Lascannon packs, below).
 
+## Autocannon
+
+**Autocannon** (rare, 35 TV; belts 4 TV; Munitorum, black market, Free Traders; usually a two-man team; rules written
+with the player, Ash on Ostrava day 47, audit C14).
+- **Strings up to 3** (heavy, slow-firing shells). **Braced or on its tripod only:** he can't move while firing.
+  **Recoil 2 braced, 0 on the tripod.**
+- **On people:** through everything up to ceramite-forged on any hit, **power armour on a solid hit**; **a hit drops
+  two steps** (heavy explosive shells: [below](#ship-and-vehicle-autocannons-on-people)).
+- **Vehicles:** through **light vehicles and APCs**: 1 hull point; tanks shrug it unless it's loaded with penetrator
+  shells (side or rear) ([vehicles.md](../bestiary/vehicles.md)).
+- **A 20-shell belt** (about 7 strings). **A loader** makes a belt change the beat's move, not a beat. Special shells
+  (flak, penetrator, incendiary HE): below.
+
+**Abilities:** [Pinned Fire](abilities.md#pinned-fire); [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
+
 ## Autocannon shells (special loads)
 
-(Written with the player, Ash on Ostrava day 47. An autocannon on people: **a hit drops one extra step** (heavy
-explosive rounds, below); it gets through APC armour ([vehicles.md](../bestiary/vehicles.md)). A standard belt of
-shells: 4 TV. Fits autocannons, man-portable or mounted. On the [attachment sheet](attachments.md#the-rollable-list).)
+(Written with the player, Ash on Ostrava day 47. For the [autocannon](#autocannon): a hit on a person drops one extra
+step; it gets through APC armour. A standard belt of 20 shells: 4 TV. Fits autocannons, man-portable or mounted. On the [attachment sheet](attachments.md#the-rollable-list).)
 
 - **Flak shells** (uncommon, 4 TV a belt, DM's price; Munitorum, Free Traders). Airburst rounds for fliers and
   jumpers: **shots at an airborne target ignore the -3**, and **a miss by 1-3 still clips him** (bursting near).

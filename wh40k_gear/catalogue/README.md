@@ -272,6 +272,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 
 - [Heavy bolter, Guard pattern](heavy.md#heavy-bolter-guard-pattern) (crew-served; strings of 6; heavy bolts +1 step)
 - [Heavy stubber](heavy.md#heavy-stubber)
+- [Autocannon](heavy.md#autocannon) (strings of 3; two steps on a person; APCs)
 - [Autocannon shells, special](heavy.md#autocannon-shells-special-loads) (flak, penetrator, incendiary HE)
 - [Multi-laser packs, special](heavy.md#multi-laser-packs-special-loads) (overcharged, extended)
 - [Missile launcher](heavy.md#missile-launcher) (frag ~5 m blast; krak through power armour; backblast)
