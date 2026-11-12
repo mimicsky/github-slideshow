@@ -56,7 +56,7 @@ once and write the ruling into the roster** before rolling. Then:
 
 **4. The Light: each person in the fight.** In the campaign sheet:
 - **"Full kit"**: their row. **Every** weapon, **every** attachment, eye, field, armour piece,
-  grenade and ammo count. Read the whole row, not just the gun's name. Items marked † have their history in `inventory.md`, Ammo and condition log (day-36 cleanup); the row keeps the counts and the numbers that change a roll.
+  grenade and ammo count, **by load** (standard, HP, AP, HV and the rest are separate counts: day 47). Read the whole row, not just the gun's name. Items marked † have their history in `inventory.md`, Ammo and condition log (day-36 cleanup); the row keeps the counts and the numbers that change a roll.
 - **The stats table** (under "How the Light rolls"): stat bonus = +1 per full 10. **Allies add no
   proficiency** (d20 + stat + specialty + role or gear). **Tamsin** adds proficiency +4 ("The character").
 - **The Specialty table**: +2, only on its kind of roll.
