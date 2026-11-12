@@ -116,6 +116,18 @@ wearer goes still and it draws in, **the panels lock edge to edge** into one smo
   in a day with the armour on the bench.
 - No armour of its own; flames ruin it.
 
+## Grapnel, grapnel launcher and rappel harness
+
+(Entries written with the player, Ash on Ostrava day 47, audit C14.)
+- **Climbing rig and grapnel** (uncommon, 1.5 TV): a hand-thrown grapnel and **20 m of rope**. **Throwing it: a DEX
+  roll against the spot**, up to ~10 m high. **Climbing: ~5 m a beat;** on the rope he's **in the open** and **-2 on
+  his shots.**
+- **Grapnel launcher** (uncommon, 4 TV, DM's price): fires a hook up to **~30 m**; **a motor winch hauls him ~10 m a
+  beat**, his hands free for a pistol (the -2 on the rope still applies).
+- **Rappel harness** (uncommon, 1 TV, DM's price; the player's design): **fits over any armour.** **Fast rappelling:
+  down ~10 m a beat, with no penalty on his shots** (going down a rope, not climbing it).
+- **A cut rope drops him; a fall of more than ~5 m costs a step.**
+
 ## Boarding shield
 
 **Boarding shield** (uncommon, 4 TV): a plain slab of plasteel with a grip.

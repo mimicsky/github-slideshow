@@ -2828,7 +2828,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Climbing rig and grapnel",
+  "name": "Climbing rig and grapnel (20 m rope; climb 5 m a beat, -2 on shots)",
   "tv": 1.5,
   "cat": "gear",
   "rarity": "U",
@@ -4170,5 +4170,19 @@
   "cat": "gear",
   "rarity": "R",
   "sellers": "BF"
+ },
+ {
+  "name": "Grapnel launcher (hook to ~30 m; winch 10 m a beat)",
+  "tv": 4,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Rappel harness (over any armour; down 10 m a beat, no penalty on shots)",
+  "tv": 1,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
  }
 ]

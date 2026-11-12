@@ -261,6 +261,8 @@ add("gear","C","MF",[("Void-suit air bottle (~2 hours)",0.5),("Void-suit patch k
 add("armour","R","AF",[("Conversion field (intact; blocks on 4-6 with a flash)",60)])
 add("mod","U","MF",[("Range-finder magnoculars (+4 Perception past ~50 m; a called range gives +1 on the next shot past ~30 m)",3)])
 add("gear","R","BF",[("Fitted chameleoline cloak (cut for one set of armour: the cloak's bonus over carapace or heavier)",25)])
+add("gear","U","MF",[("Grapnel launcher (hook to ~30 m; winch 10 m a beat)",4)])
+add("gear","U","MBF",[("Rappel harness (over any armour; down 10 m a beat, no penalty on shots)",1)])
 # Day 47: the player's street gear (burst pistol, derringer, tin-can bomb, cracker bundle, steak knife, taped flashlight).
 add("stub","U","MBF",[("Burst pistol, \'Kasr Trice\' pattern (3-round bursts; 15-round mag; full slots)",2)])
 add("stub","C","B",[("Holdout stub pistol, \'Cutpurse\' pattern (derringer: one round, +3 to hide)",0.25)])
@@ -301,7 +303,7 @@ add("mod","R","MAF",[("Range-finder sight (+1 shooting past ~30 m)",10),("Power 
 add("mod","R","MAF",[("Hot-shot conversion kit (lasgun)",5),("Overcharge capacitor (las)",8),("Mechanicus focusing lens",10),("Auto-targeter (augur sight)",12),("Heat-sink shroud (las)",4),("Chainsword teeth, adamantium (set)",12),("Motor housing, high-tolerance",9)])
 # --- Gear / tech ---
 add("gear","C","MB",[("Micro-bead",0.5),("Chrono",0.5),("Lumen (torch)",0.25),("Field rations (crate)",0.5),("Water purifier",0.5),("Rope (20 m)",0.25),("Lho-sticks (carton)",0.25),("Imperial Infantryman's Uplifting Primer",0.1)])
-add("gear","U","MBF",[("Map-slate",1),("Auspex (hand)",6),("Vox-caster (manpack; ~50 km and orbit; relays beads)",5),("Flares (box of 10)",0.5),("Grav-chute",6),("Climbing rig and grapnel",1.5),("Demolitions kit / bag",1.5),("Large field pack",1),("Drag harness",0.5),("Multi-key / lockbreaker",2),("Cutting torch",3),("Med-kit (10 uses; Hurt to Fine outside a fight; +2 on plague saves)",3),("Stimm (dose)",0.5),("Antitoxin (dose)",1)])
+add("gear","U","MBF",[("Map-slate",1),("Auspex (hand)",6),("Vox-caster (manpack; ~50 km and orbit; relays beads)",5),("Flares (box of 10)",0.5),("Grav-chute",6),("Climbing rig and grapnel (20 m rope; climb 5 m a beat, -2 on shots)",1.5),("Demolitions kit / bag",1.5),("Large field pack",1),("Drag harness",0.5),("Multi-key / lockbreaker",2),("Cutting torch",3),("Med-kit (10 uses; Hurt to Fine outside a fight; +2 on plague saves)",3),("Stimm (dose)",0.5),("Antitoxin (dose)",1)])
 add("gear","R","B",[("Spook (dose; wakes latent psychic power, Perils 1-6)",6)])
 add("gear","C","B",[("Obscura (dose; hive narcotic, trade value)",0.5),("Spur (dose; ganger stimulant, +1 everything, early crash)",0.5)])
 add("gear","U","MB",[("Kalma (dose; nerve calmer, fearless, -1 strike first)",1),("Morphia (dose; painkiller, one health step better)",1)])
