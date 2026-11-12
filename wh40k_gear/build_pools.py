@@ -246,6 +246,7 @@ add("ammo","R","B",[("Cut phosphex (a can; forbidden: can't be beaten out, burns
 add("ammo","U","BF",[("Sulphur fuel (a can; flamers: +1 step on a hit; choking fumes)",2)])
 # Day 47: bows, quivers and arrows (the player's designs). Rules in catalogue/bows.md.
 add("bow","C","BF",[("Recurve bow, 'Reedhawk' pattern (silent; strings of 2; -2 past ~40 m)",0.5)])
+add("bow","U","BF",[("Compound bow, 'Kasr Talon' pattern (STR 30+; strings of 1; arrows a step further; +1 aimed)",2)])
 add("kit","C","BF",[("Quiver (20 arrows)",0.25)])
 # Day 47: the las eco pack (the player's idea). Rules in catalogue/las.md.
 add("ammo","C","MBF",[("Las eco pack (120 shots; weaker: flak shrugs it past ~15 m)",0.5)])
