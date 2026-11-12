@@ -204,7 +204,7 @@ NOT_ROLLED = [
 ]
 
 # Guns with limited attachment slots (day 47): only these slots roll (special ammo always can).
-SLOTLIMIT = [(re.compile(r"farmer's pump"), {"load"}), (re.compile(r"service stub pistol"), {"load", "muzzle"})]
+SLOTLIMIT = [(re.compile(r"farmer's pump|three-shooter"), {"load"}), (re.compile(r"service stub pistol"), {"load", "muzzle"})]
 SKIP = re.compile(r"web pistol|bolt-pipe|rivet gun|harpoon|turret|gauntlet|hellstrike|flare|^'")
 TYPES = [("pp", r"plasma pistol"), ("pg", r"plasma gun"), ("bp", r"bolt pistol"),
          ("hv", r"heavy bolter|autocannon|lascannon|multi-laser"), ("hs", r"heavy stubber"), ("br", r"boltgun"),
@@ -212,7 +212,7 @@ TYPES = [("pp", r"plasma pistol"), ("pg", r"plasma gun"), ("bp", r"bolt pistol")
          ("gl", r"grenade launcher"), ("mo", r"mortar"), ("np", r"needle pistol"), ("nr", r"needle rifle"),
          ("lr", r"shotlas"), ("smg", r"submachine|machine pistol|rattler|\bsmg\b|chain-fed autopistol"),
          ("lp", r"laspistol|las pistol|hellpistol"),
-         ("sp", r"autopistol|revolver|stub pistol|stub automatic|hand cannon|boarding pistol|hammerfall|pipe pistol"),
+         ("sp", r"autopistol|revolver|stub pistol|stub automatic|hand cannon|boarding pistol|hammerfall|pipe pistol|three-shooter"),
          ("sg", r"shotgun|sawn-off|scattergun|nailer|ripper gun"),
          ("lr", r"lasgun|lascarbine|hellgun|long-las|las-box|las-lmg|volley gun|battery las"),
          ("sr", r"autogun|autorifle|stub rifle|lever-action|pipe rifle|hunting rifle")]

@@ -3918,5 +3918,12 @@
   "cat": "stub",
   "rarity": "C",
   "sellers": "MB"
+ },
+ {
+  "name": "Stub-nose three-shooter (tiny 3-shot revolver; +2 to hide; no attachment slots)",
+  "tv": 0.4,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MB"
  }
 ]

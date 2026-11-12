@@ -158,8 +158,8 @@ knife) fixes on it when he wants it (fixing or unfixing takes the beat's move, D
 - Cooldown: 3 beats, like every ability.
 
 **Items with it:** **stub revolvers** and any revolver with a hammer (said once at the top of [stub.md](stub.md)); not
-the [Hammerfall auto-revolver](stub.md#auto-revolver-hammerfall-pattern), which already hammers its own cylinder, and
-not Six Bells (a launcher). **Owned in Ash on Ostrava:** **Corvane's revolver** (campaign sheet).
+the [Hammerfall auto-revolver](stub.md#auto-revolver-hammerfall-pattern), which already hammers its own cylinder, the
+[stub-nose three-shooter](stub.md#stub-nose-three-shooter) (double-action only, the hammer shrouded), or Six Bells (a launcher). **Owned in Ash on Ostrava:** **Corvane's revolver** (campaign sheet).
 
 ## Saw Lock
 

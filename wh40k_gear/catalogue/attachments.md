@@ -60,7 +60,7 @@ so the two always match. Each row links to the full entry; **custom rows** link 
 poor C80/U20, steady C70/U25/R5, good C55/U35/R10, rich C40/U45/R15, wealthy C25/U50/R25; **poor never rare**), then
 **one attachment of that rarity that fits the gun and a free slot** (one per slot; a gun's own scope, drum, silencer
 or bayonet already fills its slot). Then roll again. A part that needs another (an offset sight needs a scope, a
-pressure pin needs a hair trigger) only comes once the first is on. **Every weapon rolls** (a gun with **no attachment slots**, like the farmer's pump, rolls only special ammo; the PDF service stub pistol only its threaded barrel and ammo; a gunslinger's pair, a
+pressure pin needs a hair trigger) only comes once the first is on. **Every weapon rolls** (a gun with **no attachment slots**, like the farmer's pump or the stub-nose three-shooter, rolls only special ammo; the PDF service stub pistol only its threaded barrel and ammo; a gunslinger's pair, a
 rifle and a sidearm, a machete and a shield). **Melee weapons roll too** (the player, day 47); the melee list is
 thin for now, so plain blades and clubs mostly draw the hardwood grip, the whetstone or the shock-coil.
 

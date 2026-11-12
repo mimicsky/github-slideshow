@@ -263,6 +263,17 @@ flak up close, carapace only on a solid hit). Tough: it can be swung as a club a
 is never damaged by a drop or fall.
 
 
+## Stub-nose three-shooter
+
+**Stub-nose three-shooter** (common, 0.4 TV, DM's price; hive traders, pawn-stalls, black market; the player's design,
+Ash on Ostrava day 47). A small **double-action-only revolver** with a **triangular 3-round cylinder** and a stubby
+barrel: **very hideable (+2 to hide it)**. Stub revolver punch; the stub nose: **+1 within ~10 m, -2 past ~20 m**.
+Reloading 3 loose rounds takes a beat. **Too small for any attachment slot** (special stub rounds still load).
+**Double-action only, the hammer shrouded: no [Fan the Hammer](abilities.md#fan-the-hammer)** (DM default). Carried by
+commoners for the walk home, and by anyone who wants a gun nobody finds.
+
+**Abilities:** [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
+
 ## Service stub pistol, PDF pattern
 
 **Service stub pistol, PDF pattern** (common, 0.75 TV, DM's price; Munitorum, PDF quartermasters, hive and agri-world
