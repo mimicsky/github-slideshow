@@ -112,7 +112,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 
 ## [Explosives, mines and grenades](explosives.md)
 
-- [Tin-can bomb](explosives.md#tin-can-bomb-scrap) (light it; never duds; the timing's off)
+- [Tin-can bomb](explosives.md#tin-can-bomb-scrap) (light it; the timing's off; duds on a 1)
 - [Cracker bundle](explosives.md#cracker-bundle-firecracker-flashbang) (firecracker flashbang; can dud)
 - [Plasma tripwire mine](explosives.md#plasma-tripwire-mine)
 - [Air-frag 'blender' grenade](explosives.md#air-frag-blender-grenade)

@@ -253,7 +253,7 @@ add("ammo","U","BF",[("Steel arrows (10; through flak; dent carapace)",0.5)])
 # Day 47: the player's street gear (burst pistol, derringer, tin-can bomb, cracker bundle, steak knife, taped flashlight).
 add("stub","U","MBF",[("Burst pistol, \'Kasr Trice\' pattern (3-round bursts; 15-round mag; full slots)",2)])
 add("stub","C","B",[("Holdout stub pistol, \'Cutpurse\' pattern (derringer: one round, +3 to hide)",0.25)])
-add("explosive","C","B",[("Tin-can bomb (light it; ~3 m weak frag; never duds, the timing\'s off)",0.1)])
+add("explosive","C","B",[("Tin-can bomb (light it; ~3 m weak frag; the timing\'s off, duds on a 1)",0.1)])
 add("explosive","C","B",[("Cracker bundle (firecracker flashbang: -2 within ~4 m; duds on 1-2)",0.1)])
 add("melee","C","MB",[("Kitchen steak knife (no armour; bends, dulls after 5 hits)",0.05)])
 add("mod","C","MB",[("Taped flashlight (a lumen on any gun; the beat\'s move to flick)",0.1)])

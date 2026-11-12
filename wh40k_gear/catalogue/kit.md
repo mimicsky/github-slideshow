@@ -416,7 +416,9 @@ pointing, so switching targets is easier; it cancels the swap's -1 there). **Not
 (Changed by the player, Ash on Ostrava day 35: the swap bonus replaced the old snap-shot half; the hip
 half stays.) **Tell:** in smoke or dark the beam shows, and a sharp-eyed enemy
 sees the dot on him or the line back to you. **Under-mount lumen** (common, 0.5 TV): lights
-the target: **no darkness penalty on what's in the beam**, but you're lit up too. **Combo
+the target: **no darkness penalty on what's in the beam**, but you're lit up too. **Shone in someone's face in the dark
+(inside ~5 m): -2 on their next roll** (blinded; the player, day 47: proper attachment lights can blind, a taped
+flashlight can't). **Combo
 module** (uncommon, 2 TV): both in one housing; switch either on alone.
 
 ### Pistol reflex sight
@@ -522,8 +524,8 @@ the same place as a [repeater crystal](#repeater-crystal): one or the other. On 
 **Taped flashlight** (common, 0.1 TV; any lumen and a roll of tape; the player's design, Ash on Ostrava day 47). A
 flashlight or any light taped to a gun. **Tape needs no slot: it goes on anything**, even a gun with no attachment
 slots. Works as a [lumen](#laser-sight-under-mount-lumen-or-both): **no darkness penalty in the beam**, and he's lit
-up too. **Clunky and wobbly: flicking it on or off takes the beat's move.** **Shone in someone's face in the dark
-(inside ~5 m): -2 on their next roll** (blinded).
+up too. **Clunky and wobbly: flicking it on or off takes the beat's move.** **It can't blind anyone** (the player, day 47:
+only a proper under-mount lumen can).
 
 ### Sweep emitter
 

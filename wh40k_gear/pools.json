@@ -3990,7 +3990,7 @@
   "sellers": "B"
  },
  {
-  "name": "Tin-can bomb (light it; ~3 m weak frag; never duds, the timing's off)",
+  "name": "Tin-can bomb (light it; ~3 m weak frag; the timing's off, duds on a 1)",
   "tv": 0.1,
   "cat": "explosive",
   "rarity": "C",
