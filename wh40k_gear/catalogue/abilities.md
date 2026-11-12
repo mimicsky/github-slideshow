@@ -102,9 +102,9 @@ swing of the chain, swung wide and flat.**
 - **There's no block:** the defender's total **3+ higher is a parry** (as normal: no damage, the initiative flips);
   **anything less, it lands** (a 1-2-higher 'block' counts as a hit).
 - **When it lands, it goes one armour step further and drops the target one extra health step** (two steps).
-- **It's one swing of the chain, and it ends the chain** (the wind-up costs the rest) (DM default).
+- **It's one swing of the chain, and it ends the chain** (the wind-up costs the rest) (confirmed by the player).
 - **It stacks with Strength behind the blow** (STR 50+: one more armour step; with a power weapon, one more
-  health step) (DM default).
+  health step: three steps a hit) (confirmed by the player).
 - A raw 17+ still can't be parried or dodged, as always.
 
 **Items with it:** **every melee weapon** in [melee.md](melee.md) (said once at the top of that file, not on each
