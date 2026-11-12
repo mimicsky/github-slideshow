@@ -262,6 +262,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Heavy stubber](heavy.md#heavy-stubber)
 - [Flamer tanks and fuels, special](scrap.md#flamer-tanks-and-fuels-special-loads) (big tank, sulphur, thermite, cut phosphex)
 - [Bolt rounds, special](bolt.md#bolt-rounds-special-loads) (Kraken, off-brand, meltacore, storm, vengeance)
+- [Heavy stub rounds](stub.md#heavy-stub-rounds) (a thicker calibre: hand cannons, the Orlock, the Macragge)
 - [Burst pistol, 'Kasr Trice' pattern](stub.md#burst-pistol-kasr-trice-pattern) (3-round bursts, 15 rounds, full slots)
 - [Holdout stub pistol, 'Cutpurse' pattern](stub.md#holdout-stub-pistol-cutpurse-pattern) (a derringer: one round, +3 to hide)
 - [Hunting rifle, 'Kasr Stag' pattern](stub.md#hunting-rifle-kasr-stag-pattern) (bolt action, autogun rounds)

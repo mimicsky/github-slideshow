@@ -1024,6 +1024,9 @@ ladder a hit moves you.
   **Still wear it down** at the normal rate (power armour every 10): hellguns, hot-shot, heavy stubbers, chain
   weapons. **Armour-piercing loads** (AP, CAP, man-stopper shells, shard darts) count like hellguns here: they can
   wear down ceramite-forged, not power armour. Bolters, plasma, melta, power weapons and kraks already get through.
+- **Heavy stub rounds (set by the player, Ash on Ostrava day 47):** a thicker stub calibre (hand cannons, the Orlock,
+  the Macragge): **through flak at any range, reinforced flak inside ~15 m, carapace only on a crit** (catalogue
+  stub.md, Heavy stub rounds).
 - **Shooting for the gaps (set by the player, Ash on Ostrava day 47).** **Enemies who know their guns can't get through
   someone's armour aim for what isn't covered:** legs, arms, gaps between plates, an unarmoured spot. (They know it
   once they've seen their hits shrugged, or from what they've been told.) **A called shot at a weak spot is a small

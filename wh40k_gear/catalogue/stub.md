@@ -192,12 +192,10 @@ barrel** pokes out ahead of a short top rail with flip-up sights. A **32-round m
 Free Traders). Named for Necromunda's House of Iron, whose gangers swear by guns like it. An old-world SMG: the
 **whole gun is one piece of plain steel**, with a **wooden stock and a wooden fore-grip** bolted on like panels,
 the brass thrown out of a **port on top**, and a **45-round straight magazine** that feeds straight up into it.
-**Ammo: heavy stub rounds**, the same big-bore pistol slugs a stub revolver or hand cannon takes (cheap and
-everywhere: a crate of a few hundred is ~1 TV). **The bullet does the job, not the gun** (the player, day 47): heavy
-stub rounds get through flak on any hit and carapace only on a crit, whatever fires them.
+**Ammo: [heavy stub rounds](#heavy-stub-rounds)**, the thick big-bore slug a hand cannon takes (cheap and everywhere:
+a crate of a few hundred is ~1 TV). **The bullet does the job, not the gun** (the player, day 47).
 - Strings of up to **8**, no hit bonuses in the string (misses still -1); **recoil 1.**
-- **Heavy stub rounds** (the round's rule, the same in every gun: audit C1, the player, day 47): good on flesh;
-  **through flak on any hit**; **carapace only on a crit.**
+- **[Heavy stub rounds](#heavy-stub-rounds):** good on flesh; **through flak at any range**; **carapace only on a crit.**
 - **Never jams:** like the Kasr Frontier, it ignores gun condition.
 - **No attachment slots at all:** it is what it is.
 - **Heavy and steady:** the wooden stock makes single aimed shots **+1** when it's shouldered.
@@ -212,8 +210,8 @@ aspirants who reach the Fortress of Hera in their trials, so it is **human-sized
 golden Ultramarines sigil on the body** and a stamped service number beneath it.
 Exposed hammer, slide serrations front and rear, a **fixed laser and light module**
 under the barrel, and a **compensator** on the muzzle.
-- **Heavy stub rounds** (the round's rule, the same in every gun: audit C1, the player, day 47): **through flak on
-  any hit; carapace only on a crit.** What sets this pistol apart is its make and its look, not its punch.
+- **[Heavy stub rounds](#heavy-stub-rounds):** **through flak at any range; carapace only on a crit.** What sets this
+  pistol apart is its make and its look, not its punch.
   **12-round magazine.** Effective to about **60 m**.
 - **Semi-auto:** chains of up to 4 single shots, normal hit bonuses.
 - **Compensator:** a miss in a chain gives no -1.
@@ -380,6 +378,16 @@ magazine holds one load at a time.
 | **Panic** | uncommon, 3 TV for 10 | A hallucinogen: **CON save vs 15 or the target drops what's in their hands and runs or hides for 2 beats** |
 | **Truth** | rare, 5 TV for 5 | A truth serum: **CON save vs 15 or ~10 minutes of loose tongue: +4 on interrogating them** |
 | **Tracker** | uncommon, 3 TV for 5 | No toxin: a pinger in the tip. **Feels like a bug bite (WIS 15 to notice).** An auspex rig follows it out to **~1 km for a day** |
+
+## Heavy stub rounds
+
+**Heavy stub rounds** (common, 1 TV a crate of a few hundred; Munitorum, black market, Free Traders; set by the player,
+Ash on Ostrava day 47: **a thicker, harder-hitting round than standard stub, as a .45 is to a 9 mm**). Their own
+calibre: they fit **hand cannons, the Orlock heavy SMG and the Macragge service pistol**, not standard stub guns (stub
+revolvers, stub automatics). **The bullet does the job, not the gun:** whatever fires them, **through flak at any
+range** (standard stub: flak shrugs it at range), **reinforced flak inside ~15 m**, and **carapace only on a crit**
+(codex, Armour; audit A2 and C1). Heavier armour shrugs them; too weak to matter against ceramite-forged and power
+armour. The special stub loads below come in heavy stub too (HP, AP, HV, flat-tip).
 
 ## Stub and autogun rounds (special loads)
 
