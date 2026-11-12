@@ -200,6 +200,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 ## [Kit, armour, sights and mods](kit.md)
 
 - [Armour](kit.md#armour) (flak to ceramite-forged: helmets, full helmets, chest pieces, sets; prices)
+- [Med-kit](kit.md#med-kit) (10 uses; Hurt → Fine outside a fight; +2 on plague saves)
 - [Refractor field](kit.md#refractor-field) (light hits stopped, 3 a beat; heavy on 5-6)
 - [Conversion field](kit.md#conversion-field) (4-6 with a flash; intact 60 TV, damaged 35)
 - [Void-suit, Navy](kit.md#void-suit-navy) (sealed, ~2 h air, mag-boots, counts as flak; a tear leaks)

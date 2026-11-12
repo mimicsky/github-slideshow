@@ -60,6 +60,16 @@ flash** (an attacker within ~5 m: -2 on their next shot); **1-3 it goes through 
 tech-adept repairs it (about an hour). **A damaged field blocks only on 5-6.** Full rule: codex Part 8, Gear rules,
 Conversion field.
 
+## Med-kit
+
+**Med-kit** (uncommon, 3 TV; Munitorum, medicae stalls, Free Traders; entry written with the player, Ash on Ostrava
+day 47, audit C14). Dressings, sutures, splints, antiseptic. **10 uses** (restocking: 0.25 TV a use).
+- **In a fight:** a patch is the beat's main thing and uses one. **A medic's Down → Hurt patch also costs a stimm**
+  (codex Part 8, Going Down; bestiary roles, Medic).
+- **Outside a fight:** one use brings a **Hurt** ally back to **Fine**.
+- **Infection:** a wound treated with it gives **+2 on plague, rot or fester saves.**
+- **Without a med-kit,** patching with only a field dressing is at **-2**.
+
 ## Boarding shield
 
 **Boarding shield** (uncommon, 4 TV): a plain slab of plasteel with a grip.
