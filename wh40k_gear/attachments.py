@@ -230,7 +230,8 @@ MTYPES = [("sh", r"shield"), ("pw", r"power (sword|axe|maul|knife|fist|mace|blad
           ("bt", r"club|maul|mace|hammer|flail|baton|prod|knuckle|girder|pick\b")]
 BUILTIN = [("optic", r"scope|range-finder|sprinter|kasr lance"), ("mag", r"drum|100-shot box"),
            ("muzzle", r"silenced|suppressed"), ("bayonet", r"bayonet|krieg"), ("tripod", r"tripod"),
-           ("barrel", r"heavy barrel|long barrel|long-barrel|stub barrel"), ("stock", r"folding stock")]
+           ("barrel", r"heavy barrel|long barrel|long-barrel|stub barrel"), ("stock", r"folding stock"),
+           ("load", r"arrows")]  # a kit that names its arrows has its load
 
 
 def guns_in(text):

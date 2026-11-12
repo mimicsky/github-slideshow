@@ -24,7 +24,9 @@ The DM decides; these are tendencies.
 **Specialist kits (set by the player, day 47): a coin flip.** **Preset:** the role's own kit from the roller's list.
 **Random:** **his role's desired weapon is guaranteed** (the preset kit's first piece: the sniper's long-las, the
 flamer's flamer, the medic's med-kit, the vox man's vox-caster), and **his off weapon is random** (a gun, sidearm or
-melee weapon from the type's lists) (the player, day 47). Roles that are their kit (Ogryn, herder, heavy team, mortar
+melee weapon from the type's lists) (the player, day 47). **Assassins and infiltrators** draw that weapon from **anything
+quiet:** silenced or suppressed pistols, autoguns, SMGs and hunting or sniper rifles, needle guns, and bows (the roller's
+QUIET list). Roles that are their kit (Ogryn, herder, heavy team, mortar
 team, bomb zealot, psyker, beast handler, mutant charger) and any Ogryn kit always take the whole preset. The roller
 prints PRESET or RANDOM KIT. **Ogryn kits get Ogryn stats** (STR 60-80) under any role (a brute's 'Renegade Ogryn').
 

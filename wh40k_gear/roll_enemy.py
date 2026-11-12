@@ -23,7 +23,8 @@ Role, one d20 per enemy (player-set, session 8):
 Specialists: a coin flip (player-set, day 47): PRESET, the role's own kit (and 1 in 4 also has a melee backup),
 or RANDOM: the role's desired weapon is GUARANTEED (the first piece of a preset kit: the sniper's long-las, the
 flamer's flamer, the medic's med-kit), and his off weapon is random (a gun, sidearm or melee weapon from the type's
-lists). Roles that ARE their kit (ogryn, herder, heavy team, mortar team, bomb zealot, psyker, beast handler, mutant
+lists). Assassins and infiltrators draw that weapon from anything QUIET (silenced or suppressed guns of every kind,
+needle guns, bows). Roles that ARE their kit (ogryn, herder, heavy team, mortar team, bomb zealot, psyker, beast handler, mutant
 charger) and any Ogryn kit always take the whole preset. Ogryn kits get Ogryn stats (STR 60-80), whatever the role.
 Every enemy also rolls armour and one extra. Gear is weighted
 common 70 / uncommon 25 / rare 5.
@@ -150,6 +151,16 @@ ranged_share = 0.75 if kind.startswith("traitor") else 0.5  # soldiers mostly fi
 # Specialist kits (day 47): roles that are their kit always take the preset; a random kit keeps the role's desired
 # weapon (the preset kit's first piece) and randomises the off weapon.
 ALWAYS_PRESET = {"ogryn", "herder", "heavy team", "mortar team", "bomb zealot", "psyker", "beast handler", "mutant charger"}
+# Quiet roles (the player, day 47): an assassin's or infiltrator's random kit draws its guaranteed weapon from anything
+# quiet: silenced or suppressed guns of every kind, needle guns, bows.
+QUIET_ROLES = {"assassin", "infiltrator"}
+QUIET = [("Silenced stub pistol", "C"), ("Suppressed autopistol", "C"), ("Recurve bow, 'Reedhawk' pattern, and a quiver of metal arrows", "C"),
+         ("Service stub pistol, 'Steadfast' pattern, suppressed", "C"), ("Suppressed Agripinaa autogun", "U"),
+         ("Hunting rifle, 'Kasr Stag' pattern, suppressed, with an old scope", "U"), ("Suppressed stamped SMG, 'Munitorum Mk I' pattern", "U"),
+         ("Infantry autogun, 'Columnus' pattern, suppressed", "U"), ("Needle pistol", "U"),
+         ("Compound bow, 'Kasr Talon' pattern, and a quiver of steel arrows", "U"), ("Burst pistol, 'Kasr Trice' pattern, suppressed", "U"),
+         ("Needle rifle", "R"), ("Suppressed Kasr Warden autogun with a scope", "R"), ("Vraks-pattern sniper autorifle, suppressed", "R"),
+         ("Crossbow-quiet needle pistol", "R")]
 OGRYN_KIT = re.compile(r"^(Renegade )?Ogryn\b|^Ogryn |Bullgryn")
 print(f"SPECIAL TEAM: {team['name']} ({'named by the story' if forced_team else f'2d20 {team_roll}'}): +5 STR/DEX levels, +1 other rolls, armour one step better, +3 better-armed" if team else f"(2d20 {team_roll}: a basic group)")
 print(f"{kind} x{count}, wealth {level.upper()}" + ("" if given else " (default; roll it: roll_enemy.py wealth TYPE)") + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{3 if team else 0} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE GEAR IN USE (natural 20)" if raw == 20 else ""))
@@ -184,7 +195,8 @@ for n in range(count):
             preset = pick(P['specialists'][role])
             if random_kit and not OGRYN_KIT.search(preset):
                 off = pick(P['weapon']) if random.random() < 0.5 else pick(P['melee'])
-                kit = f"RANDOM KIT: {preset.split(' + ')[0]} (his role's weapon, guaranteed) + off weapon: {off}"
+                main = pick(QUIET) if role in QUIET_ROLES else preset.split(' + ')[0]  # quiet roles: anything quiet
+                kit = f"RANDOM KIT: {main} (his role's weapon, guaranteed) + off weapon: {off}"
                 backup = ""
             else:
                 kit = "PRESET: " + preset
