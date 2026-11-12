@@ -703,7 +703,7 @@ the 5 stages, shots at it +2, the once-a-fight charge, loyal and dumb, as above)
   its blows go **through any armour** and **a hit knocks the target flat**. **The overhead slam:** every other
   beat, instead of its swings, it brings the maul down on **everyone in a ~3 m arc in front of it**: each makes a
   **DEX dodge against its STR roll** or is **knocked flat and drops two steps**. **Slow:** it walks (~10 m a
-  beat), never sprints. Kill it at range, with heavy weapons, or from behind.
+  beat), never sprints. Kill it at range, with heavy weapons, or from behind. **Abilities:** [Wide Slash](../catalogue/abilities.md#wide-slash) (the power maul).
 - **Bulwark.** A **huge slab shield**: from the front it's **full cover against anything but heavy weapons**
   (krak, melta, plasma and heavy weapons treat it as heavy cover, +4), and **anyone right behind it gets heavy
   cover (+4)** as it walks forward. A **mace** (heavy blows: through flak, and through carapace on a solid hit).
@@ -733,7 +733,7 @@ An executioner in heavy plates with a two-handed axe (a scrap great-axe, a heads
 power axe). **Armour one step better than its group.** **Its blows are heavy:** a chain or power axe goes
 through carapace; a scrap or headsman's axe goes through flak, and through carapace on a solid hit. **Cleave:**
 a blow that lands solid carries on into a second target in reach. **Slow:** it walks, never sprints, and never
-fires a gun. Best stopped before it arrives.
+fires a gun. Best stopped before it arrives. **Abilities:** [Wide Slash](../catalogue/abilities.md#wide-slash) (its two-handed axe).
 
 ## Mutant charger
 

@@ -61,3 +61,31 @@ back), or **up to high ground.** It's the beat's move. **The main thing that bea
 - **Owned in Ash on Ostrava:** Varga's lift pack; Isk's Guard jump pack (from IX, day 47); the stolen Guard jump
   pack from the customs house (spare; waiting on Ferro) (campaign sheet).
 
+## Wide Slash
+
+**Two-handed melee weapons** (and one-or-two-handed ones when swung two-handed) (set by the player, day 47). **One
+swing of the chain, swung wide and flat.**
+- **It's a normal swing against the first target.** **If it lands** (beats his block or parry), **it automatically
+  hits one more enemy standing next to him** (within reach): the same blow, no defence for the second.
+- **If the first target blocks** (1-2 higher): no hit, no penalty.
+- **If the first target parries** (3+ higher): the initiative flips as normal, and **the swinger is over-committed:
+  -2 on his parries and dodges through the next beat.**
+
+**Items with it** (in [melee.md](melee.md)):
+- [Pipe pick (scrap war pick)](melee.md#pipe-pick-scrap-war-pick)
+- [Grox-prod](melee.md#grox-prod)
+- [Heavy scrap axe](melee.md#heavy-scrap-axe)
+- [Great chain axe, 'Butcher' pattern](melee.md#great-chain-axe-butcher-pattern)
+- [Heavy war axe, 'Kasr Gate' pattern](melee.md#heavy-war-axe-kasr-gate-pattern)
+- [Hydraulic push axe, 'Kasr Ram' pattern](melee.md#hydraulic-push-axe-kasr-ram-pattern)
+- [Thunder hammer, intact](melee.md#thunder-hammer-intact)
+- [Relic blade, 'Thorian' pattern](melee.md#relic-blade-thorian-pattern)
+- [Omnissian axe](melee.md#omnissian-axe)
+- [Blaze force sword / greatsword](melee.md#blaze-force-sword--greatsword)
+- [Collapsing spear, 'Ordo Sicarius' pattern](melee.md#collapsing-spear-ordo-sicarius-pattern) (when swung two-handed)
+- [Tactical breaching axe, 'Kasr Sapper' pattern](melee.md#tactical-breaching-axe-kasr-sapper-pattern) (when swung two-handed)
+- [Power odachi, 'Eversor' pattern](melee.md#power-odachi-eversor-pattern) (when swung two-handed)
+- [Fenrisian gift-blade](melee.md#fenrisian-gift-blade) (when swung two-handed)
+- **Enemy roles:** the [Mauler](../bestiary/roles.md#mauler) (two-handed axes) and the Ogryn [Crusher](../bestiary/roles.md#ogryn-variants-the-crusher-the-bulwark-the-reaper) (the power maul).
+- **Owned in Ash on Ostrava:** none yet (the Light's blades and axes are one-handed).
+
