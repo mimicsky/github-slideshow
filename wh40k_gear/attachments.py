@@ -1,14 +1,16 @@
 """The rollable attachment list (set by the player, Ash on Ostrava day 47).
 
-Every traditional attachment (kit.md, las.md, plasma.md) and every custom build part (catalogue/attachments.md,
-Custom builds) that can sit on an enemy's gun, with its slot, the guns it fits, and its rarity.
-roll_enemy.py calls roll_gun() for each gun an enemy carries. The rules for the roll:
-  - each gun rolls a d100: poor 20%, steady 25%, good 30%, rich 40%, wealthy 50%; special teams +10%
+Every traditional attachment (kit.md, las.md, plasma.md), melee part, special ammo load (stub.md, heavy.md) and
+every custom build part (catalogue/attachments.md, Custom builds) that can be on an enemy's weapon, with its slot,
+the weapons it fits, and its rarity. roll_enemy.py calls describe() for every weapon an enemy carries (guns and
+melee, day 47). The rules for the roll:
+  - each weapon rolls a d100: poor 20%, steady 25%, good 30%, rich 40%, wealthy 50%; special teams +10%
   - a hit picks an attachment (rarity by the faction's wealth, as loot) that fits the gun and a free slot,
     then rolls again at the same chance; a miss, or nothing left that fits, stops it
   - what the gun already has (a scope, a drum, a silencer, a bayonet) fills its slot: the roll only adds
   - Poor factions never get rares
   - custom parts roll like the rest: an enemy's custom part is his own smith's version
+  - special ammo is one more slot ('load'): uncommon, armour-piercing loads rare (the player, day 47)
 Print the list for the sheet: python3 attachments.py md
 """
 import random, re
@@ -23,10 +25,15 @@ RIFLE = {"lr", "sr", "br", "pg", "nr"}
 SIGHT = PIST | RIFLE | {"smg", "sg", "mg"}
 RECOIL = {"sp", "smg", "sr", "sg", "bp", "br", "hs"}
 HAND = SIGHT  # guns a hand holds and a grip sleeve fits
+# Melee (day 47): ch chain, pw power, bl edged blade, bt blunt, sh shield.
+MELEE = {"ch", "pw", "bl", "bt"}
+STUBCAL = r"(?<!auto-)revolver|stub pistol|stub automatic|hand cannon|lever|hunting|stub rifle|boarding pistol"
+AUTOCAL = r"autogun|autopistol|autorifle|auto-revolver|hammerfall|submachine|rattler|machine pistol|chain-fed"
 NAMES = {"lp": "las pistols", "lr": "las rifles", "sp": "stub pistols", "smg": "SMGs", "sr": "autoguns and stub rifles",
          "sg": "shotguns", "bp": "bolt pistols", "br": "boltguns", "pp": "plasma pistols", "pg": "plasma guns",
          "np": "needle pistols", "nr": "needle rifles", "hf": "hand flamers", "fl": "flamers", "hs": "heavy stubbers",
-         "hv": "heavy weapons", "gl": "grenade launchers", "mo": "mortars", "mg": "meltaguns"}
+         "hv": "heavy weapons", "gl": "grenade launchers", "mo": "mortars", "mg": "meltaguns",
+         "ch": "chain weapons", "pw": "power weapons", "bl": "blades", "bt": "blunt weapons", "sh": "shields"}
 
 K = "kit.md#"
 MORE = K + "more-attachments-player-picks-ash-on-ostrava-session-10"
@@ -70,9 +77,36 @@ A = [
  ("weighted", "Weighted grip", "C", "grip", {"sp", "smg", "sr", "sg", "bp", "br"}, None, None, 0, "recoil -1; -1 quick-draw", MORE),
  ("sleeve", "Ergo grip sleeve", "C", "sleeve", HAND, None, None, 0, "never slips from his hand; disarms against him -2", K + "ergo-grip-sleeve"),
  ("cbarrel", "Custom barrel", "U", "barrel", {"sp", "smg"}, None, None, 0, "+1 aimed, +1 past ~30 m", K + "custom-barrel-stub-pistols-and-smgs-barrel-slot"),
- ("shockcoil", "Shock-coil kit", "R", "coil", HAND | {"hs", "hv"}, None, None, 0, "after a hit, +1 on his next roll against that target (6 charges a fight)", K + "shock-coil-kit"),
+ ("shockcoil", "Shock-coil kit", "R", "coil", HAND | {"hs", "hv"} | MELEE, None, None, 0, "after a hit, +1 on his next roll against that target (6 charges a fight)", K + "shock-coil-kit"),
  ("repeater", "Repeater crystal", "R", "action", {"lp", "lr"}, None, None, 0, "strings up to 7; no chain bonuses in the string, misses still -1", K + "repeater-crystal"),
+ # melee (day 47)
+ ("tuning", "Power weapon tuning kit", "R", "field", {"pw"}, None, None, 0, "a steady field: through power armour on any hit", K + "power-weapon-tuning-kit"),
+ ("whetstone", "Diamantine whetstone", "U", "hone", {"bl"}, None, None, 0, "honed before the fight: +1 pierce on its next 2 hits (~10 uses)", K + "diamantine-whetstone"),
+ ("spikes", "Spiked shield", "U", "spikes", {"sh"}, None, None, 0, "+3 on a shield-first charge, then +1 attacking with the shield", K + "spiked-shield-mod"),
+ ("viewslot", "Shield viewing slot", "U", "slot", {"sh"}, None, None, 0, "sees and shoots a pistol through it without leaving cover; planted, slot fire -2", K + "shield-viewing-slot-mod"),
+ # ammo (day 47): one special load per gun ('load' slot); a magazine holds one load at a time.
+ # The player: special ammo is easy to get (uncommon); armour-piercing is better (rare).
+ ("a_hp", "HP rounds (hollow point)", "U", "load", {"sp", "smg", "sr"}, None, None, 0, "flak doesn't shrug it even at range; against no armour or flak a solid hit drops two steps; reinforced flak and heavier shrug it", "stub.md#stub-and-autogun-rounds-special-loads"),
+ ("a_ap", "AP rounds (armour-piercing)", "R", "load", {"sp", "smg", "sr"}, None, None, 0, "flak and reinforced flak don't shrug it; through carapace on a solid hit inside ~15 m; against no armour a crit drops just one step", "stub.md#stub-and-autogun-rounds-special-loads"),
+ ("a_hv", "HV rounds (high velocity)", "U", "load", {"sp", "smg", "sr"}, None, None, 0, "+1 aimed past ~30 m; flak doesn't shrug it at range; each shot counts 2 toward Dirty", "stub.md#stub-and-autogun-rounds-special-loads"),
+ ("a_flat", "Flat-tip rounds", "U", "load", {"sp", "sr"}, STUBCAL, None, 0, "a shrugged hit counts as 2 toward wear-down", "stub.md#stub-and-autogun-rounds-special-loads"),
+ ("a_cap", "CAP rounds (ceramite-tipped AP)", "R", "load", {"sp", "smg", "sr"}, AUTOCAL, None, 0, "flak and reinforced flak don't shrug it; through carapace on a solid hit at any range; against no armour a crit drops just one step", "stub.md#stub-and-autogun-rounds-special-loads"),
+ ("a_manstop", "Man-stopper belt", "U", "load", {"hs"}, None, None, 0, "against flak or less a solid hit drops an extra step; carapace and heavier shrug it", "heavy.md#heavy-stubber-belts-special"),
+ ("a_inferno", "Inferno belt", "U", "load", {"hs"}, None, None, 0, "a hit on a raw 17+ sets the target alight", "heavy.md#heavy-stubber-belts-special"),
+ ("a_tungsten", "Tungsten-core belt", "R", "load", {"hs"}, None, None, 0, "through heavy carapace at any range", "heavy.md#heavy-stubber-belts-special"),
+ ("a_hellfire", "Hellfire belt", "R", "load", {"hs"}, None, None, 0, "a hit that gets through: CON save vs 15 or one more step", "heavy.md#heavy-stubber-belts-special"),
+ ("a_blacktip", "Black-tip darts", "U", "load", {"np", "nr"}, None, None, 0, "the toxin's save is vs 17; a pass is still -1 on their next roll", "stub.md#needle-darts-special-loads"),
+ ("a_panic", "Panic darts", "U", "load", {"np", "nr"}, None, None, 0, "CON vs 15 or drops what's in hand and runs or hides 2 beats", "stub.md#needle-darts-special-loads"),
+ ("a_tracker", "Tracker darts", "U", "load", {"np", "nr"}, None, None, 0, "a pinger, not a toxin: followed on an auspex ~1 km for a day", "stub.md#needle-darts-special-loads"),
+ ("a_shard", "Shard darts", "R", "load", {"np", "nr"}, None, None, 0, "through carapace on any hit, heavy carapace on a solid hit", "stub.md#needle-darts-special-loads"),
+ ("a_widow", "Widow darts", "R", "load", {"np", "nr"}, None, None, 0, "a failed save is dead, no survival roll", "stub.md#needle-darts-special-loads"),
+ ("a_truth", "Truth darts", "R", "load", {"np", "nr"}, None, None, 0, "CON vs 15 or ~10 minutes of loose tongue", "stub.md#needle-darts-special-loads"),
  # --- custom (an enemy's is his own smith's version) ---
+ ("c_overdrive", "Overdrive", "R", "overdrive", {"ch"}, None, None, 1, "once a mission, ~30 s: armour a step lighter against it, advantage in mob pushes; then done for the fight; a natural 1 while running burns the motor", C + "shameholders-overdrive-tamsin"),
+ ("c_motor", "Better motor", "U", "motor", {"ch"}, None, None, 1, "crits on 19-20; a natural 1 on a swing throws the chain (a beat to reseat)", C + "kells-chain-axe-schematic-5"),
+ ("c_teeth", "Plasteel teeth", "U", "teeth", {"ch"}, None, None, 1, "through heavy carapace on any hit, ceramite-forged on a solid hit", C + "kells-chain-axe-schematic-5"),
+ ("c_hardgrip", "Curved hardwood grip", "C", "mgrip", MELEE, None, None, 1, "can't be knocked from his hand by a solid hit", C + "kells-chain-axe-schematic-5"),
+ ("c_bite", "Bite switch", "R", "mselector", {"ch"}, None, None, 1, "BITE: one swing a beat, a hit drops an extra step; flipped before the swing", C + "kells-chain-axe-schematic-5"),
  ("c_buffer", "Heavy buffer spring and new bolt", "C", "bolt", {"smg"}, None, None, 1, "jams only from the 25th straight round", C + "stinger-tamsin"),
  ("c_slide", "Lightened slide and tower grip", "C", "slide", {"sp"}, "autopistol", None, 1, "strings up to 5; recoil stays 0", C + "daces-autopistol-schematic-1"),
  ("c_select3", "Three-way selector with a rapid feeder", "R", "selector", {"sp"}, "autopistol", None, 1, "SAFE / BURST (strings up to 5) / AUTO (strings up to 8, no hit bonuses; from the 13th straight round a shot die of 1-3 jams); not drop-prone", C + "daces-autopistol-schematic-1"),
@@ -137,10 +171,9 @@ NOT_ROLLED = [
  ("The Frontier's plasteel tube springs", "no rule of their own"),
  ("Sorel's blacklight visor", "helm gear, not a gun part: the DM gives it to a tracker"),
  ("Varga's drop rig and harness lanyard", "jumper gear, not gun parts: the DM gives them to a jumper"),
- ("Shameholder's overdrive; Kell's chain axe parts", "melee: the gun roll doesn't cover melee weapons"),
 ]
 
-SKIP = re.compile(r"web pistol|bolt-pipe|rivet gun|harpoon|turret|gauntlet|hellstrike|flare")
+SKIP = re.compile(r"web pistol|bolt-pipe|rivet gun|harpoon|turret|gauntlet|hellstrike|flare|^'")
 TYPES = [("pp", r"plasma pistol"), ("pg", r"plasma gun"), ("bp", r"bolt pistol"),
          ("hv", r"heavy bolter|autocannon|lascannon|multi-laser"), ("hs", r"heavy stubber"), ("br", r"boltgun"),
          ("hf", r"hand flamer"), ("fl", r"flamer|torch-thrower|promethium sprayer"), ("mg", r"meltagun|melta gun"),
@@ -151,27 +184,30 @@ TYPES = [("pp", r"plasma pistol"), ("pg", r"plasma gun"), ("bp", r"bolt pistol")
          ("sg", r"shotgun|sawn-off|scattergun|nailer|ripper gun"),
          ("lr", r"lasgun|lascarbine|hellgun|long-las|las-box|las-lmg|volley gun|battery las"),
          ("sr", r"autogun|autorifle|stub rifle|lever-action|pipe rifle|hunting rifle")]
+MTYPES = [("sh", r"shield"), ("pw", r"power (sword|axe|maul|knife|fist|mace|blade|odachi)|thunder hammer|relic blade"),
+          ("ch", r"chainsword|chain axe|chain-axe|chain knife|chain glaive|chain blade|eviscerator"),
+          ("bl", r"knife|machete|cutlass|sabre|sword|cleaver|axe|shank|blade|stiletto|shovel"),
+          ("bt", r"club|maul|mace|hammer|flail|baton|prod|knuckle|girder|pick\b")]
 BUILTIN = [("optic", r"scope|range-finder|sprinter|kasr lance"), ("mag", r"drum|100-shot box"),
            ("muzzle", r"silenced|suppressed"), ("bayonet", r"bayonet|krieg"), ("tripod", r"tripod"),
            ("barrel", r"heavy barrel|long barrel|long-barrel|stub barrel"), ("stock", r"folding stock")]
 
 
 def guns_in(text):
-    """The guns in a kit string: [(type, label, count, builtins)]."""
+    """The weapons in a kit string (guns, then melee): [(type, label, count, builtins, src)]."""
     out = []
     for chunk in text.split(" | "):
         for piece in chunk.split(" + "):
-            subs = piece.split(" and ")
             found = []
-            for sub in subs:
-                for frag in sub.split(", "):  # the first gun in each part; turrets and odd scrap guns skipped
-                    low = frag.lower()
+            for sub in piece.split(" and "):
+                for frag in sub.split(", "):  # one weapon per fragment; turrets, odd scrap guns, 'X' pattern skipped
+                    low = re.sub(r"^.*?: ", "", frag.lower())
                     if SKIP.search(low):
                         continue
-                    t = next((t for t, p in TYPES if re.search(p, low)), None)
+                    t = next((t for t, p in TYPES if re.search(p, low)), None) or \
+                        next((t for t, p in MTYPES if re.search(p, low) and "bayonet" not in low), None)
                     if t:
-                        found.append((t, sub if len(sub.split(", ")) == 1 or frag == sub.split(", ")[0] else frag))
-                        break
+                        found.append((t, frag))
             for t, sub in found:
                 src = (piece if len(found) == 1 else sub).lower()
                 taken = {s for s, p in BUILTIN if re.search(p, src)}
@@ -212,7 +248,7 @@ def roll_gun(gtype, src, taken, level, team, weights):
 
 
 def describe(text, level, team, weights):
-    """One line listing what every gun in this kit rolled, or '' if nothing."""
+    """One line listing what every weapon in this kit rolled, or '' if nothing."""
     parts = []
     for t, label, n, taken, src in guns_in(text):
         for i in range(n):

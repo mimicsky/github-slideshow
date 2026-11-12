@@ -53,7 +53,8 @@ rolls specialist and draws "blessed" rolls the role d20 again: grunt or
 specialist as normal; if specialist, draw a type again; drawing "blessed" a
 second time makes them a blessed grunt
 (wh40k_gear/catalogue/heretic.md, Blessed cultists).
-Attachments (player-set, day 47): every gun an enemy carries rolls a d100 for an attachment: poor 20%,
+Attachments (player-set, day 47): every weapon an enemy carries (guns and melee) rolls a d100 for an attachment
+or a special ammo load: poor 20%,
 steady 25%, good 30%, rich 40%, wealthy 50%, special teams +10%; a hit picks one that fits (rarity by wealth;
 custom parts are the enemy smith's own version) and rolls again. The list and the rules: attachments.py and
 catalogue/attachments.md.
@@ -207,6 +208,6 @@ for n in range(count):
     if blessed:
         line = line.replace(f"{n+1}. ", f"{n+1}. !! BLESSED by {god}, rerolled: ", 1)
     print(line)
-    att = attach(head.split("): ", 1)[-1], level, team, w)  # attachments on every gun (day 47)
+    att = attach(head.split("): ", 1)[-1], level, team, w)  # attachments and ammo on every weapon (day 47)
     if att:
         print(f"   ++ ATTACHMENTS ({ATT_CHANCE[level] + (10 if team else 0)}%): {att}")

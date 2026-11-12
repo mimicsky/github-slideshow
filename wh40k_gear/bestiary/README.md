@@ -27,7 +27,7 @@ Mini bosses (renamed day 47; real bosses not built yet): monster mini bosses (bu
 
 ## [Enemy attachments](../catalogue/attachments.md#enemy-attachments)
 
-Each enemy gun rolls a d100 for an attachment by the faction's wealth (poor 20% up to wealthy 50%; special teams +10%; a hit rolls again; it must fit; custom builds roll by rarity, as the enemy smith's own version; `roll_enemy.py` rolls them from `attachments.py`) (set by the player, day 47).
+Each enemy weapon (guns and melee) rolls a d100 for an attachment or special ammo by the faction's wealth (poor 20% up to wealthy 50%; special teams +10%; a hit rolls again; it must fit; custom builds roll by rarity, as the enemy smith's own version; `roll_enemy.py` rolls them from `attachments.py`) (set by the player, day 47).
 
 ## [Vehicles](vehicles.md)
 
