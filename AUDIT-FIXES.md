@@ -54,8 +54,7 @@ All of **Part A** and **Part B** is already done on branch `claude/intelligent-m
 | B12 | Sheet, Coin | Still 7,419 Thrones | **14,228** (+6,809: IX 983, Fourteen's bodies 3,676, main hall 90, pay strongbox 2,000, final search 60) |
 | B13 | Sheet, Prisoners | "Prisoners (now, day 37)", with Thask and Ilsabet aboard | New "Prisoners (now, day 47)": <ul><li>**Cell 1:** Mordane, the plague-priest, Kreel, Quint</li><li>**Cell 2:** Vosk (in the medicae, restrained), Drayle, IX's preacher, Bell man C</li><li>**The hold:** ~25-30 more (worth a head count)</li></ul>The old list is kept, labelled history |
 | B14 | `world.md`, the Pell, Ilsabet and Maren rows; the Gallowmere target row | Old locations; Gallowmere still "Rumoured (8)" | <ul><li>Pell and Maren: in Kesh's house on the Rest</li><li>Ilsabet: handed to Kesh, day 41</li><li>Gallowmere: **Active**</li><li>Added a **Gallowmere (days 46-47)** NPC table: Corrow, Quint, Mordane, Vosk, Varrow, Vael</li></ul> |
-| B15 | (Extended day 47 by the player: **back aboard, the quartermaster refills everything automatically**, codex Crew posts.) |
-| B15 | Ammo and cells (Vigil, Last Word, power cells, Kell's plasma cell) | Looked stale | **No change, by design:** Ollin rekits everything rechargeable after each fight, so the next fight starts full |
+| B15 | Ammo and cells (Vigil, Last Word, power cells, Kell's plasma cell) | Looked stale | **No change, by design:** Ollin rekits everything rechargeable after each fight, so the next fight starts full **Extended day 47 by the player: back aboard, the quartermaster refills everything automatically** (codex, Crew posts). |
 
 ## Part C: Found but NOT fixed yet
 
