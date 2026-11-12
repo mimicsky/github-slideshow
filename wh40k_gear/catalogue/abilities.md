@@ -159,7 +159,7 @@ knife) fixes on it when he wants it (fixing or unfixing takes the beat's move, D
 
 **Items with it:** **stub revolvers** and any revolver with a hammer (said once at the top of [stub.md](stub.md)); not
 the [Hammerfall auto-revolver](stub.md#auto-revolver-hammerfall-pattern), which already hammers its own cylinder, the
-[stub-nose three-shooter](stub.md#stub-nose-three-shooter) (double-action only, the hammer shrouded), or Six Bells (a launcher). **Owned in Ash on Ostrava:** **Corvane's revolver** (campaign sheet).
+['Trinity' pocket revolver](stub.md#pocket-revolver-trinity-pattern) (double-action only, the hammer shrouded), or Six Bells (a launcher). **Owned in Ash on Ostrava:** **Corvane's revolver** (campaign sheet).
 
 ## Saw Lock
 
@@ -269,6 +269,6 @@ the Columnus (on single), and every las gun the Light carry.
 
 **Items with it:** **every pump-action shotgun** (the Munitorum pump, combat pumps, the CY-6 and the like; said once at
 the top of [stub.md](stub.md)); the [Lucius 'Ironclad'](stub.md#lucius-pattern-ironclad-shotgun) (its reinforced
-action only jams on a natural 1-3); the [farmer's pump](stub.md#farmers-pump-shotgun). Not semi-autos (the Kasr Sweeper: [Trigger Finger](#trigger-finger)), break-actions or
+action only jams on a natural 1-3); the ['Harrow' farmer's pump](stub.md#pump-shotgun-harrow-pattern). Not semi-autos (the Kasr Sweeper: [Trigger Finger](#trigger-finger)), break-actions or
 drum guns. Enemies' alike. **Owned in Ash on Ostrava:** the pump shotguns in the crate (and Morcant's old combat pump).
 

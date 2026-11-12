@@ -3906,21 +3906,21 @@
   "sellers": "MAF"
  },
  {
-  "name": "Farmer's pump shotgun (6-shell tube; no attachment slots)",
+  "name": "Pump shotgun, 'Harrow' pattern (6-shell tube; no attachment slots)",
   "tv": 0.75,
   "cat": "stub",
   "rarity": "C",
   "sellers": "MB"
  },
  {
-  "name": "Service stub pistol, PDF pattern (12-round mag; threaded barrel only)",
+  "name": "Service stub pistol, 'Steadfast' pattern (12-round mag; threaded barrel only)",
   "tv": 0.75,
   "cat": "stub",
   "rarity": "C",
   "sellers": "MB"
  },
  {
-  "name": "Stub-nose three-shooter (tiny 3-shot revolver; +2 to hide; no attachment slots)",
+  "name": "Pocket revolver, 'Trinity' pattern (tiny 3-shot revolver; +2 to hide; no attachment slots)",
   "tv": 0.4,
   "cat": "stub",
   "rarity": "C",

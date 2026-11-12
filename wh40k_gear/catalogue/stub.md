@@ -263,9 +263,9 @@ flak up close, carapace only on a solid hit). Tough: it can be swung as a club a
 is never damaged by a drop or fall.
 
 
-## Stub-nose three-shooter
+## Pocket revolver, 'Trinity' pattern
 
-**Stub-nose three-shooter** (common, 0.4 TV, DM's price; hive traders, pawn-stalls, black market; the player's design,
+**Pocket revolver, 'Trinity' pattern** ('the three-shooter'; common, 0.4 TV, DM's price; hive traders, pawn-stalls, black market; the player's design,
 Ash on Ostrava day 47). A small **double-action-only revolver** with a **triangular 3-round cylinder** and a stubby
 barrel: **very hideable (+2 to hide it)**. Stub revolver punch; the stub nose: **+1 within ~10 m, -2 past ~20 m**.
 Reloading 3 loose rounds takes a beat. **Too small for any attachment slot** (special stub rounds still load).
@@ -274,9 +274,9 @@ commoners for the walk home, and by anyone who wants a gun nobody finds.
 
 **Abilities:** [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
 
-## Service stub pistol, PDF pattern
+## Service stub pistol, 'Steadfast' pattern
 
-**Service stub pistol, PDF pattern** (common, 0.75 TV, DM's price; Munitorum, PDF quartermasters, hive and agri-world
+**Service stub pistol, 'Steadfast' pattern** (the PDF's issue pistol; common, 0.75 TV, DM's price; Munitorum, PDF quartermasters, hive and agri-world
 traders; the player's design, Ash on Ostrava day 47). A fine-looking, well-made sidearm: the **Planetary Defence
 Force's service pistol**, and a cheap gun for anyone who wants to defend themselves. Semi-auto, **12-round magazine**,
 **iron sights**, stub pistol punch (good on flesh, poor on flak at range, carapace shrugs it). **Threaded barrel: the
@@ -286,9 +286,9 @@ stub rounds still load: ammo isn't an attachment). PDF troopers, militia and com
 **Abilities:** [Trigger Finger](abilities.md#trigger-finger) (semi-auto); [Precision
 Sacrifice](abilities.md#precision-sacrifice) (every gun).
 
-## Farmer's pump shotgun
+## Pump shotgun, 'Harrow' pattern
 
-**Farmer's pump shotgun** (common, 0.75 TV, DM's price; agri-world markets, hive traders, black market; the player's
+**Pump shotgun, 'Harrow' pattern** ('the farmer's pump'; common, 0.75 TV, DM's price; agri-world markets, hive traders, black market; the player's
 design, Ash on Ostrava day 47). A cheap, basic pump shotgun: **a 6-shell tube** (reloading: half a beat per 2 shells),
 standard shotgun rules (brutal on flesh and flak up close, carapace only on a solid hit, -2 past ~15 m). **No
 attachment slots:** nothing fits it (special shells still load: ammo isn't an attachment). Farmers, militia and
