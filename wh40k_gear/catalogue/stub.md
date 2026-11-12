@@ -377,6 +377,7 @@ magazine holds one load at a time.
 | **Widow** | rare, 5 TV for 10 | Lethal: **a failed save means dead**, no survival roll. Quiet kills |
 | **Panic** | uncommon, 3 TV for 10 | A hallucinogen: **CON save vs 15 or the target drops what's in their hands and runs or hides for 2 beats** |
 | **Truth** | rare, 5 TV for 5 | A truth serum: **CON save vs 15 or ~10 minutes of loose tongue: +4 on interrogating them** |
+| **Temple venom** (Assassinorum) | legendary, by arrangement only (~20 TV for 5) | The Officio's own toxin: **CON save vs 18 or Down** (paralysed, alive), and **a target who passes still drops a step**. What a Needlespine blaster usually carries (day 47) |
 | **Tracker** | uncommon, 3 TV for 5 | No toxin: a pinger in the tip. **Feels like a bug bite (WIS 15 to notice).** An auspex rig follows it out to **~1 km for a day** |
 
 ## Heavy stub rounds

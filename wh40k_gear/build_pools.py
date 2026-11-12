@@ -104,7 +104,7 @@ add("bolt","L","BF",[("Astartes heavy bolt rifle (Space Marine; human: braced on
 # Officio Assassinorum gear (player-set: all epic or legendary). Rules: catalogue/assassinorum.md.
 add("stub","X","BF",[("Macragge service pistol (Ultramarines; heavy stub, 12 rounds, laser/light module, compensator)",35)])
 add("stub","X","BF",[("Exitus pistol (Vindicare; silent, +1; may self-destruct when first picked up)",60),("Exitus rounds: shield-breaker (each)",10),("Exitus rounds: turbo-penetrator (each)",10),("Exitus rounds: hellfire (each)",10)])
-add("stub","L","BF",[("Exitus rifle (Vindicare; +3 aimed, no range or weather penalty)",150),("Neural shredder (Callidus; 10 m cone, CON save or two health steps)",180),("Executioner pistol (Eversor; bolt pistol + toxin needler)",150),("Needlespine blaster (Adamus; silent, ~200 m, +3 aimed, strings of 2, CON 18 or Down)",140)])
+add("stub","L","BF",[("Exitus rifle (Vindicare; +3 aimed, no range or weather penalty)",150),("Neural shredder (Callidus; 10 m cone, CON save or two health steps)",180),("Executioner pistol (Eversor; bolt pistol + toxin needler)",150),("Needlespine blaster (Adamus; silent, ~200 m, +3 aimed, strings of 2; Temple venom darts)",140)])
 add("melee","X","BF",[("Poison blades, concealed (Callidus; toxin, hidden on a search)",50)])
 add("melee","L","BF",[("Phase sword (Callidus; C'tan blade, ignores armour and shields)",200),("Neuro gauntlet (Eversor; stun + CON save or two health steps)",160),("Nemesii blade (Adamus; +2 strike first and parry; power edge, solid hit two steps; can't be disarmed)",150)])
 add("explosive","X","BF",[("Psyk-out grenade (Culexus; no powers for 2 turns in the burst)",20)])

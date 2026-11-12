@@ -92,8 +92,9 @@ legendary has to beat an 18 TV needle rifle).
 - **Effective to ~200 m; +3 on aimed shots, +1 more past ~30 m.** **Strings of 2.**
 - **Precision needles:** through **carapace on any hit**, **heavy carapace on a solid hit**, and **ceramite-forged and
   power armour on a crit** (an exception to Too weak to matter: it finds the seam).
-- **Temple venom:** a hit forces **CON 18 or Down** (paralysed, alive), and **a pass still drops a step.** It takes any
-  special dart too (stub.md, Needle darts).
+- **The toxin is the dart's, not the gun's** (the player, day 47, as A13): it fires any needle dart (stub.md, Needle
+  darts), and it usually comes loaded with **[Temple venom darts](stub.md#needle-darts-special-loads)** (CON 18 or Down,
+  a pass still drops a step).
 
 ## Adamus Temple: Nemesii blade
 
