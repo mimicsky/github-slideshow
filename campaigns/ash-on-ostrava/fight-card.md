@@ -48,7 +48,7 @@ It is steps 6-9 of the campaign README's Fight checklist in short; steps 1-5 (wh
 - **Knife defence is footwork:** a block is a slip, a parry an evade-and-counter, same math. Anyone may **dodge** instead of using the weapon: **d20 + DEX**, proficiency only if trained in Acrobatics (**Tamsin: Remarkable Athlete +2**) (codex, HR5 Knife defence and dodging).
 ## 6. Health, Down and breaking
 - **Fine → Hurt (-1) → Badly hurt (-2, no sprint) → Down (out).** A hit = one step, unless armour shrugs it; a **crit = one extra step** (vs armour that would have shrugged it: one step, no extra). Extra stages before Hurt: Zealot and Skitarius +1, Brute +2, Ogryn +3 (codex, HR4 Health as a state; Shots and hits; Armour).
-- **Wear-down:** every **3** shrugged hits on one person in a fight = one step; **power armour 5**. Traits move it: Glass jaw every 2 (Varga), Thick-skinned's first doesn't count (codex, Armour; HR9 Traits; sheet, traits table).
+- **Wear-down:** every **6** shrugged hits on one person in a fight = one step; **power armour 10** (6 not 3: the player, day 47). Traits move it: Glass jaw every 4 (Varga, Dannel), Thick-skinned's first doesn't count (codex, Armour; HR9 Traits; sheet, traits table).
 - **Going Down drops** what's in the hands (a slung long gun stays; a drop-prone gun rolls) (codex, Gear rules: Going Down drops your weapons).
 - **Enemies Down:** d6 each after the fight, **1-3 dead, 4-6 alive** (+2 on the d6 if every step came from limb shots or unarmed blows) (codex, Breaking and Down; Rulings).
 - **The Light never die from Down:** out of the fight, and dead only if finished off or hit once more while Down. A medic's patch (Down → Hurt) puts them back in at Hurt (codex, Breaking and Down).

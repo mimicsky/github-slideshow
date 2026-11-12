@@ -99,7 +99,7 @@ Then roll.
 **9. After the beat, then the reply** (fight card §8-§9).
 - **Count, for each person, in their Full kit row** (counts; the history goes to `inventory.md`, Ammo and condition log): ammo (packs: hot-shot 30, las 45), Vigil's heat (vent at 3), every
   grenade, charge, stimm and antitoxin used (Sallow's Bag too), shots since cleaning (~30 = Dirty; Stinger's bolt jams past
-  25 straight rounds), wear-down (shrugged hits, every 3 = a step), stimm beats and crashes.
+  25 straight rounds), wear-down (shrugged hits, every 6 = a step; day 47), stimm beats and crashes.
 - **Break check** (codex Part 6, Breaking and Down): when half are Down or the leader falls. **The player wants the Mart's
   factions to keep fighting:** no easy folding; when they don't surrender they fall back to better ground and counterattack.
 - **Save:** `dm-notes.md` (the beat's line with every roll, then "After beat N"), the sheet ("Where we stopped",

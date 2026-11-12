@@ -620,7 +620,7 @@ game-breaking.
 | 15 | Squeamish | -1 when treating wounds, or when covered in blood |
 | 16 | Claustrophobic | -1 in crawlspaces, vents and tight corridors |
 | 17 | Void-sick | -1 in the open void, on EVA, or in zero gravity |
-| 18 | Glass jaw | Wear-down every 2 shrugged hits instead of 3 |
+| 18 | Glass jaw | Wear-down every 4 shrugged hits instead of 6 (was 2 instead of 3; scaled day 47) |
 | 19 | Slow learner | -0.1 for every 10 hours of training |
 | 20 | Superstitious | -1 on rolls after a bad omen (Morcant's cursed galley) |
 | 21 | Frail | -1 on STR rolls to haul, carry, climb or breach |
@@ -761,7 +761,7 @@ What the DM has always done, written down so anyone can run it.
   vehicles, beasts or daemons at the charge) +3**. **A small or precise shot** (an arm, a leg, a lamp, a hand): **+1**. (Both set by the player, day 47.)
   The shooter's total (roll checklist) must reach it. Melee between people uses the exchange (house rule 5) instead.
 - **Damage:** a hit drops the target **one health step** (Fine → Hurt → Badly hurt → Down),
-  **unless their armour stops that kind of weapon** (Part 8, Armour: "shrugs off" means no step for that hit, but **shrugged hits wear them down**: every 3 drop a step, every 5 for power armour).
+  **unless their armour stops that kind of weapon** (Part 8, Armour: "shrugs off" means no step for that hit, but **shrugged hits wear them down**: every 6 drop a step, every 10 for power armour; day 47).
   Extra health stages (zealots, Skitarii, Ogryns, brutes) add steps before Down.
 - **Crit:** drops **one extra step** (crit ranges: a natural 20 for most; Tamsin 19-20; Vigil 17-20 with heat).
 - **"Solid hit"** (wording some gear uses): the total **beats the hidden number by 3 or more**.
@@ -1009,8 +1009,10 @@ ladder a hit moves you.
 - **Part-armour:** a plate that only covers one side counts only from that side (Tamsin's heavy front: shots
   from the side or back hit plain carapace; a chest-only carapace protects the chest).
 - **Crits always get through.** Against armour that would have shrugged the hit, a crit drops just one step (no extra).
-- **Wear-down: shrugged hits still hurt.** Armour stops a hit from dropping a step, not from mattering. **Every 3
-  shrugged hits on the same person in one fight drop them one step** (power armour: every 5). Enough hellgun
+- **Wear-down: shrugged hits still hurt.** Armour stops a hit from dropping a step, not from mattering. **Every 6
+  shrugged hits on the same person in one fight drop them one step** (power armour: every 10) (**6, not 3: the
+  player, Ash on Ostrava day 47**, '3 is kinda weak'; power armour's 10 is the DM's default until the rule for
+  which weapons can't wear which armour at all is set). Enough hellgun
   shots will hurt even a man in power armour.
 
 Armour takes damage and the DM says when it is failing.
