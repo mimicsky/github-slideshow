@@ -2177,7 +2177,7 @@
   "sellers": "MB"
  },
  {
-  "name": "Gas mask / rebreather",
+  "name": "Rebreather (mouth and nose: immune to breathed gas)",
   "tv": 0.5,
   "cat": "armour",
   "rarity": "C",
@@ -4121,5 +4121,19 @@
   "cat": "armour",
   "rarity": "R",
   "sellers": "MF"
+ },
+ {
+  "name": "Gas mask (whole face: immune to breathed gas, eyes covered; -1 Perception)",
+  "tv": 0.25,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Gas mask or rebreather filter (about an hour of heavy gas)",
+  "tv": 0.1,
+  "cat": "gear",
+  "rarity": "C",
+  "sellers": "MBF"
  }
 ]

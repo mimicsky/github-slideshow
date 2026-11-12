@@ -24,6 +24,15 @@ the tiers table, crits, wear-down, Too weak to matter, Shooting for the gaps). T
 
 No tier costs dodges or stealth (the player kept it that way).
 
+## Rebreather and gas mask
+
+(Split into two with the player, Ash on Ostrava day 47, audit C14; the shops sold them as one.)
+- **Rebreather** (common, 0.5 TV): mouth and nose. **Immune to choke gas** and other breathed gas (spores, smoke-lung).
+  **The eyes stay open:** eye-stinging gas still gives -1. No other penalty.
+- **Gas mask** (common, 0.25 TV): the whole face. **Immune to breathed gas, and the eyes are covered.** **-1 on
+  Perception** (as a full helmet).
+- **Filters:** about an hour of heavy gas each, then a fresh one (0.1 TV a filter).
+
 ## Boarding shield
 
 **Boarding shield** (uncommon, 4 TV): a plain slab of plasteel with a grip.
