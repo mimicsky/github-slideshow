@@ -4016,5 +4016,12 @@
   "cat": "mod",
   "rarity": "C",
   "sellers": "MB"
+ },
+ {
+  "name": "Lumen foregrip (+1 first shot; a lumen with a free switch)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
  }
 ]

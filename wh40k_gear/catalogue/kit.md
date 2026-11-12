@@ -476,6 +476,11 @@ and **disarm attempts against the bearer take -2**.
   **-2** instead of -1; **-1 more on swapping**.
 - **Handstop foregrip** (uncommon, 1.5 TV): **+2 on the first shot**; **swapping costs
   nothing**; **-1 on aimed shots**.
+- **Lumen foregrip** (uncommon, 1.5 TV, DM's price; the player's ask, Ash on Ostrava day 47): an under-barrel grip with a
+  light in its nose. **+1 on the first shot** (as the ergo foregrip), and **a full lumen:** no darkness penalty in the
+  beam, he's lit up too, and it **can blind** (in a face inside ~5 m in the dark: -2 on their next roll). **A thumb
+  switch on the grip: flicking it is free.** It takes the **under-barrel slot, not the laser slot** (a laser sight still
+  fits).
 
 ### Muzzles
 

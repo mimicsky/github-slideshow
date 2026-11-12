@@ -58,6 +58,7 @@ A = [
  ("limiter", "Burst limiter", "C", "limiter", {"smg", "sr", "br", "hs"}, None, None, 0, "recoil -1; strings capped at 3", MORE),
  ("ergofg", "Ergo foregrip", "C", "under", RIFLE | {"smg", "sg"}, None, None, 0, "+1 on the first shot", K + "foregrips-under-barrel-slot"),
  ("heavyfg", "Heavy foregrip", "U", "under", RIFLE | {"smg", "sg"}, None, None, 0, "+2 aimed; a chain miss costs -2; -1 more on swapping", K + "foregrips-under-barrel-slot"),
+ ("lumengrip", "Lumen foregrip", "U", "under", RIFLE | {"smg", "sg"}, None, None, 0, "+1 on the first shot; a lumen (no darkness penalty in the beam, can blind); the switch is free", K + "foregrips-under-barrel-slot"),
  ("handstop", "Handstop foregrip", "U", "under", RIFLE | {"smg", "sg"}, None, None, 0, "+2 on the first shot; swapping costs nothing; -1 aimed", K + "foregrips-under-barrel-slot"),
  ("bipod", "Bipod", "C", "under", RIFLE | {"hs"}, None, None, 0, "+2 aimed braced or prone; a beat to set up", MORE),
  ("ugl", "Underslung grenade launcher", "R", "under", {"lr", "sr", "br"}, None, None, 0, "one grenade shot without swapping; -1 aimed; a beat to reload", MORE),
