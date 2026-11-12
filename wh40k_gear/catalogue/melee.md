@@ -433,8 +433,8 @@ powers. **Natural 1:** the crystal cracks; it's just a short sword until it's re
 **Psykana force stave** (uncommon, ~20 TV; Munitorum; Ash on Ostrava day 45). The plain staff the Scholastica
 Psykana issues its sanctioned psykers: dark wood shod in iron, the Psykana eye on the crown. In anyone else's
 hands it's a quarterstaff. In a psyker's: **a psyker melee weapon** (Warp Slash), it **hits through carapace on
-a solid hit**, and it steadies the mind: **-1 to the Perils trigger range** (1-2 becomes 1; it can't go below a
-natural 1).
+a solid hit**, and it steadies the mind: **-1 to the Perils trigger range** (a 1-3 becomes 1-2; it can't go below a
+natural 1; audit C5, day 47: the example now starts from the codex's usual 1-3).
 
 ## Captain's force stave
 
