@@ -2387,7 +2387,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Magnoculars",
+  "name": "Magnoculars (+4 Perception past ~50 m)",
   "tv": 1.5,
   "cat": "mod",
   "rarity": "U",
@@ -4156,5 +4156,12 @@
   "cat": "armour",
   "rarity": "R",
   "sellers": "AF"
+ },
+ {
+  "name": "Range-finder magnoculars (+4 Perception past ~50 m; a called range gives +1 on the next shot past ~30 m)",
+  "tv": 3,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MF"
  }
 ]

@@ -88,6 +88,17 @@ it's out, **at the start of every beat a d6 5-6 brings reinforcements: a quarter
 from wherever makes sense (the road, the next building, a lander). Killing him after the call doesn't cancel it.
 Surprise (the Light's first beat) means nobody's called yet.
 
+## Magnoculars
+
+**Magnoculars** (uncommon, 1.5 TV; Munitorum, Free Traders; entry written with the player, Ash on Ostrava day 47, audit
+C14).
+- **Long sight:** faces, badges and weapons out to **~1 km**; **+4 on Perception to spot things past ~50 m** (the
+  player's number).
+- **Using them is the beat's main thing** (looking, not shooting).
+- **Glint:** in daylight a sharp-eyed enemy may catch the flash (DM's call, as with a scope).
+- **Range-finder magnoculars** (uncommon, 3 TV; spotters carry them): they also give the range. **A shooter the spotter
+  calls it to gets +1 on his next shot past ~30 m**, as long as they can hear each other (bead or voice).
+
 ## Boarding shield
 
 **Boarding shield** (uncommon, 4 TV): a plain slab of plasteel with a grip.
