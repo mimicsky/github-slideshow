@@ -17,7 +17,7 @@ compact lasgun with the **pack behind the grip** and a **finned heat sink** alon
 **Las-SMG, 'Sterl' pattern** (player design, uncommon, 3 TV). Side-mounted pack.
 Shot chains up to 6; low recoil: a miss doesn't give -1 to the next shot. Small
 punch: against carapace 2 hits count as one lasgun hit; useless against power
-armour. A pack lasts about one fight's bursts.
+armour. **Takes a regular las pack: 45 shots** (about 7 strings of 6; audit C8, day 47).
 
 ## Las-box, 'Kasr Barr' pattern light las-LMG
 

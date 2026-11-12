@@ -68,7 +68,7 @@ All of **Part A** and **Part B** is already done on branch `claude/intelligent-m
 5. ~~**Psykana force stave**~~ **FIXED (day 47):** the example now reads 'a 1-3 becomes 1-2' (the rule, -1 to the range, unchanged). Was: (`melee.md`) says Perils "1-2 becomes 1". The codex baseline is 1-3 (so: "1-3 becomes 1-2").
 6. ~~**Kasr Rain**~~ **FIXED (day 47):** now 'the biggest box pack a carried las gun takes; only a backpack cell or a weak eco pack holds more'. Was: (`las.md`) is called "the most efficient las pack made" at 100 shots, but the eco pack and the backpack cell hold 120.
 7. ~~`heretic.md`~~ **FIXED (day 47):** the loot lines now sit under the Chaos psyker staff. Was:: the "As loot: useless to anyone but a psyker…" lines sit under the daemons paragraph; they belong under the Chaos psyker staff.
-8. Missing stats:
+8. ~~Missing stats~~ **FIXED (day 47):** falchion and Omnissian sword medium, chains 2; blaze swords hit as power, alight on a raw 17+, every hit counts against daemons; Sterl takes a 45-shot pack. Was:
    - **No chain class (light, medium or heavy):** Power falchion and Omnissian power sword (`melee.md`).
    - **No warp-fire effect:** Blaze force sword (`melee.md`).
    - **No shot count:** Sterl las-SMG (`las.md`).

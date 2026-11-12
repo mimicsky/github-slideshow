@@ -322,12 +322,12 @@ marks the bearer as someone important.
 
 ## Power falchion
 
-**Power falchion** (rare, 28 TV): a duelling blade. +2 in the exchange when
-fighting a single opponent.
+**Power falchion** (rare, 28 TV): a broad duelling blade, **medium, chains of 2** (audit C8, day 47). +2 in the
+exchange when fighting a single opponent.
 
 ## Omnissian power sword
 
-**Omnissian power sword** (rare, 32 TV): Mechanicus-made; its field never
+**Omnissian power sword** (rare, 32 TV): Mechanicus-made, **medium, chains of 2** (audit C8, day 47); its field never
 flickers, and it cuts machines and servitors at +2.
 
 ## Relic blade, 'Thorian' pattern
@@ -392,9 +392,11 @@ against them.
 
 **Abilities:** [Wide Slash](abilities.md#wide-slash).
 
-**Blaze force sword / greatsword** (rare, 45 / 60 TV): psyker weapons. In a
-sanctioned psyker's hands they burn with warp-fire; anyone else wields a plain
-sword (greatsword: two-handed, heavy).
+**Blaze force sword / greatsword** (rare, 45 / 60 TV): psyker weapons. The sword is **medium**, the greatsword
+**two-handed and heavy**; both **chains of 2**. In a sanctioned psyker's hands they burn with warp-fire (audit C8,
+day 47): they **hit as a power weapon**, **a hit on a raw 17+ sets the target alight**, and **against daemons every
+hit counts** (daemon flesh normally only loses a stage to solid hits, crits, fire and blasts: bestiary bosses.md).
+Anyone else wields a plain sword.
 
 
 ## Librarius aide's stave
