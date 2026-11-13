@@ -49,7 +49,7 @@ stealth** (the player).
 
 **Refractor field** (rare, 25 TV; Munitorum officers' issue, Mechanicus, Free Traders; entry written day 47, audit
 C14). A worn field generator. **Light hits** (anything carapace would shrug) are **stopped automatically**, at most
-**3 a beat** (a 4th gets through and the field is down a beat); **heavy hits: a d6 5-6 and the field takes it.** Full
+**3 a beat** (a 4th gets through and the field is down for the rest of that beat, back on the next); **heavy hits: a d6 5-6 and the field takes it.** Full
 rule: codex Part 8, Gear rules, Refractor field.
 
 ## Conversion field

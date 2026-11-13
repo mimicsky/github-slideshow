@@ -35,7 +35,7 @@ Gear detail: Tamsin's weapons and their history, the Light's containers, builds,
 | Item | Notes |
 | --- | --- |
 | Grenades | **Now (day 36):** 3 standard frags (from the crate, day 33), 1 smoke, 0 krak (both impact frags and the plain frag went at berth 31's barricade, day 33). **Day 25:** 2 impact frags, 1 standard frag, 1 smoke. Earlier: 2 frag, **converted to impact fuses** by Ottrick (warp day 5 to Ostrava): burst on contact, can't be dodged or thrown back; a **natural 1 on the throw** sets one off at Tamsin's feet. 1 smoke, 0 krak |
-| Armour | **Carapace chest plate with a riveted ceramite front (Dace, day 20): heavy carapace from the front**, over repaired flak; **refractor field** (reworked rules); void-mask; plague rebreather (double-filtered, from Haldis); helm pict lens; boarders' lift pack (~4 hops, **stays in the container: not part of his kit-out**; he wore it only on day 16 to carry it off the jumper) |
+| Armour | **Full carapace (a set: chest, back, arms, legs; day 46 kit-up), the chest plate with a riveted ceramite front (Dace, day 20): heavy carapace from the front, carapace everywhere else**, over repaired flak; **refractor field** (reworked rules); void-mask; plague rebreather (double-filtered, from Haldis); helm pict lens; boarders' lift pack (~4 hops, **stays in the container: not part of his kit-out**; he wore it only on day 16 to carry it off the jumper) |
 | Holsters | Quick-draw thigh rig (sized for Last Word; **worn on the right thigh**, Venn side; practised left too); Chimera-hide long holster; 1 plain pistol holster (the other cut down by Dace for Corvane's revolver) |
 | Reinforced Munitorum satchel | Green canvas, steel corners, a dozen pouches |
 | Medicine | 1 tin purification salve. No antitoxin |

@@ -1503,7 +1503,8 @@ at range, shrapnel, ordinary blades) are **stopped automatically**; the air shim
 **Heavy hits** (anything that gets through carapace: hellguns, bolters, heavy stubbers,
 power, chain and plasma weapons): **roll a d6, 5-6 the field takes it.** **Overload:** it
 stops at most **3 light hits in one beat**; a 4th or more that beat get through and the
-field is **down for 1 beat** while it resets. Assassinorum shield-breaker rounds go
+field is **down for the rest of that beat** while it resets, **and back on the next beat** (set by the player,
+Ash on Ostrava day 47). Assassinorum shield-breaker rounds go
 straight through.
 
 #### Conversion field
@@ -1525,7 +1526,7 @@ militants, saints-in-waiting. **Anyone else seen wearing one will be asked, very
   get through power armour** (bolters, plasma on a solid hit, melta, power weapons, krak): **d6, 5-6 the
   halo takes it.**
 - **Overload:** it stops at most **5 hits in one beat**; a 6th or more that beat gets through, and the halo is
-  **down for 1 beat** while it resets.
+  **down for the rest of that beat** while it resets, back on the next (as the refractor field).
 - **Big:** it can't be hidden, it marks the wearer from across a battlefield, and it doesn't stack with a
   refractor or conversion field (one field at a time).
 - **Price:** legendary, ~150 TV; Free Traders and the Mechanicus, by special arrangement only.
