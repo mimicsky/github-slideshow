@@ -1,0 +1,131 @@
+# Plasma weapons and cells
+
+Item rules for this category. General rules (heat, hot-shot, drop-prone, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
+
+**Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown).
+
+## Plasma pistol, 'Needle' pattern
+
+**Plasma pistol, 'Needle' pattern** (player design, rare, 18 TV). Smaller frame,
+longer barrel. **Heat: 1 per 4 shots.** Gets **12 shots from a standard cell**
+(not 8). Lighter punch than a full plasma pistol: through carapace on any hit,
+but power armour only on a solid hit (beats the shot by 3+).
+
+## Tuned plasma cell
+
+**Tuned plasma cell** (player design, rare, 10 TV). A Mechanicus-tuned cell:
+**12 shots instead of 8.** Same misfire chance as its fill (slow-filled 1 in 20).
+
+## Ancient plasma cell
+
+**Ancient plasma cell** (rare, 25 TV, DM's price; Mechanicus relic-dealers, Free Traders; **rare in the enemy roll**; the
+player's idea, rule written day 47). A cell from before the knowledge decayed. **Through power armour on any hit**
+(not only a solid one), and **a hit drops one extra step** (2 in all). It runs hot: **1 heat per shot**, not 1 per 2
+(Plasma heat, codex Part 8). **8 shots**, and it **can't be refilled** outside a Mechanicus forge: once it's empty,
+it's done. Fits any plasma pistol or plasma gun. On the [attachment sheet](attachments.md#the-rollable-list) (it takes
+the cell's place, so not with a tuned cell).
+
+## Plasma blaster, twin-cell 'Lumen' pattern
+
+**Plasma blaster, twin-cell 'Lumen' pattern** (player design, rare, 35 TV). A
+plasma SMG fed by **two cells at once** (16 shots with standard cells, 24 with
+tuned). Shot chains **up to 4**. Two cells share the load, so **heat is halved: 1
+per 4 shots.** Punch like a plasma pistol: through carapace on any hit, power
+armour on a solid hit.
+
+## Plasma SMG, 'Kasr Spark' pattern
+
+**Plasma SMG, 'Kasr Spark' pattern** (player design, Ash on Ostrava day 45; rare, ~22 TV; Mechanicus, Free
+Traders). A light plasma gun tuned down to **low-yield bolts** that cycle fast: a hose of small blue-white
+sparks instead of the heavy slugs of a true plasma weapon. Not the Lumen blaster's hammer: it trades punch
+for speed and shots.
+- **Fast:** strings of up to **8**, no hit bonuses in the string (misses still -1); **no recoil.**
+- **Light punch:** each hit **hits like a hellgun** (through flak and carapace; heavy carapace only up close,
+  inside ~15 m); **power armour stops it.**
+- **More shots:** **30 shots from a standard cell** (45 from a tuned cell).
+- **Runs cooler:** **heat 1 per 6 shots** (codex, Plasma heat): at 3 heat it vents a beat.
+- Slow-filled and rushed cells keep their own misfire chances.
+
+## Plasma repeater, 'Kasr Furnace' break-action lever pattern
+
+(player design, rare, 30 TV; Mechanicus, Free Traders.) The stock is built into the
+body as one piece. A **lever runs from the body back along the stock**, with the
+trigger on the body. The barrel **breaks open** at the rear, and its breech is big
+enough to take **one plasma cell**: 8 shots from a standard cell, 12 from a
+tuned one. Power coils run down the barrel and end near the muzzle; the lever
+cycles the charge from the cell into the coils. Breaking it open to swap the cell
+takes a beat.
+
+**Normal shot:** plasma punch (through carapace on any hit, power armour on a
+solid hit, beating the target's roll by 3+). **Each beat: 2 lever actions**, each a
+shot or a pump, in any mix (2 shots, 2 pumps, or a pump then a shot). Normal plasma heat
+(1 heat per 2 shots; vent at 3; firing anyway at 3, d20 1-5 overheats).
+
+**Pumped shot:** instead of shooting, the bearer works the lever, up to 3 held.
+A 1-pump shot fits in one beat (pump, fire); a 2-pump shot is two pumps, then
+fire next beat; a full 3-pump shot is **two pumps one beat, then one pump and fire
+the next** (1 heat from waiting). **Each pump draws one extra shot of
+charge from the cell** (a 3-pump shot uses 4). Each pump is half a step more punch:
+
+| Pumps | The shot |
+| --- | --- |
+| 1 | Power armour on a hit that beats the target's roll by 2+ |
+| 2 | Power armour on any hit |
+| 3 | Power armour on any hit, and on a solid hit the target drops **one extra health step** |
+
+**Holding a charge builds heat:** every beat it stays pumped without being fired,
+it gains **1 heat** (normal plasma heat rules). Fire it fast. Firing a pumped shot
+adds its usual heat too, and venting dumps the charge.
+
+## Meltagun
+
+**Meltagun** (rare, 35 TV; standard canisters 6 shots, 5 TV; Munitorum, Mechanicus, black market, Free Traders; rules
+written with the player, Ash on Ostrava day 47, audit C14). A two-handed melta rifle; no brace needed.
+- **Inside ~15 m: through any armour; a hit drops two steps.** It melts doors and locks.
+- **15-25 m: -3 on the shot, and only one step. Past ~25 m: nothing.**
+- **Vehicles: through any vehicle armour, tanks from the front included:** 1 hull point (an Astartes canister: 2)
+  ([vehicles.md](../bestiary/vehicles.md)).
+- **One shot a beat; 6 shots a canister** (special canisters: [below](#melta-canisters-special-loads)).
+- **Heat: +1 a shot; at 2 it vents a beat** (as the inferno pistol).
+
+**Abilities:** [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun; one shot a beat, so it gains nothing).
+
+## Inferno pistol
+
+**Inferno pistol** (player request, Space Marine 2 style, Ash on Ostrava session 9;
+rare, 40 TV; Ecclesiarchy, Mechanicus, Free Traders). A master-crafted melta pistol
+sized for a human hand: the sidearm of the Sisters of Battle and of Inquisitors.
+One-handed, made to pair with a blade. **Within ~8 m it hits like a meltagun:**
+through any armour (carapace and power armour included), **the target drops two
+health steps**, and it melts doors, locks and light vehicles. **8-15 m:** -3 on the
+shot and only one step. **Past 15 m:** no effect. **One shot a beat; 6 shots per
+melta canister** (called a 'charge' before day 47; spare canisters 5 TV; special canisters below). **Heat:** each shot adds 1; at 2 it vents for a
+beat. Fields (refractor, conversion) still roll.
+
+
+## Melta canisters (special loads)
+
+(Rules written with the player, Ash on Ostrava day 47. A melta gun's ammo is a pressurised fuel **canister**, not the
+melta bomb, which is its own explosive. Fits meltaguns, multi-meltas and inferno pistols. A standard canister: 6
+shots, 5 TV. Melta already burns through every armour a person wears. On the
+[attachment sheet](attachments.md#the-rollable-list).)
+
+**The carry-over kick** (the player, day 47): a melta fires one shot a beat, so recoil (which only hits later shots in
+a string) never applies. A canister with **the kick** instead gives **-1 on his next melta shot**: firing every beat,
+every shot after the first is -1; a beat without firing clears it.
+
+- **Astartes melta canister** (rare, 15 TV, DM's price; Astartes-pattern, black market, Mechanicus, Free Traders;
+  **rare in the enemy roll**). **A hit on a vehicle takes 2 hull points, not 1** ([vehicles.md](../bestiary/vehicles.md)).
+  **The kick** (-1 on his next melta shot). Otherwise a standard canister.
+- **Big melta canister** (uncommon, 8 TV, DM's price; Munitorum, Mechanicus, Free Traders). **14 shots, not 6** (the
+  player's number). Bulky: **-1 on quick-draws and swapping.** It's the canister's size, so any fill can come in one
+  (a big Astartes canister).
+- **Mechanicus melta canister** (rare, 12 TV, DM's price; Mechanicus, Free Traders; **rare in the enemy roll**). The
+  player's idea, more damage: **inside ~8 m a hit drops 3 steps** (past that, as standard). **The kick** (-1 on his
+  next melta shot). It burns fast: **4 shots, not 6** (a big one: 14 x 4/6 = 9).
+- **Incinerator canister** (rare, 25 TV, DM's price; Mechanicus, black market, Free Traders; **rare in the enemy
+  roll**). The player's idea, armour pen and a lot of damage, the top canister: **inside ~8 m a hit drops 3 steps**;
+  **a hit on a vehicle takes 2 hull points**; it **sets the target alight** and **melts light cover** it hits. **A crit
+  puts the target straight to Down** (anyone: the Light, enemies, mini bosses; **never an instant kill**: the player,
+  day 47); an enemy downed this way takes **-1 on his survival roll** (very badly hurt; [bosses.md](../bestiary/bosses.md)). **A bigger kick: -2 on his next melta shot.**
+  **3 shots** (a big one: 7).

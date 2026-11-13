@@ -1,0 +1,573 @@
+# Melee weapons
+
+Item rules for this category. General rules (heat, hot-shot, drop-prone, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
+
+**Strength behind the blow:** anyone with **STR 50+** drives a melee or thrown weapon from this file **one armour step further** than its entry says (power weapons: **two steps a hit**) (DND_CODEX Part 8, Armour). **Every weapon in this file has [Heavy Attack](abilities.md#heavy-attack)** (the defender +3 to parry, no block, and a hit goes one armour step further and drops two steps). **Every power weapon in this file has [Field Burst](abilities.md#field-burst)** (one swing: +1 step, knocks him back, then the field is off a beat; day 47). **Every light blade in this file (knives, shanks, hatchets, hand axes) has [Throw](abilities.md#throw)** (out to ~10 m at -2; then it's on the floor; day 47). **Every chain weapon in this file has [Saw Lock](abilities.md#saw-lock)** (on a block, a STR contest: rip his weapon away, or jam your chain; day 47). Other gear abilities (Wide Slash and the rest): each entry's **Abilities:** line, and `abilities.md`.
+
+## Hive shank
+
+**Hive shank** (common, 0.1 TV): a scrap knife anyone can make in minutes, no
+roll. Breaks on a natural 1.
+
+## Kitchen steak knife
+
+**Kitchen steak knife** (common, 0.05 TV; any market, any kitchen; the player's design, Ash on Ostrava day 47).
+Someone grabbed it from a drawer: a good knife, a light blade (**chains of 3**), no penalty, but **it can't get
+through any armour** (flak and up shrug it). **It bends:** a hit on armour, d6 1-2, it bends: **-1 on its attacks**
+until it's straightened (a minute out of a fight). **It dulls:** after **5 hits** (armour or flesh) it only drops a
+step on a **solid hit** until it's sharpened (a whetstone, or a few minutes on a step). A kitchen knife.
+
+**Abilities:** [Heavy Attack](abilities.md#heavy-attack), [Throw](abilities.md#throw) (light blade).
+
+## Pipe pick (scrap war pick)
+
+**Pipe pick** (common, 0.25 TV; black market; player design, Ash on Ostrava day 44; anyone with a
+cutting torch makes one in an hour, no roll). A length of heavy pipe for a haft, with a point of
+sharpened scrap welded or bolted on like a war pick's spike. Poorly made and badly balanced: hive
+gang and cult work. **Who carries them:** cultists and raiders of a Poor or Steady faction.
+- **Two-handed, heavy:** melee chains of up to 2.
+- **The point:** through flak on any hit; **through carapace on a solid hit.**
+- **Poorly made:** **every time it goes through plate (carapace or heavier), roll a d6: on a 1 the
+  point snaps off and stays stuck in the armour.** What's left is a length of pipe: a club, and armour
+  stops it.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash).
+
+## Railroad spike knife
+
+**Railroad spike knife** (common, 0.1 TV; black market; player design, Ash on Ostrava day 44; made in
+an hour with a file, no roll). A long iron rail spike filed down to a point, with rag wound round the
+top for a grip and a guard. Rusted to the core. **Who carries them:** poor cultists, raiders, gang kids
+and prisoners: the thing up the sleeve.
+- **Easy to hide:** **+2 to keep it hidden** (Sleight of Hand, or against a search).
+- **Stab only, no slash:** a light weapon, melee chains of up to 3, but **-1 to block or parry with it**
+  (nothing to catch a blade on). Deadly on flesh; **through flak on a solid hit**; carapace stops it.
+- **Rust:** **every hit forces a CON save against 12.** On a fail the wound **festers: -1 on all rolls**
+  until a medic cleans it (a field dressing does it).
+
+## Syringe spike (scrap injector)
+
+**Syringe spike** (uncommon, 0.75 TV; black market; player design, Ash on Ostrava day 44). A big
+glass-and-brass syringe, its barrel a hand long, clamped and welded onto a knife hilt or a length of
+pipe, with a hollow needle as long as a forearm for a blade and the plunger at the pommel. Cloudy
+liquid sloshes in the barrel as it moves. It looks wrong, and it is meant to (flavour only, no rule). **Mostly carried by
+chem-doctors** (cultists, raiders, pirates).
+- **Stab only, can't block or parry at all.** **Long: +1 to strike first.** Melee chains of up to 2.
+- **The needle:** **through flak on a solid hit; carapace on a raw 19-20** (it finds a gap).
+- **Injection:** any hit that gets through **drives in one dose** of whatever is loaded, and it does
+  what it does: a toxin (CON save or drop a step), a paralytic (CON save or lose the next beat), a combat
+  drug or cult drug forced into an enemy (its effect and its backfire), or a stimm into an ally. **The
+  barrel holds 3 doses**; refilling it takes a beat.
+- **Glass barrel:** on a natural 1 it cracks, and **the wielder gets a dose** of what's in it.
+
+## Chain-flail (scrap)
+
+**Chain-flail** (common, 0.3 TV; black market; player design, Ash on Ostrava day 44). A length of
+heavy chain with a sprocket or a gear welded on the end, taped at the handle. Melee chains of up to 2.
+- **Weight:** through flak on a solid hit; carapace stops it, but a hit still staggers (-1 on their next roll).
+- **Wraps:** if the defender blocks or parries it, the chain wraps round their weapon: **your next swing
+  this beat is +1.**
+- **Wrap and yank:** on a **raw 17+** you can **disarm** instead of hitting; their weapon goes flying
+  (Iron grip holds on).
+- **Natural 1:** it wraps round your own arm; you lose your next swing.
+
+## Rivet knuckles
+
+**Rivet knuckles** (common, 0.2 TV; black market; player design, Ash on Ostrava day 44). Knuckle-dusters
+cut from rail plate, with rivet heads for spikes. A light weapon: melee chains of up to 3.
+- **Through flak on a solid hit.** **Can't be disarmed.** **+2 to keep them hidden.**
+- **Spike attachment** (0.1 TV; screws onto the knuckle bar in a beat): a short spike that **stabs through
+  flak on any hit and carapace on a raw 19-20**. While it's fitted they're only +1 to hide.
+
+## Saw-cleaver
+
+**Saw-cleaver** (common, 0.5 TV; black market; player design, Ash on Ostrava day 44). A crate-cutter's
+circular saw blade bolted to a handle, unpowered and toothed. One hand; melee chains of up to 2.
+- **Nasty on flesh:** a hit on someone in flak or less **drops one extra step**; through flak on a solid hit.
+- **Stuck:** a hit on carapace or heavier doesn't get through, and the teeth bite into the plate: **you lose
+  your next swing** pulling it free (or let it go).
+- **Slow:** defenders get +1 to block or parry it.
+
+## Grox-prod
+
+**Grox-prod** (common on agri worlds, 1 TV elsewhere; Munitorum, black market; player design, Ash on
+Ostrava day 44). A long insulated farm prod with a battery pack and two brass prongs, for driving grox: a
+poor man's shock spear. **Two-handed and long: +1 to strike first;** melee chains of up to 2.
+- **Shock:** the prongs only need to touch (flak doesn't stop it): **a hit forces a CON save against 13, or
+  the target is stunned and loses their next beat.** **No shock through power armour or a sealed
+  void-suit.** Without the shock it hits like a stick.
+- **6 jolts a battery;** recharge at a coupling (about an hour).
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash).
+
+## Scrap axe
+
+**Scrap axe** (common, 0.2 TV; black market; Ash on Ostrava day 45; anyone with a cutting torch makes one in an
+hour). A blade cut from a hull plate and ground to an edge, bolted to a length of pipe or rebar. **Who carries
+them:** poor cultists, raiders and gangs.
+- **One hand;** melee chains of up to **2**.
+- **Through flak on a solid hit;** carapace stops it.
+- **Scrap:** on a **natural 1** the bolts shear and the head comes off; it's a pipe until it's bolted back on.
+
+## Heavy scrap axe
+
+**Heavy scrap axe** (common, 0.4 TV; black market; Ash on Ostrava day 45). A slab of girder or stamped deck plate
+welded to a thick pipe: crude, top-heavy, and frightening. **Who carries them:** cult brutes, raider bosses,
+anyone big and poor.
+- **Two-handed and heavy:** melee chains of up to **2**. **STR 25+**, or -2 on every swing.
+- **Through flak on any hit; through carapace on a raw 18+.**
+- **Top-heavy:** defenders get **+1** to block or parry it.
+- **Scrap:** on a **natural 1** the weld cracks and the head **flies off ~3 m** in the direction of the swing
+  (anyone there makes a dive or drops a step); what's left is a heavy pipe.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash).
+
+## Scrap throwing knives
+
+**Scrap throwing knives** (common, 0.4 TV for 4; player design): cheap, anyone can
+make a set from scrap in an hour, no roll. Thrown ~10 m; deadly on flesh and
+flak, weak against carapace. A knife breaks on a natural 1.
+
+## Plasteel throwing knives, 'Callidus' pattern
+
+**Plasteel throwing knives, 'Callidus' pattern** (rare, 4 TV for 6; player design):
+forged plasteel, wavy blade, thrown ~10 m. Easily through flak; through carapace
+on a solid hit (beats the target's roll by 3+). The wavy wound is hard to close:
+treating it is at -2, and if it is untreated by the end of the fight the target
+drops one health step. A knife is lost (dropped, not broken) only on a natural 1.
+**Forging:** 1 plasteel ingot makes 6 in a day at a forge, with the smith's roll:
+success 6; near miss 4; fail, the ingot is wasted; natural 20, 6 masterwork
+(+1 to throw).
+
+## Seeker shurikens, Mechanicus pattern
+
+**Seeker shurikens, Mechanicus pattern** (player design, Ash on Ostrava day 45; rare, ~8 TV for 4;
+Mechanicus, Free Traders). Throwing stars of **sharpened plasteel** whose blades **fold away** into a flat
+disc for carrying (safe in a pocket, **+1 to keep hidden**). A **sensor** in the hub snaps the blades out in
+flight and knows whether it struck or missed.
+- **Thrown ~15 m;** chains of up to 3 a beat, like throwing knives (a fan throw works too).
+- **Plasteel edges:** easily through flak; **through carapace on a solid hit.**
+- **On a hit it digs in:** it stays lodged, and the target takes **-1 on all rolls** until they spend a move
+  tearing it out.
+- **On a miss it comes back:** the sensor turns it in the air, it folds its blades, and it **drops back into
+  the thrower's hand** at the end of the beat, ready to throw again.
+- **Natural 1:** the sensor glitches; it clatters off somewhere and has to be found after the fight.
+
+## Collapsing spear, 'Ordo Sicarius' pattern
+
+**Collapsing spear, 'Ordo Sicarius' pattern** (player design, Ash on Ostrava day 45; rare, ~12 TV; Free
+Traders, Mechanicus; Ordo issue). Named for the Inquisition's ordo that watches the Officio Assassinorum.
+Carried by **assassins and Inquisition strike teams.** Folded, it's a **plain cylinder about a forearm long**;
+**one press of a stud and it shoots out to a full spear**, locking rings turning into place down the shaft.
+Light plastek inside, a sharpened plasteel skin and head outside.
+- **Folded:** **+2 to keep it hidden.** **Unfolding takes no beat.**
+- **In the hand:** one or two hands; **long: +1 to strike first**; melee chains of up to 2. **Through flak on
+  any hit; through carapace on a solid hit.** The locked shaft takes a block like a staff and doesn't break.
+- **Thrown:** ~20 m, as a throwing weapon: **through flak on any hit, carapace on a solid hit**. A thrown spear
+  stays where it lands until someone picks it up.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash) (when swung two-handed).
+
+## Fan throw (three throwing knives)
+
+**Fan throw** (a throw for any throwing knives, not an item; Ash on Ostrava, day 36, the player's design,
+judged fair). Held as claws between the fingers, thrown flat in one motion: **one roll at -4, all three on one
+target within ~10 m**; a miss and all three miss; a natural 1 scatters them (the knife rule: lost, not broken).
+
+## Force wakizashi, 'Kasr Veil' pattern
+
+**Force wakizashi, 'Kasr Veil' pattern** (rare, 35 TV, Free Traders; player design):
+a short steel blade, modern skeleton grip, no handguard: +1 to strike first in an
+exchange, -1 to parry. In a non-psyker's hand it is only a sharp blade. A psyker
+channels through it: through carapace on a solid hit, and it burns daemons and
+warp-things. **Warp shield:** the psyker intake on the blade's spine raises a
+shield for a beat that blocks the first shot and the first melee hit at the bearer
+(a raw 17+ still gets through). Each beat it is up, Perils trigger 1-3:
+the shield collapses and the psyker rolls the Perils result (Codex, Gear rules). Enemy witches
+may carry one.
+
+## Combat chain-knife, 'Kasr Gnaw' pattern
+
+**Combat chain-knife, 'Kasr Gnaw' pattern** (uncommon, 3 TV; player design): a
+combat knife's shape with the blade replaced by a running chain, a small motor on
+the spine, and the throttle lever on the hilt. Fast: +1 to strike first in an
+exchange. It bites like a chainsword (through flak easily, carapace on a solid
+hit), but its short reach takes -1 to parry longer blades. Loud when running,
+so no quiet kills; switched off it is a poor, dull blade. Can't be thrown.
+
+## Injector stiletto, 'Kasr Sting' pattern
+
+**Injector stiletto, 'Kasr Sting' pattern** (uncommon, 2 TV; player design): a
+slim, dead-straight stiletto with an injection channel running inside the blade
+from the base to the point, fed by a screw-in vial in the pommel (1 dose). The
+hilt is a skeleton throwing-knife frame wrapped in olive-green cord, so it is
+easily made. The thin blade finds gaps: through flak easily, through carapace on a
+solid hit. **Injection:** any hit that wounds delivers the vial, and the liquid
+does what it does: a toxin (CON save or drop a health step), a paralytic (CON
+save or can't move or act next beat), or a stimm or antitoxin into an ally. Swapping
+the vial takes a beat. Throwable, about 8 m; it still injects on a hit, but a
+natural 1 on the throw cracks the vial. Vials: toxin 1 TV, paralytic 1.5 TV
+(uncommon, black market and Free Traders).
+
+## Mono-knife
+
+**Mono-knife** (uncommon, 3 TV; Munitorum, black market, Free Traders; Ash on Ostrava, day 34, DM default; the
+player may change it). A **light** blade (chains 3) with a monomolecular edge: **through flak and mesh on any
+hit, through carapace on a solid hit, heavy carapace on a raw 19-20** (a
+monomolecular edge beats the injector stiletto's thin blade; re-tuned with the player, day 47).
+
+## Toxin needle-blade
+
+**Toxin needle-blade** (rare, 8 TV; black market; Ash on Ostrava, day 34, DM default; the player may change it).
+A **light** blade (chains 3). A hit that gets through armour also forces a **CON save against 15, or the toxin
+drops them one more step**. A medic can refill it with something else (a sedative: fail and they go Down,
+asleep, alive). Nessa's (campaign sheet).
+
+## Combat axe
+
+**Combat axe** (common, 1 TV): fast and light. When your swing is blocked, the
+next swing in the exchange is at +1. Weak against carapace.
+
+## Great chain axe, 'Butcher' pattern
+
+**Great chain axe, 'Butcher' pattern** (player design, Ash on Ostrava day 45; rare, ~18 TV; black market,
+Free Traders; cult forges make cruder ones). A two-handed eviscerator-sized axe: a long haft, a broad
+chain-toothed head as wide as a man's chest, and a roaring motor in the cheek. Named for the Butcher's Nails
+of Khorne's Berzerkers, who love them; Imperial forges make them too.
+- **Two-handed and heavy:** melee chains of up to **2**. **STR 30+,** or -2 on every swing.
+- **Teeth:** **through heavy carapace on any hit; ceramite on a solid hit; power armour on a raw 18+** (it
+  chews through).
+- **Gore:** a hit on someone in flak or less **drops one extra step.**
+- **Heavy:** defenders get **+1** to block or parry it. **Loud:** everyone nearby hears it running.
+- **Natural 1:** the chain throws a tooth and stalls; **a beat to rev it back up.**
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash).
+
+## Tactical breaching axe, 'Kasr Sapper' pattern
+
+**Tactical breaching axe, 'Kasr Sapper' pattern** (player design, Ash on Ostrava day 45; uncommon, ~4 TV;
+Munitorum, Free Traders). A better firefighter's axe: **solid plasteel, full tang**, a broad axe head on one
+side and a **prying spike and claw** on the other, a long enough haft for big swings and a choke grip for
+close work.
+- **One or two hands;** melee chains of up to **2**; **+1 to hit two-handed** (the big swing).
+- **Plasteel head:** through flak on any hit; **through carapace on a solid hit.**
+- **Breaching:** **+2 on STR rolls to force doors, hatches, lockers, crates and shutters**; a light door or
+  hatch goes in a beat. The claw hooks a shield rim: **-1 to the target's next block** after a hooking swing.
+- **Can't break:** full-tang plasteel; prying, levering and hammering never snap it.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash) (when swung two-handed).
+
+## Tactical hand axe, 'Fenris' pattern
+
+**Tactical hand axe, 'Fenris' pattern** (player design, Ash on Ostrava day 45; uncommon, ~2 TV; Munitorum,
+Free Traders). Named for the Space Wolves' ice world, whose axes it copies. A small one-handed axe: a
+**straight, light cylinder haft** and a **curved, bearded plasteel head** in the old Fenrisian style. Built to
+be fast: a flurry of cuts, not one big blow.
+- **Light and fast:** melee chains of up to **4** (one more than other light weapons), no hit bonuses in the
+  chain (misses still -1). Good in pairs (codex, Dual-wielding).
+- **Plasteel edge:** through flak on any hit; **through carapace on a raw 18+.**
+- **Bearded hook:** on a **raw 18+** you can hook instead of cutting: **disarm** them, or **pull them off
+  balance (-2 on their next defence).**
+- **Throwable:** ~10 m, like a throwing knife.
+
+## Heavy war axe, 'Kasr Gate' pattern
+
+**Heavy war axe, 'Kasr Gate' pattern** (player design, Ash on Ostrava day 45; uncommon, ~8 TV; Munitorum,
+Free Traders). Named for the Cadian Gate. A two-handed war axe of **solid plasteel**: a **double-sided head**,
+a blade each way, and a **spear point** on the butt of the haft.
+- **Two-handed and heavy:** melee chains of up to **2**. **STR 30+**, or -2 on every swing.
+- **Plasteel heads:** through flak on any hit; **through carapace on a solid hit; heavy carapace on a raw 18+.**
+- **Double head:** if a swing misses or is blocked, **the return cut comes off the other blade at +1.**
+- **Spear butt:** lead with the point for a thrust: **+1 to strike first**, and it reaches someone behind you
+  or at your flank with no penalty.
+- **Heavy:** defenders get **+1** to block or parry it. **Can't break:** full plasteel.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash).
+
+## Hydraulic push axe, 'Kasr Ram' pattern
+
+**Hydraulic push axe, 'Kasr Ram' pattern** (player design, Ash on Ostrava day 45; rare, ~12 TV; Mechanicus,
+Munitorum engineer issue). A heavy two-handed axe whose head rides on a **hydraulic ram**: hit, then thumb the
+stud on the haft, and the blade **punches forward** into whatever it's already in.
+- **Two-handed and heavy:** melee chains of up to **2**. **STR 30+**, or -2 on every swing.
+- **Head:** through flak on any hit; through carapace on a solid hit.
+- **Punch** (after a hit, **once a beat**: the ram re-pressurises): the hit **gets through one armour tier more**
+  (carapace on any hit, heavy carapace on a solid hit) **and drops one extra step.** **6 punches a pressure
+  canister** (~0.5 TV; swapping one takes a beat).
+- **Breaching:** a punched blow wrecks locks and hinges: **+2 on STR rolls to force doors and hatches.**
+- **Natural 1 on a punched swing:** the ram jams; no punch until it's cleared (a beat).
+- **Heavy:** defenders get **+1** to block or parry it. **Loud:** the ram goes off like a pneumatic hammer.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash).
+
+## Thunder hammer, intact
+
+**Thunder hammer, intact** (rare, 50 TV): two-handed, devastating. Every hit
+goes through power armour and staggers. **Thunderclap (session 9): every hit
+discharges the field: the target drops two health steps and is knocked flat, with
+anyone right next to them.** Slow: defenders get +2 to block or parry it.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash).
+
+## Thunder hammer, one-handed officer's pattern
+
+**Thunder hammer, one-handed officer's pattern** (player design, Ash on Ostrava
+session 9; rare, 45 TV; Munitorum (Commissariat issue), Mechanicus, Ecclesiarchy).
+Made for commissars, Interrogators, Inquisitors and their like; pairs with a pistol
+or a storm shield. **Every hit goes through power armour, drops the target one step
+and staggers them (-2 on their next roll).** **Thunderclap, once a fight:** the
+wielder releases the full field on a hit: **two steps, and knocked flat.** Lighter
+than the two-handed hammer: defenders get only **+1** to block or parry. Carrying one
+marks the bearer as someone important.
+
+## Power falchion
+
+**Power falchion** (rare, 28 TV): a broad duelling blade, **medium, chains of 2** (audit C8, day 47). +2 in the
+exchange when fighting a single opponent.
+
+## Omnissian power sword
+
+**Omnissian power sword** (rare, 32 TV): Mechanicus-made, **medium, chains of 2** (audit C8, day 47); its field never
+flickers, and it cuts machines and servitors at +2.
+
+## Relic blade, 'Thorian' pattern
+
+**Relic blade, 'Thorian' pattern** (player design, Ash on Ostrava day 44; rare, ~40 TV; Mechanicus,
+Ecclesiarchy, Free Traders). Named for Sebastian Thor, the saint who remade the Ecclesiarchy. A
+two-handed greatblade with a **forged ceramite blade** and a **power field that is charged up**, not
+left running. **Mostly carried by prestigious zealot champions of the Ministorum and by the Adepta
+Sororitas**; anyone else holding one will be asked how they came by it.
+- **Two-handed and heavy:** melee chains of up to **2 swings** (+1 with Extra Attack). No pistol in
+  the off hand, no shield. **STR 30+**, or -2 on every swing.
+- **Uncharged:** a heavy edge: **through flak on any hit, through carapace on a solid hit.**
+- **Ceramite blade:** never breaks; can block a chainsword or a power weapon without being cut.
+- **Charge:** spend a beat charging the field (you can still defend that beat, but not strike).
+  **For the next 3 swings it hits as a power weapon** (through power armour) **and a hit drops one
+  extra step.** Then the field vents, and it needs another beat to charge again. Charged swings come off its cell
+  (**30 a cell**, codex, Power cells).
+- **Heavy:** defenders get **+1** to block or parry it.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash).
+
+## Power odachi, 'Eversor' pattern
+
+**Power odachi, 'Eversor' pattern** (player design, Ash on Ostrava day 44; rare, ~50 TV; Free Traders,
+Mechanicus). Named for the Eversor Temple of the Officio Assassinorum. A long, thin, curved blade of
+**forged ceramite** with **shredding teeth forged in and laid flat along the edge**, so it cuts and then
+tears. A small guard that juts forward toward the blade, a **full-tang plasteel grip**, and **a stud on the
+grip that wakes the power field.** Carried by **high authority** (Inquisitors, lords, Rogue Traders) and by
+**assassins**; anyone else with one will be asked where they got it.
+- **Very light:** **one hand or two**; **+1 to hit two-handed.** Melee chains of up to 3. **+1 to strike first.**
+- **Unpowered:** a superb edge: through flak on any hit, **through carapace on a solid hit.**
+- **Field on (the stud, no beat to wake it):** it hits as a **power weapon** (through power armour). **30
+  swings in power mode per cell** (codex, Power cells); recharge at a coupling.
+- **Shred:** a hit that gets through armour forces a **CON save against 13, or the target drops one more
+  step** as the teeth tear.
+- **Ceramite blade:** never breaks; can block a chainsword or a power weapon without being cut.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash) (when swung two-handed).
+
+## Omnissian axe
+
+**Omnissian axe** (rare, ~38 TV; **Mechanicus only**, and seldom sold to outsiders; Ash on Ostrava day 45). The
+tech-priest's badge of office and weapon: a long haft and a **power axe head shaped like half a cog**, the
+skull-in-cog of the Machine God at its heart. It is a key and a tool as much as a weapon.
+- **Two hands** (a tech-priest with a servo-arm can hold it in one); melee chains of up to **2**.
+- **Power field:** with the field on, it **hits as a power weapon** (through power armour). Power cells as usual
+  (**30 power-mode swings a cell**; codex, Power cells).
+- **Machine-breaker:** a hit on a **servitor, machine or vehicle drops one extra step.**
+- **Key and tool:** the haft carries a data-spike and interface ports. **In a tech-priest's hands, +2 on rolls to
+  repair, override, open or command machines** (doors, cogitators, servitors) it can touch.
+- Carrying one without the Mechanicus's blessing is theft from the Machine God; tech-priests take it personally.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash).
+
+## Paired transonic blades
+
+**Paired transonic blades** (rare, 30 TV): two weapons (dual-wielding: +1 swing and +1 on attacks; codex house rule 5).
+Resonance: after the first hit on a target, its armour counts one step lighter
+against them.
+
+## Blaze force sword / greatsword
+
+**Blaze force sword / greatsword** (rare, 45 / 60 TV): psyker weapons. The sword is **medium**, the greatsword
+**two-handed and heavy**; both **chains of 2**. In a sanctioned psyker's hands they burn with warp-fire (audit C8,
+day 47): they **hit as a power weapon**, **a hit on a raw 17+ sets the target alight**, and **against daemons every
+hit counts** (daemon flesh normally only loses a stage to solid hits, crits, fire and blasts: bestiary bosses.md).
+Anyone else wields a plain sword.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash).
+
+
+## Librarius aide's stave
+
+**Librarius aide's stave** (player design, Ash on Ostrava day 45; legendary, ~150 TV; **never sold**: a gift).
+A force stave forged in an Adeptus Astartes Librarius, sized for a human: given by a Space Marine Librarian
+to the one mortal psyker he trusts as his right hand. Psychic hood-work runs up the shaft into a crown of
+crystal and bound scripture. **The crown bears the giving Chapter's symbol, large and bright enough to be
+seen from far away:** anyone who knows the Chapters knows whose it is at a glance. **Only a truly strong human psyker can wield it (WIS 50+);** in anyone weaker's
+hands it's a dead staff that refuses them.
+- **No charge:** every power fires the beat it's called.
+- **No Perils:** the wielder **never rolls the Perils trigger** while holding it.
+- **A psyker melee weapon** (Warp Slash); **hits as a power weapon** in a psyker's hands.
+- **A gift, not loot:** the Chapter knows every stave it has given. Carried by the one it was given to, it
+  opens Astartes doors; taken from a corpse, the Chapter hunts whoever holds it.
+
+## Witch-knife (scrap)
+
+**Witch-knife** (common, ~5 TV; black market; Ash on Ostrava day 45). A hive or cult knife with a cheap,
+cloudy psychic crystal wired into the hilt. **In anyone's hands it's a plain knife.** In a psyker's, it's a
+focus: **it counts as a psyker melee weapon** (Warp Slash). **Unstable crystal: +1 to the Perils trigger
+range** whenever the psyker uses a charged power while holding it (1-3 becomes 1-4). **Natural 1:** the crystal
+cracks, and it's only a knife until a new one is wired in. Poor cult and raider witches carry these.
+
+## Scrap force sword
+
+**Scrap force sword** (uncommon, ~8 TV; black market; player design, Ash on Ostrava day 45). A heavy short
+sword hammered out of scrap, Catachan-style (it **hits like a short sword**, through flak on any hit and
+carapace on a solid hit, but **draws and works like a knife**), with a psychic crystal set into the guard. In a
+psyker's hands it's a focus: **it counts as a psyker melee weapon** (Warp Slash) and it **burns warp-things**
+(a hit on a daemon drops one extra step). **Unstable crystal: +1 to the Perils trigger range** on charged
+powers. **Natural 1:** the crystal cracks; it's just a short sword until it's re-set.
+
+## Psykana force stave (issue)
+
+**Psykana force stave** (uncommon, ~20 TV; Munitorum; Ash on Ostrava day 45). The plain staff the Scholastica
+Psykana issues its sanctioned psykers: dark wood shod in iron, the Psykana eye on the crown. In anyone else's
+hands it's a quarterstaff. In a psyker's: **a psyker melee weapon** (Warp Slash), it **hits through carapace on
+a solid hit**, and it steadies the mind: **-1 to the Perils trigger range** (a 1-3 becomes 1-2; it can't go below a
+natural 1; audit C5, day 47: the example now starts from the codex's usual 1-3).
+
+## Captain's force stave
+
+**Captain's force stave** (rare, ~40 TV; Munitorum officer issue, Free Traders; player design, Ash on Ostrava
+day 45). A senior psyker's stave (a Primaris psyker or a Psykana officer): the issue stave remade in black iron,
+**chased in gold**, with a gilded crown and honour-chains, made to be seen. In a psyker's hands: **a psyker melee
+weapon** (Warp Slash), it **hits through carapace on any hit**, **+1 on power rolls**, and **-1 to the Perils
+trigger range** (it can't go below a natural 1). **Stands out:** it marks the bearer as an officer, and enemies
+who see it pick them out first.
+
+## Power fist, Guard pattern
+
+(rare, 35 TV; Munitorum, Mechanicus, Free Traders.) The human-sized power fist
+carried by Guard sergeants, officers and commissars: an armoured gauntlet over the
+hand and forearm, a power field around the fingers, cabled to a belt or back power
+cell. Every hit goes **through power armour** and crushes carapace; it can tear
+open a door or a light vehicle's plating. **Slow and heavy:** defenders get +2 to
+block or parry it. The hand is the weapon, so nothing else is held in it (a pistol
+goes in the other hand).
+
+## Astartes power fist
+
+(epic: an exotic find, natural 20 only; 70 TV; black market, Free Traders.) A
+Space Marine's fist, sized for a hand twice a human's. **A human can't wear or use
+it.** Trade value or a trophy, and the Astartes want it back.
+
+## Neo Scar scimitar
+
+(player design, epic: an exotic find, natural 20 only; 45 TV; black market, Free
+Traders.) Forged in the mountains of Chogoris to train the White Scars' neophytes
+in their high-speed blade style. A scimitar with a slightly thicker blade than
+usual, a **super-sharp ceramite edge**, a plasteel skeleton ergo grip and **no
+hilt**. A **one-handed** blade, sized for a neophyte Scout rather than a full
+Marine, so a human can use it.
+- **Edge:** through flak and mesh on any hit; **through carapace on a raw 17+**.
+- **Speed style:** **+1 to strike first.**
+- **No hilt:** **-1 to parry** (nothing stops a blade sliding to the hand).
+- **Thick ceramite blade:** never breaks, and can block a chainsword or a power
+  weapon without being cut.
+- The White Scars may want it back, and anyone who knows what it is will ask how
+  you got it.
+
+## Fenrisian gift-blade
+
+(player design, epic: an exotic find, natural 20 only; 55 TV; black market, Free
+Traders.) A ceremonial longsword forged in the ice-cold forges of Fenris, made as
+a traditional gift: the Space Wolves give such blades to mortals who earned their
+respect. **Plasteel blade**; **gold and ceramite hilt with a space wolf engraved in
+the middle**; the handle is **wrapped wolf pelt with netting running through it**;
+the **pommel is a jagged mountain peak, gold-plated.** Human-sized.
+- **Longsword:** one hand or two; **+1 to hit two-handed.**
+- **Plasteel blade:** through flak on a solid hit; tough, hard to notch or break.
+- **Pelt and netting grip:** never slips, wet, frozen or bloody: **can't be
+  disarmed.**
+- **Mountain pommel:** a pommel strike at close quarters, **+1 to shove or stun.**
+- **A gift, not loot:** anyone from Fenris, and any Space Wolf, knows what it means.
+  Carried by its rightful owner, it opens doors; taken from a corpse, the Wolves
+  will hunt whoever holds it.
+
+**Abilities:** [Wide Slash](abilities.md#wide-slash) (when swung two-handed).
+
+## The 2nd Fist
+
+(player design, epic: an exotic find, natural 20 only; 30 TV; black market, Free
+Traders.) An Imperial Fists huntsman knife, human-sized: the kind their Scouts
+and trusted serfs carry. **Plasteel blade, thicker than a normal knife, engraved
+with a fist**; a **ribbed (saw) back**; a **U-shaped gap (choil) near the guard**;
+a **gold-plated steel guard that comes out in front of the U**; a **plastek handle
+painted yellow, with a fist at the bottom of the grip.**
+- **Plasteel blade:** through flak on a solid hit.
+- **Saw back:** cuts rope, webbing, cables and straps in a beat; saws through a
+  thin hatch or a vent grille given time.
+- **Choil and forward guard:** the fingers can choke up into the U for fine work,
+  and the guard covers them: **+1 to parry with the knife.**
+- **Thick blade:** won't snap; works as a pry bar on doors and crates.
+- Yellow and the fist mark it as Imperial Fists gear to anyone who knows.
+
+## Blood Blade of Baal
+
+(player design, epic: an exotic find, natural 20 only; 45 TV; black market, Free
+Traders.) A Blood Angels short sword made on Baal and used in the chapter's
+trials, for duelling and close-quarters fighting. Aspirants are still human when
+they fight, so it is **human-sized and one-handed**. **Ceramite blade**; a
+**golden wing-shaped hilt with the ruby blood-drop symbol in the middle**; a
+**leather-wrapped grip over a plasteel core**; the **blade runs all the way down
+through the grip** (full tang) for strength and control; a **plain flat golden
+pommel**.
+- **Ceramite edge:** through flak and mesh on any hit; **through carapace on a raw
+  17+**.
+- **Full tang:** never breaks, and the blade answers the hand: **+1 to parry.**
+- **Trial blade:** short and quick: **+1 in close quarters** (corridors,
+  doorways, grappling range).
+- **An heirloom, not loot:** once an aspirant has fought with it, it goes to their
+  family and is passed down the generations: the chapter's way of saying it still
+  remembers them, since a Space Marine keeps no ties to his family. Anyone from
+  Baal knows what it means; carried away from that family, the Blood Angels will
+  want to know why.
+
+## Las-fist, 'Kasr Knuckle' pattern
+
+(player design, rare, 40 TV; Mechanicus, Free Traders.) A Guard-pattern power fist
+with a lasgun barrel and focusing crystal built into the back of the gauntlet, a
+las pack seated in the forearm, and only what it needs to fire. **The trigger is
+inside the fist.** Melee: as a power fist (through power armour, defenders +2 to
+block or parry). Shooting: lasgun punch, but there's no way to aim along it, so
+**-3 to shoot**; **point-blank** (the target is in melee with the bearer) the -3
+doesn't apply. One shot a beat; it can punch and fire in the same exchange, but
+the shot then takes -3 even point-blank.
+
+## Power claw, 'Kasr Talon' pattern
+
+(player design, **epic**: an exotic find, natural 20 only; 60 TV; black market,
+Free Traders.) A power gauntlet with **four long curved blades** set over the
+knuckles like claws, each sheathed in a power field. Fast for a power weapon: no
++2 for defenders, and the claws go **through power armour on a solid hit**,
+carapace on any hit. **Charge and expel:** the bearer can spend a beat charging
+the claws (they hum and glow); the next stab that lands **expels the stored
+power into the target**, who drops **one extra health step**. One charge held at
+a time; it fades at the end of the fight. Charging in the open is a beat not spent
+fighting, and the glow gives the bearer away in the dark.
+
+## Shock maul
+
+**Shock maul** (uncommon, 7 TV; Munitorum, black market, Free Traders; Arbites and Guard provost issue). A
+heavy club with a shock field in the head. Melee uses **STR** (house rule 5). **A hit that lands also stuns
+for 1 beat** (no block, parry or shot), **even if armour stops the blow**; a hit that gets through armour
+drops a step as usual. **Machines** (Skitarii, servitors) take it **one step harder** (bestiary, Skitarius).
+
+## Shock baton (Arbites)
+
+**Shock baton (Arbites)** (uncommon, 4 TV; Munitorum, black market, Free Traders; Ash on Ostrava, day 34, DM
+default; the player may change it). A **medium** weapon (chains 2). A hit that lands **stuns the target for a
+beat** (they lose their next main thing); against carapace or heavier, only a solid hit (or a raw 17+) stuns.
+Sorel's (campaign sheet).

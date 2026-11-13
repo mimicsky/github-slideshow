@@ -1,0 +1,719 @@
+# Kit, armour, sights and mods
+
+Item rules for this category. General rules (heat, hot-shot, drop-prone, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
+
+## Armour
+
+(Written with the player, Ash on Ostrava day 47, audit C14.) **What each tier stops is in the codex** (Part 8, Armour:
+the tiers table, crits, wear-down, Too weak to matter, Shooting for the gaps). This is what's sold.
+- **Pieces:** a **chest piece** (vest or plate) covers only the torso; a **set** covers chest, back, arms and legs. A
+  piece counts only where it covers: **a shot for the gaps** (legs, arms) hits whatever's underneath.
+- **Helmets:** an **open helmet** gives the head its tier, but **the face stays open:** a crit headshot hits bare skin
+  (two steps, as any crit). A **full helmet** covers the face too: a crit headshot meets the armour, so where that tier
+  would have shrugged the round, **the crit drops just one step**; too-weak rounds can't touch ceramite-forged at all.
+  **A full helmet: -1 on Perception** (the visor narrows sight and sound) unless it has a pict lens or an auspex built
+  in (the [Tempestus Scion helmet](#tempestus-scion-helmet) is a full carapace helmet with both).
+
+| Tier | Helmet | Full helmet | Chest piece | Set |
+| --- | --- | --- | --- | --- |
+| **Flak** | 0.25 TV (C) | none | vest 0.5 (C) | 1 (C) |
+| **Reinforced flak** | 0.75 (U) | none | vest 2 (U) | 3 (U) |
+| **Carapace** | 1.5 (U) | 3 (U) | plate 4 (U) | 8 (U) |
+| **Heavy carapace** | 3 (R) | 5 (R) | plate 8 (R) | 14 (R) |
+| **Ceramite-forged** | 5 (R) | 8 (R) | plate 12 (R) | 22 (R) |
+
+No tier costs dodges or stealth (the player kept it that way).
+
+## Rebreather and gas mask
+
+(Split into two with the player, Ash on Ostrava day 47, audit C14; the shops sold them as one.)
+- **Rebreather** (common, 0.5 TV): mouth and nose. **Immune to choke gas** and other breathed gas (spores, smoke-lung).
+  **The eyes stay open:** eye-stinging gas still gives -1. No other penalty.
+- **Gas mask** (common, 0.25 TV): the whole face. **Immune to breathed gas, and the eyes are covered.** **-1 on
+  Perception** (as a full helmet).
+- **Filters:** about an hour of heavy gas each, then a fresh one (0.1 TV a filter).
+
+## Void-suit, Navy
+
+**Void-suit, Navy** (uncommon, 4 TV; Munitorum, Navy chandlers, Free Traders; rules written with the player, Ash on
+Ostrava day 47, audit C14). A close-fitting sealed suit, like a second skin: **no bulk, no penalty to dodges or
+stealth** (the player).
+- **Sealed:** vacuum, gas, smoke and cold don't touch him. **~2 hours of air** in its bottle (a spare bottle 0.5 TV).
+- **Mag-boots:** he walks on a hull or in zero-g.
+- **Armour: counts as flak.**
+- **A hit that gets through tears it:** in vacuum he has a few minutes of air. **Patching it is the beat's move** with
+  a patch kit (common, 0.25 TV for 5).
+- **The sealed helmet: -1 on Perception** (as a full helmet).
+
+## Refractor field
+
+**Refractor field** (rare, 25 TV; Munitorum officers' issue, Mechanicus, Free Traders; entry written day 47, audit
+C14). A worn field generator. **Light hits** (anything carapace would shrug) are **stopped automatically**, at most
+**3 a beat** (a 4th gets through and the field is down a beat); **heavy hits: a d6 5-6 and the field takes it.** Full
+rule: codex Part 8, Gear rules, Refractor field.
+
+## Conversion field
+
+**Conversion field** (rare; **intact 60 TV**, **damaged 35 TV**; Mechanicus, Free Traders; entry written day 47, audit
+C14). A stronger field that turns a hit into light. **When a hit lands, a d6: 4-6 the field takes it with a blinding
+flash** (an attacker within ~5 m: -2 on their next shot); **1-3 it goes through and the field burns out** until a
+tech-adept repairs it (about an hour). **A damaged field blocks only on 5-6.** Full rule: codex Part 8, Gear rules,
+Conversion field.
+
+## Med-kit
+
+**Med-kit** (uncommon, 3 TV; Munitorum, medicae stalls, Free Traders; entry written with the player, Ash on Ostrava
+day 47, audit C14). Dressings, sutures, splints, antiseptic. **10 uses** (restocking: 0.25 TV a use).
+- **In a fight:** a patch is the beat's main thing and uses one. **A medic's Down → Hurt patch also costs a stimm**
+  (codex Part 8, Going Down; bestiary roles, Medic).
+- **Outside a fight:** one use brings a **Hurt** ally back to **Fine**.
+- **Infection:** a wound treated with it gives **+2 on plague, rot or fester saves.**
+- **Without a med-kit,** patching with only a field dressing is at **-2**.
+
+## Vox-caster
+
+**Vox-caster** (manpack; uncommon, 5 TV; Munitorum, Free Traders; entry written with the player, Ash on Ostrava day
+47, audit C14).
+- **Range ~50 km** on the ground, and **orbit with a clear sky** (calling a ship down). Vox-beads reach ~1 km; the
+  caster **relays them** over any range it reaches.
+- **Keyed channels:** set to an encrypted channel (the Light's: THE LIGHT). A captured caster listens in until the
+  channel is re-keyed.
+- **A long message or a relay takes the beat's main thing;** short calls on a bead are free.
+- **A vox-jammer** (grenade or rig: explosives.md) kills it inside its radius.
+- **Worn on the back: a solid hit from behind can smash it** (d6 1-2).
+- **Enemies call for help with it:** an enemy vox man, or
+anyone with a vox-caster, **spends his beat calling** as soon as the fight turns against them (on beat 1 if they
+weren't surprised). **Kill him, put him Down or jam the vox before his beat comes round and no call goes out.** Once
+it's out, **at the start of every beat a d6 5-6 brings reinforcements: a quarter of the starting force** (rounded up),
+from wherever makes sense (the road, the next building, a lander). Killing him after the call doesn't cancel it.
+Surprise (the Light's first beat) means nobody's called yet.
+
+## Magnoculars
+
+**Magnoculars** (uncommon, 1.5 TV; Munitorum, Free Traders; entry written with the player, Ash on Ostrava day 47, audit
+C14).
+- **Long sight:** faces, badges and weapons out to **~1 km**; **+4 on Perception to spot things past ~50 m** (the
+  player's number).
+- **Using them is the beat's main thing** (looking, not shooting).
+- **Glint:** in daylight a sharp-eyed enemy may catch the flash (DM's call, as with a scope).
+- **Range-finder magnoculars** (uncommon, 3 TV; spotters carry them): they also give the range. **A shooter the spotter
+  calls it to gets +1 on his next shot past ~30 m**, as long as they can hear each other (bead or voice).
+
+## Chameleoline cloak
+
+**Chameleoline cloak** (rare, 12 TV; black market, Free Traders, Ordo and assassins' suppliers; entry written with the
+player, Ash on Ostrava day 47, audit C14). **A mesh cloak covered in small panels** (the player's picture): when the
+wearer goes still and it draws in, **the panels lock edge to edge** into one smooth skin that bends the light around him.
+- **In shadow or the dark: +5 to hide while still, +2 while moving;** shots at him are **+2 to the hidden number** (a
+  smear in the dark).
+- **In bright light** (daylight, floodlights, a lumen on him): **it reflects: no bonus, and -1 to hide** (the shimmer
+  catches the eye).
+- **Worn over clothes or flak** (soft and padded: the mesh settles and the panels lock). **Over carapace or anything
+  heavier it gives nothing:** the ridges, collars and plate edges push the panels apart, gaps open, and every gap
+  catches the light.
+- **Fitted chameleoline** (rare, 25 TV): **cut and sewn around one specific set of armour** (its ridges and plate
+  edges), so the panels lock over it: the full bonus over that armour, and only that armour. A smith or tailor fits it
+  in a day with the armour on the bench.
+- No armour of its own; flames ruin it.
+
+## Grapnel, grapnel launcher and rappel harness
+
+(Entries written with the player, Ash on Ostrava day 47, audit C14.)
+- **Climbing rig and grapnel** (uncommon, 1.5 TV): a hand-thrown grapnel and **20 m of rope**. **Throwing it: a DEX
+  roll against the spot**, up to ~10 m high. **Climbing: ~5 m a beat;** on the rope he's **in the open** and **-2 on
+  his shots.**
+- **Grapnel launcher** (uncommon, 4 TV, DM's price): fires a hook up to **~30 m**; **a motor winch hauls him ~10 m a
+  beat**, his hands free for a pistol (the -2 on the rope still applies).
+- **Rappel harness** (uncommon, 1 TV, DM's price; the player's design): **fits over any armour.** **Fast rappelling:
+  down ~10 m a beat, with no penalty on his shots** (going down a rope, not climbing it).
+- **A cut rope drops him; a fall of more than ~5 m costs a step.**
+
+## Boarding shield
+
+**Boarding shield** (uncommon, 4 TV): a plain slab of plasteel with a grip.
+**+1 on the defender's roll (block or parry), half cover from the front.** Shared shield rules: Codex, Gear rules.
+
+**Abilities:** [Plant](abilities.md#plant).
+
+## Arbitrator shield
+
+**Arbitrator shield** (rare, 10 TV): the Adeptus Arbites riot shield. **+2 on the defender's roll (block or parry),
+three-quarters cover from the front** (audit C10, day 47: worded as every other shield), and a **pistol notch**: fire a
+pistol through it without giving up the cover.
+
+**Abilities:** [Plant](abilities.md#plant) (the pistol notch counts as a viewing slot).
+
+## Storm shield
+
+**Storm shield** (rare, 30 TV): a shield with a power field generator.
+**+3 on the defender's roll (block or parry), three-quarters cover from the front.**
+
+**Abilities:** [Plant](abilities.md#plant).
+
+## Compact power shield, 'Praesidium' pattern
+
+**Compact power shield, 'Praesidium' pattern** (player design, Ash on Ostrava day 44; rare, ~35 TV;
+Mechanicus, Free Traders). Named for the Custodes' shields. Folded, it's **four small flat plasteel plates
+held together round a circular emitter**, worn on the forearm. Press the emitter and it **expands into a
+see-through power field the size of a riot shield.** Very light: no penalty to carry or move.
+- **Off: a buckler.** +1 to parry; no cover.
+- **On (no beat to wake it):** **+2 to block or parry, three-quarters cover from the front**, and **it works
+  as a refractor field against hits from the front**: light hits stopped automatically, heavy hits stopped
+  on a d6 of 5-6 (codex, Refractor field). You can see through it.
+- **Power:** it runs on **power cells, with two cell slots: 60 charge in all.** **Each beat it's on costs 1;
+  each hit it stops costs 1.** At 0 it folds back to a buckler until a cell is swapped (a beat) or recharged
+  at a coupling.
+
+**Abilities:** [Plant](abilities.md#plant) (only when on; see-through: counts as a viewing slot).
+
+## Slab shield (Ogryn)
+
+**Slab shield** (enemy only): Ogryn-sized; no human can carry it in a fight.
+**+3 on the defender's roll (block or parry), three-quarters cover from the front** for the Ogryn and one
+person standing behind them.
+
+**Abilities:** [Plant](abilities.md#plant).
+
+## Makeshift shield
+
+**Makeshift shield** (common, 1 TV; player design): wood and scrap metal nailed
+together. **+1 on the defender's roll (block or parry), one-third cover from the front (+1 to the shooter's
+difficulty). Breaks after 2-3 heavy hits:** roll it when the shield is made or
+repaired (d6: 1-3 it takes two, 4-6 three).
+
+**Abilities:** [Plant](abilities.md#plant).
+
+## Cogitator shield (scrap)
+
+**Cogitator shield** (common, 1.5 TV; black market; player design, Ash on Ostrava day 44): a gutted
+cogitator casing with handles riveted inside, its old power cell still wired in. Heavier and better than a
+makeshift shield, and nastier.
+- **+2 on the defender's roll (block or parry), half cover from the front.**
+- **Sparks:** every melee hit it takes spits sparks into the attacker's face: **-1 on their next roll.**
+- **Old cell, once a fight:** a shield bash discharges it: **CON save against 12 or stunned** (lose the next
+  beat). Then it's dead until recharged at a coupling.
+- **Heavy and clumsy:** -1 on the bearer's DEX rolls (dodges, quick-draws) while it's carried.
+- **Breaks after 4-5 heavy hits** (roll when made or repaired: d6 1-3 four, 4-6 five).
+
+**Abilities:** [Plant](abilities.md#plant).
+
+## Forged shield
+
+**Forged shield** (uncommon, 6 TV; player design): smith-made to take blows.
+**+2 on the defender's roll (block or parry), half cover from the front.** What the 6 TV buys over a
+scrap shield (re-tuned with the player, day 47): **balanced, so no penalty to DEX rolls**, and **it doesn't
+break from heavy hits** (only a power weapon's Field Burst or a melta can ruin it).
+
+**Abilities:** [Plant](abilities.md#plant).
+
+## Shield viewing slot (mod)
+
+**Viewing slot** (uncommon, 1.5 TV; player design): a slot cut and framed in any
+shield. **The bearer can see and shoot a pistol through it without giving up the
+shield's cover.** (The Arbitrator shield's pistol notch already does this.)
+
+**Abilities:** gives a planted shield slot fire, -2 ([Plant](abilities.md#plant)).
+
+## Spiked shield (mod)
+
+**Spikes** (uncommon, 2 TV; player design): spikes fixed to the shield's face,
+crude on a makeshift shield, smith-made on a forged one. **The bearer can charge
+into someone shield-first: +3 on the charge, then +1 in melee when attacking
+with the shield after that.**
+
+**Abilities:** none of its own; the shield keeps [Plant](abilities.md#plant).
+
+## Improvised shield (a door)
+
+**A door or hatch** (enemy brutes, or anyone strong enough): **+1 on the defender's roll (block or parry), half
+cover from the front.** Breaks after 3 heavy hits.
+
+**Abilities:** [Plant](abilities.md#plant).
+
+## Mesh armour
+
+**Mesh armour** (uncommon, 5 TV; Munitorum, black market, Free Traders; Ash on Ostrava, day 34, DM default;
+the player may change it). **Reinforced flak** tier, light and quiet: no noise, fits under clothes; under a
+chest-only plate it covers everything the plate doesn't.
+
+## Tempestus Scion helmet
+
+**Tempestus Scion helmet** (rare, 25 TV): built-in rebreather and auspex.
+**+2 Perception, +1 on shooting.** Stacks with sights, not with another helmet.
+
+## Mag belt / bandolier
+
+**Mag belt / bandolier** (common, 0.5 TV): four more packs or mags on hand;
+reloading from it never costs the beat. **Grenade bandolier** (common, 0.5 TV; Ash on Ostrava day 35): grenade loops across the
+chest, **six more grenades on hand**; reloading a drum launcher from it takes **half a beat** (reload and fire one shot
+the same beat).
+
+## Melee sheath / scabbard
+
+**Melee sheath / scabbard** (common, 0.25 TV): sized to one weapon; drawing it
+is part of the move.
+
+## Belt side-pouch
+
+**Belt side-pouch** (common, 0.25 TV): two grenades or small kit, ready to grab.
+
+## Back gun-scabbard / heavy sling mount
+
+**Back gun-scabbard / heavy sling mount** (uncommon, 1 TV): carries a second long gun or a heavy weapon across the back; swapping to it is one move, not a beat. For anyone running two big guns (Morcant: stubber and pump).
+
+## Pistol holster
+
+**Pistol holster** (common, 0.25 TV): hip or chest; the quick-draw rig (0.5 TV) is faster.
+
+## Mag-strip holster
+
+**Mag-strip holster** (uncommon; Mechanicus, Munitorum, Free Traders; player design, Ash on Ostrava day 44).
+A thin magnetic strip that clips onto anything: a belt, a strap, armour plate, a pack. It holds any metal
+weapon to it with real force, so nothing shakes it loose (a fall, a jump, a hard landing), but you **peel**
+it off the strip in one easy motion. Lightweight, takes up almost no space. **Three sizes:** small (pistols,
+knives; 0.75 TV), medium (machine pistols, carbines, swords; 1 TV), large (long guns, heavy blades; 1.5 TV).
+- **Guns:** **+2 on the quick-draw**, on the first shot after drawing.
+- **Melee:** **+2 on the first move after drawing**, attack or defence (the wielder's choice).
+- One holster per weapon (it doesn't stack with a quick-draw rig on the same gun).
+
+## Range-finder sight
+
+**Range-finder sight** (rare, 10 TV): **+1 on shooting past ~30 m.** Stacks with
+specialties, not with another sight on the same gun.
+Isk's custom range-finder on Patience is a +2 DM-judged part (*Custom, not traditional*: [attachments.md, Custom builds](attachments.md#isks-patience-schematic-7)).
+
+## Extended magazine kits
+
+**Extended magazine kits** (autogun and stub only; uncommon, 1.5 TV): **+50% rounds** per magazine on that
+weapon. Las guns use an **Extended las pack** ([las.md](las.md)); plasma uses a **Tuned plasma cell**
+([plasma.md](plasma.md)). (Merged with the attachment-list entry, the player, day 47.)
+
+## Power weapon tuning kit
+
+**Power weapon tuning kit** (rare, 12 TV): steadies a power field (no flicker under strain). Power weapons
+already go through power armour, so the kit gives (the player, day 47): **+1 to parry with the tuned weapon**, and
+**its power cell lasts twice as long: 60 power-mode swings, not 30.**
+
+## Diamantine whetstone
+
+**Diamantine whetstone** (uncommon, 1 TV): a few minutes out of a fight to
+hone any edged blade (not chain or power): **+1 pierce on its next 2 hits**
+(counts as +1 against armour). About 10 uses.
+
+## Bayonet
+
+**Bayonet** (common, 0.3 TV; Munitorum issue; a combat knife with a lug fits most rifles; set with the player, day 47).
+A blade fixed on a rifle's bayonet lug (lasguns, autoguns, hellguns, stub rifles; the Kasr Frontier and Vigil take
+one; **fixing or unfixing one takes the beat's move**, and it only counts once it's fully fixed: [attachments.md](attachments.md#fitted-and-working-every-attachment)). **A gun with a fixed bayonet is a melee weapon too:** no swapping between shooting and stabbing; in melee it's
+**a two-handed spear thrust: chains of 2, +1 to strike first** (the reach). A plain bayonet cuts like a knife
+(through flak; carapace shrugs it).
+
+**Abilities:** [Bayonet Charge](abilities.md#bayonet-charge).
+
+## Underslung chain-bayonet
+
+**Underslung chain-bayonet** (rare, 10 TV): a short chainsword mounted under a
+rifle (lasgun, hellgun, autogun, Las-box). In melee the rifle counts as a
+chainsword, at -1 to block or parry (it's awkward). No overdrive. The rifle
+weighs more; -1 on snap shots from the hip.
+
+**Abilities:** [Bayonet Charge](abilities.md#bayonet-charge) (it fights as a chain weapon); [Saw Lock](abilities.md#saw-lock).
+
+## Shock-coil kit
+
+**Shock-coil kit** (rare, 8 TV): fits any weapon. After a hit, the jolt gives
+**+1 on your next roll against that target** (+2 on heavy weapons such as a
+thunder hammer or heavy stubber). 6 charges a fight, recharged at a coupling.
+
+## Psy-ward amulet
+
+(player design, **epic**: an exotic find, natural 20 only; 45 TV; Ecclesiarchy, Free
+Traders.) A small reliquary on a chain holding a strip of parchment blessed and
+charged by the Emperor's psykers: an Astra Telepathica choir, a sanctioned
+primaris psyker, or a Space Marine Librarian. A little psychic power sleeps in the
+writing. **The first time a hit would drop the wearer a health step, the parchment
+burns and a shimmering shield takes the hit instead.** It works against anything,
+a raw 17+ included, and against warp powers. Then it's ash. **Re-charging it** takes
+a sanctioned psyker's blessing (Mother Oculine could) and the Ordo's favour. It
+burns cold and smells of incense; anyone with psychic sense notices it.
+
+## Jump pack, Kasrkin pattern
+
+**Jump pack, Kasrkin pattern** (rare, 45 TV; Munitorum, Mechanicus, Free Trader;
+player design, Ash on Ostrava session 9). A Mechanicus-approved Cadian pattern for
+Kasrkin storm troops: a grav-chute frame with reversed suspensor plates and an elite
+power cell. About **1 minute of lift per charge**, used in bursts: each burst is a
+hop of ~10-15 m up or across, or a few seconds' hover; about 6 a charge. Still works
+as a grav-chute (safe drops) when empty. **Recharge:** ~2 hours on a charging
+station. Loud and bright while lifting: no stealth during a burst. Uses the
+**Airborne** rules (codex Part 8, Gear rules). **A natural 1 on a hop:** the field
+stutters and the user drops one health step on landing. Approved kit: no heresy to
+carry one.
+
+**Abilities:** [Dive](abilities.md#dive).
+
+## Lift pack (heretek grav-chute)
+
+**Lift pack** (unique; built, not sold). A boarders' grav-chute rebuilt **to the
+Kasrkin pattern** above, from memory and without the proper rites (tech-heresy for the
+builder, not the wearer; in the field it passes for approved kit). Same rules as the
+Kasrkin pattern. **Build:** grav-chute + 1 machine-core + 1 servo-motor + 4 power
+cells, 2 days, the crafter's roll (codex Part 8). Varga's (Ash on Ostrava, session 9).
+
+**Abilities:** [Dive](abilities.md#dive).
+
+## Augmetic eyes
+
+Player design, Ash on Ostrava session 9. Six grades, from a plain replacement to a
+champion's eye. **All of them:** a medicae surgeon fits the eye (Ferro-Ashe or any
+tech-adept may bless it); **one day's rest**, then it works. One eye per socket.
+**A lost eye** (no augmetic yet): **-2 on sight Perception and on aimed shots**
+until one is fitted.
+
+### Basic augmetic eye
+
+**Basic augmetic eye** (uncommon, 8 TV; Mechanicus, black market). Brass ring, dull
+glass lens. Restores normal sight: no bonus, no drawback in good light. **Cheap lens:
+-1 on sight Perception in dark or smoke** (grainy picture).
+
+### Bionic eye
+
+**Bionic eye** (rare, 15 TV; Mechanicus, Free Traders). Steel housing, red-ringed
+lens. Normal sight in dark and smoke (no cheap-lens penalty). **Basic targeting:**
+a simple crosshair, **+1 on aimed shots.** **Visual recognition:** stores every face,
+uniform and ship marking it has seen; **+2 to pick out someone or something seen
+before**, in a crowd or at a distance.
+
+### Sensor eye
+
+**Sensor eye** (rare, 22 TV; Mechanicus, Free Traders). **+2 on all sight
+Perception.** **Scanner:** once a beat (free, not the wearer's action), a pulse
+sweeps ~30 m and shows heat outlines through smoke, darkness and thin cover (crates,
+curtains, light bulkheads). **Targeting:** **+2 on shots at a scanned target**,
+and smoke and darkness don't count against them. **Zoom:** **+2 on long shots**
+(past ~30 m). The two stack. **Tell:** the lens glows faint green while scanning.
+
+### Shooting eye
+
+**Shooting eye** (rare, 30 TV; Mechanicus, Free Traders). **Rangefinder:** **+2 on
+long shots** (past ~30 m); the wearer always knows the exact range to anything seen.
+**High-grade targeter:** **+3 on aimed shots.** **Gun link:** a HUD tied to one gun
+(Ferro-Ashe fits the link port; re-linking another gun ~1 hour) shows ammo and heat
+(Vigil's included): never caught empty or overheated by surprise, and **a miss in a
+shot chain doesn't cost the -1** (house rule 6).
+
+### Commissar eye
+
+**Commissar eye** (rare, 40 TV; Munitorum (Commissariat issue), Mechanicus).
+**Flash protection:** never blinded by flash grenades, muzzle flare, las glare or
+sudden light. **Infrared:** body heat in total darkness and smoke, ~50 m (not through
+walls). **Basic HUD:** **+1 on shots.** **Tactical scan:** once a beat (free), read
+one person in sight: **weak points** (the next hit on them lands **one health step
+harder**, once per target per fight); **vitals** (exact health step, and whether
+they're faking); **fear** (**+2 on Intimidation** against them; in interrogation,
+reads Will as a 20+ Perception would, within 1-2%, house rule 8). **Data sync:** scan
+results go out over the vox; allies on the channel know the target's health step,
+and an ally may spend the weak point instead (still once per target per fight).
+**Tell:** plainly Commissariat work; a non-commissar wearing one gets asked questions.
+
+### Champion eye
+
+**Champion eye** (**exotic**: natural 20 only, 90 TV; Mechanicus master-work, Free
+Traders). Everything the five eyes above do: recognition, scanner, zoom, rangefinder,
+gun link, flash protection, infrared, tactical scan and data sync. **+5 on all shots
+and all sight Perception** (one flat bonus, in place of the separate ones). **Tell:**
+master-work; tech-priests notice it and covet it.
+
+## Gun-skull (armed servo-skull)
+
+**Gun-skull** (rare, 30 TV; Mechanicus, Free Traders; player design, Ash on Ostrava
+session 9). A servo-skull with a small gun built in (laspistol or stub pistol); hovers
+at its owner's shoulder. **Once a beat it fires at the owner's target, d20+3**, without
+using the owner's action. **Eye feed:** scouts up to ~30 m ahead and shows what it
+sees on the owner's slate or bead. **Fragile:** one solid hit drops it. A tech-adept
+binds it to its owner; it recharges overnight.
+
+## Catachan weapons
+
+Player designs, Ash on Ostrava session 9. Death-world gear from Catachan: heavy, simple
+and brutal. Rare outside Catachan supply lines.
+
+### Thumper (Catachan pattern)
+
+**Thumper** (uncommon, 3 TV; Munitorum, black market, Free Traders). A stubby
+break-action grenade launcher: snap it open, drop a round in, snap it shut. **One
+grenade round a shot; fire and reload in the same beat** (one round a beat). Takes
+the same launcher rounds as the revolver-drum launcher (frag, smoke, flash; not kraks:
+explosives.md; changed with the player, day 36 cleanup); ~60 m.
+**Never jams** (nothing to foul).
+
+### Catachan butcher knife
+
+**Catachan butcher knife** (uncommon, 1.5 TV; Munitorum, black market, Free Traders).
+An oversized knife for Catachan hands, Catachan steel alloy, the spine hollow and
+**filled with mercury** that rushes to the tip on every swing. **Hits like a short
+sword** (through flak on any hit, through carapace on a solid hit) but draws and works
+like a knife. Doubles as a machete and tool; never breaks.
+
+### Catachan shotgun
+
+**Catachan shotgun** (rare, 6 TV; Munitorum, Free Traders). A semi-auto **16-gauge**:
+shells load through the breech into an **8-round tube**; it fires as fast as the trigger
+can be pulled. **Semi-auto chains of up to 4;** a hit drops one health step like any
+shotgun; -2 past ~20 m. **Mercury shells** (0.5 TV a box of 10; rare outside
+Catachan): **a hit that goes into flesh** (not stopped by carapace) **poisons the
+target: weakened (-2 on all rolls) for the next 2 beats; on the 3rd beat roll a d6:
+1-2 still weakened (roll again next beat), 3-6 Down.** One poisoning per target at a
+time; a medic's treatment (15+) ends it. Ordinary 16-gauge shells: a normal shotgun.
+
+## Scanners
+
+Player designs, Ash on Ostrava session 9. Three different jobs: the **bio-scanner**
+finds living things at range, the **psy-occulus** finds the warp at range, and the
+**hand scanner** identifies one thing up close.
+
+### Hand scanner (Ordo pattern)
+
+**Hand scanner** (rare, 12 TV; Mechanicus, Free Traders; issued by the Ordo to its
+agents). Point it at one person or object within ~2 m for **one beat** and roll **d20 +
+INT or WIS, +2**. It gives a **threat level**: **Safe** (nothing harmful), **Caution**
+(mild toxin, low disease, unstable tech), **Hazard** (real poison or plague,
+explosives, a damaged power cell), **Lethal** (kills on contact or exposure: masks on,
+burn team called), **Warp-tainted** (psychic or daemonic residue; it can't say what
+kind; that needs a psyker or a priest). **On people:** exact health step, poisons in
+the blood, sickness, augmetics, hidden implants. **15+:** detail ("plague toxin,
+airborne when the seal breaks"). **Under 10:** a fuzzy reading; re-scan next beat.
+
+### Bio-scanner
+
+**Bio-scanner** (rare, 8 TV; Munitorum, Mechanicus, Free Traders). A medicae and
+hunter's tool. **A one-beat sweep finds living things within ~30 m**, through thin
+walls and cover (not thick bulkheads): how many and roughly where. **Roll d20 + INT or
+WIS, +2: 15+** also tells size (human, beast, Ogryn-big) and whether they're hurt.
+**Up close (~1 m)** it reads a patient's health step and vital signs: **+2 on a medic's
+treatment roll.** It doesn't see servitors, machines or daemons; Skitarii read faint
+and strange.
+
+### Psy-occulus (warp detector)
+
+**Psy-occulus** (rare, 15 TV; Mechanicus, Ecclesiarchy, Free Traders). A lens-and-coil
+device that **warms and hums when the warp stirs within ~50 m**: a psyker using
+powers, a daemon, a warp-tainted object, a thin spot in reality. It always gives
+**strength** (faint, strong, overwhelming). **An active one-beat sweep, d20 + WIS, +2:
+15+** gives the source's direction and rough distance. It shows *that* something is
+there, never *what*. It also flags sanctioned psykers, including friendly ones.
+
+## Helm pict-capture
+
+**Helm pict-capture** (player rules, Ash on Ostrava session 10; uncommon, 1 TV; Munitorum
+and Navy boarding-team issue). A brass lens ring that clips onto a helmet rim, with a
+data-spool on the belt. **Click it on and it records** what the wearer faces (picture and
+sound), about a day of spool. Afterwards the spools play back on any slate or the
+hololith: the Light's sergeant studies them for **battle research** and drills (DM: a
+reviewed fight can turn up a lesson the player didn't see). **Live feed:** anyone with a
+data-reading augmetic (a HUD eye: shooting, sensor, Commissar or better) can see another
+wearer's view live, **only if the two are linked** (paired by a tech-adept, encrypted, short
+range ~200 m). Unlinked eyes and outsiders can't see it. A **vox-jammer** or heavy
+interference cuts the live feed (the spool keeps recording). A captured spool can be
+played by anyone who holds it.
+
+## Pistol and gun attachments (player designs, Ash on Ostrava session 10)
+
+**The attachment sheet** ([attachments.md](attachments.md)) lists them all for the roller, how enemies roll them, and the Light's **custom builds** (no trader carries those).
+
+A smith (Dace, or Ferro-Ashe) fits any of these in an hour or two at the bench. **An attachment only works while it's fully fitted and working** ([attachments.md](attachments.md#fitted-and-working-every-attachment)).
+
+### Pressure-pin safety (hair triggers)
+
+**Pressure-pin safety** (uncommon, 0.5 TV). A spring pin through the trigger face that
+locks a hair trigger until the finger presses straight back on it, firmly. Pinned, the gun
+is **not drop-prone**. Once pressed out, the trigger **stays live** (drop-prone again) until
+the bearer snaps the pin back in (free, between beats). The hair trigger's feel is kept.
+
+### Pistol drums
+
+**Pistol drums** (uncommon; auto-pistol / machine pistol drum 1 TV, stub drum 0.75 TV, las
+drum (a double-cell pistol pack) 1.5 TV). **Twice the shots before a reload** (a Hornet's 40
+becomes 80). **Bulky:** won't fit a quick-draw holster (a drum gun goes in a belt or chest
+hang) and **-1 on quick-draws**. Heat and jam rules still apply (a Hornet still jams from
+its 13th straight round unless its bolt is fixed).
+
+### Laser sight, under-mount lumen, or both
+
+**Laser sight** (uncommon, 1.5 TV): a red dot where the gun points. **+1 on hip shots within
+~20 m**, and **+1 on every shot after a target swap within ~30 m** (the dot shows where the gun's
+pointing, so switching targets is easier; it cancels the swap's -1 there). **Not both on one shot.**
+(Changed by the player, Ash on Ostrava day 35: the swap bonus replaced the old snap-shot half; the hip
+half stays.) **Tell:** in smoke or dark the beam shows, and a sharp-eyed enemy
+sees the dot on him or the line back to you. **Under-mount lumen** (common, 0.5 TV): lights
+the target: **no darkness penalty on what's in the beam**, but you're lit up too. **Shone in someone's face in the dark
+(inside ~5 m): -2 on their next roll** (blinded; the player, day 47: proper attachment lights can blind, a taped
+flashlight can't). **Combo
+module** (uncommon, 2 TV): both in one housing; switch either on alone.
+
+### Floodbeam lumen
+
+**Floodbeam lumen** (uncommon, 3 TV, DM's price; Munitorum, Free Traders; the player's ask, Ash on Ostrava day 47). A
+powerful lumen. **A long beam: no darkness penalty out to ~50 m.** **Blinds harder:** shone in a face inside ~15 m in
+the dark, **-3 on their next roll**. **Strobe mode:** everyone in the beam inside ~10 m takes **-1 on their shots**
+while it flickers (switching modes is the beat's move). **He's seen from ~200 m when it's on**, and **one cell lasts a
+fight**. No weight penalty (the player). Takes the **laser slot**, as the [under-mount lumen](#laser-sight-under-mount-lumen-or-both).
+
+### Pistol reflex sight
+
+**Pistol reflex sight** (uncommon, 2 TV). A small glass window with a glowing dot. **+2 on
+aimed pistol shots within ~30 m** (raised from +1 by the player, Ash on Ostrava day 35, so it beats the holo
+up close) (not hip shots: that's the laser's job); **-1 on shots past ~30 m** (the dot covers the target
+out there; changed with the player, day 36 cleanup). **Stacks** with a HUD eye's
+aim bonus (changed by the player, Ash on Ostrava day 34). Fits a rifle too (Varga's Mercy): the same +2
+on aimed shots within ~30 m and -1 past it.
+
+### Holo sight
+
+**Holo sight** (uncommon, 2.5 TV; player design, Ash on Ostrava day 35). A squared window with a
+circle-and-dot reticle that floats at any distance. **+1 on aimed shots within ~50 m**: less than a reflex
+up close, but it reaches further; **-1 on hip shots** (the window wants a cheek on the stock; changed with the
+player, day 36 cleanup). Fits a pistol or a rifle.
+
+### Heartbeat scanner (side-rail screen)
+
+**Heartbeat scanner** (*Custom, not traditional: no trader carries this.* Tamsin's design, Ash on Ostrava day 35, schematic 12; built by the Light's own smiths, parts ~5 TV; [attachments.md, Custom builds](attachments.md#brenners-accatran-schematic-12)). A wide auspex screen on a
+side rail with a 90° hinge. **Folded in:** flat against the gun, screen off. **Folded out:** the screen
+faces the shooter and wakes; flipping it either way costs nothing. It sees **heartbeats only**, through
+walls and decks, out to **~30 m**, and it's **sharper the closer they are**: 20-30 m, a faint blip and a
+rough direction; 10-20 m, how many and which way; inside ~10 m, exactly where each one is. **While it's
+out and the bearer is watching it, nobody with a heartbeat inside ~30 m can surprise him or the team
+he's calling for.** **Blind** to anything without a heartbeat (servitors, machines, daemons, the walking
+dead). **Tell:** the screen glows; in the dark it lights the bearer's face (fold it in to go dark).
+
+### Arc calculator (launcher sight)
+
+**Arc calculator** (*Custom, not traditional: no trader carries this.* Tamsin's design, Ash on Ostrava day 35, schematic 16; built by the Light's own smiths, parts ~4 TV; [attachments.md, Custom builds](attachments.md#holliss-six-bells-schematic-16)). Two almost invisible lasers, one above
+a launcher's barrel and one below, feeding a small cogitator that works out the arc. **+3 on launcher shots past
+~30 m** on the first shot of a string, and on a second shot at the same spot; a shot at a new target has no
+firing solution yet. **Tell:** in smoke or dust the two beams show.
+
+### Blacklight tracking visor
+
+**Blacklight tracking visor** (*Custom, not traditional: no trader carries this.* Tamsin's design, Ash on Ostrava day 35, schematic 14; built by the Light's own smiths, parts ~4 TV; [attachments.md, Custom builds](attachments.md#sorels-hellgun-schematic-14)). A clear visor of auspex
+parts that fits a helm and throws a blacklight scan over a ~10 m cone. Fresh prints, blood, sweat and
+handmarks glow: **+2 on tracking and on finding traces in the scanned area.** **Tell:** the emitter glows
+faint violet in the dark.
+
+### Ergo grip sleeve
+
+**Ergo grip sleeve** (common, 0.25 TV). A flexible, ribbed plastek sleeve that slides over
+any pistol or rifle grip. Firm in wet, blood, oil or cold: **never slips from the hand**,
+and **disarm attempts against the bearer take -2**.
+
+### Foregrips (under-barrel slot)
+
+- **Ergo foregrip** (common, 1 TV): **+1 on the first shot** of a string, nothing after (the recoil -1
+  dropped; changed with the player, day 36 cleanup).
+- **Heavy foregrip** (uncommon, 1.5 TV): **+2 on aimed shots**; a miss in a chain costs
+  **-2** instead of -1; **-1 more on swapping**.
+- **Handstop foregrip** (uncommon, 1.5 TV): **+2 on the first shot**; **swapping costs
+  nothing**; **-1 on aimed shots**.
+- **Lumen foregrip** (uncommon, 1.5 TV, DM's price; the player's ask, Ash on Ostrava day 47): an under-barrel grip with a
+  light in its nose. **+1 on the first shot** (as the ergo foregrip), and **a full lumen:** no darkness penalty in the
+  beam, he's lit up too, and it **can blind** (in a face inside ~5 m in the dark: -2 on their next roll). **A thumb
+  switch on the grip: flicking it is free.** It takes the **under-barrel slot, not the laser slot** (a laser sight still
+  fits).
+
+### Muzzles
+
+- **Standard silencer** (stub/auto; uncommon, 2 TV; reworked by the player, Ash on Ostrava day 36):
+  quieter: heard in the next room, not across the deck. The can soaks the muzzle gas: **recoil -1**
+  (less kick and rise). **No penalty on long shots** (the few extra metres a second it can add just
+  cover what it costs; too slight for a bonus). Costs: longer and heavier at the muzzle, **-1 on
+  quick-draw**; gas blown back into the action: **the gun turns Dirty after ~20 shots, not ~30**.
+- **Heavy suppressor** (stub/auto; uncommon, 3 TV; reworked the same day): near-silent; **recoil -2**.
+  Costs: long and heavy, **-1 on quick-draw and -1 on swapping**; fouls the same way (**Dirty after
+  ~20 shots**).
+- **Compensator** (uncommon, 2 TV): **recoil -2**; **+1 more to the next shot after each
+  hit** (a first-shot hit gives +3, later hits +2); **-1 on aimed shots**.
+- **Muzzle brake** (threaded muzzles; uncommon, 1.5 TV; the downside added with the player, day 36 cleanup):
+  **a miss in a chain gives no -1**. **The flash gives you away in the dark:** enemies place you after your
+  first string.
+
+### Rifle stocks (autogun, lasgun, stub rifle)
+
+- **Tac rifle stock** (uncommon, 1.5 TV): **+1 on the first shot, +1 on aimed shots, -2
+  more on swapping**.
+- **Light rifle stock** (common, 1 TV): **+2 on swapping** (a swap becomes +1); **-1 on
+  aimed shots**.
+
+### Custom barrel (stub pistols and SMGs; barrel slot)
+
+**Custom barrel** (uncommon, 1.5 TV): **+1 on aimed shots.** (The +1 past ~30 m is the range-finder's job: re-tuned
+with the player, day 47.)
+
+### Repeater crystal
+
+**Repeater crystal** (rare, ~8 TV; Mechanicus, Free Traders; on Ferro's buy list for Brenner's Accatran, schematic 12;
+entry written day 47). A tuned focusing crystal that cycles a las gun faster: **strings up to 7**, no extra pack per
+shot; the fast-gun rule: **no chain bonuses in the string** (first-shot bonuses still count), misses still -1. Fits
+las guns. On the [attachment sheet](attachments.md#the-rollable-list).
+
+### Las auto-fire crystal
+
+**Las auto-fire crystal** (rare, 10 TV, DM's price; Mechanicus, black market, Free Traders; the player's idea, Ash on
+Ostrava day 47). A cycling crystal for a basic lasgun or lascarbine (not hellguns): **strings up to 12**; the fast-gun
+rule: **no hit bonuses in the string**, misses still -1. **Heat: strings of 8+ build 1 heat; vent a beat at 3.** It takes
+the same place as a [repeater crystal](#repeater-crystal): one or the other. On the
+[attachment sheet](attachments.md#the-rollable-list).
+
+### Taped flashlight
+
+**Taped flashlight** (common, 0.1 TV; any lumen and a roll of tape; the player's design, Ash on Ostrava day 47). A
+flashlight or any light taped to a gun. **Tape needs no slot: it goes on anything**, even a gun with no attachment
+slots. Works as a [lumen](#laser-sight-under-mount-lumen-or-both): **no darkness penalty in the beam**, and he's lit
+up too. **Clunky and wobbly: flicking it on or off takes the beat's move.** **It can't blind anyone** (the player, day 47:
+only a proper under-mount lumen can).
+
+### Sweep emitter
+
+**Sweep emitter** (uncommon, 5 TV, DM's price; Munitorum, Mechanicus, Free Traders; Ash on Ostrava day 47, the
+walking plate's idea for las). A fanned emitter for multi-lasers and las-LMGs (the Kasr Rain, the Las-box): **one string
+can be spread across up to 3 enemies standing abreast;** the swap's -1 is paid once per extra target; each shot still
+checks one target; enemies stacked one behind another: only the front one. On the
+[attachment sheet](attachments.md#the-rollable-list).
+
+### More attachments (player picks, Ash on Ostrava session 10)
+
+**Optic**
+- **Telescopic sight** (uncommon, 3 TV): **+2 on long shots**; **-1 on hip/snap shots and
+  anything inside ~15 m**.
+- **Offset backup sight** (uncommon, 1 TV; fits beside a scope, no slot of its own): cancels
+  the scope's close-range penalty; **-1 on quick-draw**.
+- **Low-light optic** (uncommon, 2 TV): **no darkness penalty** through the sight; a flash
+  grenade or las glare **blinds the shooter for 1 beat**.
+
+**Trigger**
+- **Match trigger** (uncommon, 1 TV): **+1 on aimed shots**; **-1 on hip/snap shots**.
+- **Hair trigger** (uncommon, 1 TV): **+1 on the first shot of every string** (a single shot counts as a string of one); **drop-prone** unless fitted
+  with a pressure-pin safety.
+- **Burst limiter** (common, 0.5 TV): **recoil -1**; strings capped at **3 shots**.
+
+**Under-barrel**
+- **Bipod** (common, 1.5 TV; was 0.5: changed with the player, day 36 cleanup): **+2 on aimed shots while
+  braced or prone**; useless on the move; a beat to set up.
+- **Underslung grenade launcher** (rare, 5 TV): one grenade shot (frag, flash, spec flash)
+  without swapping weapons; **-1 on aimed shots**; a beat to reload.
+- **Underslung shotgun ("masterkey")** (uncommon, 3 TV): one or two shotgun blasts for doors
+  and close work; **-1 on aimed shots**.
+
+**Stock**
+- **Folding stock** (common, 1 TV): **+1 on quick-draw**; fits a holster or chest hang;
+  **-1 on aimed shots**.
+
+**Muzzle**
+- **Flash hider** (common, 0.5 TV): **shots don't give away the shooter's position in the
+  dark**; no noise reduction.
+
+**Magazine**
+- **Extended magazine** (uncommon, 1.5 TV; autogun and stub only): **+50% rounds**; no draw penalty. The same
+  item as **Extended magazine kits**, above.
+
+**Grip**
+- **Weighted grip** (common, 0.5 TV): **recoil -1**; **-1 on quick-draw**.
