@@ -52,7 +52,7 @@ once and write the ruling into the roster** before rolling. Then:
 - [`../../wh40k_gear/bestiary/roles.md`](../../wh40k_gear/bestiary/roles.md): every enemy role in the fight (leader, duelist, jumper, herder...).
 - Codex house rule 4, "Some roles and gear add more": extra health stages, stimms, blessings.
 - **Who never surrenders:** cultist duelists, the Moebian 6th, poxwalkers (mindless); enforcers stop breaks.
-- **Who can call for help (day 47):** any vox man or vox-caster: he spends his beat calling when the fight turns; once the call is out, each beat a d6 5-6 brings a quarter of the starting force (codex Part 8, Enemy numbers and tactics; bestiary roles, Vox). **Track it every beat.**
+- **Who can call for help (day 47):** any vox man or vox-caster: he spends his beat calling when the fight turns; once the call is out, each beat a d6 5-6 brings a quarter of the starting force (codex Part 8, Enemy numbers and tactics; bestiary roles, Vox). **Track it every beat.** **Cap (the player, day 47): when the call goes out, roll a d10 once: that's the most reinforcement groups that can come for this fight** (each arrival counts one; at the cap, no more).
 
 **4. The Light: each person in the fight.** In the campaign sheet:
 - **"Full kit"**: their row. **Every** weapon, **every** attachment, eye, field, armour piece,

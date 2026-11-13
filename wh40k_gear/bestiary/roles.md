@@ -296,7 +296,7 @@ anyone with a vox-caster, **spends his beat calling** as soon as the fight turns
 weren't surprised). **Kill him, put him Down or jam the vox before his beat comes round and no call goes out.** Once
 it's out, **at the start of every beat a d6 5-6 brings reinforcements: a quarter of the starting force** (rounded up),
 from wherever makes sense (the road, the next building, a lander). Killing him after the call doesn't cancel it.
-Surprise (the Light's first beat) means nobody's called yet.
+Surprise (the Light's first beat) means nobody's called yet. **Cap (the player, day 47): when the call goes out, roll a d10 once: that's the most reinforcement groups that can come for this fight** (each arrival counts one; at the cap, no more).
 
 - **Vox:** can hack into the party's comms and listen in, but can't cut them off.
   If the party talks on comms before the fight, the enemy may already know.
