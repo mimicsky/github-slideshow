@@ -164,6 +164,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Plasteel throwing knives, 'Callidus' pattern](melee.md#plasteel-throwing-knives-callidus-pattern)
 - [Seeker shurikens, Mechanicus pattern](melee.md#seeker-shurikens-mechanicus-pattern) (folding plasteel stars; dig in on a hit, come back on a miss)
 - [Collapsing spear, 'Ordo Sicarius' pattern](melee.md#collapsing-spear-ordo-sicarius-pattern) (folds to a cylinder; melee or thrown)
+- [Knife strings (throwing knives: 2 a beat)](melee.md#knife-strings-throwing-knives) (rule)
 - [Fan throw (three throwing knives)](melee.md#fan-throw-three-throwing-knives) (rule)
 - [Force wakizashi, 'Kasr Veil' pattern](melee.md#force-wakizashi-kasr-veil-pattern)
 - [Combat chain-knife, 'Kasr Gnaw' pattern](melee.md#combat-chain-knife-kasr-gnaw-pattern)

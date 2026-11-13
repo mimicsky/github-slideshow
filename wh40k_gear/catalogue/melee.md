@@ -168,6 +168,10 @@ Light plastek inside, a sharpened plasteel skin and head outside.
 
 **Abilities:** [Wide Slash](abilities.md#wide-slash) (when swung two-handed).
 
+## Knife strings (throwing knives)
+
+**Knife strings** (a rule for any real throwing knives, not an item; Ash on Ostrava day 47, set by the player): **a throw with throwing knives is a string of up to 2 knives a beat** (the chain and swap rules as for shots: the first hit +2 to the next, a miss -1, a new target -1), each at the knife's own range (~10 m for the Callidus pattern). Tamsin's Extra Attack adds +1 knife as on any string. The Fan throw (below) is the other choice: all three at once on one roll.
+
 ## Fan throw (three throwing knives)
 
 **Fan throw** (a throw for any throwing knives, not an item; Ash on Ostrava, day 36, the player's design,
