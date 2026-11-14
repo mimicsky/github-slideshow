@@ -215,6 +215,8 @@ Moved to `world.md` (day 36 cleanup), under the same heading.
 | Teo | **Eagle-eyed** (+1 on Perception to spot things), **Keen hearing** (+1 to notice by sound; never caught napping by noise), **Jumpy** (-1 against fear and break checks; startles at loud noises). Rolls (d30): good 1, bad 7, good 2 |
 | Ferro-Ashe | **Cool under fire** (suppression on him is -1 instead of -2), **Inconspicuous** (+1 on stealth and blending in; nobody notices the tech-priest in the corner), **Runner** (+1 on sprints and chases). Rolls (d30): good 17, good 14, good 24 |
 | Ollin | **Eagle-eyed** (+1 on Perception to spot things: a short crate, a light-fingered hauler), **Strong back** (+1 on STR rolls to haul, carry, climb or breach), **Jumpy** (-1 against fear and break checks; startles at loud noises). Rolls (d30): good 3 and good 4 (combat traits; the player: reroll into things he'd use), rerolled down the list in order to the first quartermaster-useful results: 1, 5; bad 7 |
+| Pim (day 48) | **Hard to kill** (+1 when a medic patches them up from Down), **Fast healer** (recovers from a wound in less time; patches on them +1), **Lucky** (once a mission, reroll a natural 1). Rolls (75/25, d36): good 22, good 7, good 10 |
+| Dag Holloway (day 48; not yet joined: in irons) | **Runner** (+1 on sprints and chases), **Sure-footed** (no penalty on bad footing; +1 against being knocked down), **Iron grip** (can't be disarmed by a solid hit; +1 on STR to hold on, grapple or keep hold of a weapon). Rolls (75/25, d36): good 24, good 25, good 25 (duplicate, rerolled 21) |
 | Joren (penitent) | **Hard to kill** (+1 when a medic patches him up from Down), **Cool under fire** (suppression on him is -1 instead of -2), **Void-sick** (-1 in the open void, on EVA, or in zero gravity). Rolls (d30): good 22, good 22 (duplicate, rerolled 17), bad 17 |
 | Dannel (penitent) | **Lucky** (once a mission, reroll a natural 1), **Sharp memory** (+1 on INT to recall faces, routes, codes and plans), **Glass jaw** (wear-down every 4 shrugged hits instead of 6; scaled day 47). Rolls (d30): good 10, bad 18, good 23 |
 
@@ -280,6 +282,8 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 | **Teo** | 18.1 | 46.1 | 18 | 29.1 | 20.0 | 28.1 | Fine. |
 | **Ferro-Ashe** | 19 | 26.0 | 20 | 48.9 | 19.7 | 12 | Fine. |
 | **Ollin Brake** | 18 | 17.5 | 25 | 24.6 | 18 | 17.7 | Fine. Haggles d20 + CHA bonus (+1); cleans handed-in guns. |
+| **Pim** (grunt; day 48) | 22 | 21 | 20 | 12 | 18 | 14 | Hurt (Tamsin's string in the reeds, day 47). STR/DEX rolled with Kettle Ford's cell (commoner #1); CON-CHA set by the DM from his past. Grunt: no role, no specialty yet. |
+| **Dag Holloway** (grunt; day 48; not yet joined: in irons) | 10 | 13 | 28 | 14 | 22 | 16 | Hurt. STR d21 1 + 9, DEX d16 4 + 9 (civilian); CON-CHA set by the DM (a hard man; reads men; menace). Grunt: no role, no specialty yet. |
 
 ## Hidden notes
 
