@@ -14,7 +14,7 @@ applies.
 
 ## Index (open only the roles in the fight)
 
-[Grunt (ranged)](#grunt-ranged) · [Grunt (melee)](#grunt-melee) · [Sniper](#sniper) · [Grenadier](#grenadier) · [Heavy gunner](#heavy-gunner) · [Heavy team](#heavy-team) · [Plasma / melta gunner](#plasma--melta-gunner) · [Flamer](#flamer) · [Demolitions](#demolitions) · [Medic](#medic) · [Chem-doctor](#chem-doctor) · [Leader](#leader) · [Bodyguard](#bodyguard) · [Enforcer](#enforcer) · [Icon bearer](#icon-bearer) · [Rogue psyker](#rogue-psyker) · [Vox / auspex](#vox--auspex) · [Tech-adept / heretek](#tech-adept--heretek) · [Breacher](#breacher) · [Assassin](#assassin) · [Infiltrator](#infiltrator) · [Gunslinger](#gunslinger) · [Brute / mutant](#brute--mutant) · [Beast handler](#beast-handler) · [Herder](#herder) · [Berserker](#berserker) · [Bomb zealot](#bomb-zealot) · [Blessed](#blessed) · [Jumper](#jumper) · [Duelist](#duelist) · [Commander](#commander) · [Fighter pilot](#fighter-pilot) · [Spotter](#spotter) · [Tracker](#tracker) · [Zealot](#zealot) · [Skitarius](#skitarius) · [Arbitrator](#arbitrator) · [Rolling new people (recruits and NPCs)](#rolling-new-people-recruits-and-npcs) · [Ogryn](#ogryn) · [Shield trooper](#shield-trooper) · [Mauler](#mauler) · [Mutant charger](#mutant-charger) · [Mortar team](#mortar-team)
+[Grunt (ranged)](#grunt-ranged) · [Grunt (melee)](#grunt-melee) · [Sniper](#sniper) · [Grenadier](#grenadier) · [Heavy gunner](#heavy-gunner) · [Heavy team](#heavy-team) · [Plasma / melta gunner](#plasma--melta-gunner) · [Flamer](#flamer) · [Demolitions](#demolitions) · [Medic](#medic) · [Chem-doctor](#chem-doctor) · [Leader](#leader) · [Bodyguard](#bodyguard) · [Enforcer](#enforcer) · [Commissar (friendly)](#commissar-friendly) · [Icon bearer](#icon-bearer) · [Rogue psyker](#rogue-psyker) · [Vox / auspex](#vox--auspex) · [Tech-adept / heretek](#tech-adept--heretek) · [Breacher](#breacher) · [Assassin](#assassin) · [Infiltrator](#infiltrator) · [Gunslinger](#gunslinger) · [Brute / mutant](#brute--mutant) · [Beast handler](#beast-handler) · [Herder](#herder) · [Berserker](#berserker) · [Bomb zealot](#bomb-zealot) · [Blessed](#blessed) · [Jumper](#jumper) · [Duelist](#duelist) · [Commander](#commander) · [Fighter pilot](#fighter-pilot) · [Spotter](#spotter) · [Tracker](#tracker) · [Zealot](#zealot) · [Skitarius](#skitarius) · [Arbitrator](#arbitrator) · [Rolling new people (recruits and NPCs)](#rolling-new-people-recruits-and-npcs) · [Ogryn](#ogryn) · [Shield trooper](#shield-trooper) · [Mauler](#mauler) · [Mutant charger](#mutant-charger) · [Mortar team](#mortar-team)
 
 ## Grunt (ranged)
 
@@ -241,6 +241,29 @@ the party. **Stays in cover, mostly at the back.** **While the enforcer stands,
 the group doesn't break or surrender**; they shoot the first one who runs. Hated
 by their own men. **Killing one of their own takes the enforcer's turn, then roll
 a d20 for the group: on 1-4, someone in the group turns and shoots the enforcer.**
+
+*Side note: rolled for a new person or an ally (Rolling new people, below), an enforcer is a
+**loyal Commissar** instead: see Commissar (friendly), next.*
+
+## Commissar (friendly)
+
+**Who has it:** the Light and loyal allies only; never an enemy. (player-set, Ash on Ostrava day 48.)
+The loyal side of the Enforcer.
+
+**Leading from the front.** The best commissars aren't executioners behind the lines: they are
+elite, Schola-trained fighters with bolt pistols and power weapons who charge into the worst of
+the fighting to prove their courage and rally exhausted troops. **Mostly in the front**, first
+into the charge. **Allies around him don't break or run while he stands**, but he rallies them;
+**he never shoots his own**.
+
+**Rousing speech (the streak):** in any beat he **takes at least one enemy Down himself** (shot or
+blade), he may also give a rousing speech, free, on his turn: **everyone around him (within
+~10 m, him included) gets +1 on their shots and swings next beat.** Every beat **in a row** that
+he downs someone, the speech climbs **+1 more** (+1, +2, +3 ...). **A beat with no Down: back to 0,
+no speech**; the next Down starts it again at +1. High risk, high reward: he has to keep killing
+up front to keep it going.
+
+**Kit:** a pistol and a one-handed sword, from the commissar weapon list (Role weapons, below).
 
 ## Icon bearer
 
@@ -677,6 +700,8 @@ like an enemy, from the **traitor-elite role list** (the Light counts as traitor
 3. A **tech-adept** roll checks for a **loyal Skitarius** (second d20, 18-20).
 4. An **arbitrator** roll (player-set, Ash on Ostrava day 44) makes them a **loyal Adeptus Arbites
    enforcer**: the Arbitrator role's kit and rules, on our side (shield or hound, "HALT!" once a fight).
+5. An **enforcer** roll (player-set, Ash on Ostrava day 48) makes them a **loyal Commissar**: the
+   Commissar (friendly) rules (leads from the front, the rousing-speech streak) and the commissar weapon list.
 
 ## Ogryn
 
@@ -785,6 +810,7 @@ psyker, beast handler, mutant charger) always take the preset. The lists live in
 - **brute:** Sledgehammer (common); Heavy scrap axe (common); Two-handed scrap great-axe (common); Trench club and a door for a shield (common); Chain axe (uncommon); Stolen Ogryn ripper gun and a club (rare)
 - **chem-doctor:** Drug satchel: stimms, slaught and Frenzon (common); Syringe spike and a drug satchel (uncommon); Injector stiletto (toxin) and concentrated stimms (rare)
 - **commander:** Chainsword and a command vox (common); Laspistol and a command vox (common); Bolt pistol and a command vox (uncommon); Hellpistol and a command vox (uncommon); Power sword and a command vox (rare); Plasma pistol and a command vox (rare)
+- **commissar:** Laspistol and an officer's sabre (common); Stub revolver and a naval sabre (common); Service stub pistol, 'Steadfast' pattern, and a cutlass (common); Laspistol and a chainsword (common); Hellpistol and an officer's sabre (uncommon); Hellpistol and a chainsword (uncommon); Bolt pistol and an officer's sabre (uncommon); Bolt pistol and a chainsword (uncommon); Bolt pistol and a power sword (rare); Hellpistol and a power sword (rare); Plasma pistol and a power sword (rare)
 - **demolitions:** 2 breaching charges (common); Mining charges x2 (common); Tin-can bombs x3 (common); Demo satchel and a detonator (uncommon); 3 krak grenades (uncommon); Melta bomb (rare)
 - **duelist:** Naval sabre (common); Chainsword (common); Cutlass and a stub revolver (common); Officer's sabre and a duelling laspistol (uncommon); Paired mono-knife blades (uncommon); Power sword (rare)
 - **enforcer:** Shock maul (common); Shock baton and a stub revolver (common); Combat shotgun, pump (common); Bolt pistol (uncommon); Laspistol and a power maul (rare); Plasma pistol and a chainsword (rare)
