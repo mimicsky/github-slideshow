@@ -62,6 +62,8 @@ Moved to `world.md` (day 36 cleanup), under the same heading.
 **Tamsin Rook.** Cadian, Kasr Holn. Former corporal, Cadian Shock Troops; now
 **Interrogator** of Lady Kesh's Ordo. **He/him** (set by the player, session 5).
 
+**Before Cadia (told by the player, day 48 ~0222, to Nessa):** grew up with nothing in Kasr Holn's under decks; his parents worked day and night for a few Thrones; he hustled for them every day, stealing, buying and selling whatever he could. Caught once by an officer of the Militarum, who told him to look for something else in life and go for it, that he could make a change in the world; he forgot him and kept grinding. Then his ma and da owed debt men money they couldn't pay, and the men killed them for it, with him there. Alone and lost, he joined up and told himself he was going to be something. **Cadia (told day 48 ~0010, to Dag):** he carries Cadia's fall as his own shame: he believes he was the reason it was destroyed (the details are the player's to tell).
+
 | Field | Value |
 | --- | --- |
 | Rank | **Interrogator** of Inquisitor Kesh's Ordo (rosette, warp day 20, session 7). Leads the Light; takes his orders from Kesh (Varsaine stayed with the Lantern). (Interrogator-designate from session 5.) |
