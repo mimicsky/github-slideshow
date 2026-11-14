@@ -24,6 +24,8 @@ the tiers table, crits, wear-down, Too weak to matter, Shooting for the gaps). T
 
 No tier costs dodges or stealth (the player kept it that way).
 
+**Storm trooper carapace** (Tempestus pattern; looted or issue): **a carapace-tier set** (chest, back, arms and legs). Better made and cut closer, but **no other difference in the rules** (DM ruling, Ash on Ostrava day 48, the player asked).
+
 ## Rebreather and gas mask
 
 (Split into two with the player, Ash on Ostrava day 47, audit C14; the shops sold them as one.)
