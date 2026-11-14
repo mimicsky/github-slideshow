@@ -113,9 +113,9 @@ them.
 
 | Pack | On board | Notes |
 | --- | --- | --- |
-| Las pack, standard (45) | ~79 | ~38 + IX 12 + Fourteen 6 + the dormitories ~20 + 3 |
+| Las pack, standard (45) | ~77 | ~38 + IX 12 + Fourteen 6 + the dormitories ~20 + 3; -2 to Dag's kit, day 48 |
 | Las pack, extended (60) / eco (120) | 0 / 0 | Corvane's extended packs on order (schematic 11) |
-| Hot-shot pack, standard (30) | ~74 | ~70 + IX 2 + Fourteen 2 |
+| Hot-shot pack, standard (30) | ~70 | ~70 + IX 2 + Fourteen 2; -2 Pim, -2 Vosk, day 48 |
 | Hot-shot pack, extended (40) / Mechanicus (20) | 0 / 0 | Brenner's extended packs on order (schematic 12) |
 
 **Needle darts** (Nessa's are on her row; these are spares)
@@ -307,3 +307,5 @@ The Ustrennos library books went back on day 31; unfinished ones keep only the h
 - **Quay 4 (the loaders; guns Neglected):** a pump shotgun and a breaching charge; a scoped autogun and a stub revolver; a silenced stub pistol and a mono-knife; an autopistol; a cleaver and a spiked club; rivet knuckles; a railroad spike knife; 3 frags, a choke gas grenade; 3 doses of slaught; a dose of Frenzon; a gas mask; flak (a set, a vest). **Evidence:** crates of sealed jars, bound for the barges (sealed in the hold). **Left:** cult amulets, a prayer-book; **the cult gas bottle** (Nurgle's gas: sealed as evidence for Kesh, not used).
 - **The choir-house (5 of the 6th):** a heavy stubber; an Agripinaa autogun; a Lucius No.98 lasgun; laspistols x2; an officer's laspistol (found); **a commissar's power sword (a trophy, found)**; a shotgun with the eagle scratched off (found); sharpened trench shovels x2; a Cadian machete; an entrenching tool; a bayonet; a frag; spare las packs x3; looted storm trooper carapace x2, a carapace set, a carapace chest plate.
 - **Quint's house:** the sealed bloom vial (evidence); his slate and papers (not yet read).
+
+**Issued from the hauls, day 48 ~0213 (Tamsin):** Ferro: a looted storm trooper carapace set (a whole one, Fourteen's) to rebuild as his own armour. Pim: a hellgun (Fourteen's), 2 hot-shot packs, a bayonet, a carapace set. Vosk (if Kesh allows): the hellpistol (Fourteen's, found), 2 hot-shot packs, his own chainsword (IX). Dag (held in Ollin's cage): a lasgun, 2 las packs, a carapace set. **Left:** hellguns x4 (the Major's Ryza among them), hellpistols 0, storm trooper carapace ~16, carapace sets ~12.
