@@ -694,8 +694,8 @@ the worst of it to earn them.
 - **Act of faith, once a fight:** she prays and **rerolls any one of her own rolls** (the second stands).
 - **Her calling** (chosen, or a d6 when she's met: 1-4 Militant, 5 Hospitaller, 6 Dialogus):
   - **Militant:** the fighter: **+1 on melee rolls in a beat she charges.**
-  - **Hospitaller:** a field medic: **patches like a Medic** (d20 + WIS + 4 vs 15).
-  - **Dialogus:** the voice: **once a fight, a hymn or holy word: allies within ~10 m +1 on their next roll.**
+  - **Hospitaller:** a field medic: **patches like a Medic, at +5 instead of the medic's +4** (d20 + WIS + 5 vs 15; the player, day 48).
+  - **Dialogus:** the voice: **once a fight, a hymn or holy word: allies within ~30 m +1 on their next roll** (30 m: the player, day 48).
 - **Stats:** Schola-trained: the regular soldiers' range (STR 20-35, DEX 25-40); one close to her vows,
   elite-trained (STR 25-45, DEX 35-50).
 - **Kit:** the sister novitiate list (Role weapons, below).
