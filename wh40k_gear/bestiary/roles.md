@@ -677,8 +677,12 @@ prisoner. **Never surrenders.**
 ## Sister Novitiate
 
 **Who has it:** **allies only** (player-set, Ash on Ostrava day 48): novices of the Adepta Sororitas, met
-through the story (a convent, a mission, the Schola), not from the recruit roll. Never rolled for enemies
-(a fallen version: not set).
+through the story (a convent, a mission, the Schola). Never rolled for enemies (a fallen version: not set).
+
+**A new Sister is rolled like anyone new, as a friendly** (the player, day 48; Rolling new people, below):
+STR and DEX by background (Stats, below), the **role d20** (1-15 a plain novitiate with no role yet;
+16-20 a role from the list as well, on our side), **traits** (house rule 9), and her **kit** from the
+novitiate list. Then the Sister's own rules here on top.
 
 A Schola-raised girl chosen for an Order of the Adepta Sororitas, **not yet sworn**: robes over light
 armour (flak, or a carapace chest piece), **no power armour** until she takes her vows. She fights in
@@ -714,8 +718,8 @@ like an enemy, from the **traitor-elite role list** (the Light counts as traitor
    enforcer**: the Arbitrator role's kit and rules, on our side (shield or hound, "HALT!" once a fight).
 5. An **enforcer** roll (player-set, Ash on Ostrava day 48) makes them a **loyal commissar**: the
    Enforcer role's kit and rules, on our side (front line, the rousing-speech streak).
-6. **Sisters Novitiate** (player-set, Ash on Ostrava day 48) don't come from this roll: they're met in the
-   story (a convent, a mission, the Schola). See Sister Novitiate.
+6. **Sisters Novitiate** (player-set, Ash on Ostrava day 48) are met in the story (a convent, a mission, the
+   Schola), and **rolled through these same steps as friendlies**, with the Sister Novitiate role's rules on top.
 
 ## Ogryn
 
