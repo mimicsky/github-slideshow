@@ -151,14 +151,25 @@ BOMBS = [("Frag grenade","C"),("Pipe-bomb","C"),("Fire bomb (promethium)","C"),(
          ("Krak grenade","U"),("Choke gas grenade","U"),("Cult gas bottle (gas of their god)","U"),("Melta bomb","R")]
 # Grenadiers (the player, day 48): one extra random grenade, found or made, from their league's list, by wealth.
 GRENADES = {
- "cultist": [("Frag grenade","C"),("Fire bottle (scrap)","C"),("Pipe-bomb (frag, short fuse; a natural 1 goes off in hand)","U"),
-             ("Choke gas grenade","U"),("Cult gas bottle (gas of their god)","U"),("Krak grenade (stolen)","R")],
- "raider": [("Frag grenade","C"),("Fire bottle (scrap)","C"),("Smoke grenade","U"),("Choke gas grenade","U"),("Krak grenade (stolen)","R")],
- "pirate": [("Frag grenade","C"),("Smoke grenade","C"),("Breaching charge","U"),("Krak grenade","U"),("Melta bomb (stolen)","R")],
- "traitor": [("Frag grenade","C"),("Smoke grenade","C"),("Krak grenade","U"),("Photon flash grenade","U"),("Melta bomb","R")],
+ "cultist": [("Frag grenade","C"),("Fire bottle (scrap)","C"),("Tin-can bomb (scrap)","C"),
+             ("Pipe-bomb (frag, short fuse; a natural 1 goes off in hand)","U"),("Choke gas grenade","U"),
+             ("Cult gas bottle (gas of their god)","U"),("Incendiary grenade","U"),("Air-frag 'blender' grenade","U"),
+             ("Krak grenade (stolen)","R"),("Plasma grenade (stolen)","R")],
+ "raider": [("Frag grenade","C"),("Fire bottle (scrap)","C"),("Tin-can bomb (scrap)","C"),("Smoke grenade","U"),
+            ("Choke gas grenade","U"),("Incendiary grenade","U"),("Air-frag 'blender' grenade","U"),
+            ("Krak grenade (stolen)","R"),("Plasma grenade (stolen)","R")],
+ "pirate": [("Frag grenade","C"),("Smoke grenade","C"),("Fire bottle (scrap)","C"),("Breaching charge","U"),("Krak grenade","U"),
+            ("Photon flash grenade","U"),("Incendiary grenade","U"),("Air-frag 'blender' grenade","U"),
+            ("Melta bomb (stolen)","R"),("Plasma grenade","R"),("Haywire grenade (machine-killer)","R"),("Vox-jammer grenade","R")],
+ "traitor": [("Frag grenade","C"),("Smoke grenade","C"),("Krak grenade","U"),("Photon flash grenade","U"),("Choke gas grenade","U"),
+             ("Incendiary grenade","U"),("Air-frag 'blender' grenade","U"),
+             ("Melta bomb","R"),("Plasma grenade","R"),("Haywire grenade (machine-killer)","R")],
  "commoner": [("Fire bottle (scrap)","C"),("Cracker bundle (firecracker flashbang)","C"),("Tin-can bomb (scrap)","C"),
-              ("Frag grenade (old PDF stock)","U"),("Mining charge (farm demolition)","R")],
- "traitor_elite": [("Frag grenade","C"),("Krak grenade","C"),("Photon flash grenade","U"),("Choke gas grenade","U"),("Melta bomb","R")],
+              ("Frag grenade (old PDF stock)","U"),("Smoke grenade (old PDF stock)","U"),("Mining charge (farm demolition)","R")],
+ "traitor_elite": [("Frag grenade","C"),("Krak grenade","C"),("Photon flash grenade","U"),("Choke gas grenade","U"),
+                   ("Incendiary grenade","U"),("Air-frag 'blender' grenade","U"),("Melta bomb","R"),("Plasma grenade","R"),
+                   ("Spec flash grenade","R"),("Haywire grenade (machine-killer)","R"),("Vox-jammer grenade","R"),
+                   ("Stun grenade (Arbites)","R"),("Psyker overload grenade","R"),("Sticky warp-shock grenade (Mechanicus)","R")],
 }
 ranged_share = 0.75 if kind.startswith("traitor") else 0.5  # soldiers mostly fight with guns
 # Specialist kits (day 47): roles that are their kit always take the preset; a random kit keeps the role's desired
