@@ -73,6 +73,10 @@ the cluster; throws to **flush people out of cover** for the shooters; and goes 
 a target caught in a **cramped space**. Throws into doorways before anyone goes
 through.
 
+**One extra grenade (the player, Ash on Ostrava day 48):** whatever their kit (preset or random), every
+grenadier also carries **one more random grenade, found or made**, from their league's list, by wealth
+(the roller adds it: `EXTRA GRENADE (grenadier; found/made)`).
+
 *Side note: cultist and raider grenadiers don't think, they just lob. Careless:
 they throw even when it puts their own team in danger, and they throw several
 grenades into the same spot.*

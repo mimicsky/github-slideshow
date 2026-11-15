@@ -149,6 +149,17 @@ sidearms = [r for r in P["weapon"] if any(x in r[0].lower() for x in ("pistol", 
 # Bomb zealots (player-set): their extra is always 3-5 explosives, all strapped on.
 BOMBS = [("Frag grenade","C"),("Pipe-bomb","C"),("Fire bomb (promethium)","C"),("Mining charge","C"),
          ("Krak grenade","U"),("Choke gas grenade","U"),("Cult gas bottle (gas of their god)","U"),("Melta bomb","R")]
+# Grenadiers (the player, day 48): one extra random grenade, found or made, from their league's list, by wealth.
+GRENADES = {
+ "cultist": [("Frag grenade","C"),("Fire bottle (scrap)","C"),("Pipe-bomb (frag, short fuse; a natural 1 goes off in hand)","U"),
+             ("Choke gas grenade","U"),("Cult gas bottle (gas of their god)","U"),("Krak grenade (stolen)","R")],
+ "raider": [("Frag grenade","C"),("Fire bottle (scrap)","C"),("Smoke grenade","U"),("Choke gas grenade","U"),("Krak grenade (stolen)","R")],
+ "pirate": [("Frag grenade","C"),("Smoke grenade","C"),("Breaching charge","U"),("Krak grenade","U"),("Melta bomb (stolen)","R")],
+ "traitor": [("Frag grenade","C"),("Smoke grenade","C"),("Krak grenade","U"),("Photon flash grenade","U"),("Melta bomb","R")],
+ "commoner": [("Fire bottle (scrap)","C"),("Cracker bundle (firecracker flashbang)","C"),("Tin-can bomb (scrap)","C"),
+              ("Frag grenade (old PDF stock)","U"),("Mining charge (farm demolition)","R")],
+ "traitor_elite": [("Frag grenade","C"),("Krak grenade","C"),("Photon flash grenade","U"),("Choke gas grenade","U"),("Melta bomb","R")],
+}
 ranged_share = 0.75 if kind.startswith("traitor") else 0.5  # soldiers mostly fight with guns
 # Specialist kits (day 47): roles that are their kit always take the preset; a random kit keeps the role's desired
 # weapon (the preset kit's first piece) and randomises the off weapon.
@@ -227,6 +238,8 @@ for n in range(count):
     cond = random.choice(["Dirty", "Neglected"]) if kind in ("cultist", "raider") else "Dirty" if kind == "pirate" else "Clean"  # commoners: Clean (they barely fire them and have time to clean)
     if role_d20 >= 16 and role == "veteran": cond = "Clean (a veteran: never Dirty)"
     line = f"{n+1}. {head} | {armour} | {extra} | {stats(role if role_d20 >= 16 else None, "SKITARIUS" in head, bool(OGRYN_KIT.search(head.split("): ", 1)[-1].replace("PRESET: ", ""))))} | guns {cond}"
+    if role_d20 >= 16 and role == "grenadier":
+        line += f"  ** EXTRA GRENADE (grenadier; found/made): {pick(GRENADES[kind])}"
     if n in lucky:
         line += f"  ** FOUND/MADE: {random.choice([f for f in P['found'] if not poor or f[1] != 'R'] or P['found'])[0]}"
     if EPIC_CHANCE and random.random() < EPIC_CHANCE:
