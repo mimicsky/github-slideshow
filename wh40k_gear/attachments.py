@@ -100,14 +100,14 @@ A = [
  ("rim", "Sharpened rim", "U", "rim", {"sh"}, None, None, 0, "a shield bash counts as a blade hit", "kit.md#melee-attachments-day-48"),
  ("c_cord", "Chain-linked cord", "U", "pommel", {"bl", "bt", "pw", "ch"}, r"^(?!.*(two-handed|great|eviscerator|shovel|glaive|sledge|headsman)).*", None, 1, "+1 on the first swing; thrown on its chain ~5 m, back in his hand next beat", "kit.md#melee-attachments-day-48"),
  ("c_balance", "Smith-balanced blade", "U", "balance", {"bl"}, None, None, 1, "+1 on every swing", "kit.md#melee-attachments-day-48"),
- ("c_throwbal", "Throwing balance", "U", "throwbal", {"bl"}, r"^(?!.*(two-handed|heavy|great|headsman)).*(knife|machete|hatchet|cleaver|axe)", None, 1, "can be thrown once like a throwing knife (~10 m)", "kit.md#melee-attachments-day-48"),
+ ("throwbal", "Throwing balance", "U", "throwbal", {"bl"}, r"^(?!.*(two-handed|heavy|great|headsman)).*(knife|machete|hatchet|cleaver|axe)", None, 0, "can be thrown once like a throwing knife (~10 m)", "kit.md#melee-attachments-day-48"),
  ("c_wristblade", "Leather wrist-sheath (hidden blade)", "U", "rig", {"bl"}, r"knife|dagger|stiletto|shank", None, 1, "can't be disarmed; +5 to keep it hidden; +3 on the first swing against each target (the surprise), even mid-melee", "kit.md#melee-attachments-day-48"),
  ("c_chguard", "Chain guard", "U", "chguard", {"ch"}, None, None, 1, "the chain can't be caught on a parry; +1 to parry", "kit.md#melee-attachments-day-48"),
  ("c_tritip", "Triangle-tipped point", "U", "point", {"bl", "pw"}, r"knife|dagger|stiletto|sword|sabre|cutlass|shank|blade|spear", None, 1, "a hit that lands: -1 on their next swing; downed by it: -3 on the survival d6", "kit.md#melee-attachments-day-48"),
  ("c_tunedfield", "Tuned field", "U", "field", {"pw"}, None, None, 1, "its cell holds +5 power-mode swings", "kit.md#melee-attachments-day-48"),
- ("c_10deg", "10-degree edge", "U", "edge", {"bl"}, None, None, 1, "against no armour a hit drops an extra step; a hit on armour, d6: 5 the edge dulls (no bonus till re-sharpened), 6 the blade breaks", "kit.md#melee-attachments-day-48"),
- ("c_cappedhead", "Ceramite-capped head", "R", "head", {"bt"}, None, None, 1, "a hit the armour shrugs still counts 2 toward wear-down", "kit.md#melee-attachments-day-48"),
- ("c_skeleton", "Skeleton grip", "U", "mgrip", MELEE, None, None, 1, "lighter and quicker: +1 on swings and parries; disarms against him +2", "kit.md#melee-attachments-day-48"),
+ ("10deg", "10-degree edge", "U", "edge", {"bl"}, None, None, 0, "against no armour a hit drops an extra step; a hit on armour, d6: 5 the edge dulls (no bonus till re-sharpened), 6 the blade breaks", "kit.md#melee-attachments-day-48"),
+ ("cappedhead", "Ceramite-capped head", "R", "head", {"bt"}, None, None, 0, "a hit the armour shrugs still counts 2 toward wear-down", "kit.md#melee-attachments-day-48"),
+ ("skeleton", "Skeleton grip", "U", "mgrip", MELEE, None, None, 0, "lighter and quicker: +1 on swings and parries; disarms against him +2", "kit.md#melee-attachments-day-48"),
  ("c_promethium", "Promethium can and blade line", "R", "fuel", {"bl", "ch"}, None, None, 1, "lit (on/off free): a hit sets the target alight on a d6 5-6; 1 charge a lit beat, 6 to a can (a fire bottle or a flamer canister refills it)", "kit.md#melee-attachments-day-48"),
  # ammo (day 47): one special load per gun ('load' slot); a magazine holds one load at a time.
  # The player: special ammo is easy to get (uncommon); armour-piercing is better (rare).

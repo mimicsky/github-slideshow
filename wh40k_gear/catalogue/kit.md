@@ -723,7 +723,7 @@ checks one target; enemies stacked one behind another: only the front one. On th
 ## Melee attachments (day 48)
 
 Designed by the player, Ash on Ostrava day 48, because the melee list was thin (plain blades and clubs kept drawing
-the hardwood grip). **Regular** parts are sold; **custom** parts are a smith's work (no trader carries them; an enemy's is
+the hardwood grip). **Regular** parts are sold (the 10-degree edge, throwing balance, skeleton grip and ceramite-capped head made regular by the player, day 48); **custom** parts are a smith's work (no trader carries them; an enemy's is
 his own smith's version). All roll on enemies' and allies' weapons like any attachment (attachments.md, The rollable
 list): one per slot.
 
@@ -736,20 +736,8 @@ list): one per slot.
 - **Flanged head** (uncommon; blunt; head): **on a solid hit, it gets through one armour step further** than it
   normally could.
 - **Sharpened rim** (uncommon; shields; rim): **a shield bash counts as a blade hit.**
-
-**Custom (special-made)**
-- **Chain-linked cord** (uncommon; anything one-handed with a pommel; pommel): **+1 on the first swing**; the weapon
-  can be **thrown on its chain ~5 m** and is **back in his hand next beat**.
-- **Smith-balanced blade** (uncommon; blades; balance): **+1 on every swing.**
 - **Throwing balance** (uncommon; knives, machetes, hatchets, one-handed axes): can be **thrown once like a throwing
   knife (~10 m)**.
-- **Leather wrist-sheath, hidden blade** (uncommon; knives only; rig): **can't be disarmed**; **+5 to keep it
-  hidden** (searches, a pat-down); **+3 on the first swing against each target** (the surprise), even mid-melee
-  (DM's reading of 'the first swing of any attack': once per target).
-- **Chain guard** (uncommon; chain weapons): the chain **can't be caught on a parry**; **+1 to parry**.
-- **Triangle-tipped point** (uncommon; pointed blades and power blades; point): **a hit that lands: -1 on their next
-  swing**; anyone **taken Down by it: -3 on the survival d6.**
-- **Tuned field** (uncommon; power weapons; field, so not with the tuning kit): **its cell holds +5 power-mode swings.**
 - **10-degree edge** (uncommon; blades; edge, so not with a serrated edge): **against no armour, a hit cuts deep and
   drops an extra health step.** But **a hit on armour, d6: 5 the edge dulls** (no bonus until it's re-sharpened),
   **6 the blade breaks.**
@@ -757,6 +745,18 @@ list): one per slot.
   toward wear-down.**
 - **Skeleton grip** (uncommon; any melee; grip): lighter and quicker: **+1 on swings and parries**, but
   **disarms against him +2.**
+
+**Custom (special-made)**
+- **Chain-linked cord** (uncommon; anything one-handed with a pommel; pommel): **+1 on the first swing**; the weapon
+  can be **thrown on its chain ~5 m** and is **back in his hand next beat**.
+- **Smith-balanced blade** (uncommon; blades; balance): **+1 on every swing.**
+- **Leather wrist-sheath, hidden blade** (uncommon; knives only; rig): **can't be disarmed**; **+5 to keep it
+  hidden** (searches, a pat-down); **+3 on the first swing against each target** (the surprise), even mid-melee
+  (DM's reading of 'the first swing of any attack': once per target).
+- **Chain guard** (uncommon; chain weapons): the chain **can't be caught on a parry**; **+1 to parry**.
+- **Triangle-tipped point** (uncommon; pointed blades and power blades; point): **a hit that lands: -1 on their next
+  swing**; anyone **taken Down by it: -3 on the survival d6.**
+- **Tuned field** (uncommon; power weapons; field, so not with the tuning kit): **its cell holds +5 power-mode swings.**
 - **Promethium can and blade line** (rare; blades and chain weapons; fuel): a small can under the hilt and a thin
   line along the blade. **Lit (on or off, free), the blade burns: a hit sets the target alight on a d6 5-6.**
   **Each lit beat uses 1 charge; a can holds 6** (DM's default), refilled from a fire bottle or a flamer canister.
