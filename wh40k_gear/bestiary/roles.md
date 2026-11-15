@@ -710,7 +710,9 @@ Sisters, militia), or an NPC who matters. They're rolled like an enemy, from the
 list** (the Light counts as traitor elite), with kit, armour, extra and traits, **read as loyal** (no cult
 marks; heretic gear swapped for its loyal equivalent). A group of allied soldiers can go through
 `roll_enemy.py` with the type that matches them (**commoner**: militia and civilians; **traitor**: Guard and
-PDF troopers; **traitor_elite**: storm troopers, Scions, Ordo teams), read the same way. The steps:
+PDF troopers; **traitor_elite**: storm troopers, Scions, Ordo teams), read the same way. **The script does it all:**
+`python3 roll_ally.py TYPE COUNT [WEALTH] [join]` (the enemy roller read as loyal, plus traits) and
+`python3 roll_ally.py sister [COUNT] [WEALTH] [join] [vows]` (Sisters Novitiate). The steps it follows:
 
 1. **STR and DEX** by background: **civilians** STR 10-30, DEX 10-25; **regular
    soldiers** (Guard troopers, station security) STR 20-35, DEX 25-40;
