@@ -14,7 +14,7 @@ applies.
 
 ## Index (open only the roles in the fight)
 
-[Grunt (ranged)](#grunt-ranged) · [Grunt (melee)](#grunt-melee) · [Sniper](#sniper) · [Grenadier](#grenadier) · [Heavy gunner](#heavy-gunner) · [Heavy team](#heavy-team) · [Plasma / melta gunner](#plasma--melta-gunner) · [Flamer](#flamer) · [Demolitions](#demolitions) · [Medic](#medic) · [Chem-doctor](#chem-doctor) · [Leader](#leader) · [Bodyguard](#bodyguard) · [Enforcer](#enforcer) · [Icon bearer](#icon-bearer) · [Rogue psyker](#rogue-psyker) · [Vox / auspex](#vox--auspex) · [Tech-adept / heretek](#tech-adept--heretek) · [Breacher](#breacher) · [Assassin](#assassin) · [Infiltrator](#infiltrator) · [Gunslinger](#gunslinger) · [Brute / mutant](#brute--mutant) · [Beast handler](#beast-handler) · [Herder](#herder) · [Berserker](#berserker) · [Bomb zealot](#bomb-zealot) · [Blessed](#blessed) · [Jumper](#jumper) · [Duelist](#duelist) · [Commander](#commander) · [Fighter pilot](#fighter-pilot) · [Spotter](#spotter) · [Tracker](#tracker) · [Zealot](#zealot) · [Skitarius](#skitarius) · [Arbitrator](#arbitrator) · [Rolling new people (recruits and NPCs)](#rolling-new-people-recruits-and-npcs) · [Ogryn](#ogryn) · [Shield trooper](#shield-trooper) · [Mauler](#mauler) · [Mutant charger](#mutant-charger) · [Mortar team](#mortar-team)
+[Grunt (ranged)](#grunt-ranged) · [Grunt (melee)](#grunt-melee) · [Sniper](#sniper) · [Grenadier](#grenadier) · [Heavy gunner](#heavy-gunner) · [Heavy team](#heavy-team) · [Plasma / melta gunner](#plasma--melta-gunner) · [Flamer](#flamer) · [Demolitions](#demolitions) · [Medic](#medic) · [Chem-doctor](#chem-doctor) · [Leader](#leader) · [Bodyguard](#bodyguard) · [Enforcer](#enforcer) · [Icon bearer](#icon-bearer) · [Rogue psyker](#rogue-psyker) · [Vox / auspex](#vox--auspex) · [Tech-adept / heretek](#tech-adept--heretek) · [Breacher](#breacher) · [Assassin](#assassin) · [Infiltrator](#infiltrator) · [Gunslinger](#gunslinger) · [Brute / mutant](#brute--mutant) · [Beast handler](#beast-handler) · [Herder](#herder) · [Berserker](#berserker) · [Bomb zealot](#bomb-zealot) · [Blessed](#blessed) · [Jumper](#jumper) · [Duelist](#duelist) · [Commander](#commander) · [Fighter pilot](#fighter-pilot) · [Spotter](#spotter) · [Tracker](#tracker) · [Zealot](#zealot) · [Skitarius](#skitarius) · [Arbitrator](#arbitrator) · [Sister Novitiate](#sister-novitiate) · [Rolling new people (recruits and NPCs)](#rolling-new-people-recruits-and-npcs) · [Ogryn](#ogryn) · [Shield trooper](#shield-trooper) · [Mauler](#mauler) · [Mutant charger](#mutant-charger) · [Mortar team](#mortar-team)
 
 ## Grunt (ranged)
 
@@ -674,6 +674,30 @@ prisoner. **Never surrenders.**
 *Side note: rolled for a new person or an ally (Rolling new people, below), an arbitrator is a
 **loyal** Arbites enforcer: same kit and rules, and the "HALT!" works for the Light.*
 
+## Sister Novitiate
+
+**Who has it:** **allies only** (player-set, Ash on Ostrava day 48): novices of the Adepta Sororitas, met
+through the story (a convent, a mission, the Schola), not from the recruit roll. Never rolled for enemies
+(a fallen version: not set).
+
+A Schola-raised girl chosen for an Order of the Adepta Sororitas, **not yet sworn**: robes over light
+armour (flak, or a carapace chest piece), **no power armour** until she takes her vows. She fights in
+the worst of it to earn them.
+
+- **Position: the front**, first into the charge.
+- **Shield of faith:** **+1 against fear and break checks, and on saves against the warp and
+  corruption** (stacks with Pious and seals). **She never breaks or surrenders.**
+- **Act of faith, once a fight:** she prays and **rerolls any one of her own rolls** (the second stands).
+- **Her calling** (chosen, or a d6 when she's met: 1-4 Militant, 5 Hospitaller, 6 Dialogus):
+  - **Militant:** the fighter: **+1 on melee rolls in a beat she charges.**
+  - **Hospitaller:** a field medic: **patches like a Medic** (d20 + WIS + 4 vs 15).
+  - **Dialogus:** the voice: **once a fight, a hymn or holy word: allies within ~10 m +1 on their next roll.**
+- **Stats:** Schola-trained: the regular soldiers' range (STR 20-35, DEX 25-40); one close to her vows,
+  elite-trained (STR 25-45, DEX 35-50).
+- **Kit:** the sister novitiate list (Role weapons, below).
+- **A sworn Battle Sister** is a step above: Sororitas power armour and a boltgun or flamer (the shop
+  pools' Sororitas gear), the same Shield of faith and Act of faith; an NPC tier, not a recruit roll.
+
 ## Rolling new people (recruits and NPCs)
 
 Set by the player, session 9. Someone new and at least slightly important is rolled
@@ -690,6 +714,8 @@ like an enemy, from the **traitor-elite role list** (the Light counts as traitor
    enforcer**: the Arbitrator role's kit and rules, on our side (shield or hound, "HALT!" once a fight).
 5. An **enforcer** roll (player-set, Ash on Ostrava day 48) makes them a **loyal commissar**: the
    Enforcer role's kit and rules, on our side (front line, the rousing-speech streak).
+6. **Sisters Novitiate** (player-set, Ash on Ostrava day 48) don't come from this roll: they're met in the
+   story (a convent, a mission, the Schola). See Sister Novitiate.
 
 ## Ogryn
 
@@ -817,6 +843,7 @@ psyker, beast handler, mutant charger) always take the preset. The lists live in
 - **sniper:** Scoped lasgun (common); Scoped autogun (common); Hunting rifle, 'Kasr Stag' pattern, with a scope (common); Hunting stub rifle with an old scope (common); Long-las, Mezoa (uncommon); Long-las, 'Kasr Sprinter' stripped pattern (uncommon); Compound bow, 'Kasr Kestrel' pattern, and a quiver of steel arrows (uncommon); Long-las, Helbore (rare); Vraks-pattern sniper autorifle (rare); Hot-shot long-las with range-finder (rare); Charge long-las, 'Kasr Lance' pattern (rare)
 - **spotter:** Magnoculars (common); Range-finder magnoculars (uncommon); Auspex (uncommon); Vox-caster and range-finder magnoculars (rare)
 - **tech-adept:** Servo-arm and a repair kit (common); Scrap-built auto-turret and a cutting torch (uncommon); Vox jammer and a servo-skull (uncommon); Heavy auto-turret and a servo-arm (rare)
+- **sister novitiate:** Autopistol and a chainsword (common); Autogun (common); Autopistol and a novitiate's mace (common); Laspistol and a chainsword (common); Sacred banner and an autopistol (uncommon); Hand flamer and an autopistol (uncommon); Bolt pistol and a chainsword (uncommon); Sororitas bolt pistol (Godwyn-De'az) and a blessed power maul (rare); Inferno pistol (Sororitas) and a chainsword (rare); Sororitas power sword and a bolt pistol (rare)
 - **tracker:** Two war dogs on leashes (common); Magnoculars and a hunting rifle (common); Auspex (uncommon); Bio-scanner (rare)
 - **vox:** Vox-caster (common); Vox-caster and an auspex (uncommon); Vox-caster and a spoof-tag (uncommon); Vox jammer (rare)
 - **zealot:** Chainsword (common); Chain axe (common); Flamer-torch (uncommon); Power maul (rare); Eviscerator (rare)

@@ -63,6 +63,11 @@ ROLE_WEAPONS = {
               ("Bolt pistol and an officer's sabre", "U"), ("Bolt pistol and a chainsword", "U"),
               ("Bolt pistol and a power sword", "R"), ("Hellpistol and a power sword", "R"),
               ("Plasma pistol and a power sword", "R")],
+ "sister novitiate": [("Autopistol and a chainsword", "C"), ("Autogun", "C"), ("Autopistol and a novitiate's mace", "C"),
+                      ("Laspistol and a chainsword", "C"), ("Sacred banner and an autopistol", "U"), ("Hand flamer and an autopistol", "U"),
+                      ("Bolt pistol and a chainsword", "U"), ("Sororitas bolt pistol (Godwyn-De'az) and a blessed power maul", "R"),
+                      ("Inferno pistol (Sororitas) and a chainsword", "R"), ("Sororitas power sword and a bolt pistol", "R")],
+                      # allies only (the player, Ash on Ostrava day 48)
  "berserker": [("Chainsword", "C"), ("Chain axe", "C"), ("Heavy scrap axe", "C"), ("Saw-cleaver", "C"), ("Two chain axes", "U"),
                ("Eviscerator", "R"), ("Great chain axe, 'Butcher' pattern", "R"), ("Power axe", "R")],
  "mauler": [("Heavy scrap axe", "C"), ("Two-handed boarding axe", "C"), ("Headsman's axe (two-handed)", "U"), ("Chain glaive (two-handed)", "U"),
