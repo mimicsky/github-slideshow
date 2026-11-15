@@ -685,8 +685,8 @@ shots, no wasted movement, never in the open longer than needed.
 - **Experience:** **+10 to their best stat** (STR or DEX, whichever is higher; the roller adds it).
 - **Practised:** **+1 on DEX rolls.**
 - **Clean guns:** **their guns never go Dirty**, whatever their league (the roller marks it).
-- **Peek and duck, always:** when there's cover in reach, they **always** shoot by the Peek and duck
-  rule (codex Part 6, Cover): out, the string, back in. They never stand in the open to shoot.
+- **Peek and duck, always:** from cover, they **always** shoot by the Peek and duck rule (codex Part 6,
+  Cover): peek out, the string, back in. They get to cover first and never stand in the open to shoot.
 - **Steady:** **+1 against fear and break checks.** They know when a fight's lost: they **surrender or
   fall back** rather than die for nothing, but they don't panic.
 - **Kit:** their league's veteran kit, or a random kit from the veteran list (Role weapons, below); their

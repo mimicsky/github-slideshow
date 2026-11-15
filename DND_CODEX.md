@@ -663,17 +663,15 @@ side it blocks. Shots from behind or above it ignore it.
 | **Full** | behind a bulkhead or closed hatch, out of sight | **can't be shot**, except by through-cover weapons (anti-materiel rifles), blasts round it (grenades), or flamers |
 
 - **Shooting from cover** costs nothing; **moving** out of it loses it for that beat.
-- **Peek and duck (set by the player, Ash on Ostrava day 48):** anyone doing a shot string can **pop out of
-  full cover to shoot, or dive into cover in reach after shooting** (the beat's short move):
-  - **Coming out of full cover:** the **first shot of the string is -1** (a rushed shot); then the rest of the
-    string as normal; then they duck back in.
+- **Peek and duck (set by the player, Ash on Ostrava day 48):** anyone **in cover** doing a shot string can
+  **peek out of it, shoot, and rush back in:**
+  - **Peeking out:** the **first shot of the string is -1** (rushing out to shoot); then the rest of the
+    string as normal; then they rush back into cover.
   - **The window:** as they go back into cover, **the other side gets 2 shots at them in all** (the first two
     shots aimed at them that beat, from anyone), **with no cover** (they're mid-duck: two rounds off the
     plate or past the ear).
   - **Then they're in full cover: safe from shots for the rest of that beat** (except what full cover never
     stops: through-cover guns, grenades round it, flamers).
-  - **Starting in the open** with cover in reach: the string (no -1), then into cover: the same 2-shot
-    window, then safe.
   - Shooting from light, half or heavy cover is unchanged: free, and they keep that cover.
 - **Light cover breaks**: two or three heavy hits (or a shotgun at close range) and it's gone.
 - **Grenades** and flames ignore cover that doesn't close over the target.
