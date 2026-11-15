@@ -745,6 +745,19 @@ list): one per slot.
   toward wear-down.**
 - **Skeleton grip** (uncommon; any melee; grip): lighter and quicker: **+1 on swings and parries**, but
   **disarms against him +2.**
+- **Scrap spikes** (common; blunt; head): scrap spikes welded onto the head: it dents armour and bites deeper:
+  **a solid hit when he beats the number by 2+, not 3+** (the player, day 48).
+- **Tri-stand** (uncommon; shields; stand): a folding three-legged stand that sets the shield down at an angle.
+  **Planting it or lifting it is the beat's short move**, so it's **plant and shoot, or lift and shoot, with no other
+  move.** Planted, it's **full cover from the front with his hands free**: he shoots from behind it by **peek and
+  duck** (codex, Cover), not the shield's one-handed blind fire.
+- **Wide hilt** (common; swords and power swords; guard, so not with a basket hilt): **+1 to parry, -1 on the first
+  swing of a chain.**
+- **Spiked pommel** (uncommon; anything one-handed with a pommel; pommel, so not with a chain-linked cord):
+  **one more swing at the end of every chain: a pommel strike.** A hit **staggers (-1 on their next roll)** and
+  **counts 2 toward armour wear-down.**
+- **Staff regulator** (rare; psyker staffs and staves; regulator): a damper on the staff's crystal: **every charged
+  power takes 1 more beat to charge, but no Perils roll while it's fitted.**
 
 **Custom (special-made)**
 - **Chain-linked cord** (uncommon; anything one-handed with a pommel; pommel): **+1 on the first swing**; the weapon
@@ -761,3 +774,10 @@ list): one per slot.
   line along the blade. **Heavy: -2 to parry with it** (the player, day 48). **Lit (on or off, free), the blade burns:
   -1 on swings while lit** (the flame and the weight; DM's call on the player's 'maybe'), **and a hit sets the target alight on a d6 5-6.**
   **Each lit beat uses 1 charge; a can holds 6** (DM's default), refilled from a fire bottle or a flamer canister.
+- **Blaze force enhancer** (rare; force weapons: force swords, witch-knives, psyker staffs; enhancer): wired into the
+  focus crystal. **Imbued (in a psyker's hands), the weapon hits one step harder.** But **a raw 1-3 on an imbued
+  swing** and the force is too much: **the warp flings the weapon out of his hands** (~d6 m away; a beat to fetch it).
+
+**Main and short move (a beat):** every beat is **one main thing** (a shot string, a throw, a launcher shot, a melee
+chain, a patch, reload, vent, jam clear, item, hop or sprint) **plus a short move** (a few metres, or to the next
+cover). The tri-stand's plant or lift **is** the short move (fight card; codex, A beat).

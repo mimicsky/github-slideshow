@@ -27,14 +27,14 @@ SIGHT = PIST | RIFLE | {"smg", "sg", "mg"}
 RECOIL = {"sp", "smg", "sr", "sg", "bp", "br", "hs"}
 HAND = SIGHT  # guns a hand holds and a grip sleeve fits
 # Melee (day 47): ch chain, pw power, bl edged blade, bt blunt, sh shield.
-MELEE = {"ch", "pw", "bl", "bt"}
+MELEE = {"ch", "pw", "bl", "bt", "st"}  # st: psyker staffs and staves (day 48)
 STUBCAL = r"(?<!auto-)revolver|stub pistol|stub automatic|hand cannon|lever|hunting stub|stub rifle|boarding pistol"
 AUTOCAL = r"autogun|autopistol|autorifle|auto-revolver|hammerfall|submachine|rattler|machine pistol|chain-fed|kasr stag|burst pistol"
 NAMES = {"lp": "las pistols", "lr": "las rifles", "sp": "stub pistols", "smg": "SMGs", "sr": "autoguns and stub rifles",
          "sg": "shotguns", "bp": "bolt pistols", "br": "boltguns", "pp": "plasma pistols", "pg": "plasma guns",
          "np": "needle pistols", "nr": "needle rifles", "hf": "hand flamers", "fl": "flamers", "hs": "heavy stubbers",
          "hv": "heavy weapons", "gl": "grenade launchers", "mo": "mortars", "mg": "meltaguns",
-         "bw": "bows", "ch": "chain weapons", "pw": "power weapons", "bl": "blades", "bt": "blunt weapons", "sh": "shields"}
+         "bw": "bows", "ch": "chain weapons", "pw": "power weapons", "bl": "blades", "bt": "blunt weapons", "sh": "shields", "st": "psyker staffs"}
 
 K = "kit.md#"
 MORE = K + "more-attachments-player-picks-ash-on-ostrava-session-10"
@@ -98,6 +98,12 @@ A = [
  ("serrated", "Serrated edge", "U", "edge", {"bl"}, None, None, 0, "against no armour a hit drops an extra step; anyone it downs is -2 on the survival d6 after the fight", "kit.md#melee-attachments-day-48"),
  ("flanged", "Flanged head", "U", "head", {"bt"}, None, None, 0, "on a solid hit, through one armour step further than it normally gets", "kit.md#melee-attachments-day-48"),
  ("rim", "Sharpened rim", "U", "rim", {"sh"}, None, None, 0, "a shield bash counts as a blade hit", "kit.md#melee-attachments-day-48"),
+ ("scrapspikes", "Scrap spikes", "C", "head", {"bt"}, None, None, 0, "dents and bites: a solid hit when he beats the number by 2+, not 3+", "kit.md#melee-attachments-day-48"),
+ ("tristand", "Tri-stand", "U", "stand", {"sh"}, None, None, 0, "planting or lifting the shield is the beat's short move (plant and shoot, or lift and shoot; no other move); planted: full cover from the front, hands free: he shoots from it by peek and duck", "kit.md#melee-attachments-day-48"),
+ ("widehilt", "Wide hilt", "C", "guard", {"bl", "pw"}, r"sword|sabre|cutlass|rapier|blade", None, 0, "+1 to parry; -1 on the first swing of a chain", "kit.md#melee-attachments-day-48"),
+ ("spikepommel", "Spiked pommel", "U", "pommel", {"bl", "bt", "pw", "ch"}, r"^(?!.*(two-handed|great|eviscerator|shovel|glaive|sledge|headsman)).*", None, 0, "one more swing at the end of every chain: a pommel strike; a hit staggers (-1 on their next roll) and counts 2 toward wear-down", "kit.md#melee-attachments-day-48"),
+ ("regulator", "Staff regulator", "R", "regulator", {"st"}, None, None, 0, "every charged power takes 1 more beat to charge, but no Perils roll while it's fitted", "kit.md#melee-attachments-day-48"),
+ ("c_blazeenh", "Blaze force enhancer", "R", "enhancer", {"bl", "st"}, r"force|witch-knife|staff|stave", None, 1, "imbued (a psyker's hands): hits one step harder; a raw 1-3 on an imbued swing and the warp flings it out of his hands (~d6 m; a beat to fetch)", "kit.md#melee-attachments-day-48"),
  ("c_cord", "Chain-linked cord", "U", "pommel", {"bl", "bt", "pw", "ch"}, r"^(?!.*(two-handed|great|eviscerator|shovel|glaive|sledge|headsman)).*", None, 1, "+1 on the first swing; thrown on its chain ~5 m, back in his hand next beat", "kit.md#melee-attachments-day-48"),
  ("c_balance", "Smith-balanced blade", "U", "balance", {"bl"}, None, None, 1, "+1 on every swing", "kit.md#melee-attachments-day-48"),
  ("throwbal", "Throwing balance", "U", "throwbal", {"bl"}, r"^(?!.*(two-handed|heavy|great|headsman)).*(knife|machete|hatchet|cleaver|axe)", None, 0, "can be thrown once like a throwing knife (~10 m)", "kit.md#melee-attachments-day-48"),
@@ -246,7 +252,8 @@ TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b"), ("pp", r"p
 MTYPES = [("sh", r"shield"), ("pw", r"power (sword|axe|maul|knife|fist|mace|blade|odachi)|thunder hammer|relic blade"),
           ("ch", r"chainsword|chain axe|chain-axe|chain knife|chain glaive|chain blade|eviscerator"),
           ("bl", r"knife|machete|cutlass|sabre|sword|cleaver|axe|shank|blade|stiletto|shovel"),
-          ("bt", r"club|maul|mace|hammer|flail|baton|prod|knuckle|girder|pick\b")]
+          ("bt", r"club|maul|mace|hammer|flail|baton|prod|knuckle|girder|pick\b"),
+          ("st", r"\bstaff\b|\bstave\b")]
 BUILTIN = [("optic", r"scope|range-finder|sprinter|kasr lance"), ("mag", r"drum|100-shot box"),
            ("muzzle", r"silenced|suppressed"), ("bayonet", r"bayonet|krieg"), ("tripod", r"tripod"),
            ("barrel", r"heavy barrel|long barrel|long-barrel|stub barrel"), ("stock", r"folding stock"),
