@@ -557,7 +557,8 @@ game-breaking.
 - **Where they're written:** the Light's in their entries in the campaign's world file and on the
   sheet; enemies' in the fight's roster in the DM notes; NPCs' in their world-file row.
 - **When they're rolled:** enemies when the group is rolled; NPCs the first time they matter; the
-  Light all at once when the system starts, then each new recruit when they join.
+  Light all at once when the system starts, then each new recruit when they join, **and every new ally
+  they meet (an allied soldier or unit, a Sister, an NPC who matters): the full roll, as a friendly** (the player, Ash on Ostrava day 48; bestiary roles, Rolling new people).
 
 **Good traits (d36)**
 
