@@ -108,6 +108,9 @@ def stats(role, skitarius=False, ogryn=False):
     if role in STR_ROLES and role != "ogryn": st += 5
     if role in DEX_ROLES: dx += 5
     if team: st, dx = st + 5, dx + 5
+    if role == "veteran":  # Veteran (the player, day 48): +10 to the best of STR and DEX
+        if st >= dx: st += 10
+        else: dx += 10
     return f"STR {st} (+{st // 10}) DEX {dx} (+{dx // 10})"
 P = E[kind]
 sys.path.insert(0, here)
@@ -222,6 +225,7 @@ for n in range(count):
     if head.startswith("SPECIALIST BOMB ZEALOT"):
         extra = "STRAPPED ON: " + ", ".join(pick(BOMBS) for _ in range(random.randint(3, 5)))
     cond = random.choice(["Dirty", "Neglected"]) if kind in ("cultist", "raider") else "Dirty" if kind == "pirate" else "Clean"  # commoners: Clean (they barely fire them and have time to clean)
+    if role_d20 >= 16 and role == "veteran": cond = "Clean (a veteran: never Dirty)"
     line = f"{n+1}. {head} | {armour} | {extra} | {stats(role if role_d20 >= 16 else None, "SKITARIUS" in head, bool(OGRYN_KIT.search(head.split("): ", 1)[-1].replace("PRESET: ", ""))))} | guns {cond}"
     if n in lucky:
         line += f"  ** FOUND/MADE: {random.choice([f for f in P['found'] if not poor or f[1] != 'R'] or P['found'])[0]}"

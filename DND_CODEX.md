@@ -663,6 +663,18 @@ side it blocks. Shots from behind or above it ignore it.
 | **Full** | behind a bulkhead or closed hatch, out of sight | **can't be shot**, except by through-cover weapons (anti-materiel rifles), blasts round it (grenades), or flamers |
 
 - **Shooting from cover** costs nothing; **moving** out of it loses it for that beat.
+- **Peek and duck (set by the player, Ash on Ostrava day 48):** anyone doing a shot string can **pop out of
+  full cover to shoot, or dive into cover in reach after shooting** (the beat's short move):
+  - **Coming out of full cover:** the **first shot of the string is -1** (a rushed shot); then the rest of the
+    string as normal; then they duck back in.
+  - **The window:** as they go back into cover, **the other side gets 2 shots at them in all** (the first two
+    shots aimed at them that beat, from anyone), **with no cover** (they're mid-duck: two rounds off the
+    plate or past the ear).
+  - **Then they're in full cover: safe from shots for the rest of that beat** (except what full cover never
+    stops: through-cover guns, grenades round it, flamers).
+  - **Starting in the open** with cover in reach: the string (no -1), then into cover: the same 2-shot
+    window, then safe.
+  - Shooting from light, half or heavy cover is unchanged: free, and they keep that cover.
 - **Light cover breaks**: two or three heavy hits (or a shotgun at close range) and it's gone.
 - **Grenades** and flames ignore cover that doesn't close over the target.
 - **Suppressed** targets stay down in their cover (Morcant's -2 applies to their shots).
@@ -774,7 +786,7 @@ What the DM has always done, written down so anyone can run it.
 
 - **An enemy group breaks** when its leader falls or half of it is Down. Then an open d20 (changed by the
   player, Ash on Ostrava session 10): **1-10 they surrender, 11-16 they keep fighting, 17-20 they run.**
-  Type shades it: **cultists** rarely surrender, so for them only **1-5 surrenders** (6-16 fight on), unless
+  League shades it: **cultists** rarely surrender, so for them only **1-5 surrenders** (6-16 fight on), unless
   their **leader** has just fallen, when the normal 1-10 applies (bestiary roles, Leader: 'more likely to
   surrender, even fanatics'). Pirates and traitors fall back to better ground rather than give up early.
   (An enforcer still stops breaking while it stands: bestiary roles.) A group that keeps fighting can be
@@ -1130,7 +1142,7 @@ their purse by how they live. Valuables (gems, gold, rings) come on top.
 | Very rich: rogue trader, noble house, a broker like Thask (strongbox or vault, not purse) | d10 x 2,000 (2,000-20,000) |
 
 **Special teams and the bestiary (set by the player, session 8).** Before a fight,
-2d20 added: 31-40 makes the group a named special team of its type (+5 STR and DEX levels, +1 on other
+2d20 added: 31-40 makes the group a named special team of its league (+5 STR and DEX levels, +1 on other
 rolls, armour one step better, +3 to the better-armed d20, favoured weapons). The
 teams' lore, look, weapons and tactics are in
 [`wh40k_gear/bestiary/README.md`](wh40k_gear/bestiary/README.md) (a table of
@@ -1140,11 +1152,11 @@ contents; open only the team that shows up). The roller does the 2d20.
 raiders, pirates, traitor soldiers (renegade Guard) and traitor elites (traitor
 storm troopers, renegade Inquisition kill-teams, always rolled at elite weights) carry gear rolled from their own pools in
 [`wh40k_gear/enemies.json`](wh40k_gear/enemies.json) with
-`python3 wh40k_gear/roll_enemy.py TYPE COUNT [WEALTH] [GOD]`, weighted to common. **Each enemy
+`python3 wh40k_gear/roll_enemy.py TYPE COUNT [WEALTH] [GOD]` (TYPE is the **league**: the player renamed the types 'leagues', day 48), weighted to common. **Each enemy
 rolls a role d20 first:** a low roll is a grunt, a coin flip making them ranged (a gun
 plus melee backup) or melee (a melee weapon, maybe a sidearm; traitor soldiers and
-elites are ranged 75% of the time); a high roll is a **specialist** (16-20), a random role from that enemy type's
-list, carrying that role's kit (1 in 4 also has a melee backup). **Which types have
+elites are ranged 75% of the time); a high roll is a **specialist** (16-20), a random role from that enemy league's
+list, carrying that role's kit (1 in 4 also has a melee backup). **Which leagues have
 which roles, how each role tends to act, and its rules** are in
 `wh40k_gear/bestiary/roles.md` (each role's "Who has it" line); tendencies, not
 scripts. A **two-man team** (a heavy weapon) is one specialist roll but two bodies:
@@ -1167,7 +1179,7 @@ faction (`roll_enemy.py TYPE COUNT WEALTH`). **Cultists, raiders, pirates:** 1-3
 
 An **elite team** (natural 19-20 on the group d20) is **one level richer** than its
 faction. Epic items are drawn from the exotic tier (Astartes trophies, xenos guns, archeotech;
-never Assassinorum gear). Named special teams keep their own rules and carry no scrap. **Each enemy also rolls STR and DEX levels** in its type's range
+never Assassinorum gear). Named special teams keep their own rules and carry no scrap. **Each enemy also rolls STR and DEX levels** in its league's range
 (cultist STR 10-30 / DEX 10-25; raider 15-35 / 15-30; pirate 15-35 / 20-35; traitor
 20-35 / 25-40; traitor elite 25-45 / 35-50), +1 per full 10 levels to their rolls; a
 specialist adds +5 levels to the stat its role uses, a special team +5 to both; other

@@ -4,9 +4,9 @@ Enemy forces the Light can meet. For the DM: read this index; open a team's entr
 when it shows up.
 
 **How enemies are rolled** (`../roll_enemy.py TYPE COUNT [WEALTH] [GOD]`; roll the faction's wealth first with `../roll_enemy.py wealth TYPE`, codex Part 8): every group
-is one of six **basic types** (cultists, raiders, pirates, traitor soldiers,
+is one of six **leagues** (what we call the types: the cultist league, the raider league, the pirate league, the traitor league, the traitor-elite league, the commoner league; named by the player, day 48) (cultists, raiders, pirates, traitor soldiers,
 traitor elites, and commoners: a militia of ordinary people, with no named teams). Before the fight, **2d20 added**: **2-30** a basic group, **31-40** a
-**named special team** of that type (below), about 1 fight in 7. A special team
+**named special team** of that league (below), about 1 fight in 7. A special team
 gets **+5 STR and DEX levels** (+1 on other rolls), **armour one step better**, **+3 to their
 better-armed d20**, and half their guns are the team's favoured weapons. Their
 look and tactics are in their entry, and the DM plays them that way. Every enemy
@@ -25,7 +25,7 @@ The DM decides; these are tendencies.
 **Random:** **his role's weapon or tool is guaranteed, drawn from his role's own list by wealth** (any sniper rifle
 for a sniper, any flamer for a flamer, anything quiet for an assassin or infiltrator, a med-kit for a medic: the lists
 are in [roles.md, Role weapons](roles.md#role-weapons-random-kits)), and **his off weapon is random** (a gun, sidearm
-or melee weapon from the type's lists) (the player, day 47). Roles that are their kit (Ogryn, herder, heavy team, mortar
+or melee weapon from the league's lists) (the player, day 47). Roles that are their kit (Ogryn, herder, heavy team, mortar
 team, bomb zealot, psyker, beast handler, mutant charger) and any Ogryn kit always take the whole preset. The roller
 prints PRESET or RANDOM KIT. **Ogryn kits get Ogryn stats** (STR 60-80) under any role (a brute's 'Renegade Ogryn').
 

@@ -6,7 +6,7 @@ brute is always allowed. Rules in **bold** are the role's mechanics.
 
 **How side notes work: they are add-ons, not replacements.** Each role's main
 entry is how *every* enemy of that role behaves. A side note (for cultists,
-traitor elites, raiders and so on) adds to it for that enemy type. A cultist
+traitor elites, raiders and so on) adds to it for that enemy league. A cultist
 sniper is the basic sniper **plus** the cultist note. Only where a note speaks to
 the same point does it change that one point (the basic sniper moves after two
 shots; a cultist sniper doesn't move); everything else in the main entry still
@@ -14,11 +14,11 @@ applies.
 
 ## Index (open only the roles in the fight)
 
-[Grunt (ranged)](#grunt-ranged) · [Grunt (melee)](#grunt-melee) · [Sniper](#sniper) · [Grenadier](#grenadier) · [Heavy gunner](#heavy-gunner) · [Heavy team](#heavy-team) · [Plasma / melta gunner](#plasma--melta-gunner) · [Flamer](#flamer) · [Demolitions](#demolitions) · [Medic](#medic) · [Chem-doctor](#chem-doctor) · [Leader](#leader) · [Bodyguard](#bodyguard) · [Enforcer](#enforcer) · [Icon bearer](#icon-bearer) · [Rogue psyker](#rogue-psyker) · [Vox / auspex](#vox--auspex) · [Tech-adept / heretek](#tech-adept--heretek) · [Breacher](#breacher) · [Assassin](#assassin) · [Infiltrator](#infiltrator) · [Gunslinger](#gunslinger) · [Brute / mutant](#brute--mutant) · [Beast handler](#beast-handler) · [Herder](#herder) · [Berserker](#berserker) · [Bomb zealot](#bomb-zealot) · [Blessed](#blessed) · [Jumper](#jumper) · [Duelist](#duelist) · [Commander](#commander) · [Fighter pilot](#fighter-pilot) · [Spotter](#spotter) · [Tracker](#tracker) · [Zealot](#zealot) · [Skitarius](#skitarius) · [Arbitrator](#arbitrator) · [Sister Novitiate](#sister-novitiate) · [Rolling new people (recruits and NPCs)](#rolling-new-people-recruits-and-npcs) · [Ogryn](#ogryn) · [Shield trooper](#shield-trooper) · [Mauler](#mauler) · [Mutant charger](#mutant-charger) · [Mortar team](#mortar-team)
+[Grunt (ranged)](#grunt-ranged) · [Grunt (melee)](#grunt-melee) · [Sniper](#sniper) · [Grenadier](#grenadier) · [Heavy gunner](#heavy-gunner) · [Heavy team](#heavy-team) · [Plasma / melta gunner](#plasma--melta-gunner) · [Flamer](#flamer) · [Demolitions](#demolitions) · [Medic](#medic) · [Chem-doctor](#chem-doctor) · [Leader](#leader) · [Bodyguard](#bodyguard) · [Enforcer](#enforcer) · [Icon bearer](#icon-bearer) · [Rogue psyker](#rogue-psyker) · [Vox / auspex](#vox--auspex) · [Tech-adept / heretek](#tech-adept--heretek) · [Breacher](#breacher) · [Assassin](#assassin) · [Infiltrator](#infiltrator) · [Gunslinger](#gunslinger) · [Brute / mutant](#brute--mutant) · [Beast handler](#beast-handler) · [Herder](#herder) · [Berserker](#berserker) · [Bomb zealot](#bomb-zealot) · [Blessed](#blessed) · [Jumper](#jumper) · [Duelist](#duelist) · [Commander](#commander) · [Fighter pilot](#fighter-pilot) · [Spotter](#spotter) · [Tracker](#tracker) · [Zealot](#zealot) · [Skitarius](#skitarius) · [Arbitrator](#arbitrator) · [Veteran](#veteran) · [Sister Novitiate](#sister-novitiate) · [Rolling new people (recruits and NPCs)](#rolling-new-people-recruits-and-npcs) · [Ogryn](#ogryn) · [Shield trooper](#shield-trooper) · [Mauler](#mauler) · [Mutant charger](#mutant-charger) · [Mortar team](#mortar-team)
 
 ## Grunt (ranged)
 
-**Who has it:** all five types (a grunt is anyone who rolls 1-15).
+**Who has it:** all five leagues (a grunt is anyone who rolls 1-15).
 
 The rank and file. Wants to live through this. Shoots from cover, follows whoever
 is shouting orders, ducks when shot at, and is the first to run when the leader
@@ -30,7 +30,7 @@ surrender while the leader stands (fanatics and fallen professionals).*
 
 ## Grunt (melee)
 
-**Who has it:** all five types (a grunt is anyone who rolls 1-15).
+**Who has it:** all five leagues (a grunt is anyone who rolls 1-15).
 
 The ones who couldn't get a gun, or prefer not to. Rushes when the group rushes,
 hangs back otherwise. Waits behind cover for the enemy to come close, **moves from
@@ -46,7 +46,7 @@ to cover far better than the rest.*
 
 ## Sniper
 
-**Who has it:** all five types.
+**Who has it:** all five leagues.
 
 Patient and cold, and **harder to spot**. Picks a high or distant spot, waits for a
 shot, and aims for the important people on a team and anyone exposed. **Moves after
@@ -66,7 +66,7 @@ shooting** on his shooting lines (changed with the player, day 36 cleanup).*
 
 ## Grenadier
 
-**Who has it:** all five types.
+**Who has it:** all five leagues.
 
 Likes clusters. Thinks in **three ways**: waits for a team to bunch up and lobs into
 the cluster; throws to **flush people out of cover** for the shooters; and goes for
@@ -83,7 +83,7 @@ shots) (changed with the player, day 36 cleanup).*
 
 ## Heavy gunner
 
-**Who has it:** all five types.
+**Who has it:** all five leagues.
 
 One soldier with a heavy gun. Sets up somewhere solid and hoses the lane the party
 has to cross. **Suppresses: anyone they're firing at takes -2 on their shots.** Slow
@@ -136,7 +136,7 @@ overheated, even with a backup weapon.*
 
 ## Flamer
 
-**Who has it:** all five types.
+**Who has it:** all five leagues.
 
 Wants to be close and loves close quarters. Clears cover by burning it, and **sprays
 fire over cover to suppress** whoever is behind it. Moves forward behind other
@@ -155,7 +155,7 @@ beat.*
 
 ## Demolitions
 
-**Who has it:** all five types.
+**Who has it:** all five leagues.
 
 Mines the approach, rigs doors, blows cover out from under the party. **Their traps
 can be spotted with a Perception check.** Prefers to fight before the fight: traps
@@ -168,7 +168,7 @@ run into you and blow themselves up.*
 
 ## Medic
 
-**Who has it:** all five types.
+**Who has it:** all five leagues.
 
 Stays behind the line and drags the wounded back. **Patches one ally a beat: moves
 them back one health state, once per person** (Down to Hurt, Hurt to Fine); **can't
@@ -200,7 +200,7 @@ prisoners. **Their bag is loot, and a crime to keep.**
 
 ## Leader
 
-**Who has it:** all five types.
+**Who has it:** all five leagues.
 
 The voice of the group: preacher, boss, captain, sergeant or officer. Stays where
 they can see and be heard, **gives orders (+1 to their side's rolls)**, and keeps the
@@ -224,7 +224,7 @@ Down. Killing them has little effect.*
 
 ## Bodyguard
 
-**Who has it:** all five types.
+**Who has it:** all five leagues.
 
 Shield, armour, and loyalty. **Sticks to the leader; with no leader, guards the most valuable specialist** (the witch, the heavy, the vox man). **Once a beat, can take a hit aimed at the one they guard.** Doesn't chase; stays put.
 
@@ -255,7 +255,7 @@ the other just as much.** (Changed by the player, Ash on Ostrava day 48.)
 
 ## Icon bearer
 
-**Who has it:** all five types.
+**Who has it:** all five leagues.
 
 Carries the banner, idol or colours. Stays near the middle where it can be seen.
 **Allies within sight of the icon get +1 to rolls.** Fanatical about it; won't
@@ -272,7 +272,7 @@ their basic grunts, melee and ranged, charge.*
 
 ## Rogue psyker
 
-**Who has it:** all five types.
+**Who has it:** all five leagues.
 
 Unsanctioned and dangerous, mostly to themselves. Uses powers when they feel safe
 or desperate. **When charging a power, they get into cover first if they can** (a charge
@@ -296,7 +296,7 @@ their team starts to lose, they panic and push it more: -1 to their Perils trigg
 
 ## Vox / auspex
 
-**Who has it:** all five types.
+**Who has it:** all five leagues.
 
 Carries a vox, an auspex, or both: the eyes and ears. Calls in help, warns the
 others, stays behind cover more, and only fights when they need to. **Kill them
@@ -323,7 +323,7 @@ fall back to make the call.*
 
 ## Tech-adept / heretek
 
-**Who has it:** all five types.
+**Who has it:** all five leagues.
 
 Fixes things mid-fight: clears jams, restarts a dead turret, re-arms a mine. Sets
 up an auto-turret or locks a door the party needs. **Each of these costs 1 beat.**
@@ -333,7 +333,7 @@ party to follow. Protected by the others when possible.
 
 ## Breacher
 
-**Who has it:** all five types.
+**Who has it:** all five leagues.
 
 Goes through doors first. Shields, shotguns, SMGs, always ready; rushes straight
 into the room. Loves tight spaces: **+1 to shooting in close quarters.** Out in
@@ -403,7 +403,7 @@ sometimes ignores orders.
 
 ## Beast handler
 
-**Who has it:** all five types.
+**Who has it:** all five leagues.
 
 Comes with **2-3 beasts, 2 health states each** (hounds, mutant dogs,
 cyber-mastiffs, warp-hounds) that fight on their own. Sends them first to run the
@@ -438,7 +438,7 @@ himself and the enemy.*
 
 ## Berserker
 
-**Who has it:** all five types.
+**Who has it:** all five leagues.
 
 **Starts the fight normal.** Once they make contact, they get behind cover and
 dose up, then they're drugged out of their mind and want to kill something close.
@@ -481,7 +481,7 @@ Khorne, 2 beats in all.
 
 ## Jumper
 
-**Who has it:** all five types. (Player design, Ash on Ostrava session 9; also a Light
+**Who has it:** all five leagues. (Player design, Ash on Ostrava session 9; also a Light
 subclass: Varga.)
 
 Wears a jump pack or lift pack. Comes out into the air on purpose, to draw every eye,
@@ -505,7 +505,7 @@ middle of the enemy team.*
 
 ## Duelist
 
-**Who has it:** all five types. (Player design, Ash on Ostrava session 9.)
+**Who has it:** all five leagues. (Player design, Ash on Ostrava session 9.)
 
 Wants the fight, and pushes up as far and as fast as they can. Carries a **one-handed gun
 and a sword** (changed by the player, Ash on Ostrava session 10): a pistol, an SMG, or a shotgun
@@ -525,7 +525,7 @@ cover counts for +2 more against shots at them** (the player's "+10%", as a d20 
 
 ## Commander
 
-**Who has it:** all five types. (Player pick, Ash on Ostrava session 9.)
+**Who has it:** all five leagues. (Player pick, Ash on Ostrava session 9.)
 
 The group's brain. The leader is the group's voice; the commander picks the target
 and the person, and stays where they can see the whole fight. **Once a beat, gives
@@ -570,7 +570,7 @@ strafing run on the same target gets +2.*
 
 ## Spotter
 
-**Who has it:** all five types. (Player pick, session 9.)
+**Who has it:** all five leagues. (Player pick, session 9.)
 
 Eyes for the guns. Hangs back with magnoculars, an auspex or a scope. **Spends 1 beat
 marking a target, by shouting it or over comms; a shout lets the target know they're
@@ -585,7 +585,7 @@ the marked target becomes everyone's highest-value target.*
 
 ## Tracker
 
-**Who has it:** all five types. (Player pick, session 9.)
+**Who has it:** all five leagues. (Player pick, session 9.)
 
 Hunter. Reads ground, blood, dust and air vents. **+2 to find hidden enemies, tracks
 and traps** (a spotted trap can be avoided or used); **an enemy can't break contact
@@ -600,7 +600,7 @@ chance comes up.*
 
 ## Zealot
 
-**Who has it:** all five types. (Player pick, session 9.)
+**Who has it:** all five leagues. (Player pick, session 9.)
 
 Burns with faith, for the Emperor or for a dark god. Fights in front and never
 stops shouting. **Their side gets +1 on nerve, and while the zealot stands their
@@ -674,6 +674,39 @@ prisoner. **Never surrenders.**
 *Side note: rolled for a new person or an ally (Rolling new people, below), an arbitrator is a
 **loyal** Arbites enforcer: same kit and rules, and the "HALT!" works for the Light.*
 
+## Veteran
+
+**Who has it:** all leagues (cultists, raiders, pirates, traitors, traitor elites, commoners), and
+allies. (player-set, Ash on Ostrava day 48.)
+
+An old hand who has lived through more fights than anyone around them, and fights like it: no wasted
+shots, no wasted movement, never in the open longer than needed.
+
+- **Experience:** **+10 to their best stat** (STR or DEX, whichever is higher; the roller adds it).
+- **Practised:** **+1 on DEX rolls.**
+- **Clean guns:** **their guns never go Dirty**, whatever their league (the roller marks it).
+- **Peek and duck, always:** when there's cover in reach, they **always** shoot by the Peek and duck
+  rule (codex Part 6, Cover): out, the string, back in. They never stand in the open to shoot.
+- **Steady:** **+1 against fear and break checks.** They know when a fight's lost: they **surrender or
+  fall back** rather than die for nothing, but they don't panic.
+- **Kit:** their league's veteran kit, or a random kit from the veteran list (Role weapons, below); their
+  main weapon always has **one attachment they fitted themselves** (a sling, a sight, a grip: DM's pick).
+
+*Side note: cultist veterans have survived a dozen rites. Still zealots, but they take cover, and the cult
+listens to them.*
+
+*Side note: raider veterans are scarred ambushers. They pick the ground first and always have a way out.*
+
+*Side note: traitor veterans are decades in the Guard: drill-perfect, they reload in cover and call
+targets for the younger ones.*
+
+*Side note: traitor elite veterans are Scion-trained and cold: **+1 to shooting**, on top of the rest.*
+
+*Side note: commoner veterans are old militia or retired Guard. They know every ditch and wall on their
+own ground.*
+
+*Side note: allies get the same, on our side.*
+
 ## Sister Novitiate
 
 **Who has it:** **allies only** (player-set, Ash on Ostrava day 48): novices of the Adepta Sororitas, met
@@ -709,7 +742,7 @@ roll, as a friendly:** a recruit, **an allied soldier or unit met in the field**
 Sisters, militia), or an NPC who matters. They're rolled like an enemy, from the **traitor-elite role
 list** (the Light counts as traitor elite), with kit, armour, extra and traits, **read as loyal** (no cult
 marks; heretic gear swapped for its loyal equivalent). A group of allied soldiers can go through
-`roll_enemy.py` with the type that matches them (**commoner**: militia and civilians; **traitor**: Guard and
+`roll_enemy.py` with the league that matches them (**commoner**: militia and civilians; **traitor**: Guard and
 PDF troopers; **traitor_elite**: storm troopers, Scions, Ordo teams), read the same way. **The script does it all:**
 `python3 roll_ally.py TYPE COUNT [WEALTH] [join]` (the enemy roller read as loyal, plus traits) and
 `python3 roll_ally.py sister [COUNT] [WEALTH] [join] [vows]` (Sisters Novitiate). The steps it follows:
@@ -730,7 +763,7 @@ PDF troopers; **traitor_elite**: storm troopers, Scions, Ordo teams), read the s
 
 ## Ogryn
 
-**Who has it:** all five types, and loyal ones from the recruit list. (Player design,
+**Who has it:** all five leagues, and loyal ones from the recruit list. (Player design,
 Ash on Ostrava session 9; distinct from the brute/mutant: a real Ogryn, trained and
 kitted.)
 
@@ -823,7 +856,7 @@ the cough of the tube, a spotter's sightline), flank it, or answer it (Six Bells
 **Set by the player, Ash on Ostrava day 47.** A specialist flips a coin: **preset** (his role's own kit) or **random**.
 On a random kit, **his role's weapon or tool is guaranteed, drawn from his role's list below by the faction's wealth**
 (the same weights as all gear; poor factions never get rares), and **his off weapon is random** (a gun, sidearm or
-melee weapon from his type's lists). Roles that are their kit (Ogryn, herder, heavy team, mortar team, bomb zealot,
+melee weapon from his league's lists). Roles that are their kit (Ogryn, herder, heavy team, mortar team, bomb zealot,
 psyker, beast handler, mutant charger) always take the preset. The lists live in
 [`wh40k_gear/role_weapons.py`](../role_weapons.py) and are printed here from it (`python3 role_weapons.py md`).
 
@@ -856,5 +889,6 @@ psyker, beast handler, mutant charger) always take the preset. The lists live in
 - **tech-adept:** Servo-arm and a repair kit (common); Scrap-built auto-turret and a cutting torch (uncommon); Vox jammer and a servo-skull (uncommon); Heavy auto-turret and a servo-arm (rare)
 - **sister novitiate:** Autopistol and a chainsword (common); Autogun (common); Autopistol and a novitiate's mace (common); Laspistol and a chainsword (common); Sacred banner and an autopistol (uncommon); Hand flamer and an autopistol (uncommon); Bolt pistol and a chainsword (uncommon); Sororitas bolt pistol (Godwyn-De'az) and a blessed power maul (rare); Inferno pistol (Sororitas) and a chainsword (rare); Sororitas power sword and a bolt pistol (rare)
 - **tracker:** Two war dogs on leashes (common); Magnoculars and a hunting rifle (common); Auspex (uncommon); Bio-scanner (rare)
+- **veteran:** Lasgun (common); Autogun (common); Combat shotgun, pump (common); Hunting rifle with an old scope (common); Lascarbine (uncommon); Hellgun (uncommon); Scoped autogun (uncommon); Hellgun with a holo sight (rare); Long-las with a scope (rare)
 - **vox:** Vox-caster (common); Vox-caster and an auspex (uncommon); Vox-caster and a spoof-tag (uncommon); Vox jammer (rare)
 - **zealot:** Chainsword (common); Chain axe (common); Flamer-torch (uncommon); Power maul (rare); Eviscerator (rare)

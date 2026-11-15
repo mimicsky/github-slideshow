@@ -632,6 +632,20 @@
      "Light mortar, looted, 6 frag rounds (two-man team)",
      "R"
     ]
+   ],
+   "veteran": [
+    [
+     "Veteran zealot: an old autogun kept spotless, with a sling and a bayonet",
+     "C"
+    ],
+    [
+     "Veteran zealot: a lasgun with a scope he fitted himself",
+     "U"
+    ],
+    [
+     "Veteran zealot: a hellgun off a dead Guardsman, kept clean",
+     "R"
+    ]
    ]
   }
  },
@@ -1280,6 +1294,20 @@
      "Scrap mortar, 6 frag rounds (two-man team)",
      "U"
     ]
+   ],
+   "veteran": [
+    [
+     "Old raider: hunting rifle with an old scope",
+     "C"
+    ],
+    [
+     "Old raider: autogun with a drum mag",
+     "U"
+    ],
+    [
+     "Old raider: long-las with a scope",
+     "R"
+    ]
    ]
   }
  },
@@ -1852,6 +1880,20 @@
    "mortar team": [
     [
      "Light mortar, frag and smoke rounds (two-man team)",
+     "R"
+    ]
+   ],
+   "veteran": [
+    [
+     "Old hand: combat shotgun, pump, with a sling",
+     "C"
+    ],
+    [
+     "Old hand: Navy laspistol and a cutlass, both kept like new",
+     "U"
+    ],
+    [
+     "Old hand: hellgun with a reflex sight",
      "R"
     ]
    ]
@@ -2434,6 +2476,20 @@
      "Light mortar, 6 frag rounds (two-man team)",
      "U"
     ]
+   ],
+   "veteran": [
+    [
+     "Grizzled veteran: Kantrael lasgun with a reflex sight",
+     "C"
+    ],
+    [
+     "Grizzled veteran: lascarbine with a scope",
+     "U"
+    ],
+    [
+     "Grizzled veteran: hellgun with a holo sight",
+     "R"
+    ]
    ]
   }
  },
@@ -2721,6 +2777,20 @@
     [
      "Riot shield + stub pistol + club",
      "C"
+    ]
+   ],
+   "veteran": [
+    [
+     "Old militiaman: service lasgun, kept spotless",
+     "C"
+    ],
+    [
+     "Old militiaman: hunting rifle with an old scope",
+     "U"
+    ],
+    [
+     "Retired Guardsman: his old Kantrael lasgun and a bayonet",
+     "U"
     ]
    ]
   }
@@ -3227,6 +3297,20 @@
    "mortar team": [
     [
      "Light mortar, krak and frag rounds (two-man team)",
+     "R"
+    ]
+   ],
+   "veteran": [
+    [
+     "Veteran storm trooper: hellgun with a reflex sight",
+     "C"
+    ],
+    [
+     "Veteran storm trooper: hellgun with a holo sight and spare hot-shot packs",
+     "U"
+    ],
+    [
+     "Veteran storm trooper: hot-shot volley gun",
      "R"
     ]
    ]
