@@ -754,8 +754,8 @@ list): one per slot.
 - **Wide hilt** (common; swords and power swords; guard, so not with a basket hilt): **+1 to parry, -1 on the first
   swing of a chain.**
 - **Spiked pommel** (uncommon; anything one-handed with a pommel; pommel, so not with a chain-linked cord):
-  **one more swing at the end of every chain: a pommel strike.** A hit **staggers (-1 on their next roll)** and
-  **counts 2 toward armour wear-down.**
+  **one more swing at the end of every chain: a pommel strike.** A hit **drops no health step** (the player, day 48):
+  it only **staggers (-1 on their next roll)** and **counts 2 toward armour wear-down.**
 - **Staff regulator** (rare; psyker staffs and staves; regulator): a damper on the staff's crystal: **every charged
   power takes 1 more beat to charge, but no Perils roll while it's fitted.**
 
