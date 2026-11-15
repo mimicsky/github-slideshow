@@ -758,5 +758,6 @@ list): one per slot.
   swing**; anyone **taken Down by it: -3 on the survival d6.**
 - **Tuned field** (uncommon; power weapons; field, so not with the tuning kit): **its cell holds +5 power-mode swings.**
 - **Promethium can and blade line** (rare; blades and chain weapons; fuel): a small can under the hilt and a thin
-  line along the blade. **Lit (on or off, free), the blade burns: a hit sets the target alight on a d6 5-6.**
+  line along the blade. **Heavy: -2 to parry with it** (the player, day 48). **Lit (on or off, free), the blade burns:
+  -1 on swings while lit** (the flame and the weight; DM's call on the player's 'maybe'), **and a hit sets the target alight on a d6 5-6.**
   **Each lit beat uses 1 charge; a can holds 6** (DM's default), refilled from a fire bottle or a flamer canister.
