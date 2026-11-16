@@ -67,7 +67,7 @@ rifle and a sidearm, a machete and a shield). **Melee weapons roll too** (the pl
 bayonet, stock, stockmag, muzzle, mag, grip, sleeve, barrel, coil, action, selector, bolt, slide, igniter, feeder,
 tripod, holster, generator, sling, siderail, counter, vent, arc, tubesel, loader, **load** (special ammo); melee:
 field, hone, spikes, slot, overdrive, motor, teeth, mgrip, mselector, strap, guard, edge, head, rim, pommel,
-balance, throwbal, rig, chguard, point, fuel, stand, regulator, enhancer, length.
+balance, throwbal, rig, chguard, point, stand, regulator, enhancer, length.
 
 | Attachment | Rarity | Slot | Fits | What it does | Full entry |
 | --- | --- | --- | --- | --- | --- |
@@ -77,7 +77,6 @@ balance, throwbal, rig, chguard, point, fuel, stand, regulator, enhancer, length
 | **Bayonet (fixed)** | common | bayonet | autoguns and stub rifles, las rifles | a spear thrust in melee: chains 2, +1 to strike first; Bayonet Charge | [kit.md](kit.md#bayonet) |
 | **Underslung chain-bayonet** | rare | bayonet | autoguns and stub rifles, las rifles | fights as a chainsword (-1 block/parry); -1 hip snap shots; Bayonet Charge | [kit.md](kit.md#underslung-chain-bayonet) |
 | **Shock-coil kit** | rare | coil | SMGs, autoguns and stub rifles, blades, blunt weapons, bolt pistols, boltguns, chain weapons, heavy stubbers, heavy weapons, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, power weapons, psyker staffs, shotguns, stub pistols | after a hit, +1 on his next roll against that target (6 charges a fight) | [kit.md](kit.md#shock-coil-kit) |
-| **10-degree edge** | uncommon | edge | blades | against no armour a hit drops an extra step; a hit on armour, d6: 5 the edge dulls (no bonus till re-sharpened), 6 the blade breaks | [kit.md](kit.md#melee-attachments-day-48) |
 | **Serrated edge** | uncommon | edge | blades | against no armour a hit drops an extra step; anyone it downs is -2 on the survival d6 after the fight | [kit.md](kit.md#melee-attachments-day-48) |
 | **Power weapon tuning kit** | rare | field | power weapons | +1 to parry with it; its power cell lasts twice as long (60 power-mode swings) | [kit.md](kit.md#power-weapon-tuning-kit) |
 | **Weighted grip** | common | grip | SMGs, autoguns and stub rifles, bolt pistols, boltguns, shotguns, stub pistols | recoil -1; -1 quick-draw | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
@@ -86,6 +85,7 @@ balance, throwbal, rig, chguard, point, fuel, stand, regulator, enhancer, length
 | **Ceramite-capped head** | rare | head | blunt weapons | a hit the armour shrugs still counts 2 toward wear-down | [kit.md](kit.md#melee-attachments-day-48) |
 | **Flanged head** | uncommon | head | blunt weapons | on a solid hit, through one armour step further than it normally gets | [kit.md](kit.md#melee-attachments-day-48) |
 | **Scrap spikes** | common | head | blunt weapons | dents and bites: a solid hit when he beats the number by 2+, not 3+ | [kit.md](kit.md#melee-attachments-day-48) |
+| **10-degree edge** | uncommon | hone | blades | against no armour a hit drops an extra step; a hit on armour, d6: 5 the edge dulls (no bonus till re-sharpened), 6 the blade breaks | [kit.md](kit.md#melee-attachments-day-48) |
 | **Diamantine whetstone** | uncommon | hone | blades | honed before the fight: +1 pierce on its next 2 hits (~10 uses) | [kit.md](kit.md#diamantine-whetstone) |
 | **Floodbeam lumen** | uncommon | laser | SMGs, autoguns and stub rifles, bolt pistols, boltguns, flamers, heavy stubbers, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | no darkness penalty to ~50 m; in a face inside ~15 m: -3 on their next roll; strobe: -1 on shots in the beam inside ~10 m; seen from ~200 m | [kit.md](kit.md#floodbeam-lumen) |
 | **Laser and lumen combo** | uncommon | laser | SMGs, autoguns and stub rifles, bolt pistols, boltguns, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | both, switched on alone or together; the lumen can blind (in a face inside ~5 m in the dark: -2 on their next roll) | [kit.md](kit.md#laser-sight-under-mount-lumen-or-both) |
@@ -197,11 +197,11 @@ balance, throwbal, rig, chguard, point, fuel, stand, regulator, enhancer, length
 | **Heavy buffer spring and new bolt** *(Custom)* | common | bolt | SMGs | jams only from the 25th straight round | [attachments.md](attachments.md#stinger-tamsin) |
 | **Light reciprocating parts and plasteel spring** *(Custom)* | common | bolt | heavy stubbers | strings up to 10, no hit bonuses in the string | [attachments.md](attachments.md#morcants-heavy-stubber-schematic-3) |
 | **Chain guard** *(Custom)* | uncommon | chguard | chain weapons | the chain can't be caught on a parry; +1 to parry | [kit.md](kit.md#melee-attachments-day-48) |
+| **Promethium can and blade line** *(Custom)* | rare | coil | blades, chain weapons | heavy: -2 to parry with it; lit (on/off free): -1 on swings, a hit sets the target alight on a d6 5-6; 1 charge a lit beat, 6 to a can (a fire bottle or a flamer canister refills it) | [kit.md](kit.md#melee-attachments-day-48) |
 | **Helm-linked ammo counter** *(Custom)* | uncommon | counter | SMGs, autoguns and stub rifles, bolt pistols, boltguns, flamers, hand flamers, heavy stubbers, heavy weapons, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | he always knows his count: never caught dry | [attachments.md](attachments.md#sorels-hellgun-schematic-14) |
 | **Blaze force enhancer** *(Custom)* | rare | enhancer | blades, psyker staffs (only: force or witch-knife or staff or stave) | imbued (a psyker's hands): hits one step harder; a raw 1-3 on an imbued swing and the warp flings it out of his hands (~d6 m; a beat to fetch) | [kit.md](kit.md#melee-attachments-day-48) |
 | **Open-bolt feeder** *(Custom)* | uncommon | feeder | heavy stubbers | Dirty after ~60 shots; a Dirty stubber doesn't jam | [attachments.md](attachments.md#morcants-heavy-stubber-schematic-3) |
 | **Tuned field** *(Custom)* | uncommon | field | power weapons | its cell holds +5 power-mode swings | [kit.md](kit.md#melee-attachments-day-48) |
-| **Promethium can and blade line** *(Custom)* | rare | fuel | blades, chain weapons | heavy: -2 to parry with it; lit (on/off free): -1 on swings, a hit sets the target alight on a d6 5-6; 1 charge a lit beat, 6 to a can (a fire bottle or a flamer canister refills it) | [kit.md](kit.md#melee-attachments-day-48) |
 | **Intensified laser generator** *(Custom)* | rare | generator | las rifles | 3 pack a shot: +1 aimed, through ceramite-forged; a string of 3 adds 1 heat | [attachments.md](attachments.md#isks-patience-schematic-7) |
 | **Angled handguard grip (fitted)** *(Custom)* | common | grip | grenade launchers (needs Plasteel spring and gas-piston trigger) | no -1 on the second grenade | [attachments.md](attachments.md#holliss-six-bells-schematic-16) |
 | **Angled side grip** *(Custom)* | common | grip | heavy stubbers | recoil 1 on the move | [attachments.md](attachments.md#morcants-heavy-stubber-schematic-3) |

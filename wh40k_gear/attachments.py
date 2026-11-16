@@ -113,10 +113,10 @@ A = [
  ("c_chguard", "Chain guard", "U", "chguard", {"ch"}, None, None, 1, "the chain can't be caught on a parry; +1 to parry", "kit.md#melee-attachments-day-48"),
  ("c_tritip", "Triangle-tipped point", "U", "point", {"bl", "pw"}, r"knife|dagger|stiletto|sword|sabre|cutlass|shank|blade|spear", None, 1, "a hit that lands: -1 on their next swing; downed by it: -3 on the survival d6", "kit.md#melee-attachments-day-48"),
  ("c_tunedfield", "Tuned field", "U", "field", {"pw"}, None, None, 1, "its cell holds +5 power-mode swings", "kit.md#melee-attachments-day-48"),
- ("10deg", "10-degree edge", "U", "edge", {"bl"}, None, None, 0, "against no armour a hit drops an extra step; a hit on armour, d6: 5 the edge dulls (no bonus till re-sharpened), 6 the blade breaks", "kit.md#melee-attachments-day-48"),
+ ("10deg", "10-degree edge", "U", "hone", {"bl"}, None, None, 0, "against no armour a hit drops an extra step; a hit on armour, d6: 5 the edge dulls (no bonus till re-sharpened), 6 the blade breaks", "kit.md#melee-attachments-day-48"),
  ("cappedhead", "Ceramite-capped head", "R", "head", {"bt"}, None, None, 0, "a hit the armour shrugs still counts 2 toward wear-down", "kit.md#melee-attachments-day-48"),
  ("skeleton", "Skeleton grip", "U", "mgrip", MELEE, None, None, 0, "lighter and quicker: +1 on swings and parries; disarms against him +2", "kit.md#melee-attachments-day-48"),
- ("c_promethium", "Promethium can and blade line", "R", "fuel", {"bl", "ch"}, None, None, 1, "heavy: -2 to parry with it; lit (on/off free): -1 on swings, a hit sets the target alight on a d6 5-6; 1 charge a lit beat, 6 to a can (a fire bottle or a flamer canister refills it)", "kit.md#melee-attachments-day-48"),
+ ("c_promethium", "Promethium can and blade line", "R", "coil", {"bl", "ch"}, None, None, 1, "heavy: -2 to parry with it; lit (on/off free): -1 on swings, a hit sets the target alight on a d6 5-6; 1 charge a lit beat, 6 to a can (a fire bottle or a flamer canister refills it)", "kit.md#melee-attachments-day-48"),
  # ammo (day 47): one special load per gun ('load' slot); a magazine holds one load at a time.
  # The player: special ammo is easy to get (uncommon); armour-piercing is better (rare).
  ("a_hp", "HP rounds (hollow point)", "U", "load", {"sp", "smg", "sr"}, None, None, 0, "flak doesn't shrug it even at range; against no armour or flak a solid hit drops two steps; reinforced flak and heavier shrug it", "stub.md#stub-and-autogun-rounds-special-loads"),

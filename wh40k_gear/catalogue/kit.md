@@ -738,7 +738,7 @@ list): one per slot.
 - **Sharpened rim** (uncommon; shields; rim): **a shield bash counts as a blade hit.**
 - **Throwing balance** (uncommon; knives, machetes, hatchets, one-handed axes): can be **thrown once like a throwing
   knife (~10 m)**.
-- **10-degree edge** (uncommon; blades; edge, so not with a serrated edge): **against no armour, a hit cuts deep and
+- **10-degree edge** (uncommon; blades; hone slot, so not with a diamantine whetstone; the player, day 48): **against no armour, a hit cuts deep and
   drops an extra health step.** But **a hit on armour, d6: 5 the edge dulls** (no bonus until it's re-sharpened),
   **6 the blade breaks.**
 - **Ceramite-capped head** (rare; blunt; head, so not with a flanged head): **a hit the armour shrugs still counts 2
@@ -774,7 +774,7 @@ list): one per slot.
 - **Triangle-tipped point** (uncommon; pointed blades and power blades; point): **a hit that lands: -1 on their next
   swing**; anyone **taken Down by it: -3 on the survival d6.**
 - **Tuned field** (uncommon; power weapons; field, so not with the tuning kit): **its cell holds +5 power-mode swings.**
-- **Promethium can and blade line** (rare; blades and chain weapons; fuel): a small can under the hilt and a thin
+- **Promethium can and blade line** (rare; blades and chain weapons; coil slot, so never with a shock-coil kit; the player, day 48): a small can under the hilt and a thin
   line along the blade. **Heavy: -2 to parry with it** (the player, day 48). **Lit (on or off, free), the blade burns:
   -1 on swings while lit** (the flame and the weight; DM's call on the player's 'maybe'), **and a hit sets the target alight on a d6 5-6.**
   **Each lit beat uses 1 charge; a can holds 6** (DM's default), refilled from a fire bottle or a flamer canister.
