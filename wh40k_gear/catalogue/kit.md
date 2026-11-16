@@ -738,7 +738,7 @@ list): one per slot.
 - **Sharpened rim** (uncommon; shields; rim): **a shield bash counts as a blade hit.**
 - **Throwing balance** (uncommon; knives, machetes, hatchets, one-handed axes): can be **thrown once like a throwing
   knife (~10 m)**.
-- **10-degree edge** (uncommon; blades; hone slot, so not with a diamantine whetstone; the player, day 48): **against no armour, a hit cuts deep and
+- **10-degree edge** (uncommon; blades; edge slot, so never with a serrated edge: back on edge, the player, day 48): **against no armour, a hit cuts deep and
   drops an extra health step.** But **a hit on armour, d6: 5 the edge dulls** (no bonus until it's re-sharpened),
   **6 the blade breaks.**
 - **Ceramite-capped head** (rare; blunt; head, so not with a flanged head): **a hit the armour shrugs still counts 2
@@ -765,7 +765,8 @@ list): one per slot.
 
 **Custom (special-made)**
 - **Chain-linked cord** (uncommon; anything one-handed with a pommel; pommel): **+1 on the first swing**; the weapon
-  can be **thrown on its chain ~5 m** and is **back in his hand next beat**.
+  can be **thrown on its chain ~5 m** and is **back in his hand next beat**. **The chain caps every throw at 5 m**
+  (a throwing balance's 10 m too; the player, day 48).
 - **Smith-balanced blade** (uncommon; blades; balance): **+1 on every swing.**
 - **Leather wrist-sheath, hidden blade** (uncommon; knives only; rig): **can't be disarmed**; **+5 to keep it
   hidden** (searches, a pat-down); **+3 on the first swing against each target** (the surprise), even mid-melee
