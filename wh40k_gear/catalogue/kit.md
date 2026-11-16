@@ -758,6 +758,10 @@ list): one per slot.
   it only **staggers (-1 on their next roll)** and **counts 2 toward armour wear-down.**
 - **Staff regulator** (rare; psyker staffs and staves; regulator): a damper on the staff's crystal: **every charged
   power takes 1 more beat to charge, but no Perils roll while it's fitted.**
+- **Longer grip or blade** (uncommon; blades, blunt, chain and power weapons; length): a longer blade or haft:
+  **moving mid-chain, up to 7 m a beat between swings instead of 5** (codex house rule 5, Moving mid-chain).
+- **Tsuka grip** (rare; swords and power swords; grip): a wrapped, two-hand-capable grip: leverage, blade control and
+  some shock absorption: **+1 on swings, +1 to parry, +1 on his disarm attempts.** Jack of all trades, master of none.
 
 **Custom (special-made)**
 - **Chain-linked cord** (uncommon; anything one-handed with a pommel; pommel): **+1 on the first swing**; the weapon

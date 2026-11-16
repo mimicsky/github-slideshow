@@ -61,13 +61,13 @@ poor C80/U20, steady C70/U25/R5, good C55/U35/R10, rich C40/U45/R15, wealthy C25
 **one attachment of that rarity that fits the gun and a free slot** (one per slot; a gun's own scope, drum, silencer
 or bayonet already fills its slot). Then roll again. A part that needs another (an offset sight needs a scope, a
 pressure pin needs a hair trigger) only comes once the first is on. **Every weapon rolls** (a gun with **no attachment slots**, like the 'Harrow' farmer's pump, the 'Trinity' pocket revolver or the 'Cutpurse' holdout, rolls only special ammo and a taped flashlight (tape needs no slot); the 'Steadfast' service pistol only its threaded barrel and ammo; a gunslinger's pair, a
-rifle and a sidearm, a machete and a shield). **Melee weapons roll too** (the player, day 47); **23 more melee parts added day 48** (psyker staffs now roll too) (kit.md, Melee attachments (day 48)).
+rifle and a sidearm, a machete and a shield). **Melee weapons roll too** (the player, day 47); **25 more melee parts added day 48** (psyker staffs now roll too) (kit.md, Melee attachments (day 48)).
 
 **Slots:** optic, optic2 (a second sight that rides a scope), laser, trigger, pin, limiter, under (under-barrel),
 bayonet, stock, stockmag, muzzle, mag, grip, sleeve, barrel, coil, action, selector, bolt, slide, igniter, feeder,
 tripod, holster, generator, sling, siderail, counter, vent, arc, tubesel, loader, **load** (special ammo); melee:
 field, hone, spikes, slot, overdrive, motor, teeth, mgrip, mselector, strap, guard, edge, head, rim, pommel,
-balance, throwbal, rig, chguard, point, fuel, stand, regulator, enhancer.
+balance, throwbal, rig, chguard, point, fuel, stand, regulator, enhancer, length.
 
 | Attachment | Rarity | Slot | Fits | What it does | Full entry |
 | --- | --- | --- | --- | --- | --- |
@@ -91,6 +91,7 @@ balance, throwbal, rig, chguard, point, fuel, stand, regulator, enhancer.
 | **Laser and lumen combo** | uncommon | laser | SMGs, autoguns and stub rifles, bolt pistols, boltguns, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | both, switched on alone or together; the lumen can blind (in a face inside ~5 m in the dark: -2 on their next roll) | [kit.md](kit.md#laser-sight-under-mount-lumen-or-both) |
 | **Laser sight** | uncommon | laser | SMGs, autoguns and stub rifles, bolt pistols, boltguns, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | +1 hip inside ~20 m, or +1 after a swap inside ~30 m (not both); the beam shows | [kit.md](kit.md#laser-sight-under-mount-lumen-or-both) |
 | **Under-mount lumen** | common | laser | SMGs, autoguns and stub rifles, bolt pistols, boltguns, flamers, heavy stubbers, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | no darkness penalty in the beam; he's lit up too; in a face inside ~5 m in the dark: -2 on their next roll | [kit.md](kit.md#laser-sight-under-mount-lumen-or-both) |
+| **Longer grip or blade** | uncommon | length | blades, blunt weapons, chain weapons, power weapons | longer reach: moving mid-chain, up to 7 m a beat between swings, not 5 | [kit.md](kit.md#melee-attachments-day-48) |
 | **Burst limiter** | common | limiter | SMGs, autoguns and stub rifles, boltguns, heavy stubbers | recoil -1; strings capped at 3 | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
 | **AP rounds (armour-piercing)** | rare | load | SMGs, autoguns and stub rifles, stub pistols | flak and reinforced flak don't shrug it; through carapace on a solid hit inside ~15 m; against no armour a crit drops just one step | [stub.md](stub.md#stub-and-autogun-rounds-special-loads) |
 | **Astartes melta canister** | rare | load | meltaguns | a hit on a vehicle takes 2 hull points, not 1; the kick: -1 on his next melta shot | [plasma.md](plasma.md#melta-canisters-special-loads) |
@@ -145,6 +146,7 @@ balance, throwbal, rig, chguard, point, fuel, stand, regulator, enhancer.
 | **Tuned plasma cell** | rare | mag | plasma guns, plasma pistols | 12 shots, not 8 | [plasma.md](plasma.md#tuned-plasma-cell) |
 | **Leather-wrap grip** | common | mgrip | blades, blunt weapons, chain weapons, power weapons, psyker staffs | never slips in wet or bloody hands; disarms against him -2 | [kit.md](kit.md#melee-attachments-day-48) |
 | **Skeleton grip** | uncommon | mgrip | blades, blunt weapons, chain weapons, power weapons, psyker staffs | lighter and quicker: +1 on swings and parries; disarms against him +2 | [kit.md](kit.md#melee-attachments-day-48) |
+| **Tsuka grip** | rare | mgrip | blades, power weapons (only: sword or sabre or cutlass or blade or odachi or katana) | leverage, blade control, some shock absorption: +1 on swings, +1 to parry, +1 on his disarm attempts | [kit.md](kit.md#melee-attachments-day-48) |
 | **Compensator** | uncommon | muzzle | SMGs, autoguns and stub rifles, bolt pistols, boltguns, heavy stubbers, shotguns, stub pistols | recoil -2; +1 more after each hit; -1 aimed | [kit.md](kit.md#muzzles) |
 | **Flash hider** | common | muzzle | SMGs, autoguns and stub rifles, bolt pistols, boltguns, heavy stubbers, shotguns, stub pistols | his shots don't give him away in the dark | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
 | **Heavy suppressor** | uncommon | muzzle | SMGs, autoguns and stub rifles, stub pistols | near-silent; recoil -2; -1 quick-draw and swapping; Dirty after ~20 shots | [kit.md](kit.md#muzzles) |
