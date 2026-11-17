@@ -256,14 +256,15 @@ NOT_ROLLED = [
 
 # Guns with limited attachment slots (day 47): only these slots roll (special ammo always can).
 SLOTLIMIT = [(re.compile(r"farmer's pump|three-shooter|harrow|trinity|holdout|cutpurse|las luger"), {"load", "tape"}),
-             (re.compile(r"service stub pistol|steadfast"), {"load", "muzzle", "tape"})]  # tape needs no slot
+             (re.compile(r"service stub pistol|steadfast"), {"load", "muzzle", "tape"}),
+             (re.compile(r"hell revolver"), {"optic", "laser", "load", "tape"})]  # top and bottom slots only (day 48)  # tape needs no slot
 SKIP = re.compile(r"web pistol|bolt-pipe|rivet gun|harpoon|turret|gauntlet|hellstrike|flare|^'")
 TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b"), ("pp", r"plasma pistol"), ("pg", r"plasma gun"), ("bp", r"bolt pistol"),
          ("hv", r"heavy bolter|autocannon|lascannon|multi-laser"), ("hs", r"heavy stubber"), ("br", r"boltgun"),
          ("hf", r"hand flamer"), ("fl", r"flamer|torch-thrower|promethium sprayer"), ("mg", r"meltagun|melta gun|multi-melta|inferno pistol"),
          ("gl", r"grenade launcher"), ("mo", r"mortar"), ("np", r"needle pistol"), ("nr", r"needle rifle"),
          ("lr", r"shotlas"), ("smg", r"submachine|machine pistol|rattler|\bsmg\b|chain-fed autopistol"),
-         ("lp", r"laspistol|las pistol|hellpistol|las luger"),
+         ("lp", r"laspistol|las pistol|hellpistol|las luger|hell revolver"),
          ("sp", r"autopistol|revolver|stub pistol|stub automatic|hand cannon|boarding pistol|hammerfall|pipe pistol|three-shooter|burst pistol"),
          ("sg", r"shotgun|sawn-off|scattergun|nailer|ripper gun"),
          ("lr", r"lasgun|lascarbine|hellgun|long-las|las-box|las-lmg|volley gun|battery las"),
@@ -273,7 +274,7 @@ MTYPES = [("sh", r"shield"), ("pw", r"power (sword|axe|maul|knife|fist|mace|blad
           ("bl", r"knife|machete|cutlass|sabre|sword|cleaver|axe|shank|blade|stiletto|shovel"),
           ("bt", r"club|maul|mace|hammer|flail|baton|prod|knuckle|girder|pick\b"),
           ("st", r"\bstaff\b|\bstave\b")]
-BUILTIN = [("optic", r"scope|range-finder|sprinter|kasr lance|exemplar"), ("mag", r"drum|100-shot box|kasr tether|las luger"),
+BUILTIN = [("optic", r"scope|range-finder|sprinter|kasr lance|exemplar"), ("mag", r"drum|100-shot box|kasr tether|las luger|hell revolver"),
            ("laser", r"kasr tether"), ("counter", r"exemplar"),
            ("muzzle", r"silenced|suppressed"), ("bayonet", r"bayonet|krieg"), ("tripod", r"tripod"),
            ("barrel", r"heavy barrel|long barrel|long-barrel|stub barrel"), ("stock", r"folding stock"),

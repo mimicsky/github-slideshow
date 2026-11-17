@@ -4233,5 +4233,26 @@
   "cat": "las",
   "rarity": "R",
   "sellers": "MBF"
+ },
+ {
+  "name": "Hell revolver, 'Kasr Sixfold' pattern (strings of 6; corded to a belt or backpack; long barrel; top and bottom slots only)",
+  "tv": 12,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Dual hellpistol, 'Kasr Twin' pattern (double bolts: strings of 3, two rolls a shot; 2 of the pack a shot)",
+  "tv": 10,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Smart hellpistol, 'Cognis' pattern (strings of 4 at +5; a raw 1-3 on the first shot shorts it)",
+  "tv": 20,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "AF"
  }
 ]

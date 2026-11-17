@@ -228,3 +228,29 @@ trigger** (+1 on the first shot of every string; drop-prone), **ghost-ring sight
 **Charge-hold trigger** (custom, uncommon; las pistols; selector slot). **He holds the trigger through one shot of a
 string** (that shot doesn't fire): **the next shot gets through one more armour step, up to carapace.** It can be done
 once a string.
+
+## New hellpistols (day 48)
+
+Designed by the player, Ash on Ostrava day 48 (there was only one hellpistol). Names, rarity and price: the DM's call.
+**A standard hellpistol is the baseline:** hot-shot pack (30 shots), hellgun-type punch.
+
+### Hell revolver, 'Kasr Sixfold' pattern
+
+**Hell revolver, 'Kasr Sixfold' pattern** (rare, 12 TV; Munitorum, Mechanicus, Free Traders). A hellpistol built like a
+revolver: a **laser cylinder recycles the charge between shots**, so it fires **strings of 6**. **No pack slot:** it runs
+on a cord to a **belt pack or a backpack** (hot-shot). **Long barrel:** +1 on single aimed shots past ~15 m. **Only two
+attachment slots: top (optic) and bottom (laser or lumen)**, plus special loads.
+
+### Dual hellpistol, 'Kasr Twin' pattern
+
+**Dual hellpistol, 'Kasr Twin' pattern** (rare, 10 TV; black market, Free Traders). Two barrels and two crystals on one
+frame: **every shot is a double bolt** (roll twice, each its own hit), in **strings of up to 3** (so up to 6 rolls), and
+**each shot uses 2 of the pack** (DM's reading of 'shoots 2 shots a string, for a string of 3').
+
+### Smart hellpistol, 'Cognis' pattern
+
+**Smart hellpistol, 'Cognis' pattern** (rare, 20 TV; Mechanicus, Free Traders). A Mechanicus auto-locator and a
+verifying laser: **strings of 4 at +5 on every shot.** But the logic-engine is touchy: **a raw 1-3 on the first shot of a
+string and it short-circuits.** That string goes wrong (d6: **1-2 it fires at the nearest ally**, resolved normally without
+the +5; **3-6 it fires wild**, wasted), and **the smart function is dead for the rest of the fight until it's fixed**
+(after the fight with a repair kit, or a tech-adept mid-fight, a beat): until then it shoots as a plain hellpistol.
