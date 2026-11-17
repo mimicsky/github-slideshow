@@ -145,7 +145,7 @@ def pick(rows):
     tier = random.choices(list(w), weights=list(w.values()))[0]
     opts = [r for r in rows if r[1] == tier] or [r for r in rows if not (poor and r[1] == "R")] or rows
     return random.choice(opts)[0]
-sidearms = [r for r in P["weapon"] if any(x in r[0].lower() for x in ("pistol", "revolver", "stub automatic", "sawn-off"))] or [("Hellpistol" if kind == "traitor_elite" else "Laspistol", "C")]
+sidearms = [tuple(r) for r in P.get("sidearm", [])] or [r for r in P["weapon"] if any(x in r[0].lower() for x in ("pistol", "revolver", "stub automatic", "sawn-off"))] or [("Hellpistol" if kind == "traitor_elite" else "Laspistol", "C")]
 # Bomb zealots (player-set): their extra is always 3-5 explosives, all strapped on.
 BOMBS = [("Frag grenade","C"),("Pipe-bomb","C"),("Fire bomb (promethium)","C"),("Mining charge","C"),
          ("Krak grenade","U"),("Choke gas grenade","U"),("Cult gas bottle (gas of their god)","U"),("Melta bomb","R")]

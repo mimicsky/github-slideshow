@@ -2491,7 +2491,33 @@
      "R"
     ]
    ]
-  }
+  },
+  "sidearm": [
+   [
+    "Laspistol",
+    "C"
+   ],
+   [
+    "Auto laspistol, 'Kasr Swarm' pattern",
+    "U"
+   ],
+   [
+    "Marksman laspistol, 'Kasr Longeye' pattern",
+    "U"
+   ],
+   [
+    "Tac laspistol, 'Kasr Tether' pattern",
+    "R"
+   ],
+   [
+    "Officer's las luger",
+    "R"
+   ],
+   [
+    "Commissar's laspistol, 'Exemplar' pattern",
+    "R"
+   ]
+  ]
  },
  "commoner": {
   "weapon": [
@@ -3314,6 +3340,32 @@
      "R"
     ]
    ]
-  }
+  },
+  "sidearm": [
+   [
+    "Hellpistol",
+    "C"
+   ],
+   [
+    "Tac laspistol, 'Kasr Tether' pattern",
+    "U"
+   ],
+   [
+    "Marksman laspistol, 'Kasr Longeye' pattern",
+    "U"
+   ],
+   [
+    "Officer's las luger",
+    "U"
+   ],
+   [
+    "Auto laspistol, 'Kasr Swarm' pattern",
+    "U"
+   ],
+   [
+    "Commissar's laspistol, 'Exemplar' pattern",
+    "R"
+   ]
+  ]
  }
 }

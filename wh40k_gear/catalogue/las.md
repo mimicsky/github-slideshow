@@ -182,3 +182,49 @@ not 30.** On the [attachment sheet](attachments.md#the-rollable-list) as a speci
 **Extended hot-shot pack** (uncommon, 1.5 TV; Munitorum, Free Traders; player pick, Ash on Ostrava day 35).
 A longer hot-shot pack: **40 shots instead of 30**, same punch. Fits anything that takes a hot-shot pack
 (hellguns, hellpistols, hot-shot conversions). A converted gun uses it at the normal rate: **40 shots** (changed day 47).
+
+## New laspistols (day 48)
+
+Designed by the player, Ash on Ostrava day 48, because laspistols were the Sixth's sidearm and we had only six.
+Rarity, price and pattern names: the DM's call. **A standard laspistol is the baseline:** regular las pack (45 shots),
+laspistol punch (against flak or carapace, 2 hits count as 1).
+
+### Auto laspistol, 'Kasr Swarm' pattern
+
+**Auto laspistol, 'Kasr Swarm' pattern** (uncommon, 2 TV; Munitorum, black market, Free Traders). **Full-auto only:**
+there is no single-shot setting. **Strings of up to 8; no hit bonuses in the string, misses still -1.** Laspistol
+punch; a regular pack.
+
+### Marksman laspistol, 'Kasr Longeye' pattern
+
+**Marksman laspistol, 'Kasr Longeye' pattern** (uncommon, 3 TV; Munitorum, black market, Free Traders). A longer
+barrel and a harder crystal: **+1 on shots** (the barrel), and it **gets through reinforced flak**. It drinks the pack:
+**a regular pack gives 30 shots, not 45.**
+
+### Tac laspistol, 'Kasr Tether' pattern
+
+**Tac laspistol, 'Kasr Tether' pattern** (rare, 6 TV; Munitorum, Mechanicus, Free Traders). **No pack slot:** a short
+cord plugs it into **one las pack on his belt** (any standard or special pack; no backpack needed). **Every other
+attachment slot is open.** **+1 shot a string.** **A laser sight built in** (its laser slot is filled).
+
+### Commissar's laspistol, 'Exemplar' pattern
+
+**Commissar's laspistol, 'Exemplar' pattern** (rare, 10 TV; Munitorum (Commissariat issue), Free Traders). Ornate:
+gilded furniture, the Commissariat's skull on the grip, made to be seen. **Built in:** a **round-counter screen** on the
+back (he always knows his shots and is never caught empty), a **better crystal** (it **gets through reinforced flak**),
+and a **3x scope** (**+2 on aimed shots past ~15 m; -1 on hip shots inside ~10 m**). Its optic and counter slots are
+filled.
+
+### Officer's las luger
+
+**Officer's las luger** (rare, 8 TV; Munitorum, black market, Free Traders). An officer's sidearm with a toggle-lock
+action, everything built in and **no attachment slots** (special loads only). **+2 shots a string.** **No pack slot of
+its own:** it plugs into a belt pack by cord, or takes a pack plugged straight into the grip. **Built in:** a **hair
+trigger** (+1 on the first shot of every string; drop-prone), **ghost-ring sights** (+1 on the first shot) and a
+**wooden ergo grip** (never slips; disarms against him -2). **So +2 on the first shot of every string.**
+
+### Charge-hold trigger (custom)
+
+**Charge-hold trigger** (custom, uncommon; las pistols; selector slot). **He holds the trigger through one shot of a
+string** (that shot doesn't fire): **the next shot gets through one more armour step, up to carapace.** It can be done
+once a string.

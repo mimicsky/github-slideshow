@@ -4198,5 +4198,40 @@
   "cat": "explosive",
   "rarity": "U",
   "sellers": "MAB"
+ },
+ {
+  "name": "Auto laspistol, 'Kasr Swarm' pattern (full-auto only: strings of 8, no hit bonuses; laspistol punch)",
+  "tv": 2,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Marksman laspistol, 'Kasr Longeye' pattern (+1 on shots; through reinforced flak; 30 shots a pack)",
+  "tv": 3,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Tac laspistol, 'Kasr Tether' pattern (corded to a belt pack; all slots open; +1 shot a string; built-in laser)",
+  "tv": 6,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Commissar's laspistol, 'Exemplar' pattern (ornate; round counter, better crystal, 3x scope built in)",
+  "tv": 10,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Officer's las luger (no slots; +2 shots a string; hair trigger, ghost rings, wooden grip built in)",
+  "tv": 8,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MBF"
  }
 ]
