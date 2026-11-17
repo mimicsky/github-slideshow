@@ -24,7 +24,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Las-box, 'Kasr Barr' pattern light las-LMG](las.md#las-box-kasr-barr-pattern-light-las-lmg)
 - [Heavy laspistol, 'Nocturne Ember' pattern](las.md#heavy-laspistol-nocturne-ember-pattern)
 - [New laspistols (day 48)](las.md#new-laspistols-day-48): [auto 'Kasr Swarm'](las.md#auto-laspistol-kasr-swarm-pattern), [marksman 'Kasr Longeye'](las.md#marksman-laspistol-kasr-longeye-pattern), [tac 'Kasr Tether'](las.md#tac-laspistol-kasr-tether-pattern), [Commissar's 'Exemplar'](las.md#commissars-laspistol-exemplar-pattern), [officer's las luger](las.md#officers-las-luger), [charge-hold trigger](las.md#charge-hold-trigger-custom) (custom)
-- [New hellpistols (day 48)](las.md#new-hellpistols-day-48): [hell revolver 'Kasr Sixfold'](las.md#hell-revolver-kasr-sixfold-pattern), [dual hellpistol 'Kasr Twin'](las.md#dual-hellpistol-kasr-twin-pattern), [smart hellpistol 'Cognis'](las.md#smart-hellpistol-cognis-pattern)
+- [New hellpistols (day 48)](las.md#new-hellpistols-day-48): [hell revolver 'Hell Sixfold'](las.md#hell-revolver-hell-sixfold-pattern), [dual hellpistol 'Hell Twin'](las.md#dual-hellpistol-hell-twin-pattern), [smart hellpistol 'Hell Cognis'](las.md#smart-hellpistol-hell-cognis-pattern)
 - [Lasgun, 'Kasr Duet' twin-focus pattern](las.md#lasgun-kasr-duet-twin-focus-pattern)
 - [Long-las, 'Kasr Sprinter' stripped pattern](las.md#long-las-kasr-sprinter-stripped-pattern)
 - [Charge long-las, 'Kasr Lance' pattern](las.md#charge-long-las-kasr-lance-pattern)
