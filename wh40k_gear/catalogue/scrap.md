@@ -191,3 +191,20 @@ both.** Loose stub shot: **brutal within ~8 m**, good on flesh, flak stops most 
 **-3 past ~15 m.** **Scrap quirk:** on a natural 1 **both barrels fire together** (even
 if one was meant) and the kick knocks the shooter flat; they spend the next beat
 getting up. Carried by door guards, gang enforcers and cultists holding a chokepoint.
+
+## Flamer and mortar parts (day 48)
+
+Designed by the player, Ash on Ostrava day 48 (rarity and regular or custom: the DM's call). They roll on enemies' and
+allies' weapons like any attachment ([attachments.md](attachments.md#the-rollable-list)).
+
+- **Sprayer barrel** (uncommon; flamers and hand flamers; barrel, so not with a hand flamer's long barrel): an open
+  funnel on the nozzle. **The gout reaches half as far but spreads twice as wide at its end:** a Ryza flamer ~7 m
+  long and ~10 m wide; a heavy flamer ~10 m and ~14 m; **a hand flamer's narrow line becomes a ~3 m fan.**
+- **Reinforced mortar barrel** (uncommon; mortars; barrel): a thicker, banded tube that takes a bigger charge:
+  **shots go half as far again** (a light mortar to ~450 m, a pipe-bomb mortar to ~60 m).
+- **Extra shot chamber** (uncommon; custom; mortars; chamber): a fold-out chamber the size of one round on the
+  tube's side. **Loaded, it swings in and fires a second round the same beat** (on the same spot, or one within
+  ~10 m of it). **Refilling it takes the loader's beat.**
+- **Anti-dud breech** (uncommon; mortars; breech): a cleaner striker and a safety cradle in the base. **Fewer duds:**
+  when a round would dud (a pipe-bomb mortar's natural 1), **roll a d6: only 1-3 is a dud**; and **a dud in the tube
+  is lifted out safely** (a beat; nobody has to dive).

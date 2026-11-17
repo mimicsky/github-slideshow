@@ -67,15 +67,18 @@ rifle and a sidearm, a machete and a shield). **Melee weapons roll too** (the pl
 bayonet, stock, stockmag, muzzle, mag, grip, sleeve, barrel, coil, action, selector, bolt, slide, igniter, feeder,
 tripod, holster, generator, sling, siderail, counter, vent, arc, tubesel, loader, **load** (special ammo); melee:
 field, hone, spikes, slot, overdrive, motor, teeth, mgrip, mselector, strap, guard, edge, head, rim, pommel,
-balance, throwbal, rig, chguard, point, stand, regulator, enhancer, length.
+balance, throwbal, rig, chguard, point, stand, regulator, enhancer, length, chamber, breech.
 
 | Attachment | Rarity | Slot | Fits | What it does | Full entry |
 | --- | --- | --- | --- | --- | --- |
 | **Las auto-fire crystal** | rare | action | las rifles (only: ^(?!.*(hot-shot or hellgun)).*(lasgun or lascarbine)) | strings up to 12; no hit bonuses in the string, misses still -1; strings of 8+ build 1 heat, vent at 3 | [kit.md](kit.md#las-auto-fire-crystal) |
 | **Repeater crystal** | rare | action | las pistols, las rifles | strings up to 7; no chain bonuses in the string, misses still -1 | [kit.md](kit.md#repeater-crystal) |
 | **Custom barrel** | uncommon | barrel | SMGs, stub pistols | +1 on aimed shots | [kit.md](kit.md#custom-barrel-stub-pistols-and-smgs-barrel-slot) |
+| **Reinforced mortar barrel** | uncommon | barrel | mortars | half as far again: a light mortar to ~450 m, a pipe-bomb mortar to ~60 m | [scrap.md](scrap.md#flamer-and-mortar-parts-day-48) |
+| **Sprayer barrel** | uncommon | barrel | flamers, hand flamers | an open funnel: the gout reaches half as far but spreads twice as wide at its end (a hand flamer's line becomes a ~3 m fan) | [scrap.md](scrap.md#flamer-and-mortar-parts-day-48) |
 | **Bayonet (fixed)** | common | bayonet | autoguns and stub rifles, las rifles | a spear thrust in melee: chains 2, +1 to strike first; Bayonet Charge | [kit.md](kit.md#bayonet) |
 | **Underslung chain-bayonet** | rare | bayonet | autoguns and stub rifles, las rifles | fights as a chainsword (-1 block/parry); -1 hip snap shots; Bayonet Charge | [kit.md](kit.md#underslung-chain-bayonet) |
+| **Anti-dud breech** | uncommon | breech | mortars | fewer duds: a dud happens only if a d6 after it shows 1-3; a dud in the tube is lifted out safely (a beat, no dive) | [scrap.md](scrap.md#flamer-and-mortar-parts-day-48) |
 | **Shock-coil kit** | rare | coil | SMGs, autoguns and stub rifles, blades, blunt weapons, bolt pistols, boltguns, chain weapons, heavy stubbers, heavy weapons, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, power weapons, psyker staffs, shotguns, stub pistols | after a hit, +1 on his next roll against that target (6 charges a fight) | [kit.md](kit.md#shock-coil-kit) |
 | **10-degree edge** | uncommon | edge | blades | against no armour a hit drops an extra step; a hit on armour, d6: 5 the edge dulls (no bonus till re-sharpened), 6 the blade breaks | [kit.md](kit.md#melee-attachments-day-48) |
 | **Serrated edge** | uncommon | edge | blades | against no armour a hit drops an extra step; anyone it downs is -2 on the survival d6 after the fight | [kit.md](kit.md#melee-attachments-day-48) |
@@ -196,6 +199,7 @@ balance, throwbal, rig, chguard, point, stand, regulator, enhancer, length.
 | **Short finned barrel** *(Custom)* | uncommon | barrel | autoguns and stub rifles (only: autogun or columnus) | +1 inside ~10 m, -2 past ~30 m; strings of 8+ build 1 heat, the fins shed 1 when it doesn't fire; -1 swapping | [attachments.md](attachments.md#tamsins-columnus-schematic-18) |
 | **Heavy buffer spring and new bolt** *(Custom)* | common | bolt | SMGs | jams only from the 25th straight round | [attachments.md](attachments.md#stinger-tamsin) |
 | **Light reciprocating parts and plasteel spring** *(Custom)* | common | bolt | heavy stubbers | strings up to 10, no hit bonuses in the string | [attachments.md](attachments.md#morcants-heavy-stubber-schematic-3) |
+| **Extra shot chamber** *(Custom)* | uncommon | chamber | mortars | a fold-out chamber holding one round: swung in, it fires a second round the same beat (same spot or one within ~10 m); refilling it is the loader's beat | [scrap.md](scrap.md#flamer-and-mortar-parts-day-48) |
 | **Chain guard** *(Custom)* | uncommon | chguard | chain weapons | the chain can't be caught on a parry; +1 to parry | [kit.md](kit.md#melee-attachments-day-48) |
 | **Promethium can and blade line** *(Custom)* | rare | coil | blades, chain weapons | heavy: -2 to parry with it; lit (on/off free): -1 on swings, a hit sets the target alight on a d6 5-6; 1 charge a lit beat, 6 to a can (a fire bottle or a flamer canister refills it) | [kit.md](kit.md#melee-attachments-day-48) |
 | **Helm-linked ammo counter** *(Custom)* | uncommon | counter | SMGs, autoguns and stub rifles, bolt pistols, boltguns, flamers, hand flamers, heavy stubbers, heavy weapons, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | he always knows his count: never caught dry | [attachments.md](attachments.md#sorels-hellgun-schematic-14) |
