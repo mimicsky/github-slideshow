@@ -250,7 +250,7 @@ frame: **every shot is a double bolt** (roll twice, each its own hit), in **stri
 ### Smart hellpistol, 'Cognis' pattern
 
 **Smart hellpistol, 'Cognis' pattern** (rare, 20 TV; Mechanicus, Free Traders). A Mechanicus auto-locator and a
-verifying laser: **strings of 4 at +5 on every shot.** But the logic-engine is touchy: **a raw 1-3 on the first shot of a
+verifying laser (they fill its optic and laser slots): **strings of 4 at +5 on every shot.** But the logic-engine is touchy: **a raw 1-3 on the first shot of a
 string and it short-circuits.** That string goes wrong (d6: **1-2 it fires at the nearest ally**, resolved normally without
 the +5; **3-6 it fires wild**, wasted), and **the smart function is dead for the rest of the fight until it's fixed**
 (after the fight with a repair kit, or a tech-adept mid-fight, a beat): until then it shoots as a plain hellpistol.

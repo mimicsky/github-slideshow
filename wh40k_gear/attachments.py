@@ -274,8 +274,8 @@ MTYPES = [("sh", r"shield"), ("pw", r"power (sword|axe|maul|knife|fist|mace|blad
           ("bl", r"knife|machete|cutlass|sabre|sword|cleaver|axe|shank|blade|stiletto|shovel"),
           ("bt", r"club|maul|mace|hammer|flail|baton|prod|knuckle|girder|pick\b"),
           ("st", r"\bstaff\b|\bstave\b")]
-BUILTIN = [("optic", r"scope|range-finder|sprinter|kasr lance|exemplar"), ("mag", r"drum|100-shot box|kasr tether|las luger|hell revolver"),
-           ("laser", r"kasr tether"), ("counter", r"exemplar"),
+BUILTIN = [("optic", r"scope|range-finder|sprinter|kasr lance|exemplar|cognis"), ("mag", r"drum|100-shot box|kasr tether|las luger|hell revolver"),
+           ("laser", r"kasr tether|cognis"), ("counter", r"exemplar"),
            ("muzzle", r"silenced|suppressed"), ("bayonet", r"bayonet|krieg"), ("tripod", r"tripod"),
            ("barrel", r"heavy barrel|long barrel|long-barrel|stub barrel"), ("stock", r"folding stock"),
            ("load", r"arrows")]  # a kit that names its arrows has its load
