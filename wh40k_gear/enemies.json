@@ -142,6 +142,10 @@
    [
     "Needle-blade (toxin)",
     "R"
+   ],
+   [
+    "Scrap chainsword",
+    "C"
    ]
   ],
   "armour": [
@@ -792,6 +796,10 @@
    [
     "Chain axe",
     "R"
+   ],
+   [
+    "Scrap chainsword",
+    "C"
    ]
   ],
   "armour": [
@@ -1426,6 +1434,10 @@
    [
     "Power sword (taken from a captain)",
     "R"
+   ],
+   [
+    "Chain glove",
+    "U"
    ]
   ],
   "armour": [
@@ -1974,6 +1986,10 @@
    [
     "Power knife",
     "R"
+   ],
+   [
+    "Chain glove",
+    "U"
    ]
   ],
   "armour": [
@@ -2630,6 +2646,10 @@
    [
     "Chainsword (an old militia officer's)",
     "R"
+   ],
+   [
+    "Scrap chainsword",
+    "U"
    ]
   ],
   "armour": [
@@ -2881,6 +2901,10 @@
    [
     "Power sword",
     "R"
+   ],
+   [
+    "Chain glove",
+    "U"
    ]
   ],
   "armour": [

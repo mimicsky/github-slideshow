@@ -4254,5 +4254,19 @@
   "cat": "las",
   "rarity": "R",
   "sellers": "AF"
+ },
+ {
+  "name": "Scrap chainsword (scrap teeth: carapace on a solid hit; -1 parry; pull-cord start, d4 1 won't catch; stalls on a raw 1)",
+  "tv": 2,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Chain glove (punches as a chain weapon; can't be disarmed; a raw 1 bites the wearer)",
+  "tv": 6,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
  }
 ]

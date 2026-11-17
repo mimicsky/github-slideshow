@@ -575,3 +575,26 @@ drops a step as usual. **Machines** (Skitarii, servitors) take it **one step har
 default; the player may change it). A **medium** weapon (chains 2). A hit that lands **stuns the target for a
 beat** (they lose their next main thing); against carapace or heavier, only a solid hit (or a raw 17+) stuns.
 Sorel's (campaign sheet).
+
+## Scrap chainsword
+
+**Scrap chainsword** (common, 2 TV; black market; player design, Ash on Ostrava day 48). A makeshift chainsword: a
+hammered blade, scrap teeth on a salvaged chain, and a big gearbox because it takes more machinery to make it go.
+- **Scrap teeth:** through flak on any hit; **carapace only on a solid hit.** The gearbox is clunky: **-1 to parry.**
+- **Pull-cord start**, like a lawnmower: **pulling it is the beat's short move**, then a **d4: on a 1 it doesn't catch.**
+  Until it runs it's a **dead club** (hits like a club), and he can pull again next beat. So he can **pull and swing in
+  the same beat.**
+- **Stalls:** a **raw 1 on a swing** and it cuts out: a dead club again until he pulls it back to life (the short move,
+  the d4 again).
+Cultists, raiders and commoners carry them.
+
+## Chain glove
+
+**Chain glove** (uncommon, 6 TV; Munitorum, black market, Free Traders; player design, Ash on Ostrava day 48). Soldier
+and sergeant gear, not Mechanicus work: a big armoured glove with a grip and a trigger button inside, the chain running
+round the outside of the fist.
+- **Punches hit like a chain weapon.** It's worn: **it can't be disarmed.** **A grab with it chews:** a grapple hit
+  counts as a chain hit. **That hand can't hold anything else.**
+- **It runs hot, and any fault bites the wearer:** a **raw 1 on a swing**, roll a **d4**: **3-4 it burns him, 2 it cuts
+  him** (both drop him a step; he fights on); **1 it cuts him and the glove comes off** (a step, and a beat to strap it
+  back on).

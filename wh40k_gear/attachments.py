@@ -270,7 +270,7 @@ TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b"), ("pp", r"p
          ("lr", r"lasgun|lascarbine|hellgun|long-las|las-box|las-lmg|volley gun|battery las"),
          ("sr", r"autogun|autorifle|stub rifle|lever-action|pipe rifle|hunting rifle")]
 MTYPES = [("sh", r"shield"), ("pw", r"power (sword|axe|maul|knife|fist|mace|blade|odachi)|thunder hammer|relic blade"),
-          ("ch", r"chainsword|chain axe|chain-axe|chain knife|chain glaive|chain blade|eviscerator"),
+          ("ch", r"chainsword|chain axe|chain-axe|chain knife|chain glaive|chain blade|eviscerator|chain glove"),
           ("bl", r"knife|machete|cutlass|sabre|sword|cleaver|axe|shank|blade|stiletto|shovel"),
           ("bt", r"club|maul|mace|hammer|flail|baton|prod|knuckle|girder|pick\b"),
           ("st", r"\bstaff\b|\bstave\b")]
