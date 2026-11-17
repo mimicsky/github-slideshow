@@ -99,6 +99,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Battery las ("car-battery lasgun")](scrap.md#battery-las-car-battery-lasgun)
 - [Pipe-bomb mortar ("tube lobber")](scrap.md#pipe-bomb-mortar-tube-lobber)
 - [Flamer and mortar parts (day 48)](scrap.md#flamer-and-mortar-parts-day-48) (sprayer barrel, reinforced mortar barrel, extra shot chamber, anti-dud breech)
+- [Mortar rounds (day 48)](scrap.md#mortar-rounds-day-48) (smoke, flare, incendiary, choke, airburst, krak, cluster; scrap loads: fire bottle, tin-can, cracker)
 - [Bolt-pipe ("one-shot boomer")](scrap.md#bolt-pipe-one-shot-boomer)
 - [Pipe rifle](scrap.md#pipe-rifle)
 - [Rattler (stamped scrap SMG)](scrap.md#rattler-stamped-scrap-smg)

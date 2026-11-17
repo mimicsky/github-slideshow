@@ -852,7 +852,7 @@ a ridge) and fed targets by a spotter, a vox or its own eyes. **Indirect fire:**
 it knows of within ~300 m (d20 + DEX against the DM's hidden number for the spot; the near-miss lands close at
 half effect, as Hollis's grenades). **Frag rounds:** everyone within ~5 m drops a step, and **only cover
 overhead helps** (a roof, not a wall or a parapet). **Smoke rounds:** as smoke grenades. **Walking it in:** the
-first round at a new spot is -2; after a hit, the next on the same spot +2. **Killing it:** find it (Perception,
+first round at a new spot is -2; after a hit, the next on the same spot +2. **Special rounds** (flare, incendiary, choke, airburst, krak, cluster; scrap loads): catalogue scrap.md, Mortar rounds (day 48). **Killing it:** find it (Perception,
 the cough of the tube, a spotter's sightline), flank it, or answer it (Six Bells, the ship).
 
 ## Role weapons (random kits)

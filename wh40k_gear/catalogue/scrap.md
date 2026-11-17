@@ -208,3 +208,33 @@ allies' weapons like any attachment ([attachments.md](attachments.md#the-rollabl
 - **Anti-dud breech** (uncommon; mortars; breech): a cleaner striker and a safety cradle in the base. **Fewer duds:**
   when a round would dud (a pipe-bomb mortar's natural 1), **roll a d6: only 1-3 is a dud**; and **a dud in the tube
   is lifted out safely** (a beat; nobody has to dive).
+
+## Mortar rounds (day 48)
+
+Designed by the player, Ash on Ostrava day 48. A mortar team carries **frag** (or a pipe-bomb mortar, **pipe-bombs**) as
+standard; the rounds below are **special loads**: they roll in the load slot like special ammo, and **a rolled load means
+about half the team's rounds are that type**. **Duds:** a round that can dud rolls a d6 when it lands (an anti-dud
+breech then gives it a second d6: only 1-3 is still a dud). A dud lies where it landed, live (the DM's call if it
+matters).
+
+**Light mortar**
+
+| Round | Rarity | Effect |
+| --- | --- | --- |
+| **Frag** | standard | everyone within ~5 m drops a step; only cover overhead helps (bestiary roles, Mortar team) |
+| **Smoke** | common | as a smoke grenade where it lands |
+| **Flare** | common | lights ~50 m for 3 beats: no darkness penalty for anyone in it |
+| **Incendiary** | uncommon | everyone within ~5 m catches fire; the ground burns 2 beats |
+| **Choke gas** | uncommon | an ~8 m cloud for 3 beats: -2 without a mask or rebreather |
+| **Airburst** | uncommon | bursts overhead over ~8 m: a step, and canvas, tarps or foliage overhead don't help (only a solid roof does). **Duds on a d6 of 1** |
+| **Krak** | rare | one target or vehicle, hits like a krak grenade; **-2 to land it** |
+| **Cluster** | rare | bomblets over ~15 m: everyone in it rolls a d6, **4-6 drops a step**. **Duds on a d6 of 1** |
+
+**Pipe-bomb mortar (scrap loads; every one can dud)**
+
+| Round | Rarity | Effect |
+| --- | --- | --- |
+| **Pipe-bomb** | standard | a frag hit within ~3 m; a natural 1 sticks fizzing in the tube (Pipe-bomb mortar). **Duds on a d6 of 1** |
+| **Fire bottle** | common | a ~2 m pool of fire where it lands. **Duds on a d6 of 1** |
+| **Tin-can bomb** | common | a weak frag, ~2 m. **Duds on a d6 of 1** |
+| **Cracker bundle** | common | a flashbang: -2 within ~4 m. **Duds on a d6 of 1-2** |
