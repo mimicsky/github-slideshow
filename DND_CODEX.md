@@ -1368,7 +1368,7 @@ bounty hunter, someone he wronged). Where a deed happened, add **+5 there**.
 
 | Renown | Who knows him | Bonus |
 | --- | --- | --- |
-| Unknown | Nobody | +0 (only a natural 20) |
+| Unknown | Nobody | **only a natural 20** (not 15+: settled by the player, day 48) |
 | Local | One station or fleet | +3 |
 | Regional | A few systems | +6 |
 | Sector | The whole sector | +10 |
