@@ -96,7 +96,7 @@ Then roll.
   step against armour that would have shrugged it; wear-down). Refractor field rolls.
 - **Melee:** codex house rule 5, **the exchange** (opposed rolls, block 1-2 higher, parry 3+, a raw 17+ can't be stopped), **melee chains** (resolve a chain swing by swing; **a parry ENDS the chain**, a block lets it carry on), which stat, two weapons, shields.
 - **Knife bouts on the mat** (codex Part 6, Matches, bouts and knife bouts): **d20 + DEX each, no specialties** (Tamsin adds his proficiency: +12, 8 DEX + 4); **vital (2 hits) only on a raw 17+ or a win by 5+, otherwise minor (1)**: no location rolls; first to 2 hits takes the round, first to 5 rounds the bout. (Added day 36 after Kell's bout was first run at +6 STR and specialty.)
-- Health numbers and steps (4.0 Fine, 3.0 Hurt, 2.0 Badly hurt, 1.0 Down; halves), bigger tracks, Down (codex house rule 4; Part 6, Breaking and Down).
+- Health numbers and steps (5.0 Fine, 4.0 Grazed, 3.0 Hurt, 2.0 Badly hurt, 1.0 Down; halves), bigger tracks, Down (codex house rule 4; Part 6, Breaking and Down).
 
 **9. After the beat, then the reply** (fight card §8-§9).
 - **Count, for each person, in their Full kit row** (counts; the history goes to `inventory.md`, Ammo and condition log): ammo (packs: hot-shot 30, las 45), Vigil's heat (vent at 3), every

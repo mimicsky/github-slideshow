@@ -215,7 +215,7 @@ for n in range(count):
             if sk >= 18:
                 k6 = random.randint(1, 6)
                 skit = ("RANGER: galvanic rifle" if k6 <= 3 else "VANGUARD: radium carbine (rad-sickness within ~5 m)" if k6 <= 5 else "SICARIAN: paired transonic blades")
-                skit = f"corrupted SKITARIUS (tech-adept d20 {sk}, kind d6 {k6}), {skit}; augmetic eyes, machine body (starts at 5.0 health), shock-weak; see roles.md"
+                skit = f"corrupted SKITARIUS (tech-adept d20 {sk}, kind d6 {k6}), {skit}; augmetic eyes, machine body (starts at 6.0 health), shock-weak; see roles.md"
         if skit:
             kit = skit
         else:

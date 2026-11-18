@@ -32,7 +32,7 @@ A bar that fills over the campaign, so a boss can turn up in any fight, not only
 
 ## Monster boss template
 
-- **8 health stages: it starts at 8.0** (numbers: day 48): 8.0 Fine, 7.0 Grazed, 6.0 Bruised, 5.0 Hurt, 4.0 Wounded, 3.0 Badly hurt, 2.0 Broken, 1.0 Down. (The stage names are a monster's own flavour; it takes no state penalties unless its entry says so: codex house rule 4.)
+- **9 health stages: it starts at 9.0** (one more than before, as everyone: day 48): 9.0 Fine, 8.0 Skimmed, 7.0 Grazed, 6.0 Bruised, 5.0 Hurt, 4.0 Wounded, 3.0 Badly hurt, 2.0 Broken, 1.0 Down. (The stage names are a monster's own flavour; it takes no state penalties unless its entry says so: codex house rule 4.)
 - **Hide, bloat or daemon flesh:** only **solid hits** (beat the number by 3+), **crits, fire and blasts** take a
   stage off it. A plain hit does nothing. (Each entry can name its own exceptions: blessed and force weapons
   against daemons.) **Shots at a big one get +2** (it's a big target).
@@ -52,7 +52,7 @@ A named special character: a Major, a cult leader, a pirate captain, a renegade 
 - **He takes the best of everything rolled for his team**: the best gun, the best armour, the best blade,
   **plus one signature piece** (a rare: `python3 wh40k_gear/dice.py rare weapons`, or a relic with a story).
 - **STR and DEX +6 to +10 each** (d5 + 5 each, rolled separately).
-- **+2 health stages: he starts at 6.0** (no penalty above 3.0; then Hurt, Badly hurt and Down as anyone) and **Hard to kill** (+1 on his survival d6).
+- **+2 health stages: he starts at 7.0** (Fine down to 5.0, Grazed at 4.0, then Hurt, Badly hurt and Down as anyone) and **Hard to kill** (+1 on his survival d6).
 - **2 orders a beat** to his people (each +2, acting first).
 - **Bodyguards cover him:** a guard within reach takes a hit meant for him on a **d6 4-6**.
 - **Falls back at Badly hurt** to fight another day, unless he's cornered, or his faction never runs (**the

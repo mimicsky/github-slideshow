@@ -175,11 +175,11 @@ run into you and blow themselves up.*
 **Who has it:** all six leagues.
 
 Stays behind the line and drags the wounded back. **Patches one ally a beat: gives
-them back one health step (+1.0), once per person** (Badly hurt to Hurt, Hurt to Fine; **a Down
+them back one health step (+1.0), once per person** (Badly hurt to Hurt, Hurt to Grazed, Grazed to Fine; **a Down
 patient comes back at 3.0, Hurt**; never above their full number; numbers: day 48); **can't
 bring back the dead.** **The patch roll (set by the player, Ash on Ostrava session 10): d20 + WIS + 4
 against a normal target, the same every time: no penalty for worse wounds or for being under fire;
-it's their job and they're used to it. The near-miss rule applies. Hurt to Fine costs only bandages;
+it's their job and they're used to it. The near-miss rule applies. A patch on anyone above Down costs only bandages;
 Down to Hurt uses one stimm.** Shoots until someone on their side gets hurt, then switches to
 patching. **Killing the medic hurts the team's morale.**
 
@@ -401,7 +401,7 @@ time. Pride is their weakness: they can be baited.
 **Who has it:** cultists, raiders, traitor soldiers, traitor elites, commoners (the big farmhand).
 
 Huge: a mutant, a renegade Ogryn, a penal monster. **Takes 2 more hits than a
-normal person before going Down** (two extra health steps: **starts at 6.0**). Slow-witted and
+normal person before going Down** (two extra health steps: **starts at 7.0**). Slow-witted and
 straightforward: walks at the nearest enemy and hits them. **Can throw big
 objects or smash cover; either takes a beat.** Dumb: can be led into traps, and
 sometimes ignores orders.
@@ -611,7 +611,7 @@ Burns with faith, for the Emperor or for a dark god. Fights in front and never
 stops shouting. **Their side gets +1 on nerve, and while the zealot stands their
 grunts won't flee.** **Once a fight, a great shout: every enemy who hears it makes a
 WIS save or takes -1 on their next roll** (a purity seal gives advantage). **Faith
-keeps them up: they have an extra health stage** (**they start at 5.0**; no penalty above 3.0:
+keeps them up: they have an extra health stage** (**they start at 6.0**; no penalty above 3.0:
 codex house rule 4). **Divine intervention: whenever a hit is about to land on them, roll a d20; on
 a natural 20 they get out of the way, as if something moved them.**
 
@@ -639,7 +639,7 @@ human, obeying their Tech-Priests through data-links. Corrupted ones serve heret
   target).
 - **Stats:** STR 30-45, DEX 35-50. **Built-in augmetic eyes:** +1 on shots, can't be
   blinded.
-- **Machine body:** one extra health stage: **it starts at 5.0** (no penalty above 3.0: codex house rule 4).
+- **Machine body:** one extra health stage: **it starts at 6.0** (no penalty above 3.0: codex house rule 4).
   No bleeding, no fear, immune to gas.
 - **Data-link:** if their Tech-Priest or heretek is in the fight, they act **first**
   every beat.
@@ -775,7 +775,7 @@ kitted.)
 A giant abhuman, about 3 m tall: dumb, loyal, and it hits like a truck.
 
 - **Stats:** **STR 60-80** (+6 to +8), **DEX 10-20** (+1 to +2). Terrible shot.
-- **Size:** **two extra health stages: a regular Ogryn starts at 6.0** (no penalty above 3.0: codex house rule 4;
+- **Size:** **two extra health stages: a regular Ogryn starts at 7.0** (no penalty above 3.0: codex house rule 4;
   settled by the player, day 48: the old text said 'three' but named two, and Fourteen's was played with two).
   **Big target: shots at an Ogryn get +2.**
 - **Kit (by type):** slab shield and a maul, a ripper gun, or a grenadier gauntlet
@@ -795,7 +795,7 @@ fight for anything that feeds them.*
 ### Ogryn variants: the Crusher, the Bulwark, the Reaper
 
 **Added by the player, Ash on Ostrava day 47, from Darktide (the Moebian 6th's Ogryns).** Each is an Ogryn (the stats,
-the 6.0 health track, shots at it +2, the once-a-fight charge, loyal and dumb, as above), plus:
+the 7.0 health track, shots at it +2, the once-a-fight charge, loyal and dumb, as above), plus:
 
 - **Crusher.** Sealed in **full heavy carapace** (only heavy hits get through: hellguns and heavy stubbers only
   inside ~15 m; bolters, chain on a solid hit, power, plasma, melta, krak always). A **two-handed power maul**:
@@ -846,7 +846,7 @@ A long-limbed, twisted mutant that hunts one target at a time. **Charge (any bea
 it sprints ~30 m and grabs: the target makes a **DEX dodge against its STR roll**; a fail and it's **grabbed**:
 the charger drags them ~10 m away from their friends, toward its own side, slams them down (a step) and holds
 them. **Grabbed:** can't act except to break free (STR against its STR) until the charger goes Down or takes a
-solid hit. **Two extra health steps** (like a brute: **it starts at 6.0**). No guns.
+solid hit. **Two extra health steps** (like a brute: **it starts at 7.0**). No guns.
 
 ## Mortar team
 

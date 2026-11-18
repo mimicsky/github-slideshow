@@ -261,16 +261,19 @@ and half steps set by the player, day 48**):
 
 | Health | State | Meaning | Effect |
 | --- | --- | --- | --- |
-| **4.0** (and 3.5) | Fine | Untouched or scratched | none |
+| **5.0** (and 4.5) | Fine | Untouched or scratched | none |
+| **4.0** (and 3.5) | Grazed | Nicked, bruised, breathing hard; nothing slowed yet (**the extra state everyone got on day 48**, so fights last longer) | none |
 | **3.0** (and 2.5) | Hurt | Bleeding, slowed, still dangerous | **-1 on rolls** |
 | **2.0** (and 1.5) | Badly hurt | One more bad exchange from going down | **-2 on rolls, no sprint** (a short move only) |
 | **1.0** | Down | Out of the fight unless a medic patches them back to Hurt. **Enemies:** d6 after the fight, 1-3 dead. **The Light:** alive; dies only if finished off or hit again while Down (Part 6, Breaking and Down) | out |
 
+- **Everyone got one more state on day 48 (the player: 'people just die fast and it's not even a fight'):** a person now
+  starts at **5.0**, with **Grazed** between Fine and Hurt. Short tracks (beasts, mastiffs, poxwalkers) did not change.
 - **A step is 1.0.** Everything written in steps works as it always has: a hit drops **1.0**, a crit one more, "an extra
   step" is 1.0 more, "two steps" is 2.0.
 - **A half step is 0.5** (the player, day 48): for weak weapons, half effects and anything an entry calls half a step.
-  **The state only changes at the whole number:** 3.5 is still Fine, 2.5 still Hurt, 1.5 still Badly hurt.
-- **Written as the number, then the state:** `Tamsin 4.0 (Fine)`, `Coat guy (gunslinger) 2.5 (Hurt)`, on the sheet, in the
+  **The state only changes at the whole number:** 4.5 is still Fine, 3.5 still Grazed, 2.5 still Hurt, 1.5 still Badly hurt.
+- **Written as the number, then the state:** `Tamsin 5.0 (Fine)`, `Coat guy (gunslinger) 2.5 (Hurt)`, on the sheet, in the
   DM notes and on the 'Still up' board.
 - **Below 1.0 an enemy is dead (the player, day 48).** A hit that takes an enemy **below 1.0** (a crit or a heavy hit on
   someone already Badly hurt), or **any hit on an enemy who is already Down** (one their armour doesn't shrug, half steps
@@ -280,8 +283,8 @@ and half steps set by the player, day 48**):
 - **A crit adds 1.0 to whatever the hit does** (a half-step hit becomes 1.5), except against armour that would have
   shrugged it, where a crit is **1.0 flat**, and against armour the weapon is Too weak to matter for (Part 8, Armour).
 - **Patches give back 1.0, rounding a half up** (bestiary roles, Medic): Badly hurt (2.0 or 1.5) to **3.0**, Hurt (3.0 or
-  2.5) to **4.0**; **a Down patient comes back at 3.0 (Hurt)**. Never above their full number. **Topping up a lone half
-  step** (3.5 to 4.0) comes free with any successful patch roll and doesn't use the medic's once-per-person. **A near-miss
+  2.5) to **4.0** (Grazed: the penalty is gone), Grazed (4.0 or 3.5) to **5.0**; **a Down patient comes back at 3.0 (Hurt)**. Never above their full number. **Topping up a lone half
+  step** (4.5 to 5.0) comes free with any successful patch roll and doesn't use the medic's once-per-person. **A near-miss
   patch** (the roll misses by 1-2) gives back **0.5** (DM's defaults, day 48).
 - **Healing between fights (settled by the player, day 48; it is how the Light's wounds have been played):** what a field
   patch doesn't give back comes back with rest. **Each 1.0 of health takes a d4 of days of rest** (roll one d4 for each
@@ -298,12 +301,12 @@ and half steps set by the player, day 48**):
   plasma charge's "half an armour step" in plasma.md is armour punch, not health.)
 
 **Some roles and gear add more, so check them** (each in its own entry):
-- **Bigger tracks start higher** (the old "extra health stages": each is +1.0 above 4.0): **Zealot 5.0**, **Skitarius
-  5.0**, **Brute / mutant 6.0**, **Mutant charger 6.0**, **Ogryn 6.0** (a regular Ogryn: two extra stages; settled by the player, day 48), **human bosses 6.0**, **monster bosses 8.0**. All in `wh40k_gear/bestiary/roles.md` and
-  `bosses.md`. **Anything above 3.0 is Fine for the rules: no penalty.** The old names for the numbers in between
-  (Grazed, Bruised, Wounded) are flavour: write `5.0 (Fine)`. **Monster bosses** keep their own stage names
+- **Bigger tracks start higher** (the old "extra health stages": each is +1.0 above everyone's 5.0): **Zealot 6.0**, **Skitarius
+  6.0**, **Brute / mutant 7.0**, **Mutant charger 7.0**, **Ogryn 7.0** (a regular Ogryn: two extra stages; settled by the player, day 48), **human bosses 7.0**, **monster bosses 9.0**. All in `wh40k_gear/bestiary/roles.md` and
+  `bosses.md`. **Anything at 5.0 or above is Fine; 4.0 is Grazed; neither has a penalty.** The old names for a big track's upper
+  numbers (Bruised, Wounded) are flavour: write `6.0 (Fine)`. **Monster bosses** keep their own stage names
   (bosses.md) and **take no state penalties** unless their entry says so (DM's default, day 48).
-- **"Stages" and "steps":** a boss's "N health stages" count Fine and Down, so it **starts at N.0** (8 stages: 8.0);
+- **"Stages" and "steps":** a boss's "N health stages" count Fine and Down, so it **starts at N.0** (9 stages: 9.0);
   a small creature's "N health steps" (or "states") are **steps to Down**, so it **starts at N + 1.0**.
 - **Short tracks** (beasts, cyber-mastiffs, poxwalkers): a 2-step mastiff starts at 3.0, a poxwalker at 2.0. They
   **take no state penalties** (they fight at full until Down) and are **written as the number only** (`Mastiff 3.0`),
@@ -632,7 +635,7 @@ game-breaking.
 | 25 | Sure-footed | No penalty on bad footing (ice, oil, rubble, a pitching deck); +1 against being knocked down |
 | 26 | Good arm | +1 on throws (grenades, knives) |
 | 27 | Iron will | +1 against interrogation; if taken, their Will starts 10% higher |
-| 28 | Field medic | +1 on their own patch rolls (a medic's patch, or anyone's Hurt-to-Fine patch) |
+| 28 | Field medic | +1 on their own patch rolls (a medic's patch, or anyone's patch on someone Hurt or Grazed) |
 | 29 | Quick reflexes | +1 to act first when it matters who moves first (an ambush going off, a shootout) |
 | 30 | Scrounger | When they're part of the search, the looting d20 finds a stashed rare on a **17-20**, not just a natural 20 (Part 8, Loot; changed by the player, Ash on Ostrava day 37; was 19-20) |
 | 31 | Defender | Better in cover: **cover on them counts one step more** (light +2, half +3, heavy +5) (added by the player, Ash on Ostrava day 37) |
@@ -813,13 +816,13 @@ What the DM has always done, written down so anyone can run it.
   vehicles, beasts or daemons at the charge) +3**. **A jumper who is simply in the air is not abnormally fast:** shots at
   him take only Airborne's -3 (Gear rules, Airborne); the +3 comes on top only during a Dive (settled by the player, day 48). **A small or precise shot** (an arm, a leg, a lamp, a hand): **+1**. (Both set by the player, day 47.)
   The shooter's total (roll checklist) must reach it. Melee between people uses the exchange (house rule 5) instead.
-- **Damage:** a hit drops the target **one health step, 1.0** (4.0 Fine → 3.0 Hurt → 2.0 Badly hurt → 1.0 Down; house rule 4),
+- **Damage:** a hit drops the target **one health step, 1.0** (5.0 Fine → 4.0 Grazed → 3.0 Hurt → 2.0 Badly hurt → 1.0 Down; house rule 4),
   **unless their armour stops that kind of weapon** (Part 8, Armour: "shrugs off" means no step for that hit, but **shrugged hits wear them down**: every 6 drop a step, every 10 for power armour; day 47).
-  Bigger tracks (zealots, Skitarii, Ogryns, brutes, bosses) start above 4.0; a half step is 0.5 (house rule 4).
+  Bigger tracks (zealots, Skitarii, Ogryns, brutes, bosses) start above 5.0; a half step is 0.5 (house rule 4).
 - **Crit:** drops **one extra step: it adds 1.0 to whatever the hit does** (a half-step hit becomes 1.5; against armour that would have shrugged it, 1.0 flat: Part 8, Armour) (crit ranges: a natural 20 for most; Tamsin 19-20; Vigil 17-20 with heat).
 - **"Solid hit"** (wording some gear uses): the total **beats the hidden number by 3 or more**.
 - **Example:** a cultist behind crates (+2) at mid range, 31-60 m (15): target 17. Tamsin rolls 12 + 8 DEX + 4 proficiency = 24:
-  a hit and a solid hit; flak doesn't stop Vigil, so the cultist drops a step (4.0 to 3.0, Hurt).
+  a hit and a solid hit; flak doesn't stop Vigil, so the cultist drops a step (5.0 to 4.0, Grazed).
 
 ### Breaking and Down (set by the player, Ash on Ostrava session 10)
 
@@ -873,7 +876,7 @@ and Down), cover (Cover), conditions (Roll checklist, line 9) and leveling (by X
 | Man-portable multi-laser (rare loot) | → catalogue: heavy.md, Man-portable multi-laser | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | Mining charges and bomb-runner blasts | → catalogue: explosives.md, Mining charges | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | Ship and vehicle autocannons on people | → catalogue: heavy.md, Ship and vehicle autocannons on people | Ash on Ostrava, day 34 (DM default; the player may change it) |
-| A non-medic patching | Anyone can patch **Hurt to Fine** (someone at 3.0 or 2.5 back to 4.0; it also tops up a 3.5) at **d20 + WIS** (no medic +4) against the normal 15; **only a medic patches Badly hurt (2.0 or 1.5) or brings someone back from Down** | Ash on Ostrava, day 34 (DM default; the player may change it) |
+| A non-medic patching | Anyone can patch **someone Hurt or Grazed** (+1.0: 3.0 or 2.5 back to 4.0, 4.0 or 3.5 back to 5.0; it also tops up a 4.5) at **d20 + WIS** (no medic +4) against the normal 15; **only a medic patches Badly hurt (2.0 or 1.5) or brings someone back from Down** | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | A failed medic patch | Can be tried again next beat; the medic's 'once per person' counts only the patches that work | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | Unarmed knockouts | **A bare-handed blow is half a step (0.5)** (day 48; knuckles, a pommel or anything in the hand make it a full step). A fist, shoulder or kick that puts someone Down counts as **non-lethal, like a limb shot**: **+2 on the survival d6** (dead only on a 1) when every step came from limb shots or unarmed blows | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | Selling loot to a trader | The trader pays **half the catalogue TV for sound items, a quarter for Dirty, Neglected or damaged, a tenth for scrap** (shot-up flak, stripped parts); the quartermaster's haggle adds its % on top | Ash on Ostrava, day 36 (DM's call, Vashti's Rock; the player may overrule) |
@@ -1732,7 +1735,7 @@ wishes to help you"), and presses the seal onto the gear that earned it. Then th
 | **Bulwark seal** (grey) | **10 hits taken for someone else** (stepping in, shielding, covering) | **+1 on defence while an ally is within reach** | **Take a hit meant for an ally within reach, and the seal takes it: nobody is hurt** |
 | **Steady-hand seal** (blue) | **50 kills at range** | **+1 on aimed shots past ~30 m** with this weapon | **One shot lands as a solid hit**, no roll |
 | **Shepherd's seal** (white) | **25 innocents saved** (civilians, prisoners, the helpless) | **+2 to persuade or order civilians** | **Every ally in sight passes one failed fear, break or warp save** this beat |
-| **Seal of mercy** (green) | **15 wounded patched under fire** | **+1 on treating the wounded** | **A patch heals the patient fully: back to their full number** (4.0 for most; from any state, Down included; settled by the player, day 48: it was 'two steps, from Down to Hurt', which any patch already did) |
+| **Seal of mercy** (green) | **15 wounded patched under fire** | **+1 on treating the wounded** | **A patch heals the patient fully: back to their full number** (5.0 for most; from any state, Down included; settled by the player, day 48: it was 'two steps, from Down to Hurt', which any patch already did) |
 | **Unbroken seal** (iron) | **10 times stayed up when Badly hurt**, or **10 warp or fear saves passed** | **+1 on saves against fear** | When a hit would take you Down (to 1.0), **that hit does nothing: your number stays where it was** (settled by the player, day 48) |
 | **Shadow seal** (ash grey) | **20 silent takedowns** | **+1 on stealth** | **One move is unseen and unheard, no roll**: a crossing, an approach, or a takedown that makes no sound |
 

@@ -68,7 +68,7 @@ Conversion field.
 day 47, audit C14). Dressings, sutures, splints, antiseptic. **10 uses** (restocking: 0.25 TV a use).
 - **In a fight:** a patch is the beat's main thing and uses one. **A medic's Down → Hurt patch also costs a stimm**
   (codex Part 8, Going Down; bestiary roles, Medic).
-- **Outside a fight:** one use brings a **Hurt** ally back to **Fine**.
+- **Outside a fight:** one use gives an ally back **1.0** (Hurt to Grazed, Grazed to Fine; day 48: it was 'Hurt to Fine').
 - **Infection:** a wound treated with it gives **+2 on plague, rot or fester saves.**
 - **Without a med-kit,** patching with only a field dressing is at **-2**.
 

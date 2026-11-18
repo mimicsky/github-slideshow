@@ -399,7 +399,7 @@ On paper (16th). Source: [schematic 9](../../campaigns/ash-on-ostrava/schematics
 
 - **Quick-release sling** (sling; **common**) *(Custom, not traditional: no trader carries this.)*: dropping it to hang on her chest, or bringing it back up, **costs nothing.**
 - **Hollow skeleton stock (medicine cabinet)** (stock; **common**) *(Custom, not traditional: no trader carries this.)*: **3 compartments: a stimm, a bandage, a tourniquet;** **-1 on aimed shots past ~30 m.**
-- **Hollow pop-lock grip** (grip; **common**) *(Custom, not traditional: no trader carries this.)*: one more stimm, bandage or anything that size. With the stock: **she can patch from the gun without the Bag** (a stimm: Down to Hurt; a bandage or tourniquet: Hurt to Fine).
+- **Hollow pop-lock grip** (grip; **common**) *(Custom, not traditional: no trader carries this.)*: one more stimm, bandage or anything that size. With the stock: **she can patch from the gun without the Bag** (a stimm: Down to Hurt; a bandage or tourniquet: +1.0 on someone Hurt or Grazed).
 - **Tuned charger** (action; **uncommon**) *(Custom, not traditional: no trader carries this.)*: **strings up to 7,** no extra pack cost; the fast-gun rule: **no hit bonuses in the string,** misses still -1.
 - *Traditional parts on it:* holo sight, laser sight (kit.md).
 
