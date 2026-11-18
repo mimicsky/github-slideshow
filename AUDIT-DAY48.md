@@ -105,3 +105,4 @@ Each has the DM's recommended answer. Until answered, the rule stands as written
 **Still open after the nine:** Q5-Q7, Q10-Q13, Q15-Q16, Q19-Q25 in Part 1 (smaller ones), and the Plague Ogryn boss's starting number.
 - **Assail** (Q5): stays at chains of up to 3 a beat; the 'like throwing knives' comparison is gone (knife strings are 2).
 - **Seal of mercy's burn** (Q6): the burned patch heals the patient fully, back to their full number, from any state (Down included).
+- **Unbroken seal's burn** (Q7): the hit that would take you Down does nothing; your number stays where it was.
