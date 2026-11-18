@@ -145,6 +145,8 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Plasma SMG, 'Kasr Spark' pattern](plasma.md#plasma-smg-kasr-spark-pattern) (low-yield, strings of 8, 30 shots a cell)
 - [Plasma repeater, 'Kasr Furnace' break-action lever pattern](plasma.md#plasma-repeater-kasr-furnace-break-action-lever-pattern)
 - [Meltagun](plasma.md#meltagun) (two steps inside ~15 m; any vehicle; heat)
+- [Multi-melta](plasma.md#multi-melta) (heavy; two-man team or braced; ~25 m)
+- [Mining melta-cutter](plasma.md#mining-melta-cutter) (a ~3 m cutting beam; through doors)
 - [Inferno pistol](plasma.md#inferno-pistol)
 - [Melta canisters, special](plasma.md#melta-canisters-special-loads) (Astartes, big, Mechanicus, incinerator)
 

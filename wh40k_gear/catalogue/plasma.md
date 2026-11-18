@@ -90,6 +90,27 @@ written with the player, Ash on Ostrava day 47, audit C14). A two-handed melta r
 
 **Abilities:** [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun; one shot a beat, so it gains nothing).
 
+## Multi-melta
+
+**Multi-melta** (rare, 60 TV; Mechanicus, Free Traders; drafted with the player, Ash on Ostrava day 48; numbers the
+DM's). The heavy melta: twin barrels on a heavy frame, a fuel line to the canister.
+- **Heavy: a two-man team, or braced** (on cover or a mount); **no firing on the move.**
+- **Inside ~25 m: through any armour; a hit drops two steps.** **25-40 m: -3 on the shot and only one step.** **Past
+  ~40 m: nothing.**
+- **Vehicles: 2 hull points** ([vehicles.md](../bestiary/vehicles.md)).
+- **It drinks fuel: 3 shots a standard canister** (special canisters: [below](#melta-canisters-special-loads)).
+- **Heat: +1 a shot; at 2 it vents a beat.** One shot a beat.
+
+## Mining melta-cutter
+
+**Mining melta-cutter** (uncommon, 6 TV; Mechanicus, miners' guild traders, black market; drafted with the player, day 48;
+numbers the DM's). An industrial cutting torch, as tech-priests and boarding crews use on bulkheads (lore). **A ~3 m
+beam.**
+- **Through any armour, but one step:** a tight cutting beam, not a weapon.
+- **It cuts through a door, a hatch or a lock in a beat.**
+- **Runs on a melta charge** (the spare charge, 5 TV): **6 cuts a charge.**
+- **Heat: +1 a cut; at 2 it vents a beat.**
+
 ## Inferno pistol
 
 **Inferno pistol** (player request, Space Marine 2 style, Ash on Ostrava session 9;

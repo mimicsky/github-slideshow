@@ -1029,6 +1029,20 @@
   "sellers": "MF"
  },
  {
+  "name": "Multi-melta (heavy: two-man team or braced; two steps through any armour inside ~25 m; 2 hull points; 3 shots a canister)",
+  "tv": 60,
+  "cat": "melta",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Mining melta-cutter (a ~3 m cutting beam: through any armour, one step; cuts a door or lock in a beat; 6 cuts a melta charge)",
+  "tv": 6,
+  "cat": "melta",
+  "rarity": "U",
+  "sellers": "AB"
+ },
+ {
   "name": "Flamer, Ryza pattern (~13 m gout, ~5 m wide; no roll to hit; 6 bursts a tank)",
   "tv": 8,
   "cat": "flame",

@@ -80,6 +80,10 @@
    [
     "Flamer, Ryza pattern (stolen)",
     "R"
+   ],
+   [
+    "Mining melta-cutter",
+    "U"
    ]
   ],
   "melee": [
@@ -847,6 +851,10 @@
    ],
    [
     "Lever-action shotgun, 'Kasr Outrider' pattern",
+    "U"
+   ],
+   [
+    "Mining melta-cutter",
     "U"
    ]
   ],
@@ -3046,6 +3054,10 @@
    [
     "Lever-action shotgun, 'Kasr Outrider' pattern",
     "U"
+   ],
+   [
+    "Mining melta-cutter",
+    "U"
    ]
   ],
   "melee": [
@@ -3644,6 +3656,10 @@
     ],
     [
      "Lascannon, man-portable (two-man team)",
+     "R"
+    ],
+    [
+     "Multi-melta (two-man team)",
      "R"
     ]
    ],
