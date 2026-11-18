@@ -723,7 +723,29 @@
      "R"
     ]
    ]
-  }
+  },
+  "sidearm": [
+   [
+    "Stub automatic",
+    "C"
+   ],
+   [
+    "Stub revolver",
+    "C"
+   ],
+   [
+    "Autopistol",
+    "C"
+   ],
+   [
+    "Sawn-off shotgun",
+    "U"
+   ],
+   [
+    "Hand flamer",
+    "R"
+   ]
+  ]
  },
  "raider": {
   "weapon": [
@@ -1472,7 +1494,33 @@
      "R"
     ]
    ]
-  }
+  },
+  "sidearm": [
+   [
+    "Autopistol",
+    "C"
+   ],
+   [
+    "Stub automatic",
+    "C"
+   ],
+   [
+    "Ganger's chain-fed autopistol",
+    "U"
+   ],
+   [
+    "Auto-revolver, 'Hammerfall' pattern, stub barrel",
+    "U"
+   ],
+   [
+    "Las-shot pistol, 'Kasr Flicker' pattern",
+    "U"
+   ],
+   [
+    "Hand flamer",
+    "R"
+   ]
+  ]
  },
  "pirate": {
   "weapon": [
@@ -2166,7 +2214,37 @@
      "R"
     ]
    ]
-  }
+  },
+  "sidearm": [
+   [
+    "Autopistol",
+    "C"
+   ],
+   [
+    "Stub revolver",
+    "C"
+   ],
+   [
+    "Auto-revolver, 'Hammerfall' pattern, long barrel",
+    "U"
+   ],
+   [
+    "Heavy laspistol",
+    "U"
+   ],
+   [
+    "Plasma pistol, Ryza pattern (stolen)",
+    "R"
+   ],
+   [
+    "Las-shot pistol, 'Kasr Flicker' pattern",
+    "U"
+   ],
+   [
+    "Hand flamer",
+    "R"
+   ]
+  ]
  },
  "traitor": {
   "weapon": [
@@ -2888,6 +2966,10 @@
    [
     "Las-shot pistol, 'Kasr Flicker' pattern",
     "U"
+   ],
+   [
+    "Hand flamer",
+    "R"
    ]
   ]
  },
@@ -3880,6 +3962,10 @@
    [
     "Las-shot pistol, 'Kasr Flicker' pattern",
     "U"
+   ],
+   [
+    "Hand flamer",
+    "R"
    ]
   ]
  }
