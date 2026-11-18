@@ -283,8 +283,12 @@ and half steps set by the player, day 48**):
   2.5) to **4.0**; **a Down patient comes back at 3.0 (Hurt)**. Never above their full number. **Topping up a lone half
   step** (3.5 to 4.0) comes free with any successful patch roll and doesn't use the medic's once-per-person. **A near-miss
   patch** (the roll misses by 1-2) gives back **0.5** (DM's defaults, day 48).
-- **Between fights** the number comes back with rest and care at the DM's call (Breaking and Down; the surgeon, the cook,
-  Fast healer and Slow healer shift the time): there is no fixed rate yet.
+- **Healing between fights (settled by the player, day 48; it is how the Light's wounds have been played):** what a field
+  patch doesn't give back comes back with rest. **Each 1.0 of health takes a d4 of days of rest** (roll one d4 for each
+  step still missing and add them; **a half step takes half its roll, rounded up**). **A medic's care roll** (d20 + WIS + 4
+  against 15, once per patient; **+2 aboard with a cook**) **takes a day off**, never below one day. **The ship's surgeon
+  halves the time** (rounded up). **Fast healer: a day less; Slow healer: a day more** (never below one day). **Starving:
+  no healing.** A patch in the field still works at once (above).
 - **What does half a step now:** a near-miss "half effect" where the full effect is a step (Hollis's grenades, a mortar's
   near-miss); laspistol-punch guns against flak (catalogue las.md; Part 8, Armour). More as the player sets them. (The
   plasma charge's "half an armour step" in plasma.md is armour punch, not health.)
@@ -827,8 +831,8 @@ What the DM has always done, written down so anyone can run it.
   the fight**, and **dies only if finished off or hit once more while Down** (any hit their armour doesn't shrug, half steps included; the Light's health never goes below 1.0). **A medic can bring them back:**
   a successful patch (Down → Hurt, one stimm; bestiary roles, Medic) puts them **back in the fight at Hurt** (set
   by the player, session 10, so the medic can save a fight). Unpatched, they sit out the rest of it. Afterwards
-  they're out for **more time depending on the hit** (the DM sets it from how bad it was; the medic's and
-  surgeon's rolls shorten it).
+  they're out for **the time it takes to heal** (house rule 4, Healing between fights: a d4 of days for each 1.0; the medic's
+  care roll and the surgeon shorten it).
 - **Reps:** putting an enemy Down counts as a kill (house rule 7).
 
 ### Matches, bouts and knife bouts

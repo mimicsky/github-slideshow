@@ -821,7 +821,8 @@ A slab of metal in one hand and a sidearm or a club in the other. **From the fro
 cover** (catalogue kit.md; settled by the player, day 48): **scrap or makeshift shield: light (+1); riot,
 boarding, cogitator and forged shields: half (+2); an Arbites suppression shield or a storm shield: most
 (heavy, +4)**; a storm shield's field also stops a heavy hit on a d6 5-6. **Slab shields are Ogryn-sized: only
-Ogryns roll and carry them** (most cover, +4, for the Ogryn; full cover for a human sheltering behind it).
+Ogryns roll and carry them** (most cover, +4, for the Ogryn; full cover for a human sheltering behind it). **A shield
+extender** (catalogue kit.md) raises any shield one level.
 **Two or more lock shields into a shield wall:** it advances a short move a beat, and **the wall and anyone
 right behind it get heavy cover (+4) from the front**, whatever the shields. Fires its sidearm over the rim at -1. **Breaking it:** flank it (no cover from the side or rear), go
 over it (grenades landing behind, flamers, a mortar), or **break a shield** (a krak, melta, a power weapon's

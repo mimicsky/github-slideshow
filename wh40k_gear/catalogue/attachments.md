@@ -61,14 +61,14 @@ poor C80/U20, steady C70/U25/R5, good C55/U35/R10, rich C40/U45/R15, wealthy C25
 **one attachment of that rarity that fits the gun and a free slot** (one per slot; a gun's own scope, drum, silencer
 or bayonet already fills its slot). Then roll again. A part that needs another (an offset sight needs a scope, a
 pressure pin needs a hair trigger) only comes once the first is on. **Every weapon rolls** (a gun with **no attachment slots**, like the 'Harrow' farmer's pump, the 'Trinity' pocket revolver or the 'Cutpurse' holdout, rolls only special ammo and a taped flashlight (tape needs no slot), as does the officer's las luger; the hell revolver takes only an optic, a laser or lumen, and special loads; the 'Steadfast' service pistol only its threaded barrel and ammo; a gunslinger's pair, a
-rifle and a sidearm, a machete and a shield). **Melee weapons roll too** (the player, day 47); **25 more melee parts added day 48** (psyker staffs now roll too) (kit.md, Melee attachments (day 48)).
+rifle and a sidearm, a machete and a shield). **Melee weapons roll too** (the player, day 47); **26 more melee parts added day 48** (psyker staffs now roll too) (kit.md, Melee attachments (day 48)).
 
 **Slots:** optic, optic2 (a second sight that rides a scope), laser, trigger, pin, limiter, under (under-barrel),
 bayonet, stock, stockmag, muzzle, mag, grip, sleeve, barrel, coil, action, selector, bolt, slide, igniter, feeder,
 tripod, holster, generator, sling, siderail, counter, vent, arc, tubesel, loader, chamber and breech (mortars), tape (a taped
 flashlight: needs no slot), **load** (special ammo); melee:
 field, hone, spikes, slot, overdrive, motor, material (teeth), mgrip, mselector, strap, guard, edge, head, rim, pommel,
-balance, throwbal, rig, chguard, point, stand, regulator, enhancer, length, band, shape.
+balance, throwbal, rig, chguard, point, stand, regulator, enhancer, length, band, shape, extender.
 
 | Attachment | Rarity | Slot | Fits | What it does | Full entry |
 | --- | --- | --- | --- | --- | --- |
@@ -85,6 +85,7 @@ balance, throwbal, rig, chguard, point, stand, regulator, enhancer, length, band
 | **Shock-coil kit** | rare | coil | SMGs, autoguns and stub rifles, blades, blunt weapons, bolt pistols, boltguns, chain weapons, heavy stubbers, heavy weapons, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, power weapons, psyker staffs, shotguns, stub pistols | after a hit, +1 on his next roll against that target (6 charges a fight) | [kit.md](kit.md#shock-coil-kit) |
 | **10-degree edge** | uncommon | edge | blades | against no armour a hit drops an extra step; a hit on armour, d6: 5 the edge dulls (no bonus till re-sharpened), 6 the blade breaks | [kit.md](kit.md#melee-attachments-day-48) |
 | **Serrated edge** | uncommon | edge | blades | against no armour a hit drops an extra step; anyone it downs is -2 on the survival d6 after the fight | [kit.md](kit.md#melee-attachments-day-48) |
+| **Shield extender** | uncommon | extender | shields | bolt-on wings and a skirt: the shield gives one more level of cover (light to half, half to heavy, heavy to full from the front) | [kit.md](kit.md#melee-attachments-day-48) |
 | **Power weapon tuning kit** | rare | field | power weapons | +1 to parry with it; its power cell lasts twice as long (60 power-mode swings) | [kit.md](kit.md#power-weapon-tuning-kit) |
 | **Weighted grip** | common | grip | SMGs, autoguns and stub rifles, bolt pistols, boltguns, shotguns, stub pistols | recoil -1; -1 quick-draw | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
 | **Basket hilt** | uncommon | guard | blades, power weapons (only: sword or sabre or cutlass or rapier) | +1 to parry | [kit.md](kit.md#melee-attachments-day-48) |

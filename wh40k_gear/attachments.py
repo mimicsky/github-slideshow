@@ -92,6 +92,7 @@ A = [
  ("whetstone", "Diamantine whetstone", "U", "hone", {"bl"}, None, None, 0, "honed before the fight: +1 pierce on its next 2 hits (~10 uses)", K + "diamantine-whetstone"),
  ("spikes", "Spiked shield", "U", "spikes", {"sh"}, None, None, 0, "+3 on a shield-first charge, then +1 attacking with the shield", K + "spiked-shield-mod"),
  ("viewslot", "Shield viewing slot", "U", "slot", {"sh"}, None, None, 0, "sees and shoots a pistol through it without leaving cover; planted, slot fire -2", K + "shield-viewing-slot-mod"),
+ ("extender", "Shield extender", "U", "extender", {"sh"}, None, None, 0, "bolt-on wings and a skirt: the shield gives one more level of cover (light to half, half to heavy, heavy to full from the front)", "kit.md#melee-attachments-day-48"),
  # melee, more (the player, day 48): regular and custom; full entries in kit.md, Melee attachments (day 48)
  ("leather", "Leather-wrap grip", "C", "mgrip", MELEE, NOGLOVE, None, 0, "never slips in wet or bloody hands; disarms against him -2", "kit.md#melee-attachments-day-48"),
  ("pstrap", "Wrist pommel strap", "C", "strap", {"bl", "bt", "pw"}, NOGLOVE, None, 0, "knocked from his hand, it's back in it next beat, free", "kit.md#melee-attachments-day-48"),

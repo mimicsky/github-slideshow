@@ -751,6 +751,10 @@ list): one per slot.
 - **Flanged head** (uncommon; blunt; head): **on a solid hit, it gets through one armour step further** than it
   normally could.
 - **Sharpened rim** (uncommon; shields; rim): **a shield bash counts as a blade hit.**
+- **Shield extender** (uncommon; shields; extender; the player, day 48): bolt-on side wings and a foot skirt.
+  **The shield gives one more level of cover from the front:** light becomes half (+2), half becomes heavy (+4),
+  **heavy becomes full** (he can't be shot from the front while he keeps it up; flanks, grenades behind it, flamers
+  and through-cover guns still reach him: codex, Cover). A slab shield with one is full cover for its Ogryn too.
 - **Throwing balance** (uncommon; knives, machetes, hatchets, one-handed axes; its own slot, `throwbal`): can be **thrown once like a throwing
   knife (~10 m)**.
 - **10-degree edge** (uncommon; blades; edge slot, so never with a serrated edge: back on edge, the player, day 48): **against no armour, a hit cuts deep and
