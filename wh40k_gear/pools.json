@@ -1071,6 +1071,34 @@
   "sellers": "MF"
  },
  {
+  "name": "Torch-pistol (scrap hand flamer: a lighter on a pressurised can; ~4 m; 3 bursts; flares back on a 1)",
+  "tv": 0.5,
+  "cat": "flame",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Hose-fed hand flamer, Militarum pattern (armoured hose and back tank; 8 bursts; only a crit bursts the tank; -1 dodges)",
+  "tv": 9,
+  "cat": "flame",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Hose-fed hand flamer, 'Pyre' pattern (Mechanicus regulator: ~10 m line or ~4 m fan; 10 bursts; the tank can't burst)",
+  "tv": 18,
+  "cat": "flame",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Wrist flamer (strapped to the forearm, hands free; ~6 m gout; 3 bursts)",
+  "tv": 7,
+  "cat": "flame",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Grenade launcher, stand-alone",
   "tv": 5,
   "cat": "launcher",
@@ -4051,6 +4079,13 @@
   "cat": "stub",
   "rarity": "U",
   "sellers": "BF"
+ },
+ {
+  "name": "Wrist stub gun, 'Kasr Sleeve' pattern (under the sleeve, +5 to hide; 3-round mag; weak past ~10 m)",
+  "tv": 2,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "B"
  },
  {
   "name": "Tin-can bomb (light it; ~3 m weak frag; the timing's off, duds on a 1)",

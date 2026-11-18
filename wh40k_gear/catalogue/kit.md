@@ -855,3 +855,21 @@ Designed by the player, Ash on Ostrava day 48 (numbers and rarity filled by the 
 - **Spike guard** (uncommon, 1.5 TV): spikes on the guard: **one more swing at the end of every chain, a guard punch.** A hit
   **drops no health step**; it **staggers (-1 on their next roll).** **One end-of-chain strike a chain:** a weapon with a
   spiked pommel too still gets only one.
+
+## Wrist guns (gear; day 48)
+
+Worn on the forearm, so **both hands stay free** (a blade, a shield, a rope); they're always ready, with no draw.
+Designed by the player, Ash on Ostrava day 48; numbers the DM's.
+
+### Wrist flamer
+
+**Wrist flamer** (uncommon, 7 TV; Munitorum, black market, Free Traders). A hand flamer strapped to the forearm, the
+nozzle over the wrist. **A hand flamer's ~6 m gout in a narrow line; targets catch fire.** Firing it is still the beat's
+main thing. **A small tank: 3 bursts a canister.**
+
+### Wrist stub gun, 'Kasr Sleeve' pattern
+
+**Wrist stub gun, 'Kasr Sleeve' pattern** (uncommon, 2 TV; black market). A tiny stub gun strapped under the sleeve.
+**+5 to keep it hidden.** **A 3-round magazine** (codex Gear rules, Magazines: a spare is 0.1 TV), fired as a string
+of up to 3. **Weak: past ~10 m a hit is half a step (0.5)**; standard stub against armour. **Reloading the strapped gun
+takes the whole beat.**

@@ -79,6 +79,27 @@ Ash on Ostrava day 47, audit C14).
 lives beside the torch-thrower so the two flamers sit together. (DM default, Ash on Ostrava, Hollis's Munitorum-issue one from
 Ottrick's trade; moved here from his kit row in the day-36 cleanup. His rebuild is schematic 2 on the campaign's `schematics.md`.)
 
+## Torch-pistol (scrap hand flamer)
+
+**Torch-pistol** (common, scrap, 0.5 TV; black market; the player's pick, Ash on Ostrava day 48; numbers the DM's). A
+lighter taped to a pressurised can: a scrap hand flamer. **A ~4 m gout in a narrow line; targets catch fire** (as the
+hand flamer). **3 bursts a can.** **Scrap quirk: a natural 1 flares back: the bearer catches fire unless he dives
+(DEX vs 12).**
+
+## Hose-fed hand flamer, Militarum pattern
+
+**Hose-fed hand flamer, Militarum pattern** (uncommon, 9 TV; Munitorum, black market, Free Traders; the player's pick,
+day 48; numbers the DM's). A pistol nozzle on an armoured hose to a back tank. **A hand flamer's ~6 m gout; 8 bursts a
+tank.** **Armoured tank: only a crit on it bursts it** (not a solid hit; the burst as the
+[big flamer tank](#flamer-tanks-and-fuels-special-loads)). **Heavy: -1 on dodges** while worn. (The scrap hose-fed
+version is the [torch-thrower](#torch-thrower-scrap-flamer).)
+
+## Hose-fed hand flamer, 'Pyre' pattern
+
+**Hose-fed hand flamer, 'Pyre' pattern** (rare, 18 TV; Mechanicus, Free Traders; the player's 'upper' version, day 48;
+numbers the DM's). Mechanicus work: a gilded nozzle, a pressure regulator and a ceramite-clad back tank. **Twist the
+regulator (free, once a beat): a narrow ~10 m line, or a wide ~4 m fan.** Targets catch fire. **10 bursts a tank.**
+**The tank can't be burst.** **Heavy: -1 on dodges** while worn.
 
 ## Flamer tanks and fuels (special loads)
 

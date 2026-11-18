@@ -15,7 +15,7 @@ QUIET = [("Silenced stub pistol", "C"), ("Suppressed autopistol", "C"),
          ("Needle pistol", "U"), ("Compound bow, 'Kasr Kestrel' pattern, and a quiver of steel arrows", "U"),
          ("Burst pistol, 'Kasr Trice' pattern, suppressed", "U"), ("Needle rifle", "R"),
          ("Suppressed Kasr Warden autogun with a scope", "R"), ("Vraks-pattern sniper autorifle, suppressed", "R"),
-         ("Crossbow-quiet needle pistol", "R"), ("Assassin's mono-wire garrotte", "R"), ("Injector stiletto, 'Kasr Sting' pattern", "U"), ("Collapsing spear, 'Ordo Sicarius' pattern", "R"), ("Silenced submachine gun, 'Kasr Whisper' pattern", "U"), ("Seeker shurikens, Mechanicus pattern", "R")]
+         ("Crossbow-quiet needle pistol", "R"), ("Assassin's mono-wire garrotte", "R"), ("Injector stiletto, 'Kasr Sting' pattern", "U"), ("Collapsing spear, 'Ordo Sicarius' pattern", "R"), ("Silenced submachine gun, 'Kasr Whisper' pattern", "U"), ("Seeker shurikens, Mechanicus pattern", "R"), ("Wrist stub gun, 'Kasr Sleeve' pattern", "U")]
 
 ROLE_WEAPONS = {
  "assassin": QUIET,
@@ -26,7 +26,7 @@ ROLE_WEAPONS = {
             ("Vraks-pattern sniper autorifle", "R"), ("Hot-shot long-las with range-finder", "R"),
             ("Charge long-las, 'Kasr Lance' pattern", "R"), ("Anti-materiel rifle, 'Kasr Breaker' pattern", "R"), ("Headhunter autogun, Agripaa pattern", "U")],
  "flamer": [("Torch-thrower (scrap flamer)", "C"), ("Promethium sprayer (homemade)", "C"), ("Hand flamer", "U"),
-            ("Flamer, Ryza pattern + 2 canisters", "U"), ("Heavy flamer", "R"), ("Ecclesiarchy 'cleansing' flamer", "U")],
+            ("Flamer, Ryza pattern + 2 canisters", "U"), ("Heavy flamer", "R"), ("Ecclesiarchy 'cleansing' flamer", "U"), ("Torch-pistol (scrap hand flamer)", "C"), ("Wrist flamer", "U"), ("Hose-fed hand flamer, Militarum pattern", "U"), ("Hose-fed hand flamer, 'Pyre' pattern", "R")],
  "heavy gunner": [("Heavy stubber", "C"), ("Braced autogun with drum", "C"), ("Heavy stubber with drum mag", "U"),
                   ("Multi-laser, man-portable", "U"), ("Las-LMG, 'Kasr Rain' suppression pattern", "U"),
                   ("Las-box, 'Kasr Barr' light las-LMG", "R"), ("Heavy bolter, Guard pattern", "R"), ("Missile launcher", "R"), ("Rocket-propelled grenade tube", "R")],
