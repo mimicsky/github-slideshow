@@ -1080,7 +1080,7 @@ ladder a hit moves you.
 - **Shooting for the gaps (set by the player, Ash on Ostrava day 47).** **Enemies who know their guns can't get through
   someone's armour aim for what isn't covered:** legs, arms, gaps between plates, an unarmoured spot. (They know it
   once they've seen their hits shrugged, or from what they've been told.) **A called shot at a weak spot is a small
-  target: +2 to the hidden number;** a hit lands on **whatever covers that spot** (often flak or nothing: a carapace
+  target: +1 to the hidden number** (the same +1 as any small or precise shot: settled by the player, day 48; it was +2)**;** a hit lands on **whatever covers that spot** (often flak or nothing: a carapace
   chest plate doesn't cover the legs). **The face only on a crit** (a headshot: as any crit, it gets through). Anyone
   can make the same call, the Light included. Enough hellgun
   shots will hurt even a man in power armour.

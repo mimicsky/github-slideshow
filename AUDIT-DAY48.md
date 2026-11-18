@@ -94,3 +94,4 @@ Each has the DM's recommended answer. Until answered, the rule stands as written
 - **Below 1.0 an enemy is dead:** a hit that takes an enemy below 1.0, or any hit on a Down enemy, finishes him with no survival d6; non-lethal hits and the Light stop at 1.0. (This replaced the DM's 'floor is 1.0 for everyone' default.)
 - **Half-and-half teams** (Q2): half of each group is rolled as traitor elites and half as cultists (gear, stats, guns), and all of them play as cultists. The Moebian 6th by the player; the DM also marked the Volscani Cataphracts, the Blood Pact, the Sons of Sek and the Prospero Spireguard. Roll: `roll_enemy.py cultist N team=NAME`.
 - **A pack or magazine swap is the beat's main thing** (Q3).
+- **A shot at a limb or a gap is +1** (Q4): shooting for the gaps now uses the same +1 as any small or precise shot (it was +2).
