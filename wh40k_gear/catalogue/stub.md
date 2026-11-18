@@ -333,6 +333,19 @@ shells as any shotgun (special loads: [below](#shotgun-shells-special-loads)).
 **Abilities:** [Slam (push-pull)](abilities.md#slam-push-pull): **its reinforced action only jams on a natural 1-3**
 (not 1-5); and [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
 
+## Revolving shotgun, 'Kasr Turnstile' pattern
+
+**Revolving shotgun, 'Kasr Turnstile' pattern** (rare, 6 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48;
+name, price and the numbers he didn't set: the DM's). A **14-shell rotating cylinder** on a mid-sized barrel, with the
+**grip and stock built as one piece**.
+- **Semi-auto: chains of up to 4.** [Trigger Finger](abilities.md#trigger-finger) (semi-auto shotguns).
+- **The one-piece grip and stock** put the cylinder's weight in the shoulder: **recoil 0.**
+- **Mid-sized barrel:** standard shotgun range (the close blast to ~15 m; -2 past ~15 m).
+- **Slots: optic and under-barrel only** (special shells still load; a taped flashlight needs no slot).
+- **Reloading: 4 shells a beat** (the player, day 48): wind the cylinder and thumb them in; a full reload is 3.5
+  beats. It's loaded round by round, so it can be topped up from the string.
+- **Bulky:** -1 on swapping targets.
+
 ## Web pistol, Arbites pattern
 
 **Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a

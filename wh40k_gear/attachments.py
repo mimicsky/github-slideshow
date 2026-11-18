@@ -267,6 +267,7 @@ NOT_ROLLED = [
 # Guns with limited attachment slots (day 47): only these slots roll (special ammo always can).
 SLOTLIMIT = [(re.compile(r"farmer's pump|three-shooter|harrow|trinity|holdout|cutpurse|las luger"), {"load", "tape"}),
              (re.compile(r"service stub pistol|steadfast"), {"load", "muzzle", "tape"}),
+             (re.compile(r"turnstile"), {"optic", "under", "load", "tape"}),  # the revolving shotgun: optic and under-barrel only (day 48)
              (re.compile(r"hell revolver"), {"optic", "laser", "load", "tape"})]  # top and bottom slots only (day 48)  # tape needs no slot
 SKIP = re.compile(r"web pistol|bolt-pipe|rivet gun|harpoon|turret|gauntlet|hellstrike|flare|^'")
 TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b"), ("pp", r"plasma pistol"), ("pg", r"plasma gun"), ("bp", r"bolt pistol"),

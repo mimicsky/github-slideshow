@@ -3976,6 +3976,13 @@
   "sellers": "B"
  },
  {
+  "name": "Revolving shotgun, 'Kasr Turnstile' pattern (14-shell cylinder, semi-auto, chains 4; recoil 0; optic and under-barrel only; reload 4 a beat)",
+  "tv": 6,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
   "name": "Tin-can bomb (light it; ~3 m weak frag; the timing's off, duds on a 1)",
   "tv": 0.1,
   "cat": "explosive",
