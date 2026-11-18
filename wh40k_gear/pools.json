@@ -3983,6 +3983,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Over-under pump shotgun, 'Kasr Twinstack' pattern (stacked barrels, tube between, 8 shells; long pump chambers both; strings of 3; both barrels once a string; -2 past ~25 m; optic and two muzzles)",
+  "tv": 4,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Tin-can bomb (light it; ~3 m weak frag; the timing's off, duds on a 1)",
   "tv": 0.1,
   "cat": "explosive",

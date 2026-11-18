@@ -806,6 +806,10 @@
    [
     "Heavy stubber",
     "R"
+   ],
+   [
+    "Over-under pump shotgun, 'Kasr Twinstack' pattern",
+    "U"
    ]
   ],
   "melee": [
@@ -1543,6 +1547,10 @@
    [
     "Las shotgun, 'Kasr Hailstorm' bullpup pattern",
     "U"
+   ],
+   [
+    "Over-under pump shotgun, 'Kasr Twinstack' pattern",
+    "U"
    ]
   ],
   "melee": [
@@ -2160,6 +2168,10 @@
    ],
    [
     "Las shotgun, 'Kasr Hailstorm' bullpup pattern",
+    "U"
+   ],
+   [
+    "Over-under pump shotgun, 'Kasr Twinstack' pattern",
     "U"
    ]
   ],

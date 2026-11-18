@@ -346,6 +346,22 @@ name, price and the numbers he didn't set: the DM's). A **14-shell rotating cyli
   reload (14) is just under 2 beats. It's loaded round by round, so it can be topped up from the string.
 - **Bulky:** -1 on swapping targets.
 
+## Over-under pump shotgun, 'Kasr Twinstack' pattern
+
+**Over-under pump shotgun, 'Kasr Twinstack' pattern** (uncommon, 4 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48;
+name, price and the numbers he didn't set: the DM's). **Two barrels stacked one over the other, with the tube
+between them**, a long-throw pump and a **Monte Carlo stock**.
+- **8 shells in the tube;** half a beat per 2 shells to reload; it can be topped up from the string.
+- **The long-throw pump chambers both barrels in one stroke. Strings of 3** (the player, day 48): two barrels, pump,
+  one barrel; **the shot right after the pump is -1** (the long stroke throws the aim). [Slam](abilities.md#slam-push-pull),
+  as any pump.
+- **Both barrels at once** (once a string): one roll, two shells; **a hit drops one extra step** (with the close blast
+  on flak up close: 3 steps).
+- **More range** (the player, day 48): the long paired barrels hold the spread: **the -2 starts past ~25 m**, not ~15.
+- **Monte Carlo stock:** the raised comb lines the eye up with the optic: **+1 on aimed shots with an optic fitted.**
+- **Slots: one optic, and a muzzle on each barrel** (each affects only its own barrel's shots; the enemy roller fills
+  one). Special shells still load. Recoil 1.
+
 ## Web pistol, Arbites pattern
 
 **Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a
