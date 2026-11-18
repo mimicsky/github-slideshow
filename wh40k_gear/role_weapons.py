@@ -62,7 +62,8 @@ ROLE_WEAPONS = {
               ("Hellpistol and an officer's sabre", "U"), ("Hellpistol and a chainsword", "U"),
               ("Bolt pistol and an officer's sabre", "U"), ("Bolt pistol and a chainsword", "U"),
               ("Bolt pistol and a power sword", "R"), ("Hellpistol and a power sword", "R"),
-              ("Plasma pistol and a power sword", "R")],
+              ("Plasma pistol and a power sword", "R"),
+              ("Bolt pistol and a thunder hammer, one-handed officer's pattern", "R")],  # made for commissars (the player's session-9 design; added day 48)
  "sister novitiate": [("Autopistol and a chainsword", "C"), ("Autogun", "C"), ("Autopistol and a novitiate's mace", "C"),
                       ("Laspistol and a chainsword", "C"), ("Sacred banner and an autopistol", "U"), ("Hand flamer and an autopistol", "U"),
                       ("Bolt pistol and a chainsword", "U"), ("Sororitas bolt pistol (Godwyn-De'az) and a blessed power maul", "R"),
