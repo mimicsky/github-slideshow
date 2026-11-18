@@ -814,6 +814,10 @@
    [
     "Auto-shotgun, 'Kasr Thresher' drum pattern",
     "R"
+   ],
+   [
+    "Las-shot pistol, 'Kasr Flicker' pattern",
+    "U"
    ]
   ],
   "melee": [
@@ -1563,6 +1567,10 @@
    [
     "Auto-shotgun, 'Kasr Thresher' drum pattern",
     "R"
+   ],
+   [
+    "Las-shot pistol, 'Kasr Flicker' pattern",
+    "U"
    ]
   ],
   "melee": [
@@ -2820,6 +2828,10 @@
    [
     "Commissar's laspistol, 'Exemplar' pattern",
     "R"
+   ],
+   [
+    "Las-shot pistol, 'Kasr Flicker' pattern",
+    "U"
    ]
   ]
  },
@@ -3780,6 +3792,10 @@
    [
     "Smart hellpistol, 'Hell Cognis' pattern",
     "R"
+   ],
+   [
+    "Las-shot pistol, 'Kasr Flicker' pattern",
+    "U"
    ]
   ]
  }

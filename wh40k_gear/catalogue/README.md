@@ -37,6 +37,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Long-las, Mezoa pattern (sniper)](las.md#long-las-mezoa-pattern-sniper)
 - [Las-scattergun ('shotlas')](las.md#las-scattergun-shotlas)
 - [Las shotgun, 'Kasr Hailstorm' bullpup pattern](las.md#las-shotgun-kasr-hailstorm-bullpup-pattern)
+- [Las-shot pistol, 'Kasr Flicker' pattern](las.md#las-shot-pistol-kasr-flicker-pattern) (a pistol shotgun)
 - [Extended las pack](las.md#extended-las-pack)
 - [Hot-shot conversion kit](las.md#hot-shot-conversion-kit) (a las gun becomes a hellgun-type; hot-shot packs at the normal rate)
 - [Las eco pack](las.md#las-eco-pack)

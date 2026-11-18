@@ -162,6 +162,19 @@ everywhere.**
 - **Every attachment slot but the stock** (the bullpup body is the stock): a long top rail (an optic and a second
   top part), side mounts (lasers, lumens), and a tight bottom rail for an under-barrel part.
 
+## Las-shot pistol, 'Kasr Flicker' pattern
+
+**Las-shot pistol, 'Kasr Flicker' pattern** (uncommon, 2.5 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48,
+a pistol shotgun in the spirit of the old Taurus Judge; name, price and the numbers he didn't set: the DM's). A long
+vertical grip, a long trigger guard at a right angle, the pack magwell right in front of the guard, and a reflector
+array for a barrel. Small.
+- **Quick:** small and easy to pull: **+2 on quick-draws.**
+- **~6 las pellets a pull: a pistol shotgun with las punch.** Fewer pellets, shorter reach: **the close blast only
+  inside ~10 m** (a clean hit on no armour or flak drops 2 steps; codex Part 8, Armour); **-2 past ~10 m**; no clip on
+  a miss (too few pellets). Las against armour as any las (carapace shrugs it).
+- **Strings of 3,** no recoil (las); [Trigger Finger](abilities.md#trigger-finger).
+- **A regular las pack (45),** one shot of pack a pull; it recharges on the ship's coupling. Slots as any laspistol.
+
 ## Extended las pack
 
 **Extended las pack** (uncommon, 0.75 TV; Munitorum, Free Traders; already in the roller's pools; entry

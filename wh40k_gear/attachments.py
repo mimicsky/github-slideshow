@@ -277,7 +277,7 @@ TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b"), ("pp", r"p
          ("hf", r"hand flamer"), ("fl", r"flamer|torch-thrower|promethium sprayer"), ("mg", r"meltagun|melta gun|multi-melta|inferno pistol"),
          ("gl", r"grenade launcher"), ("mo", r"mortar"), ("np", r"needle pistol"), ("nr", r"needle rifle"),
          ("lr", r"shotlas|hell shotgun|las shotgun|hailstorm"), ("smg", r"submachine|machine pistol|rattler|\bsmg\b|chain-fed autopistol"),
-         ("lp", r"laspistol|las pistol|hellpistol|las luger|hell revolver"),
+         ("lp", r"laspistol|las pistol|las-shot pistol|hellpistol|las luger|hell revolver"),
          ("sp", r"autopistol|revolver|stub pistol|stub automatic|hand cannon|boarding pistol|hammerfall|pipe pistol|three-shooter|burst pistol"),
          ("sg", r"shotgun|sawn-off|scattergun|nailer|ripper gun"),
          ("lr", r"lasgun|lascarbine|hellgun|long-las|las-box|las-lmg|volley gun|battery las"),

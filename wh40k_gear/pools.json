@@ -4571,6 +4571,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Las-shot pistol, 'Kasr Flicker' pattern (a las pistol shotgun: ~6 pellets a pull; close blast inside ~10 m; strings of 3; +2 quick-draw)",
+  "tv": 2.5,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Scrap chainsword (scrap teeth: carapace on a solid hit; -1 parry; pull-cord start, d4 1 won't catch; stalls on a raw 1)",
   "tv": 2,
   "cat": "melee",
