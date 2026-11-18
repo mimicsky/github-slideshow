@@ -424,7 +424,7 @@ party down and pin the wounded.
   throws the beast off.**
 
 *Side note: cultist and raider handlers bring **4 beasts with 1 health step
-each (they start at 2.0)**. When the handler dies, they always go wild.*
+each (they start at 2.0)**. When the handler dies, they always go wild. **The Moebian 6th's pox hounds are the exception: packs of 3-6 with 2 steps each (bestiary cultists.md); they still go wild** (the player, day 48).*
 
 *Side note: pirate beasts are far more savage: **+3 to melee and pinning.**
 Killing the handler has no effect on them.*

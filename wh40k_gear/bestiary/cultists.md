@@ -59,7 +59,9 @@ Munitorum never cured. Now they spread it on purpose.
 - **Pox hounds (set by the player, day 47):** the 6th's hounds, rotted with the plague. **2 health
   steps (they start at 3.0; no state penalties), fast (~40 m a beat).** They **pounce**: a DEX dodge, or the target is knocked flat and
   **pinned** (can't act until the hound is hit or Down); **bites carry the rot** (CON vs 13). Run by a
-  beast handler in packs of 3-6; they go for the wounded and whoever's alone.
+  beast handler in packs of 3-6; they go for the wounded and whoever's alone. **This entry beats the general cultist
+  handler note** (4 beasts with 1 step each: bestiary roles, Beast handler) **for the 6th's hounds: packs of 3-6, 2
+  steps each; when the handler dies they still always go wild** (settled by the player, day 48; audit Q20).
 - **Tox flamers (set by the player, day 47):** flamers of the 6th spraying not fire but a choking green
   gas from tanks of rot: **a ~8 m cone, everyone in it makes a CON save vs 13 or is sickened, and the
   cloud lingers 2 beats** (anyone walking into it rolls too). **Masks and rebreathers give +2 on the save
