@@ -194,7 +194,12 @@ someone who's Down.*
 **Who has it:** cultists, raiders, pirates.
 
 The medic's ugly cousin. **Doses allies with combat drugs at the start of the fight
-and again mid-fight** (+2 to one ally for the fight, with the usual backfire).
+and again mid-fight** (**+2 to one ally for the dose**, with the usual backfire). **His dose is a dose like any
+other** (settled by the player, day 48; codex Gear rules, Doses): **3 or 4 beats** (the d6), and **one beat after it
+ends the ally crashes to 2.0 (Badly hurt)** unless he is dosed again; three doses in a row and the crash is to Down.
+**He pushes forward with the one he dosed** (the player, day 48: 'so they can keep them up'): he stays within reach
+of that ally, moves when he moves, and **doses him again as the last one runs out** (his main thing that beat), for
+as long as he has doses. **Kill or pin the chem-doctor and the men he dosed crash a few beats later.**
 Patches wounds with stimms (and, for cultists, their god's gifts), and carries
 heretic cures, tonics and charms the Inquisition would burn. **If their side starts
 losing badly, they overdose on every drug they have left and go into a rage:** each
