@@ -103,3 +103,4 @@ Each has the DM's recommended answer. Until answered, the rule stands as written
 - **The punchier laspistols** (Q18): the Marksman 'Longeye', the Commissar's 'Exemplar' and a charge-hold shot do a full step (1.0) against flak and reinforced flak.
 
 **Still open after the nine:** Q5-Q7, Q10-Q13, Q15-Q16, Q19-Q25 in Part 1 (smaller ones), and the Plague Ogryn boss's starting number.
+- **Assail** (Q5): stays at chains of up to 3 a beat; the 'like throwing knives' comparison is gone (knife strings are 2).

@@ -1645,7 +1645,7 @@ and no Perils trigger.** **Every psyker knows the first three**, on top of their
   **disoriented: -3 on all rolls for 2 beats**; **11-15** the target **drops a health step**; **16-20** the
   target **drops a step and is disoriented.**
 - **Assail.** The psyker makes a shard of warp-crystal and hurls it like a throwing spike (~20 m; chains of up
-  to 3 a beat, like throwing knives). A hit lands like a throwing knife, and then the target makes a **CON
+  to 3 a beat: the power's own number, not the knife string's 2; kept by the player, day 48). A hit lands like a throwing knife, and then the target makes a **CON
   save against 13 or the crystal burns them: -1 on all rolls for the rest of the fight.** **Already burned
   and burned again:** they **drop an extra health step** instead (the -1 doesn't stack).
 - **Warp Push.** A shove of raw warp force at one target (~15 m, line of sight). **If the power roll lands,
