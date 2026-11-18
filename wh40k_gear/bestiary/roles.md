@@ -775,9 +775,9 @@ kitted.)
 A giant abhuman, about 3 m tall: dumb, loyal, and it hits like a truck.
 
 - **Stats:** **STR 60-80** (+6 to +8), **DEX 10-20** (+1 to +2). Terrible shot.
-- **Size:** **three extra health stages: it starts at 7.0** (7.0 Fine, then 6.0, 5.0 and 4.0 before 3.0 Hurt,
-  2.0 Badly hurt, 1.0 Down). *(Flagged to the player, day 48: the old list named only two extra stages, Grazed and
-  Bruised, and the Plague Ogryn at Fourteen was played with two; the count 'three' stands until the player says.)* **Big target: shots at an Ogryn get +2.**
+- **Size:** **two extra health stages: a regular Ogryn starts at 6.0** (no penalty above 3.0: codex house rule 4;
+  settled by the player, day 48: the old text said 'three' but named two, and Fourteen's was played with two).
+  **Big target: shots at an Ogryn get +2.**
 - **Kit (by type):** slab shield and a maul, a ripper gun, or a grenadier gauntlet
   (a fist-mounted launcher).
 - **Charge:** once a fight, it runs at an enemy; on a hit the target is knocked flat,
@@ -795,7 +795,7 @@ fight for anything that feeds them.*
 ### Ogryn variants: the Crusher, the Bulwark, the Reaper
 
 **Added by the player, Ash on Ostrava day 47, from Darktide (the Moebian 6th's Ogryns).** Each is an Ogryn (the stats,
-the 7.0 health track, shots at it +2, the once-a-fight charge, loyal and dumb, as above), plus:
+the 6.0 health track, shots at it +2, the once-a-fight charge, loyal and dumb, as above), plus:
 
 - **Crusher.** Sealed in **full heavy carapace** (only heavy hits get through: hellguns and heavy stubbers only
   inside ~15 m; bolters, chain on a solid hit, power, plasma, melta, krak always). A **two-handed power maul**:

@@ -288,8 +288,7 @@ and half steps set by the player, day 48**):
 
 **Some roles and gear add more, so check them** (each in its own entry):
 - **Bigger tracks start higher** (the old "extra health stages": each is +1.0 above 4.0): **Zealot 5.0**, **Skitarius
-  5.0**, **Brute / mutant 6.0**, **Mutant charger 6.0**, **Ogryn 7.0** (flagged to the player, day 48: its old list named
-  only two extra stages), **human bosses 6.0**, **monster bosses 8.0**. All in `wh40k_gear/bestiary/roles.md` and
+  5.0**, **Brute / mutant 6.0**, **Mutant charger 6.0**, **Ogryn 6.0** (a regular Ogryn: two extra stages; settled by the player, day 48), **human bosses 6.0**, **monster bosses 8.0**. All in `wh40k_gear/bestiary/roles.md` and
   `bosses.md`. **Anything above 3.0 is Fine for the rules: no penalty.** The old names for the numbers in between
   (Grazed, Bruised, Wounded) are flavour: write `5.0 (Fine)`. **Monster bosses** keep their own stage names
   (bosses.md) and **take no state penalties** unless their entry says so (DM's default, day 48).
