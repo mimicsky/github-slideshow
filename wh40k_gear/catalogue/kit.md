@@ -783,6 +783,31 @@ list): one per slot.
   focus crystal. **Imbued (in a psyker's hands), the weapon hits one step harder.** But **a raw 1-3 on an imbued
   swing** and the force is too much: **the warp flings the weapon out of his hands** (~d6 m away; a beat to fetch it).
 
+## Chain weapon parts (day 48)
+
+Designed by the player, Ash on Ostrava day 48 (numbers and rarity filled by the DM where the player didn't set them).
+**A chain weapon's teeth are jagged by default** (as in the lore). These let it lean one way or the other.
+
+**Teeth material** (material slot: one per weapon)
+- **Plasteel teeth** (uncommon, custom; Kell's chain axe): through heavy carapace on any hit, ceramite-forged on a solid hit.
+- **Ceramite teeth** (rare): **through ceramite-forged on any hit; power armour on a raw 18+.**
+- **Adamantium teeth** (rare; the shop's 'Chainsword teeth, adamantium (set)', 12 TV): **through ceramite-forged on any hit;
+  power armour on a solid hit.**
+
+**Tooth shape** (shape slot; without one, the teeth are jagged)
+- **Long spike teeth** (uncommon): **better on flesh:** against no armour or flak, **a hit drops an extra step.** **Worse on
+  armour:** it gets through **one armour step less** than it otherwise would.
+- **Flat teeth** (uncommon): **better on armour:** it gets through **one armour step further** than it otherwise would.
+  **Worse on flesh:** against no armour or flak, **only a solid hit drops a step.**
+
+**Band** (band slot)
+- **Double band** (uncommon): a second chain band: **a hit drops one more health step**, but less control: **-2 on swings.**
+
+**Guard** (guard slot, so not with a chain guard)
+- **Spike guard** (uncommon): spikes on the guard: **one more swing at the end of every chain, a guard punch.** A hit
+  **drops no health step**; it **staggers (-1 on their next roll).** **One end-of-chain strike a chain:** a weapon with a
+  spiked pommel too still gets only one.
+
 **Main and short move (a beat):** every beat is **one main thing** (a shot string, a throw, a launcher shot, a melee
 chain, a patch, reload, vent, jam clear, item, hop or sprint) **plus a short move** (a few metres, or to the next
 cover). The tri-stand's plant or lift **is** the short move (fight card; codex, A beat).

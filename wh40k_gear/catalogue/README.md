@@ -246,6 +246,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Power weapon tuning kit](kit.md#power-weapon-tuning-kit)
 - [Diamantine whetstone](kit.md#diamantine-whetstone)
 - [Melee attachments (day 48)](kit.md#melee-attachments-day-48) (25 parts, incl. longer grip or blade, tsuka grip, scrap spikes, tri-stand, wide hilt, spiked pommel, staff regulator, blaze force enhancer; leather grip, pommel strap, basket hilt, serrated edge, flanged head, sharpened rim; custom: chain-linked cord, balanced blade, throwing balance, hidden wrist-sheath, chain guard, triangle point, tuned field, 10-degree edge, capped head, skeleton grip, promethium blade line)
+- [Chain weapon parts (day 48)](kit.md#chain-weapon-parts-day-48) (teeth material: plasteel, ceramite, adamantium; long spike and flat teeth; double band; spike guard)
 - [Bayonet](kit.md#bayonet)
 - [Underslung chain-bayonet](kit.md#underslung-chain-bayonet)
 - [Shock-coil kit](kit.md#shock-coil-kit)

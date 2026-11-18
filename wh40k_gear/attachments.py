@@ -123,6 +123,13 @@ A = [
  ("m_tincan", "Tin-can loads (scrap mortar)", "C", "load", {"mo"}, r"pipe-bomb mortar|tube lobber|lobber", None, 0, "a weak frag, ~2 m; duds on a d6 of 1", "scrap.md#mortar-rounds-day-48"),
  ("m_cracker", "Cracker-bundle loads (scrap mortar)", "C", "load", {"mo"}, r"pipe-bomb mortar|tube lobber|lobber", None, 0, "a flashbang: -2 within ~4 m; duds on a d6 of 1-2", "scrap.md#mortar-rounds-day-48"),
  ("c_chargehold", "Charge-hold trigger", "U", "selector", {"lp"}, None, None, 1, "hold the trigger through one shot of a string (it doesn't fire): the next shot gets through one more armour step, up to carapace; once a string", "las.md#charge-hold-trigger-custom"),
+ # chain weapons, more (the player, day 48): teeth material, band, tooth shape, spike guard; kit.md, Chain weapon parts (day 48)
+ ("ceramteeth", "Ceramite teeth", "R", "material", {"ch"}, None, None, 0, "through ceramite-forged on any hit; power armour on a raw 18+", "kit.md#chain-weapon-parts-day-48"),
+ ("adamteeth", "Adamantium teeth", "R", "material", {"ch"}, None, None, 0, "through ceramite-forged on any hit; power armour on a solid hit", "kit.md#chain-weapon-parts-day-48"),
+ ("doubleband", "Double band", "U", "band", {"ch"}, None, None, 0, "a hit drops one more health step; less control: -2 on swings", "kit.md#chain-weapon-parts-day-48"),
+ ("spiketeeth", "Long spike teeth", "U", "shape", {"ch"}, None, None, 0, "against no armour or flak a hit drops an extra step; it gets through one armour step less than it otherwise would", "kit.md#chain-weapon-parts-day-48"),
+ ("flatteeth", "Flat teeth", "U", "shape", {"ch"}, None, None, 0, "it gets through one armour step further than it otherwise would; against no armour or flak only a solid hit drops a step", "kit.md#chain-weapon-parts-day-48"),
+ ("spikeguard", "Spike guard", "U", "chguard", {"ch"}, None, None, 0, "one more swing at the end of every chain: a guard punch; a hit drops no health step, it staggers (-1 on their next roll); one end-of-chain strike a chain", "kit.md#chain-weapon-parts-day-48"),
  ("c_cord", "Chain-linked cord", "U", "pommel", {"bl", "bt", "pw", "ch"}, r"^(?!.*(two-handed|great|eviscerator|shovel|glaive|sledge|headsman)).*", None, 1, "+1 on the first swing; thrown on its chain ~5 m, back in his hand next beat; the chain caps every throw at 5 m (a throwing balance too)", "kit.md#melee-attachments-day-48"),
  ("c_balance", "Smith-balanced blade", "U", "balance", {"bl"}, None, None, 1, "+1 on every swing", "kit.md#melee-attachments-day-48"),
  ("throwbal", "Throwing balance", "U", "throwbal", {"bl"}, r"^(?!.*(two-handed|heavy|great|headsman)).*(knife|machete|hatchet|cleaver|axe)", None, 0, "can be thrown once like a throwing knife (~10 m)", "kit.md#melee-attachments-day-48"),
@@ -185,7 +192,7 @@ A = [
  # --- custom (an enemy's is his own smith's version) ---
  ("c_overdrive", "Overdrive", "R", "overdrive", {"ch"}, None, None, 1, "once a mission, ~30 s: armour a step lighter against it, advantage in mob pushes; then done for the fight; a natural 1 while running burns the motor", C + "shameholders-overdrive-tamsin"),
  ("c_motor", "Better motor", "U", "motor", {"ch"}, None, None, 1, "crits on 19-20; a natural 1 on a swing throws the chain (a beat to reseat)", C + "kells-chain-axe-schematic-5"),
- ("c_teeth", "Plasteel teeth", "U", "teeth", {"ch"}, None, None, 1, "through heavy carapace on any hit, ceramite-forged on a solid hit", C + "kells-chain-axe-schematic-5"),
+ ("c_teeth", "Plasteel teeth", "U", "material", {"ch"}, None, None, 1, "through heavy carapace on any hit, ceramite-forged on a solid hit", C + "kells-chain-axe-schematic-5"),
  ("c_hardgrip", "Curved hardwood grip", "C", "mgrip", MELEE, None, None, 1, "can't be knocked from his hand by a solid hit", C + "kells-chain-axe-schematic-5"),
  ("c_bite", "Bite switch", "R", "mselector", {"ch"}, None, None, 1, "BITE: one swing a beat, a hit drops an extra step; flipped before the swing", C + "kells-chain-axe-schematic-5"),
  ("c_buffer", "Heavy buffer spring and new bolt", "C", "bolt", {"smg"}, None, None, 1, "jams only from the 25th straight round", C + "stinger-tamsin"),

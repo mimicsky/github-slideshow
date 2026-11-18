@@ -66,19 +66,21 @@ rifle and a sidearm, a machete and a shield). **Melee weapons roll too** (the pl
 **Slots:** optic, optic2 (a second sight that rides a scope), laser, trigger, pin, limiter, under (under-barrel),
 bayonet, stock, stockmag, muzzle, mag, grip, sleeve, barrel, coil, action, selector, bolt, slide, igniter, feeder,
 tripod, holster, generator, sling, siderail, counter, vent, arc, tubesel, loader, **load** (special ammo); melee:
-field, hone, spikes, slot, overdrive, motor, teeth, mgrip, mselector, strap, guard, edge, head, rim, pommel,
-balance, throwbal, rig, chguard, point, stand, regulator, enhancer, length, chamber, breech.
+field, hone, spikes, slot, overdrive, motor, material (teeth), mgrip, mselector, strap, guard, edge, head, rim, pommel,
+balance, throwbal, rig, chguard, point, stand, regulator, enhancer, length, chamber, breech, band, shape.
 
 | Attachment | Rarity | Slot | Fits | What it does | Full entry |
 | --- | --- | --- | --- | --- | --- |
 | **Las auto-fire crystal** | rare | action | las rifles (only: ^(?!.*(hot-shot or hellgun)).*(lasgun or lascarbine)) | strings up to 12; no hit bonuses in the string, misses still -1; strings of 8+ build 1 heat, vent at 3 | [kit.md](kit.md#las-auto-fire-crystal) |
 | **Repeater crystal** | rare | action | las pistols, las rifles | strings up to 7; no chain bonuses in the string, misses still -1 | [kit.md](kit.md#repeater-crystal) |
+| **Double band** | uncommon | band | chain weapons | a hit drops one more health step; less control: -2 on swings | [kit.md](kit.md#chain-weapon-parts-day-48) |
 | **Custom barrel** | uncommon | barrel | SMGs, stub pistols | +1 on aimed shots | [kit.md](kit.md#custom-barrel-stub-pistols-and-smgs-barrel-slot) |
 | **Reinforced mortar barrel** | uncommon | barrel | mortars | half as far again: a light mortar to ~450 m, a pipe-bomb mortar to ~60 m | [scrap.md](scrap.md#flamer-and-mortar-parts-day-48) |
 | **Sprayer barrel** | uncommon | barrel | flamers, hand flamers | an open funnel: the gout reaches half as far but spreads twice as wide at its end (a hand flamer's line becomes a ~3 m fan) | [scrap.md](scrap.md#flamer-and-mortar-parts-day-48) |
 | **Bayonet (fixed)** | common | bayonet | autoguns and stub rifles, las rifles | a spear thrust in melee: chains 2, +1 to strike first; Bayonet Charge | [kit.md](kit.md#bayonet) |
 | **Underslung chain-bayonet** | rare | bayonet | autoguns and stub rifles, las rifles | fights as a chainsword (-1 block/parry); -1 hip snap shots; Bayonet Charge | [kit.md](kit.md#underslung-chain-bayonet) |
 | **Anti-dud breech** | uncommon | breech | mortars | fewer duds: a dud happens only if a d6 after it shows 1-3; a dud in the tube is lifted out safely (a beat, no dive) | [scrap.md](scrap.md#flamer-and-mortar-parts-day-48) |
+| **Spike guard** | uncommon | chguard | chain weapons | one more swing at the end of every chain: a guard punch; a hit drops no health step, it staggers (-1 on their next roll); one end-of-chain strike a chain | [kit.md](kit.md#chain-weapon-parts-day-48) |
 | **Shock-coil kit** | rare | coil | SMGs, autoguns and stub rifles, blades, blunt weapons, bolt pistols, boltguns, chain weapons, heavy stubbers, heavy weapons, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, power weapons, psyker staffs, shotguns, stub pistols | after a hit, +1 on his next roll against that target (6 charges a fight) | [kit.md](kit.md#shock-coil-kit) |
 | **10-degree edge** | uncommon | edge | blades | against no armour a hit drops an extra step; a hit on armour, d6: 5 the edge dulls (no bonus till re-sharpened), 6 the blade breaks | [kit.md](kit.md#melee-attachments-day-48) |
 | **Serrated edge** | uncommon | edge | blades | against no armour a hit drops an extra step; anyone it downs is -2 on the survival d6 after the fight | [kit.md](kit.md#melee-attachments-day-48) |
@@ -157,6 +159,8 @@ balance, throwbal, rig, chguard, point, stand, regulator, enhancer, length, cham
 | **Lascannon battery pack** | uncommon | mag | heavy weapons (only: lascannon or las-cannon) | 40 shots; set down and cabled (the beat's move), the gunner stays within ~3 m; a solid hit on it kills it | [heavy.md](heavy.md#lascannon-packs-special-loads) |
 | **Pistol drum** | uncommon | mag | SMGs, las pistols, stub pistols | twice the shots; no quick-draw holster, -1 quick-draw | [kit.md](kit.md#pistol-drums) |
 | **Tuned plasma cell** | rare | mag | plasma guns, plasma pistols | 12 shots, not 8 | [plasma.md](plasma.md#tuned-plasma-cell) |
+| **Adamantium teeth** | rare | material | chain weapons | through ceramite-forged on any hit; power armour on a solid hit | [kit.md](kit.md#chain-weapon-parts-day-48) |
+| **Ceramite teeth** | rare | material | chain weapons | through ceramite-forged on any hit; power armour on a raw 18+ | [kit.md](kit.md#chain-weapon-parts-day-48) |
 | **Leather-wrap grip** | common | mgrip | blades, blunt weapons, chain weapons, power weapons, psyker staffs | never slips in wet or bloody hands; disarms against him -2 | [kit.md](kit.md#melee-attachments-day-48) |
 | **Skeleton grip** | uncommon | mgrip | blades, blunt weapons, chain weapons, power weapons, psyker staffs | lighter and quicker: +1 on swings and parries; disarms against him +2 | [kit.md](kit.md#melee-attachments-day-48) |
 | **Tsuka grip** | rare | mgrip | blades, power weapons (only: sword or sabre or cutlass or blade or odachi or katana) | leverage, blade control, some shock absorption: +1 on swings, +1 to parry, +1 on his disarm attempts | [kit.md](kit.md#melee-attachments-day-48) |
@@ -176,6 +180,8 @@ balance, throwbal, rig, chguard, point, stand, regulator, enhancer, length, cham
 | **Spiked pommel** | uncommon | pommel | blades, blunt weapons, chain weapons, power weapons (only: ^(?!.*(two-handed or great or eviscerator or shovel or glaive or sledge or headsman)).*) | one more swing at the end of every chain: a pommel strike; a hit drops no health step, it only staggers (-1 on their next roll) and counts 2 toward wear-down | [kit.md](kit.md#melee-attachments-day-48) |
 | **Staff regulator** | rare | regulator | psyker staffs | every charged power takes 1 more beat to charge, but no Perils roll while it's fitted | [kit.md](kit.md#melee-attachments-day-48) |
 | **Sharpened rim** | uncommon | rim | shields | a shield bash counts as a blade hit | [kit.md](kit.md#melee-attachments-day-48) |
+| **Flat teeth** | uncommon | shape | chain weapons | it gets through one armour step further than it otherwise would; against no armour or flak only a solid hit drops a step | [kit.md](kit.md#chain-weapon-parts-day-48) |
+| **Long spike teeth** | uncommon | shape | chain weapons | against no armour or flak a hit drops an extra step; it gets through one armour step less than it otherwise would | [kit.md](kit.md#chain-weapon-parts-day-48) |
 | **Ergo grip sleeve** | common | sleeve | SMGs, autoguns and stub rifles, bolt pistols, boltguns, las pistols, las rifles, meltaguns, needle pistols, needle rifles, plasma guns, plasma pistols, shotguns, stub pistols | never slips from his hand; disarms against him -2 | [kit.md](kit.md#ergo-grip-sleeve) |
 | **Shield viewing slot** | uncommon | slot | shields | sees and shoots a pistol through it without leaving cover; planted, slot fire -2 | [kit.md](kit.md#shield-viewing-slot-mod) |
 | **Spiked shield** | uncommon | spikes | shields | +3 on a shield-first charge, then +1 attacking with the shield | [kit.md](kit.md#spiked-shield-mod) |
@@ -229,6 +235,7 @@ balance, throwbal, rig, chguard, point, stand, regulator, enhancer, length, cham
 | **Dual canister cradle** *(Custom)* | uncommon | mag | hand flamers | 8 bursts before a reload | [attachments.md](attachments.md#holliss-hand-flamer-schematic-2) |
 | **Twin feed tray** *(Custom)* | uncommon | mag | heavy stubbers | twice the rounds; two belt types, switched with a lever | [attachments.md](attachments.md#morcants-heavy-stubber-schematic-3) |
 | **Twin side-by-side tubes** *(Custom)* | uncommon | mag | autoguns and stub rifles (only: lever) | 36 rounds; -1 swapping | [attachments.md](attachments.md#tamsins-kasr-frontier-schematic-17) |
+| **Plasteel teeth** *(Custom)* | uncommon | material | chain weapons | through heavy carapace on any hit, ceramite-forged on a solid hit | [attachments.md](attachments.md#kells-chain-axe-schematic-5) |
 | **Curved hardwood grip** *(Custom)* | common | mgrip | blades, blunt weapons, chain weapons, power weapons, psyker staffs | can't be knocked from his hand by a solid hit | [attachments.md](attachments.md#kells-chain-axe-schematic-5) |
 | **Better motor** *(Custom)* | uncommon | motor | chain weapons | crits on 19-20; a natural 1 on a swing throws the chain (a beat to reseat) | [attachments.md](attachments.md#kells-chain-axe-schematic-5) |
 | **Bite switch** *(Custom)* | rare | mselector | chain weapons | BITE: one swing a beat, a hit drops an extra step; flipped before the swing | [attachments.md](attachments.md#kells-chain-axe-schematic-5) |
@@ -257,7 +264,6 @@ balance, throwbal, rig, chguard, point, stand, regulator, enhancer, length, cham
 | **Heavy shotgun stock with grenade loops** *(Custom)* | common | stock | autoguns and stub rifles, las rifles, shotguns | +1 aimed; -1 swapping; 3 grenade loops | [attachments.md](attachments.md#tavis-tiny-schematic-9) |
 | **Hollow medicine-cabinet stock** *(Custom)* | common | stock | autoguns and stub rifles, las rifles | a stimm, a bandage and a tourniquet inside: he patches from the gun; -1 aimed past ~30 m | [attachments.md](attachments.md#sallows-carbine-schematic-10) |
 | **Stock magazine slot** *(Custom)* | common | stockmag | las rifles | the first reload each fight costs no beat | [attachments.md](attachments.md#kells-officer-schematic-8) |
-| **Plasteel teeth** *(Custom)* | uncommon | teeth | chain weapons | through heavy carapace on any hit, ceramite-forged on a solid hit | [attachments.md](attachments.md#kells-chain-axe-schematic-5) |
 | **Traverse tripod (ARC fire)** *(Custom)* | rare | tripod | heavy stubbers | set up as a main thing, no recoil; ARC: everyone in the arc -2 on their shots next beat, breaking cover draws a free shot | [attachments.md](attachments.md#morcants-heavy-stubber-schematic-3) |
 | **Tube selector** *(Custom)* | uncommon | tubesel | autoguns and stub rifles (only: lever) (needs Twin side-by-side tubes) | each tube its own load; flicking it is free | [attachments.md](attachments.md#tamsins-kasr-frontier-schematic-17) |
 | **Custom bipod** *(Custom)* | common | under | autoguns and stub rifles, boltguns, heavy stubbers, las rifles, needle rifles, plasma guns | braced or prone, a chain miss costs no -1; a beat to set up | [attachments.md](attachments.md#isks-patience-schematic-7) |
@@ -342,7 +348,7 @@ On paper (7th). Source: [schematic 4](../../campaigns/ash-on-ostrava/schematics.
 On paper (10th). Source: [schematic 5](../../campaigns/ash-on-ostrava/schematics.md#schematic-5-kells-chain-axe-rebuilt).
 
 - **Better motor** (melee motor; **uncommon**) *(Custom, not traditional: no trader carries this.)*: **crits on 19-20;** **a natural 1 on a swing throws the chain** (a beat to reseat it).
-- **Plasteel teeth** (melee teeth; **uncommon**) *(Custom, not traditional: no trader carries this.)*: **through heavy carapace on any hit, ceramite-forged on a solid hit;** power armour still shrugs it; wear-down applies.
+- **Plasteel teeth** (melee material slot, was 'teeth'; **uncommon**) *(Custom, not traditional: no trader carries this.)*: **through heavy carapace on any hit, ceramite-forged on a solid hit;** power armour still shrugs it; wear-down applies.
 - **Curved hardwood grip** (melee grip; **common**) *(Custom, not traditional: no trader carries this.)*: **can't be knocked from his hand by a solid hit** (still drops if he goes Down).
 - **Bite switch** (melee motor; **rare**) *(Custom, not traditional: no trader carries this.)*: **BITE: one swing a beat instead of two, but a hit that lands drops one extra step** (a crit in bite: three steps); flipping it is free (before the swing, never during).
 
