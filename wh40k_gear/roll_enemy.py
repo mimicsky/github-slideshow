@@ -221,7 +221,7 @@ for n in range(count):
             if sk >= 18:
                 k6 = random.randint(1, 6)
                 skit = ("RANGER: galvanic rifle" if k6 <= 3 else "VANGUARD: radium carbine (rad-sickness within ~5 m)" if k6 <= 5 else "SICARIAN: paired transonic blades")
-                skit = f"corrupted SKITARIUS (tech-adept d20 {sk}, kind d6 {k6}), {skit}; augmetic eyes, machine body (starts at 6.0 health), shock-weak; see roles.md"
+                skit = f"corrupted SKITARIUS (tech-adept d20 {sk}, kind d6 {k6}), {skit}; augmetic eyes, machine body (starts at 6.0 health), heavy plasteel all over, shock-weak; see roles.md"
         if skit:
             kit = skit
         else:
@@ -274,6 +274,14 @@ for n in range(count):
             armour = f"{TIER_SETS[at]} ** LEADER ROLL (d20 {', '.join(lead)}): up from {armour}"
         else:
             armour += f" (leader roll d20 {lead[0]}: keeps it)"
+    # Skin armour (the player, day 48): a base armour class under whatever is worn; a gap shot still meets the skin.
+    kit_text = head.split("): ", 1)[-1].replace("PRESET: ", "")
+    if "SKITARIUS" in head:  # fully armoured: plate and limbs are heavy plasteel, no gaps
+        armour = "Skitarii war plate: HEAVY PLASTEEL all over, arms and legs too (heavy carapace tier; no gaps to shoot for)"
+    elif OGRYN_KIT.search(kit_text) or (role_d20 >= 16 and role == "ogryn"):
+        armour += " + SKIN: reinforced flak (under it; a gap shot meets the skin)"
+    elif role_d20 >= 16 and role == "mutant charger" or (role_d20 >= 16 and role == "brute" and mk != "commoner"):
+        armour += " + SKIN: flak (under it; a gap shot meets the skin)"
     extra = pick(P['extra'])
     if head.startswith("SPECIALIST BOMB ZEALOT"):
         extra = "STRAPPED ON: " + ", ".join(pick(BOMBS) for _ in range(random.randint(3, 5)))

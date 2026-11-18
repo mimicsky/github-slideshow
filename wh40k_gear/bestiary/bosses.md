@@ -37,7 +37,8 @@ A bar that fills over the campaign, so a boss can turn up in any fight, not only
   **Its body counts as an armour tier** (codex Part 8, Armour: the 11 tiers): no plate on it, but hide, bloat, chitin
   or daemon flesh that stops what that tier stops. **Each entry names its class.** It reads off the armour table like
   worn armour (crits, wear-down, Too weak to matter), except: **it can't be looted or stripped, it has no gaps to
-  shoot for, and fire and blasts always count against it.** If it also wears plate, use the higher. (Each entry can
+  shoot for, and fire and blasts always count against it.** **It is a skin armour: plate can be worn over it.** A
+  normal hit meets the higher of the two; **a shot for the gaps lands on the skin and still has to get through its class.** (Each entry can
   name its own exceptions: blessed and force weapons against daemons.) **Shots at a big one get +2** (it's a big target).
 - **STR +6 to +10** (d5 + 5). Its blows are **heavy hits** (through carapace; the refractor field takes one on a
   d6 5-6); a crit drops two steps.

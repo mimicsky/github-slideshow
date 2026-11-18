@@ -1056,7 +1056,7 @@ ladder a hit moves you.
 | 2 | **Reinforced flak** | **stub, autogun and glancing las, fully** | clean las hits, hellguns, shotguns up close, chain, frags |
 | 3 | **Carapace inplate** (new: flak with carapace plates slotted in; a carapace chest plate) | all of the above, **plus las unless the hit is solid, and shotguns at range** | las on a solid hit, hellguns, shotguns up close, blades, chain, frags |
 | 4 | Carapace | lasguns, autoguns, stub, shotguns at range, most blades, frags (unless the throw was a solid hit) | hellguns, hot-shot, bolters, heavy stubbers, chain, power weapons, plasma, krak |
-| 5 | **Heavy carapace** | all of the above, **plus hellguns and heavy stubbers at range** | hellguns and heavy stubbers up close (inside ~15 m), bolters, chain on a solid hit, power weapons, plasma, melta, krak |
+| 5 | **Heavy carapace** (and **heavy plasteel**: Skitarii war plate) | all of the above, **plus hellguns and heavy stubbers at range** | hellguns and heavy stubbers up close (inside ~15 m), bolters, chain on a solid hit, power weapons, plasma, melta, krak |
 | 6 | **Ceramite** (new: plain ceramite plate) | all of the above, **plus hellguns and heavy stubbers up close unless the hit is solid** | hellguns and heavy stubbers up close on a solid hit, bolters, chain on a solid hit, power weapons, plasma, melta, krak |
 | 7 | **Ceramite-forged** | all of the above, **plus hellguns and heavy stubbers completely** | bolters, chain on a solid hit, power weapons, plasma, melta, krak |
 | 8 | **Adamantium plate** (new) | all of the above, **plus chain weapons, except on a crit** | bolters, power weapons, plasma, melta, krak |
@@ -1078,7 +1078,14 @@ ladder a hit moves you.
   have some armour.' **Its body counts as that tier** and reads off the table above like worn armour (crits, wear-down
   and Too weak to matter included), with three differences: **it can't be looted or stripped; it has no gaps to shoot
   for; fire and blasts always count against it** (a flamer or a blast in reach takes its step whatever the class).
-  **A creature with a class that also wears plate uses the higher of the two.** **This replaces the old monster rule**
+  **Skin armour under worn armour (the player, day 48:** 'a base armor like a skin armor then armor over that: even
+  if a shot hits an unarmored spot it has to check the skin itself'**):** a creature with a class **can wear armour
+  over it**. **A normal hit meets the higher of the two; a shot for the gaps lands on the skin and still has to get
+  through its class.** **Who has one besides the bosses** (bestiary `roles.md`, each entry): **Ogryns: reinforced
+  flak; brutes, mutants and mutant chargers: flak** (not a commoner's big farmhand: he's only a big man);
+  **cyber-mastiffs and warp-hounds: flak** (ordinary hounds, mutant dogs, pox hounds and poxwalkers: none).
+  **Skitarii are fully armoured: their plate and their augmetic arms and legs are heavy plasteel, which counts as
+  heavy carapace all over, with no gaps to shoot for** (the player, day 48). **This replaces the old monster rule**
   ('hide, bloat or daemon flesh: only solid hits count'): each entry in the bestiary (`wh40k_gear/bestiary/bosses.md`)
   names its class.
 

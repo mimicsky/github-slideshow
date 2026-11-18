@@ -401,7 +401,9 @@ time. Pride is their weakness: they can be baited.
 **Who has it:** cultists, raiders, traitor soldiers, traitor elites, commoners (the big farmhand).
 
 Huge: a mutant, a renegade Ogryn, a penal monster. **Takes 2 more hits than a
-normal person before going Down** (two extra health steps: **starts at 7.0**). Slow-witted and
+normal person before going Down** (two extra health steps: **starts at 7.0**). **Skin armour: flak** (an armour
+class under whatever it wears: codex Part 8, Armour class; the player, day 48; a gap shot still meets the skin; **not
+a commoner's big farmhand**, who is only a big man). Slow-witted and
 straightforward: walks at the nearest enemy and hits them. **Can throw big
 objects or smash cover; either takes a beat.** Dumb: can be led into traps, and
 sometimes ignores orders.
@@ -411,7 +413,8 @@ sometimes ignores orders.
 **Who has it:** all six leagues.
 
 Comes with **2-3 beasts, 2 health steps each (they start at 3.0; no state penalties)** (hounds, mutant dogs,
-cyber-mastiffs, warp-hounds) that fight on their own. Sends them first to run the
+cyber-mastiffs, warp-hounds) that fight on their own. **Skin armour (the player, day 48): cyber-mastiffs (plated
+frames) and warp-hounds (warp-flesh) have armour class flak; ordinary hounds and mutant dogs have none.** Sends them first to run the
 party down and pin the wounded.
 
 - **Handler dies:** roll a d6 for the beasts. **1-4:** they scatter and retreat.
@@ -641,6 +644,12 @@ human, obeying their Tech-Priests through data-links. Corrupted ones serve heret
   blinded.
 - **Machine body:** one extra health stage: **it starts at 6.0** (no penalty above 3.0: codex house rule 4).
   No bleeding, no fear, immune to gas.
+- **Fully armoured in heavy plasteel (set by the player, day 48:** 'the armor and arms are heavy plasteel since
+  they are like fully armored'**).** Its war plate **and its augmetic arms and legs** are heavy plasteel: **heavy
+  carapace tier all over** (codex Part 8, Armour: hellguns and heavy stubbers only inside ~15 m; las, autoguns,
+  stub and most blades never; bolters, plasma, melta, power weapons and krak always; chain on a solid hit).
+  **No gaps: a shot for the arms or legs meets the same plasteel.** Whatever armour the roller gave it is replaced
+  by this. (The tier is the DM's reading of 'heavy plasteel'; the player may move it.)
 - **Data-link:** if their Tech-Priest or heretek is in the fight, they act **first**
   every beat.
 - **Weakness:** shock weapons (shock mauls, shock coils) hit them **one health step
@@ -775,6 +784,9 @@ kitted.)
 A giant abhuman, about 3 m tall: dumb, loyal, and it hits like a truck.
 
 - **Stats:** **STR 60-80** (+6 to +8), **DEX 10-20** (+1 to +2). Terrible shot.
+- **Skin armour: reinforced flak** (set with the player, day 48: an armour class under whatever it wears; codex
+  Part 8, Armour class). Its hide stops stub, autogun and glancing las by itself. **A normal hit meets the higher of
+  skin and worn armour; a shot for a gap in its plates still has to get through the skin.**
 - **Size:** **two extra health stages: a regular Ogryn starts at 7.0** (no penalty above 3.0: codex house rule 4;
   settled by the player, day 48: the old text said 'three' but named two, and Fourteen's was played with two).
   **Big target: shots at an Ogryn get +2.**
@@ -846,7 +858,8 @@ A long-limbed, twisted mutant that hunts one target at a time. **Charge (any bea
 it sprints ~30 m and grabs: the target makes a **DEX dodge against its STR roll**; a fail and it's **grabbed**:
 the charger drags them ~10 m away from their friends, toward its own side, slams them down (a step) and holds
 them. **Grabbed:** can't act except to break free (STR against its STR) until the charger goes Down or takes a
-solid hit. **Two extra health steps** (like a brute: **it starts at 7.0**). No guns.
+solid hit. **Two extra health steps** (like a brute: **it starts at 7.0**). **Skin armour: flak** (as a brute; the
+player, day 48). No guns.
 
 ## Mortar team
 
