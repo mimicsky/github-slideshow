@@ -4270,7 +4270,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Scrap saw-axe (buzz-saw on a pipe, runs off a las pack: +1 step on flesh, carapace shrugs it; flat, a club)",
+  "name": "Scrap saw-axe (buzz-saw on a pipe, runs off a las pack: +1 step on flesh; carapace shrugs it, no wear; flat, a club)",
   "tv": 1.5,
   "cat": "melee",
   "rarity": "C",
