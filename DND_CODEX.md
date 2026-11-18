@@ -817,7 +817,7 @@ What the DM has always done, written down so anyone can run it.
   him take only Airborne's -3 (Gear rules, Airborne); the +3 comes on top only during a Dive (settled by the player, day 48). **A small or precise shot** (an arm, a leg, a lamp, a hand): **+1**. (Both set by the player, day 47.)
   The shooter's total (roll checklist) must reach it. Melee between people uses the exchange (house rule 5) instead.
 - **Damage:** a hit drops the target **one health step, 1.0** (5.0 Fine → 4.0 Grazed → 3.0 Hurt → 2.0 Badly hurt → 1.0 Down; house rule 4),
-  **unless their armour stops that kind of weapon** (Part 8, Armour: "shrugs off" means no step for that hit, but **shrugged hits wear them down**: every 6 drop a step, every 10 for power armour; day 47).
+  **unless their armour stops that kind of weapon** (Part 8, Armour: "shrugs off" means no step for that hit, but **shrugged hits wear them down**: every 6 drop a step, 8 for heavy adamantium, 10 for the two power armours; day 47, tiers day 48).
   Bigger tracks (zealots, Skitarii, Ogryns, brutes, bosses) start above 5.0; a half step is 0.5 (house rule 4).
 - **Crit:** drops **one extra step: it adds 1.0 to whatever the hit does** (a half-step hit becomes 1.5; against armour that would have shrugged it, 1.0 flat: Part 8, Armour) (crit ranges: a natural 20 for most; Tamsin 19-20; Vigil 17-20 with heat).
 - **"Solid hit"** (wording some gear uses): the total **beats the hidden number by 3 or more**.
@@ -1047,22 +1047,45 @@ limited to what the character would know. Darktide is a useful shared reference.
 Armor Class stays off in narrative mode. Armour decides how far down the health
 ladder a hit moves you.
 
-**Armour tiers (expanded by the player, Ash on Ostrava session 10; chain vs ceramite-forged and plasma vs power armour changed with the player, day 36 cleanup):**
+**Armour tiers: the 11-tier ladder** (set by the player, Ash on Ostrava day 48: 'a lil more armor for more variety and good fights'; the first table was session 10, chain vs ceramite-forged and plasma vs power armour day 36). Each tier **adds one thing** over the tier below it.
 
-| Armour | Shrugs off | Still gets through |
-| --- | --- | --- |
-| None, coat | nothing | everything |
-| Flak | glancing hits, stub and autogun at range | las, hellguns, shotguns up close, chain, frags |
-| **Reinforced flak** | **stub, autogun and glancing las, fully** | clean las hits, hellguns, shotguns up close, chain, frags |
-| Carapace | lasguns, autoguns, stub, shotguns at range, most blades, frags (unless the throw was a solid hit) | hellguns, hot-shot, bolters, heavy stubbers, chain, power weapons, plasma, krak |
-| **Heavy carapace** | all of the above, **plus hellguns and heavy stubbers at range** | hellguns and heavy stubbers up close (inside ~15 m), bolters, chain on a solid hit, power weapons, plasma, melta, krak |
-| **Ceramite-forged** | all of the above, **plus hellguns and heavy stubbers even up close** | bolters, chain on a solid hit, power weapons, plasma, melta, krak |
-| Power armour | almost everything a soldier carries | bolters, plasma on a solid hit, melta, power weapons, krak |
+| # | Armour | Shrugs off | Still gets through |
+| --- | --- | --- | --- |
+| 0 | None, coat | nothing | everything |
+| 1 | Flak | glancing hits, stub and autogun at range | las, hellguns, shotguns up close, chain, frags |
+| 2 | **Reinforced flak** | **stub, autogun and glancing las, fully** | clean las hits, hellguns, shotguns up close, chain, frags |
+| 3 | **Carapace inplate** (new: flak with carapace plates slotted in; a carapace chest plate) | all of the above, **plus las unless the hit is solid, and shotguns at range** | las on a solid hit, hellguns, shotguns up close, blades, chain, frags |
+| 4 | Carapace | lasguns, autoguns, stub, shotguns at range, most blades, frags (unless the throw was a solid hit) | hellguns, hot-shot, bolters, heavy stubbers, chain, power weapons, plasma, krak |
+| 5 | **Heavy carapace** | all of the above, **plus hellguns and heavy stubbers at range** | hellguns and heavy stubbers up close (inside ~15 m), bolters, chain on a solid hit, power weapons, plasma, melta, krak |
+| 6 | **Ceramite** (new: plain ceramite plate) | all of the above, **plus hellguns and heavy stubbers up close unless the hit is solid** | hellguns and heavy stubbers up close on a solid hit, bolters, chain on a solid hit, power weapons, plasma, melta, krak |
+| 7 | **Ceramite-forged** | all of the above, **plus hellguns and heavy stubbers completely** | bolters, chain on a solid hit, power weapons, plasma, melta, krak |
+| 8 | **Adamantium plate** (new) | all of the above, **plus chain weapons, except on a crit** | bolters, power weapons, plasma, melta, krak |
+| 9 | **Heavy adamantium** (new) | the same, and **las can't touch it at all** (Too weak to matter, below); **wears down every 8, not 6** | bolters, power weapons, plasma, melta, krak |
+| 10 | **Semi power armour** (new name: Sisters of Battle; **this is the old 'Power armour' row, unchanged**) | all of the above, **plus plasma unless the hit is solid**; **wears down every 10** | bolters, plasma on a solid hit, melta, power weapons, krak |
+| 11 | **Space Marine armour** (Astartes plate; new, tougher than the old row) | all of the above, **plus bolters unless the hit is solid**; wears down every 10 | bolters on a solid hit (Vengeance rounds on any hit: DM default), plasma on a solid hit, melta, power weapons, krak |
+
+- **A solid hit** beats the number by 3 or more. **Power weapons, melta and krak get through every tier.**
+- **Older entries** (weapons, loads and parts written before day 48 name only the old tiers): **carapace inplate** takes
+  what the entry says for reinforced flak, **ceramite** what it says for heavy carapace, **adamantium plate and heavy
+  adamantium** what it says for ceramite-forged, and **'power armour' means both semi power armour and Space Marine
+  armour**. Then the new tier's own line goes on top (inplate: las needs a solid hit; ceramite: hellguns up close need
+  a solid hit; adamantium: chain needs a crit; heavy adamantium: las can't touch it; Space Marine armour: bolters need
+  a solid hit).
+- **Who wears what, and the leader roll:** Part 8, Enemies, **Armour by league** (below the wealth table). **Ceramite-forged
+  and up never come off the normal armour roll:** bosses, Mechanicus, Sisters and Marines, or a leader roll.
+- **Armour class (set by the player, Ash on Ostrava day 48).** **Some bosses and creatures have no plate but a tough
+  body:** 'a plague ogryn has an armour class of carapace inplate, so it doesn't have a fat plate on it but it does
+  have some armour.' **Its body counts as that tier** and reads off the table above like worn armour (crits, wear-down
+  and Too weak to matter included), with three differences: **it can't be looted or stripped; it has no gaps to shoot
+  for; fire and blasts always count against it** (a flamer or a blast in reach takes its step whatever the class).
+  **A creature with a class that also wears plate uses the higher of the two.** **This replaces the old monster rule**
+  ('hide, bloat or daemon flesh: only solid hits count'): each entry in the bestiary (`wh40k_gear/bestiary/bosses.md`)
+  names its class.
 
 - **Strength behind the blow (STR 50+; set by the player, Ash on Ostrava day 47).** Anyone with **STR 50 or more**
-  drives their **melee or thrown** weapon (knives, axes, spears; not grenades or guns) **one armour step further** than it normally goes (the ladder: flak, carapace, heavy
-  carapace, ceramite-forged, power armour): a machete that only gets through flak gets through carapace; chain
-  that needs a solid hit against heavy carapace gets through it on any hit. **Power weapons, which already go
+  drives their **melee or thrown** weapon (knives, axes, spears; not grenades or guns) **one armour step further** than it normally goes (**the ladder is the 11 tiers above, one rung at a time**, day 48: flak, reinforced flak, carapace inplate, carapace, heavy
+  carapace, ceramite, ceramite-forged, adamantium plate, heavy adamantium, semi power armour, Space Marine armour): a machete that stops at carapace gets through carapace; chain
+  that needs a solid hit against heavy carapace gets through it on any hit (and needs the solid hit from ceramite to adamantium plate, a crit from heavy adamantium up). **Power weapons, which already go
   through everything, instead hit one health step harder: each hit that lands drops the target two steps.**
   **Melee and thrown** (widened by the player the same day: a strong arm drives a thrown knife deeper); grenades
   and guns don't count. Who has it: in the Light, **Morcant** (STR 51); among enemies,
@@ -1071,26 +1094,25 @@ ladder a hit moves you.
 - **Pieces, helmets and prices** (day 47): catalogue `wh40k_gear/catalogue/kit.md`, **Armour** (chest pieces vs sets;
   open helmets leave the face; a full helmet covers it, -1 Perception without a lens or auspex).
 - **Part-armour:** a plate that only covers one side counts only from that side (Tamsin's heavy front: shots
-  from the side or back hit plain carapace; a chest-only carapace protects the chest).
+  from the side or back hit plain carapace). **A carapace chest plate, with or without flak under it, reads as carapace inplate** on a normal hit (day 48); a shot for the gaps still hits what covers that spot.
 - **Crits always get through** (except **Too weak to matter**, below). Against armour that would have shrugged the hit, a crit drops just one step (1.0 flat, no extra, whatever the weapon).
 - **Wear-down: shrugged hits still hurt.** Armour stops a hit from dropping a step, not from mattering. **Every 6
-  shrugged hits on the same person in one fight drop them one step** (power armour: every 10) (**6, not 3: the
-  player, Ash on Ostrava day 47**, '3 is kinda weak'; power armour's 10 is the DM's default until the rule for
-  which weapons can't wear which armour at all is set: done, below).
+  shrugged hits on the same person in one fight drop them one step** (**heavy adamantium: every 8; semi power armour and Space Marine armour: every 10**) (**6, not 3: the
+  player, Ash on Ostrava day 47**, '3 is kinda weak'; the 8 and the 10s are the DM's defaults, day 48).
 - **Half-step weapons (the player's half steps, day 48).** A weapon whose entry gives it a half step (laspistol punch
   against flak: catalogue las.md) does **0.5** where it gets through; **where the armour shrugs it, the hit counts half
-  toward wear-down** (two of them make one of the 6, or of power armour's 10). Its crit is as any crit (house rule 4).
+  toward wear-down** (two of them make one of the 6, the 8 or the 10). Its crit is as any crit (house rule 4).
 - **Too weak to matter (set by the player, Ash on Ostrava day 47).** Some weapons **can't touch** some armour at all:
   **no wear-down, and even their crits are shrugged.** A Space Marine shrugs a thousand las bolts.
 
   | Armour | Can't be touched by |
   | --- | --- |
-  | **Ceramite-forged** | stub and autogun rounds, standard shotgun shells, needle darts, plain blades, frags |
-  | **Power armour** | all of the above, **plus las** (lasguns, lascarbines, laspistols) |
+  | **Ceramite-forged, adamantium plate** | stub and autogun rounds, standard shotgun shells, needle darts, plain blades, frags |
+  | **Heavy adamantium, semi power armour, Space Marine armour** | all of the above, **plus las** (lasguns, lascarbines, laspistols) |
 
-  **Still wear it down** at the normal rate (power armour every 10): hellguns, hot-shot, heavy stubbers, chain
+  **Still wear it down** at its own rate (6, 8 or 10): hellguns, hot-shot, heavy stubbers, chain
   weapons. **Armour-piercing loads** (AP, CAP, man-stopper shells, shard darts) count like hellguns here: they can
-  wear down ceramite-forged, not power armour. Bolters, plasma, melta, power weapons and kraks already get through.
+  wear down ceramite-forged and adamantium plate, nothing heavier. Bolters, plasma, melta, power weapons and kraks already get through.
 - **Heavy stub rounds (set by the player, Ash on Ostrava day 47):** a thicker stub calibre (hand cannons, the Orlock,
   the Macragge): **through flak at any range, reinforced flak inside ~15 m, carapace only on a crit** (catalogue
   stub.md, Heavy stub rounds).
@@ -1100,7 +1122,7 @@ ladder a hit moves you.
   target: +1 to the hidden number** (the same +1 as any small or precise shot: settled by the player, day 48; it was +2)**;** a hit lands on **whatever covers that spot** (often flak or nothing: a carapace
   chest plate doesn't cover the legs). **The face only on a crit** (a headshot: as any crit, it gets through). Anyone
   can make the same call, the Light included. Enough hellgun
-  shots will hurt even a man in power armour.
+  shots will hurt even a man in power armour (either kind).
 
 Armour takes damage and the DM says when it is failing.
 
@@ -1228,6 +1250,28 @@ faction (`roll_enemy.py TYPE COUNT WEALTH`). **Cultists, raiders, pirates:** 1-3
 | Rich | 40 / 45 / 15 | Armour one step better; **2% each carries an epic item** |
 | Wealthy | 25 / 50 / 25 | Armour one step better; **5% each carries an epic item**; leaders carry something exotic-looking |
 
+**Armour by league (set with the player, Ash on Ostrava day 48).** **The league sets which armours can show up at
+all; wealth sets how often the better ones do** (the Common / Uncommon / Rare weights above; Rich and Wealthy factions
+and special teams roll only from the Uncommon and Rare rows: 'armour one step better'). The roller holds the lists
+(`wh40k_gear/enemies.json`, each league's `armour`).
+
+| League | Usual (common) | Better-off (uncommon) | Best they can roll (rare) |
+| --- | --- | --- | --- |
+| Commoner | none, a padded jacket | flak | **carapace inplate** (an heirloom chest plate) |
+| Cultist | none, a flak vest | flak, reinforced flak | **carapace inplate** |
+| Raider | none, a flak vest | flak, reinforced flak, mesh | carapace inplate, **carapace** |
+| Pirate | none, flak | reinforced flak, a void-suit | **carapace** |
+| Traitor | flak, reinforced flak | carapace inplate, carapace | **heavy carapace** |
+| Traitor elite | carapace | heavy carapace | **ceramite** |
+
+- **The leader roll (the player's idea, day 48:** 'if someone rolls the best they can roll, let them roll again for
+  better armor, a chance for a harder fight'**).** **Anyone who rolls the best armour tier their league can get rolls a
+  d20: 1-16 they keep it; 17-19 one tier better; a 20 one tier better and they roll again.** It **can go past the
+  league's best** (a cultist in full carapace, a traitor elite in ceramite-forged) and **stops at heavy adamantium**:
+  semi power armour and Space Marine armour are story only. A Poor faction never rolls its rare row, so it never
+  gets a leader roll. The roller does it (`** LEADER ROLL`).
+- **A boss's honour guard** is still one step better than his men (bestiary, human boss template).
+
 An **elite team** (natural 19-20 on the group d20) is **one level richer** than its
 faction. Epic items are drawn from the exotic tier (Astartes trophies, xenos guns, archeotech;
 never Assassinorum gear). Named special teams keep their own rules and carry no scrap. **Each enemy also rolls STR and DEX levels** in its league's range
@@ -1332,7 +1376,7 @@ outcome.** It shows at a glance how dangerous someone is, on one scale for every
 | **Body** | STR + DEX + CON levels, minus 45 (a civilian is about 15 each, so 0) |
 | **Skill** | Civilian 0 · cultist 30 · ganger, raider or pirate 40 · Guard or traitor soldier 50 · veteran or officer 60-70 · storm trooper or Scion-trained 80 · player character **10 × level**. Plus **+20** for a specialist role (or the Commander role), **+10** per specialty (a trainee's young focus +5) |
 | **Weapons** | Best weapon: scrap blade 20 · scrap gun 35 · common gun or blade 50 · hellgun-class 70 · heavy or special (bolter, plasma, chainsword, power weapon, launcher, heavy stubber) 90 · exotic 120. **+15** masterwork, blessed or a true custom build · **+10** per extra weapon (up to +30) · **+5 per fitted attachment** on any carried weapon, one per slot (up to +30; repairs and internals don't count) |
-| **Armour** | None 0 · rags or coat 5 · flak 20 · reinforced flak 25 · chest-only carapace 30 · carapace 40 · heavy carapace (or a heavy front) 50 · ceramite-forged 60 · power armour 100. **+10** shield · **+20** refractor · **+30** conversion field |
+| **Armour** | None 0 · rags or coat 5 · flak 20 · reinforced flak 25 · carapace inplate (or a carapace chest plate) 30 · carapace 40 · heavy carapace (or a heavy front) 50 · ceramite 55 · ceramite-forged 60 · adamantium plate 70 · heavy adamantium 80 · semi power armour 100 · Space Marine armour 120 (the 11 tiers, day 48; an armour class counts as its tier). **+10** shield · **+20** refractor · **+30** conversion field |
 | **Kit** | **+5** per grenade type carried (up to 20) · augmetic eye 5-25 (shooting eye 20, sensor-type optics 15) · lift or jump pack 15 · auspex 10 · stimms or drag-harness medic kit 5 |
 
 **Calibration:** civilian 0 · Poor cultist ~95-100 · Steady cultist (lasgun, flak) ~125 ·
@@ -1586,8 +1630,8 @@ conversion field blocks only on 5-6.
 captain, remade at enormous cost for a mortal: a big iron-and-gold ring that stands up behind the head, on a
 frame strapped to the back or the belt. Made only for the top of the line: lord-inquisitors, cardinals, lord
 militants, saints-in-waiting. **Anyone else seen wearing one will be asked, very seriously, how.**
-- **Stops everything power armour would stop**, automatically (the air rings like struck iron). **Hits that
-  get through power armour** (bolters, plasma on a solid hit, melta, power weapons, krak): **d6, 5-6 the
+- **Stops everything semi power armour would stop** (tier 10, the old 'power armour' row), automatically (the air rings like struck iron). **Hits that
+  get through it** (bolters, plasma on a solid hit, melta, power weapons, krak): **d6, 5-6 the
   halo takes it.**
 - **Overload:** it stops at most **5 hits in one beat**; a 6th or more that beat gets through, and the halo is
   **down for the rest of that beat** while it resets, back on the next (as the refractor field).
@@ -1664,7 +1708,7 @@ and no Perils trigger.** **Every psyker knows the first three**, on top of their
 - **Warp Slash** (only with a psyker melee weapon: a force sword, force staff or force blade). In one swing
   the psyker draws warp-fire along the blade and **throws the slash**: a flat crescent of warp energy ~2 m wide
   at waist height, out to ~30 m. **No charge.** Power roll as usual to aim it. **It hits everyone along that
-  line like a hellgun** (through flak and carapace; heavy carapace and power armour stop it); anyone lying flat is under it. **Dodging it (DEX) depends
+  line like a hellgun** (through flak and carapace; heavy carapace and anything heavier stop it); anyone lying flat is under it. **Dodging it (DEX) depends
   on range:** within ~5 m **no dodge**; ~5-15 m **dodge against 15**; ~15-30 m **dodge against 10** (easy,
   they see it coming). No Perils.
 

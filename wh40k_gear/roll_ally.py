@@ -116,7 +116,7 @@ def sisters(count, wealth, join, vows):
         c = random.randint(1, 6)
         calling = "Militant" if c <= 4 else "Hospitaller" if c == 5 else "Dialogus"
         a = random.randint(1, 6)
-        armour = "Robes over a flak vest" if a <= 3 else "Robes over reinforced flak" if a <= 5 else "Robes over a carapace chest plate"
+        armour = "Robes over a flak vest" if a <= 3 else "Robes over reinforced flak" if a <= 5 else "Robes over a carapace chest plate (carapace inplate)"
         if role:
             main = pick(ROLE_WEAPONS[role]) if role in ROLE_WEAPONS else E["traitor_elite"]["specialists"][role][0][0]
             kit = f"{main} (her role's) + {pick(ROLE_WEAPONS['sister novitiate'])}"

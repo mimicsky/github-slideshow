@@ -737,7 +737,7 @@ the worst of it to earn them.
 - **Stats:** Schola-trained: the regular soldiers' range (STR 20-35, DEX 25-40); one close to her vows,
   elite-trained (STR 25-45, DEX 35-50).
 - **Kit:** the sister novitiate list (Role weapons, below).
-- **A sworn Battle Sister** is a step above: Sororitas power armour and a boltgun or flamer (the shop
+- **A sworn Battle Sister** is a step above: Sororitas power armour (**semi power armour**, tier 10: codex Part 8, Armour) and a boltgun or flamer (the shop
   pools' Sororitas gear), the same Shield of faith and Act of faith; an NPC tier, not a recruit roll.
 
 ## Rolling new people (recruits and NPCs)

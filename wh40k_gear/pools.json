@@ -4296,5 +4296,89 @@
   "cat": "armour",
   "rarity": "C",
   "sellers": "B"
+ },
+ {
+  "name": "Carapace inplate set (flak with carapace plates slotted in)",
+  "tv": 5,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Ceramite helmet (open)",
+  "tv": 4,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Ceramite full helmet (-1 Perception without a lens)",
+  "tv": 6.5,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Ceramite chest plate",
+  "tv": 10,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Ceramite plate set",
+  "tv": 18,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Adamantium helmet (open)",
+  "tv": 8,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Adamantium full helmet (-1 Perception without a lens)",
+  "tv": 12,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Adamantium chest plate",
+  "tv": 18,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Adamantium plate set",
+  "tv": 35,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Heavy adamantium full helmet (-1 Perception without a lens)",
+  "tv": 20,
+  "cat": "armour",
+  "rarity": "L",
+  "sellers": "AF"
+ },
+ {
+  "name": "Heavy adamantium chest plate",
+  "tv": 32,
+  "cat": "armour",
+  "rarity": "L",
+  "sellers": "AF"
+ },
+ {
+  "name": "Heavy adamantium set",
+  "tv": 60,
+  "cat": "armour",
+  "rarity": "L",
+  "sellers": "AF"
  }
 ]

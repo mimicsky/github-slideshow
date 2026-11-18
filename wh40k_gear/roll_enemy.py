@@ -25,7 +25,9 @@ or RANDOM: the role's desired weapon is GUARANTEED, drawn from the role's own li
 sniper rifle for a sniper, any flamer for a flamer, anything quiet for an assassin, a med-kit for a medic), and his
 off weapon is random (a gun, sidearm or melee weapon from the type's lists). Roles that ARE their kit (ogryn, herder, heavy team, mortar team, bomb zealot, psyker, beast handler, mutant
 charger) and any Ogryn kit always take the whole preset. Ogryn kits get Ogryn stats (STR 60-80), whatever the role.
-Every enemy also rolls armour and one extra. Gear is weighted
+Every enemy also rolls armour and one extra. THE LEADER ROLL (the player, day 48): anyone who rolls the
+best armour tier their league can get rolls a d20: 1-16 keeps it, 17-19 one tier better, 20 one tier better and
+rolls again (it can pass the league's best; it stops at heavy adamantium). Gear is weighted
 common 70 / uncommon 25 / rare 5.
 
 Better-armed, one open d20 for the group:
@@ -140,6 +142,10 @@ better_armour = bool(team) or level in ("rich", "wealthy")
 EPIC_CHANCE = {"rich": 0.02, "wealthy": 0.05}.get(level, 0)  # epic (exotic) items, player-set session 9
 EPICS = [i["name"] for i in json.load(open(os.path.join(here, "pools.json"))) if i["rarity"] == "X"
          and not any(x in i["name"] for x in ("Exitus", "Callidus", "Culexus", "Vindicare"))]
+# Armour tiers (codex Part 8, Armour: the 11-tier ladder, day 48). A leader roll can reach 9; 10 and 11 are story only.
+TIER_SETS = {1: "Flak armour set", 2: "Reinforced flak set", 3: "Carapace inplate", 4: "Carapace armour set",
+             5: "Heavy carapace set", 6: "Ceramite plate set", 7: "Ceramite-forged set", 8: "Adamantium plate set",
+             9: "Heavy adamantium set"}
 def pick(rows):
     if team or level not in ("poor", "steady") or (level == "steady" and random.random() < 0.5):
         rows = [r for r in rows if "(scrap" not in r[0]] or rows  # scrap guns: Poor, and some Steady
@@ -254,6 +260,20 @@ for n in range(count):
     armour = pick(P['armour'])
     if better_armour:  # one step better: draw the armour from the top of the list
         armour = random.choice([r[0] for r in P['armour'] if r[1] in ("U", "R")] or [armour])
+    # The leader roll (the player, day 48): the league's best armour tier rolls a d20 for a tier better.
+    tiers = {r[0]: (r[2] if len(r) > 2 else 0) for r in P['armour']}
+    top, at, lead = max(tiers.values()), tiers.get(armour, 0), []
+    while at and at >= top and at < 9:
+        ld = random.randint(1, 20)
+        lead.append(str(ld))
+        if ld < 17: break
+        at += 1
+        if ld < 20: break
+    if lead:
+        if at > tiers[armour]:
+            armour = f"{TIER_SETS[at]} ** LEADER ROLL (d20 {', '.join(lead)}): up from {armour}"
+        else:
+            armour += f" (leader roll d20 {lead[0]}: keeps it)"
     extra = pick(P['extra'])
     if head.startswith("SPECIALIST BOMB ZEALOT"):
         extra = "STRAPPED ON: " + ", ".join(pick(BOMBS) for _ in range(random.randint(3, 5)))

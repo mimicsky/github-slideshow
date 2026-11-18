@@ -14,13 +14,24 @@ the tiers table, crits, wear-down, Too weak to matter, Shooting for the gaps). T
   **A full helmet: -1 on Perception** (the visor narrows sight and sound) unless it has a pict lens or an auspex built
   in (the [Tempestus Scion helmet](#tempestus-scion-helmet) is a full carapace helmet with both).
 
-| Tier | Helmet | Full helmet | Chest piece | Set |
-| --- | --- | --- | --- | --- |
-| **Flak** | 0.25 TV (C) | none | vest 0.5 (C) | 1 (C) |
-| **Reinforced flak** | 0.75 (U) | none | vest 2 (U) | 3 (U) |
-| **Carapace** | 1.5 (U) | 3 (U) | plate 4 (U) | 8 (U) |
-| **Heavy carapace** | 3 (R) | 5 (R) | plate 8 (R) | 14 (R) |
-| **Ceramite-forged** | 5 (R) | 8 (R) | plate 12 (R) | 22 (R) |
+| # | Tier | Helmet | Full helmet | Chest piece | Set |
+| --- | --- | --- | --- | --- | --- |
+| 1 | **Flak** | 0.25 TV (C) | none | vest 0.5 (C) | 1 (C) |
+| 2 | **Reinforced flak** | 0.75 (U) | none | vest 2 (U) | 3 (U) |
+| 3 | **Carapace inplate** (day 48) | a flak or carapace helmet | the same | a carapace chest plate, 4 (U) | 5 (U): a flak set with the plates slotted in |
+| 4 | **Carapace** | 1.5 (U) | 3 (U) | plate 4 (U) | 8 (U) |
+| 5 | **Heavy carapace** | 3 (R) | 5 (R) | plate 8 (R) | 14 (R) |
+| 6 | **Ceramite** (day 48) | 4 (R) | 6.5 (R) | plate 10 (R) | 18 (R) |
+| 7 | **Ceramite-forged** | 5 (R) | 8 (R) | plate 12 (R) | 22 (R) |
+| 8 | **Adamantium plate** (day 48) | 8 (R) | 12 (R) | plate 18 (R) | 35 (R) |
+| 9 | **Heavy adamantium** (day 48) | none (full only) | 20 (L) | plate 32 (L) | 60 (L) |
+| 10 | **Semi power armour** (Sisters of Battle) | not sold | not sold | not sold | not sold (a damaged Sororitas suit: 50, shrine sellers only) |
+| 11 | **Space Marine armour** | not sold | not sold | not sold | not sold |
+
+**The 11 tiers (the player, day 48).** Carapace inplate, ceramite, both adamantiums and the two power armours are new
+rungs; what each stops is in the codex table. **Carapace inplate** is a flak set with carapace plates slotted in: a
+carapace chest plate worn with or without flak under it reads as this tier. **Adamantium** is Mechanicus and Free
+Trader stock only, and **heavy adamantium is legendary**: nobody sells a set off a shelf. DM default prices (the player may change them).
 
 No tier costs dodges or stealth (the player kept it that way).
 

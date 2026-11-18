@@ -155,23 +155,33 @@
   "armour": [
    [
     "Rags, no armour",
-    "C"
+    "C",
+    0
    ],
    [
     "Flak vest",
-    "C"
+    "C",
+    1
    ],
    [
     "Gas mask / rebreather",
-    "C"
+    "C",
+    0
    ],
    [
     "Flak armour set",
-    "U"
+    "U",
+    1
    ],
    [
-    "Carapace chest plate (stolen)",
-    "R"
+    "Reinforced flak set",
+    "U",
+    2
+   ],
+   [
+    "Carapace chest plate (stolen; carapace inplate)",
+    "R",
+    3
    ]
   ],
   "extra": [
@@ -831,23 +841,38 @@
   "armour": [
    [
     "Leathers, no armour",
-    "C"
+    "C",
+    0
    ],
    [
     "Flak vest",
-    "C"
+    "C",
+    1
    ],
    [
     "Flak armour set",
-    "U"
+    "U",
+    1
    ],
    [
     "Mesh armour (light, quiet)",
-    "U"
+    "U",
+    2
+   ],
+   [
+    "Reinforced flak set",
+    "U",
+    2
+   ],
+   [
+    "Carapace inplate (scavenged plates on flak)",
+    "R",
+    3
    ],
    [
     "Arbites carapace (stolen)",
-    "R"
+    "R",
+    4
    ]
   ],
   "extra": [
@@ -1473,23 +1498,33 @@
   "armour": [
    [
     "Deck coat, no armour",
-    "C"
+    "C",
+    0
    ],
    [
     "Flak armour set",
-    "C"
+    "C",
+    1
    ],
    [
     "Void-suit, Navy (patched)",
-    "U"
+    "U",
+    1
    ],
    [
     "Boarding shield",
-    "U"
+    "U",
+    0
+   ],
+   [
+    "Reinforced flak set",
+    "U",
+    2
    ],
    [
     "Carapace armour set",
-    "R"
+    "R",
+    4
    ]
   ],
   "extra": [
@@ -2029,23 +2064,38 @@
   "armour": [
    [
     "Flak armour set",
-    "C"
+    "C",
+    1
    ],
    [
     "Flak vest and helmet",
-    "C"
+    "C",
+    1
    ],
    [
-    "Carapace chest plate",
-    "U"
+    "Reinforced flak set",
+    "C",
+    2
+   ],
+   [
+    "Carapace inplate (a chest plate over flak)",
+    "U",
+    3
    ],
    [
     "Carapace armour set",
-    "U"
+    "U",
+    4
    ],
    [
     "Storm trooper carapace (looted)",
-    "R"
+    "R",
+    4
+   ],
+   [
+    "Heavy carapace set",
+    "R",
+    5
    ]
   ],
   "extra": [
@@ -2693,27 +2743,33 @@
   "armour": [
    [
     "Work clothes, no armour",
-    "C"
+    "C",
+    0
    ],
    [
     "Padded work jacket",
-    "C"
+    "C",
+    0
    ],
    [
     "Flak vest",
-    "U"
+    "U",
+    1
    ],
    [
     "Old PDF flak armour set",
-    "U"
+    "U",
+    1
    ],
    [
     "Cogitator shield (scrap)",
-    "U"
+    "U",
+    0
    ],
    [
-    "Carapace chest plate (a family heirloom)",
-    "R"
+    "Carapace chest plate (a family heirloom; carapace inplate)",
+    "R",
+    3
    ]
   ],
   "extra": [
@@ -2952,15 +3008,28 @@
   "armour": [
    [
     "Storm trooper carapace",
-    "C"
+    "C",
+    4
    ],
    [
     "Storm trooper carapace and Scion-pattern helmet",
-    "U"
+    "U",
+    4
+   ],
+   [
+    "Heavy carapace set",
+    "U",
+    5
    ],
    [
     "Storm trooper carapace with a refractor field",
-    "R"
+    "R",
+    4
+   ],
+   [
+    "Ceramite plate set",
+    "R",
+    6
    ]
   ],
   "extra": [

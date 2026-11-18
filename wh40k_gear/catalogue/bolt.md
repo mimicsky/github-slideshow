@@ -33,7 +33,7 @@ wears it down; Too weak to matter applies, codex Armour). More hits, less punch:
 weapon.
 
 **Vengeance bolt rounds** (rare, **30 TV for 5** (the player's price); Deathwatch-pattern, black market, Free Traders;
-**rare in the enemy roll**; the player's idea, day 47: super armour-piercing). **Against power armour a hit drops one
+**rare in the enemy roll**; the player's idea, day 47: super armour-piercing). **Through Space Marine armour on any hit** (plain bolts need a solid hit against it: the 11 tiers, day 48; DM default). **Against power armour (either kind) a hit drops one
 extra step** (2 in all); against lighter armour, a normal bolt. **Gets through an APC's armour** (as Kraken; tanks shrug
 it). **Unstable: on a natural 1 the round cooks off in the chamber:** the bearer drops a step and the gun is out for
 the fight. Fits any bolt weapon.
