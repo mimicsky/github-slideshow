@@ -272,3 +272,17 @@ the top of [stub.md](stub.md)); the [Lucius 'Ironclad'](stub.md#lucius-pattern-i
 action only jams on a natural 1-3); the ['Harrow' farmer's pump](stub.md#pump-shotgun-harrow-pattern). Not semi-autos (the Kasr Sweeper: [Trigger Finger](#trigger-finger)), break-actions or
 drum guns. Enemies' alike. **Owned in Ash on Ostrava:** the pump shotguns in the crate (and Morcant's old combat pump).
 
+## Spin-cock
+
+**Lever-action guns** (the player's design, Ash on Ostrava day 48). He spins the gun on its lever loop to work the action
+with one hand: hard to do (the player: 'apparently that's super hard').
+- **Needs STR 35+.** Under it, he can't.
+- **Fires the string one-handed**, the other hand free (a pistol, a knife, a rope, a wounded friend): **-3 on every shot**
+  of that string.
+- Cooldown: 3 beats, and it's his one ability that beat.
+
+**Items with it:** **every lever-action gun:** the [Kasr Frontier](stub.md#lever-action-stub-rifle-kasr-frontier-pattern),
+hunters' lever-actions, the [Kasr Outrider](stub.md#lever-action-shotgun-kasr-outrider-pattern). Not the Kasr Furnace
+plasma repeater (its lever runs along the stock). **Owned in Ash on Ostrava:** Tamsin's Kasr Frontier (**STR 32.6: not
+yet**, he needs 35).
+

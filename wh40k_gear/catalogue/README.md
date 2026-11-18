@@ -94,6 +94,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Folding breaching shotgun, 'Kasr Jackknife' pattern](stub.md#folding-breaching-shotgun-kasr-jackknife-pattern) (folds; flip and fire)
 - [Heavy line shotgun, 'Kasr Ironhound' pattern](stub.md#heavy-line-shotgun-kasr-ironhound-pattern) (a line of pellets; turning choke)
 - [Boarding shotgun, 'Kasr Breakwater' bayonet pattern](stub.md#boarding-shotgun-kasr-breakwater-bayonet-pattern) (12-shell pump, fixed bayonet)
+- [Lever-action shotgun, 'Kasr Outrider' pattern](stub.md#lever-action-shotgun-kasr-outrider-pattern) (stockless lever gun)
 - [Shotgun shells, special](stub.md#shotgun-shells-special-loads) (man-stopper, dragon's breath, hellfire)
 - [Long shotgun barrel](stub.md#long-shotgun-barrel)
 

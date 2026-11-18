@@ -822,6 +822,10 @@
    [
     "Folding breaching shotgun, 'Kasr Jackknife' pattern",
     "U"
+   ],
+   [
+    "Lever-action shotgun, 'Kasr Outrider' pattern",
+    "U"
    ]
   ],
   "melee": [
@@ -1595,6 +1599,10 @@
    [
     "Boarding shotgun, 'Kasr Breakwater' bayonet pattern",
     "U"
+   ],
+   [
+    "Lever-action shotgun, 'Kasr Outrider' pattern",
+    "U"
    ]
   ],
   "melee": [
@@ -2244,6 +2252,10 @@
    ],
    [
     "Boarding shotgun, 'Kasr Breakwater' bayonet pattern",
+    "U"
+   ],
+   [
+    "Lever-action shotgun, 'Kasr Outrider' pattern",
     "U"
    ]
   ],
@@ -2948,6 +2960,10 @@
    [
     "Submachine gun, 'Kasr Locust' pattern",
     "R"
+   ],
+   [
+    "Lever-action shotgun, 'Kasr Outrider' pattern",
+    "U"
    ]
   ],
   "melee": [

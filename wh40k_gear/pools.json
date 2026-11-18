@@ -4046,6 +4046,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Lever-action shotgun, 'Kasr Outrider' pattern (stockless lever shotgun: 5-shell tube, strings of 3, never jams; recoil 2; laser and muzzle only; Spin-cock)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
   "name": "Tin-can bomb (light it; ~3 m weak frag; the timing's off, duds on a 1)",
   "tv": 0.1,
   "cat": "explosive",

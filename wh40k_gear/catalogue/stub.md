@@ -475,6 +475,19 @@ heavy pump with a boxy receiver and a broad handguard, **a bayonet fixed under t
   the same gun.
 - **Every attachment slot but the under-barrel** (the bayonet sits there).
 
+## Lever-action shotgun, 'Kasr Outrider' pattern
+
+**Lever-action shotgun, 'Kasr Outrider' pattern** (uncommon, 3 TV; black market, Free Traders, frontier-world traders; the player's design, Ash on Ostrava
+day 48; name, price and the numbers he didn't set: the DM's). A lever gun cut down to a pistol grip, **no stock**, a big
+loop lever.
+- **5-shell tube, lever action: strings of 3.** The lever never jams, as any lever gun.
+- **No stock: recoil 2;** fired from the hip.
+- **Reload:** round by round, half a beat per 2 shells; it can be topped up from the string.
+- Standard shotgun range (the close blast to ~15 m; -2 past ~15 m).
+- **Slots: laser and muzzle only** (no rail, no stock; special shells still load).
+
+**Abilities:** [Spin-cock](abilities.md#spin-cock) (lever-action guns; STR 35+); [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
+
 ## Web pistol, Arbites pattern
 
 **Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a
@@ -607,3 +620,5 @@ gun with a **12-round tube**; **never jams**. **Single lever:** chains of up to 
 normal stub-rifle shots. **Double lever:** work the lever twice to stack two rounds,
 and the shot lands **as two rounds** (through flak on any hit, through carapace on a
 solid hit); chains of up to 3.
+
+**Abilities:** [Spin-cock](abilities.md#spin-cock) (lever-action guns; STR 35+); [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
