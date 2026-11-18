@@ -669,7 +669,7 @@ game-breaking.
 | 15 | Squeamish | -1 when treating wounds, or when covered in blood |
 | 16 | Claustrophobic | -1 in crawlspaces, vents and tight corridors |
 | 17 | Void-sick | -1 in the open void, on EVA, or in zero gravity |
-| 18 | Glass jaw | Wear-down every 4 shrugged hits instead of 6 (was 2 instead of 3; scaled day 47) |
+| 18 | Glass jaw | Wear-down **two hits sooner**: every 4 shrugged hits instead of 6 (heavy adamantium 6 instead of 8; the power armours 8 instead of 10) (was 2 instead of 3; scaled day 47; the heavier tiers, day 48) |
 | 19 | Slow learner | -0.1 for every 10 hours of training |
 | 20 | Superstitious | -1 on rolls after a bad omen (Morcant's cursed galley) |
 | 21 | Frail | -1 on STR rolls to haul, carry, climb or breach |

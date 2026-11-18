@@ -126,3 +126,4 @@ Each has the DM's recommended answer. Until answered, the rule stands as written
 - **Kill reps** (Q24): every melee kill trains STR, whatever stat the swing used; shots and throws train DEX.
 - **Small ones (Q25), one at a time.** (1) **Who takes a hit for a boss:** only the Bodyguard role; the template's 'any guard on a d6 4-6' was the DM's line and is removed.
   (2) **The Disowned (Vostroyan Firstborn):** they no longer waver when their officer falls; their gear rolls one wealth level richer (heirlooms).
+  (3) **Glass jaw:** two hits sooner on every tier (4, 6, 8).
