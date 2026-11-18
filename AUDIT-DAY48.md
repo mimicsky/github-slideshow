@@ -106,3 +106,4 @@ Each has the DM's recommended answer. Until answered, the rule stands as written
 - **Assail** (Q5): stays at chains of up to 3 a beat; the 'like throwing knives' comparison is gone (knife strings are 2).
 - **Seal of mercy's burn** (Q6): the burned patch heals the patient fully, back to their full number, from any state (Down included).
 - **Unbroken seal's burn** (Q7): the hit that would take you Down does nothing; your number stays where it was.
+- **Commoners and their preacher** (Q10): the Zealot's ability wins: while the preacher stands, they don't break at all. General rule: a role's ability beats a league's rule where the two clash.

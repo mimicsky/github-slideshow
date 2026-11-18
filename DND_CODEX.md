@@ -827,7 +827,7 @@ What the DM has always done, written down so anyone can run it.
   player, Ash on Ostrava session 10): **1-10 they surrender, 11-16 they keep fighting, 17-20 they run.**
   League shades it: **cultists** rarely surrender, so for them only **1-5 surrenders** (6-16 fight on), unless
   their **leader** has just fallen, when the normal 1-10 applies (bestiary roles, Leader: 'more likely to
-  surrender, even fanatics'). Pirates and traitors fall back to better ground rather than give up early. **Commoners are brittle:** they check at **a third Down** (or their leader's fall) and **break on 1-10** (run or surrender; a preacher among them makes it 1-6: bestiary commoners.md).
+  surrender, even fanatics'). Pirates and traitors fall back to better ground rather than give up early. **Commoners are brittle:** they check at **a third Down** (or their leader's fall) and **break on 1-10** (run or surrender; **while their preacher, a zealot, stands they don't break at all**: bestiary commoners.md; roles.md, Zealot). **A role's ability beats a league's rule where the two clash** (the player, day 48).
   (An enforcer still stops breaking while it stands: bestiary roles.) A group that keeps fighting can be
   checked again the next time its losses jump (another quarter Down).
 - **Down enemies, after the fight:** d6 each, **1-3 dead, 4-6 alive but out** (prisoners, questioning). **Only those who stopped at exactly 1.0:** an enemy taken below 1.0, or hit again while Down, is already dead (house rule 4; the player, day 48).

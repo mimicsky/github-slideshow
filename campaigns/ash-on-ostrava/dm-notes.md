@@ -1561,3 +1561,4 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 - **SETTLED (the player, day 48): the psyker quick power ASSAIL keeps chains of up to 3 a beat (its own number; knife strings stay 2).**
 - **SETTLED (the player, day 48): THE SEAL OF MERCY'S BURN: the patch heals the patient FULLY (back to their full number, from any state, Down included): 'it's kind of a grind to get it'.**
 - **SETTLED (the player, day 48): THE UNBROKEN SEAL'S BURN: the hit that would take you Down does nothing (the number stays where it was).**
+- **SETTLED (the player, day 48): A ROLE'S ABILITY BEATS A LEAGUE'S RULE where they clash. So commoners don't break at all while their preacher (a zealot) stands; once he falls they check at a third Down, 1-10. (Was 'a preacher makes it 1-6'.) commoners.md, codex Breaking and Down, fight card, roles.md intro.**

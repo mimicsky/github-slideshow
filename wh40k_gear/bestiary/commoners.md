@@ -18,7 +18,9 @@ people with guns). Rolled with `../roll_enemy.py commoner COUNT [WEALTH]`.
   ditch and hedge, so on home ground they get the first shot. They don't advance into fire and they don't
   chase far.
 - **Brittle:** not soldiers. **When a third of them are down, or their leader falls, roll a d20 for the group:
-  1-10 they break** (run, or throw down their guns and surrender). A preacher in the group makes it **1-6**.
+  1-10 they break** (run, or throw down their guns and surrender). **While a preacher (their zealot) stands, they don't break at all**
+  (the Zealot's ability wins over the league's rule; settled by the player, day 48: it was 'a preacher makes it 1-6').
+  Once he falls, they check as above.
 - **They can be talked down.** Persuasion, Intimidation or a show of the Inquisition's rosette works on them
   where it wouldn't on cultists: **+2** to the roll if they're already losing, **-2** if you've hurt one of their
   own. Many would rather be on the right side.
