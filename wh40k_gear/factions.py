@@ -34,6 +34,6 @@ F = [
  {"name":"The Unburied, Death Korps of Krieg (fallen company)","type":"traitor_elite","favoured":["Lasgun, Lucius No.98","Hot-shot volley gun","Heavy flamer"]},
  {"name":"The Sand-Ghosts, Tallarn (fallen company)","type":"traitor_elite","favoured":["Long-las, Mezoa","Lascarbine, Accatran Mk IV","Meltagun"]},
  {"name":"The Disowned, Vostroyan Firstborn (fallen company)","type":"traitor_elite","richer":1,"favoured":["Lasgun, Kantrael M36 (heirloom)","Boltgun, Godwyn pattern","Hellgun, Ryza pattern"]},
- {"name":"The Green Hell deserters, Catachan (fallen company)","type":"traitor_elite","favoured":["Lasgun, Kantrael M36","Flamer, Ryza pattern","Heavy stubber"]},
+ {"name":"The Green Hell deserters, Catachan (fallen company)","type":"traitor_elite","favoured":["Lasgun, Kantrael M36","Flamer, Ryza pattern","Heavy stubber","Catachan shotgun"]},
  {"name":"The Broken Badge, renegade Arbites (fallen precinct)","type":"traitor_elite","favoured":["Arbites combat shotgun (shock shells)","Combat shotgun, semi-auto","Web pistol, Arbites pattern"]},
 ]
