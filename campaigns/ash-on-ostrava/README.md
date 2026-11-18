@@ -50,7 +50,7 @@ once and write the ruling into the roster** before rolling. Then:
 - [`../../wh40k_gear/bestiary/README.md`](../../wh40k_gear/bestiary/README.md), top paragraph: a special team's bonuses
   (+5 STR/DEX levels, +1 other rolls, armour one step better). Then the team's own entry (look, tactics: play them that way).
 - [`../../wh40k_gear/bestiary/roles.md`](../../wh40k_gear/bestiary/roles.md): every enemy role in the fight (leader, duelist, jumper, herder...).
-- Codex house rule 4, "Some roles and gear add more": extra health stages, stimms, blessings.
+- Codex house rule 4, Health (the number and its state; a step 1.0, a half step 0.5) and "Some roles and gear add more": bigger and short tracks, stimms, blessings.
 - **Who never surrenders:** cultist duelists, the Moebian 6th, poxwalkers (mindless); enforcers stop breaks.
 - **Who can call for help (day 47):** any vox man or vox-caster: he spends his beat calling when the fight turns; once the call is out, each beat a d6 5-6 brings a quarter of the starting force (codex Part 8, Enemy numbers and tactics; bestiary roles, Vox). **Track it every beat.** **Cap (the player, day 47): when the call goes out, roll a d10 once: that's the most reinforcement groups that can come for this fight** (each arrival counts one; at the cap, no more).
 
@@ -96,7 +96,7 @@ Then roll.
   step against armour that would have shrugged it; wear-down). Refractor field rolls.
 - **Melee:** codex house rule 5, **the exchange** (opposed rolls, block 1-2 higher, parry 3+, a raw 17+ can't be stopped), **melee chains** (resolve a chain swing by swing; **a parry ENDS the chain**, a block lets it carry on), which stat, two weapons, shields.
 - **Knife bouts on the mat** (codex Part 6, Matches, bouts and knife bouts): **d20 + DEX each, no specialties** (Tamsin adds his proficiency: +12, 8 DEX + 4); **vital (2 hits) only on a raw 17+ or a win by 5+, otherwise minor (1)**: no location rolls; first to 2 hits takes the round, first to 5 rounds the bout. (Added day 36 after Kell's bout was first run at +6 STR and specialty.)
-- Health steps, extra stages, Down (codex Part 6, Breaking and Down).
+- Health numbers and steps (4.0 Fine, 3.0 Hurt, 2.0 Badly hurt, 1.0 Down; halves), bigger tracks, Down (codex house rule 4; Part 6, Breaking and Down).
 
 **9. After the beat, then the reply** (fight card §8-§9).
 - **Count, for each person, in their Full kit row** (counts; the history goes to `inventory.md`, Ammo and condition log): ammo (packs: hot-shot 30, las 45), Vigil's heat (vent at 3), every
@@ -166,7 +166,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 - **Enemies get their role tag** in fights, every mention: `Coat guy (gunslinger)`, `Flamer man (flamer)`, `Knife man (grunt)`, `Old Wick (Tallow Boys boss, leader)`.
 - **Full tag on every ally mention**, math lines included: `Tavi (Light-bringer, demolitions)`, never bare `Tavi`. Enemies by bestiary class (`assassin`, `grunt`, `psyker`, `leader`, `beast handler`). **Detail the scene** (sights, sounds, smells, what each person does).
 - **In a fight: the Fight checklist (above) before the first die, the fight card open, and the codex Roll checklist on every roll,** with every bonus shown by name (stat, specialty, order, surprise, gear and eyes, chain, swap, recoil, airborne, health, cover).
-- **'Still up' board at the end of every fight beat:** every enemy standing (tag, health, where, weapon), the Down count, the Light's hurt and key states.
+- **'Still up' board at the end of every fight beat:** every enemy standing (tag, **health as number and state, e.g. `2.5 (Hurt)`**, where, weapon), the Down count, the Light's hurt (with their numbers) and key states.
 - **Narrate each roll line:** a few words of action with the math (`Kell (Light-bringer sergeant, leader) puts one round into Knife crank man: 16+7 = 23, it rips through him, badly hurt`).
 - **Second person** for Tamsin. **Don't act, think or feel for him.** Stop at the first new decision point.
 - **No game terms in the fiction.** NPCs never mention rolls, dice or numbers. **What the player says to the DM out of character never reaches the characters** (slipped day 37: 'they're soldiers' echoed back by the Light). **The *Bright Light* is one main deck, nose to tail** (bridge; briefing room and Tamsin's cabin; the main hatch, cabins and bunk room; the galley; armoury and medicae; shrine and the mat; cargo office and the stair head; the hold with both containers and the range; the hangar and the stores; the enginarium). **The only stair goes DOWN from beside the hold to the small lower deck** (Dace's forge, the two cells, Ferro's workshop, las charging). Nobody goes 'down to the hold' or 'up from the hold'. Check `maps/bright-light.png` (slipped days 37-38). **NPCs know only what they've seen or been told** (slipped day 37: Kell named the 2v2 'pairs' that Tamsin had told only Dace and Ollin).

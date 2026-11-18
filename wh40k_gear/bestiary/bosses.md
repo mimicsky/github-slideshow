@@ -32,7 +32,7 @@ A bar that fills over the campaign, so a boss can turn up in any fight, not only
 
 ## Monster boss template
 
-- **8 health stages:** Fine, Grazed, Bruised, Hurt, Wounded, Badly hurt, Broken, Down.
+- **8 health stages: it starts at 8.0** (numbers: day 48): 8.0 Fine, 7.0 Grazed, 6.0 Bruised, 5.0 Hurt, 4.0 Wounded, 3.0 Badly hurt, 2.0 Broken, 1.0 Down. (A monster's stage names sit where its own list puts them; its penalties are its entry's, not the standard table's.)
 - **Hide, bloat or daemon flesh:** only **solid hits** (beat the number by 3+), **crits, fire and blasts** take a
   stage off it. A plain hit does nothing. (Each entry can name its own exceptions: blessed and force weapons
   against daemons.) **Shots at a big one get +2** (it's a big target).
@@ -52,7 +52,7 @@ A named special character: a Major, a cult leader, a pirate captain, a renegade 
 - **He takes the best of everything rolled for his team**: the best gun, the best armour, the best blade,
   **plus one signature piece** (a rare: `python3 wh40k_gear/dice.py rare weapons`, or a relic with a story).
 - **STR and DEX +6 to +10 each** (d5 + 5 each, rolled separately).
-- **+2 health stages** (Fine, Grazed, Bruised, Hurt, Badly hurt, Down) and **Hard to kill** (+1 on his survival d6).
+- **+2 health stages: he starts at 6.0** (6.0 Fine, 5.0 Grazed, 4.0 Bruised, 3.0 Hurt, 2.0 Badly hurt, 1.0 Down) and **Hard to kill** (+1 on his survival d6).
 - **2 orders a beat** to his people (each +2, acting first).
 - **Bodyguards cover him:** a guard within reach takes a hit meant for him on a **d6 4-6**.
 - **Falls back at Badly hurt** to fight another day, unless he's cornered, or his faction never runs (**the
@@ -92,7 +92,7 @@ A named special character: a Major, a cult leader, a pirate captain, a renegade 
 
 **Enemy Astartes can come as a team, not just one.** When a boss is a Heretic Astartes (a Plague Marine, a
 Chaos Space Marine of any god), **roll a d4: that many come** (1-4), each a full boss (the apex entries'
-rules: power armour, 2 actions a beat, their god's gift), one of them leading (a champion: +2 health stages
+rules: power armour, 2 actions a beat, their god's gift), one of them leading (a champion: +2 health stages, +2.0,
 and his god's gift doubled where it makes sense). They come with what fits their warband (cultists, beasts,
 daemon engines). A team of four is a war: the Light should think hard before standing in the open against it.
 

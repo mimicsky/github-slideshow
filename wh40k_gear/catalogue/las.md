@@ -16,7 +16,7 @@ compact lasgun with the **pack behind the grip** and a **finned heat sink** alon
 
 **Las-SMG, 'Sterl' pattern** (player design, uncommon, 3 TV). Side-mounted pack.
 Shot chains up to 6; low recoil: a miss doesn't give -1 to the next shot. Small
-punch: against carapace 2 hits count as one lasgun hit; useless against power
+punch: against carapace 2 hits count as one lasgun hit (each is shrugged and counts half toward wear-down); useless against power
 armour. **Takes a regular las pack: 45 shots** (about 7 strings of 6; audit C8, day 47).
 
 ## Las-box, 'Kasr Barr' pattern light las-LMG
@@ -82,8 +82,8 @@ uncommon, 3 TV; Munitorum, black market, Free Traders). A boxy, rectangular body
 holding cell and crystal, a long barrel, no stock; **the pack goes in the bottom of
 the grip** like a magazine (30 shots). One-handed, made to pair with a melee weapon
 (jumpers). **Full-auto chains of up to 10; -1 on every shot in the chain, no hit
-bonuses** (misses still -1). **Hits like a laspistol: against flak or carapace, 2 hits
-count as 1.**
+bonuses** (misses still -1). **Hits like a laspistol: against flak a hit is half a step (0.5); against carapace it's shrugged and
+counts half toward wear-down** (the old '2 hits count as 1'; numbers: day 48).
 
 ## Las-LMG, 'Kasr Rain' suppression pattern
 
@@ -187,7 +187,7 @@ A longer hot-shot pack: **40 shots instead of 30**, same punch. Fits anything th
 
 Designed by the player, Ash on Ostrava day 48, because laspistols were the Sixth's sidearm and we had only six.
 Rarity, price and pattern names: the DM's call. **A standard laspistol is the baseline:** regular las pack (45 shots),
-laspistol punch (against flak or carapace, 2 hits count as 1).
+laspistol punch (against flak a hit is half a step, 0.5; against carapace it's shrugged and counts half toward wear-down).
 
 ### Auto laspistol, 'Kasr Swarm' pattern
 

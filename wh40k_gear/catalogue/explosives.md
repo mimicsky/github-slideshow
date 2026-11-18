@@ -200,7 +200,7 @@ Set by the player, Ash on Ostrava session 10.
 
 - **Throwing:** d20 + DEX (+ the grenadier specialty, e.g. Hollis +2) against the DM's hidden number for
   the spot you want (codex, Shots and hits). **Hollis's near-miss:** miss by 1-2 and it still lands close,
-  at half effect. Miss by more and it lands somewhere else. **A natural 1 lands at the thrower's feet.**
+  at half effect (half a step, 0.5, where the full hit drops a step). Miss by more and it lands somewhere else. **A natural 1 lands at the thrower's feet.**
 - **Frag:** everyone within **~5 m** drops a step. Anyone who sees it coming gets a **dive roll** (DEX) to get
   clear. Cover that doesn't close over them doesn't help.
 - **Impact frag** (Ottrick's conversion; two red tape bands on the cap, standard frags have one): bursts on

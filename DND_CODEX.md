@@ -24,7 +24,7 @@ by narrative mode (house rule 4): open them only if the player asks for full rul
 | Section | Read |
 | --- | --- |
 | **Part 6:** the settings table, "How the player likes to play" | **Always** |
-| **Part 6, house rules 1-6:** near-miss, variant pairing, hidden DCs, narrative mode (health states), the exchange, shot chains | **Always** |
+| **Part 6, house rules 1-6:** near-miss, variant pairing, hidden DCs, narrative mode (health numbers and states), the exchange, shot chains | **Always** |
 | **Part 6:** Cover, Roll checklist (with Stacking), A beat, Shots and hits, Breaking and Down, Matches, bouts and knife bouts | **Always** |
 | **A fight is on or starting:** the campaign's **Fight checklist** (Ash on Ostrava: the campaign README), every step, before the first die | **Always, in every fight** |
 | **Part 7:** Describing the world (no option menus, layout is free) | **Always** |
@@ -110,7 +110,7 @@ Standing preferences, set during play. They apply to every campaign.
 - **Enemies carry their role tag** (set by the player, Ash on Ostrava session 10). In a fight, every enemy with a bestiary role is named by a short descriptor plus the role, every mention, so the player knows who is who: *Coat guy (gunslinger)*, *Chain-axe guy (berserker)*, *Flamer man (flamer)*; rank and file are *(grunt)*. A named enemy gets both: *Old Wick (Tallow Boys boss, leader)*.
 - **Full name and role on every mention, everywhere** (set by the player, Ash on Ostrava session 10). Every ally carries their full tag from the kit table each time they appear: in the math lines, the dice lists and the scene, not only the first time: *Tavi (Light-bringer, demolitions)*, *Kell (Light-bringer sergeant, leader)*, *Tey (Light-bringer, gunslinger)*. A short 'Tavi 1, Sorel 14: missed' is wrong. **The name is the one in the Full kit's first column** (Dace, Isk, Kell): never add a surname the table doesn't give (set by the player, Ash on Ostrava day 34, after made-up surnames slipped in). Enemies use their bestiary class, never a made-up word: *Grate man (assassin)*, not *(blade)*.
 - **Detail the scenes** (set by the player, same session). Show what it looks, sounds and smells like, and what each person in the shot is doing, so the player can picture it; keep the math lines compact and the detail in the scene.
-- **'Still up' board at the end of every fight beat** (set by the player, Ash on Ostrava session 10). After the scene's math, list every enemy still standing (tag, health, where, what they hold), the Down count, and the Light's hurt and key states (heat, ammo, hazards), so the player can plan the next beat.
+- **'Still up' board at the end of every fight beat** (set by the player, Ash on Ostrava session 10). After the scene's math, list every enemy still standing (tag, health number and state, where, what they hold), the Down count, and the Light's hurt and key states (heat, ammo, hazards), so the player can plan the next beat.
 - **Narrate each roll line** (set by the player, Ash on Ostrava session 10). A math line says what happened in a few words, not just the numbers: *Kell (Light-bringer sergeant, leader) puts one round into Knife crank man: 16+7 = 23, it rips through him, badly hurt.* The full scene still follows.
 - **Dialogue as a script.** Speech is written in play format, one line per
   speaker: `Kell (Light-bringer sergeant, leader): "line"` (speech inside quotation marks; the player, Ash on Ostrava day 36). Action and description stay as prose
@@ -255,18 +255,34 @@ What stays on:
   rather than through a hit point total.
 - **Hidden DCs, told saves, no option menus.** All unchanged.
 
-**Health as a state, not a number** (penalties set by the player, Ash on Ostrava session 10):
+**Health: a number that names a state** (states and penalties set by the player, Ash on Ostrava session 10; **the numbers
+and half steps set by the player, day 48**):
 
-| State | Meaning | Effect |
-| --- | --- | --- |
-| Fine | Untouched or scratched | none |
-| Hurt | Bleeding, slowed, still dangerous | **-1 on rolls** |
-| Badly hurt | One more bad exchange from going down | **-2 on rolls, no sprint** (a short move only) |
-| Down | Out of the fight unless a medic patches them back to Hurt. **Enemies:** d6 after the fight, 1-3 dead. **The Light:** alive; dies only if finished off or hit again while Down (Part 6, Breaking and Down) | out |
+| Health | State | Meaning | Effect |
+| --- | --- | --- | --- |
+| **4.0** (and 3.5) | Fine | Untouched or scratched | none |
+| **3.0** (and 2.5) | Hurt | Bleeding, slowed, still dangerous | **-1 on rolls** |
+| **2.0** (and 1.5) | Badly hurt | One more bad exchange from going down | **-2 on rolls, no sprint** (a short move only) |
+| **1.0** or less | Down | Out of the fight unless a medic patches them back to Hurt. **Enemies:** d6 after the fight, 1-3 dead. **The Light:** alive; dies only if finished off or hit again while Down (Part 6, Breaking and Down) | out |
+
+- **A step is 1.0.** Everything written in steps works as it always has: a hit drops **1.0**, a crit one more, "an extra
+  step" is 1.0 more, "two steps" is 2.0.
+- **A half step is 0.5** (the player, day 48): for weak weapons, half effects and anything an entry calls half a step.
+  **The state only changes at the whole number:** 3.5 is still Fine, 2.5 still Hurt, 1.5 still Badly hurt.
+- **Written as the number, then the state:** `Tamsin 4.0 (Fine)`, `Coat guy (gunslinger) 2.5 (Hurt)`, on the sheet, in the
+  DM notes and on the 'Still up' board.
+- **Patches give back 1.0** (bestiary roles, Medic): Badly hurt to Hurt, Hurt to Fine; **a Down patient comes back at 3.0
+  (Hurt)**. Never above their full number.
+- **What does half a step now:** a near-miss "half effect" where the full effect is a step (Hollis's grenades, a mortar's
+  near-miss); laspistol-punch guns against flak (catalogue las.md). More as the player sets them.
 
 **Some roles and gear add more, so check them** (each in its own entry):
-- **Extra health stages** (each a free step before Hurt, no penalty): **Zealot** +1 (Grazed), **Skitarius** +1 (Grazed),
-  **Ogryn** +3 (Grazed, Bruised), **Brute / mutant** +2. All in `wh40k_gear/bestiary/roles.md`.
+- **Bigger tracks start higher** (the old "extra health stages": each is +1.0 above Fine, with no penalty until 3.0):
+  **Zealot 5.0**, **Skitarius 5.0**, **Brute / mutant 6.0**, **Mutant charger 6.0**, **Ogryn 7.0**, **human bosses 6.0**,
+  **monster bosses 8.0**. All in `wh40k_gear/bestiary/roles.md` and `bosses.md`.
+- **Short tracks** (beasts, cyber-mastiffs, poxwalkers): "N health steps" or "N health states" means **N steps to Down**, so
+  they **start at N + 1.0** (a 2-step mastiff at 3.0, a poxwalker at 2.0) and **take no state penalties**: they fight at
+  full until Down (DM's default, day 48).
 - **Ignoring the penalties:** a **stimm** ignores Hurt while it lasts; a **concentrated stimm** makes Badly hurt fight as
   Hurt; **rot-stimm** ignores Hurt and Badly hurt; **berserker** and **chem-doctor** doses ignore Hurt (`drugs.md`;
   roles.md, Berserker and Chem-doctor).
@@ -772,9 +788,9 @@ What the DM has always done, written down so anyone can run it.
   shambling (poxwalkers) +0; walking pace +1; running or fast +2; abnormally fast (jump packs, bikes and
   vehicles, beasts or daemons at the charge) +3**. **A small or precise shot** (an arm, a leg, a lamp, a hand): **+1**. (Both set by the player, day 47.)
   The shooter's total (roll checklist) must reach it. Melee between people uses the exchange (house rule 5) instead.
-- **Damage:** a hit drops the target **one health step** (Fine → Hurt → Badly hurt → Down),
+- **Damage:** a hit drops the target **one health step, 1.0** (4.0 Fine → 3.0 Hurt → 2.0 Badly hurt → 1.0 Down; house rule 4),
   **unless their armour stops that kind of weapon** (Part 8, Armour: "shrugs off" means no step for that hit, but **shrugged hits wear them down**: every 6 drop a step, every 10 for power armour; day 47).
-  Extra health stages (zealots, Skitarii, Ogryns, brutes) add steps before Down.
+  Bigger tracks (zealots, Skitarii, Ogryns, brutes, bosses) start above 4.0; a half step is 0.5 (house rule 4).
 - **Crit:** drops **one extra step** (crit ranges: a natural 20 for most; Tamsin 19-20; Vigil 17-20 with heat).
 - **"Solid hit"** (wording some gear uses): the total **beats the hidden number by 3 or more**.
 - **Example:** a cultist behind crates (+2) at normal range: target 17. Tamsin rolls 12 + 7 DEX + 4 proficiency = 23:
@@ -939,13 +955,13 @@ steering. It never comes unprompted.
 
 ### Combat
 
-*Superseded by narrative mode (house rule 4): health states, not HP or initiative.*
+*Superseded by narrative mode (house rule 4): a small health number and its state, not D&D hit points or initiative.*
 
 I apply monster tactics honestly. Enemies flee, focus fire, and use their abilities.
 
 ### Failure states
 
-*Superseded: no HP or death saves. Health states (house rule 4); the Light dies only if finished off or hit again while Down (Part 6, Breaking and Down).*
+*Superseded: no D&D hit points or death saves. Health numbers and states (house rule 4); the Light dies only if finished off or hit again while Down (Part 6, Breaking and Down).*
 
 Death is on the table.
 I won't kill you out of nowhere, but I also won't rescue you from a choice you

@@ -68,7 +68,7 @@ their own sentences.
   ahead to pin the runners. Web and stun first, to take prisoners; they kill
   the ones who won't kneel. They never surrender. They are at their best indoors
   and weakest in the open at range.
-- **Team rules:** **one in three comes with a cyber-mastiff** (2 health steps; pins
+- **Team rules:** **one in three comes with a cyber-mastiff** (2 health steps: it starts at 3.0; pins
   like a beast handler's beasts). **"HALT!", once a fight per team:** their leader's
   command makes one target in earshot save on WIS against 13 or hesitate (-2 on
   their next roll).

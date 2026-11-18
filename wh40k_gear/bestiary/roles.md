@@ -82,7 +82,7 @@ they throw even when it puts their own team in danger, and they throw several
 grenades into the same spot.*
 
 *Side note: the Light's grenadier (Hollis): **a grenade or launcher shot that misses
-by 1-2 still does half effect** (the role's rule; his specialty stays +2 on launcher
+by 1-2 still does half effect: half a step (0.5) where the full hit drops a step** (the role's rule; his specialty stays +2 on launcher
 shots) (changed with the player, day 36 cleanup).*
 
 ## Heavy gunner
@@ -174,8 +174,9 @@ run into you and blow themselves up.*
 
 **Who has it:** all five leagues.
 
-Stays behind the line and drags the wounded back. **Patches one ally a beat: moves
-them back one health state, once per person** (Down to Hurt, Hurt to Fine); **can't
+Stays behind the line and drags the wounded back. **Patches one ally a beat: gives
+them back one health step (+1.0), once per person** (Badly hurt to Hurt, Hurt to Fine; **a Down
+patient comes back at 3.0, Hurt**; never above their full number; numbers: day 48); **can't
 bring back the dead.** **The patch roll (set by the player, Ash on Ostrava session 10): d20 + WIS + 4
 against a normal target, the same every time: no penalty for worse wounds or for being under fire;
 it's their job and they're used to it. The near-miss rule applies. Hurt to Fine costs only bandages;
@@ -400,7 +401,7 @@ time. Pride is their weakness: they can be baited.
 **Who has it:** cultists, raiders, traitor soldiers, traitor elites.
 
 Huge: a mutant, a renegade Ogryn, a penal monster. **Takes 2 more hits than a
-normal person before going Down** (two extra health steps). Slow-witted and
+normal person before going Down** (two extra health steps: **starts at 6.0**). Slow-witted and
 straightforward: walks at the nearest enemy and hits them. **Can throw big
 objects or smash cover; either takes a beat.** Dumb: can be led into traps, and
 sometimes ignores orders.
@@ -409,7 +410,7 @@ sometimes ignores orders.
 
 **Who has it:** all five leagues.
 
-Comes with **2-3 beasts, 2 health states each** (hounds, mutant dogs,
+Comes with **2-3 beasts, 2 health steps each (they start at 3.0; no state penalties)** (hounds, mutant dogs,
 cyber-mastiffs, warp-hounds) that fight on their own. Sends them first to run the
 party down and pin the wounded.
 
@@ -419,8 +420,8 @@ party down and pin the wounded.
   person **can only defend**. They wait for their team to save them, or **a raw 20
   throws the beast off.**
 
-*Side note: cultist and raider handlers bring **4 beasts with 1 health state
-each**. When the handler dies, they always go wild.*
+*Side note: cultist and raider handlers bring **4 beasts with 1 health step
+each (they start at 2.0)**. When the handler dies, they always go wild.*
 
 *Side note: pirate beasts are far more savage: **+3 to melee and pinning.**
 Killing the handler has no effect on them.*
@@ -610,8 +611,8 @@ Burns with faith, for the Emperor or for a dark god. Fights in front and never
 stops shouting. **Their side gets +1 on nerve, and while the zealot stands their
 grunts won't flee.** **Once a fight, a great shout: every enemy who hears it makes a
 WIS save or takes -1 on their next roll** (a purity seal gives advantage). **Faith
-keeps them up: they have an extra health stage** (Fine, Grazed, Hurt, Badly hurt,
-Down). **Divine intervention: whenever a hit is about to land on them, roll a d20; on
+keeps them up: they have an extra health stage** (**they start at 5.0**: 5.0 Fine, 4.0 Grazed, 3.0 Hurt, 2.0 Badly hurt,
+1.0 Down). **Divine intervention: whenever a hit is about to land on them, roll a d20; on
 a natural 20 they get out of the way, as if something moved them.**
 
 *Side note: when a cultist zealot dies, the cultists near them frenzy for a beat: +1
@@ -638,7 +639,7 @@ human, obeying their Tech-Priests through data-links. Corrupted ones serve heret
   target).
 - **Stats:** STR 30-45, DEX 35-50. **Built-in augmetic eyes:** +1 on shots, can't be
   blinded.
-- **Machine body:** one extra health stage: **Fine, Grazed, Hurt, Badly hurt, Down.**
+- **Machine body:** one extra health stage: **it starts at 5.0** (5.0 Fine, 4.0 Grazed, 3.0 Hurt, 2.0 Badly hurt, 1.0 Down).
   No bleeding, no fear, immune to gas.
 - **Data-link:** if their Tech-Priest or heretek is in the fight, they act **first**
   every beat.
@@ -665,7 +666,7 @@ orders people to kneel, takes prisoners for confession and kills the ones who wo
 - **Shield:** a **suppression shield (+2 to block or parry, three-quarters cover from
   the front)** and a shock maul; **a maul hit staggers the target: -2 on their next
   roll.** Advances behind the shield and holds doorways.
-- **Hound:** an Arbites combat shotgun and a **cyber-mastiff (2 health steps)** that
+- **Hound:** an Arbites combat shotgun and a **cyber-mastiff (2 health steps: it starts at 3.0, no state penalties)** that
   runs ahead and **pins like a beast handler's beasts** (pinned: melee, can only
   defend; a raw 20 throws it off). If the arbitrator goes Down, the mastiff stands
   over him and attacks whoever comes closest.
@@ -774,8 +775,9 @@ kitted.)
 A giant abhuman, about 3 m tall: dumb, loyal, and it hits like a truck.
 
 - **Stats:** **STR 60-80** (+6 to +8), **DEX 10-20** (+1 to +2). Terrible shot.
-- **Size:** **three extra health stages: Fine, Grazed, Bruised, Hurt, Badly hurt,
-  Down.** **Big target: shots at an Ogryn get +2.**
+- **Size:** **three extra health stages: it starts at 7.0** (7.0 Fine, then 6.0, 5.0 and 4.0 before 3.0 Hurt,
+  2.0 Badly hurt, 1.0 Down). *(Flagged to the player, day 48: the old list named only two extra stages, Grazed and
+  Bruised, and the Plague Ogryn at Fourteen was played with two; the count 'three' stands until the player says.)* **Big target: shots at an Ogryn get +2.**
 - **Kit (by type):** slab shield and a maul, a ripper gun, or a grenadier gauntlet
   (a fist-mounted launcher).
 - **Charge:** once a fight, it runs at an enemy; on a hit the target is knocked flat,
@@ -840,7 +842,7 @@ A long-limbed, twisted mutant that hunts one target at a time. **Charge (any bea
 it sprints ~30 m and grabs: the target makes a **DEX dodge against its STR roll**; a fail and it's **grabbed**:
 the charger drags them ~10 m away from their friends, toward its own side, slams them down (a step) and holds
 them. **Grabbed:** can't act except to break free (STR against its STR) until the charger goes Down or takes a
-solid hit. **Two extra health steps** (like a brute). No guns.
+solid hit. **Two extra health steps** (like a brute: **it starts at 6.0**). No guns.
 
 ## Mortar team
 
@@ -850,7 +852,7 @@ day 47.)
 A **two-man team** (gunner and loader) with a light mortar, **set up out of sight** (behind a wall, a building,
 a ridge) and fed targets by a spotter, a vox or its own eyes. **Indirect fire:** one round a beat onto any spot
 it knows of within ~300 m (d20 + DEX against the DM's hidden number for the spot; the near-miss lands close at
-half effect, as Hollis's grenades). **Frag rounds:** everyone within ~5 m drops a step, and **only cover
+half effect, as Hollis's grenades: half a step, 0.5). **Frag rounds:** everyone within ~5 m drops a step, and **only cover
 overhead helps** (a roof, not a wall or a parapet). **Smoke rounds:** as smoke grenades. **Walking it in:** the
 first round at a new spot is -2; after a hit, the next on the same spot +2. **Special rounds** (flare, incendiary, choke, airburst, krak, cluster; scrap loads): catalogue scrap.md, Mortar rounds (day 48). **Killing it:** find it (Perception,
 the cough of the tube, a spotter's sightline), flank it, or answer it (Six Bells, the ship).

@@ -117,7 +117,7 @@ braced only, **a pack holds 12 shots**. On the [attachment sheet](attachments.md
 Valkyrie can carry): 6 rockets. Each bursts over its target into a spray of
 bolt rounds: everyone within ~6 m is hit through carapace. Fire 1-2 a pass.
 - **Aiming (DM default, day 47):** the pilot rolls **d20 + DEX** against the hidden number for the spot, like a
-  grenade throw; **miss by 1-2 and it still bursts close, at half effect.**
+  grenade throw; **miss by 1-2 and it still bursts close, at half effect (half a step, 0.5).**
 - **Reload:** **6 rockets, 12 TV** (rare; Munitorum, Free Traders); reloading takes a landing and ~10 minutes.
 
 ## Las-cannon, medium tripod emplacement

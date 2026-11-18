@@ -23,7 +23,7 @@ Munitorum never cured. Now they spread it on purpose.
   regiment. Whoever fights them rarely comes out well.
 - **Poxwalkers (DM default, Ash on Ostrava session 10; the player may change it):** the plague-dead
   the 6th drive ahead of them, people rotted into a moaning swarm. **Slow:** about 5 m a beat, never
-  sprint. **No armour, no guns:** claws, teeth, old tools. **One health state:** any hit drops one,
+  sprint. **No armour, no guns:** claws, teeth, old tools. **One health step (it starts at 2.0; no state penalties):** any hit drops one,
   but they're **disgustingly resilient**: a hit that isn't solid (and isn't a crit or fire) gets back
   up next beat on a d6 6 (roll the batch). **Mindless:** no break checks, never surrender. **In
   contact,** the swarm makes one attack a beat on each person it reaches (d20 +2): a hit drops a step
@@ -46,7 +46,7 @@ Munitorum never cured. Now they spread it on purpose.
 - **Poxbursters (set by the player, day 47):** walkers bloated to bursting. Unlike the others they
   **sprint** (~30 m a beat) at the nearest living and **burst on contact or when hit**: everyone within
   ~5 m drops a step (a blast) and makes a **CON save vs 13 or the rot**. Shot down at range, it bursts
-  where it falls. One health state; any hit bursts it. **In a swarm: a d6 for every twenty walkers, 1-2
+  where it falls. One health step (it starts at 2.0); any hit bursts it. **In a swarm: a d6 for every twenty walkers, 1-2
   means one of them is a burster** (seen in the fiction: swollen, glistening, running).
 - **Pox hounds (set by the player, day 47):** the 6th's hounds, rotted with the plague. **2 health
   states, fast (~40 m a beat).** They **pounce**: a DEX dodge, or the target is knocked flat and
