@@ -4004,6 +4004,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Shot-revolver, 'Kasr Magistrate' officer's pattern (gilded six-shell revolver; also takes stub revolver rounds; close blast inside ~10 m; Fan the Hammer)",
+  "tv": 8,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
   "name": "Tin-can bomb (light it; ~3 m weak frag; the timing's off, duds on a 1)",
   "tv": 0.1,
   "cat": "explosive",

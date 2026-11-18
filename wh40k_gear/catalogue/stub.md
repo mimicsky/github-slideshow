@@ -392,6 +392,20 @@ rate of fire).
 - **Slots:** the top rail (optic), the handguard (laser and lumen, under-barrel), a stock on the buffer tube, a muzzle
   on the stub barrel. No barrel slot; the drum is built in.
 
+## Shot-revolver, 'Kasr Magistrate' officer's pattern
+
+**Shot-revolver, 'Kasr Magistrate' officer's pattern** (rare, 8 TV; Munitorum officers' issue, Free Traders; the player's design, Ash on Ostrava day 48: the old
+Taurus Judge done in 40k; name, price and the numbers he didn't set: the DM's). A **six-chamber revolver that fires
+shotgun shells**: a lieutenant's or a commander's sidearm, **gilded and engraved, an aquila on the grip** (ornamental:
+**no bonus from the gilt**; it marks the bearer as an officer).
+- **A pistol shotgun:** the close blast **inside ~10 m** (codex Part 8, Armour); **-2 past ~10 m**; no clip on a miss.
+  Special shells load (a man-stopper slug makes it a hand cannon: one target, no spread).
+- **Shells or stub rounds:** as the real Judge, **it chambers stub revolver rounds too**: load either, or mix them; a
+  stub round fires as a stub revolver.
+- **Strings of 3, recoil 1** (a revolver); [Fan the Hammer](abilities.md#fan-the-hammer) (all 6 at -2 each).
+- **Reload:** round by round, half a beat per 2; a speedloader makes it half a beat. It can be topped up from the string.
+- **Who carries it:** leaders and commanders (rare on their kit lists); a human boss's signature piece.
+
 ## Web pistol, Arbites pattern
 
 **Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a
