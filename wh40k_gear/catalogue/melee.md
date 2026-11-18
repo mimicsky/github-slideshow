@@ -686,9 +686,9 @@ it** unless the hit is solid. *Who carries it: commoner, cultist, pirate, raider
 
 **Morning star, Militarum pattern** (common, 1.5 TV; Munitorum, black market; Militarum standard, the player's pick from his picture, day 48). Guard issue: a spiked iron ball on a steel haft, one-handed. **Against no armour or flak, a hit drops an extra step.** **A solid hit staggers: -1 on their next roll.** Carapace shrugs it (wear-down). *Who carries it: pirate, traitor.*
 
-## Officer's pernach, Militarum pattern (winged mace with a rank banner)
+## Officer's pernach (winged mace with a rank banner), Militarum pattern
 
-**Officer's pernach, Militarum pattern (winged mace with a rank banner)** (uncommon, 4 TV; Munitorum: issued to sergeants and officers; Militarum standard, the player's design from his picture, day 48). A winged flanged mace, a mark of rank, one-handed. **A solid hit goes one armour step further** (the flanges). **Built in** (its slots are taken):
+**Officer's pernach (winged mace with a rank banner), Militarum pattern** (uncommon, 4 TV; Munitorum: issued to sergeants and officers; Militarum standard, the player's design from his picture, day 48). A winged flanged mace, a mark of rank, one-handed. **A solid hit goes one armour step further** (the flanges). **Built in** (its slots are taken):
 - **Light and balanced: it chains up to 3 swings a beat**, as a light weapon (the player, day 48; 3, not his first 4).
 - **Ergo grip:** never slips; **-2 to disarm him.**
 - **A cloth banner** on a short staff fixed at the butt. **While he's up, his group reads its break check one closer to fighting on** (as Brave for the whole group: surrender 1-9, fight on 10-17, run 18-20; it doesn't stack with Brave). **No bonus to orders** (the player, day 48: 'that's a lil op').
