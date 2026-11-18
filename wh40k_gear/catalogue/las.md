@@ -145,6 +145,23 @@ splits the shot into a fan of pellets: **brutal on flesh and flak inside ~10 m, 
 a regular las pack (45); **strings of 2**. Fired one-handed by a duelist. (DM default, Ash on Ostrava day 35, Corvane's; moved
 here from his kit row in the day-36 cleanup. His rebuild is schematic 11 on the campaign's `schematics.md`.)
 
+## Las shotgun, 'Kasr Hailstorm' bullpup pattern
+
+**Las shotgun, 'Kasr Hailstorm' bullpup pattern** (uncommon, 4 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48;
+name, price and the numbers he didn't set: the DM's). A bullpup las shotgun: **the pack seats in the stock, right
+behind the pistol grip**, and the stock runs on further down. **Each pull throws ~18 light las pellets that scatter
+everywhere.**
+- **A shotgun with las punch:** the close blast (codex Part 8, Armour): **inside ~15 m, a clean hit on no armour or
+  flak drops 2 steps**; las against armour as any las (reinforced flak shrugs a glancing hit; carapace inplate only on
+  a solid hit; carapace shrugs it).
+- **Scatters everywhere:** **-2 past ~10 m**; **inside ~10 m a miss by 1-3 still clips for 0.5** (other shotguns: 1-2).
+- **A regular las pack (45),** one shot of pack a pull (as the shotlas); it recharges on the ship's coupling.
+- **Built-in pack holder:** a spare pack clips onto the stock; **swapping to it is the short move, not the main
+  thing.** The holder is refilled after the fight.
+- **Strings of 3, no recoil** (las); [Trigger Finger](abilities.md#trigger-finger) (las fired single).
+- **Every attachment slot but the stock** (the bullpup body is the stock): a long top rail (an optic and a second
+  top part), side mounts (lasers, lumens), and a tight bottom rail for an under-barrel part.
+
 ## Extended las pack
 
 **Extended las pack** (uncommon, 0.75 TV; Munitorum, Free Traders; already in the roller's pools; entry

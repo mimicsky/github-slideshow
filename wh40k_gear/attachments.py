@@ -274,7 +274,7 @@ TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b"), ("pp", r"p
          ("hv", r"heavy bolter|autocannon|lascannon|multi-laser"), ("hs", r"heavy stubber"), ("br", r"boltgun"),
          ("hf", r"hand flamer"), ("fl", r"flamer|torch-thrower|promethium sprayer"), ("mg", r"meltagun|melta gun|multi-melta|inferno pistol"),
          ("gl", r"grenade launcher"), ("mo", r"mortar"), ("np", r"needle pistol"), ("nr", r"needle rifle"),
-         ("lr", r"shotlas|hell shotgun"), ("smg", r"submachine|machine pistol|rattler|\bsmg\b|chain-fed autopistol"),
+         ("lr", r"shotlas|hell shotgun|las shotgun|hailstorm"), ("smg", r"submachine|machine pistol|rattler|\bsmg\b|chain-fed autopistol"),
          ("lp", r"laspistol|las pistol|hellpistol|las luger|hell revolver"),
          ("sp", r"autopistol|revolver|stub pistol|stub automatic|hand cannon|boarding pistol|hammerfall|pipe pistol|three-shooter|burst pistol"),
          ("sg", r"shotgun|sawn-off|scattergun|nailer|ripper gun"),
@@ -290,7 +290,7 @@ BUILTIN = [("optic", r"scope|range-finder|sprinter|kasr lance|exemplar|cognis"),
            ("muzzle", r"silenced|suppressed"), ("bayonet", r"bayonet|krieg"), ("tripod", r"tripod"),
            ("barrel", r"heavy barrel|long barrel|long-barrel|stub barrel"), ("stock", r"folding stock"),
            ("load", r"arrows|mortar.*(smoke|krak)"),
-           ("mgrip", r"pernach"), ("pommel", r"pernach")]  # the pernach's built-in ergo grip and banner (day 48)  # a kit that names its arrows has its load
+           ("mgrip", r"pernach"), ("pommel", r"pernach"), ("stock", r"hailstorm")]  # the pernach's built-in ergo grip and banner (day 48)  # a kit that names its arrows has its load
 
 
 def guns_in(text):
