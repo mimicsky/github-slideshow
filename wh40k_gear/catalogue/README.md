@@ -180,6 +180,8 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Shock baton (Arbites)](melee.md#shock-baton-arbites)
 - [Scrap chainsword](melee.md#scrap-chainsword) (pull-cord start; stalls on a raw 1)
 - [Chain glove](melee.md#chain-glove) (worn; bites the wearer on a raw 1)
+- [Scrap saw-axe](melee.md#scrap-saw-axe) (buzz-saw on a pipe; flesh, not armour)
+- [Chain short-sword](melee.md#chain-short-sword) (light, chains of 3)
 - [Great chain axe, 'Butcher' pattern](melee.md#great-chain-axe-butcher-pattern) (two-handed eviscerator-sized chain axe)
 - [Tactical breaching axe, 'Kasr Sapper' pattern](melee.md#tactical-breaching-axe-kasr-sapper-pattern) (plasteel, full tang; +2 to force doors)
 - [Tactical hand axe, 'Fenris' pattern](melee.md#tactical-hand-axe-fenris-pattern) (light, chains of 4; bearded hook; throwable)

@@ -598,3 +598,23 @@ round the outside of the fist.
 - **It runs hot, and any fault bites the wearer:** a **raw 1 on a swing**, roll a **d4**: **3-4 it burns him, 2 it cuts
   him** (both drop him a step; he fights on); **1 it cuts him and the glove comes off** (a step, and a beat to strap it
   back on).
+
+## Scrap saw-axe
+
+**Scrap saw-axe** (common, 1.5 TV; black market; player design, Ash on Ostrava day 48; numbers the DM's call). A
+salvaged circular saw bolted onto a length of pipe: a work tool turned weapon. **A button runs it off a las pack** in
+the haft (charged like any las pack). Medium: **chains of 2.**
+- **Running** (the button is free): **good on meat:** against **no armour or flak, a hit drops an extra step.** **Bad on
+  armour:** the blade skates off plate, so **carapace and heavier shrug it, even on a solid hit** (it still counts toward
+  wear-down).
+- **A las pack runs it ~10 beats.** Flat, it's a **pipe club** with a blade on it (hits like a club).
+Cultists, raiders and commoners carry them.
+
+## Chain short-sword
+
+**Chain short-sword** (uncommon, 4 TV; Munitorum, black market, Free Traders; player design, Ash on Ostrava day 48;
+numbers the DM's call). The middle ground between the chain knife and the chainsword: a short, broad chain blade.
+- **Light: chains of up to 3** (as a knife), and it **bites like a chainsword** (through flak easily, carapace on a
+  solid hit).
+- **Swung with the better of STR or DEX.** No knife's +1 to strike first, but **only -1 to parry two-handed weapons**
+  (a chain knife is -1 against any longer blade).

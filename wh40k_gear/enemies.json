@@ -146,6 +146,10 @@
    [
     "Scrap chainsword",
     "C"
+   ],
+   [
+    "Scrap saw-axe",
+    "C"
    ]
   ],
   "armour": [
@@ -800,6 +804,14 @@
    [
     "Scrap chainsword",
     "C"
+   ],
+   [
+    "Scrap saw-axe",
+    "C"
+   ],
+   [
+    "Chain short-sword",
+    "U"
    ]
   ],
   "armour": [
@@ -1438,6 +1450,10 @@
    [
     "Chain glove",
     "U"
+   ],
+   [
+    "Chain short-sword",
+    "U"
    ]
   ],
   "armour": [
@@ -1989,6 +2005,10 @@
    ],
    [
     "Chain glove",
+    "U"
+   ],
+   [
+    "Chain short-sword",
     "U"
    ]
   ],
@@ -2650,6 +2670,10 @@
    [
     "Scrap chainsword",
     "U"
+   ],
+   [
+    "Scrap saw-axe",
+    "C"
    ]
   ],
   "armour": [
@@ -2904,6 +2928,10 @@
    ],
    [
     "Chain glove",
+    "U"
+   ],
+   [
+    "Chain short-sword",
     "U"
    ]
   ],
