@@ -1551,6 +1551,10 @@
    [
     "Over-under pump shotgun, 'Kasr Twinstack' pattern",
     "U"
+   ],
+   [
+    "Combat shotgun, 'Kasr Switchback' dual-mode pattern",
+    "U"
    ]
   ],
   "melee": [
@@ -2172,6 +2176,10 @@
    ],
    [
     "Over-under pump shotgun, 'Kasr Twinstack' pattern",
+    "U"
+   ],
+   [
+    "Combat shotgun, 'Kasr Switchback' dual-mode pattern",
     "U"
    ]
   ],
@@ -3192,6 +3200,10 @@
    ],
    [
     "Las shotgun, 'Kasr Hailstorm' bullpup pattern",
+    "U"
+   ],
+   [
+    "Combat shotgun, 'Kasr Switchback' dual-mode pattern",
     "U"
    ]
   ],

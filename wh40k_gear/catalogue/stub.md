@@ -362,6 +362,19 @@ between them**, a long-throw pump and a **Monte Carlo stock**.
 - **Slots: one optic, and a muzzle on each barrel** (each affects only its own barrel's shots; the enemy roller fills
   one). Special shells still load. Recoil 1.
 
+## Combat shotgun, 'Kasr Switchback' dual-mode pattern
+
+**Combat shotgun, 'Kasr Switchback' dual-mode pattern** (uncommon, 5 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48,
+after the old SPAS; name, price and the numbers he didn't set: the DM's). A combat shotgun that fires **semi-auto or
+pump**, with a selector near the trigger and a **skeleton stock**.
+- **Mode switch:** free, once a beat, before the string.
+- **Semi mode: strings of 4, recoil 2** (-2 on each shot after the first: it kicks hard; the player, day 48).
+  [Trigger Finger](abilities.md#trigger-finger).
+- **Pump mode: strings of 3, no recoil.** [Slam](abilities.md#slam-push-pull), as any pump.
+- **9-round box magazine** (codex Gear rules, Magazines: a spare is 0.1 TV; a reload in a fight needs a loaded one).
+- **Skeleton stock** (built in): light and quick: **+1 on quick-draws and on swapping targets.**
+- **Every attachment slot but the stock.** Standard shotgun range (the close blast to ~15 m; -2 past ~15 m).
+
 ## Web pistol, Arbites pattern
 
 **Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a
