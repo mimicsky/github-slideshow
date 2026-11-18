@@ -102,7 +102,7 @@ Each has the DM's recommended answer. Until answered, the rule stands as written
 - **What does half a step** (Q17; the DM's pick at the player's call): bare hands; the tin-can bomb; scrap arrows; a flak shell's near miss; the pipe pistol and 'Cutpurse' holdout past ~10 m, the 'Trinity' pocket revolver past ~20 m, the rivet gun past ~15 m, the nailer past ~5 m, the junk shotgun past ~8 m (plus near-miss blasts and laspistol punch on flak from before). The Graia autogun: every third hit in a chain gets through carapace.
 - **The punchier laspistols** (Q18): the Marksman 'Longeye', the Commissar's 'Exemplar' and a charge-hold shot do a full step (1.0) against flak and reinforced flak.
 
-**Still open after the nine:** Q5-Q7, Q10-Q13, Q15-Q16, Q19-Q25 in Part 1 (smaller ones), and the Plague Ogryn boss's starting number.
+**All of Part 1 is now settled** (Q1-Q25 and the Plague Ogryn's start, day 48); the answers are below.
 - **Assail** (Q5): stays at chains of up to 3 a beat; the 'like throwing knives' comparison is gone (knife strings are 2).
 - **Seal of mercy's burn** (Q6): the burned patch heals the patient fully, back to their full number, from any state (Down included).
 - **Unbroken seal's burn** (Q7): the hit that would take you Down does nothing; your number stays where it was.
