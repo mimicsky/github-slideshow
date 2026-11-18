@@ -4564,11 +4564,11 @@
   "sellers": "MBE"
  },
  {
-  "name": "Studded jian (iron bar-club), 'Kasr Rod' pattern (a four-sided iron bar with studs on a sword's grip; a solid hit at 2+ over)",
-  "tv": 0.75,
+  "name": "Studded jian (scrap iron bar-club: a four-sided iron bar with studs on a sword's grip; a solid hit at 2+ over)",
+  "tv": 0.5,
   "cat": "melee",
   "rarity": "C",
-  "sellers": "MB"
+  "sellers": "B"
  },
  {
   "name": "Blacksmith's hammer (one-handed, heavy: -1 to parry; a shrugged hit still counts 2 toward wear-down)",
@@ -4604,6 +4604,20 @@
   "cat": "melee",
   "rarity": "C",
   "sellers": "B"
+ },
+ {
+  "name": "War maul, Militarum pattern (two-handed great hammer, STR 30+; through carapace on a solid hit, a solid hit drops an extra step; -1 strike first)",
+  "tv": 4,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Morning star, Militarum pattern (spiked ball mace: +1 step on no armour or flak; a solid hit staggers)",
+  "tv": 1.5,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
  },
  {
   "name": "Riot shield (+1 block; half cover from the front)",

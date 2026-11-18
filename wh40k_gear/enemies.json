@@ -190,6 +190,10 @@
    [
     "Ball mace (scrap)",
     "C"
+   ],
+   [
+    "Studded jian (scrap iron bar-club)",
+    "C"
    ]
   ],
   "armour": [
@@ -898,10 +902,6 @@
     "U"
    ],
    [
-    "Studded jian (iron bar-club), 'Kasr Rod' pattern",
-    "C"
-   ],
-   [
     "Scrap thunder hammer",
     "U"
    ],
@@ -915,6 +915,10 @@
    ],
    [
     "Ball mace (scrap)",
+    "C"
+   ],
+   [
+    "Studded jian (scrap iron bar-club)",
     "C"
    ]
   ],
@@ -1599,15 +1603,19 @@
     "U"
    ],
    [
-    "Studded jian (iron bar-club), 'Kasr Rod' pattern",
-    "C"
-   ],
-   [
     "Flanged mace (scrap)",
     "C"
    ],
    [
     "Ball mace (scrap)",
+    "C"
+   ],
+   [
+    "Morning star, Militarum pattern",
+    "U"
+   ],
+   [
+    "Studded jian (scrap iron bar-club)",
     "C"
    ]
   ],
@@ -2193,7 +2201,11 @@
     "U"
    ],
    [
-    "Studded jian (iron bar-club), 'Kasr Rod' pattern",
+    "War maul, Militarum pattern (two-handed)",
+    "U"
+   ],
+   [
+    "Morning star, Militarum pattern",
     "C"
    ]
   ],
@@ -2888,10 +2900,6 @@
     "U"
    ],
    [
-    "Studded jian (iron bar-club), 'Kasr Rod' pattern",
-    "U"
-   ],
-   [
     "Blacksmith's hammer",
     "C"
    ],
@@ -2901,6 +2909,10 @@
    ],
    [
     "Ball mace (scrap)",
+    "C"
+   ],
+   [
+    "Studded jian (scrap iron bar-club)",
     "C"
    ]
   ],
@@ -3170,6 +3182,10 @@
    ],
    [
     "War hammer, 'Kasr Anvil' pattern",
+    "U"
+   ],
+   [
+    "War maul, Militarum pattern (two-handed)",
     "U"
    ]
   ],
