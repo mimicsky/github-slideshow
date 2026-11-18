@@ -1783,6 +1783,8 @@ same seal either way: the standing edge, and the burn.
   call: well beyond what was asked, at real risk; rare), the next priest who blesses them **awards the seal that
   fits the act, straight away, whatever the tally says.** The tally is not used up or reset by it.
 - **Risk earns them, asking does not.** (This replaces the old 'honour seals have no mechanical effect'.)
+- **A seal's wax colour alone is only colour.** A seal already on a piece of gear from before this rule (Shameholder's
+  black wax seal) is a keepsake: it has no rules and is nothing to track (the player, day 48).
 
 #### Deed seals
 
