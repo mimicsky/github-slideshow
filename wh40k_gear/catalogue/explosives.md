@@ -156,8 +156,8 @@ it at the thrower's feet.
 
 **Tin-can bomb** (common, 0.1 TV; black market; the player's design, Ash on Ostrava day 47; anyone makes one in minutes
 from a can, gunpowder and a fuse). **Light the fuse yourself** (it needs a flame: lighting it is the beat's move),
-then throw it. A weak frag: **everyone within ~3 m makes a dive roll (DEX) or drops a step; flak and
-heavier shrug it.** **The timing is off, and it can dud:** a d6 when it lands: **1 a dud** (the fuse fizzles out); **2 early** (it bursts
+then throw it. A weak frag: **everyone within ~3 m makes a dive roll (DEX) or drops half a step (0.5); flak and
+heavier shrug it** (half steps: the DM's pick at the player's call, day 48)**.** **The timing is off, and it can dud:** a d6 when it lands: **1 a dud** (the fuse fizzles out); **2 early** (it bursts
 ~3 m short, back toward the thrower); **3-4 on time**; **5-6 late** (a beat later: everyone near it dives at +2, or it can
 be kicked or thrown back).
 Not a pin grenade: no [Cook Off](abilities.md#cook-off).

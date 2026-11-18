@@ -15,7 +15,7 @@ teams (codex Part 8, Faction wealth).
 **Pipe pistol** (common, 0.25 TV; black market; anyone with a workbench builds one in
 an hour). Water pipe, a spring and a nail for a firing pin, wrapped in tape. **One stub
 round, loaded by hand: one shot, then a beat to reload.** Stub-pistol punch (good on
-flesh, poor on flak). **-2 past ~10 m.** **Scrap quirk:** on a natural 1 it jams, and a
+flesh, poor on flak). **-2 past ~10 m, and a hit out there is half a step (0.5)** (half steps: the DM's pick at the player's call, day 48)**.** **Scrap quirk:** on a natural 1 it jams, and a
 d6 of 1 means it **bursts in the shooter's hand** (they drop a health step). Carried by
 poor cultists, gang kids and prisoners: the thing in the boot.
 
@@ -25,7 +25,7 @@ poor cultists, gang kids and prisoners: the thing in the boot.
 muzzle is stuffed with nails, bolts, glass and gravel, and a spark fires it. **One
 blast, then a beat to repack.** **Wide spread:** within ~5 m it hits **up to 2 people
 standing together**, vicious on flesh; **useless against carapace, and flak stops most
-of it. -3 past ~10 m.** **Scrap quirk:** on a natural 1 the canister leaks, and a d6 of
+of it. Past ~5 m a hit is half a step (0.5)** (half steps: the DM's pick at the player's call, day 48)**; -3 past ~10 m.** **Scrap quirk:** on a natural 1 the canister leaks, and a d6 of
 1 sets it alight on the shooter. **Ammo is junk, so the carrier always has it:** a
 looted nailer-user **always carries a bag of scrap** (nails, bolts, gravel, a spare gas
 canister), which counts as scrap salvage. Carried by gangers, sump scum and cultist
@@ -37,7 +37,7 @@ mobs that rush in close.
 safety ripped out, fed by a hose from a pressure tank on the back; punches hot steel
 rivets. **Semi-auto, chains of up to 3, 20 rivets in a hopper.** **Within ~15 m it hits
 like a heavy stub round:** through flak on any hit, through carapace on a solid hit;
-**past ~15 m, -3 and a weak hit.** **Scrap quirk:** a hit on the carrier, on a d6 of 1,
+**past ~15 m, -3 and a weak hit: half a step (0.5)** (half steps: the DM's pick at the player's call, day 48)**.** **Scrap quirk:** a hit on the carrier, on a d6 of 1,
 cuts the hose or bursts the tank, and the gun is dead for the fight. **Loud and
 hissing:** no stealth. Carried by ex-manufactorum workers, gang breachers and raider
 heavies; everywhere on a hive world.
@@ -188,7 +188,7 @@ ducks. Carried by gang runners, cult mobs and raider boarding grunts.
 with its own nail-striker, and a shared pull-string trigger. **Two barrels:** fire one,
 or **both at once** (one shot that lands as two hits up close); then **a beat to reload
 both.** Loose stub shot: **brutal within ~8 m**, good on flesh, flak stops most of it;
-**-3 past ~15 m.** **Scrap quirk:** on a natural 1 **both barrels fire together** (even
+**past ~8 m a hit is half a step (0.5)** (half steps: the DM's pick at the player's call, day 48)**; -3 past ~15 m.** **Scrap quirk:** on a natural 1 **both barrels fire together** (even
 if one was meant) and the kick knocks the shooter flat; they spend the next beat
 getting up. Carried by door guards, gang enforcers and cultists holding a chokepoint.
 
@@ -236,5 +236,5 @@ matters).
 | --- | --- | --- |
 | **Pipe-bomb** | standard | a frag hit within ~3 m; a natural 1 sticks fizzing in the tube (Pipe-bomb mortar). **Duds on a d6 of 1** |
 | **Fire bottle** | common | a ~2 m pool of fire where it lands. **Duds on a d6 of 1** |
-| **Tin-can bomb** | common | as a thrown tin-can bomb (~3 m; a step; flak and heavier shrug it: explosives.md). **Duds on a d6 of 1** |
+| **Tin-can bomb** | common | as a thrown tin-can bomb (~3 m; half a step, 0.5; flak and heavier shrug it: explosives.md). **Duds on a d6 of 1** |
 | **Cracker bundle** | common | a flashbang: -2 within ~4 m. **Duds on a d6 of 1-2** |

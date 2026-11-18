@@ -150,7 +150,7 @@ with the player, Ash on Ostrava day 47, audit C14).
 step; it gets through APC armour. A standard belt of 20 shells: 4 TV. Fits autocannons, man-portable or mounted. On the [attachment sheet](attachments.md#the-rollable-list).)
 
 - **Flak shells** (uncommon, 4 TV a belt, DM's price; Munitorum, Free Traders). Airburst rounds for fliers and
-  jumpers: **shots at an airborne target ignore the -3**, and **a miss by 1-3 still clips him** (bursting near).
+  jumpers: **shots at an airborne target ignore the -3**, and **a miss by 1-3 still clips him for half a step (0.5)** (bursting near) (half steps: the DM's pick at the player's call, day 48).
   Against ground targets they're weaker: **no extra step on a hit.**
 - **Penetrator shells** (rare, 8 TV a belt, DM's price; Munitorum, Mechanicus, Free Traders; **rare in the enemy
   roll**). Armour-piercing: **through a tank's armour from the side or rear** (as kraks and plasma; the front still

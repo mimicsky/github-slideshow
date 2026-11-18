@@ -289,8 +289,12 @@ and half steps set by the player, day 48**):
   against 15, once per patient; **+2 aboard with a cook**) **takes a day off**, never below one day. **The ship's surgeon
   halves the time** (rounded up). **Fast healer: a day less; Slow healer: a day more** (never below one day). **Starving:
   no healing.** A patch in the field still works at once (above).
-- **What does half a step now:** a near-miss "half effect" where the full effect is a step (Hollis's grenades, a mortar's
-  near-miss); laspistol-punch guns against flak (catalogue las.md; Part 8, Armour). More as the player sets them. (The
+- **What does half a step now** (the last eight picked by the DM at the player's call, day 48; each is in its own entry):
+  a near-miss "half effect" where the full effect is a step (Hollis's grenades, a mortar's near-miss); laspistol-punch
+  guns against flak (las.md); **bare hands** (a fist, a kick, a shoulder: knuckles, a pommel or anything in the hand make
+  it a full step); **the tin-can bomb**; **scrap arrows**; **a flak shell's near miss**; and **the worst guns past their
+  range: the pipe pistol and the 'Cutpurse' holdout past ~10 m, the 'Trinity' pocket revolver past ~20 m, the rivet gun
+  past ~15 m, the nailer past ~5 m and the junk shotgun past ~8 m.** (The
   plasma charge's "half an armour step" in plasma.md is armour punch, not health.)
 
 **Some roles and gear add more, so check them** (each in its own entry):
@@ -866,7 +870,7 @@ and Down), cover (Cover), conditions (Roll checklist, line 9) and leveling (by X
 | Ship and vehicle autocannons on people | → catalogue: heavy.md, Ship and vehicle autocannons on people | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | A non-medic patching | Anyone can patch **Hurt to Fine** (someone at 3.0 or 2.5 back to 4.0; it also tops up a 3.5) at **d20 + WIS** (no medic +4) against the normal 15; **only a medic patches Badly hurt (2.0 or 1.5) or brings someone back from Down** | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | A failed medic patch | Can be tried again next beat; the medic's 'once per person' counts only the patches that work | Ash on Ostrava, day 34 (DM default; the player may change it) |
-| Unarmed knockouts | A fist, shoulder or kick that puts someone Down counts as **non-lethal, like a limb shot**: **+2 on the survival d6** (dead only on a 1) when every step came from limb shots or unarmed blows | Ash on Ostrava, day 34 (DM default; the player may change it) |
+| Unarmed knockouts | **A bare-handed blow is half a step (0.5)** (day 48; knuckles, a pommel or anything in the hand make it a full step). A fist, shoulder or kick that puts someone Down counts as **non-lethal, like a limb shot**: **+2 on the survival d6** (dead only on a 1) when every step came from limb shots or unarmed blows | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | Selling loot to a trader | The trader pays **half the catalogue TV for sound items, a quarter for Dirty, Neglected or damaged, a tenth for scrap** (shot-up flak, stripped parts); the quartermaster's haggle adds its % on top | Ash on Ostrava, day 36 (DM's call, Vashti's Rock; the player may overrule) |
 | Fan throw (three throwing knives at once) | → catalogue: melee.md, Fan throw (three throwing knives) | Ash on Ostrava, day 36 (the player's design, judged fair) |
 | Mono-knife | → catalogue: melee.md, Mono-knife | Ash on Ostrava, day 34 (DM default; the player may change it) |

@@ -22,8 +22,8 @@ as a sight base, brass ejection deflector, heat-blued barrel. Full auto only, ch
 of up to 8. Braced on cover or its bipod it suppresses (the target takes -2 on its
 shots; stacks with a heavy's suppression); from the hip, -2. Heat: each chain of 6+
 adds 1; at 3 it must vent a beat; firing anyway at 3, d20 1-5 jams it (a beat to
-clear). Autogun punch, but each 3 hits in one chain count as one solid hit against
-carapace.
+clear). Autogun punch, but **against carapace every third hit in one chain gets through (a full step)**; the others are
+shrugged (the old '3 hits count as one solid hit'; reworded in the day-48 audit).
 
 ## Vigilante autogun, 'Kasr Warden' pattern
 
@@ -273,7 +273,7 @@ special auto rounds load. **Full attachment slots.**
 **Holdout stub pistol, 'Cutpurse' pattern** (common, 0.25 TV, DM's price; pawn-stalls, black market; the player's
 design, Ash on Ostrava day 47: a derringer). Palm-sized: **super easy to smuggle (+3 to hide it).** **One round:** it
 loads one and fires one; **reloading is the beat's move** (spare rounds carried loose on him). Big-bore: **hits like a
-stub revolver**; **-2 past ~10 m.** **No attachment slots** (a taped flashlight aside; special stub rounds load).
+stub revolver**; **-2 past ~10 m, and a hit out there is half a step (0.5)** (half steps: the DM's pick at the player's call, day 48)**.** **No attachment slots** (a taped flashlight aside; special stub rounds load).
 
 **Abilities:** [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
 
@@ -292,7 +292,7 @@ slots** (a scope is the usual fit). Commoners and hunters carry it.
 
 **Pocket revolver, 'Trinity' pattern** ('the three-shooter'; common, 0.4 TV, DM's price; hive traders, pawn-stalls, black market; the player's design,
 Ash on Ostrava day 47). A small **double-action-only revolver** with a **triangular 3-round cylinder** and a stubby
-barrel: **very hideable (+2 to hide it)**. Stub revolver punch; the stub nose: **+1 within ~10 m, -2 past ~20 m**.
+barrel: **very hideable (+2 to hide it)**. Stub revolver punch; the stub nose: **+1 within ~10 m, -2 past ~20 m, and a hit past ~20 m is half a step (0.5)** (half steps: the DM's pick at the player's call, day 48).
 Reloading 3 loose rounds takes a beat. **Too small for any attachment slot** (special stub rounds still load).
 **Double-action only, the hammer shrouded: no [Fan the Hammer](abilities.md#fan-the-hammer)** (DM default). Carried by
 commoners for the walk home, and by anyone who wants a gun nobody finds.

@@ -37,7 +37,7 @@ bow gets through reinforced flak; with STR 50+ too, carapace). Too weak to matte
 
 | Arrow | Gets through | Dents | Breaks | Rarity, price |
 | --- | --- | --- | --- | --- |
-| **Scrap arrow** | no armour | nothing: flak and up shrug it, **no wear-down** | **always**, on any armour it hits | common; **anyone makes 5 from scrap in a few minutes, no roll** |
+| **Scrap arrow** (a hit is **half a step, 0.5**: day 48) | no armour | nothing: flak and up shrug it, **no wear-down** | **always**, on any armour it hits | common; **anyone makes 5 from scrap in a few minutes, no roll** |
 | **Metal arrow** | no armour | flak, reinforced flak | **can break** on carapace and up | common, 0.25 TV for 10 |
 | **Steel arrow** | **flak** | reinforced flak, carapace | **can break** on reinforced flak and up | uncommon, 0.5 TV for 10 |
 
