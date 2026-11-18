@@ -10,7 +10,7 @@ listed here. Prices and rarity live in `../pools.json`.
 **How to use it (for the DM):** don't read the whole catalogue. Read this index;
 when an item comes up in play, open just its entry. When a new item is designed,
 add its entry to the right category file and a line here, and add it to
-`../build_pools.py`. Everything the player has designed or seen is listed, epic and
+`../pools.json` (and `../enemies.json` if enemies carry it) **directly**: `../build_pools.py` is out of date and must not be run (it would drop the day-47 and day-48 items; `AUDIT-FIXES.md`, `AUDIT-DAY48.md`). Everything the player has designed or seen is listed, epic and
 legendary included. Only the hidden exotic list (in `../pools.json`, never read
 out to the player) stays out, so those finds stay a surprise.
 
@@ -245,7 +245,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Extended magazine kits](kit.md#extended-magazine-kits)
 - [Power weapon tuning kit](kit.md#power-weapon-tuning-kit)
 - [Diamantine whetstone](kit.md#diamantine-whetstone)
-- [Melee attachments (day 48)](kit.md#melee-attachments-day-48) (25 parts, incl. longer grip or blade, tsuka grip, scrap spikes, tri-stand, wide hilt, spiked pommel, staff regulator, blaze force enhancer; leather grip, pommel strap, basket hilt, serrated edge, flanged head, sharpened rim; custom: chain-linked cord, balanced blade, throwing balance, hidden wrist-sheath, chain guard, triangle point, tuned field, 10-degree edge, capped head, skeleton grip, promethium blade line)
+- [Melee attachments (day 48)](kit.md#melee-attachments-day-48) (25 parts. Regular: leather grip, pommel strap, basket hilt, wide hilt, serrated edge, 10-degree edge, flanged head, capped head, scrap spikes, sharpened rim, tri-stand, throwing balance, skeleton grip (melee), tsuka grip, spiked pommel, longer grip or blade, staff regulator. Custom: chain-linked cord, balanced blade, hidden wrist-sheath, chain guard, triangle point, tuned field, promethium blade line, blaze force enhancer)
 - [Chain weapon parts (day 48)](kit.md#chain-weapon-parts-day-48) (teeth material: plasteel, ceramite, adamantium; long spike and flat teeth; double band; spike guard)
 - [Bayonet](kit.md#bayonet)
 - [Underslung chain-bayonet](kit.md#underslung-chain-bayonet)

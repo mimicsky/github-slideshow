@@ -728,7 +728,7 @@ his own smith's version). All roll on enemies' and allies' weapons like any atta
 list): one per slot.
 
 **Regular**
-- **Leather-wrap grip** (common; any melee; grip slot): never slips in wet or bloody hands; **disarms against him -2**.
+- **Leather-wrap grip** (common; any melee except worn weapons such as gloves, fists and knuckles; melee grip slot, `mgrip`): never slips in wet or bloody hands; **disarms against him -2**.
 - **Wrist pommel strap** (common; blades, blunt, power; strap): knocked from his hand, **it's back in it next beat, free**.
 - **Basket hilt** (uncommon; swords, sabres, cutlasses; guard): **+1 to parry**.
 - **Serrated edge** (uncommon; blades only; edge): **against no armour, a hit drops an extra health step**; anyone it
@@ -736,21 +736,22 @@ list): one per slot.
 - **Flanged head** (uncommon; blunt; head): **on a solid hit, it gets through one armour step further** than it
   normally could.
 - **Sharpened rim** (uncommon; shields; rim): **a shield bash counts as a blade hit.**
-- **Throwing balance** (uncommon; knives, machetes, hatchets, one-handed axes): can be **thrown once like a throwing
+- **Throwing balance** (uncommon; knives, machetes, hatchets, one-handed axes; its own slot, `throwbal`): can be **thrown once like a throwing
   knife (~10 m)**.
 - **10-degree edge** (uncommon; blades; edge slot, so never with a serrated edge: back on edge, the player, day 48): **against no armour, a hit cuts deep and
   drops an extra health step.** But **a hit on armour, d6: 5 the edge dulls** (no bonus until it's re-sharpened),
   **6 the blade breaks.**
 - **Ceramite-capped head** (rare; blunt; head, so not with a flanged head): **a hit the armour shrugs still counts 2
   toward wear-down.**
-- **Skeleton grip** (uncommon; any melee; grip): lighter and quicker: **+1 on swings and parries**, but
+- **Skeleton grip (melee)** (uncommon; any melee except worn weapons; melee grip slot, `mgrip`; not the gun part of the same name): lighter and quicker: **+1 on swings and parries**, but
   **disarms against him +2.**
 - **Scrap spikes** (common; blunt; head): scrap spikes welded onto the head: it dents armour and bites deeper:
   **a solid hit when he beats the number by 2+, not 3+** (the player, day 48).
 - **Tri-stand** (uncommon; shields; stand): a folding three-legged stand that sets the shield down at an angle.
   **Planting it or lifting it is the beat's short move**, so it's **plant and shoot, or lift and shoot, with no other
   move.** Planted, it's **full cover from the front with his hands free**: he shoots from behind it by **peek and
-  duck** (codex, Cover), not the shield's one-handed blind fire.
+  duck** (codex, Cover), not the shield's one-handed blind fire. (A beat is **one main thing plus a short move**; the
+  plant or the lift **is** the short move: fight card; codex, A beat.)
 - **Wide hilt** (common; swords and power swords; guard, so not with a basket hilt): **+1 to parry, -1 on the first
   swing of a chain.**
 - **Spiked pommel** (uncommon; anything one-handed with a pommel; pommel, so not with a chain-linked cord):
@@ -760,7 +761,7 @@ list): one per slot.
   power takes 1 more beat to charge, but no Perils roll while it's fitted.**
 - **Longer grip or blade** (uncommon; blades, blunt, chain and power weapons; length): a longer blade or haft:
   **moving mid-chain, up to 7 m a beat between swings instead of 5** (codex house rule 5, Moving mid-chain).
-- **Tsuka grip** (rare; swords and power swords; grip): a wrapped, two-hand-capable grip: leverage, blade control and
+- **Tsuka grip** (rare; swords and power swords; melee grip slot, `mgrip`): a wrapped, two-hand-capable grip: leverage, blade control and
   some shock absorption: **+1 on swings, +1 to parry, +1 on his disarm attempts.** Jack of all trades, master of none.
 
 **Custom (special-made)**
@@ -771,7 +772,7 @@ list): one per slot.
 - **Leather wrist-sheath, hidden blade** (uncommon; knives only; rig): **can't be disarmed**; **+5 to keep it
   hidden** (searches, a pat-down); **+3 on the first swing against each target** (the surprise), even mid-melee
   (DM's reading of 'the first swing of any attack': once per target).
-- **Chain guard** (uncommon; chain weapons): the chain **can't be caught on a parry**; **+1 to parry**.
+- **Chain guard** (uncommon; chain weapons; chain-guard slot, `chguard`): **+1 to parry**, and **his chain can't be jammed by a lost Saw Lock** (abilities.md, Saw Lock).
 - **Triangle-tipped point** (uncommon; pointed blades and power blades; point): **a hit that lands: -1 on their next
   swing**; anyone **taken Down by it: -3 on the survival d6.**
 - **Tuned field** (uncommon; power weapons; field, so not with the tuning kit): **its cell holds +5 power-mode swings.**
@@ -780,7 +781,7 @@ list): one per slot.
   -1 on swings while lit** (the flame and the weight; DM's call on the player's 'maybe'), **and a hit sets the target alight on a d6 5-6.**
   **Each lit beat uses 1 charge; a can holds 6** (DM's default), refilled from a fire bottle or a flamer canister.
 - **Blaze force enhancer** (rare; force weapons: force swords, witch-knives, psyker staffs; enhancer): wired into the
-  focus crystal. **Imbued (in a psyker's hands), the weapon hits one step harder.** But **a raw 1-3 on an imbued
+  focus crystal. **Imbued (in a psyker's hands), a hit drops one extra health step (1.0).** But **a raw 1-3 on an imbued
   swing** and the force is too much: **the warp flings the weapon out of his hands** (~d6 m away; a beat to fetch it).
 
 ## Chain weapon parts (day 48)
@@ -803,11 +804,7 @@ Designed by the player, Ash on Ostrava day 48 (numbers and rarity filled by the 
 **Band** (band slot)
 - **Double band** (uncommon): a second chain band: **a hit drops one more health step**, but less control: **-2 on swings.**
 
-**Guard** (guard slot, so not with a chain guard)
+**Guard** (the chain-guard slot, `chguard`, so not with a chain guard; the hilt slot `guard` is the basket and wide hilts')
 - **Spike guard** (uncommon): spikes on the guard: **one more swing at the end of every chain, a guard punch.** A hit
   **drops no health step**; it **staggers (-1 on their next roll).** **One end-of-chain strike a chain:** a weapon with a
   spiked pommel too still gets only one.
-
-**Main and short move (a beat):** every beat is **one main thing** (a shot string, a throw, a launcher shot, a melee
-chain, a patch, reload, vent, jam clear, item, hop or sprint) **plus a short move** (a few metres, or to the next
-cover). The tri-stand's plant or lift **is** the short move (fight card; codex, A beat).

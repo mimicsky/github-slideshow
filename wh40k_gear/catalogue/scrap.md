@@ -148,7 +148,7 @@ pipe-bomb and it arcs over cover. **Open ground only:** it needs open sky (outdo
 open land); **anywhere with a ceiling it can't arc and won't work.** **One lob a beat,
 over walls and cover, out to ~40 m; hits like a frag** on everyone within ~3 m of
 where it lands. **Wild aim: -2;** a miss lands it d6 m off in a random direction.
-**Scrap quirk:** on a natural 1 the bomb **stays in the tube, fizzing, for a beat**;
+**Duds (the player, day 48): every scrap load can dud: a d6 when it lands, 1 a dud** (loads: Mortar rounds (day 48), below). **Scrap quirk:** on a natural 1 the bomb **stays in the tube, fizzing, for a beat**;
 the crew dives clear or someone brave tips it out. **Crew:** two (aimer and loader);
 alone, one lob every other beat. Carried by gang artillery, cultist siege mobs and
 raiders hitting a fortified door.
@@ -206,8 +206,8 @@ allies' weapons like any attachment ([attachments.md](attachments.md#the-rollabl
   tube's side. **Loaded, it swings in and fires a second round the same beat** (on the same spot, or one within
   ~10 m of it). **Refilling it takes the loader's beat.**
 - **Anti-dud breech** (uncommon; mortars; breech): a cleaner striker and a safety cradle in the base. **Fewer duds:**
-  when a round would dud (a pipe-bomb mortar's natural 1), **roll a d6: only 1-3 is a dud**; and **a dud in the tube
-  is lifted out safely** (a beat; nobody has to dive).
+  when a round's landing d6 says dud (Mortar rounds, below), **roll a second d6: only 1-3 is still a dud**. And **a round
+  stuck in the tube** (a pipe-bomb mortar's natural 1) **is lifted out safely** (a beat; nobody has to dive).
 
 ## Mortar rounds (day 48)
 
@@ -236,5 +236,5 @@ matters).
 | --- | --- | --- |
 | **Pipe-bomb** | standard | a frag hit within ~3 m; a natural 1 sticks fizzing in the tube (Pipe-bomb mortar). **Duds on a d6 of 1** |
 | **Fire bottle** | common | a ~2 m pool of fire where it lands. **Duds on a d6 of 1** |
-| **Tin-can bomb** | common | a weak frag, ~2 m. **Duds on a d6 of 1** |
+| **Tin-can bomb** | common | as a thrown tin-can bomb (~3 m; a step; flak and heavier shrug it: explosives.md). **Duds on a d6 of 1** |
 | **Cracker bundle** | common | a flashbang: -2 within ~4 m. **Duds on a d6 of 1-2** |

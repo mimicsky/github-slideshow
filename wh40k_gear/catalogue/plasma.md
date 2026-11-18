@@ -65,7 +65,7 @@ shot or a pump, in any mix (2 shots, 2 pumps, or a pump then a shot). Normal pla
 A 1-pump shot fits in one beat (pump, fire); a 2-pump shot is two pumps, then
 fire next beat; a full 3-pump shot is **two pumps one beat, then one pump and fire
 the next** (1 heat from waiting). **Each pump draws one extra shot of
-charge from the cell** (a 3-pump shot uses 4). Each pump is half a step more punch:
+charge from the cell** (a 3-pump shot uses 4). Each pump adds half an armour step of punch (armour, not health):
 
 | Pumps | The shot |
 | --- | --- |

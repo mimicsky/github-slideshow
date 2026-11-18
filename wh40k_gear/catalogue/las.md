@@ -16,8 +16,8 @@ compact lasgun with the **pack behind the grip** and a **finned heat sink** alon
 
 **Las-SMG, 'Sterl' pattern** (player design, uncommon, 3 TV). Side-mounted pack.
 Shot chains up to 6; low recoil: a miss doesn't give -1 to the next shot. Small
-punch: against carapace 2 hits count as one lasgun hit (each is shrugged and counts half toward wear-down); useless against power
-armour. **Takes a regular las pack: 45 shots** (about 7 strings of 6; audit C8, day 47).
+punch (laspistol punch): against flak a hit is half a step (0.5); against carapace it's shrugged and counts half toward wear-down
+(the old '2 hits count as one lasgun hit'); useless against power armour. **Takes a regular las pack: 45 shots** (about 7 strings of 6; audit C8, day 47).
 
 ## Las-box, 'Kasr Barr' pattern light las-LMG
 
@@ -218,8 +218,8 @@ filled.
 ### Officer's las luger
 
 **Officer's las luger** (rare, 8 TV; Munitorum, black market, Free Traders). An officer's sidearm with a toggle-lock
-action, everything built in and **no attachment slots** (special loads only). **+2 shots a string.** **No pack slot of
-its own:** it plugs into a belt pack by cord, or takes a pack plugged straight into the grip. **Built in:** a **hair
+action, everything built in and **no attachment slots** (special loads only). **+2 shots a string.** **No magazine well:** like the tac
+laspistol it runs off a las pack on his belt by a short cord (the cord can also plug straight into a pack in his hand). **Built in:** a **hair
 trigger** (+1 on the first shot of every string; drop-prone), **ghost-ring sights** (+1 on the first shot) and a
 **wooden ergo grip** (never slips; disarms against him -2). **So +2 on the first shot of every string.**
 

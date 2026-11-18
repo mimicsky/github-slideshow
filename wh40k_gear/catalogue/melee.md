@@ -397,7 +397,7 @@ against them.
 **Blaze force sword / greatsword** (rare, 45 / 60 TV): psyker weapons. The sword is **medium**, the greatsword
 **two-handed and heavy**; both **chains of 2**. In a sanctioned psyker's hands they burn with warp-fire (audit C8,
 day 47): they **hit as a power weapon**, **a hit on a raw 17+ sets the target alight**, and **against daemons every
-hit counts** (daemon flesh normally only loses a stage to solid hits, crits, fire and blasts: bestiary bosses.md).
+hit counts** (daemon flesh normally only loses a step to solid hits, crits, fire and blasts: bestiary bosses.md).
 Anyone else wields a plain sword.
 
 **Abilities:** [Wide Slash](abilities.md#wide-slash).
@@ -614,6 +614,6 @@ Cultists, raiders and commoners carry them.
 
 **Chain short-sword** (uncommon, 4 TV; Munitorum, black market, Free Traders; player design, Ash on Ostrava day 48;
 numbers the DM's call). The middle ground between the chain knife and the chainsword: a short, broad chain blade.
-- **Light: chains of up to 3** (as a knife), and it **bites like a chainsword** (through flak easily, carapace on a
-  solid hit).
+- **Light: chains of up to 3** (as a knife), and it **bites like a chainsword** (through flak and carapace; heavy
+  carapace and ceramite-forged on a solid hit: codex, Armour).
 - **Swung with the better of STR or DEX.** **Neutral:** no +1 to strike first and no parry penalty (the player, day 48).

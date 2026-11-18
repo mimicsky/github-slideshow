@@ -28,6 +28,7 @@ RECOIL = {"sp", "smg", "sr", "sg", "bp", "br", "hs"}
 HAND = SIGHT  # guns a hand holds and a grip sleeve fits
 # Melee (day 47): ch chain, pw power, bl edged blade, bt blunt, sh shield.
 MELEE = {"ch", "pw", "bl", "bt", "st"}  # st: psyker staffs and staves (day 48)
+NOGLOVE = r"^(?!.*(glove|fist|knuckle)).*"  # worn weapons take no grip, strap, pommel or length parts (day 48 audit)
 STUBCAL = r"(?<!auto-)revolver|stub pistol|stub automatic|hand cannon|lever|hunting stub|stub rifle|boarding pistol"
 AUTOCAL = r"autogun|autopistol|autorifle|auto-revolver|hammerfall|submachine|rattler|machine pistol|chain-fed|kasr stag|burst pistol"
 NAMES = {"lp": "las pistols", "lr": "las rifles", "sp": "stub pistols", "smg": "SMGs", "sr": "autoguns and stub rifles",
@@ -75,8 +76,8 @@ A = [
  ("brake", "Muzzle brake", "U", "muzzle", RECOIL, None, None, 0, "a chain miss costs no -1; the flash places him after his first string", K + "muzzles"),
  ("flashhider", "Flash hider", "C", "muzzle", RECOIL, None, None, 0, "his shots don't give him away in the dark", MORE),
  ("extmag", "Extended magazine", "U", "mag", {"sp", "smg", "sr"}, None, None, 0, "+50% rounds (autogun and stub only; audit A5)", K + "extended-magazine-kits"),
- ("extlas", "Extended las pack", "U", "mag", {"lp", "lr"}, r"^(?!.*(hellgun|hellpistol|hot-shot|volley gun)).*", None, 0, "60 shots, not 45", "las.md#extended-las-pack"),
- ("exths", "Extended hot-shot pack", "U", "mag", {"lp", "lr"}, r"hellgun|hellpistol|hot-shot|volley gun", None, 0, "40 shots, not 30", "las.md#extended-hot-shot-pack"),
+ ("extlas", "Extended las pack", "U", "mag", {"lp", "lr"}, r"^(?!.*(hellgun|hellpistol|hell revolver|hot-shot|volley gun)).*", None, 0, "60 shots, not 45", "las.md#extended-las-pack"),
+ ("exths", "Extended hot-shot pack", "U", "mag", {"lp", "lr"}, r"hellgun|hellpistol|hell revolver|hot-shot|volley gun", None, 0, "40 shots, not 30", "las.md#extended-hot-shot-pack"),
  ("drum", "Pistol drum", "U", "mag", {"sp", "smg", "lp"}, None, None, 0, "twice the shots; no quick-draw holster, -1 quick-draw", K + "pistol-drums"),
  ("tunedcell", "Tuned plasma cell", "R", "mag", {"pp", "pg"}, None, None, 0, "12 shots, not 8", "plasma.md#tuned-plasma-cell"),
  ("weighted", "Weighted grip", "C", "grip", {"sp", "smg", "sr", "sg", "bp", "br"}, None, None, 0, "recoil -1; -1 quick-draw", MORE),
@@ -92,36 +93,36 @@ A = [
  ("spikes", "Spiked shield", "U", "spikes", {"sh"}, None, None, 0, "+3 on a shield-first charge, then +1 attacking with the shield", K + "spiked-shield-mod"),
  ("viewslot", "Shield viewing slot", "U", "slot", {"sh"}, None, None, 0, "sees and shoots a pistol through it without leaving cover; planted, slot fire -2", K + "shield-viewing-slot-mod"),
  # melee, more (the player, day 48): regular and custom; full entries in kit.md, Melee attachments (day 48)
- ("leather", "Leather-wrap grip", "C", "mgrip", MELEE, None, None, 0, "never slips in wet or bloody hands; disarms against him -2", "kit.md#melee-attachments-day-48"),
- ("pstrap", "Wrist pommel strap", "C", "strap", {"bl", "bt", "pw"}, None, None, 0, "knocked from his hand, it's back in it next beat, free", "kit.md#melee-attachments-day-48"),
+ ("leather", "Leather-wrap grip", "C", "mgrip", MELEE, NOGLOVE, None, 0, "never slips in wet or bloody hands; disarms against him -2", "kit.md#melee-attachments-day-48"),
+ ("pstrap", "Wrist pommel strap", "C", "strap", {"bl", "bt", "pw"}, NOGLOVE, None, 0, "knocked from his hand, it's back in it next beat, free", "kit.md#melee-attachments-day-48"),
  ("basket", "Basket hilt", "U", "guard", {"bl", "pw"}, r"sword|sabre|cutlass|rapier", None, 0, "+1 to parry", "kit.md#melee-attachments-day-48"),
  ("serrated", "Serrated edge", "U", "edge", {"bl"}, None, None, 0, "against no armour a hit drops an extra step; anyone it downs is -2 on the survival d6 after the fight", "kit.md#melee-attachments-day-48"),
  ("flanged", "Flanged head", "U", "head", {"bt"}, None, None, 0, "on a solid hit, through one armour step further than it normally gets", "kit.md#melee-attachments-day-48"),
  ("rim", "Sharpened rim", "U", "rim", {"sh"}, None, None, 0, "a shield bash counts as a blade hit", "kit.md#melee-attachments-day-48"),
  ("scrapspikes", "Scrap spikes", "C", "head", {"bt"}, None, None, 0, "dents and bites: a solid hit when he beats the number by 2+, not 3+", "kit.md#melee-attachments-day-48"),
  ("tristand", "Tri-stand", "U", "stand", {"sh"}, None, None, 0, "planting or lifting the shield is the beat's short move (plant and shoot, or lift and shoot; no other move); planted: full cover from the front, hands free: he shoots from it by peek and duck", "kit.md#melee-attachments-day-48"),
- ("widehilt", "Wide hilt", "C", "guard", {"bl", "pw"}, r"sword|sabre|cutlass|rapier|blade", None, 0, "+1 to parry; -1 on the first swing of a chain", "kit.md#melee-attachments-day-48"),
- ("spikepommel", "Spiked pommel", "U", "pommel", {"bl", "bt", "pw", "ch"}, r"^(?!.*(two-handed|great|eviscerator|shovel|glaive|sledge|headsman)).*", None, 0, "one more swing at the end of every chain: a pommel strike; a hit drops no health step, it only staggers (-1 on their next roll) and counts 2 toward wear-down", "kit.md#melee-attachments-day-48"),
+ ("widehilt", "Wide hilt", "C", "guard", {"bl", "pw"}, r"sword|sabre|cutlass|rapier", None, 0, "+1 to parry; -1 on the first swing of a chain", "kit.md#melee-attachments-day-48"),
+ ("spikepommel", "Spiked pommel", "U", "pommel", {"bl", "bt", "pw", "ch"}, r"^(?!.*(two-handed|great|eviscerator|shovel|glaive|sledge|headsman|glove|fist|knuckle)).*", None, 0, "one more swing at the end of every chain: a pommel strike; a hit drops no health step, it only staggers (-1 on their next roll) and counts 2 toward wear-down", "kit.md#melee-attachments-day-48"),
  ("regulator", "Staff regulator", "R", "regulator", {"st"}, None, None, 0, "every charged power takes 1 more beat to charge, but no Perils roll while it's fitted", "kit.md#melee-attachments-day-48"),
- ("c_blazeenh", "Blaze force enhancer", "R", "enhancer", {"bl", "st"}, r"force|witch-knife|staff|stave", None, 1, "imbued (a psyker's hands): hits one step harder; a raw 1-3 on an imbued swing and the warp flings it out of his hands (~d6 m; a beat to fetch)", "kit.md#melee-attachments-day-48"),
- ("longreach", "Longer grip or blade", "U", "length", {"bl", "bt", "pw", "ch"}, None, None, 0, "longer reach: moving mid-chain, up to 7 m a beat between swings, not 5", "kit.md#melee-attachments-day-48"),
- ("tsuka", "Tsuka grip", "R", "mgrip", {"bl", "pw"}, r"sword|sabre|cutlass|blade|odachi|katana", None, 0, "leverage, blade control, some shock absorption: +1 on swings, +1 to parry, +1 on his disarm attempts", "kit.md#melee-attachments-day-48"),
+ ("c_blazeenh", "Blaze force enhancer", "R", "enhancer", {"bl", "st"}, r"force (sword|greatsword|staff|stave|blade)|blaze force|scrap force|witch-knife|\bstaff\b|\bstave\b", None, 1, "imbued (a psyker's hands): a hit drops one extra health step (1.0); a raw 1-3 on an imbued swing and the warp flings it out of his hands (~d6 m; a beat to fetch)", "kit.md#melee-attachments-day-48"),
+ ("longreach", "Longer grip or blade", "U", "length", {"bl", "bt", "pw", "ch"}, NOGLOVE, None, 0, "longer reach: moving mid-chain, up to 7 m a beat between swings, not 5", "kit.md#melee-attachments-day-48"),
+ ("tsuka", "Tsuka grip", "R", "mgrip", {"bl", "pw"}, r"sword|sabre|cutlass|odachi|katana", None, 0, "leverage, blade control, some shock absorption: +1 on swings, +1 to parry, +1 on his disarm attempts", "kit.md#melee-attachments-day-48"),
  # flamers and mortars, more (the player, day 48): full entries in scrap.md, Flamer and mortar parts (day 48)
  ("sprayer", "Sprayer barrel", "U", "barrel", {"fl", "hf"}, None, None, 0, "an open funnel: the gout reaches half as far but spreads twice as wide at its end (a hand flamer's line becomes a ~3 m fan)", "scrap.md#flamer-and-mortar-parts-day-48"),
  ("mortarbarrel", "Reinforced mortar barrel", "U", "barrel", {"mo"}, None, None, 0, "half as far again: a light mortar to ~450 m, a pipe-bomb mortar to ~60 m", "scrap.md#flamer-and-mortar-parts-day-48"),
  ("c_chamber", "Extra shot chamber", "U", "chamber", {"mo"}, None, None, 1, "a fold-out chamber holding one round: swung in, it fires a second round the same beat (same spot or one within ~10 m); refilling it is the loader's beat", "scrap.md#flamer-and-mortar-parts-day-48"),
  ("antidud", "Anti-dud breech", "U", "breech", {"mo"}, None, None, 0, "fewer duds: a dud happens only if a d6 after it shows 1-3; a dud in the tube is lifted out safely (a beat, no dive)", "scrap.md#flamer-and-mortar-parts-day-48"),
  # mortar rounds (the player, day 48): a rolled load means about half the team's rounds are that type
- ("m_smoke", "Smoke rounds (mortar)", "C", "load", {"mo"}, r"^(?!.*(pipe|lobber)).*mortar", None, 0, "as a smoke grenade where it lands", "scrap.md#mortar-rounds-day-48"),
- ("m_flare", "Flare rounds (mortar)", "C", "load", {"mo"}, r"^(?!.*(pipe|lobber)).*mortar", None, 0, "lights ~50 m for 3 beats: no darkness penalty for anyone in it", "scrap.md#mortar-rounds-day-48"),
- ("m_incend", "Incendiary rounds (mortar)", "U", "load", {"mo"}, r"^(?!.*(pipe|lobber)).*mortar", None, 0, "everyone within ~5 m catches fire; the ground burns 2 beats", "scrap.md#mortar-rounds-day-48"),
- ("m_choke", "Choke gas rounds (mortar)", "U", "load", {"mo"}, r"^(?!.*(pipe|lobber)).*mortar", None, 0, "an ~8 m cloud for 3 beats: -2 without a mask or rebreather", "scrap.md#mortar-rounds-day-48"),
- ("m_airburst", "Airburst rounds (mortar)", "U", "load", {"mo"}, r"^(?!.*(pipe|lobber)).*mortar", None, 0, "bursts overhead over ~8 m: a step; only a solid roof helps; duds on a d6 of 1", "scrap.md#mortar-rounds-day-48"),
- ("m_krak", "Krak rounds (mortar)", "R", "load", {"mo"}, r"^(?!.*(pipe|lobber)).*mortar", None, 0, "one target or vehicle, hits like a krak; -2 to land it", "scrap.md#mortar-rounds-day-48"),
- ("m_cluster", "Cluster rounds (mortar)", "R", "load", {"mo"}, r"^(?!.*(pipe|lobber)).*mortar", None, 0, "bomblets over ~15 m: everyone in it rolls a d6, 4-6 drops a step; duds on a d6 of 1", "scrap.md#mortar-rounds-day-48"),
- ("m_firebottle", "Fire-bottle loads (scrap mortar)", "C", "load", {"mo"}, r"pipe-bomb mortar|tube lobber|lobber", None, 0, "a ~2 m pool of fire where it lands; duds on a d6 of 1", "scrap.md#mortar-rounds-day-48"),
- ("m_tincan", "Tin-can loads (scrap mortar)", "C", "load", {"mo"}, r"pipe-bomb mortar|tube lobber|lobber", None, 0, "a weak frag, ~2 m; duds on a d6 of 1", "scrap.md#mortar-rounds-day-48"),
- ("m_cracker", "Cracker-bundle loads (scrap mortar)", "C", "load", {"mo"}, r"pipe-bomb mortar|tube lobber|lobber", None, 0, "a flashbang: -2 within ~4 m; duds on a d6 of 1-2", "scrap.md#mortar-rounds-day-48"),
+ ("m_smoke", "Smoke rounds (mortar)", "C", "load", {"mo"}, r"^(?!.*(pipe|lobber|scrap)).*mortar", None, 0, "as a smoke grenade where it lands", "scrap.md#mortar-rounds-day-48"),
+ ("m_flare", "Flare rounds (mortar)", "C", "load", {"mo"}, r"^(?!.*(pipe|lobber|scrap)).*mortar", None, 0, "lights ~50 m for 3 beats: no darkness penalty for anyone in it", "scrap.md#mortar-rounds-day-48"),
+ ("m_incend", "Incendiary rounds (mortar)", "U", "load", {"mo"}, r"^(?!.*(pipe|lobber|scrap)).*mortar", None, 0, "everyone within ~5 m catches fire; the ground burns 2 beats", "scrap.md#mortar-rounds-day-48"),
+ ("m_choke", "Choke gas rounds (mortar)", "U", "load", {"mo"}, r"^(?!.*(pipe|lobber|scrap)).*mortar", None, 0, "an ~8 m cloud for 3 beats: -2 without a mask or rebreather", "scrap.md#mortar-rounds-day-48"),
+ ("m_airburst", "Airburst rounds (mortar)", "U", "load", {"mo"}, r"^(?!.*(pipe|lobber|scrap)).*mortar", None, 0, "bursts overhead over ~8 m: a step; only a solid roof helps; duds on a d6 of 1", "scrap.md#mortar-rounds-day-48"),
+ ("m_krak", "Krak rounds (mortar)", "R", "load", {"mo"}, r"^(?!.*(pipe|lobber|scrap)).*mortar", None, 0, "one target or vehicle, hits like a krak; -2 to land it", "scrap.md#mortar-rounds-day-48"),
+ ("m_cluster", "Cluster rounds (mortar)", "R", "load", {"mo"}, r"^(?!.*(pipe|lobber|scrap)).*mortar", None, 0, "bomblets over ~15 m: everyone in it rolls a d6, 4-6 drops a step; duds on a d6 of 1", "scrap.md#mortar-rounds-day-48"),
+ ("m_firebottle", "Fire-bottle loads (scrap mortar)", "C", "load", {"mo"}, r"pipe-bomb mortar|tube lobber|lobber|scrap mortar", None, 0, "a ~2 m pool of fire where it lands; duds on a d6 of 1", "scrap.md#mortar-rounds-day-48"),
+ ("m_tincan", "Tin-can loads (scrap mortar)", "C", "load", {"mo"}, r"pipe-bomb mortar|tube lobber|lobber|scrap mortar", None, 0, "as a tin-can bomb (~3 m; a step; flak and heavier shrug it); duds on a d6 of 1", "scrap.md#mortar-rounds-day-48"),
+ ("m_cracker", "Cracker-bundle loads (scrap mortar)", "C", "load", {"mo"}, r"pipe-bomb mortar|tube lobber|lobber|scrap mortar", None, 0, "a flashbang: -2 within ~4 m; duds on a d6 of 1-2", "scrap.md#mortar-rounds-day-48"),
  ("c_chargehold", "Charge-hold trigger", "U", "selector", {"lp"}, None, None, 1, "hold the trigger through one shot of a string (it doesn't fire): the next shot gets through one more armour step, up to carapace; once a string", "las.md#charge-hold-trigger-custom"),
  # chain weapons, more (the player, day 48): teeth material, band, tooth shape, spike guard; kit.md, Chain weapon parts (day 48)
  ("ceramteeth", "Ceramite teeth", "R", "material", {"ch"}, None, None, 0, "through ceramite-forged on any hit; power armour on a raw 18+", "kit.md#chain-weapon-parts-day-48"),
@@ -130,16 +131,16 @@ A = [
  ("spiketeeth", "Long spike teeth", "U", "shape", {"ch"}, None, None, 0, "against no armour or flak a hit drops an extra step; it gets through one armour step less than it otherwise would", "kit.md#chain-weapon-parts-day-48"),
  ("flatteeth", "Flat teeth", "U", "shape", {"ch"}, None, None, 0, "it gets through one armour step further than it otherwise would; against no armour or flak only a solid hit drops a step", "kit.md#chain-weapon-parts-day-48"),
  ("spikeguard", "Spike guard", "U", "chguard", {"ch"}, None, None, 0, "one more swing at the end of every chain: a guard punch; a hit drops no health step, it staggers (-1 on their next roll); one end-of-chain strike a chain", "kit.md#chain-weapon-parts-day-48"),
- ("c_cord", "Chain-linked cord", "U", "pommel", {"bl", "bt", "pw", "ch"}, r"^(?!.*(two-handed|great|eviscerator|shovel|glaive|sledge|headsman)).*", None, 1, "+1 on the first swing; thrown on its chain ~5 m, back in his hand next beat; the chain caps every throw at 5 m (a throwing balance too)", "kit.md#melee-attachments-day-48"),
+ ("c_cord", "Chain-linked cord", "U", "pommel", {"bl", "bt", "pw", "ch"}, r"^(?!.*(two-handed|great|eviscerator|shovel|glaive|sledge|headsman|glove|fist|knuckle)).*", None, 1, "+1 on the first swing; thrown on its chain ~5 m, back in his hand next beat; the chain caps every throw at 5 m (a throwing balance too)", "kit.md#melee-attachments-day-48"),
  ("c_balance", "Smith-balanced blade", "U", "balance", {"bl"}, None, None, 1, "+1 on every swing", "kit.md#melee-attachments-day-48"),
- ("throwbal", "Throwing balance", "U", "throwbal", {"bl"}, r"^(?!.*(two-handed|heavy|great|headsman)).*(knife|machete|hatchet|cleaver|axe)", None, 0, "can be thrown once like a throwing knife (~10 m)", "kit.md#melee-attachments-day-48"),
+ ("throwbal", "Throwing balance", "U", "throwbal", {"bl"}, r"^(?!.*(two-handed|heavy|great|headsman|huge)).*(knife|machete|hatchet|cleaver|axe)", None, 0, "can be thrown once like a throwing knife (~10 m)", "kit.md#melee-attachments-day-48"),
  ("c_wristblade", "Leather wrist-sheath (hidden blade)", "U", "rig", {"bl"}, r"knife|dagger|stiletto|shank", None, 1, "can't be disarmed; +5 to keep it hidden; +3 on the first swing against each target (the surprise), even mid-melee", "kit.md#melee-attachments-day-48"),
- ("c_chguard", "Chain guard", "U", "chguard", {"ch"}, None, None, 1, "the chain can't be caught on a parry; +1 to parry", "kit.md#melee-attachments-day-48"),
+ ("c_chguard", "Chain guard", "U", "chguard", {"ch"}, None, None, 1, "+1 to parry; his chain can't be jammed by a lost Saw Lock", "kit.md#melee-attachments-day-48"),
  ("c_tritip", "Triangle-tipped point", "U", "point", {"bl", "pw"}, r"knife|dagger|stiletto|sword|sabre|cutlass|shank|blade|spear", None, 1, "a hit that lands: -1 on their next swing; downed by it: -3 on the survival d6", "kit.md#melee-attachments-day-48"),
  ("c_tunedfield", "Tuned field", "U", "field", {"pw"}, None, None, 1, "its cell holds +5 power-mode swings", "kit.md#melee-attachments-day-48"),
  ("10deg", "10-degree edge", "U", "edge", {"bl"}, None, None, 0, "against no armour a hit drops an extra step; a hit on armour, d6: 5 the edge dulls (no bonus till re-sharpened), 6 the blade breaks", "kit.md#melee-attachments-day-48"),
  ("cappedhead", "Ceramite-capped head", "R", "head", {"bt"}, None, None, 0, "a hit the armour shrugs still counts 2 toward wear-down", "kit.md#melee-attachments-day-48"),
- ("skeleton", "Skeleton grip", "U", "mgrip", MELEE, None, None, 0, "lighter and quicker: +1 on swings and parries; disarms against him +2", "kit.md#melee-attachments-day-48"),
+ ("skeleton", "Skeleton grip (melee)", "U", "mgrip", MELEE, NOGLOVE, None, 0, "lighter and quicker: +1 on swings and parries; disarms against him +2", "kit.md#melee-attachments-day-48"),
  ("c_promethium", "Promethium can and blade line", "R", "coil", {"bl", "ch"}, None, None, 1, "heavy: -2 to parry with it; lit (on/off free): -1 on swings, a hit sets the target alight on a d6 5-6; 1 charge a lit beat, 6 to a can (a fire bottle or a flamer canister refills it)", "kit.md#melee-attachments-day-48"),
  # ammo (day 47): one special load per gun ('load' slot); a magazine holds one load at a time.
  # The player: special ammo is easy to get (uncommon); armour-piercing is better (rare).
@@ -148,8 +149,8 @@ A = [
  ("a_hv", "HV rounds (high velocity)", "U", "load", {"sp", "smg", "sr"}, None, None, 0, "+1 aimed past ~30 m; flak doesn't shrug it at range; each shot counts 2 toward Dirty", "stub.md#stub-and-autogun-rounds-special-loads"),
  ("a_flat", "Flat-tip rounds", "U", "load", {"sp", "sr"}, STUBCAL, None, 0, "a shrugged hit counts as 2 toward wear-down", "stub.md#stub-and-autogun-rounds-special-loads"),
  ("a_cap", "CAP rounds (ceramite-tipped AP)", "R", "load", {"sp", "smg", "sr"}, AUTOCAL, None, 0, "flak and reinforced flak don't shrug it; through carapace on a solid hit at any range; against no armour a crit drops just one step", "stub.md#stub-and-autogun-rounds-special-loads"),
- ("a_hotshot", "Hot-shot conversion and hot-shot packs", "R", "load", {"lp", "lr"}, r"^(?!.*(hellgun|hellpistol|hot-shot|volley gun)).*", None, 0, "it becomes a hellgun-type gun: one step harder; hot-shot packs only, at the normal rate", "las.md#hot-shot-conversion-kit"),
- ("a_mechpack", "Mechanicus pattern hot-shot pack", "R", "load", {"lp", "lr"}, r"hellgun|hellpistol|hot-shot|volley gun", None, 0, "one armour tier harder (heavy carapace at any range, ceramite-forged inside ~15 m); 20 shots a pack", "las.md#hot-shot-pack-mechanicus-pattern"),
+ ("a_hotshot", "Hot-shot conversion and hot-shot packs", "R", "load", {"lp", "lr"}, r"^(?!.*(hellgun|hellpistol|hell revolver|hot-shot|volley gun)).*", None, 0, "it becomes a hellgun-type gun: one step harder; hot-shot packs only, at the normal rate", "las.md#hot-shot-conversion-kit"),
+ ("a_mechpack", "Mechanicus pattern hot-shot pack", "R", "load", {"lp", "lr"}, r"hellgun|hellpistol|hell revolver|hot-shot|volley gun", None, 0, "one armour tier harder (heavy carapace at any range, ceramite-forged inside ~15 m); 20 shots a pack", "las.md#hot-shot-pack-mechanicus-pattern"),
  ("a_ancient", "Ancient plasma cell", "R", "mag", {"pp", "pg"}, None, None, 0, "through power armour on any hit; a hit drops an extra step; 1 heat a shot; 8 shots, can't be refilled", "plasma.md#ancient-plasma-cell"),
  ("a_bigtank", "Big flamer tank", "U", "mag", {"hf", "fl"}, None, None, 0, "twice the bursts; -1 on dodges; the tank is a target (a 1-4 burst also catches anyone within ~3 m)", "scrap.md#flamer-tanks-and-fuels-special-loads"),
  ("a_sulphur", "Sulphur fuel", "U", "load", {"hf", "fl"}, None, None, 0, "everyone hit drops an extra step; fumes: -1 on the next roll in the burned area without a mask", "scrap.md#flamer-tanks-and-fuels-special-loads"),
@@ -163,7 +164,7 @@ A = [
  ("a_meltacore", "Meltacore bolt rounds", "R", "load", {"bp", "br", "hv"}, r"bolt", None, 0, "through a tank's armour from any side; +1 heat a string, vent at 3; +1 recoil", "bolt.md#bolt-rounds-special-loads"),
  ("a_storm", "Storm bolt rounds", "U", "load", {"bp", "br", "hv"}, r"bolt", None, 0, "a miss by 1-3 still hits; every hit lands like a frag (flak; carapace on a solid hit; heavier shrugs)", "bolt.md#bolt-rounds-special-loads"),
  ("a_vengeance", "Vengeance bolt rounds", "R", "load", {"bp", "br", "hv"}, r"bolt", None, 0, "against power armour a hit drops an extra step; through an APC's armour; a natural 1 cooks off: he drops a step, the gun is out", "bolt.md#bolt-rounds-special-loads"),
- ("a_eco", "Las eco pack", "C", "load", {"lp", "lr"}, r"^(?!.*(hellgun|hellpistol|hot-shot|volley gun)).*", None, 0, "120 shots; flak shrugs it past ~15 m, reinforced flak always", "las.md#las-eco-pack"),
+ ("a_eco", "Las eco pack", "C", "load", {"lp", "lr"}, r"^(?!.*(hellgun|hellpistol|hell revolver|hot-shot|volley gun)).*", None, 0, "120 shots; flak shrugs it past ~15 m, reinforced flak always", "las.md#las-eco-pack"),
  ("a_mechlas", "Mechanicus lascannon pack", "R", "load", {"hv"}, r"lascannon|las-cannon", None, 0, "a hit on a vehicle takes 2 hull points; +1 heat a shot, vent at 3", "heavy.md#lascannon-packs-special-loads"),
  ("a_extlas", "Extended lascannon pack", "U", "mag", {"hv"}, r"lascannon|las-cannon", None, 0, "10 shots, not 6; -1 on swapping", "heavy.md#lascannon-packs-special-loads"),
  ("a_battlas", "Lascannon battery pack", "U", "mag", {"hv"}, r"lascannon|las-cannon", None, 0, "40 shots; set down and cabled (the beat's move), the gunner stays within ~3 m; a solid hit on it kills it", "heavy.md#lascannon-packs-special-loads"),
@@ -193,7 +194,7 @@ A = [
  ("c_overdrive", "Overdrive", "R", "overdrive", {"ch"}, None, None, 1, "once a mission, ~30 s: armour a step lighter against it, advantage in mob pushes; then done for the fight; a natural 1 while running burns the motor", C + "shameholders-overdrive-tamsin"),
  ("c_motor", "Better motor", "U", "motor", {"ch"}, None, None, 1, "crits on 19-20; a natural 1 on a swing throws the chain (a beat to reseat)", C + "kells-chain-axe-schematic-5"),
  ("c_teeth", "Plasteel teeth", "U", "material", {"ch"}, None, None, 1, "through heavy carapace on any hit, ceramite-forged on a solid hit", C + "kells-chain-axe-schematic-5"),
- ("c_hardgrip", "Curved hardwood grip", "C", "mgrip", MELEE, None, None, 1, "can't be knocked from his hand by a solid hit", C + "kells-chain-axe-schematic-5"),
+ ("c_hardgrip", "Curved hardwood grip", "C", "mgrip", MELEE, NOGLOVE, None, 1, "can't be knocked from his hand by a solid hit", C + "kells-chain-axe-schematic-5"),
  ("c_bite", "Bite switch", "R", "mselector", {"ch"}, None, None, 1, "BITE: one swing a beat, a hit drops an extra step; flipped before the swing", C + "kells-chain-axe-schematic-5"),
  ("c_buffer", "Heavy buffer spring and new bolt", "C", "bolt", {"smg"}, None, None, 1, "jams only from the 25th straight round", C + "stinger-tamsin"),
  ("c_slide", "Lightened slide and tower grip", "C", "slide", {"sp"}, "autopistol", None, 1, "strings up to 5; recoil stays 0", C + "daces-autopistol-schematic-1"),
@@ -277,15 +278,15 @@ TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b"), ("pp", r"p
          ("lr", r"lasgun|lascarbine|hellgun|long-las|las-box|las-lmg|volley gun|battery las"),
          ("sr", r"autogun|autorifle|stub rifle|lever-action|pipe rifle|hunting rifle")]
 MTYPES = [("sh", r"shield"), ("pw", r"power (sword|axe|maul|knife|fist|mace|blade|odachi)|thunder hammer|relic blade"),
-          ("ch", r"chainsword|chain axe|chain-axe|chain knife|chain glaive|chain blade|eviscerator|chain glove|chain short-sword|saw-axe"),
+          ("ch", r"chainsword|chain axe|chain-axe|chain knife|chain glaive|chain blade|eviscerator|chain glove|chain short-sword"),
           ("bl", r"knife|machete|cutlass|sabre|sword|cleaver|axe|shank|blade|stiletto|shovel"),
           ("bt", r"club|maul|mace|hammer|flail|baton|prod|knuckle|girder|pick\b"),
-          ("st", r"\bstaff\b|\bstave\b")]
-BUILTIN = [("optic", r"scope|range-finder|sprinter|kasr lance|exemplar|cognis"), ("mag", r"drum|100-shot box|kasr tether|las luger|hell revolver"),
+          ("st", r"^(?!.*goad).*(\bstaff\b|\bstave\b)")]
+BUILTIN = [("optic", r"scope|range-finder|sprinter|kasr lance|exemplar|cognis"), ("mag", r"drum|100-shot box|las luger|hell revolver"),
            ("laser", r"kasr tether|cognis"), ("counter", r"exemplar"),
            ("muzzle", r"silenced|suppressed"), ("bayonet", r"bayonet|krieg"), ("tripod", r"tripod"),
            ("barrel", r"heavy barrel|long barrel|long-barrel|stub barrel"), ("stock", r"folding stock"),
-           ("load", r"arrows")]  # a kit that names its arrows has its load
+           ("load", r"arrows|mortar.*(smoke|krak)")]  # a kit that names its arrows has its load
 
 
 def guns_in(text):
