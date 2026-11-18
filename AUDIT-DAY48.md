@@ -121,3 +121,4 @@ Each has the DM's recommended answer. Until answered, the rule stands as written
 - **Mortar smoke rounds** (Q19): frag is the only standard round; smoke is a special load like the others. The mortar kits that named smoke or krak as standard now carry frag.
 - **Pox hounds** (Q20): the 6th's entry wins: packs of 3-6 with 2 steps each; they still go wild when the handler dies. Other cults keep 4 beasts with 1 step each.
 - **Chem-doctor** (Q21): his dose is a dose like any other (3 or 4 beats, then the crash unless dosed again), and **the ally gets the drug he was given, with its own effect and backfire, not a flat +2** (the player's correction); the roller rolls which. He pushes forward with the ally he dosed and keeps dosing him to keep him up.
+- **Hard methods** (Q22): the risk d20 is rolled once per sitting (from when hard methods begin until the interrogator stops or leaves); three sittings a day per prisoner.

@@ -566,9 +566,11 @@ the player tries to break or win over.
 
   A natural 20 doubles it. A natural 1 does nothing (no Will lost, set by the player).
 - **Hard methods** (pain, injury, deprivation; **a spoken threat alone is ordinary pressure, not a hard method**: the player, Ash on Ostrava day 36) take **5% more** on each check, but
-  roll a d20 each session: **1-3** the subject goes Down (and may die), and anything
-  said under pain may be a lie told to make it stop (DM rolls, hidden). Three
-  sessions a day at most before they pass out.
+  roll a d20 **each sitting**: **1-3** the subject goes Down (and may die), and anything
+  said under pain may be a lie told to make it stop (DM rolls, hidden). **A sitting** (settled by the player, day
+  48; it was 'session', a unit the line-by-line interrogation no longer uses) **starts when hard methods begin on a
+  prisoner and ends when the interrogator stops or leaves the room: one risk d20 per sitting.** Three
+  sittings a day per prisoner at most before they pass out.
 - **Reading them.** A Perception check reads their current Will: **20+** within
   1-2%, **15-19** within 5%, **10-14** within 10%, lower within 20% (or misread).
   The breaking point is never shown.
