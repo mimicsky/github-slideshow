@@ -107,6 +107,18 @@ come, one of them leads** (a champion: +2 health stages, +2.0, and his god's gif
 lone Marine gets no champion bonus. They come with what fits their warband (cultists, beasts, daemon engines). Even
 one is a real boss fight: las can't touch him, and hellguns only hurt on a crit or by wearing him down.
 
+**Astartes stats (set by the player, day 48; every Space Marine, traitor or loyal):**
+- **Health 10.0:** 10.0 Fine, 9.0 Skimmed, 8.0 Grazed, 7.0 Bruised, 6.0 Hurt, 5.0 Wounded, 4.0 Bleeding, 3.0 Badly hurt,
+  2.0 Broken, 1.0 Down. **No state penalties until Badly hurt (-1); Broken -2.** A champion: +2.0 (12.0).
+- **STR and DEX each 50-100**, rolled separately (+5 to +10): **every Marine has Strength behind the blow.**
+- **Space Marine armour** (tier 11; codex Part 8, Armour). **2 actions a beat.** **His suit covers everything: a shot
+  for the gaps meets the same armour** (only a bare head, helmet off, is open).
+- **Never breaks or surrenders** (no break checks).
+- **Helm autosenses:** no darkness penalty; can't be blinded or dazzled.
+- **Transhuman organs:** immune to gas and toxins.
+- **Big target:** shots at him +1 (an Ogryn is +2).
+- **Bolter drill:** no recoil with a bolter in his hands.
+
 ### Chaos cults (any god)
 
 - **Daemonhost.** A human body bound around a daemon by a cult or a renegade Inquisitor; it floats, burns cold,
