@@ -4032,6 +4032,55 @@
   "sellers": "MBF"
  },
  {
+  "name": "Mortar smoke rounds (6)",
+  "tv": 2,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "M"
+ },
+ {
+  "name": "Mortar flare rounds (6; light ~50 m for 3 beats)",
+  "tv": 1.5,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "M"
+ },
+ {
+  "name": "Mortar incendiary rounds (6; ~5 m alight, burns 2 beats)",
+  "tv": 4,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Mortar choke gas rounds (6; ~8 m cloud, 3 beats)",
+  "tv": 3.5,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Mortar airburst rounds (6; ~8 m, only a solid roof helps; duds on a 1)",
+  "tv": 4,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Mortar krak rounds (3; one target, as a krak; -2 to land)",
+  "tv": 4,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Mortar cluster rounds (3; bomblets over ~15 m; duds on a 1)",
+  "tv": 6,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
   "name": "Reinforced flak helmet",
   "tv": 0.75,
   "cat": "armour",
@@ -4163,6 +4212,188 @@
   "cat": "mod",
   "rarity": "U",
   "sellers": "MF"
+ },
+ {
+  "name": "Leather-wrap grip (melee: never slips; -2 to disarm him)",
+  "tv": 0.25,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Wrist pommel strap (melee: knocked from the hand, back in it next beat)",
+  "tv": 0.25,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Wide hilt (swords: +1 parry; -1 on the first swing of a chain)",
+  "tv": 0.75,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Scrap spikes (blunt: a solid hit at 2+ over, not 3+)",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Basket hilt (swords: +1 parry)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Serrated edge (blades: +1 step against no armour; -2 on the survival d6)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "10-degree edge (blades: +1 step against no armour; on armour it can dull or break)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Flanged head (blunt: a solid hit goes one armour step further)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Spiked pommel (a pommel strike after every chain: staggers, wears armour)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Longer grip or blade (melee: 7 m between swings, not 5)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Skeleton grip, melee (+1 swings and parries; +2 to disarm him)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Throwing balance (knives, hatchets: thrown once like a throwing knife, ~10 m)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Sharpened rim (shields: a bash counts as a blade hit)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Tri-stand (shields: planted, full cover from the front, hands free)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Shield extender (shields: one more level of cover)",
+  "tv": 3,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Ceramite-capped head (blunt: a shrugged hit counts 2 toward wear-down)",
+  "tv": 5,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Tsuka grip (swords: +1 swings, +1 parry, +1 disarms)",
+  "tv": 6,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Staff regulator (psyker staffs: +1 beat to charge, no Perils roll)",
+  "tv": 12,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Chain teeth, ceramite (set; through ceramite-forged; power armour on a raw 18+)",
+  "tv": 8,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Chain teeth, long spike (set; +1 step on flesh and flak; one armour step less)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Chain teeth, flat (set; one armour step further; flesh only on a solid hit)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Double chain band (a hit drops one more step; -2 on swings)",
+  "tv": 3,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Spike guard (chain weapons: a guard punch after every chain: staggers)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Sprayer barrel (flamers: half the reach, twice as wide)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Reinforced mortar barrel (half as far again)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Anti-dud breech (mortars: a dud only on a second d6 of 1-3)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MB"
  },
  {
   "name": "Fitted chameleoline cloak (cut for one set of armour: the cloak's bonus over carapace or heavier)",

@@ -197,15 +197,15 @@ getting up. Carried by door guards, gang enforcers and cultists holding a chokep
 Designed by the player, Ash on Ostrava day 48 (rarity and regular or custom: the DM's call). They roll on enemies' and
 allies' weapons like any attachment ([attachments.md](attachments.md#the-rollable-list)).
 
-- **Sprayer barrel** (uncommon; flamers and hand flamers; barrel, so not with a hand flamer's long barrel): an open
+- **Sprayer barrel** (uncommon, 1 TV; flamers and hand flamers; barrel, so not with a hand flamer's long barrel): an open
   funnel on the nozzle. **The gout reaches half as far but spreads twice as wide at its end:** a Ryza flamer ~7 m
   long and ~10 m wide; a heavy flamer ~10 m and ~14 m; **a hand flamer's narrow line becomes a ~3 m fan.**
-- **Reinforced mortar barrel** (uncommon; mortars; barrel): a thicker, banded tube that takes a bigger charge:
+- **Reinforced mortar barrel** (uncommon, 2 TV; mortars; barrel): a thicker, banded tube that takes a bigger charge:
   **shots go half as far again** (a light mortar to ~450 m, a pipe-bomb mortar to ~60 m).
 - **Extra shot chamber** (uncommon; custom; mortars; chamber): a fold-out chamber the size of one round on the
   tube's side. **Loaded, it swings in and fires a second round the same beat** (on the same spot, or one within
   ~10 m of it). **Refilling it takes the loader's beat.**
-- **Anti-dud breech** (uncommon; mortars; breech): a cleaner striker and a safety cradle in the base. **Fewer duds:**
+- **Anti-dud breech** (uncommon, 1 TV; mortars; breech): a cleaner striker and a safety cradle in the base. **Fewer duds:**
   when a round's landing d6 says dud (Mortar rounds, below), **roll a second d6: only 1-3 is still a dud**. And **a round
   stuck in the tube** (a pipe-bomb mortar's natural 1) **is lifted out safely** (a beat; nobody has to dive).
 
@@ -219,22 +219,24 @@ matters).
 
 **Light mortar**
 
-| Round | Rarity | Effect |
-| --- | --- | --- |
-| **Frag** | standard | everyone within ~5 m drops a step; only cover overhead helps (bestiary roles, Mortar team) |
-| **Smoke** | common | as a smoke grenade where it lands |
-| **Flare** | common | lights ~50 m for 3 beats: no darkness penalty for anyone in it |
-| **Incendiary** | uncommon | everyone within ~5 m catches fire; the ground burns 2 beats |
-| **Choke gas** | uncommon | an ~8 m cloud for 3 beats: -2 without a mask or rebreather |
-| **Airburst** | uncommon | bursts overhead over ~8 m: a step, and canvas, tarps or foliage overhead don't help (only a solid roof does). **Duds on a d6 of 1** |
-| **Krak** | rare | one target or vehicle, hits like a krak grenade; **-2 to land it** |
-| **Cluster** | rare | bomblets over ~15 m: everyone in it rolls a d6, **4-6 drops a step**. **Duds on a d6 of 1** |
+| Round | Rarity | Price | Effect |
+| --- | --- | --- | --- |
+| **Frag** | standard | 2 TV for 6 | everyone within ~5 m drops a step; only cover overhead helps (bestiary roles, Mortar team) |
+| **Smoke** | common | 2 TV for 6 | as a smoke grenade where it lands |
+| **Flare** | common | 1.5 TV for 6 | lights ~50 m for 3 beats: no darkness penalty for anyone in it |
+| **Incendiary** | uncommon | 4 TV for 6 | everyone within ~5 m catches fire; the ground burns 2 beats |
+| **Choke gas** | uncommon | 3.5 TV for 6 | an ~8 m cloud for 3 beats: -2 without a mask or rebreather |
+| **Airburst** | uncommon | 4 TV for 6 | bursts overhead over ~8 m: a step, and canvas, tarps or foliage overhead don't help (only a solid roof does). **Duds on a d6 of 1** |
+| **Krak** | rare | 4 TV for 3 | one target or vehicle, hits like a krak grenade; **-2 to land it** |
+| **Cluster** | rare | 6 TV for 3 | bomblets over ~15 m: everyone in it rolls a d6, **4-6 drops a step**. **Duds on a d6 of 1** |
+
+**Prices (set by the DM at the player's call, day 48: 'you make the price when I make the item'):** light-mortar rounds are sold by the box (Munitorum stores; the special ones also from Free Traders); **a scrap load is the thrown item itself dropped down the tube, so it costs what that item costs** (0.1 TV each, black market).
 
 **Pipe-bomb mortar (scrap loads; every one can dud)**
 
-| Round | Rarity | Effect |
-| --- | --- | --- |
-| **Pipe-bomb** | standard | a frag hit within ~3 m; a natural 1 sticks fizzing in the tube (Pipe-bomb mortar). **Duds on a d6 of 1** |
-| **Fire bottle** | common | a ~2 m pool of fire where it lands. **Duds on a d6 of 1** |
-| **Tin-can bomb** | common | as a thrown tin-can bomb (~3 m; half a step, 0.5; flak and heavier shrug it: explosives.md). **Duds on a d6 of 1** |
-| **Cracker bundle** | common | a flashbang: -2 within ~4 m. **Duds on a d6 of 1-2** |
+| Round | Rarity | Price | Effect |
+| --- | --- | --- | --- |
+| **Pipe-bomb** | standard | 0.1 TV | a frag hit within ~3 m; a natural 1 sticks fizzing in the tube (Pipe-bomb mortar). **Duds on a d6 of 1** |
+| **Fire bottle** | common | 0.1 TV | a ~2 m pool of fire where it lands. **Duds on a d6 of 1** |
+| **Tin-can bomb** | common | 0.1 TV | as a thrown tin-can bomb (~3 m; half a step, 0.5; flak and heavier shrug it: explosives.md). **Duds on a d6 of 1** |
+| **Cracker bundle** | common | 0.1 TV | a flashbang: -2 within ~4 m. **Duds on a d6 of 1-2** |

@@ -768,45 +768,47 @@ the hardwood grip). **Regular** parts are sold (the 10-degree edge, throwing bal
 his own smith's version). All roll on enemies' and allies' weapons like any attachment (attachments.md, The rollable
 list): one per slot.
 
+**Prices (set by the DM at the player's call, day 48: 'you make the price when I make the item'; each weighed against the shop's other parts):** on each regular part below and in the shop list (`pools.json`). Custom parts have no price: no trader carries them.
+
 **Regular**
-- **Leather-wrap grip** (common; any melee except worn weapons such as gloves, fists and knuckles; melee grip slot, `mgrip`): never slips in wet or bloody hands; **disarms against him -2**.
-- **Wrist pommel strap** (common; blades, blunt, power; strap): knocked from his hand, **it's back in it next beat, free**.
-- **Basket hilt** (uncommon; swords, sabres, cutlasses; guard): **+1 to parry**.
-- **Serrated edge** (uncommon; blades only; edge): **against no armour, a hit drops an extra health step**; anyone it
+- **Leather-wrap grip** (common, 0.25 TV; any melee except worn weapons such as gloves, fists and knuckles; melee grip slot, `mgrip`): never slips in wet or bloody hands; **disarms against him -2**.
+- **Wrist pommel strap** (common, 0.25 TV; blades, blunt, power; strap): knocked from his hand, **it's back in it next beat, free**.
+- **Basket hilt** (uncommon, 1.5 TV; swords, sabres, cutlasses; guard): **+1 to parry**.
+- **Serrated edge** (uncommon, 2 TV; blades only; edge): **against no armour, a hit drops an extra health step**; anyone it
   takes Down is **-2 on the survival d6** after the fight.
-- **Flanged head** (uncommon; blunt; head): **on a solid hit, it gets through one armour step further** than it
+- **Flanged head** (uncommon, 2 TV; blunt; head): **on a solid hit, it gets through one armour step further** than it
   normally could.
-- **Sharpened rim** (uncommon; shields; rim): **a shield bash counts as a blade hit.**
-- **Shield extender** (uncommon; shields; extender; the player, day 48): bolt-on side wings and a foot skirt.
+- **Sharpened rim** (uncommon, 1 TV; shields; rim): **a shield bash counts as a blade hit.**
+- **Shield extender** (uncommon, 3 TV; shields; extender; the player, day 48): bolt-on side wings and a foot skirt.
   **The shield gives one more level of cover from the front:** light becomes half (+2), half becomes heavy (+4),
   **heavy becomes full** (he can't be shot from the front while he keeps it up; flanks, grenades behind it, flamers
   and through-cover guns still reach him: codex, Cover). A slab shield with one is full cover for its Ogryn too.
-- **Throwing balance** (uncommon; knives, machetes, hatchets, one-handed axes; its own slot, `throwbal`): can be **thrown once like a throwing
+- **Throwing balance** (uncommon, 1 TV; knives, machetes, hatchets, one-handed axes; its own slot, `throwbal`): can be **thrown once like a throwing
   knife (~10 m)**.
-- **10-degree edge** (uncommon; blades; edge slot, so never with a serrated edge: back on edge, the player, day 48): **against no armour, a hit cuts deep and
+- **10-degree edge** (uncommon, 1 TV; blades; edge slot, so never with a serrated edge: back on edge, the player, day 48): **against no armour, a hit cuts deep and
   drops an extra health step.** But **a hit on armour, d6: 5 the edge dulls** (no bonus until it's re-sharpened),
   **6 the blade breaks.**
-- **Ceramite-capped head** (rare; blunt; head, so not with a flanged head): **a hit the armour shrugs still counts 2
+- **Ceramite-capped head** (rare, 5 TV; blunt; head, so not with a flanged head): **a hit the armour shrugs still counts 2
   toward wear-down.**
-- **Skeleton grip (melee)** (uncommon; any melee except worn weapons; melee grip slot, `mgrip`; not the gun part of the same name): lighter and quicker: **+1 on swings and parries**, but
+- **Skeleton grip (melee)** (uncommon, 2 TV; any melee except worn weapons; melee grip slot, `mgrip`; not the gun part of the same name): lighter and quicker: **+1 on swings and parries**, but
   **disarms against him +2.**
-- **Scrap spikes** (common; blunt; head): scrap spikes welded onto the head: it dents armour and bites deeper:
+- **Scrap spikes** (common, 0.5 TV; blunt; head): scrap spikes welded onto the head: it dents armour and bites deeper:
   **a solid hit when he beats the number by 2+, not 3+** (the player, day 48).
-- **Tri-stand** (uncommon; shields; stand): a folding three-legged stand that sets the shield down at an angle.
+- **Tri-stand** (uncommon, 2 TV; shields; stand): a folding three-legged stand that sets the shield down at an angle.
   **Planting it or lifting it is the beat's short move**, so it's **plant and shoot, or lift and shoot, with no other
   move.** Planted, it's **full cover from the front with his hands free**: he shoots from behind it by **peek and
   duck** (codex, Cover), not the shield's one-handed blind fire. (A beat is **one main thing plus a short move**; the
   plant or the lift **is** the short move: fight card; codex, A beat.)
-- **Wide hilt** (common; swords and power swords; guard, so not with a basket hilt): **+1 to parry, -1 on the first
+- **Wide hilt** (common, 0.75 TV; swords and power swords; guard, so not with a basket hilt): **+1 to parry, -1 on the first
   swing of a chain.**
-- **Spiked pommel** (uncommon; anything one-handed with a pommel; pommel, so not with a chain-linked cord):
+- **Spiked pommel** (uncommon, 1.5 TV; anything one-handed with a pommel; pommel, so not with a chain-linked cord):
   **one more swing at the end of every chain: a pommel strike.** A hit **drops no health step** (the player, day 48):
   it only **staggers (-1 on their next roll)** and **counts 2 toward armour wear-down.**
-- **Staff regulator** (rare; psyker staffs and staves; regulator): a damper on the staff's crystal: **every charged
+- **Staff regulator** (rare, 12 TV; psyker staffs and staves; regulator): a damper on the staff's crystal: **every charged
   power takes 1 more beat to charge, but no Perils roll while it's fitted.**
-- **Longer grip or blade** (uncommon; blades, blunt, chain and power weapons; length): a longer blade or haft:
+- **Longer grip or blade** (uncommon, 1 TV; blades, blunt, chain and power weapons; length): a longer blade or haft:
   **moving mid-chain, up to 7 m a beat between swings instead of 5** (codex house rule 5, Moving mid-chain).
-- **Tsuka grip** (rare; swords and power swords; melee grip slot, `mgrip`): a wrapped, two-hand-capable grip: leverage, blade control and
+- **Tsuka grip** (rare, 6 TV; swords and power swords; melee grip slot, `mgrip`): a wrapped, two-hand-capable grip: leverage, blade control and
   some shock absorption: **+1 on swings, +1 to parry, +1 on his disarm attempts.** Jack of all trades, master of none.
 
 **Custom (special-made)**
@@ -836,20 +838,20 @@ Designed by the player, Ash on Ostrava day 48 (numbers and rarity filled by the 
 
 **Teeth material** (material slot: one per weapon)
 - **Plasteel teeth** (uncommon, custom; Kell's chain axe): through heavy carapace on any hit, ceramite-forged on a solid hit.
-- **Ceramite teeth** (rare): **through ceramite-forged on any hit; power armour on a raw 18+.**
+- **Ceramite teeth** (rare, 8 TV): **through ceramite-forged on any hit; power armour on a raw 18+.**
 - **Adamantium teeth** (rare; the shop's 'Chainsword teeth, adamantium (set)', 12 TV): **through ceramite-forged on any hit;
   power armour on a solid hit.**
 
 **Tooth shape** (shape slot; without one, the teeth are jagged)
-- **Long spike teeth** (uncommon): **better on flesh:** against no armour or flak, **a hit drops an extra step.** **Worse on
+- **Long spike teeth** (uncommon, 1.5 TV): **better on flesh:** against no armour or flak, **a hit drops an extra step.** **Worse on
   armour:** it gets through **one armour step less** than it otherwise would.
-- **Flat teeth** (uncommon): **better on armour:** it gets through **one armour step further** than it otherwise would.
+- **Flat teeth** (uncommon, 1.5 TV): **better on armour:** it gets through **one armour step further** than it otherwise would.
   **Worse on flesh:** against no armour or flak, **only a solid hit drops a step.**
 
 **Band** (band slot)
-- **Double band** (uncommon): a second chain band: **a hit drops one more health step**, but less control: **-2 on swings.**
+- **Double band** (uncommon, 3 TV): a second chain band: **a hit drops one more health step**, but less control: **-2 on swings.**
 
 **Guard** (the chain-guard slot, `chguard`, so not with a chain guard; the hilt slot `guard` is the basket and wide hilts')
-- **Spike guard** (uncommon): spikes on the guard: **one more swing at the end of every chain, a guard punch.** A hit
+- **Spike guard** (uncommon, 1.5 TV): spikes on the guard: **one more swing at the end of every chain, a guard punch.** A hit
   **drops no health step**; it **staggers (-1 on their next roll).** **One end-of-chain strike a chain:** a weapon with a
   spiked pommel too still gets only one.
