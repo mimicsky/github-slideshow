@@ -376,6 +376,22 @@ pump**, with a selector near the trigger and a **skeleton stock**.
 - **Skeleton stock** (built in): light and quick: **+1 on quick-draws and on swapping targets.**
 - **Every attachment slot but the stock.** Standard shotgun range (the close blast to ~15 m; -2 past ~15 m).
 
+## Auto-shotgun, 'Kasr Thresher' drum pattern
+
+**Auto-shotgun, 'Kasr Thresher' drum pattern** (rare, 10 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48;
+name, price and the numbers he didn't set: the DM's). A full-auto shotgun built like a rifle: a buffer tube with a
+stock, a pistol grip, a railed handguard, a stub barrel, a magwell for its **30-round drum**, a top rail and a
+charging handle. **The shells do the hurting, not the gun** (the player, day 48: no bonus of its own beyond its
+rate of fire).
+- **Full auto: strings of up to 6**, no hit bonuses in the string (misses still -1). **Recoil 2** (the player, day 48).
+- **Jams on long strings:** on a string of 4 or more, **any natural 1-4 on a shot jams it** (clearing takes a beat);
+  on strings of 3 or less, only a natural 1.
+- **30-round drum** (codex Gear rules, Magazines: a spare 30-round drum is 0.3 TV). **Reloading takes the whole beat**
+  (no shot, no move).
+- **Stub barrel:** it spreads fast: **-2 past ~10 m** (the close blast still works to ~15 m).
+- **Slots:** the top rail (optic), the handguard (laser and lumen, under-barrel), a stock on the buffer tube, a muzzle
+  on the stub barrel. No barrel slot; the drum is built in.
+
 ## Web pistol, Arbites pattern
 
 **Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a

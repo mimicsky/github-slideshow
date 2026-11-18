@@ -86,6 +86,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Revolving shotgun, 'Kasr Turnstile' pattern](stub.md#revolving-shotgun-kasr-turnstile-pattern) (14-shell cylinder, semi-auto)
 - [Over-under pump shotgun, 'Kasr Twinstack' pattern](stub.md#over-under-pump-shotgun-kasr-twinstack-pattern) (stacked barrels, tube between)
 - [Combat shotgun, 'Kasr Switchback' dual-mode pattern](stub.md#combat-shotgun-kasr-switchback-dual-mode-pattern) (semi or pump)
+- [Auto-shotgun, 'Kasr Thresher' drum pattern](stub.md#auto-shotgun-kasr-thresher-drum-pattern) (full auto, 30-round drum)
 - [Shotgun shells, special](stub.md#shotgun-shells-special-loads) (man-stopper, dragon's breath, hellfire)
 - [Long shotgun barrel](stub.md#long-shotgun-barrel)
 

@@ -810,6 +810,10 @@
    [
     "Over-under pump shotgun, 'Kasr Twinstack' pattern",
     "U"
+   ],
+   [
+    "Auto-shotgun, 'Kasr Thresher' drum pattern",
+    "R"
    ]
   ],
   "melee": [
@@ -1555,6 +1559,10 @@
    [
     "Combat shotgun, 'Kasr Switchback' dual-mode pattern",
     "U"
+   ],
+   [
+    "Auto-shotgun, 'Kasr Thresher' drum pattern",
+    "R"
    ]
   ],
   "melee": [
@@ -2181,6 +2189,10 @@
    [
     "Combat shotgun, 'Kasr Switchback' dual-mode pattern",
     "U"
+   ],
+   [
+    "Auto-shotgun, 'Kasr Thresher' drum pattern",
+    "R"
    ]
   ],
   "melee": [
@@ -3205,6 +3217,10 @@
    [
     "Combat shotgun, 'Kasr Switchback' dual-mode pattern",
     "U"
+   ],
+   [
+    "Auto-shotgun, 'Kasr Thresher' drum pattern",
+    "R"
    ]
   ],
   "melee": [

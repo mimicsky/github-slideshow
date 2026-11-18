@@ -3997,6 +3997,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Auto-shotgun, 'Kasr Thresher' drum pattern (full auto, strings of 6, recoil 2; jams on 1-4 in strings of 4+; 30-round drum, reload takes the beat; -2 past ~10 m)",
+  "tv": 10,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
   "name": "Tin-can bomb (light it; ~3 m weak frag; the timing's off, duds on a 1)",
   "tv": 0.1,
   "cat": "explosive",
