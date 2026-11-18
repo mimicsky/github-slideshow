@@ -1542,7 +1542,12 @@ above. Holstered and sheathed weapons stay put.
 fired in a fight.** At **3 heat** the weapon must vent for one beat. Firing
 anyway at 3 heat: d20, on 1-5 it **overheats** (the bearer is burned and drops a step, 1.0, and
 the weapon is out of the fight). Heat clears after venting or when the fight
-ends. Slow-filled and rushed cells keep their own misfire chances.
+ends.
+
+**Cell fills and misfires (settled with the player, day 48; audit Q15).** A cell refilled properly on a reclamator is
+**slow-filled: 2 days** (two cells at once); it **misfires on a natural 1** on the shot (1 in 20). **A rushed cell: 1 day
+instead of 2, and it misfires on a natural 1 or 2** (1 in 10). **A misfire: the shot is wasted and the gun gains 1
+heat.** A cell stays what it was filled as until it is refilled.
 
 #### Ammo crates
 

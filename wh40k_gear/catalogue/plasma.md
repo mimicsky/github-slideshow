@@ -14,7 +14,7 @@ but power armour only on a solid hit (beats the shot by 3+).
 ## Tuned plasma cell
 
 **Tuned plasma cell** (player design, rare, 10 TV). A Mechanicus-tuned cell:
-**12 shots instead of 8.** Same misfire chance as its fill (slow-filled 1 in 20).
+**12 shots instead of 8.** Same misfire chance as its fill (slow-filled 1 in 20, rushed 1 in 10: codex, Plasma heat).
 
 ## Ancient plasma cell
 
@@ -44,7 +44,7 @@ for speed and shots.
   inside ~15 m); **power armour stops it.**
 - **More shots:** **30 shots from a standard cell** (45 from a tuned cell).
 - **Runs cooler:** **heat 1 per 6 shots** (codex, Plasma heat): at 3 heat it vents a beat.
-- Slow-filled and rushed cells keep their own misfire chances.
+- Slow-filled and rushed cells keep their own misfire chances (a natural 1, or a natural 1-2 rushed: codex, Plasma heat).
 
 ## Plasma repeater, 'Kasr Furnace' break-action lever pattern
 
