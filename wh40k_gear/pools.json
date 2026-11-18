@@ -1701,7 +1701,7 @@
   "sellers": "MAF"
  },
  {
-  "name": "Combat chain-knife, 'Kasr Gnaw' pattern (combat-knife frame, chain blade, spine motor, hilt lever; +1 strike first; chainsword bite)",
+  "name": "Combat chain-knife, 'Kasr Gnaw' pattern (combat-knife frame, chain blade, spine motor, hilt lever; +1 strike first; through carapace, heavy carapace only on a crit)",
   "tv": 3,
   "cat": "melee",
   "rarity": "U",

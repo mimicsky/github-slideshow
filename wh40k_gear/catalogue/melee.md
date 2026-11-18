@@ -195,8 +195,8 @@ may carry one.
 **Combat chain-knife, 'Kasr Gnaw' pattern** (uncommon, 3 TV; player design): a
 combat knife's shape with the blade replaced by a running chain, a small motor on
 the spine, and the throttle lever on the hilt. Fast: +1 to strike first in an
-exchange. It bites like a chainsword (through flak easily, carapace on a solid
-hit), but its short reach takes -1 to parry longer blades. Loud when running,
+exchange. It bites like a small chainsword: **through flak and carapace on any hit; heavy carapace only on a crit**
+(a short chain: one rung weaker than a chainsword at the top; settled by the player, day 48), but its short reach takes -1 to parry longer blades. Loud when running,
 so no quiet kills; switched off it is a poor, dull blade. Can't be thrown.
 
 ## Injector stiletto, 'Kasr Sting' pattern

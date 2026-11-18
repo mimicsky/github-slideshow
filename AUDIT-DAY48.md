@@ -129,3 +129,4 @@ Each has the DM's recommended answer. Until answered, the rule stands as written
   (3) **Glass jaw:** two hits sooner on every tier (4, 6, 8).
   (4) **Renown 'Unknown':** a natural 20 only.
   (5) **Weapon power cells:** 1 TV in the shop; recharged free on the ship's charging station (about an hour).
+  (6) **Kasr Gnaw chain-knife:** carapace on any hit; heavy carapace only on a crit.
