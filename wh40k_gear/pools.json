@@ -4620,6 +4620,13 @@
   "sellers": "MB"
  },
  {
+  "name": "Officer's pernach, Militarum pattern (winged mace: chains 3; a solid hit one armour step further; ergo grip; banner: his group reads break checks one closer to fighting on)",
+  "tv": 4,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "M"
+ },
+ {
   "name": "Riot shield (+1 block; half cover from the front)",
   "tv": 2,
   "cat": "armour",

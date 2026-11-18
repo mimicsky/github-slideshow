@@ -287,7 +287,8 @@ BUILTIN = [("optic", r"scope|range-finder|sprinter|kasr lance|exemplar|cognis"),
            ("laser", r"kasr tether|cognis"), ("counter", r"exemplar"),
            ("muzzle", r"silenced|suppressed"), ("bayonet", r"bayonet|krieg"), ("tripod", r"tripod"),
            ("barrel", r"heavy barrel|long barrel|long-barrel|stub barrel"), ("stock", r"folding stock"),
-           ("load", r"arrows|mortar.*(smoke|krak)")]  # a kit that names its arrows has its load
+           ("load", r"arrows|mortar.*(smoke|krak)"),
+           ("mgrip", r"pernach"), ("pommel", r"pernach")]  # the pernach's built-in ergo grip and banner (day 48)  # a kit that names its arrows has its load
 
 
 def guns_in(text):

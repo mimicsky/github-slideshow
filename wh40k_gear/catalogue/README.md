@@ -193,6 +193,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Ball mace (scrap)](melee.md#ball-mace-scrap)
 - [War maul, Militarum pattern (two-handed)](melee.md#war-maul-militarum-pattern-two-handed)
 - [Morning star, Militarum pattern](melee.md#morning-star-militarum-pattern)
+- [Officer's pernach, Militarum pattern (winged mace with a rank banner)](melee.md#officers-pernach-militarum-pattern-winged-mace-with-a-rank-banner)
 - [Scrap chainsword](melee.md#scrap-chainsword) (pull-cord start; stalls on a raw 1)
 - [Chain glove](melee.md#chain-glove) (worn; bites the wearer on a raw 1)
 - [Scrap saw-axe](melee.md#scrap-saw-axe) (buzz-saw on a pipe; flesh, not armour)
