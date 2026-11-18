@@ -14,7 +14,7 @@ separate file per campaign, not in here.
 
 ## How to read this codex (the map)
 
-Like the gear catalogue's table of contents: **read the "Always" sections on every resume (about 450
+Like the gear catalogue's table of contents: **read the "Always" sections on every resume (about 660
 lines); open the rest only when its trigger comes up.**
 
 **The paper trail (set by the player, day 47): things that connect point to each other.** Any rule, item or entry that depends on another names where that other one is (a "see ..." or a link), both ways where it matters: an item with a gear ability carries an **Abilities:** line to [`wh40k_gear/catalogue/abilities.md`](wh40k_gear/catalogue/abilities.md), and the ability lists the item. Follow the trail and nothing connected gets missed. New rules are written that way from now on. Parts 1-5 are plain 5e reference, switched off
@@ -78,8 +78,8 @@ change any line and I play by the new version from then on.
 | Who rolls monster dice | I do, with a real random roll, shown to you | |
 | Do I fudge results | No. The dice stand, including against you | |
 | Lethality | Real. You can die, but not from nothing | |
-| Critical fumbles on a nat 1 | No, just a miss | |
-| Tracking rations and encumbrance | No | |
+| Critical fumbles on a nat 1 | No, just a miss, except where a rule gives a natural 1 its own result (a Dirty gun's jam, a thrown grenade, a training fall) | |
+| Tracking rations and encumbrance | No (only the food states: Part 6, Food) | |
 | Tracking ammunition and spell slots | Yes | |
 | Tone | Set in session 1 | |
 
@@ -111,7 +111,7 @@ Standing preferences, set during play. They apply to every campaign.
 - **Full name and role on every mention, everywhere** (set by the player, Ash on Ostrava session 10). Every ally carries their full tag from the kit table each time they appear: in the math lines, the dice lists and the scene, not only the first time: *Tavi (Light-bringer, demolitions)*, *Kell (Light-bringer sergeant, leader)*, *Tey (Light-bringer, gunslinger)*. A short 'Tavi 1, Sorel 14: missed' is wrong. **The name is the one in the Full kit's first column** (Dace, Isk, Kell): never add a surname the table doesn't give (set by the player, Ash on Ostrava day 34, after made-up surnames slipped in). Enemies use their bestiary class, never a made-up word: *Grate man (assassin)*, not *(blade)*.
 - **Detail the scenes** (set by the player, same session). Show what it looks, sounds and smells like, and what each person in the shot is doing, so the player can picture it; keep the math lines compact and the detail in the scene.
 - **'Still up' board at the end of every fight beat** (set by the player, Ash on Ostrava session 10). After the scene's math, list every enemy still standing (tag, health number and state, where, what they hold), the Down count, and the Light's hurt and key states (heat, ammo, hazards), so the player can plan the next beat.
-- **Narrate each roll line** (set by the player, Ash on Ostrava session 10). A math line says what happened in a few words, not just the numbers: *Kell (Light-bringer sergeant, leader) puts one round into Knife crank man: 16+7 = 23, it rips through him, badly hurt.* The full scene still follows.
+- **Narrate each roll line** (set by the player, Ash on Ostrava session 10). A math line says what happened in a few words, not just the numbers: *Kell (Light-bringer sergeant, leader) puts one round into Knife crank man (grunt): 16 + 4 DEX + 2 chain + 1 sight = 23, it rips through him: 3.0 (Hurt).* The full scene still follows.
 - **Dialogue as a script.** Speech is written in play format, one line per
   speaker: `Kell (Light-bringer sergeant, leader): "line"` (speech inside quotation marks; the player, Ash on Ostrava day 36). Action and description stay as prose
   around it. Set by the player, session 4.
@@ -183,7 +183,7 @@ get what you wanted in a reduced or costly form, and I narrate the cost.
 
 Scope of the rule:
 
-- **Ability checks only.** Attack rolls and saving throws are untouched.
+- **Ability checks only.** Attack rolls and saving throws are untouched, **except where a rule names it:** grenade throws, launcher and mortar shots (a miss by 1-2 is a half effect: Hollis's role rule; bestiary roles, Mortar team) and the medic's patch roll.
 - **Attack rolls** keep meet-it-beats-it. A tie hits. Attacks already have
   granular outcomes through damage rolls and crits, and shaving 5% off every
   attack would quietly punish martial characters far more than casters.
@@ -215,7 +215,7 @@ How it works:
 
 ### 3. Hidden DCs
 
-I don't announce the target number. The player rolls, states the total, and I
+I don't announce the target number. The player rolls, gives the number on the die (the DM adds the modifiers), and I
 narrate what happens. This keeps the tension in the fiction rather than in the
 arithmetic.
 
@@ -236,7 +236,7 @@ What is switched off:
 - The action / bonus action / movement economy
 - Armor Class and to-hit arithmetic
 - Opportunity attacks and positioning in feet (cover: Part 6, Cover; distances in metres; fights run in beats: Part 6, A beat)
-- Hit points as a running number
+- D&D hit points (replaced by the small health number below)
 
 What stays on:
 
@@ -271,18 +271,32 @@ and half steps set by the player, day 48**):
   **The state only changes at the whole number:** 3.5 is still Fine, 2.5 still Hurt, 1.5 still Badly hurt.
 - **Written as the number, then the state:** `Tamsin 4.0 (Fine)`, `Coat guy (gunslinger) 2.5 (Hurt)`, on the sheet, in the
   DM notes and on the 'Still up' board.
-- **Patches give back 1.0** (bestiary roles, Medic): Badly hurt to Hurt, Hurt to Fine; **a Down patient comes back at 3.0
-  (Hurt)**. Never above their full number.
+- **The floor is 1.0:** health never goes below it. Someone already Down who is **hit again** (any hit their armour
+  doesn't shrug, half steps included) is finished: enemies die; for the Light, see Breaking and Down.
+- **A crit adds 1.0 to whatever the hit does** (a half-step hit becomes 1.5), except against armour that would have
+  shrugged it, where a crit is **1.0 flat**, and against armour the weapon is Too weak to matter for (Part 8, Armour).
+- **Patches give back 1.0, rounding a half up** (bestiary roles, Medic): Badly hurt (2.0 or 1.5) to **3.0**, Hurt (3.0 or
+  2.5) to **4.0**; **a Down patient comes back at 3.0 (Hurt)**. Never above their full number. **Topping up a lone half
+  step** (3.5 to 4.0) comes free with any successful patch roll and doesn't use the medic's once-per-person. **A near-miss
+  patch** (the roll misses by 1-2) gives back **0.5** (DM's defaults, day 48).
+- **Between fights** the number comes back with rest and care at the DM's call (Breaking and Down; the surgeon, the cook,
+  Fast healer and Slow healer shift the time): there is no fixed rate yet.
 - **What does half a step now:** a near-miss "half effect" where the full effect is a step (Hollis's grenades, a mortar's
-  near-miss); laspistol-punch guns against flak (catalogue las.md). More as the player sets them.
+  near-miss); laspistol-punch guns against flak (catalogue las.md; Part 8, Armour). More as the player sets them. (The
+  plasma charge's "half a step more punch" in plasma.md is armour punch, not health.)
 
 **Some roles and gear add more, so check them** (each in its own entry):
-- **Bigger tracks start higher** (the old "extra health stages": each is +1.0 above Fine, with no penalty until 3.0):
-  **Zealot 5.0**, **Skitarius 5.0**, **Brute / mutant 6.0**, **Mutant charger 6.0**, **Ogryn 7.0**, **human bosses 6.0**,
-  **monster bosses 8.0**. All in `wh40k_gear/bestiary/roles.md` and `bosses.md`.
-- **Short tracks** (beasts, cyber-mastiffs, poxwalkers): "N health steps" or "N health states" means **N steps to Down**, so
-  they **start at N + 1.0** (a 2-step mastiff at 3.0, a poxwalker at 2.0) and **take no state penalties**: they fight at
-  full until Down (DM's default, day 48).
+- **Bigger tracks start higher** (the old "extra health stages": each is +1.0 above 4.0): **Zealot 5.0**, **Skitarius
+  5.0**, **Brute / mutant 6.0**, **Mutant charger 6.0**, **Ogryn 7.0** (flagged to the player, day 48: its old list named
+  only two extra stages), **human bosses 6.0**, **monster bosses 8.0**. All in `wh40k_gear/bestiary/roles.md` and
+  `bosses.md`. **Anything above 3.0 is Fine for the rules: no penalty.** The old names for the numbers in between
+  (Grazed, Bruised, Wounded) are flavour: write `5.0 (Fine)`. **Monster bosses** keep their own stage names
+  (bosses.md) and **take no state penalties** unless their entry says so (DM's default, day 48).
+- **"Stages" and "steps":** a boss's "N health stages" count Fine and Down, so it **starts at N.0** (8 stages: 8.0);
+  a small creature's "N health steps" (or "states") are **steps to Down**, so it **starts at N + 1.0**.
+- **Short tracks** (beasts, cyber-mastiffs, poxwalkers): a 2-step mastiff starts at 3.0, a poxwalker at 2.0. They
+  **take no state penalties** (they fight at full until Down) and are **written as the number only** (`Mastiff 3.0`),
+  since the standard state names don't fit them (DM's default, day 48).
 - **Ignoring the penalties:** a **stimm** ignores Hurt while it lasts; a **concentrated stimm** makes Badly hurt fight as
   Hurt; **rot-stimm** ignores Hurt and Badly hurt; **berserker** and **chem-doctor** doses ignore Hurt (`drugs.md`;
   roles.md, Berserker and Chem-doctor).
@@ -290,8 +304,8 @@ and half steps set by the player, day 48**):
   (`heretic.md`, Blessed cultists; roles.md, Berserker).
 - **Soaking hits:** **Nurgle-blessed**, the first hit does nothing; **Tzeentch-blessed**, one hit a fight misses
   (`heretic.md`); **Tamsin's Defense style**, some hits that would make him Hurt only shake him (campaign sheet).
-- **Extra steps on a hit:** some weapons drop the target one extra step (their catalogue entries); a **crit** always does
-  (Part 6, Shots and hits).
+- **Extra steps on a hit:** some weapons drop the target one extra step (their catalogue entries); a **crit** does too,
+  except against armour that would have shrugged the hit (Part 6, Shots and hits; Part 8, Armour).
 
 The honest trade-off, stated so it isn't a surprise later: when dice stop
 deciding every exchange, the DM decides more. Some tension becomes theatrical.
@@ -438,7 +452,7 @@ day's end, from the training plan and from what happened in play.
 | --- | --- |
 | STR | Working out (lifting, bodywork, anything mostly muscle), sparring and mat matches, melee drills (chain axe on the post, sword forms), hauling heavy kit or crates, carrying a wounded man, climbing, breaching by hand; **a successful STR roll** in play (e.g. breaking the frozen clamp); **a melee kill** |
 | DEX | Range work, quick-draw drills, throwing knives or grenades at marks, stealth and crawlway practice, flying (pilots), lift-pack hops, fine handwork (lockpicking, trigger work); **a successful DEX roll** in play (a dodge, a dive, a clean draw); **a shot or thrown kill** (gun, thrown knife, grenade) |
-| CON | Runs and heavy-kit marches, cold, void and gas drills, holding a post through a long watch in bad conditions; **a successful CON roll** in play (beating poison, plague, gas, cold); **taking a hit and staying up**: a hit that only shakes you (it bounces off) or drops you just one health step (not two, not Down) |
+| CON | Runs and heavy-kit marches, cold, void and gas drills, holding a post through a long watch in bad conditions; **a successful CON roll** in play (beating poison, plague, gas, cold); **taking a hit and staying up**: a hit that only shakes you (it bounces off) or drops you a step or less (not two, not Down) |
 | INT | Reading manuals, cipher and vox work, repairs and crafting, studying plans and maps, reading slates and ledgers for intel; **a successful INT roll** in play; **DM's call: a clever play** (the player thinks of something genuinely smart that works: a trick, a plan, a deduction, a use of the ground; no roll needed). The DM marks it in the scene as *(clever play: INT rep)* |
 | WIS | Coaching others, **commanding** (+0.1 per order given in play; anyone who gives orders: the player, Kell, Varga), treating the sick and wounded, tracking, standing a real watch, reading people in an interrogation, prayer and vigil; **a successful WIS roll** in play (Perception, Insight, resisting fear or the warp) |
 | CHA | Briefings and speeches, bargaining and trading, interrogation talk, leading a drill, recruiting, **a deep talk** (a real heart-to-heart, not small talk); **a successful CHA roll** in play (a bluff, a threat, a persuade); **DM's call: earned respect** (someone shows real respect for what the player said or did; marked *(respect: CHA rep)*) |
@@ -453,7 +467,7 @@ day's end, from the training plan and from what happened in play.
   **+0.2 an hour** in the stat (instead of +0.1). **Tamsin or Kell must be there the whole
   time**; nobody hard-trains alone. **After each hour, roll a d20 for each trainee** (the DM
   rolls openly; the trainee's stacked penalty applies to it):
-  - **1-3: hurt.** A strain, a burn, a pulled shoulder: off the line, **resting for an hour**.
+  - **1-3: hurt (a training knock: no health step).** A strain, a burn, a pulled shoulder: off the line, **resting for an hour**.
   - **4-10: tired.** **-1 on all their rolls**, the next hourly d20 included. **Penalties stack**
     each time (-1, -2, -3...) **until they rest**.
   - **11-20: a little tired, no penalty.**
@@ -586,7 +600,7 @@ game-breaking.
 | 4 | Quick hands | +1 on quick-draws; clearing a jam costs no beat, once a fight |
 | 5 | Strong back | +1 on STR rolls to haul, carry, climb or breach |
 | 6 | Thick-skinned | The first shrugged hit each fight doesn't count toward wear-down |
-| 7 | Fast healer | Recovers from a wound in less time; patches on them +1 |
+| 7 | Fast healer | Recovers from a wound in less time; +1 on the patch roll when someone patches them |
 | 8 | Iron gut | +1 on saves against poison, gas and plague |
 | 9 | Brave | +1 against fear, intimidation and break checks |
 | 10 | Lucky | Once a mission, reroll a natural 1 |
@@ -601,13 +615,13 @@ game-breaking.
 | 19 | Hardy | No penalty from cold, heat or thin air |
 | 20 | Pious | +1 on saves against the warp and corruption (stacks with seals) |
 | 21 | Iron grip | Can't be disarmed by a solid hit; +1 on STR to hold on, grapple or keep hold of a weapon |
-| 22 | Hard to kill | +1 when a medic patches them up from Down; enemies: +1 on the survival d6 |
+| 22 | Hard to kill | +1 on the patch roll when a medic patches them up from Down; enemies: +1 on the survival d6 |
 | 23 | Sharp memory | +1 on INT to recall faces, routes, codes and plans |
 | 24 | Runner | +1 on sprints and chases |
 | 25 | Sure-footed | No penalty on bad footing (ice, oil, rubble, a pitching deck); +1 against being knocked down |
 | 26 | Good arm | +1 on throws (grenades, knives) |
 | 27 | Iron will | +1 against interrogation; if taken, their Will starts 10% higher |
-| 28 | Field medic | +1 on patching wounds (a medic's patch, or anyone's Hurt-to-Fine patch) |
+| 28 | Field medic | +1 on their own patch rolls (a medic's patch, or anyone's Hurt-to-Fine patch) |
 | 29 | Quick reflexes | +1 to act first when it matters who moves first (an ambush going off, a shootout) |
 | 30 | Scrounger | When they're part of the search, the looting d20 finds a stashed rare on a **17-20**, not just a natural 20 (Part 8, Loot; changed by the player, Ash on Ostrava day 37; was 19-20) |
 | 31 | Defender | Better in cover: **cover on them counts one step more** (light +2, half +3, heavy +5) (added by the player, Ash on Ostrava day 37) |
@@ -626,7 +640,7 @@ game-breaking.
 | 3 | Shaky hands | -1 on single aimed shots |
 | 4 | Clumsy | A natural 1 on a DEX roll also drops or trips over something |
 | 5 | Weak stomach | -1 on saves against gas and poison; retches at gore |
-| 6 | Slow healer | Recovers from a wound in more time; patches on them -1 |
+| 6 | Slow healer | Recovers from a wound in more time; -1 on the patch roll when someone patches them |
 | 7 | Jumpy | -1 against fear and break checks; startles at loud noises |
 | 8 | Unlucky | Once a day, the first natural 20 is rerolled (set by the player, Ash on Ostrava day 37; was a natural 2 counting as a 1) |
 | 9 | Heavy sleeper | Hard to wake; loses the first beat of a night attack |
@@ -712,21 +726,20 @@ in the math (`14 + 4 DEX + 2 aimed rifle + 3 eye + 2 order + 2 surprise - 1 airb
    the Light counts as traitor elites). Leader/rally effects (**Kell's +1 to the whole Light when he's present**: bestiary roles,
    Leader; changed with the player, day 36 cleanup), Morcant's suppression (targets he suppresses take -2), spotters, bodyguards.
 4. **Surprise:** attacks on a surprised group get **+2** (they can't act or defend that beat; A beat, below).
-5. **Gear:** every attachment by slot (barrel, optic, trigger, stock, grip, muzzle, magazine,
-   under-barrel) **and every eye** (shooting eye: targeter +3 aimed, rangefinder +2 past ~30 m, gun link:
+5. **Gear:** every attachment in every slot (the slot list: catalogue attachments.md, Slots) **and every eye** (shooting eye: targeter +3 aimed, rangefinder +2 past ~30 m, gun link:
    misses don't cost the chain's -1). **A gun's optic and a HUD eye's aim bonus stack**
    (Varga: reflex sight +2 inside ~30 m, plus the eye's targeter +3). Weapon blessings, crit ranges, the gun's own
    entry (string limit, armour it pierces, quirks).
 6. **The string:** **shot chain** (house rule 6: +2 after a first-shot hit, +1 after later hits, -1 after a
    miss; some guns differ: the heavy stubber has no hit bonuses), **swapping** (-1 for a different target than
-   the last shot in the string), **recoil** (each shot after the first: 0 las and stub pistols; 1 autoguns on
+   the last shot in the string), **recoil** (each shot after the first: 0 las weapons and stub or auto pistols; 1 autoguns on
    burst, SMGs, machine pistols, shotguns, revolvers, hand cannons, heavy stubbers braced; 2 bolt weapons, heavy
    stubbers on the move, anti-materiel rifles), drums (-1 quick-draw), the gun's string limit, **dual pistols** (string doubled, -3 every shot; house rule 5, Dual-wielding).
 7. **Movement:** airborne (own shots -2, traitor elites -1; shots at them -3), run and gun (-2), shooting from
-   cover (free).
+   cover (free), **peek and duck (the first shot of the string -1; Cover)**.
 8. **Standing bonuses:** **traits** (house rule 9), finished books (e.g. +1 will checks), crafting manuals, armour
    (heavy carapace front, Defense style), fields (refractor, conversion).
-9. **Conditions:** health step (Hurt -1, Badly hurt -2), **food state**, fatigue / no sleep, Hurt shoulder-type
+9. **Conditions:** health state (3.0 or 2.5 Hurt: -1; 2.0 or 1.5 Badly hurt: -2; short tracks and monster bosses: none; house rule 4), **food state**, fatigue / no sleep, Hurt shoulder-type
    limits, sickened, blinded / dazzled (spec flash), **cover on the target (Cover table: +1 / +2 / +4 / full)**,
    darkness / smoke (a low-light optic or lumen cancels darkness), Neglected or Dirty guns (jam range).
 10. **Saves:** purity seals (advantage vs warp/plague/madness), rebreathers (advantage vs gas), Indomitable.
@@ -791,10 +804,10 @@ What the DM has always done, written down so anyone can run it.
 - **Damage:** a hit drops the target **one health step, 1.0** (4.0 Fine → 3.0 Hurt → 2.0 Badly hurt → 1.0 Down; house rule 4),
   **unless their armour stops that kind of weapon** (Part 8, Armour: "shrugs off" means no step for that hit, but **shrugged hits wear them down**: every 6 drop a step, every 10 for power armour; day 47).
   Bigger tracks (zealots, Skitarii, Ogryns, brutes, bosses) start above 4.0; a half step is 0.5 (house rule 4).
-- **Crit:** drops **one extra step** (crit ranges: a natural 20 for most; Tamsin 19-20; Vigil 17-20 with heat).
+- **Crit:** drops **one extra step: it adds 1.0 to whatever the hit does** (a half-step hit becomes 1.5; against armour that would have shrugged it, 1.0 flat: Part 8, Armour) (crit ranges: a natural 20 for most; Tamsin 19-20; Vigil 17-20 with heat).
 - **"Solid hit"** (wording some gear uses): the total **beats the hidden number by 3 or more**.
-- **Example:** a cultist behind crates (+2) at normal range: target 17. Tamsin rolls 12 + 7 DEX + 4 proficiency = 23:
-  a hit and a solid hit; flak doesn't stop Vigil, so the cultist drops a step.
+- **Example:** a cultist behind crates (+2) at mid range, 31-60 m (15): target 17. Tamsin rolls 12 + 8 DEX + 4 proficiency = 24:
+  a hit and a solid hit; flak doesn't stop Vigil, so the cultist drops a step (4.0 to 3.0, Hurt).
 
 ### Breaking and Down (set by the player, Ash on Ostrava session 10)
 
@@ -807,7 +820,7 @@ What the DM has always done, written down so anyone can run it.
   checked again the next time its losses jump (another quarter Down).
 - **Down enemies, after the fight:** d6 each, **1-3 dead, 4-6 alive but out** (prisoners, questioning).
 - **The Light (Tamsin and his people) never die from going Down.** A Light-bringer who goes Down is **out of
-  the fight**, and **dies only if finished off or hit once more while Down**. **A medic can bring them back:**
+  the fight**, and **dies only if finished off or hit once more while Down** (any hit their armour doesn't shrug, half steps included; health itself never goes below 1.0). **A medic can bring them back:**
   a successful patch (Down → Hurt, one stimm; bestiary roles, Medic) puts them **back in the fight at Hurt** (set
   by the player, session 10, so the medic can save a fight). Unpatched, they sit out the rest of it. Afterwards
   they're out for **more time depending on the hit** (the DM sets it from how bad it was; the medic's and
@@ -816,9 +829,9 @@ What the DM has always done, written down so anyone can run it.
 
 ### Matches, bouts and knife bouts
 
-- **Two-on-two knife matches ('team building', the player's design, Ash on Ostrava day 37):** pairs (chosen or drawn); knife-bout points (minor 1, vital 2: a raw 17+ or a win by 5+); **a fighter is down at 2 hits; one round: the match ends when both of one pair are down**; initiative d20 + DEX; in order, each fighter still up chains up to 3 strikes (knives are light; only an evade-and-counter ends the chain) at an opponent of their choosing; the losing pair does push-ups until the next match ends. Tamsin adds +11 as in the knife bouts.
+- **Two-on-two knife matches ('team building', the player's design, Ash on Ostrava day 37):** pairs (chosen or drawn); knife-bout points (minor 1, vital 2: a raw 17+ or a win by 5+); **a fighter is down at 2 hits; one round: the match ends when both of one pair are down**; initiative d20 + DEX; in order, each fighter still up chains up to 3 strikes (knives are light; only an evade-and-counter ends the chain) at an opponent of their choosing; the losing pair does push-ups until the next match ends. Tamsin adds +12 as in the knife bouts.
 - **The clearing game (hide-and-clear, the player's design, Ash on Ostrava day 38):** training las packs (harmless marker beams; a marker hit = out). Six hiders spread over the ship (one spot each, rolled secretly; a hider who announced a spot or just used it rerolls); **one attacking pair clears the whole ship, hangar to bridge, then a reset**. **Search:** the pair's best d20 + WIS (+ a tracking specialty) vs the hider's d20 + DEX (+ specialty; two metres wide -2). Found: the attackers shoot first (vs 10; 15 tucked behind cover; 20 through a finger gap; a blind shot round a frame gets no laser bonus). Missed: the hider's surprise shot first (+2), then turns. Clearing a doorway slice by slice, aimed and ready, takes away the +2. Listening through a shut door -5 (another -2 with noise inside): beat the hide and you know where, and shoot first with no search. Losers' push-ups till the next game ends, on the boss's word. **The dark round:** all lights off; the attackers carry 2 gun-lights (the ship's spares), the hiders 6 chalked training knives; one hit = a down (touch or marker); hiders stalk and pick their moment; +2 to the hide for the dark. Found: shoot first (vs 10); missed: the hider's knife from behind (+2) at the back attacker; a back man facing aft takes away that +2. **A quiet takedown** (the hider's Stealth vs the other attacker's Perception; a tie stays unnoticed) **earns an hour off the hider's range debt** (banked if they owe none) and a second surprise strike. A crowd in one room: -2 to every hide; one Perception roll per attacker against everyone; no quiet takedowns in a swarm. Height (a shelf, a container roof) +2 to the hide until the searchers have seen the trick. A thrown training knife counts edge-first (harder number). Run it room by room, stopping for the player after each room where something happens.
-- **Matches and contests go round by round** (shootouts, bouts, races): roll one round, show it, stop for the player (who may coach or react), then the next. Never run a whole match in one go. **In mat bouts a "round" is a touch:** play the blocks and parries straight through and stop only when a touch lands. Mat bouts use blunt practice swords only (no shields, no specialties): d20 + STR each. **Knife bouts** (blunted knives, chalked edges; no specialties): **d20 + DEX each** (**Tamsin adds his proficiency**: +11; changed with the player, day 36 cleanup); blocks are **slips**, parries are **evade-and-counter**; a landed strike to hand, arm or leg is **minor (1 hit)**, to head, neck, torso or back is **vital (2 hits)**: vital on a **raw 17+ or a win by 5+**, otherwise minor; **first to 2 hits wins the round, first to 5 rounds wins the bout** (in Ash on Ostrava, Dace and Hollis judge). In real fights knives use the better of STR or DEX (house rule 5, "Which stat"). Set by the player, Ash on Ostrava session 10.
+- **Matches and contests go round by round** (shootouts, bouts, races): roll one round, show it, stop for the player (who may coach or react), then the next. Never run a whole match in one go. **In mat bouts a "round" is a touch:** play the blocks and parries straight through and stop only when a touch lands. Mat bouts use blunt practice swords only (no shields, no specialties): d20 + STR each. **Knife bouts** (blunted knives, chalked edges; no specialties): **d20 + DEX each** (**Tamsin adds his proficiency**: +12 (8 DEX + 4; DEX +8 since day 38); changed with the player, day 36 cleanup); blocks are **slips**, parries are **evade-and-counter**; a landed strike to hand, arm or leg is **minor (1 hit)**, to head, neck, torso or back is **vital (2 hits)**: vital on a **raw 17+ or a win by 5+**, otherwise minor; **first to 2 hits wins the round, first to 5 rounds wins the bout** (in Ash on Ostrava, Dace and Hollis judge). In real fights knives use the better of STR or DEX (house rule 5, "Which stat"). Set by the player, Ash on Ostrava session 10.
 
 ### Rulings made at the table
 
@@ -830,9 +843,10 @@ decided yet, I explain the default, we choose, and I log it here or promote it
 to a house rule above if it's big enough.
 
 Walked through so far: rules 1 to 9, core mechanics through turn structure.
-Still undecided and due to come up in play: actions, opportunity attacks, crits,
-death saves, cover, movement, conditions, exhaustion, spellcasting, concentration,
-rests, and leveling.
+Still undecided and due to come up in play: exhaustion, spellcasting, concentration
+and rests. (Decided since this list was first written: actions and movement (A beat),
+opportunity attacks (off), crits (Shots and hits), Down in place of death saves (Breaking
+and Down), cover (Cover), conditions (Roll checklist, line 9) and leveling (by XP).)
 
 | Situation | Ruling | Session |
 | --- | --- | --- |
@@ -842,7 +856,7 @@ rests, and leveling.
 | Man-portable multi-laser (rare loot) | → catalogue: heavy.md, Man-portable multi-laser | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | Mining charges and bomb-runner blasts | → catalogue: explosives.md, Mining charges | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | Ship and vehicle autocannons on people | → catalogue: heavy.md, Ship and vehicle autocannons on people | Ash on Ostrava, day 34 (DM default; the player may change it) |
-| A non-medic patching | Anyone can patch **Hurt to Fine** at **d20 + WIS** (no medic +4) against the normal 15; **only a medic brings someone back from Down** | Ash on Ostrava, day 34 (DM default; the player may change it) |
+| A non-medic patching | Anyone can patch **Hurt to Fine** (someone at 3.0 or 2.5 back to 4.0; it also tops up a 3.5) at **d20 + WIS** (no medic +4) against the normal 15; **only a medic patches Badly hurt (2.0 or 1.5) or brings someone back from Down** | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | A failed medic patch | Can be tried again next beat; the medic's 'once per person' counts only the patches that work | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | Unarmed knockouts | A fist, shoulder or kick that puts someone Down counts as **non-lethal, like a limb shot**: **+2 on the survival d6** (dead only on a 1) when every step came from limb shots or unarmed blows | Ash on Ostrava, day 34 (DM default; the player may change it) |
 | Selling loot to a trader | The trader pays **half the catalogue TV for sound items, a quarter for Dirty, Neglected or damaged, a tenth for scrap** (shot-up flak, stripped parts); the quartermaster's haggle adds its % on top | Ash on Ostrava, day 36 (DM's call, Vashti's Rock; the player may overrule) |
@@ -879,7 +893,7 @@ impossible, no roll saves it.
 Default DCs: 10 easy, 15 medium, 20 hard.
 
 **Who starts the roll.** I do. The player describes the action in plain
-language, and I name the check and the DC. The player never has to know which
+language, and I name the check (the DC stays hidden: house rule 3). The player never has to know which
 skill applies, and is never expected to announce one. "I look around the room"
 is the correct input; "I roll Perception" is not required and I don't ask for
 it. A player may still propose a check, and I either accept it or name the one
@@ -1038,7 +1052,7 @@ ladder a hit moves you.
   open helmets leave the face; a full helmet covers it, -1 Perception without a lens or auspex).
 - **Part-armour:** a plate that only covers one side counts only from that side (Tamsin's heavy front: shots
   from the side or back hit plain carapace; a chest-only carapace protects the chest).
-- **Crits always get through** (except **Too weak to matter**, below). Against armour that would have shrugged the hit, a crit drops just one step (no extra).
+- **Crits always get through** (except **Too weak to matter**, below). Against armour that would have shrugged the hit, a crit drops just one step (1.0 flat, no extra, whatever the weapon).
 - **Wear-down: shrugged hits still hurt.** Armour stops a hit from dropping a step, not from mattering. **Every 6
   shrugged hits on the same person in one fight drop them one step** (power armour: every 10) (**6, not 3: the
   player, Ash on Ostrava day 47**, '3 is kinda weak'; power armour's 10 is the DM's default until the rule for
@@ -1069,7 +1083,7 @@ Armour takes damage and the DM says when it is failing.
 
 ### Weapons
 
-No weapon has a damage number. Better weapons drop a target in fewer hits and
+No weapon rolls damage: **a hit is a step (1.0)**; a few weak weapons do **half a step (0.5)** and a few heavy ones two (their entries; house rule 4). Better weapons drop a target in fewer hits and
 get through better armour. Ammunition is the real cost: hot-shot packs, bolt
 rounds and plasma are scarce, las packs recharge from any ship's coupling.
 
@@ -1089,7 +1103,7 @@ sign of how cheap life is: a stub round costs less than a ration can. In TV
 
 | Ammunition | Price | Notes |
 | --- | --- | --- |
-| Stub, autogun, shotgun shells | ~1 TV a crate of a few hundred | Bought by the box, never counted singly |
+| Stub, autogun, shotgun shells | ~1 TV a crate of a few hundred | Bought by the box (aboard, the Light's stock is counted by load: Crew posts, Quartermaster) |
 | Heavy stubber belt | ~1 TV | Cheap; it's weight, not money |
 | Las pack | ~0.25 TV | Recharges from any ship's coupling |
 | Hot-shot pack | 1-3 TV | Better packs dearer |
@@ -1240,12 +1254,12 @@ The hub's armoury stock **refreshes every 2 days** (Shop size by market, below):
 priced in salvage or trade. Some are canon, some invented for the
 setting. **Rolled stock (set by the player, Ash on Ostrava session 8).** Stock is never
 picked to match the wish list. It's rolled at random from the 40k gear pools in
-[`wh40k_gear/`](wh40k_gear) (~260 items: weapons, armour, mods, gear, augmetics,
+[`wh40k_gear/`](wh40k_gear) (~600 items: weapons, armour, mods, gear, augmetics,
 salvage, vehicle parts, goods) with `python3 wh40k_gear/roll.py SELLER SIZE`.
 Each seller type rolls from its own pool (Munitorum, black market, Mechanicus,
 Free Trader, Ecclesiarchy); a small hub rolls 5-7 items, a big one 14-18;
 common, uncommon and rare items are weighted; and one open d20 on a natural 20
-adds an exotic oddity (xenos, archeotech). The DM doesn't read the pools to the
+adds an exotic oddity (xenos, archeotech), which a second d20 of 18-20 makes a legendary instead. The DM doesn't read the pools to the
 player, so finds stay surprises. Enemy loot still follows the fiction, and the DM
 may still invent gear. The player may ask the quartermaster to **hold** an item; the
 quartermaster decides in character whether to, and for how long.
@@ -1448,7 +1462,7 @@ above. Holstered and sheathed weapons stay put.
 
 **Plasma heat.** Plasma weapons build heat: **standard plasma, 1 heat per 2 shots
 fired in a fight.** At **3 heat** the weapon must vent for one beat. Firing
-anyway at 3 heat: d20, on 1-5 it **overheats** (the bearer is burned, Hurt, and
+anyway at 3 heat: d20, on 1-5 it **overheats** (the bearer is burned and drops a step, 1.0, and
 the weapon is out of the fight). Heat clears after venting or when the fight
 ends. Slow-filled and rushed cells keep their own misfire chances.
 
@@ -1488,10 +1502,10 @@ are in the catalogue (kit). The **Jumper** role is in the bestiary (roles).
 **-recoil**: **0** las weapons (lasguns, hellguns, laspistols, hellpistols) and stub/auto
 pistols; **1** autoguns on burst, SMGs and machine pistols, shotguns, revolvers, hand cannons;
 **2** bolt weapons, heavy stubbers on the move (1 braced), anti-materiel rifles. **Slots:** a gun takes **one
-attachment per slot**: muzzle, under-barrel, stock, optic, grip, magazine, trigger, barrel.
+attachment per slot**. The full slot list (guns and melee) is on the attachment sheet: `wh40k_gear/catalogue/attachments.md`, The rollable list, Slots.
 No hard cap on bonuses; nearly every attachment carries a real downside; the few that don't are priced for it. **A gun's optic and a HUD
 eye's aim bonus stack** (changed by the player, Ash on Ostrava day 34: otherwise the optic is just decor). Attachments are in the
-catalogue (kit: pistol and gun attachments).
+catalogue (the attachment sheet, `attachments.md`; full entries in kit.md and each weapon file).
 
 #### Power cells
 
@@ -1513,7 +1527,7 @@ changed by the player, session 10; or ~3 days of use): **a natural 1 jams it**; 
 guns count one step cleaner.** Never-jam guns (the 'Kasr Frontier') ignore all this,
 and the smith crew post ignores the first jam each fight. **Cleaning:** ~30 minutes a
 gun (DEX training, +0.1 an hour). **Enemies:** cultists and raiders roll **Dirty or
-Neglected** (even chance); pirates **Dirty**; traitors and traitor elites **Clean**.
+Neglected** (even chance); pirates **Dirty**; traitors and traitor elites **Clean**; commoners **Clean** (they barely fire them); **a veteran's guns are always Clean** (bestiary roles, Veteran).
 The roller prints it. The Light's gun condition is tracked on the campaign sheet (one line under the Full kit:
 only the exceptions are written). **Aboard ship the Light's guns are cleaned routinely, mostly by the
 quartermaster: people hand their guns in to him and he cleans them.**
@@ -1563,8 +1577,8 @@ militants, saints-in-waiting. **Anyone else seen wearing one will be asked, very
 **Doses: stimms and combat drugs.** When you take a dose, roll a d6: **1-3 it
 lasts 3 beats, 4-6 it lasts 4 beats.** When those beats are over you can take
 another dose to keep it going (roll again). **One beat after the last dose ends,
-you crash: drop to Badly hurt.** Chain **3 or more doses** in a row and the crash
-puts you **straight to Down** instead. A combat drug that rolls 18-20 on its
+you crash: your health drops to 2.0 (Badly hurt)** if it was higher (already at 2.0 or lower: no change). Chain **3 or more doses** in a row and the crash
+puts you **straight to Down (1.0)** instead. A combat drug that rolls 18-20 on its
 backfire doesn't crash.
 
 ### Perils of the Warp
@@ -1609,7 +1623,7 @@ get into cover first if they can** (set by the player, day 45): they know a char
 #### Quick powers (no Perils)
 
 **Quick powers (set by the player, Ash on Ostrava day 45).** Fast powers that need only a roll: **no charge
-and no Perils trigger.** **Every psyker knows all three**, on top of their rolled powers. The power roll is
+and no Perils trigger.** **Every psyker knows the first three**, on top of their rolled powers (the fourth, Warp Slash, needs a psyker melee weapon). The power roll is
 **d20 + WIS** against the DM's hidden number for the target (as a shot).
 - **Head Taker.** The psyker reaches through the warp into one target's head (~30 m, line of sight) and
   strikes. **If the power roll lands, roll a d20:** **1-5** nothing happens; **6-10** the target is
