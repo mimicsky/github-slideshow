@@ -371,7 +371,8 @@ pump**, with a selector near the trigger and a **skeleton stock**.
 - **Semi mode: strings of 4, recoil 2** (-2 on each shot after the first: it kicks hard; the player, day 48).
   [Trigger Finger](abilities.md#trigger-finger).
 - **Pump mode: strings of 3, no recoil.** [Slam](abilities.md#slam-push-pull), as any pump.
-- **9-round box magazine** (codex Gear rules, Magazines: a spare is 0.1 TV; a reload in a fight needs a loaded one).
+- **9-shell tube** (the player, day 48: a tube, not a box magazine): half a beat per 2 shells to reload; it can be
+  topped up from the string (no magazines needed).
 - **Skeleton stock** (built in): light and quick: **+1 on quick-draws and on swapping targets.**
 - **Every attachment slot but the stock.** Standard shotgun range (the close blast to ~15 m; -2 past ~15 m).
 
