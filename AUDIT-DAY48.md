@@ -100,3 +100,6 @@ Each has the DM's recommended answer. Until answered, the rule stands as written
 - **Healing between fights** (Q14): each 1.0 takes a d4 of days of rest (a half step: half the roll); a medic's care roll of 15+ takes a day off; the surgeon halves the time; Fast healer a day less, Slow healer a day more.
 - **New part: the shield extender** (uncommon): a shield gives one more level of cover (heavy becomes full from the front).
 - **What does half a step** (Q17; the DM's pick at the player's call): bare hands; the tin-can bomb; scrap arrows; a flak shell's near miss; the pipe pistol and 'Cutpurse' holdout past ~10 m, the 'Trinity' pocket revolver past ~20 m, the rivet gun past ~15 m, the nailer past ~5 m, the junk shotgun past ~8 m (plus near-miss blasts and laspistol punch on flak from before). The Graia autogun: every third hit in a chain gets through carapace.
+- **The punchier laspistols** (Q18): the Marksman 'Longeye', the Commissar's 'Exemplar' and a charge-hold shot do a full step (1.0) against flak and reinforced flak.
+
+**Still open after the nine:** Q5-Q7, Q10-Q13, Q15-Q16, Q19-Q25 in Part 1 (smaller ones), and the Plague Ogryn boss's starting number.

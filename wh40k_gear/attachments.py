@@ -124,7 +124,7 @@ A = [
  ("m_firebottle", "Fire-bottle loads (scrap mortar)", "C", "load", {"mo"}, r"pipe-bomb mortar|tube lobber|lobber|scrap mortar", None, 0, "a ~2 m pool of fire where it lands; duds on a d6 of 1", "scrap.md#mortar-rounds-day-48"),
  ("m_tincan", "Tin-can loads (scrap mortar)", "C", "load", {"mo"}, r"pipe-bomb mortar|tube lobber|lobber|scrap mortar", None, 0, "as a tin-can bomb (~3 m; half a step; flak and heavier shrug it); duds on a d6 of 1", "scrap.md#mortar-rounds-day-48"),
  ("m_cracker", "Cracker-bundle loads (scrap mortar)", "C", "load", {"mo"}, r"pipe-bomb mortar|tube lobber|lobber|scrap mortar", None, 0, "a flashbang: -2 within ~4 m; duds on a d6 of 1-2", "scrap.md#mortar-rounds-day-48"),
- ("c_chargehold", "Charge-hold trigger", "U", "selector", {"lp"}, None, None, 1, "hold the trigger through one shot of a string (it doesn't fire): the next shot gets through one more armour step, up to carapace; once a string", "las.md#charge-hold-trigger-custom"),
+ ("c_chargehold", "Charge-hold trigger", "U", "selector", {"lp"}, None, None, 1, "hold the trigger through one shot of a string (it doesn't fire): the next shot gets through one more armour step, up to carapace, for a full step (1.0); once a string", "las.md#charge-hold-trigger-custom"),
  # chain weapons, more (the player, day 48): teeth material, band, tooth shape, spike guard; kit.md, Chain weapon parts (day 48)
  ("ceramteeth", "Ceramite teeth", "R", "material", {"ch"}, None, None, 0, "through ceramite-forged on any hit; power armour on a raw 18+", "kit.md#chain-weapon-parts-day-48"),
  ("adamteeth", "Adamantium teeth", "R", "material", {"ch"}, None, None, 0, "through ceramite-forged on any hit; power armour on a solid hit", "kit.md#chain-weapon-parts-day-48"),

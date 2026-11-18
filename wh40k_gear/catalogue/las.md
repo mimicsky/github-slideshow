@@ -198,7 +198,8 @@ punch; a regular pack.
 ### Marksman laspistol, 'Kasr Longeye' pattern
 
 **Marksman laspistol, 'Kasr Longeye' pattern** (uncommon, 3 TV; Munitorum, black market, Free Traders). A longer
-barrel and a harder crystal: **+1 on shots** (the barrel), and it **gets through reinforced flak**. It drinks the pack:
+barrel and a harder crystal: **+1 on shots** (the barrel), and it **gets through reinforced flak: a full step (1.0)
+against flak and reinforced flak, not a plain laspistol's half** (settled by the player, day 48). It drinks the pack:
 **a regular pack gives 30 shots, not 45.**
 
 ### Tac laspistol, 'Kasr Tether' pattern
@@ -211,7 +212,7 @@ attachment slot is open.** **+1 shot a string.** **A laser sight built in** (its
 
 **Commissar's laspistol, 'Exemplar' pattern** (rare, 10 TV; Munitorum (Commissariat issue), Free Traders). Ornate:
 gilded furniture, the Commissariat's skull on the grip, made to be seen. **Built in:** a **round-counter screen** on the
-back (he always knows his shots and is never caught empty), a **better crystal** (it **gets through reinforced flak**),
+back (he always knows his shots and is never caught empty), a **better crystal** (it **gets through reinforced flak: a full step, 1.0, against flak and reinforced flak**; the player, day 48),
 and a **3x scope** (**+2 on aimed shots past ~15 m; -1 on hip shots inside ~10 m**). Its optic and counter slots are
 filled.
 
@@ -226,8 +227,8 @@ trigger** (+1 on the first shot of every string; drop-prone), **ghost-ring sight
 ### Charge-hold trigger (custom)
 
 **Charge-hold trigger** (custom, uncommon; las pistols; selector slot). **He holds the trigger through one shot of a
-string** (that shot doesn't fire): **the next shot gets through one more armour step, up to carapace.** It can be done
-once a string.
+string** (that shot doesn't fire): **the next shot gets through one more armour step, up to carapace, and does a full step (1.0)** where a plain
+laspistol shot would do half (the player, day 48). It can be done once a string.
 
 ## New hellpistols (day 48)
 
