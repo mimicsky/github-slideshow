@@ -39,7 +39,12 @@ Proud, ornate, and carrying the best family heirlooms.
 - **Look:** red-and-gold coats, tall fur hats, huge moustaches, ornate brass armour.
 - **Weapons:** heirloom Kantrael lasguns, boltguns, hellguns, sabres.
 - **Tactics:** formal and stubborn: volley fire from good positions, officers leading
-  from the front with bolt pistol and sabre. Kill the officer and they waver.
+  from the front with bolt pistol and sabre. **They don't waver when the officer falls** (settled by the player, day
+  48: the old line said they did; in the lore the Firstborn are stubborn, and a traitor-elite leader's death has
+  little effect).
+- **Heirlooms (set by the player, day 48):** every family's finest goes to war with its firstborn. **Their gear
+  rolls one wealth level richer than their faction** (Good as Rich, Rich as Wealthy; Wealthy stays Wealthy), on
+  top of a special team's usual edges. The roller does it.
 
 ## The Green Hell deserters, Catachan (fallen company)
 

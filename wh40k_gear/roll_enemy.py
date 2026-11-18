@@ -136,6 +136,8 @@ better = 0 if d20 < 9 else 1 if d20 < 11 else 2 if d20 < 13 else 3 if d20 < 15 e
 if elite: better = count
 better = min(better, count)
 if elite: level = LEVELS[min(4, LEVELS.index(level) + 1)]  # an elite team is one level richer
+heirloom = bool(team and team.get("richer"))  # a team whose gear rolls a wealth level richer (the Disowned's heirlooms: day 48)
+if heirloom: level = LEVELS[min(4, LEVELS.index(level) + team["richer"])]
 poor = level == "poor"
 w = WEIGHTS[level]
 better_armour = bool(team) or level in ("rich", "wealthy")
@@ -197,7 +199,7 @@ half = None
 if team and team.get("gear"):  # half-and-half teams (the player, day 48): half the group rolls as the other league, half as this one
     half = set(random.sample(range(count), count // 2))
     print(f"HALF AND HALF: {team['name']}: {len(half)} roll as {team['gear']}, {count - len(half)} as {kind} (gear, stats, guns); they all PLAY as {kind}s (bestiary {kind}s.md)")
-print(f"SPECIAL TEAM: {team['name']} ({'named by the story' if forced_team else f'2d20 {team_roll}'}): +5 STR/DEX levels, +1 other rolls, armour one step better, +3 better-armed" if team else f"(2d20 {team_roll}: a basic group)")
+print(f"SPECIAL TEAM: {team['name']} ({'named by the story' if forced_team else f'2d20 {team_roll}'}): +5 STR/DEX levels, +1 other rolls, armour one step better, +3 better-armed" + ("; HEIRLOOMS: gear rolls one wealth level richer" if heirloom else "") if team else f"(2d20 {team_roll}: a basic group)")
 print(f"{kind} x{count}, wealth {level.upper()}" + ("" if given else " (default; roll it: roll_enemy.py wealth TYPE)") + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{3 if team else 0} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE GEAR IN USE (natural 20)" if raw == 20 else ""))
 lucky = set(random.sample(range(count), better))
 for n in range(count):
