@@ -1055,8 +1055,8 @@ ladder a hit moves you.
 | 1 | Flak | glancing hits, stub and autogun at range | las, hellguns, shotguns up close, chain, frags |
 | 2 | **Reinforced flak** | **stub, autogun and glancing las, fully** | clean las hits, hellguns, shotguns up close, chain, frags |
 | 3 | **Carapace inplate** (new: flak with carapace plates slotted in; a carapace chest plate) | all of the above, **plus las unless the hit is solid, and shotguns at range** | las on a solid hit, hellguns, shotguns up close, blades, chain, frags |
-| 4 | Carapace | lasguns, autoguns, stub, shotguns at range, most blades, frags (unless the throw was a solid hit) | hellguns, hot-shot, bolters, heavy stubbers, chain, power weapons, plasma, krak |
-| 5 | **Heavy carapace** (and **heavy plasteel**: Skitarii war plate) | all of the above, **plus hellguns and heavy stubbers at range** | hellguns and heavy stubbers up close (inside ~15 m), bolters, chain on a solid hit, power weapons, plasma, melta, krak |
+| 4 | **Carapace / plasteel** | lasguns, autoguns, stub, shotguns at range, most blades, frags (unless the throw was a solid hit) | hellguns, hot-shot, bolters, heavy stubbers, chain, power weapons, plasma, krak |
+| 5 | **Heavy carapace / heavy plasteel** (Skitarii war plate is heavy plasteel) | all of the above, **plus hellguns and heavy stubbers at range** | hellguns and heavy stubbers up close (inside ~15 m), bolters, chain on a solid hit, power weapons, plasma, melta, krak |
 | 6 | **Ceramite** (new: plain ceramite plate) | all of the above, **plus hellguns and heavy stubbers up close unless the hit is solid** | hellguns and heavy stubbers up close on a solid hit, bolters, chain on a solid hit, power weapons, plasma, melta, krak |
 | 7 | **Ceramite-forged** | all of the above, **plus hellguns and heavy stubbers completely** | bolters, chain on a solid hit, power weapons, plasma, melta, krak |
 | 8 | **Adamantium plate** (new) | all of the above, **plus chain weapons, except on a crit** | bolters, power weapons, plasma, melta, krak |
@@ -1065,6 +1065,10 @@ ladder a hit moves you.
 | 11 | **Space Marine armour** (Astartes plate; new, tougher than the old row) | all of the above, **plus bolters unless the hit is solid**; wears down every 10 | bolters on a solid hit (Vengeance rounds on any hit: DM default), plasma on a solid hit, melta, power weapons, krak |
 
 - **A solid hit** beats the number by 3 or more. **Power weapons, melta and krak get through every tier.**
+- **Carapace / plasteel, heavy carapace / heavy plasteel (named by the player, day 48).** Two materials, one rung each:
+  **plasteel plate stops what carapace stops, and heavy plasteel what heavy carapace stops.** Wherever a rule or an
+  entry says 'carapace' or 'heavy carapace', it means that tier, whichever it is made of. **So plasteel in stock can
+  be made into carapace-level armour** (catalogue `wh40k_gear/catalogue/kit.md`, Armour: Plasteel armour, built from sheets).
 - **Older entries** (weapons, loads and parts written before day 48 name only the old tiers): **carapace inplate** takes
   what the entry says for reinforced flak, **ceramite** what it says for heavy carapace, **adamantium plate and heavy
   adamantium** what it says for ceramite-forged, and **'power armour' means both semi power armour and Space Marine
@@ -1084,14 +1088,14 @@ ladder a hit moves you.
   through its class.** **Who has one besides the bosses** (bestiary `roles.md`, each entry): **Ogryns: reinforced
   flak; brutes, mutants and mutant chargers: flak** (not a commoner's big farmhand: he's only a big man);
   **cyber-mastiffs and warp-hounds: flak** (ordinary hounds, mutant dogs, pox hounds and poxwalkers: none).
-  **Skitarii are fully armoured: their plate and their augmetic arms and legs are heavy plasteel, which counts as
-  heavy carapace all over, with no gaps to shoot for** (the player, day 48). **This replaces the old monster rule**
+  **Skitarii are fully armoured: their plate and their augmetic arms and legs are heavy plasteel (the heavy carapace /
+  heavy plasteel tier) all over, with no gaps to shoot for** (the player, day 48). **This replaces the old monster rule**
   ('hide, bloat or daemon flesh: only solid hits count'): each entry in the bestiary (`wh40k_gear/bestiary/bosses.md`)
   names its class.
 
 - **Strength behind the blow (STR 50+; set by the player, Ash on Ostrava day 47).** Anyone with **STR 50 or more**
-  drives their **melee or thrown** weapon (knives, axes, spears; not grenades or guns) **one armour step further** than it normally goes (**the ladder is the 11 tiers above, one rung at a time**, day 48: flak, reinforced flak, carapace inplate, carapace, heavy
-  carapace, ceramite, ceramite-forged, adamantium plate, heavy adamantium, semi power armour, Space Marine armour): a machete that stops at carapace gets through carapace; chain
+  drives their **melee or thrown** weapon (knives, axes, spears; not grenades or guns) **one armour step further** than it normally goes (**the ladder is the 11 tiers above, one rung at a time**, day 48: flak, reinforced flak, carapace inplate, carapace / plasteel, heavy
+  carapace / heavy plasteel, ceramite, ceramite-forged, adamantium plate, heavy adamantium, semi power armour, Space Marine armour): a machete that stops at carapace gets through carapace; chain
   that needs a solid hit against heavy carapace gets through it on any hit (and needs the solid hit from ceramite to adamantium plate, a crit from heavy adamantium up). **Power weapons, which already go
   through everything, instead hit one health step harder: each hit that lands drops the target two steps.**
   **Melee and thrown** (widened by the player the same day: a strong arm drives a thrown knife deeper); grenades
@@ -1383,7 +1387,7 @@ outcome.** It shows at a glance how dangerous someone is, on one scale for every
 | **Body** | STR + DEX + CON levels, minus 45 (a civilian is about 15 each, so 0) |
 | **Skill** | Civilian 0 · cultist 30 · ganger, raider or pirate 40 · Guard or traitor soldier 50 · veteran or officer 60-70 · storm trooper or Scion-trained 80 · player character **10 × level**. Plus **+20** for a specialist role (or the Commander role), **+10** per specialty (a trainee's young focus +5) |
 | **Weapons** | Best weapon: scrap blade 20 · scrap gun 35 · common gun or blade 50 · hellgun-class 70 · heavy or special (bolter, plasma, chainsword, power weapon, launcher, heavy stubber) 90 · exotic 120. **+15** masterwork, blessed or a true custom build · **+10** per extra weapon (up to +30) · **+5 per fitted attachment** on any carried weapon, one per slot (up to +30; repairs and internals don't count) |
-| **Armour** | None 0 · rags or coat 5 · flak 20 · reinforced flak 25 · carapace inplate (or a carapace chest plate) 30 · carapace 40 · heavy carapace (or a heavy front) 50 · ceramite 55 · ceramite-forged 60 · adamantium plate 70 · heavy adamantium 80 · semi power armour 100 · Space Marine armour 120 (the 11 tiers, day 48; an armour class counts as its tier). **+10** shield · **+20** refractor · **+30** conversion field |
+| **Armour** | None 0 · rags or coat 5 · flak 20 · reinforced flak 25 · carapace inplate (or a carapace chest plate) 30 · carapace / plasteel 40 · heavy carapace / heavy plasteel (or a heavy front) 50 · ceramite 55 · ceramite-forged 60 · adamantium plate 70 · heavy adamantium 80 · semi power armour 100 · Space Marine armour 120 (the 11 tiers, day 48; an armour class counts as its tier). **+10** shield · **+20** refractor · **+30** conversion field |
 | **Kit** | **+5** per grenade type carried (up to 20) · augmetic eye 5-25 (shooting eye 20, sensor-type optics 15) · lift or jump pack 15 · auspex 10 · stimms or drag-harness medic kit 5 |
 
 **Calibration:** civilian 0 · Poor cultist ~95-100 · Steady cultist (lasgun, flak) ~125 ·

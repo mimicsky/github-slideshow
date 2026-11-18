@@ -645,11 +645,11 @@ human, obeying their Tech-Priests through data-links. Corrupted ones serve heret
 - **Machine body:** one extra health stage: **it starts at 6.0** (no penalty above 3.0: codex house rule 4).
   No bleeding, no fear, immune to gas.
 - **Fully armoured in heavy plasteel (set by the player, day 48:** 'the armor and arms are heavy plasteel since
-  they are like fully armored'**).** Its war plate **and its augmetic arms and legs** are heavy plasteel: **heavy
-  carapace tier all over** (codex Part 8, Armour: hellguns and heavy stubbers only inside ~15 m; las, autoguns,
+  they are like fully armored'**).** Its war plate **and its augmetic arms and legs** are heavy plasteel: **the heavy
+  carapace / heavy plasteel tier all over** (codex Part 8, Armour: hellguns and heavy stubbers only inside ~15 m; las, autoguns,
   stub and most blades never; bolters, plasma, melta, power weapons and krak always; chain on a solid hit).
   **No gaps: a shot for the arms or legs meets the same plasteel.** Whatever armour the roller gave it is replaced
-  by this. (The tier is the DM's reading of 'heavy plasteel'; the player may move it.)
+  by this. (The player, day 48: 'Heavy is fine'; the tier is named heavy carapace / heavy plasteel.)
 - **Data-link:** if their Tech-Priest or heretek is in the fight, they act **first**
   every beat.
 - **Weakness:** shock weapons (shock mauls, shock coils) hit them **one health step

@@ -143,8 +143,8 @@ EPIC_CHANCE = {"rich": 0.02, "wealthy": 0.05}.get(level, 0)  # epic (exotic) ite
 EPICS = [i["name"] for i in json.load(open(os.path.join(here, "pools.json"))) if i["rarity"] == "X"
          and not any(x in i["name"] for x in ("Exitus", "Callidus", "Culexus", "Vindicare"))]
 # Armour tiers (codex Part 8, Armour: the 11-tier ladder, day 48). A leader roll can reach 9; 10 and 11 are story only.
-TIER_SETS = {1: "Flak armour set", 2: "Reinforced flak set", 3: "Carapace inplate", 4: "Carapace armour set",
-             5: "Heavy carapace set", 6: "Ceramite plate set", 7: "Ceramite-forged set", 8: "Adamantium plate set",
+TIER_SETS = {1: "Flak armour set", 2: "Reinforced flak set", 3: "Carapace inplate", 4: "Carapace armour set (carapace / plasteel tier)",
+             5: "Heavy carapace set (heavy carapace / heavy plasteel tier)", 6: "Ceramite plate set", 7: "Ceramite-forged set", 8: "Adamantium plate set",
              9: "Heavy adamantium set"}
 def pick(rows):
     if team or level not in ("poor", "steady") or (level == "steady" and random.random() < 0.5):
@@ -277,7 +277,7 @@ for n in range(count):
     # Skin armour (the player, day 48): a base armour class under whatever is worn; a gap shot still meets the skin.
     kit_text = head.split("): ", 1)[-1].replace("PRESET: ", "")
     if "SKITARIUS" in head:  # fully armoured: plate and limbs are heavy plasteel, no gaps
-        armour = "Skitarii war plate: HEAVY PLASTEEL all over, arms and legs too (heavy carapace tier; no gaps to shoot for)"
+        armour = "Skitarii war plate: HEAVY PLASTEEL all over, arms and legs too (the heavy carapace / heavy plasteel tier; no gaps to shoot for)"
     elif OGRYN_KIT.search(kit_text) or (role_d20 >= 16 and role == "ogryn"):
         armour += " + SKIN: reinforced flak (under it; a gap shot meets the skin)"
     elif role_d20 >= 16 and role == "mutant charger" or (role_d20 >= 16 and role == "brute" and mk != "commoner"):

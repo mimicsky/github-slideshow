@@ -19,8 +19,8 @@ the tiers table, crits, wear-down, Too weak to matter, Shooting for the gaps). T
 | 1 | **Flak** | 0.25 TV (C) | none | vest 0.5 (C) | 1 (C) |
 | 2 | **Reinforced flak** | 0.75 (U) | none | vest 2 (U) | 3 (U) |
 | 3 | **Carapace inplate** (day 48) | a flak or carapace helmet | the same | a carapace chest plate, 4 (U) | 5 (U): a flak set with the plates slotted in |
-| 4 | **Carapace** | 1.5 (U) | 3 (U) | plate 4 (U) | 8 (U) |
-| 5 | **Heavy carapace** | 3 (R) | 5 (R) | plate 8 (R) | 14 (R) |
+| 4 | **Carapace / plasteel** | 1.5 (U) | 3 (U) | plate 4 (U) | 8 (U) |
+| 5 | **Heavy carapace / heavy plasteel** | 3 (R) | 5 (R) | plate 8 (R) | 14 (R) |
 | 6 | **Ceramite** (day 48) | 4 (R) | 6.5 (R) | plate 10 (R) | 18 (R) |
 | 7 | **Ceramite-forged** | 5 (R) | 8 (R) | plate 12 (R) | 22 (R) |
 | 8 | **Adamantium plate** (day 48) | 8 (R) | 12 (R) | plate 18 (R) | 35 (R) |
@@ -32,6 +32,21 @@ the tiers table, crits, wear-down, Too weak to matter, Shooting for the gaps). T
 rungs; what each stops is in the codex table. **Carapace inplate** is a flak set with carapace plates slotted in: a
 carapace chest plate worn with or without flak under it reads as this tier. **Adamantium** is Mechanicus and Free
 Trader stock only, and **heavy adamantium is legendary**: nobody sells a set off a shelf. DM default prices (the player may change them).
+
+**Plasteel armour, built from sheets (the player, day 48:** 'the plasteel we have can be turned into carapace level
+armor'**).** Carapace and plasteel share a rung, and so do heavy carapace and heavy plasteel: **plate beaten from
+plasteel sheet is carapace-tier armour; twice the thickness is heavy plasteel, the heavy carapace tier.** A crafter
+builds it (Dace or Ferro in the Light; codex Part 8, Custom weapons and crafting: the open roll, a near miss leaves a
+quirk, a fail wastes half the plasteel). DM default amounts (the player may change them; a sheet is about 2 TV):
+
+| Piece | Plasteel (carapace tier) | Heavy plasteel (heavy carapace tier) | Time |
+| --- | --- | --- | --- |
+| Open helmet | 1/2 sheet | 1 sheet | a day (heavy: 2) |
+| Chest plate | 1 sheet | 2 sheets | 2 days (heavy: 4) |
+| Full set (chest, back, arms, legs) | 3 sheets | 6 sheets | 5 days (heavy: 10) |
+
+A chest plate alone reads as carapace inplate (codex, Armour: Part-armour). **Skitarii war plate** is heavy plasteel
+fitted to an augmetic body: it can't be worn by anyone else without a rebuild.
 
 No tier costs dodges or stealth (the player kept it that way).
 
