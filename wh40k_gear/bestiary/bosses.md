@@ -93,13 +93,16 @@ A named special character: a Major, a cult leader, a pirate captain, a renegade 
   come off is ignored on a d6 5-6. **Ranged threat:** **bolter** (a string of 3, recoil 2, heavy hits) and a
   **blight grenade**. **Phase 2:** the stench: everyone within ~5 m -1. Rare: a campaign-level enemy.
 
-### Traitor Space Marine teams (set by the player, day 47)
+### Traitor Space Marine teams (set by the player, day 47; cut down by the player, day 48)
 
-**Enemy Astartes can come as a team, not just one.** When a boss is a Heretic Astartes (a Plague Marine, a
-Chaos Space Marine of any god), **roll a d4: that many come** (1-4), each a full boss (the apex entries'
-rules: Space Marine armour, 2 actions a beat, their god's gift), one of them leading (a champion: +2 health stages, +2.0,
-and his god's gift doubled where it makes sense). They come with what fits their warband (cultists, beasts,
-daemon engines). A team of four is a war: the Light should think hard before standing in the open against it.
+**Enemy Astartes can come as a pair, not just one.** When a boss is a Heretic Astartes (a Plague Marine, a
+Chaos Space Marine of any god), **roll a d4: 1-3 one comes, 4 two come** (the player, day 48: 'fighting 4 is
+unfair'; it was a d4 of them, 1-4, and their armour got tougher the same day). **The roll never gives more than
+two. Three or four only when the story sets it up ahead of time**, so the Light can see it coming and plan for it.
+Each is a full boss (the apex entries' rules: Space Marine armour, 2 actions a beat, their god's gift). **When two
+come, one of them leads** (a champion: +2 health stages, +2.0, and his god's gift doubled where it makes sense); a
+lone Marine gets no champion bonus. They come with what fits their warband (cultists, beasts, daemon engines). Even
+one is a real boss fight: las can't touch him, and hellguns only hurt on a crit or by wearing him down.
 
 ### Chaos cults (any god)
 
