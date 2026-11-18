@@ -96,3 +96,4 @@ Each has the DM's recommended answer. Until answered, the rule stands as written
 - **A pack or magazine swap is the beat's main thing** (Q3).
 - **A shot at a limb or a gap is +1** (Q4): shooting for the gaps now uses the same +1 as any small or precise shot (it was +2).
 - **Jump packs** (Q8): shots at an airborne target are -3; 'abnormally fast' (+3) is for the jump pack's Dive ability, not for jump packs in general.
+- **Shields** (Q9): each shield gives its own cover: scrap or makeshift light (+1); riot, boarding, cogitator, forged half (+2); Arbites suppression shield and storm shield most (heavy, +4). Slab shields are Ogryn-sized: only Ogryns roll them (most cover for the Ogryn, full cover for a human behind it). Riot and scrap shield entries written; human kits that had slab shields now carry boarding shields.

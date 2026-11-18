@@ -814,13 +814,16 @@ the 6.0 health track, shots at it +2, the once-a-fight charge, loyal and dumb, a
 
 ## Shield trooper
 
-**Who has it:** cultists (scrap shields), raiders, pirates (boarding shields), traitor soldiers (slab
+**Who has it:** cultists (scrap shields), raiders, pirates (boarding shields), traitor soldiers (boarding
 shields), traitor elites (storm shields), commoners (riot shields). (Player's pick, Ash on Ostrava day 47.)
 
-A slab of metal in one hand and a sidearm or a club in the other. **From the front, a shield trooper counts as
-in heavy cover (+4)**; a storm shield also stops a heavy hit on a d6 5-6. **Two or more lock shields into a
-shield wall:** it advances a short move a beat, and **anyone right behind it gets heavy cover (+4) from the
-front.** Fires its sidearm over the rim at -1. **Breaking it:** flank it (no cover from the side or rear), go
+A slab of metal in one hand and a sidearm or a club in the other. **From the front, his shield gives its own
+cover** (catalogue kit.md; settled by the player, day 48): **scrap or makeshift shield: light (+1); riot,
+boarding, cogitator and forged shields: half (+2); an Arbites suppression shield or a storm shield: most
+(heavy, +4)**; a storm shield's field also stops a heavy hit on a d6 5-6. **Slab shields are Ogryn-sized: only
+Ogryns roll and carry them** (most cover, +4, for the Ogryn; full cover for a human sheltering behind it).
+**Two or more lock shields into a shield wall:** it advances a short move a beat, and **the wall and anyone
+right behind it get heavy cover (+4) from the front**, whatever the shields. Fires its sidearm over the rim at -1. **Breaking it:** flank it (no cover from the side or rear), go
 over it (grenades landing behind, flamers, a mortar), or **break a shield** (a krak, melta, a power weapon's
 solid hit or an Ogryn's blow shatters one).
 
@@ -869,7 +872,7 @@ psyker, beast handler, mutant charger) always take the preset. The lists live in
 - **arbitrator:** Combat shotgun, pump, and a shock baton (common); Shock maul and a suppression shield (common); Arbites combat shotgun (shock shells) (uncommon); Web pistol and a shock maul (uncommon); Power maul and a suppression shield (rare)
 - **assassin:** Silenced stub pistol (common); Suppressed autopistol (common); Recurve bow, 'Reedhawk' pattern, and a quiver of metal arrows (common); Service stub pistol, 'Steadfast' pattern, suppressed (common); Suppressed Agripinaa autogun (uncommon); Hunting rifle, 'Kasr Stag' pattern, suppressed, with an old scope (uncommon); Suppressed stamped SMG, 'Munitorum Mk I' pattern (uncommon); Infantry autogun, 'Columnus' pattern, suppressed (uncommon); Needle pistol (uncommon); Compound bow, 'Kasr Kestrel' pattern, and a quiver of steel arrows (uncommon); Burst pistol, 'Kasr Trice' pattern, suppressed (uncommon); Needle rifle (rare); Suppressed Kasr Warden autogun with a scope (rare); Vraks-pattern sniper autorifle, suppressed (rare); Crossbow-quiet needle pistol (rare)
 - **berserker:** Chainsword (common); Chain axe (common); Heavy scrap axe (common); Saw-cleaver (common); Two chain axes (uncommon); Eviscerator (rare); Great chain axe, 'Butcher' pattern (rare); Power axe (rare)
-- **bodyguard:** Combat shotgun, pump, and a boarding shield (common); Boarding shield and a shock maul (common); Combat shotgun, semi-auto, and a boarding shield (uncommon); Slab shield and a hellpistol (uncommon); Storm shield and a power maul (rare)
+- **bodyguard:** Combat shotgun, pump, and a boarding shield (common); Boarding shield and a shock maul (common); Combat shotgun, semi-auto, and a boarding shield (uncommon); Boarding shield and a hellpistol (uncommon); Storm shield and a power maul (rare)
 - **breacher:** Combat shotgun, pump, and a breaching charge (common); Pump shotgun, 'Harrow' pattern, and 2 breaching charges (common); Sawn-off shotgun and a breaching charge (common); Combat shotgun, 'Kasr Sweeper' duckbill pattern (uncommon); Tactical breaching axe, 'Kasr Sapper' pattern (uncommon); Lucius-pattern 'Ironclad' shotgun (rare); Bolt-shotgun, 'Breacher' pattern (rare)
 - **brute:** Sledgehammer (common); Heavy scrap axe (common); Two-handed scrap great-axe (common); Trench club and a door for a shield (common); Chain axe (uncommon); Stolen Ogryn ripper gun and a club (rare)
 - **chem-doctor:** Drug satchel: stimms, slaught and Frenzon (common); Syringe spike and a drug satchel (uncommon); Injector stiletto (toxin) and concentrated stimms (rare)
@@ -889,7 +892,7 @@ psyker, beast handler, mutant charger) always take the preset. The lists live in
 - **mauler:** Heavy scrap axe (common); Two-handed boarding axe (common); Headsman's axe (two-handed) (uncommon); Chain glaive (two-handed) (uncommon); Great chain axe, 'Butcher' pattern (rare); Power axe (two-handed) (rare)
 - **medic:** Med-kit and 3 stimms (common); Field dressings and two stimms (common); Med-kit, antitoxin and 2 stimms (uncommon); Medicae kit and concentrated stimms (rare)
 - **plasma gunner:** Hellgun with hot-shot packs (common); Plasma pistol, Ryza pattern (uncommon); Plasma gun, Mars pattern (slow-filled cell) (uncommon); Plasma gun, Mars pattern (rare); Meltagun (rare); Inferno pistol (rare)
-- **shield trooper:** Boarding shield (common); Riot shield (common); Scrap shield (common); Slab shield (uncommon); Forged shield (uncommon); Storm shield (rare)
+- **shield trooper:** Boarding shield (common); Riot shield (common); Scrap shield (common); Cogitator shield (scrap) (uncommon); Forged shield (uncommon); Storm shield (rare)
 - **sniper:** Scoped lasgun (common); Scoped autogun (common); Hunting rifle, 'Kasr Stag' pattern, with a scope (common); Hunting stub rifle with an old scope (common); Long-las, Mezoa (uncommon); Long-las, 'Kasr Sprinter' stripped pattern (uncommon); Compound bow, 'Kasr Kestrel' pattern, and a quiver of steel arrows (uncommon); Long-las, Helbore (rare); Vraks-pattern sniper autorifle (rare); Hot-shot long-las with range-finder (rare); Charge long-las, 'Kasr Lance' pattern (rare)
 - **spotter:** Magnoculars (common); Range-finder magnoculars (uncommon); Auspex (uncommon); Vox-caster and range-finder magnoculars (rare)
 - **tech-adept:** Servo-arm and a repair kit (common); Scrap-built auto-turret and a cutting torch (uncommon); Vox jammer and a servo-skull (uncommon); Heavy auto-turret and a servo-arm (rare)

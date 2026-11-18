@@ -4282,5 +4282,19 @@
   "cat": "melee",
   "rarity": "U",
   "sellers": "MBF"
+ },
+ {
+  "name": "Riot shield (+1 block; half cover from the front)",
+  "tv": 2,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Scrap shield (+1 block; light cover from the front)",
+  "tv": 0.5,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "B"
  }
 ]

@@ -139,8 +139,8 @@ wearer goes still and it draws in, **the panels lock edge to edge** into one smo
 
 ## Arbitrator shield
 
-**Arbitrator shield** (rare, 10 TV): the Adeptus Arbites riot shield. **+2 on the defender's roll (block or parry),
-three-quarters cover from the front** (audit C10, day 47: worded as every other shield), and a **pistol notch**: fire a
+**Arbitrator shield** (rare, 10 TV): the Adeptus Arbites **suppression shield** (not the plain riot shield, below). **+2 on the defender's roll (block or parry),
+three-quarters cover from the front (most cover: heavy, +4)** (audit C10, day 47: worded as every other shield), and a **pistol notch**: fire a
 pistol through it without giving up the cover.
 
 **Abilities:** [Plant](abilities.md#plant) (the pistol notch counts as a viewing slot).
@@ -148,7 +148,8 @@ pistol through it without giving up the cover.
 ## Storm shield
 
 **Storm shield** (rare, 30 TV): a shield with a power field generator.
-**+3 on the defender's roll (block or parry), three-quarters cover from the front.**
+**+3 on the defender's roll (block or parry), three-quarters cover from the front (heavy, +4).** **The field also stops a
+heavy hit on a d6 5-6** (bestiary roles, Shield trooper; written here in the day-48 audit).
 
 **Abilities:** [Plant](abilities.md#plant).
 
@@ -170,11 +171,25 @@ see-through power field the size of a riot shield.** Very light: no penalty to c
 
 ## Slab shield (Ogryn)
 
-**Slab shield** (enemy only): Ogryn-sized; no human can carry it in a fight.
-**+3 on the defender's roll (block or parry), three-quarters cover from the front** for the Ogryn and one
-person standing behind them.
+**Slab shield** (enemy only): Ogryn-sized; no human can carry it in a fight, and **only Ogryns roll it** (the player,
+day 48). **+3 on the defender's roll (block or parry).** **For the Ogryn it is most cover (three-quarters: heavy, +4)
+from the front; for a human sheltering behind it (one person) it is full cover.**
 
 **Abilities:** [Plant](abilities.md#plant).
+
+## Riot shield
+
+**Riot shield** (common, 2 TV; Munitorum, black market; written day 48 at the player's call): a plain enforcer's or
+militia shield, clear armourglass or stamped plasteel. **+1 on the defender's roll (block or parry), half cover from the
+front (+2).** Town militias and commoner shield troopers carry them.
+
+**Abilities:** [Plant](abilities.md#plant).
+
+## Scrap shield
+
+**Scrap shield** (common, 0.5 TV; black market; written day 48 at the player's call): a car door, a hatch cover, a
+sheet of plate with a strap: the cult's and the raiders' shield. **+1 on the defender's roll (block or parry), light cover
+from the front (+1).** The same numbers as the makeshift shield, below.
 
 ## Makeshift shield
 
