@@ -178,6 +178,18 @@
    [
     "Scrap thunder hammer",
     "U"
+   ],
+   [
+    "Flanged mace (scrap)",
+    "C"
+   ],
+   [
+    "Spiked club (scrap)",
+    "C"
+   ],
+   [
+    "Ball mace (scrap)",
+    "C"
    ]
   ],
   "armour": [
@@ -892,6 +904,18 @@
    [
     "Scrap thunder hammer",
     "U"
+   ],
+   [
+    "Flanged mace (scrap)",
+    "C"
+   ],
+   [
+    "Spiked club (scrap)",
+    "C"
+   ],
+   [
+    "Ball mace (scrap)",
+    "C"
    ]
   ],
   "armour": [
@@ -1576,6 +1600,14 @@
    ],
    [
     "Studded jian (iron bar-club), 'Kasr Rod' pattern",
+    "C"
+   ],
+   [
+    "Flanged mace (scrap)",
+    "C"
+   ],
+   [
+    "Ball mace (scrap)",
     "C"
    ]
   ],
@@ -2861,6 +2893,14 @@
    ],
    [
     "Blacksmith's hammer",
+    "C"
+   ],
+   [
+    "Spiked club (scrap)",
+    "C"
+   ],
+   [
+    "Ball mace (scrap)",
     "C"
    ]
   ],

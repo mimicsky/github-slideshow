@@ -4585,6 +4585,27 @@
   "sellers": "B"
  },
  {
+  "name": "Flanged mace (scrap; rebar haft, hatch-plate flanges: a solid hit one armour step further; a flange can tear off)",
+  "tv": 0.25,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Spiked club (scrap; rusty nails and wire: +1 step on no armour; a hit means a CON save vs 13 or sickened; sticks on a d6 of 1)",
+  "tv": 0.1,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Ball mace (scrap; a pipe with a welded weight: a solid hit staggers; a shrugged hit counts 2 toward wear-down; -1 parry; the head can fly off)",
+  "tv": 0.1,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
   "name": "Riot shield (+1 block; half cover from the front)",
   "tv": 2,
   "cat": "armour",
