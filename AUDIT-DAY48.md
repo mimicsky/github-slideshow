@@ -118,3 +118,4 @@ Each has the DM's recommended answer. Until answered, the rule stands as written
 - **Carapace / plasteel and heavy carapace / heavy plasteel** (the player, after the audit): tiers 4 and 5 carry both names. Plasteel sheet can be built into carapace-tier armour (kit.md, Plasteel armour).
 - **Rushed plasma cells** (Q15): a rushed refill takes 1 day instead of 2 and misfires on a natural 1 or 2 (1 in 10; slow-filled: a natural 1). A misfire wastes the shot and adds 1 heat.
 - **Prices for the day-48 parts and mortar rounds** (Q16): the DM weighed each one and set its price; 26 regular parts and 7 boxes of mortar rounds are in the shop list and on their catalogue entries. Custom parts stay unsold.
+- **Mortar smoke rounds** (Q19): frag is the only standard round; smoke is a special load like the others. The mortar kits that named smoke or krak as standard now carry frag.

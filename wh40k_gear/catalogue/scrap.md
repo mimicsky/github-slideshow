@@ -212,7 +212,7 @@ allies' weapons like any attachment ([attachments.md](attachments.md#the-rollabl
 ## Mortar rounds (day 48)
 
 Designed by the player, Ash on Ostrava day 48. A mortar team carries **frag** (or a pipe-bomb mortar, **pipe-bombs**) as
-standard; the rounds below are **special loads**: they roll in the load slot like special ammo, and **a rolled load means
+standard, and nothing else (settled by the player, day 48: 'frag as default then special list': smoke is a special load too); the rounds below are **special loads**: they roll in the load slot like special ammo, and **a rolled load means
 about half the team's rounds are that type**. **Duds:** a round that can dud rolls a d6 when it lands (an anti-dud
 breech then gives it a second d6: only 1-3 is still a dud). A dud lies where it landed, live (the DM's call if it
 matters).

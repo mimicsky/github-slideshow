@@ -1956,7 +1956,7 @@
    ],
    "mortar team": [
     [
-     "Light mortar, frag and smoke rounds (two-man team)",
+     "Light mortar, 6 frag rounds (two-man team)",
      "R"
     ]
    ],
@@ -2569,12 +2569,8 @@
    ],
    "mortar team": [
     [
-     "Light mortar, frag and smoke rounds (two-man team)",
-     "C"
-    ],
-    [
      "Light mortar, 6 frag rounds (two-man team)",
-     "U"
+     "C"
     ]
    ],
    "veteran": [
@@ -3457,7 +3453,7 @@
    ],
    "mortar team": [
     [
-     "Light mortar, krak and frag rounds (two-man team)",
+     "Light mortar, 6 frag rounds (two-man team)",
      "R"
     ]
    ],
