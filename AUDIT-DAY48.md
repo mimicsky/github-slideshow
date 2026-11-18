@@ -95,3 +95,4 @@ Each has the DM's recommended answer. Until answered, the rule stands as written
 - **Half-and-half teams** (Q2): half of each group is rolled as traitor elites and half as cultists (gear, stats, guns), and all of them play as cultists. The Moebian 6th by the player; the DM also marked the Volscani Cataphracts, the Blood Pact, the Sons of Sek and the Prospero Spireguard. Roll: `roll_enemy.py cultist N team=NAME`.
 - **A pack or magazine swap is the beat's main thing** (Q3).
 - **A shot at a limb or a gap is +1** (Q4): shooting for the gaps now uses the same +1 as any small or precise shot (it was +2).
+- **Jump packs** (Q8): shots at an airborne target are -3; 'abnormally fast' (+3) is for the jump pack's Dive ability, not for jump packs in general.

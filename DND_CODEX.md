@@ -801,8 +801,9 @@ What the DM has always done, written down so anyone can run it.
 
   **Cover adds to it** (+1 / +2 / +4; see Cover above); running and shooting is -2 on the shot (Run and gun), and the
   gun's own sights, scopes, range-finders and blessings still apply on top. **Moving targets** (set by the player, day 47): **still or
-  shambling (poxwalkers) +0; walking pace +1; running or fast +2; abnormally fast (jump packs, bikes and
-  vehicles, beasts or daemons at the charge) +3**. **A small or precise shot** (an arm, a leg, a lamp, a hand): **+1**. (Both set by the player, day 47.)
+  shambling (poxwalkers) +0; walking pace +1; running or fast +2; abnormally fast (a jumper using the jump pack's Dive ability, bikes and
+  vehicles, beasts or daemons at the charge) +3**. **A jumper who is simply in the air is not abnormally fast:** shots at
+  him take only Airborne's -3 (Gear rules, Airborne); the +3 comes on top only during a Dive (settled by the player, day 48). **A small or precise shot** (an arm, a leg, a lamp, a hand): **+1**. (Both set by the player, day 47.)
   The shooter's total (roll checklist) must reach it. Melee between people uses the exchange (house rule 5) instead.
 - **Damage:** a hit drops the target **one health step, 1.0** (4.0 Fine → 3.0 Hurt → 2.0 Badly hurt → 1.0 Down; house rule 4),
   **unless their armour stops that kind of weapon** (Part 8, Armour: "shrugs off" means no step for that hit, but **shrugged hits wear them down**: every 6 drop a step, every 10 for power armour; day 47).
