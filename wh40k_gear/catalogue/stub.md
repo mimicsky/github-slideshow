@@ -418,6 +418,21 @@ and a tube stock, and a magwell for a **30-round ergo magazine** (PMAG style).
   short move, not its main thing** (reload and still shoot that beat).
 - **Every attachment slot but the barrel** (a stock part still fits the tube).
 
+## Bullpup pump shotgun, 'Kasr Carousel' rotary-tube pattern
+
+**Bullpup pump shotgun, 'Kasr Carousel' rotary-tube pattern** (rare, 6 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48; name,
+price and the numbers he didn't set: the DM's). A bullpup pump with no magazine: **three tubes of 5 shells each**
+(the player, day 48: three tubes of 5, not one of 15) on a carrier that turns inside the stock and runs the length of
+the gun.
+- **Three tubes of 5.** When one runs dry, **twist the carrier to the next: free, once a beat.**
+- **A load in each tube:** each tube can hold a different load (standard in one, man-stopper slugs in the next,
+  dragon's breath in the third): **the twist picks the load.**
+- **Pump: strings of 3, recoil 1.** [Slam](abilities.md#slam-push-pull), as any pump.
+- **Bullpup:** short and handy: **+1 on quick-draws.** Standard shotgun range (the close blast to ~15 m; -2 past ~15 m).
+- **Reload:** each tube is loaded round by round, half a beat per 2 shells; it can be topped up from the string. No
+  magazines.
+- **Every attachment slot but the stock** (the bullpup body is the stock).
+
 ## Web pistol, Arbites pattern
 
 **Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a

@@ -4018,6 +4018,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Bullpup pump shotgun, 'Kasr Carousel' rotary-tube pattern (bullpup pump; three tubes of 5 on a turning carrier, a load in each, twist free once a beat; strings of 3; +1 quick-draw)",
+  "tv": 6,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
   "name": "Tin-can bomb (light it; ~3 m weak frag; the timing's off, duds on a 1)",
   "tv": 0.1,
   "cat": "explosive",
