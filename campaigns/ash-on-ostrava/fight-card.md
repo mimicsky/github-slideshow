@@ -76,7 +76,7 @@ It is steps 6-9 of the campaign README's Fight checklist in short; steps 1-5 (wh
 | Power armour | almost everything a soldier carries | bolters, plasma on a solid hit, melta, power weapons, krak |
 - **Part-armour** counts only from the side it covers: **Tamsin is heavy carapace from the front**, carapace from the side and back. **Crits always get through** (one step vs armour that would have shrugged it). Armour takes damage; the DM says when it fails (codex, Armour; sheet, Full kit, Tamsin).
 ## 8. Heat, packs and fields
-- **Packs:** hot-shot (hellguns, hellpistols, hot-shot conversions) **30 shots**; regular las (lasguns, lascarbines, laspistols) **45**; a pack swap mid-fight is the beat's move (codex, Gear rules: Pack sizes).
+- **Packs:** hot-shot (hellguns, hellpistols, hot-shot conversions) **30 shots**; regular las (lasguns, lascarbines, laspistols) **45**; **a pack or magazine swap mid-fight is the beat's main thing** (the player, day 48) (codex, Gear rules: Pack sizes).
 - **Vigil:** crits **17-20**, **each crit +1 heat**; **vent a beat at 3**; firing anyway at 3: d20, **1-5 cracks the coil**; heat clears after venting or at the fight's end (sheet, Full kit, Tamsin; inventory.md, Tamsin's weapons in detail).
 - **Plasma:** **1 heat per 2 shots** in a fight; at **3** it must vent a beat; firing anyway: d20, **1-5 overheats** (the bearer drops a step, gun out). **Hot-shot conversion:** one step harder; **hot-shot packs only, at the normal rate** (30 shots), no extra heat (changed day 47; codex, Gear rules: Hot-shot conversion).
 - Any other gun's heat, string limit and quirks: its own catalogue entry (codex, Gear rules intro).

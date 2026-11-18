@@ -127,10 +127,6 @@ elif team_roll >= 31 and any(f["type"] == kind for f in F):  # commoners have no
     team = random.choice(opts)
     if team.get("god"): god = team["god"]
 stat_kind = kind
-if team and team.get("gear"):  # half-and-half teams (the player, day 48): another league's gear pools, this league's play
-    P = dict(E[team["gear"]])
-    P["specialists"] = {**P["specialists"], **{r: E[kind]["specialists"][r] for r in team.get("keep_roles", []) if r in E[kind]["specialists"]}}
-    stat_kind = team.get("stats", kind)
 raw = random.randint(1, 20)
 d20 = min(20, raw + (3 if team else 0))
 elite = raw >= 19  # only the natural die makes an elite team; bonuses never do
@@ -150,7 +146,9 @@ def pick(rows):
     tier = random.choices(list(w), weights=list(w.values()))[0]
     opts = [r for r in rows if r[1] == tier] or [r for r in rows if not (poor and r[1] == "R")] or rows
     return random.choice(opts)[0]
-sidearms = [tuple(r) for r in P.get("sidearm", [])] or [r for r in P["weapon"] if any(x in r[0].lower() for x in ("pistol", "revolver", "stub automatic", "sawn-off"))] or [("Hellpistol" if kind == "traitor_elite" else "Laspistol", "C")]
+def sidearms_for(pool, k):
+    return [tuple(r) for r in pool.get("sidearm", [])] or [r for r in pool["weapon"] if any(x in r[0].lower() for x in ("pistol", "revolver", "stub automatic", "sawn-off"))] or [("Hellpistol" if k == "traitor_elite" else "Laspistol", "C")]
+sidearms = sidearms_for(P, kind)
 # Bomb zealots (player-set): their extra is always 3-5 explosives, all strapped on.
 BOMBS = [("Frag grenade","C"),("Pipe-bomb","C"),("Fire bomb (promethium)","C"),("Mining charge","C"),
          ("Krak grenade","U"),("Choke gas grenade","U"),("Cult gas bottle (gas of their god)","U"),("Melta bomb","R")]
@@ -183,15 +181,22 @@ ALWAYS_PRESET = {"ogryn", "herder", "heavy team", "mortar team", "bomb zealot", 
 # Role weapons (the player, day 47): a random kit's guaranteed weapon comes from the role's list, by wealth.
 from role_weapons import ROLE_WEAPONS
 OGRYN_KIT = re.compile(r"^(Renegade )?Ogryn\b|^Ogryn |Bullgryn")
-if team and team.get("gear"): print(f"HALF AND HALF: {team['name']} roll {team['gear']} gear, {team.get('stats', kind)} stats, guns {team.get('guns', 'by league')}; they PLAY as {kind}s (bestiary {kind}s.md)")
+half = None
+if team and team.get("gear"):  # half-and-half teams (the player, day 48): half the group rolls as the other league, half as this one
+    half = set(random.sample(range(count), count // 2))
+    print(f"HALF AND HALF: {team['name']}: {len(half)} roll as {team['gear']}, {count - len(half)} as {kind} (gear, stats, guns); they all PLAY as {kind}s (bestiary {kind}s.md)")
 print(f"SPECIAL TEAM: {team['name']} ({'named by the story' if forced_team else f'2d20 {team_roll}'}): +5 STR/DEX levels, +1 other rolls, armour one step better, +3 better-armed" if team else f"(2d20 {team_roll}: a basic group)")
 print(f"{kind} x{count}, wealth {level.upper()}" + ("" if given else " (default; roll it: roll_enemy.py wealth TYPE)") + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{3 if team else 0} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE GEAR IN USE (natural 20)" if raw == 20 else ""))
 lucky = set(random.sample(range(count), better))
 for n in range(count):
+    mk = kind  # this member's league for gear, stats and guns
+    if half is not None:
+        mk = team["gear"] if n in half else kind
+        P = E[mk]; sidearms = sidearms_for(P, mk); stat_kind = mk
     role_d20 = random.randint(1, 20)
     role = None
     blessed = False
-    roles = list(P["specialists"]) + (["blessed"] if kind == "cultist" else [])
+    roles = list(P["specialists"]) + (["blessed"] if mk == "cultist" else [])
     if role_d20 >= 16:
         role = random.choice(roles)
         if role == "blessed":
@@ -232,7 +237,7 @@ for n in range(count):
                     "tzeentch": f"{n_d} PINK HORRORS (lesser daemons of Tzeentch)"}.get(god, f"{n_d} FURIES (lesser daemons, undivided)")
             kit += f" [HERD: {herd}; kill the herder and the herd loses its march]"
         head = f"SPECIALIST {role.upper()} (d20 {role_d20}): {kit}{backup}"
-    elif random.random() < ranged_share:
+    elif random.random() < (0.75 if mk.startswith("traitor") else 0.5):
         head = f"grunt, ranged (d20 {role_d20}): {pick(P['weapon'])} | {pick(P['melee'])}"
     else:
         side = pick(sidearms) if random.random() < 0.5 else "no sidearm"
@@ -252,16 +257,16 @@ for n in range(count):
     extra = pick(P['extra'])
     if head.startswith("SPECIALIST BOMB ZEALOT"):
         extra = "STRAPPED ON: " + ", ".join(pick(BOMBS) for _ in range(random.randint(3, 5)))
-    cond = random.choice(["Dirty", "Neglected"]) if kind in ("cultist", "raider") else "Dirty" if kind == "pirate" else "Clean"  # commoners: Clean (they barely fire them and have time to clean)
-    if team and team.get("guns"): cond = team["guns"]  # half-and-half teams keep their gear's condition
+    cond = random.choice(["Dirty", "Neglected"]) if mk in ("cultist", "raider") else "Dirty" if mk == "pirate" else "Clean"  # commoners: Clean (they barely fire them and have time to clean)
     if role_d20 >= 16 and role == "veteran": cond = "Clean (a veteran: never Dirty)"
     line = f"{n+1}. {head} | {armour} | {extra} | {stats(role if role_d20 >= 16 else None, "SKITARIUS" in head, bool(OGRYN_KIT.search(head.split("): ", 1)[-1].replace("PRESET: ", ""))))} | guns {cond}"
     if role_d20 >= 16 and role == "grenadier":
-        line += f"  ** EXTRA GRENADE (grenadier; found/made): {pick(GRENADES[kind])}"
+        line += f"  ** EXTRA GRENADE (grenadier; found/made): {pick(GRENADES[mk])}"
     if n in lucky:
         line += f"  ** FOUND/MADE: {random.choice([f for f in P['found'] if not poor or f[1] != 'R'] or P['found'])[0]}"
     if EPIC_CHANCE and random.random() < EPIC_CHANCE:
         line += f"  ** EPIC: {random.choice(EPICS)}"
+    if half is not None: line += f"  [rolled as {mk}]"
     if blessed:
         line = line.replace(f"{n+1}. ", f"{n+1}. !! BLESSED by {god}, rerolled: ", 1)
     print(line)

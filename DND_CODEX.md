@@ -1132,7 +1132,7 @@ The Light had been walking through everything: Fourteen fell in a few beats and 
 | **Kill-team mission** (a squad's job: a strike, a cell, a convoy) | 7 | **28-35** | **21-28** | **10-14** |
 | **Stealth or small mission** (in and out: a few guards, a patrol) | 2 | **8-10** | **6-8** | **3-4** |
 
-Who counts as **poor, middle or rich**: poor = cultists, raiders, poor militia; middle = traitor soldiers (renegade Guard), pirates, **and the Moebian 6th** (half and half: they play as cultists but roll traitor-elite gear: bestiary cultists.md; the player, day 48); rich = traitor elites (traitor storm troopers, renegade kill-teams). Spread the total across the roller's roles (grunts, specialists, a leader), plus their assets (beasts, walkers, heavy weapons, vehicles).
+Who counts as **poor, middle or rich**: poor = cultists, raiders, poor militia; middle = traitor soldiers (renegade Guard), pirates, **and the half-and-half soldier-cults** (the Moebian 6th, the Volscani Cataphracts, the Blood Pact, the Sons of Sek, the Prospero Spireguard: half of each group is rolled as traitor elites and half as cultists, and all of them play as cultists: bestiary cultists.md; the player, day 48); rich = traitor elites (traitor storm troopers, renegade kill-teams). Spread the total across the roller's roles (grunts, specialists, a leader), plus their assets (beasts, walkers, heavy weapons, vehicles).
 
 **Places keep their mission type.** A place (a compound, a hive block, a ship) is set as one mission type and keeps it whoever comes: going into a regular-battle compound alone doesn't empty it; that's a stealth or assassination job, not a stand-up fight. **Encounters away from a place** (a patrol on the road, a pursuit, an ambush) get their own mission type from the situation (a patrol is usually small; an ambush the enemy planned is sized for what they mean to kill).
 
@@ -1540,7 +1540,7 @@ quartermaster: people hand their guns in to him and he cleans them.**
 
 #### Pack sizes
 
-**Pack sizes (set by the player, Ash on Ostrava session 10):** a **hot-shot pack** (hellguns, hellpistols, hot-shot conversions) holds **30 shots**; a **regular las pack** (lasguns, lascarbines, laspistols) holds **45**. Special packs keep their own numbers (catalogue). Swapping a pack mid-fight takes the beat's move (DM default; the player may change it).
+**Pack sizes (set by the player, Ash on Ostrava session 10):** a **hot-shot pack** (hellguns, hellpistols, hot-shot conversions) holds **30 shots**; a **regular las pack** (lasguns, lascarbines, laspistols) holds **45**. Special packs keep their own numbers (catalogue). **Swapping a pack or a magazine mid-fight is the beat's main thing** (settled by the player, day 48: no shooting the same beat without Action Surge; a top-up from an unused string and Run and reload stay as written in A beat).
 
 #### Refractor field
 

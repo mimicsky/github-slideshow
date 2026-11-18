@@ -5,13 +5,13 @@ god; blessed members show that god's marks (catalogue, Blessed cultists).
 
 ## The Moebian 6th
 
-**Half and half (set by the player, Ash on Ostrava day 48):** in the lore they are half a regiment and half a cult, so
-**they ROLL traitor-elite GEAR, and they PLAY and ACT like cultists, a little better than a cult because of the notes
-below.** Roll them with `../roll_enemy.py cultist COUNT [WEALTH] team=moebian`: the roller draws their kit from the
-traitor-elite pools, keeps the cult's herders and their own units, gives them soldier stats (STR 20-35, DEX 25-40: DM's
-default, as they were played) and Clean guns, and marks the group HALF AND HALF. **Everything about how they fight comes
-from this page and the cultist side notes in roles.md** (a cultist sniper stays put, cultist demolitions never surrender,
-and so on); their numbers use the middle column (codex, Enemy numbers and tactics).
+**Half and half (set by the player, Ash on Ostrava day 48):** in the lore they are half a regiment and half a cult. So
+**half the group is rolled as traitor elites and the other half as cultists** (gear, stats and gun condition each from
+its own league; an odd one goes to the cultist half), and **all of them PLAY and ACT like cultists, a little better than
+a cult because of the notes below.** Roll them with `../roll_enemy.py cultist COUNT [WEALTH] team=moebian`: the roller
+does the split and tags each line. **How they fight comes from this page and the cultist side notes in roles.md** (a
+cultist sniper stays put, cultist demolitions never surrender, and so on); their numbers use the middle column (codex,
+Enemy numbers and tactics).
 
 **Nurgle.** Once a loyal Guard regiment, the Moebian 6th rotted from the inside:
 their chaplains preached Grandfather's mercy to men dying of a plague the
@@ -68,6 +68,9 @@ Munitorum never cured. Now they spread it on purpose.
 
 ## The Volscani Cataphracts
 
+**Half and half (the player, day 48; the DM's pick of which teams count):** a soldier-cult, so **half the group
+is rolled as traitor elites and half as cultists; all of them play as cultists** (as the Moebian 6th, above).
+
 **Chaos Undivided.** A traitor regiment of heavy infantry who sold themselves to
 the Ruinous Powers as a whole and kept their discipline.
 - **Look:** dark iron-grey plate over flak, full helms with the eight-pointed star
@@ -77,6 +80,9 @@ the Ruinous Powers as a whole and kept their discipline.
   door, a reserve kept back to hit a flank. They fight like Guard, just damned.
 
 ## The Blood Pact
+
+**Half and half (the player, day 48; the DM's pick of which teams count):** a soldier-cult, so **half the group
+is rolled as traitor elites and half as cultists; all of them play as cultists** (as the Moebian 6th, above).
 
 **Khorne.** A warhost sworn in blood to a warlord; every trooper cut their palm and
 pledged their life. Captured Blood Pact never talk: they bite their tongues out.
@@ -88,6 +94,9 @@ pledged their life. Captured Blood Pact never talk: they bite their tongues out.
 
 ## The Sons of Sek
 
+**Half and half (the player, day 48; the DM's pick of which teams count):** a soldier-cult, so **half the group
+is rolled as traitor elites and half as cultists; all of them play as cultists** (as the Moebian 6th, above).
+
 **Khorne.** Fanatics raised under the Anarch Sek, bloodier and less disciplined than
 the Blood Pact: the warhost's attack dogs.
 - **Look:** crude red paint over stolen Guard gear, shaved heads branded with Sek's
@@ -97,6 +106,9 @@ the Blood Pact: the warhost's attack dogs.
   they don't care how many fall. Make them come through a doorway.
 
 ## The Prospero Spireguard
+
+**Half and half (the player, day 48; the DM's pick of which teams count):** a soldier-cult, so **half the group
+is rolled as traitor elites and half as cultists; all of them play as cultists** (as the Moebian 6th, above).
 
 **Tzeentch.** Guards of a sorcerer's spire, drilled by visions rather than sergeants.
 They know things they shouldn't.

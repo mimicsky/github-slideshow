@@ -2,16 +2,17 @@
 # type: which enemy pool they use. god: cultists only. favoured: their usual guns.
 F = [
  # Cultists (by god)
- # Half and half (the player, day 48): once a Guard regiment, now a Nurgle cult. They ROLL traitor-elite gear and PLAY as cultists.
- {"name":"The Moebian 6th","type":"cultist","god":"nurgle","gear":"traitor_elite","stats":"traitor","guns":"Clean","keep_roles":["herder"],"favoured":["Lasgun, Kantrael M36 (rusted)","Infantry autogun, 'Columnus' pattern","Braced autogun, 'Graia' pattern","Flamer, Ryza pattern (stolen)"],
+ # Half and half (the player, day 48): a soldier-cult. "gear" names the other league: HALF the group rolls as it (gear, stats, guns),
+ # half as the team's own league; all of them PLAY as the team's league.
+ {"name":"The Moebian 6th","type":"cultist","god":"nurgle","gear":"traitor_elite","favoured":["Lasgun, Kantrael M36 (rusted)","Infantry autogun, 'Columnus' pattern","Braced autogun, 'Graia' pattern","Flamer, Ryza pattern (stolen)"],
   # Team units (the player, day 47): a member who rolls grunt rolls a d6; 1-2 makes them one of these instead.
   "units":[["Tox flamer: gas tanks of rot + autopistol (cultists.md, Tox flamers)","C"],
            ["Pox hound (creature): a rotted hound in this man's place, 2 states (cultists.md, Pox hounds)","C"],
            ["Poxburster (creature): a bloated walker loosed in the line (cultists.md, Poxbursters)","U"]]},
- {"name":"The Volscani Cataphracts","type":"cultist","god":"undivided","favoured":["Hellgun, Ryza pattern (stolen)","Combat shotgun, semi-auto","Lasgun, Lucius No.98"]},
- {"name":"The Blood Pact","type":"cultist","god":"khorne","favoured":["Lasgun, Kantrael M36","Autogun, Agripinaa","Combat shotgun, pump"]},
- {"name":"The Sons of Sek","type":"cultist","god":"khorne","favoured":["Autogun, Agripinaa","Lasgun, Lucius No.98","Heavy stubber"]},
- {"name":"The Prospero Spireguard","type":"cultist","god":"tzeentch","favoured":["Lasgun, Lucius No.98 (blue-lacquered)","Hellgun, Ryza pattern (stolen)","Plasma pistol, Ryza pattern"]},
+ {"name":"The Volscani Cataphracts","type":"cultist","gear":"traitor_elite","god":"undivided","favoured":["Hellgun, Ryza pattern (stolen)","Combat shotgun, semi-auto","Lasgun, Lucius No.98"]},
+ {"name":"The Blood Pact","type":"cultist","gear":"traitor_elite","god":"khorne","favoured":["Lasgun, Kantrael M36","Autogun, Agripinaa","Combat shotgun, pump"]},
+ {"name":"The Sons of Sek","type":"cultist","gear":"traitor_elite","god":"khorne","favoured":["Autogun, Agripinaa","Lasgun, Lucius No.98","Heavy stubber"]},
+ {"name":"The Prospero Spireguard","type":"cultist","gear":"traitor_elite","god":"tzeentch","favoured":["Lasgun, Lucius No.98 (blue-lacquered)","Hellgun, Ryza pattern (stolen)","Plasma pistol, Ryza pattern"]},
  {"name":"The Adorned","type":"cultist","god":"slaanesh","favoured":["Needle rifle","Duelling laspistol, noble-house pattern","Las-scattergun 'shotlas'"]},
  {"name":"The Cohort of the Enraptured","type":"cultist","god":"slaanesh","favoured":["Las-scattergun 'shotlas'","Lascarbine, Accatran Mk IV","Hand flamer"]},
  # Traitor soldiers

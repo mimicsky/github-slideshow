@@ -470,7 +470,7 @@ On paper (17th). Source: [schematic 17](../../campaigns/ash-on-ostrava/schematic
 On paper (18th). Source: [schematic 18](../../campaigns/ash-on-ostrava/schematics.md#schematic-18-tamsins-columnus-rebuilt-as-a-different-gun).
 
 - **Magwell cut for Stinger's sticks** (magazine well; **common**) *(Custom, not traditional: no trader carries this.)*: takes **Stinger's straight 40-round sticks:** one mag fits both guns.
-- **100-round box mags** (magazine; **uncommon**) *(Custom, not traditional: no trader carries this.)*: a squat canvas-covered box with a Stinger-stick neck and a plasteel spring; swapped like any mag (the beat's move); **a loaded box: -1 on swapping and -1 on quick-draw.**
+- **100-round box mags** (magazine; **uncommon**) *(Custom, not traditional: no trader carries this.)*: a squat canvas-covered box with a Stinger-stick neck and a plasteel spring; swapped like any mag (the beat's main thing); **a loaded box: -1 on swapping and -1 on quick-draw.**
 - **The Super V** (action; **rare**) *(Custom, not traditional: no trader carries this.)*: an off-axis weighted slider and delayed blowback: **auto strings up to 12 (Tamsin 13), recoil 0;** auto still has no hit bonuses, misses still -1. **Gas tube removed:** cleans in ~20 min.
 - **Short finned barrel** (barrel; **uncommon**) *(Custom, not traditional: no trader carries this.)*: a bought heavy short barrel with fins machined by Dace: **+1 within ~10 m, -2 past ~30 m** (single loses its +1 past 30 m); **strings of 8+ build 1 heat,** vent a beat at 3; **the fins shed 1 heat after any beat it doesn't fire;** **-1 more on swapping.**
 - *Traditional parts on it:* standard silencer, hair trigger, laser sight, reflex sight, skeleton pistol grip (kit.md).
