@@ -18,7 +18,7 @@ applies.
 
 ## Grunt (ranged)
 
-**Who has it:** all five leagues (a grunt is anyone who rolls 1-15).
+**Who has it:** all six leagues (a grunt is anyone who rolls 1-15).
 
 The rank and file. Wants to live through this. Shoots from cover, follows whoever
 is shouting orders, ducks when shot at, and is the first to run when the leader
@@ -30,7 +30,7 @@ surrender while the leader stands (fanatics and fallen professionals).*
 
 ## Grunt (melee)
 
-**Who has it:** all five leagues (a grunt is anyone who rolls 1-15).
+**Who has it:** all six leagues (a grunt is anyone who rolls 1-15).
 
 The ones who couldn't get a gun, or prefer not to. Rushes when the group rushes,
 hangs back otherwise. Waits behind cover for the enemy to come close, **moves from
@@ -46,7 +46,7 @@ to cover far better than the rest.*
 
 ## Sniper
 
-**Who has it:** all five leagues.
+**Who has it:** all six leagues.
 
 Patient and cold, and **harder to spot**. Picks a high or distant spot, waits for a
 shot, and aims for the important people on a team and anyone exposed. **Moves after
@@ -66,7 +66,7 @@ shooting** on his shooting lines (changed with the player, day 36 cleanup).*
 
 ## Grenadier
 
-**Who has it:** all five leagues.
+**Who has it:** all six leagues.
 
 Likes clusters. Thinks in **three ways**: waits for a team to bunch up and lobs into
 the cluster; throws to **flush people out of cover** for the shooters; and goes for
@@ -87,7 +87,7 @@ shots) (changed with the player, day 36 cleanup).*
 
 ## Heavy gunner
 
-**Who has it:** all five leagues.
+**Who has it:** all six leagues.
 
 One soldier with a heavy gun. Sets up somewhere solid and hoses the lane the party
 has to cross. **Suppresses: anyone they're firing at takes -2 on their shots.** Slow
@@ -140,7 +140,7 @@ overheated, even with a backup weapon.*
 
 ## Flamer
 
-**Who has it:** all five leagues.
+**Who has it:** every league except commoners.
 
 Wants to be close and loves close quarters. Clears cover by burning it, and **sprays
 fire over cover to suppress** whoever is behind it. Moves forward behind other
@@ -159,7 +159,7 @@ beat.*
 
 ## Demolitions
 
-**Who has it:** all five leagues.
+**Who has it:** every league except commoners.
 
 Mines the approach, rigs doors, blows cover out from under the party. **Their traps
 can be spotted with a Perception check.** Prefers to fight before the fight: traps
@@ -172,7 +172,7 @@ run into you and blow themselves up.*
 
 ## Medic
 
-**Who has it:** all five leagues.
+**Who has it:** all six leagues.
 
 Stays behind the line and drags the wounded back. **Patches one ally a beat: gives
 them back one health step (+1.0), once per person** (Badly hurt to Hurt, Hurt to Fine; **a Down
@@ -205,7 +205,7 @@ prisoners. **Their bag is loot, and a crime to keep.**
 
 ## Leader
 
-**Who has it:** all five leagues.
+**Who has it:** all six leagues.
 
 The voice of the group: preacher, boss, captain, sergeant or officer. Stays where
 they can see and be heard, **gives orders (+1 to their side's rolls)**, and keeps the
@@ -229,7 +229,7 @@ Down. Killing them has little effect.*
 
 ## Bodyguard
 
-**Who has it:** all five leagues.
+**Who has it:** every league except commoners.
 
 Shield, armour, and loyalty. **Sticks to the leader; with no leader, guards the most valuable specialist** (the witch, the heavy, the vox man). **Once a beat, can take a hit aimed at the one they guard.** Doesn't chase; stays put.
 
@@ -260,7 +260,7 @@ the other just as much.** (Changed by the player, Ash on Ostrava day 48.)
 
 ## Icon bearer
 
-**Who has it:** all five leagues.
+**Who has it:** every league except commoners.
 
 Carries the banner, idol or colours. Stays near the middle where it can be seen.
 **Allies within sight of the icon get +1 to rolls.** Fanatical about it; won't
@@ -277,11 +277,11 @@ their basic grunts, melee and ranged, charge.*
 
 ## Rogue psyker
 
-**Who has it:** all five leagues.
+**Who has it:** every league except commoners.
 
 Unsanctioned and dangerous, mostly to themselves. Uses powers when they feel safe
 or desperate. **When charging a power, they get into cover first if they can** (a charge
-makes them a target; set by the player, Ash on Ostrava day 45). **Perils trigger 1-4** (see Perils of the Warp in the Codex, Gear rules).
+makes them a target; set by the player, Ash on Ostrava day 45). **Perils trigger 1-4** (see the Codex, Part 8, Perils of the Warp).
 Other enemies keep their distance. Their own team sees them as the most dangerous
 thing on the field, to them and to the enemy.
 
@@ -301,7 +301,7 @@ their team starts to lose, they panic and push it more: -1 to their Perils trigg
 
 ## Vox / auspex
 
-**Who has it:** all five leagues.
+**Who has it:** all six leagues.
 
 Carries a vox, an auspex, or both: the eyes and ears. Calls in help, warns the
 others, stays behind cover more, and only fights when they need to. **Kill them
@@ -328,7 +328,7 @@ fall back to make the call.*
 
 ## Tech-adept / heretek
 
-**Who has it:** all five leagues.
+**Who has it:** every league except commoners.
 
 Fixes things mid-fight: clears jams, restarts a dead turret, re-arms a mine. Sets
 up an auto-turret or locks a door the party needs. **Each of these costs 1 beat.**
@@ -338,7 +338,7 @@ party to follow. Protected by the others when possible.
 
 ## Breacher
 
-**Who has it:** all five leagues.
+**Who has it:** every league except commoners.
 
 Goes through doors first. Shields, shotguns, SMGs, always ready; rushes straight
 into the room. Loves tight spaces: **+1 to shooting in close quarters.** Out in
@@ -398,7 +398,7 @@ time. Pride is their weakness: they can be baited.
 
 ## Brute / mutant
 
-**Who has it:** cultists, raiders, traitor soldiers, traitor elites.
+**Who has it:** cultists, raiders, traitor soldiers, traitor elites, commoners (the big farmhand).
 
 Huge: a mutant, a renegade Ogryn, a penal monster. **Takes 2 more hits than a
 normal person before going Down** (two extra health steps: **starts at 6.0**). Slow-witted and
@@ -408,7 +408,7 @@ sometimes ignores orders.
 
 ## Beast handler
 
-**Who has it:** all five leagues.
+**Who has it:** all six leagues.
 
 Comes with **2-3 beasts, 2 health steps each (they start at 3.0; no state penalties)** (hounds, mutant dogs,
 cyber-mastiffs, warp-hounds) that fight on their own. Sends them first to run the
@@ -443,7 +443,7 @@ himself and the enemy.*
 
 ## Berserker
 
-**Who has it:** all five leagues.
+**Who has it:** every league except commoners.
 
 **Starts the fight normal.** Once they make contact, they get behind cover and
 dose up, then they're drugged out of their mind and want to kill something close.
@@ -486,7 +486,7 @@ Khorne, 2 beats in all.
 
 ## Jumper
 
-**Who has it:** all five leagues. (Player design, Ash on Ostrava session 9; also a Light
+**Who has it:** every league except commoners. (Player design, Ash on Ostrava session 9; also a Light
 subclass: Varga.)
 
 Wears a jump pack or lift pack. Comes out into the air on purpose, to draw every eye,
@@ -510,7 +510,7 @@ middle of the enemy team.*
 
 ## Duelist
 
-**Who has it:** all five leagues. (Player design, Ash on Ostrava session 9.)
+**Who has it:** every league except commoners. (Player design, Ash on Ostrava session 9.)
 
 Wants the fight, and pushes up as far and as fast as they can. Carries a **one-handed gun
 and a sword** (changed by the player, Ash on Ostrava session 10): a pistol, an SMG, or a shotgun
@@ -530,7 +530,7 @@ cover counts for +2 more against shots at them** (the player's "+10%", as a d20 
 
 ## Commander
 
-**Who has it:** all five leagues. (Player pick, Ash on Ostrava session 9.)
+**Who has it:** every league except commoners. (Player pick, Ash on Ostrava session 9.)
 
 The group's brain. The leader is the group's voice; the commander picks the target
 and the person, and stays where they can see the whole fight. **Once a beat, gives
@@ -575,7 +575,7 @@ strafing run on the same target gets +2.*
 
 ## Spotter
 
-**Who has it:** all five leagues. (Player pick, session 9.)
+**Who has it:** every league except commoners. (Player pick, session 9.)
 
 Eyes for the guns. Hangs back with magnoculars, an auspex or a scope. **Spends 1 beat
 marking a target, by shouting it or over comms; a shout lets the target know they're
@@ -590,7 +590,7 @@ the marked target becomes everyone's highest-value target.*
 
 ## Tracker
 
-**Who has it:** all five leagues. (Player pick, session 9.)
+**Who has it:** all six leagues. (Player pick, session 9.)
 
 Hunter. Reads ground, blood, dust and air vents. **+2 to find hidden enemies, tracks
 and traps** (a spotted trap can be avoided or used); **an enemy can't break contact
@@ -605,14 +605,14 @@ chance comes up.*
 
 ## Zealot
 
-**Who has it:** all five leagues. (Player pick, session 9.)
+**Who has it:** all six leagues. (Player pick, session 9.)
 
 Burns with faith, for the Emperor or for a dark god. Fights in front and never
 stops shouting. **Their side gets +1 on nerve, and while the zealot stands their
 grunts won't flee.** **Once a fight, a great shout: every enemy who hears it makes a
 WIS save or takes -1 on their next roll** (a purity seal gives advantage). **Faith
-keeps them up: they have an extra health stage** (**they start at 5.0**: 5.0 Fine, 4.0 Grazed, 3.0 Hurt, 2.0 Badly hurt,
-1.0 Down). **Divine intervention: whenever a hit is about to land on them, roll a d20; on
+keeps them up: they have an extra health stage** (**they start at 5.0**; no penalty above 3.0:
+codex house rule 4). **Divine intervention: whenever a hit is about to land on them, roll a d20; on
 a natural 20 they get out of the way, as if something moved them.**
 
 *Side note: when a cultist zealot dies, the cultists near them frenzy for a beat: +1
@@ -639,7 +639,7 @@ human, obeying their Tech-Priests through data-links. Corrupted ones serve heret
   target).
 - **Stats:** STR 30-45, DEX 35-50. **Built-in augmetic eyes:** +1 on shots, can't be
   blinded.
-- **Machine body:** one extra health stage: **it starts at 5.0** (5.0 Fine, 4.0 Grazed, 3.0 Hurt, 2.0 Badly hurt, 1.0 Down).
+- **Machine body:** one extra health stage: **it starts at 5.0** (no penalty above 3.0: codex house rule 4).
   No bleeding, no fear, immune to gas.
 - **Data-link:** if their Tech-Priest or heretek is in the fight, they act **first**
   every beat.
@@ -768,7 +768,7 @@ PDF troopers; **traitor_elite**: storm troopers, Scions, Ordo teams), read the s
 
 ## Ogryn
 
-**Who has it:** all five leagues, and loyal ones from the recruit list. (Player design,
+**Who has it:** every league except commoners, and loyal ones from the recruit list. (Player design,
 Ash on Ostrava session 9; distinct from the brute/mutant: a real Ogryn, trained and
 kitted.)
 
@@ -795,7 +795,7 @@ fight for anything that feeds them.*
 ### Ogryn variants: the Crusher, the Bulwark, the Reaper
 
 **Added by the player, Ash on Ostrava day 47, from Darktide (the Moebian 6th's Ogryns).** Each is an Ogryn (the stats,
-the 5 stages, shots at it +2, the once-a-fight charge, loyal and dumb, as above), plus:
+the 7.0 health track, shots at it +2, the once-a-fight charge, loyal and dumb, as above), plus:
 
 - **Crusher.** Sealed in **full heavy carapace** (only heavy hits get through: hellguns and heavy stubbers only
   inside ~15 m; bolters, chain on a solid hit, power, plasma, melta, krak always). A **two-handed power maul**:

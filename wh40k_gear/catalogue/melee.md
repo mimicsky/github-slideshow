@@ -187,7 +187,7 @@ channels through it: through carapace on a solid hit, and it burns daemons and
 warp-things. **Warp shield:** the psyker intake on the blade's spine raises a
 shield for a beat that blocks the first shot and the first melee hit at the bearer
 (a raw 17+ still gets through). Each beat it is up, Perils trigger 1-3:
-the shield collapses and the psyker rolls the Perils result (Codex, Gear rules). Enemy witches
+the shield collapses and the psyker rolls the Perils result (Codex, Part 8, Perils of the Warp). Enemy witches
 may carry one.
 
 ## Combat chain-knife, 'Kasr Gnaw' pattern

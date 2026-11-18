@@ -14,10 +14,10 @@ Don't say what's in the DM notes.
 1. **This README**, all of it.
 2. **The campaign sheet** ([`ash-on-ostrava-campaign-sheet.md`](ash-on-ostrava-campaign-sheet.md)): "Where we stopped", "Current state", "What the Light knows about Thask", "Full kit", Tamsin ("The character"), the Light (roster, roles, specialties, stats). It's all current state.
 3. **The DM notes** ([`dm-notes.md`](dm-notes.md)), **down to the STOP line only**, read silently, never told to the player: how the campaign runs, the live mission's secrets, nemeses, pre-rolls. Below STOP, open an entry only when its trigger comes up.
-4. **The codex** ([`../../DND_CODEX.md`](../../DND_CODEX.md)): **only the sections marked "Always" in the map at its top** (about 450 lines: the play preferences, house rules 1-6, cover, the roll checklist, shots and hits, breaking and Down, matches and knife bouts, describing the world, armour and weapons, and the Gear rules' swapping, recoil and pack sizes). Open the rest when the map's trigger comes up. Plain 5e (Parts 1-5, the Quick Reference Card) is in [`../../codex-5e-reference.md`](../../codex-5e-reference.md): skip it.
+4. **The codex** ([`../../DND_CODEX.md`](../../DND_CODEX.md)): **only the sections marked "Always" in the map at its top** (about 660 lines: the play preferences, house rules 1-6, cover, the roll checklist, shots and hits, breaking and Down, matches and knife bouts, describing the world, armour and weapons, and the Gear rules' swapping, recoil and pack sizes). Open the rest when the map's trigger comes up. Plain 5e (Parts 1-5, the Quick Reference Card) is in [`../../codex-5e-reference.md`](../../codex-5e-reference.md): skip it.
 5. **The Light's voices** ([`world.md`](world.md), "The Light: who they are"): every personality and voice entry, **before writing anyone's speech.** This is a story game as much as an action game: each person talks and acts like themselves (set by the player, day 34).
 6. **The end of the last chapter** in [`book-season-2.md`](book-season-2.md) (search for the last `## Chapter`; read its final scene), plus the day log (day-log.md, from the day-36 cleanup) for anything played since.
-7. **A fight on?** Do the **Fight checklist** (below) before the first die, with [`fight-card.md`](fight-card.md) open (the ten fight rules on one screen; the codex wins where they differ).
+7. **A fight on?** Do the **Fight checklist** (below) before the first die, with [`fight-card.md`](fight-card.md) open (the fight rules on one screen; the codex wins where they differ).
 8. **Nothing else up front.** The gear catalogue's index, the bestiary's index and its roles file are opened when an item or a fight comes up ("Where things are" below).
 
 Then pick up exactly where we stopped.
@@ -51,7 +51,7 @@ once and write the ruling into the roster** before rolling. Then:
   (+5 STR/DEX levels, +1 other rolls, armour one step better). Then the team's own entry (look, tactics: play them that way).
 - [`../../wh40k_gear/bestiary/roles.md`](../../wh40k_gear/bestiary/roles.md): every enemy role in the fight (leader, duelist, jumper, herder...).
 - Codex house rule 4, Health (the number and its state; a step 1.0, a half step 0.5) and "Some roles and gear add more": bigger and short tracks, stimms, blessings.
-- **Who never surrenders:** cultist duelists, the Moebian 6th, poxwalkers (mindless); enforcers stop breaks.
+- **Who never surrenders:** cultist duelists and cultist demolitions, the Moebian 6th, poxwalkers (mindless), Arbitrators, Sisters Novitiate, the Unburied and the Broken Badge (traitor-elite teams); enforcers stop breaks.
 - **Who can call for help (day 47):** any vox man or vox-caster: he spends his beat calling when the fight turns; once the call is out, each beat a d6 5-6 brings a quarter of the starting force (codex Part 8, Enemy numbers and tactics; bestiary roles, Vox). **Track it every beat.** **Cap (the player, day 47): when the call goes out, roll a d10 once: that's the most reinforcement groups that can come for this fight** (each arrival counts one; at the cap, no more).
 
 **4. The Light: each person in the fight.** In the campaign sheet:
@@ -90,7 +90,7 @@ Then roll.
   surprise, gear and eyes, chain, swap, recoil, airborne, health, cover, darkness).
 
 **8. Every hit and every swing** (fight card §2, §4-§7, §10).
-- **Shots:** codex Part 6, **Shots and hits** (hidden number 10 / 15 / 20 + **Cover**), solid hit (beat it by 3+),
+- **Shots:** codex Part 6, **Shots and hits** (hidden number by range band: 7 / 10 / 15 / 17 / 20 / 25, + **Cover**, moving-target and small-shot modifiers), solid hit (beat it by 3+),
   crits (a natural 20; Tamsin 19-20; Vigil 17-20 with heat). **Write each hidden number in the beat's notes.**
 - **Armour:** codex Part 8, **Armour** (shrugs or gets through; part-armour; crits always get through, but only one
   step against armour that would have shrugged it; wear-down). Refractor field rolls.
@@ -159,7 +159,7 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 
 - **Short vs detailed (set by the player, day 47, after a fight ran thin):** the player's 'short, plain, mobile-friendly' preference is for out-of-character talk, rules answers and math lines. **Scenes and fight beats always get full detail** (what it looks, sounds and smells like; what each person does; narrated roll lines; the still-up board), because the book is written from them. When the two pull against each other, cut the chatter, never the scene.
 - **Voices (set by the player, day 34): it's a story game as much as an action game.** **More detail is always better** in scenes and in these entries. Before writing anyone's lines, check their personality and voice entry in [`world.md`](world.md) ("The Light: who they are") and write them that way. **Keep those entries current in the same save:** a new character gets an entry; a new trait, want, fear, relationship, title, or a piece of kit that matters to them goes into their entry. "Newer, still developing" characters: try new things; keep what gets a reaction or sticks.
-- **New allies get rolled, every time (the player, day 48):** the moment anyone new joins us or fights on our side (a recruit, an allied soldier or squad, a Sister, an NPC who matters), **roll them right then, before they act or are described:** `python3 wh40k_gear/roll_ally.py TYPE COUNT [WEALTH] [join]` (commoner / traitor / traitor_elite) or `roll_ally.py sister [COUNT] [join]`. Stats, role, kit, armour, extra and traits, read as loyal, **shown to the player** like an enemy roll, and written in `dm-notes.md` (and on the sheet if they join the Light). Rules: bestiary roles.md, Rolling new people.
+- **New allies get rolled, every time (the player, day 48):** the moment anyone new joins us or fights on our side (a recruit, an allied soldier or squad, a Sister, an NPC who matters), **roll them right then, before they act or are described:** `python3 wh40k_gear/roll_ally.py TYPE COUNT [WEALTH] [join]` (commoner / traitor / traitor_elite) or `roll_ally.py sister [COUNT] [WEALTH] [join] [vows]`. Stats, role, kit, armour, extra and traits, read as loyal, **shown to the player** like an enemy roll, and written in `dm-notes.md` (and on the sheet if they join the Light). Rules: bestiary roles.md, Rolling new people.
 - **Never roll Tamsin's dice.** Ask "Roll me a d20" and wait. **That includes every bout, drill and mat match: each of Tamsin's swings and defences is the player's d20, one at a time; never pre-roll a queue that holds his dice** (slipped day 37, the sword bout with Brenner). **The player always describes what Tamsin does with each roll** (the player, day 37): just ask for the d20, never "tell me how you swing"; narrate his move as he described it. NPC dice and undecided facts are rolled openly with a real RNG. The DM rolls will checks for the player.
 - **Show the math** on every roll, DCs hidden (codex Part 6, How the player likes to play, "Show the math").
 - **Name + role on every mention** (**the tag is rank + the role in the sheet's Roles table**, day 36), dialogue lines included: `Kell (Light-bringer sergeant, leader): "line"` (**speech always inside quotation marks**, the player, day 36).
@@ -208,7 +208,7 @@ Award XP (the sheet's XP table), check the book is up to date with every day pla
 | [`dm-notes.md`](dm-notes.md) | Hidden: how the campaign runs, live secrets, nemeses, pre-rolls (top part every resume; entries on demand) |
 | [`day-log.md`](day-log.md) | The day log: one bullet per timestamp; written up as chapters and cleared at day end |
 | [`schematics.md`](schematics.md) | The 18 schematics, one section each |
-| [`fight-card.md`](fight-card.md) | The ten fight rules on one screen, every line anchored to the codex, roles.md or the sheet; derived: the sources win |
+| [`fight-card.md`](fight-card.md) | The fight rules on one screen, every line anchored to the codex, roles.md or the sheet; derived: the sources win |
 | [`archive.md`](archive.md) | Closed history; never read on resume |
 | [`book-season-2.md`](book-season-2.md) | Season Two as a novel (the only story file) |
 | [`book.md`](book.md) | Season One as a novel |

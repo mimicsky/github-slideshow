@@ -49,7 +49,7 @@ Munitorum never cured. Now they spread it on purpose.
   where it falls. One health step (it starts at 2.0); any hit bursts it. **In a swarm: a d6 for every twenty walkers, 1-2
   means one of them is a burster** (seen in the fiction: swollen, glistening, running).
 - **Pox hounds (set by the player, day 47):** the 6th's hounds, rotted with the plague. **2 health
-  states, fast (~40 m a beat).** They **pounce**: a DEX dodge, or the target is knocked flat and
+  steps (they start at 3.0; no state penalties), fast (~40 m a beat).** They **pounce**: a DEX dodge, or the target is knocked flat and
   **pinned** (can't act until the hound is hit or Down); **bites carry the rot** (CON vs 13). Run by a
   beast handler in packs of 3-6; they go for the wounded and whoever's alone.
 - **Tox flamers (set by the player, day 47):** flamers of the 6th spraying not fire but a choking green

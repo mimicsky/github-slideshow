@@ -61,7 +61,7 @@ crown cut into the mark of their god. **About one cult witch in four carries one
 (the rest have a crude stick). It channels Chaos through the psyker who holds it.
 
 **In a witch's hands:** each beat they use **one power**, and roll the
-Perils trigger: **1-3**, then roll the Perils result (Codex, Gear rules).
+Perils trigger: **1-3**, then roll the Perils result (Codex, Part 8, Perils of the Warp).
 
 | Power | What it does |
 | --- | --- |

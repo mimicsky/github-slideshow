@@ -37,6 +37,7 @@ by narrative mode (house rule 4): open them only if the player asks for full rul
 | Part 6, Rulings made at the table | A situation those rulings cover (looting, white armour, undecided facts) |
 | Part 7: Dice are real, Calling for rolls, Pacing and difficulty, Combat, Failure states | Unsure how to call a roll or pace a stretch (Combat and Failure states are superseded) |
 | Part 7: End of session (and the book rule) | The end of an in-game day or a session |
+| Part 8: Enemy numbers and tactics (mission type x wealth, how they fight, vehicles, new roles) | **Every fight** (the Fight checklist sends you there) |
 | Part 8: Loot (incl. the two rare rolls, coin on a body, special teams, enemy stats) | Rolling enemies; a fight ends |
 | Part 8: The quartermaster's stock, Shop size by market, The Void Exchange | Shopping, selling, ordering |
 | Part 8: Renown | Walking into a new place |
@@ -44,10 +45,10 @@ by narrative mode (house rule 4): open them only if the player asks for full rul
 | Part 8: Nemeses | A fight ends (log witnesses); a mission starts |
 | Part 8: Crew posts | A crew post matters (cook, smith, surgeon, quartermaster) |
 | Part 8: The mission terminal | Briefing a new mission |
-| Part 8: Gear rules, the other headings (hot-shot, drop-prone, going Down drops weapons, plasma heat, ammo crates, shields, airborne, gun condition and jams, refractor and conversion fields, doses) | Any of those comes up in play |
+| Part 8: Gear rules, the other headings (hot-shot, drop-prone, going Down drops weapons, plasma heat, ammo crates, shields, airborne, gear abilities, power cells, gun condition and jams, refractor and conversion fields, iron halo, doses) | Any of those comes up in play |
 | Part 8: Perils of the Warp, Psyker powers | A psyker or the warp |
 | Part 8: Custom weapons and crafting, Purity seals, Weapon blessings | Building, sealing or blessing gear |
-| Part 8: The hub, Training at the hub | Superseded (house rule 7); skip |
+| Part 8: The hub (its armoury stock and priest still apply); Training at the hub | Training at the hub is superseded (house rule 7); open The hub only at a hub |
 | [`codex-5e-reference.md`](codex-5e-reference.md): Parts 1-5 and the Quick Reference Card | Plain 5e; skip (open only if the player asks for full rules) |
 
 ---
@@ -123,7 +124,7 @@ Standing preferences, set during play. They apply to every campaign.
   stock in the morning summary; show it only when the character goes to them.
   Set by the player, session 5.
 - **No repeats.** Save before writing the scene; the save note is just
-  "(saved)" at the top, never a recap. The scene is the last thing in the reply.
+  "(saved)", never a recap, after any math lines and before the scene. The scene comes last, with only a fight's 'Still up' board after it (the campaign README's reply order).
   NPCs don't re-explain what they already said, and the time and situation
   aren't restated when nothing changed. Set by the player, session 5.
 - **The world moves off-screen.** The first time the character meets someone
@@ -234,14 +235,14 @@ What is switched off:
 
 - Initiative, turn order, and rounds
 - The action / bonus action / movement economy
-- Armor Class and to-hit arithmetic
+- Armor Class (to-hit runs on the hidden number and the roll checklist instead: Part 6, Shots and hits)
 - Opportunity attacks and positioning in feet (cover: Part 6, Cover; distances in metres; fights run in beats: Part 6, A beat)
 - D&D hit points (replaced by the small health number below)
 
 What stays on:
 
-- **One d20 at genuine turning points**, not once per exchange. A fight is two
-  or three rolls, not six rounds.
+- **Outside fights, one d20 at genuine turning points.** **In a fight, every action is its own open roll** (A beat,
+  the exchange, shot chains: set later by the player; this line first said 'a fight is two or three rolls').
 - **Social scenes get rolled too.** Any time the other person has a real reason
   to say no, or the player is taking a genuine risk with someone, that is a roll.
   Not a check on whether an ally likes them, but a real test whenever refusal,
@@ -815,7 +816,7 @@ What the DM has always done, written down so anyone can run it.
   player, Ash on Ostrava session 10): **1-10 they surrender, 11-16 they keep fighting, 17-20 they run.**
   League shades it: **cultists** rarely surrender, so for them only **1-5 surrenders** (6-16 fight on), unless
   their **leader** has just fallen, when the normal 1-10 applies (bestiary roles, Leader: 'more likely to
-  surrender, even fanatics'). Pirates and traitors fall back to better ground rather than give up early.
+  surrender, even fanatics'). Pirates and traitors fall back to better ground rather than give up early. **Commoners are brittle:** they check at **a third Down** (or their leader's fall) and **break on 1-10** (run or surrender; a preacher among them makes it 1-6: bestiary commoners.md).
   (An enforcer still stops breaking while it stands: bestiary roles.) A group that keeps fighting can be
   checked again the next time its losses jump (another quarter Down).
 - **Down enemies, after the fight:** d6 each, **1-3 dead, 4-6 alive but out** (prisoners, questioning).
@@ -1195,7 +1196,7 @@ world** (or at the first meeting with that faction there) with
 `python3 wh40k_gear/roll_enemy.py wealth TYPE`, then passed to every group from that
 faction (`roll_enemy.py TYPE COUNT WEALTH`). **Cultists, raiders, pirates:** 1-30 Poor,
 31-60 Steady, 61-80 Good, 81-95 Rich, 96-100 Wealthy. **Traitors and traitor elites**
-(Good and up): 1-50 Good, 51-85 Rich, 86-100 Wealthy.
+(Good and up): 1-50 Good, 51-85 Rich, 86-100 Wealthy. **Commoners:** 1-50 Poor, 51-90 Steady, 91-100 Good, never past Good (bestiary commoners.md).
 
 | Wealth | Common / Uncommon / Rare | Notes |
 | --- | --- | --- |
@@ -1209,7 +1210,7 @@ An **elite team** (natural 19-20 on the group d20) is **one level richer** than 
 faction. Epic items are drawn from the exotic tier (Astartes trophies, xenos guns, archeotech;
 never Assassinorum gear). Named special teams keep their own rules and carry no scrap. **Each enemy also rolls STR and DEX levels** in its league's range
 (cultist STR 10-30 / DEX 10-25; raider 15-35 / 15-30; pirate 15-35 / 20-35; traitor
-20-35 / 25-40; traitor elite 25-45 / 35-50), +1 per full 10 levels to their rolls; a
+20-35 / 25-40; traitor elite 25-45 / 35-50; commoner 10-30 / 10-25), +1 per full 10 levels to their rolls; a
 specialist adds +5 levels to the stat its role uses, a special team +5 to both; other
 rolls +1. **No per-book bonuses** (removed by the player, session 9): later books bring
 more enemies and smarter tactics, not bigger numbers. Other enemies (xenos,

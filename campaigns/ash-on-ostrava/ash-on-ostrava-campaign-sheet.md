@@ -230,7 +230,7 @@ Moved to `world.md` (day 36 cleanup), under the same heading.
 
 **Power cells (codex, Power cells; set day 44: 30 power-mode swings a cell):** Corvane's power sword **30/30**; Varga's power knife **30/30**; Nessa's power knife **30/30**.
 
-**Tamsin's standing modifiers (check every roll; codex Roll checklist):** **Traits: Night owl, Brave (+1 fear/intimidation/break), Claustrophobic (-1 in tight spaces)**; **Extra Attack (2): +1 shot on every string, +1 swing on every melee chain (Shameholder 3)**; Champion crits 19-20 (Vigil 17-20, heat);
+**Tamsin's standing modifiers (check every roll; codex Roll checklist):** **Fire calls (set by the player, day 47):** 'RIFLES FIRE' = everyone in the Light with a gun in their hands; 'ALL LIGHT' = the rifles plus Hollis's Six Bells, Teo's ship turret and Mira's Valk guns; anything held by name (e.g. Tavi's satchel) waits for its own word. **Traits: Night owl, Brave (+1 fear/intimidation/break), Claustrophobic (-1 in tight spaces)**; **Extra Attack (2): +1 shot on every string, +1 swing on every melee chain (Shameholder 3)**; Champion crits 19-20 (Vigil 17-20, heat);
 Remarkable Athlete (+2 untrained STR/DEX/CON); proficiency +4 (Perception, Athletics, Survival, Intimidation); **+1 will
 checks** (provost's manual); **Commander: two orders a beat to specialists** (+2, act first); Defense style; heavy
 carapace from the front (carapace from the side and back); refractor field (auto-stops light hits, 3 a beat; heavy hits 5-6); Last Word hair trigger
