@@ -617,3 +617,31 @@ numbers the DM's call). The middle ground between the chain knife and the chains
 - **Light: chains of up to 3** (as a knife), and it **bites like a chainsword** (through flak and carapace; heavy
   carapace and ceramite-forged on a solid hit: codex, Armour).
 - **Swung with the better of STR or DEX.** **Neutral:** no +1 to strike first and no parry penalty (the player, day 48).
+
+## Blunt weapons (day 48)
+
+The blunt list was the thinnest in the enemy rolls (6 weapons). Drafted by the DM, approved by the player, day 48. **Plain blunt weapons: through flak; carapace shrugs them** (wear-down) unless the entry says otherwise.
+
+## Steel mace, Munitorum pattern
+
+**Steel mace, Munitorum pattern** (common, 1 TV; Munitorum, black market; day 48). A plain soldier's mace: a steel haft and a flanged head, issued to penal troops, enforcers and rear-line guards. One-handed. **Through flak; carapace shrugs it** (wear-down). **A solid hit staggers: -1 on their next roll.** *Who carries it: cultist, pirate, raider, traitor.*
+
+## Sledgehammer
+
+**Sledgehammer** (common, 0.75 TV; Munitorum, black market; day 48). A worker's two-handed sledge. **Two hands, STR 30+** (under it, -2 on swings). **Heavy: through flak, and through carapace on a solid hit.** **Slow: -1 to strike first.** **+2 STR to force doors, hatches and locks.** (Already on the brute's kit list; its entry, day 48.) *Who carries it: commoner, cultist, raider.*
+
+## Pry-bar, 'Kasr Jemmy' pattern
+
+**Pry-bar, 'Kasr Jemmy' pattern** (common, 0.25 TV; Munitorum, black market; day 48). An iron bar with a claw at one end: every work crew and every looter has one. **+2 STR to force crates, hatches and doors.** In a fight it's **a club: through flak; carapace shrugs it.** *Who carries it: commoner, cultist, pirate, raider.*
+
+## Enforcer's truncheon
+
+**Enforcer's truncheon** (common, 0.5 TV; Munitorum, black market; day 48). A side-handled riot stick. **Non-lethal: its hits stop at Down (1.0) and never kill** (no survival d6; the below-1.0 rule doesn't apply): good for taking prisoners. **+1 to parry** (the side handle runs along the forearm). **Through flak; carapace shrugs it.** *Who carries it: commoner, pirate, traitor.*
+
+## Cosh, 'Quiet Night' pattern
+
+**Cosh, 'Quiet Night' pattern** (common, 0.25 TV; black market; day 48). A leather sap weighted with shot. **+3 to keep it hidden.** **From behind, on someone unaware** (they can't act or defend against him): **one blow knocks them out, no roll: Down at 1.0, alive.** In an open fight it's a poor weapon: **a hit is half a step (0.5)** (DM default, day 48); flak shrugs it. *Who carries it: cultist, pirate, raider.*
+
+## War hammer, 'Kasr Anvil' pattern
+
+**War hammer, 'Kasr Anvil' pattern** (uncommon, 3 TV; Munitorum, black market, Free Traders; day 48). A long-hafted war hammer, one or two hands: a hammer face on one side and a spike on the other. **He picks the face each swing:** **the spike goes through carapace on a solid hit; the hammer knocks the target flat on a solid hit.** Through flak either way. *Who carries it: pirate, raider, traitor, traitor_elite.*

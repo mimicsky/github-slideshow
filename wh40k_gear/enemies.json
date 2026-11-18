@@ -150,6 +150,22 @@
    [
     "Scrap saw-axe",
     "C"
+   ],
+   [
+    "Steel mace, Munitorum pattern",
+    "U"
+   ],
+   [
+    "Sledgehammer",
+    "C"
+   ],
+   [
+    "Pry-bar, 'Kasr Jemmy' pattern",
+    "C"
+   ],
+   [
+    "Cosh, 'Quiet Night' pattern",
+    "U"
    ]
   ],
   "armour": [
@@ -836,6 +852,26 @@
    [
     "Chain short-sword",
     "U"
+   ],
+   [
+    "Steel mace, Munitorum pattern",
+    "U"
+   ],
+   [
+    "Sledgehammer",
+    "C"
+   ],
+   [
+    "Pry-bar, 'Kasr Jemmy' pattern",
+    "C"
+   ],
+   [
+    "Cosh, 'Quiet Night' pattern",
+    "C"
+   ],
+   [
+    "War hammer, 'Kasr Anvil' pattern",
+    "U"
    ]
   ],
   "armour": [
@@ -1493,6 +1529,26 @@
    [
     "Chain short-sword",
     "U"
+   ],
+   [
+    "Steel mace, Munitorum pattern",
+    "C"
+   ],
+   [
+    "Pry-bar, 'Kasr Jemmy' pattern",
+    "C"
+   ],
+   [
+    "Enforcer's truncheon",
+    "U"
+   ],
+   [
+    "Cosh, 'Quiet Night' pattern",
+    "C"
+   ],
+   [
+    "War hammer, 'Kasr Anvil' pattern",
+    "U"
    ]
   ],
   "armour": [
@@ -2058,6 +2114,18 @@
    ],
    [
     "Chain short-sword",
+    "U"
+   ],
+   [
+    "Steel mace, Munitorum pattern",
+    "C"
+   ],
+   [
+    "Enforcer's truncheon",
+    "C"
+   ],
+   [
+    "War hammer, 'Kasr Anvil' pattern",
     "U"
    ]
   ],
@@ -2734,6 +2802,18 @@
    [
     "Scrap saw-axe",
     "C"
+   ],
+   [
+    "Sledgehammer",
+    "C"
+   ],
+   [
+    "Pry-bar, 'Kasr Jemmy' pattern",
+    "C"
+   ],
+   [
+    "Enforcer's truncheon",
+    "U"
    ]
   ],
   "armour": [
@@ -2998,6 +3078,10 @@
    ],
    [
     "Chain short-sword",
+    "U"
+   ],
+   [
+    "War hammer, 'Kasr Anvil' pattern",
     "U"
    ]
   ],

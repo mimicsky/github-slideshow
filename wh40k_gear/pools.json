@@ -4515,6 +4515,48 @@
   "sellers": "MBF"
  },
  {
+  "name": "Steel mace, Munitorum pattern (one-handed flanged mace; a solid hit staggers, -1 on their next roll)",
+  "tv": 1,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Sledgehammer (two hands, STR 30+; through carapace on a solid hit; -1 to strike first; +2 to force doors)",
+  "tv": 0.75,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Pry-bar, 'Kasr Jemmy' pattern (iron bar with a claw; +2 to force crates and hatches; fights as a club)",
+  "tv": 0.25,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Enforcer's truncheon (non-lethal: stops at Down, never kills; +1 to parry)",
+  "tv": 0.5,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Cosh, 'Quiet Night' pattern (weighted sap; +3 to hide; knocks out an unaware target from behind, no roll)",
+  "tv": 0.25,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "War hammer, 'Kasr Anvil' pattern (hammer face and spike: spike through carapace on a solid hit; hammer knocks flat on a solid hit)",
+  "tv": 3,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Riot shield (+1 block; half cover from the front)",
   "tv": 2,
   "cat": "armour",
