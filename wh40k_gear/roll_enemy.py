@@ -103,7 +103,7 @@ DEX_ROLES = {"sniper", "grenadier", "assassin", "flamer", "demolitions", "jumper
              "heavy gunner", "heavy team", "plasma gunner", "infiltrator", "gunslinger", "mortar team"}
 def stats(role, skitarius=False, ogryn=False):
     if ogryn: role = "ogryn"  # an Ogryn kit under any role (a brute's 'Renegade Ogryn') gets Ogryn stats (day 47 fix)
-    (s0, s1), (d0, d1) = ((30, 45), (35, 50)) if skitarius else ((60, 80), (10, 20)) if role == "ogryn" else STATS[kind]
+    (s0, s1), (d0, d1) = ((30, 45), (35, 50)) if skitarius else ((60, 80), (10, 20)) if role == "ogryn" else STATS[stat_kind]
     st, dx = random.randint(s0, s1), random.randint(d0, d1)
     if role in STR_ROLES and role != "ogryn": st += 5
     if role in DEX_ROLES: dx += 5
@@ -126,6 +126,11 @@ elif team_roll >= 31 and any(f["type"] == kind for f in F):  # commoners have no
     opts = [f for f in F if f["type"] == kind and (kind != "cultist" or not god_given or f.get("god") == god)] or [f for f in F if f["type"] == kind]
     team = random.choice(opts)
     if team.get("god"): god = team["god"]
+stat_kind = kind
+if team and team.get("gear"):  # half-and-half teams (the player, day 48): another league's gear pools, this league's play
+    P = dict(E[team["gear"]])
+    P["specialists"] = {**P["specialists"], **{r: E[kind]["specialists"][r] for r in team.get("keep_roles", []) if r in E[kind]["specialists"]}}
+    stat_kind = team.get("stats", kind)
 raw = random.randint(1, 20)
 d20 = min(20, raw + (3 if team else 0))
 elite = raw >= 19  # only the natural die makes an elite team; bonuses never do
@@ -178,6 +183,7 @@ ALWAYS_PRESET = {"ogryn", "herder", "heavy team", "mortar team", "bomb zealot", 
 # Role weapons (the player, day 47): a random kit's guaranteed weapon comes from the role's list, by wealth.
 from role_weapons import ROLE_WEAPONS
 OGRYN_KIT = re.compile(r"^(Renegade )?Ogryn\b|^Ogryn |Bullgryn")
+if team and team.get("gear"): print(f"HALF AND HALF: {team['name']} roll {team['gear']} gear, {team.get('stats', kind)} stats, guns {team.get('guns', 'by league')}; they PLAY as {kind}s (bestiary {kind}s.md)")
 print(f"SPECIAL TEAM: {team['name']} ({'named by the story' if forced_team else f'2d20 {team_roll}'}): +5 STR/DEX levels, +1 other rolls, armour one step better, +3 better-armed" if team else f"(2d20 {team_roll}: a basic group)")
 print(f"{kind} x{count}, wealth {level.upper()}" + ("" if given else " (default; roll it: roll_enemy.py wealth TYPE)") + (f", god {god}" if kind == "cultist" else "") + f", group d20: {raw} (+{3 if team else 0} = {d20})" + ("  ELITE TEAM" if elite else f"  better-armed: {better}") + ("  + RARE GEAR IN USE (natural 20)" if raw == 20 else ""))
 lucky = set(random.sample(range(count), better))
@@ -247,6 +253,7 @@ for n in range(count):
     if head.startswith("SPECIALIST BOMB ZEALOT"):
         extra = "STRAPPED ON: " + ", ".join(pick(BOMBS) for _ in range(random.randint(3, 5)))
     cond = random.choice(["Dirty", "Neglected"]) if kind in ("cultist", "raider") else "Dirty" if kind == "pirate" else "Clean"  # commoners: Clean (they barely fire them and have time to clean)
+    if team and team.get("guns"): cond = team["guns"]  # half-and-half teams keep their gear's condition
     if role_d20 >= 16 and role == "veteran": cond = "Clean (a veteran: never Dirty)"
     line = f"{n+1}. {head} | {armour} | {extra} | {stats(role if role_d20 >= 16 else None, "SKITARIUS" in head, bool(OGRYN_KIT.search(head.split("): ", 1)[-1].replace("PRESET: ", ""))))} | guns {cond}"
     if role_d20 >= 16 and role == "grenadier":

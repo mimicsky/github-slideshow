@@ -5,6 +5,14 @@ god; blessed members show that god's marks (catalogue, Blessed cultists).
 
 ## The Moebian 6th
 
+**Half and half (set by the player, Ash on Ostrava day 48):** in the lore they are half a regiment and half a cult, so
+**they ROLL traitor-elite GEAR, and they PLAY and ACT like cultists, a little better than a cult because of the notes
+below.** Roll them with `../roll_enemy.py cultist COUNT [WEALTH] team=moebian`: the roller draws their kit from the
+traitor-elite pools, keeps the cult's herders and their own units, gives them soldier stats (STR 20-35, DEX 25-40: DM's
+default, as they were played) and Clean guns, and marks the group HALF AND HALF. **Everything about how they fight comes
+from this page and the cultist side notes in roles.md** (a cultist sniper stays put, cultist demolitions never surrender,
+and so on); their numbers use the middle column (codex, Enemy numbers and tactics).
+
 **Nurgle.** Once a loyal Guard regiment, the Moebian 6th rotted from the inside:
 their chaplains preached Grandfather's mercy to men dying of a plague the
 Munitorum never cured. Now they spread it on purpose.

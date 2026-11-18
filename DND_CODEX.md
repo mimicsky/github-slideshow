@@ -1132,7 +1132,7 @@ The Light had been walking through everything: Fourteen fell in a few beats and 
 | **Kill-team mission** (a squad's job: a strike, a cell, a convoy) | 7 | **28-35** | **21-28** | **10-14** |
 | **Stealth or small mission** (in and out: a few guards, a patrol) | 2 | **8-10** | **6-8** | **3-4** |
 
-Who counts as **poor, middle or rich**: poor = cultists, raiders, poor militia; middle = traitor soldiers (renegade Guard, e.g. the Moebian 6th), pirates; rich = traitor elites (traitor storm troopers, renegade kill-teams). Spread the total across the roller's roles (grunts, specialists, a leader), plus their assets (beasts, walkers, heavy weapons, vehicles).
+Who counts as **poor, middle or rich**: poor = cultists, raiders, poor militia; middle = traitor soldiers (renegade Guard), pirates, **and the Moebian 6th** (half and half: they play as cultists but roll traitor-elite gear: bestiary cultists.md; the player, day 48); rich = traitor elites (traitor storm troopers, renegade kill-teams). Spread the total across the roller's roles (grunts, specialists, a leader), plus their assets (beasts, walkers, heavy weapons, vehicles).
 
 **Places keep their mission type.** A place (a compound, a hive block, a ship) is set as one mission type and keeps it whoever comes: going into a regular-battle compound alone doesn't empty it; that's a stealth or assassination job, not a stand-up fight. **Encounters away from a place** (a patrol on the road, a pursuit, an ambush) get their own mission type from the situation (a patrol is usually small; an ambush the enemy planned is sized for what they mean to kill).
 

@@ -2,7 +2,8 @@
 # type: which enemy pool they use. god: cultists only. favoured: their usual guns.
 F = [
  # Cultists (by god)
- {"name":"The Moebian 6th","type":"cultist","god":"nurgle","favoured":["Lasgun, Kantrael M36 (rusted)","Infantry autogun, 'Columnus' pattern","Braced autogun, 'Graia' pattern","Flamer, Ryza pattern (stolen)"],
+ # Half and half (the player, day 48): once a Guard regiment, now a Nurgle cult. They ROLL traitor-elite gear and PLAY as cultists.
+ {"name":"The Moebian 6th","type":"cultist","god":"nurgle","gear":"traitor_elite","stats":"traitor","guns":"Clean","keep_roles":["herder"],"favoured":["Lasgun, Kantrael M36 (rusted)","Infantry autogun, 'Columnus' pattern","Braced autogun, 'Graia' pattern","Flamer, Ryza pattern (stolen)"],
   # Team units (the player, day 47): a member who rolls grunt rolls a d6; 1-2 makes them one of these instead.
   "units":[["Tox flamer: gas tanks of rot + autopistol (cultists.md, Tox flamers)","C"],
            ["Pox hound (creature): a rotted hound in this man's place, 2 states (cultists.md, Pox hounds)","C"],

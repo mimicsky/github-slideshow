@@ -92,3 +92,4 @@ Each has the DM's recommended answer. Until answered, the rule stands as written
 
 - **A regular Ogryn starts at 6.0** (two extra stages).
 - **Below 1.0 an enemy is dead:** a hit that takes an enemy below 1.0, or any hit on a Down enemy, finishes him with no survival d6; non-lethal hits and the Light stop at 1.0. (This replaced the DM's 'floor is 1.0 for everyone' default.)
+- **The Moebian 6th are half and half** (Q2): they ROLL traitor-elite gear and PLAY and ACT like cultists, a little better because of their own notes. The roller does it with `roll_enemy.py cultist N team=moebian`. DM defaults: soldier stats (STR 20-35, DEX 25-40), Clean guns, the middle numbers column.
