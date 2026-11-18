@@ -1766,8 +1766,12 @@ Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:
 **The basic seal** (the player, day 48: 'just a basic seal that fights off shit'). A priest blesses gear and
 stamps a seal on it. Each seal gives **advantage on
 one save** against warp or Chaos corruption (plague, possession, madness) and
-then burns away. Free from a priest who judges the soldier worthy; **a shrine that doesn't know you sells one for
-2 TV, a donation, and it works the same** (DM default, day 48; audit Q23). Faith in this
+then burns away. **A purity seal is never sold** (the player, day 48, checked against the lore: among the Space
+Marines only a Chapter's Chaplains award them, usually as a blessing before battle, each seal a prayer on parchment
+fixed with red or black wax; tech-priests seal machines as a ward against corruption; the Sisters and the
+Inquisition use them the same way). **Here: a priest blesses the gear and stamps the seal on, for someone he judges
+worthy, usually before a mission; it costs nothing and can't be bought.** A tech-priest does the same for a machine
+after its rites. Faith in this
 setting is sometimes literally armour. **One purity seal per piece of gear.**
 
 **Earned seals: one kind, two ways to earn it (settled by the player, day 48:** 'the honor and deed are the same
