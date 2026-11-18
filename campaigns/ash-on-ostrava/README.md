@@ -112,7 +112,7 @@ Then roll.
   out of character saying what it is. Day log lines go in **time order**.
 
 **10. When the fight ends.**
-- **Down enemies:** d6 each (1-3 dead, 4-6 alive; +2 for limb-shot-only Downs). Codex Part 6, Breaking and Down.
+- **Down enemies:** d6 each (1-3 dead, 4-6 alive; +2 for limb-shot-only Downs), **only for those who stopped at exactly 1.0**: an enemy taken below 1.0 or hit again while Down is already dead (day 48). Codex Part 6, Breaking and Down; house rule 4.
 - **Loot every body, the full count:** every gun, blade, armour piece, grenade and charge, coin, and anything odd (codex
   Part 8, Loot: the two rare rolls). The player wants the whole haul listed, not a short pick. Loot lines go on the sheet.
 - **Reps** into the day log (kills, hits, orders, successful rolls). **Full kit and the crate** updated.

@@ -87,3 +87,8 @@ Each has the DM's recommended answer. Until answered, the rule stands as written
   (melee)"; the catalogue index had four regular parts under custom; the slots paragraph and limited-slot guns updated.
 - The catalogue said to add new items to `build_pools.py`; it now says to edit the JSON directly (the generator is out
   of date and must not be run).
+
+## Part 3: settled by the player after the audit
+
+- **A regular Ogryn starts at 6.0** (two extra stages).
+- **Below 1.0 an enemy is dead:** a hit that takes an enemy below 1.0, or any hit on a Down enemy, finishes him with no survival d6; non-lethal hits and the Light stop at 1.0. (This replaced the DM's 'floor is 1.0 for everyone' default.)

@@ -264,7 +264,7 @@ and half steps set by the player, day 48**):
 | **4.0** (and 3.5) | Fine | Untouched or scratched | none |
 | **3.0** (and 2.5) | Hurt | Bleeding, slowed, still dangerous | **-1 on rolls** |
 | **2.0** (and 1.5) | Badly hurt | One more bad exchange from going down | **-2 on rolls, no sprint** (a short move only) |
-| **1.0** or less | Down | Out of the fight unless a medic patches them back to Hurt. **Enemies:** d6 after the fight, 1-3 dead. **The Light:** alive; dies only if finished off or hit again while Down (Part 6, Breaking and Down) | out |
+| **1.0** | Down | Out of the fight unless a medic patches them back to Hurt. **Enemies:** d6 after the fight, 1-3 dead. **The Light:** alive; dies only if finished off or hit again while Down (Part 6, Breaking and Down) | out |
 
 - **A step is 1.0.** Everything written in steps works as it always has: a hit drops **1.0**, a crit one more, "an extra
   step" is 1.0 more, "two steps" is 2.0.
@@ -272,8 +272,11 @@ and half steps set by the player, day 48**):
   **The state only changes at the whole number:** 3.5 is still Fine, 2.5 still Hurt, 1.5 still Badly hurt.
 - **Written as the number, then the state:** `Tamsin 4.0 (Fine)`, `Coat guy (gunslinger) 2.5 (Hurt)`, on the sheet, in the
   DM notes and on the 'Still up' board.
-- **The floor is 1.0:** health never goes below it. Someone already Down who is **hit again** (any hit their armour
-  doesn't shrug, half steps included) is finished: enemies die; for the Light, see Breaking and Down.
+- **Below 1.0 an enemy is dead (the player, day 48).** A hit that takes an enemy **below 1.0** (a crit or a heavy hit on
+  someone already Badly hurt), or **any hit on an enemy who is already Down** (one their armour doesn't shrug, half steps
+  included), **finishes him: no survival d6.** Only an enemy who stops at exactly 1.0 and isn't hit again rolls it.
+  **Non-lethal hits stop at 1.0** (unarmed blows, limb shots, sleep darts: Rulings, Unarmed knockouts). **The Light stop
+  at 1.0:** they never die from the hit that drops them, only if finished off or hit again while Down (Breaking and Down).
 - **A crit adds 1.0 to whatever the hit does** (a half-step hit becomes 1.5), except against armour that would have
   shrugged it, where a crit is **1.0 flat**, and against armour the weapon is Too weak to matter for (Part 8, Armour).
 - **Patches give back 1.0, rounding a half up** (bestiary roles, Medic): Badly hurt (2.0 or 1.5) to **3.0**, Hurt (3.0 or
@@ -818,9 +821,9 @@ What the DM has always done, written down so anyone can run it.
   surrender, even fanatics'). Pirates and traitors fall back to better ground rather than give up early. **Commoners are brittle:** they check at **a third Down** (or their leader's fall) and **break on 1-10** (run or surrender; a preacher among them makes it 1-6: bestiary commoners.md).
   (An enforcer still stops breaking while it stands: bestiary roles.) A group that keeps fighting can be
   checked again the next time its losses jump (another quarter Down).
-- **Down enemies, after the fight:** d6 each, **1-3 dead, 4-6 alive but out** (prisoners, questioning).
+- **Down enemies, after the fight:** d6 each, **1-3 dead, 4-6 alive but out** (prisoners, questioning). **Only those who stopped at exactly 1.0:** an enemy taken below 1.0, or hit again while Down, is already dead (house rule 4; the player, day 48).
 - **The Light (Tamsin and his people) never die from going Down.** A Light-bringer who goes Down is **out of
-  the fight**, and **dies only if finished off or hit once more while Down** (any hit their armour doesn't shrug, half steps included; health itself never goes below 1.0). **A medic can bring them back:**
+  the fight**, and **dies only if finished off or hit once more while Down** (any hit their armour doesn't shrug, half steps included; the Light's health never goes below 1.0). **A medic can bring them back:**
   a successful patch (Down → Hurt, one stimm; bestiary roles, Medic) puts them **back in the fight at Hurt** (set
   by the player, session 10, so the medic can save a fight). Unpatched, they sit out the rest of it. Afterwards
   they're out for **more time depending on the hit** (the DM sets it from how bad it was; the medic's and
