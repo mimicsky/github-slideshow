@@ -1727,7 +1727,7 @@ wishes to help you"), and presses the seal onto the gear that earned it. Then th
 | **Bulwark seal** (grey) | **10 hits taken for someone else** (stepping in, shielding, covering) | **+1 on defence while an ally is within reach** | **Take a hit meant for an ally within reach, and the seal takes it: nobody is hurt** |
 | **Steady-hand seal** (blue) | **50 kills at range** | **+1 on aimed shots past ~30 m** with this weapon | **One shot lands as a solid hit**, no roll |
 | **Shepherd's seal** (white) | **25 innocents saved** (civilians, prisoners, the helpless) | **+2 to persuade or order civilians** | **Every ally in sight passes one failed fear, break or warp save** this beat |
-| **Seal of mercy** (green) | **15 wounded patched under fire** | **+1 on treating the wounded** | **A patch brings someone back two steps** (from Down, to Hurt) |
+| **Seal of mercy** (green) | **15 wounded patched under fire** | **+1 on treating the wounded** | **A patch heals the patient fully: back to their full number** (4.0 for most; from any state, Down included; settled by the player, day 48: it was 'two steps, from Down to Hurt', which any patch already did) |
 | **Unbroken seal** (iron) | **10 times stayed up when Badly hurt**, or **10 warp or fear saves passed** | **+1 on saves against fear** | When a hit would drop you, **you don't drop at all** |
 | **Shadow seal** (ash grey) | **20 silent takedowns** | **+1 on stealth** | **One move is unseen and unheard, no roll**: a crossing, an approach, or a takedown that makes no sound |
 
