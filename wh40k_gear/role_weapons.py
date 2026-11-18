@@ -42,7 +42,7 @@ ROLE_WEAPONS = {
                ("Grenade launcher with krak and frag", "R")],
  "demolitions": [("2 breaching charges", "C"), ("Mining charges x2", "C"), ("Tin-can bombs x3", "C"),
                  ("Demo satchel and a detonator", "U"), ("3 krak grenades", "U"), ("Melta bomb", "R")],
- "breacher": [("Combat shotgun, pump, and a breaching charge", "C"), ("Pump shotgun, 'Harrow' pattern, and 2 breaching charges", "C"),
+ "breacher": [("Combat shotgun, pump, and a breaching charge", "C"), ("Folding breaching shotgun, 'Kasr Jackknife' pattern", "U"), ("Pump shotgun, 'Harrow' pattern, and 2 breaching charges", "C"),
               ("Sawn-off shotgun and a breaching charge", "C"), ("Combat shotgun, 'Kasr Sweeper' duckbill pattern", "U"),
               ("Tactical breaching axe, 'Kasr Sapper' pattern", "U"), ("Lucius-pattern 'Ironclad' shotgun", "R"),
               ("Bolt-shotgun, 'Breacher' pattern", "R")],

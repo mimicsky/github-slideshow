@@ -4025,6 +4025,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Folding breaching shotgun, 'Kasr Jackknife' pattern (folds to pistol size, +2 to hide; flip and fire the same beat; 4-shell tube, pump; recoil 2; a shot opens a lock or hinge; no slots)",
+  "tv": 2.5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Tin-can bomb (light it; ~3 m weak frag; the timing's off, duds on a 1)",
   "tv": 0.1,
   "cat": "explosive",

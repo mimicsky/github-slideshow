@@ -433,6 +433,20 @@ the gun.
   magazines.
 - **Every attachment slot but the stock** (the bullpup body is the stock).
 
+## Folding breaching shotgun, 'Kasr Jackknife' pattern
+
+**Folding breaching shotgun, 'Kasr Jackknife' pattern** (uncommon, 2.5 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48;
+name, price and the numbers he didn't set: the DM's). A breaching shotgun that folds into itself: a grip, a
+handguard, a receiver, a **4-shell tube**, a pump and a barrel. Nothing else: **no sights, no stock.** **The grip folds
+into the receiver and the pump pushes the tube in.**
+- **Folded,** it rides a belt or chest rig like a pistol: **+2 to keep it hidden.**
+- **Flip and fire:** pull it, sling it open and **shoot in the same beat** (unfolding is part of the draw); **+2 on
+  quick-draws.**
+- **Pump: strings of 3**; [Slam](abilities.md#slam-push-pull), as any pump; 4 shells, half a beat per 2 to reload.
+- **No stock: recoil 2.** **No sights, short barrel: the close blast only inside ~10 m; -2 past ~10 m.**
+- **A breacher's gun:** **a shot at a lock or a hinge opens a door**, any load.
+- **No attachment slots** (special shells still load).
+
 ## Web pistol, Arbites pattern
 
 **Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a

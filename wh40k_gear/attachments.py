@@ -270,7 +270,8 @@ SLOTLIMIT = [(re.compile(r"farmer's pump|three-shooter|harrow|trinity|holdout|cu
              (re.compile(r"turnstile"), {"optic", "under", "load", "tape"}),
              (re.compile(r"twinstack"), {"optic", "muzzle", "load", "tape"}),
              (re.compile(r"thresher"), {"optic", "laser", "under", "stock", "muzzle", "load", "tape"}),
-             (re.compile(r"magistrate"), {"optic", "laser", "sleeve", "load", "tape"}),  # the officer's shell revolver (day 48)  # the drum auto-shotgun (day 48)  # over-under pump: optic and muzzles only (day 48)  # the revolving shotgun: optic and under-barrel only (day 48)
+             (re.compile(r"magistrate"), {"optic", "laser", "sleeve", "load", "tape"}),
+             (re.compile(r"jackknife"), {"load"}),  # the folding breacher: no slots (day 48)  # the officer's shell revolver (day 48)  # the drum auto-shotgun (day 48)  # over-under pump: optic and muzzles only (day 48)  # the revolving shotgun: optic and under-barrel only (day 48)
              (re.compile(r"hell revolver"), {"optic", "laser", "load", "tape"})]  # top and bottom slots only (day 48)  # tape needs no slot
 SKIP = re.compile(r"web pistol|bolt-pipe|rivet gun|harpoon|turret|gauntlet|hellstrike|flare|^'")
 TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b"), ("pp", r"plasma pistol"), ("pg", r"plasma gun"), ("bp", r"bolt pistol"),
