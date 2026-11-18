@@ -925,4 +925,4 @@ psyker, beast handler, mutant charger) always take the preset. The lists live in
 - **tracker:** Two war dogs on leashes (common); Magnoculars and a hunting rifle (common); Auspex (uncommon); Bio-scanner (rare)
 - **veteran:** Lasgun (common); Autogun (common); Combat shotgun, pump (common); Hunting rifle with an old scope (common); Lascarbine (uncommon); Hellgun (uncommon); Scoped autogun (uncommon); Hellgun with a holo sight (rare); Long-las with a scope (rare)
 - **vox:** Vox-caster (common); Vox-caster and an auspex (uncommon); Vox-caster and a spoof-tag (uncommon); Vox jammer (rare)
-- **zealot:** Chainsword (common); Chain axe (common); Flamer-torch (uncommon); Power maul (rare); Eviscerator (rare)
+- **zealot:** Chainsword (common); Chain axe (common); Flamer-torch (uncommon); Crusher, two-handed mace (uncommon); Power maul (rare); Eviscerator (rare)

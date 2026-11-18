@@ -166,6 +166,18 @@
    [
     "Cosh, 'Quiet Night' pattern",
     "U"
+   ],
+   [
+    "Crusher, two-handed mace",
+    "U"
+   ],
+   [
+    "Blacksmith's hammer",
+    "C"
+   ],
+   [
+    "Scrap thunder hammer",
+    "U"
    ]
   ],
   "armour": [
@@ -872,6 +884,14 @@
    [
     "War hammer, 'Kasr Anvil' pattern",
     "U"
+   ],
+   [
+    "Studded jian (iron bar-club), 'Kasr Rod' pattern",
+    "C"
+   ],
+   [
+    "Scrap thunder hammer",
+    "U"
    ]
   ],
   "armour": [
@@ -1549,6 +1569,14 @@
    [
     "War hammer, 'Kasr Anvil' pattern",
     "U"
+   ],
+   [
+    "Crusher, two-handed mace",
+    "U"
+   ],
+   [
+    "Studded jian (iron bar-club), 'Kasr Rod' pattern",
+    "C"
    ]
   ],
   "armour": [
@@ -2127,6 +2155,14 @@
    [
     "War hammer, 'Kasr Anvil' pattern",
     "U"
+   ],
+   [
+    "Crusher, two-handed mace",
+    "U"
+   ],
+   [
+    "Studded jian (iron bar-club), 'Kasr Rod' pattern",
+    "C"
    ]
   ],
   "armour": [
@@ -2818,6 +2854,14 @@
    [
     "Enforcer's truncheon",
     "U"
+   ],
+   [
+    "Studded jian (iron bar-club), 'Kasr Rod' pattern",
+    "U"
+   ],
+   [
+    "Blacksmith's hammer",
+    "C"
    ]
   ],
   "armour": [

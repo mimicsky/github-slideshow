@@ -80,7 +80,7 @@ ROLE_WEAPONS = {
            ("Chain axe", "U"), ("Stolen Ogryn ripper gun and a club", "R")],
  "duelist": [("Naval sabre", "C"), ("Chainsword", "C"), ("Cutlass and a stub revolver", "C"),
              ("Officer's sabre and a duelling laspistol", "U"), ("Paired mono-knife blades", "U"), ("Power sword", "R")],
- "zealot": [("Chainsword", "C"), ("Chain axe", "C"), ("Flamer-torch", "U"), ("Power maul", "R"), ("Eviscerator", "R")],
+ "zealot": [("Chainsword", "C"), ("Chain axe", "C"), ("Flamer-torch", "U"), ("Crusher, two-handed mace", "U"), ("Power maul", "R"), ("Eviscerator", "R")],
  "commander": [("Chainsword and a command vox", "C"), ("Laspistol and a command vox", "C"), ("Bolt pistol and a command vox", "U"),
                ("Hellpistol and a command vox", "U"), ("Power sword and a command vox", "R"), ("Plasma pistol and a command vox", "R")],
  "leader": [("Chainsword and a command vox", "C"), ("Laspistol and a command vox", "C"), ("Bolt pistol and a command vox", "U"),

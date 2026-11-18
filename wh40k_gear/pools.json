@@ -4557,6 +4557,34 @@
   "sellers": "MBF"
  },
  {
+  "name": "Crusher (two-handed mace, a Zealot's crowd-breaker; sweeps up to 3; carapace on a solid hit, a solid hit knocks flat; -1 strike first)",
+  "tv": 5,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBE"
+ },
+ {
+  "name": "Studded jian (iron bar-club), 'Kasr Rod' pattern (a four-sided iron bar with studs on a sword's grip; a solid hit at 2+ over)",
+  "tv": 0.75,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Blacksmith's hammer (one-handed, heavy: -1 to parry; a shrugged hit still counts 2 toward wear-down)",
+  "tv": 0.5,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Scrap thunder hammer (scrap; a sledge with a jury-rigged field on a station power cell: on a hit, d6 4-6 the field fires)",
+  "tv": 6,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
   "name": "Riot shield (+1 block; half cover from the front)",
   "tv": 2,
   "cat": "armour",
