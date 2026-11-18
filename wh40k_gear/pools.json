@@ -4487,6 +4487,13 @@
   "sellers": "AF"
  },
  {
+  "name": "Hell shotgun, 'Hell Cluster' pattern (double-barrel hellgun: a tight group of 5-6 beams; strings of 2; close blast; 10 shots a hot-shot pack)",
+  "tv": 12,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "AFB"
+ },
+ {
   "name": "Scrap chainsword (scrap teeth: carapace on a solid hit; -1 parry; pull-cord start, d4 1 won't catch; stalls on a raw 1)",
   "tv": 2,
   "cat": "melee",

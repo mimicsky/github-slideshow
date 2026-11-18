@@ -255,3 +255,16 @@ verifying laser (they fill its optic and laser slots): **strings of 4 at +5 on e
 string and it short-circuits.** That string goes wrong (d6: **1-2 it fires at the nearest ally**, resolved normally without
 the +5; **3-6 it fires wild**, wasted), and **the smart function is dead for the rest of the fight until it's fixed**
 (after the fight with a repair kit, or a tech-adept mid-fight, a beat): until then it shoots as a plain hellpistol.
+
+## Hell shotgun, 'Hell Cluster' pattern
+
+**Hell shotgun, 'Hell Cluster' pattern** (rare, 12 TV; Mechanicus, Free Traders, black market; the player's design, Ash on
+Ostrava day 48; name, price and numbers the DM's). A double-barrelled hellgun: the wires run outside the barrels, a
+hot-shot pack plugs into the side, and a focusing coil sits at the muzzle. **Each shot is a tight group of 5-6
+beams.**
+- **Punch: a hellgun's** (through flak and carapace; heavy carapace inside ~15 m), **and it's a shotgun: the close
+  blast** (codex Part 8, Armour): **inside ~15 m, a hit on armour it gets through cleanly drops 2 steps** (so carapace,
+  and heavy carapace inside ~15 m); inside ~10 m a miss by 1-2 clips for 0.5.
+- **Tight group:** no -2 until past ~30 m (pellets spread past ~15 m).
+- **Double barrel: strings of 2.** No recoil (las).
+- **Hungry: each shot draws 3 shots of pack: 10 shots from a 30-shot pack. +1 heat a string; at 3 it vents a beat.**

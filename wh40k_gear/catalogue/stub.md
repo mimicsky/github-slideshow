@@ -407,12 +407,13 @@ roll, AP and CAP count as rare** (only there; the shop rarity below stands: the 
 
 **Shotgun shells, special loads** (rules written with the player, Ash on Ostrava day 47; the shops already sold
 them). Each load comes in its own box and fits any shotgun. **Standard shells** are full of pellets that spread:
-brutal on flesh and flak up close, weak at range and against carapace. A magazine or tube holds one load at a time
+brutal on flesh and flak up close, weak at range and against carapace (**the close blast**, codex Part 8 Armour, day 48:
+inside ~15 m a clean hit drops 2 steps; inside ~10 m a miss by 1-2 clips for 0.5). A magazine or tube holds one load at a time
 (a tube-fed gun can be topped up with another load: the shells fire in the order they went in).
 
 | Load | Rarity, price | Effect |
 | --- | --- | --- |
-| **Man-stopper** (armour-piercing slug) | uncommon, 1 TV a box (**rare in the enemy roll**) | One heavy slug instead of shot: **one target, no spread.** **Flak and reinforced flak don't shrug it; through carapace on a solid hit inside ~15 m** (as AP rounds). The 40k meaning of 'man-stopper' (the stubber belt that had the name is now the hollow point stubber belt, heavy.md) |
+| **Man-stopper** (armour-piercing slug) | uncommon, 1 TV a box (**rare in the enemy roll**) | One heavy slug instead of shot: **one target, no spread** (no close blast, no clip). **Flak and reinforced flak don't shrug it; through carapace on a solid hit inside ~15 m** (as AP rounds). The 40k meaning of 'man-stopper' (the stubber belt that had the name is now the hollow point stubber belt, heavy.md) |
 | **Dragon's breath** (incendiary) | uncommon, 2 TV a box | Incendiary pellets that light up like a flare. **Shot at, the target is flashed: -1 on his next shot** (like suppression, hit or miss); **hit, the burns throw him off: -2 on his next shot instead.** **A hit on a raw 17+ sets him alight** (next beat he spends putting the fire out or drops a step; anything flammable nearby can catch). Armour as standard shells (the player's name and flash rule, day 47; sold before as 'inferno shells') |
 | **Hellfire** (bio-acid) | rare, 4 TV a box | Pellets coated in bio-acid. **A hit that gets through also forces a CON save against 10, or the target drops one more step** (10: the player, day 47, so a string doesn't kill outright; the hellfire belt too). Armour as standard shells |
 
