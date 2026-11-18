@@ -613,7 +613,7 @@ game-breaking.
 | 6 | Thick-skinned | The first shrugged hit each fight doesn't count toward wear-down |
 | 7 | Fast healer | Recovers from a wound in less time; +1 on the patch roll when someone patches them |
 | 8 | Iron gut | +1 on saves against poison, gas and plague |
-| 9 | Brave | +1 against fear, intimidation and break checks |
+| 9 | Brave | +1 against fear and intimidation; **on a break check he reads the group's roll one closer to fighting on** (Breaking and Down) |
 | 10 | Lucky | Once a mission, reroll a natural 1 |
 | 11 | Night owl | No penalty for short sleep; +1 on night watches |
 | 12 | Organised | **Once a fight, a reload costs no beat** (everything sits where the hand goes), and always carries one extra of a small thing (a grenade, a pack, a stimm) |
@@ -652,7 +652,7 @@ game-breaking.
 | 4 | Clumsy | A natural 1 on a DEX roll also drops or trips over something |
 | 5 | Weak stomach | -1 on saves against gas and poison; retches at gore |
 | 6 | Slow healer | Recovers from a wound in more time; -1 on the patch roll when someone patches them |
-| 7 | Jumpy | -1 against fear and break checks; startles at loud noises |
+| 7 | Jumpy | -1 against fear; **on a break check he reads the group's roll one closer to breaking** (Breaking and Down); startles at loud noises |
 | 8 | Unlucky | Once a day, the first natural 20 is rerolled (set by the player, Ash on Ostrava day 37; was a natural 2 counting as a 1) |
 | 9 | Heavy sleeper | Hard to wake; loses the first beat of a night attack |
 | 10 | Restless sleeper | -1 on WIS rolls the day after a short night |
@@ -830,6 +830,11 @@ What the DM has always done, written down so anyone can run it.
   surrender, even fanatics'). Pirates and traitors fall back to better ground rather than give up early. **Commoners are brittle:** they check at **a third Down** (or their leader's fall) and **break on 1-10** (run or surrender; **while their preacher, a zealot, stands they don't break at all**: bestiary commoners.md; roles.md, Zealot). **A role's ability beats a league's rule where the two clash** (the player, day 48).
   (An enforcer still stops breaking while it stands: bestiary roles.) A group that keeps fighting can be
   checked again the next time its losses jump (another quarter Down).
+- **Brave and Jumpy on a break check (settled by the player, day 48): one roll for the whole group, then the +1 or -1
+  applies to that person only.** A **Brave** member reads the roll **one closer to fighting on**: his fight-on band is one
+  wider at each end (1-9 surrender, 10-17 fight on, 18-20 run; a cultist 1-4 and 5-17), so he can stand when the rest
+  give up or run. A **Jumpy** member reads it **one closer to breaking**: one narrower at each end (1-11 surrender, 12-15
+  fight on, 16-20 run), so he can break when the rest hold.
 - **Down enemies, after the fight:** d6 each, **1-3 dead, 4-6 alive but out** (prisoners, questioning). **Only those who stopped at exactly 1.0:** an enemy taken below 1.0, or hit again while Down, is already dead (house rule 4; the player, day 48).
 - **The Light (Tamsin and his people) never die from going Down.** A Light-bringer who goes Down is **out of
   the fight**, and **dies only if finished off or hit once more while Down** (any hit their armour doesn't shrug, half steps included; the Light's health never goes below 1.0). **A medic can bring them back:**

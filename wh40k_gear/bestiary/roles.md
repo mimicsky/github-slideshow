@@ -127,15 +127,12 @@ ground.*
 
 ## Plasma / melta gunner
 
-**Who has it:** cultists (stolen guns; added by the player, day 48), raiders, pirates, traitor soldiers, traitor elites.
+**Who has it:** raiders, pirates, traitor soldiers, traitor elites.
 
 Looks for a big shot on a **priority target**: armour, a door, a vehicle, whoever
 looks most important or dangerous. Careful about heat; will vent rather than risk
 it unless desperate. **Prone to surrendering if the gun is overheated and they have
 no backup weapon.**
-
-*Side note: cultist plasma gunners don't care about priorities or heat, and won't
-surrender.*
 
 *Side note: traitor soldier plasma gunners are very careful about heat, but get
 careless with it when pressured, and will surrender most of the time when
