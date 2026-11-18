@@ -4074,6 +4074,13 @@
   "sellers": "MF"
  },
  {
+  "name": "Power cell, weapon (power weapons: 30 power-mode swings; recharges on the ship's charging station, about an hour)",
+  "tv": 1,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "MAF"
+ },
+ {
   "name": "Reinforced flak helmet",
   "tv": 0.75,
   "cat": "armour",

@@ -1600,7 +1600,9 @@ knives, falchions, fists and claws, thunder hammers, the relic blade, the power 
 cell: **30 swings in power mode per cell.** A swing with the field off doesn't use the cell (a charged relic
 blade's swings count). **A spent cell:** the weapon fights as its plain blade (a fist or hammer as a heavy
 club) until a fresh cell goes in (a beat) or it's recharged at a coupling (about an hour). Count power-mode
-swings like ammunition, in the field only (training swings aboard aren't counted). Spare cells: ~1 TV.
+swings like ammunition, in the field only (training swings aboard aren't counted). **Spare cells: 1 TV** (the shop's
+'Power cell, weapon'; not the 0.5 TV station cell, which is salvage). **A spent cell recharges free on the ship's
+charging station, about an hour, like las packs** (settled by the player, day 48; audit Q25).
 
 #### Gun condition and jams
 
