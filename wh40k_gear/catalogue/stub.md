@@ -447,6 +447,20 @@ into the receiver and the pump pushes the tube in.**
 - **A breacher's gun:** **a shot at a lock or a hinge opens a door**, any load.
 - **No attachment slots** (special shells still load).
 
+## Heavy line shotgun, 'Kasr Ironhound' pattern
+
+**Heavy line shotgun, 'Kasr Ironhound' pattern** (rare, 7 TV; Mechanicus, Free Traders, black market; the player's pick, Ash on Ostrava day 48: the Apex
+Mastiff done as 40k, with a twist; name, price and numbers the DM's). Gilt-bound plasteel, an aquila on the receiver,
+and a **Mechanicus choke-collar** on the muzzle that shapes each shot into **a line of 8 heavy pellets**.
+- **The twist: the choke-collar turns** (free, once a beat):
+  - **Flat:** the line sweeps sideways: **within ~10 m one roll can hit up to 3 people side by side** (checked against
+    each).
+  - **Upright:** the line climbs: **cover counts one level lighter against it** (heavy to half, half to light, light to
+    none).
+- **Heavy pump: a 4-shell tube, strings of 2, recoil 2.** [Slam](abilities.md#slam-push-pull), as any pump.
+- **Tight line:** the close blast to ~15 m (codex Part 8, Armour); **-2 only past ~20 m.**
+- **Slots: optic and laser only** (special shells still load).
+
 ## Web pistol, Arbites pattern
 
 **Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a

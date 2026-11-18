@@ -4032,6 +4032,13 @@
   "sellers": "MBF"
  },
  {
+  "name": "Heavy line shotgun, 'Kasr Ironhound' pattern (a line of 8 heavy pellets; turning choke-collar: flat hits 3 abreast, upright makes cover one level lighter; 4-shell pump, strings of 2)",
+  "tv": 7,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "AFB"
+ },
+ {
   "name": "Tin-can bomb (light it; ~3 m weak frag; the timing's off, duds on a 1)",
   "tv": 0.1,
   "cat": "explosive",

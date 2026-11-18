@@ -1587,6 +1587,10 @@
    [
     "Folding breaching shotgun, 'Kasr Jackknife' pattern",
     "U"
+   ],
+   [
+    "Heavy line shotgun, 'Kasr Ironhound' pattern",
+    "R"
    ]
   ],
   "melee": [
@@ -2229,6 +2233,10 @@
    [
     "Folding breaching shotgun, 'Kasr Jackknife' pattern",
     "U"
+   ],
+   [
+    "Heavy line shotgun, 'Kasr Ironhound' pattern",
+    "R"
    ]
   ],
   "melee": [
@@ -3268,6 +3276,10 @@
    ],
    [
     "Bullpup pump shotgun, 'Kasr Carousel' rotary-tube pattern",
+    "R"
+   ],
+   [
+    "Heavy line shotgun, 'Kasr Ironhound' pattern",
     "R"
    ]
   ],
