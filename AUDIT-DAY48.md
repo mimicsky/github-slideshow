@@ -124,3 +124,4 @@ Each has the DM's recommended answer. Until answered, the rule stands as written
 - **Hard methods** (Q22): the risk d20 is rolled once per sitting (from when hard methods begin until the interrogator stops or leaves); three sittings a day per prisoner.
 - **Seals** (Q23): two kinds. A purity seal is the basic one. An earned seal is one kind earned two ways: by deed (the tally) or by honour (one outstanding act, awarded on the spot); the same seal either way. **Purity seals are never sold** (the player's correction, checked against the lore): a priest blesses the gear and stamps one on for someone he judges worthy; the shop item is removed.
 - **Kill reps** (Q24): every melee kill trains STR, whatever stat the swing used; shots and throws train DEX.
+- **Small ones (Q25), one at a time.** (1) **Who takes a hit for a boss:** only the Bodyguard role; the template's 'any guard on a d6 4-6' was the DM's line and is removed.

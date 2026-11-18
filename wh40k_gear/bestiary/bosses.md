@@ -58,7 +58,9 @@ A named special character: a Major, a cult leader, a pirate captain, a renegade 
 - **STR and DEX +6 to +10 each** (d5 + 5 each, rolled separately).
 - **+2 health stages: he starts at 7.0** (Fine down to 5.0, Grazed at 4.0, then Hurt, Badly hurt and Down as anyone) and **Hard to kill** (+1 on his survival d6).
 - **2 orders a beat** to his people (each +2, acting first).
-- **Bodyguards cover him:** a guard within reach takes a hit meant for him on a **d6 4-6**.
+- **Only a Bodyguard takes a hit for him** (the role, bestiary roles.md: once a beat, no roll). The rest of his honour
+  guard fight beside him but don't soak his hits (settled by the player, day 48: 'only a bodyguard since it's their
+  role'; the old line, any guard within reach on a d6 4-6, was the DM's own and is gone).
 - **Falls back at Badly hurt** to fight another day, unless he's cornered, or his faction never runs (**the
   Moebian 6th's bosses fight to the end**). A boss who gets away comes back.
 - He stays behind cover and his guard (codex: leaders don't hand themselves to the Light).
