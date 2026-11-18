@@ -4396,6 +4396,13 @@
   "sellers": "MB"
  },
  {
+  "name": "Long shotgun barrel (any shotgun: the close blast reaches ~20 m, not ~15; -1 quick-draw)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Fitted chameleoline cloak (cut for one set of armour: the cloak's bonus over carapace or heavier)",
   "tv": 25,
   "cat": "gear",

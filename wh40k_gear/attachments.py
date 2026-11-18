@@ -109,6 +109,7 @@ A = [
  ("longreach", "Longer grip or blade", "U", "length", {"bl", "bt", "pw", "ch"}, NOGLOVE, None, 0, "longer reach: moving mid-chain, up to 7 m a beat between swings, not 5", "kit.md#melee-attachments-day-48"),
  ("tsuka", "Tsuka grip", "R", "mgrip", {"bl", "pw", "bt"}, r"sword|sabre|cutlass|odachi|katana|jian", None, 0, "leverage, blade control, some shock absorption: +1 on swings, +1 to parry, +1 on his disarm attempts", "kit.md#melee-attachments-day-48"),
  # flamers and mortars, more (the player, day 48): full entries in scrap.md, Flamer and mortar parts (day 48)
+ ("sglong", "Long shotgun barrel", "U", "barrel", {"sg", "lr"}, r"^(?!.*(sawn-off|pipe|junk|nailer)).*(shotgun|scattergun|shotlas|ripper)", None, 0, "the close blast reaches ~20 m, not ~15; -1 on quick-draws", "stub.md#long-shotgun-barrel"),
  ("sprayer", "Sprayer barrel", "U", "barrel", {"fl", "hf"}, None, None, 0, "an open funnel: the gout reaches half as far but spreads twice as wide at its end (a hand flamer's line becomes a ~3 m fan)", "scrap.md#flamer-and-mortar-parts-day-48"),
  ("mortarbarrel", "Reinforced mortar barrel", "U", "barrel", {"mo"}, None, None, 0, "half as far again: a light mortar to ~450 m, a pipe-bomb mortar to ~60 m", "scrap.md#flamer-and-mortar-parts-day-48"),
  ("c_chamber", "Extra shot chamber", "U", "chamber", {"mo"}, None, None, 1, "a fold-out chamber holding one round: swung in, it fires a second round the same beat (same spot or one within ~10 m); refilling it is the loader's beat", "scrap.md#flamer-and-mortar-parts-day-48"),

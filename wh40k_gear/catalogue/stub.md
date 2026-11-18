@@ -417,6 +417,13 @@ inside ~15 m a clean hit drops 2 steps; inside ~10 m a miss by 1-2 clips for 0.5
 | **Dragon's breath** (incendiary) | uncommon, 2 TV a box | Incendiary pellets that light up like a flare. **Shot at, the target is flashed: -1 on his next shot** (like suppression, hit or miss); **hit, the burns throw him off: -2 on his next shot instead.** **A hit on a raw 17+ sets him alight** (next beat he spends putting the fire out or drops a step; anything flammable nearby can catch). Armour as standard shells (the player's name and flash rule, day 47; sold before as 'inferno shells') |
 | **Hellfire** (bio-acid) | rare, 4 TV a box | Pellets coated in bio-acid. **A hit that gets through also forces a CON save against 10, or the target drops one more step** (10: the player, day 47, so a string doesn't kill outright; the hellfire belt too). Armour as standard shells |
 
+## Long shotgun barrel
+
+**Long shotgun barrel** (uncommon, 1.5 TV; Munitorum, black market, Free Traders; barrel slot; the player's idea, Ash on
+Ostrava day 48, for the Hell Cluster first). A longer barrel for any shotgun (not a sawn-off or a scrap pipe gun): **the
+close blast reaches ~20 m, not ~15** (codex Part 8, Armour). Longer to bring up: **-1 on quick-draws.** Fits the
+[Hell Cluster](las.md#hell-shotgun-hell-cluster-pattern) and the shotlas too.
+
 ## Combi-pistol, 'Kasr Trident' pattern
 
 **Combi-pistol, 'Kasr Trident' pattern** (player design, Ash on Ostrava session 9;
