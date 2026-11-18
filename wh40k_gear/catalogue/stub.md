@@ -461,6 +461,20 @@ and a **Mechanicus choke-collar** on the muzzle that shapes each shot into **a l
 - **Tight line:** the close blast to ~15 m (codex Part 8, Armour); **-2 only past ~20 m.**
 - **Slots: optic and laser only** (special shells still load).
 
+## Boarding shotgun, 'Kasr Breakwater' bayonet pattern
+
+**Boarding shotgun, 'Kasr Breakwater' bayonet pattern** (uncommon, 4 TV; Munitorum, black market, Free Traders; the player's pick, Ash on Ostrava day 48: the
+original Halo shotgun done as 40k, with a built-in bayonet; name, price and the numbers he didn't set: the DM's). A long,
+heavy pump with a boxy receiver and a broad handguard, **a bayonet fixed under the barrel**.
+- **12-shell tube, pump: strings of 3, recoil 1.** [Slam](abilities.md#slam-push-pull), as any pump.
+- **Shell by shell: half a beat per 3 shells** (the player, day 48); it can be topped up from the string (stop
+  mid-reload and fire).
+- **Heavy: -1 on swapping targets** (the player, day 48).
+- **Range 20** (the player, day 48): **the close blast reaches ~20 m** (codex Part 8, Armour), and **-2 only past ~20 m.**
+- **Built-in bayonet:** always fixed (no beat to fit it); it fights as a [bayonet](kit.md#bayonet): shoot and stab with
+  the same gun.
+- **Every attachment slot but the under-barrel** (the bayonet sits there).
+
 ## Web pistol, Arbites pattern
 
 **Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a

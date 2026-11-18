@@ -4039,6 +4039,13 @@
   "sellers": "AFB"
  },
  {
+  "name": "Boarding shotgun, 'Kasr Breakwater' bayonet pattern (12-shell pump, strings of 3; reload half a beat per 3; close blast to ~20 m, -2 past ~20 m; heavy, -1 swapping; fixed bayonet)",
+  "tv": 4,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Tin-can bomb (light it; ~3 m weak frag; the timing's off, duds on a 1)",
   "tv": 0.1,
   "cat": "explosive",
