@@ -504,8 +504,9 @@ day's end, from the training plan and from what happened in play.
   give a **standing roll bonus** in their subject (e.g. +1 on will checks). Each reader
   gets a book's completion bonus once; rereading gives only the hourly reps. The DM sets
   each book's hours, stat and bonus when it's found; tracked in the campaign's inventory file (Ash on Ostrava: `inventory.md`, Books).
-- **Kills count:** +0.1 per kill (**putting an enemy Down counts as a kill**) in the stat it used: a melee kill (blade, axe,
-  knife) is STR, a shot or thrown kill (gun, grenade) is DEX.
+- **Kills count:** +0.1 per kill (**putting an enemy Down counts as a kill**): **every melee kill (blade, axe,
+  knife) trains STR, whatever stat the swing used** (a finesse knife swung on DEX still trains STR: settled by the
+  player, day 48, 'just to keep it easy'; audit Q24); a shot or thrown kill (gun, thrown knife, grenade) is DEX.
 - **Hours are hours of real work:** a mission day counts what they actually did in
   it; a day in bed gives nothing, unless they study (INT) or coach from the cot (WIS).
 - **Specialty days:** a day with at least 3 hours drilling the person's specialty is
