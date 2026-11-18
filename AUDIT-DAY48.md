@@ -120,4 +120,4 @@ Each has the DM's recommended answer. Until answered, the rule stands as written
 - **Prices for the day-48 parts and mortar rounds** (Q16): the DM weighed each one and set its price; 26 regular parts and 7 boxes of mortar rounds are in the shop list and on their catalogue entries. Custom parts stay unsold.
 - **Mortar smoke rounds** (Q19): frag is the only standard round; smoke is a special load like the others. The mortar kits that named smoke or krak as standard now carry frag.
 - **Pox hounds** (Q20): the 6th's entry wins: packs of 3-6 with 2 steps each; they still go wild when the handler dies. Other cults keep 4 beasts with 1 step each.
-- **Chem-doctor** (Q21): his dose is a dose like any other (+2 for 3 or 4 beats, then the crash unless dosed again). He pushes forward with the ally he dosed and keeps dosing him to keep him up.
+- **Chem-doctor** (Q21): his dose is a dose like any other (3 or 4 beats, then the crash unless dosed again), and **the ally gets the drug he was given, with its own effect and backfire, not a flat +2** (the player's correction); the roller rolls which. He pushes forward with the ally he dosed and keeps dosing him to keep him up.

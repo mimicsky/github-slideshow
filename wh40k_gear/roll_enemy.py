@@ -146,6 +146,12 @@ EPICS = [i["name"] for i in json.load(open(os.path.join(here, "pools.json"))) if
 TIER_SETS = {1: "Flak armour set", 2: "Reinforced flak set", 3: "Carapace inplate", 4: "Carapace armour set (carapace / plasteel tier)",
              5: "Heavy carapace set (heavy carapace / heavy plasteel tier)", 6: "Ceramite plate set", 7: "Ceramite-forged set", 8: "Adamantium plate set",
              9: "Heavy adamantium set"}
+# A chem-doctor's doses (the player, day 48): the first six are the d6 for a kit that names none.
+DRUGS = {"Frenzon": "+2 melee, -2 to block or parry", "Slaught": "+2 strike first and dodge, +1 STR",
+         "Quicksilver": "+2 Athletics and moving", "Deadeye": "+2 shooting", "Adrenaline": "+4 Perception, +1 shooting",
+         "Onslaught": "two moves a beat, -2 shooting", "Rot-stimm": "ignores Hurt and Badly hurt",
+         "Forbidden tonic": "heals a step, +1 on all rolls; the crash is to Down", "Spur": "+1 to everything; crashes a beat early",
+         "Blood-stimm": "+3 melee; must attack the nearest body"}
 def pick(rows):
     if team or level not in ("poor", "steady") or (level == "steady" and random.random() < 0.5):
         rows = [r for r in rows if "(scrap" not in r[0]] or rows  # scrap guns: Poor, and some Steady
@@ -290,6 +296,11 @@ for n in range(count):
     line = f"{n+1}. {head} | {armour} | {extra} | {stats(role if role_d20 >= 16 else None, "SKITARIUS" in head, bool(OGRYN_KIT.search(head.split("): ", 1)[-1].replace("PRESET: ", ""))))} | guns {cond}"
     if role_d20 >= 16 and role == "grenadier":
         line += f"  ** EXTRA GRENADE (grenadier; found/made): {pick(GRENADES[mk])}"
+    if role_d20 >= 16 and role == "chem-doctor":  # the player, day 48: the ally gets the drug he rolled, not a flat +2
+        named = [d for d in DRUGS if d.lower().split()[0] in head.lower()]
+        pool_d = named or list(DRUGS)[:6]
+        doses = [random.choice(pool_d) for _ in range(3)]
+        line += "  ** DOSES HE GIVES (rolled, in order; each its own effect and backfire, drugs.md): " + "; ".join(f"{d} ({DRUGS[d]})" for d in doses)
     if n in lucky:
         line += f"  ** FOUND/MADE: {random.choice([f for f in P['found'] if not poor or f[1] != 'R'] or P['found'])[0]}"
     if EPIC_CHANCE and random.random() < EPIC_CHANCE:

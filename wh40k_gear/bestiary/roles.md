@@ -194,8 +194,14 @@ someone who's Down.*
 **Who has it:** cultists, raiders, pirates.
 
 The medic's ugly cousin. **Doses allies with combat drugs at the start of the fight
-and again mid-fight** (**+2 to one ally for the dose**, with the usual backfire). **His dose is a dose like any
-other** (settled by the player, day 48; codex Gear rules, Doses): **3 or 4 beats** (the d6), and **one beat after it
+and again mid-fight.** **The ally gets the drug he was given: that drug's own effect and its own backfire, not a
+flat +2** (settled by the player, day 48: 'the dose does whatever one he rolls and gives it to them'; catalogue
+`drugs.md`: Frenzon +2 melee and -2 to block or parry; Slaught +2 to strike first and to dodge, +1 STR; Quicksilver
++2 Athletics and moving; Deadeye +2 shooting; Adrenaline +4 Perception, +1 shooting; Onslaught two moves a beat, -2
+shooting; the cult drugs). **Which drug: rolled among the combat drugs his kit names; a kit that only says 'combat
+drugs' or 'a drug satchel' rolls a d6: 1 Frenzon, 2 Slaught, 3 Quicksilver, 4 Deadeye, 5 Adrenaline, 6 Onslaught.**
+The roller rolls his first three doses and prints them on his line. **His dose is a dose like any
+other** (codex Gear rules, Doses): **3 or 4 beats** (the d6), and **one beat after it
 ends the ally crashes to 2.0 (Badly hurt)** unless he is dosed again; three doses in a row and the crash is to Down.
 **He pushes forward with the one he dosed** (the player, day 48: 'so they can keep them up'): he stays within reach
 of that ally, moves when he moves, and **doses him again as the last one runs out** (his main thing that beat), for
