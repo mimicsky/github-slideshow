@@ -342,8 +342,8 @@ name, price and the numbers he didn't set: the DM's). A **14-shell rotating cyli
 - **The one-piece grip and stock** put the cylinder's weight in the shoulder: **recoil 0.**
 - **Mid-sized barrel:** standard shotgun range (the close blast to ~15 m; -2 past ~15 m).
 - **Slots: optic and under-barrel only** (special shells still load; a taped flashlight needs no slot).
-- **Reloading: 4 shells a beat** (the player, day 48): wind the cylinder and thumb them in; a full reload is 3.5
-  beats. It's loaded round by round, so it can be topped up from the string.
+- **Reloading: 4 shells every half beat, 8 a beat** (the player, day 48): wind the cylinder and thumb them in; a full
+  reload (14) is just under 2 beats. It's loaded round by round, so it can be topped up from the string.
 - **Bulky:** -1 on swapping targets.
 
 ## Web pistol, Arbites pattern
