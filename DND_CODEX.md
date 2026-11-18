@@ -1763,16 +1763,22 @@ Set by the player, Ash on Ostrava session 8. Two ways to make your own gear:
 
 ### Purity seals
 
-A priest blesses gear and stamps a seal on it. Each seal gives **advantage on
+**The basic seal** (the player, day 48: 'just a basic seal that fights off shit'). A priest blesses gear and
+stamps a seal on it. Each seal gives **advantage on
 one save** against warp or Chaos corruption (plague, possession, madness) and
-then burns away. Free from a priest who judges the soldier worthy. Faith in this
-setting is sometimes literally armour.
+then burns away. Free from a priest who judges the soldier worthy; **a shrine that doesn't know you sells one for
+2 TV, a donation, and it works the same** (DM default, day 48; audit Q23). Faith in this
+setting is sometimes literally armour. **One purity seal per piece of gear.**
 
-**Earned seals.** One working seal per weapon (or armour) gives the mechanic.
-Extra seals are honours: when the player does something worthy of it, the hub's
-priest summons them unprompted and seals a piece of their gear, chosen by the
-DM. Honour seals have no mechanical effect; they record deeds. Risk earns them,
-asking does not.
+**Earned seals: one kind, two ways to earn it (settled by the player, day 48:** 'the honor and deed are the same
+thing: deed, a grind for it; then honor, getting it for doing an action very very good and earning it'**).** Beside
+its purity seal, a piece of gear can carry **one earned seal** from the table under Deed seals, below. It is the
+same seal either way: the standing edge, and the burn.
+- **By deed:** the grind. Fill that seal's tally.
+- **By honour:** one outstanding act. When someone does something very, very good in a single moment (the DM's
+  call: well beyond what was asked, at real risk; rare), the next priest who blesses them **awards the seal that
+  fits the act, straight away, whatever the tally says.** The tally is not used up or reset by it.
+- **Risk earns them, asking does not.** (This replaces the old 'honour seals have no mechanical effect'.)
 
 #### Deed seals
 
@@ -1785,7 +1791,7 @@ wishes to help you"), and presses the seal onto the gear that earned it. Then th
   destroyed, or the seal burns some other way (warp-fire, Perils, daemon-filth: the DM's call).
 - **Burn it:** once, when you choose, you call on the seal for something bigger. **The seal burns away** (and
   its standing edge with it) until a full tally earns a new one.
-- **A piece of gear carries one deed seal** beside its purity seal.
+- **A piece of gear carries one earned seal** (by deed or by honour: above) beside its purity seal.
 - **Everyone earns them:** the player and every ally in the Light. The DM keeps each one's tallies.
 - **Who burns it:** the player says when Tamsin burns his. **The allies call their own** (the DM plays them,
   and they burn a seal when it matters to them).
