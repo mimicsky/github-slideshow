@@ -284,7 +284,7 @@ and half steps set by the player, day 48**):
   Fast healer and Slow healer shift the time): there is no fixed rate yet.
 - **What does half a step now:** a near-miss "half effect" where the full effect is a step (Hollis's grenades, a mortar's
   near-miss); laspistol-punch guns against flak (catalogue las.md; Part 8, Armour). More as the player sets them. (The
-  plasma charge's "half a step more punch" in plasma.md is armour punch, not health.)
+  plasma charge's "half an armour step" in plasma.md is armour punch, not health.)
 
 **Some roles and gear add more, so check them** (each in its own entry):
 - **Bigger tracks start higher** (the old "extra health stages": each is +1.0 above 4.0): **Zealot 5.0**, **Skitarius
@@ -1058,6 +1058,9 @@ ladder a hit moves you.
   shrugged hits on the same person in one fight drop them one step** (power armour: every 10) (**6, not 3: the
   player, Ash on Ostrava day 47**, '3 is kinda weak'; power armour's 10 is the DM's default until the rule for
   which weapons can't wear which armour at all is set: done, below).
+- **Half-step weapons (the player's half steps, day 48).** A weapon whose entry gives it a half step (laspistol punch
+  against flak: catalogue las.md) does **0.5** where it gets through; **where the armour shrugs it, the hit counts half
+  toward wear-down** (two of them make one of the 6, or of power armour's 10). Its crit is as any crit (house rule 4).
 - **Too weak to matter (set by the player, Ash on Ostrava day 47).** Some weapons **can't touch** some armour at all:
   **no wear-down, and even their crits are shrugged.** A Space Marine shrugs a thousand las bolts.
 
