@@ -89,6 +89,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Combat shotgun, 'Kasr Switchback' dual-mode pattern](stub.md#combat-shotgun-kasr-switchback-dual-mode-pattern) (semi or pump)
 - [Auto-shotgun, 'Kasr Thresher' drum pattern](stub.md#auto-shotgun-kasr-thresher-drum-pattern) (full auto, 30-round drum)
 - [Shot-revolver, 'Kasr Magistrate' officer's pattern](stub.md#shot-revolver-kasr-magistrate-officers-pattern) (a shell revolver, officers)
+- [Combat shotgun, 'Kasr Longshot' long-barrel pattern](stub.md#combat-shotgun-kasr-longshot-long-barrel-pattern) (long-range semi-auto)
 - [Shotgun shells, special](stub.md#shotgun-shells-special-loads) (man-stopper, dragon's breath, hellfire)
 - [Long shotgun barrel](stub.md#long-shotgun-barrel)
 

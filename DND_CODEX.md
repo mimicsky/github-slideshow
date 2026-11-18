@@ -1128,7 +1128,7 @@ ladder a hit moves you.
   weapons. **Armour-piercing loads** (AP, CAP, man-stopper shells, shard darts) count like hellguns here: they can
   wear down ceramite-forged and adamantium plate, nothing heavier. Bolters, plasma, melta, power weapons and kraks already get through.
 - **Shotguns: close blast (set by the player, Ash on Ostrava day 48:** shotguns were 'regular guns but worse'**).** Every
-  shotgun (scrap, pump, combat, the shotlas, the Kasr Hailstorm, the Kasr Flicker pistol and the Kasr Magistrate revolver (to ~10 m), the hell shotgun, Ogryn ripper guns): **inside ~15 m, against armour it
+  shotgun (scrap, pump, combat, the shotlas, the Kasr Hailstorm, the Kasr Flicker pistol and the Kasr Magistrate revolver (to ~10 m), the Kasr Longshot (to ~20 m), the hell shotgun, Ogryn ripper guns): **inside ~15 m, against armour it
   gets through cleanly (on any hit: no solid hit or crit needed), a hit drops one extra step (2 in all).** Where it
   only gets through on a solid hit or a crit, no extra step. **The spread forgives: inside ~10 m, a shot that misses
   by 1-2 still clips the target for half a step (0.5)**, where the armour doesn't shrug it (DM's draft, kept). **A

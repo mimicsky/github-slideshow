@@ -4011,6 +4011,13 @@
   "sellers": "MF"
  },
  {
+  "name": "Combat shotgun, 'Kasr Longshot' long-barrel pattern (semi-auto, strings of 4; close blast to ~20 m, -2 past ~30 m; 30-round ergo mag, a reload is the short move)",
+  "tv": 7,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
   "name": "Tin-can bomb (light it; ~3 m weak frag; the timing's off, duds on a 1)",
   "tv": 0.1,
   "cat": "explosive",

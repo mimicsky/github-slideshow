@@ -406,6 +406,18 @@ shotgun shells**: a lieutenant's or a commander's sidearm, **gilded and engraved
 - **Reload:** round by round, half a beat per 2; a speedloader makes it half a beat. It can be topped up from the string.
 - **Who carries it:** leaders and commanders (rare on their kit lists); a human boss's signature piece.
 
+## Combat shotgun, 'Kasr Longshot' long-barrel pattern
+
+**Combat shotgun, 'Kasr Longshot' long-barrel pattern** (rare, 7 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48; name,
+price and the numbers he didn't set: the DM's). A semi-auto shotgun for longer ranges: **a long barrel**, a pistol grip
+and a tube stock, and a magwell for a **30-round ergo magazine** (PMAG style).
+- **Long barrel (built in):** **the close blast reaches ~20 m** (codex Part 8, Armour), and **the -2 starts past ~30 m**.
+  A long shotgun barrel can't stack on it.
+- **Semi-auto: strings of 4, recoil 1.** [Trigger Finger](abilities.md#trigger-finger).
+- **30-round ergo magazine** (codex Gear rules, Magazines: a spare is 0.3 TV). **Easy to swap: a reload is the beat's
+  short move, not its main thing** (reload and still shoot that beat).
+- **Every attachment slot but the barrel** (a stock part still fits the tube).
+
 ## Web pistol, Arbites pattern
 
 **Web pistol, Arbites pattern** (rare, 8 TV; Munitorum, black market). Fires a

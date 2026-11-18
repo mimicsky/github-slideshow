@@ -1571,6 +1571,10 @@
    [
     "Las-shot pistol, 'Kasr Flicker' pattern",
     "U"
+   ],
+   [
+    "Combat shotgun, 'Kasr Longshot' long-barrel pattern",
+    "R"
    ]
   ],
   "melee": [
@@ -2200,6 +2204,10 @@
    ],
    [
     "Auto-shotgun, 'Kasr Thresher' drum pattern",
+    "R"
+   ],
+   [
+    "Combat shotgun, 'Kasr Longshot' long-barrel pattern",
     "R"
    ]
   ],
@@ -3232,6 +3240,10 @@
    ],
    [
     "Auto-shotgun, 'Kasr Thresher' drum pattern",
+    "R"
+   ],
+   [
+    "Combat shotgun, 'Kasr Longshot' long-barrel pattern",
     "R"
    ]
   ],
