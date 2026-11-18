@@ -654,6 +654,34 @@
      "Veteran zealot: a hellgun off a dead Guardsman, kept clean",
      "R"
     ]
+   ],
+   "heavy team": [
+    [
+     "Heavy stubber, looted, on a scrap tripod (two-man team)",
+     "C"
+    ],
+    [
+     "Braced autogun with drum, chained to its gunner (two-man team)",
+     "C"
+    ],
+    [
+     "Autocannon dragged on a cart (two-man team)",
+     "R"
+    ]
+   ],
+   "plasma gunner": [
+    [
+     "Plasma pistol, Ryza pattern (stolen, slow-filled cell) + cleaver",
+     "R"
+    ],
+    [
+     "Plasma gun, Mars pattern (stolen, rushed cell), prayer strips on the coils",
+     "R"
+    ],
+    [
+     "Hellgun off a dead Guardsman, hot-shot packs",
+     "U"
+    ]
    ]
   }
  },

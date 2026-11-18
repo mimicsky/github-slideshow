@@ -112,7 +112,7 @@ suppression (changed with the player, day 36 cleanup).*
 
 ## Heavy team
 
-**Who has it:** raiders, pirates, traitor soldiers, traitor elites.
+**Who has it:** cultists (looted guns; added by the player, day 48), raiders, pirates, traitor soldiers, traitor elites.
 
 Two people, gunner and loader, on a big gun. Takes a strong position early and holds
 it. **One roll, two bodies: it takes two kills to silence it.** **Kill one and the gun
@@ -127,7 +127,7 @@ ground.*
 
 ## Plasma / melta gunner
 
-**Who has it:** raiders, pirates, traitor soldiers, traitor elites.
+**Who has it:** cultists (stolen guns; added by the player, day 48), raiders, pirates, traitor soldiers, traitor elites.
 
 Looks for a big shot on a **priority target**: armour, a door, a vehicle, whoever
 looks most important or dangerous. Careful about heat; will vent rather than risk
