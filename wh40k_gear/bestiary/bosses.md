@@ -70,7 +70,7 @@ A named special character: a Major, a cult leader, a pirate captain, a renegade 
 ### Nurgle (the Moebian 6th and other plague cults)
 
 - **Plague Ogryn** (met at Fourteen, day 47). A renegade Ogryn swollen with the rot, chained and starved, set
-  loose. **Armour class: carapace inplate** (the player's own example: no plate on it, but the bloat and slab muscle stop
+  loose. **Monster template: it starts at 9.0** (settled by the player, day 48). **Armour class: carapace inplate** (the player's own example: no plate on it, but the bloat and slab muscle stop
   what inplate stops: las only on a solid hit). **Charge** (once a fight: knocks the target flat and anyone right behind; a DEX dodge to get clear).
   **Ranged threat:** tears up and **throws rubble or a body** (~15 m; a hit knocks flat). **Phase 2:** its belly
   splits: **bile spray** (~5 m cone, CON save vs 13 or the rot). **Down:** it bursts (everyone within ~3 m, CON
