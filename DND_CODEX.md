@@ -1632,6 +1632,25 @@ quartermaster: people hand their guns in to him and he cleans them.**
 
 **Pack sizes (set by the player, Ash on Ostrava session 10):** a **hot-shot pack** (hellguns, hellpistols, hot-shot conversions) holds **30 shots**; a **regular las pack** (lasguns, lascarbines, laspistols) holds **45**. Special packs keep their own numbers (catalogue). **Swapping a pack or a magazine mid-fight is the beat's main thing** (settled by the player, day 48: no shooting the same beat without Action Surge; a top-up from an unused string and Run and reload stay as written in A beat).
 
+**Magazines (set by the player, Ash on Ostrava day 48).** Magazine-fed guns (stub pistols, autopistols, autoguns,
+SMGs and machine pistols, box-fed shotguns, box-fed heavy stubbers and LMGs) use **magazines, which are items.** Not las
+packs (they recharge), not belts, and not guns loaded round by round (revolvers, tube-fed shotguns, lever-actions:
+they top up as A beat says).
+- **Every gun comes with one magazine.** Spare magazines are bought or looted, and carried on the Full kit table.
+- **A reload in a fight needs a loaded spare magazine** (the swap is the beat's main thing, as above).
+- **Refilling an empty magazine from loose rounds takes the whole beat** (no shot, no move), in a fight or out of it;
+  between fights, the Light refill theirs as a matter of course.
+- **Prices (empty; the player's, day 48; 11-19 filled by the DM):**
+
+  | Rounds | Price |
+  | --- | --- |
+  | 1-10 | 0.1 TV |
+  | 11-19 | 0.2 TV |
+  | 20-40 | 0.3 TV |
+  | 41-100 | 0.5 TV |
+  | 100+ | 1 TV |
+
+
 #### Refractor field
 
 **Refractor field (set by the player, session 9; reworked session 10).** A worn field

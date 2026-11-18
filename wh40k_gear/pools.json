@@ -4088,6 +4088,41 @@
   "sellers": "MAF"
  },
  {
+  "name": "Magazine, 1-10 rounds (stub pistols, holdouts, box-fed shotguns; empty)",
+  "tv": 0.1,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Magazine, 11-19 rounds (service pistols, autopistols; empty)",
+  "tv": 0.2,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Magazine, 20-40 rounds (autoguns, SMGs, machine pistols; empty)",
+  "tv": 0.3,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Magazine, 41-100 rounds (drums and extended mags; empty)",
+  "tv": 0.5,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Magazine, 100+ rounds (heavy stubber and LMG box mags; empty)",
+  "tv": 1,
+  "cat": "ammo",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Reinforced flak helmet",
   "tv": 0.75,
   "cat": "armour",
