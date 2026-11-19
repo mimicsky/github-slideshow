@@ -100,6 +100,14 @@
    [
     "Heavy pipe rifle (scrap)",
     "U"
+   ],
+   [
+    "Gutter SMG (scrap)",
+    "C"
+   ],
+   [
+    "Grease gun (scrap SMG)",
+    "C"
    ]
   ],
   "melee": [
@@ -888,6 +896,18 @@
    [
     "Heavy pipe rifle (scrap)",
     "U"
+   ],
+   [
+    "Heavy SMG, 'Magnum Knight' pattern",
+    "U"
+   ],
+   [
+    "Gutter SMG (scrap)",
+    "C"
+   ],
+   [
+    "Grease gun (scrap SMG)",
+    "C"
    ]
   ],
   "melee": [
@@ -1559,6 +1579,14 @@
    [
     "Hand flamer",
     "R"
+   ],
+   [
+    "Heavy stub pistol, 'Magnum Block' pattern",
+    "C"
+   ],
+   [
+    "Heavy stub pistol, 'Magnum Centurion' pattern",
+    "C"
    ]
   ]
  },
@@ -1703,6 +1731,14 @@
    [
     "Battle rifle, 'Siege Bulldog' pattern",
     "R"
+   ],
+   [
+    "Heavy SMG, 'Magnum Utility' pattern",
+    "U"
+   ],
+   [
+    "Heavy SMG, 'Magnum Knight' pattern",
+    "U"
    ]
   ],
   "melee": [
@@ -2303,6 +2339,14 @@
    [
     "Hand flamer",
     "R"
+   ],
+   [
+    "Heavy stub pistol, 'Magnum Block' pattern",
+    "C"
+   ],
+   [
+    "Heavy stub pistol, 'Magnum Centurion' pattern",
+    "C"
    ]
   ]
  },
@@ -2402,6 +2446,10 @@
    ],
    [
     "Break-action rifle, 'Siege Hinge' pattern",
+    "U"
+   ],
+   [
+    "Heavy SMG, 'Magnum Utility' pattern",
     "U"
    ]
   ],
@@ -3046,6 +3094,14 @@
    [
     "Hand flamer",
     "R"
+   ],
+   [
+    "Heavy stub pistol, 'Magnum Universal' pattern",
+    "U"
+   ],
+   [
+    "Heavy stub pistol, 'Magnum Block' pattern",
+    "C"
    ]
   ]
  },
@@ -3137,6 +3193,14 @@
    ],
    [
     "Break-action rifle, 'Siege Hinge' pattern",
+    "U"
+   ],
+   [
+    "Heavy stub pistol, 'Magnum Centurion' pattern",
+    "U"
+   ],
+   [
+    "Grease gun (scrap SMG)",
     "U"
    ]
   ],
@@ -3498,6 +3562,14 @@
    ],
    [
     "Battle rifle, 'Siege Bulldog' pattern",
+    "R"
+   ],
+   [
+    "Heavy SMG, 'Magnum Piston' pattern",
+    "U"
+   ],
+   [
+    "Heavy SMG, 'Magnum Dart' pattern",
     "R"
    ]
   ],
@@ -4085,6 +4157,18 @@
    ],
    [
     "Hand flamer",
+    "R"
+   ],
+   [
+    "Heavy stub pistol, 'Magnum Universal' pattern",
+    "U"
+   ],
+   [
+    "Heavy stub pistol, 'Magnum Alpine' pattern",
+    "U"
+   ],
+   [
+    "Heavy stub pistol, 'Magnum Vanguard' pattern",
     "R"
    ]
   ]

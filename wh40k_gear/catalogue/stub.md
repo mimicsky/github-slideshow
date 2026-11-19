@@ -570,6 +570,66 @@ range** (standard stub: flak shrugs it at range), **reinforced flak inside ~15 m
 (codex, Armour; audit A2 and C1). Heavier armour shrugs them; too weak to matter against ceramite-forged and power
 armour. The special stub loads below come in heavy stub too (HP, AP, HV, flat-tip).
 
+## Magnum heavy stub guns (day 48)
+
+The player's picks, Ash on Ostrava day 48: guns he likes, done as **heavy stub** (the .45-style calibre). **The rounds do the hurting** ([heavy stub rounds](#heavy-stub-rounds)); each gun has its own lean instead. **Every pistol and SMG takes every attachment slot unless its entry says otherwise** (the scrap ones and the Firebrand are limited). Names, prices and the numbers he didn't set: the DM's.
+
+### Heavy stub pistol, 'Magnum Universal' pattern
+
+**Heavy stub pistol, 'Magnum Universal' pattern** (uncommon, 4 TV). Based on the USP (the player's favourite). **The all-rounder:** a decocker, so **it's never drop-prone**; **ghost-ring iron sights** (+1 on shots inside ~15 m; an optic still fits above them); **an ergo grip** built in (never slips; -2 to disarm him); **a Dirty one jams only on a natural 1.** **12 rounds**; strings of 3, recoil 1. Every other pistol slot.
+
+### Heavy stub pistol, 'Magnum Block' pattern
+
+**Heavy stub pistol, 'Magnum Block' pattern** (common, 3 TV). Based on the Glock 21 Gen 5. **Tough and simple: it never goes Dirty from firing.** **15 rounds; light: +2 on quick-draws.** Strings of 3, recoil 1. Every pistol slot.
+
+### Heavy stub pistol, 'Magnum Alpine' pattern
+
+**Heavy stub pistol, 'Magnum Alpine' pattern** (uncommon, 4 TV). Based on the P220. **Accuracy:** a heavy steel frame: **recoil 0, +1 on aimed shots.** **10 rounds**; strings of 3. Every pistol slot.
+
+### Heavy stub pistol, 'Magnum Centurion' pattern
+
+**Heavy stub pistol, 'Magnum Centurion' pattern** (common, 2.5 TV). Based on the modern 1911. **The classic carry gun:** slim, **+2 to hide**; **a hair trigger built in** (+1 on the first shot of every string; drop-prone unless pinned: a pressure-pin safety fits). **7 rounds**; strings of 3, recoil 1. Every other pistol slot.
+
+### Heavy stub pistol, 'Magnum Vanguard' pattern
+
+**Heavy stub pistol, 'Magnum Vanguard' pattern** (uncommon, 5 TV). Based on the FN 545. **Modern duty:** optics-ready (**an optic and a laser at once, both on the gun**), a threaded barrel. **18 rounds**; strings of 3, recoil 1. Every pistol slot.
+
+### Heavy SMG, 'Magnum Piston' pattern
+
+**Heavy SMG, 'Magnum Piston' pattern** (uncommon, 6 TV). Based on the LWRCI SMG. **The suppressed one:** a short-stroke piston: **with a suppressor fitted it doesn't foul faster** (a suppressor's 'fouls faster' doesn't apply). **Strings of 7, recoil 1; 25 rounds; a folding stock.** Every slot.
+
+### Heavy SMG, 'Magnum Utility' pattern
+
+**Heavy SMG, 'Magnum Utility' pattern** (uncommon, 5 TV). Based on the UMP45. **Controllable:** a slow rate: **strings of 4, recoil 0; +1 on aimed shots with the stock out.** **25 rounds.** Every slot.
+
+### Heavy SMG, 'Magnum Dart' pattern
+
+**Heavy SMG, 'Magnum Dart' pattern** (rare, 8 TV). Based on the MP7. **The hideable automatic:** **+2 to hide; one-handed at STR 30** (two hands below). **Strings of 8, recoil 2; 30 rounds;** a folding foregrip and stock. Every slot.
+
+### Heavy SMG, 'Magnum Knight' pattern
+
+**Heavy SMG, 'Magnum Knight' pattern** (uncommon, 6 TV). Based on the PP-19-01 Vityaz, 'but more'. **Volume:** **strings of 10, recoil 2**; it takes **a factory coupled magazine** (two 30-round mags made as one): **flipping to the second is free, once**; single 30s fit too. Every slot.
+
+### Gutter SMG (scrap)
+
+**Gutter SMG (scrap)** (common, 1 TV). Based on the C1. A long tube with **a 34-round magazine out the side**: **no sights: -2 on every shot**; but the side mag lets it **shoot lying flat: +1 prone.** **Strings of 6, recoil 1.** **Scrap quirk: jams on a natural 1-3.** No slots but special loads and tape.
+
+### Grease gun (scrap SMG)
+
+**Grease gun (scrap SMG)** (common, 0.5 TV). Based on the M3. A stamped tube with a wire stock: **crude but steady:** a slow rate: **strings of 4, recoil 0**; **30 rounds.** **Jams on a natural 1-2, and anyone clears a jam in a beat, no roll.** No slots but special loads and tape.
+
+### Commissar's carbine, 'Magnum Tempest' pattern
+
+**Commissar's carbine, 'Magnum Tempest' pattern** (rare, 20 TV). Based on the Cx4 Storm. **Ornamental:** gilded and engraved, an aquila on the stock (**no bonus from the gold**). **It takes the Magnum pistols' magazines:** it shares ammo with the commissar's sidearm. **Semi-auto, strings of 3, recoil 0; +1 on aimed shots; -2 past ~60 m.** Every slot.
+
+### Commissar's machine pistol, 'Magnum Firebrand' pattern
+
+**Commissar's machine pistol, 'Magnum Firebrand' pattern** (rare, 12 TV). Based on the Tec-9, commissar-grade: **ornamental**, gold-plated and engraved (**no bonus from the gold**). **A gaudy spray gun: strings of 8, recoil 2; 32 rounds; -2 past ~15 m.** Open-bolt and well made: **no extra jam** (the player asked, day 48: the real one was jam-prone from cheap build, not from the open bolt). Slots: muzzle, laser, special loads.
+
+### Lieutenant's carbine, 'Magnum Warrant' pattern
+
+**Lieutenant's carbine, 'Magnum Warrant' pattern** (rare, 15 TV). Based on the UDP-9. **Ornamental:** silvered and engraved (**no bonus from the silver**). An AR-style compact carbine with **a 50-round drum**: **strings of 9, recoil 2; jams on a natural 1-2.** **A flared magwell and a last-round hold-open: a reload is the beat's short move.** It also takes Magnum Block magazines. Every slot.
+
 ## Stub and autogun rounds (special loads)
 
 **Stub and autogun rounds, special loads** (player picks, Ash on Ostrava day 36; Munitorum, black market,

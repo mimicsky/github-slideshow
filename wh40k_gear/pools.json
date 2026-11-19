@@ -4235,6 +4235,104 @@
   "sellers": "M"
  },
  {
+  "name": "Heavy stub pistol, 'Magnum Universal' pattern (heavy stub)",
+  "tv": 4,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy stub pistol, 'Magnum Block' pattern (heavy stub)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy stub pistol, 'Magnum Alpine' pattern (heavy stub)",
+  "tv": 4,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy stub pistol, 'Magnum Centurion' pattern (heavy stub)",
+  "tv": 2.5,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy stub pistol, 'Magnum Vanguard' pattern (heavy stub)",
+  "tv": 5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy SMG, 'Magnum Piston' pattern (heavy stub)",
+  "tv": 6,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy SMG, 'Magnum Utility' pattern (heavy stub)",
+  "tv": 5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy SMG, 'Magnum Dart' pattern (heavy stub)",
+  "tv": 8,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Heavy SMG, 'Magnum Knight' pattern (heavy stub)",
+  "tv": 6,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Gutter SMG (scrap) (heavy stub)",
+  "tv": 1,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Grease gun (scrap SMG) (heavy stub)",
+  "tv": 0.5,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Commissar's carbine, 'Magnum Tempest' pattern (heavy stub)",
+  "tv": 20,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Commissar's machine pistol, 'Magnum Firebrand' pattern (heavy stub)",
+  "tv": 12,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Lieutenant's carbine, 'Magnum Warrant' pattern (heavy stub)",
+  "tv": 15,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
   "name": "Tin-can bomb (light it; ~3 m weak frag; the timing's off, duds on a 1)",
   "tv": 0.1,
   "cat": "explosive",
