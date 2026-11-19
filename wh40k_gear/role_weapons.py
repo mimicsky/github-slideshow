@@ -63,7 +63,7 @@ ROLE_WEAPONS = {
               ("Bolt pistol and an officer's sabre", "U"), ("Bolt pistol and a chainsword", "U"),
               ("Bolt pistol and a power sword", "R"), ("Hellpistol and a power sword", "R"),
               ("Plasma pistol and a power sword", "R"),
-              ("Bolt pistol and a thunder hammer, one-handed officer's pattern", "R"), ("Shot-revolver, 'Ironside Magistrate' officer's pattern", "R"), ("Arbites combat shotgun (shock shells)", "U"), ("Riot SMG, Arbites pattern", "R"), ("Bolt pistol, Ryza pattern", "R")],  # made for commissars (the player's session-9 design; added day 48)
+              ("Bolt pistol and a thunder hammer, one-handed officer's pattern", "R"), ("Shot-revolver, 'Ironside Magistrate' officer's pattern", "R"), ("Arbites combat shotgun (shock shells)", "U"), ("Riot SMG, Arbites pattern", "R"), ("Bolt pistol, Ryza pattern", "R"), ("Storm bolter, 'Throne Armageddon' pattern", "R")],  # made for commissars (the player's session-9 design; added day 48)
  "sister novitiate": [("Autopistol and a chainsword", "C"), ("Autogun", "C"), ("Autopistol and a novitiate's mace", "C"),
                       ("Laspistol and a chainsword", "C"), ("Sacred banner and an autopistol", "U"), ("Hand flamer and an autopistol", "U"),
                       ("Bolt pistol and a chainsword", "U"), ("Sororitas bolt pistol (Godwyn-De'az) and a blessed power maul", "R"),
@@ -82,9 +82,9 @@ ROLE_WEAPONS = {
              ("Officer's sabre and a duelling laspistol", "U"), ("Paired mono-knife blades", "U"), ("Power sword", "R"), ("Shot-revolver, 'Ironside Magistrate' officer's pattern, and an officer's sabre", "R"), ("Las-scattergun 'shotlas' and a naval sabre", "U"), ("Power falchion", "R"), ("Power odachi, 'Eversor' pattern", "R")],
  "zealot": [("Chainsword", "C"), ("Chain axe", "C"), ("Flamer-torch", "U"), ("Crusher, two-handed mace", "U"), ("Power maul", "R"), ("Eviscerator", "R"), ("Ecclesiarchy 'cleansing' flamer", "U"), ("Incinerator", "R"), ("Stake crossbow, 'Condemnor' pattern", "R")],
  "commander": [("Chainsword and a command vox", "C"), ("Shot-revolver, 'Ironside Magistrate' officer's pattern, and a command vox", "R"), ("Laspistol and a command vox", "C"), ("Bolt pistol and a command vox", "U"),
-               ("Hellpistol and a command vox", "U"), ("Power sword and a command vox", "R"), ("Plasma pistol and a command vox", "R"), ("Boltgun, Phobos pattern", "R"), ("Las-fist, 'Kasr Knuckle' pattern", "R")],
+               ("Hellpistol and a command vox", "U"), ("Power sword and a command vox", "R"), ("Plasma pistol and a command vox", "R"), ("Boltgun, Phobos pattern", "R"), ("Las-fist, 'Kasr Knuckle' pattern", "R"), ("Storm bolter, 'Throne Armageddon' pattern", "R")],
  "leader": [("Chainsword and a command vox", "C"), ("Shot-revolver, 'Ironside Magistrate' officer's pattern, and a command vox", "R"), ("Laspistol and a command vox", "C"), ("Bolt pistol and a command vox", "U"),
-            ("Hellpistol and a command vox", "U"), ("Power sword and a command vox", "R"), ("Plasma pistol and a command vox", "R"), ("Bolt pistol, Ryza pattern", "R"), ("Boltgun, Locke Mk IIb 'Spearhead'", "R"), ("Hellpistol, Kantrael, and a command vox", "U")],
+            ("Hellpistol and a command vox", "U"), ("Power sword and a command vox", "R"), ("Plasma pistol and a command vox", "R"), ("Bolt pistol, Ryza pattern", "R"), ("Boltgun, Locke Mk IIb 'Spearhead'", "R"), ("Hellpistol, Kantrael, and a command vox", "U"), ("Storm bolter, 'Throne Armageddon' pattern", "R")],
  "medic": [("Med-kit and 3 stimms", "C"), ("Field dressings and two stimms", "C"), ("Med-kit, antitoxin and 2 stimms", "U"),
            ("Medicae kit and concentrated stimms", "R"), ("Needle pistol, 'Asp Doc' pattern, and stim darts", "U")],
  "chem-doctor": [("Drug satchel: stimms, slaught and Frenzon", "C"), ("Syringe spike and a drug satchel", "U"),

@@ -833,6 +833,13 @@
   "sellers": "BF"
  },
  {
+  "name": "Storm bolter, 'Throne Armageddon' pattern (twin bolter: strings of 6, recoil 2; STR 40+ one-handed; 30-round twin box; -1 swapping)",
+  "tv": 45,
+  "cat": "bolt",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
   "name": "Macragge service pistol (Ultramarines; heavy stub, 12 rounds, laser/light module, compensator)",
   "tv": 35,
   "cat": "stub",

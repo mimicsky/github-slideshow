@@ -38,6 +38,22 @@ extra step** (2 in all); against lighter armour, a normal bolt. **Gets through a
 it). **Unstable: on a natural 1 the round cooks off in the chamber:** the bearer drops a step and the gun is out for
 the fight. Fits any bolt weapon.
 
+## Storm bolter, 'Throne Armageddon' pattern
+
+**Storm bolter, 'Throne Armageddon' pattern** (rare, 45 TV; Munitorum (Commissariat), Mechanicus, Free Traders; the player's pick, Ash on Ostrava day 48,
+after Commissar Yarrick's storm bolter; **Throne** is the maker name for human bolt guns, day 48; numbers the DM's). Two
+bolters built side by side as one gun, firing together.
+- **Strings of 6** (twice a boltgun's). **Recoil 2.** [Trigger Finger](abilities.md#trigger-finger), as any boltgun.
+- **A bolt's punch:** each hit a step, through everything up to semi power armour; Space Marine armour only on a solid
+  hit (codex Part 8, Armour).
+- **Yarrick's grip: STR 40+ fires it one-handed** (the other hand free: a sword, a klaw, a fist); below that, two hands.
+- **Heavy: -1 on swapping targets.**
+- **A 30-round twin box** (15 a barrel; 5 strings); a spare box is 0.3 TV empty (codex Gear rules, Magazines); bolts
+  cost extra.
+- **Who carries it:** commanders, leaders and commissars (rare); renegade and fallen commissars.
+
+**Abilities:** [Trigger Finger](abilities.md#trigger-finger); [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
+
 ## Bolt-shotgun, 'Breacher' pattern
 
 **Bolt-shotgun, 'Breacher' pattern** (player design, rare, 10 TV). A short,

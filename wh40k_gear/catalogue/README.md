@@ -1,6 +1,6 @@
 # Gear catalogue: table of contents
 
-**Maker names (the player, day 48):** each family has its own: **Kasr** las · **Hell** hellguns · **Solid** autoguns, stub rifles, stub SMGs · **Magnum** heavy stub guns · **Siege** heavy stubber guns · **Breach** shotguns · **Ironside** stub pistols · **Forge** melee · **Sol** plasma · **Hunter** bows and crossbows · **Asp** needle guns · **Bone'ead** Ogryn guns. (Until day 48 nearly everything was 'Kasr'; the book keeps the old names.)
+**Maker names (the player, day 48):** each family has its own: **Kasr** las · **Hell** hellguns · **Solid** autoguns, stub rifles, stub SMGs · **Magnum** heavy stub guns · **Siege** heavy stubber guns · **Breach** shotguns · **Ironside** stub pistols · **Forge** melee · **Sol** plasma · **Hunter** bows and crossbows · **Asp** needle guns · **Throne** human bolt guns · **Bone'ead** Ogryn guns. (Until day 48 nearly everything was 'Kasr'; the book keeps the old names.)
 
 **[Gear abilities](abilities.md)** (day 47): abilities that come from what someone carries (Plant, for shields, and more as they're designed); each lists its items, and each item's entry has an **Abilities:** line pointing back.
 
@@ -140,6 +140,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 
 ## [Bolt weapons](bolt.md)
 
+- [Storm bolter, 'Throne Armageddon' pattern](bolt.md#storm-bolter-throne-armageddon-pattern) (twin bolter; Yarrick's)
 - [Bolt-shotgun, 'Breacher' pattern](bolt.md#bolt-shotgun-breacher-pattern)
 - [Astartes bolters](bolt.md#astartes-bolters) (epic and legendary)
 - [Bolt rounds, special](bolt.md#bolt-rounds-special-loads) (Kraken, off-brand, meltacore, storm, vengeance)
