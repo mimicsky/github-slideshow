@@ -67,7 +67,7 @@ ROLE_WEAPONS = {
  "sister novitiate": [("Autopistol and a chainsword", "C"), ("Autogun", "C"), ("Autopistol and a novitiate's mace", "C"),
                       ("Laspistol and a chainsword", "C"), ("Sacred banner and an autopistol", "U"), ("Hand flamer and an autopistol", "U"),
                       ("Bolt pistol and a chainsword", "U"), ("Sororitas bolt pistol (Godwyn-De'az) and a blessed power maul", "R"),
-                      ("Inferno pistol (Sororitas) and a chainsword", "R"), ("Sororitas power sword and a bolt pistol", "R")],
+                      ("Inferno pistol (Sororitas) and a chainsword", "R"), ("Sororitas power sword and a bolt pistol", "R"), ("Stake crossbow, 'Condemnor' pattern", "U")],
                       # allies only (the player, Ash on Ostrava day 48)
  "veteran": [("Lasgun", "C"), ("Autogun", "C"), ("Combat shotgun, pump", "C"), ("Hunting rifle with an old scope", "C"),
              ("Lascarbine", "U"), ("Hellgun", "U"), ("Scoped autogun", "U"), ("Hellgun with a holo sight", "R"),
@@ -80,7 +80,7 @@ ROLE_WEAPONS = {
            ("Chain axe", "U"), ("Stolen Ogryn ripper gun and a club", "R"), ("Brute stubber, 'Kasr Deddog' pattern", "R")],
  "duelist": [("Naval sabre", "C"), ("Chainsword", "C"), ("Cutlass and a stub revolver", "C"),
              ("Officer's sabre and a duelling laspistol", "U"), ("Paired mono-knife blades", "U"), ("Power sword", "R"), ("Shot-revolver, 'Kasr Magistrate' officer's pattern, and an officer's sabre", "R"), ("Las-scattergun 'shotlas' and a naval sabre", "U"), ("Power falchion", "R"), ("Power odachi, 'Eversor' pattern", "R")],
- "zealot": [("Chainsword", "C"), ("Chain axe", "C"), ("Flamer-torch", "U"), ("Crusher, two-handed mace", "U"), ("Power maul", "R"), ("Eviscerator", "R"), ("Ecclesiarchy 'cleansing' flamer", "U"), ("Incinerator", "R")],
+ "zealot": [("Chainsword", "C"), ("Chain axe", "C"), ("Flamer-torch", "U"), ("Crusher, two-handed mace", "U"), ("Power maul", "R"), ("Eviscerator", "R"), ("Ecclesiarchy 'cleansing' flamer", "U"), ("Incinerator", "R"), ("Stake crossbow, 'Condemnor' pattern", "R")],
  "commander": [("Chainsword and a command vox", "C"), ("Shot-revolver, 'Kasr Magistrate' officer's pattern, and a command vox", "R"), ("Laspistol and a command vox", "C"), ("Bolt pistol and a command vox", "U"),
                ("Hellpistol and a command vox", "U"), ("Power sword and a command vox", "R"), ("Plasma pistol and a command vox", "R"), ("Boltgun, Phobos pattern", "R"), ("Las-fist, 'Kasr Knuckle' pattern", "R")],
  "leader": [("Chainsword and a command vox", "C"), ("Shot-revolver, 'Kasr Magistrate' officer's pattern, and a command vox", "R"), ("Laspistol and a command vox", "C"), ("Bolt pistol and a command vox", "U"),

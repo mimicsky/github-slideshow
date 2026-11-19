@@ -22,6 +22,19 @@ Pulleys and cams: more power and accuracy, less speed. **Needs STR 30+ to draw**
 can't use it. **Strings of 1.** **Hits harder: the arrow goes one armour step further** (stacks with STR 50+). **+1 on
 aimed shots**; **-2 past ~60 m.** Silent, no recoil, no attachment slots.
 
+## Stake crossbow, 'Condemnor' pattern
+
+**Stake crossbow, 'Condemnor' pattern** (rare, 10 TV; Ecclesiarchy, Free Traders; the player's pick, Ash on Ostrava day 48, after Darktide's Sisters
+Novitiate and their Condemnor stake thrower; in the lore the Condemnor is a witch-hunter's weapon whose stakes carry
+psychic-disrupting cores). A compact crossbow firing blessed, silver-cored stakes. It has its own stakes, not arrows.
+- **One stake a beat; re-spanning it is the short move.** **Silent,** no recoil. **6 stakes** in its quiver; picked up
+  after a fight as arrows are (a d6 4-6 each).
+- **Punch:** through flak and reinforced flak; **carapace only on a solid hit.**
+- **Witch-killer:** **a hit on a psyker drops an extra step, and he can't use powers next beat.**
+- **Pins them:** **a solid hit within ~5 m of a wall or the ground pins the target:** he can't move until he spends a
+  beat pulling free.
+- **Who:** Sisters Novitiate (their kit list); rarely zealots (witch-hunters carry them).
+
 ## Quiver
 
 **Quiver** (common, 0.25 TV; leatherworkers, feral-world traders, Free Traders). Holds **20 arrows**, any mix of

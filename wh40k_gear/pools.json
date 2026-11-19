@@ -3990,6 +3990,13 @@
   "sellers": "BF"
  },
  {
+  "name": "Stake crossbow, 'Condemnor' pattern (silver-cored stakes: a hit on a psyker +1 step and no powers next beat; a solid hit near a wall pins; 6 stakes; silent)",
+  "tv": 10,
+  "cat": "bow",
+  "rarity": "R",
+  "sellers": "EF"
+ },
+ {
   "name": "Scrap arrows (5; break on any armour; made from scrap)",
   "tv": 0.05,
   "cat": "ammo",

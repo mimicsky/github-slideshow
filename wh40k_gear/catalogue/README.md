@@ -102,6 +102,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 
 - [Recurve bow, 'Reedhawk' pattern](bows.md#recurve-bow-reedhawk-pattern) (silent, strings of 2)
 - [Compound bow, 'Kasr Kestrel' pattern](bows.md#compound-bow-kasr-kestrel-pattern) (STR 30+; strings of 1; a step further)
+- [Stake crossbow, 'Condemnor' pattern](bows.md#stake-crossbow-condemnor-pattern) (silent; witch-killer; pins)
 - [Quiver](bows.md#quiver) (20 arrows)
 - [Arrows](bows.md#arrows) (scrap, metal, steel)
 
