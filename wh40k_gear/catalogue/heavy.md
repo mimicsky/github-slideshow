@@ -2,7 +2,7 @@
 
 Item rules for this category. General rules (heat, hot-shot, drop-prone, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
 
-**Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown). **Heavy stubbers, heavy bolters, autocannons and multi-lasers also have [Pinned Fire](abilities.md#pinned-fire)** (spray an area: -1 on their shots next beat, breaking cover draws a shot; day 47).
+**Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown). **Heavy belt stubbers, heavy bolters, autocannons and multi-lasers also have [Pinned Fire](abilities.md#pinned-fire)** (spray an area: -1 on their shots next beat, breaking cover draws a shot; day 47).
 
 
 ## Heavy bolter, Guard pattern
@@ -20,9 +20,9 @@ human weapon (the Astartes one is a legendary trophy: bolt.md).
 
 **Abilities:** [Pinned Fire](abilities.md#pinned-fire); [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
 
-## Heavy stubber
+## Heavy belt stubber
 
-**Heavy stubber** (common, ~4 TV; Munitorum, black market; belts ~1 TV; rules set by the player, Ash on
+**Heavy belt stubber** (common, ~4 TV; Munitorum, black market; belts ~1 TV; rules set by the player, Ash on
 Ostrava session 10). A belt-fed heavy stub gun, carried by one strong trooper or set on a tripod.
 **Strings of up to 8,** with no hit bonuses in the string (a miss still costs -1 on the next shot).
 **Recoil 1 when braced** (on a wall, a crate, a bipod or a tripod), **2 on the move.** Gets through flak and
@@ -30,32 +30,32 @@ carapace; heavy carapace shrugs it at range (codex Part 8, Armour). **Suppressio
 at takes **-2 on their shots** while it keeps firing, hit or miss (the same -2 as a heavy gunner's or
 Morcant's specialty: it counts once).
 
-## Heavy stubber, 'Siege Junker' pattern (scrap)
+## Heavy belt stubber, 'Siege Junker' pattern (scrap)
 
-**Heavy stubber, 'Siege Junker' pattern** (uncommon, scrap, 2 TV; black market; drafted with the player, Ash on Ostrava
+**Heavy belt stubber, 'Siege Junker' pattern** (uncommon, scrap, 2 TV; black market; drafted with the player, Ash on Ostrava
 day 48; numbers the DM's). Pipes, a hand-crank feed and a car-battery motor: **the cultist's and raider's machine gun.**
-**Strings of up to 6,** no hit bonuses (misses still -1); **recoil 1 braced, 2 on the move.** Heavy stubber punch and
-**suppression -2** (as the heavy stubber). **Scrap quirk: it jams on a natural 1-3** (a beat to clear). Takes heavy
+**Strings of up to 6,** no hit bonuses (misses still -1); **recoil 1 braced, 2 on the move.** Heavy belt stubber punch and
+**suppression -2** (as the heavy belt stubber). **Scrap quirk: it jams on a natural 1-3** (a beat to clear). Takes heavy
 stubber belts.
 
-## Heavy stubber, 'Siege Rattler' light pattern
+## Heavy belt stubber, 'Siege Rattler' light pattern
 
-**Heavy stubber, 'Siege Rattler' light pattern** (uncommon, 5 TV; Munitorum, black market, Free Traders; drafted with the
+**Heavy belt stubber, 'Siege Rattler' light pattern** (uncommon, 5 TV; Munitorum, black market, Free Traders; drafted with the
 player, day 48). **The squad machine gun:** lighter, with a bipod and a **50-round box** (a spare is 0.5 TV: codex Gear
 rules, Magazines). **One strong trooper (STR 40+) carries it and fires on the move: recoil 1**; on the bipod, recoil 0.
-Under STR 40: -2 on every shot and +1 recoil. **Strings of up to 6,** no hit bonuses; heavy stubber punch; **suppression
+Under STR 40: -2 on every shot and +1 recoil. **Strings of up to 6,** no hit bonuses; heavy belt stubber punch; **suppression
 -2.**
 
-## Heavy stubber, 'Siege Whirlwind' rotary pattern
+## Heavy belt stubber, 'Siege Whirlwind' rotary pattern
 
-**Heavy stubber, 'Siege Whirlwind' rotary pattern** (rare, 15 TV; Mechanicus, Free Traders; drafted with the player, day
+**Heavy belt stubber, 'Siege Whirlwind' rotary pattern** (rare, 15 TV; Mechanicus, Free Traders; drafted with the player, day
 48). Six barrels and a spinning drive: a minigun. **Spin-up: the first beat it only spins** (its main thing); **then
 strings of up to 16,** no hit bonuses; **recoil 1 braced.** **Suppression -3** (not -2). **It eats belts: a belt lasts 3
-strings.** **Braced or on its frame; carried only at STR 60+** (an Ogryn). Heavy stubber punch.
+strings.** **Braced or on its frame; carried only at STR 60+** (an Ogryn). Heavy belt stubber punch.
 
-## Heavy stubber belts, special
+## Heavy belt stubber belts, special
 
-(player design, Ash on Ostrava day 35; any heavy stubber; Morcant's twin feed lets him carry one
+(player design, Ash on Ostrava day 35; any heavy belt stubber; Morcant's twin feed lets him carry one
 special belt beside a standard one and switch with the lever.) A standard belt is common, ~1 TV.
 - **Hollow point stubber belt** (uncommon, 2 TV; Munitorum, black market, Free Traders; **renamed by the player, day 47: was
   the 'man-stopper belt'**, so 'man-stopper' can keep its 40k meaning on shotgun shells): expanding rounds.
@@ -75,32 +75,32 @@ special belt beside a standard one and switch with the lever.) A standard belt i
 ## Brute stubber, 'Bone'ead Deddog' pattern
 
 **Brute stubber, 'Bone'ead Deddog' pattern** (player design, Ash on Ostrava day 44; rare, ~6 TV; Munitorum,
-black market, Free Traders; or built by a smith from a heavy stubber as a schematic). Named for Nork
-Deddog, the Ogryn who guarded Lord Castellan Creed of Cadia. A heavy stubber cut down into a rifle
+black market, Free Traders; or built by a smith from a heavy belt stubber as a schematic). Named for Nork
+Deddog, the Ogryn who guarded Lord Castellan Creed of Cadia. A heavy belt stubber cut down into a rifle
 shape for a big man's hands: **no stock, a short barrel**, a top carry handle and a forward grip; it
-feeds **heavy stubber belts from a box mag through an LMG-style feed tray**.
+feeds **heavy belt stubber belts from a box mag through an LMG-style feed tray**.
 - **Brutes only: STR 50+** (Ogryns; a human that strong). Anyone weaker can fire it **only braced, at -3**.
-- **Strings of up to 8**, no hit bonuses in the string (a miss still costs -1 on the next shot), as the heavy stubber.
-- **Recoil 1, standing or on the move:** a heavy stubber a brute can walk and fire (a heavy stubber is 2 on the move).
+- **Strings of up to 8**, no hit bonuses in the string (a miss still costs -1 on the next shot), as the heavy belt stubber.
+- **Recoil 1, standing or on the move:** a heavy belt stubber a brute can walk and fire (a heavy belt stubber is 2 on the move).
 - **Short barrel: -2 on shots past ~30 m.**
 - **No stock: no aimed bonuses and no optic slot.**
-- **Hits as a heavy stubber:** gets through flak and carapace; heavy carapace shrugs it at range. **Suppression** as the heavy stubber (-2 on the target's shots while it fires; counts once).
-- **Belts:** any heavy stubber belt, the special belts included.
+- **Hits as a heavy belt stubber:** gets through flak and carapace; heavy carapace shrugs it at range. **Suppression** as the heavy belt stubber (-2 on the target's shots while it fires; counts once).
+- **Belts:** any heavy belt stubber belt, the special belts included.
 
-## Twin-linked heavy stubber, 'Bullgryn' pattern
+## Twin-linked heavy belt stubber, 'Bullgryn' pattern
 
-**Twin-linked heavy stubber, 'Bullgryn' pattern** (player design, Ash on Ostrava day 45; rare, ~12 TV;
-Munitorum, black market, Free Traders). Named for the Ogryn shock troops. Two heavy stubber barrels side by
+**Twin-linked heavy belt stubber, 'Bullgryn' pattern** (player design, Ash on Ostrava day 45; rare, ~12 TV;
+Munitorum, black market, Free Traders). Named for the Ogryn shock troops. Two heavy belt stubber barrels side by
 side firing twice as fast, fed from a **belt box** that sits underneath and feeds up into the guns. A
 **skeleton chainsaw-style handgrip** at the back, a **horizontal handle** at the front, a **carry handle** on
 top, and **no sight at all**: it's made to spray and pray.
 - **Brutes only: STR 50+** (Ogryn-sized). Anyone weaker can only fire it from a mount, at -3.
-- **Strings of up to 16** (twice a heavy stubber), no hit bonuses in the string, and **-1 on every shot** (no
+- **Strings of up to 16** (twice a heavy belt stubber), no hit bonuses in the string, and **-1 on every shot** (no
   sight). **Recoil 2 standing, 3 on the move.**
-- **Hits as a heavy stubber:** through flak and carapace; heavy carapace shrugs it at range.
+- **Hits as a heavy belt stubber:** through flak and carapace; heavy carapace shrugs it at range.
 - **Heavy suppression:** whoever it fires at takes **-3 on their shots** while it keeps firing, hit or miss
-  (counts once; it replaces the heavy stubber's -2).
-- **Belt box:** a box (two heavy stubber belts, ~2 TV) lasts **3 full strings**. **Seating a new box takes two
+  (counts once; it replaces the heavy belt stubber's -2).
+- **Belt box:** a box (two heavy belt stubber belts, ~2 TV) lasts **3 full strings**. **Seating a new box takes two
   beats** while the belt is aligned in the feed (**one beat** with a loader helping).
 
 ## Hellstrike launcher, 'Bone'ead' pattern (Ogryn)

@@ -657,7 +657,7 @@ human, obeying their Tech-Priests through data-links. Corrupted ones serve heret
   No bleeding, no fear, immune to gas.
 - **Fully armoured in heavy plasteel (set by the player, day 48:** 'the armor and arms are heavy plasteel since
   they are like fully armored'**).** Its war plate **and its augmetic arms and legs** are heavy plasteel: **the heavy
-  carapace / heavy plasteel tier all over** (codex Part 8, Armour: hellguns and heavy stubbers only inside ~15 m; las, autoguns,
+  carapace / heavy plasteel tier all over** (codex Part 8, Armour: hellguns and heavy belt stubbers only inside ~15 m; las, autoguns,
   stub and most blades never; bolters, plasma, melta, power weapons and krak always; chain on a solid hit).
   **No gaps: a shot for the arms or legs meets the same plasteel.** Whatever armour the roller gave it is replaced
   by this. (The player, day 48: 'Heavy is fine'; the tier is named heavy carapace / heavy plasteel.)
@@ -822,7 +822,7 @@ fight for anything that feeds them.*
 **Added by the player, Ash on Ostrava day 47, from Darktide (the Moebian 6th's Ogryns).** Each is an Ogryn (the stats,
 the 7.0 health track, shots at it +2, the once-a-fight charge, loyal and dumb, as above), plus:
 
-- **Crusher.** Sealed in **full heavy carapace** (only heavy hits get through: hellguns and heavy stubbers only
+- **Crusher.** Sealed in **full heavy carapace** (only heavy hits get through: hellguns and heavy belt stubbers only
   inside ~15 m; bolters, chain on a solid hit, power, plasma, melta, krak always). A **two-handed power maul**:
   its blows go **through any armour** and **a hit knocks the target flat**. **The overhead slam:** every other
   beat, instead of its swings, it brings the maul down on **everyone in a ~3 m arc in front of it**: each makes a
@@ -911,7 +911,7 @@ psyker, beast handler, mutant charger) always take the preset. The lists live in
 - **flamer:** Torch-thrower (scrap flamer) (common); Promethium sprayer (homemade) (common); Hand flamer (uncommon); Flamer, Ryza pattern + 2 canisters (uncommon); Heavy flamer (rare); Ecclesiarchy 'cleansing' flamer (uncommon); Torch-pistol (scrap hand flamer) (common); Wrist flamer (uncommon); Hose-fed hand flamer, Militarum pattern (uncommon); Hose-fed hand flamer, 'Pyre' pattern (rare)
 - **grenadier:** Bag of 4 frags (common); Bandolier of 4 frags and 2 smoke (common); Tin-can bombs x4 (common); Cracker bundles x3 and 2 frags (common); Grenade launcher + 6 rounds (uncommon); Grenade launcher with krak and frag (rare); Grenade launcher, stand-alone (uncommon); Grenade launcher, revolver-drum (uncommon); Thumper (Catachan grenade launcher) (uncommon)
 - **gunslinger:** Two autopistols (common); Two stub revolvers (common); Two laspistols (common); Two Hammerfall auto-revolvers (uncommon); Two hellpistols (uncommon); Two heavy laspistols (uncommon); Two burst pistols, 'Ironside Trice' pattern (uncommon); Bolt pistol and a duelling laspistol (rare); Two plasma pistols (rare); Two shot-revolvers, 'Ironside Magistrate' officer's pattern (rare); Las-scattergun 'shotlas' and a stub revolver (uncommon); Twin-barrel autopistol, 'Ironside Hydra' pattern (uncommon); Combi-pistol, 'Ironside Trident' pattern (rare); Shredder autopistol, Ius pattern (uncommon); Machine pistol, 'Solid Hornet' pattern (uncommon); Submachine gun, 'Solid Scorpion' pattern (rare)
-- **heavy gunner:** Heavy stubber (common); Braced autogun with drum (common); Heavy stubber with drum mag (uncommon); Multi-laser, man-portable (uncommon); Las-LMG, 'Kasr Rain' suppression pattern (uncommon); Las-box, 'Kasr Barr' light las-LMG (rare); Heavy bolter, Guard pattern (rare); Missile launcher (rare); Rocket-propelled grenade tube (rare); Multi-melta (rare); Heavy stubber, 'Siege Junker' pattern (scrap) (common); Heavy stubber, 'Siege Rattler' light pattern (uncommon); Heavy stubber, 'Siege Whirlwind' rotary pattern (rare)
+- **heavy gunner:** Heavy belt stubber (common); Braced autogun with drum (common); Heavy belt stubber with drum mag (uncommon); Multi-laser, man-portable (uncommon); Las-LMG, 'Kasr Rain' suppression pattern (uncommon); Las-box, 'Kasr Barr' light las-LMG (rare); Heavy bolter, Guard pattern (rare); Missile launcher (rare); Rocket-propelled grenade tube (rare); Multi-melta (rare); Heavy belt stubber, 'Siege Junker' pattern (scrap) (common); Heavy belt stubber, 'Siege Rattler' light pattern (uncommon); Heavy belt stubber, 'Siege Whirlwind' rotary pattern (rare)
 - **icon bearer:** The faction's icon on a pole (common); Defaced regimental colours (uncommon); Daemon-touched icon that whispers (rare)
 - **infiltrator:** the same quiet list as the assassin
 - **jumper:** Scrap jump pack (homemade; sputters on a 1) (common); Stolen grav-chute rigged to hop (common); Boarders' lift pack (uncommon); Guard jump pack (uncommon); Kasrkin-pattern jump pack (rare)

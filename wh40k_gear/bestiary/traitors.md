@@ -8,7 +8,7 @@ The rebel militia of Vraks, the armoury world that turned. Huge numbers, cheap
 kit, and more guns than they know what to do with.
 - **Look:** red-brown fatigues, flak, gas masks, the rebel cardinal's sign painted
   over the aquila.
-- **Weapons:** Kantrael lasguns, autoguns, heavy stubbers, mortars; the armoury
+- **Weapons:** Kantrael lasguns, autoguns, heavy belt stubbers, mortars; the armoury
   world's leftovers.
 - **Tactics:** trenches and numbers: dig in, layer fire, call the mortars, and let
   you walk into it. Out of their lines they're far weaker.

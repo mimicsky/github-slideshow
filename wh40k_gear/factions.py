@@ -11,12 +11,12 @@ F = [
            ["Poxburster (creature): a bloated walker loosed in the line (cultists.md, Poxbursters)","U"]]},
  {"name":"The Volscani Cataphracts","type":"cultist","gear":"traitor_elite","god":"undivided","favoured":["Hellgun, Ryza pattern (stolen)","Combat shotgun, semi-auto","Lasgun, Lucius No.98"]},
  {"name":"The Blood Pact","type":"cultist","gear":"traitor_elite","god":"khorne","favoured":["Lasgun, Kantrael M36","Autogun, Agripinaa","Combat shotgun, pump"]},
- {"name":"The Sons of Sek","type":"cultist","gear":"traitor_elite","god":"khorne","favoured":["Autogun, Agripinaa","Lasgun, Lucius No.98","Heavy stubber"]},
+ {"name":"The Sons of Sek","type":"cultist","gear":"traitor_elite","god":"khorne","favoured":["Autogun, Agripinaa","Lasgun, Lucius No.98","Heavy belt stubber"]},
  {"name":"The Prospero Spireguard","type":"cultist","gear":"traitor_elite","god":"tzeentch","favoured":["Lasgun, Lucius No.98 (blue-lacquered)","Hellgun, Ryza pattern (stolen)","Plasma pistol, Ryza pattern"]},
  {"name":"The Adorned","type":"cultist","god":"slaanesh","favoured":["Needle rifle","Duelling laspistol, noble-house pattern","Las-scattergun 'shotlas'"]},
  {"name":"The Cohort of the Enraptured","type":"cultist","god":"slaanesh","favoured":["Las-scattergun 'shotlas'","Lascarbine, Accatran Mk IV","Hand flamer"]},
  # Traitor soldiers
- {"name":"The Vraksian Renegade Militia","type":"traitor","favoured":["Lasgun, Kantrael M36","Autogun, Agripinaa","Heavy stubber"]},
+ {"name":"The Vraksian Renegade Militia","type":"traitor","favoured":["Lasgun, Kantrael M36","Autogun, Agripinaa","Heavy belt stubber"]},
  {"name":"The Renegade 14th Volpone 'Bluebloods'","type":"traitor","favoured":["Lasgun, Accatran Mk XIV","Hellgun, Ryza pattern","Long-las, Mezoa"]},
  {"name":"The Urdeshi Deserter Storm Troops","type":"traitor","favoured":["Hellgun, Accatran (compact)","Lasgun, 'Kasr Duet' twin-focus pattern","Combat shotgun, semi-auto"]},
  # Pirates
@@ -34,6 +34,6 @@ F = [
  {"name":"The Unburied, Death Korps of Krieg (fallen company)","type":"traitor_elite","favoured":["Lasgun, Lucius No.98","Hot-shot volley gun","Heavy flamer"]},
  {"name":"The Sand-Ghosts, Tallarn (fallen company)","type":"traitor_elite","favoured":["Long-las, Mezoa","Lascarbine, Accatran Mk IV","Meltagun"]},
  {"name":"The Disowned, Vostroyan Firstborn (fallen company)","type":"traitor_elite","richer":1,"favoured":["Lasgun, Kantrael M36 (heirloom)","Boltgun, Godwyn pattern","Hellgun, Ryza pattern"]},
- {"name":"The Green Hell deserters, Catachan (fallen company)","type":"traitor_elite","favoured":["Lasgun, Kantrael M36","Flamer, Ryza pattern","Heavy stubber","Catachan shotgun"]},
+ {"name":"The Green Hell deserters, Catachan (fallen company)","type":"traitor_elite","favoured":["Lasgun, Kantrael M36","Flamer, Ryza pattern","Heavy belt stubber","Catachan shotgun"]},
  {"name":"The Broken Badge, renegade Arbites (fallen precinct)","type":"traitor_elite","favoured":["Arbites combat shotgun (shock shells)","Combat shotgun, semi-auto","Web pistol, Arbites pattern"]},
 ]

@@ -20,7 +20,7 @@ CHANCE = {"poor": 20, "steady": 25, "good": 30, "rich": 40, "wealthy": 50}
 # bw bow (day 47: only arrows roll; see catalogue/bows.md).
 # Gun types: lp las pistol, lr las rifle/carbine, sp stub pistol, smg, sr stub rifle/autogun, sg shotgun,
 # bp bolt pistol, br boltgun, pp plasma pistol, pg plasma gun, np needle pistol, nr needle rifle,
-# hf hand flamer, fl flamer, hs heavy stubber, hv other heavy weapon, gl grenade launcher, mo mortar, mg meltagun.
+# hf hand flamer, fl flamer, hs heavy belt stubber, hv other heavy weapon, gl grenade launcher, mo mortar, mg meltagun.
 PIST = {"lp", "sp", "bp", "pp", "np"}
 RIFLE = {"lr", "sr", "br", "pg", "nr"}
 SIGHT = PIST | RIFLE | {"smg", "sg", "mg"}
@@ -33,7 +33,7 @@ STUBCAL = r"(?<!auto-)revolver|stub pistol|stub automatic|hand cannon|lever|hunt
 AUTOCAL = r"autogun|autopistol|autorifle|auto-revolver|hammerfall|submachine|rattler|machine pistol|chain-fed|solid stag|burst pistol"
 NAMES = {"lp": "las pistols", "lr": "las rifles", "sp": "stub pistols", "smg": "SMGs", "sr": "autoguns and stub rifles",
          "sg": "shotguns", "bp": "bolt pistols", "br": "boltguns", "pp": "plasma pistols", "pg": "plasma guns",
-         "np": "needle pistols", "nr": "needle rifles", "hf": "hand flamers", "fl": "flamers", "hs": "heavy stubbers",
+         "np": "needle pistols", "nr": "needle rifles", "hf": "hand flamers", "fl": "flamers", "hs": "heavy belt stubbers",
          "hv": "heavy weapons", "gl": "grenade launchers", "mo": "mortars", "mg": "meltaguns",
          "bw": "bows", "ch": "chain weapons", "pw": "power weapons", "bl": "blades", "bt": "blunt weapons", "sh": "shields", "st": "psyker staffs"}
 
@@ -187,10 +187,10 @@ A = [
  ("a_dragon", "Dragon's breath shells", "U", "load", {"sg"}, None, None, 0, "shot at, the target is flashed: -1 on his next shot; hit, -2 instead; a hit on a raw 17+ sets him alight", "stub.md#shotgun-shells-special-loads"),
  ("a_hellshell", "Hellfire shells", "R", "load", {"sg"}, None, None, 0, "a hit that gets through: CON save vs 10 or one more step", "stub.md#shotgun-shells-special-loads"),
  ("a_kraken", "Kraken bolt rounds", "R", "load", {"bp", "br", "hv"}, r"bolt", None, 0, "through an APC's armour; +1 aimed past ~30 m", "bolt.md#bolt-rounds-special-loads"),
- ("a_hpbelt", "Hollow point stubber belt", "U", "load", {"hs"}, None, None, 0, "against flak or less a solid hit drops an extra step; carapace and heavier shrug it", "heavy.md#heavy-stubber-belts-special"),
- ("a_inferno", "Inferno belt", "U", "load", {"hs"}, None, None, 0, "a hit on a raw 17+ sets the target alight", "heavy.md#heavy-stubber-belts-special"),
- ("a_tungsten", "Tungsten-core belt", "R", "load", {"hs"}, None, None, 0, "through heavy carapace at any range", "heavy.md#heavy-stubber-belts-special"),
- ("a_hellfire", "Hellfire belt", "R", "load", {"hs"}, None, None, 0, "a hit that gets through: CON save vs 10 or one more step", "heavy.md#heavy-stubber-belts-special"),
+ ("a_hpbelt", "Hollow point stubber belt", "U", "load", {"hs"}, None, None, 0, "against flak or less a solid hit drops an extra step; carapace and heavier shrug it", "heavy.md#heavy-belt-stubber-belts-special"),
+ ("a_inferno", "Inferno belt", "U", "load", {"hs"}, None, None, 0, "a hit on a raw 17+ sets the target alight", "heavy.md#heavy-belt-stubber-belts-special"),
+ ("a_tungsten", "Tungsten-core belt", "R", "load", {"hs"}, None, None, 0, "through heavy carapace at any range", "heavy.md#heavy-belt-stubber-belts-special"),
+ ("a_hellfire", "Hellfire belt", "R", "load", {"hs"}, None, None, 0, "a hit that gets through: CON save vs 10 or one more step", "heavy.md#heavy-belt-stubber-belts-special"),
  ("a_blacktip", "Black-tip darts", "U", "load", {"np", "nr"}, None, None, 0, "the toxin's save is vs 17; a pass is still -1 on their next roll", "stub.md#needle-darts-special-loads"),
  ("a_panic", "Panic darts", "U", "load", {"np", "nr"}, None, None, 0, "CON vs 15 or drops what's in hand and runs or hides 2 beats", "stub.md#needle-darts-special-loads"),
  ("a_tracker", "Tracker darts", "U", "load", {"np", "nr"}, None, None, 0, "a pinger, not a toxin: followed on an auspex ~1 km for a day", "stub.md#needle-darts-special-loads"),
@@ -210,14 +210,14 @@ A = [
  ("c_igniter", "Tuned igniter", "U", "igniter", {"hf", "fl"}, None, None, 1, "the gout opens ~2 m wide at the far end and catches anyone close together", C + "holliss-hand-flamer-schematic-2"),
  ("c_hburst", "Heavy-burst switch", "R", "selector", {"hf", "fl"}, None, None, 1, "one pull spends 2 bursts: everyone hit drops an extra step; no flame the next beat", C + "holliss-hand-flamer-schematic-2"),
  ("c_cradle", "Dual canister cradle", "U", "mag", {"hf"}, None, None, 1, "8 bursts before a reload", C + "holliss-hand-flamer-schematic-2"),
- ("c_hstock", "Heavy grip and recoil stock", "C", "stock", {"hs"}, None, None, 1, "recoil 0 braced", C + "morcants-heavy-stubber-schematic-3"),
- ("c_sidegrip", "Angled side grip", "C", "grip", {"hs"}, None, None, 1, "recoil 1 on the move", C + "morcants-heavy-stubber-schematic-3"),
- ("c_openbolt", "Open-bolt feeder", "U", "feeder", {"hs"}, None, None, 1, "Dirty after ~60 shots; a Dirty stubber doesn't jam", C + "morcants-heavy-stubber-schematic-3"),
- ("c_recip", "Light reciprocating parts and plasteel spring", "C", "bolt", {"hs"}, None, None, 1, "strings up to 10, no hit bonuses in the string", C + "morcants-heavy-stubber-schematic-3"),
- ("c_rate", "Rate selector (HIGH)", "R", "selector", {"hs"}, None, None, 1, "HIGH: strings up to 12; Dirty at ~30 and jams on a natural 1; recoil 1 braced, 2 moving", C + "morcants-heavy-stubber-schematic-3"),
- ("c_tripod", "Traverse tripod (ARC fire)", "R", "tripod", {"hs"}, None, None, 1, "set up as a main thing, no recoil; ARC: everyone in the arc -2 on their shots next beat, breaking cover draws a free shot", C + "morcants-heavy-stubber-schematic-3"),
- ("c_twintray", "Twin feed tray", "U", "mag", {"hs"}, None, None, 1, "twice the rounds; two belt types, switched with a lever", C + "morcants-heavy-stubber-schematic-3"),
- ("c_walk", "Walking plate", "R", "muzzle", {"hs"}, None, None, 1, "one string across up to 3 standing abreast; the swap's -1 once per extra target", C + "morcants-heavy-stubber-schematic-3"),
+ ("c_hstock", "Heavy grip and recoil stock", "C", "stock", {"hs"}, None, None, 1, "recoil 0 braced", C + "morcants-heavy-belt-stubber-schematic-3"),
+ ("c_sidegrip", "Angled side grip", "C", "grip", {"hs"}, None, None, 1, "recoil 1 on the move", C + "morcants-heavy-belt-stubber-schematic-3"),
+ ("c_openbolt", "Open-bolt feeder", "U", "feeder", {"hs"}, None, None, 1, "Dirty after ~60 shots; a Dirty stubber doesn't jam", C + "morcants-heavy-belt-stubber-schematic-3"),
+ ("c_recip", "Light reciprocating parts and plasteel spring", "C", "bolt", {"hs"}, None, None, 1, "strings up to 10, no hit bonuses in the string", C + "morcants-heavy-belt-stubber-schematic-3"),
+ ("c_rate", "Rate selector (HIGH)", "R", "selector", {"hs"}, None, None, 1, "HIGH: strings up to 12; Dirty at ~30 and jams on a natural 1; recoil 1 braced, 2 moving", C + "morcants-heavy-belt-stubber-schematic-3"),
+ ("c_tripod", "Traverse tripod (ARC fire)", "R", "tripod", {"hs"}, None, None, 1, "set up as a main thing, no recoil; ARC: everyone in the arc -2 on their shots next beat, breaking cover draws a free shot", C + "morcants-heavy-belt-stubber-schematic-3"),
+ ("c_twintray", "Twin feed tray", "U", "mag", {"hs"}, None, None, 1, "twice the rounds; two belt types, switched with a lever", C + "morcants-heavy-belt-stubber-schematic-3"),
+ ("c_walk", "Walking plate", "R", "muzzle", {"hs"}, None, None, 1, "one string across up to 3 standing abreast; the swap's -1 once per extra target", C + "morcants-heavy-belt-stubber-schematic-3"),
  ("c_rig", "One-piece crossdraw rig", "C", "holster", PIST, None, None, 1, "+1 quick-draw", C + "teys-hellpistol-schematic-4"),
  ("c_bridged", "Bridged double-cell belt pack", "U", "mag", {"lp"}, "hellpistol", None, 1, "60 shots on the cable", C + "teys-hellpistol-schematic-4"),
  ("c_longbarrel", "Long barrel", "C", "barrel", {"lr"}, None, None, 1, "+1 aimed past ~30 m; -1 inside ~5 m", C + "vargas-mercy-schematic-6"),
@@ -283,7 +283,7 @@ SLOTLIMIT = [(re.compile(r"farmer's pump|three-shooter|harrow|trinity|holdout|cu
              (re.compile(r"hell revolver"), {"optic", "laser", "load", "tape"})]  # top and bottom slots only (day 48)  # tape needs no slot
 SKIP = re.compile(r"web pistol|bolt-pipe|rivet gun|harpoon|turret|gauntlet|hellstrike|flare|^'")
 TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b|crossbow"), ("pp", r"plasma pistol"), ("pg", r"plasma gun"), ("bp", r"bolt pistol"),
-         ("hv", r"heavy bolter|autocannon|lascannon|multi-laser"), ("hs", r"heavy stubber"), ("br", r"boltgun|storm bolter|combi-flamer|combi-melta|combi-plasma|bolt carbine"),
+         ("hv", r"heavy bolter|autocannon|lascannon|multi-laser"), ("hs", r"heavy belt stubber|heavy stubber"), ("br", r"boltgun|storm bolter|combi-flamer|combi-melta|combi-plasma|bolt carbine"),
          ("hf", r"hand flamer|wrist flamer"), ("fl", r"flamer|torch-thrower|promethium sprayer"), ("mg", r"meltagun|melta gun|multi-melta|inferno pistol|melta-cutter|improvised melta"),
          ("gl", r"grenade launcher"), ("mo", r"mortar"), ("np", r"needle pistol"), ("nr", r"needle rifle"),
          ("lr", r"shotlas|hell shotgun|las shotgun|hailstorm"), ("smg", r"submachine|machine pistol|rattler|\bsmg\b|chain-fed autopistol"),

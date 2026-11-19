@@ -755,9 +755,9 @@ in the math (`14 + 4 DEX + 2 aimed rifle + 3 eye + 2 order + 2 surprise - 1 airb
    (Varga: reflex sight +2 inside ~30 m, plus the eye's targeter +3). Weapon blessings, crit ranges, the gun's own
    entry (string limit, armour it pierces, quirks).
 6. **The string:** **shot chain** (house rule 6: +2 after a first-shot hit, +1 after later hits, -1 after a
-   miss; some guns differ: the heavy stubber has no hit bonuses), **swapping** (-1 for a different target than
+   miss; some guns differ: the heavy belt stubber has no hit bonuses), **swapping** (-1 for a different target than
    the last shot in the string), **recoil** (each shot after the first: 0 las weapons and stub or auto pistols; 1 autoguns on
-   burst, SMGs, machine pistols, shotguns, revolvers, hand cannons, heavy stubbers braced; 2 bolt weapons, heavy
+   burst, SMGs, machine pistols, shotguns, revolvers, hand cannons, heavy belt stubbers braced; 2 bolt weapons, heavy
    stubbers on the move, anti-materiel rifles), drums (-1 quick-draw), the gun's string limit, **dual pistols** (string doubled, -3 every shot; house rule 5, Dual-wielding).
 7. **Movement:** airborne (own shots -2, traitor elites -1; shots at them -3), run and gun (-2), shooting from
    cover (free), **peek and duck (the first shot of the string -1; Cover)**.
@@ -771,7 +771,7 @@ in the math (`14 + 4 DEX + 2 aimed rifle + 3 eye + 2 order + 2 surprise - 1 airb
 11. **Will checks:** +1 per finished interrogation manual; hard-method +5% and its risk roll.
 
 **Stacking (set by the player, Ash on Ostrava session 10).** The **same effect from two places counts once**
-(a heavy stubber's suppression -2 and the heavy gunner role's -2 are the same effect: one -2; Morcant's specialty is braced fire +2, a different effect). **Different sources add up** (a leader's
+(a heavy belt stubber's suppression -2 and the heavy gunner role's -2 are the same effect: one -2; Morcant's specialty is braced fire +2, a different effect). **Different sources add up** (a leader's
 +1 to the side and a Commander's +2 order both apply: +3 on the ordered action).
 
 ### A beat (set by the player, Ash on Ostrava session 10)
@@ -1092,10 +1092,10 @@ ladder a hit moves you.
 | 1 | Flak | glancing hits, stub and autogun at range | las, hellguns, shotguns up close, chain, frags |
 | 2 | **Reinforced flak** | **stub, autogun and glancing las, fully** | clean las hits, hellguns, shotguns up close, chain, frags |
 | 3 | **Carapace inplate** (new: flak with carapace plates slotted in; a carapace chest plate) | all of the above, **plus las unless the hit is solid, and shotguns at range** | las on a solid hit, hellguns, shotguns up close, blades, chain, frags |
-| 4 | **Carapace / plasteel** | lasguns, autoguns, stub, shotguns at range, most blades, frags (unless the throw was a solid hit) | hellguns, hot-shot, bolters, heavy stubbers, chain, power weapons, plasma, krak |
-| 5 | **Heavy carapace / heavy plasteel** (Skitarii war plate is heavy plasteel) | all of the above, **plus hellguns and heavy stubbers at range** | hellguns and heavy stubbers up close (inside ~15 m), bolters, chain on a solid hit, power weapons, plasma, melta, krak |
-| 6 | **Ceramite** (new: plain ceramite plate) | all of the above, **plus hellguns and heavy stubbers up close unless the hit is solid** | hellguns and heavy stubbers up close on a solid hit, bolters, chain on a solid hit, power weapons, plasma, melta, krak |
-| 7 | **Ceramite-forged** | all of the above, **plus hellguns and heavy stubbers completely** | bolters, chain on a solid hit, power weapons, plasma, melta, krak |
+| 4 | **Carapace / plasteel** | lasguns, autoguns, stub, shotguns at range, most blades, frags (unless the throw was a solid hit) | hellguns, hot-shot, bolters, heavy belt stubbers, chain, power weapons, plasma, krak |
+| 5 | **Heavy carapace / heavy plasteel** (Skitarii war plate is heavy plasteel) | all of the above, **plus hellguns and heavy belt stubbers at range** | hellguns and heavy belt stubbers up close (inside ~15 m), bolters, chain on a solid hit, power weapons, plasma, melta, krak |
+| 6 | **Ceramite** (new: plain ceramite plate) | all of the above, **plus hellguns and heavy belt stubbers up close unless the hit is solid** | hellguns and heavy belt stubbers up close on a solid hit, bolters, chain on a solid hit, power weapons, plasma, melta, krak |
+| 7 | **Ceramite-forged** | all of the above, **plus hellguns and heavy belt stubbers completely** | bolters, chain on a solid hit, power weapons, plasma, melta, krak |
 | 8 | **Adamantium plate** (new) | all of the above, **plus chain weapons, except on a crit** | bolters, power weapons, plasma, melta, krak |
 | 9 | **Heavy adamantium** (new) | the same, and **las can't touch it at all** (Too weak to matter, below); **wears down every 8, not 6** | bolters, power weapons, plasma, melta, krak |
 | 10 | **Semi power armour** (new name: Sisters of Battle; **this is the old 'Power armour' row, unchanged**) | all of the above, **plus plasma unless the hit is solid**; **wears down every 10** | bolters, plasma on a solid hit, melta, power weapons, krak |
@@ -1158,7 +1158,7 @@ ladder a hit moves you.
   | **Ceramite-forged, adamantium plate** | stub and autogun rounds, standard shotgun shells, needle darts, plain blades, frags |
   | **Heavy adamantium, semi power armour, Space Marine armour** | all of the above, **plus las** (lasguns, lascarbines, laspistols) |
 
-  **Still wear it down** at its own rate (6, 8 or 10): hellguns, hot-shot, heavy stubbers, chain
+  **Still wear it down** at its own rate (6, 8 or 10): hellguns, hot-shot, heavy belt stubbers, chain
   weapons. **Armour-piercing loads** (AP, CAP, man-stopper shells, shard darts) count like hellguns here: they can
   wear down ceramite-forged and adamantium plate, nothing heavier. Bolters, plasma, melta, power weapons and kraks already get through.
 - **Shotguns: close blast (set by the player, Ash on Ostrava day 48:** shotguns were 'regular guns but worse'**).** Every
@@ -1205,7 +1205,7 @@ sign of how cheap life is: a stub round costs less than a ration can. In TV
 | Ammunition | Price | Notes |
 | --- | --- | --- |
 | Stub, autogun, shotgun shells | ~1 TV a crate of a few hundred | Bought by the box (aboard, the Light's stock is counted by load: Crew posts, Quartermaster) |
-| Heavy stubber belt | ~1 TV | Cheap; it's weight, not money |
+| Heavy belt stubber belt | ~1 TV | Cheap; it's weight, not money |
 | Las pack | ~0.25 TV | Recharges from any ship's coupling |
 | Hot-shot pack | 1-3 TV | Better packs dearer |
 | Frag / smoke grenade | ~1 TV | |
@@ -1431,7 +1431,7 @@ outcome.** It shows at a glance how dangerous someone is, on one scale for every
 | --- | --- |
 | **Body** | STR + DEX + CON levels, minus 45 (a civilian is about 15 each, so 0) |
 | **Skill** | Civilian 0 · cultist 30 · ganger, raider or pirate 40 · Guard or traitor soldier 50 · veteran or officer 60-70 · storm trooper or Scion-trained 80 · player character **10 × level**. Plus **+20** for a specialist role (or the Commander role), **+10** per specialty (a trainee's young focus +5) |
-| **Weapons** | Best weapon: scrap blade 20 · scrap gun 35 · common gun or blade 50 · hellgun-class 70 · heavy or special (bolter, plasma, chainsword, power weapon, launcher, heavy stubber) 90 · exotic 120. **+15** masterwork, blessed or a true custom build · **+10** per extra weapon (up to +30) · **+5 per fitted attachment** on any carried weapon, one per slot (up to +30; repairs and internals don't count) |
+| **Weapons** | Best weapon: scrap blade 20 · scrap gun 35 · common gun or blade 50 · hellgun-class 70 · heavy or special (bolter, plasma, chainsword, power weapon, launcher, heavy belt stubber) 90 · exotic 120. **+15** masterwork, blessed or a true custom build · **+10** per extra weapon (up to +30) · **+5 per fitted attachment** on any carried weapon, one per slot (up to +30; repairs and internals don't count) |
 | **Armour** | None 0 · rags or coat 5 · flak 20 · reinforced flak 25 · carapace inplate (or a carapace chest plate) 30 · carapace / plasteel 40 · heavy carapace / heavy plasteel (or a heavy front) 50 · ceramite 55 · ceramite-forged 60 · adamantium plate 70 · heavy adamantium 80 · semi power armour 100 · Space Marine armour 120 (the 11 tiers, day 48; an armour class counts as its tier). **+10** shield · **+20** refractor · **+30** conversion field |
 | **Kit** | **+5** per grenade type carried (up to 20) · augmetic eye 5-25 (shooting eye 20, sensor-type optics 15) · lift or jump pack 15 · auspex 10 · stimms or drag-harness medic kit 5 |
 
@@ -1629,7 +1629,7 @@ are in the catalogue (kit). The **Jumper** role is in the bestiary (roles).
 **-1**. **Recoil:** every gun has a rating; each shot in a string **after the first** takes
 **-recoil**: **0** las weapons (lasguns, hellguns, laspistols, hellpistols) and stub/auto
 pistols; **1** autoguns on burst, SMGs and machine pistols, shotguns, revolvers, hand cannons;
-**2** bolt weapons, heavy stubbers on the move (1 braced), anti-materiel rifles. **Slots:** a gun takes **one
+**2** bolt weapons, heavy belt stubbers on the move (1 braced), anti-materiel rifles. **Slots:** a gun takes **one
 attachment per slot**. The full slot list (guns and melee) is on the attachment sheet: `wh40k_gear/catalogue/attachments.md`, The rollable list, Slots.
 No hard cap on bonuses; nearly every attachment carries a real downside; the few that don't are priced for it. **A gun's optic and a HUD
 eye's aim bonus stack** (changed by the player, Ash on Ostrava day 34: otherwise the optic is just decor). Attachments are in the
@@ -1669,7 +1669,7 @@ quartermaster: people hand their guns in to him and he cleans them.**
 **Pack sizes (set by the player, Ash on Ostrava session 10):** a **hot-shot pack** (hellguns, hellpistols, hot-shot conversions) holds **30 shots**; a **regular las pack** (lasguns, lascarbines, laspistols) holds **45**. Special packs keep their own numbers (catalogue). **Swapping a pack or a magazine mid-fight is the beat's main thing** (settled by the player, day 48: no shooting the same beat without Action Surge; a top-up from an unused string and Run and reload stay as written in A beat).
 
 **Magazines (set by the player, Ash on Ostrava day 48).** Magazine-fed guns (stub pistols, autopistols, autoguns,
-SMGs and machine pistols, box-fed shotguns, box-fed heavy stubbers and LMGs) use **magazines, which are items.** Not las
+SMGs and machine pistols, box-fed shotguns, box-fed heavy belt stubbers and LMGs) use **magazines, which are items.** Not las
 packs (they recharge), not belts, and not guns loaded round by round (revolvers, tube-fed shotguns, lever-actions:
 they top up as A beat says).
 - **Every gun comes with one magazine.** Spare magazines are bought or looted, and carried on the Full kit table.
@@ -1692,7 +1692,7 @@ they top up as A beat says).
 **Refractor field (set by the player, session 9; reworked session 10).** A worn field
 generator. **Light hits** (anything carapace would shrug off: stub, autogun, las, shotgun
 at range, shrapnel, ordinary blades) are **stopped automatically**; the air shimmers.
-**Heavy hits** (anything that gets through carapace: hellguns, bolters, heavy stubbers,
+**Heavy hits** (anything that gets through carapace: hellguns, bolters, heavy belt stubbers,
 power, chain and plasma weapons): **roll a d6, 5-6 the field takes it.** **Overload:** it
 stops at most **3 light hits in one beat**; a 4th or more that beat get through and the
 field is **down for the rest of that beat** while it resets, **and back on the next beat** (set by the player,

@@ -57,7 +57,7 @@ add("stub","U","MBF",[("Auto-revolver, 'Hammerfall' pattern, stub barrel (8-roun
 add("gear","C","MBF",[("Speedloader (auto-revolver)",0.25)])
 # Player designs (session 9): Solid Hive, Siege Breaker, Solid Frontier. Rules in catalogue/stub.md.
 add("stub","U","MBF",[("Compact autogun, 'Solid Hive' pattern (top 50-round mag; chains of 8; +1 within 10 m, -2 past 30 m)",3)])
-add("stub","R","MBF",[("Anti-materiel rifle, 'Siege Breaker' pattern (heavy stubber rounds, 5-round box; through cover; 2 steps a hit; braced)",15)])
+add("stub","R","MBF",[("Anti-materiel rifle, 'Siege Breaker' pattern (heavy belt stubber rounds, 5-round box; through cover; 2 steps a hit; braced)",15)])
 add("stub","U","MBF",[("Lever-action stub rifle, 'Solid Frontier' pattern (12-round tube; never jams; chains of 6, or 3 double-lever shots)",2.5)])
 add("stub","U","BF",[("Twin-barrel autopistol, 'Ironside Hydra' pattern (stub; 40-round mag; strings of 16; heat 1 per 8; jams on a 1-2; +1 quick-draw)",3)])
 add("stub","U","BF",[("Silenced submachine gun, 'Solid Whisper' pattern (subsonic stub; not heard past 10 m; strings of 6, no recoil)",4),("Boarding SMG, Navy 'Gyre' pattern (gyro: no recoil in zero-g; caseless; strings of 8)",5)])
@@ -123,11 +123,11 @@ add("flame","U","MBEF",[("Flamer, Ryza pattern (~13 m gout, ~5 m wide; no roll t
 add("flame","R","MF",[("Heavy flamer (~20 m gout; two steps in the ~6 m core; 8 bursts; STR 30+ to move)",20),("Incinerator (blessed fuel)",25)])
 # --- Launchers / heavy ---
 add("launcher","U","MF",[("Grenade launcher, stand-alone",5),("Grenade launcher, revolver-drum",8)])
-add("heavy","C","MBF",[("Heavy stubber",4),("Heavy stubber, tripod",5)])
+add("heavy","C","MBF",[("Heavy belt stubber",4),("Heavy belt stubber, tripod",5)])
 # Player design (Ash on Ostrava day 44): rules in catalogue/heavy.md.
-add("heavy","R","MBF",[("Brute stubber, 'Bone'ead Deddog' pattern (brutes only, STR 50+; heavy stubber belts; strings of 8; recoil 1 on the move; -2 past ~30 m)",6)])
-add("heavy","R","MBF",[("Twin-linked heavy stubber, 'Bullgryn' pattern (brutes only, STR 50+; strings of 16, -1 a shot, no sight; -3 suppression; belt box, 3 strings, 2 beats to seat)",12)])
-add("ammo","C","MBF",[("Twin-linked belt box (two heavy stubber belts)",2)])
+add("heavy","R","MBF",[("Brute stubber, 'Bone'ead Deddog' pattern (brutes only, STR 50+; heavy belt stubber belts; strings of 8; recoil 1 on the move; -2 past ~30 m)",6)])
+add("heavy","R","MBF",[("Twin-linked heavy belt stubber, 'Bullgryn' pattern (brutes only, STR 50+; strings of 16, -1 a shot, no sight; -3 suppression; belt box, 3 strings, 2 beats to seat)",12)])
+add("ammo","C","MBF",[("Twin-linked belt box (two heavy belt stubber belts)",2)])
 add("heavy","R","MF",[("Hellstrike launcher, 'Bone'ead' pattern (Ogryn; brutes only, STR 50+; one Valkyrie Hellstrike a shot, reload a beat; two steps through power armour, ~4 m blast; backblast)",30)])
 # Ammo audit (Ash on Ostrava day 45): refills for guns whose ammo was missing. Exotics stay scarce on purpose.
 add("ammo","U","B",[("Shock shells (box; Arbites combat shotgun)",1.5),("Subsonic stub rounds (box; Solid Whisper)",0.75)])
@@ -152,11 +152,11 @@ add("explosive","U","MBF",[("Thrown demo satchel with paired detonator (mag-clam
 add("explosive","U","MBF",[("Air-frag 'blender' grenade (heavy shrapnel, 2-second fuse, ricochets)",2)])
 add("explosive","R","BF",[("Phosphex canister (forbidden)",15),("Shrapnel mine",3)])
 # --- Ammunition ---
-add("ammo","C","MBF",[("Las pack",0.25),("Stub/auto rounds (box)",0.5),("Shotgun shells (box)",0.5),("Heavy stubber belt",1)])
+add("ammo","C","MBF",[("Las pack",0.25),("Stub/auto rounds (box)",0.5),("Shotgun shells (box)",0.5),("Heavy belt stubber belt",1)])
 add("ammo","U","MAF",[("Hot-shot pack (Guard)",1),("Hot-shot pack (Mechanicus pattern; one armour tier harder, 20 shots)",3),("Bolt rounds (10)",8),("Stubber drum magazine",1.5),("Man-stopper shells (box; armour-piercing slugs: one target, through carapace on a solid hit inside ~15 m)",1),("Dragon's breath shells (box; incendiary: shot at -1 on his next shot, hit -2; a raw 17+ sets him alight)",2),("Extended las pack",0.75),("Extended hot-shot pack",1.5)])
 add("ammo","R","MF",[("Kraken-pattern bolt rounds (10, Astartes; through an APC's armour, +1 aimed past ~30 m)",20),("Hellfire shells (box; bio-acid: a hit that gets through, CON vs 10 or one more step)",4)])
-add("ammo","U","MBF",[("Heavy stubber belt, hollow point (expanding: brutal on flesh and flak, carapace shrugs it)",2),("Heavy stubber belt, inferno (incendiary: a raw 17+ sets them alight)",3)])
-add("ammo","R","MAF",[("Heavy stubber belt, tungsten-core (AP: through heavy carapace at any range)",6),("Heavy stubber belt, hellfire (bio-acid: a hit that gets through, CON vs 10 or one more step)",10)])
+add("ammo","U","MBF",[("Heavy belt stubber belt, hollow point (expanding: brutal on flesh and flak, carapace shrugs it)",2),("Heavy belt stubber belt, inferno (incendiary: a raw 17+ sets them alight)",3)])
+add("ammo","R","MAF",[("Heavy belt stubber belt, tungsten-core (AP: through heavy carapace at any range)",6),("Heavy belt stubber belt, hellfire (bio-acid: a hit that gets through, CON vs 10 or one more step)",10)])
 # --- Melee ---
 add("melee","C","MB",[("Combat knife",0.25),("Bayonet",0.25),("Entrenching tool",0.25),("Trench club",0.25),("Cadian machete",0.5)])
 add("melee","U","MBF",[("Navy cutlass",2),("Chainsword",6),("Chain axe",8),("Shock maul",7),("Mono-knife",3),("Krieg trench shovel (sharpened)",0.5),("Officer's sabre",3),("Chain knife",3),("Shock baton (Arbites)",4)])
@@ -394,7 +394,7 @@ E = {
  "raider": {
   "weapon": [("Pipe rifle (scrap)","C"),("Rattler (scrap SMG)","C"),("Junk shotgun (scrap double-pipe)","C"),("Nailer (scrap scattergun)","C"),("Torch-thrower (scrap flamer)","C"),("Rivet gun (scrap)","U"),("Battery las (scrap)","U"),("Sump harpoon (scrap)","U"),("Bolt-pipe (scrap, one bolt round)","R"),("Autogun, Agripinaa","C"),("Autopistol","C"),("Stub automatic","C"),("Combat shotgun, pump","C"),
              ("Ganger's chain-fed autopistol","U"),("Hive-gang 'scattergun'","U"),("Auto-revolver, 'Hammerfall' pattern, stub barrel","U"),("Braced autogun (heavy barrel)","U"),
-             ("Hand cannon, 'Magnum Six' pattern","U"),("Ripper gun / drum-fed shotgun","R"),("Heavy stubber","R")],
+             ("Hand cannon, 'Magnum Six' pattern","U"),("Ripper gun / drum-fed shotgun","R"),("Heavy belt stubber","R")],
   "melee":  [("Hive shank (scrap knife)","C"),("Combat knife","C"),("Combat axe, Rashad pattern","C"),("Scrap throwing knives (set of 4)","C"),("Pipe pick (scrap war pick)","C"),("Railroad spike knife","C"),("Chain-flail (scrap)","C"),("Scrap axe","C"),("Heavy scrap axe","C"),("Rivet knuckles","C"),("Saw-cleaver","C"),
              ("Chain knife","U"),("Shock baton (Arbites, stolen)","U"),("Mono-knife","U"),("Chain axe","R")],
   "armour": [("Leathers, no armour","C"),("Flak vest","C"),("Flak armour set","U"),("Mesh armour (light, quiet)","U"),("Arbites carapace (stolen)","R")],
@@ -450,7 +450,7 @@ SPEC = {
  "cultist": {
   "sniper":      [("Long-las, Mezoa (stolen) + laspistol","U"),("Scoped autogun + stub revolver","C"),("Vraks-pattern sniper autorifle","R")],
   "grenadier":   [("Bag of 4 frags + autopistol","C"),("4 pipe-bombs + stub revolver","C"),("Grenade launcher (stolen) + 6 frag rounds","R")],
-  "heavy":       [("Heavy stubber + 2 belts","U"),("Braced autogun with drum","C"),("Heavy bolter, Guard pattern (stolen, 1 belt)","R")],
+  "heavy":       [("Heavy belt stubber + 2 belts","U"),("Braced autogun with drum","C"),("Heavy bolter, Guard pattern (stolen, 1 belt)","R")],
   "assassin":    [("Silenced stub pistol + mono-knife","U"),("Needle-blade (toxin) + throwing knives","U"),("Garrotte + chain knife","C")],
   "flamer":      [("Hand flamer + 1 canister","U"),("Flamer, Ryza pattern (stolen) + 2 canisters","R"),("Promethium sprayer (homemade; short reach, leaks on a 1)","C")],
   "demolitions": [("Demo satchel + detonator","U"),("3 krak grenades (stolen)","R"),("Mining charges x2 + stub pistol","C")],
@@ -461,7 +461,7 @@ SPEC = {
  "raider": {
   "sniper":      [("Scoped autogun + autopistol","C"),("Long-las, Mezoa + heavy laspistol","U"),("Vraks-pattern sniper autorifle","R")],
   "grenadier":   [("Bandolier of 4 frags + 2 smoke + autopistol","C"),("Grenade launcher + 6 rounds","U")],
-  "heavy":       [("Heavy stubber + 2 belts","U"),("Ripper gun / drum-fed shotgun","U"),("Bolted-together drum autogun","C")],
+  "heavy":       [("Heavy belt stubber + 2 belts","U"),("Ripper gun / drum-fed shotgun","U"),("Bolted-together drum autogun","C")],
   "assassin":    [("Silenced stub pistol + mono-knife","U"),("Throwing knives + chain knife","C"),("Needle-blade (toxin)","R")],
   "flamer":      [("Hand flamer + 1 canister","U"),("Flamer + 2 canisters","R")],
   "demolitions": [("Demo satchel + detonator","U"),("Breaching charges x2","U"),("Melta bomb (stolen)","R")],
@@ -472,7 +472,7 @@ SPEC = {
  "pirate": {
   "sniper":      [("Long-las, Mezoa + laspistol","U"),("Scoped lascarbine + stub revolver","C"),("Long-las, Helbore","R")],
   "grenadier":   [("Bag of 4 frags + 2 smoke + autopistol","C"),("Grenade launcher + 6 rounds","U")],
-  "heavy":       [("Heavy stubber + 2 belts","U"),("Ripper gun / drum-fed shotgun","U"),("Multi-laser, man-portable","R")],
+  "heavy":       [("Heavy belt stubber + 2 belts","U"),("Ripper gun / drum-fed shotgun","U"),("Multi-laser, man-portable","R")],
   "assassin":    [("Silenced stub pistol + mono-knife","U"),("Plasteel throwing knives, 'Callidus' (set of 6) + cutlass","R"),("Garrotte + combat knife","C")],
   "flamer":      [("Hand flamer + 1 canister","U"),("Flamer + 2 canisters","U")],
   "demolitions": [("Breaching charges x2 + pump shotgun","U"),("Demo satchel + detonator","U"),("Melta bomb","R")],
@@ -485,7 +485,7 @@ SPEC = {
 SPEC["traitor"] = {
   "sniper":      [("Long-las, Mezoa + laspistol","U"),("Scoped lasgun + laspistol","C"),("Long-las, Helbore","R")],
   "grenadier":   [("Grenade launcher + 6 frag, 2 krak rounds","U"),("Bag of 4 frags + 2 kraks + lasgun","C")],
-  "heavy":       [("Heavy stubber + 2 belts (two-man team)","U"),("Heavy bolter, Guard pattern (two-man team)","R"),("Braced autogun, 'Graia' pattern","C")],
+  "heavy":       [("Heavy belt stubber + 2 belts (two-man team)","U"),("Heavy bolter, Guard pattern (two-man team)","R"),("Braced autogun, 'Graia' pattern","C")],
   "plasma gunner": [("Plasma gun, Mars pattern (slow-filled cell) + laspistol","R"),("Meltagun + laspistol","R"),("Hellgun with hot-shot packs","U")],
   "flamer":      [("Flamer, Ryza pattern + 2 canisters","U"),("Hand flamer + lasgun","U")],
   "demolitions": [("Demo satchel + detonator + lasgun","U"),("Breaching charges x2 + 2 kraks","U")],
@@ -535,14 +535,14 @@ SPEC["traitor_elite"] = {
 # were already one-man.
 for k in ("traitor","traitor_elite"):
     SPEC[k]["heavy team"] = SPEC[k].pop("heavy")
-SPEC["traitor"]["heavy gunner"] = [("Heavy stubber + 2 belts, carried","C"),("Braced autogun, 'Graia' pattern","C"),("Ripper gun / drum-fed shotgun","U"),("Las-box, 'Kasr Barr' light las-LMG","R")]
-SPEC["traitor_elite"]["heavy gunner"] = [("Las-box, 'Kasr Barr' light las-LMG","U"),("Hot-shot volley gun","U"),("Heavy stubber with drum mag, carried","C"),("Multi-laser, man-portable, carried","R")]
+SPEC["traitor"]["heavy gunner"] = [("Heavy belt stubber + 2 belts, carried","C"),("Braced autogun, 'Graia' pattern","C"),("Ripper gun / drum-fed shotgun","U"),("Las-box, 'Kasr Barr' light las-LMG","R")]
+SPEC["traitor_elite"]["heavy gunner"] = [("Las-box, 'Kasr Barr' light las-LMG","U"),("Hot-shot volley gun","U"),("Heavy belt stubber with drum mag, carried","C"),("Multi-laser, man-portable, carried","R")]
 # Jumper (player design, Ash on Ostrava session 9): all five types.
 SPEC["commoner"] = {
   "leader":      [("Headman: stub revolver and a loud voice","C"),("Militia captain: old PDF officer's laspistol + chainsword","U")],
   "medic":       [("Lay healer: field dressings, two stimms, a prayer book","C")],
   "sniper":      [("Hunter: hunting stub rifle with an old scope","C"),("Hunter: Solid Frontier lever-action","U")],
-  "heavy gunner":[("Braced autogun, 'Graia' pattern","U"),("Old heavy stubber from the PDF armoury, 1 belt","R")],
+  "heavy gunner":[("Braced autogun, 'Graia' pattern","U"),("Old heavy belt stubber from the PDF armoury, 1 belt","R")],
   "grenadier":   [("Bag of 4 fire bottles + stub revolver","C"),("2 mining charges + pump shotgun","U")],
   "tracker":     [("Herder: grox-prod and a hunting rifle","C")],
   "beast handler":[("3 farm hounds + pump shotgun","C")],
@@ -577,8 +577,8 @@ for k,pil in {"raider":[("Scav-rigged gunship keys + stub pistol","U")],"pirate"
 for k in ("cultist","raider","pirate"):
     SPEC[k]["heavy gunner"] = SPEC[k].pop("heavy")
 # Heavy team for raiders and pirates too; berserker for every type (player-set).
-SPEC["raider"]["heavy team"] = [("Heavy stubber on a tripod (two-man team)","C"),("Autocannon, salvaged (two-man team)","R"),("Mortar with 6 rounds (two-man team)","U")]
-SPEC["pirate"]["heavy team"] = [("Heavy stubber on a tripod (two-man team)","C"),("Heavy bolter, stolen (two-man team)","R"),("Multi-laser on a deck mount (two-man team)","U")]
+SPEC["raider"]["heavy team"] = [("Heavy belt stubber on a tripod (two-man team)","C"),("Autocannon, salvaged (two-man team)","R"),("Mortar with 6 rounds (two-man team)","U")]
+SPEC["pirate"]["heavy team"] = [("Heavy belt stubber on a tripod (two-man team)","C"),("Heavy bolter, stolen (two-man team)","R"),("Multi-laser on a deck mount (two-man team)","U")]
 BERSERK = {
   "cultist": [("Great chain axe, Butcher pattern + 2 doses of Frenzon (roaring)","R"),("Chain axe + 4 doses of Frenzon (frothing, chanting)","U"),("Cleaver and spiked club + 3 doses of slaught","C"),("Chainsword + 4 doses of Frenzon","U"),("Eviscerator + 5 doses of Frenzon","R")],
   "raider":  [("Chain axe + 3 doses of slaught","U"),("Two hive shanks + 4 doses of Frenzon","C"),("Spiked knuckle-duster blades + 3 doses of Frenzon","C"),("Chainsword + 5 doses of slaught","R")],
@@ -595,7 +595,7 @@ NEW = {
   "cultist": [("Mutant brute: huge rusted cleaver, slab of scrap armour","C"),("Mutant brute: chained engine-block flail","U"),("Mutant brute: two-handed eviscerator","R")],
   "raider":  [("Brute: sledgehammer and a door for a shield","C"),("Brute: chain axe in each hand","U"),("Brute: stolen Ogryn ripper gun and a club","R")],
   "traitor": [("Renegade Ogryn: ripper gun and slab shield","U"),("Renegade Ogryn: grenadier gauntlet","R"),("Penal brute: maul and a stolen trench club","C")],
-  "traitor_elite": [("Renegade Ogryn bodyguard: power maul and slab shield","R"),("Renegade Ogryn: heavy stubber, carried","U")],
+  "traitor_elite": [("Renegade Ogryn bodyguard: power maul and slab shield","R"),("Renegade Ogryn: heavy belt stubber, carried","U")],
  },
  "icon bearer": {
   "cultist": [("Cult icon: a chalk gate on a pole of bones + autopistol","C"),("Daemon-touched icon that whispers + chain knife","R"),("God-banner of stitched skin + stub revolver","U")],
@@ -651,7 +651,7 @@ NEW = {
   "cultist": [("Ogryn: slab shield and a spiked club","C"),("Ogryn: ripper gun, chains wrapped round its fists","U"),("Ogryn: a cult-forged maul and a chain of skulls","U")],
   "raider":  [("Ogryn: slab shield and power maul (stolen)","U"),("Ogryn: ripper gun and a girder","C"),("Ogryn: grenadier gauntlet","R")],
   "pirate":  [("Ogryn: slab shield and boarding maul","C"),("Ogryn: ripper gun","U"),("Ogryn: grenadier gauntlet","R")],
-  "traitor": [("Ogryn: slab shield and power maul","U"),("Ogryn: ripper gun","C"),("Ogryn: grenadier gauntlet","R"),("Ogryn: Hellstrike launcher, Bone'ead pattern, and 2 missiles","R"),("Ogryn: twin-linked heavy stubber, Bullgryn pattern, and a spare box","U")],
+  "traitor": [("Ogryn: slab shield and power maul","U"),("Ogryn: ripper gun","C"),("Ogryn: grenadier gauntlet","R"),("Ogryn: Hellstrike launcher, Bone'ead pattern, and 2 missiles","R"),("Ogryn: twin-linked heavy belt stubber, Bullgryn pattern, and a spare box","U")],
   "traitor_elite": [("Ogryn bone'ead: slab shield and power maul","U"),("Ogryn: ripper gun with a bayonet","U"),("Ogryn: grenadier gauntlet","R")],
  },
 }

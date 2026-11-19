@@ -51,7 +51,7 @@ Proud, ornate, and carrying the best family heirlooms.
 Catachan jungle fighters gone renegade: the deadliest light infantry the Guard
 ever made, now working for whoever pays.
 - **Look:** sleeveless fatigues, red bandanas, huge knives, muscles, face paint.
-- **Weapons:** Kantrael lasguns, flamers, heavy stubbers, Catachan fang knives,
+- **Weapons:** Kantrael lasguns, flamers, heavy belt stubbers, Catachan fang knives,
   booby traps.
 - **Tactics:** ambush specialists: traps, tripwires, hidden positions, then a short
   violent fight with knives. In the dark or the jungle, assume they're already

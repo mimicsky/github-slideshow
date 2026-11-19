@@ -149,7 +149,7 @@ one is a real boss fight: las can't touch him, and hellguns only hurt on a crit 
 - **Reaver captain** (a human boss). A void-pirate lord with a stolen signature piece and an honour guard of
   boarders. **Ranged threat:** his ship (a boarding torpedo or a gunship on call, once a fight).
 - **Boarding servitor.** A pirate's combat servitor: a lobotomised hulk of armour and heavy weapons. Monster
-  template, **armour class heavy carapace** (plate bolted to the frame: it can't be stripped), **no fear**, **ranged threat:** its arm-mounted heavy stubber or flamer; **phase 2:** its limiter
+  template, **armour class heavy carapace** (plate bolted to the frame: it can't be stripped), **no fear**, **ranged threat:** its arm-mounted heavy belt stubber or flamer; **phase 2:** its limiter
   burns out: it attacks anything that moves.
 
 ### Traitor elites

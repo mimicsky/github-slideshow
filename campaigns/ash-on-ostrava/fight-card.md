@@ -32,7 +32,7 @@ It is steps 6-9 of the campaign README's Fight checklist in short; steps 1-5 (wh
 ## 4. Strings (shots)
 - **Chain:** the first shot **hits: +2** to the next; a later shot **hits: +1**; any **miss: -1**; only the last shot's result counts, never stacked (codex, HR6 Shot chains).
 - **Length:** **3** shots by default, or the gun's own limit; **Tamsin +1** on every string (Extra Attack) (codex, A beat; sheet, Tamsin's standing modifiers).
-- **Recoil**, every shot after the first: **0** las weapons and stub/auto pistols; **1** autoguns on burst, SMGs and machine pistols, shotguns, revolvers, hand cannons, a braced heavy stubber; **2** bolt weapons, a heavy stubber on the move, anti-materiel rifles (codex, Gear rules: Swapping, recoil and attachment slots).
+- **Recoil**, every shot after the first: **0** las weapons and stub/auto pistols; **1** autoguns on burst, SMGs and machine pistols, shotguns, revolvers, hand cannons, a braced heavy belt stubber; **2** bolt weapons, a heavy belt stubber on the move, anti-materiel rifles (codex, Gear rules: Swapping, recoil and attachment slots).
 - **Bolters need STR (day 48):** pistols 20, bolt-pipe 25, boltguns 30, storm bolter 30 (40 one-handed), heavy bolter 50 from the hip; **under it -2 every shot, +1 recoil**. In the Light: Tamsin, Kell, Morcant, Sorel, Corvane fire boltguns; Dace, Hollis, Varga, Tavi, Brenner, Sallow, Isk pistols only; Tey, Nessa, Mira, Teo, Ferro under 20.
 - **Precision Sacrifice (any gun; day 47):** give up shots from the string for **+1 each on the one shot fired** (Vigil: one shot at +3), **up to +3**. **Every gear ability: 3-beat cooldown** (used beat 1, ready beat 4) (`abilities.md`).
 - **Fan the Hammer (revolvers; day 47):** the whole cylinder (up to 6) in one string, **-2 every shot**, no hit bonuses; both hands; then it's empty (reload next beat). Corvane's revolver.
@@ -77,10 +77,10 @@ It is steps 6-9 of the campaign README's Fight checklist in short; steps 1-5 (wh
 | 1 | Flak | glancing hits; stub and autogun at range | las, hellguns, shotguns up close, chain, frags |
 | 2 | Reinforced flak | stub, autogun and glancing las, fully | clean las hits, hellguns, shotguns up close, chain, frags |
 | 3 | **Carapace inplate** (plates on flak; a chest plate) | the above + las unless the hit is solid; shotguns at range | las on a solid hit, hellguns, shotguns up close, blades, chain, frags |
-| 4 | **Carapace / plasteel** | lasguns, autoguns, stub, shotguns at range, most blades, frags (unless the throw was a solid hit) | hellguns, hot-shot, bolters, heavy stubbers, chain, power weapons, plasma, krak |
-| 5 | **Heavy carapace / heavy plasteel** | the above + hellguns and heavy stubbers at range | hellguns and heavy stubbers up close (inside ~15 m), bolters, chain on a solid hit, power weapons, plasma, melta, krak |
-| 6 | **Ceramite** | the above + hellguns and heavy stubbers up close unless the hit is solid | those on a solid hit; bolters, chain on a solid hit, power weapons, plasma, melta, krak |
-| 7 | Ceramite-forged | the above + hellguns and heavy stubbers completely | bolters, chain on a solid hit, power weapons, plasma, melta, krak |
+| 4 | **Carapace / plasteel** | lasguns, autoguns, stub, shotguns at range, most blades, frags (unless the throw was a solid hit) | hellguns, hot-shot, bolters, heavy belt stubbers, chain, power weapons, plasma, krak |
+| 5 | **Heavy carapace / heavy plasteel** | the above + hellguns and heavy belt stubbers at range | hellguns and heavy belt stubbers up close (inside ~15 m), bolters, chain on a solid hit, power weapons, plasma, melta, krak |
+| 6 | **Ceramite** | the above + hellguns and heavy belt stubbers up close unless the hit is solid | those on a solid hit; bolters, chain on a solid hit, power weapons, plasma, melta, krak |
+| 7 | Ceramite-forged | the above + hellguns and heavy belt stubbers completely | bolters, chain on a solid hit, power weapons, plasma, melta, krak |
 | 8 | **Adamantium plate** | the above + chain, except on a crit | bolters, power weapons, plasma, melta, krak |
 | 9 | **Heavy adamantium** | the same; las can't touch it; wears down every 8 | bolters, power weapons, plasma, melta, krak |
 | 10 | **Semi power armour** (Sisters; the old 'power armour') | the above + plasma unless the hit is solid; wears down every 10 | bolters, plasma on a solid hit, melta, power weapons, krak |

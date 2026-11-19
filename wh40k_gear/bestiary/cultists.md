@@ -103,7 +103,7 @@ is rolled as traitor elites and half as cultists; all of them play as cultists**
 the Blood Pact: the warhost's attack dogs.
 - **Look:** crude red paint over stolen Guard gear, shaved heads branded with Sek's
   sigil, chains wound round the arms.
-- **Weapons:** autoguns, Lucius lasguns, heavy stubbers, cleavers and chain axes.
+- **Weapons:** autoguns, Lucius lasguns, heavy belt stubbers, cleavers and chain axes.
 - **Tactics:** waves. They come all at once, screaming, berserkers in front, and
   they don't care how many fall. Make them come through a doorway.
 

@@ -635,7 +635,7 @@ first reload each fight costs no time.
 ## Anti-materiel rifle, 'Siege Breaker' pattern
 
 **Anti-materiel rifle, 'Siege Breaker' pattern** (player design, Ash on Ostrava session
-9; rare, 15 TV; Munitorum, black market, Free Traders). Fires **heavy stubber rounds**
+9; rare, 15 TV; Munitorum, black market, Free Traders). Fires **heavy belt stubber rounds**
 one at a time from a **5-round box**. **Shoots through cover** (crates, thin
 bulkheads, servitors, light vehicles). **A hit drops the target two health steps**
 and goes through carapace on any hit. **Must be braced** on its bipod or on cover

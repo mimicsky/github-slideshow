@@ -1,6 +1,6 @@
 # Gear catalogue: table of contents
 
-**Maker names (the player, day 48):** each family has its own: **Kasr** las · **Hell** hellguns · **Solid** autoguns, stub rifles, stub SMGs · **Magnum** heavy stub guns · **Siege** heavy stubber guns · **Breach** shotguns · **Ironside** stub pistols · **Forge** melee · **Sol** plasma · **Hunter** bows and crossbows · **Asp** needle guns · **Throne** human bolt guns · **Bone'ead** Ogryn guns. (Until day 48 nearly everything was 'Kasr'; the book keeps the old names.)
+**Maker names (the player, day 48):** each family has its own: **Kasr** las · **Hell** hellguns · **Solid** autoguns, stub rifles, stub SMGs · **Magnum** heavy stub guns · **Siege** heavy belt stubber guns · **Breach** shotguns · **Ironside** stub pistols · **Forge** melee · **Sol** plasma · **Hunter** bows and crossbows · **Asp** needle guns · **Throne** human bolt guns · **Bone'ead** Ogryn guns. (Until day 48 nearly everything was 'Kasr'; the book keeps the old names.)
 
 **[Gear abilities](abilities.md)** (day 47): abilities that come from what someone carries (Plant, for shields, and more as they're designed); each lists its items, and each item's entry has an **Abilities:** line pointing back.
 
@@ -358,20 +358,20 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 ## [Heavy and vehicle weapons](heavy.md)
 
 - [Heavy bolter, Guard pattern](heavy.md#heavy-bolter-guard-pattern) (crew-served; strings of 6; heavy bolts +1 step)
-- [Heavy stubber](heavy.md#heavy-stubber)
+- [Heavy belt stubber](heavy.md#heavy-belt-stubber)
 - [Autocannon](heavy.md#autocannon) (strings of 3; two steps on a person; APCs)
 - [Autocannon shells, special](heavy.md#autocannon-shells-special-loads) (flak, penetrator, incendiary HE)
 - [Multi-laser packs, special](heavy.md#multi-laser-packs-special-loads) (overcharged, extended)
 - [Missile launcher](heavy.md#missile-launcher) (frag ~5 m blast; krak through power armour; backblast)
 - [Lascannon, man-portable](heavy.md#lascannon-man-portable) (two steps on a person; 1 hull point; braced)
 - [Lascannon packs, special](heavy.md#lascannon-packs-special-loads) (Mechanicus, extended, battery)
-- [Heavy stubber, 'Siege Junker' pattern (scrap)](heavy.md#heavy-stubber-siege-junker-pattern-scrap)
-- [Heavy stubber, 'Siege Rattler' light pattern](heavy.md#heavy-stubber-siege-rattler-light-pattern) (one man, on the move)
-- [Heavy stubber, 'Siege Whirlwind' rotary pattern](heavy.md#heavy-stubber-siege-whirlwind-rotary-pattern) (spin-up, strings of 16)
+- [Heavy belt stubber, 'Siege Junker' pattern (scrap)](heavy.md#heavy-belt-stubber-siege-junker-pattern-scrap)
+- [Heavy belt stubber, 'Siege Rattler' light pattern](heavy.md#heavy-belt-stubber-siege-rattler-light-pattern) (one man, on the move)
+- [Heavy belt stubber, 'Siege Whirlwind' rotary pattern](heavy.md#heavy-belt-stubber-siege-whirlwind-rotary-pattern) (spin-up, strings of 16)
 - [Auto-sentry, 'Siege Sentry' pattern](kit.md#auto-sentry-siege-sentry-pattern) (gear: fires on its own)
-- [Heavy stubber belts, special](heavy.md#heavy-stubber-belts-special) (hollow point, inferno, tungsten-core, hellfire)
+- [Heavy belt stubber belts, special](heavy.md#heavy-belt-stubber-belts-special) (hollow point, inferno, tungsten-core, hellfire)
 - [Brute stubber, 'Bone'ead Deddog' pattern](heavy.md#brute-stubber-boneead-deddog-pattern) (brutes only, STR 50+)
-- [Twin-linked heavy stubber, 'Bullgryn' pattern](heavy.md#twin-linked-heavy-stubber-bullgryn-pattern) (brutes only, strings of 16)
+- [Twin-linked heavy belt stubber, 'Bullgryn' pattern](heavy.md#twin-linked-heavy-belt-stubber-bullgryn-pattern) (brutes only, strings of 16)
 - [Hellstrike launcher, 'Bone'ead' pattern (Ogryn)](heavy.md#hellstrike-launcher-boneead-pattern-ogryn) (brutes only, Valkyrie missiles)
 - [Man-portable multi-laser](heavy.md#man-portable-multi-laser)
 - [Valkyrie bolt-rocket pods, pair](heavy.md#valkyrie-bolt-rocket-pods-pair)
