@@ -4487,6 +4487,13 @@
   "sellers": "B"
  },
  {
+  "name": "Heavy auto rounds (crate; Rampart guns: flak and reinforced flak at any range, carapace inplate on a hit, carapace 2 toward wear-down)",
+  "tv": 1,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
   "name": "Reinforced flak helmet",
   "tv": 0.75,
   "cat": "armour",

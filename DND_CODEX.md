@@ -1169,6 +1169,9 @@ ladder a hit moves you.
   slug (man-stopper) has no spread:** no close blast, no clip. **A gun whose hits go weak past its own range** (the
   junk shotgun past ~8 m, the nailer past ~5 m) **has no close blast past it.** Standard shells get through no
   armour, flak, reinforced flak and carapace inplate up close; carapace only on a solid hit; -2 past ~15 m.
+- **Heavy auto rounds (set by the player, Ash on Ostrava day 48):** a heavier autogun calibre (the Rampart guns): **through
+  flak and reinforced flak at any range, carapace inplate on a hit; carapace shrugs them but each shrugged hit counts 2
+  toward wear-down** (catalogue stub.md, Heavy auto rounds).
 - **Heavy stub rounds (set by the player, Ash on Ostrava day 47):** a thicker stub calibre (hand cannons, the Orlock,
   the Macragge): **through flak at any range, reinforced flak inside ~15 m, carapace only on a crit** (catalogue
   stub.md, Heavy stub rounds).

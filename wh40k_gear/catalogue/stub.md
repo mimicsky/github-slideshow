@@ -630,6 +630,15 @@ The player's picks, Ash on Ostrava day 48: guns he likes, done as **heavy stub**
 
 **Lieutenant's carbine, 'Magnum Warrant' pattern** (rare, 15 TV). Based on the UDP-9. **Ornamental:** silvered and engraved (**no bonus from the silver**). An AR-style compact carbine with **a 50-round drum**: **strings of 9, recoil 2; jams on a natural 1-2.** **A flared magwell and a last-round hold-open: a reload is the beat's short move.** It also takes Magnum Block magazines. Every slot.
 
+## Heavy auto rounds
+
+**Heavy auto rounds** (common, 1 TV a crate of a few hundred; Munitorum, black market, Free Traders; set by the player,
+Ash on Ostrava day 48: **a heavier autogun calibre, as a 7.62 is to a 5.56**, 'something that can touch carapace but
+not go through it'). Their own calibre: they fit only the guns built for them (the **Rampart** family), not standard
+autoguns. **The bullet does the job:** **through flak and reinforced flak at any range; through carapace inplate on a
+hit; carapace shrugs them, but every shrugged hit counts 2 toward wear-down** (a crit still lands 1 step, as any
+crit); heavy carapace and heavier shrug them with normal wear-down. The special autogun loads come in heavy auto too.
+
 ## Stub and autogun rounds (special loads)
 
 **Stub and autogun rounds, special loads** (player picks, Ash on Ostrava day 36; Munitorum, black market,
