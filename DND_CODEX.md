@@ -819,6 +819,33 @@ What the DM has always done, written down so anyone can run it.
   vehicles, beasts or daemons at the charge) +3**. **A jumper who is simply in the air is not abnormally fast:** shots at
   him take only Airborne's -3 (Gear rules, Airborne); the +3 comes on top only during a Dive (settled by the player, day 48). **A small or precise shot** (an arm, a leg, a lamp, a hand): **+1**. (Both set by the player, day 47.)
   The shooter's total (roll checklist) must reach it. Melee between people uses the exchange (house rule 5) instead.
+
+- **Throwing grenades (set by the player, Ash on Ostrava day 48).** **d20 + DEX** (the roll checklist's bonuses
+  that apply: proficiency, a grenadier's +2, Good arm +1, Cook Off +1) against **the number for the spot**:
+
+  | Distance | Feet | Target |
+  | --- | --- | --- |
+  | 1-10 m | 3-33 ft | **7** |
+  | 11-20 m | 36-66 ft | **13** |
+  | 21-30 m | 69-98 ft | **16** |
+  | 31-40 m | 102-131 ft | **20** |
+  | 41-60 m | 135-197 ft | **26** (the player: 'there could be a Tom Brady, but in Warhammer') |
+
+  **STR 50+: +2 on throws past 30 m** (a strong arm carries it). **A small spot** (a window, a doorway, a vent) **+1**;
+  **a spot he can't see +4**, unless someone calls it for him. **Cover and movement don't add:** he throws at a spot, and
+  grenades ignore cover that doesn't close over the target. Launchers and mortars keep their own ranges.
+  - **The throw decides where it lands:** **beats it by 3+ (solid):** on the spot, and **a frag gets through carapace**;
+    **a hit:** on the spot, full effect; **a miss by 1-2:** close, **half effect** (house rule 1); **a miss by 3+:** off
+    target, where the DM places it.
+  - **After it lands:** not cooked, anyone near it can **dive clear (DEX) or throw it back**; cooked ([Cook Off](wh40k_gear/catalogue/abilities.md#cook-off)),
+    it bursts on landing (and a natural 1-2 goes off in his hand). A tin-can bomb has a fuse, not a pin: its own d6
+    for timing (catalogue explosives.md).
+  - **A crit (his normal crit range: a natural 20 for most; Tamsin 19-20):** it lands perfectly: **the one it lands on
+    drops one extra step** (shrapnel in the face, a fragment through a gap); against armour that would shrug it, 1.0
+    flat (as any crit). **Each grenade has a ceiling, its Too weak to matter line** (Part 8, Armour): **a frag's crit
+    reaches up to ceramite (tier 6) and never ceramite-forged or heavier** (no gap in power armour or the plate just
+    below it); **a tin-can bomb's up to reinforced flak**; **a krak already gets through everything** (its crit is the
+    extra step). Everyone else in the blast takes the normal effect.
 - **Damage:** a hit drops the target **one health step, 1.0** (5.0 Fine → 4.0 Grazed → 3.0 Hurt → 2.0 Badly hurt → 1.0 Down; house rule 4),
   **unless their armour stops that kind of weapon** (Part 8, Armour: "shrugs off" means no step for that hit, but **shrugged hits wear them down**: every 6 drop a step, 8 for heavy adamantium, 10 for the two power armours; day 47, tiers day 48).
   Bigger tracks (zealots, Skitarii, Ogryns, brutes, bosses) start above 5.0; a half step is 0.5 (house rule 4).

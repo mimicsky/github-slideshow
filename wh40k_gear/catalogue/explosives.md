@@ -2,6 +2,8 @@
 
 Item rules for this category. General rules (heat, hot-shot, drop-prone, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules**.
 
+**Throwing any grenade:** ranges, the spot's number, where it lands and crits: codex Part 6/8, Shots and hits, **Throwing grenades** (day 48).
+
 **Every timed grenade (thrown, not launched; not impact grenades) has [Cook Off](abilities.md#cook-off)** (bursts on landing, +1 on the throw, a natural 1-2 goes off in hand; day 47).
 
 ## Plasma tripwire mine
