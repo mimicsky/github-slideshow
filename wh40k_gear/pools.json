@@ -4641,6 +4641,27 @@
   "sellers": "MBF"
  },
  {
+  "name": "Haemostat (clot stim; stops bleeding; parched after)",
+  "tv": 1,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Vitae regen stim (+0.5 now, +0.5 next beat; one healing stim a day; ravenous after)",
+  "tv": 1.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Analgesia stim (one step better for the dose and 0.5 back; one healing stim a day; drowsy after)",
+  "tv": 1.5,
+  "cat": "gear",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Remote detonator (4 receivers; wires into any charge or trip wire; ~300 m)",
   "tv": 1.5,
   "cat": "explosive",

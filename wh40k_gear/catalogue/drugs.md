@@ -33,6 +33,19 @@ weeks becomes 4-7 days). **Risk:** on a Down or dying patient the medic rolls d2
 injection: 1-3 the heart can't take it (they stay Down; the next beat decides). One course
 per injury; a second dose on the same wound does nothing more.
 
+## Medical stims (day 48)
+
+Designed with the player, Ash on Ostrava day 48 (numbers the DM's). **Every medical stim has a downside** (the player:
+'stims should have a downside'). **One healing stim a day per person:** a second that day does nothing but give its
+downside ('so you can't pop 5 and be fine'). Doses, length and the crash: codex Gear rules (Doses), where a stim
+says it lasts.
+
+| Stim | What it does | Downside | Rarity, price |
+| --- | --- | --- | --- |
+| **Haemostat** (clot stim) | **Stops bleeding at once** (codex HR4, Bleeding), and he **can't start bleeding again this fight.** | **Parched:** -1 on rolls until he drinks | uncommon, 1 TV |
+| **Vitae regen stim** | **Minor healing: +0.5 now and +0.5 next beat** (1.0 in all). **The day's healing stim.** | **Ravenous:** -1 on rolls until he eats (within the hour) | uncommon, 1.5 TV |
+| **Analgesia stim** | **A painkiller and a little healing:** he fights as one health step better for the dose (as Morphia), **and 0.5 back.** **The day's healing stim.** | **Drowsy:** when it wears off, -1 on Perception and shots for the rest of the fight | uncommon, 1.5 TV |
+
 ## Combat drugs
 
 **Combat drugs** (uncommon, 1.5 TV a dose; one at a time): **Quicksilver** (+2
