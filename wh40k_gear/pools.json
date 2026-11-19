@@ -875,6 +875,13 @@
   "sellers": "MAF"
  },
  {
+  "name": "Bolt marksman rifle, 'Throne Recluse' pattern (based on the REC7)",
+  "tv": 20,
+  "cat": "bolt",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
   "name": "Macragge service pistol (Ultramarines; heavy stub, 12 rounds, laser/light module, compensator)",
   "tv": 35,
   "cat": "stub",
@@ -1048,6 +1055,13 @@
   "cat": "plasma",
   "rarity": "R",
   "sellers": "MAF"
+ },
+ {
+  "name": "Plasma carbine, 'Sol Mutant' pattern (based on the MK47 Mutant)",
+  "tv": 30,
+  "cat": "plasma",
+  "rarity": "R",
+  "sellers": "AF"
  },
  {
   "name": "Meltagun (two steps through any armour inside ~15 m; any vehicle; 6 shots a canister)",
@@ -4333,6 +4347,146 @@
   "sellers": "MF"
  },
  {
+  "name": "Autogun, 'Solid Viper' bullpup pattern (based on the Tavor X95)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Autogun, 'Solid Workhorse' pattern (based on the M27 IAR)",
+  "tv": 2,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Autogun, 'Solid Ripsaw' pattern (based on the KCR 556)",
+  "tv": 4,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Autogun, 'Solid Patriot' pattern (based on the M4)",
+  "tv": 2.5,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Autogun, 'Solid Piston' pattern (based on the SIG516)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Autogun, 'Solid Czech' pattern (based on the CZ Bren 2)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Semi-auto carbine, 'Solid Stripper' pattern (based on the SKS)",
+  "tv": 1,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Autogun, 'Twelve' pattern (scrap) (based on the AK-12)",
+  "tv": 1,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Autogun, 'Bottle-opener' pattern (scrap) (based on the Galil)",
+  "tv": 1,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Bullpup autogun, 'Thunder' pattern (scrap) (based on the Groza)",
+  "tv": 1.5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Battle rifle, 'Rampart Spear' pattern (based on the MCX Spear)",
+  "tv": 12,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Battle rifle, 'Rampart Scarab' pattern (based on the SCAR)",
+  "tv": 8,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Battle rifle, 'Rampart Sergeant' pattern (based on the AK-308)",
+  "tv": 6,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Battle rifle, 'Rampart Bronze' close pattern (based on the G3)",
+  "tv": 5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Battle rifle, 'Rampart Rightarm' pattern (based on the FAL)",
+  "tv": 6,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Marksman rifle, 'Rampart Longwatch' pattern (based on the RSASS)",
+  "tv": 14,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Marksman rifle, 'Rampart Chassis' pattern (based on the MK14 EBR)",
+  "tv": 12,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Marksman rifle, 'Siege Twinshot' pattern (based on the M400 SDIX)",
+  "tv": 30,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Combat shotgun, 'Breach Hush' suppressed pattern (based on the UTS-15)",
+  "tv": 8,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Combat shotgun, 'Breach Squire' bullpup pattern (based on the Escort BTS)",
+  "tv": 5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
   "name": "Tin-can bomb (light it; ~3 m weak frag; the timing's off, duds on a 1)",
   "tv": 0.1,
   "cat": "explosive",
@@ -4968,6 +5122,48 @@
   "cat": "las",
   "rarity": "U",
   "sellers": "MBF"
+ },
+ {
+  "name": "Lasgun, 'Kasr Clarion' bullpup pattern (based on the FAMAS)",
+  "tv": 1.5,
+  "cat": "las",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Lasgun, 'Kasr Sentinel' pattern (based on the G36)",
+  "tv": 3,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Lasgun, 'Kasr Augur' bullpup pattern (based on the AUG)",
+  "tv": 4,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Lasgun, 'Kasr Arrow' marksman pattern (based on the ARX160)",
+  "tv": 4,
+  "cat": "las",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Hellgun, 'Hell Complete' pattern (based on the XM8)",
+  "tv": 8,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Hellgun, 'Hell Modular' pattern (based on the HK433)",
+  "tv": 8,
+  "cat": "las",
+  "rarity": "R",
+  "sellers": "MAF"
  },
  {
   "name": "Scrap chainsword (scrap teeth: carapace on a solid hit; -1 parry; pull-cord start, d4 1 won't catch; stalls on a raw 1)",

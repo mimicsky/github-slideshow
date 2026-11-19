@@ -25,6 +25,14 @@ player's idea, rule written day 47). A cell from before the knowledge decayed. *
 it's done. Fits any plasma pistol or plasma gun. On the [attachment sheet](attachments.md#the-rollable-list) (it takes
 the cell's place, so not with a tuned cell).
 
+## Plasma carbine (day 48)
+
+The player's picks, day 48: real rifles done in their ammo families. **The rounds do the hurting; each gun has its own lean instead.**
+
+### Plasma carbine, 'Sol Mutant' pattern
+
+**Plasma carbine, 'Sol Mutant' pattern** (rare, 30 TV; based on the MK47 Mutant; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Something cool** (the player): a plasma carbine fed by **AK-style cell magazines** (a cell swaps like a magazine: the main thing; 8 shots a standard cell). **Strings of 3**; plasma punch and plasma heat (1 per 2 shots; vent at 3). **The mutation mode:** hold it a beat to charge (the main thing): **the next shot goes through power armour on any hit, for +2 heat.**
+
 ## Plasma blaster, twin-cell 'Lumen' pattern
 
 **Plasma blaster, twin-cell 'Lumen' pattern** (player design, rare, 35 TV). A

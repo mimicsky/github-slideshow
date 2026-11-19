@@ -108,6 +108,22 @@
    [
     "Grease gun (scrap SMG)",
     "C"
+   ],
+   [
+    "Semi-auto carbine, 'Solid Stripper' pattern",
+    "U"
+   ],
+   [
+    "Autogun, 'Twelve' pattern (scrap)",
+    "C"
+   ],
+   [
+    "Autogun, 'Bottle-opener' pattern (scrap)",
+    "C"
+   ],
+   [
+    "Bullpup autogun, 'Thunder' pattern (scrap)",
+    "U"
    ]
   ],
   "melee": [
@@ -908,6 +924,34 @@
    [
     "Grease gun (scrap SMG)",
     "C"
+   ],
+   [
+    "Autogun, 'Solid Viper' bullpup pattern",
+    "U"
+   ],
+   [
+    "Autogun, 'Solid Ripsaw' pattern",
+    "U"
+   ],
+   [
+    "Semi-auto carbine, 'Solid Stripper' pattern",
+    "C"
+   ],
+   [
+    "Autogun, 'Twelve' pattern (scrap)",
+    "C"
+   ],
+   [
+    "Autogun, 'Bottle-opener' pattern (scrap)",
+    "C"
+   ],
+   [
+    "Bullpup autogun, 'Thunder' pattern (scrap)",
+    "U"
+   ],
+   [
+    "Battle rifle, 'Rampart Rightarm' pattern",
+    "R"
    ]
   ],
   "melee": [
@@ -1739,6 +1783,42 @@
    [
     "Heavy SMG, 'Magnum Knight' pattern",
     "U"
+   ],
+   [
+    "Lasgun, 'Kasr Augur' bullpup pattern",
+    "U"
+   ],
+   [
+    "Autogun, 'Solid Viper' bullpup pattern",
+    "U"
+   ],
+   [
+    "Autogun, 'Solid Workhorse' pattern",
+    "C"
+   ],
+   [
+    "Autogun, 'Solid Ripsaw' pattern",
+    "U"
+   ],
+   [
+    "Autogun, 'Solid Patriot' pattern",
+    "C"
+   ],
+   [
+    "Autogun, 'Solid Czech' pattern",
+    "U"
+   ],
+   [
+    "Battle rifle, 'Rampart Bronze' close pattern",
+    "U"
+   ],
+   [
+    "Battle rifle, 'Rampart Rightarm' pattern",
+    "U"
+   ],
+   [
+    "Combat shotgun, 'Breach Squire' bullpup pattern",
+    "U"
    ]
   ],
   "melee": [
@@ -2450,6 +2530,58 @@
    ],
    [
     "Heavy SMG, 'Magnum Utility' pattern",
+    "U"
+   ],
+   [
+    "Lasgun, 'Kasr Clarion' bullpup pattern",
+    "C"
+   ],
+   [
+    "Lasgun, 'Kasr Sentinel' pattern",
+    "U"
+   ],
+   [
+    "Lasgun, 'Kasr Arrow' marksman pattern",
+    "U"
+   ],
+   [
+    "Autogun, 'Solid Viper' bullpup pattern",
+    "U"
+   ],
+   [
+    "Autogun, 'Solid Workhorse' pattern",
+    "C"
+   ],
+   [
+    "Autogun, 'Solid Patriot' pattern",
+    "C"
+   ],
+   [
+    "Autogun, 'Solid Piston' pattern",
+    "U"
+   ],
+   [
+    "Autogun, 'Solid Czech' pattern",
+    "U"
+   ],
+   [
+    "Battle rifle, 'Rampart Scarab' pattern",
+    "R"
+   ],
+   [
+    "Battle rifle, 'Rampart Sergeant' pattern",
+    "U"
+   ],
+   [
+    "Battle rifle, 'Rampart Bronze' close pattern",
+    "U"
+   ],
+   [
+    "Battle rifle, 'Rampart Rightarm' pattern",
+    "U"
+   ],
+   [
+    "Combat shotgun, 'Breach Squire' bullpup pattern",
     "U"
    ]
   ],
@@ -3202,6 +3334,14 @@
    [
     "Grease gun (scrap SMG)",
     "U"
+   ],
+   [
+    "Lasgun, 'Kasr Clarion' bullpup pattern",
+    "U"
+   ],
+   [
+    "Semi-auto carbine, 'Solid Stripper' pattern",
+    "C"
    ]
   ],
   "melee": [
@@ -3571,6 +3711,54 @@
    [
     "Heavy SMG, 'Magnum Dart' pattern",
     "R"
+   ],
+   [
+    "Lasgun, 'Kasr Augur' bullpup pattern",
+    "U"
+   ],
+   [
+    "Hellgun, 'Hell Complete' pattern",
+    "U"
+   ],
+   [
+    "Hellgun, 'Hell Modular' pattern",
+    "U"
+   ],
+   [
+    "Plasma carbine, 'Sol Mutant' pattern",
+    "R"
+   ],
+   [
+    "Autogun, 'Solid Patriot' pattern",
+    "U"
+   ],
+   [
+    "Battle rifle, 'Rampart Spear' pattern",
+    "U"
+   ],
+   [
+    "Battle rifle, 'Rampart Scarab' pattern",
+    "U"
+   ],
+   [
+    "Marksman rifle, 'Rampart Longwatch' pattern",
+    "R"
+   ],
+   [
+    "Marksman rifle, 'Rampart Chassis' pattern",
+    "R"
+   ],
+   [
+    "Marksman rifle, 'Siege Twinshot' pattern",
+    "R"
+   ],
+   [
+    "Bolt marksman rifle, 'Throne Recluse' pattern",
+    "R"
+   ],
+   [
+    "Combat shotgun, 'Breach Hush' suppressed pattern",
+    "U"
    ]
   ],
   "melee": [

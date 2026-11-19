@@ -630,6 +630,50 @@ The player's picks, Ash on Ostrava day 48: guns he likes, done as **heavy stub**
 
 **Lieutenant's carbine, 'Magnum Warrant' pattern** (rare, 15 TV). Based on the UDP-9. **Ornamental:** silvered and engraved (**no bonus from the silver**). An AR-style compact carbine with **a 50-round drum**: **strings of 9, recoil 2; jams on a natural 1-2.** **A flared magwell and a last-round hold-open: a reload is the beat's short move.** It also takes Magnum Block magazines. Every slot.
 
+## Solid autoguns (day 48)
+
+The player's picks, day 48: real rifles done in their ammo families. **The rounds do the hurting; each gun has its own lean instead.** Autogun rounds.
+
+### Autogun, 'Solid Viper' bullpup pattern
+
+**Autogun, 'Solid Viper' bullpup pattern** (uncommon, 3 TV; based on the Tavor X95; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Fast but jam-prone:** strings of 8; 30 rounds; **jams on a natural 1-2 in strings of 6 or more.** Bullpup.
+
+### Autogun, 'Solid Workhorse' pattern
+
+**Autogun, 'Solid Workhorse' pattern** (common, 2 TV; based on the M27 IAR; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Cheap but OK:** auto strings of 6; **+1 on aimed shots** (a free-floated barrel); 30 rounds.
+
+### Autogun, 'Solid Ripsaw' pattern
+
+**Autogun, 'Solid Ripsaw' pattern** (uncommon, 4 TV; based on the KCR 556; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Super fast, hard kick:** strings of 12, **recoil 3**; a 60-round magazine.
+
+### Autogun, 'Solid Patriot' pattern
+
+**Autogun, 'Solid Patriot' pattern** (common, 2.5 TV; based on the M4; the player's pick, Ash on Ostrava day 48; numbers the DM's). **The most moddable:** every attachment slot, and **+25% chance to roll attachments every time** (the roller). Auto strings of 6; 30 rounds.
+
+### Autogun, 'Solid Piston' pattern
+
+**Autogun, 'Solid Piston' pattern** (uncommon, 3 TV; based on the SIG516; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Stays clean:** a piston drive: **it only goes Dirty after its second fight.** Auto strings of 6; 30 rounds.
+
+### Autogun, 'Solid Czech' pattern
+
+**Autogun, 'Solid Czech' pattern** (uncommon, 3 TV; based on the CZ Bren 2; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Light and handy:** +1 on quick-draws and on swapping targets. Auto strings of 6; 30 rounds.
+
+### Semi-auto carbine, 'Solid Stripper' pattern
+
+**Semi-auto carbine, 'Solid Stripper' pattern** (common, 1 TV; based on the SKS; the player's pick, Ash on Ostrava day 48; numbers the DM's). **The poor man's rifle:** cheap; a **10-round fixed magazine loaded from a stripper clip** (a clip is the main thing); a **folding bayonet** built in; **jams on a natural 1-2.** Semi-auto strings of 3.
+
+### Autogun, 'Twelve' pattern (scrap)
+
+**Autogun, 'Twelve' pattern (scrap)** (common, 1 TV; based on the AK-12; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Tough:** mud and water never jam it. **Loose sights: -1 on aimed shots.** Auto strings of 6; 30 rounds. Scrap.
+
+### Autogun, 'Bottle-opener' pattern (scrap)
+
+**Autogun, 'Bottle-opener' pattern (scrap)** (common, 1 TV; based on the Galil (which really had one); the player's pick, Ash on Ostrava day 48; numbers the DM's). **Fast, jam-prone:** strings of 8; **scrap quirk: jams on a natural 1-3.** 35 rounds.
+
+### Bullpup autogun, 'Thunder' pattern (scrap)
+
+**Bullpup autogun, 'Thunder' pattern (scrap)** (uncommon, 1.5 TV; based on the Groza; the player's pick, Ash on Ostrava day 48; numbers the DM's). A scrap bullpup with **an under-barrel scrap launcher** (a one-shot pipe-bomb tube: a pipe-bomb to ~40 m; refilled as the main thing). Auto strings of 6; **scrap quirk: jams on a natural 1-3.**
+
 ## Heavy auto rounds
 
 **Heavy auto rounds** (common, 1 TV a crate of a few hundred; Munitorum, black market, Free Traders; set by the player,
@@ -638,6 +682,38 @@ not go through it'). Their own calibre: they fit only the guns built for them (t
 autoguns. **The bullet does the job:** **through flak and reinforced flak at any range; through carapace inplate on a
 hit; carapace shrugs them, but every shrugged hit counts 2 toward wear-down** (a crit still lands 1 step, as any
 crit); heavy carapace and heavier shrug them with normal wear-down. The special autogun loads come in heavy auto too.
+
+## Rampart heavy auto rifles (day 48)
+
+The player's picks, day 48: real rifles done in their ammo families. **The rounds do the hurting; each gun has its own lean instead.** [Heavy auto rounds](#heavy-auto-rounds).
+
+### Battle rifle, 'Rampart Spear' pattern
+
+**Battle rifle, 'Rampart Spear' pattern** (rare, 12 TV; based on the MCX Spear (the player's favourite); the player's pick, Ash on Ostrava day 48; numbers the DM's). **Very reliable: it never jams, even Dirty.** **Long range: no -2 until past ~150 m.** **A short magazine: 15.** Strings of 3, recoil 1.
+
+### Battle rifle, 'Rampart Scarab' pattern
+
+**Battle rifle, 'Rampart Scarab' pattern** (uncommon, 8 TV; based on the SCAR; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Slow but accurate:** strings of 3, **recoil 1, +1 on aimed shots.** 20 rounds.
+
+### Battle rifle, 'Rampart Sergeant' pattern
+
+**Battle rifle, 'Rampart Sergeant' pattern** (uncommon, 6 TV; based on the AK-308; the player's pick, Ash on Ostrava day 48; numbers the DM's). **The sergeant's gun:** a tough AK action (**mud and water never jam it**); strings of 4, recoil 2; 20 rounds.
+
+### Battle rifle, 'Rampart Bronze' close pattern
+
+**Battle rifle, 'Rampart Bronze' close pattern** (uncommon, 5 TV; based on the G3 (Bronze); the player's pick, Ash on Ostrava day 48; numbers the DM's). **Semi-auto close quarters:** a short barrel: **+1 inside ~15 m, -2 past ~40 m.** Strings of 3, recoil 2; 20 rounds.
+
+### Battle rifle, 'Rampart Rightarm' pattern
+
+**Battle rifle, 'Rampart Rightarm' pattern** (uncommon, 6 TV; based on the FAL, 'the right arm of the free world'; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Rugged: a Neglected one still fires as if only Dirty.** Strings of 3, recoil 2; 20 rounds.
+
+### Marksman rifle, 'Rampart Longwatch' pattern
+
+**Marksman rifle, 'Rampart Longwatch' pattern** (rare, 14 TV; based on the RSASS; the player's pick, Ash on Ostrava day 48; numbers the DM's). **The marksman:** a built-in scope (**+2 on aimed shots past ~60 m**; it fills the optic slot); **no -2 until past ~150 m.** Strings of 2, recoil 1; 20 rounds.
+
+### Marksman rifle, 'Rampart Chassis' pattern
+
+**Marksman rifle, 'Rampart Chassis' pattern** (rare, 12 TV; based on the MK14 EBR; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Very accurate semi-auto:** **+2 on aimed shots;** a heavy chassis stock: **recoil 1.** Strings of 2; 20 rounds.
 
 ## Stub and autogun rounds (special loads)
 
@@ -656,6 +732,18 @@ roll, AP and CAP count as rare** (only there; the shop rarity below stands: the 
 | **HV** (high velocity) | stub, auto | uncommon, 1 TV a box | Hot load, light bullet. **+1 on aimed shots past 30 m; flak doesn't shrug it at range.** The hot powder fouls the gun: **each HV shot counts as 2 toward Dirty**; in a never-jam gun (the Solid Frontier) **the string takes -1 after 20 HV rounds until the gun is cleaned** (changed with the player, day 36 cleanup) |
 | **Flat-tip** (the player's design) | stub | uncommon, 0.75 TV a box | A regular round, except against armour it can't get through: **a shrugged flat-tip hit counts as 2 shrugged hits toward wear-down** (Armour, wear-down: every 6 drop a step). **Ceramite-forged and power armour: no wear-down at all** (stub is too weak to matter: codex, Armour) |
 | **CAP** (ceramite-tipped armour-piercing) | auto | uncommon, 2 TV a box | A ceramite tip on a steel core (changed by the player, day 36: tipped, not cored, so it's cheap enough to use; a hot-shot pack does the same for free). **Flak and reinforced flak don't shrug it; through carapace on a solid hit at any range.** Heavy carapace and heavier shrug it (changed with the player, day 36 cleanup). Punches through flesh like AP (**against no armour, a crit drops just one step**) |
+
+## Breach shotguns (day 48)
+
+The player's picks, day 48: real rifles done in their ammo families. **The rounds do the hurting; each gun has its own lean instead.** Shotgun shells and the close blast.
+
+### Combat shotgun, 'Breach Hush' suppressed pattern
+
+**Combat shotgun, 'Breach Hush' suppressed pattern** (rare, 8 TV; based on the UTS-15; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Integrally suppressed: not heard past ~10 m** (the muzzle slot is the suppressor). **A 20-round magazine;** strings of 3, recoil 1. Standard shotgun rules.
+
+### Combat shotgun, 'Breach Squire' bullpup pattern
+
+**Combat shotgun, 'Breach Squire' bullpup pattern** (uncommon, 5 TV; based on the Escort BTS; the player's pick, Ash on Ostrava day 48; numbers the DM's). **A bullpup semi-auto:** strings of 4, recoil 1; **a 20-round box.**
 
 ## Shotgun shells (special loads)
 
@@ -736,6 +824,14 @@ when it runs dry the empty clip pings out, and **anyone within ~20 m hears that 
 break-action, like a pellet gun made for .50). **One round: break it, load it, close it: the beat's main thing.** **Its
 thing: it never jams, even Dirty** (no scrap quirk). **The long barrel: +1 on aimed shots.** **A padded stock: STR 35.**
 **Slots: optic and sling.**
+
+## Siege marksman rifle (day 48)
+
+The player's picks, day 48: real rifles done in their ammo families. **The rounds do the hurting; each gun has its own lean instead.**
+
+### Marksman rifle, 'Siege Twinshot' pattern
+
+**Marksman rifle, 'Siege Twinshot' pattern** (rare, 30 TV; based on the M400 SDIX; the player's pick, Ash on Ostrava day 48; numbers the DM's). Heavy belt stubber rounds. **Twin barrels: each shot fires 2 rounds at the same point, so a hit counts as two hits** (two rounds; the player: a gun that fires twice a shot). **No -2 until past ~150 m.** **Braced, or -3; STR 40.** One shot a beat; **a 10-round box: 5 shots.**
 
 ## Anti-materiel rifle, 'Siege Breaker' pattern
 

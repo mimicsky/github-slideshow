@@ -281,13 +281,14 @@ SLOTLIMIT = [(re.compile(r"farmer's pump|three-shooter|harrow|trinity|holdout|cu
              (re.compile(r"outrider"), {"laser", "muzzle", "load", "tape"}),
              (re.compile(r"siege ping"), {"trigger", "barrel", "grip", "sleeve", "load"}),  # internal mods only (day 48)
              (re.compile(r"siege hinge"), {"optic", "sling", "load", "tape"}),
-             (re.compile(r"gutter smg|grease gun"), {"load", "tape"}),  # scrap SMGs (day 48)
+             (re.compile(r"gutter smg|grease gun"), {"load", "tape"}),
+             (re.compile(r"hell complete"), {"load"}),  # a full setup: no attachments (day 48)  # scrap SMGs (day 48)
              (re.compile(r"magnum firebrand"), {"muzzle", "laser", "load", "tape"}),
              (re.compile(r"condemnor"), {"string", "bowsight"}),  # stakes, not arrows (day 48)  # the stockless lever shotgun (day 48)  # the line shotgun (day 48)  # the folding breacher: no slots (day 48)  # the officer's shell revolver (day 48)  # the drum auto-shotgun (day 48)  # over-under pump: optic and muzzles only (day 48)  # the revolving shotgun: optic and under-barrel only (day 48)
              (re.compile(r"hell revolver"), {"optic", "laser", "load", "tape"})]  # top and bottom slots only (day 48)  # tape needs no slot
 SKIP = re.compile(r"web pistol|bolt-pipe|rivet gun|harpoon|turret|gauntlet|hellstrike|flare|^'")
-TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b|crossbow"), ("pp", r"plasma pistol"), ("pg", r"plasma gun"), ("bp", r"bolt pistol"),
-         ("hv", r"heavy bolter|autocannon|lascannon|multi-laser"), ("hs", r"heavy belt stubber(?! pistol)|heavy stubber"), ("br", r"boltgun|storm bolter|combi-flamer|combi-melta|combi-plasma|bolt carbine"),
+TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b|crossbow"), ("pp", r"plasma pistol"), ("pg", r"plasma gun|plasma carbine"), ("bp", r"bolt pistol"),
+         ("hv", r"heavy bolter|autocannon|lascannon|multi-laser"), ("hs", r"heavy belt stubber(?! pistol)|heavy stubber"), ("br", r"bolt marksman|boltgun|storm bolter|combi-flamer|combi-melta|combi-plasma|bolt carbine"),
          ("hf", r"hand flamer|wrist flamer"), ("fl", r"flamer|torch-thrower|promethium sprayer"), ("mg", r"meltagun|melta gun|multi-melta|inferno pistol|melta-cutter|improvised melta"),
          ("gl", r"grenade launcher"), ("mo", r"mortar"), ("np", r"needle pistol"), ("nr", r"needle rifle"),
          ("lr", r"shotlas|hell shotgun|las shotgun|hailstorm"), ("smg", r"submachine|machine pistol|rattler|\bsmg\b|chain-fed autopistol"),
@@ -295,18 +296,18 @@ TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b|crossbow"), (
          ("sp", r"heavy belt stubber pistol|autopistol|revolver|stub pistol|stub automatic|hand cannon|boarding pistol|hammerfall|pipe pistol|three-shooter|burst pistol"),
          ("sg", r"shotgun|sawn-off|scattergun|nailer|ripper gun"),
          ("lr", r"lasgun|lascarbine|hellgun|long-las|las-box|las-lmg|volley gun|battery las"),
-         ("sr", r"autogun|autorifle|stub rifle|lever-action|pipe rifle|hunting rifle|anti-materiel|battle rifle|break-action rifle|commissar's carbine|lieutenant's carbine")]
+         ("sr", r"autogun|autorifle|stub rifle|lever-action|pipe rifle|hunting rifle|anti-materiel|battle rifle|break-action rifle|commissar's carbine|lieutenant's carbine|semi-auto carbine|bullpup autogun|marksman rifle(?!.*twinshot)")]
 MTYPES = [("sh", r"shield"), ("pw", r"power (sword|axe|maul|knife|fist|mace|blade|odachi)|(?<!scrap )thunder hammer|relic blade"),
           ("ch", r"chainsword|chain axe|chain-axe|chain knife|chain glaive|chain blade|eviscerator|chain glove|chain short-sword"),
           ("bl", r"knife|machete|cutlass|sabre|sword|cleaver|axe|shank|blade|stiletto|shovel"),
           ("bt", r"club|maul|mace|hammer|flail|baton|prod|knuckle|girder|pick\b|pry-bar|crowbar|truncheon|cosh|morning star|pernach"),
           ("st", r"^(?!.*goad).*(\bstaff\b|\bstave\b)")]
-BUILTIN = [("optic", r"scope|range-finder|sprinter|kasr lance|exemplar|cognis"), ("mag", r"drum|100-shot box|las luger|hell revolver"),
+BUILTIN = [("optic", r"scope|range-finder|sprinter|kasr lance|exemplar|cognis|kasr sentinel|kasr augur|hell complete|rampart longwatch"), ("mag", r"drum|100-shot box|las luger|hell revolver"),
            ("laser", r"kasr tether|cognis"), ("counter", r"exemplar"),
-           ("muzzle", r"silenced|suppressed"), ("bayonet", r"bayonet|krieg"), ("tripod", r"tripod"),
+           ("muzzle", r"silenced|suppressed|breach hush"), ("bayonet", r"bayonet|krieg"), ("tripod", r"tripod"),
            ("barrel", r"heavy barrel|long barrel|long-barrel|stub barrel"), ("stock", r"folding stock"),
            ("load", r"arrows|mortar.*(smoke|krak)"),
-           ("mgrip", r"pernach"), ("pommel", r"pernach"), ("stock", r"hailstorm|switchback|carousel"), ("under", r"breakwater"), ("sleeve", r"magnum universal"), ("trigger", r"magnum centurion"), ("mag", r"lieutenant's carbine")]  # the pernach's built-in ergo grip and banner (day 48)  # a kit that names its arrows has its load
+           ("mgrip", r"pernach"), ("pommel", r"pernach"), ("stock", r"hailstorm|switchback|carousel"), ("under", r"breakwater|kasr augur|thunder' pattern|thunder pattern"), ("bayonet", r"solid stripper"), ("sleeve", r"magnum universal"), ("trigger", r"magnum centurion"), ("mag", r"lieutenant's carbine")]  # the pernach's built-in ergo grip and banner (day 48)  # a kit that names its arrows has its load
 
 
 def guns_in(text):
@@ -336,7 +337,7 @@ def guns_in(text):
 
 def roll_gun(gtype, src, taken, level, team, weights):
     """Roll one gun's attachments. Returns (d100 rolls, [attachment rows])."""
-    chance = CHANCE[level] + (10 if team else 0)
+    chance = CHANCE[level] + (10 if team else 0) + (25 if re.search(r"solid patriot", src) else 0)  # the M4-style Patriot: +25% (the player, day 48)
     taken, have, got, rolls = set(taken), set(), [], []
     if "optic" in taken and re.search(r"scope|sprinter|kasr lance", src):
         have.add("scope")

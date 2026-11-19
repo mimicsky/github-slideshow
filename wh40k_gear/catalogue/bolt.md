@@ -82,6 +82,14 @@ and the Commissariat (the player, day 48: kept human-sized), heavier than the Si
 
 **Abilities:** [Trigger Finger](abilities.md#trigger-finger); [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
 
+## Throne marksman rifle (day 48)
+
+The player's picks, day 48: real rifles done in their ammo families. **The rounds do the hurting; each gun has its own lean instead.** .75 bolts.
+
+### Bolt marksman rifle, 'Throne Recluse' pattern
+
+**Bolt marksman rifle, 'Throne Recluse' pattern** (rare, 20 TV; based on the REC7; the player's pick, Ash on Ostrava day 48; numbers the DM's). **A single-shot bolt marksman:** one bolt; **reloading is the beat's main thing.** **+2 on aimed shots; no -2 until past ~150 m.** STR 30.
+
 ## Storm bolter, 'Throne Armageddon' pattern
 
 **Storm bolter, 'Throne Armageddon' pattern** (rare, 45 TV; Munitorum (Commissariat), Mechanicus, Free Traders; the player's pick, Ash on Ostrava day 48,

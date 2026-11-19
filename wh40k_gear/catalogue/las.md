@@ -138,6 +138,34 @@ on a lasgun action with a fixed scope. Lasgun punch; **+1 on aimed shots past ~3
 Ash on Ostrava day 34, written for the stolen one the customs house sniper carried, now Isk's off weapon; moved here from his kit
 row in the day-36 cleanup.)
 
+## Las rifles and hellguns (day 48)
+
+The player's picks, day 48: real rifles done in their ammo families. **The rounds do the hurting; each gun has its own lean instead.**
+
+### Lasgun, 'Kasr Clarion' bullpup pattern
+
+**Lasgun, 'Kasr Clarion' bullpup pattern** (common, 1.5 TV; based on the FAMAS; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Cheap and fast:** a bullpup lasgun, **strings of 7** (the player). A regular las pack (45); las punch; no recoil.
+
+### Lasgun, 'Kasr Sentinel' pattern
+
+**Lasgun, 'Kasr Sentinel' pattern** (uncommon, 3 TV; based on the G36; the player's pick, Ash on Ostrava day 48; numbers the DM's). **A built-in scope:** +1 on aimed shots (it fills the optic slot). **Its flaw, as the real one's: after 12 shots in a fight it runs hot: -1 on aimed shots until it vents a beat.** A regular las pack.
+
+### Lasgun, 'Kasr Augur' bullpup pattern
+
+**Lasgun, 'Kasr Augur' bullpup pattern** (uncommon, 4 TV; based on the AUG; the player's pick, Ash on Ostrava day 48; numbers the DM's). **A built-in optic and a folding foregrip:** +1 on aimed shots, +1 on the first shot of every string (they fill the optic and under-barrel slots). Bullpup. A regular las pack.
+
+### Lasgun, 'Kasr Arrow' marksman pattern
+
+**Lasgun, 'Kasr Arrow' marksman pattern** (uncommon, 4 TV; based on the ARX160; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Slow but long:** strings of 2; **+2 on aimed shots past ~60 m** (the player); **no -2 until past ~150 m.** A regular las pack.
+
+### Hellgun, 'Hell Complete' pattern
+
+**Hellgun, 'Hell Complete' pattern** (rare, 8 TV; based on the XM8; the player's pick, Ash on Ostrava day 48; numbers the DM's). **A full setup:** a built-in sight (+1 on aimed shots) and grip (+1 on the first shot of every string); **no attachments.** Hot-shot packs (30).
+
+### Hellgun, 'Hell Modular' pattern
+
+**Hellgun, 'Hell Modular' pattern** (rare, 8 TV; based on the HK433; the player's pick, Ash on Ostrava day 48; numbers the DM's). **An adjustable barrel at the click of a button** (the player: no spare barrels to carry): **free, once a beat: carbine length (+1 inside ~20 m) or rifle length (+1 past ~60 m).** Hot-shot packs (30).
+
 ## Las-scattergun ('shotlas')
 
 **Las-scattergun, 'shotlas'** (rare, 4 TV; Munitorum, black market, Free Traders). A short las weapon whose focusing array
