@@ -813,6 +813,8 @@ A giant abhuman, about 3 m tall: dumb, loyal, and it hits like a truck.
 *Side note: cultist Ogryns are the god's beasts: chained, starved and set loose; they
 fight for anything that feeds them.*
 
+**An Astartes bolter in an Ogryn's hands** (settled by the player, day 48): unbraced at -2; Dirty after its first fight, jams on a natural 1-3 until someone else cleans it; no special loads (catalogue bolt.md, Astartes bolters).
+
 **Strength behind the blow:** every Ogryn (STR 60-80) has it (codex Part 8, Armour): its melee goes one armour step further, and **a power weapon in an Ogryn's hands drops two steps a hit.**
 
 ### Ogryn variants: the Crusher, the Bulwark, the Reaper

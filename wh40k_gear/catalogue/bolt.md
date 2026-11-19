@@ -156,6 +156,8 @@ human's: the bolt carbine (55 TV), bolt rifle (60) and auto bolt rifle (65) are
 Astartes heavy bolter (120) are **legendary** (a natural 20, then a second d20 of
 18-20). Sold only by the black market and Free Traders. A human can fire one only
 braced on cover or a mount, at -4, one shot a beat, and can't move that beat; with
-no brace it can't be fired. Mostly trade value or a trophy, and dangerous to own:
+no brace it can't be fired. **An Ogryn can fire one unbraced, at -2** (big enough to hold it, not built for him; settled
+by the player, day 48): **he never cleans it, so it's Dirty after its first fight and jams on a natural 1-3** until
+someone else cleans it; **no special loads** (he can't tell them apart); Strength behind the blow doesn't apply (a gun). Mostly trade value or a trophy, and dangerous to own:
 the Astartes want their gear back. The Imperial Guard heavy bolter (rare, 40 TV,
 crew-served) is a separate, human weapon: [heavy.md, Heavy bolter, Guard pattern](heavy.md#heavy-bolter-guard-pattern).
