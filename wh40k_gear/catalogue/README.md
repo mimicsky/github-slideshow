@@ -61,6 +61,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Boarding SMG, Navy 'Gyre' pattern](stub.md#boarding-smg-navy-gyre-pattern) (gyro: no recoil in zero-g; caseless)
 - [Submachine gun, 'Kasr Scorpion' pattern](stub.md#submachine-gun-kasr-scorpion-pattern) (fastest: strings of 18; every attachment slot)
 - [Bullpup SMG, 'Kasr Adder' pattern](stub.md#bullpup-smg-kasr-adder-pattern) (hand-stop: first 4 shots no recoil; compact)
+- [Hand cannon (big-bore stubber)](stub.md#hand-cannon-big-bore-stubber) (heavy stub revolver)
 - [Heavy SMG, 'Orlock' pattern](stub.md#heavy-smg-orlock-pattern) (steel and wood; 45-round mag; never jams; no attachments)
 - [Macragge service pistol](stub.md#macragge-service-pistol) (epic, Ultramarines)
 - [Auto-revolver, 'Hammerfall' pattern](stub.md#auto-revolver-hammerfall-pattern)

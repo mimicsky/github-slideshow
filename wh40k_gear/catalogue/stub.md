@@ -181,6 +181,22 @@ barrel** pokes out ahead of a short top rail with flip-up sights. A **32-round m
 - Stub rounds: **through flak on a solid hit.** The top rail takes an optic; the threaded barrel takes a muzzle
   attachment.
 
+## Hand cannon (big-bore stubber)
+
+**Hand cannon** (uncommon, 2 TV; black market, Munitorum, Free Traders; it was a name in the shop list with no entry
+until the player asked, Ash on Ostrava day 48; numbers the DM's). A big-bore revolver: a six-round cylinder of
+[heavy stub rounds](#heavy-stub-rounds) and a long, heavy barrel.
+- **Heavy stub punch** (the bullet does the job): **through flak at any range, reinforced flak inside ~15 m, carapace
+  only on a crit.**
+- **Strings of 3, recoil 1** (as revolvers and hand cannons: codex Part 8, Swapping, recoil and attachment slots);
+  **-2 past ~30 m.** [Fan the Hammer](abilities.md#fan-the-hammer) (a revolver).
+- **Reload:** round by round, half a beat per 2; a speedloader makes it half a beat; it can be topped up from the
+  string.
+- **Loud:** anyone within ~100 m hears it.
+- **Who carries it:** raiders (uncommon).
+
+**Abilities:** [Fan the Hammer](abilities.md#fan-the-hammer) (revolvers); [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
+
 ## Heavy SMG, 'Orlock' pattern
 
 **Heavy SMG, 'Orlock' pattern** (player design, Ash on Ostrava day 45; uncommon, ~3 TV; black market, Munitorum,
@@ -544,7 +560,7 @@ armour. The special stub loads below come in heavy stub too (HP, AP, HV, flat-ti
 
 **Stub and autogun rounds, special loads** (player picks, Ash on Ostrava day 36; Munitorum, black market,
 Free Traders). Each load comes in its own box and fits any gun of its
-calibre: **stub** (stub revolvers, stub automatics, hand cannons, the Kasr Frontier) or **auto** (autoguns,
+calibre: **stub** (stub revolvers, stub automatics, the Kasr Frontier; heavy stub guns, such as hand cannons, take the heavy stub versions) or **auto** (autoguns,
 autopistols, Hammerfall auto-revolvers, the Kasr Hornet). **Standard rounds** (Stub/auto rounds, box): flak
 shrugs them at range, reinforced flak and carapace shrug them. A magazine holds one load at a time. **In the enemy
 roll, AP and CAP count as rare** (only there; the shop rarity below stands: the player, day 47;
