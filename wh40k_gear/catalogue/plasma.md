@@ -111,6 +111,19 @@ beam.**
 - **Runs on a melta charge** (the spare charge, 5 TV): **6 cuts a charge.**
 - **Heat: +1 a cut; at 2 it vents a beat.**
 
+## Improvised melta, 'pot-cooker' (scrap)
+
+**Improvised melta, 'pot-cooker'** (uncommon, scrap, 3 TV; black market; the player's design, Ash on Ostrava day 48:
+'a 50/50 gun', 'more of a last-resort thing'; name and numbers the DM's). A stolen melta chamber jammed onto a pipe,
+wired to a fuel can with tape and prayer.
+- **Every shot: a natural 10 or lower and it blows up:** the bearer drops **2 steps**, anyone within ~2 m drops **1**,
+  and the gun is gone. **11 or higher, it fires fine.**
+- **When it fires: inside ~10 m, through any armour, two steps.** Past ~10 m: nothing.
+- **Heat: +2 a shot:** it must vent a beat after every shot; **fired hot, it blows up, no roll.**
+- **3 shots** from a melta charge or a stolen canister.
+- **A last resort:** enemies fire it only when they're desperate (the DM's call). Poor and Steady factions only, as
+  any scrap gun.
+
 ## Inferno pistol
 
 **Inferno pistol** (player request, Space Marine 2 style, Ash on Ostrava session 9;

@@ -1043,6 +1043,13 @@
   "sellers": "AB"
  },
  {
+  "name": "Improvised melta, 'pot-cooker' (scrap; blows up on a natural 1-10, else two steps through any armour inside ~10 m; vents after every shot; 3 shots)",
+  "tv": 3,
+  "cat": "melta",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
   "name": "Flamer, Ryza pattern (~13 m gout, ~5 m wide; no roll to hit; 6 bursts a tank)",
   "tv": 8,
   "cat": "flame",
