@@ -140,6 +140,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 
 ## [Bolt weapons](bolt.md)
 
+- [Boltgun, Godwyn pattern](bolt.md#boltgun-godwyn-pattern) (the baseline boltgun; human-sized copy)
 - [Storm bolter, 'Throne Armageddon' pattern](bolt.md#storm-bolter-throne-armageddon-pattern) (twin bolter; Yarrick's)
 - [Combi-bolter, 'Throne Twinfire' pattern](bolt.md#combi-bolter-throne-twinfire-pattern) (flamer, melta or plasma under a boltgun)
 - [Condemnor boltgun, 'Throne Inquest' pattern](bolt.md#condemnor-boltgun-throne-inquest-pattern) (boltgun and stake crossbow)

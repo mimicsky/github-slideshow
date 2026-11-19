@@ -742,7 +742,7 @@
   "sellers": "MF"
  },
  {
-  "name": "Boltgun, Godwyn pattern",
+  "name": "Boltgun, Godwyn pattern (the baseline boltgun, a human-sized copy: strings of 3, recoil 2, STR 30; 15-round box)",
   "tv": 25,
   "cat": "bolt",
   "rarity": "R",

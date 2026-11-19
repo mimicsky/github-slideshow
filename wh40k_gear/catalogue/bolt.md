@@ -68,6 +68,20 @@ extra step** (2 in all); against lighter armour, a normal bolt. **Gets through a
 it). **Unstable: on a natural 1 the round cooks off in the chamber:** the bearer drops a step and the gun is out for
 the fight. Fits any bolt weapon.
 
+## Boltgun, Godwyn pattern
+
+**Boltgun, Godwyn pattern** (rare, 25 TV; Munitorum, Free Traders; entry written with the player, Ash on Ostrava day 48). **The baseline
+boltgun.** In the lore the Godwyn is the Space Marines' pattern; **ours is a human-sized copy** made for Guard officers
+and the Commissariat (the player, day 48: kept human-sized), heavier than the Sisters' Godwyn-De'az.
+- **Strings of 3, recoil 2,** [Trigger Finger](abilities.md#trigger-finger).
+- **Bolt punch:** each hit a step, through everything up to semi power armour; Space Marine armour only on a solid hit.
+- **STR 30.**
+- **A 15-round box magazine** (a spare is 0.2 TV; codex Gear rules, Magazines). Takes any .75 bolt load.
+- **Owned in Ash on Ostrava:** the stolen one, with 18 bolt rounds, kept back from the haul sale by Ollin (day 36; in
+  the crate).
+
+**Abilities:** [Trigger Finger](abilities.md#trigger-finger); [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
+
 ## Storm bolter, 'Throne Armageddon' pattern
 
 **Storm bolter, 'Throne Armageddon' pattern** (rare, 45 TV; Munitorum (Commissariat), Mechanicus, Free Traders; the player's pick, Ash on Ostrava day 48,
