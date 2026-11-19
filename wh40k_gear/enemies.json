@@ -92,6 +92,10 @@
    [
     "Crossbow, 'Hunter Windlass' pattern",
     "U"
+   ],
+   [
+    "Heavy stubber, 'Siege Junker' pattern (scrap)",
+    "U"
    ]
   ],
   "melee": [
@@ -871,6 +875,10 @@
    ],
    [
     "Crossbow, 'Hunter Windlass' pattern",
+    "U"
+   ],
+   [
+    "Heavy stubber, 'Siege Junker' pattern (scrap)",
     "U"
    ]
   ],
@@ -1679,6 +1687,10 @@
    [
     "Officer's bolt carbine, 'Throne Patrician' pattern",
     "R"
+   ],
+   [
+    "Heavy stubber, 'Siege Rattler' light pattern",
+    "U"
    ]
   ],
   "melee": [
@@ -2070,6 +2082,10 @@
     [
      "Multi-laser on a deck mount (two-man team)",
      "U"
+    ],
+    [
+     "Heavy stubber, 'Siege Whirlwind' rotary pattern (two-man team)",
+     "R"
     ]
    ],
    "berserker": [
@@ -2362,6 +2378,10 @@
    ],
    [
     "Lever-action shotgun, 'Breach Outrider' pattern",
+    "U"
+   ],
+   [
+    "Heavy stubber, 'Siege Rattler' light pattern",
     "U"
    ]
   ],
@@ -3439,6 +3459,10 @@
    [
     "Boltgun, Locke Mk IIb 'Spearhead'",
     "R"
+   ],
+   [
+    "Heavy stubber, 'Siege Rattler' light pattern",
+    "U"
    ]
   ],
   "melee": [
@@ -3696,6 +3720,10 @@
     ],
     [
      "Multi-melta (two-man team)",
+     "R"
+    ],
+    [
+     "Heavy stubber, 'Siege Whirlwind' rotary pattern (two-man team)",
      "R"
     ]
    ],

@@ -873,3 +873,13 @@ main thing. **A small tank: 3 bursts a canister.**
 **+5 to keep it hidden.** **A 3-round magazine** (codex Gear rules, Magazines: a spare is 0.1 TV), fired as a string
 of up to 3. **Weak: past ~10 m a hit is half a step (0.5)**; standard stub against armour. **Reloading the strapped gun
 takes the whole beat.**
+
+## Auto-sentry, 'Siege Sentry' pattern
+
+**Auto-sentry, 'Siege Sentry' pattern** (gear; rare, 12 TV; Mechanicus, Munitorum, Free Traders; drafted with the player,
+Ash on Ostrava day 48: 'gear'; numbers the DM's). A heavy stubber on a tripod with an auspex trigger. **Setting it up is
+the beat's main thing.** It covers **a ~45° arc out to ~60 m.** **Each beat it fires a string of 6, at d20 + 3, at the
+first enemy who enters or moves in its arc** (heavy stubber punch; no suppression: it doesn't keep a target pinned).
+**It can't tell friend from foe** unless the Light's beads are keyed to it (a beat with Brenner or Ferro). **Two
+belts, about 6 strings; then it's empty.** **It can be spotted** (Perception) **and shot: a small target (+1); two hits
+wreck it.**

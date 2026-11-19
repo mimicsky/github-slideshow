@@ -30,6 +30,29 @@ carapace; heavy carapace shrugs it at range (codex Part 8, Armour). **Suppressio
 at takes **-2 on their shots** while it keeps firing, hit or miss (the same -2 as a heavy gunner's or
 Morcant's specialty: it counts once).
 
+## Heavy stubber, 'Siege Junker' pattern (scrap)
+
+**Heavy stubber, 'Siege Junker' pattern** (uncommon, scrap, 2 TV; black market; drafted with the player, Ash on Ostrava
+day 48; numbers the DM's). Pipes, a hand-crank feed and a car-battery motor: **the cultist's and raider's machine gun.**
+**Strings of up to 6,** no hit bonuses (misses still -1); **recoil 1 braced, 2 on the move.** Heavy stubber punch and
+**suppression -2** (as the heavy stubber). **Scrap quirk: it jams on a natural 1-3** (a beat to clear). Takes heavy
+stubber belts.
+
+## Heavy stubber, 'Siege Rattler' light pattern
+
+**Heavy stubber, 'Siege Rattler' light pattern** (uncommon, 5 TV; Munitorum, black market, Free Traders; drafted with the
+player, day 48). **The squad machine gun:** lighter, with a bipod and a **50-round box** (a spare is 0.5 TV: codex Gear
+rules, Magazines). **One strong trooper (STR 40+) carries it and fires on the move: recoil 1**; on the bipod, recoil 0.
+Under STR 40: -2 on every shot and +1 recoil. **Strings of up to 6,** no hit bonuses; heavy stubber punch; **suppression
+-2.**
+
+## Heavy stubber, 'Siege Whirlwind' rotary pattern
+
+**Heavy stubber, 'Siege Whirlwind' rotary pattern** (rare, 15 TV; Mechanicus, Free Traders; drafted with the player, day
+48). Six barrels and a spinning drive: a minigun. **Spin-up: the first beat it only spins** (its main thing); **then
+strings of up to 16,** no hit bonuses; **recoil 1 braced.** **Suppression -3** (not -2). **It eats belts: a belt lasts 3
+strings.** **Braced or on its frame; carried only at STR 60+** (an Ogryn). Heavy stubber punch.
+
 ## Heavy stubber belts, special
 
 (player design, Ash on Ostrava day 35; any heavy stubber; Morcant's twin feed lets him carry one
