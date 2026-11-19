@@ -49,9 +49,9 @@ special belt beside a standard one and switch with the lever.) A standard belt i
   player, day 47, so a string doesn't kill outright; the same as hellfire shells).
   Armour as a standard belt.
 
-## Brute stubber, 'Kasr Deddog' pattern
+## Brute stubber, 'Bone'ead Deddog' pattern
 
-**Brute stubber, 'Kasr Deddog' pattern** (player design, Ash on Ostrava day 44; rare, ~6 TV; Munitorum,
+**Brute stubber, 'Bone'ead Deddog' pattern** (player design, Ash on Ostrava day 44; rare, ~6 TV; Munitorum,
 black market, Free Traders; or built by a smith from a heavy stubber as a schematic). Named for Nork
 Deddog, the Ogryn who guarded Lord Castellan Creed of Cadia. A heavy stubber cut down into a rifle
 shape for a big man's hands: **no stock, a short barrel**, a top carry handle and a forward grip; it

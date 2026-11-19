@@ -33,9 +33,9 @@ tuned). Shot chains **up to 4**. Two cells share the load, so **heat is halved: 
 per 4 shots.** Punch like a plasma pistol: through carapace on any hit, power
 armour on a solid hit.
 
-## Plasma SMG, 'Kasr Spark' pattern
+## Plasma SMG, 'Sol Spark' pattern
 
-**Plasma SMG, 'Kasr Spark' pattern** (player design, Ash on Ostrava day 45; rare, ~22 TV; Mechanicus, Free
+**Plasma SMG, 'Sol Spark' pattern** (player design, Ash on Ostrava day 45; rare, ~22 TV; Mechanicus, Free
 Traders). A light plasma gun tuned down to **low-yield bolts** that cycle fast: a hose of small blue-white
 sparks instead of the heavy slugs of a true plasma weapon. Not the Lumen blaster's hammer: it trades punch
 for speed and shots.
@@ -46,7 +46,7 @@ for speed and shots.
 - **Runs cooler:** **heat 1 per 6 shots** (codex, Plasma heat): at 3 heat it vents a beat.
 - Slow-filled and rushed cells keep their own misfire chances (a natural 1, or a natural 1-2 rushed: codex, Plasma heat).
 
-## Plasma repeater, 'Kasr Furnace' break-action lever pattern
+## Plasma repeater, 'Sol Furnace' break-action lever pattern
 
 (player design, rare, 30 TV; Mechanicus, Free Traders.) The stock is built into the
 body as one piece. A **lever runs from the body back along the stock**, with the

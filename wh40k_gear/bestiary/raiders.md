@@ -25,7 +25,7 @@ Once guards of the Maelstrom's edge, they went over to the pirates they were set
 watch. They know every hiding place in the region.
 - **Look:** worn grey Warden armour with the old badge scratched off, long coats,
   auspex rigs.
-- **Weapons:** hellguns, stolen boltguns, Kasr Warden vigilante autoguns.
+- **Weapons:** hellguns, stolen boltguns, Solid Warden vigilante autoguns.
 - **Tactics:** patient hunters: they track you, pick the ground and open with
   marksmen. Good at void and station fighting.
 

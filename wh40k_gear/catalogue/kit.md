@@ -346,7 +346,7 @@ hone any edged blade (not chain or power): **+1 pierce on its next 2 hits**
 ## Bayonet
 
 **Bayonet** (common, 0.3 TV; Munitorum issue; a combat knife with a lug fits most rifles; set with the player, day 47).
-A blade fixed on a rifle's bayonet lug (lasguns, autoguns, hellguns, stub rifles; the Kasr Frontier and Vigil take
+A blade fixed on a rifle's bayonet lug (lasguns, autoguns, hellguns, stub rifles; the Solid Frontier and Vigil take
 one; **fixing or unfixing one takes the beat's move**, and it only counts once it's fully fixed: [attachments.md](attachments.md#fitted-and-working-every-attachment)). **A gun with a fixed bayonet is a melee weapon too:** no swapping between shooting and stabbing; in melee it's
 **a two-handed spear thrust: chains of 2, +1 to strike first** (the reach). A plain bayonet cuts like a knife
 (through flak; carapace shrugs it).
@@ -867,9 +867,9 @@ Designed by the player, Ash on Ostrava day 48; numbers the DM's.
 nozzle over the wrist. **A hand flamer's ~6 m gout in a narrow line; targets catch fire.** Firing it is still the beat's
 main thing. **A small tank: 3 bursts a canister.**
 
-### Wrist stub gun, 'Kasr Sleeve' pattern
+### Wrist stub gun, 'Ironside Sleeve' pattern
 
-**Wrist stub gun, 'Kasr Sleeve' pattern** (uncommon, 2 TV; black market). A tiny stub gun strapped under the sleeve.
+**Wrist stub gun, 'Ironside Sleeve' pattern** (uncommon, 2 TV; black market). A tiny stub gun strapped under the sleeve.
 **+5 to keep it hidden.** **A 3-round magazine** (codex Gear rules, Magazines: a spare is 0.1 TV), fired as a string
 of up to 3. **Weak: past ~10 m a hit is half a step (0.5)**; standard stub against armour. **Reloading the strapped gun
 takes the whole beat.**

@@ -91,14 +91,14 @@ swing of the chain, swung wide and flat.**
 - [Grox-prod](melee.md#grox-prod)
 - [Heavy scrap axe](melee.md#heavy-scrap-axe)
 - [Great chain axe, 'Butcher' pattern](melee.md#great-chain-axe-butcher-pattern)
-- [Heavy war axe, 'Kasr Gate' pattern](melee.md#heavy-war-axe-kasr-gate-pattern)
-- [Hydraulic push axe, 'Kasr Ram' pattern](melee.md#hydraulic-push-axe-kasr-ram-pattern)
+- [Heavy war axe, 'Forge Gate' pattern](melee.md#heavy-war-axe-forge-gate-pattern)
+- [Hydraulic push axe, 'Forge Ram' pattern](melee.md#hydraulic-push-axe-forge-ram-pattern)
 - [Thunder hammer, intact](melee.md#thunder-hammer-intact)
 - [Relic blade, 'Thorian' pattern](melee.md#relic-blade-thorian-pattern)
 - [Omnissian axe](melee.md#omnissian-axe)
 - [Blaze force sword / greatsword](melee.md#blaze-force-sword--greatsword)
 - [Collapsing spear, 'Ordo Sicarius' pattern](melee.md#collapsing-spear-ordo-sicarius-pattern) (when swung two-handed)
-- [Tactical breaching axe, 'Kasr Sapper' pattern](melee.md#tactical-breaching-axe-kasr-sapper-pattern) (when swung two-handed)
+- [Tactical breaching axe, 'Forge Sapper' pattern](melee.md#tactical-breaching-axe-forge-sapper-pattern) (when swung two-handed)
 - [Power odachi, 'Eversor' pattern](melee.md#power-odachi-eversor-pattern) (when swung two-handed)
 - [Fenrisian gift-blade](melee.md#fenrisian-gift-blade) (when swung two-handed)
 - **Enemy roles:** the [Mauler](../bestiary/roles.md#mauler) (two-handed axes) and the Ogryn [Crusher](../bestiary/roles.md#ogryn-variants-the-crusher-the-bulwark-the-reaper) (the power maul).
@@ -269,7 +269,7 @@ the Columnus (on single), and every las gun the Light carry.
 
 **Items with it:** **every pump-action shotgun** (the Munitorum pump, combat pumps, the CY-6 and the like; said once at
 the top of [stub.md](stub.md)); the [Lucius 'Ironclad'](stub.md#lucius-pattern-ironclad-shotgun) (its reinforced
-action only jams on a natural 1-3); the ['Harrow' farmer's pump](stub.md#pump-shotgun-harrow-pattern). Not semi-autos (the Kasr Sweeper: [Trigger Finger](#trigger-finger)), break-actions or
+action only jams on a natural 1-3); the ['Harrow' farmer's pump](stub.md#pump-shotgun-harrow-pattern). Not semi-autos (the Breach Sweeper: [Trigger Finger](#trigger-finger)), break-actions or
 drum guns. Enemies' alike. **Owned in Ash on Ostrava:** the pump shotguns in the crate (and Morcant's old combat pump).
 
 ## Spin-cock
@@ -281,8 +281,8 @@ with one hand: hard to do (the player: 'apparently that's super hard').
   of that string.
 - Cooldown: 3 beats, and it's his one ability that beat.
 
-**Items with it:** **every lever-action gun:** the [Kasr Frontier](stub.md#lever-action-stub-rifle-kasr-frontier-pattern),
-hunters' lever-actions, the [Kasr Outrider](stub.md#lever-action-shotgun-kasr-outrider-pattern). Not the Kasr Furnace
-plasma repeater (its lever runs along the stock). **Owned in Ash on Ostrava:** Tamsin's Kasr Frontier (**STR 32.6: not
+**Items with it:** **every lever-action gun:** the [Solid Frontier](stub.md#lever-action-stub-rifle-solid-frontier-pattern),
+hunters' lever-actions, the [Breach Outrider](stub.md#lever-action-shotgun-breach-outrider-pattern). Not the Sol Furnace
+plasma repeater (its lever runs along the stock). **Owned in Ash on Ostrava:** Tamsin's Solid Frontier (**STR 32.6: not
 yet**, he needs 35).
 

@@ -178,9 +178,9 @@ Light plastek inside, a sharpened plasteel skin and head outside.
 judged fair). Held as claws between the fingers, thrown flat in one motion: **one roll at -4, all three on one
 target within ~10 m**; a miss and all three miss; a natural 1 scatters them (the knife rule: lost, not broken).
 
-## Force wakizashi, 'Kasr Veil' pattern
+## Force wakizashi, 'Forge Veil' pattern
 
-**Force wakizashi, 'Kasr Veil' pattern** (rare, 35 TV, Free Traders; player design):
+**Force wakizashi, 'Forge Veil' pattern** (rare, 35 TV, Free Traders; player design):
 a short steel blade, modern skeleton grip, no handguard: +1 to strike first in an
 exchange, -1 to parry. In a non-psyker's hand it is only a sharp blade. A psyker
 channels through it: through carapace on a solid hit, and it burns daemons and
@@ -190,18 +190,18 @@ shield for a beat that blocks the first shot and the first melee hit at the bear
 the shield collapses and the psyker rolls the Perils result (Codex, Part 8, Perils of the Warp). Enemy witches
 may carry one.
 
-## Combat chain-knife, 'Kasr Gnaw' pattern
+## Combat chain-knife, 'Forge Gnaw' pattern
 
-**Combat chain-knife, 'Kasr Gnaw' pattern** (uncommon, 3 TV; player design): a
+**Combat chain-knife, 'Forge Gnaw' pattern** (uncommon, 3 TV; player design): a
 combat knife's shape with the blade replaced by a running chain, a small motor on
 the spine, and the throttle lever on the hilt. Fast: +1 to strike first in an
 exchange. It bites like a small chainsword: **through flak and carapace on any hit; heavy carapace only on a crit**
 (a short chain: one rung weaker than a chainsword at the top; settled by the player, day 48), but its short reach takes -1 to parry longer blades. Loud when running,
 so no quiet kills; switched off it is a poor, dull blade. Can't be thrown.
 
-## Injector stiletto, 'Kasr Sting' pattern
+## Injector stiletto, 'Forge Sting' pattern
 
-**Injector stiletto, 'Kasr Sting' pattern** (uncommon, 2 TV; player design): a
+**Injector stiletto, 'Forge Sting' pattern** (uncommon, 2 TV; player design): a
 slim, dead-straight stiletto with an injection channel running inside the blade
 from the base to the point, fed by a screw-in vial in the pommel (1 dose). The
 hilt is a skeleton throwing-knife frame wrapped in olive-green cord, so it is
@@ -247,9 +247,9 @@ of Khorne's Berzerkers, who love them; Imperial forges make them too.
 
 **Abilities:** [Wide Slash](abilities.md#wide-slash).
 
-## Tactical breaching axe, 'Kasr Sapper' pattern
+## Tactical breaching axe, 'Forge Sapper' pattern
 
-**Tactical breaching axe, 'Kasr Sapper' pattern** (player design, Ash on Ostrava day 45; uncommon, ~4 TV;
+**Tactical breaching axe, 'Forge Sapper' pattern** (player design, Ash on Ostrava day 45; uncommon, ~4 TV;
 Munitorum, Free Traders). A better firefighter's axe: **solid plasteel, full tang**, a broad axe head on one
 side and a **prying spike and claw** on the other, a long enough haft for big swings and a choke grip for
 close work.
@@ -274,9 +274,9 @@ be fast: a flurry of cuts, not one big blow.
   balance (-2 on their next defence).**
 - **Throwable:** ~10 m, like a throwing knife.
 
-## Heavy war axe, 'Kasr Gate' pattern
+## Heavy war axe, 'Forge Gate' pattern
 
-**Heavy war axe, 'Kasr Gate' pattern** (player design, Ash on Ostrava day 45; uncommon, ~8 TV; Munitorum,
+**Heavy war axe, 'Forge Gate' pattern** (player design, Ash on Ostrava day 45; uncommon, ~8 TV; Munitorum,
 Free Traders). Named for the Cadian Gate. A two-handed war axe of **solid plasteel**: a **double-sided head**,
 a blade each way, and a **spear point** on the butt of the haft.
 - **Two-handed and heavy:** melee chains of up to **2**. **STR 30+**, or -2 on every swing.
@@ -288,9 +288,9 @@ a blade each way, and a **spear point** on the butt of the haft.
 
 **Abilities:** [Wide Slash](abilities.md#wide-slash).
 
-## Hydraulic push axe, 'Kasr Ram' pattern
+## Hydraulic push axe, 'Forge Ram' pattern
 
-**Hydraulic push axe, 'Kasr Ram' pattern** (player design, Ash on Ostrava day 45; rare, ~12 TV; Mechanicus,
+**Hydraulic push axe, 'Forge Ram' pattern** (player design, Ash on Ostrava day 45; rare, ~12 TV; Mechanicus,
 Munitorum engineer issue). A heavy two-handed axe whose head rides on a **hydraulic ram**: hit, then thumb the
 stud on the haft, and the blade **punches forward** into whatever it's already in.
 - **Two-handed and heavy:** melee chains of up to **2**. **STR 30+**, or -2 on every swing.
@@ -550,7 +550,7 @@ block or parry). Shooting: lasgun punch, but there's no way to aim along it, so
 doesn't apply. One shot a beat; it can punch and fire in the same exchange, but
 the shot then takes -3 even point-blank.
 
-## Power claw, 'Kasr Talon' pattern
+## Power claw, 'Forge Talon' pattern
 
 (player design, **epic**: an exotic find, natural 20 only; 60 TV; black market,
 Free Traders.) A power gauntlet with **four long curved blades** set over the
@@ -630,9 +630,9 @@ The blunt list was the thinnest in the enemy rolls (6 weapons). Drafted by the D
 
 **Sledgehammer** (common, 0.75 TV; Munitorum, black market; day 48). A worker's two-handed sledge. **Two hands, STR 30+** (under it, -2 on swings). **Heavy: through flak, and through carapace on a solid hit.** **Slow: -1 to strike first.** **+2 STR to force doors, hatches and locks.** (Already on the brute's kit list; its entry, day 48.) *Who carries it: commoner, cultist, raider.*
 
-## Pry-bar, 'Kasr Jemmy' pattern
+## Pry-bar, 'Forge Jemmy' pattern
 
-**Pry-bar, 'Kasr Jemmy' pattern** (common, 0.25 TV; Munitorum, black market; day 48). An iron bar with a claw at one end: every work crew and every looter has one. **+2 STR to force crates, hatches and doors.** In a fight it's **a club: through flak; carapace shrugs it.** *Who carries it: commoner, cultist, pirate, raider.*
+**Pry-bar, 'Forge Jemmy' pattern** (common, 0.25 TV; Munitorum, black market; day 48). An iron bar with a claw at one end: every work crew and every looter has one. **+2 STR to force crates, hatches and doors.** In a fight it's **a club: through flak; carapace shrugs it.** *Who carries it: commoner, cultist, pirate, raider.*
 
 ## Enforcer's truncheon
 
@@ -642,9 +642,9 @@ The blunt list was the thinnest in the enemy rolls (6 weapons). Drafted by the D
 
 **Cosh, 'Quiet Night' pattern** (common, 0.25 TV; black market; day 48). A leather sap weighted with shot. **+3 to keep it hidden.** **From behind, on someone unaware** (they can't act or defend against him): **one blow knocks them out, no roll: Down at 1.0, alive.** In an open fight it's a poor weapon: **a hit is half a step (0.5)** (DM default, day 48); flak shrugs it. *Who carries it: cultist, pirate, raider.*
 
-## War hammer, 'Kasr Anvil' pattern
+## War hammer, 'Forge Anvil' pattern
 
-**War hammer, 'Kasr Anvil' pattern** (uncommon, 3 TV; Munitorum, black market, Free Traders; day 48). A long-hafted war hammer, one or two hands: a hammer face on one side and a spike on the other. **He picks the face each swing:** **the spike goes through carapace on a solid hit; the hammer knocks the target flat on a solid hit.** Through flak either way. *Who carries it: pirate, raider, traitor, traitor_elite.*
+**War hammer, 'Forge Anvil' pattern** (uncommon, 3 TV; Munitorum, black market, Free Traders; day 48). A long-hafted war hammer, one or two hands: a hammer face on one side and a spike on the other. **He picks the face each swing:** **the spike goes through carapace on a solid hit; the hammer knocks the target flat on a solid hit.** Through flak either way. *Who carries it: pirate, raider, traitor, traitor_elite.*
 
 ## Crusher, two-handed mace
 

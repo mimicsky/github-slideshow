@@ -15,9 +15,9 @@ it is free. **After a fight, each unbroken arrow is found on a d6 4-6.** Bows ha
 A light, fast bow. **Strings of 2** (nock and draw fast). **-2 past ~40 m.** Silent, no recoil, STR 50+ counts (above).
 Feral worlders, poachers and quiet hunters carry it.
 
-## Compound bow, 'Kasr Kestrel' pattern
+## Compound bow, 'Hunter Kestrel' pattern
 
-**Compound bow, 'Kasr Kestrel' pattern** (uncommon, 2 TV, DM's price; Free Traders, hunters' outfitters, black market).
+**Compound bow, 'Hunter Kestrel' pattern** (uncommon, 2 TV, DM's price; Free Traders, hunters' outfitters, black market).
 Pulleys and cams: more power and accuracy, less speed. **Needs STR 30+ to draw** (the player, day 47): below that he
 can't use it. **Strings of 1.** **Hits harder: the arrow goes one armour step further** (stacks with STR 50+). **+1 on
 aimed shots**; **-2 past ~60 m.** Silent, no recoil, no attachment slots.
@@ -34,6 +34,19 @@ psychic-disrupting cores). A compact crossbow firing blessed, silver-cored stake
 - **Pins them:** **a solid hit within ~5 m of a wall or the ground pins the target:** he can't move until he spends a
   beat pulling free.
 - **Who:** Sisters Novitiate (their kit list); rarely zealots (witch-hunters carry them).
+
+## Crossbow, 'Hunter Windlass' pattern
+
+**Crossbow, 'Hunter Windlass' pattern** (uncommon, 2.5 TV; hunters' outfitters, black market, Free Traders; the player's pick, Ash on Ostrava day
+48; numbers the DM's). A stock with a steel prod across the front, a trigger and a re-spanning lever.
+- **One bolt, then re-span with the lever as the short move:** it fires every beat. **Silent,** no recoil. It can be
+  carried spanned and loaded, ready for the first shot.
+- **Bolts are arrows:** the same types and the same table ([Arrows](#arrows)), in the same quiver. **The steel prod
+  pushes a bolt one armour step further** (as the compound bow); STR 50+ doesn't add (the prod does the work, not the
+  arm).
+- **Steady:** the stock and trigger give **+1 on aimed shots**; **-2 past ~60 m.**
+- **No attachment slots** (as bows); only the bolts roll.
+- **Who:** commoners (hunters), cultists, raiders; trackers; assassins and infiltrators (it's quiet).
 
 ## Quiver
 

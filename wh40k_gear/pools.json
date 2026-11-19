@@ -364,7 +364,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Hand cannon (big-bore stubber)",
+  "name": "Hand cannon, 'Magnum Six' pattern",
   "tv": 2,
   "cat": "stub",
   "rarity": "U",
@@ -427,35 +427,35 @@
   "sellers": "MBF"
  },
  {
-  "name": "Compact autogun, 'Kasr Hive' pattern (top 50-round mag; chains of 8; +1 within 10 m, -2 past 30 m)",
+  "name": "Compact autogun, 'Solid Hive' pattern (top 50-round mag; chains of 8; +1 within 10 m, -2 past 30 m)",
   "tv": 3,
   "cat": "stub",
   "rarity": "U",
   "sellers": "MBF"
  },
  {
-  "name": "Anti-materiel rifle, 'Kasr Breaker' pattern (heavy stubber rounds, 5-round box; through cover; 2 steps a hit; braced)",
+  "name": "Anti-materiel rifle, 'Siege Breaker' pattern (heavy stubber rounds, 5-round box; through cover; 2 steps a hit; braced)",
   "tv": 15,
   "cat": "stub",
   "rarity": "R",
   "sellers": "MBF"
  },
  {
-  "name": "Lever-action stub rifle, 'Kasr Frontier' pattern (12-round tube; never jams; chains of 6, or 3 double-lever shots)",
+  "name": "Lever-action stub rifle, 'Solid Frontier' pattern (12-round tube; never jams; chains of 6, or 3 double-lever shots)",
   "tv": 2.5,
   "cat": "stub",
   "rarity": "U",
   "sellers": "MBF"
  },
  {
-  "name": "Twin-barrel autopistol, 'Kasr Hydra' pattern (stub; 40-round mag; strings of 16; heat 1 per 8; jams on a 1-2; +1 quick-draw)",
+  "name": "Twin-barrel autopistol, 'Ironside Hydra' pattern (stub; 40-round mag; strings of 16; heat 1 per 8; jams on a 1-2; +1 quick-draw)",
   "tv": 3,
   "cat": "stub",
   "rarity": "U",
   "sellers": "BF"
  },
  {
-  "name": "Silenced submachine gun, 'Kasr Whisper' pattern (subsonic stub; not heard past 10 m; strings of 6, no recoil)",
+  "name": "Silenced submachine gun, 'Solid Whisper' pattern (subsonic stub; not heard past 10 m; strings of 6, no recoil)",
   "tv": 4,
   "cat": "stub",
   "rarity": "U",
@@ -483,21 +483,21 @@
   "sellers": "B"
  },
  {
-  "name": "Heavy SMG, 'Orlock' pattern (steel and wood; heavy stub, through flak on any hit; 45-round mag; strings of 8; never jams; no attachments)",
+  "name": "Heavy SMG, 'Magnum Orlock' pattern (steel and wood; heavy stub, through flak on any hit; 45-round mag; strings of 8; never jams; no attachments)",
   "tv": 3,
   "cat": "stub",
   "rarity": "U",
   "sellers": "MBF"
  },
  {
-  "name": "Bullpup SMG, 'Kasr Adder' pattern (stub; 32-round mag behind the grip; strings of 10, first 4 shots no recoil; +1 quick-draw; reload a full beat)",
+  "name": "Bullpup SMG, 'Solid Adder' pattern (stub; 32-round mag behind the grip; strings of 10, first 4 shots no recoil; +1 quick-draw; reload a full beat)",
   "tv": 4,
   "cat": "stub",
   "rarity": "U",
   "sellers": "MF"
  },
  {
-  "name": "Submachine gun, 'Kasr Scorpion' pattern (fastest: strings of 18, recoil 2; 40-round mag; every attachment slot)",
+  "name": "Submachine gun, 'Solid Scorpion' pattern (fastest: strings of 18, recoil 2; 40-round mag; every attachment slot)",
   "tv": 5,
   "cat": "stub",
   "rarity": "R",
@@ -525,7 +525,7 @@
   "sellers": "MB"
  },
  {
-  "name": "Submachine gun, 'Kasr Locust' pattern (stub; 30-round mag; auto strings of 8, bursts of 4 as two rounds, semi +1 stock out; folding stock)",
+  "name": "Submachine gun, 'Solid Locust' pattern (stub; 30-round mag; auto strings of 8, bursts of 4 as two rounds, semi +1 stock out; folding stock)",
   "tv": 3,
   "cat": "stub",
   "rarity": "U",
@@ -546,7 +546,7 @@
   "sellers": "A"
  },
  {
-  "name": "Combi-pistol, 'Kasr Trident' pattern (twin autogun barrels, 40-round mag, chains of 6; under-barrel bolt shot last, -1)",
+  "name": "Combi-pistol, 'Ironside Trident' pattern (twin autogun barrels, 40-round mag, chains of 6; under-barrel bolt shot last, -1)",
   "tv": 12,
   "cat": "stub",
   "rarity": "R",
@@ -567,7 +567,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Vigilante autogun, 'Kasr Warden' pattern (20-round straight mag; semi-auto chains of 4; light trigger, drop-prone; vented; threaded muzzle; rails)",
+  "name": "Vigilante autogun, 'Solid Warden' pattern (20-round straight mag; semi-auto chains of 4; light trigger, drop-prone; vented; threaded muzzle; rails)",
   "tv": 2,
   "cat": "stub",
   "rarity": "U",
@@ -588,14 +588,14 @@
   "sellers": "MBF"
  },
  {
-  "name": "Combat shotgun, 'Kasr Sweeper' duckbill pattern (one-piece metal body; 8-shell tube; semi-auto chains of 4; flat spread hits up to 3 abreast within 10 m; -2 past 15 m)",
+  "name": "Combat shotgun, 'Breach Sweeper' duckbill pattern (one-piece metal body; 8-shell tube; semi-auto chains of 4; flat spread hits up to 3 abreast within 10 m; -2 past 15 m)",
   "tv": 3,
   "cat": "stub",
   "rarity": "U",
   "sellers": "MBF"
  },
  {
-  "name": "Machine pistol, 'Kasr Hornet' pattern (autogun rounds, 40-round mag; chains of 10, no hit bonuses; hair trigger; jams on shot dice 1-4 from the 13th continuous round; dumps the mag when dropped)",
+  "name": "Machine pistol, 'Solid Hornet' pattern (autogun rounds, 40-round mag; chains of 10, no hit bonuses; hair trigger; jams on shot dice 1-4 from the 13th continuous round; dumps the mag when dropped)",
   "tv": 2.5,
   "cat": "stub",
   "rarity": "U",
@@ -945,7 +945,7 @@
   "sellers": "BF"
  },
  {
-  "name": "Plasma SMG, 'Kasr Spark' pattern (low-yield bolts; strings of 8, hits like a hellgun; 30 shots a standard cell; heat 1 per 6)",
+  "name": "Plasma SMG, 'Sol Spark' pattern (low-yield bolts; strings of 8, hits like a hellgun; 30 shots a standard cell; heat 1 per 6)",
   "tv": 22,
   "cat": "plasma",
   "rarity": "R",
@@ -980,7 +980,7 @@
   "sellers": "MAF"
  },
  {
-  "name": "Plasma repeater, 'Kasr Furnace' break-action lever pattern (one plasma cell in the breech: 8 shots, 12 tuned; 2 lever actions a beat (shot or pump, any mix), up to 3 pumps for a charged shot, each pump uses a shot; held charge builds heat)",
+  "name": "Plasma repeater, 'Sol Furnace' break-action lever pattern (one plasma cell in the breech: 8 shots, 12 tuned; 2 lever actions a beat (shot or pump, any mix), up to 3 pumps for a charged shot, each pump uses a shot; held charge builds heat)",
   "tv": 30,
   "cat": "plasma",
   "rarity": "R",
@@ -1148,7 +1148,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Brute stubber, 'Kasr Deddog' pattern (brutes only, STR 50+; heavy stubber belts; strings of 8; recoil 1 on the move; -2 past ~30 m)",
+  "name": "Brute stubber, 'Bone'ead Deddog' pattern (brutes only, STR 50+; heavy stubber belts; strings of 8; recoil 1 on the move; -2 past ~30 m)",
   "tv": 6,
   "cat": "heavy",
   "rarity": "R",
@@ -1183,7 +1183,7 @@
   "sellers": "B"
  },
  {
-  "name": "Subsonic stub rounds (box; Kasr Whisper)",
+  "name": "Subsonic stub rounds (box; Solid Whisper)",
   "tv": 0.75,
   "cat": "ammo",
   "rarity": "U",
@@ -1750,14 +1750,14 @@
   "sellers": "MAF"
  },
  {
-  "name": "Combat chain-knife, 'Kasr Gnaw' pattern (combat-knife frame, chain blade, spine motor, hilt lever; +1 strike first; through carapace, heavy carapace only on a crit)",
+  "name": "Combat chain-knife, 'Forge Gnaw' pattern (combat-knife frame, chain blade, spine motor, hilt lever; +1 strike first; through carapace, heavy carapace only on a crit)",
   "tv": 3,
   "cat": "melee",
   "rarity": "U",
   "sellers": "MBF"
  },
  {
-  "name": "Injector stiletto, 'Kasr Sting' pattern (straight stiletto blade with an injection channel; pommel vial, 1 dose; skeleton hilt, green cord wrap; throwable)",
+  "name": "Injector stiletto, 'Forge Sting' pattern (straight stiletto blade with an injection channel; pommel vial, 1 dose; skeleton hilt, green cord wrap; throwable)",
   "tv": 2,
   "cat": "melee",
   "rarity": "U",
@@ -1862,14 +1862,14 @@
   "sellers": "AF"
  },
  {
-  "name": "Power claw, 'Kasr Talon' pattern (four curved power blades; charge and expel into a stabbed target)",
+  "name": "Power claw, 'Forge Talon' pattern (four curved power blades; charge and expel into a stabbed target)",
   "tv": 60,
   "cat": "melee",
   "rarity": "X",
   "sellers": "BF"
  },
  {
-  "name": "Force wakizashi, 'Kasr Veil' pattern (psyker only; skeleton grip, no guard; warp-shield intake, Perils 1-3 each beat)",
+  "name": "Force wakizashi, 'Forge Veil' pattern (psyker only; skeleton grip, no guard; warp-shield intake, Perils 1-3 each beat)",
   "tv": 35,
   "cat": "melee",
   "rarity": "R",
@@ -2065,7 +2065,7 @@
   "sellers": "A"
  },
  {
-  "name": "Hydraulic push axe, 'Kasr Ram' pattern (two-handed; after a hit, punch: one armour tier more and +1 step, once a beat, 6 a canister; STR 30+)",
+  "name": "Hydraulic push axe, 'Forge Ram' pattern (two-handed; after a hit, punch: one armour tier more and +1 step, once a beat, 6 a canister; STR 30+)",
   "tv": 12,
   "cat": "melee",
   "rarity": "R",
@@ -2079,7 +2079,7 @@
   "sellers": "AM"
  },
  {
-  "name": "Heavy war axe, 'Kasr Gate' pattern (two-handed plasteel, double head: a missed or blocked swing returns at +1; spear butt +1 strike first; STR 30+)",
+  "name": "Heavy war axe, 'Forge Gate' pattern (two-handed plasteel, double head: a missed or blocked swing returns at +1; spear butt +1 strike first; STR 30+)",
   "tv": 8,
   "cat": "melee",
   "rarity": "U",
@@ -2093,7 +2093,7 @@
   "sellers": "MF"
  },
  {
-  "name": "Tactical breaching axe, 'Kasr Sapper' pattern (plasteel, full tang; one or two hands; +2 STR to force doors; can't break)",
+  "name": "Tactical breaching axe, 'Forge Sapper' pattern (plasteel, full tang; one or two hands; +2 STR to force doors; can't break)",
   "tv": 4,
   "cat": "melee",
   "rarity": "U",
@@ -3962,7 +3962,7 @@
   "sellers": "MB"
  },
  {
-  "name": "Hunting rifle, 'Kasr Stag' pattern (bolt action, autogun rounds, 5-round magazine; strings of 2; +1 aimed past ~30 m)",
+  "name": "Hunting rifle, 'Solid Stag' pattern (bolt action, autogun rounds, 5-round magazine; strings of 2; +1 aimed past ~30 m)",
   "tv": 1,
   "cat": "stub",
   "rarity": "C",
@@ -3983,7 +3983,7 @@
   "sellers": "BF"
  },
  {
-  "name": "Compound bow, 'Kasr Kestrel' pattern (STR 30+; strings of 1; arrows a step further; +1 aimed)",
+  "name": "Compound bow, 'Hunter Kestrel' pattern (STR 30+; strings of 1; arrows a step further; +1 aimed)",
   "tv": 2,
   "cat": "bow",
   "rarity": "U",
@@ -3995,6 +3995,13 @@
   "cat": "bow",
   "rarity": "R",
   "sellers": "EF"
+ },
+ {
+  "name": "Crossbow, 'Hunter Windlass' pattern (silent; re-span is the short move; bolts are arrows, one armour step further; +1 aimed; no slots)",
+  "tv": 2.5,
+  "cat": "bow",
+  "rarity": "U",
+  "sellers": "BF"
  },
  {
   "name": "Scrap arrows (5; break on any armour; made from scrap)",
@@ -4018,7 +4025,7 @@
   "sellers": "BF"
  },
  {
-  "name": "Burst pistol, 'Kasr Trice' pattern (3-round bursts; 15-round mag; full slots)",
+  "name": "Burst pistol, 'Ironside Trice' pattern (3-round bursts; 15-round mag; full slots)",
   "tv": 2,
   "cat": "stub",
   "rarity": "U",
@@ -4032,84 +4039,84 @@
   "sellers": "B"
  },
  {
-  "name": "Revolving shotgun, 'Kasr Turnstile' pattern (14-shell cylinder, semi-auto, chains 4; recoil 0; optic and under-barrel only; reload 4 a half beat)",
+  "name": "Revolving shotgun, 'Breach Turnstile' pattern (14-shell cylinder, semi-auto, chains 4; recoil 0; optic and under-barrel only; reload 4 a half beat)",
   "tv": 6,
   "cat": "stub",
   "rarity": "R",
   "sellers": "MBF"
  },
  {
-  "name": "Over-under pump shotgun, 'Kasr Twinstack' pattern (stacked barrels, tube between, 8 shells; long pump chambers both; strings of 3; both barrels once a string; -2 past ~25 m; optic and two muzzles)",
+  "name": "Over-under pump shotgun, 'Breach Twinstack' pattern (stacked barrels, tube between, 8 shells; long pump chambers both; strings of 3; both barrels once a string; -2 past ~25 m; optic and two muzzles)",
   "tv": 4,
   "cat": "stub",
   "rarity": "U",
   "sellers": "MBF"
  },
  {
-  "name": "Combat shotgun, 'Kasr Switchback' dual-mode pattern (semi: strings of 4, recoil 2; pump: strings of 3, no recoil; 9-shell tube; skeleton stock; every slot but the stock)",
+  "name": "Combat shotgun, 'Breach Switchback' dual-mode pattern (semi: strings of 4, recoil 2; pump: strings of 3, no recoil; 9-shell tube; skeleton stock; every slot but the stock)",
   "tv": 5,
   "cat": "stub",
   "rarity": "U",
   "sellers": "MBF"
  },
  {
-  "name": "Auto-shotgun, 'Kasr Thresher' drum pattern (full auto, strings of 6, recoil 2; jams on 1-4 in strings of 4+; 30-round drum, reload takes the beat; -2 past ~10 m)",
+  "name": "Auto-shotgun, 'Breach Thresher' drum pattern (full auto, strings of 6, recoil 2; jams on 1-4 in strings of 4+; 30-round drum, reload takes the beat; -2 past ~10 m)",
   "tv": 10,
   "cat": "stub",
   "rarity": "R",
   "sellers": "MBF"
  },
  {
-  "name": "Shot-revolver, 'Kasr Magistrate' officer's pattern (gilded six-shell revolver; also takes stub revolver rounds; close blast inside ~10 m; Fan the Hammer)",
+  "name": "Shot-revolver, 'Ironside Magistrate' officer's pattern (gilded six-shell revolver; also takes stub revolver rounds; close blast inside ~10 m; Fan the Hammer)",
   "tv": 8,
   "cat": "stub",
   "rarity": "R",
   "sellers": "MF"
  },
  {
-  "name": "Combat shotgun, 'Kasr Longshot' long-barrel pattern (semi-auto, strings of 4; close blast to ~20 m, -2 past ~30 m; 30-round ergo mag, a reload is the short move)",
+  "name": "Combat shotgun, 'Breach Longshot' long-barrel pattern (semi-auto, strings of 4; close blast to ~20 m, -2 past ~30 m; 30-round ergo mag, a reload is the short move)",
   "tv": 7,
   "cat": "stub",
   "rarity": "R",
   "sellers": "MBF"
  },
  {
-  "name": "Bullpup pump shotgun, 'Kasr Carousel' rotary-tube pattern (bullpup pump; three tubes of 5 on a turning carrier, a load in each, twist free once a beat; strings of 3; +1 quick-draw)",
+  "name": "Bullpup pump shotgun, 'Breach Carousel' rotary-tube pattern (bullpup pump; three tubes of 5 on a turning carrier, a load in each, twist free once a beat; strings of 3; +1 quick-draw)",
   "tv": 6,
   "cat": "stub",
   "rarity": "R",
   "sellers": "MBF"
  },
  {
-  "name": "Folding breaching shotgun, 'Kasr Jackknife' pattern (folds to pistol size, +2 to hide; flip and fire the same beat; 4-shell tube, pump; recoil 2; a shot opens a lock or hinge; no slots)",
+  "name": "Folding breaching shotgun, 'Breach Jackknife' pattern (folds to pistol size, +2 to hide; flip and fire the same beat; 4-shell tube, pump; recoil 2; a shot opens a lock or hinge; no slots)",
   "tv": 2.5,
   "cat": "stub",
   "rarity": "U",
   "sellers": "MBF"
  },
  {
-  "name": "Heavy line shotgun, 'Kasr Ironhound' pattern (a line of 8 heavy pellets; turning choke-collar: flat hits 3 abreast, upright makes cover one level lighter; 4-shell pump, strings of 2)",
+  "name": "Heavy line shotgun, 'Breach Ironhound' pattern (a line of 8 heavy pellets; turning choke-collar: flat hits 3 abreast, upright makes cover one level lighter; 4-shell pump, strings of 2)",
   "tv": 7,
   "cat": "stub",
   "rarity": "R",
   "sellers": "AFB"
  },
  {
-  "name": "Boarding shotgun, 'Kasr Breakwater' bayonet pattern (12-shell pump, strings of 3; reload half a beat per 3; close blast to ~20 m, -2 past ~20 m; heavy, -1 swapping; fixed bayonet)",
+  "name": "Boarding shotgun, 'Breach Breakwater' bayonet pattern (12-shell pump, strings of 3; reload half a beat per 3; close blast to ~20 m, -2 past ~20 m; heavy, -1 swapping; fixed bayonet)",
   "tv": 4,
   "cat": "stub",
   "rarity": "U",
   "sellers": "MBF"
  },
  {
-  "name": "Lever-action shotgun, 'Kasr Outrider' pattern (stockless lever shotgun: 5-shell tube, strings of 3, never jams; recoil 2; laser and muzzle only; Spin-cock)",
+  "name": "Lever-action shotgun, 'Breach Outrider' pattern (stockless lever shotgun: 5-shell tube, strings of 3, never jams; recoil 2; laser and muzzle only; Spin-cock)",
   "tv": 3,
   "cat": "stub",
   "rarity": "U",
   "sellers": "BF"
  },
  {
-  "name": "Wrist stub gun, 'Kasr Sleeve' pattern (under the sleeve, +5 to hide; 3-round mag; weak past ~10 m)",
+  "name": "Wrist stub gun, 'Ironside Sleeve' pattern (under the sleeve, +5 to hide; 3-round mag; weak past ~10 m)",
   "tv": 2,
   "cat": "stub",
   "rarity": "U",
@@ -4732,7 +4739,7 @@
   "sellers": "MB"
  },
  {
-  "name": "Pry-bar, 'Kasr Jemmy' pattern (iron bar with a claw; +2 to force crates and hatches; fights as a club)",
+  "name": "Pry-bar, 'Forge Jemmy' pattern (iron bar with a claw; +2 to force crates and hatches; fights as a club)",
   "tv": 0.25,
   "cat": "melee",
   "rarity": "C",
@@ -4753,7 +4760,7 @@
   "sellers": "B"
  },
  {
-  "name": "War hammer, 'Kasr Anvil' pattern (hammer face and spike: spike through carapace on a solid hit; hammer knocks flat on a solid hit)",
+  "name": "War hammer, 'Forge Anvil' pattern (hammer face and spike: spike through carapace on a solid hit; hammer knocks flat on a solid hit)",
   "tv": 3,
   "cat": "melee",
   "rarity": "U",

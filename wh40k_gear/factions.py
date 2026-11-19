@@ -26,8 +26,8 @@ F = [
  {"name":"Red Corsair reavers","type":"pirate","favoured":["Boltgun, Godwyn pattern (stolen)","Combat shotgun, semi-auto","Hellgun, Ryza pattern"]},
  # Raiders
  {"name":"Renegade Void-Raiders","type":"raider","favoured":["Lascarbine, Accatran Mk IV","Combat shotgun, semi-auto","Heavy laspistol"]},
- {"name":"Crangor's Buccaneers","type":"raider","favoured":["Auto-revolver, 'Hammerfall' pattern, stub barrel","Ripper gun / drum-fed shotgun","Hand cannon (big-bore stubber)"]},
- {"name":"The Fallen Maelstrom Wardens","type":"raider","favoured":["Hellgun, Ryza pattern","Boltgun, Godwyn pattern (stolen)","Vigilante autogun, 'Kasr Warden' pattern"]},
+ {"name":"Crangor's Buccaneers","type":"raider","favoured":["Auto-revolver, 'Hammerfall' pattern, stub barrel","Ripper gun / drum-fed shotgun","Hand cannon, 'Magnum Six' pattern"]},
+ {"name":"The Fallen Maelstrom Wardens","type":"raider","favoured":["Hellgun, Ryza pattern","Boltgun, Godwyn pattern (stolen)","Vigilante autogun, 'Solid Warden' pattern"]},
  {"name":"Chaos Cultist Scavengers","type":"raider","favoured":["Scrap autogun with drum","Hive-gang 'scattergun'","Ganger's chain-fed autopistol"]},
  # Traitor elites: fallen companies of famous regiments
  {"name":"The Lost 88th Cadian (fallen company)","type":"traitor_elite","favoured":["Lasgun, Kantrael M36","Hellgun, Ryza pattern","Plasma gun, Mars pattern"]},

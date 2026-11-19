@@ -30,7 +30,7 @@ HAND = SIGHT  # guns a hand holds and a grip sleeve fits
 MELEE = {"ch", "pw", "bl", "bt", "st"}  # st: psyker staffs and staves (day 48)
 NOGLOVE = r"^(?!.*(glove|fist|knuckle)).*"  # worn weapons take no grip, strap, pommel or length parts (day 48 audit)
 STUBCAL = r"(?<!auto-)revolver|stub pistol|stub automatic|hand cannon|lever|hunting stub|stub rifle|boarding pistol"
-AUTOCAL = r"autogun|autopistol|autorifle|auto-revolver|hammerfall|submachine|rattler|machine pistol|chain-fed|kasr stag|burst pistol"
+AUTOCAL = r"autogun|autopistol|autorifle|auto-revolver|hammerfall|submachine|rattler|machine pistol|chain-fed|solid stag|burst pistol"
 NAMES = {"lp": "las pistols", "lr": "las rifles", "sp": "stub pistols", "smg": "SMGs", "sr": "autoguns and stub rifles",
          "sg": "shotguns", "bp": "bolt pistols", "br": "boltguns", "pp": "plasma pistols", "pg": "plasma guns",
          "np": "needle pistols", "nr": "needle rifles", "hf": "hand flamers", "fl": "flamers", "hs": "heavy stubbers",
@@ -244,10 +244,10 @@ A = [
  ("c_gaspiston", "Plasteel spring and gas-piston trigger", "R", "action", {"gl"}, None, None, 1, "2 grenades a string; the second -1 for the kick", C + "holliss-six-bells-schematic-16"),
  ("c_angled", "Angled handguard grip (fitted)", "C", "grip", {"gl"}, None, "c_gaspiston", 1, "no -1 on the second grenade", C + "holliss-six-bells-schematic-16"),
  ("c_arc", "Arc calculator", "R", "arc", {"gl", "mo"}, None, None, 1, "+3 on launcher shots past ~30 m, the first shot or a repeat on the same spot; the beams show in smoke", C + "holliss-six-bells-schematic-16"),
- ("c_lever", "New lever linkage", "U", "action", {"sr"}, "lever", None, 1, "single lever chains up to 7, double up to 4; above 6, no hit bonuses", C + "tamsins-kasr-frontier-schematic-17"),
- ("c_twintubes", "Twin side-by-side tubes", "U", "mag", {"sr"}, "lever", None, 1, "36 rounds; -1 swapping", C + "tamsins-kasr-frontier-schematic-17"),
- ("c_tubesel", "Tube selector", "U", "tubesel", {"sr"}, "lever", "c_twintubes", 1, "each tube its own load; flicking it is free", C + "tamsins-kasr-frontier-schematic-17"),
- ("c_pushload", "Push-loaders", "C", "loader", {"sr", "sg"}, "lever|pump|ironclad|harrow", None, 1, "refill a tube in the beat's move", C + "tamsins-kasr-frontier-schematic-17"),
+ ("c_lever", "New lever linkage", "U", "action", {"sr"}, "lever", None, 1, "single lever chains up to 7, double up to 4; above 6, no hit bonuses", C + "tamsins-solid-frontier-schematic-17"),
+ ("c_twintubes", "Twin side-by-side tubes", "U", "mag", {"sr"}, "lever", None, 1, "36 rounds; -1 swapping", C + "tamsins-solid-frontier-schematic-17"),
+ ("c_tubesel", "Tube selector", "U", "tubesel", {"sr"}, "lever", "c_twintubes", 1, "each tube its own load; flicking it is free", C + "tamsins-solid-frontier-schematic-17"),
+ ("c_pushload", "Push-loaders", "C", "loader", {"sr", "sg"}, "lever|pump|ironclad|harrow", None, 1, "refill a tube in the beat's move", C + "tamsins-solid-frontier-schematic-17"),
  ("c_box100", "100-round box mags", "U", "mag", {"sr"}, "autogun|columnus", None, 1, "100 rounds; a loaded box -1 swapping and quick-draw", C + "tamsins-columnus-schematic-18"),
  ("c_superv", "The Super V", "R", "action", {"sr"}, "autogun|columnus", None, 1, "auto strings up to 12, recoil 0; auto still no hit bonuses", C + "tamsins-columnus-schematic-18"),
  ("c_finned", "Short finned barrel", "U", "barrel", {"sr"}, "autogun|columnus", None, 1, "+1 inside ~10 m, -2 past ~30 m; strings of 8+ build 1 heat, the fins shed 1 when it doesn't fire; -1 swapping", C + "tamsins-columnus-schematic-18"),

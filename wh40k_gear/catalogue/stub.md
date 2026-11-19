@@ -25,9 +25,9 @@ adds 1; at 3 it must vent a beat; firing anyway at 3, d20 1-5 jams it (a beat to
 clear). Autogun punch, but **against carapace every third hit in one chain gets through (a full step)**; the others are
 shrugged (the old '3 hits count as one solid hit'; reworded in the day-48 audit).
 
-## Vigilante autogun, 'Kasr Warden' pattern
+## Vigilante autogun, 'Solid Warden' pattern
 
-**Vigilante autogun, 'Kasr Warden' pattern** (player design, uncommon, 2 TV;
+**Vigilante autogun, 'Solid Warden' pattern** (player design, uncommon, 2 TV;
 Munitorum, black market, Free Traders). Light L-shaped skeleton stock in bare steel,
 slim urban-grey receiver, top rail over built-in iron sights, straight 20-round
 magazine, railed handguard, vented barrel cover, threaded muzzle (thread-cap when
@@ -50,9 +50,9 @@ market, Free Traders). A compact full-auto pistol with a 30-round magazine.
 Shot chains of up to 8 with no hit bonuses (misses still -1). Autopistol punch:
 good on flesh, poor on flak; carapace shrugs it (a crit gets through; AP and CAP loads do better).
 
-## Twin-barrel autopistol, 'Kasr Hydra' pattern
+## Twin-barrel autopistol, 'Ironside Hydra' pattern
 
-**Twin-barrel autopistol, 'Kasr Hydra' pattern** (player design, Ash on Ostrava day 45; uncommon, ~3 TV; black
+**Twin-barrel autopistol, 'Ironside Hydra' pattern** (player design, Ash on Ostrava day 45; uncommon, ~3 TV; black
 market, Free Traders). Two stub barrels stacked under one slide, fed from a **40-round twin-column magazine**,
 firing **twice as fast as an autopistol**, with an **ergonomic moulded grip**. Both barrels eject through **one
 port**, which is its weak point.
@@ -65,9 +65,9 @@ port**, which is its weak point.
 - **One ejection port:** any shot die of **1-2** is a **jam** instead of the shot (a beat to clear).
 - A magazine lasts about two and a half full strings; a fresh one takes half a beat.
 
-## Machine pistol, 'Kasr Hornet' pattern
+## Machine pistol, 'Solid Hornet' pattern
 
-**Machine pistol, 'Kasr Hornet' pattern** (player design, uncommon, 2.5 TV; black
+**Machine pistol, 'Solid Hornet' pattern** (player design, uncommon, 2.5 TV; black
 market, Free Traders). Fires autogun rounds from an extended 40-round magazine in a
 purpose-made magwell. Moulded plastek grip with ergonomic grooves, side-ejecting
 slide, a short barrel that takes no muzzle attachment. **Extremely fast:** shot
@@ -85,9 +85,9 @@ cracks (out of the fight until repaired). **Dropped:** on the drop-prone table's
 "fires" result it dumps the whole magazine, spraying the area: roll the
 where-it-goes d20 once for every 10 rounds left (at least once).
 
-## Submachine gun, 'Kasr Locust' pattern
+## Submachine gun, 'Solid Locust' pattern
 
-**Submachine gun, 'Kasr Locust' pattern** (player design, Ash on Ostrava day 45; uncommon, ~3 TV; Munitorum,
+**Submachine gun, 'Solid Locust' pattern** (player design, Ash on Ostrava day 45; uncommon, ~3 TV; Munitorum,
 black market, Free Traders). The Hornet's bigger sister (named for a swarm): a compact stub SMG with a **30-round curved
 magazine**, a **select-fire switch**, a front grip and a **folding stock**. Stub rounds: good on flesh,
 **through flak on a solid hit**, carapace stops them.
@@ -116,9 +116,9 @@ your hands, and it does, on purpose.
 - **Simple:** strips and cleans in **~15 minutes**; anyone can fix it, and **two broken ones make one working
   one.** A magazine lasts about three full strings; a fresh one takes half a beat.
 
-## Silenced submachine gun, 'Kasr Whisper' pattern
+## Silenced submachine gun, 'Solid Whisper' pattern
 
-**Silenced submachine gun, 'Kasr Whisper' pattern** (Ash on Ostrava day 45; uncommon, ~4 TV; black market, Free
+**Silenced submachine gun, 'Solid Whisper' pattern** (Ash on Ostrava day 45; uncommon, ~4 TV; black market, Free
 Traders). An infiltrator's SMG: a fat **integral silencer** the length of the barrel and **subsonic stub
 rounds** from a 30-round magazine.
 - Strings of up to **6**, no hit bonuses in the string (misses still -1); **no recoil** (heavy, slow rounds).
@@ -156,9 +156,9 @@ boarding gun: a **gyro in the stock** and **caseless** rounds in a 40-round maga
 
 Moved to the Assassinorum file, day 47 (audit C3): [Venenum Temple: Needle SMG](assassinorum.md#venenum-temple-needle-smg).
 
-## Submachine gun, 'Kasr Scorpion' pattern
+## Submachine gun, 'Solid Scorpion' pattern
 
-**Submachine gun, 'Kasr Scorpion' pattern** (player design, Ash on Ostrava day 45; rare, ~5 TV; Free Traders, black
+**Submachine gun, 'Solid Scorpion' pattern** (player design, Ash on Ostrava day 45; rare, ~5 TV; Free Traders, black
 market). The **fastest-firing gun there is**: a short, angular stub SMG with a **40-round magazine** and **rails
 everywhere**.
 - Strings of up to **18**, no hit bonuses in the string (misses still -1); **recoil 2.**
@@ -167,9 +167,9 @@ everywhere**.
   grip, magazine, trigger, barrel).
 - A magazine is about two strings; a fresh one takes half a beat.
 
-## Bullpup SMG, 'Kasr Adder' pattern
+## Bullpup SMG, 'Solid Adder' pattern
 
-**Bullpup SMG, 'Kasr Adder' pattern** (player design, Ash on Ostrava day 45; uncommon, ~4 TV; Munitorum, Free
+**Bullpup SMG, 'Solid Adder' pattern** (player design, Ash on Ostrava day 45; uncommon, ~4 TV; Munitorum, Free
 Traders). A compact stub SMG built bullpup: the **magazine sits behind the grip**, the stock is part of the
 receiver, a **hand-stop is moulded into the front of the trigger guard** for the support hand, and a **short
 barrel** pokes out ahead of a short top rail with flip-up sights. A **32-round magazine.**
@@ -181,13 +181,13 @@ barrel** pokes out ahead of a short top rail with flip-up sights. A **32-round m
 - Stub rounds: **through flak on a solid hit.** The top rail takes an optic; the threaded barrel takes a muzzle
   attachment.
 
-## Hand cannon (big-bore stubber)
+## Hand cannon, 'Magnum Six' pattern
 
-**Hand cannon** (uncommon, 2 TV; black market, Munitorum, Free Traders; it was a name in the shop list with no entry
-until the player asked, Ash on Ostrava day 48; numbers the DM's). A big-bore revolver: a six-round cylinder of
-[heavy stub rounds](#heavy-stub-rounds) and a long, heavy barrel.
-- **Heavy stub punch** (the bullet does the job): **through flak at any range, reinforced flak inside ~15 m, carapace
-  only on a crit.**
+**Hand cannon, 'Magnum Six' pattern** (uncommon, 2 TV; black market, Munitorum, Free Traders; it was a name in the shop
+list with no entry until the player asked, Ash on Ostrava day 48; named by him: 'Magnum Six'; numbers the DM's). A
+big-bore revolver: a six-round cylinder of heavy stub rounds and a long, heavy barrel.
+- **The bullet does the punching, not the gun** (the player, day 48): it fires [heavy stub rounds](#heavy-stub-rounds),
+  and their entry says what they get through.
 - **Strings of 3, recoil 1** (as revolvers and hand cannons: codex Part 8, Swapping, recoil and attachment slots);
   **-2 past ~30 m.** [Fan the Hammer](abilities.md#fan-the-hammer) (a revolver).
 - **Reload:** round by round, half a beat per 2; a speedloader makes it half a beat; it can be topped up from the
@@ -197,9 +197,9 @@ until the player asked, Ash on Ostrava day 48; numbers the DM's). A big-bore rev
 
 **Abilities:** [Fan the Hammer](abilities.md#fan-the-hammer) (revolvers); [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
 
-## Heavy SMG, 'Orlock' pattern
+## Heavy SMG, 'Magnum Orlock' pattern
 
-**Heavy SMG, 'Orlock' pattern** (player design, Ash on Ostrava day 45; uncommon, ~3 TV; black market, Munitorum,
+**Heavy SMG, 'Magnum Orlock' pattern** (player design, Ash on Ostrava day 45; uncommon, ~3 TV; black market, Munitorum,
 Free Traders). Named for Necromunda's House of Iron, whose gangers swear by guns like it. An old-world SMG: the
 **whole gun is one piece of plain steel**, with a **wooden stock and a wooden fore-grip** bolted on like panels,
 the brass thrown out of a **port on top**, and a **45-round straight magazine** that feeds straight up into it.
@@ -207,7 +207,7 @@ the brass thrown out of a **port on top**, and a **45-round straight magazine** 
 a crate of a few hundred is ~1 TV). **The bullet does the job, not the gun** (the player, day 47).
 - Strings of up to **8**, no hit bonuses in the string (misses still -1); **recoil 1.**
 - **[Heavy stub rounds](#heavy-stub-rounds):** good on flesh; **through flak at any range**; **carapace only on a crit.**
-- **Never jams:** like the Kasr Frontier, it ignores gun condition.
+- **Never jams:** like the Solid Frontier, it ignores gun condition.
 - **No attachment slots at all:** it is what it is.
 - **Heavy and steady:** the wooden stock makes single aimed shots **+1** when it's shouldered.
 - A magazine is about five strings; a fresh one takes half a beat.
@@ -261,9 +261,9 @@ Mechanicus sigils on the frame. Each shot is a spitting white-green bolt of burn
 kit.md Muzzles rules apply (recoil -1, no penalty on long shots, -1 on quick-draw, Dirty after ~20 shots). Sorel's
 (campaign sheet).
 
-## Combat shotgun, 'Kasr Sweeper' duckbill pattern
+## Combat shotgun, 'Breach Sweeper' duckbill pattern
 
-**Combat shotgun, 'Kasr Sweeper' duckbill pattern** (player design, uncommon, 3 TV;
+**Combat shotgun, 'Breach Sweeper' duckbill pattern** (player design, uncommon, 3 TV;
 Munitorum, black market, Free Traders). Full-metal body with the stock built in as
 one piece, a handguard, an 8-shell tube under the barrel, and a side slide that
 throws spent shells clear. Semi-auto, chains of up to 4; reloading is half a beat
@@ -275,9 +275,9 @@ flak up close, carapace only on a solid hit). Tough: it can be swung as a club a
 is never damaged by a drop or fall.
 
 
-## Burst pistol, 'Kasr Trice' pattern
+## Burst pistol, 'Ironside Trice' pattern
 
-**Burst pistol, 'Kasr Trice' pattern** (uncommon, 2 TV, DM's price; Munitorum, black market, Free Traders; the player's
+**Burst pistol, 'Ironside Trice' pattern** (uncommon, 2 TV, DM's price; Munitorum, black market, Free Traders; the player's
 design, Ash on Ostrava day 47). An autopistol that fires **3-round bursts**: **a string is one burst of 3, and a miss in
 it costs no -1** (the burst rule, as the Columnus); **recoil 1**. **15-round magazine** (5 bursts). Autopistol punch;
 special auto rounds load. **Full attachment slots.**
@@ -293,9 +293,9 @@ stub revolver**; **-2 past ~10 m, and a hit out there is half a step (0.5)** (ha
 
 **Abilities:** [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
 
-## Hunting rifle, 'Kasr Stag' pattern
+## Hunting rifle, 'Solid Stag' pattern
 
-**Hunting rifle, 'Kasr Stag' pattern** (common, 1 TV, DM's price; hive and agri-world traders, Munitorum surplus, black
+**Hunting rifle, 'Solid Stag' pattern** (common, 1 TV, DM's price; hive and agri-world traders, Munitorum surplus, black
 market; the player's idea, Ash on Ostrava day 47: a bolt-action autoround hunting rifle). **Bolt action on autogun
 rounds:** a **5-round internal magazine** (a stripper clip loads it in half a beat). **Strings of 2** (working the bolt);
 **recoil 1.** A long, true hunting barrel: **+1 on aimed shots past ~30 m.** Autogun punch (good on flesh, poor on flak
@@ -349,9 +349,9 @@ shells as any shotgun (special loads: [below](#shotgun-shells-special-loads)).
 **Abilities:** [Slam (push-pull)](abilities.md#slam-push-pull): **its reinforced action only jams on a natural 1-3**
 (not 1-5); and [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
 
-## Revolving shotgun, 'Kasr Turnstile' pattern
+## Revolving shotgun, 'Breach Turnstile' pattern
 
-**Revolving shotgun, 'Kasr Turnstile' pattern** (rare, 6 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48;
+**Revolving shotgun, 'Breach Turnstile' pattern** (rare, 6 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48;
 name, price and the numbers he didn't set: the DM's). A **14-shell rotating cylinder** on a mid-sized barrel, with the
 **grip and stock built as one piece**.
 - **Semi-auto: chains of up to 4.** [Trigger Finger](abilities.md#trigger-finger) (semi-auto shotguns).
@@ -362,9 +362,9 @@ name, price and the numbers he didn't set: the DM's). A **14-shell rotating cyli
   reload (14) is just under 2 beats. It's loaded round by round, so it can be topped up from the string.
 - **Bulky:** -1 on swapping targets.
 
-## Over-under pump shotgun, 'Kasr Twinstack' pattern
+## Over-under pump shotgun, 'Breach Twinstack' pattern
 
-**Over-under pump shotgun, 'Kasr Twinstack' pattern** (uncommon, 4 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48;
+**Over-under pump shotgun, 'Breach Twinstack' pattern** (uncommon, 4 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48;
 name, price and the numbers he didn't set: the DM's). **Two barrels stacked one over the other, with the tube
 between them**, a long-throw pump and a **Monte Carlo stock**.
 - **8 shells in the tube;** half a beat per 2 shells to reload; it can be topped up from the string.
@@ -378,9 +378,9 @@ between them**, a long-throw pump and a **Monte Carlo stock**.
 - **Slots: one optic, and a muzzle on each barrel** (each affects only its own barrel's shots; the enemy roller fills
   one). Special shells still load. Recoil 1.
 
-## Combat shotgun, 'Kasr Switchback' dual-mode pattern
+## Combat shotgun, 'Breach Switchback' dual-mode pattern
 
-**Combat shotgun, 'Kasr Switchback' dual-mode pattern** (uncommon, 5 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48,
+**Combat shotgun, 'Breach Switchback' dual-mode pattern** (uncommon, 5 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48,
 after the old SPAS; name, price and the numbers he didn't set: the DM's). A combat shotgun that fires **semi-auto or
 pump**, with a selector near the trigger and a **skeleton stock**.
 - **Mode switch:** free, once a beat, before the string.
@@ -392,9 +392,9 @@ pump**, with a selector near the trigger and a **skeleton stock**.
 - **Skeleton stock** (built in): light and quick: **+1 on quick-draws and on swapping targets.**
 - **Every attachment slot but the stock.** Standard shotgun range (the close blast to ~15 m; -2 past ~15 m).
 
-## Auto-shotgun, 'Kasr Thresher' drum pattern
+## Auto-shotgun, 'Breach Thresher' drum pattern
 
-**Auto-shotgun, 'Kasr Thresher' drum pattern** (rare, 10 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48;
+**Auto-shotgun, 'Breach Thresher' drum pattern** (rare, 10 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48;
 name, price and the numbers he didn't set: the DM's). A full-auto shotgun built like a rifle: a buffer tube with a
 stock, a pistol grip, a railed handguard, a stub barrel, a magwell for its **30-round drum**, a top rail and a
 charging handle. **The shells do the hurting, not the gun** (the player, day 48: no bonus of its own beyond its
@@ -408,9 +408,9 @@ rate of fire).
 - **Slots:** the top rail (optic), the handguard (laser and lumen, under-barrel), a stock on the buffer tube, a muzzle
   on the stub barrel. No barrel slot; the drum is built in.
 
-## Shot-revolver, 'Kasr Magistrate' officer's pattern
+## Shot-revolver, 'Ironside Magistrate' officer's pattern
 
-**Shot-revolver, 'Kasr Magistrate' officer's pattern** (rare, 8 TV; Munitorum officers' issue, Free Traders; the player's design, Ash on Ostrava day 48: the old
+**Shot-revolver, 'Ironside Magistrate' officer's pattern** (rare, 8 TV; Munitorum officers' issue, Free Traders; the player's design, Ash on Ostrava day 48: the old
 Taurus Judge done in 40k; name, price and the numbers he didn't set: the DM's). A **six-chamber revolver that fires
 shotgun shells**: a lieutenant's or a commander's sidearm, **gilded and engraved, an aquila on the grip** (ornamental:
 **no bonus from the gilt**; it marks the bearer as an officer).
@@ -422,9 +422,9 @@ shotgun shells**: a lieutenant's or a commander's sidearm, **gilded and engraved
 - **Reload:** round by round, half a beat per 2; a speedloader makes it half a beat. It can be topped up from the string.
 - **Who carries it:** leaders and commanders (rare on their kit lists); a human boss's signature piece.
 
-## Combat shotgun, 'Kasr Longshot' long-barrel pattern
+## Combat shotgun, 'Breach Longshot' long-barrel pattern
 
-**Combat shotgun, 'Kasr Longshot' long-barrel pattern** (rare, 7 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48; name,
+**Combat shotgun, 'Breach Longshot' long-barrel pattern** (rare, 7 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48; name,
 price and the numbers he didn't set: the DM's). A semi-auto shotgun for longer ranges: **a long barrel**, a pistol grip
 and a tube stock, and a magwell for a **30-round ergo magazine** (PMAG style).
 - **Long barrel (built in):** **the close blast reaches ~20 m** (codex Part 8, Armour), and **the -2 starts past ~30 m**.
@@ -434,9 +434,9 @@ and a tube stock, and a magwell for a **30-round ergo magazine** (PMAG style).
   short move, not its main thing** (reload and still shoot that beat).
 - **Every attachment slot but the barrel** (a stock part still fits the tube).
 
-## Bullpup pump shotgun, 'Kasr Carousel' rotary-tube pattern
+## Bullpup pump shotgun, 'Breach Carousel' rotary-tube pattern
 
-**Bullpup pump shotgun, 'Kasr Carousel' rotary-tube pattern** (rare, 6 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48; name,
+**Bullpup pump shotgun, 'Breach Carousel' rotary-tube pattern** (rare, 6 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48; name,
 price and the numbers he didn't set: the DM's). A bullpup pump with no magazine: **three tubes of 5 shells each**
 (the player, day 48: three tubes of 5, not one of 15) on a carrier that turns inside the stock and runs the length of
 the gun.
@@ -449,9 +449,9 @@ the gun.
   magazines.
 - **Every attachment slot but the stock** (the bullpup body is the stock).
 
-## Folding breaching shotgun, 'Kasr Jackknife' pattern
+## Folding breaching shotgun, 'Breach Jackknife' pattern
 
-**Folding breaching shotgun, 'Kasr Jackknife' pattern** (uncommon, 2.5 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48;
+**Folding breaching shotgun, 'Breach Jackknife' pattern** (uncommon, 2.5 TV; Munitorum, black market, Free Traders; the player's design, Ash on Ostrava day 48;
 name, price and the numbers he didn't set: the DM's). A breaching shotgun that folds into itself: a grip, a
 handguard, a receiver, a **4-shell tube**, a pump and a barrel. Nothing else: **no sights, no stock.** **The grip folds
 into the receiver and the pump pushes the tube in.**
@@ -463,9 +463,9 @@ into the receiver and the pump pushes the tube in.**
 - **A breacher's gun:** **a shot at a lock or a hinge opens a door**, any load.
 - **No attachment slots** (special shells still load).
 
-## Heavy line shotgun, 'Kasr Ironhound' pattern
+## Heavy line shotgun, 'Breach Ironhound' pattern
 
-**Heavy line shotgun, 'Kasr Ironhound' pattern** (rare, 7 TV; Mechanicus, Free Traders, black market; the player's pick, Ash on Ostrava day 48: the Apex
+**Heavy line shotgun, 'Breach Ironhound' pattern** (rare, 7 TV; Mechanicus, Free Traders, black market; the player's pick, Ash on Ostrava day 48: the Apex
 Mastiff done as 40k, with a twist; name, price and numbers the DM's). Gilt-bound plasteel, an aquila on the receiver,
 and a **Mechanicus choke-collar** on the muzzle that shapes each shot into **a line of 8 heavy pellets**.
 - **The twist: the choke-collar turns** (free, once a beat):
@@ -477,9 +477,9 @@ and a **Mechanicus choke-collar** on the muzzle that shapes each shot into **a l
 - **Tight line:** the close blast to ~15 m (codex Part 8, Armour); **-2 only past ~20 m.**
 - **Slots: optic and laser only** (special shells still load).
 
-## Boarding shotgun, 'Kasr Breakwater' bayonet pattern
+## Boarding shotgun, 'Breach Breakwater' bayonet pattern
 
-**Boarding shotgun, 'Kasr Breakwater' bayonet pattern** (uncommon, 4 TV; Munitorum, black market, Free Traders; the player's pick, Ash on Ostrava day 48: the
+**Boarding shotgun, 'Breach Breakwater' bayonet pattern** (uncommon, 4 TV; Munitorum, black market, Free Traders; the player's pick, Ash on Ostrava day 48: the
 original Halo shotgun done as 40k, with a built-in bayonet; name, price and the numbers he didn't set: the DM's). A long,
 heavy pump with a boxy receiver and a broad handguard, **a bayonet fixed under the barrel**.
 - **12-shell tube, pump: strings of 3, recoil 1.** [Slam](abilities.md#slam-push-pull), as any pump.
@@ -491,9 +491,9 @@ heavy pump with a boxy receiver and a broad handguard, **a bayonet fixed under t
   the same gun.
 - **Every attachment slot but the under-barrel** (the bayonet sits there).
 
-## Lever-action shotgun, 'Kasr Outrider' pattern
+## Lever-action shotgun, 'Breach Outrider' pattern
 
-**Lever-action shotgun, 'Kasr Outrider' pattern** (uncommon, 3 TV; black market, Free Traders, frontier-world traders; the player's design, Ash on Ostrava
+**Lever-action shotgun, 'Breach Outrider' pattern** (uncommon, 3 TV; black market, Free Traders, frontier-world traders; the player's design, Ash on Ostrava
 day 48; name, price and the numbers he didn't set: the DM's). A lever gun cut down to a pistol grip, **no stock**, a big
 loop lever.
 - **5-shell tube, lever action: strings of 3.** The lever never jams, as any lever gun.
@@ -560,8 +560,8 @@ armour. The special stub loads below come in heavy stub too (HP, AP, HV, flat-ti
 
 **Stub and autogun rounds, special loads** (player picks, Ash on Ostrava day 36; Munitorum, black market,
 Free Traders). Each load comes in its own box and fits any gun of its
-calibre: **stub** (stub revolvers, stub automatics, the Kasr Frontier; heavy stub guns, such as hand cannons, take the heavy stub versions) or **auto** (autoguns,
-autopistols, Hammerfall auto-revolvers, the Kasr Hornet). **Standard rounds** (Stub/auto rounds, box): flak
+calibre: **stub** (stub revolvers, stub automatics, the Solid Frontier; heavy stub guns, such as hand cannons, take the heavy stub versions) or **auto** (autoguns,
+autopistols, Hammerfall auto-revolvers, the Solid Hornet). **Standard rounds** (Stub/auto rounds, box): flak
 shrugs them at range, reinforced flak and carapace shrug them. A magazine holds one load at a time. **In the enemy
 roll, AP and CAP count as rare** (only there; the shop rarity below stands: the player, day 47;
 [attachments.md](attachments.md#enemy-attachments)).
@@ -570,7 +570,7 @@ roll, AP and CAP count as rare** (only there; the shop rarity below stands: the 
 | --- | --- | --- | --- |
 | **HP** (hollow point) | stub, auto | uncommon, 1 TV a box | Opens up in flesh. **Flak doesn't shrug it, even at range; against no armour or flak, a solid hit drops two steps.** Reinforced flak and heavier shrug it |
 | **AP** (armour-piercing) | stub, auto | uncommon, 1.5 TV a box | Hardened steel core. **Flak and reinforced flak don't shrug it; through carapace on a solid hit inside ~15 m.** Heavy carapace and heavier shrug it (changed with the player, day 36 cleanup). Punches straight through flesh: **against no armour, a crit drops just one step** (no extra) |
-| **HV** (high velocity) | stub, auto | uncommon, 1 TV a box | Hot load, light bullet. **+1 on aimed shots past 30 m; flak doesn't shrug it at range.** The hot powder fouls the gun: **each HV shot counts as 2 toward Dirty**; in a never-jam gun (the Kasr Frontier) **the string takes -1 after 20 HV rounds until the gun is cleaned** (changed with the player, day 36 cleanup) |
+| **HV** (high velocity) | stub, auto | uncommon, 1 TV a box | Hot load, light bullet. **+1 on aimed shots past 30 m; flak doesn't shrug it at range.** The hot powder fouls the gun: **each HV shot counts as 2 toward Dirty**; in a never-jam gun (the Solid Frontier) **the string takes -1 after 20 HV rounds until the gun is cleaned** (changed with the player, day 36 cleanup) |
 | **Flat-tip** (the player's design) | stub | uncommon, 0.75 TV a box | A regular round, except against armour it can't get through: **a shrugged flat-tip hit counts as 2 shrugged hits toward wear-down** (Armour, wear-down: every 6 drop a step). **Ceramite-forged and power armour: no wear-down at all** (stub is too weak to matter: codex, Armour) |
 | **CAP** (ceramite-tipped armour-piercing) | auto | uncommon, 2 TV a box | A ceramite tip on a steel core (changed by the player, day 36: tipped, not cored, so it's cheap enough to use; a hot-shot pack does the same for free). **Flak and reinforced flak don't shrug it; through carapace on a solid hit at any range.** Heavy carapace and heavier shrug it (changed with the player, day 36 cleanup). Punches through flesh like AP (**against no armour, a crit drops just one step**) |
 
@@ -595,9 +595,9 @@ Ostrava day 48, for the Hell Cluster first). A longer barrel for any shotgun (no
 close blast reaches ~20 m, not ~15** (codex Part 8, Armour). Longer to bring up: **-1 on quick-draws.** Fits the
 [Hell Cluster](las.md#hell-shotgun-hell-cluster-pattern) and the shotlas too.
 
-## Combi-pistol, 'Kasr Trident' pattern
+## Combi-pistol, 'Ironside Trident' pattern
 
-**Combi-pistol, 'Kasr Trident' pattern** (player design, Ash on Ostrava session 9;
+**Combi-pistol, 'Ironside Trident' pattern** (player design, Ash on Ostrava session 9;
 rare, 12 TV; black market, Free Traders). Underhive gunsmith work, chunky and a little
 Ork-looking: one-handed, no stock, a metal grip, **three barrels**. **Twin barrels**
 fire autogun rounds from a **40-round magazine**, a pair per pull (2 rounds a shot:
@@ -609,27 +609,27 @@ firing it ends the shooter's shots for that beat, so spray first (one target or
 several), then the bolt into the last one. Reloading the bolt barrel takes the next
 beat's bolt shot. **One-handed, no stock: -1 on shots past ~20 m.**
 
-## Compact autogun, 'Kasr Hive' pattern
+## Compact autogun, 'Solid Hive' pattern
 
-**Compact autogun, 'Kasr Hive' pattern** (player design, Ash on Ostrava session 9;
+**Compact autogun, 'Solid Hive' pattern** (player design, Ash on Ostrava session 9;
 uncommon, 3 TV; Munitorum, black market, Free Traders). A tiny bullpup with a **clear
 50-round autogun magazine lying on top**. **Chains of up to 8.** **Made for tight
 spaces: +1 on shots within ~10 m; -2 past ~30 m.** Autogun punch: good on flesh,
 through flak on a solid hit. **Top magazine:** the shooter can see the rounds, so the
 first reload each fight costs no time.
 
-## Anti-materiel rifle, 'Kasr Breaker' pattern
+## Anti-materiel rifle, 'Siege Breaker' pattern
 
-**Anti-materiel rifle, 'Kasr Breaker' pattern** (player design, Ash on Ostrava session
+**Anti-materiel rifle, 'Siege Breaker' pattern** (player design, Ash on Ostrava session
 9; rare, 15 TV; Munitorum, black market, Free Traders). Fires **heavy stubber rounds**
 one at a time from a **5-round box**. **Shoots through cover** (crates, thin
 bulkheads, servitors, light vehicles). **A hit drops the target two health steps**
 and goes through carapace on any hit. **Must be braced** on its bipod or on cover
 (unbraced: -3). One shot a beat. **Loud:** everyone in the area hears it.
 
-## Lever-action stub rifle, 'Kasr Frontier' pattern
+## Lever-action stub rifle, 'Solid Frontier' pattern
 
-**Lever-action stub rifle, 'Kasr Frontier' pattern** (player design, Ash on Ostrava
+**Lever-action stub rifle, 'Solid Frontier' pattern** (player design, Ash on Ostrava
 session 9; uncommon, 2.5 TV, changed with the player, day 36 cleanup; Munitorum, black
 market, Free Traders). A classic lever
 gun with a **12-round tube**; **never jams**. **Single lever:** chains of up to 6,

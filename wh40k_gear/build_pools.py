@@ -49,39 +49,39 @@ add("stub","C","B",[("Pipe rifle (scrap bolt-action; 5 rounds, chains of 2; fall
 add("stub","C","B",[("Rattler (scrap SMG; 20-round stick, chains of 5; runs away on a 1)",0.75)])
 add("stub","C","B",[("Junk shotgun (scrap double-pipe; one or both barrels; both fire on a 1)",0.5)])
 add("stub","C","MB",[("Autogun, Agripinaa",1),("Autopistol",1),("Stub revolver",0.5),("Stub automatic",0.75),("Combat shotgun, pump",1.5),("Pump shotgun, \'Harrow\' pattern (6-shell tube; no attachment slots)",0.75),("Service stub pistol, \'Steadfast\' pattern (12-round mag; threaded barrel only)",0.75),("Pocket revolver, \'Trinity\' pattern (tiny 3-shot revolver; +2 to hide; no attachment slots)",0.4)])
-add("stub","C","MBF",[("Hunting rifle, \'Kasr Stag\' pattern (bolt action, autogun rounds, 5-round magazine; strings of 2; +1 aimed past ~30 m)",1)])
-add("stub","U","MBF",[("Combat shotgun, semi-auto",2),("Ripper gun / drum-fed shotgun",3),("Sawn-off shotgun",1),("Hand cannon (big-bore stubber)",2),("Scrap autogun with drum",1.5)])
+add("stub","C","MBF",[("Hunting rifle, \'Solid Stag\' pattern (bolt action, autogun rounds, 5-round magazine; strings of 2; +1 aimed past ~30 m)",1)])
+add("stub","U","MBF",[("Combat shotgun, semi-auto",2),("Ripper gun / drum-fed shotgun",3),("Sawn-off shotgun",1),("Hand cannon, 'Magnum Six' pattern",2),("Scrap autogun with drum",1.5)])
 add("stub","U","B",[("Silenced stub pistol",2.5),("Holdout stub pistol",1),("Hive-gang 'scattergun'",1),("Ganger's chain-fed autopistol",2)])
 # Player design (session 8): auto-revolver. Full rules in DND_CODEX Part 8.
 add("stub","U","MBF",[("Auto-revolver, 'Hammerfall' pattern, stub barrel (8-round cylinder, autogun rounds; hold-trigger chains up to 8, no hit bonuses in the chain)",2),("Auto-revolver, 'Hammerfall' pattern, long barrel (as stub; +1 on single aimed shots past 20 m)",2.5)])
 add("gear","C","MBF",[("Speedloader (auto-revolver)",0.25)])
-# Player designs (session 9): Kasr Hive, Kasr Breaker, Kasr Frontier. Rules in catalogue/stub.md.
-add("stub","U","MBF",[("Compact autogun, 'Kasr Hive' pattern (top 50-round mag; chains of 8; +1 within 10 m, -2 past 30 m)",3)])
-add("stub","R","MBF",[("Anti-materiel rifle, 'Kasr Breaker' pattern (heavy stubber rounds, 5-round box; through cover; 2 steps a hit; braced)",15)])
-add("stub","U","MBF",[("Lever-action stub rifle, 'Kasr Frontier' pattern (12-round tube; never jams; chains of 6, or 3 double-lever shots)",2.5)])
-add("stub","U","BF",[("Twin-barrel autopistol, 'Kasr Hydra' pattern (stub; 40-round mag; strings of 16; heat 1 per 8; jams on a 1-2; +1 quick-draw)",3)])
-add("stub","U","BF",[("Silenced submachine gun, 'Kasr Whisper' pattern (subsonic stub; not heard past 10 m; strings of 6, no recoil)",4),("Boarding SMG, Navy 'Gyre' pattern (gyro: no recoil in zero-g; caseless; strings of 8)",5)])
+# Player designs (session 9): Solid Hive, Siege Breaker, Solid Frontier. Rules in catalogue/stub.md.
+add("stub","U","MBF",[("Compact autogun, 'Solid Hive' pattern (top 50-round mag; chains of 8; +1 within 10 m, -2 past 30 m)",3)])
+add("stub","R","MBF",[("Anti-materiel rifle, 'Siege Breaker' pattern (heavy stubber rounds, 5-round box; through cover; 2 steps a hit; braced)",15)])
+add("stub","U","MBF",[("Lever-action stub rifle, 'Solid Frontier' pattern (12-round tube; never jams; chains of 6, or 3 double-lever shots)",2.5)])
+add("stub","U","BF",[("Twin-barrel autopistol, 'Ironside Hydra' pattern (stub; 40-round mag; strings of 16; heat 1 per 8; jams on a 1-2; +1 quick-draw)",3)])
+add("stub","U","BF",[("Silenced submachine gun, 'Solid Whisper' pattern (subsonic stub; not heard past 10 m; strings of 6, no recoil)",4),("Boarding SMG, Navy 'Gyre' pattern (gyro: no recoil in zero-g; caseless; strings of 8)",5)])
 add("stub","U","B",[("Rotary SMG, 'Hive Spinner' pattern (spin up a beat, then strings of 12; 60-round drum; loud)",3)])
 add("stub","R","B",[("Riot SMG, Arbites pattern (shock rounds: CON 13 or stunned; 50-round drum; strings of 6)",6)])
-add("stub","U","MBF",[("Heavy SMG, 'Orlock' pattern (steel and wood; heavy stub, through flak on any hit; 45-round mag; strings of 8; never jams; no attachments)",3)])
-add("stub","U","MF",[("Bullpup SMG, 'Kasr Adder' pattern (stub; 32-round mag behind the grip; strings of 10, first 4 shots no recoil; +1 quick-draw; reload a full beat)",4)])
-add("stub","R","BF",[("Submachine gun, 'Kasr Scorpion' pattern (fastest: strings of 18, recoil 2; 40-round mag; every attachment slot)",5)])
+add("stub","U","MBF",[("Heavy SMG, 'Magnum Orlock' pattern (steel and wood; heavy stub, through flak on any hit; 45-round mag; strings of 8; never jams; no attachments)",3)])
+add("stub","U","MF",[("Bullpup SMG, 'Solid Adder' pattern (stub; 32-round mag behind the grip; strings of 10, first 4 shots no recoil; +1 quick-draw; reload a full beat)",4)])
+add("stub","R","BF",[("Submachine gun, 'Solid Scorpion' pattern (fastest: strings of 18, recoil 2; 40-round mag; every attachment slot)",5)])
 add("stub","L","BF",[("Needle SMG, Venenum Temple pattern (silent toxin darts; strings of 4; the dart decides the save)",120)])
 add("las","U","MF",[("Las bullpup SMG, 'Kasr Volt' pattern (lasgun punch; strings of 8; 40 shots a pack; heat 1 per 10)",4)])
 add("stub","C","MB",[("Stamped submachine gun, 'Munitorum Mk I' pattern (mass-produced stub SMG; safe and auto only, strings of 8; wire stock; threaded muzzle; cannibalise two into one)",1)])
-add("stub","U","MBF",[("Submachine gun, 'Kasr Locust' pattern (stub; 30-round mag; auto strings of 8, bursts of 4 as two rounds, semi +1 stock out; folding stock)",3)])
+add("stub","U","MBF",[("Submachine gun, 'Solid Locust' pattern (stub; 30-round mag; auto strings of 8, bursts of 4 as two rounds, semi +1 stock out; folding stock)",3)])
 add("stub","R","AF",[("Phosphor blast pistol (Mechanicus; 6-chamber phosphor cylinder; strings of 3; a hit lights them up, +1 to shots at them; solid hit sets alight)",14)])
 add("ammo","U","A",[("Phosphor cylinder (6 rounds, phosphor blast pistol)",0.5)])
-# Player design (session 9): the Kasr Trident combi-pistol. Rules in catalogue/stub.md.
-add("stub","R","BF",[("Combi-pistol, 'Kasr Trident' pattern (twin autogun barrels, 40-round mag, chains of 6; under-barrel bolt shot last, -1)",12)])
+# Player design (session 9): the Ironside Trident combi-pistol. Rules in catalogue/stub.md.
+add("stub","R","BF",[("Combi-pistol, 'Ironside Trident' pattern (twin autogun barrels, 40-round mag, chains of 6; under-barrel bolt shot last, -1)",12)])
 # Darktide-inspired autoguns, player-detailed (session 8). Full rules in DND_CODEX Part 8.
 add("stub","C","MBF",[("Infantry autogun, 'Columnus' pattern (30-round curved mag; single/burst/auto)",1.25)])
 add("stub","U","MBF",[("Braced autogun, 'Graia' pattern (60-round box, bipod; full auto chains of 8; suppression braced; heat)",2.5)])
-add("stub","U","MBF",[("Vigilante autogun, 'Kasr Warden' pattern (20-round straight mag; semi-auto chains of 4; light trigger, drop-prone; vented; threaded muzzle; rails)",2)])
+add("stub","U","MBF",[("Vigilante autogun, 'Solid Warden' pattern (20-round straight mag; semi-auto chains of 4; light trigger, drop-prone; vented; threaded muzzle; rails)",2)])
 add("stub","U","MBF",[("Shredder autopistol, Ius pattern (Darktide; 30-round mag; full-auto chains of 8, no hit bonuses; autopistol punch)",1.5)])
 add("stub","U","MBF",[("Headhunter autogun, Agripaa pattern (Darktide; 15-round mag; semi-auto marksman; +2 aimed past 30 m; chains of 2)",3)])
-add("stub","U","MBF",[("Combat shotgun, 'Kasr Sweeper' duckbill pattern (one-piece metal body; 8-shell tube; semi-auto chains of 4; flat spread hits up to 3 abreast within 10 m; -2 past 15 m)",3)])
-add("stub","U","BF",[("Machine pistol, 'Kasr Hornet' pattern (autogun rounds, 40-round mag; chains of 10, no hit bonuses; hair trigger; jams on shot dice 1-4 from the 13th continuous round; dumps the mag when dropped)",2.5)])
+add("stub","U","MBF",[("Combat shotgun, 'Breach Sweeper' duckbill pattern (one-piece metal body; 8-shell tube; semi-auto chains of 4; flat spread hits up to 3 abreast within 10 m; -2 past 15 m)",3)])
+add("stub","U","BF",[("Machine pistol, 'Solid Hornet' pattern (autogun rounds, 40-round mag; chains of 10, no hit bonuses; hair trigger; jams on shot dice 1-4 from the 13th continuous round; dumps the mag when dropped)",2.5)])
 add("mod","U","MBF",[("Muzzle brake (threaded muzzles: a miss in a chain gives no -1; the flash gives you away in the dark)",1.5)])
 add("stub","R","MB",[("Web pistol, Arbites pattern (entangles, no damage; 4 shots a canister)",8)])
 add("ammo","U","MB",[("Web canister (4 shots)",1)])
@@ -110,10 +110,10 @@ add("melee","L","BF",[("Phase sword (Callidus; C'tan blade, ignores armour and s
 add("explosive","X","BF",[("Psyk-out grenade (Culexus; no powers for 2 turns in the burst)",20)])
 add("gear","L","BF",[("Animus speculum (Culexus; pariah only)",250),("Venenum toxin kit (injectors and poison globes)",120)])
 # --- Plasma / melta / flame ---
-add("plasma","R","AF",[("Plasma SMG, 'Kasr Spark' pattern (low-yield bolts; strings of 8, hits like a hellgun; 30 shots a standard cell; heat 1 per 6)",22)])
+add("plasma","R","AF",[("Plasma SMG, 'Sol Spark' pattern (low-yield bolts; strings of 8, hits like a hellgun; 30 shots a standard cell; heat 1 per 6)",22)])
 add("plasma","R","MAF",[("Plasma pistol, Ryza pattern",25),("Plasma gun, Mars pattern",30),("Plasma gun, Ryza pattern",32)])
 add("plasma","U","MAF",[("Plasma cell",6)])
-add("plasma","R","AF",[("Plasma repeater, 'Kasr Furnace' break-action lever pattern (one plasma cell in the breech: 8 shots, 12 tuned; 2 lever actions a beat (shot or pump, any mix), up to 3 pumps for a charged shot, each pump uses a shot; held charge builds heat)",30)])
+add("plasma","R","AF",[("Plasma repeater, 'Sol Furnace' break-action lever pattern (one plasma cell in the breech: 8 shots, 12 tuned; 2 lever actions a beat (shot or pump, any mix), up to 3 pumps for a charged shot, each pump uses a shot; held charge builds heat)",30)])
 add("plasma","R","AF",[("Tuned plasma cell (12 shots, not 8)",10)])
 add("plasma","R","AF",[("Plasma blaster, twin-cell 'Lumen' pattern (2 cells; chains up to 4; heat 1 per 4 shots; pistol punch)",35)])
 add("plasma","R","MAF",[("Plasma pistol, 'Needle' pattern (compact, long barrel; slow heat: 1 per 4 shots; 12 shots a cell; lighter punch)",18)])
@@ -125,12 +125,12 @@ add("flame","R","MF",[("Heavy flamer (~20 m gout; two steps in the ~6 m core; 8 
 add("launcher","U","MF",[("Grenade launcher, stand-alone",5),("Grenade launcher, revolver-drum",8)])
 add("heavy","C","MBF",[("Heavy stubber",4),("Heavy stubber, tripod",5)])
 # Player design (Ash on Ostrava day 44): rules in catalogue/heavy.md.
-add("heavy","R","MBF",[("Brute stubber, 'Kasr Deddog' pattern (brutes only, STR 50+; heavy stubber belts; strings of 8; recoil 1 on the move; -2 past ~30 m)",6)])
+add("heavy","R","MBF",[("Brute stubber, 'Bone'ead Deddog' pattern (brutes only, STR 50+; heavy stubber belts; strings of 8; recoil 1 on the move; -2 past ~30 m)",6)])
 add("heavy","R","MBF",[("Twin-linked heavy stubber, 'Bullgryn' pattern (brutes only, STR 50+; strings of 16, -1 a shot, no sight; -3 suppression; belt box, 3 strings, 2 beats to seat)",12)])
 add("ammo","C","MBF",[("Twin-linked belt box (two heavy stubber belts)",2)])
 add("heavy","R","MF",[("Hellstrike launcher, 'Bone'ead' pattern (Ogryn; brutes only, STR 50+; one Valkyrie Hellstrike a shot, reload a beat; two steps through power armour, ~4 m blast; backblast)",30)])
 # Ammo audit (Ash on Ostrava day 45): refills for guns whose ammo was missing. Exotics stay scarce on purpose.
-add("ammo","U","B",[("Shock shells (box; Arbites combat shotgun)",1.5),("Subsonic stub rounds (box; Kasr Whisper)",0.75)])
+add("ammo","U","B",[("Shock shells (box; Arbites combat shotgun)",1.5),("Subsonic stub rounds (box; Solid Whisper)",0.75)])
 add("ammo","R","B",[("Shock-round drum (50; Arbites riot SMG)",2)])
 add("ammo","U","MF",[("Caseless stub rounds (box; Navy Gyre boarding SMG)",1),("Frag missile (missile launcher)",2)])
 add("ammo","R","MF",[("Heavy bolter belt",10),("Autocannon shells (belt)",4),("Krak missile (missile launcher)",4)])
@@ -162,8 +162,8 @@ add("melee","C","MB",[("Combat knife",0.25),("Bayonet",0.25),("Entrenching tool"
 add("melee","U","MBF",[("Navy cutlass",2),("Chainsword",6),("Chain axe",8),("Shock maul",7),("Mono-knife",3),("Krieg trench shovel (sharpened)",0.5),("Officer's sabre",3),("Chain knife",3),("Shock baton (Arbites)",4)])
 add("melee","R","MAF",[("Power maul",25),("Power sword",30),("Power axe",30),("Power knife",15),("Chainsword, Lucius heavy",10),("Eviscerator (two-handed chainsword)",22),("Thunder hammer (damaged)",40)])
 # Player design (session 8): plasteel throwing knives. Full rules in DND_CODEX Part 8.
-add("melee","U","MBF",[("Combat chain-knife, 'Kasr Gnaw' pattern (combat-knife frame, chain blade, spine motor, hilt lever; +1 strike first; chainsword bite)",3)])
-add("melee","U","MBF",[("Injector stiletto, 'Kasr Sting' pattern (straight stiletto blade with an injection channel; pommel vial, 1 dose; skeleton hilt, green cord wrap; throwable)",2)])
+add("melee","U","MBF",[("Combat chain-knife, 'Forge Gnaw' pattern (combat-knife frame, chain blade, spine motor, hilt lever; +1 strike first; chainsword bite)",3)])
+add("melee","U","MBF",[("Injector stiletto, 'Forge Sting' pattern (straight stiletto blade with an injection channel; pommel vial, 1 dose; skeleton hilt, green cord wrap; throwable)",2)])
 add("gear","U","BF",[("Injector vial: toxin (1 dose; CON save or drop a health step)",1),("Injector vial: paralytic (1 dose; CON save or can't move or act next beat)",1.5)])
 add("gear","X","EF",[("Psy-ward amulet (blessed parchment; burns to take one hit that would hurt the wearer)",45)])
 add("goods","R","B",[("Chaos ward-mark (cult charm; takes one hit, the god's way, at a price)",15)])
@@ -173,8 +173,8 @@ add("explosive","U","B",[("Cult gas bottle (glass, plastek cage and sealed cap; 
 add("melee","R","MAF",[("Power fist, Guard pattern (human-sized; through power armour; slow, +2 to block or parry it)",35)])
 add("melee","X","BF",[("Astartes power fist (Space Marine; too big for a human hand: trade or trophy)",70),("Neo Scar scimitar (White Scars neophyte training blade, one-handed; ceramite edge, +1 strike first, no hilt)",45),("Fenrisian gift-blade (Space Wolf ceremonial longsword; pelt grip, gold mountain pommel)",55),("The 2nd Fist (Imperial Fists huntsman knife; plasteel, saw back, choil, gold guard, yellow grip)",30),("Blood Blade of Baal (Blood Angels trial short sword; ceramite, gold wing hilt, ruby blood drop, full tang)",45)])
 add("melee","R","AF",[("Las-fist, 'Kasr Knuckle' pattern (power fist with a lasgun barrel and crystal; trigger in the fist; -3 to shoot, none point-blank)",40)])
-add("melee","X","BF",[("Power claw, 'Kasr Talon' pattern (four curved power blades; charge and expel into a stabbed target)",60)])
-add("melee","R","F",[("Force wakizashi, 'Kasr Veil' pattern (psyker only; skeleton grip, no guard; warp-shield intake, Perils 1-3 each beat)",35)])
+add("melee","X","BF",[("Power claw, 'Forge Talon' pattern (four curved power blades; charge and expel into a stabbed target)",60)])
+add("melee","R","F",[("Force wakizashi, 'Forge Veil' pattern (psyker only; skeleton grip, no guard; warp-shield intake, Perils 1-3 each beat)",35)])
 add("melee","R","BF",[("Plasteel throwing knives, 'Callidus' pattern, wavy blade (set of 6; through carapace on a solid hit; wound -2 to treat)",4)])
 add("melee","C","MB",[("Hive shank (scrap knife)",0.1),("Scrap throwing knives (set of 4)",0.4),("Combat axe, Rashad pattern (fast, light)",1)])
 # Player design (Ash on Ostrava day 44): rules in catalogue/melee.md.
@@ -193,10 +193,10 @@ add("melee","R","MAF",[("Thunder hammer, Crucis pattern (intact; heavy, slow; th
 # Player design (Ash on Ostrava day 44): rules in catalogue/melee.md.
 add("melee","R","AEF",[("Relic blade, 'Thorian' pattern (two-handed ceramite greatblade; charge a beat: 3 swings as a power weapon, +1 step a hit; zealot champions and the Sororitas)",40)])
 add("melee","R","A",[("Omnissian axe (Mechanicus power axe; cog head; +1 step on machines; +2 tech rolls for a tech-priest)",38)])
-add("melee","R","AM",[("Hydraulic push axe, 'Kasr Ram' pattern (two-handed; after a hit, punch: one armour tier more and +1 step, once a beat, 6 a canister; STR 30+)",12),("Pressure canister (hydraulic push axe, 6 punches)",0.5)])
-add("melee","U","MF",[("Heavy war axe, 'Kasr Gate' pattern (two-handed plasteel, double head: a missed or blocked swing returns at +1; spear butt +1 strike first; STR 30+)",8)])
+add("melee","R","AM",[("Hydraulic push axe, 'Forge Ram' pattern (two-handed; after a hit, punch: one armour tier more and +1 step, once a beat, 6 a canister; STR 30+)",12),("Pressure canister (hydraulic push axe, 6 punches)",0.5)])
+add("melee","U","MF",[("Heavy war axe, 'Forge Gate' pattern (two-handed plasteel, double head: a missed or blocked swing returns at +1; spear butt +1 strike first; STR 30+)",8)])
 add("melee","U","MF",[("Tactical hand axe, 'Fenris' pattern (light bearded plasteel axe; chains of 4; hook disarms on a raw 18+; throwable)",2)])
-add("melee","U","MF",[("Tactical breaching axe, 'Kasr Sapper' pattern (plasteel, full tang; one or two hands; +2 STR to force doors; can't break)",4)])
+add("melee","U","MF",[("Tactical breaching axe, 'Forge Sapper' pattern (plasteel, full tang; one or two hands; +2 STR to force doors; can't break)",4)])
 add("melee","R","BF",[("Great chain axe, 'Butcher' pattern (two-handed; through heavy carapace, power armour on 18+; +1 step on flesh; STR 30+)",18)])
 add("melee","R","AF",[("Power odachi, 'Eversor' pattern (light curved ceramite blade, shredding teeth; power stud; one or two hands; CON 13 or a step more)",50)])
 add("melee","R","AF",[("Seeker shurikens, Mechanicus pattern (4; folding plasteel stars; ~15 m; dig in on a hit, -1 till torn out; return on a miss)",8)])
@@ -247,7 +247,7 @@ add("ammo","R","B",[("Cut phosphex (a can; forbidden: can't be beaten out, burns
 add("ammo","U","BF",[("Sulphur fuel (a can; flamers: +1 step on a hit; choking fumes)",2)])
 # Day 47: bows, quivers and arrows (the player's designs). Rules in catalogue/bows.md.
 add("bow","C","BF",[("Recurve bow, 'Reedhawk' pattern (silent; strings of 2; -2 past ~40 m)",0.5)])
-add("bow","U","BF",[("Compound bow, 'Kasr Kestrel' pattern (STR 30+; strings of 1; arrows a step further; +1 aimed)",2)])
+add("bow","U","BF",[("Compound bow, 'Hunter Kestrel' pattern (STR 30+; strings of 1; arrows a step further; +1 aimed)",2)])
 add("kit","C","BF",[("Quiver (20 arrows)",0.25)])
 add("ammo","C","BF",[("Scrap arrows (5; break on any armour; made from scrap)",0.05),("Metal arrows (10; dent flak; can break on carapace)",0.25)])
 add("ammo","U","BF",[("Steel arrows (10; through flak; dent carapace)",0.5)])
@@ -265,7 +265,7 @@ add("gear","U","MF",[("Grapnel launcher (hook to ~30 m; winch 10 m a beat)",4)])
 add("gear","U","MBF",[("Rappel harness (over any armour; down 10 m a beat, no penalty on shots)",1)])
 add("explosive","U","MAB",[("Remote detonator (4 receivers; wires into any charge or trip wire; ~300 m)",1.5),("Detonator receiver (spare)",0.25)])
 # Day 47: the player's street gear (burst pistol, derringer, tin-can bomb, cracker bundle, steak knife, taped flashlight).
-add("stub","U","MBF",[("Burst pistol, \'Kasr Trice\' pattern (3-round bursts; 15-round mag; full slots)",2)])
+add("stub","U","MBF",[("Burst pistol, \'Ironside Trice\' pattern (3-round bursts; 15-round mag; full slots)",2)])
 add("stub","C","B",[("Holdout stub pistol, \'Cutpurse\' pattern (derringer: one round, +3 to hide)",0.25)])
 add("explosive","C","B",[("Tin-can bomb (light it; ~3 m weak frag; the timing\'s off, duds on a 1)",0.1)])
 add("explosive","C","B",[("Cracker bundle (firecracker flashbang: -2 within ~4 m; duds on 1-2)",0.1)])
@@ -394,7 +394,7 @@ E = {
  "raider": {
   "weapon": [("Pipe rifle (scrap)","C"),("Rattler (scrap SMG)","C"),("Junk shotgun (scrap double-pipe)","C"),("Nailer (scrap scattergun)","C"),("Torch-thrower (scrap flamer)","C"),("Rivet gun (scrap)","U"),("Battery las (scrap)","U"),("Sump harpoon (scrap)","U"),("Bolt-pipe (scrap, one bolt round)","R"),("Autogun, Agripinaa","C"),("Autopistol","C"),("Stub automatic","C"),("Combat shotgun, pump","C"),
              ("Ganger's chain-fed autopistol","U"),("Hive-gang 'scattergun'","U"),("Auto-revolver, 'Hammerfall' pattern, stub barrel","U"),("Braced autogun (heavy barrel)","U"),
-             ("Hand cannon (big-bore stubber)","U"),("Ripper gun / drum-fed shotgun","R"),("Heavy stubber","R")],
+             ("Hand cannon, 'Magnum Six' pattern","U"),("Ripper gun / drum-fed shotgun","R"),("Heavy stubber","R")],
   "melee":  [("Hive shank (scrap knife)","C"),("Combat knife","C"),("Combat axe, Rashad pattern","C"),("Scrap throwing knives (set of 4)","C"),("Pipe pick (scrap war pick)","C"),("Railroad spike knife","C"),("Chain-flail (scrap)","C"),("Scrap axe","C"),("Heavy scrap axe","C"),("Rivet knuckles","C"),("Saw-cleaver","C"),
              ("Chain knife","U"),("Shock baton (Arbites, stolen)","U"),("Mono-knife","U"),("Chain axe","R")],
   "armour": [("Leathers, no armour","C"),("Flak vest","C"),("Flak armour set","U"),("Mesh armour (light, quiet)","U"),("Arbites carapace (stolen)","R")],
@@ -430,12 +430,12 @@ E["traitor"] = {
 }
 # Commoners (player-set, Ash on Ostrava day 45): a militia of ordinary people. Rules in bestiary/commoners.md.
 E["commoner"] = {
-  "weapon": [("Pipe rifle (scrap)","C"),("Junk shotgun (scrap double-pipe)","C"),("Stub revolver","C"),("Combat shotgun, pump","C"),("Pump shotgun, \'Harrow\' pattern","C"),("Service stub pistol, \'Steadfast\' pattern","C"),("Pocket revolver, \'Trinity\' pattern","C"),("Holdout stub pistol, \'Cutpurse\' pattern","C"),("Hunting rifle, \'Kasr Stag\' pattern","C"),
+  "weapon": [("Pipe rifle (scrap)","C"),("Junk shotgun (scrap double-pipe)","C"),("Stub revolver","C"),("Combat shotgun, pump","C"),("Pump shotgun, \'Harrow\' pattern","C"),("Service stub pistol, \'Steadfast\' pattern","C"),("Pocket revolver, \'Trinity\' pattern","C"),("Holdout stub pistol, \'Cutpurse\' pattern","C"),("Hunting rifle, \'Solid Stag\' pattern","C"),
              ("Hunting stub rifle (old, iron sights)","C"),("Sawn-off shotgun","C"),
-             ("Autogun, Agripinaa (old militia issue)","U"),("Stamped submachine gun, 'Munitorum Mk I' pattern","U"),("Lever-action stub rifle, 'Kasr Frontier' pattern","U"),("Hunting stub rifle with an old scope","U"),
-             ("Lasgun, Lucius No.98 (PDF surplus)","R"),("Submachine gun, 'Kasr Locust' pattern","R")],
+             ("Autogun, Agripinaa (old militia issue)","U"),("Stamped submachine gun, 'Munitorum Mk I' pattern","U"),("Lever-action stub rifle, 'Solid Frontier' pattern","U"),("Hunting stub rifle with an old scope","U"),
+             ("Lasgun, Lucius No.98 (PDF surplus)","R"),("Submachine gun, 'Solid Locust' pattern","R")],
   "melee":  [("Farm tool: pitchfork, sickle or billhook","C"),("Hive shank (scrap knife)","C"),("Scrap axe","C"),("Machete","C"),("Grox-prod (farm shock prod)","C"),
-             ("Trench club","C"),("Combat knife","U"),("Tactical breaching axe, 'Kasr Sapper' pattern","U"),("Chainsword (an old militia officer's)","R")],
+             ("Trench club","C"),("Combat knife","U"),("Tactical breaching axe, 'Forge Sapper' pattern","U"),("Chainsword (an old militia officer's)","R")],
   "armour": [("Work clothes, no armour","C"),("Padded work jacket","C"),("Flak vest","U"),("Old PDF flak armour set","U"),("Cogitator shield (scrap)","U"),
              ("Carapace chest plate (a family heirloom)","R")],
   "extra":  [("Nothing","C"),("Fire bottle (scrap)","C"),("Lho-sticks","C"),("Field dressing","C"),("Family aquila charm","C"),
@@ -508,7 +508,7 @@ for k in ("raider","pirate"): SPEC[k].setdefault("plasma gunner", PLASMA)
 E["traitor_elite"] = {
   "weights": {"C": 25, "U": 50, "R": 25},
   "weapon": [("Hellgun, Ryza pattern","C"),("Hellgun, Accatran (compact)","C"),("Hot-shot volley gun","U"),("Lasgun, 'Kasr Duet' twin-focus pattern","U"),
-             ("Boltgun, Godwyn pattern","R"),("Plasma gun, Mars pattern","R"),("Combat shotgun, 'Kasr Sweeper' duckbill pattern","U")],
+             ("Boltgun, Godwyn pattern","R"),("Plasma gun, Mars pattern","R"),("Combat shotgun, 'Breach Sweeper' duckbill pattern","U")],
   "melee":  [("Combat knife","C"),("Chain knife","C"),("Chainsword","U"),("Shock maul","U"),("Power knife","U"),("Power sword","R")],
   "armour": [("Storm trooper carapace","C"),("Storm trooper carapace and Scion-pattern helmet","U"),("Storm trooper carapace with a refractor field","R")],
   "extra":  [("Frag and krak grenades","C"),("Hot-shot packs (3)","C"),("Photon flash grenade","U"),("Stimm and med-kit","U"),
@@ -541,7 +541,7 @@ SPEC["traitor_elite"]["heavy gunner"] = [("Las-box, 'Kasr Barr' light las-LMG","
 SPEC["commoner"] = {
   "leader":      [("Headman: stub revolver and a loud voice","C"),("Militia captain: old PDF officer's laspistol + chainsword","U")],
   "medic":       [("Lay healer: field dressings, two stimms, a prayer book","C")],
-  "sniper":      [("Hunter: hunting stub rifle with an old scope","C"),("Hunter: Kasr Frontier lever-action","U")],
+  "sniper":      [("Hunter: hunting stub rifle with an old scope","C"),("Hunter: Solid Frontier lever-action","U")],
   "heavy gunner":[("Braced autogun, 'Graia' pattern","U"),("Old heavy stubber from the PDF armoury, 1 belt","R")],
   "grenadier":   [("Bag of 4 fire bottles + stub revolver","C"),("2 mining charges + pump shotgun","U")],
   "tracker":     [("Herder: grox-prod and a hunting rifle","C")],
@@ -623,8 +623,8 @@ NEW = {
  },
  "infiltrator": {
   "raider":  [("Infiltrator: silenced stub pistol, mono-knife, dark rags","U"),("Infiltrator: crossbow-quiet needle pistol, garrotte","R")],
-  "traitor": [("Infiltrator: silenced stub pistol, combat knife, chameleoline scraps","U"),("Infiltrator: suppressed Kasr Warden autogun, knife","U")],
-  "traitor_elite": [("Infiltrator: suppressed autopistol, power knife, chameleoline cloak","R"),("Infiltrator: needle rifle, mono-knife, chameleoline cloak","R"),("Infiltrator: suppressed Kasr Warden autogun, knife, cloak","U")],
+  "traitor": [("Infiltrator: silenced stub pistol, combat knife, chameleoline scraps","U"),("Infiltrator: suppressed Solid Warden autogun, knife","U")],
+  "traitor_elite": [("Infiltrator: suppressed autopistol, power knife, chameleoline cloak","R"),("Infiltrator: needle rifle, mono-knife, chameleoline cloak","R"),("Infiltrator: suppressed Solid Warden autogun, knife, cloak","U")],
  },
  "enforcer": {
   "traitor": [("Renegade commissar: bolt pistol and chainsword, greatcoat","U"),("Enforcer: laspistol and power maul, the old Commissariat cap","U")],
@@ -636,7 +636,7 @@ NEW = {
   "pirate":  [("Bomb-runner: a captured deckhand with mining charges lashed on","C"),("Bomb-runner: a crew coward in a promethium-tank harness","C"),("Bomb-runner: a prisoner with a melta bomb strapped to their back","R")],
  },
  "gunslinger": {
-  "raider": [("Gunslinger: two Hammerfall stub revolvers","U"),("Gunslinger: two autopistols","C"),("Gunslinger: Headhunter autogun","U"),("Gunslinger: Kasr Warden autogun","C")],
+  "raider": [("Gunslinger: two Hammerfall stub revolvers","U"),("Gunslinger: two autopistols","C"),("Gunslinger: Headhunter autogun","U"),("Gunslinger: Solid Warden autogun","C")],
   "pirate": [("Gunslinger: two heavy laspistols","U"),("Gunslinger: two Hammerfall long revolvers","C"),("Gunslinger: Kasr Sprinter long-las","U"),("Gunslinger: semi-auto shotgun","C")],
   "traitor": [("Gunslinger: two Kantrael laspistols","C"),("Gunslinger: two heavy laspistols","U"),("Gunslinger: Mezoa long-las","C"),("Gunslinger: Ryza hellgun (stolen Guard issue)","U"),("Gunslinger: two Hammerfall stub revolvers","C"),("Gunslinger: two plasma pistols","R"),("Gunslinger: two autopistols","C"),("Gunslinger: Accatran Mk XIV recon lasgun (short, fast)","U"),("Gunslinger: Agripinaa autogun","C")],
   "traitor_elite": [("Gunslinger: two hellpistols","U"),("Gunslinger: two Nocturne Ember heavy laspistols","R"),("Gunslinger: Kasr Duet twin-focus lasgun","R"),("Gunslinger: bolt pistol and a duelling laspistol","R")],

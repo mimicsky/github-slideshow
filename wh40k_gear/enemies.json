@@ -88,6 +88,10 @@
    [
     "Improvised melta, 'pot-cooker' (scrap)",
     "U"
+   ],
+   [
+    "Crossbow, 'Hunter Windlass' pattern",
+    "U"
    ]
   ],
   "melee": [
@@ -168,7 +172,7 @@
     "C"
    ],
    [
-    "Pry-bar, 'Kasr Jemmy' pattern",
+    "Pry-bar, 'Forge Jemmy' pattern",
     "C"
    ],
    [
@@ -826,7 +830,7 @@
     "U"
    ],
    [
-    "Hand cannon (big-bore stubber)",
+    "Hand cannon, 'Magnum Six' pattern",
     "U"
    ],
    [
@@ -838,11 +842,11 @@
     "R"
    ],
    [
-    "Over-under pump shotgun, 'Kasr Twinstack' pattern",
+    "Over-under pump shotgun, 'Breach Twinstack' pattern",
     "U"
    ],
    [
-    "Auto-shotgun, 'Kasr Thresher' drum pattern",
+    "Auto-shotgun, 'Breach Thresher' drum pattern",
     "R"
    ],
    [
@@ -850,11 +854,11 @@
     "U"
    ],
    [
-    "Folding breaching shotgun, 'Kasr Jackknife' pattern",
+    "Folding breaching shotgun, 'Breach Jackknife' pattern",
     "U"
    ],
    [
-    "Lever-action shotgun, 'Kasr Outrider' pattern",
+    "Lever-action shotgun, 'Breach Outrider' pattern",
     "U"
    ],
    [
@@ -863,6 +867,10 @@
    ],
    [
     "Improvised melta, 'pot-cooker' (scrap)",
+    "U"
+   ],
+   [
+    "Crossbow, 'Hunter Windlass' pattern",
     "U"
    ]
   ],
@@ -948,7 +956,7 @@
     "C"
    ],
    [
-    "Pry-bar, 'Kasr Jemmy' pattern",
+    "Pry-bar, 'Forge Jemmy' pattern",
     "C"
    ],
    [
@@ -956,7 +964,7 @@
     "C"
    ],
    [
-    "War hammer, 'Kasr Anvil' pattern",
+    "War hammer, 'Forge Anvil' pattern",
     "U"
    ],
    [
@@ -1406,7 +1414,7 @@
      "U"
     ],
     [
-     "Gunslinger: Kasr Warden autogun",
+     "Gunslinger: Solid Warden autogun",
      "C"
     ]
    ],
@@ -1621,7 +1629,7 @@
     "R"
    ],
    [
-    "Revolving shotgun, 'Kasr Turnstile' pattern",
+    "Revolving shotgun, 'Breach Turnstile' pattern",
     "R"
    ],
    [
@@ -1629,15 +1637,15 @@
     "U"
    ],
    [
-    "Over-under pump shotgun, 'Kasr Twinstack' pattern",
+    "Over-under pump shotgun, 'Breach Twinstack' pattern",
     "U"
    ],
    [
-    "Combat shotgun, 'Kasr Switchback' dual-mode pattern",
+    "Combat shotgun, 'Breach Switchback' dual-mode pattern",
     "U"
    ],
    [
-    "Auto-shotgun, 'Kasr Thresher' drum pattern",
+    "Auto-shotgun, 'Breach Thresher' drum pattern",
     "R"
    ],
    [
@@ -1645,27 +1653,27 @@
     "U"
    ],
    [
-    "Combat shotgun, 'Kasr Longshot' long-barrel pattern",
+    "Combat shotgun, 'Breach Longshot' long-barrel pattern",
     "R"
    ],
    [
-    "Bullpup pump shotgun, 'Kasr Carousel' rotary-tube pattern",
+    "Bullpup pump shotgun, 'Breach Carousel' rotary-tube pattern",
     "R"
    ],
    [
-    "Folding breaching shotgun, 'Kasr Jackknife' pattern",
+    "Folding breaching shotgun, 'Breach Jackknife' pattern",
     "U"
    ],
    [
-    "Heavy line shotgun, 'Kasr Ironhound' pattern",
+    "Heavy line shotgun, 'Breach Ironhound' pattern",
     "R"
    ],
    [
-    "Boarding shotgun, 'Kasr Breakwater' bayonet pattern",
+    "Boarding shotgun, 'Breach Breakwater' bayonet pattern",
     "U"
    ],
    [
-    "Lever-action shotgun, 'Kasr Outrider' pattern",
+    "Lever-action shotgun, 'Breach Outrider' pattern",
     "U"
    ]
   ],
@@ -1715,7 +1723,7 @@
     "C"
    ],
    [
-    "Pry-bar, 'Kasr Jemmy' pattern",
+    "Pry-bar, 'Forge Jemmy' pattern",
     "C"
    ],
    [
@@ -1727,7 +1735,7 @@
     "C"
    ],
    [
-    "War hammer, 'Kasr Anvil' pattern",
+    "War hammer, 'Forge Anvil' pattern",
     "U"
    ],
    [
@@ -2309,7 +2317,7 @@
     "R"
    ],
    [
-    "Revolving shotgun, 'Kasr Turnstile' pattern",
+    "Revolving shotgun, 'Breach Turnstile' pattern",
     "R"
    ],
    [
@@ -2317,39 +2325,39 @@
     "U"
    ],
    [
-    "Over-under pump shotgun, 'Kasr Twinstack' pattern",
+    "Over-under pump shotgun, 'Breach Twinstack' pattern",
     "U"
    ],
    [
-    "Combat shotgun, 'Kasr Switchback' dual-mode pattern",
+    "Combat shotgun, 'Breach Switchback' dual-mode pattern",
     "U"
    ],
    [
-    "Auto-shotgun, 'Kasr Thresher' drum pattern",
+    "Auto-shotgun, 'Breach Thresher' drum pattern",
     "R"
    ],
    [
-    "Combat shotgun, 'Kasr Longshot' long-barrel pattern",
+    "Combat shotgun, 'Breach Longshot' long-barrel pattern",
     "R"
    ],
    [
-    "Bullpup pump shotgun, 'Kasr Carousel' rotary-tube pattern",
+    "Bullpup pump shotgun, 'Breach Carousel' rotary-tube pattern",
     "R"
    ],
    [
-    "Folding breaching shotgun, 'Kasr Jackknife' pattern",
+    "Folding breaching shotgun, 'Breach Jackknife' pattern",
     "U"
    ],
    [
-    "Heavy line shotgun, 'Kasr Ironhound' pattern",
+    "Heavy line shotgun, 'Breach Ironhound' pattern",
     "R"
    ],
    [
-    "Boarding shotgun, 'Kasr Breakwater' bayonet pattern",
+    "Boarding shotgun, 'Breach Breakwater' bayonet pattern",
     "U"
    ],
    [
-    "Lever-action shotgun, 'Kasr Outrider' pattern",
+    "Lever-action shotgun, 'Breach Outrider' pattern",
     "U"
    ]
   ],
@@ -2403,7 +2411,7 @@
     "C"
    ],
    [
-    "War hammer, 'Kasr Anvil' pattern",
+    "War hammer, 'Forge Anvil' pattern",
     "U"
    ],
    [
@@ -2795,7 +2803,7 @@
      "U"
     ],
     [
-     "Infiltrator: suppressed Kasr Warden autogun, knife",
+     "Infiltrator: suppressed Solid Warden autogun, knife",
      "U"
     ]
    ],
@@ -3024,7 +3032,7 @@
     "C"
    ],
    [
-    "Hunting rifle, 'Kasr Stag' pattern",
+    "Hunting rifle, 'Solid Stag' pattern",
     "C"
    ],
    [
@@ -3044,7 +3052,7 @@
     "U"
    ],
    [
-    "Lever-action stub rifle, 'Kasr Frontier' pattern",
+    "Lever-action stub rifle, 'Solid Frontier' pattern",
     "U"
    ],
    [
@@ -3056,11 +3064,11 @@
     "R"
    ],
    [
-    "Submachine gun, 'Kasr Locust' pattern",
+    "Submachine gun, 'Solid Locust' pattern",
     "R"
    ],
    [
-    "Lever-action shotgun, 'Kasr Outrider' pattern",
+    "Lever-action shotgun, 'Breach Outrider' pattern",
     "U"
    ],
    [
@@ -3069,6 +3077,10 @@
    ],
    [
     "Improvised melta, 'pot-cooker' (scrap)",
+    "U"
+   ],
+   [
+    "Crossbow, 'Hunter Windlass' pattern",
     "U"
    ]
   ],
@@ -3106,7 +3118,7 @@
     "U"
    ],
    [
-    "Tactical breaching axe, 'Kasr Sapper' pattern",
+    "Tactical breaching axe, 'Forge Sapper' pattern",
     "U"
    ],
    [
@@ -3126,7 +3138,7 @@
     "C"
    ],
    [
-    "Pry-bar, 'Kasr Jemmy' pattern",
+    "Pry-bar, 'Forge Jemmy' pattern",
     "C"
    ],
    [
@@ -3269,7 +3281,7 @@
      "C"
     ],
     [
-     "Hunter: Kasr Frontier lever-action",
+     "Hunter: Solid Frontier lever-action",
      "U"
     ]
    ],
@@ -3377,7 +3389,7 @@
     "R"
    ],
    [
-    "Combat shotgun, 'Kasr Sweeper' duckbill pattern",
+    "Combat shotgun, 'Breach Sweeper' duckbill pattern",
     "U"
    ],
    [
@@ -3385,7 +3397,7 @@
     "R"
    ],
    [
-    "Revolving shotgun, 'Kasr Turnstile' pattern",
+    "Revolving shotgun, 'Breach Turnstile' pattern",
     "R"
    ],
    [
@@ -3393,27 +3405,27 @@
     "U"
    ],
    [
-    "Combat shotgun, 'Kasr Switchback' dual-mode pattern",
+    "Combat shotgun, 'Breach Switchback' dual-mode pattern",
     "U"
    ],
    [
-    "Auto-shotgun, 'Kasr Thresher' drum pattern",
+    "Auto-shotgun, 'Breach Thresher' drum pattern",
     "R"
    ],
    [
-    "Combat shotgun, 'Kasr Longshot' long-barrel pattern",
+    "Combat shotgun, 'Breach Longshot' long-barrel pattern",
     "R"
    ],
    [
-    "Bullpup pump shotgun, 'Kasr Carousel' rotary-tube pattern",
+    "Bullpup pump shotgun, 'Breach Carousel' rotary-tube pattern",
     "R"
    ],
    [
-    "Heavy line shotgun, 'Kasr Ironhound' pattern",
+    "Heavy line shotgun, 'Breach Ironhound' pattern",
     "R"
    ],
    [
-    "Boarding shotgun, 'Kasr Breakwater' bayonet pattern",
+    "Boarding shotgun, 'Breach Breakwater' bayonet pattern",
     "U"
    ]
   ],
@@ -3451,7 +3463,7 @@
     "U"
    ],
    [
-    "War hammer, 'Kasr Anvil' pattern",
+    "War hammer, 'Forge Anvil' pattern",
     "U"
    ],
    [
@@ -3833,7 +3845,7 @@
      "R"
     ],
     [
-     "Infiltrator: suppressed Kasr Warden autogun, knife, cloak",
+     "Infiltrator: suppressed Solid Warden autogun, knife, cloak",
      "U"
     ]
    ],
