@@ -96,6 +96,10 @@
    [
     "Heavy belt stubber, 'Siege Junker' pattern (scrap)",
     "U"
+   ],
+   [
+    "Heavy pipe rifle (scrap)",
+    "U"
    ]
   ],
   "melee": [
@@ -879,6 +883,10 @@
    ],
    [
     "Heavy belt stubber, 'Siege Junker' pattern (scrap)",
+    "U"
+   ],
+   [
+    "Heavy pipe rifle (scrap)",
     "U"
    ]
   ],
@@ -1691,6 +1699,10 @@
    [
     "Heavy belt stubber, 'Siege Rattler' light pattern",
     "U"
+   ],
+   [
+    "Battle rifle, 'Siege Bulldog' pattern",
+    "R"
    ]
   ],
   "melee": [
@@ -2086,6 +2098,10 @@
     [
      "Heavy belt stubber, 'Siege Whirlwind' rotary pattern (two-man team)",
      "R"
+    ],
+    [
+     "Heavy belt stubber, 'Siege Pintle' mounted pattern, on a tripod (two-man team)",
+     "R"
     ]
    ],
    "berserker": [
@@ -2382,6 +2398,10 @@
    ],
    [
     "Heavy belt stubber, 'Siege Rattler' light pattern",
+    "U"
+   ],
+   [
+    "Break-action rifle, 'Siege Hinge' pattern",
     "U"
    ]
   ],
@@ -2689,6 +2709,10 @@
     [
      "Heavy belt stubber on a tripod (two-man team)",
      "C"
+    ],
+    [
+     "Heavy belt stubber, 'Siege Pintle' mounted pattern, on a tripod (two-man team)",
+     "R"
     ]
    ],
    "heavy gunner": [
@@ -3110,6 +3134,10 @@
    [
     "Crossbow, 'Hunter Windlass' pattern",
     "U"
+   ],
+   [
+    "Break-action rifle, 'Siege Hinge' pattern",
+    "U"
    ]
   ],
   "melee": [
@@ -3463,6 +3491,14 @@
    [
     "Heavy belt stubber, 'Siege Rattler' light pattern",
     "U"
+   ],
+   [
+    "Anti-materiel rifle, 'Siege Longreach' semi-auto pattern",
+    "R"
+   ],
+   [
+    "Battle rifle, 'Siege Bulldog' pattern",
+    "R"
    ]
   ],
   "melee": [

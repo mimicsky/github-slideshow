@@ -434,7 +434,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Anti-materiel rifle, 'Siege Breaker' pattern (heavy belt stubber rounds, 5-round box; through cover; 2 steps a hit; braced)",
+  "name": "Anti-materiel rifle, 'Siege Breaker' pattern (heavy belt stubber rounds, 5-round box, bolt action; +1 aimed, no -2 until ~150 m; braced)",
   "tv": 15,
   "cat": "stub",
   "rarity": "R",
@@ -3535,6 +3535,13 @@
   "sellers": "AF"
  },
  {
+  "name": "Heavy belt stubber, 'Siege Pintle' mounted pattern (mounted only; strings of 10; suppression -3; a barrel swap every 30 shots)",
+  "tv": 20,
+  "cat": "heavy",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
   "name": "Valkyrie rocket pod (the pod ~4 TV and 2 Hellstrikes loaded; reloads 8 TV a missile)",
   "tv": 20,
   "cat": "vehicle",
@@ -4191,6 +4198,41 @@
   "cat": "stub",
   "rarity": "U",
   "sellers": "BF"
+ },
+ {
+  "name": "Anti-materiel rifle, 'Siege Longreach' semi-auto pattern (.50; no -2 until ~200 m; scope +2 past ~60 m; strings of 2; 10-round box; braced; STR 40)",
+  "tv": 25,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Battle rifle, 'Siege Bulldog' pattern (.50; recoil 1; a Dirty one jams only on a 1; 20-round mag; STR 40; every slot)",
+  "tv": 18,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Heavy pipe rifle (scrap .50; one round; crude scope; the chamber blows on a 1; under STR 40 the kick knocks him flat)",
+  "tv": 1,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "B"
+ },
+ {
+  "name": "Heavy belt stubber pistol, 'Siege Ping' pattern (.50; a 5-round clip from the top; the ping; STR 40, 50 one-handed)",
+  "tv": 12,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Break-action rifle, 'Siege Hinge' pattern (.50; one round; never jams; +1 aimed; STR 35)",
+  "tv": 6,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "M"
  },
  {
   "name": "Tin-can bomb (light it; ~3 m weak frag; the timing's off, duds on a 1)",

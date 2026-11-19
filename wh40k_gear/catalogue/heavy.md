@@ -53,6 +53,14 @@ Under STR 40: -2 on every shot and +1 recoil. **Strings of up to 6,** no hit bon
 strings of up to 16,** no hit bonuses; **recoil 1 braced.** **Suppression -3** (not -2). **It eats belts: a belt lasts 3
 strings.** **Braced or on its frame; carried only at STR 60+** (an Ogryn). Heavy belt stubber punch.
 
+## Heavy belt stubber, 'Siege Pintle' mounted pattern
+
+**Heavy belt stubber, 'Siege Pintle' mounted pattern** (rare, 20 TV; Munitorum, Free Traders; the player's design,
+Ash on Ostrava day 48, after the M2 Browning). **It must be mounted:** a vehicle's pintle, a tripod, an emplacement, a
+ship's door (the Valkyrie's would take one). **Strings of 10, recoil 0, suppression -3.** Belt-fed (heavy belt stubber
+belts). **It runs hot, counted by shots: every 30 shots the barrel must be swapped** (the player: a real swap, not a
+vent): **with the spare barrel it carries, a beat; with no spare, it has to cool for 2 beats.**
+
 ## Heavy belt stubber belts, special
 
 (player design, Ash on Ostrava day 35; any heavy belt stubber; Morcant's twin feed lets him carry one

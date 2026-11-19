@@ -632,14 +632,50 @@ spaces: +1 on shots within ~10 m; -2 past ~30 m.** Autogun punch: good on flesh,
 through flak on a solid hit. **Top magazine:** the shooter can see the rounds, so the
 first reload each fight costs no time.
 
+## Anti-materiel rifle, 'Siege Longreach' semi-auto pattern
+
+**Anti-materiel rifle, 'Siege Longreach' semi-auto pattern** (rare, 25 TV; Munitorum, black market, Free Traders; the
+player's design, Ash on Ostrava day 48, after the Barrett; numbers the DM's). A semi-auto .50 on heavy belt stubber
+rounds (they do the hurting). **Its thing is reach: no -2 until past ~200 m**, and **a built-in scope: +2 on aimed
+shots past ~60 m.** **Strings of 2, recoil 2; a 10-round box** (a spare is 0.1 TV). **Braced, or -3.** **STR 40.**
+
+## Battle rifle, 'Siege Bulldog' pattern
+
+**Battle rifle, 'Siege Bulldog' pattern** (rare, 18 TV; Munitorum, black market, Free Traders; the player's design, day
+48). A .50 rifle: a conjoined grip and stock, a big ejection port, a short barrel and a **20-round magazine** (a spare is
+0.3 TV). **Its thing is control and reliability:** the conjoined stock tames it to **recoil 1**; **the big port means
+a Dirty one jams only on a natural 1.** **Semi-auto, strings of 3; -2 past ~60 m; STR 40.** **Every attachment slot.**
+
+## Heavy pipe rifle (scrap)
+
+**Heavy pipe rifle (scrap)** (uncommon, scrap, 1 TV; black market; the player's design, day 48). A pipe for a barrel,
+a pull-out chamber the round is pushed into, a trigger, a crude scope and a wire stock: **a .50 for the poor.** **One
+round; reloading is the beat's main thing.** **The crude scope: +1 on aimed shots past ~30 m.** **Scrap quirk: on a
+natural 1 the chamber blows out: he drops a step and the gun is gone.** **Under STR 40, the kick knocks him flat.**
+
+## Heavy belt stubber pistol, 'Siege Ping' pattern
+
+**Heavy belt stubber pistol, 'Siege Ping' pattern** (rare, 12 TV; Munitorum, Free Traders; the player's design, day 48,
+after the M1 Garand's clip). A .50 pistol: with the slide locked back, **a 5-round clip goes in through the top**; drop
+the slide and fire. **Strings of 2, recoil 2; -2 past ~30 m.** **STR 40 with two hands, 50 one-handed.** **The ping:**
+when it runs dry the empty clip pings out, and **anyone within ~20 m hears that he's empty.** A clip is a magazine
+(0.1 TV). **No rail slots; internal mods (trigger, barrel, grip) are fine.**
+
+## Break-action rifle, 'Siege Hinge' pattern
+
+**Break-action rifle, 'Siege Hinge' pattern** (uncommon, 6 TV; Munitorum; the player's design, day 48: a Militarum .50
+break-action, like a pellet gun made for .50). **One round: break it, load it, close it: the beat's main thing.** **Its
+thing: it never jams, even Dirty** (no scrap quirk). **The long barrel: +1 on aimed shots.** **A padded stock: STR 35.**
+**Slots: optic and sling.**
+
 ## Anti-materiel rifle, 'Siege Breaker' pattern
 
 **Anti-materiel rifle, 'Siege Breaker' pattern** (player design, Ash on Ostrava session
 9; rare, 15 TV; Munitorum, black market, Free Traders). Fires **heavy belt stubber rounds**
-one at a time from a **5-round box**. **Shoots through cover** (crates, thin
-bulkheads, servitors, light vehicles). **A hit drops the target two health steps**
-and goes through carapace on any hit. **Must be braced** on its bipod or on cover
-(unbraced: -3). One shot a beat. **Loud:** everyone in the area hears it.
+one at a time from a **5-round box**; the rounds do the hurting (heavy belt stubber punch; **the player, day 48: the
+ammo does the hurting, not the gun:** its old 'two steps a hit' and 'through cover' are gone). **Its thing is
+precision:** a bolt action and a long, heavy barrel: **+1 on aimed shots, and no -2 until past ~150 m.** **Must be
+braced** on its bipod or on cover (unbraced: -3). One shot a beat. **Loud:** everyone in the area hears it.
 
 ## Lever-action stub rifle, 'Solid Frontier' pattern
 

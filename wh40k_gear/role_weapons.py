@@ -24,7 +24,7 @@ ROLE_WEAPONS = {
             ("Hunting stub rifle with an old scope", "C"), ("Long-las, Mezoa", "U"), ("Long-las, 'Kasr Sprinter' stripped pattern", "U"),
             ("Compound bow, 'Hunter Kestrel' pattern, and a quiver of steel arrows", "U"), ("Long-las, Helbore", "R"),
             ("Vraks-pattern sniper autorifle", "R"), ("Hot-shot long-las with range-finder", "R"),
-            ("Charge long-las, 'Kasr Lance' pattern", "R"), ("Anti-materiel rifle, 'Siege Breaker' pattern", "R"), ("Headhunter autogun, Agripaa pattern", "U")],
+            ("Charge long-las, 'Kasr Lance' pattern", "R"), ("Anti-materiel rifle, 'Siege Breaker' pattern", "R"), ("Headhunter autogun, Agripaa pattern", "U"), ("Anti-materiel rifle, 'Siege Longreach' semi-auto pattern", "R"), ("Break-action rifle, 'Siege Hinge' pattern", "U")],
  "flamer": [("Torch-thrower (scrap flamer)", "C"), ("Promethium sprayer (homemade)", "C"), ("Hand flamer", "U"),
             ("Flamer, Ryza pattern + 2 canisters", "U"), ("Heavy flamer", "R"), ("Ecclesiarchy 'cleansing' flamer", "U"), ("Torch-pistol (scrap hand flamer)", "C"), ("Wrist flamer", "U"), ("Hose-fed hand flamer, Militarum pattern", "U"), ("Hose-fed hand flamer, 'Pyre' pattern", "R")],
  "heavy gunner": [("Heavy belt stubber", "C"), ("Braced autogun with drum", "C"), ("Heavy belt stubber with drum mag", "U"),
@@ -36,7 +36,7 @@ ROLE_WEAPONS = {
  "gunslinger": [("Two autopistols", "C"), ("Two stub revolvers", "C"), ("Two laspistols", "C"),
                 ("Two Hammerfall auto-revolvers", "U"), ("Two hellpistols", "U"), ("Two heavy laspistols", "U"),
                 ("Two burst pistols, 'Ironside Trice' pattern", "U"), ("Bolt pistol and a duelling laspistol", "R"),
-                ("Two plasma pistols", "R"), ("Two shot-revolvers, 'Ironside Magistrate' officer's pattern", "R"), ("Las-scattergun 'shotlas' and a stub revolver", "U"), ("Twin-barrel autopistol, 'Ironside Hydra' pattern", "U"), ("Combi-pistol, 'Ironside Trident' pattern", "R"), ("Shredder autopistol, Ius pattern", "U"), ("Machine pistol, 'Solid Hornet' pattern", "U"), ("Submachine gun, 'Solid Scorpion' pattern", "R")],
+                ("Two plasma pistols", "R"), ("Two shot-revolvers, 'Ironside Magistrate' officer's pattern", "R"), ("Las-scattergun 'shotlas' and a stub revolver", "U"), ("Twin-barrel autopistol, 'Ironside Hydra' pattern", "U"), ("Combi-pistol, 'Ironside Trident' pattern", "R"), ("Shredder autopistol, Ius pattern", "U"), ("Machine pistol, 'Solid Hornet' pattern", "U"), ("Submachine gun, 'Solid Scorpion' pattern", "R"), ("Heavy belt stubber pistol, 'Siege Ping' pattern", "R")],
  "grenadier": [("Bag of 4 frags", "C"), ("Bandolier of 4 frags and 2 smoke", "C"), ("Tin-can bombs x4", "C"),
                ("Cracker bundles x3 and 2 frags", "C"), ("Grenade launcher + 6 rounds", "U"),
                ("Grenade launcher with krak and frag", "R"), ("Grenade launcher, stand-alone", "U"), ("Grenade launcher, revolver-drum", "U"), ("Thumper (Catachan grenade launcher)", "U")],
@@ -71,7 +71,7 @@ ROLE_WEAPONS = {
                       # allies only (the player, Ash on Ostrava day 48)
  "veteran": [("Lasgun", "C"), ("Autogun", "C"), ("Combat shotgun, pump", "C"), ("Hunting rifle with an old scope", "C"),
              ("Lascarbine", "U"), ("Hellgun", "U"), ("Scoped autogun", "U"), ("Hellgun with a holo sight", "R"),
-             ("Long-las with a scope", "R"), ("Lucius-pattern 'Ironclad' shotgun", "R"), ("Catachan shotgun", "R"), ("Lasgun, Agripinaa", "U"), ("Lascarbine, Accatran Mk VI", "U"), ("Lasgun, Krieg pattern", "U"), ("Chainsword, Lucius heavy", "R"), ("Las bullpup SMG, 'Kasr Volt' pattern", "U"), ("Combi-plasma, 'Throne Twinfire' pattern", "R"), ("Combi-flamer, 'Throne Twinfire' pattern", "R"), ("Boltgun, Locke Mk IIb 'Spearhead'", "R")],  # the player, day 48
+             ("Long-las with a scope", "R"), ("Lucius-pattern 'Ironclad' shotgun", "R"), ("Catachan shotgun", "R"), ("Lasgun, Agripinaa", "U"), ("Lascarbine, Accatran Mk VI", "U"), ("Lasgun, Krieg pattern", "U"), ("Chainsword, Lucius heavy", "R"), ("Las bullpup SMG, 'Kasr Volt' pattern", "U"), ("Combi-plasma, 'Throne Twinfire' pattern", "R"), ("Combi-flamer, 'Throne Twinfire' pattern", "R"), ("Boltgun, Locke Mk IIb 'Spearhead'", "R"), ("Battle rifle, 'Siege Bulldog' pattern", "R")],  # the player, day 48
  "berserker": [("Chainsword", "C"), ("Chain axe", "C"), ("Heavy scrap axe", "C"), ("Saw-cleaver", "C"), ("Two chain axes", "U"),
                ("Eviscerator", "R"), ("Great chain axe, 'Butcher' pattern", "R"), ("Power axe", "R"), ("Chainsword, Lucius heavy", "R"), ("Combat chain-knife, 'Forge Gnaw' pattern", "U")],
  "mauler": [("Heavy scrap axe", "C"), ("Two-handed boarding axe", "C"), ("Headsman's axe (two-handed)", "U"), ("Chain glaive (two-handed)", "U"),
@@ -84,7 +84,7 @@ ROLE_WEAPONS = {
  "commander": [("Chainsword and a command vox", "C"), ("Shot-revolver, 'Ironside Magistrate' officer's pattern, and a command vox", "R"), ("Laspistol and a command vox", "C"), ("Bolt pistol and a command vox", "U"),
                ("Hellpistol and a command vox", "U"), ("Power sword and a command vox", "R"), ("Plasma pistol and a command vox", "R"), ("Boltgun, Phobos pattern", "R"), ("Las-fist, 'Kasr Knuckle' pattern", "R"), ("Storm bolter, 'Throne Armageddon' pattern", "R"), ("Combi-plasma, 'Throne Twinfire' pattern", "R"), ("Officer's bolt carbine, 'Throne Patrician' pattern", "R")],
  "leader": [("Chainsword and a command vox", "C"), ("Shot-revolver, 'Ironside Magistrate' officer's pattern, and a command vox", "R"), ("Laspistol and a command vox", "C"), ("Bolt pistol and a command vox", "U"),
-            ("Hellpistol and a command vox", "U"), ("Power sword and a command vox", "R"), ("Plasma pistol and a command vox", "R"), ("Bolt pistol, Ryza pattern", "R"), ("Boltgun, Locke Mk IIb 'Spearhead'", "R"), ("Hellpistol, Kantrael, and a command vox", "U"), ("Storm bolter, 'Throne Armageddon' pattern", "R"), ("Combi-melta, 'Throne Twinfire' pattern", "R"), ("Condemnor boltgun, 'Throne Inquest' pattern", "R"), ("Officer's bolt carbine, 'Throne Patrician' pattern", "R")],
+            ("Hellpistol and a command vox", "U"), ("Power sword and a command vox", "R"), ("Plasma pistol and a command vox", "R"), ("Bolt pistol, Ryza pattern", "R"), ("Boltgun, Locke Mk IIb 'Spearhead'", "R"), ("Hellpistol, Kantrael, and a command vox", "U"), ("Storm bolter, 'Throne Armageddon' pattern", "R"), ("Combi-melta, 'Throne Twinfire' pattern", "R"), ("Condemnor boltgun, 'Throne Inquest' pattern", "R"), ("Officer's bolt carbine, 'Throne Patrician' pattern", "R"), ("Heavy belt stubber pistol, 'Siege Ping' pattern, and a command vox", "R")],
  "medic": [("Med-kit and 3 stimms", "C"), ("Field dressings and two stimms", "C"), ("Med-kit, antitoxin and 2 stimms", "U"),
            ("Medicae kit and concentrated stimms", "R"), ("Needle pistol, 'Asp Doc' pattern, and stim darts", "U")],
  "chem-doctor": [("Drug satchel: stimms, slaught and Frenzon", "C"), ("Syringe spike and a drug satchel", "U"),
