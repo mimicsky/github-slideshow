@@ -178,6 +178,8 @@ A = [
  ("bowstring", "Heavy bowstring", "U", "string", {"bw"}, None, None, 0, "the -2 starts 20 m later; a bow needs 5 more STR to draw (a crossbow none)", "bows.md#bow-parts-day-48"),
  ("bowsight", "Bow sight", "C", "bowsight", {"bw"}, None, None, 0, "+1 on aimed shots past ~20 m", "bows.md#bow-parts-day-48"),
  ("c_arctracker", "Arc tracker (bow)", "U", "tracker", {"bw"}, r"^(?!.*condemnor)", None, 1, "no -2 at long range, out to twice the reach; arcs over cover: one level lighter; no beams", "bows.md#bow-parts-day-48"),
+ ("a_seekerarrow", "Seeker arrows, Mechanicus pattern", "R", "load", {"bw"}, None, None, 0, "lock onto heat: +3 on warm targets; light and half cover do not count; burst: through carapace, the target 2 steps, ~2 m dive or 0.5", "bows.md#explosive-arrows-day-48"),
+ ("a_scrapboom", "Scrap explosive arrows", "C", "load", {"bw"}, None, None, 0, "a tin-can bomb on a shaft: -2 and half the reach; goes off as a tin-can bomb with its d6 timing", "bows.md#explosive-arrows-day-48"),
  ("a_scraparrow", "Scrap arrows", "C", "load", {"bw"}, None, None, 0, "through no armour; flak and up shrug them (no wear-down) and they break", "bows.md#arrows"),
  ("a_metalarrow", "Metal arrows", "C", "load", {"bw"}, None, None, 0, "through no armour; dent flak and reinforced flak; can break on carapace and up", "bows.md#arrows"),
  ("a_steelarrow", "Steel arrows", "U", "load", {"bw"}, None, None, 0, "through flak; dent reinforced flak and carapace; can break on reinforced flak and up", "bows.md#arrows"),

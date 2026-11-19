@@ -82,4 +82,18 @@ bow gets through reinforced flak; with STR 50+ too, carapace). Too weak to matte
 | **Scrap arrow** (a hit is **half a step, 0.5**: day 48) | no armour | nothing: flak and up shrug it, **no wear-down** | **always**, on any armour it hits | common; **anyone makes 5 from scrap in a few minutes, no roll** |
 | **Metal arrow** | no armour | flak, reinforced flak | **can break** on carapace and up | common, 0.25 TV for 10 |
 | **Steel arrow** | **flak** | reinforced flak, carapace | **can break** on reinforced flak and up | uncommon, 0.5 TV for 10 |
+| **Seeker arrow, Mechanicus pattern** (explosive; [below](#explosive-arrows-day-48)) | **flak and carapace** (heavier on a solid hit) | n/a: it bursts | **spent on use** | rare, **5 TV each** |
+| **Scrap explosive arrow** (explosive; [below](#explosive-arrows-day-48)) | as a tin-can bomb | n/a: it bursts | **spent on use** | common; **anyone makes 2 from scrap and powder in a few minutes** |
 
+### Explosive arrows (day 48)
+
+Designed by the player, Ash on Ostrava day 48 (numbers the DM's).
+- **Seeker arrow, Mechanicus pattern** (rare, 5 TV each; Mechanicus, Free Traders): a full plasteel shaft, a
+  heat-seeking head and a small shaped charge: a missile on a bow. **It locks onto heat: +3 to hit anything warm**
+  (people, engines); no bonus on cold things (servitors, daemons). **It turns in flight: light and half cover don't
+  count.** **On a hit it bursts:** through flak and carapace (heavier armour on a solid hit); **the target drops 2
+  steps**, and everyone within ~2 m dives (DEX) or drops half a step (0.5).
+- **Scrap explosive arrow** (common; made, not bought): **a tin-can bomb lashed to a shaft.** Light the fuse before he
+  nocks it (the beat's short move). **Heavy: -2 on the shot, and half the bow's reach.** Where it lands it goes off
+  **as a tin-can bomb** (catalogue explosives.md: ~3 m, half a step, flak and heavier shrug it), **with its d6 for
+  timing; an 'early' bursts in mid-air, halfway there.**

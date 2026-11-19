@@ -4263,6 +4263,20 @@
   "sellers": "MBF"
  },
  {
+  "name": "Seeker arrow, Mechanicus pattern (heat-seeking explosive: +3 on warm targets; cover light and half ignored; bursts: 2 steps through carapace)",
+  "tv": 5,
+  "cat": "ammo",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Scrap explosive arrows (2; a tin-can bomb on a shaft: -2, half reach; tin-can timing)",
+  "tv": 0.1,
+  "cat": "ammo",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
   "name": "Reinforced flak helmet",
   "tv": 0.75,
   "cat": "armour",

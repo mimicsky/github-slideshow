@@ -140,6 +140,8 @@ balance, throwbal, rig, chguard, point, stand, regulator, enhancer, length, band
 | **Panic darts** | uncommon | load | needle pistols, needle rifles | CON vs 15 or drops what's in hand and runs or hides 2 beats | [stub.md](stub.md#needle-darts-special-loads) |
 | **Penetrator shells (autocannon)** | rare | load | heavy weapons (only: autocannon) | through a tank's side or rear; keeps the extra step on people; +1 recoil | [heavy.md](heavy.md#autocannon-shells-special-loads) |
 | **Scrap arrows** | common | load | bows | through no armour; flak and up shrug them (no wear-down) and they break | [bows.md](bows.md#arrows) |
+| **Scrap explosive arrows** | common | load | bows | a tin-can bomb on a shaft: -2 and half the reach; goes off as a tin-can bomb with its d6 timing | [bows.md](bows.md#explosive-arrows-day-48) |
+| **Seeker arrows, Mechanicus pattern** | rare | load | bows | lock onto heat: +3 on warm targets; light and half cover do not count; burst: through carapace, the target 2 steps, ~2 m dive or 0.5 | [bows.md](bows.md#explosive-arrows-day-48) |
 | **Shard darts** | rare | load | needle pistols, needle rifles | through carapace on any hit, heavy carapace on a solid hit | [stub.md](stub.md#needle-darts-special-loads) |
 | **Smoke rounds (mortar)** | common | load | mortars (only: ^(?!.*(pipe or lobber or scrap)).*mortar) | as a smoke grenade where it lands | [scrap.md](scrap.md#mortar-rounds-day-48) |
 | **Steel arrows** | uncommon | load | bows | through flak; dent reinforced flak and carapace; can break on reinforced flak and up | [bows.md](bows.md#arrows) |
