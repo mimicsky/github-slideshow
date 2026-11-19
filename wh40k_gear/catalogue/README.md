@@ -147,6 +147,9 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Boltgun, Locke Mk IIb 'Spearhead'](bolt.md#boltgun-locke-mk-iib-spearhead) (full auto from the hip, semi-auto aimed)
 - [Bolt-shotgun, 'Breacher' pattern](bolt.md#bolt-shotgun-breacher-pattern)
 - [Astartes bolters](bolt.md#astartes-bolters) (epic and legendary)
+- [Sororitas boltgun (Godwyn-De'az pattern)](bolt.md#sororitas-boltgun-godwyn-deaz-pattern) (STR 25; blessed)
+- [Sororitas bolt pistol (Godwyn-De'az pattern)](bolt.md#sororitas-bolt-pistol-godwyn-deaz-pattern) (STR 15; blessed)
+- [Heavy bolt rounds (.998)](bolt.md#heavy-bolt-rounds-998) (heavy bolters only; two steps a hit)
 - [Bolt rounds, special](bolt.md#bolt-rounds-special-loads) (Kraken, off-brand, meltacore, storm, vengeance)
 
 ## [Plasma weapons and cells](plasma.md)

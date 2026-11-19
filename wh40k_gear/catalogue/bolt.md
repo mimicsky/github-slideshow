@@ -6,10 +6,34 @@ Item rules for this category. General rules (heat, hot-shot, drop-prone, going D
 
 
 **Every bolter has a STR need (set by the player, Ash on Ostrava day 48).** **Bolt pistols 20 · the bolt-pipe 25 ·
-the bolt carbine 25 · boltguns, combi-bolters, the Condemnor boltgun and the 'Breacher' bolt-shotgun 30 · the storm bolter 30 with two hands, 40 one-handed · the Guard heavy
+the Sororitas bolt pistol 15 · the bolt carbine and the Sororitas boltgun 25 · boltguns, combi-bolters, the Condemnor boltgun and the 'Breacher' bolt-shotgun 30 · the storm bolter 30 with two hands, 40 one-handed · the Guard heavy
 bolter none braced or on a tripod, 50 from the hip.** Astartes bolters as their entry says (braced only, -4). **Under
 the need he can still fire it, badly: -2 on every shot and +1 recoil** (the kick throws him about; unlike a bow, which
 he can't draw at all).
+
+## Sororitas boltgun (Godwyn-De'az pattern)
+
+**Sororitas boltgun** (rare, 30 TV; shrine sellers, Free Traders; entry written with the player, Ash on Ostrava day 48).
+In the lore, the Sisters' **Godwyn-De'az** pattern: a smaller, human-sized take on the Space Marine boltgun, **built for
+normal hands** and blessed by the Ecclesiarchy. Strings of 3, recoil 2, bolt punch. **Lighter to fire: STR 25** (other
+boltguns 30). **Blessed: its bolts count as blessed weapons against daemons** (daemon flesh can't shrug them:
+bestiary bosses.md). **A 20-round box.** **Who carries it:** Sisters Novitiate (rare: sworn Sisters carry them more),
+zealots.
+
+## Sororitas bolt pistol (Godwyn-De'az pattern)
+
+**Sororitas bolt pistol** (rare, 16 TV; shrine sellers, Free Traders; entry written with the player, day 48). The
+Godwyn-De'az pistol: strings of 3, recoil 2, bolt punch. **Lighter to fire: STR 15** (other bolt pistols 20). **Blessed,**
+as the boltgun. **An 8-round magazine.** **Who carries it:** Sisters Novitiate, zealots, Ecclesiarchy-linked commissars
+(rare).
+
+## Heavy bolt rounds (.998)
+
+**Heavy bolt rounds (.998)** (the player's ask, Ash on Ostrava day 48; numbers the DM's). **Standard bolt rounds are the
+.75** (they fit any bolt weapon). **The .998 is the bigger heavy bolt and fits only heavy bolters** (the Guard heavy
+bolter, the Astartes heavy bolter): **a hit drops two steps**, one more than a .75; armour as any bolt (through
+everything up to semi power armour; Space Marine armour on a solid hit). **Sold as the heavy bolter belt** (10 TV).
+**The special bolt loads come in .998 too** (Kraken, Vengeance and the rest), as special stub loads come in heavy stub.
 
 ## Bolt rounds (special loads)
 

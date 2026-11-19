@@ -777,14 +777,14 @@
   "sellers": "MBF"
  },
  {
-  "name": "Sororitas bolt pistol (Godwyn-De'az)",
+  "name": "Sororitas bolt pistol (Godwyn-De'az; STR 15; blessed against daemons; 8 rounds)",
   "tv": 16,
   "cat": "bolt",
   "rarity": "R",
   "sellers": "EF"
  },
  {
-  "name": "Sororitas boltgun",
+  "name": "Sororitas boltgun (Godwyn-De'az pattern; STR 25; blessed against daemons; 20-round box)",
   "tv": 30,
   "cat": "bolt",
   "rarity": "R",
@@ -1253,7 +1253,7 @@
   "sellers": "MF"
  },
  {
-  "name": "Heavy bolter belt",
+  "name": "Heavy bolter belt (.998 heavy bolts: heavy bolters only; a hit drops two steps)",
   "tv": 10,
   "cat": "ammo",
   "rarity": "R",
