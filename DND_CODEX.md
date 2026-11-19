@@ -1664,6 +1664,8 @@ quartermaster: people hand their guns in to him and he cleans them.**
 
 #### Pack sizes
 
+**Bolters need STR (set by the player, Ash on Ostrava day 48):** bolt pistols 20, the bolt-pipe 25, boltguns and the bolt-shotgun 30, the storm bolter 30 (40 one-handed), the Guard heavy bolter 50 from the hip (none braced); under it, **-2 on every shot and +1 recoil** (catalogue bolt.md).
+
 **Pack sizes (set by the player, Ash on Ostrava session 10):** a **hot-shot pack** (hellguns, hellpistols, hot-shot conversions) holds **30 shots**; a **regular las pack** (lasguns, lascarbines, laspistols) holds **45**. Special packs keep their own numbers (catalogue). **Swapping a pack or a magazine mid-fight is the beat's main thing** (settled by the player, day 48: no shooting the same beat without Action Surge; a top-up from an unused string and Run and reload stay as written in A beat).
 
 **Magazines (set by the player, Ash on Ostrava day 48).** Magazine-fed guns (stub pistols, autopistols, autoguns,

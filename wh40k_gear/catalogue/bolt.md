@@ -5,6 +5,12 @@ Item rules for this category. General rules (heat, hot-shot, drop-prone, going D
 **Every gun in this file has [Precision Sacrifice](abilities.md#precision-sacrifice)** (give up shots from a string for +1 each on one shot, up to +3; 3-beat cooldown). **Bolt pistols and boltguns have [Trigger Finger](abilities.md#trigger-finger)** (+1 every shot, +2 shots, a miss -2, +1 recoil; day 47).
 
 
+**Every bolter has a STR need (set by the player, Ash on Ostrava day 48).** **Bolt pistols 20 · the bolt-pipe 25 ·
+boltguns and the 'Breacher' bolt-shotgun 30 · the storm bolter 30 with two hands, 40 one-handed · the Guard heavy
+bolter none braced or on a tripod, 50 from the hip.** Astartes bolters as their entry says (braced only, -4). **Under
+the need he can still fire it, badly: -2 on every shot and +1 recoil** (the kick throws him about; unlike a bow, which
+he can't draw at all).
+
 ## Bolt rounds (special loads)
 
 **Kraken bolt rounds** (rare, 20 TV for 10; Astartes-pattern, Mechanicus, Free Traders; rule written with the player,
@@ -46,7 +52,7 @@ bolters built side by side as one gun, firing together.
 - **Strings of 6** (twice a boltgun's). **Recoil 2.** [Trigger Finger](abilities.md#trigger-finger), as any boltgun.
 - **A bolt's punch:** each hit a step, through everything up to semi power armour; Space Marine armour only on a solid
   hit (codex Part 8, Armour).
-- **Yarrick's grip: STR 40+ fires it one-handed** (the other hand free: a sword, a klaw, a fist); below that, two hands.
+- **STR 30 with two hands; Yarrick's grip: STR 40+ fires it one-handed** (the other hand free: a sword, a klaw, a fist).
 - **Heavy: -1 on swapping targets.**
 - **A 30-round twin box** (15 a barrel; 5 strings); a spare box is 0.3 TV empty (codex Gear rules, Magazines); bolts
   cost extra.
