@@ -4123,6 +4123,13 @@
   "sellers": "B"
  },
  {
+  "name": "Needle pistol, 'Asp Doc' pattern (single-shot needle pistol: a dart a beat, silent; stim darts: shoot any dose into an ally; ~20 m)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
   "name": "Tin-can bomb (light it; ~3 m weak frag; the timing's off, duds on a 1)",
   "tv": 0.1,
   "cat": "explosive",

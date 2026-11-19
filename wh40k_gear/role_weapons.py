@@ -15,7 +15,7 @@ QUIET = [("Silenced stub pistol", "C"), ("Suppressed autopistol", "C"),
          ("Needle pistol", "U"), ("Compound bow, 'Hunter Kestrel' pattern, and a quiver of steel arrows", "U"),
          ("Burst pistol, 'Ironside Trice' pattern, suppressed", "U"), ("Needle rifle", "R"),
          ("Suppressed Solid Warden autogun with a scope", "R"), ("Vraks-pattern sniper autorifle, suppressed", "R"),
-         ("Crossbow-quiet needle pistol", "R"), ("Assassin's mono-wire garrotte", "R"), ("Injector stiletto, 'Forge Sting' pattern", "U"), ("Collapsing spear, 'Ordo Sicarius' pattern", "R"), ("Silenced submachine gun, 'Solid Whisper' pattern", "U"), ("Seeker shurikens, Mechanicus pattern", "R"), ("Wrist stub gun, 'Ironside Sleeve' pattern", "U"), ("Crossbow, 'Hunter Windlass' pattern", "U")]
+         ("Crossbow-quiet needle pistol", "R"), ("Assassin's mono-wire garrotte", "R"), ("Injector stiletto, 'Forge Sting' pattern", "U"), ("Collapsing spear, 'Ordo Sicarius' pattern", "R"), ("Silenced submachine gun, 'Solid Whisper' pattern", "U"), ("Seeker shurikens, Mechanicus pattern", "R"), ("Wrist stub gun, 'Ironside Sleeve' pattern", "U"), ("Crossbow, 'Hunter Windlass' pattern", "U"), ("Needle pistol, 'Asp Doc' pattern", "U")]
 
 ROLE_WEAPONS = {
  "assassin": QUIET,
@@ -86,9 +86,9 @@ ROLE_WEAPONS = {
  "leader": [("Chainsword and a command vox", "C"), ("Shot-revolver, 'Ironside Magistrate' officer's pattern, and a command vox", "R"), ("Laspistol and a command vox", "C"), ("Bolt pistol and a command vox", "U"),
             ("Hellpistol and a command vox", "U"), ("Power sword and a command vox", "R"), ("Plasma pistol and a command vox", "R"), ("Bolt pistol, Ryza pattern", "R"), ("Boltgun, Locke Mk IIb 'Spearhead'", "R"), ("Hellpistol, Kantrael, and a command vox", "U")],
  "medic": [("Med-kit and 3 stimms", "C"), ("Field dressings and two stimms", "C"), ("Med-kit, antitoxin and 2 stimms", "U"),
-           ("Medicae kit and concentrated stimms", "R")],
+           ("Medicae kit and concentrated stimms", "R"), ("Needle pistol, 'Asp Doc' pattern, and stim darts", "U")],
  "chem-doctor": [("Drug satchel: stimms, slaught and Frenzon", "C"), ("Syringe spike and a drug satchel", "U"),
-                 ("Injector stiletto (toxin) and concentrated stimms", "R"), ("Injector stiletto, 'Forge Sting' pattern, and a drug satchel", "U")],
+                 ("Injector stiletto (toxin) and concentrated stimms", "R"), ("Injector stiletto, 'Forge Sting' pattern, and a drug satchel", "U"), ("Needle pistol, 'Asp Doc' pattern, and a drug satchel", "U")],
  "vox": [("Vox-caster", "C"), ("Vox-caster and an auspex", "U"), ("Vox-caster and a spoof-tag", "U"), ("Vox jammer", "R"), ("Vox-caster and a recon lascarbine, folding stock", "U")],
  "spotter": [("Magnoculars", "C"), ("Range-finder magnoculars", "U"), ("Auspex", "U"), ("Vox-caster and range-finder magnoculars", "R"), ("Magnoculars and a recon lascarbine, folding stock", "U")],
  "tracker": [("Two war dogs on leashes", "C"), ("Magnoculars and a hunting rifle", "C"), ("Auspex", "U"), ("Bio-scanner", "R"), ("Catachan shotgun and magnoculars", "U"), ("Catachan butcher knife", "U"), ("Tactical hand axe, 'Fenris' pattern", "U"), ("Crossbow, 'Hunter Windlass' pattern", "U")],

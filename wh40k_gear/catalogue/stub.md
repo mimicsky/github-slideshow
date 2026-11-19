@@ -527,6 +527,20 @@ Nessa's 'one dart, done'; the player may change it). Silent, about 25 m, one dar
 normal, plus the dart's toxin (the standard dart: **CON save against 15 or the target goes Down**, paralysed, alive;
 wears off after the fight). Takes the special darts below.
 
+## Needle pistol, 'Asp Doc' pattern
+
+**Needle pistol, 'Asp Doc' pattern** (uncommon, 3 TV; medicae suppliers, Free Traders, black market; the player's design, Ash on Ostrava day 48,
+after Doc's stim pistol in Rainbow Six; numbers the DM's). **Asp** is the needle family's maker name (the player, day
+48). A skeleton frame, a grip and a trigger, with a cage around the needle tube and a gas cartridge in the frame.
+- **Single shot:** one dart in the top slot; **slipping in the next is the short move,** so it fires every beat.
+  **Silent.** A gas cartridge does 20 shots.
+- **~20 m; -2 past ~20 m.**
+- **Any dart** the needle pistol takes ([needle darts](#needle-darts-special-loads)).
+- **Stim darts (the Doc part):** **load a dart with any dose** (a stimm, Morphia, Slaught, an antitoxin: catalogue
+  drugs.md) **and shoot it into an ally:** he takes the dose, from across the room; a willing ally doesn't dodge.
+  **No healing dart** (the player, day 48: a healing stim at range is 'kinda ehh').
+- **Who carries it:** medics, chem-doctors (dosing their people from cover), assassins and infiltrators.
+
 ## Needle darts (special loads)
 
 **Needle darts, special loads** (player picks, Ash on Ostrava day 35; black market, Free Traders). Fit any

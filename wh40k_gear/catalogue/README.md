@@ -1,6 +1,6 @@
 # Gear catalogue: table of contents
 
-**Maker names (the player, day 48):** each family has its own: **Kasr** las · **Hell** hellguns · **Solid** autoguns, stub rifles, stub SMGs · **Magnum** heavy stub guns · **Siege** heavy stubber guns · **Breach** shotguns · **Ironside** stub pistols · **Forge** melee · **Sol** plasma · **Hunter** bows and crossbows · **Bone'ead** Ogryn guns. (Until day 48 nearly everything was 'Kasr'; the book keeps the old names.)
+**Maker names (the player, day 48):** each family has its own: **Kasr** las · **Hell** hellguns · **Solid** autoguns, stub rifles, stub SMGs · **Magnum** heavy stub guns · **Siege** heavy stubber guns · **Breach** shotguns · **Ironside** stub pistols · **Forge** melee · **Sol** plasma · **Hunter** bows and crossbows · **Asp** needle guns · **Bone'ead** Ogryn guns. (Until day 48 nearly everything was 'Kasr'; the book keeps the old names.)
 
 **[Gear abilities](abilities.md)** (day 47): abilities that come from what someone carries (Plant, for shields, and more as they're designed); each lists its items, and each item's entry has an **Abilities:** line pointing back.
 
@@ -77,6 +77,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Web pistol, Arbites pattern](stub.md#web-pistol-arbites-pattern)
 - [Needle rifle](stub.md#needle-rifle)
 - [Needle pistol (Kesh's pattern)](stub.md#needle-pistol-keshs-pattern)
+- [Needle pistol, 'Asp Doc' pattern](stub.md#needle-pistol-asp-doc-pattern) (single shot; stim darts into allies)
 - [Needle darts (special loads)](stub.md#needle-darts-special-loads)
 - [Stub and autogun rounds (special loads)](stub.md#stub-and-autogun-rounds-special-loads)
 - [Heavy stub rounds](stub.md#heavy-stub-rounds) (a thicker calibre: hand cannons, the Orlock, the Macragge)
