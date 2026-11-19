@@ -107,6 +107,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Compound bow, 'Hunter Kestrel' pattern](bows.md#compound-bow-hunter-kestrel-pattern) (STR 30+; strings of 1; a step further)
 - [Stake crossbow, 'Condemnor' pattern](bows.md#stake-crossbow-condemnor-pattern) (silent; witch-killer; pins)
 - [Crossbow, 'Hunter Windlass' pattern](bows.md#crossbow-hunter-windlass-pattern) (silent; bolts as arrows, one step further)
+- [Bow parts](bows.md#bow-parts-day-48) (heavy bowstring, bow sight, arc tracker)
 - [Quiver](bows.md#quiver) (20 arrows)
 - [Arrows](bows.md#arrows) (scrap, metal, steel)
 

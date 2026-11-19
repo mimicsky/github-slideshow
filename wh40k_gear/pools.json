@@ -4585,6 +4585,20 @@
   "sellers": "MBF"
  },
  {
+  "name": "Heavy bowstring (bows and crossbows: the -2 starts 20 m later; a bow needs 5 more STR)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Bow sight (pin sights: +1 on aimed shots past ~20 m)",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "BF"
+ },
+ {
   "name": "Fitted chameleoline cloak (cut for one set of armour: the cloak's bonus over carapace or heavier)",
   "tv": 25,
   "cat": "gear",

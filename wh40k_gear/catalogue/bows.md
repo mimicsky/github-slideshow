@@ -6,8 +6,8 @@ in DND_CODEX Part 8, **Gear rules**.
 **How bows work:** **the arrow decides the punch; the bow throws it.** Bows are **silent** (a shot doesn't give the
 archer away), have **no recoil**, and **STR 50+ drives the arrow one armour step further** (the archer's arm powers it,
 as a thrown weapon: codex Part 8, Strength behind the blow). **Arrows are carried in a [quiver](#quiver)**; drawing from
-it is free. **After a fight, each unbroken arrow is found on a d6 4-6.** Bows have **no attachment slots**; on the
-[attachment sheet](attachments.md#the-rollable-list) only arrows roll.
+it is free. **After a fight, each unbroken arrow is found on a d6 4-6.** **Bows and crossbows have three slots: string, sight and tracker** ([Bow parts](#bow-parts-day-48); day 48: before
+it they had none); arrows roll in the load slot ([attachment sheet](attachments.md#the-rollable-list)).
 
 ## Recurve bow, 'Reedhawk' pattern
 
@@ -33,6 +33,7 @@ psychic-disrupting cores). A compact crossbow firing blessed, silver-cored stake
 - **Witch-killer:** **a hit on a psyker drops an extra step, and he can't use powers next beat.**
 - **Pins them:** **a solid hit within ~5 m of a wall or the ground pins the target:** he can't move until he spends a
   beat pulling free.
+- **Slots: string and sight only** (it fires its own stakes: no arrows, no tracker).
 - **Who:** Sisters Novitiate (their kit list); rarely zealots (witch-hunters carry them).
 
 ## Crossbow, 'Hunter Windlass' pattern
@@ -45,8 +46,23 @@ psychic-disrupting cores). A compact crossbow firing blessed, silver-cored stake
   pushes a bolt one armour step further** (as the compound bow); STR 50+ doesn't add (the prod does the work, not the
   arm).
 - **Steady:** the stock and trigger give **+1 on aimed shots**; **-2 past ~60 m.**
-- **No attachment slots** (as bows); only the bolts roll.
+- **Slots as a bow:** string, sight and tracker ([Bow parts](#bow-parts-day-48)); bolts roll as arrows.
 - **Who:** commoners (hunters), cultists, raiders; trackers; assassins and infiltrators (it's quiet).
+
+## Bow parts (day 48)
+
+Designed by the player, Ash on Ostrava day 48 (numbers the DM's). Bows and crossbows; one per slot.
+
+- **Heavy bowstring** (regular, uncommon, 1 TV; string slot): **reaches farther: the -2 starts 20 m later** (a
+  recurve past ~60 m, not ~40; a compound past ~80 m, not ~60; the Hunter Windlass past ~80 m). **A heavier draw: a
+  bow needs 5 more STR** (a recurve STR 25+, a compound 35+). A crossbow's lever does the work: no STR need.
+- **Bow sight** (regular, common, 0.5 TV; sight slot): pin sights on the riser: **+1 on aimed shots past ~20 m**
+  (stacks with the compound's +1).
+- **Arc tracker** (*custom, not traditional: no trader carries this*; a smith's build, parts ~4 TV; tracker slot). A
+  small cogitator lens on the riser reads range, drop and wind and puts **a glowing aim mark in the lens**. **No -2 at
+  long range, out to twice the bow's reach.** **It arcs a shot over cover** onto someone the archer can see past it:
+  **their cover counts one level lighter.** **No beams:** the archer stays silent and unseen (unlike the launcher's
+  [arc calculator](kit.md#arc-calculator-launcher-sight), which gives +3 on far shots and shows two beams in smoke).
 
 ## Quiver
 

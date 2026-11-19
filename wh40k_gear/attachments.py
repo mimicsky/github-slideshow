@@ -175,6 +175,9 @@ A = [
  ("a_incendhe", "Incendiary HE shells (autocannon)", "U", "load", {"hv"}, r"autocannon", None, 0, "splash: within ~2 m of a hit, DEX dodge or drop a step; a raw 17+ sets alight; no extra step on the target; APCs shrug it", "heavy.md#autocannon-shells-special-loads"),
  ("a_overml", "Overcharged multi-laser pack", "R", "load", {"hv"}, r"multi-laser|multilaser", None, 0, "one armour tier harder (heavy carapace at any range, ceramite-forged inside ~15 m); 6 shots a pack, not 12", "heavy.md#multi-laser-packs-special-loads"),
  ("a_extml", "Extended multi-laser pack", "U", "mag", {"hv"}, r"multi-laser|multilaser", None, 0, "36 shots, not 12; -1 on swapping", "heavy.md#multi-laser-packs-special-loads"),
+ ("bowstring", "Heavy bowstring", "U", "string", {"bw"}, None, None, 0, "the -2 starts 20 m later; a bow needs 5 more STR to draw (a crossbow none)", "bows.md#bow-parts-day-48"),
+ ("bowsight", "Bow sight", "C", "bowsight", {"bw"}, None, None, 0, "+1 on aimed shots past ~20 m", "bows.md#bow-parts-day-48"),
+ ("c_arctracker", "Arc tracker (bow)", "U", "tracker", {"bw"}, r"^(?!.*condemnor)", None, 1, "no -2 at long range, out to twice the reach; arcs over cover: one level lighter; no beams", "bows.md#bow-parts-day-48"),
  ("a_scraparrow", "Scrap arrows", "C", "load", {"bw"}, None, None, 0, "through no armour; flak and up shrug them (no wear-down) and they break", "bows.md#arrows"),
  ("a_metalarrow", "Metal arrows", "C", "load", {"bw"}, None, None, 0, "through no armour; dent flak and reinforced flak; can break on carapace and up", "bows.md#arrows"),
  ("a_steelarrow", "Steel arrows", "U", "load", {"bw"}, None, None, 0, "through flak; dent reinforced flak and carapace; can break on reinforced flak and up", "bows.md#arrows"),
@@ -273,10 +276,11 @@ SLOTLIMIT = [(re.compile(r"farmer's pump|three-shooter|harrow|trinity|holdout|cu
              (re.compile(r"magistrate"), {"optic", "laser", "sleeve", "load", "tape"}),
              (re.compile(r"jackknife"), {"load"}),
              (re.compile(r"ironhound"), {"optic", "laser", "load", "tape"}),
-             (re.compile(r"outrider"), {"laser", "muzzle", "load", "tape"}),  # the stockless lever shotgun (day 48)  # the line shotgun (day 48)  # the folding breacher: no slots (day 48)  # the officer's shell revolver (day 48)  # the drum auto-shotgun (day 48)  # over-under pump: optic and muzzles only (day 48)  # the revolving shotgun: optic and under-barrel only (day 48)
+             (re.compile(r"outrider"), {"laser", "muzzle", "load", "tape"}),
+             (re.compile(r"condemnor"), {"string", "bowsight"}),  # stakes, not arrows (day 48)  # the stockless lever shotgun (day 48)  # the line shotgun (day 48)  # the folding breacher: no slots (day 48)  # the officer's shell revolver (day 48)  # the drum auto-shotgun (day 48)  # over-under pump: optic and muzzles only (day 48)  # the revolving shotgun: optic and under-barrel only (day 48)
              (re.compile(r"hell revolver"), {"optic", "laser", "load", "tape"})]  # top and bottom slots only (day 48)  # tape needs no slot
 SKIP = re.compile(r"web pistol|bolt-pipe|rivet gun|harpoon|turret|gauntlet|hellstrike|flare|^'")
-TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b"), ("pp", r"plasma pistol"), ("pg", r"plasma gun"), ("bp", r"bolt pistol"),
+TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b|crossbow"), ("pp", r"plasma pistol"), ("pg", r"plasma gun"), ("bp", r"bolt pistol"),
          ("hv", r"heavy bolter|autocannon|lascannon|multi-laser"), ("hs", r"heavy stubber"), ("br", r"boltgun"),
          ("hf", r"hand flamer|wrist flamer"), ("fl", r"flamer|torch-thrower|promethium sprayer"), ("mg", r"meltagun|melta gun|multi-melta|inferno pistol|melta-cutter|improvised melta"),
          ("gl", r"grenade launcher"), ("mo", r"mortar"), ("np", r"needle pistol"), ("nr", r"needle rifle"),
