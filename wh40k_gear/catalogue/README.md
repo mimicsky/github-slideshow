@@ -144,6 +144,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Combi-bolter, 'Throne Twinfire' pattern](bolt.md#combi-bolter-throne-twinfire-pattern) (flamer, melta or plasma under a boltgun)
 - [Condemnor boltgun, 'Throne Inquest' pattern](bolt.md#condemnor-boltgun-throne-inquest-pattern) (boltgun and stake crossbow)
 - [Officer's bolt carbine, 'Throne Patrician' pattern](bolt.md#officers-bolt-carbine-throne-patrician-pattern) (short; STR 25)
+- [Boltgun, Locke Mk IIb 'Spearhead'](bolt.md#boltgun-locke-mk-iib-spearhead) (full auto from the hip, semi-auto aimed)
 - [Bolt-shotgun, 'Breacher' pattern](bolt.md#bolt-shotgun-breacher-pattern)
 - [Astartes bolters](bolt.md#astartes-bolters) (epic and legendary)
 - [Bolt rounds, special](bolt.md#bolt-rounds-special-loads) (Kraken, off-brand, meltacore, storm, vengeance)

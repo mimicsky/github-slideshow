@@ -90,14 +90,25 @@ day 48). **A short, light boltgun** for officers and boarding crews: strings of 
 STR 25** (between a pistol and a boltgun); **+1 on quick-draws.** **Shorter: -2 past ~40 m; a 15-round magazine.**
 **Who carries it:** leaders, commanders, breachers; pirate boarders (rare).
 
+## Boltgun, Locke Mk IIb 'Spearhead'
+
+**Boltgun, Locke Mk IIb 'Spearhead'** (rare, 26 TV; Munitorum, Free Traders; Darktide's pattern, in the bolt pool since session 10; rules
+written with the player, Ash on Ostrava day 48, after Darktide's: it fires by how it's held). A boltgun: bolt punch,
+**STR 30**, recoil 2.
+- **From the hip: full auto: strings of up to 6,** no hit bonuses in the string (misses still -1).
+- **Shouldered: semi-auto: strings of 3, +1 on aimed shots;** [Trigger Finger](abilities.md#trigger-finger) works in
+  this mode.
+- **Switching is free:** by how he holds it, every string.
+- **A 20-round box magazine** (a spare is 0.3 TV; codex Gear rules, Magazines).
+- **Who carries it:** veterans; traitor elites (rare).
+
 ## Bolt-shotgun, 'Breacher' pattern
 
 **Bolt-shotgun, 'Breacher' pattern** (player design, rare, 10 TV). A short,
 single-shot breech-loader that fires one bolt round as a slug: hits like a
 boltgun. **Recoil:** at most 2 shots a beat; the second shot only if the first
 roll was 10 or more (raw), otherwise the beat is spent recovering. **Simple:**
-no magazines, loose bolt rounds, fast to reload. **Boltgun, Locke Mk IIb
-'Spearhead'** (rare, 26 TV) added to the bolt pool as the Darktide pattern.
+no magazines, loose bolt rounds, fast to reload.
 
 ## Astartes bolters
 

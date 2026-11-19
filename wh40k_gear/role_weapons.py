@@ -71,7 +71,7 @@ ROLE_WEAPONS = {
                       # allies only (the player, Ash on Ostrava day 48)
  "veteran": [("Lasgun", "C"), ("Autogun", "C"), ("Combat shotgun, pump", "C"), ("Hunting rifle with an old scope", "C"),
              ("Lascarbine", "U"), ("Hellgun", "U"), ("Scoped autogun", "U"), ("Hellgun with a holo sight", "R"),
-             ("Long-las with a scope", "R"), ("Lucius-pattern 'Ironclad' shotgun", "R"), ("Catachan shotgun", "R"), ("Lasgun, Agripinaa", "U"), ("Lascarbine, Accatran Mk VI", "U"), ("Lasgun, Krieg pattern", "U"), ("Chainsword, Lucius heavy", "R"), ("Las bullpup SMG, 'Kasr Volt' pattern", "U"), ("Combi-plasma, 'Throne Twinfire' pattern", "R"), ("Combi-flamer, 'Throne Twinfire' pattern", "R")],  # the player, day 48
+             ("Long-las with a scope", "R"), ("Lucius-pattern 'Ironclad' shotgun", "R"), ("Catachan shotgun", "R"), ("Lasgun, Agripinaa", "U"), ("Lascarbine, Accatran Mk VI", "U"), ("Lasgun, Krieg pattern", "U"), ("Chainsword, Lucius heavy", "R"), ("Las bullpup SMG, 'Kasr Volt' pattern", "U"), ("Combi-plasma, 'Throne Twinfire' pattern", "R"), ("Combi-flamer, 'Throne Twinfire' pattern", "R"), ("Boltgun, Locke Mk IIb 'Spearhead'", "R")],  # the player, day 48
  "berserker": [("Chainsword", "C"), ("Chain axe", "C"), ("Heavy scrap axe", "C"), ("Saw-cleaver", "C"), ("Two chain axes", "U"),
                ("Eviscerator", "R"), ("Great chain axe, 'Butcher' pattern", "R"), ("Power axe", "R"), ("Chainsword, Lucius heavy", "R"), ("Combat chain-knife, 'Forge Gnaw' pattern", "U")],
  "mauler": [("Heavy scrap axe", "C"), ("Two-handed boarding axe", "C"), ("Headsman's axe (two-handed)", "U"), ("Chain glaive (two-handed)", "U"),
