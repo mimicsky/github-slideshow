@@ -4984,6 +4984,13 @@
   "sellers": "BF"
  },
  {
+  "name": "Tube stock (a bare buffer tube: +2 swapping, +1 inside ~10 m, +1 recoil)",
+  "tv": 0.75,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
   "name": "Fitted chameleoline cloak (cut for one set of armour: the cloak's bonus over carapace or heavier)",
   "tv": 25,
   "cat": "gear",

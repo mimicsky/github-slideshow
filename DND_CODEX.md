@@ -756,9 +756,9 @@ in the math (`14 + 4 DEX + 2 aimed rifle + 3 eye + 2 order + 2 surprise - 1 airb
    entry (string limit, armour it pierces, quirks).
 6. **The string:** **shot chain** (house rule 6: +2 after a first-shot hit, +1 after later hits, -1 after a
    miss; some guns differ: the heavy belt stubber has no hit bonuses), **swapping** (-1 for a different target than
-   the last shot in the string), **recoil** (each shot after the first: 0 las weapons and stub or auto pistols; 1 autoguns on
-   burst, SMGs, machine pistols, shotguns, revolvers, hand cannons, heavy belt stubbers braced; 2 bolt weapons, heavy
-   stubbers on the move, anti-materiel rifles), drums (-1 quick-draw), the gun's string limit, **dual pistols** (string doubled, -3 every shot; house rule 5, Dual-wielding).
+   the last shot in the string), **recoil** (each shot after the first; raised day 48: 1 las and other once-recoilless guns; 2 stub and auto pistols;
+   3 autoguns on burst, SMGs, machine pistols, shotguns, revolvers, hand cannons, heavy belt stubbers braced; 4 bolt
+   weapons, heavy belt stubbers on the move, anti-materiel rifles; an entry's own number reads 2 higher, 'no recoil' 1), drums (-1 quick-draw), the gun's string limit, **dual pistols** (string doubled, -3 every shot; house rule 5, Dual-wielding).
 7. **Movement:** airborne (own shots -2, traitor elites -1; shots at them -3), run and gun (-2), shooting from
    cover (free), **peek and duck (the first shot of the string -1; Cover)**.
 8. **Standing bonuses:** **traits** (house rule 9), finished books (e.g. +1 will checks), crafting manuals, armour
@@ -1630,9 +1630,14 @@ are in the catalogue (kit). The **Jumper** role is in the bestiary (roles).
 **Swapping, recoil and attachment slots (set by the player, Ash on Ostrava session 10).**
 **Swapping:** a shot at a *different* target than your last shot in the same string takes
 **-1**. **Recoil:** every gun has a rating; each shot in a string **after the first** takes
-**-recoil**: **0** las weapons (lasguns, hellguns, laspistols, hellpistols) and stub/auto
-pistols; **1** autoguns on burst, SMGs and machine pistols, shotguns, revolvers, hand cannons;
-**2** bolt weapons, heavy belt stubbers on the move (1 braced), anti-materiel rifles. **Slots:** a gun takes **one
+**-recoil** (**raised world-wide by the player, Ash on Ostrava day 48:** 'we have so many things that help with
+recoil and people hit a lot of shots'): **1** las weapons (lasguns, hellguns, laspistols, hellpistols) and the other
+guns that used to have none (plasma, needle); **2** stub and auto pistols; **3** autoguns on burst, SMGs and machine
+pistols, shotguns, revolvers, hand cannons, heavy belt stubbers braced; **4** bolt weapons, heavy belt stubbers on the
+move, anti-materiel rifles. **Every catalogue entry that states its own recoil reads 2 higher** (its 'recoil 0' from a
+heavy frame or a mount is 2, 'recoil 1' is 3, 'recoil 2' is 4); **an entry that says 'no recoil' reads 1.** Bows,
+melta (one shot a beat) and flamers have none. Recoil reducers (compensators, weighted grips, bipods, mounts, Slam
+strings) still take off what they say. **Slots:** a gun takes **one
 attachment per slot**. The full slot list (guns and melee) is on the attachment sheet: `wh40k_gear/catalogue/attachments.md`, The rollable list, Slots.
 No hard cap on bonuses; nearly every attachment carries a real downside; the few that don't are priced for it. **A gun's optic and a HUD
 eye's aim bonus stack** (changed by the player, Ash on Ostrava day 34: otherwise the optic is just decor). Attachments are in the

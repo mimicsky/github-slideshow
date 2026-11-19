@@ -883,3 +883,20 @@ first enemy who enters or moves in its arc** (heavy belt stubber punch; no suppr
 **It can't tell friend from foe** unless the Light's beads are keyed to it (a beat with Brenner or Ferro). **Two
 belts, about 6 strings; then it's empty.** **It can be spotted** (Perception) **and shot: a small target (+1); two hits
 wreck it.**
+
+## Gun parts (day 48)
+
+Designed by the player, Ash on Ostrava day 48 (placed and numbered by the DM).
+
+- **Tube stock** (regular, common, 0.75 TV; stock slot; rifles, carbines, SMGs, shotguns): a bare buffer tube with a
+  pad: **+2 on swapping targets; +1 on shots inside ~10 m; but +1 recoil.**
+- **Shot accelerator** (*custom, not traditional: no trader carries this*; a smith's build, parts ~6 TV; accelerator
+  slot; **bullet guns only**: stub, auto, heavy stub, heavy auto, heavy belt stubber and shotguns; **not bolt, las or
+  plasma**). A heater and a pressure chamber on the barrel: **seconds after the trigger it drives hot, compressed air
+  in behind the round, throwing it farther and harder.**
+  - **One armour step further:** what the round gets through moves one rung (through flak becomes through reinforced
+    flak), and **what it dents moves one rung too.**
+  - **More range:** the gun's long-range penalties start half as far again.
+  - **Inside ~15 m: a shrugged hit counts 2 toward wear-down, and a hit that gets through drops one extra step (1.0
+    more).** (A gun-side damage bonus with a physical reason: the round leaves faster; the player's design.)
+  - **Heat: +1 every 6 shots; at 3 it must vent a beat** (heat clears after venting or at the fight's end).
