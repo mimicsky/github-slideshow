@@ -288,8 +288,10 @@ and half steps set by the player, day 48**):
   patch** (the roll misses by 1-2) gives back **0.5** (DM's defaults, day 48).
 - **Bleeding (the Light only; set by the player, day 48, 'only do bleeding for the Light so it's not even more you
   have to do').** **Dropping to Badly hurt (2.0): roll a d4; on a 1 he's bleeding. Going Down (1.0): he's always
-  bleeding.** **Anyone stops it** (the beat's main thing, a field dressing, no roll), or a medic's patch, or a
-  Haemostat stim (catalogue drugs.md). **Left 3 beats with no help:** **his recovery after the fight takes a day
+  bleeding.** **Anyone stops it, a regular person included** (the beat's main thing, a field dressing, no roll: as Tamsin
+  dressed his people in the field), and so does a medic's patch or a Haemostat stim (catalogue drugs.md). **Stopping it
+  gives no health back: only a medic heals someone back up from Badly hurt or Down** (Rulings, a non-medic patching;
+  the player, day 48). **Left 3 beats with no help:** **his recovery after the fight takes a day
   longer** (Healing between fights, below). Bleeding costs no health in the fight. Enemies don't bleed (bookkeeping).
 - **Healing between fights (settled by the player, day 48; it is how the Light's wounds have been played):** what a field
   patch doesn't give back comes back with rest. **Each 1.0 of health takes a d4 of days of rest** (roll one d4 for each
