@@ -6,7 +6,7 @@ Item rules for this category. General rules (heat, hot-shot, drop-prone, going D
 
 
 **Every bolter has a STR need (set by the player, Ash on Ostrava day 48).** **Bolt pistols 20 · the bolt-pipe 25 ·
-boltguns and the 'Breacher' bolt-shotgun 30 · the storm bolter 30 with two hands, 40 one-handed · the Guard heavy
+the bolt carbine 25 · boltguns, combi-bolters, the Condemnor boltgun and the 'Breacher' bolt-shotgun 30 · the storm bolter 30 with two hands, 40 one-handed · the Guard heavy
 bolter none braced or on a tripod, 50 from the hip.** Astartes bolters as their entry says (braced only, -4). **Under
 the need he can still fire it, badly: -2 on every shot and +1 recoil** (the kick throws him about; unlike a bow, which
 he can't draw at all).
@@ -59,6 +59,36 @@ bolters built side by side as one gun, firing together.
 - **Who carries it:** commanders, leaders and commissars (rare); renegade and fallen commissars.
 
 **Abilities:** [Trigger Finger](abilities.md#trigger-finger); [Precision Sacrifice](abilities.md#precision-sacrifice) (every gun).
+
+## Combi-bolter, 'Throne Twinfire' pattern
+
+**Combi-bolter, 'Throne Twinfire' pattern** (rare; Munitorum, Mechanicus, Free Traders; drafted with the player, Ash on
+Ostrava day 48: the lore's combi-weapons; numbers the DM's). **A boltgun with a special weapon under it.** As a
+boltgun: strings of 3, recoil 2, bolt punch, **STR 30**, [Trigger Finger](abilities.md#trigger-finger).
+**Firing the special is the beat's main thing** (in place of the bolter string); **it's refilled after the fight.**
+
+| Variant | The special | Price |
+| --- | --- | --- |
+| **Combi-flamer** | **one flamer gout** (a ~10 m line; targets catch fire) | 35 TV |
+| **Combi-melta** | **one meltagun shot** (two steps through any armour inside ~15 m; 1 hull point) | 50 TV |
+| **Combi-plasma** | **two plasma shots** (plasma punch; plasma heat: fired hot, it can overheat) | 50 TV |
+
+**Who carries it:** commissars, veterans, leaders and commanders (rare).
+
+## Condemnor boltgun, 'Throne Inquest' pattern
+
+**Condemnor boltgun, 'Throne Inquest' pattern** (rare, 55 TV; Inquisition, Ecclesiarchy, Free Traders; the lore's
+witch-hunter's gun, drafted with the player, day 48). **A boltgun with a stake crossbow on top.** As a boltgun, **STR
+30.** **One stake loaded: firing it is the main thing; loading the next is the short move.** **The stake is the
+[Condemnor's](bows.md#stake-crossbow-condemnor-pattern):** a hit on a psyker drops an extra step and stops his powers
+next beat; a solid hit near a wall pins him. **Who carries it:** zealots and leaders (witch-hunters; rare).
+
+## Officer's bolt carbine, 'Throne Patrician' pattern
+
+**Officer's bolt carbine, 'Throne Patrician' pattern** (rare, 18 TV; Munitorum, Free Traders; drafted with the player,
+day 48). **A short, light boltgun** for officers and boarding crews: strings of 3, recoil 2, bolt punch. **Handier:
+STR 25** (between a pistol and a boltgun); **+1 on quick-draws.** **Shorter: -2 past ~40 m; a 15-round magazine.**
+**Who carries it:** leaders, commanders, breachers; pirate boarders (rare).
 
 ## Bolt-shotgun, 'Breacher' pattern
 

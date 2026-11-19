@@ -840,6 +840,41 @@
   "sellers": "MAF"
  },
  {
+  "name": "Combi-flamer, 'Throne Twinfire' pattern (boltgun with one flamer gout under it)",
+  "tv": 35,
+  "cat": "bolt",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Combi-melta, 'Throne Twinfire' pattern (boltgun with one meltagun shot under it)",
+  "tv": 50,
+  "cat": "bolt",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Combi-plasma, 'Throne Twinfire' pattern (boltgun with two plasma shots under it)",
+  "tv": 50,
+  "cat": "bolt",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Condemnor boltgun, 'Throne Inquest' pattern (boltgun and a stake crossbow: witch-killer stakes)",
+  "tv": 55,
+  "cat": "bolt",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Officer's bolt carbine, 'Throne Patrician' pattern (short boltgun: STR 25, +1 quick-draw, -2 past ~40 m, 15 rounds)",
+  "tv": 18,
+  "cat": "bolt",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
   "name": "Macragge service pistol (Ultramarines; heavy stub, 12 rounds, laser/light module, compensator)",
   "tv": 35,
   "cat": "stub",
