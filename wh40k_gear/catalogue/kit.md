@@ -947,6 +947,10 @@ helps (less kick), +recoil hurts (more kick).** None of these change damage: the
     a new one before the gun fires for anyone.
   - **Downside:** with bloody or gloved hands, **a natural 1 means it doesn't read him; half a beat to wipe and
     regrip.**
+  - **Spotting it (the player, day 48):** **picked up mid-fight** (off a body or the floor), the scanner stays hidden:
+    half a beat checking the gun and a **Perception check vs 13** spots it (a palm-sized pad built into the grip).
+    **Fired blind, the trigger pulls dead and his shooting that beat is gone** (his move still happens); a small light
+    on the grip then blinks red, so he knows. **Looted after the fight,** he sees it automatically.
 - **Full-barrel suppressor** (*custom, not traditional: no trader carries this*; a smith's build, parts ~6 TV; barrel
   slot, **and it blocks the muzzle slot**; **bullet guns only**: stub, autogun and heavy stub; rare). The whole barrel
   is built as a suppressor, with gas exits venting out the side of the chamber.
