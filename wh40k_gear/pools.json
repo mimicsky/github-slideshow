@@ -2772,7 +2772,7 @@
   "sellers": "MF"
  },
  {
-  "name": "Range-finder sight (+1 shooting past ~30 m)",
+  "name": "Range-finder sight (mount: +1 shooting past ~30 m; stacks with the optic)",
   "tv": 10,
   "cat": "mod",
   "rarity": "R",

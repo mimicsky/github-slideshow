@@ -321,8 +321,10 @@ knives; 0.75 TV), medium (machine pistols, carbines, swords; 1 TV), large (long 
 
 ## Range-finder sight
 
-**Range-finder sight** (rare, 10 TV): **+1 on shooting past ~30 m.** Stacks with
-specialties, not with another sight on the same gun.
+**Range-finder sight** (rare, 10 TV; **mount slot**: a box on the side rail beside the optic; moved off the optic
+slot by the player, day 48): **+1 on shooting past ~30 m.** Stacks with specialties **and with whatever optic is on
+top** (a 10x scope's +2 and this +1: +3 past ~30 m). One part per mount (this, the offset backup sight, or a custom
+mount part).
 Isk's custom range-finder on Patience is a +2 DM-judged part (*Custom, not traditional*: [attachments.md, Custom builds](attachments.md#isks-patience-schematic-7)).
 
 ## Extended magazine kits
@@ -727,7 +729,7 @@ checks one target; enemies stacked one behind another: only the front one. On th
 **Optic**
 - **10x scope** (renamed from the telescopic sight, the player, day 48; uncommon, 3 TV): **+2 on long shots**; **-1 on hip/snap shots and
   anything inside ~15 m**.
-- **Offset backup sight** (uncommon, 1 TV; fits beside a scope, no slot of its own): cancels
+- **Offset backup sight** (uncommon, 1 TV; mount slot, beside a scope): cancels
   the scope's close-range penalty; **-1 on quick-draw**.
 - **Low-light optic** (uncommon, 2 TV): **no darkness penalty** through the sight; a flash
   grenade or las glare **blinds the shooter for 1 beat**.
