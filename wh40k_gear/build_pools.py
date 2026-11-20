@@ -55,21 +55,21 @@ add("stub","U","B",[("Silenced stub pistol",2.5),("Holdout stub pistol",1),("Hiv
 # Player design (session 8): auto-revolver. Full rules in DND_CODEX Part 8.
 add("stub","U","MBF",[("Auto-revolver, 'Hammerfall' pattern, stub barrel (8-round cylinder, autogun rounds; hold-trigger chains up to 8, no hit bonuses in the chain)",2),("Auto-revolver, 'Hammerfall' pattern, long barrel (as stub; +1 on single aimed shots past 20 m)",2.5)])
 add("gear","C","MBF",[("Speedloader (auto-revolver)",0.25)])
-# Player designs (session 9): Solid Hive, Siege Breaker, Solid Frontier. Rules in catalogue/stub.md.
+# Player designs (session 9): Solid Hive, Siege Breaker, Ironside Frontier. Rules in catalogue/stub.md.
 add("stub","U","MBF",[("Compact autogun, 'Solid Hive' pattern (top 50-round mag; chains of 8; +1 within 10 m, -2 past 30 m)",3)])
 add("stub","R","MBF",[("Anti-materiel rifle, 'Siege Breaker' pattern (heavy belt stubber rounds, 5-round box; through cover; 2 steps a hit; braced)",15)])
-add("stub","U","MBF",[("Lever-action stub rifle, 'Solid Frontier' pattern (12-round tube; never jams; chains of 6, or 3 double-lever shots)",2.5)])
+add("stub","U","MBF",[("Lever-action stub rifle, 'Ironside Frontier' pattern (12-round tube; never jams; chains of 6, or 3 double-lever shots)",2.5)])
 add("stub","U","BF",[("Twin-barrel autopistol, 'Ironside Hydra' pattern (stub; 40-round mag; strings of 16; heat 1 per 8; jams on a 1-2; +1 quick-draw)",3)])
-add("stub","U","BF",[("Silenced submachine gun, 'Solid Whisper' pattern (subsonic stub; not heard past 10 m; strings of 6, no recoil)",4),("Boarding SMG, Navy 'Gyre' pattern (gyro: no recoil in zero-g; caseless; strings of 8)",5)])
+add("stub","U","BF",[("Silenced submachine gun, 'Ironside Whisper' pattern (subsonic stub; not heard past 10 m; strings of 6, no recoil)",4),("Boarding SMG, Navy 'Gyre' pattern (gyro: no recoil in zero-g; caseless; strings of 8)",5)])
 add("stub","U","B",[("Rotary SMG, 'Hive Spinner' pattern (spin up a beat, then strings of 12; 60-round drum; loud)",3)])
 add("stub","R","B",[("Riot SMG, Arbites pattern (shock rounds: CON 13 or stunned; 50-round drum; strings of 6)",6)])
 add("stub","U","MBF",[("Heavy SMG, 'Magnum Orlock' pattern (steel and wood; heavy stub, through flak on any hit; 45-round mag; strings of 8; never jams; no attachments)",3)])
-add("stub","U","MF",[("Bullpup SMG, 'Solid Adder' pattern (stub; 32-round mag behind the grip; strings of 10, first 4 shots no recoil; +1 quick-draw; reload a full beat)",4)])
-add("stub","R","BF",[("Submachine gun, 'Solid Scorpion' pattern (fastest: strings of 18, recoil 2; 40-round mag; every attachment slot)",5)])
+add("stub","U","MF",[("Bullpup SMG, 'Ironside Adder' pattern (stub; 32-round mag behind the grip; strings of 10, first 4 shots no recoil; +1 quick-draw; reload a full beat)",4)])
+add("stub","R","BF",[("Submachine gun, 'Ironside Scorpion' pattern (fastest: strings of 18, recoil 2; 40-round mag; every attachment slot)",5)])
 add("stub","L","BF",[("Needle SMG, Venenum Temple pattern (silent toxin darts; strings of 4; the dart decides the save)",120)])
 add("las","U","MF",[("Las bullpup SMG, 'Kasr Volt' pattern (lasgun punch; strings of 8; 40 shots a pack; heat 1 per 10)",4)])
 add("stub","C","MB",[("Stamped submachine gun, 'Munitorum Mk I' pattern (mass-produced stub SMG; safe and auto only, strings of 8; wire stock; threaded muzzle; cannibalise two into one)",1)])
-add("stub","U","MBF",[("Submachine gun, 'Solid Locust' pattern (stub; 30-round mag; auto strings of 8, bursts of 4 as two rounds, semi +1 stock out; folding stock)",3)])
+add("stub","U","MBF",[("Submachine gun, 'Ironside Locust' pattern (stub; 30-round mag; auto strings of 8, bursts of 4 as two rounds, semi +1 stock out; folding stock)",3)])
 add("stub","R","AF",[("Phosphor blast pistol (Mechanicus; 6-chamber phosphor cylinder; strings of 3; a hit lights them up, +1 to shots at them; solid hit sets alight)",14)])
 add("ammo","U","A",[("Phosphor cylinder (6 rounds, phosphor blast pistol)",0.5)])
 # Player design (session 9): the Ironside Trident combi-pistol. Rules in catalogue/stub.md.
@@ -130,7 +130,7 @@ add("heavy","R","MBF",[("Twin-linked heavy belt stubber, 'Bullgryn' pattern (bru
 add("ammo","C","MBF",[("Twin-linked belt box (two heavy belt stubber belts)",2)])
 add("heavy","R","MF",[("Hellstrike launcher, 'Bone'ead' pattern (Ogryn; brutes only, STR 50+; one Valkyrie Hellstrike a shot, reload a beat; two steps through power armour, ~4 m blast; backblast)",30)])
 # Ammo audit (Ash on Ostrava day 45): refills for guns whose ammo was missing. Exotics stay scarce on purpose.
-add("ammo","U","B",[("Shock shells (box; Arbites combat shotgun)",1.5),("Subsonic stub rounds (box; Solid Whisper)",0.75)])
+add("ammo","U","B",[("Shock shells (box; Arbites combat shotgun)",1.5),("Subsonic stub rounds (box; Ironside Whisper)",0.75)])
 add("ammo","R","B",[("Shock-round drum (50; Arbites riot SMG)",2)])
 add("ammo","U","MF",[("Caseless stub rounds (box; Navy Gyre boarding SMG)",1),("Frag missile (missile launcher)",2)])
 add("ammo","R","MF",[("Heavy bolter belt",10),("Autocannon shells (belt)",4),("Krak missile (missile launcher)",4)])
@@ -432,8 +432,8 @@ E["traitor"] = {
 E["commoner"] = {
   "weapon": [("Pipe rifle (scrap)","C"),("Junk shotgun (scrap double-pipe)","C"),("Stub revolver","C"),("Combat shotgun, pump","C"),("Pump shotgun, \'Harrow\' pattern","C"),("Service stub pistol, \'Steadfast\' pattern","C"),("Pocket revolver, \'Trinity\' pattern","C"),("Holdout stub pistol, \'Cutpurse\' pattern","C"),("Hunting rifle, \'Solid Stag\' pattern","C"),
              ("Hunting stub rifle (old, iron sights)","C"),("Sawn-off shotgun","C"),
-             ("Autogun, Agripinaa (old militia issue)","U"),("Stamped submachine gun, 'Munitorum Mk I' pattern","U"),("Lever-action stub rifle, 'Solid Frontier' pattern","U"),("Hunting stub rifle with an old scope","U"),
-             ("Lasgun, Lucius No.98 (PDF surplus)","R"),("Submachine gun, 'Solid Locust' pattern","R")],
+             ("Autogun, Agripinaa (old militia issue)","U"),("Stamped submachine gun, 'Munitorum Mk I' pattern","U"),("Lever-action stub rifle, 'Ironside Frontier' pattern","U"),("Hunting stub rifle with an old scope","U"),
+             ("Lasgun, Lucius No.98 (PDF surplus)","R"),("Submachine gun, 'Ironside Locust' pattern","R")],
   "melee":  [("Farm tool: pitchfork, sickle or billhook","C"),("Hive shank (scrap knife)","C"),("Scrap axe","C"),("Machete","C"),("Grox-prod (farm shock prod)","C"),
              ("Trench club","C"),("Combat knife","U"),("Tactical breaching axe, 'Forge Sapper' pattern","U"),("Chainsword (an old militia officer's)","R")],
   "armour": [("Work clothes, no armour","C"),("Padded work jacket","C"),("Flak vest","U"),("Old PDF flak armour set","U"),("Cogitator shield (scrap)","U"),
@@ -541,7 +541,7 @@ SPEC["traitor_elite"]["heavy gunner"] = [("Las-box, 'Kasr Barr' light las-LMG","
 SPEC["commoner"] = {
   "leader":      [("Headman: stub revolver and a loud voice","C"),("Militia captain: old PDF officer's laspistol + chainsword","U")],
   "medic":       [("Lay healer: field dressings, two stimms, a prayer book","C")],
-  "sniper":      [("Hunter: hunting stub rifle with an old scope","C"),("Hunter: Solid Frontier lever-action","U")],
+  "sniper":      [("Hunter: hunting stub rifle with an old scope","C"),("Hunter: Ironside Frontier lever-action","U")],
   "heavy gunner":[("Braced autogun, 'Graia' pattern","U"),("Old heavy belt stubber from the PDF armoury, 1 belt","R")],
   "grenadier":   [("Bag of 4 fire bottles + stub revolver","C"),("2 mining charges + pump shotgun","U")],
   "tracker":     [("Herder: grox-prod and a hunting rifle","C")],

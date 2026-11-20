@@ -1,6 +1,6 @@
 # Gear catalogue: table of contents
 
-**Maker names (the player, day 48):** each family has its own: **Kasr** las · **Hell** hellguns · **Solid** autoguns, stub rifles, stub SMGs · **Magnum** heavy stub guns · **Rampart** heavy auto guns · **Siege** heavy belt stubber guns · **Breach** shotguns · **Ironside** stub pistols · **Forge** melee · **Sol** plasma · **Hunter** bows and crossbows · **Asp** needle guns · **Throne** human bolt guns · **Bone'ead** Ogryn guns. (Until day 48 nearly everything was 'Kasr'; the book keeps the old names.)
+**Maker names (the player, day 48):** each family has its own: **Kasr** las · **Hell** hellguns · **Solid** autoguns (autogun rounds only) · **Magnum** heavy stub guns · **Rampart** heavy auto guns · **Siege** heavy belt stubber guns · **Breach** shotguns · **Ironside** stub guns: pistols, SMGs, stub rifles (one family per round, day 48; the Trident combi-pistol excepted) · **Forge** melee · **Sol** plasma · **Hunter** bows and crossbows · **Asp** needle guns · **Throne** human bolt guns · **Bone'ead** Ogryn guns. (Until day 48 nearly everything was 'Kasr'; the book keeps the old names.)
 
 **[Gear abilities](abilities.md)** (day 47): abilities that come from what someone carries (Plant, for shields, and more as they're designed); each lists its items, and each item's entry has an **Abilities:** line pointing back.
 
@@ -61,14 +61,14 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Shredder autopistol, Ius pattern](stub.md#shredder-autopistol-ius-pattern)
 - [Twin-barrel autopistol, 'Ironside Hydra' pattern](stub.md#twin-barrel-autopistol-ironside-hydra-pattern) (strings of 16; runs hot; jams on 1-2)
 - [Machine pistol, 'Solid Hornet' pattern](stub.md#machine-pistol-solid-hornet-pattern)
-- [Submachine gun, 'Solid Locust' pattern](stub.md#submachine-gun-solid-locust-pattern) (stub SMG; auto, burst, semi; folding stock)
+- [Submachine gun, 'Ironside Locust' pattern](stub.md#submachine-gun-ironside-locust-pattern) (stub SMG; auto, burst, semi; folding stock)
 - [Stamped submachine gun, 'Munitorum Mk I' pattern](stub.md#stamped-submachine-gun-munitorum-mk-i-pattern) (mass-produced; safe and auto only; wire stock)
-- [Silenced submachine gun, 'Solid Whisper' pattern](stub.md#silenced-submachine-gun-solid-whisper-pattern) (quiet past 10 m; subsonic)
+- [Silenced submachine gun, 'Ironside Whisper' pattern](stub.md#silenced-submachine-gun-ironside-whisper-pattern) (quiet past 10 m; subsonic)
 - [Riot SMG, Arbites pattern](stub.md#riot-smg-arbites-pattern) (shock rounds: CON 13 or stunned)
 - [Rotary SMG, 'Hive Spinner' pattern](stub.md#rotary-smg-hive-spinner-pattern) (spin up, then strings of 12)
 - [Boarding SMG, Navy 'Gyre' pattern](stub.md#boarding-smg-navy-gyre-pattern) (gyro: no recoil in zero-g; caseless)
-- [Submachine gun, 'Solid Scorpion' pattern](stub.md#submachine-gun-solid-scorpion-pattern) (fastest: strings of 18; every attachment slot)
-- [Bullpup SMG, 'Solid Adder' pattern](stub.md#bullpup-smg-solid-adder-pattern) (hand-stop: first 4 shots no recoil; compact)
+- [Submachine gun, 'Ironside Scorpion' pattern](stub.md#submachine-gun-ironside-scorpion-pattern) (fastest: strings of 18; every attachment slot)
+- [Bullpup SMG, 'Ironside Adder' pattern](stub.md#bullpup-smg-ironside-adder-pattern) (hand-stop: first 4 shots no recoil; compact)
 - [Hand cannon, 'Magnum Six' pattern](stub.md#hand-cannon-magnum-six-pattern) (heavy stub revolver)
 - [Heavy SMG, 'Magnum Orlock' pattern](stub.md#heavy-smg-magnum-orlock-pattern) (steel and wood; 45-round mag; never jams; no attachments)
 - [Macragge service pistol](stub.md#macragge-service-pistol) (epic, Ultramarines)
@@ -85,7 +85,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Break-action rifle, 'Siege Hinge'](stub.md#break-action-rifle-siege-hinge-pattern) (never jams)
 - [Marksman rifle, 'Siege Twinshot' pattern](stub.md#marksman-rifle-siege-twinshot-pattern) (M400 SDIX)
 - [Anti-materiel rifle, 'Siege Breaker' pattern](stub.md#anti-materiel-rifle-siege-breaker-pattern)
-- [Lever-action stub rifle, 'Solid Frontier' pattern](stub.md#lever-action-stub-rifle-solid-frontier-pattern)
+- [Lever-action stub rifle, 'Ironside Frontier' pattern](stub.md#lever-action-stub-rifle-ironside-frontier-pattern)
 - [Web pistol, Arbites pattern](stub.md#web-pistol-arbites-pattern)
 - [Needle rifle](stub.md#needle-rifle)
 - [Needle pistol (Kesh's pattern)](stub.md#needle-pistol-keshs-pattern)
@@ -99,7 +99,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Autogun, 'Solid Czech' pattern](stub.md#autogun-solid-czech-pattern) (CZ Bren 2)
 - [Semi-auto carbine, 'Solid Stripper' pattern](stub.md#semi-auto-carbine-solid-stripper-pattern) (SKS)
 - [Autogun, 'Solid Kestrel' short pattern](stub.md#autogun-solid-kestrel-short-pattern) (SIG MCX RSAR)
-- [Submachine gun, 'Solid Mantis' pattern](stub.md#submachine-gun-solid-mantis-pattern) (B&T APC9)
+- [Submachine gun, 'Ironside Mantis' pattern](stub.md#submachine-gun-ironside-mantis-pattern) (B&T APC9)
 - [Autogun, 'Solid Jaguar' pattern](stub.md#autogun-solid-jaguar-pattern) (IMBEL IA2)
 - [Autogun, 'Solid Frost' pattern](stub.md#autogun-solid-frost-pattern) (AK 5)
 - [Autogun, 'Solid Ranger' carbine pattern](stub.md#autogun-solid-ranger-carbine-pattern) (Remington R5 RGP)
@@ -151,7 +151,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Over-under pump shotgun, 'Breach Twinstack' pattern](stub.md#over-under-pump-shotgun-breach-twinstack-pattern) (stacked barrels, tube between)
 - [Combat shotgun, 'Breach Switchback' dual-mode pattern](stub.md#combat-shotgun-breach-switchback-dual-mode-pattern) (semi or pump)
 - [Auto-shotgun, 'Breach Thresher' drum pattern](stub.md#auto-shotgun-breach-thresher-drum-pattern) (full auto, 30-round drum)
-- [Shot-revolver, 'Ironside Magistrate' officer's pattern](stub.md#shot-revolver-ironside-magistrate-officers-pattern) (a shell revolver, officers)
+- [Shot-revolver, 'Breach Magistrate' officer's pattern](stub.md#shot-revolver-breach-magistrate-officers-pattern) (a shell revolver, officers)
 - [Combat shotgun, 'Breach Longshot' long-barrel pattern](stub.md#combat-shotgun-breach-longshot-long-barrel-pattern) (long-range semi-auto)
 - [Bullpup pump shotgun, 'Breach Carousel' rotary-tube pattern](stub.md#bullpup-pump-shotgun-breach-carousel-rotary-tube-pattern) (three tubes of 5)
 - [Folding breaching shotgun, 'Breach Jackknife' pattern](stub.md#folding-breaching-shotgun-breach-jackknife-pattern) (folds; flip and fire)

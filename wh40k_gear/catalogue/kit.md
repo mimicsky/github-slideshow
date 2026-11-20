@@ -348,7 +348,7 @@ hone any edged blade (not chain or power): **+1 pierce on its next 2 hits**
 ## Bayonet
 
 **Bayonet** (common, 0.3 TV; Munitorum issue; a combat knife with a lug fits most rifles; set with the player, day 47).
-A blade fixed on a rifle's bayonet lug (lasguns, autoguns, hellguns, stub rifles; the Solid Frontier and Vigil take
+A blade fixed on a rifle's bayonet lug (lasguns, autoguns, hellguns, stub rifles; the Ironside Frontier and Vigil take
 one; **fixing or unfixing one takes the beat's move**, and it only counts once it's fully fixed: [attachments.md](attachments.md#fitted-and-working-every-attachment)). **A gun with a fixed bayonet is a melee weapon too:** no swapping between shooting and stabbing; in melee it's
 **a two-handed spear thrust: chains of 2, +1 to strike first** (the reach). A plain bayonet cuts like a knife
 (through flak; carapace shrugs it).

@@ -234,7 +234,7 @@ balance, throwbal, rig, chguard, point, stand, regulator, enhancer, length, band
 | **Scrap vertical grip** | common | under | SMGs, autoguns and stub rifles, boltguns, las rifles, needle rifles, plasma guns, shotguns | +1 on the first shot; works loose on a natural 1: -1 on shots until half a beat tightening it | [kit.md](kit.md#optics-lasers-grips-and-sleeves-the-player-day-48) |
 | **Underslung grenade launcher** | rare | under | autoguns and stub rifles, boltguns, las rifles | one grenade shot without swapping; -1 aimed; a beat to reload | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
 | **Underslung shotgun (masterkey)** | uncommon | under | autoguns and stub rifles, boltguns, las rifles | one or two shotgun blasts; -1 aimed | [kit.md](kit.md#more-attachments-player-picks-ash-on-ostrava-session-10) |
-| **New lever linkage** *(Custom)* | uncommon | action | autoguns and stub rifles (only: lever) | single lever chains up to 7, double up to 4; above 6, no hit bonuses | [attachments.md](attachments.md#tamsins-solid-frontier-schematic-17) |
+| **New lever linkage** *(Custom)* | uncommon | action | autoguns and stub rifles (only: lever) | single lever chains up to 7, double up to 4; above 6, no hit bonuses | [attachments.md](attachments.md#tamsins-ironside-frontier-schematic-17) |
 | **Plasteel spring and gas-piston trigger** *(Custom)* | rare | action | grenade launchers | 2 grenades a string; the second -1 for the kick | [attachments.md](attachments.md#holliss-six-bells-schematic-16) |
 | **The Super V** *(Custom)* | rare | action | autoguns and stub rifles (only: autogun or columnus) | auto strings up to 12, recoil 0; auto still no hit bonuses | [attachments.md](attachments.md#tamsins-columnus-schematic-18) |
 | **Tuned charger** *(Custom)* | uncommon | action | las pistols, las rifles | strings up to 7; no hit bonuses in the string, misses still -1 | [attachments.md](attachments.md#sallows-carbine-schematic-10) |
@@ -265,12 +265,12 @@ balance, throwbal, rig, chguard, point, stand, regulator, enhancer, length, band
 | **Skeleton grip** *(Custom)* | common | grip | autoguns and stub rifles, boltguns, las rifles, needle rifles, plasma guns | Handling +1; -1 aimed past ~30 m | [attachments.md](attachments.md#kells-officer-schematic-8) |
 | **One-piece crossdraw rig** *(Custom)* | common | holster | bolt pistols, las pistols, needle pistols, plasma pistols, stub pistols | +1 quick-draw | [attachments.md](attachments.md#teys-hellpistol-schematic-4) |
 | **Tuned igniter** *(Custom)* | uncommon | igniter | flamers, hand flamers | the gout opens ~2 m wide at the far end and catches anyone close together | [attachments.md](attachments.md#holliss-hand-flamer-schematic-2) |
-| **Push-loaders** *(Custom)* | common | loader | autoguns and stub rifles, shotguns (only: lever or pump or ironclad or harrow) | refill a tube in the beat's move | [attachments.md](attachments.md#tamsins-solid-frontier-schematic-17) |
+| **Push-loaders** *(Custom)* | common | loader | autoguns and stub rifles, shotguns (only: lever or pump or ironclad or harrow) | refill a tube in the beat's move | [attachments.md](attachments.md#tamsins-ironside-frontier-schematic-17) |
 | **100-round box mags** *(Custom)* | uncommon | mag | autoguns and stub rifles (only: autogun or columnus) | 100 rounds; a loaded box: Handling -1 and -1 quick-draw | [attachments.md](attachments.md#tamsins-columnus-schematic-18) |
 | **Bridged double-cell belt pack** *(Custom)* | uncommon | mag | las pistols (only: hellpistol) | 60 shots on the cable | [attachments.md](attachments.md#teys-hellpistol-schematic-4) |
 | **Dual canister cradle** *(Custom)* | uncommon | mag | hand flamers | 8 bursts before a reload | [attachments.md](attachments.md#holliss-hand-flamer-schematic-2) |
 | **Twin feed tray** *(Custom)* | uncommon | mag | heavy belt stubbers | twice the rounds; two belt types, switched with a lever | [attachments.md](attachments.md#morcants-heavy-belt-stubber-schematic-3) |
-| **Twin side-by-side tubes** *(Custom)* | uncommon | mag | autoguns and stub rifles (only: lever) | 36 rounds; Handling -1 | [attachments.md](attachments.md#tamsins-solid-frontier-schematic-17) |
+| **Twin side-by-side tubes** *(Custom)* | uncommon | mag | autoguns and stub rifles (only: lever) | 36 rounds; Handling -1 | [attachments.md](attachments.md#tamsins-ironside-frontier-schematic-17) |
 | **Plasteel teeth** *(Custom)* | uncommon | material | chain weapons | through heavy carapace on any hit, ceramite-forged on a solid hit | [attachments.md](attachments.md#kells-chain-axe-schematic-5) |
 | **Curved hardwood grip** *(Custom)* | common | mgrip | blades, blunt weapons, chain weapons, power weapons, psyker staffs (only: ^(?!.*(glove or fist or knuckle)).*) | can't be knocked from his hand by a solid hit | [attachments.md](attachments.md#kells-chain-axe-schematic-5) |
 | **Better motor** *(Custom)* | uncommon | motor | chain weapons | crits on 19-20; a natural 1 on a swing throws the chain (a beat to reseat) | [attachments.md](attachments.md#kells-chain-axe-schematic-5) |
@@ -302,7 +302,7 @@ balance, throwbal, rig, chguard, point, stand, regulator, enhancer, length, band
 | **Stock magazine slot** *(Custom)* | common | stockmag | las rifles | the first reload each fight costs no beat | [attachments.md](attachments.md#kells-officer-schematic-8) |
 | **Arc tracker (bow)** *(Custom)* | uncommon | tracker | bows (only: ^(?!.*condemnor)) | no -2 at long range, out to twice the reach; arcs over cover: one level lighter; no beams | [bows.md](bows.md#bow-parts-day-48) |
 | **Traverse tripod (ARC fire)** *(Custom)* | rare | tripod | heavy belt stubbers | set up as a main thing, no recoil; ARC: everyone in the arc -2 on their shots next beat, breaking cover draws a free shot | [attachments.md](attachments.md#morcants-heavy-belt-stubber-schematic-3) |
-| **Tube selector** *(Custom)* | uncommon | tubesel | autoguns and stub rifles (only: lever) (needs Twin side-by-side tubes) | each tube its own load; flicking it is free | [attachments.md](attachments.md#tamsins-solid-frontier-schematic-17) |
+| **Tube selector** *(Custom)* | uncommon | tubesel | autoguns and stub rifles (only: lever) (needs Twin side-by-side tubes) | each tube its own load; flicking it is free | [attachments.md](attachments.md#tamsins-ironside-frontier-schematic-17) |
 | **Custom bipod** *(Custom)* | common | under | autoguns and stub rifles, boltguns, heavy belt stubbers, las rifles, needle rifles, plasma guns | braced or prone, a chain miss costs no -1; a beat to set up | [attachments.md](attachments.md#isks-patience-schematic-7) |
 | **Underslung krak launcher** *(Custom)* | rare | under | autoguns and stub rifles, las rifles | one krak a beat out to ~60 m, rolled like a throw; a beat to reload | [attachments.md](attachments.md#tavis-tiny-schematic-9) |
 | **Third vent channel** *(Custom)* | uncommon | vent | plasma guns, plasma pistols | sheds 1 heat at the end of every beat | [attachments.md](attachments.md#ferros-ryza-plasma-pistol-schematic-15) |
@@ -490,9 +490,9 @@ On paper (11th). Source: [schematic 16](../../campaigns/ash-on-ostrava/schematic
 - **Arc calculator** (optic; **rare**) *(Custom, not traditional: no trader carries this.)*: in full at [kit.md, Arc calculator](kit.md#arc-calculator-launcher-sight): **+3 on launcher shots past ~30 m** on the first shot, and on a second at the same spot; in smoke or dust the two beams show.
 - *Traditional parts on it:* holo sight (kit.md); grenade bandolier and belt pouches (kit.md).
 
-### Tamsin's Solid Frontier (schematic 17)
+### Tamsin's Ironside Frontier (schematic 17)
 
-On paper (17th). Source: [schematic 17](../../campaigns/ash-on-ostrava/schematics.md#schematic-17-tamsins-solid-frontier-rebuilt).
+On paper (17th). Source: [schematic 17](../../campaigns/ash-on-ostrava/schematics.md#schematic-17-tamsins-ironside-frontier-rebuilt).
 
 - **New lever linkage** (action; **uncommon**) *(Custom, not traditional: no trader carries this.)*: **single lever chains up to 7 (Tamsin 8), double lever up to 4 (Tamsin 5);** a lever string above 6 runs with **no hit bonuses.**
 - **Twin side-by-side tubes** (magazine; **uncommon**) *(Custom, not traditional: no trader carries this.)*: two extended tubes: **2 x 18 = 36 rounds;** the weight up front: **-1 on swapping.**

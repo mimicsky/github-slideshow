@@ -85,9 +85,9 @@ cracks (out of the fight until repaired). **Dropped:** on the drop-prone table's
 "fires" result it dumps the whole magazine, spraying the area: roll the
 where-it-goes d20 once for every 10 rounds left (at least once).
 
-## Submachine gun, 'Solid Locust' pattern
+## Submachine gun, 'Ironside Locust' pattern
 
-**Submachine gun, 'Solid Locust' pattern** (player design, Ash on Ostrava day 45; uncommon, ~3 TV; Munitorum,
+**Submachine gun, 'Ironside Locust' pattern** (player design, Ash on Ostrava day 45; uncommon, ~3 TV; Munitorum,
 black market, Free Traders). The Hornet's bigger sister (named for a swarm): a compact stub SMG with a **30-round curved
 magazine**, a **select-fire switch**, a front grip and a **folding stock**. Stub rounds: good on flesh,
 **through flak on a solid hit**, carapace stops them.
@@ -116,9 +116,9 @@ your hands, and it does, on purpose.
 - **Simple:** strips and cleans in **~15 minutes**; anyone can fix it, and **two broken ones make one working
   one.** A magazine lasts about three full strings; a fresh one takes half a beat.
 
-## Silenced submachine gun, 'Solid Whisper' pattern
+## Silenced submachine gun, 'Ironside Whisper' pattern
 
-**Silenced submachine gun, 'Solid Whisper' pattern** (Ash on Ostrava day 45; uncommon, ~4 TV; black market, Free
+**Silenced submachine gun, 'Ironside Whisper' pattern** (Ash on Ostrava day 45; uncommon, ~4 TV; black market, Free
 Traders). An infiltrator's SMG: a fat **integral silencer** the length of the barrel and **subsonic stub
 rounds** from a 30-round magazine.
 - Strings of up to **6**, no hit bonuses in the string (misses still -1); **no recoil** (heavy, slow rounds).
@@ -156,9 +156,9 @@ boarding gun: a **gyro in the stock** and **caseless** rounds in a 40-round maga
 
 Moved to the Assassinorum file, day 47 (audit C3): [Venenum Temple: Needle SMG](assassinorum.md#venenum-temple-needle-smg).
 
-## Submachine gun, 'Solid Scorpion' pattern
+## Submachine gun, 'Ironside Scorpion' pattern
 
-**Submachine gun, 'Solid Scorpion' pattern** (player design, Ash on Ostrava day 45; rare, ~5 TV; Free Traders, black
+**Submachine gun, 'Ironside Scorpion' pattern** (player design, Ash on Ostrava day 45; rare, ~5 TV; Free Traders, black
 market). The **fastest-firing gun there is**: a short, angular stub SMG with a **40-round magazine** and **rails
 everywhere**.
 - Strings of up to **18**, no hit bonuses in the string (misses still -1); **recoil 2.**
@@ -167,9 +167,9 @@ everywhere**.
   grip, magazine, trigger, barrel).
 - A magazine is about two strings; a fresh one takes half a beat.
 
-## Bullpup SMG, 'Solid Adder' pattern
+## Bullpup SMG, 'Ironside Adder' pattern
 
-**Bullpup SMG, 'Solid Adder' pattern** (player design, Ash on Ostrava day 45; uncommon, ~4 TV; Munitorum, Free
+**Bullpup SMG, 'Ironside Adder' pattern** (player design, Ash on Ostrava day 45; uncommon, ~4 TV; Munitorum, Free
 Traders). A compact stub SMG built bullpup: the **magazine sits behind the grip**, the stock is part of the
 receiver, a **hand-stop is moulded into the front of the trigger guard** for the support hand, and a **short
 barrel** pokes out ahead of a short top rail with flip-up sights. A **32-round magazine.**
@@ -207,7 +207,7 @@ the brass thrown out of a **port on top**, and a **45-round straight magazine** 
 a crate of a few hundred is ~1 TV). **The bullet does the job, not the gun** (the player, day 47).
 - Strings of up to **8**, no hit bonuses in the string (misses still -1); **recoil 1.**
 - **[Heavy stub rounds](#heavy-stub-rounds):** good on flesh; **through flak at any range**; **carapace only on a crit.**
-- **Never jams:** like the Solid Frontier, it ignores gun condition.
+- **Never jams:** like the Ironside Frontier, it ignores gun condition.
 - **No attachment slots at all:** it is what it is.
 - **Heavy and steady:** the wooden stock makes single aimed shots **+1** when it's shouldered.
 - A magazine is about five strings; a fresh one takes half a beat.
@@ -408,9 +408,9 @@ rate of fire).
 - **Slots:** the top rail (optic), the handguard (laser and lumen, under-barrel), a stock on the buffer tube, a muzzle
   on the stub barrel. No barrel slot; the drum is built in.
 
-## Shot-revolver, 'Ironside Magistrate' officer's pattern
+## Shot-revolver, 'Breach Magistrate' officer's pattern
 
-**Shot-revolver, 'Ironside Magistrate' officer's pattern** (rare, 8 TV; Munitorum officers' issue, Free Traders; the player's design, Ash on Ostrava day 48: the old
+**Shot-revolver, 'Breach Magistrate' officer's pattern** (rare, 8 TV; Munitorum officers' issue, Free Traders; the player's design, Ash on Ostrava day 48: the old
 Taurus Judge done in 40k; name, price and the numbers he didn't set: the DM's). A **six-chamber revolver that fires
 shotgun shells**: a lieutenant's or a commander's sidearm, **gilded and engraved, an aquila on the grip** (ornamental:
 **no bonus from the gilt**; it marks the bearer as an officer).
@@ -674,9 +674,9 @@ The player's picks, day 48: real rifles done in their ammo families. **The round
 
 **Autogun, 'Solid Kestrel' short pattern** (uncommon, 4 TV; based on the SIG MCX RSAR; the player's pick, Ash on Ostrava day 48; numbers the DM's; the player set the strings, recoil and close bonus). **A short-barrel rifle:** auto strings of 8, **+1 recoil** (more than an autogun's); **+1 on shots inside ~15 m, -1 past ~60 m;** **Handling +1.** 30 rounds.
 
-### Submachine gun, 'Solid Mantis' pattern
+### Submachine gun, 'Ironside Mantis' pattern
 
-**Submachine gun, 'Solid Mantis' pattern** (uncommon, 3 TV; based on the B&T APC9; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Stub rounds** (the Solid family's SMGs fire stub; its rifles fire autogun rounds). **Light and modular:** strings of 8; **Handling +2;** full attachment slots. 30 rounds.
+**Submachine gun, 'Ironside Mantis' pattern** (uncommon, 3 TV; based on the B&T APC9; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Stub rounds** (Ironside: the stub family; it sits here with the day-48 list). **Light and modular:** strings of 8; **Handling +2;** full attachment slots. 30 rounds.
 
 ### Autogun, 'Solid Jaguar' pattern
 
@@ -779,7 +779,7 @@ The player's picks, day 48: real rifles done in their ammo families. **The round
 
 **Stub and autogun rounds, special loads** (player picks, Ash on Ostrava day 36; Munitorum, black market,
 Free Traders). Each load comes in its own box and fits any gun of its
-calibre: **stub** (stub revolvers, stub automatics, the Solid Frontier; heavy stub guns, such as hand cannons, take the heavy stub versions) or **auto** (autoguns,
+calibre: **stub** (stub revolvers, stub automatics, the Ironside Frontier; heavy stub guns, such as hand cannons, take the heavy stub versions) or **auto** (autoguns,
 autopistols, Hammerfall auto-revolvers, the Solid Hornet). **Standard rounds** (Stub/auto rounds, box): flak
 shrugs them at range, reinforced flak and carapace shrug them. A magazine holds one load at a time. **In the enemy
 roll, AP and CAP count as rare** (only there; the shop rarity below stands: the player, day 47;
@@ -789,7 +789,7 @@ roll, AP and CAP count as rare** (only there; the shop rarity below stands: the 
 | --- | --- | --- | --- |
 | **HP** (hollow point) | stub, auto | uncommon, 1 TV a box | Opens up in flesh. **Flak doesn't shrug it, even at range; against no armour or flak, a solid hit drops two steps.** Reinforced flak and heavier shrug it |
 | **AP** (armour-piercing) | stub, auto | uncommon, 1.5 TV a box | Hardened steel core. **Flak and reinforced flak don't shrug it; through carapace on a solid hit inside ~15 m.** Heavy carapace and heavier shrug it (changed with the player, day 36 cleanup). Punches straight through flesh: **against no armour, a crit drops just one step** (no extra) |
-| **HV** (high velocity) | stub, auto | uncommon, 1 TV a box | Hot load, light bullet. **+1 on aimed shots past 30 m; flak doesn't shrug it at range.** The hot powder fouls the gun: **each HV shot counts as 2 toward Dirty**; in a never-jam gun (the Solid Frontier) **the string takes -1 after 20 HV rounds until the gun is cleaned** (changed with the player, day 36 cleanup) |
+| **HV** (high velocity) | stub, auto | uncommon, 1 TV a box | Hot load, light bullet. **+1 on aimed shots past 30 m; flak doesn't shrug it at range.** The hot powder fouls the gun: **each HV shot counts as 2 toward Dirty**; in a never-jam gun (the Ironside Frontier) **the string takes -1 after 20 HV rounds until the gun is cleaned** (changed with the player, day 36 cleanup) |
 | **Flat-tip** (the player's design) | stub | uncommon, 0.75 TV a box | A regular round, except against armour it can't get through: **a shrugged flat-tip hit counts as 2 shrugged hits toward wear-down** (Armour, wear-down: every 6 drop a step). **Ceramite-forged and power armour: no wear-down at all** (stub is too weak to matter: codex, Armour) |
 | **CAP** (ceramite-tipped armour-piercing) | auto | uncommon, 2 TV a box | A ceramite tip on a steel core (changed by the player, day 36: tipped, not cored, so it's cheap enough to use; a hot-shot pack does the same for free). **Flak and reinforced flak don't shrug it; through carapace on a solid hit at any range.** Heavy carapace and heavier shrug it (changed with the player, day 36 cleanup). Punches through flesh like AP (**against no armour, a crit drops just one step**) |
 
@@ -918,9 +918,9 @@ ammo does the hurting, not the gun:** its old 'two steps a hit' and 'through cov
 precision:** a bolt action and a long, heavy barrel: **+1 on aimed shots, and no -2 until past ~150 m.** **Must be
 braced** on its bipod or on cover (unbraced: -3). One shot a beat. **Loud:** everyone in the area hears it.
 
-## Lever-action stub rifle, 'Solid Frontier' pattern
+## Lever-action stub rifle, 'Ironside Frontier' pattern
 
-**Lever-action stub rifle, 'Solid Frontier' pattern** (player design, Ash on Ostrava
+**Lever-action stub rifle, 'Ironside Frontier' pattern** (player design, Ash on Ostrava
 session 9; uncommon, 2.5 TV, changed with the player, day 36 cleanup; Munitorum, black
 market, Free Traders). A classic lever
 gun with a **12-round tube**; **never jams**. **Single lever:** chains of up to 6,

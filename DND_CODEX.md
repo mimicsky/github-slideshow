@@ -793,7 +793,7 @@ A **beat** is one moment of a fight, a few seconds. Everyone acts every beat: **
 - **Run and gun (set by the player, Ash on Ostrava session 10; 15 m, not a sprint's 25, day 48):** a run is still the whole move, but **a gun can still fire a
   shot string during it** (pushing up and shooting), at **-2 on those shots**, the same as firing from the air. A melee swing
   at the end of a sprint still needs Action Surge.
-- **Top up from the string (set by the player, Ash on Ostrava day 47):** with **any gun loaded round by round** (loose rounds thumbed in: revolvers, lever-actions like the Solid Frontier, tube-fed shotguns, break-actions, internal-magazine rifles), the shots of a string the shooter doesn't fire can be spent loading rounds: **one round per unused shot**, the same beat. Not for detachable magazines, las and hot-shot packs, drums or belts (those swap whole). Widened by the player the same day.
+- **Top up from the string (set by the player, Ash on Ostrava day 47):** with **any gun loaded round by round** (loose rounds thumbed in: revolvers, lever-actions like the Ironside Frontier, tube-fed shotguns, break-actions, internal-magazine rifles), the shots of a string the shooter doesn't fire can be spent loading rounds: **one round per unused shot**, the same beat. Not for detachable magazines, las and hot-shot packs, drums or belts (those swap whole). Widened by the player the same day.
 - **Run and reload (DM ruling, Ash on Ostrava day 47, at the player's call):** a sprint can carry a reload instead of a string
   (thumbing rounds into a tube, swapping a pack or a drum on the move): no roll, no penalty. Reloading and shooting in one beat still needs Action Surge.
 - **Free extras:** a Commander's orders (bestiary roles); a duelist's gun **and** sword in the same beat.
@@ -1162,7 +1162,7 @@ ladder a hit moves you.
   weapons. **Armour-piercing loads** (AP, CAP, man-stopper shells, shard darts) count like hellguns here: they can
   wear down ceramite-forged and adamantium plate, nothing heavier. Bolters, plasma, melta, power weapons and kraks already get through.
 - **Shotguns: close blast (set by the player, Ash on Ostrava day 48:** shotguns were 'regular guns but worse'**).** Every
-  shotgun (scrap, pump, combat, the shotlas, the Kasr Hailstorm, the Kasr Flicker pistol and the Ironside Magistrate revolver (to ~10 m), the Breach Longshot and the Breach Breakwater (to ~20 m), the hell shotgun, Ogryn ripper guns): **inside ~15 m, against armour it
+  shotgun (scrap, pump, combat, the shotlas, the Kasr Hailstorm, the Kasr Flicker pistol and the Breach Magistrate revolver (to ~10 m), the Breach Longshot and the Breach Breakwater (to ~20 m), the hell shotgun, Ogryn ripper guns): **inside ~15 m, against armour it
   gets through cleanly (on any hit: no solid hit or crit needed), a hit drops one extra step (2 in all).** Where it
   only gets through on a solid hit or a crit, no extra step. **The spread forgives: inside ~10 m, a shot that misses
   by 1-2 still clips the target for half a step (0.5)**, where the armour doesn't shrug it (DM's draft, kept). **A
@@ -1675,7 +1675,7 @@ never jams; a natural 1 is just a miss. **Dirty** (**about 30 shots since its la
 changed by the player, session 10; or ~3 days of use): **a natural 1 jams it**; clearing takes a beat.
 **Neglected** (a week or more uncleaned, or exposed to mud, grit, vacuum or a gale):
 **jams on 1-3; a natural 1 seizes it**, out of the fight until a smith fixes it. **Las
-guns count one step cleaner.** Never-jam guns (the 'Solid Frontier') ignore all this,
+guns count one step cleaner.** Never-jam guns (the 'Ironside Frontier') ignore all this,
 and the smith crew post ignores the first jam each fight. **Cleaning:** ~30 minutes a
 gun (DEX training, +0.1 an hour). **Enemies:** cultists and raiders roll **Dirty or
 Neglected** (even chance); pirates **Dirty**; traitors and traitor elites **Clean**; commoners **Clean** (they barely fire them); **a veteran's guns are always Clean** (bestiary roles, Veteran).

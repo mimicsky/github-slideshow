@@ -281,8 +281,8 @@ with one hand: hard to do (the player: 'apparently that's super hard').
   of that string.
 - Cooldown: 3 beats, and it's his one ability that beat.
 
-**Items with it:** **every lever-action gun:** the [Solid Frontier](stub.md#lever-action-stub-rifle-solid-frontier-pattern),
+**Items with it:** **every lever-action gun:** the [Ironside Frontier](stub.md#lever-action-stub-rifle-ironside-frontier-pattern),
 hunters' lever-actions, the [Breach Outrider](stub.md#lever-action-shotgun-breach-outrider-pattern). Not the Sol Furnace
-plasma repeater (its lever runs along the stock). **Owned in Ash on Ostrava:** Tamsin's Solid Frontier (**STR 32.6: not
+plasma repeater (its lever runs along the stock). **Owned in Ash on Ostrava:** Tamsin's Ironside Frontier (**STR 32.6: not
 yet**, he needs 35).
 

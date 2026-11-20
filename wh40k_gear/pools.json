@@ -441,7 +441,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Lever-action stub rifle, 'Solid Frontier' pattern (12-round tube; never jams; chains of 6, or 3 double-lever shots)",
+  "name": "Lever-action stub rifle, 'Ironside Frontier' pattern (12-round tube; never jams; chains of 6, or 3 double-lever shots)",
   "tv": 2.5,
   "cat": "stub",
   "rarity": "U",
@@ -455,7 +455,7 @@
   "sellers": "BF"
  },
  {
-  "name": "Silenced submachine gun, 'Solid Whisper' pattern (subsonic stub; not heard past 10 m; strings of 6, no recoil)",
+  "name": "Silenced submachine gun, 'Ironside Whisper' pattern (subsonic stub; not heard past 10 m; strings of 6, no recoil)",
   "tv": 4,
   "cat": "stub",
   "rarity": "U",
@@ -490,14 +490,14 @@
   "sellers": "MBF"
  },
  {
-  "name": "Bullpup SMG, 'Solid Adder' pattern (stub; 32-round mag behind the grip; strings of 10, first 4 shots no recoil; +1 quick-draw; reload a full beat)",
+  "name": "Bullpup SMG, 'Ironside Adder' pattern (stub; 32-round mag behind the grip; strings of 10, first 4 shots no recoil; +1 quick-draw; reload a full beat)",
   "tv": 4,
   "cat": "stub",
   "rarity": "U",
   "sellers": "MF"
  },
  {
-  "name": "Submachine gun, 'Solid Scorpion' pattern (fastest: strings of 18, recoil 2; 40-round mag; every attachment slot)",
+  "name": "Submachine gun, 'Ironside Scorpion' pattern (fastest: strings of 18, recoil 2; 40-round mag; every attachment slot)",
   "tv": 5,
   "cat": "stub",
   "rarity": "R",
@@ -525,7 +525,7 @@
   "sellers": "MB"
  },
  {
-  "name": "Submachine gun, 'Solid Locust' pattern (stub; 30-round mag; auto strings of 8, bursts of 4 as two rounds, semi +1 stock out; folding stock)",
+  "name": "Submachine gun, 'Ironside Locust' pattern (stub; 30-round mag; auto strings of 8, bursts of 4 as two rounds, semi +1 stock out; folding stock)",
   "tv": 3,
   "cat": "stub",
   "rarity": "U",
@@ -1239,7 +1239,7 @@
   "sellers": "B"
  },
  {
-  "name": "Subsonic stub rounds (box; Solid Whisper)",
+  "name": "Subsonic stub rounds (box; Ironside Whisper)",
   "tv": 0.75,
   "cat": "ammo",
   "rarity": "U",
@@ -4151,7 +4151,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Shot-revolver, 'Ironside Magistrate' officer's pattern (gilded six-shell revolver; also takes stub revolver rounds; close blast inside ~10 m; Fan the Hammer)",
+  "name": "Shot-revolver, 'Breach Magistrate' officer's pattern (gilded six-shell revolver; also takes stub revolver rounds; close blast inside ~10 m; Fan the Hammer)",
   "tv": 8,
   "cat": "stub",
   "rarity": "R",
@@ -5579,7 +5579,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Submachine gun, 'Solid Mantis' pattern (based on the B&T APC9)",
+  "name": "Submachine gun, 'Ironside Mantis' pattern (based on the B&T APC9)",
   "tv": 3,
   "cat": "stub",
   "rarity": "U",
