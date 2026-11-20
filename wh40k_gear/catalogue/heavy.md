@@ -140,7 +140,7 @@ braced only, **a pack holds 12 shots**. On the [attachment sheet](attachments.md
   **One armour tier harder:** heavy carapace at any range, ceramite-forged inside ~15 m. It burns out fast: **6 shots a
   pack, not 12.**
 - **Extended multi-laser pack** (uncommon, 4 TV, DM's price; Munitorum, Free Traders). **36 shots, not 12** (the player's
-  '6', read as 6 strings of 6). Heavier: **-1 on swapping.**
+  '6', read as 6 strings of 6). Heavier: **Handling -1.**
 
 ## Valkyrie bolt-rocket pods, pair
 
@@ -228,7 +228,7 @@ emplacements. On the [attachment sheet](attachments.md#the-rollable-list).)
   pen, and on people there's nothing left to pierce, so it goes into vehicles: **a hit on a vehicle takes 2 hull
   points, not 1.** Runs hot: **+1 heat a shot; vent a beat at 3.**
 - **Extended lascannon pack** (uncommon, 8 TV, DM's price; Munitorum, Mechanicus, Free Traders). **10 shots, not 6.**
-  Heavier: **-1 on swapping.** It's the pack's size, so a Mechanicus fill can come in one.
+  Heavier: **Handling -1.** It's the pack's size, so a Mechanicus fill can come in one.
 - **Lascannon battery pack** (uncommon, 15 TV, DM's price; Munitorum, Mechanicus, Free Traders; the player's idea: a
   set-down pack the size of a cooler). **40 shots.** **Set down to use:** setting it down and cabling in takes the
   beat's move, and the gunner **can't move more than ~3 m from it** until he unplugs. **Hauling it:** a second person

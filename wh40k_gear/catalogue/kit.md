@@ -656,9 +656,9 @@ and **disarm attempts against the bearer take -2**.
 - **Ergo foregrip** (common, 1 TV): **+1 on the first shot** of a string, nothing after (the recoil -1
   dropped; changed with the player, day 36 cleanup).
 - **Heavy foregrip** (uncommon, 1.5 TV): **+2 on aimed shots**; a miss in a chain costs
-  **-2** instead of -1; **-1 more on swapping**.
-- **Handstop foregrip** (uncommon, 1.5 TV): **+2 on the first shot**; **swapping costs
-  nothing**; **-1 on aimed shots**.
+  **-2** instead of -1; **Handling -1**.
+- **Handstop foregrip** (uncommon, 1.5 TV): **+2 on the first shot**; **Handling +1** (was 'swapping costs
+  nothing'); **-1 on aimed shots**.
 - **Lumen foregrip** (uncommon, 1.5 TV, DM's price; the player's ask, Ash on Ostrava day 47): an under-barrel grip with a
   light in its nose. **+1 on the first shot** (as the ergo foregrip), and **a full lumen:** no darkness penalty in the
   beam, he's lit up too, and it **can blind** (in a face inside ~5 m in the dark: -2 on their next roll). **A thumb
@@ -673,7 +673,7 @@ and **disarm attempts against the bearer take -2**.
   cover what it costs; too slight for a bonus). Costs: longer and heavier at the muzzle, **-1 on
   quick-draw**; gas blown back into the action: **the gun turns Dirty after ~20 shots, not ~30**.
 - **Heavy suppressor** (stub/auto; uncommon, 3 TV; reworked the same day): near-silent; **recoil -2**.
-  Costs: long and heavy, **-1 on quick-draw and -1 on swapping**; fouls the same way (**Dirty after
+  Costs: long and heavy, **-1 on quick-draw, Handling -1**; fouls the same way (**Dirty after
   ~20 shots**).
 - **Compensator** (uncommon, 2 TV): **recoil -2**; **+1 more to the next shot after each
   hit** (a first-shot hit gives +3, later hits +2); **-1 on aimed shots**.
@@ -683,10 +683,10 @@ and **disarm attempts against the bearer take -2**.
 
 ### Rifle stocks (autogun, lasgun, stub rifle)
 
-- **Tac rifle stock** (uncommon, 1.5 TV): **+1 on the first shot, +1 on aimed shots, -2
-  more on swapping**.
-- **Light rifle stock** (common, 1 TV): **+2 on swapping** (a swap becomes +1); **-1 on
-  aimed shots**.
+- **Tac rifle stock** (uncommon, 1.5 TV): **+1 on the first shot, +1 on aimed shots, Handling
+  -2**.
+- **Light rifle stock** (common, 1 TV): **Handling +2** (+2 on swaps and on every string's first shot, +2 m on
+  the short move); **-1 on aimed shots**.
 
 ### Custom barrel (stub pistols and SMGs; barrel slot)
 
@@ -891,7 +891,7 @@ wreck it.**
 Designed by the player, Ash on Ostrava day 48 (placed and numbered by the DM).
 
 - **Tube stock** (regular, common, 0.75 TV; stock slot; rifles, carbines, SMGs, shotguns): a bare buffer tube with a
-  pad: **+2 on swapping targets; +1 on shots inside ~10 m; but +1 recoil.**
+  pad: **Handling +2; +1 on shots inside ~10 m; but +1 recoil.**
 - **Shot accelerator** (*custom, not traditional: no trader carries this*; a smith's build, parts ~6 TV; **barrel
   slot** (it's built across the barrel and receiver; moved there day 48, so it can't share a gun with a full-barrel
   suppressor or another barrel part); **bullet guns only**: stub, auto, heavy stub, heavy auto, heavy belt stubber and shotguns; **not bolt, las or
@@ -905,6 +905,10 @@ Designed by the player, Ash on Ostrava day 48 (placed and numbered by the DM).
   - **Heat: +1 every 6 shots; at 3 it must vent a beat** (heat clears after venting or at the fight's end).
 
 ### Optics, lasers, grips and sleeves (the player, day 48)
+
+**Handling** (codex Gear rules, day 48): every '+X or -X on swapping' on a gun or part is its Handling; plus Handling
+also adds to every string's first shot and +1 m a point to the short move; +4 or more fires a two-handed gun
+one-handed at -2; minus Handling hurts swaps only.
 
 Designed by the player, Ash on Ostrava day 48 (placed and priced by the DM). **Recoil reads the player's way: -recoil
 helps (less kick), +recoil hurts (more kick).** None of these change damage: the ammo does the hurting.
@@ -927,8 +931,8 @@ helps (less kick), +recoil hurts (more kick).** None of these change damage: the
     m, +1 more past ~150 m; -1 on hip shots inside ~15 m.** Switching zoom is **free** (a throw lever). It beats the
     reflex sight up close and the 10x scope at range: that's why it's rare and dear.
 - **Grip monopod** (regular, uncommon, 1.5 TV; under-barrel slot; rifles, carbines, SMGs, shotguns): a vertical grip
-  with one leg inside it. **+1 on aimed shots while braced; the leg drops in the beat's move, no set-up beat; -1 on
-  swapping while it's down.**
+  with one leg inside it. **+1 on aimed shots while braced; the leg drops in the beat's move, no set-up beat; Handling -1
+  while it's down.**
 - **IR laser** (regular, rare, 3 TV; laser slot): a beam the eye can't see. **+1 on hip shots inside ~20 m, only with a
   low-light optic or night goggles; only someone with that kind of gear sees the beam.**
 - **Green laser** (regular, uncommon, 2 TV; laser slot): bright, and it shows in daylight. **+2 on hip shots inside ~30
@@ -951,8 +955,8 @@ helps (less kick), +recoil hurts (more kick).** None of these change damage: the
   stock): **holds 7 shells; every top-up from it loads 2 more shells than normal** (4 a half beat becomes 6).
   Refilled between fights.
 - **Skeleton handguard** (regular, common, 1 TV; handguard slot; rifles, carbines, SMGs, shotguns): a cut-out frame
-  with rails. **+2 on swapping; +1 recoil** (the bare frame is light and kicks more). **Doesn't stack with another +2
-  on swapping** (tube stock, light rifle stock): the same effect counts once, but the recoil does stack.
+  with rails. **Handling +2; +1 recoil** (the bare frame is light and kicks more). It adds to a light or tube stock's
+  Handling (Handling adds up, no cap): with a tube stock, Handling +4 and +2 recoil.
 - **Bio-scanner firing pin** (*custom, not traditional: no trader carries this*; a smith's build, parts ~5 TV; biolock
   slot; any gun with a pistol grip; rare):
   - **Bonding:** at a bench, **both of the owner's full hands are scanned.** It bonds to **one person only.**

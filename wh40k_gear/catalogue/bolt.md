@@ -99,7 +99,7 @@ bolters built side by side as one gun, firing together.
 - **A bolt's punch:** each hit a step, through everything up to semi power armour; Space Marine armour only on a solid
   hit (codex Part 8, Armour).
 - **STR 30 with two hands; Yarrick's grip: STR 40+ fires it one-handed** (the other hand free: a sword, a klaw, a fist).
-- **Heavy: -1 on swapping targets.**
+- **Heavy: Handling -1.**
 - **A 30-round twin box** (15 a barrel; 5 strings); a spare box is 0.3 TV empty (codex Gear rules, Magazines); bolts
   cost extra.
 - **Who carries it:** commanders, leaders and commissars (rare); renegade and fallen commissars.

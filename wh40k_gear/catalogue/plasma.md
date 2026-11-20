@@ -160,7 +160,7 @@ every shot after the first is -1; a beat without firing clears it.
   **rare in the enemy roll**). **A hit on a vehicle takes 2 hull points, not 1** ([vehicles.md](../bestiary/vehicles.md)).
   **The kick** (-1 on his next melta shot). Otherwise a standard canister.
 - **Big melta canister** (uncommon, 8 TV, DM's price; Munitorum, Mechanicus, Free Traders). **14 shots, not 6** (the
-  player's number). Bulky: **-1 on quick-draws and swapping.** It's the canister's size, so any fill can come in one
+  player's number). Bulky: **-1 on quick-draws; Handling -1.** It's the canister's size, so any fill can come in one
   (a big Astartes canister).
 - **Mechanicus melta canister** (rare, 12 TV, DM's price; Mechanicus, Free Traders; **rare in the enemy roll**). The
   player's idea, more damage: **inside ~8 m a hit drops 3 steps** (past that, as standard). **The kick** (-1 on his

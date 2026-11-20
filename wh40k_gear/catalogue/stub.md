@@ -343,7 +343,7 @@ Sacrifice](abilities.md#precision-sacrifice) (every gun).
 **Lucius-pattern 'Ironclad' shotgun** (rare, 4 TV; Munitorum, black market, Free Traders; it was a name in the shop
 list with no entry until the player set it, Ash on Ostrava day 47). A **heavy pump shotgun** of thick Lucius forge-world
 steel with an **8-shell tube** (reloading: half a beat per 2 shells). **Long choked barrel:** the spread stays tight,
-so **the -2 starts past ~25 m**, not ~15 m. **The weight soaks the kick: recoil 0**, but **-1 on swapping**. Standard
+so **the -2 starts past ~25 m**, not ~15 m. **The weight soaks the kick: recoil 0**, but **Handling -1**. Standard
 shells as any shotgun (special loads: [below](#shotgun-shells-special-loads)).
 
 **Abilities:** [Slam (push-pull)](abilities.md#slam-push-pull): **its reinforced action only jams on a natural 1-3**
@@ -360,7 +360,7 @@ name, price and the numbers he didn't set: the DM's). A **14-shell rotating cyli
 - **Slots: optic and under-barrel only** (special shells still load; a taped flashlight needs no slot).
 - **Reloading: 4 shells every half beat, 8 a beat** (the player, day 48): wind the cylinder and thumb them in; a full
   reload (14) is just under 2 beats. It's loaded round by round, so it can be topped up from the string.
-- **Bulky:** -1 on swapping targets.
+- **Bulky:** Handling -1.
 
 ## Over-under pump shotgun, 'Breach Twinstack' pattern
 
@@ -389,7 +389,7 @@ pump**, with a selector near the trigger and a **skeleton stock**.
 - **Pump mode: strings of 3, no recoil.** [Slam](abilities.md#slam-push-pull), as any pump.
 - **9-shell tube** (the player, day 48: a tube, not a box magazine): half a beat per 2 shells to reload; it can be
   topped up from the string (no magazines needed).
-- **Skeleton stock** (built in): light and quick: **+1 on quick-draws and on swapping targets.**
+- **Skeleton stock** (built in): light and quick: **+1 on quick-draws; Handling +1.**
 - **Every attachment slot but the stock.** Standard shotgun range (the close blast to ~15 m; -2 past ~15 m).
 
 ## Auto-shotgun, 'Breach Thresher' drum pattern
@@ -485,7 +485,7 @@ heavy pump with a boxy receiver and a broad handguard, **a bayonet fixed under t
 - **12-shell tube, pump: strings of 3, recoil 1.** [Slam](abilities.md#slam-push-pull), as any pump.
 - **Shell by shell: half a beat per 3 shells** (the player, day 48); it can be topped up from the string (stop
   mid-reload and fire).
-- **Heavy: -1 on swapping targets** (the player, day 48).
+- **Heavy: Handling -1** (the player, day 48).
 - **Range 20** (the player, day 48): **the close blast reaches ~20 m** (codex Part 8, Armour), and **-2 only past ~20 m.**
 - **Built-in bayonet:** always fixed (no beat to fit it); it fights as a [bayonet](kit.md#bayonet): shoot and stab with
   the same gun.
@@ -656,7 +656,7 @@ The player's picks, day 48: real rifles done in their ammo families. **The round
 
 ### Autogun, 'Solid Czech' pattern
 
-**Autogun, 'Solid Czech' pattern** (uncommon, 3 TV; based on the CZ Bren 2; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Light and handy:** +1 on quick-draws and on swapping targets. Auto strings of 6; 30 rounds.
+**Autogun, 'Solid Czech' pattern** (uncommon, 3 TV; based on the CZ Bren 2; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Light and handy:** +1 on quick-draws; Handling +1. Auto strings of 6; 30 rounds.
 
 ### Semi-auto carbine, 'Solid Stripper' pattern
 

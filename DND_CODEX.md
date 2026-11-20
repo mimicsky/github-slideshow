@@ -786,11 +786,11 @@ A **beat** is one moment of a fight, a few seconds. Everyone acts every beat: **
   own exchange: the attacker swings and the target rolls to defend; it lands, is blocked or is parried. A block stops
   that swing, the chain carries on; a parry ends it and flips initiative: the defender's chain comes **next beat**.
 - **Leftover shots go into an enemy automatically** (set by the player, Ash on Ostrava day 34). When the player's target goes Down (or is already Down) before his string is spent, the leftover shots go into another enemy, without asking, **unless the player said to hold them**. The DM picks the one the player would most want: the one already hurt that the shot can finish, else the biggest threat in view. The swap -1 applies as normal.
-- **Short move:** a few metres, or to the next cover, is free. A real sprint is the main thing.
+- **Short move:** **5 m** (or to cover inside that), free with the main thing; **+1 m per point of plus Handling** on the gun in hand (Gear rules, Handling). **Sprint:** the whole beat, **25 m**, nothing else: the main thing. **Run and gun:** **15 m** with a shot string at -2, or with a reload (below). (Distances set by the player, Ash on Ostrava day 48; the short move was 'a few metres'.)
 - **Lies the player character doesn't deliver himself (set by the player, Ash on Ostrava day 47):** when an ally carries the lie
   (a coded message, a forged order, a disguise someone else wears), the ally rolls their craft and **the target rolls
   against it** (an open d20 + their WIS, plus any reason to doubt), not the player.
-- **Run and gun (set by the player, Ash on Ostrava session 10):** a sprint is still the whole move, but **a gun can still fire a
+- **Run and gun (set by the player, Ash on Ostrava session 10; 15 m, not a sprint's 25, day 48):** a run is still the whole move, but **a gun can still fire a
   shot string during it** (pushing up and shooting), at **-2 on those shots**, the same as firing from the air. A melee swing
   at the end of a sprint still needs Action Surge.
 - **Top up from the string (set by the player, Ash on Ostrava day 47):** with **any gun loaded round by round** (loose rounds thumbed in: revolvers, lever-actions like the Solid Frontier, tube-fed shotguns, break-actions, internal-magazine rifles), the shots of a string the shooter doesn't fire can be spent loading rounds: **one round per unused shot**, the same beat. Not for detachable magazines, las and hot-shot packs, drums or belts (those swap whole). Widened by the player the same day.
@@ -1637,7 +1637,16 @@ pistols, shotguns, revolvers, hand cannons, heavy belt stubbers braced; **4** bo
 move, anti-materiel rifles. **Every catalogue entry that states its own recoil reads 2 higher** (its 'recoil 0' from a
 heavy frame or a mount is 2, 'recoil 1' is 3, 'recoil 2' is 4); **an entry that says 'no recoil' reads 1.** Bows,
 melta (one shot a beat) and flamers have none. Recoil reducers (compensators, weighted grips, bipods, mounts, Slam
-strings) still take off what they say. **Slots:** a gun takes **one
+strings) still take off what they say.
+**Handling (set by the player, Ash on Ostrava day 48; replaces the old '+X / -X on swapping' on guns and parts).** A
+gun's **Handling** is the sum of every '+X or -X on swapping' in its own entry and its parts' entries ('swapping costs
+nothing' or 'no swap penalty' counts **+1**). Parts add up: **no cap**. **Plus Handling** (lighter, quicker): **+Handling
+on a swap shot, +Handling on the first shot of every string, and +1 m on the short move per point**; **at +4 or more a
+two-handed gun can be fired one-handed, at -2 on every shot.** **Minus Handling** (heavier): **only on swap shots**; no
+first-shot or move penalty. The swap's own -1 still applies. **Aim aids aren't Handling** and keep their own swap rule (a
+laser sight's +1 after a swap, the CQC scope's +1 on the first shot after a swap, sweep emitters, walking plates).
+Handling parts often cost recoil or aim (the tube stock and skeleton handguard +1 recoil; the light rifle stock -1
+aimed): that's their price. **Slots:** a gun takes **one
 attachment per slot**. The full slot list (guns and melee) is on the attachment sheet: `wh40k_gear/catalogue/attachments.md`, The rollable list, Slots.
 No hard cap on bonuses; nearly every attachment carries a real downside; the few that don't are priced for it. **A gun's optic and a HUD
 eye's aim bonus stack** (changed by the player, Ash on Ostrava day 34: otherwise the optic is just decor). Attachments are in the
