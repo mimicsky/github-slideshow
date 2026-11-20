@@ -4991,6 +4991,104 @@
   "sellers": "MB"
  },
  {
+  "name": "Cheek rest (+1 aimed with an optic; -1 aimed with iron sights)",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Combat scope, 3.5x (+1 aimed past ~15 m, +1 more past ~100 m; -1 hip inside ~10 m)",
+  "tv": 2.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "CQC scope, 1.5x (+1 aimed inside ~30 m, +1 first shot after a swap; -1 aimed past ~60 m)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Grip monopod (+1 aimed braced; drops in the move; -1 swapping while down)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "IR laser (+1 hip inside ~20 m with low-light gear; beam unseen without it)",
+  "tv": 3,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
+ },
+ {
+  "name": "Green laser (+2 hip inside ~30 m, day or night; spotted +2)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Blue laser (+1 hip inside ~20 m, +2 in dark or smoke; nothing in bright daylight)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Scrap scope (+1 long; -1 hip and inside ~15 m; slips on a natural 1)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Scrap vertical grip (+1 first shot; works loose on a natural 1)",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Scrap V grip (+1 hip; snaps off on a natural 1)",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Scrap cushioned stock (recoil -1; -1 aimed past ~30 m)",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Rifle round sleeve (lever- and bolt-actions: 10 rounds on the stock; top-ups +2)",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Shotgun shell sleeve (7 shells on the stock; top-ups +2)",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Skeleton handguard (+2 swapping; +1 recoil)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
   "name": "Fitted chameleoline cloak (cut for one set of armour: the cloak's bonus over carapace or heavier)",
   "tv": 25,
   "cat": "gear",

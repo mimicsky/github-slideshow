@@ -170,6 +170,7 @@ drop-prone guns, going Down, ammo crates) are in DND_CODEX Part 8, **Gear rules*
 - [Hose-fed hand flamer, 'Pyre' pattern](scrap.md#hose-fed-hand-flamer-pyre-pattern)
 - [Wrist flamer](kit.md#wrist-flamer)
 - [Gun parts (day 48)](kit.md#gun-parts-day-48) (tube stock; shot accelerator)
+- [Optics, lasers, grips and sleeves (the player, day 48)](kit.md#optics-lasers-grips-and-sleeves-the-player-day-48) (cheek rest; 3.5x combat scope; 1.5x CQC scope; grip monopod; IR, green and blue lasers; scrap scope, vertical grip, V grip and cushioned stock; rifle round and shotgun shell sleeves; skeleton handguard; custom: bio-scanner firing pin, full-barrel suppressor)
 - [Wrist stub gun, 'Ironside Sleeve' pattern](kit.md#wrist-stub-gun-ironside-sleeve-pattern)
 - [Torch-thrower (scrap flamer)](scrap.md#torch-thrower-scrap-flamer)
 - [Sump harpoon (spear-gun)](scrap.md#sump-harpoon-spear-gun)

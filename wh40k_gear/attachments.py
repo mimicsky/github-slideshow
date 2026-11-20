@@ -112,6 +112,23 @@ A = [
  ("sglong", "Long shotgun barrel", "U", "barrel", {"sg", "lr"}, r"^(?!.*(sawn-off|pipe|junk|nailer)).*(shotgun|scattergun|shotlas|ripper)", None, 0, "the close blast reaches ~20 m, not ~15; -1 on quick-draws", "stub.md#long-shotgun-barrel"),
  ("tubestock", "Tube stock", "C", "stock", {"lr", "sr", "br", "smg", "sg"}, None, None, 0, "+2 on swapping targets; +1 on shots inside ~10 m; +1 recoil", "kit.md#gun-parts-day-48"),
  ("c_accel", "Shot accelerator", "R", "accelerator", {"sp", "smg", "sr", "sg", "hs"}, None, None, 1, "one armour step further (gets through and dents); range half as far again; inside ~15 m a shrugged hit counts 2 toward wear-down and a hit that gets through drops an extra step; +1 heat every 6 shots, vent at 3", "kit.md#gun-parts-day-48"),
+ # optics, lasers, grips and sleeves (the player, day 48): full entries in kit.md
+ ("cheek", "Cheek rest", "C", "cheek", {"lr", "sr", "br", "sg"}, None, None, 0, "+1 aimed with an optic on the gun; with iron sights -1 aimed", "kit.md#optics-lasers-grips-and-sleeves-the-player-day-48"),
+ ("acog", "Combat scope (3.5x)", "U", "optic", RIFLE | {"smg", "sg", "hs"}, None, None, 0, "+1 aimed past ~15 m, +1 more past ~100 m; -1 hip inside ~10 m", "kit.md#optics-lasers-grips-and-sleeves-the-player-day-48"),
+ ("cqcscope", "CQC scope (1.5x)", "U", "optic", RIFLE | {"smg", "sg"}, None, None, 0, "+1 aimed inside ~30 m and +1 on the first shot after a swap; -1 aimed past ~60 m", "kit.md#optics-lasers-grips-and-sleeves-the-player-day-48"),
+ ("monopod", "Grip monopod", "U", "under", RIFLE | {"smg", "sg"}, None, None, 0, "+1 aimed braced; the leg drops in the beat's move, no set-up beat; -1 swapping while it's down", "kit.md#optics-lasers-grips-and-sleeves-the-player-day-48"),
+ ("irlaser", "IR laser", "R", "laser", SIGHT, None, None, 0, "+1 hip inside ~20 m, only with a low-light optic or night goggles; only that kind of gear sees the beam", "kit.md#optics-lasers-grips-and-sleeves-the-player-day-48"),
+ ("greenlaser", "Green laser", "U", "laser", SIGHT, None, None, 0, "+2 hip inside ~30 m, day or night; spotted easily: anyone looking for him +2", "kit.md#optics-lasers-grips-and-sleeves-the-player-day-48"),
+ ("bluelaser", "Blue laser", "U", "laser", SIGHT, None, None, 0, "+1 hip inside ~20 m, +2 in the dark or smoke; nothing in bright daylight", "kit.md#optics-lasers-grips-and-sleeves-the-player-day-48"),
+ ("scrapscope", "Scrap scope", "C", "optic", RIFLE | {"sg", "hs"}, None, None, 0, "+1 long shots; -1 hip and inside ~15 m; slips on a natural 1: no bonus until half a beat re-seating it", "kit.md#optics-lasers-grips-and-sleeves-the-player-day-48"),
+ ("scrapvert", "Scrap vertical grip", "C", "under", RIFLE | {"smg", "sg"}, None, None, 0, "+1 on the first shot; works loose on a natural 1: -1 on shots until half a beat tightening it", "kit.md#optics-lasers-grips-and-sleeves-the-player-day-48"),
+ ("scrapv", "Scrap V grip", "C", "under", RIFLE | {"smg", "sg"}, None, None, 0, "+1 hip; snaps off for good on a natural 1", "kit.md#optics-lasers-grips-and-sleeves-the-player-day-48"),
+ ("scrapcush", "Scrap cushioned stock", "C", "stock", {"lr", "sr", "br", "smg", "sg"}, None, None, 0, "recoil -1; -1 aimed past ~30 m", "kit.md#optics-lasers-grips-and-sleeves-the-player-day-48"),
+ ("roundsleeve", "Rifle round sleeve", "C", "saddle", {"sr"}, r"lever|hunting|pipe rifle|bolt-action|break-action", None, 0, "holds 10 rounds; every top-up from it loads 2 more", "kit.md#optics-lasers-grips-and-sleeves-the-player-day-48"),
+ ("shellsleeve", "Shotgun shell sleeve", "C", "saddle", {"sg"}, r"^(?!.*(sawn-off|pistol)).*", None, 0, "holds 7 shells; every top-up from it loads 2 more (4 a half beat becomes 6)", "kit.md#optics-lasers-grips-and-sleeves-the-player-day-48"),
+ ("skelguard", "Skeleton handguard", "C", "handguard", {"lr", "sr", "br", "smg", "sg"}, None, None, 0, "+2 on swapping; +1 recoil", "kit.md#optics-lasers-grips-and-sleeves-the-player-day-48"),
+ ("c_biopin", "Bio-scanner firing pin", "R", "biolock", SIGHT | {"hs"}, None, None, 1, "bonded to one owner's hands: nobody else can fire it until it's hacked (INT tech vs 15, a bench, an hour; fail by 5+ fries the pin); bloody or gloved hands: a natural 1 doesn't read, half a beat to wipe and regrip", "kit.md#optics-lasers-grips-and-sleeves-the-player-day-48"),
+ ("c_intsupp", "Full-barrel suppressor", "R", "barrel", {"sp", "smg", "sr"}, None, None, 1, "blocks the muzzle slot; silent; recoil -1; jams on a natural 1; heat 1 at 10 shots, 2 at 20, -1 each beat not firing; fired past heat 2 it jams on 1-5; then after the fight a d6: 1-2 broken (a day at a bench), 3 minor adjustments (30 min at a bench, or -1 next fight), 4-6 fine", "kit.md#optics-lasers-grips-and-sleeves-the-player-day-48"),
  ("sprayer", "Sprayer barrel", "U", "barrel", {"fl", "hf"}, None, None, 0, "an open funnel: the gout reaches half as far but spreads twice as wide at its end (a hand flamer's line becomes a ~3 m fan)", "scrap.md#flamer-and-mortar-parts-day-48"),
  ("mortarbarrel", "Reinforced mortar barrel", "U", "barrel", {"mo"}, None, None, 0, "half as far again: a light mortar to ~450 m, a pipe-bomb mortar to ~60 m", "scrap.md#flamer-and-mortar-parts-day-48"),
  ("c_chamber", "Extra shot chamber", "U", "chamber", {"mo"}, None, None, 1, "a fold-out chamber holding one round: swung in, it fires a second round the same beat (same spot or one within ~10 m); refilling it is the loader's beat", "scrap.md#flamer-and-mortar-parts-day-48"),
@@ -260,6 +277,7 @@ A = [
  ("c_finned", "Short finned barrel", "U", "barrel", {"sr"}, "autogun|columnus", None, 1, "+1 inside ~10 m, -2 past ~30 m; strings of 8+ build 1 heat, the fins shed 1 when it doesn't fire; -1 swapping", C + "tamsins-columnus-schematic-18"),
 ]
 KEYS = {a[0] for a in A}
+BLOCKS = {"c_intsupp": {"muzzle"}}  # parts that fill a second slot (the full-barrel suppressor, day 48)
 # Custom parts that don't go in the gun roll, and why (shown on the sheet).
 NOT_ROLLED = [
  ("Stinger's frame rails; Dace's top and bottom rails", "no rule of their own"),
@@ -351,7 +369,7 @@ def roll_gun(gtype, src, taken, level, team, weights):
         cands = [a for a in A if gtype in a[4] and a[3] not in taken and a[0] not in have
                  and all(a[3] in ok for rx, ok in SLOTLIMIT if rx.search(src))
                  and (a[5] is None or re.search(a[5], src)) and (a[6] is None or a[6] in have)
-                 and not (level == "poor" and a[2] == "R")]
+                 and not (level == "poor" and a[2] == "R") and not (BLOCKS.get(a[0], set()) & taken)]
         if not cands:
             break
         tiers = [t for t in weights if weights[t] and any(a[2] == t for a in cands)]
@@ -361,6 +379,7 @@ def roll_gun(gtype, src, taken, level, team, weights):
         a = random.choice([a for a in cands if a[2] == tier])
         got.append(a)
         taken.add(a[3])
+        taken |= BLOCKS.get(a[0], set())
         have.add(a[0])
         if a[0] in ("tele", "c_lrscope"):
             have.add("scope")

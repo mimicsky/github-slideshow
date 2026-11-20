@@ -900,3 +900,61 @@ Designed by the player, Ash on Ostrava day 48 (placed and numbered by the DM).
   - **Inside ~15 m: a shrugged hit counts 2 toward wear-down, and a hit that gets through drops one extra step (1.0
     more).** (A gun-side damage bonus with a physical reason: the round leaves faster; the player's design.)
   - **Heat: +1 every 6 shots; at 3 it must vent a beat** (heat clears after venting or at the fight's end).
+
+### Optics, lasers, grips and sleeves (the player, day 48)
+
+Designed by the player, Ash on Ostrava day 48 (placed and priced by the DM). **Recoil reads the player's way: -recoil
+helps (less kick), +recoil hurts (more kick).** None of these change damage: the ammo does the hurting.
+
+- **Cheek rest** (regular, common, 0.5 TV; cheek slot, on a stock; rifles, carbines, shotguns): a raised pad that
+  lifts his eye to the glass. **+1 on aimed shots with an optic on the gun; with iron sights, -1 on aimed shots**
+  (his eye sits too high). Only worth fitting with an optic.
+- **Combat scope, 3.5x** (regular, uncommon, 2.5 TV; optic slot; rifles, carbines, SMGs, shotguns, heavy belt
+  stubbers): a short fixed scope with a range ladder etched on the glass. **+1 on aimed shots past ~15 m, +1 more past
+  ~100 m; -1 on hip shots inside ~10 m.**
+- **CQC scope, 1.5x** (regular, uncommon, 2 TV; optic slot; rifles, carbines, SMGs, shotguns): barely any zoom, a wide
+  window. **+1 on aimed shots inside ~30 m, and +1 on the first shot after a swap; -1 on aimed shots past ~60 m.**
+- **Grip monopod** (regular, uncommon, 1.5 TV; under-barrel slot; rifles, carbines, SMGs, shotguns): a vertical grip
+  with one leg inside it. **+1 on aimed shots while braced; the leg drops in the beat's move, no set-up beat; -1 on
+  swapping while it's down.**
+- **IR laser** (regular, rare, 3 TV; laser slot): a beam the eye can't see. **+1 on hip shots inside ~20 m, only with a
+  low-light optic or night goggles; only someone with that kind of gear sees the beam.**
+- **Green laser** (regular, uncommon, 2 TV; laser slot): bright, and it shows in daylight. **+2 on hip shots inside ~30
+  m, day or night; easy to spot: anyone looking for him gets +2.**
+- **Blue laser** (regular, uncommon, 2 TV; laser slot): **+1 on hip shots inside ~20 m, +2 in the dark or in smoke;
+  nothing in bright daylight** (it washes out).
+- **Scrap scope** (scrap, common, 1 TV; optic slot; rifles, carbines, shotguns, heavy belt stubbers): a tube of
+  ground glass on a hose clamp. **+1 on long shots; -1 on hip shots and inside ~15 m. On a natural 1 it slips: no bonus
+  until he spends half a beat seating it again.**
+- **Scrap vertical grip** (scrap, common, 0.5 TV; under-barrel slot): a pipe stub bolted on. **+1 on the first shot. On
+  a natural 1 it works loose: -1 on his shots until he spends half a beat tightening it.**
+- **Scrap V grip** (scrap, common, 0.5 TV; under-barrel slot): two bent bars in a V. **+1 on hip shots. It snaps off
+  for good on a natural 1.**
+- **Scrap cushioned stock** (scrap, common, 0.5 TV; stock slot): a stock wrapped in padding and tape. **Recoil -1; -1
+  on aimed shots past ~30 m** (the padding wobbles).
+- **Rifle round sleeve** (regular, common, 0.5 TV; sleeve on the side of the stock, saddle slot; lever-actions and
+  bolt-actions): **holds 10 rounds; every top-up from it loads 2 more rounds than normal.** Refilled between fights.
+- **Shotgun shell sleeve** (regular, common, 0.5 TV; sleeve on the side of the stock, saddle slot; shotguns with a
+  stock): **holds 7 shells; every top-up from it loads 2 more shells than normal** (4 a half beat becomes 6).
+  Refilled between fights.
+- **Skeleton handguard** (regular, common, 1 TV; handguard slot; rifles, carbines, SMGs, shotguns): a cut-out frame
+  with rails. **+2 on swapping; +1 recoil** (the bare frame is light and kicks more).
+- **Bio-scanner firing pin** (*custom, not traditional: no trader carries this*; a smith's build, parts ~5 TV; biolock
+  slot; any gun with a pistol grip; rare):
+  - **Bonding:** at a bench, **both of the owner's full hands are scanned.** It bonds to **one person only.**
+  - **The grip reads whoever holds it.** Anyone else: **the gun won't fire.**
+  - **Hacking it:** an **INT tech check vs 15, at a bench, an hour.** Fail by 5 or more and the pin is fried: it needs
+    a new one before the gun fires for anyone.
+  - **Downside:** with bloody or gloved hands, **a natural 1 means it doesn't read him; half a beat to wipe and
+    regrip.**
+- **Full-barrel suppressor** (*custom, not traditional: no trader carries this*; a smith's build, parts ~6 TV; barrel
+  slot, **and it blocks the muzzle slot**; **bullet guns only**: stub, autogun and heavy stub; rare). The whole barrel
+  is built as a suppressor, with gas exits venting out the side of the chamber.
+  - **Silent. Recoil -1.**
+  - **Jams on a natural 1**, on top of the gun's own jam chance.
+  - **Heat:** heat 1 after 10 shots, heat 2 after 20; **it drops 1 for each full beat he doesn't fire.** Heat 1 is a
+    warning only.
+  - **Fired again at heat 2: it jams on 1-5.**
+  - **After the fight, only if it reached heat 2 and was fired again after that, roll a d6:** **1-2 broken** (a day at
+    a bench before it fires again); **3 minor adjustments** (30 minutes at a bench, or -1 on shots next fight until
+    it's done); **4-6 fine.**
