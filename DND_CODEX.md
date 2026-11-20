@@ -472,7 +472,7 @@ scores and Part 8's once-per-stay training.
   - **STR:** *Iron grip* (can't be disarmed; fires a heavy weapon one-handed); *Bull* (a kicked door or forced lock opens, no
     roll); *Pack mule* (carries a downed ally at full run-and-gun distance).
   - **CON:** *Second wind* (once a fight, a hit that would drop him a step bounces off); *Hard to kill* (+1 on the survival d6;
-    dropping to Badly hurt never makes him bleed); *Iron gut* (drug and stim downsides halved).
+    dropping to Badly hurt never makes him bleed); *Battle hardened* (every healing roll's recovery time is 2 days shorter; the player, day 48, replacing Iron gut).
   - **INT:** *Field fix* (clearing a jam costs only the short move); *Quick study* (books and manuals in half the time);
     *Read the kit* (once a fight, the DM tells one true fact about an enemy's gear).
   - **WIS:** *Commander's voice* (his orders give +3, not +2); *Battle sense* (once a fight, the DM points out one enemy he
