@@ -242,6 +242,18 @@
    [
     "Studded jian (scrap iron bar-club)",
     "C"
+   ],
+   [
+    "Kukri, 'Forge Bend' pattern",
+    "C"
+   ],
+   [
+    "Scimitar, 'Forge Crescent' pattern",
+    "C"
+   ],
+   [
+    "Dadao two-handed sabre, 'Forge Broadback' pattern",
+    "C"
    ]
   ],
   "armour": [
@@ -1094,6 +1106,30 @@
    [
     "Studded jian (scrap iron bar-club)",
     "C"
+   ],
+   [
+    "Kukri, 'Forge Bend' pattern",
+    "C"
+   ],
+   [
+    "Karambit, 'Forge Talon' pattern",
+    "U"
+   ],
+   [
+    "Dirk, 'Forge Thistle' pattern",
+    "C"
+   ],
+   [
+    "Scimitar, 'Forge Crescent' pattern",
+    "C"
+   ],
+   [
+    "Knuckle knife, 'Forge Trench' pattern",
+    "U"
+   ],
+   [
+    "Tiger claws, 'Forge Tigris' pattern",
+    "U"
    ]
   ],
   "armour": [
@@ -1953,6 +1989,26 @@
    [
     "Studded jian (scrap iron bar-club)",
     "C"
+   ],
+   [
+    "Boarding cutlass, 'Forge Corsair' pattern",
+    "U"
+   ],
+   [
+    "Dirk, 'Forge Thistle' pattern",
+    "C"
+   ],
+   [
+    "Karambit, 'Forge Talon' pattern",
+    "U"
+   ],
+   [
+    "Knuckle knife, 'Forge Trench' pattern",
+    "U"
+   ],
+   [
+    "Falchion, 'Forge Reaver' pattern",
+    "U"
    ]
   ],
   "armour": [
@@ -2745,6 +2801,26 @@
    [
     "Officer's pernach (winged mace with a rank banner), Militarum pattern",
     "U"
+   ],
+   [
+    "Gladius, 'Forge Legion' pattern",
+    "C"
+   ],
+   [
+    "Dao sabre, 'Forge Willow' pattern",
+    "C"
+   ],
+   [
+    "Knuckle knife, 'Forge Trench' pattern",
+    "U"
+   ],
+   [
+    "Longsword, 'Forge Oath' pattern",
+    "U"
+   ],
+   [
+    "Dadao two-handed sabre, 'Forge Broadback' pattern",
+    "C"
    ]
   ],
   "armour": [
@@ -3520,6 +3596,14 @@
    [
     "Studded jian (scrap iron bar-club)",
     "C"
+   ],
+   [
+    "Kukri, 'Forge Bend' pattern",
+    "C"
+   ],
+   [
+    "Dirk, 'Forge Thistle' pattern",
+    "C"
    ]
   ],
   "armour": [
@@ -3944,6 +4028,26 @@
    ],
    [
     "Officer's pernach (winged mace with a rank banner), Militarum pattern",
+    "U"
+   ],
+   [
+    "Ninjato, 'Forge Shroud' pattern",
+    "U"
+   ],
+   [
+    "Jian straight sword, 'Forge Crane' pattern",
+    "U"
+   ],
+   [
+    "Longsword, 'Forge Oath' pattern",
+    "U"
+   ],
+   [
+    "Claymore greatsword, 'Forge Cairn' pattern",
+    "U"
+   ],
+   [
+    "Kris dagger, 'Forge Serpent' pattern",
     "U"
    ]
   ],

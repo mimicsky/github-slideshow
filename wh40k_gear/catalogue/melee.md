@@ -694,3 +694,72 @@ it** unless the hit is solid. *Who carries it: commoner, cultist, pirate, raider
 - **A cloth banner** on a short staff fixed at the butt. **While he's up, his group reads its break check one closer to fighting on** (as Brave for the whole group: surrender 1-9, fight on 10-17, run 18-20; it doesn't stack with Brave). **No bonus to orders** (the player, day 48: 'that's a lil op').
 
 *Who carries it: traitor, traitor_elite.*
+
+## Forge blades (the player's picks, day 48)
+
+Real blades done as Forge patterns. **Weight sets Handling and chains** (codex Gear rules, Handling; house rule 5): light +2 and chains of 3 (STR or DEX), medium 0 and 2, heavy -2 and 2 (two-handed, STR). Each has its own lean.
+
+## Kris dagger, 'Forge Serpent' pattern
+
+**Kris dagger, 'Forge Serpent' pattern** (uncommon, 1.5 TV; based on the kris; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Light:** Handling +2, chains of 3, STR or DEX. **The wavy blade:** anyone it takes **Down is -2 on the survival d6** after the fight.
+
+## Knuckle knife, 'Forge Trench' pattern
+
+**Knuckle knife, 'Forge Trench' pattern** (uncommon, 1 TV; based on the trench knife with a knuckle guard; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Light:** Handling +2, chains of 3, STR or DEX. **Fist-tight:** it **can't be knocked from his hand.** **A knuckle punch at the end of every chain** (as the spike guard: a hit drops no step, it staggers, -1 on their next roll; one end-of-chain strike a chain).
+
+## Dirk, 'Forge Thistle' pattern
+
+**Dirk, 'Forge Thistle' pattern** (common, 1 TV; based on the dirk; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Light:** Handling +2, chains of 3, STR or DEX. **A thrusting blade:** **a solid hit finds a gap: one armour step further** than it would otherwise get.
+
+## Tiger claws, 'Forge Tigris' pattern
+
+**Tiger claws, 'Forge Tigris' pattern** (uncommon, 1.5 TV; based on the bagh nakh; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Light:** Handling +2, chains of 3, STR or DEX. **Worn on the hand:** they **can't be disarmed;** **+3 to keep them hidden.** **Against no armour a hit drops an extra step;** flak and anything heavier shrugs them.
+
+## Kukri, 'Forge Bend' pattern
+
+**Kukri, 'Forge Bend' pattern** (common, 1 TV; based on the kukri; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Light:** Handling +2, chains of 3, STR or DEX. **The weighted tip:** **Strength behind the blow at STR 40+, not 50+.**
+
+## Karambit, 'Forge Talon' pattern
+
+**Karambit, 'Forge Talon' pattern** (uncommon, 1 TV; based on the karambit; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Light:** Handling +2, chains of 3, STR or DEX. **The finger ring:** it **can't be disarmed;** the hook gives **+1 on his own disarm attempts.**
+
+## Gladius, 'Forge Legion' pattern
+
+**Gladius, 'Forge Legion' pattern** (common, 1.5 TV; based on the gladius; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Light:** Handling +2, chains of 3, STR or DEX. **Made for the shield wall:** **+1 on swings with a shield in his other hand.**
+
+## Dao sabre, 'Forge Willow' pattern
+
+**Dao sabre, 'Forge Willow' pattern** (common, 1.5 TV; based on the dao; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Medium:** Handling 0, chains of 2. **Sweeping cuts:** **switching targets mid-chain costs nothing.**
+
+## Boarding cutlass, 'Forge Corsair' pattern
+
+**Boarding cutlass, 'Forge Corsair' pattern** (uncommon, 2 TV; based on the cutlass (the Forge take; the Navy cutlass stays as it is); the player's pick, Ash on Ostrava day 48; numbers the DM's). **Medium:** Handling 0, chains of 2. **A basket guard built in** (+1 to parry; it fills the guard slot). **Made for ships:** **no penalty fighting in corridors and doorways.**
+
+## Longsword, 'Forge Oath' pattern
+
+**Longsword, 'Forge Oath' pattern** (uncommon, 3 TV; based on the longsword (hand-and-a-half); the player's pick, Ash on Ostrava day 48; numbers the DM's). **Medium:** Handling 0, chains of 2. **Hand-and-a-half:** one-handed it fights as a sword; **two-handed, +1 on swings and it can Wide Slash.**
+
+## Ninjato, 'Forge Shroud' pattern
+
+**Ninjato, 'Forge Shroud' pattern** (uncommon, 3 TV; based on the ninjato; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Medium:** Handling 0, chains of 2. **+2 to keep it hidden;** **+2 on the first swing against someone who hasn't seen him.**
+
+## Jian straight sword, 'Forge Crane' pattern
+
+**Jian straight sword, 'Forge Crane' pattern** (uncommon, 2.5 TV; based on the jian; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Medium:** Handling 0, chains of 2. **Light and quick for a sword:** **STR or DEX,** and **+1 to parry.**
+
+## Falchion, 'Forge Reaver' pattern
+
+**Falchion, 'Forge Reaver' pattern** (uncommon, 2 TV; based on the falchion; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Medium:** Handling 0, chains of 2. **A cleaver-sword:** it **can Wide Slash one-handed.**
+
+## Scimitar, 'Forge Crescent' pattern
+
+**Scimitar, 'Forge Crescent' pattern** (common, 1.5 TV; based on the scimitar; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Medium:** Handling 0, chains of 2. **The curved slash:** **against no armour or flak a hit drops an extra step;** but **it gets through one armour step less** than it would otherwise.
+
+## Claymore greatsword, 'Forge Cairn' pattern
+
+**Claymore greatsword, 'Forge Cairn' pattern** (uncommon, 4 TV; based on the claymore; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Heavy (two-handed):** Handling -2, chains of 2, STR. **Long reach:** **+1 to strike first,** and **up to 7 m between swings, not 5.**
+
+## Dadao two-handed sabre, 'Forge Broadback' pattern
+
+**Dadao two-handed sabre, 'Forge Broadback' pattern** (common, 2 TV; based on the dadao; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Heavy (two-handed):** Handling -2, chains of 2, STR. **The militia's big blade:** cheap, and **+1 on Heavy Attacks.**
+

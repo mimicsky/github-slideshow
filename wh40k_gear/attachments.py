@@ -28,7 +28,7 @@ RECOIL = {"sp", "smg", "sr", "sg", "bp", "br", "hs"}
 HAND = SIGHT  # guns a hand holds and a grip sleeve fits
 # Melee (day 47): ch chain, pw power, bl edged blade, bt blunt, sh shield.
 MELEE = {"ch", "pw", "bl", "bt", "st"}  # st: psyker staffs and staves (day 48)
-NOGLOVE = r"^(?!.*(glove|fist|knuckle)).*"  # worn weapons take no grip, strap, pommel or length parts (day 48 audit)
+NOGLOVE = r"^(?!.*(glove|fist|knuckle|claws)).*"  # worn weapons take no grip, strap, pommel or length parts (day 48 audit)
 STUBCAL = r"(?<!auto-)revolver|stub pistol|stub automatic|hand cannon|lever|hunting stub|stub rifle|boarding pistol"
 AUTOCAL = r"autogun|autopistol|autorifle|auto-revolver|hammerfall|submachine|rattler|machine pistol|chain-fed|solid stag|burst pistol"
 NAMES = {"lp": "las pistols", "lr": "las rifles", "sp": "stub pistols", "smg": "SMGs", "sr": "autoguns and stub rifles",
@@ -330,7 +330,7 @@ TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b|crossbow"), (
          ("sr", r"autogun|autorifle|stub rifle|lever-action|pipe rifle|hunting rifle|anti-materiel|battle rifle|break-action rifle|commissar's carbine|lieutenant's carbine|semi-auto carbine|bullpup autogun|marksman rifle(?!.*twinshot)|light machine gun|sniper rifle|heavy carbine")]
 MTYPES = [("sh", r"shield"), ("pw", r"power (sword|axe|maul|knife|fist|mace|blade|odachi)|(?<!scrap )thunder hammer|relic blade"),
           ("ch", r"chainsword|chain axe|chain-axe|chain knife|chain glaive|chain blade|eviscerator|chain glove|chain short-sword"),
-          ("bl", r"knife|machete|cutlass|sabre|sword|cleaver|axe|shank|blade|stiletto|shovel"),
+          ("bl", r"knife|machete|cutlass|sabre|sword|cleaver|axe|shank|blade|stiletto|shovel|dagger|dirk|kukri|karambit|gladius|ninjato|falchion|scimitar|tiger claws"),
           ("bt", r"club|maul|mace|hammer|flail|baton|prod|knuckle|girder|pick\b|pry-bar|crowbar|truncheon|cosh|morning star|pernach"),
           ("st", r"^(?!.*goad).*(\bstaff\b|\bstave\b)")]
 BUILTIN = [("mount", r"range-finder"), ("optic", r"scope|sprinter|kasr lance|exemplar|cognis|kasr sentinel|kasr augur|hell complete|rampart longwatch"), ("mag", r"drum|100-shot box|las luger|hell revolver"),
@@ -340,7 +340,7 @@ BUILTIN = [("mount", r"range-finder"), ("optic", r"scope|sprinter|kasr lance|exe
            ("load", r"arrows|mortar.*(smoke|krak)"),
            ("mgrip", r"pernach"), ("pommel", r"pernach"), ("stock", r"hailstorm|switchback|carousel"), ("under", r"breakwater|kasr augur|thunder' pattern|thunder pattern"), ("bayonet", r"solid stripper"), ("sleeve", r"magnum universal"), ("trigger", r"magnum centurion"), ("mag", r"lieutenant's carbine"),
            ("optic", r"rampart halberd|rampart dragoon|rampart overwatch"), ("mount", r"rampart halberd"), ("muzzle", r"rampart halberd|rampart overwatch|breach latchkey"),
-           ("stock", r"solid frost|breach cyclone"), ("cheek", r"solid frost")]  # the player's gun list, day 48: issued scopes, cans and built-in stocks  # the pernach's built-in ergo grip and banner (day 48)  # a kit that names its arrows has its load
+           ("stock", r"solid frost|breach cyclone"), ("cheek", r"solid frost"), ("guard", r"forge corsair")]  # the player's gun list, day 48: issued scopes, cans and built-in stocks  # the pernach's built-in ergo grip and banner (day 48)  # a kit that names its arrows has its load
 
 
 def guns_in(text):

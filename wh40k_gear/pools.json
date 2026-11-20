@@ -5710,5 +5710,117 @@
   "cat": "launcher",
   "rarity": "U",
   "sellers": "MF"
+ },
+ {
+  "name": "Kris dagger, 'Forge Serpent' pattern (light; wavy blade: anyone it downs -2 on the survival d6)",
+  "tv": 1.5,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Knuckle knife, 'Forge Trench' pattern (light; can't be knocked loose; a knuckle punch ends every chain (staggers))",
+  "tv": 1,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Dirk, 'Forge Thistle' pattern (light; a solid hit goes one armour step further)",
+  "tv": 1,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Tiger claws, 'Forge Tigris' pattern (light; worn: can't be disarmed, +3 hidden; extra step on no armour, flak shrugs them)",
+  "tv": 1.5,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Kukri, 'Forge Bend' pattern (light; weighted tip: Strength behind the blow at STR 40+)",
+  "tv": 1,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Karambit, 'Forge Talon' pattern (light; finger ring: can't be disarmed; +1 on his disarms)",
+  "tv": 1,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Gladius, 'Forge Legion' pattern (light; +1 on swings with a shield in the other hand)",
+  "tv": 1.5,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Dao sabre, 'Forge Willow' pattern (medium; switching targets mid-chain costs nothing)",
+  "tv": 1.5,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Boarding cutlass, 'Forge Corsair' pattern (medium; built-in basket guard (+1 parry); no penalty in corridors and doorways)",
+  "tv": 2,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Longsword, 'Forge Oath' pattern (medium; two-handed: +1 on swings and Wide Slash)",
+  "tv": 3,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Ninjato, 'Forge Shroud' pattern (medium; +2 hidden; +2 first swing on someone who hasn't seen him)",
+  "tv": 3,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Jian straight sword, 'Forge Crane' pattern (medium; STR or DEX; +1 to parry)",
+  "tv": 2.5,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Falchion, 'Forge Reaver' pattern (medium; Wide Slash one-handed)",
+  "tv": 2,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Scimitar, 'Forge Crescent' pattern (medium; extra step on no armour or flak; one armour step less)",
+  "tv": 1.5,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Claymore greatsword, 'Forge Cairn' pattern (heavy; +1 to strike first; 7 m between swings)",
+  "tv": 4,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Dadao two-handed sabre, 'Forge Broadback' pattern (heavy; +1 on Heavy Attacks)",
+  "tv": 2,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
  }
 ]
