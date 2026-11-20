@@ -5822,5 +5822,152 @@
   "cat": "melee",
   "rarity": "C",
   "sellers": "MB"
+ },
+ {
+  "name": "Butcher's cleaver (scrap) (light; extra step on no armour, flak shrugs it; throw once ~5 m)",
+  "tv": 0.1,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Billhook (scrap) (light; the hook: +1 disarms, drags 2 m out of cover; bends on a natural 1)",
+  "tv": 0.25,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Sickle (farm tool) (light; -1 on swings; everyone has one)",
+  "tv": 0.1,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Kama pair, 'Forge Reap' pattern (light; a pair: two-weapon bonus and +1 parry; +1 disarms)",
+  "tv": 1.5,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Sai, 'Forge Prong' pattern (light; +2 parry; a parry can trap and disarm (STR contest))",
+  "tv": 1,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Tanto, 'Forge Needle' pattern (light; +2 hidden; shrugged hits count 2 toward wear-down)",
+  "tv": 1.5,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Scrumball bat (medium; a solid hit knocks back ~2 m, they lose their next short move)",
+  "tv": 0.5,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "PDF-issue baton (medium; +1 parry; a solid hit on an arm disarms)",
+  "tv": 0.5,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Battle axe, 'Forge Beard' pattern (medium; hooks a shield aside: no shield cover against his next swing)",
+  "tv": 1.5,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Raider axe (medium; Strength behind the blow at STR 40+; head flies off on a natural 1)",
+  "tv": 0.5,
+  "cat": "melee",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Katana, 'Forge Dusk' pattern (medium; +2 on the first swing of the fight)",
+  "tv": 5,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Wakizashi, 'Forge Dawn' pattern (medium; with a katana or longsword: also +1 to parry)",
+  "tv": 3,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Trident, 'Forge Tine' pattern (medium; +1 disarms; throw once ~10 m)",
+  "tv": 2,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Whip-sword, 'Forge Coil' pattern (light; sword, or a whip that hits out to ~5 m (-1, no parry; tangles on a natural 1))",
+  "tv": 10,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "AF"
+ },
+ {
+  "name": "Bastard sword, 'Forge Warden' pattern (heavy; two-handed heavy (+1 Heavy Attacks); one-handed a medium sword at -1)",
+  "tv": 3,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Bardiche, 'Forge Moon' pattern (heavy; hooks a shield aside; +1 to strike first)",
+  "tv": 3,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Glaive, 'Forge Reach' pattern (heavy; +1 to strike first; anyone closing on him takes a free swing)",
+  "tv": 3,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Danish axe, 'Forge Jarl' pattern (heavy; +1 to strike first; Heavy Attack one armour step further)",
+  "tv": 3,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Mechanicus quarterstaff, 'Forge Rod' pattern (heavy; both ends: chains of 3; +1 parry)",
+  "tv": 2,
+  "cat": "melee",
+  "rarity": "U",
+  "sellers": "AF"
+ },
+ {
+  "name": "Double-bladed chainsword, 'Forge Twinbite' pattern (heavy; chains of 3 and Wide Slash; -2 to parry)",
+  "tv": 8,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Ogryn zweihander, 'Bone'ead Longchop' pattern (heavy; Ogryn-sized: STR 60+ or -3; Wide Slash hits up to 3)",
+  "tv": 6,
+  "cat": "melee",
+  "rarity": "R",
+  "sellers": "BF"
  }
 ]

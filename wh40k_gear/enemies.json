@@ -254,6 +254,22 @@
    [
     "Dadao two-handed sabre, 'Forge Broadback' pattern",
     "C"
+   ],
+   [
+    "Butcher's cleaver (scrap)",
+    "C"
+   ],
+   [
+    "Billhook (scrap)",
+    "C"
+   ],
+   [
+    "Sickle (farm tool)",
+    "C"
+   ],
+   [
+    "Scrumball bat",
+    "C"
    ]
   ],
   "armour": [
@@ -1129,6 +1145,26 @@
    ],
    [
     "Tiger claws, 'Forge Tigris' pattern",
+    "U"
+   ],
+   [
+    "Raider axe",
+    "C"
+   ],
+   [
+    "Butcher's cleaver (scrap)",
+    "C"
+   ],
+   [
+    "Scrumball bat",
+    "C"
+   ],
+   [
+    "Battle axe, 'Forge Beard' pattern",
+    "C"
+   ],
+   [
+    "Trident, 'Forge Tine' pattern",
     "U"
    ]
   ],
@@ -2009,6 +2045,26 @@
    [
     "Falchion, 'Forge Reaver' pattern",
     "U"
+   ],
+   [
+    "Battle axe, 'Forge Beard' pattern",
+    "C"
+   ],
+   [
+    "Trident, 'Forge Tine' pattern",
+    "U"
+   ],
+   [
+    "Kama pair, 'Forge Reap' pattern",
+    "U"
+   ],
+   [
+    "Tanto, 'Forge Needle' pattern",
+    "U"
+   ],
+   [
+    "Double-bladed chainsword, 'Forge Twinbite' pattern",
+    "R"
    ]
   ],
   "armour": [
@@ -2821,6 +2877,26 @@
    [
     "Dadao two-handed sabre, 'Forge Broadback' pattern",
     "C"
+   ],
+   [
+    "PDF-issue baton",
+    "C"
+   ],
+   [
+    "Battle axe, 'Forge Beard' pattern",
+    "C"
+   ],
+   [
+    "Bastard sword, 'Forge Warden' pattern",
+    "U"
+   ],
+   [
+    "Danish axe, 'Forge Jarl' pattern",
+    "U"
+   ],
+   [
+    "Glaive, 'Forge Reach' pattern",
+    "U"
    ]
   ],
   "armour": [
@@ -3604,6 +3680,22 @@
    [
     "Dirk, 'Forge Thistle' pattern",
     "C"
+   ],
+   [
+    "Sickle (farm tool)",
+    "C"
+   ],
+   [
+    "Billhook (scrap)",
+    "C"
+   ],
+   [
+    "Butcher's cleaver (scrap)",
+    "C"
+   ],
+   [
+    "Scrumball bat",
+    "C"
    ]
   ],
   "armour": [
@@ -4049,6 +4141,26 @@
    [
     "Kris dagger, 'Forge Serpent' pattern",
     "U"
+   ],
+   [
+    "Katana, 'Forge Dusk' pattern",
+    "U"
+   ],
+   [
+    "Wakizashi, 'Forge Dawn' pattern",
+    "U"
+   ],
+   [
+    "Sai, 'Forge Prong' pattern",
+    "U"
+   ],
+   [
+    "Bardiche, 'Forge Moon' pattern",
+    "U"
+   ],
+   [
+    "Whip-sword, 'Forge Coil' pattern",
+    "R"
    ]
   ],
   "armour": [

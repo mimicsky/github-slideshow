@@ -330,8 +330,8 @@ TYPES = [("bw", r"\b(recurve|compound|long|short|hunting)?\s?bow\b|crossbow"), (
          ("sr", r"autogun|autorifle|stub rifle|lever-action|pipe rifle|hunting rifle|anti-materiel|battle rifle|break-action rifle|commissar's carbine|lieutenant's carbine|semi-auto carbine|bullpup autogun|marksman rifle(?!.*twinshot)|light machine gun|sniper rifle|heavy carbine")]
 MTYPES = [("sh", r"shield"), ("pw", r"power (sword|axe|maul|knife|fist|mace|blade|odachi)|(?<!scrap )thunder hammer|relic blade"),
           ("ch", r"chainsword|chain axe|chain-axe|chain knife|chain glaive|chain blade|eviscerator|chain glove|chain short-sword"),
-          ("bl", r"knife|machete|cutlass|sabre|sword|cleaver|axe|shank|blade|stiletto|shovel|dagger|dirk|kukri|karambit|gladius|ninjato|falchion|scimitar|tiger claws"),
-          ("bt", r"club|maul|mace|hammer|flail|baton|prod|knuckle|girder|pick\b|pry-bar|crowbar|truncheon|cosh|morning star|pernach"),
+          ("bl", r"knife|machete|cutlass|sabre|sword|cleaver|axe|shank|blade|stiletto|shovel|dagger|dirk|kukri|karambit|gladius|ninjato|falchion|scimitar|tiger claws|billhook|sickle|\bkama\b|\bsai\b|tanto|katana|wakizashi|bardiche|glaive|zweihander"),
+          ("bt", r"club|maul|mace|hammer|flail|baton|prod|knuckle|girder|pick\b|pry-bar|crowbar|truncheon|cosh|morning star|pernach|\bbat\b|quarterstaff"),
           ("st", r"^(?!.*goad).*(\bstaff\b|\bstave\b)")]
 BUILTIN = [("mount", r"range-finder"), ("optic", r"scope|sprinter|kasr lance|exemplar|cognis|kasr sentinel|kasr augur|hell complete|rampart longwatch"), ("mag", r"drum|100-shot box|las luger|hell revolver"),
            ("laser", r"kasr tether|cognis"), ("counter", r"exemplar"),

@@ -763,3 +763,91 @@ Real blades done as Forge patterns. **Weight sets Handling and chains** (codex G
 
 **Dadao two-handed sabre, 'Forge Broadback' pattern** (common, 2 TV; based on the dadao; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Heavy (two-handed):** Handling -2, chains of 2, STR. **The militia's big blade:** cheap, and **+1 on Heavy Attacks.**
 
+## More melee (the player's picks, day 48)
+
+The player's second list, day 48: the same weight rules as the Forge blades above. (Crowbar skipped: it's the Forge Jemmy pry-bar.)
+
+## Butcher's cleaver (scrap)
+
+**Butcher's cleaver (scrap)** (common, 0.1 TV; based on a butcher's cleaver; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Light:** Handling +2, chains of 3, STR or DEX. **A kitchen chopper:** **against no armour a hit drops an extra step;** flak and heavier shrug it. **Can be thrown once** (~5 m; then it's on the floor).
+
+## Billhook (scrap)
+
+**Billhook (scrap)** (common, 0.25 TV; based on a billhook; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Light:** Handling +2, chains of 3, STR or DEX. **The hook:** **+1 on disarm attempts;** a hit can **drag someone ~2 m out of cover.** Scrap: **a natural 1 bends the hook** (-1 on swings until he straightens it, a beat).
+
+## Sickle (farm tool)
+
+**Sickle (farm tool)** (common, 0.1 TV; based on a sickle; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Light:** Handling +2, chains of 3, STR or DEX. **A tool, not a weapon:** **-1 on swings;** but every farm has one.
+
+## Kama pair, 'Forge Reap' pattern
+
+**Kama pair, 'Forge Reap' pattern** (uncommon, 1.5 TV; based on the kama; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Light:** Handling +2, chains of 3, STR or DEX. **Sold and fought as a pair:** the two-weapon bonus (house rule 5: +1 swing, +1 on attacks) **and +1 to parry;** the hooks give **+1 on disarm attempts.**
+
+## Sai, 'Forge Prong' pattern
+
+**Sai, 'Forge Prong' pattern** (uncommon, 1 TV; based on the sai; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Light:** Handling +2, chains of 3, STR or DEX. **A parrying weapon:** **+2 to parry;** on a parry, a **STR contest: win and the blade is trapped and torn away** (disarmed).
+
+## Tanto, 'Forge Needle' pattern
+
+**Tanto, 'Forge Needle' pattern** (uncommon, 1.5 TV; based on the tanto; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Light:** Handling +2, chains of 3, STR or DEX. **+2 to keep it hidden;** a reinforced point: **a hit the armour shrugs still counts 2 toward wear-down.**
+
+## Scrumball bat
+
+**Scrumball bat** (common, 0.5 TV; based on a baseball bat (the hive sport: scrumball); the player's pick, Ash on Ostrava day 48; numbers the DM's). **Medium:** Handling 0, chains of 2. **A big swing:** **a solid hit knocks them back ~2 m and they lose their next short move.**
+
+## PDF-issue baton
+
+**PDF-issue baton** (common, 0.5 TV; based on a planetary defence force baton; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Medium:** Handling 0, chains of 2. **Riot drill:** **+1 to parry;** **a solid hit on an arm makes them drop their weapon.**
+
+## Battle axe, 'Forge Beard' pattern
+
+**Battle axe, 'Forge Beard' pattern** (common, 1.5 TV; based on a bearded battle axe; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Medium:** Handling 0, chains of 2. **The bearded head hooks a shield aside:** after a hit, **no shield cover against his next swing.**
+
+## Raider axe
+
+**Raider axe** (common, 0.5 TV; based on a raider-made axe; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Medium:** Handling 0, chains of 2. **A heavy, crude head:** **Strength behind the blow at STR 40+, not 50+;** **a natural 1 throws the head off** (a beat to fix).
+
+## Katana, 'Forge Dusk' pattern
+
+**Katana, 'Forge Dusk' pattern** (uncommon, 5 TV; based on the katana; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Medium:** Handling 0, chains of 2. **The draw cut:** **+2 on his first swing of the fight.** Takes a tsuka grip.
+
+## Wakizashi, 'Forge Dawn' pattern
+
+**Wakizashi, 'Forge Dawn' pattern** (uncommon, 3 TV; based on the wakizashi; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Medium:** Handling 0, chains of 2. **The companion blade:** **paired with a katana or a longsword, also +1 to parry** (on top of the two-weapon bonus).
+
+## Trident, 'Forge Tine' pattern
+
+**Trident, 'Forge Tine' pattern** (uncommon, 2 TV; based on a trident; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Medium:** Handling 0, chains of 2. **Three tines catch blades:** **+1 on disarm attempts.** **Can be thrown once** (~10 m).
+
+## Whip-sword, 'Forge Coil' pattern
+
+**Whip-sword, 'Forge Coil' pattern** (rare, 10 TV; based on a snake sword (a segmented blade on a cable); the player's pick, Ash on Ostrava day 48; numbers the DM's). **Light:** Handling +2, chains of 3, STR or DEX. **Sword:** a light blade (chains of 3). **Whip** (a button, free): the blade splits along its cable and **hits out to ~5 m** without closing, **-1 on swings;** **it can't parry while extended;** **a natural 1 tangles it** (a beat to retract).
+
+## Bastard sword, 'Forge Warden' pattern
+
+**Bastard sword, 'Forge Warden' pattern** (uncommon, 3 TV; based on the bastard sword (the longsword's heavier cousin); the player's pick, Ash on Ostrava day 48; numbers the DM's). **Heavy (two-handed):** Handling -2, chains of 2, STR. **Two-handed it's heavy, with +1 on Heavy Attacks;** **one-handed it's a medium sword at -1 on swings** (Handling 0 then).
+
+## Bardiche, 'Forge Moon' pattern
+
+**Bardiche, 'Forge Moon' pattern** (uncommon, 3 TV; based on the bardiche; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Heavy (two-handed):** Handling -2, chains of 2, STR. **The hooked crescent blade drags a shield aside** (as the battle axe: no shield cover against his next swing); the long haft: **+1 to strike first.**
+
+## Glaive, 'Forge Reach' pattern
+
+**Glaive, 'Forge Reach' pattern** (uncommon, 3 TV; based on the glaive; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Heavy (two-handed):** Handling -2, chains of 2, STR. **Long reach:** **+1 to strike first,** and **anyone closing on him takes his free swing first.**
+
+## Danish axe, 'Forge Jarl' pattern
+
+**Danish axe, 'Forge Jarl' pattern** (uncommon, 3 TV; based on the Danish long axe; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Heavy (two-handed):** Handling -2, chains of 2, STR. **Long haft, big bit:** **+1 to strike first;** **a Heavy Attack goes one armour step further.**
+
+## Mechanicus quarterstaff, 'Forge Rod' pattern
+
+**Mechanicus quarterstaff, 'Forge Rod' pattern** (uncommon, 2 TV; based on a tech-priest's quarterstaff; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Heavy (two-handed):** Handling -2, chains of 2, STR. **Spun from both ends:** **chains of 3** for a two-hander; **+1 to parry.** Not a psyker staff.
+
+## Double-bladed chainsword, 'Forge Twinbite' pattern
+
+**Double-bladed chainsword, 'Forge Twinbite' pattern** (rare, 8 TV; based on a two-bladed chain staff; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Heavy (two-handed):** Handling -2, chains of 2, STR. **A chain at each end:** **chains of 3 and Wide Slash;** no guard: **-2 to parry.** Bites as a chainsword.
+
+## Ogryn zweihander, 'Bone'ead Longchop' pattern
+
+**Ogryn zweihander, 'Bone'ead Longchop' pattern** (rare, 6 TV; based on a zweihander, Ogryn-sized; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Heavy (two-handed):** Handling -2, chains of 2, STR. **Built for an Ogryn:** **needs STR 60+, or -3 on every swing.** **Its Wide Slash hits up to 3 in front.**
+
