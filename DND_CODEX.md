@@ -29,7 +29,7 @@ by narrative mode (house rule 4): open them only if the player asks for full rul
 | **A fight is on or starting:** the campaign's **Fight checklist** (Ash on Ostrava: the campaign README), every step, before the first die | **Always, in every fight** |
 | **Part 7:** Describing the world (no option menus, layout is free) | **Always** |
 | **Part 8:** The reskin, Armour, Weapons (incl. named and rebuilt weapons) | **Always** |
-| **Part 8, Gear rules:** "Swapping, recoil and attachment slots" and "Pack sizes" | **Always** |
+| **Part 8, Gear rules:** "Swapping, recoil and attachment slots" (with Handling) and "Pack sizes" | **Always** |
 | Part 6, house rule 7: stat levels, training reps, the training manual, coaching, books | At the daily tally; training, coaching or a book comes up |
 | Part 6, Food | Food is in doubt (a mission, a siege, a bad jump); a cook |
 | Part 6, house rule 8: Will | An interrogation or a recruiting attempt |
@@ -756,7 +756,7 @@ in the math (`14 + 4 DEX + 2 aimed rifle + 3 eye + 2 order + 2 surprise - 1 airb
    entry (string limit, armour it pierces, quirks).
 6. **The string:** **shot chain** (house rule 6: +2 after a first-shot hit, +1 after later hits, -1 after a
    miss; some guns differ: the heavy belt stubber has no hit bonuses), **swapping** (-1 for a different target than
-   the last shot in the string), **recoil** (each shot after the first; raised day 48: 1 las and other once-recoilless guns; 2 stub and auto pistols;
+   the last shot in the string), **Handling** (day 48: plus on swaps and the string's first shot; minus on swaps only; Gear rules, Handling), **recoil** (each shot after the first; raised day 48: 1 las and other once-recoilless guns; 2 stub and auto pistols;
    3 autoguns on burst, SMGs, machine pistols, shotguns, revolvers, hand cannons, heavy belt stubbers braced; 4 bolt
    weapons, heavy belt stubbers on the move, anti-materiel rifles; an entry's own number reads 2 higher, 'no recoil' 1), drums (-1 quick-draw), the gun's string limit, **dual pistols** (string doubled, -3 every shot; house rule 5, Dual-wielding).
 7. **Movement:** airborne (own shots -2, traitor elites -1; shots at them -3), run and gun (-2), shooting from

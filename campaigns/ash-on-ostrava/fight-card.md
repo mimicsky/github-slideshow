@@ -22,7 +22,7 @@ It is steps 6-9 of the campaign README's Fight checklist in short; steps 1-5 (wh
 3. **Role and orders:** the roller's role rules; an ordered ally **+2 and acts first**; Kell's **+1** to the whole Light when he is present (codex, Roll checklist 3; section 11 below).
 4. **Surprise:** **+2** on a surprised group (codex, Roll checklist 4).
 5. **Gear:** every attachment by slot and every eye (optic and HUD eye stack), blessings, the gun's entry; crits on a **natural 20; Tamsin 19-20; Vigil 17-20** (codex, Roll checklist 5; Shots and hits).
-6. **The string:** chain, swap, recoil, drum (-1 quick-draw), string limit, dual pistols: section 4 (codex, Roll checklist 6).
+6. **The string:** chain, swap and Handling, recoil, drum (-1 quick-draw), string limit, dual pistols: section 4 (codex, Roll checklist 6).
 7. **Movement:** airborne (own shots -2, the Light -1; shots at them -3), run and gun -2, from cover free, **peek and duck: the first shot -1** (codex, Roll checklist 7; Cover).
 8. **Standing bonuses:** traits, finished books, armour and fields (codex, Roll checklist 8; sheet, Tamsin's and the Light's standing modifiers).
 9. **Conditions:** Hurt **-1**, Badly hurt **-2**; food, fatigue, sickened, blinded; cover on the target; darkness or smoke (a low-light optic or lumen cancels it); a Dirty or Neglected gun's jam range (codex, Roll checklist 9).

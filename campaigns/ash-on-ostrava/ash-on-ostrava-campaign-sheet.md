@@ -9,7 +9,7 @@ Everything else is one hop away (see the README's "Where things are"): people, p
 ## Contents
 
 - Where we stopped
-- [Current state (day 41)](#current-state-day-41)
+- [Current state (day 47)](#current-state-day-47-older-lines-below-keep-their-own-dates)
 - [Day log](#day-log)
 - [What the Light knows about Thask](#what-the-light-knows-about-thask)
 - [The character](#the-character)
