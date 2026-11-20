@@ -2478,7 +2478,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Telescopic sight (+2 long shots; -1 hip/snap and inside 15 m)",
+  "name": "10x scope (was the telescopic sight: +2 long shots; -1 hip/snap and inside 15 m)",
   "tv": 3,
   "cat": "mod",
   "rarity": "U",
@@ -5010,6 +5010,27 @@
   "cat": "mod",
   "rarity": "U",
   "sellers": "MBF"
+ },
+ {
+  "name": "Variable scope, 1-6x (1x: +1 aimed inside ~30 m; 6x: +1 aimed past ~30 m; switch in the short move)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Variable scope, 1-7x (1x: +1 aimed inside ~30 m; 7x: +2 aimed past ~30 m; switch in the short move)",
+  "tv": 3.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Variable scope, 1-9x (1x: +2 aimed inside ~30 m; 9x: +2 past ~30 m, +1 more past ~150 m; switch free)",
+  "tv": 6,
+  "cat": "mod",
+  "rarity": "R",
+  "sellers": "MAF"
  },
  {
   "name": "Grip monopod (+1 aimed braced; drops in the move; -1 swapping while down)",

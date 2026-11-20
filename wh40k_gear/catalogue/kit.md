@@ -725,7 +725,7 @@ checks one target; enemies stacked one behind another: only the front one. On th
 ### More attachments (player picks, Ash on Ostrava session 10)
 
 **Optic**
-- **Telescopic sight** (uncommon, 3 TV): **+2 on long shots**; **-1 on hip/snap shots and
+- **10x scope** (renamed from the telescopic sight, the player, day 48; uncommon, 3 TV): **+2 on long shots**; **-1 on hip/snap shots and
   anything inside ~15 m**.
 - **Offset backup sight** (uncommon, 1 TV; fits beside a scope, no slot of its own): cancels
   the scope's close-range penalty; **-1 on quick-draw**.
@@ -914,6 +914,15 @@ helps (less kick), +recoil hurts (more kick).** None of these change damage: the
   ~100 m; -1 on hip shots inside ~10 m.**
 - **CQC scope, 1.5x** (regular, uncommon, 2 TV; optic slot; rifles, carbines, SMGs, shotguns): barely any zoom, a wide
   window. **+1 on aimed shots inside ~30 m, and +1 on the first shot after a swap; -1 on aimed shots past ~60 m.**
+- **Variable scopes** (regular; optic slot; rifles, carbines, SMGs, shotguns, heavy belt stubbers): a ring twists
+  between 1x and full zoom, so one scope covers close and far. **All three: heavy glass, -1 on quick-draws.**
+  - **1-6x** (common, 2 TV; the cheap one): **1x: +1 on aimed shots inside ~30 m. 6x: +1 on aimed shots past ~30 m;
+    -1 on hip shots and inside ~15 m.** Switching zoom uses his **short move**.
+  - **1-7x** (uncommon, 3.5 TV): **1x: +1 on aimed shots inside ~30 m. 7x: +2 on aimed shots past ~30 m; -1 on hip
+    shots and inside ~15 m.** Switching zoom uses his **short move**.
+  - **1-9x** (rare, 6 TV; the expensive one): **1x: +2 on aimed shots inside ~30 m. 9x: +2 on aimed shots past ~30
+    m, +1 more past ~150 m; -1 on hip shots inside ~15 m.** Switching zoom is **free** (a throw lever). It beats the
+    reflex sight and the 10x scope at their own jobs: that's why it's rare and dear.
 - **Grip monopod** (regular, uncommon, 1.5 TV; under-barrel slot; rifles, carbines, SMGs, shotguns): a vertical grip
   with one leg inside it. **+1 on aimed shots while braced; the leg drops in the beat's move, no set-up beat; -1 on
   swapping while it's down.**
