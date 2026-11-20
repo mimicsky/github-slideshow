@@ -686,7 +686,7 @@ and **disarm attempts against the bearer take -2**.
 - **Tac rifle stock** (uncommon, 1.5 TV): **+1 on the first shot, +1 on aimed shots, Handling
   -2**.
 - **Light rifle stock** (common, 1 TV): **Handling +2** (+2 on swaps and on every string's first shot, +2 m on
-  the short move); **-1 on aimed shots**.
+  the short move and run and gun); **-1 on aimed shots**.
 
 ### Custom barrel (stub pistols and SMGs; barrel slot)
 
@@ -907,7 +907,7 @@ Designed by the player, Ash on Ostrava day 48 (placed and numbered by the DM).
 ### Optics, lasers, grips and sleeves (the player, day 48)
 
 **Handling** (codex Gear rules, day 48): every '+X or -X on swapping' on a gun or part is its Handling; plus Handling
-also adds to every string's first shot and +1 m a point to the short move; +4 or more fires a two-handed gun
+also adds to every string's first shot and +1 m a point to the short move and run and gun; +4 or more fires a two-handed gun
 one-handed at -2; minus Handling hurts swaps only.
 
 Designed by the player, Ash on Ostrava day 48 (placed and priced by the DM). **Recoil reads the player's way: -recoil
