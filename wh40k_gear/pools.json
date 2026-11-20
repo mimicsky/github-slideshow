@@ -4851,7 +4851,49 @@
   "sellers": "MBF"
  },
  {
-  "name": "Skeleton grip, melee (+1 swings and parries; +2 to disarm him)",
+  "name": "Skeleton grip, melee (Handling +2, +1 parries; +2 to disarm him)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Fullered blade (blades: Handling +1; -1 parry)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Skeletonized haft (axes, hammers, maces: Handling +2; cracks on a natural 1)",
+  "tv": 1.5,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Shortened haft (two-handed: Handling +2; STR 60+ for Strength behind the blow)",
+  "tv": 0.5,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Counterweight pommel (blades, chainswords: Handling +1)",
+  "tv": 1,
+  "cat": "mod",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Weighted head (blunt: Handling -2; Strength behind the blow at STR 40+)",
+  "tv": 2,
+  "cat": "mod",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Lightened chain bar (chain weapons: Handling +1; -1 on Saw Lock)",
   "tv": 2,
   "cat": "mod",
   "rarity": "U",

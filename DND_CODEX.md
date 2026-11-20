@@ -1645,6 +1645,10 @@ on a swap shot, +Handling on the first shot of every string, and +1 m on the sho
 two-handed gun can be fired one-handed, at -2 on every shot.** **Minus Handling** (heavier): **only on swap shots**; no
 first-shot or move penalty. The swap's own -1 still applies. **Aim aids aren't Handling** and keep their own swap rule (a
 laser sight's +1 after a swap, the CQC scope's +1 on the first shot after a swap, sweep emitters, walking plates).
+**Melee Handling (the player, day 48):** **light weapons +2, medium 0, heavy -2**, plus their parts (catalogue kit.md,
+Melee Handling and handling parts). **Plus:** + on the first swing of each chain and on a target switch mid-chain, +1 m a
+point on the short move, run and gun and the distance between swings; at +4 or more a two-handed weapon swings one-handed
+at -2 every swing. **Minus:** target switches only. With a gun and a blade both out, the one used that beat counts.
 Handling parts often cost recoil or aim (the tube stock and skeleton handguard +1 recoil; the light rifle stock -1
 aimed): that's their price. **Slots:** a gun takes **one
 attachment per slot**. The full slot list (guns and melee) is on the attachment sheet: `wh40k_gear/catalogue/attachments.md`, The rollable list, Slots.

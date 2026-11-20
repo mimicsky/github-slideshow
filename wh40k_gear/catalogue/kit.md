@@ -792,8 +792,8 @@ list): one per slot.
   **6 the blade breaks.**
 - **Ceramite-capped head** (rare, 5 TV; blunt; head, so not with a flanged head): **a hit the armour shrugs still counts 2
   toward wear-down.**
-- **Skeleton grip (melee)** (uncommon, 2 TV; any melee except worn weapons; melee grip slot, `mgrip`; not the gun part of the same name): lighter and quicker: **+1 on swings and parries**, but
-  **disarms against him +2.**
+- **Skeleton grip (melee)** (uncommon, 2 TV; any melee except worn weapons; melee grip slot, `mgrip`; not the gun part of the same name): lighter and quicker: **Handling +2** (was +1 on every swing; day 48) **and +1 on
+  parries**, but **disarms against him +2.**
 - **Scrap spikes** (common, 0.5 TV; blunt; head): scrap spikes welded onto the head: it dents armour and bites deeper:
   **a solid hit when he beats the number by 2+, not 3+** (the player, day 48).
 - **Tri-stand** (uncommon, 2 TV; shields; stand): a folding three-legged stand that sets the shield down at an angle.
@@ -826,12 +826,33 @@ list): one per slot.
   swing**; anyone **taken Down by it: -3 on the survival d6.**
 - **Tuned field** (uncommon; power weapons; field, so not with the tuning kit): **its cell holds +5 power-mode swings.**
 - **Promethium can and blade line** (rare; blades and chain weapons; coil slot, so never with a shock-coil kit; the player, day 48): a small can under the hilt and a thin
-  line along the blade. **Heavy: -2 to parry with it** (the player, day 48). **Lit (on or off, free), the blade burns:
+  line along the blade. **Heavy: -2 to parry with it, and Handling -1** (the player, day 48). **Lit (on or off, free), the blade burns:
   -1 on swings while lit** (the flame and the weight; DM's call on the player's 'maybe'), **and a hit sets the target alight on a d6 5-6.**
   **Each lit beat uses 1 charge; a can holds 6** (DM's default), refilled from a fire bottle or a flamer canister.
 - **Blaze force enhancer** (rare; force weapons: force swords, witch-knives, psyker staffs; enhancer): wired into the
   focus crystal. **Imbued (in a psyker's hands), a hit drops one extra health step (1.0).** But **a raw 1-3 on an imbued
   swing** and the force is too much: **the warp flings the weapon out of his hands** (~d6 m away; a beat to fetch it).
+
+### Melee Handling and handling parts (the player, day 48)
+
+**Melee Handling** (codex Gear rules, Handling): **light weapons +2** (knives, daggers, machetes, hatchets), **medium 0**
+(one-handed swords, chainswords, axes, batons, maces, mauls), **heavy -2** (two-handed), plus its parts. **Plus:** + on
+the first swing of each chain and on a target switch mid-chain; +1 m a point on the short move, run and gun, and the
+distance between swings; at +4 or more a two-handed weapon swings one-handed at -2 every swing. **Minus:** target
+switches only. With a gun and a blade both out, the one used that beat counts.
+
+- **Fullered blade** (regular, uncommon, 1.5 TV; blades; fuller slot): a groove ground down the flat: **Handling +1;
+  -1 to parry** (less steel to catch a blow).
+- **Skeletonized haft** (regular, uncommon, 1.5 TV; axes, hammers, maces, mauls; haft slot): holes bored through the
+  haft: **Handling +2.** **A natural 1 on a swing or parry cracks it:** Handling 0 and -1 on swings until it's fixed.
+- **Shortened haft** (regular, common, 0.5 TV; two-handed weapons; haft slot): cut down: **Handling +2;** less leverage:
+  **Strength behind the blow needs STR 60+, not 50+.**
+- **Counterweight pommel** (regular, common, 1 TV; blades and chainswords; pommel slot, so no spiked pommel or cord): moves
+  the balance back to the hand: **Handling +1.**
+- **Weighted head** (regular, uncommon, 2 TV; blunt weapons; head slot): more mass: **Handling -2;** **Strength behind
+  the blow at STR 40+, not 50+.**
+- **Lightened chain bar** (regular, uncommon, 2 TV; chain weapons; bar slot): a drilled bar and a lighter tooth carrier:
+  **Handling +1; -1 on Saw Lock's STR contest.**
 
 ## Chain weapon parts (day 48)
 
