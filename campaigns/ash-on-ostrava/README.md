@@ -83,8 +83,8 @@ Then roll.
 **7. Resolve the beat in this order** (codex Part 6, A beat; fight card §1, §3):
 1. **Surprise** first (codex Part 6, A beat, Surprise).
 2. **Orders first:** the ordered actions (+2) resolve before anyone else's.
-3. **Tamsin** (the player's dice) and **everyone else in the Light**: everyone acts every beat, each with an open roll.
-4. **The enemies** (unless surprised), each with their own roll, played by their role and team tactics.
+3. **Tamsin** (the player's dice) and **everyone else in the Light**: everyone acts every beat, each with an open roll. **The Light think for themselves** (cover, reloads, patches, target calls, weapon swaps, standing orders) by the DM's thinking list (`dm-tactics.md`, DM only), sections 3-4.
+4. **The enemies** (unless surprised), each with their own roll, played by their role and team tactics, **and by the DM's thinking list** (`dm-tactics.md`, DM only: the plan before the fight, the commander's look each beat, each one's eight questions).
 - **Allies new to the fight** (a squad that joins us, reinforcements on our side): **rolled with `roll_ally.py` before their first beat**, the same as enemies (Every reply, New allies).
 - **Every roll:** codex Part 6, **Roll checklist**, all 11 lines, each bonus written by name (stat, specialty, order,
   surprise, gear and eyes, chain, swap, recoil, airborne, health, cover, darkness).
