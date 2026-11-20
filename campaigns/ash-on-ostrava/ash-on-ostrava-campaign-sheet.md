@@ -70,7 +70,7 @@ Moved to `world.md` (day 36 cleanup), under the same heading.
 | Rank | **Interrogator** of Inquisitor Kesh's Ordo (rosette, warp day 20, session 7). Leads the Light; takes his orders from Kesh (Varsaine stayed with the Lantern). (Interrogator-designate from session 5.) |
 | Class | Fighter 11, **Champion** (crits on 19-20). Action Surge, **Extra Attack (2)**, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | **5.0 (Fine)** (healed day 20; numbers from day 48: 5.0 Fine, 4.0 Grazed, 3.0 Hurt, 2.0 Badly hurt, 1.0 Down; codex house rule 4) |
-| Stats (levels 1-100) | STR **32.6** (**+3**), DEX **86.2** (**+8**, crossed 80 day 38), CON **23.9** (+2), INT **14.1** (+1), WIS **50.5** (**+5**, crossed 50 day 45), CHA **21.0** (**+2**, crossed 20 day 42) (tally day 45). **WIS +5 from day 46: Perception d20 + 9, Insight d20 + 5, WIS saves + 5.** **CHA +2 from day 43: Persuasion/Deception +2 off will checks, +3 on will checks (CHA 2 + manual 1); Intimidation +7 on will checks (CHA 2 + proficiency 4 + manual 1).** |
+| Stats (levels 1-100) | STR **34.8** (**+3**), DEX **93.8** (**+9**, crossed 90 day 47), CON **24.7** (+2), INT **14.2** (+1), WIS **58.3** (**+5**, crossed 50 day 45), CHA **30.0** (**+3**, crossed 30 day 47) (tally days 46-47). **WIS +5 from day 46: Perception d20 + 9, Insight d20 + 5, WIS saves + 5.** **CHA +3 from day 48: Persuasion/Deception +3 off will checks, +4 on will checks (CHA 3 + manual 1); Intimidation +8 on will checks (CHA 3 + proficiency 4 + manual 1).** **DEX +9 from day 48** (knife bouts +13). |
 | Renown | **Regional (+6)** (raised day 48, the DM's call; overdue since the Gardener, day 33: then the Mart taken from the 6th, and the 6th broken on Gallowmere) (codex, Renown). **+5 more where a deed happened:** **Ustrennos** (the Spindle, the Kestrel, the pirate ship: the station knows his face), **the Mart** (taken days 31-36; Voke and the berths know his face), **Gallowmere** (Kettle Ford, Fourteen, the vaults). **Thask's network knows exactly who he is.** **Walking into the Mart: d20 + 6 + 5 = d20 + 11 vs 15: recognised on a 4 or better.** Next step (Sector, +10): something sector-wide and public. |
 | Proficiency | **+4** (levels 9-12). Skills: Perception, Athletics, Survival, Intimidation. **+1 on will checks** (house rule 8; the provost's manual, finished day 19) |
 | Flaw | Doesn't trust officers, and says so |
@@ -234,7 +234,7 @@ Moved to `world.md` (day 36 cleanup), under the same heading.
 Remarkable Athlete (+2 untrained STR/DEX/CON); proficiency +4 (Perception, Athletics, Survival, Intimidation); **+1 will
 checks** (provost's manual); **Commander: two orders a beat to specialists** (+2, act first); Defense style; heavy
 carapace from the front (carapace from the side and back); refractor field (auto-stops light hits, 3 a beat; heavy hits 5-6); Last Word hair trigger
-(drop-prone); Indomitable (reroll a failed save, once per long rest); purity seals on Last Word, the knife, Shameholder (Vigil's went to the Geller node, day 43); **Knife bouts: Tamsin +12 (8 DEX + 4 prof)** (codex, Knife bouts; confirmed with the player, day 36 cleanup; DEX +8 from the day 38 tally). **Last Word: d20 + 13** (DEX 8, prof 4, laser +1 on hip shots within ~20 m).
+(drop-prone); Indomitable (reroll a failed save, once per long rest); purity seals on Last Word, the knife, Shameholder (Vigil's went to the Geller node, day 43); **Knife bouts: Tamsin +13 (9 DEX + 4 prof; DEX +9 from day 48)** (codex, Knife bouts; confirmed with the player, day 36 cleanup; DEX +8 from the day 38 tally). **Last Word: d20 + 13** (DEX 8, prof 4, laser +1 on hip shots within ~20 m).
 **Fixed shooting lines (day 47 audit; add Kell's +1 when he's present, +2 for an order, and the gun's own chain, recoil and range rules):**
 - **Isk, Patience, aimed:** d20 + 5 DEX + 1 long barrel + 1 lens + 1 elite sniper (+1 Scion helmet) = **+9 inside ~30 m**; past ~30 m add the range-finder +2 and his long-shot specialty +2: **+13**.
 - **Varga, Mercy:** aimed inside ~30 m: 5 DEX + 2 aimed specialty + 3 targeter + 2 reflex sight = **+12**; aimed past ~30 m: 5 + 2 + 3 - 1 reflex + 2 rangefinder = **+11**; not aimed inside ~30 m **+5**, past ~30 m **+6**. Airborne -1 (jumper, traitor-elite side note).
@@ -271,22 +271,22 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 
 | | STR | DEX | CON | INT | WIS | CHA | Health (number and state; codex house rule 4) and notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Kell** | 45.1 | 41.3 | 30.1 | 10 | 28.2 | 10 | 5.0 (Fine) (day 36 morning; Hurt from the mast, day 33, to then). |
-| **Varga** | 26.2 | 51.6 | 25.1 | 10 | 27.7 | 5.2 | 5.0 (Fine). |
-| **Dace** | 27.9 | 23.5 | 20 | 33.2 | 6.1 | 5.1 | 5.0 (Fine) (hip healed by day 33). |
-| **Sorel** | 41.7 | 35.7 | 29 | 18 | 32.6 | 14.1 | 5.0 (Fine). Tracker; hive clearance +2. |
-| **Tey** | 18.7 | 53.4 | 28.3 | 14.1 | 9.9 | 14.1 | 5.0 (Fine). **Pistol focus (gunslinger) +3** (day 45 = drill day 30: up from +2, nightly drill confirmed by the player; next +1 at drill day 40; day 36 = drill day 21; +1 per 10 drill days to +5). Pistol drill nightly; 5 for 5 under Varga at dawn on day 32. His flinch came from a long trigger pull (a hair trigger would beat it; not fitted). **At Tamsin's side from day 16: goes everywhere with him, into the action.** |
-| **Hollis** | 29.4 | 50.3 | 32 | 17 | 26.3 | 12 | 5.0 (Fine). |
-| **Brenner** | 21.2 | 31.3 | 26 | 47.3 | 19.3 | 10 | 5.0 (Fine). |
-| **Isk** | 20.1 | 56.3 | 28 | 13.5 | 34.3 | 10 | 5.0 (Fine). |
-| **Tavi** | 20.6 | 41.9 | 23.2 | 35.8 | 17.8 | 17.1 | 5.0 (Fine) (a hand-cannon crit at Crane Yard 6's gate ~0435; Dace patched him). |
-| **Morcant** (STR 50+: Strength behind the blow, codex Part 8 Armour) | 51.0 | 33.2 | 33.2 | 15 | 19.8 | 17 | 5.0 (Fine). |
-| **Sallow** | 20 | 34.4 | 22 | 25 | 48.1 | 20 | 5.0 (Fine). |
-| **Corvane** | 32.3 | 49.8 | 31.4 | 21.5 | 20.8 | 22.1 | 3.0 (Hurt): the slug under his chest plate, day 47; Sallow patched him from Badly hurt ~2118. |
-| **Nessa** | 18.5 | 58.0 | 18.1 | 21.2 | 30.1 | 27.5 | 5.0 (Fine). |
-| **Mira** | 14.8 | 49.0 | 20 | 35.0 | 32.0 | 15 | 5.0 (Fine). |
-| **Teo** | 18.1 | 46.1 | 18 | 29.1 | 20.0 | 28.1 | 5.0 (Fine). |
-| **Ferro-Ashe** | 19 | 26.0 | 20 | 48.9 | 19.7 | 12 | 5.0 (Fine). |
+| **Kell** | 45.2 | 43.3 | 30.2 | 10 | 30.1 | 10 | 5.0 (Fine) (day 36 morning; Hurt from the mast, day 33, to then). |
+| **Varga** | 26.2 | 54.6 | 25.1 | 10 | 27.9 | 5.2 | 5.0 (Fine). |
+| **Dace** | 28.7 | 23.5 | 20.1 | 33.2 | 6.3 | 5.1 | 5.0 (Fine) (hip healed by day 33). |
+| **Sorel** | 41.7 | 36.8 | 29.1 | 18 | 33.1 | 14.1 | 5.0 (Fine). Tracker; hive clearance +2. |
+| **Tey** | 18.7 | 55.2 | 28.3 | 14.1 | 10.1 | 14.1 | 5.0 (Fine). **Pistol focus (gunslinger) +3** (day 45 = drill day 30: up from +2, nightly drill confirmed by the player; next +1 at drill day 40; day 36 = drill day 21; +1 per 10 drill days to +5). Pistol drill nightly; 5 for 5 under Varga at dawn on day 32. His flinch came from a long trigger pull (a hair trigger would beat it; not fitted). **At Tamsin's side from day 16: goes everywhere with him, into the action.** |
+| **Hollis** | 29.4 | 53.0 | 32.1 | 17 | 26.5 | 12 | 5.0 (Fine). |
+| **Brenner** | 21.2 | 32.1 | 26 | 47.8 | 19.3 | 10 | 5.0 (Fine). |
+| **Isk** | 20.1 | 58.9 | 28.2 | 13.5 | 34.6 | 10 | 5.0 (Fine). |
+| **Tavi** | 20.6 | 44.8 | 23.2 | 35.9 | 17.8 | 17.1 | 5.0 (Fine) (a hand-cannon crit at Crane Yard 6's gate ~0435; Dace patched him). |
+| **Morcant** (STR 50+: Strength behind the blow, codex Part 8 Armour) | 51.0 | 35.2 | 33.5 | 15 | 19.8 | 17 | 5.0 (Fine). |
+| **Sallow** | 20 | 34.4 | 22 | 25 | 49.0 | 20 | 5.0 (Fine). |
+| **Corvane** | 32.7 | 50.7 | 31.8 | 21.5 | 21.0 | 22.1 | 3.0 (Hurt): the slug under his chest plate, day 47; Sallow patched him from Badly hurt ~2118. |
+| **Nessa** | 18.9 | 60.1 | 18.2 | 21.2 | 30.1 | 27.5 | 5.0 (Fine). |
+| **Mira** | 14.8 | 51.5 | 20 | 35.0 | 32.6 | 15 | 5.0 (Fine). |
+| **Teo** | 18.1 | 47.0 | 18 | 29.1 | 20.0 | 28.2 | 5.0 (Fine). |
+| **Ferro-Ashe** | 19 | 27.2 | 20 | 49.3 | 19.7 | 12 | 5.0 (Fine). |
 | **Ollin Brake** | 18 | 17.5 | 25 | 24.6 | 18 | 17.7 | 5.0 (Fine). Haggles d20 + CHA bonus (+1); cleans handed-in guns. |
 | **Pim** (grunt; day 48) | 22 | 21 | 20 | 12 | 18 | 14 | 3.0 (Hurt) (Nessa's dart in the reeds, day 47; wearing off). Age 17. STR/DEX rolled with Kettle Ford's cell (commoner #1); CON-CHA set by the DM from his past. Grunt: no role, no specialty yet. |
 | **Dag Holloway** (grunt; day 48; not yet joined: in irons) | 10 | 13 | 28 | 14 | 22 | 16 | 3.0 (Hurt). STR d21 1 + 9, DEX d16 4 + 9 (civilian); CON-CHA set by the DM (a hard man; reads men; menace). Grunt: no role, no specialty yet. |
