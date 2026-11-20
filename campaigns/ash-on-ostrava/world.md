@@ -182,6 +182,7 @@ People, places, the ship, Kesh's targets and mission briefs. **Not read on resum
 
 | Who | What | Status |
 | --- | --- | --- |
+| **Seraphine Wenlock** | The eldest of the five astropaths freed from Gallowmere's choir-house (day 47); aboard the *Bright Light* | Sends and receives for Tamsin (Kesh's reply, ~0250 day 48); drained by each sending (nosebleeds; Sallow watches her). Voice: thin, very formal, speaks the message flat as it came, then is herself again: tired, polite, grateful |
 | **Governor Ansel Corrow** | Planetary governor; ordered the outbound grain quarantine (day 38) | **A dupe:** his Harvest Lamps address carries the cells' trigger phrase, 'the seed is good'. Tamsin's word to Quint: kept safe |
 | **Under-Secretary Quint** | Corrow's under-secretary and brother-in-law; the garden's man in the governor's house ('Q') | **Taken and broken, day 47**; Cell 1. Tamsin's word: Elin and the children kept safe |
 | **Major Ulric Mordane** | Major of the Moebian 6th; under Wolfer since the turning; shot Colonel Haskane | **Taken at XIV and broken, day 47**; Cell 1 |
