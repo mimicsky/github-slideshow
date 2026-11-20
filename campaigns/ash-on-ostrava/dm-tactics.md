@@ -5,10 +5,14 @@ tricks come as surprises and he learns to counter them in play. The public rule 
 tactics, 3 (They play for their lives). Each faction's own flavour is its **Tactics** line in the bestiary; each role's
 habits are in `wh40k_gear/bestiary/roles.md`. This list is how to think, beat by beat, on top of those.
 
+**These are questions, not a menu** (the player, day 48: 'make it the DM's call; think for them, not one of a couple of
+set options'). The examples under each are only examples. Think as that person would, in that spot, with what they
+have and know, and do what they'd really do, including things this list never mentions.
+
 **When to run it:**
 - **Before every fight:** section 1, the enemy's plan. Write it in one line in the beat notes.
 - **At the top of every beat:** section 2, the enemy commander's look. Change the plan when the Light changes the fight.
-- **Before every NPC's roll, enemy or ally:** section 3, the eight questions. Allies also get section 4.
+- **Before every NPC's roll, enemy or ally:** section 3, the nine questions. Allies also get section 4.
 - **Every fight, at the end:** section 5, a quick honesty check.
 
 ## 1. Before the fight: the enemy's plan
@@ -38,8 +42,14 @@ habits are in `wh40k_gear/bestiary/roles.md`. This list is how to think, beat by
 - **When it's lost:** fall back in order, surrender or run, by type. Fanatics fight on; conscripts and hired guns break;
   elites withdraw by squads, covering each other.
 
-## 3. Every NPC, every beat: eight questions (enemies and allies)
+## 3. Every NPC, every beat: nine questions (enemies and allies)
 
+0. **What am I, against them?** Before anything else, he weighs himself up: his armour, his weapon, his health, his
+   skill, against what he's seen of theirs (what can they hit him with, can his weapon get through their armour, who
+   outranges whom). Then he plays to that. For example only: a man in light armour with a blade is cooked in the open,
+   so he waits in cover at a corner where they have to come close, or works round under cover; in flak he might live
+   through a dash; in heavy armour he can cross ground others can't; outranged, he closes under cover or breaks line of
+   sight; outgunned and outarmoured, he stops being brave. The DM decides what he does.
 1. **Am I in the open?** Get to cover first (the short move: 5 m plus Handling). End the beat in cover unless charging
    or forced out.
 2. **Which weapon this beat?**
