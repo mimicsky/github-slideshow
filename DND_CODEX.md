@@ -464,6 +464,21 @@ scores and Part 8's once-per-stay training.
   **6 hours** of the plan's drill (+0.6) unless the scene says otherwise. See the
   training manual below for what counts.
 - Sharp edges already earned under the old rule stay until used.
+- **Mastery at 100 (set by the player, Ash on Ostrava day 48; no prestige reset).** A stat that reaches **100** keeps its
+  **+10** and earns **one mastery perk** for that stat. Reps keep counting past 100 on a **mastery bar**: **every 10.0 more
+  (100 reps) earns another perk, up to 3 per stat.** Nothing resets. Pick from the stat's list (each perk once):
+  - **DEX:** *Steady hands* (recoil -1 on every gun, on top of parts); *Fast hands* (a reload or top-up costs only the short
+    move); *Quick swap* (switching weapons in hand is free).
+  - **STR:** *Iron grip* (can't be disarmed; fires a heavy weapon one-handed); *Bull* (a kicked door or forced lock opens, no
+    roll); *Pack mule* (carries a downed ally at full run-and-gun distance).
+  - **CON:** *Second wind* (once a fight, a hit that would drop him a step bounces off); *Hard to kill* (+1 on the survival d6;
+    dropping to Badly hurt never makes him bleed); *Iron gut* (drug and stim downsides halved).
+  - **INT:** *Field fix* (clearing a jam costs only the short move); *Quick study* (books and manuals in half the time);
+    *Read the kit* (once a fight, the DM tells one true fact about an enemy's gear).
+  - **WIS:** *Commander's voice* (his orders give +3, not +2); *Battle sense* (once a fight, the DM points out one enemy he
+    can't see); *Gut feeling* (once a mission, the DM warns of one ambush or trap before it springs).
+  - **CHA:** *Second chance* (once an interrogation, a failed will-check line can be tried again); *Rally* (allies within
+    shouting range +2 on break checks); *Haggler* (shop prices 10% off).
 
 **Training manual (set by the player, session 9).** What counts. **Training: +0.1 per
 hour. In play: +0.1 per action.** The DM tallies the player's and the Light's reps at
