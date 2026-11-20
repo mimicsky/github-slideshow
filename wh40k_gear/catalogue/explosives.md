@@ -228,3 +228,7 @@ and nothing else fits it.
 **Rare, ~12 TV** (DM's price, day 47; Munitorum, Free Traders). Set by the player, Ash on Ostrava session 10. Fires the **grenades** above (frag, impact frag, smoke, flash,
 spec flash, choke gas; **not kraks**, see below) out to **~100 m**. **One shot a beat**, rolled like a throw (d20 + DEX + Hollis's grenadier +2;
 the near-miss rule applies). The **drum holds 6**; **reloading the whole drum takes a full beat**.
+
+## Grenade launcher, 'Thumper' pattern
+
+**Grenade launcher, 'Thumper' pattern** (uncommon, 5 TV; based on the M320A1; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Two ways to carry it:** **alone,** with its own folding stock, or **clipped under a rifle** (the under-barrel slot), where it rules as the underslung grenade launcher **without the -1 on aimed shots** (it has its own grip). A **side-opening breech** takes any launcher round (frag, krak, smoke, flare, gas). Its leaf sight: **+1 past ~30 m.** One shot; **a beat to reload.** Rolled like a throw (codex, Throwing grenades).

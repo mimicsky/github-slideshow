@@ -124,6 +124,10 @@
    [
     "Bullpup autogun, 'Thunder' pattern (scrap)",
     "U"
+   ],
+   [
+    "Pump shotgun, 'Breach Mainstay' pattern",
+    "C"
    ]
   ],
   "melee": [
@@ -952,6 +956,30 @@
    [
     "Battle rifle, 'Rampart Rightarm' pattern",
     "R"
+   ],
+   [
+    "Pump shotgun, 'Breach Mainstay' pattern",
+    "C"
+   ],
+   [
+    "Autogun, 'Solid Jaguar' pattern",
+    "C"
+   ],
+   [
+    "Autogun, 'Solid Kestrel' short pattern",
+    "U"
+   ],
+   [
+    "Submachine gun, 'Solid Mantis' pattern",
+    "U"
+   ],
+   [
+    "Heavy SMG, 'Magnum Sidewinder' PDW pattern",
+    "U"
+   ],
+   [
+    "Breaching shotgun, 'Breach Latchkey' pattern",
+    "U"
    ]
   ],
   "melee": [
@@ -1819,6 +1847,30 @@
    [
     "Combat shotgun, 'Breach Squire' bullpup pattern",
     "U"
+   ],
+   [
+    "Pump shotgun, 'Breach Mainstay' pattern",
+    "C"
+   ],
+   [
+    "Breaching shotgun, 'Breach Latchkey' pattern",
+    "U"
+   ],
+   [
+    "Combat shotgun, 'Breach Bulwark' pattern",
+    "U"
+   ],
+   [
+    "Submachine gun, 'Solid Mantis' pattern",
+    "U"
+   ],
+   [
+    "Auto-shotgun, 'Breach Cyclone' pattern",
+    "R"
+   ],
+   [
+    "Light machine gun, 'Solid Reaper' pattern",
+    "R"
    ]
   ],
   "melee": [
@@ -2583,6 +2635,46 @@
    [
     "Combat shotgun, 'Breach Squire' bullpup pattern",
     "U"
+   ],
+   [
+    "Autogun, 'Solid Jaguar' pattern",
+    "C"
+   ],
+   [
+    "Pump shotgun, 'Breach Mainstay' pattern",
+    "C"
+   ],
+   [
+    "Autogun, 'Solid Frost' pattern",
+    "U"
+   ],
+   [
+    "Autogun, 'Solid Ranger' carbine pattern",
+    "U"
+   ],
+   [
+    "Marksman rifle, 'Rampart Dragoon' pattern",
+    "U"
+   ],
+   [
+    "Combat shotgun, 'Breach Bulwark' pattern",
+    "U"
+   ],
+   [
+    "Grenade launcher, 'Thumper' pattern",
+    "U"
+   ],
+   [
+    "Sniper rifle, 'Rampart Falcon' pattern",
+    "U"
+   ],
+   [
+    "Light machine gun, 'Solid Simoom' pattern",
+    "R"
+   ],
+   [
+    "Light machine gun, 'Solid Reaper' pattern",
+    "R"
    ]
   ],
   "melee": [
@@ -3342,6 +3434,14 @@
    [
     "Semi-auto carbine, 'Solid Stripper' pattern",
     "C"
+   ],
+   [
+    "Pump shotgun, 'Breach Mainstay' pattern",
+    "C"
+   ],
+   [
+    "Sniper rifle, 'Rampart Falcon' pattern",
+    "U"
    ]
   ],
   "melee": [
@@ -3758,6 +3858,46 @@
    ],
    [
     "Combat shotgun, 'Breach Hush' suppressed pattern",
+    "U"
+   ],
+   [
+    "Battle rifle, 'Rampart Halberd' pattern",
+    "R"
+   ],
+   [
+    "Marksman rifle, 'Rampart Overwatch' pattern",
+    "U"
+   ],
+   [
+    "Sniper rifle, 'Rampart Arctic' pattern",
+    "R"
+   ],
+   [
+    "Sniper rifle, 'Rampart Ballista' pattern",
+    "R"
+   ],
+   [
+    "Heavy carbine, 'Magnum Shade' suppressed pattern",
+    "U"
+   ],
+   [
+    "Auto-shotgun, 'Breach Cyclone' pattern",
+    "U"
+   ],
+   [
+    "Breaching shotgun, 'Breach Latchkey' pattern",
+    "U"
+   ],
+   [
+    "Autogun, 'Solid Kestrel' short pattern",
+    "U"
+   ],
+   [
+    "Submachine gun, 'Solid Mantis' pattern",
+    "U"
+   ],
+   [
+    "Heavy SMG, 'Magnum Sidewinder' PDW pattern",
     "U"
    ]
   ],

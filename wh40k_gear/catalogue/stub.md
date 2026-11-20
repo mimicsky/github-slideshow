@@ -610,6 +610,14 @@ The player's picks, Ash on Ostrava day 48: guns he likes, done as **heavy stub**
 
 **Heavy SMG, 'Magnum Knight' pattern** (uncommon, 6 TV). Based on the PP-19-01 Vityaz, 'but more'. **Volume:** **strings of 10, recoil 2**; it takes **a factory coupled magazine** (two 30-round mags made as one): **flipping to the second is free, once**; single 30s fit too. Every slot.
 
+### Heavy SMG, 'Magnum Sidewinder' PDW pattern
+
+**Heavy SMG, 'Magnum Sidewinder' PDW pattern** (uncommon, 5 TV; based on the SIG MCX Rattler; the player's pick, Ash on Ostrava day 48; numbers the DM's). **A PDW built for a can:** short, with a folding brace: **Handling +2;** **any silencer fitted counts as a heavy suppressor** (near-silent, recoil -2), without the heavy suppressor's quick-draw or Handling cost. **-2 past ~50 m.** Strings of 6; 30 rounds.
+
+### Heavy carbine, 'Magnum Shade' suppressed pattern
+
+**Heavy carbine, 'Magnum Shade' suppressed pattern** (rare, 15 TV; based on the AS VAL; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Silent:** an integral suppressor (**a shot past ~10 m isn't heard**; it fills the muzzle slot), and the can soaks the kick: **-1 recoil.** Subsonic heavy stub: **-2 past ~100 m.** Strings of 6; 20 rounds.
+
 ### Gutter SMG (scrap)
 
 **Gutter SMG (scrap)** (common, 1 TV). Based on the C1. A long tube with **a 34-round magazine out the side**: **no sights: -2 on every shot**; but the side mag lets it **shoot lying flat: +1 prone.** **Strings of 6, recoil 1.** **Scrap quirk: jams on a natural 1-3.** No slots but special loads and tape.
@@ -661,6 +669,34 @@ The player's picks, day 48: real rifles done in their ammo families. **The round
 ### Semi-auto carbine, 'Solid Stripper' pattern
 
 **Semi-auto carbine, 'Solid Stripper' pattern** (common, 1 TV; based on the SKS; the player's pick, Ash on Ostrava day 48; numbers the DM's). **The poor man's rifle:** cheap; a **10-round fixed magazine loaded from a stripper clip** (a clip is the main thing); a **folding bayonet** built in; **jams on a natural 1-2.** Semi-auto strings of 3.
+
+### Autogun, 'Solid Kestrel' short pattern
+
+**Autogun, 'Solid Kestrel' short pattern** (uncommon, 4 TV; based on the SIG MCX RSAR; the player's pick, Ash on Ostrava day 48; numbers the DM's; the player set the strings, recoil and close bonus). **A short-barrel rifle:** auto strings of 8, **+1 recoil** (more than an autogun's); **+1 on shots inside ~15 m, -1 past ~60 m;** **Handling +1.** 30 rounds.
+
+### Submachine gun, 'Solid Mantis' pattern
+
+**Submachine gun, 'Solid Mantis' pattern** (uncommon, 3 TV; based on the B&T APC9; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Stub rounds** (the Solid family's SMGs fire stub; its rifles fire autogun rounds). **Light and modular:** strings of 8; **Handling +2;** full attachment slots. 30 rounds.
+
+### Autogun, 'Solid Jaguar' pattern
+
+**Autogun, 'Solid Jaguar' pattern** (common, 2.5 TV; based on the IMBEL IA2; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Jungle-proof:** wet, mud and damp **never make it Neglected** (only time does). Auto strings of 6; 30 rounds.
+
+### Autogun, 'Solid Frost' pattern
+
+**Autogun, 'Solid Frost' pattern** (uncommon, 3 TV; based on the AK 5; the player's pick, Ash on Ostrava day 48; numbers the DM's; the player's design). **Handling +1.** A **built-in folding stock** (folded for carry: +1 on quick-draws; it fires folded or open; it fills the stock slot), **angled down to line the eye up with an optic:** it works as a **built-in cheek rest with no iron-sights penalty** (+1 on aimed shots with an optic; it fills the cheek slot). Auto strings of 6; 30 rounds.
+
+### Autogun, 'Solid Ranger' carbine pattern
+
+**Autogun, 'Solid Ranger' carbine pattern** (uncommon, 3.5 TV; based on the Remington R5 RGP; the player's pick, Ash on Ostrava day 48; numbers the DM's). **A piston carbine that runs clean suppressed:** a silencer or suppressor on it **doesn't foul it faster** (no 'Dirty after ~20 shots'). **Handling +1.** Auto strings of 6; 30 rounds.
+
+### Light machine gun, 'Solid Simoom' pattern
+
+**Light machine gun, 'Solid Simoom' pattern** (rare, 12 TV; based on the IWI Negev; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Belt or magazine:** feeds a **150-round belt** or **any autogun magazine**. Full-auto strings of 10; **light for an LMG: Handling -1, and no extra recoil on the move.** **Pinned Fire.** Autogun rounds.
+
+### Light machine gun, 'Solid Reaper' pattern
+
+**Light machine gun, 'Solid Reaper' pattern** (rare, 12 TV; based on the FN M249; the player's pick, Ash on Ostrava day 48; numbers the DM's). **The squad's gun:** a **200-round belt** or **autogun magazines**. Full-auto strings of 10; **+1 recoil on the move** (braced, as an autogun's); **Handling -2.** It heats like any belt gun: **a barrel swap every 100 shots**, and its **quick-change barrel makes the swap only the short move.** **Pinned Fire.** Autogun rounds.
 
 ### Autogun, 'Twelve' pattern (scrap)
 
@@ -715,6 +751,30 @@ The player's picks, day 48: real rifles done in their ammo families. **The round
 
 **Marksman rifle, 'Rampart Chassis' pattern** (rare, 12 TV; based on the MK14 EBR; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Very accurate semi-auto:** **+2 on aimed shots;** a heavy chassis stock: **recoil 1.** Strings of 2; 20 rounds.
 
+### Battle rifle, 'Rampart Halberd' pattern
+
+**Battle rifle, 'Rampart Halberd' pattern** (rare, 25 TV; based on the XM7 NGSW-R, the Militarum issue of the Spear; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Issued complete:** a **fire-control scope** built in (it rules as the 1-7x variable scope with a range-finder: 1x +1 on aimed shots inside ~30 m; 7x +2 past ~30 m and the range-finder's +1; switching zoom is the short move; it fills the optic and mount slots) and a **suppressor** fitted (it rules as the standard silencer: quieter, recoil -1; it fills the muzzle slot). Heavy with it all on: **Handling -1.** Strings of 3; 20 rounds. Recoil is its kind's (codex, Gear rules); 'more' or 'less' recoil is against that.
+
+### Marksman rifle, 'Rampart Dragoon' pattern
+
+**Marksman rifle, 'Rampart Dragoon' pattern** (uncommon, 8 TV; based on the SVD Dragunov; the player's pick, Ash on Ostrava day 48; numbers the DM's). **The people's marksman rifle:** semi-auto, with a **built-in 4x scope** (**+1 on aimed shots past ~30 m, no close penalty**; it fills the optic slot); **takes a bayonet;** **Trigger Finger.** Strings of 2; 10 rounds.
+
+### Marksman rifle, 'Rampart Overwatch' pattern
+
+**Marksman rifle, 'Rampart Overwatch' pattern** (uncommon, 18 TV; based on the M110 SASS; the player's pick, Ash on Ostrava day 48; numbers the DM's; the DM raised the price from the draft's 12, since the kit's own parts are worth ~8). **Issued as a kit:** it comes with a **10x scope** and a **heavy suppressor** fitted (both count in their slots, as their kit.md entries). Semi-auto; **Trigger Finger.** Strings of 2; 20 rounds.
+
+### Sniper rifle, 'Rampart Ballista' pattern
+
+**Sniper rifle, 'Rampart Ballista' pattern** (rare, 30 TV; based on the FN Ballista; the player's pick, Ash on Ostrava day 48; numbers the DM's; the player: 'extremely precise at extreme ranges'). A bolt action and a match barrel: **+3 on aimed shots past ~130 m** (the extreme band); nothing extra closer. Strings of 2 (working the bolt); 8 rounds.
+
+### Sniper rifle, 'Rampart Falcon' pattern
+
+**Sniper rifle, 'Rampart Falcon' pattern** (uncommon, 10 TV; based on the CZ 700; the player's pick, Ash on Ostrava day 48; numbers the DM's). **A light bolt-action sniper:** **+1 on aimed shots,** and none of the heavy sniper rifles' Handling penalty. Strings of 2 (working the bolt); 10 rounds.
+
+### Sniper rifle, 'Rampart Arctic' pattern
+
+**Sniper rifle, 'Rampart Arctic' pattern** (rare, 20 TV; based on the Accuracy International AWP; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Heavy and steady:** **+2 on aimed shots past ~30 m; Handling -2.** Built for the ice: **no cold penalties,** and the trigger guard and bolt take gloved hands. Strings of 2 (working the bolt); 10 rounds.
+
 ## Stub and autogun rounds (special loads)
 
 **Stub and autogun rounds, special loads** (player picks, Ash on Ostrava day 36; Munitorum, black market,
@@ -744,6 +804,22 @@ The player's picks, day 48: real rifles done in their ammo families. **The round
 ### Combat shotgun, 'Breach Squire' bullpup pattern
 
 **Combat shotgun, 'Breach Squire' bullpup pattern** (uncommon, 5 TV; based on the Escort BTS; the player's pick, Ash on Ostrava day 48; numbers the DM's). **A bullpup semi-auto:** strings of 4, recoil 1; **a 20-round box.**
+
+### Pump shotgun, 'Breach Mainstay' pattern
+
+**Pump shotgun, 'Breach Mainstay' pattern** (common, 2 TV; based on the Remington 870; the player's pick, Ash on Ostrava day 48; numbers the DM's). **The plain pump:** a 7-shell tube, full attachment slots, **Slam.** Strings of 3.
+
+### Breaching shotgun, 'Breach Latchkey' pattern
+
+**Breaching shotgun, 'Breach Latchkey' pattern** (uncommon, 3 TV; based on the 870 breacher; the player's pick, Ash on Ostrava day 48; numbers the DM's). **The door-opener:** a **standoff muzzle;** pressed to a lock or hinge, **one shot opens it, no roll.** No stock, a pistol grip: **Handling +2; -2 past ~10 m.** A 4-shell tube. Slots: laser, grip sleeve and loads only (the standoff is the muzzle).
+
+### Combat shotgun, 'Breach Bulwark' pattern
+
+**Combat shotgun, 'Breach Bulwark' pattern** (uncommon, 3 TV; based on the Mossberg 590A1; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Built to take abuse:** a heavy-walled barrel and a metal trigger guard: **it never seizes** (Neglected, it jams on 1-3, but a natural 1 doesn't seize it). **Takes a bayonet.** A 9-shell tube; **Handling -1;** **Slam.**
+
+### Auto-shotgun, 'Breach Cyclone' pattern
+
+**Auto-shotgun, 'Breach Cyclone' pattern** (rare, 8 TV; based on the Benelli M1014; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Semi-auto and self-cleaning:** strings of 4; a gas system that **only goes Dirty after its second fight.** A **built-in collapsible stock** (switching is free): **folded, Handling +1; extended, +1 on aimed shots.** A 7-shell tube.
 
 ## Shotgun shells (special loads)
 

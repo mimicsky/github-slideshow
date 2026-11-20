@@ -5570,5 +5570,145 @@
   "cat": "armour",
   "rarity": "L",
   "sellers": "AF"
+ },
+ {
+  "name": "Autogun, 'Solid Kestrel' short pattern (based on the SIG MCX RSAR)",
+  "tv": 4,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Submachine gun, 'Solid Mantis' pattern (based on the B&T APC9)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Autogun, 'Solid Jaguar' pattern (based on the IMBEL IA2)",
+  "tv": 2.5,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Autogun, 'Solid Frost' pattern (based on the AK 5)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Autogun, 'Solid Ranger' carbine pattern (based on the Remington R5 RGP)",
+  "tv": 3.5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Light machine gun, 'Solid Simoom' pattern (based on the IWI Negev)",
+  "tv": 12,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Light machine gun, 'Solid Reaper' pattern (based on the FN M249)",
+  "tv": 12,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Heavy SMG, 'Magnum Sidewinder' PDW pattern (based on the SIG MCX Rattler)",
+  "tv": 5,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "BF"
+ },
+ {
+  "name": "Heavy carbine, 'Magnum Shade' suppressed pattern (based on the AS VAL)",
+  "tv": 15,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "BF"
+ },
+ {
+  "name": "Battle rifle, 'Rampart Halberd' pattern (based on the XM7 NGSW-R)",
+  "tv": 25,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Marksman rifle, 'Rampart Dragoon' pattern (based on the SVD Dragunov)",
+  "tv": 8,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Marksman rifle, 'Rampart Overwatch' pattern (based on the M110 SASS)",
+  "tv": 18,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MF"
+ },
+ {
+  "name": "Sniper rifle, 'Rampart Ballista' pattern (based on the FN Ballista)",
+  "tv": 30,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Sniper rifle, 'Rampart Falcon' pattern (based on the CZ 700)",
+  "tv": 10,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Sniper rifle, 'Rampart Arctic' pattern (based on the Accuracy International AWP)",
+  "tv": 20,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Pump shotgun, 'Breach Mainstay' pattern (based on the Remington 870)",
+  "tv": 2,
+  "cat": "stub",
+  "rarity": "C",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Breaching shotgun, 'Breach Latchkey' pattern (based on the 870 breacher)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Combat shotgun, 'Breach Bulwark' pattern (based on the Mossberg 590A1)",
+  "tv": 3,
+  "cat": "stub",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Auto-shotgun, 'Breach Cyclone' pattern (based on the Benelli M1014)",
+  "tv": 8,
+  "cat": "stub",
+  "rarity": "R",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Grenade launcher, 'Thumper' pattern (based on the M320A1)",
+  "tv": 5,
+  "cat": "launcher",
+  "rarity": "U",
+  "sellers": "MF"
  }
 ]
