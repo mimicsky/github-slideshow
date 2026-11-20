@@ -2478,8 +2478,8 @@
   "sellers": "MBF"
  },
  {
-  "name": "10x scope (was the telescopic sight: +2 long shots; -1 hip/snap and inside 15 m)",
-  "tv": 3,
+  "name": "10x scope (was the telescopic sight: +2 long shots, +1 more past ~150 m; -1 hip/snap and inside 15 m)",
+  "tv": 5,
   "cat": "mod",
   "rarity": "U",
   "sellers": "MBF"
@@ -4998,7 +4998,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Combat scope, 3.5x (+1 aimed past ~15 m, +1 more past ~100 m; -1 hip inside ~10 m)",
+  "name": "Combat scope, 3.5x (+1 aimed past ~15 m; -1 hip inside ~10 m)",
   "tv": 2.5,
   "cat": "mod",
   "rarity": "U",
@@ -5054,7 +5054,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Blue laser (+1 hip inside ~20 m, +2 in dark or smoke; nothing in bright daylight)",
+  "name": "Blue laser (+1 hip inside ~20 m; +2 out to ~30 m in dark or smoke; nothing in bright daylight)",
   "tv": 2,
   "cat": "mod",
   "rarity": "U",
@@ -5103,7 +5103,7 @@
   "sellers": "MBF"
  },
  {
-  "name": "Skeleton handguard (+2 swapping; +1 recoil)",
+  "name": "Skeleton handguard (+2 swapping, doesn't stack with another; +1 recoil)",
   "tv": 1,
   "cat": "mod",
   "rarity": "C",

@@ -727,7 +727,7 @@ checks one target; enemies stacked one behind another: only the front one. On th
 ### More attachments (player picks, Ash on Ostrava session 10)
 
 **Optic**
-- **10x scope** (renamed from the telescopic sight, the player, day 48; uncommon, 3 TV): **+2 on long shots**; **-1 on hip/snap shots and
+- **10x scope** (renamed from the telescopic sight, the player, day 48; uncommon, **5 TV**, raised from 3 the same day): **+2 on long shots, +1 more past ~150 m** (day 48); **-1 on hip/snap shots and
   anything inside ~15 m**.
 - **Offset backup sight** (uncommon, 1 TV; mount slot, beside a scope): cancels
   the scope's close-range penalty; **-1 on quick-draw**.
@@ -892,8 +892,9 @@ Designed by the player, Ash on Ostrava day 48 (placed and numbered by the DM).
 
 - **Tube stock** (regular, common, 0.75 TV; stock slot; rifles, carbines, SMGs, shotguns): a bare buffer tube with a
   pad: **+2 on swapping targets; +1 on shots inside ~10 m; but +1 recoil.**
-- **Shot accelerator** (*custom, not traditional: no trader carries this*; a smith's build, parts ~6 TV; accelerator
-  slot; **bullet guns only**: stub, auto, heavy stub, heavy auto, heavy belt stubber and shotguns; **not bolt, las or
+- **Shot accelerator** (*custom, not traditional: no trader carries this*; a smith's build, parts ~6 TV; **barrel
+  slot** (it's built across the barrel and receiver; moved there day 48, so it can't share a gun with a full-barrel
+  suppressor or another barrel part); **bullet guns only**: stub, auto, heavy stub, heavy auto, heavy belt stubber and shotguns; **not bolt, las or
   plasma**). A heater and a pressure chamber on the barrel: **seconds after the trigger it drives hot, compressed air
   in behind the round, throwing it farther and harder.**
   - **One armour step further:** what the round gets through moves one rung (through flak becomes through reinforced
@@ -912,8 +913,8 @@ helps (less kick), +recoil hurts (more kick).** None of these change damage: the
   lifts his eye to the glass. **+1 on aimed shots with an optic on the gun; with iron sights, -1 on aimed shots**
   (his eye sits too high). Only worth fitting with an optic.
 - **Combat scope, 3.5x** (regular, uncommon, 2.5 TV; optic slot; rifles, carbines, SMGs, shotguns, heavy belt
-  stubbers): a short fixed scope with a range ladder etched on the glass. **+1 on aimed shots past ~15 m, +1 more past
-  ~100 m; -1 on hip shots inside ~10 m.**
+  stubbers): a short fixed scope with a range ladder etched on the glass. **+1 on aimed shots past ~15 m; -1 on hip shots
+  inside ~10 m.** (Its +1 more past ~100 m was dropped day 48: a 3.5x shouldn't out-reach a 6x.)
 - **CQC scope, 1.5x** (regular, uncommon, 2 TV; optic slot; rifles, carbines, SMGs, shotguns): barely any zoom, a wide
   window. **+1 on aimed shots inside ~30 m, and +1 on the first shot after a swap; -1 on aimed shots past ~60 m.**
 - **Variable scopes** (regular; optic slot; rifles, carbines, SMGs, shotguns, heavy belt stubbers): a ring twists
@@ -924,7 +925,7 @@ helps (less kick), +recoil hurts (more kick).** None of these change damage: the
     shots and inside ~15 m.** Switching zoom uses his **short move**.
   - **1-9x** (rare, 6 TV; the expensive one): **1x: +2 on aimed shots inside ~30 m. 9x: +2 on aimed shots past ~30
     m, +1 more past ~150 m; -1 on hip shots inside ~15 m.** Switching zoom is **free** (a throw lever). It beats the
-    reflex sight and the 10x scope at their own jobs: that's why it's rare and dear.
+    reflex sight up close and the 10x scope at range: that's why it's rare and dear.
 - **Grip monopod** (regular, uncommon, 1.5 TV; under-barrel slot; rifles, carbines, SMGs, shotguns): a vertical grip
   with one leg inside it. **+1 on aimed shots while braced; the leg drops in the beat's move, no set-up beat; -1 on
   swapping while it's down.**
@@ -932,8 +933,9 @@ helps (less kick), +recoil hurts (more kick).** None of these change damage: the
   low-light optic or night goggles; only someone with that kind of gear sees the beam.**
 - **Green laser** (regular, uncommon, 2 TV; laser slot): bright, and it shows in daylight. **+2 on hip shots inside ~30
   m, day or night; easy to spot: anyone looking for him gets +2.**
-- **Blue laser** (regular, uncommon, 2 TV; laser slot): **+1 on hip shots inside ~20 m, +2 in the dark or in smoke;
-  nothing in bright daylight** (it washes out).
+- **Blue laser** (regular, uncommon, 2 TV; laser slot): **+1 on hip shots inside ~20 m; in the dark or in smoke, +2
+  out to ~30 m; nothing in bright daylight** (it washes out). **The beam shows like a normal laser** (no extra
+  spotting). The green is the loud day laser; the blue is the quiet night laser (day 48).
 - **Scrap scope** (scrap, common, 1 TV; optic slot; rifles, carbines, shotguns, heavy belt stubbers): a tube of
   ground glass on a hose clamp. **+1 on long shots; -1 on hip shots and inside ~15 m. On a natural 1 it slips: no bonus
   until he spends half a beat seating it again.**
@@ -949,7 +951,8 @@ helps (less kick), +recoil hurts (more kick).** None of these change damage: the
   stock): **holds 7 shells; every top-up from it loads 2 more shells than normal** (4 a half beat becomes 6).
   Refilled between fights.
 - **Skeleton handguard** (regular, common, 1 TV; handguard slot; rifles, carbines, SMGs, shotguns): a cut-out frame
-  with rails. **+2 on swapping; +1 recoil** (the bare frame is light and kicks more).
+  with rails. **+2 on swapping; +1 recoil** (the bare frame is light and kicks more). **Doesn't stack with another +2
+  on swapping** (tube stock, light rifle stock): the same effect counts once, but the recoil does stack.
 - **Bio-scanner firing pin** (*custom, not traditional: no trader carries this*; a smith's build, parts ~5 TV; biolock
   slot; any gun with a pistol grip; rare):
   - **Bonding:** at a bench, **both of the owner's full hands are scanned.** It bonds to **one person only.**
@@ -963,7 +966,8 @@ helps (less kick), +recoil hurts (more kick).** None of these change damage: the
     **Fired blind, the trigger pulls dead and his shooting that beat is gone** (his move still happens); a small light
     on the grip then blinks red, so he knows. **Looted after the fight,** he sees it automatically.
 - **Full-barrel suppressor** (*custom, not traditional: no trader carries this*; a smith's build, parts ~6 TV; barrel
-  slot, **and it blocks the muzzle slot**; **bullet guns only**: stub, autogun and heavy stub; rare). The whole barrel
+  slot, **and it blocks the muzzle slot**; **bullet guns only**: stub, autogun and heavy stub; rare; **never with a
+  shot accelerator**, which takes the barrel slot too). The whole barrel
   is built as a suppressor, with gas exits venting out the side of the chamber.
   - **Silent. Recoil -1.**
   - **Jams on a natural 1**, on top of the gun's own jam chance.
