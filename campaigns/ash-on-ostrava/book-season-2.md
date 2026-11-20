@@ -44501,8 +44501,7 @@ bend.
 The searchlight went round and round above them, over the stubble. Its beam never once
 came near the river side.
 
-
-## Chapter 134: Somebody Always Comes
+---
 
 At about 2315 they came to the outfall at the bend, right under the silos.
 
@@ -44765,7 +44764,7 @@ them. Once, looking back from the levee, Tamsin saw the patrol's hooded lamp, fa
 along the ring.
 
 
-## Chapter 135: Whatever's Easier
+## Chapter 134: Whatever's Easier
 
 At about 0055 on day 47 the landing site lay quiet in the standing grain, three and a half
 kilometres downriver of the Ninth. Brenner unslung the vox-caster, ran the aerial up out
@@ -44940,8 +44939,7 @@ Kell came on the vox.
 
 "*Five minutes out. Hollis has the tube. Where do you want it, and where do we land?*"
 
-
-## Chapter 136: Mind Your Ears
+---
 
 "Hit the gate post. Once it blows, the team and us begin the assault. Land in hot."
 
@@ -45210,7 +45208,7 @@ walkers nearest the door lifted their heads and turned, slowly, toward the light
 It was 0347.
 
 
-## Chapter 137: Be the Sword
+## Chapter 135: Be the Sword
 
 The orders went out on the bead.
 
@@ -45562,7 +45560,7 @@ band:
 Brenner looked up from the set with a slow grin. They had bought it.
 
 
-## Chapter 138: My Name's Lenk
+## Chapter 136: My Name's Lenk
 
 "Brenner, pull up the map."
 
@@ -45955,7 +45953,7 @@ toward the hauler.
 It was 1108.
 
 
-## Chapter 139: We Are the Light
+## Chapter 137: Stand and Fight
 
 The Major walked up to the tailgate and stopped six metres off to hear the report, with
 the priest at his shoulder and his guards a step behind. Kreel leaned on the tailgate.
@@ -46573,7 +46571,7 @@ the middle door boomed again under the blows from inside.
 It was 1233.
 
 
-## Chapter 140: Let None Stand
+## Chapter 138: Let None Stand
 
 At about 1234 Tamsin keyed his bead.
 
@@ -46959,7 +46957,7 @@ antitoxin had them right inside the hour. Brenner was waiting too, holding out b
 for the vox spool and Q's slips like a boy at a feast.
 
 
-## Chapter 141: The Seed Is Good
+## Chapter 139: Finally Rest
 
 At about 1340, back aboard, Sallow sat Dace down in the medicae. The frag cuts from Quay 4
 had gone with him through IX and through Fourteen. She cleaned them out, and stitched
@@ -47173,8 +47171,7 @@ Tamsin unchained him and walked him back down the stair to Cell 1, and put him o
 bench across from the Major. The Major looked at Quint's face and knew at once, and turned
 his own face to the wall.
 
-
-## Chapter 142: You Can Finally Rest
+---
 
 Tamsin took the Major out of the same cell next, and up the same stair, and chained him to
 the same cot frame.
@@ -47550,7 +47547,7 @@ and looked Vosk over without much love.
 "Watch the commissar. Got it, boss."
 
 
-## Chapter 143: Born Ready
+## Chapter 140: Born Ready
 
 At about 1520 Tamsin called everyone to the briefing room by the bridge.
 
@@ -47848,7 +47845,7 @@ Then, from behind the door they had shut, a small and sleepy voice:
 "Da?"
 
 
-## Chapter 144: The Home Stretch
+## Chapter 141: The Home Stretch
 
 Tamsin sheathed everything, the knife and the pistol both, and stood in the kitchen
 doorway so that his body filled it. Behind him the lamp burned on the table over the
@@ -48366,7 +48363,7 @@ call, and there were more of the garden's people in Kettle Ford now than when Ta
 Nessa had walked in.
 
 
-## Chapter 145: Light Fire
+## Chapter 142: Light Fire
 
 In the willow roots Tamsin keyed his bead.
 
@@ -48954,7 +48951,7 @@ At a quarter past nine the *Bright Light* came up the river with her landing lig
 and Teo brought her down to hover by the ford.
 
 
-## Chapter 146: Point at the Good Ones
+## Chapter 143: Point at the Good Ones
 
 The *Bright Light* set down in the meadow by the causeway, and her ramp came down, and the
 rest of the Light came off it: Kell's team from Saltbend, Kell and Dace and Ferro and
@@ -49508,7 +49505,7 @@ They put him back on his ring with his hood on, and Davey stayed with his mother
 churchyard.
 
 
-## Chapter 147: It Won't Be Me
+## Chapter 144: It Won't Be Me
 
 Fifteen of them came down the ramp onto the meadow grass, walking or carried, with their
 hoods off and their wrists still cuffed: the poles and backs. Eight of them were from

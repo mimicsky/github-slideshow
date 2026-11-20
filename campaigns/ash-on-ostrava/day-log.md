@@ -4,7 +4,7 @@ Day log for Ash on Ostrava. One bullet per timestamp. At the day's end the day g
 
 Safety-net notes, one line per big scene, deleted once the day's chapter is written (README, End of every in-game day).
 
-- **Days 38-47 are all in the book** (Chapter 120: day 38; Chapters 121-123: days 39-41; Chapters 124-126: day 42; Chapters 127-128: day 43; Chapter 129: day 44; Chapter 130: day 45, to ~0600 day 46; Chapters 131-134: day 46; Chapters 135-147: day 47, to ~0025 day 48). Their tallies are done (days 46-47 in archive.md).
+- **Days 38-47 are all in the book** (Chapter 120: day 38; Chapters 121-123: days 39-41; Chapters 124-126: day 42; Chapters 127-128: day 43; Chapter 129: day 44; Chapter 130: day 45, to ~0600 day 46; Chapters 131-133: day 46; Chapters 134-144: day 47, to ~0025 day 48). Their tallies are done (days 46-47 in archive.md).
 
 ## Day 48
 
