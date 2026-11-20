@@ -5969,5 +5969,159 @@
   "cat": "melee",
   "rarity": "R",
   "sellers": "BF"
+ },
+ {
+  "name": "Buckler (fist shield) (+2 parry only; no cover; doesn't slow his weapon)",
+  "tv": 1,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Target shield (targe) (+1 block, light cover; spiked boss bash staggers)",
+  "tv": 1.5,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Round shield (+2 block, light cover)",
+  "tv": 1.5,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Oval shield (+2 block, light cover; swapping to it is the short move)",
+  "tv": 2,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "African hide shield (Zulu-style) (+1 block, half cover; after a block, his next swing ignores their shield)",
+  "tv": 1.5,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Celtic shield (+2 block, half cover; boss bash staggers)",
+  "tv": 2,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Heater shield (+2 block, half cover; light cover after 4 heavy hits until fixed)",
+  "tv": 4,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Kite shield (+2 block, half cover; covers called shots at the legs)",
+  "tv": 4,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Wankel shield (rounded triangle) (+2 block, light cover; a bash counts as a blade hit)",
+  "tv": 3,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Aspis shield (Greek round) (+3 block, half cover; -1 DEX; can't be knocked away; +1 next to another aspis)",
+  "tv": 5,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Scutum shield (Roman) (+2 block, heavy cover; -1 DEX; +1 block side by side)",
+  "tv": 6,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Coffin shield (tall six-sided) (+2 block, heavy cover; -1 DEX)",
+  "tv": 6,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Pavise (standing shield) (+1 block; planted (short move) heavy cover, hands free; on the back light cover from behind)",
+  "tv": 5,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "Palisade (portable wall shield) (a portable wall: full cover for up to 3 behind it; two carry it; a beat to plant)",
+  "tv": 4,
+  "cat": "armour",
+  "rarity": "U",
+  "sellers": "MBF"
+ },
+ {
+  "name": "War door shield (scrap) (+1 block, heavy cover; STR 40; -2 DEX; breaks after 3 heavy hits)",
+  "tv": 0.5,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Norman shield (scrap) (+1 block, half cover; -1 DEX; breaks after 2-3 heavy hits)",
+  "tv": 0.5,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Polish shield (scrap) (+1 block, light cover; pistol through the notch; breaks after 2-3 heavy hits)",
+  "tv": 0.5,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "B"
+ },
+ {
+  "name": "Swiss wooden shield (+1 block, light cover; breaks after 3 heavy hits)",
+  "tv": 0.25,
+  "cat": "armour",
+  "rarity": "C",
+  "sellers": "MB"
+ },
+ {
+  "name": "Commissar's shield, Gothic engrailed pattern (+2 block, half cover; battle-map screen; vox-mic: his side within ~100 m +3 on break checks)",
+  "tv": 18,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Lieutenant's shield, Victorian pattern (+2 block, half cover; pistol port; lumen)",
+  "tv": 15,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Captain's heraldic shield (coat of arms) (+3 block, half cover; the first hit each fight rolls a refractor)",
+  "tv": 25,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MF"
+ },
+ {
+  "name": "Leader's shield, lozenge pattern (+2 block, light cover; sheath and pack; rally (short move): allies who see it +1 next roll)",
+  "tv": 15,
+  "cat": "armour",
+  "rarity": "R",
+  "sellers": "MF"
  }
 ]

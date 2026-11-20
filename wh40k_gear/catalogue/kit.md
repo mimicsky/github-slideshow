@@ -273,6 +273,98 @@ cover from the front.** Breaks after 3 heavy hits.
 
 **Abilities:** [Plant](abilities.md#plant).
 
+## Shields, more (the player's picks, day 48)
+
+Block goes on the defender's roll in melee; cover is from the front only (codex Gear rules, Shields). **The officers' shields** (commissar, lieutenant, captain, leader) are rare parade pieces: **they sell at full price, and +1 on CHA rolls with nobles and officers while carried,** each with its own twist.
+
+## Buckler (fist shield)
+
+**Buckler (fist shield)** (common, 1 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +2 to parry only (no block bonus); cover: none.** **Fist-sized:** it **doesn't slow the weapon in his other hand.**
+
+## Target shield (targe)
+
+**Target shield (targe)** (common, 1.5 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +1; cover: light.** **A spiked boss:** a shield bash **staggers** (-1 on their next roll; no step).
+
+## Round shield
+
+**Round shield** (common, 1.5 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +2; cover: light.** **The everyman's shield.**
+
+## Oval shield
+
+**Oval shield** (common, 2 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +2; cover: light.** **Slings on the back:** swapping to it costs only the short move.
+
+## African hide shield (Zulu-style)
+
+**African hide shield (Zulu-style)** (common, 1.5 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +1; cover: half.** **Light cowhide:** no DEX penalty. **The hooking edge:** after a block, **his next swing ignores their shield.**
+
+## Celtic shield
+
+**Celtic shield** (common, 2 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +2; cover: half.** **The boss:** a shield bash **staggers** (-1 on their next roll; no step).
+
+## Heater shield
+
+**Heater shield** (uncommon, 4 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +2; cover: half.** **A cheaper forged shield:** it dents: **after 4 heavy hits it's only light cover** until hammered out (a smith, an hour).
+
+## Kite shield
+
+**Kite shield** (uncommon, 4 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +2; cover: half.** **Tall:** **a called shot at his legs still meets the cover.**
+
+## Wankel shield (rounded triangle)
+
+**Wankel shield (rounded triangle)** (uncommon, 3 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +2; cover: light.** **Three points:** a shield bash **counts as a blade hit.**
+
+## Aspis shield (Greek round)
+
+**Aspis shield (Greek round)** (uncommon, 5 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +3; cover: half.** **Heavy:** -1 on DEX rolls. **Forearm grip:** it **can't be knocked away.** **Phalanx:** next to another aspis, **+1 more block** each.
+
+## Scutum shield (Roman)
+
+**Scutum shield (Roman)** (uncommon, 6 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +2; cover: heavy.** **Heavy:** -1 on DEX rolls. **Shield wall:** side by side with another shield bearer, **each gets +1 block.**
+
+## Coffin shield (tall six-sided)
+
+**Coffin shield (tall six-sided)** (uncommon, 6 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +2; cover: heavy.** **Heavy:** -1 on DEX rolls.
+
+## Pavise (standing shield)
+
+**Pavise (standing shield)** (uncommon, 5 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +1; cover: heavy when planted.** **A built-in prop:** **planting it is the short move, hands free** (heavy cover from the front while planted). **Carried on his back:** light cover from behind. In hand: -1 on DEX rolls.
+
+## Palisade (portable wall shield)
+
+**Palisade (portable wall shield)** (uncommon, 4 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block none; cover: full, for up to 3 behind it.** **A portable stake wall, not a hand shield:** **two people carry it** (or one with STR 50+); **a beat to plant;** nobody fights with it.
+
+## War door shield (scrap)
+
+**War door shield (scrap)** (common, 0.5 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +1; cover: heavy.** **A steel hatch rebuilt with grips** (the Improvised shield is any door grabbed in a fight). **Needs STR 40;** -2 on DEX rolls; **breaks after 3 heavy hits.**
+
+## Norman shield (scrap)
+
+**Norman shield (scrap)** (common, 0.5 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +1; cover: half.** -1 on DEX rolls; **breaks after 2-3 heavy hits.**
+
+## Polish shield (scrap)
+
+**Polish shield (scrap)** (common, 0.5 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +1; cover: light.** **The notch:** fire a pistol through it **without losing cover.** **Breaks after 2-3 heavy hits.**
+
+## Swiss wooden shield
+
+**Swiss wooden shield** (common, 0.25 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +1; cover: light.** **Cheap wood:** no DEX penalty; **breaks after 3 heavy hits.**
+
+## Commissar's shield, Gothic engrailed pattern
+
+**Commissar's shield, Gothic engrailed pattern** (rare, 18 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +2; cover: half.** **A built-in screen:** the battle map, unit info and other pict-cam feeds at a touch (he sees what his side's pict-cams see and where they are). **A built-in vox-mic** carries his voice to his side as he fights: **everyone on his side within ~100 m gets +3 on break checks.**
+
+## Lieutenant's shield, Victorian pattern
+
+**Lieutenant's shield, Victorian pattern** (rare, 15 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +2; cover: half.** **Built for the line:** **a pistol port** (fire through it without losing cover) and **a lumen on its face**, switched free.
+
+## Captain's heraldic shield (coat of arms)
+
+**Captain's heraldic shield (coat of arms)** (rare, 25 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +3; cover: half.** **A small refractor in the boss:** **the first shot to hit him each fight rolls against a refractor field,** if he isn't wearing one already.
+
+## Leader's shield, lozenge pattern
+
+**Leader's shield, lozenge pattern** (rare, 15 TV; the player's pick, Ash on Ostrava day 48; numbers the DM's). **Block +2; cover: light.** **The unit's colours and symbol on its face;** **a melee sheath** on the back (a light or medium weapon) and **a small pack** for items. **Rally:** once a fight, **raising it is his short move,** and **every ally who can see it gets +1 on their next roll.**
+
 ## Mesh armour
 
 **Mesh armour** (uncommon, 5 TV; Munitorum, black market, Free Traders; Ash on Ostrava, day 34, DM default;
