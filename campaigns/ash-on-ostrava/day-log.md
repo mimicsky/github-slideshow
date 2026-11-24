@@ -123,4 +123,5 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1420: Tamsin went to the weights corner beside the mat. Morcant was already there, curling an ammo drum, and offered to spot.
 - ~1420-2330: Tamsin: "Haven't got some iron on in a few, let's fix that." He trained at the weights until it was time, six hours under the bar with breaks, Morcant spotting and coaching the first three. Quiet afternoon and evening on the plateau and at the gate; supper at 1900.
 - ~2330: Kit check in the hold; Ollin's coffee from the Rest.
+- ~2332: Tamsin: "Everyone ready? Roof team, do we have CQC kits?" The roof team answered with their close kit: Kell (Officer, the plasma pistol, the chain axe), Varga (Mercy, her sawn-off, the power knife), Morcant (Doorknocker inside; the stubber left in the Valk's door for Mira), Tavi (Tiny and his axe; kraks stay bagged near the vault), Sallow (lascarbine and the sedative needle-blade for taking the bakers alive). Tavi suggested the crate's photon flash and Hollis's two spec flashes for the upstairs rooms.
 
