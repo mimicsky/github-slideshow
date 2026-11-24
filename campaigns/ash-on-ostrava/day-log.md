@@ -121,4 +121,6 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1416: Tamsin: "Need a close gun for when I get too close, what shells do we have? And can you turn these frags into impacts? My old quartermaster used to say all you had to do is mess with the fuze." Ollin: standard shells only, ~320; Last Word and Stinger stay in the cage. Tavi reworked all three frags into impact frags at the bench, two red bands on each cap.
 - ~1418: Tamsin: "I know, that's why I use them. 30 buckshot, Ollin. That's all I need left." Ollin counted thirty shells into a shell belt (the Dunns' six went back in the tin).
 - ~1420: Tamsin went to the weights corner beside the mat. Morcant was already there, curling an ammo drum, and offered to spot.
+- ~1420-2330: Tamsin: "Haven't got some iron on in a few, let's fix that." He trained at the weights until it was time, six hours under the bar with breaks, Morcant spotting and coaching the first three. Quiet afternoon and evening on the plateau and at the gate; supper at 1900.
+- ~2330: Kit check in the hold; Ollin's coffee from the Rest.
 
