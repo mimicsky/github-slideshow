@@ -1699,3 +1699,94 @@ His own story is true as far as it goes: keep him honest but not fully forthcomi
 - **BRENNER'S AUSPEX as they walked in (INT 11 + 4 + 2 auspex specialty = 17 vs 15: GOOD): the count: ~33-35 warm bodies on the Row: the weigh-house ~19 (a knot of ~10 on the ground floor, 1 in the office, 4 upstairs (2 of them barely moving: asleep), 2 below the floor (the vault), 2 at the cart doors); the yard 4 (two by the water-gate, two by the sheds); the cart sheds ~12 in a row (asleep); 2 at the river landing.** The intel's 18 was half.
 - **FIXED (found writing day 48's chapters): PELL IS NOT ABOARD: she lives with Maren in Kesh's house on the Rest (day 42; world.md). The ~0230 day-48 head count listing Pell aboard was wrong (aboard: 19 of the Light and crew, not 20), and the ~0235 scene's 'Dannel asked after Pell; Ollin will keep her in the galley' is struck (left out of the book).** Day 48's chapters: 145-148.
 - **RULE (the player, day 49; his silence taken as a yes): PLACE LOOT by size (small 2-5 / mid 6-10 / big 11-20 / large 21-35 / massive 36-50; search numbers 10 / 13 / 15 / 18 / 21); loot d20 spread over the range (natural 20 = a hidden rare); search d20 + WIS or INT (+1 a searcher): hit all, miss 1-4 three quarters, miss 5+ half; a second search +2. Codex Part 8, Loot.**
+- **~0207 THE WEIGH-HOUSE FIGHT (Tamsin: 'Go go go, move in take them out, it's time to go loud.'). FIGHT CHECKLIST done. BOSS METER d100 71 vs 7%: no boss. ROSTER (rolled now; roll_enemy commoner 6 steady = Halloran's weigh-guards G1-G6; cultist 29 steady nurgle = the Row's garden C1-C29, the mortar team counts two (gunner C1a, loader C1b): 36 fighters + HALLORAN and CORLIS; all start 5.0; the farm hounds are short-track 3.0):**
+```
+(2d20 21: a basic group)
+commoner x6, wealth STEADY, group d20: 16 (+0 = 16)  better-armed: 4
+1. SPECIALIST SHIELD TROOPER (d20 17): PRESET: Riot shield + stub pistol + club | Kukri, 'Forge Bend' pattern | Work clothes, no armour | Fire bottle (scrap) | STR 34 (+3) DEX 12 (+1) | guns Clean
+2. SPECIALIST SNIPER (d20 20): PRESET: Hunter: hunting stub rifle with an old scope | Old PDF flak armour set | Field dressing | STR 24 (+2) DEX 30 (+3) | guns Clean
+3. grunt, melee (d20 15): Scrap axe | no sidearm | Work clothes, no armour | Militia vox-bead | STR 18 (+1) DEX 25 (+2) | guns Clean  ** FOUND/MADE: Grandfather's laspistol (old, kept clean)
+4. SPECIALIST BRUTE (d20 19): PRESET: Big farmhand: heavy scrap axe or a sledgehammer | Padded work jacket | Cracker bundle (firecracker flashbang) | STR 21 (+2) DEX 16 (+1) | guns Clean  ** FOUND/MADE: Mining charge (farm demolition)
+   ++ ATTACHMENTS (25%): Big farmhand: heavy scrap axe or a sledgehammer: CUSTOM Smith-balanced blade (U: +1 on every swing); CUSTOM Curved hardwood grip (C: can't be knocked from his hand by a solid hit) [d100 17, 12, 88]
+5. SPECIALIST BEAST HANDLER (d20 20): PRESET: 3 farm hounds + pump shotgun | Enforcer's truncheon | Work clothes, no armour | Frag grenade (old PDF stock) | STR 24 (+2) DEX 13 (+1) | guns Clean  ** FOUND/MADE: Grandfather's laspistol (old, kept clean)
+6. grunt, ranged (d20 5): Submachine gun, 'Ironside Locust' pattern | Blacksmith's hammer | Work clothes, no armour | Family aquila charm | STR 22 (+2) DEX 19 (+1) | guns Clean  ** FOUND/MADE: A blessed icon from the chapel
+(2d20 26: a basic group)
+cultist x29, wealth STEADY, god nurgle, group d20: 9 (+0 = 9)  better-armed: 1
+1. SPECIALIST MORTAR TEAM (d20 18): PRESET: Light mortar, looted, 6 frag rounds (two-man team) [counts as two: gunner + loader with a lasgun and the ammo] | Gas mask / rebreather | Frag grenade | STR 25 (+2) DEX 30 (+3) | guns Dirty
+   ++ ATTACHMENTS (25%): loader: CUSTOM Stock magazine slot (C: the first reload each fight costs no beat) [d100 20, 93]
+2. grunt, melee (d20 5): Railroad spike knife | Stub automatic | Rags, no armour | Nothing | STR 24 (+2) DEX 20 (+2) | guns Dirty
+3. grunt, ranged (d20 2): Scrap autogun with drum | Dadao two-handed sabre, 'Forge Broadback' pattern | Rags, no armour | Nothing | STR 12 (+1) DEX 22 (+2) | guns Neglected
+4. grunt, ranged (d20 12): Torch-thrower (scrap flamer) | Scrap thunder hammer | Flak vest | Black candles and chalk | STR 23 (+2) DEX 19 (+1) | guns Dirty
+5. grunt, ranged (d20 14): Autogun, Agripinaa | Blacksmith's hammer | Flak vest | Cult prayer-book | STR 30 (+3) DEX 19 (+1) | guns Dirty
+6. grunt, melee (d20 12): Cosh, 'Quiet Night' pattern | Stub revolver | Flak vest | Crude iron cult amulet | STR 10 (+1) DEX 22 (+2) | guns Dirty
+7. grunt, melee (d20 9): Scrap saw-axe | Sawn-off shotgun | Reinforced flak set | Fire bottle (scrap) | STR 19 (+1) DEX 23 (+2) | guns Neglected
+8. grunt, ranged (d20 5): Autogun, Agripinaa | Cosh, 'Quiet Night' pattern | Flak armour set | Frag grenade | STR 28 (+2) DEX 15 (+1) | guns Neglected
+9. SPECIALIST SHIELD TROOPER (d20 19): RANDOM KIT: Arbites suppression shield and an Arbites combat shotgun (shock shells) (his role's weapon, guaranteed) + off weapon: Lasgun, Kantrael M36 (stolen) | Rags, no armour | Crude iron cult amulet | STR 16 (+1) DEX 16 (+1) | guns Neglected
+10. grunt, melee (d20 2): Scrap thunder hammer | Stub revolver | Gas mask / rebreather | Nothing | STR 22 (+2) DEX 25 (+2) | guns Dirty
+   ++ ATTACHMENTS (25%): Stub revolver: Weighted grip (C: recoil -1; -1 quick-draw) [d100 13, 35]
+11. SPECIALIST MUTANT CHARGER (d20 19): PRESET: Mutant claws and extra limbs (no gun) | Cosh, 'Quiet Night' pattern | Gas mask / rebreather + SKIN: flak (under it; a gap shot meets the skin) | Choke gas grenade | STR 27 (+2) DEX 24 (+2) | guns Dirty
+12. grunt, melee (d20 7): Trench club | Sawn-off shotgun | Flak vest | Combat drug 'Frenzon' (dose) | STR 27 (+2) DEX 24 (+2) | guns Dirty
+13. grunt, ranged (d20 8): Scrap autogun with drum | Sledgehammer | Reinforced flak set | Cult gas bottle (gas of their god) | STR 14 (+1) DEX 11 (+1) | guns Dirty
+14. grunt, ranged (d20 10): Autogun, 'Twelve' pattern (scrap) | Scimitar, 'Forge Crescent' pattern | Gas mask / rebreather | Choke gas grenade | STR 22 (+2) DEX 16 (+1) | guns Neglected
+15. SPECIALIST COMMANDER (d20 17): RANDOM KIT: Chainsword and a command vox (his role's weapon, guaranteed) + off weapon: Autogun, 'Bottle-opener' pattern (scrap) | Gas mask / rebreather | Nothing | STR 29 (+2) DEX 15 (+1) | guns Dirty
+   ++ ATTACHMENTS (25%): Chainsword: Leather-wrap grip (C: never slips in wet or bloody hands; disarms against him -2) [d100 5, 82]
+16. grunt, melee (d20 11): Scrap thunder hammer | no sidearm | Reinforced flak set | Frag grenade | STR 15 (+1) DEX 13 (+1) | guns Neglected
+17. grunt, melee (d20 4): Butcher's cleaver (scrap) | no sidearm | Flak vest | Crude iron cult amulet | STR 21 (+2) DEX 12 (+1) | guns Neglected
+18. SPECIALIST MUTANT CHARGER (d20 17): PRESET: Mutant claws and extra limbs (no gun) | Carapace chest plate (stolen; carapace inplate) (leader roll d20 15: keeps it) + SKIN: flak (under it; a gap shot meets the skin) | Cult gas bottle (gas of their god) | STR 23 (+2) DEX 19 (+1) | guns Dirty
+19. grunt, melee (d20 4): Scrumball bat | Stub revolver | Flak vest | Black candles and chalk | STR 22 (+2) DEX 20 (+2) | guns Neglected  ** FOUND/MADE: Krak grenade (stolen)
+   ++ ATTACHMENTS (25%): Scrumball bat: CUSTOM Curved hardwood grip (C: can't be knocked from his hand by a solid hit) [d100 10, 77] || Stub revolver: Under-mount lumen (C: no darkness penalty in the beam; he's lit up too; in a face inside ~5 m in the dark: -2 on their next roll) [d100 10, 37]
+20. SPECIALIST VETERAN (d20 19): RANDOM KIT: Autogun (his role's weapon, guaranteed) + off weapon: Chainsword | Reinforced flak set | Nothing | STR 34 (+3) DEX 10 (+1) | guns Clean (a veteran: never Dirty)
+21. grunt, melee (d20 4): Pry-bar, 'Forge Jemmy' pattern | no sidearm | Flak vest | Crude iron cult amulet | STR 26 (+2) DEX 12 (+1) | guns Neglected
+22. SPECIALIST MAULER (d20 20): PRESET: Two-handed scrap great-axe, carapace plates over flak | Saw-cleaver | Gas mask / rebreather | Black candles and chalk | STR 20 (+2) DEX 13 (+1) | guns Dirty
+23. grunt, ranged (d20 14): Autopistol | Blacksmith's hammer | Flak vest | Frag grenade | STR 12 (+1) DEX 23 (+2) | guns Dirty
+24. SPECIALIST VOX (d20 19): PRESET: Auspex + lascarbine (sees through walls) | Scrap axe | Flak vest | Black candles and chalk | STR 28 (+2) DEX 24 (+2) | guns Neglected
+   ++ ATTACHMENTS (25%): Scrap axe: Leather-wrap grip (C: never slips in wet or bloody hands; disarms against him -2) [d100 14, 78]
+25. grunt, melee (d20 8): Kukri, 'Forge Bend' pattern | no sidearm | Reinforced flak set | Nothing | STR 30 (+3) DEX 20 (+2) | guns Dirty
+26. SPECIALIST DEMOLITIONS (d20 19): PRESET: Mining charges x2 + stub pistol | Gas mask / rebreather | Nothing | STR 23 (+2) DEX 20 (+2) | guns Dirty
+   ++ ATTACHMENTS (25%): stub pistol: Ergo grip sleeve (C: never slips from his hand; disarms against him -2) [d100 25, 40]
+27. grunt, melee (d20 5): Scrumball bat | Stub automatic | Gas mask / rebreather | Frag grenade | STR 18 (+1) DEX 18 (+1) | guns Dirty
+28. SPECIALIST JUMPER (d20 16): RANDOM KIT: Scrap jump pack (homemade; sputters on a 1) (his role's weapon, guaranteed) + off weapon: Autopistol | Rags, no armour | Choke gas grenade | STR 21 (+2) DEX 25 (+2) | guns Neglected
+   ++ ATTACHMENTS (25%): Autopistol: CUSTOM Hollow pop-lock grip (C: one more stimm or bandage inside); CUSTOM One-piece crossdraw rig (C: +1 quick-draw); HP rounds (hollow point) (U: flak doesn't shrug it even at range; against no armour or flak a solid hit drops two steps; reinforced flak and heavier shrug it) [d100 25, 7, 25, 41]
+29. grunt, melee (d20 8): Scrap axe | Stub revolver | Rags, no armour | Frag grenade | STR 16 (+1) DEX 23 (+2) | guns Dirty
+TRAITS:
+G1: Superstitious (-1 on rolls after a bad omen (Morcant's cursed galley)); Retired Raider (-1 on attacks against raiders (old crew; they still look like friends))
+G2: Brave (+1 against fear and intimidation; on a break check he reads the group's roll one closer to fighting on (Breaking and Down)); Retired Raider (-1 on attacks against raiders (old crew; they still look like friends))
+G3: Glass jaw (Wear-down two hits sooner: every 4 shrugged hits instead of 6 (heavy adamantium 6 instead of 8; the power armours 8 instead of 10))
+G4: Night-blind (-1 in the dark, on top of darkness penalties, unless they have a lumen or a low-light optic); Field medic (+1 on their own patch rolls (a medic's patch, or anyone's patch on someone Hurt or Grazed))
+G5: Greedy (-1 to resist a bribe or a shiny bit of loot; may pocket things (an NPC may steal)); Eagle-eyed (+1 on Perception to spot things)
+G6: Quick hands (+1 on quick-draws; clearing a jam costs no beat, once a fight)
+C1: Renowned Traitor (-1 on attacks against traitors (they know the name, and the name hesitates)); Cultist Eradicator (+1 on attacks against cultists)
+C2: Fast healer (Recovers from a wound in less time; +1 on the patch roll when someone patches them)
+C3: Hard to kill (+1 on the patch roll when a medic patches them up from Down; enemies: +1 on the survival d6)
+C4: Eagle-eyed (+1 on Perception to spot things)
+C5: Iron will (+1 against interrogation; if taken, their Will starts 10% higher)
+C6: Fast healer (Recovers from a wound in less time; +1 on the patch roll when someone patches them)
+C7: Eagle-eyed (+1 on Perception to spot things)
+C8: Hard to kill (+1 on the patch roll when a medic patches them up from Down; enemies: +1 on the survival d6)
+C9: Field medic (+1 on their own patch rolls (a medic's patch, or anyone's patch on someone Hurt or Grazed)); Iron grip (Can't be disarmed by a solid hit; +1 on STR to hold on, grapple or keep hold of a weapon)
+C10: Lho habit (Needs their lho-sticks: after ~12 h without, -1 on WIS and INT)
+C11: Strong back (+1 on STR rolls to haul, carry, climb or breach); Runner (+1 on sprints and chases)
+C12: Iron grip (Can't be disarmed by a solid hit; +1 on STR to hold on, grapple or keep hold of a weapon)
+C13: Warp-sick (-1 on all rolls for about an hour after a warp jump or a rough landing)
+C14: Hard of hearing (-1 to notice by sound; can miss a bead call in a loud fight)
+C15: Hesitant (-1 on melee rolls, attacking and defending in the exchange); Slow learner (-0.1 for every 10 hours of training)
+C16: Bad knees (-1 on sprints, chases and jumps)
+C17: Light on their feet (+1 when dodging)
+C18: Light on their feet (+1 when dodging); Handy (+1 on field repairs and fixing jams)
+C19: Strong back (+1 on STR rolls to haul, carry, climb or breach)
+C20: Poor memory (-1 on INT to recall faces, routes, codes and plans); Jumpy (-1 against fear; on a break check he reads the group's roll one closer to breaking (Breaking and Down); startles at loud noises)
+C21: Lho habit (Needs their lho-sticks: after ~12 h without, -1 on WIS and INT)
+C22: Slow reflexes (-1 to act first when it matters who moves first); Restless sleeper (-1 on WIS rolls the day after a short night)
+C23: Claustrophobic (-1 in crawlspaces, vents and tight corridors)
+C24: Hard to kill (+1 on the patch roll when a medic patches them up from Down; enemies: +1 on the survival d6); Fast learner (+0.1 extra for every 5 hours of training)
+C25: Light on their feet (+1 when dodging)
+C26: Slow reflexes (-1 to act first when it matters who moves first); Sickly (-1 on saves against disease and plague)
+C27: Lucky (Once a mission, reroll a natural 1)
+C28: Slow reflexes (-1 to act first when it matters who moves first); Cultist Rememberer (-1 on attacks against cultists (some part of them remembers the chant))
+C29: Fast healer (Recovers from a wound in less time; +1 on the patch roll when someone patches them)
+HALLORAN: Thick-skinned (The first shrugged hit each fight doesn't count toward wear-down); Cultist Eradicator (+1 on attacks against cultists); Sharp memory (+1 on INT to recall faces, routes, codes and plans)
+CORLIS: Thick-skinned (The first shrugged hit each fight doesn't count toward wear-down); Iron gut (+1 on saves against poison, gas and plague); Brave (+1 against fear and intimidation; on a break check he reads the group's roll one closer to fighting on (Breaking and Down))
+```
+  - **POSITIONS (set now, consistent with the hidden placement):** CART DOORS (lane): G6 (Ironside Locust SMG, lamp); G3 (scrap axe, militia vox-bead) went into the office ~0203. OFFICE: G1 (riot shield, stub pistol, club) + G3. VAULT: G4 (brute, sledgehammer, a mining charge) + C17 (cleaver). LANDING: G2 (hunting stub rifle, scope, old PDF flak) + C29 (scrap axe, stub revolver, frag, the lamp). YARD: the mortar team C1a/C1b on the WATER-GATE WINCH-HOUSE ROOF (~40 m downstream, on the quay); C24 (VOX: auspex that sees through walls, lascarbine) by the cart sheds; G5 (beast handler, 3 farm hounds 3.0 each, pump shotgun) in the yard. WEIGHING FLOOR: C13 and C5 awake by a brazier; asleep C2, C3, C4 (torch-thrower), C6, C7, C8, C9 (Arbites shield + shock-shell shotgun), C10. UPSTAIRS: C15 (COMMANDER: chainsword, command vox, scrap autogun) and C20 (VETERAN: autogun, chainsword, reinforced flak, Clean) on the landing; HALLORAN and CORLIS in their rooms. CART SHEDS (asleep): C11 and C18 (mutant chargers), C12, C14, C16, C19 (krak), C21, C22 (MAULER), C23, C25, C26 (DEMOLITIONS: 2 mining charges), C27, C28 (JUMPER, scrap pack). HEMMET in the bakers' house.
+  - **SURPRISE (beat 1): every group that hadn't seen the Light: the yard, the weighing floor, upstairs, the vault, the sheds. ALERT: the landing pair and the cart-door/office guards.** The order's +2 to ONE ally a beat: Tamsin's 'go go go' to TEY (first in contact). KELL'S +1: not yet (in the Valk). The Valk ~2 beats out (Mira, flat out: on the roof beat 3); Teo bringing the ship down over the river (beat 2-3).
+  - **BEAT 1 (~0207):** TEY (ordered, dual hellpistols: +5 DEX +3 gunslinger +3 pistol focus +2 order -3 dual = +10; gun A +1 laser): at C29 (point blank 7 + walking 1 = 8): 9+11 = 20 hit; 7+11-1+2 = 19 hit; 7+11-1+1 = 18 hit; 3+10-1+1 = 13 hit: **C29 DOWN (1.0)**; swap to G2: 11+10-1+1-1 = 20 hit; 5+10-1+1 = 15 hit: G2 3.0 (Hurt). SOREL (hellgun +3 DEX +2 shooting specialty = +5) at G2 (8): 6+5 = 11 hit; 7+5-1+2 = 13 hit: **G2 DOWN (1.0)**; 3rd shot held (no target in view). ISK (Patience: +5 DEX +2 sniper +1 long barrel +1 lens +1 elite sniper +2 range-finder +1 Scion helm = +13; +2 surprise) at the mortar gunner C1a (far 101-130 m: 20): 5+15 = 20 hit (4.0); NATURAL 20 (crit) 36: 2.0; 18+15-1+1 = 33 hit: **C1a DOWN (1.0)**. BRENNER jams the Row's vox: INT 18+4+2 = 24 vs 15: **JAMMED** (the command vox and G3's bead: static). HOLLIS Six Bells frag at the cart doors (~40 m: 20): 13+5+2 grenadier = 20: on the spot; G6 dive 8+1 = 9 vs 13: **G6 4.0 (Grazed)**. ENEMY: G6 (Clean; Locust SMG, strings of 6; +1 DEX) at Hollis behind a tithe cart (~40 m: 15 + light cover 1 = 16): 11 miss, 2, 9, 2, 3 miss, 19+1-3-1 = 16 HIT: Hollis's carapace shrugs the stub (wear 1 of 6). G1 out of the office door behind his riot shield (half cover from the front), shouting; G3 inside, shaking the weighing floor awake ('the Row's boys'); G3's bead: static. Everyone else surprised (no action). **Down: 3 (C29, G2, C1a).** Ammo: Tey 3 + 3 hot-shot (pistol packs), Sorel 2, Isk 3, Hollis Six Bells 1 frag left in the drum (+2 on him).
