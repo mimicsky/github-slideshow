@@ -127,3 +127,10 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~2334: Tamsin: "We should be good, these are light arms, hired guns, not a special team. Should be a piece of cake... I mean. We are a special task force." No flashes taken. ~2340: everyone to the hangar; Teo warming the engines for wheels up at 0030.
 - ~2345: Tamsin boarded the Valk with the roof team to wait out the run in.
 
+## Day 49
+
+- ~0030: Wheels up from Fourteen; the ship held high and dark over the Varn. ~0130 Mira dropped Isk on the west bank; he was in the old chapel tower by ~0145: the landing in shadow, two guards with a lamp at the cart doors.
+- ~0150: Tey and Sorel reached the barge landing; a stone went off the quay wall under Sorel's boot. The garden man on the landing challenged, 'Thorn.' Tey answered, 'Bloom.' Half-believed: 'Who sent you? Halloran said nobody comes by water tonight.' He came down the steps with a lamp, a weigh-guard behind him.
+- ~0203: Brenner and Hollis were stopped at the cart doors; Brenner's 'tithe count, for Reeve Varrow's office' didn't wash ('Varrow's men don't walk the Row at two in the morning... Clear off before I fetch the Row's boys'). They walked on toward the yard end; one guard went inside the office door.
+- ~0206: Brenner's auspex count: thirty-three to thirty-five warm bodies on the Row, about nineteen in the weigh-house (ten on the ground floor, one in the office, four upstairs, two under the floor, two at the doors), four in the yard, about twelve asleep in the cart sheds, two at the landing. Kell asked: go early, or hold for 0230?
+
