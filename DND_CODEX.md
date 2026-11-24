@@ -1265,6 +1265,20 @@ Who counts as **poor, middle or rich**: poor = cultists, raiders, poor militia; 
 
 ### Loot
 
+**Place loot (set by the player, Ash on Ostrava day 49; taken as a yes on his silence).** Searching a place (not the bodies:
+those are looted one by one as before) works in three steps:
+1. **The DM sets the place's size:** **small** (a room, a shack, a vault, a basketball-court area): **2-5 items**, search
+   number **10**; **mid** (a house, a whole deck floor, a small compound, a football-field battlefield): **6-10**, **13**;
+   **big** (several houses, a compound, a light ship, a big farm): **11-20**, **15**; **large** (a ship, a silo farm, a
+   village, ~5 acres): **21-35**, **18**; **massive** (a fight spread over a mile or more): **36-50**, **21**.
+2. **The loot d20 sets how much is there,** spread across the range (1 = the bottom, 20 = the top); **a natural 20 also
+   hides one rare** (as the stashed-rare roll below).
+3. **The search roll** (d20 + WIS or INT, **+1 for each extra searcher**) against the size's number: **hit, all of it;
+   miss by 1-4, three quarters (rounded down); miss by 5+, half.** A second search takes the same time again at **+2**.
+   **Time:** small minutes, mid ~30 min, big ~1 h, large a few hours, massive a day.
+**An item** is a thing worth listing: a weapon, a piece of gear, an ammo crate, a coin stash, valuables, intel; drawn
+by the place's faction and wealth (`wh40k_gear/pools.json`, as shop and enemy gear).
+
 Enemies carry what they plausibly would. **Two separate rare rolls, on purpose (set by the player,
 session 10):**
 
