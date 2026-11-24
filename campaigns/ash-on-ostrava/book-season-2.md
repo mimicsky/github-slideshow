@@ -49927,6 +49927,1317 @@ you for the rest of my life." Then: "And I'll still burn the corner."
 
 "Aye," said Elias Morrow.
 
+
+## Chapter 145: The Bread's Already Eaten
+
+Tamsin unchained Joss Hale and let him go. He climbed the embankment to his family's
+hauler and stood by the cab where his father had fallen, for a long minute, with his back
+to the meadow. Then he walked away up the causeway road toward the Hale farm in the dark,
+alone. It was nine miles.
+
+Elias Morrow was next, the pale old man of the Morrow farm, about sixty, hurt from Isk's
+shooting in the meadow. He did not wait to be asked.
+
+"I came down because the Brother called. I've kept the old man's corner forty years. My
+gran hated it. I should've listened to her... Let me go home, and I'll burn it tonight."
+
+Tamsin uncuffed him.
+
+"Burn it all down... then make sure it never plagues another family again."
+
+"On my gran's grave."
+
+He went up the causeway road after Joss, limping.
+
+The youngest of the farm men came after him: Robb Ashwell, about twenty, an only son, who
+had charged across the meadow with the rest and gone down to Nessa's rifle. He had cried
+all through the naming, and his face was still wet.
+
+"What are you going to do now, son?"
+
+"Go home... Da needs me for the harvest... the corner. In our barn... If he won't burn it,
+I'll ask Elias to come talk to him."
+
+"Tell him you didn't run... you charged face front and went down, then tell him you fought
+for the wrong reason... and if he won't come out of that, I'll come talk to him myself."
+
+"Yes, sir."
+
+He stood up straighter when he said it. He went up the road after Elias.
+
+---
+
+Three were left in the line. The first of them was Saul Priddy, about thirty-five, of the
+Priddy farm, who had come over the bridge behind the shield and gone down to Varga. He was
+a hard believer, and he knelt like one.
+
+"Your reason?"
+
+"The Brother called. On the inland road, that's reason enough... Our fields are fat,
+Interrogator. The rot stays out. My bairns eat. I don't much care what you call the one
+who keeps it that way."
+
+"After all of that you still don't get it?"
+
+"I get it fine... He fed us. Your Emperor never did."
+
+"And when that same god turns innocents into walking zombies with no sense, trapped
+forever in a tox- and maggot-infested shell of a person? Just because someone butters you
+up and makes it seem alright means you turn a blind eye to that much wrongdoing? And
+because the truth hurts, and suffering doesn't sit right with you... I understand that; no
+one wants to be on their knees suffering... starving, big appetite with a weak stomach.
+Ain't got nowhere to go but the one place that makes everything better?"
+
+Something moved in Saul's face.
+
+"Walking dead... I've seen fat fields and bairns with meat on them." Then, slower: "You've
+seen that? With your own eyes?"
+
+"A hundred and forty... Silo IX. Women, children, men. Turned into horned beasts with no
+sense except to eat the nearest thing. Then one the size of a house, hit like a bolter...
+sent me flying into the dirt... then took it down, exploded into guts and maggots, flies
+everywhere. A hundred and forty people trapped in a vault for who knows how long... and
+you tell me you're okay with that?"
+
+Saul said nothing for a long time. Every farm on the Gallow knew the Ninth, the Major's
+silo up the river.
+
+"...The Ninth. Up the river." His voice had gone rough. "I don't know what I'm okay with
+any more."
+
+He looked down at his hands.
+
+"Then be okay defending the ones who matter in this world, because eventually...
+eventually everyone here would have turned into one if it wasn't for us to come and wipe
+them all out... to the people who died today... it could have been a month until they
+marched and took over this entire planet. I'm sorry it had to be me. Dread it... run from
+it. Destiny arrives all the same."
+
+"The ones who matter." Saul nodded, slowly. "I'll go home to my bairns. What I do about
+the corner... I'll know when I'm stood in front of it. I'll not lie to you and promise."
+
+"Good, then don't let anyone else tell you one thing and believe it without question.
+That's why this started; that's how it can be stopped."
+
+Tamsin uncuffed him. Saul Priddy nodded once more and went up the road. He had not
+promised to burn the Priddy corner, and he had not lied.
+
+Owain Garret was about thirty, old Garret's son. His father had been the other man smoking
+by the Hale cab, and Owain had been close enough in the line to hear every word Tamsin
+said to Joss. He had worked out the rest for himself.
+
+"So you got both of them."
+
+"And? Go on, spit it out."
+
+"...Thank you. For telling Joss. To his face... Nobody on this road ever told us the truth
+about anything... I don't hate you. I thought I would. I think I'm going to hate that old
+carving in our barn instead. I'll burn ours. Before Mam's up."
+
+"Just bounce back from this... and protect them."
+
+They uncuffed him. Hale, Morrow, Ashwell and Garret would burn their corners before
+morning. Priddy had not said.
+
+The last of the line was Hugh Mason, about forty, a stonemason from the inland road, who
+worked for every farm on it and owned none. He had been flat behind the fallen shield when
+Isk's shot found him, and he was still badly hurt; Sallow's first patch on him had not
+taken. He was a widower and a quiet man. He had cut the Grandfather's niches in four of
+the barns on that road, and his mason's mark was on all of them.
+
+"Your reason?"
+
+"Same as all of them. The Brother called... Never held a gun. Held a chisel thirty
+years... when I was cutting those niches, the old man's face came out of the stone easier
+than anything I've ever made. Like it wanted to be there. That frightened me,
+Interrogator. Every time... I came tonight because I thought if I stood with the Brother's
+men, maybe that feeling would stop."
+
+"That's what it wants. It wants to be accepted. And it did. Help these people rebuild once
+you're better; go have my medic try and get you right... again."
+
+They uncuffed him, and Sallow knelt by him on the grass and tried again, and this time it
+took. He was only hurt now.
+
+The line was done at about twenty to one. Of the fifteen who had come down the ramp,
+fourteen had gone home or up to the churchyard. Only Dag Holloway still knelt on the grass
+in his cuffs, with Dace and Corvane.
+
+---
+
+They had been talking to him the whole time. Corvane had not got far. Dace, who had no
+gift for talk, had simply told him the truth: how he had held a door at Kasr Holn while a
+world died behind it, and how Tamsin had not killed him for it, but had put a shield on
+his arm and called him brother.
+
+Tamsin came back to them.
+
+"Well?"
+
+"The boy says you don't make fists. You make shields." Dag gave Dace a long look. Then, to
+Tamsin: "If I say yes... what am I?"
+
+"Not another rifle in the ranks... you'll be a part of something bigger. Eventually, of
+course... I can't trust you yet. But you seem to pick up fast."
+
+"Good. Don't trust me. Nobody should." A pause. "Take me, then. In the cuffs, if you want.
+You watch me. I'll watch you."
+
+Tamsin signalled, and Dace took him up the ramp, still cuffed, and chained him to a ring
+in the hold by container two, apart from the others, under his own watch.
+
+---
+
+Cal Breen knelt on the grass by the ramp with Morcant standing over him, where he had been
+since Varga and Isk dragged him back out of the reeds.
+
+"The hell you running from? You want a death wish?"
+
+"From you. From dying. I saw the meadow. I saw what you did to Dunn's house and the
+landing. I thought anyone who'd held a gun tonight was dead by morning... They were
+letting the women go and taking the men aboard. I thought aboard meant a bullet."
+
+"So either risk your chances and get shot for it, or die. Solid choice."
+
+"...When you put it like that. Aye. It was stupid. Twice."
+
+"So far," said Morcant.
+
+"What's your angle... what are you doing with these people? You weren't called out to be a
+good one. So I already have a grudge to put a bullet in you."
+
+Pim had not pointed at him, and Cal knew why.
+
+"Because everyone knew I carried for the Brother on the nights. Not inside. I was the
+porter. I carried the jar crates off the high-field hauler to the vestry door...
+G-fourteen on them, mostly. Some G-nine. And once, in the spring, an old crate with a
+ship's name burned into the slats. *Hesk Tender*."
+
+Tamsin waved Kell over.
+
+"Keep talking and you might walk over to your parents over there."
+
+Cal's eyes went across the meadow, to where his mam and da were.
+
+"That one, the *Hesk Tender* crate... it didn't come on the high-field hauler. It came up
+the river from Saltbend. On one of Hesk's lighters. In the spring. The *Hesk Tender* was
+old Hesk's family coaster, before he had lighters. It still runs the coast. It brings
+things in from the ships that don't come to Hearthgate."
+
+"Hesk," said Kell, low. "The one in the counting room."
+
+Kell had finished Hesk at Saltbend that night.
+
+"You know the chain? Speak it."
+
+And Cal Breen broke, and it came out of him all at once.
+
+"The ships that don't pay the tithe anchor off the salt marsh, below Saltbend. The *Hesk
+Tender* meets them at night. Hesk's lighters bring the crates up the river to Hearthgate,
+to the grain stairs under Silo Row. At night. I saw it, once, poling Renn's punt down in
+the autumn: a Hesk lighter unloading crates with that same stamp burned in, at the same
+stairs, and Halloran's cart waiting at the top. From the weigh-house the jars go up to the
+high field in the Silo's tithe-haulers, the ones that go up empty for the grain. Then down
+to us with the grain. To the chapel. That's all of it, I swear on my mam."
+
+Tamsin took the cuffs off him.
+
+"What are you going to do now?"
+
+"I go to Mam and Da... carry their things... And if you want me, Interrogator... the grain
+stairs, the Hesk lighters, Halloran's cart. I've seen them with my own eyes... I'll be at
+the reeve's hostel... And I'll stop running. I'm done running."
+
+"We'll see," said Morcant.
+
+"Go on, then."
+
+Cal Breen went across the meadow to the haulers, to his mam and da, and he walked.
+
+---
+
+Eight were left on the rings in the hold, and Tamsin went down the row.
+
+Old Haskin, the headman, was about seventy. He had gone down across Dunn's threshold at
+the start of it, and Sallow had patched him aboard, and he sat up against his ring as
+straight as his hurts would let him, and looked at Tamsin as if he had walked in mud on
+his floor.
+
+"So. The butcher of Kettle Ford. I am Haskin. Headman of this village, as my father was,
+and his. You'll address me properly... I've nothing to say to a murderer."
+
+"Addressed? Heretic? What, a man tells you what to do and you believe it blindly, too?"
+
+That stung.
+
+"Dunn advised. I *DECIDED*. Forty years I've been headman. The Brother's blessing was for
+the harvest, and the harvest came every year, fat. That's not heresy. That's husbandry."
+
+"You decided it was okay? To plague and make everything sick? To soak those grains in
+green gunk? To let it all go to shit?"
+
+The pride came off the old man all at once. He had gone to the nights. He had stood in the
+chapel and watched the sacks wetted. His hands began to shake.
+
+"...Plague? The Brother said it was the garden's water. Blessing. It made the grain sweet.
+It made the harvest..."
+
+He stopped. This year the sacks had smelled of old apples.
+
+"Sweet." It was a whisper. "Emperor."
+
+"Good," said Tamsin.
+
+Tamsin took the old man's silver headman's chain and put it away in his satchel. Haskin
+stayed on his ring, for Kesh.
+
+---
+
+Joseph Mott was about fifty, Dunn's cousin and his bookkeeper, a neat, cold man with his
+shoulder bound where Tamsin's chainsword had opened it behind the table. He looked up from
+his ring like a man waiting to be offered terms.
+
+"Negative. I have questions of your faith."
+
+"...I believe in what balances... Whatever was in the Brother's jars, it balanced
+beautifully. So, no. I never believed in his garden. I believed in the ledger."
+
+"Bullshit. You knew. I've heard about what was said at those meetings. Don't lie to me."
+
+Mott conceded it as coolly as a column of figures.
+
+"Knew it wasn't holy water? Of course. Nobody pays triple for blessed grain. I knew the
+Silo was buying something besides bread. I didn't ask what, because the answer would have
+spoiled the arithmetic... But you don't want my confession, Interrogator. You want my
+cousin's ledger. Six years of the Silo's payments, every name and date and Throne. I know
+where it is. You don't."
+
+Tamsin's pistol came up onto him.
+
+"And why should I just let you walk away from this?"
+
+The sweat came out on Mott then, but he went on bargaining.
+
+"Because I'm the only man alive who knows where it is. Dunn's dead. Kill me, and six years
+of the Silo's paper burns with me, and your Inquisitor gets a story from farmers instead
+of a ledger with names... I'm not asking to walk away. I'm asking to live. In whatever
+cell you like."
+
+"Came here to take out the Sixth and did it... nothing about the silos is a priority for
+me... this mission wasn't even a priority, but I wanted scum like you eradicated off the
+world."
+
+It was a lie, and Mott believed every word of it. His bargain was worth nothing, and he
+knew it, and he panicked.
+
+"*UNDER MY HEARTH.* My house, the north lane. The second hearthstone from the left, the
+one with the crack. Lift it with a knife. It's in an oilcloth. Take it. Take it, please."
+
+Tamsin nodded to Kell, and Kell sent Sorel and Hollis to Mott's house on the north lane.
+
+---
+
+The herder was Odo Brack, about fifty, Dunn's man for the stock and the driver of the
+high-field hauler. He had gone down in the lane to Tamsin's first string, by Tobin's body,
+and had been carried into the chapel nave. He had not forgotten.
+
+"You. Fifteen metres up the lane, flat on Dunn's floor. I'd have had you in another
+breath. I'd worked out the angle."
+
+"A cocky one, aren't we? It do always be the shit ones who make post-game excuses..."
+
+"Not an excuse. A fact. You shot first. I'm the one on the floor... Ask what you came to
+ask, Interrogator."
+
+"Who loaded the jars up on the high field? I know it was you."
+
+"I drove. I didn't load. Nobody from the river loaded, up there. The Sixth's men loaded,
+in the Fourteen yard, under a sergeant. Kroll. Big man, bad skin."
+
+"You drive every harvest... you know the plateau, the road, and the people."
+
+Brack gave him one more piece, grudgingly.
+
+"...Halfway up the plateau road there's an old tithe-barn. Tarrow's. The Silo's empty
+haulers wait there for the night run up. A man called Ennis signs them through and swaps
+the drivers' chits." A beat. "Still there, I'd wager. Nobody's burned Tarrow's."
+
+"And why did you pay out of your own pocket?"
+
+"My pocket? I never paid a copper of it. Dunn paid me. Out of his own purse, not the
+Silo's... So it was Kettle Ford's hauler, with a Kettle Ford driver, carrying Kettle Ford
+grain... The Silo never wanted its name on anything that went up that road. Only on what
+came down."
+
+"So after here and now, you die here, what's left of you? What does any of this provide
+for anyone except suffering?"
+
+Brack was quiet a long while.
+
+"What's left. A road I could drive in the dark. Dunn's stock. A dog that died last
+winter." A breath. "Nothing. You're right. Nothing but a hauler going up empty and coming
+down heavy."
+
+"Plain? Alright. The scheme on Gallowmere is over; the Lamps are never going to happen, so
+what's the point of fighting any more... you've failed, and if that's what you want to die
+as, and people knowing you as... fine by me."
+
+Brack looked at the deck, and gave him the rest of the road.
+
+"...Ennis has two lads. They drive the Silo's haulers up from Hearthgate. And at the top
+of the switchbacks there's the Widow Asa's farm. She feeds the drivers. Keeps the
+Brother's corner bigger than any barn on the river. A whole shed of it. That's the road.
+Ennis, his lads, the widow. And Kroll at the top, if he's breathing."
+
+---
+
+Dominic Garrow was the leader at Lowmere, the one Varga's team had brought in: about
+fifty-five, the grain factor of Lowmere's Corn Exchange, fat and frightened, rubbing at
+hands still numb from Varga's cuffs.
+
+"Tell me about the flour you sell the Silo."
+
+"...It goes down on my barge, the *Garrow's Pride*. Eighty sacks... docks at the oven
+halls' water-gate under Silo Row at dusk. Master Baker Hemmet signs for it. Thirty bakers.
+The troughs. The ovens fired by midnight. The loaves out on the tithe-carts at dawn."
+
+Tamsin laughed.
+
+"Master Baker? Seriously... what troughs?"
+
+Garrow's eyes had gone to the side when he said it, and he knew Tamsin had seen.
+
+"The kneading troughs. Forty of them, in the oven halls. At midnight Halloran's men come
+through the water-gate with a handcart. Covered jars. Hemmet sends the bakers out into the
+yard for a quarter-hour. 'The Silo's blessing is private.' Halloran's men go trough to
+trough. Then the bakers come back in and knead. I saw it once. Last year. From my barge,
+through the open doors. I never asked. I sell flour."
+
+Sorel and Hollis came up the ramp then with Dunn's ledger in its oilcloth. It had been
+under the cracked hearthstone, where Mott had said it would be.
+
+Tamsin read it there in the red light of the hold. It was a fat leather book, six years in
+Mott's neat hand. The Silo's feast-grain money came in every harvest through Sallis &
+Daughters on the Quay of Weights, at triple the tithe rate, and the sums grew every year.
+Twice a year there were the Ninth's garrison purchases, co-signed *O. Vane, Lt.* Every
+spring there was *salt carriage, Saltbend, forty barrels* going out. Brack's fuel and wage
+were there; and the chapel's lamp oil, and the Brother's stipend; and seed gifts to the
+outer field at sowing. There were no jars in it, and no ships, and not a word of the
+nights.
+
+Tamsin looked up from it at Garrow.
+
+"You have no idea about the operation here?"
+
+"...Lowmere's lot met at the Exchange at night. Thorn and Bloom at the door. Our part was
+the flour. Grind it clean, get it to the water-gate on the eve, on time, untouched, under
+guard. The Silo paid triple, through Sallis and Daughters, same as Dunn. And every year
+before the Lamps, Halloran's clerk came up to the mill to inspect it. To see it was all
+clean, he said. The Silo wanted the flour clean, so the blessing would take."
+
+"That's too unprotected... what's stopping me from walking in there right now and taking
+the place for myself?"
+
+"...Nothing I know of. Except the Watch... the Silo pays them... And if Halloran hears
+you're coming, those jars are in the river before you're through the door... If it were
+me, I'd want him not to know I was coming until I was already standing in his office."
+
+"They have the Lamps in seven days... they won't throw anything away, or they fail their
+mission. And then it makes my job easier."
+
+"...True... Unless they think it's all blown... he moves them. Somewhere you don't know
+about."
+
+"I'll keep you for now... we can do business together, yeah?"
+
+Garrow's face came up with a shaky, hopeful smile.
+
+"Business. Yes. Yes, Interrogator, I'm a man of business. Name the terms. My barge, my
+name at the water-gate, whatever you need."
+
+They kept him aboard.
+
+---
+
+Aubren Fenn was Varn Quay's, the one Hollis's team had taken: about forty-five, the Master
+Tithe-Weigher of Varn Quay, without a mark on him. He was cold and precise, and he spoke
+to Tamsin the way he must have spoken to farmers at his scales.
+
+"I see you've been talking to the farmers... I'm a weigher, Interrogator. I record what
+passes over my scales. That's all."
+
+"I just got information out of everybody here... twenty-plus people... and you want me to
+believe all you do is record what passes over... let's skip the bullshit. Now tell me
+about the salt."
+
+"Salt." A thin smile. "In the Silo's books it's brine. Forty barrels every spring: 'brine
+for the salting of grain sacks against weevil.' I audit the Silo's books for the
+weigh-guild every year. I signed it. Forty barrels that never touched a sack, and never
+weighed what brine weighs." He held Tamsin's eye. "I noted the discrepancy. Privately.
+Then I signed."
+
+Tamsin's hand went to his gun.
+
+"Hmm, honestly don't know why we even captured you... wasted my own team's time. I got the
+information I need, and that's all that matters."
+
+"You haven't, Interrogator. You've got farmers' stories and Dunn's money... My notebook.
+Your grenadier took my weigh-books. He didn't take my notebook. It's sewn into the lining
+of this coat, left side. Six years of what the Silo's 'brine' barrels really weighed,
+spring by spring. Subtract the barrel, subtract the brine, and what's left is what was in
+them. You can count the jars with it."
+
+The pistol came up and rested on his forehead.
+
+"I have all the resources in the world, and you think you're the only one who can read a
+book?"
+
+The coolness cracked, a little.
+
+"No. Your tech-priest could, I imagine." A breath. "Halloran. I trained with him in the
+weigh-guild. Creature of habit. Every night, at the second bell after midnight, he goes
+down into the vault alone to read the cold room's gauges. Alone. Ten minutes. If you want
+him with the jars and nobody else, that's when."
+
+Fenn was kept for Kesh, with his notebook still in his coat.
+
+---
+
+Last of all was Brother Aske.
+
+He had been Kettle Ford's preacher for twenty years, and he was about fifty-five, badly
+hurt from Tamsin's bolt shells, with the old thorn scars white on both his forearms. He
+lay against his ring with his eyes half shut, and when Tamsin came he opened them and
+smiled at him like a father.
+
+"Ah. The Interrogator. The one who stood in our meadow and spoke the Grandfather's true
+name aloud, for all to hear. Thank you, my son. Do you know how long I waited for someone
+to say it here? Twenty years, I've sung his hymn on this river under a borrowed face. And
+you said it for me."
+
+"Too bad he'll never know your name... led a smart attack on me just to fail imminently. I
+beat you; your Grandfather is much pleased with your failure of a plan here."
+
+Aske laughed softly, delighted.
+
+"Pleased? Oh, my son, he is. He loves failure. Everything fails. Everything rots. And from
+the rot, the garden grows. You haven't defeated us. You've composted us." He let out a
+wet, happy breath. "And six years, Interrogator. Six harvests. Six Lamps."
+
+"Six years ends today. Nothing else keeps this going: jar production is stopped, all the
+other leaders are stopped, the Sixth keeping everyone at bay is stopped. And we have the
+girl... she's a part of the Emperor now... happy for once, rid of all the plague. So your
+people feast on nothing."
+
+For the first time the smile faltered.
+
+"The Bloom. You have the Bloom." Then it came back colder, and certain. "Then the word
+will wake them with no gardener to tend them. Wild. Untended. Six years of seed, and no
+one to shepherd the harvest."
+
+Tamsin grabbed him by the coat.
+
+"What does it wake... tell me now."
+
+Aske did not need breaking. He wanted Tamsin to know. He smiled up into his face.
+
+"The seed, my son. In every belly in Hearthgate that ate a Lamps loaf these six years.
+Sleeping. Patient. And when the Governor stands on the steps and says the seed is good, it
+wakes in all of them at once. And the garden blooms inside them, and they walk his fields
+with flowers in their mouths. Like the Ninth. You saw the Ninth. Now think of a city."
+And, softly: "You can't un-feed a city, Interrogator. Burn every jar on the river. The
+bread's already eaten."
+
+Tamsin punched him full in the face and let him drop.
+
+Brother Aske went down against the cargo ring, unconscious, his nose broken, still
+breathing, and still smiling. They called Sallow to him. Kesh would want him alive.
+
+---
+
+At about 0142 Tamsin went up to the bridge and had one of the five astropaths send to
+Kesh.
+
+*Hearthgate seeded. Dormant plague in the people, six years of Lamps bread. Governor's
+Lamps address, first Lamp, speaks the trigger word: 'the seed is good.' Goes out on city
+vox-horns. Wakes plague city-wide. Governor is a dupe. Vials secured: 'Gift of the
+Grandfather.' New dose baked at Silo Row, eve of the Lamps. Light will stop the Silo and
+the Governor. Need orders. Need a cure.*
+
+It went out clean. Afterwards the astropath bled from the nose, and Sallow was sent for
+again.
+
+At about 0154 Tamsin went down to the churchyard gate, where Bet Fell stood with the
+people of Kettle Ford behind her, and put the sack of fifteen hundred Thrones and old
+Haskin's silver chain into her hands. He said nothing at all. She looked down at the chain
+for a long time. Then she put it over her own head.
+
+"Varga will go with you... and come back with the boy. I'd say goodbye forever, but you'll
+hear and see of me again... I apologise."
+
+He walked away.
+
+Varga climbed into the lead hauler's cab with Mercy across her knees. Pim rode in the back
+beside his mother. At two in the morning the five haulers of Kettle Ford pulled out down
+the river road toward Hearthgate, their lamps swinging, and the men in the backs still had
+their hats in their hands.
+
+
+## Chapter 146: Be Something
+
+At about 0202 Tamsin went back aboard to the medicae.
+
+Commissar Vosk lay strapped to the treatment couch with a tube in his arm, and Dross's
+coat, too big for him, hung on the hook by the door. Tey sat by the door to watch him.
+
+"You're lucky kid. Anyone else and you've been dead by now. Any later on that infection
+and you'd be in too deep. And you were able to go down and live... you're the luckiest
+person I know... other than me of course."
+
+Vosk let his head fall back against the thin pillow and stared at the ceiling. A muscle
+worked in his jaw.
+
+"Lucky." He said it slowly, as if it were a word in another language. Something that might
+have been a laugh shook his chest and turned into a cough. "I shot the best man I ever
+knew in the back, Interrogator. Because a captain told me to." Lower: "Then I let a god
+crawl into my skin because everyone else had. And you call me lucky."
+
+He turned his head on the pillow. His eyes were wet.
+
+"...Maybe I am." It was barely audible. "Dross used to say a man's luck is just the
+Emperor giving him one more chance to do the right thing. I never believed him." He
+swallowed. "What happens to me now? When your Inquisitor comes?" A pause. "I'm not asking
+for mercy. I just want to know."
+
+By the door Tey said, very quietly, to no one: "...Huh."
+
+Tamsin turned back to the couch.
+
+"I did something that anyone would have been killed for... on the spot. But yet I'm here
+and spared by Kesh." He let that sit. "Corv followed a man and did it because he had
+orders. Kesh let him go." And then: "You're one more case of that I bring her. And she
+knows I'm good at converting lost causes. I've got a team of a bunch of them at this
+point."
+
+At Corvane's name Vosk's eyes flicked toward the door. At *a team of a bunch of them*
+something shifted in his face: the look of a man who had stopped looking for a door, and
+had just noticed there might be one.
+
+"...A team of lost causes." He almost smiled. "Commanded by a man who should be dead."
+
+He was quiet a moment, breathing carefully around the tube in his arm.
+
+"Dross would've liked you, I think." It came out rough. "He used to say the Commissariat
+shoots too many of the wrong men and not enough of the right ones." He looked at the coat
+on the hook. "If she lets me..." He stopped, and started again. "If she lets me, I'll wear
+his coat properly. I'll earn it this time." He closed his eyes. "Thank you, Interrogator."
+
+By the door Tey gave Tamsin a tiny nod.
+
+"You come on my team and don't shoot my team though... you shoot the other team... and you
+make damn sure you inspire the team just as much as me and Kell do... you've been given
+one last lucky chance, I hope you don't disappoint."
+
+Vosk opened his eyes and held Tamsin's, and for the first time that night his voice was
+steady.
+
+"The other team." A short nod against the pillow. "Understood, Interrogator." A pause.
+"I'll not disappoint you. Or him."
+
+His eyes went to the coat on the hook.
+
+As Tamsin went out past him, Tey raised his eyebrows and mouthed it: "...Another one?"
+
+---
+
+Tamsin found Ollin Brake in the old cargo office by the stair head, under one hanging
+lamp, with his slate and three ledgers open and a pencil behind his ear. He was counting
+the night's haul off a list, and the crates of captured kit were stacked to the ceiling
+around him.
+
+"Boss." He set the pencil down. "Thirty-six men's worth of guns, armour and grenades, a
+powder chest, and a bolt pistol somebody rebored in a cowshed." A sigh. "And Sallow says
+I'm out of bandages." A pause. "What do you need?"
+
+"Write me in three new kits for three new people... you know who. Tell me what we have to
+give them, I'll assign kits."
+
+Ollin did not need telling. He tore a fresh sheet off the pad and wrote three names across
+the top.
+
+"The commissar, the punt lad, and the big one in irons." The pencil stopped over the
+third. "Holloway's still on a ring in the hold, boss. I'll lay a kit out for him, but it
+stays in my cage till you say he's ours." He flipped back through the ledgers. "The
+commissar's own gear's in the Nine crates: his bolt pistol, his chainsword, the carapace
+he had on. The coat's on the hook in the medicae." He ran his pencil down the columns.
+"The river lot's junk, mostly: stub revolvers, pump guns, farm autoguns, flak that's been
+sat in. I wouldn't put the lad in any of it." He turned the ledger round so Tamsin could
+read it. "Here's what's worth giving."
+
+"Wait, hold up, does everyone in the Light have full kits so they cover their body... and
+what's the difference from the storm trooper and the regular carapace?"
+
+Ollin pushed his lenses up his nose.
+
+"Near enough, boss. Everyone on the line wears a full set: chest, back, arms, legs. The
+grey plate. Kell's lot came in theirs, Dace and Morcant in the heavy." He counted on his
+fingers. "Four who don't. Nessa's got a chest plate over her mesh and no helmet; that's
+how she likes it. The two pilots fly in flak vests. Ferro's in his robes, flak-weave all
+over. And me in my coat, but nobody's shooting at me."
+
+He lifted a grey-green chest plate off the nearest stack and knocked on it with a knuckle.
+
+"Storm trooper and regular? Same plate, boss. Stops the same rounds. The storm trooper
+kind's the Tempestus pattern: cut closer, better made. Shoot the both of them with a
+stubber and you get the same answer." He set it down. "Difference is, half of Fourteen's
+have got holes in them. I'll pick out the whole ones."
+
+"Add to the sheet: we give Ferro a storm trooper carapace he can take apart and make
+armour for himself."
+
+Then Tamsin went down the list.
+
+"Alright, for Pim: full carapace, a hellgun, two mags, and a bayonet. Vosk... if Kesh
+allows. Hellpistol, two mags, one chainsword; he can have his back. The other one, the
+penitent: full carapace and a lasgun with two mags." He looked up from the ledger. "What
+do you think?"
+
+Ollin wrote as Tamsin talked, the pencil scratching down three columns, and then a fourth
+line at the bottom for Ferro.
+
+"Ferro'll have it in pieces before I've got it down the stairs." He tapped the hellgun
+line. "The lad. It's a lot of gun for a boy off a punt, boss. It kicks hotter than a
+lasgun and it drinks packs. He'll want Kell on the range with him before it goes out a
+door. And Sallow's still to see to him first." The next line. "The commissar. That's my
+only hellpistol, and it's a good one. Better than the bolter: I've thirty-nine bolt rounds
+to my name." He looked up. "No plate for him? His own carapace is in the Nine crates, the
+storm trooper set." The last line. "And the penitent: lasgun and a full set, same as
+Dannel and Joren got. It sits in my cage till you say." He finished writing and looked up.
+"Helmets and rebreathers on all three, same as the rest of the Light? The penitents never
+got theirs."
+
+"Yeah, give him back his carapace, but have those all cleaned and painted."
+
+Ollin wrote it in and underlined it twice.
+
+"Grey plate, white trim, same as the rest. Any marks on the commissar's ground off first."
+He glanced at the stacks. "Helmets I've got, a crate of them. Rebreathers I haven't, boss:
+they've been on the buy list since Dannel and Joren, and now there's five. There's one gas
+mask off the Quay Four lot if somebody's desperate." He tucked the pencil behind his ear.
+"Ferro's set I'll leave alone till he's done cutting it. The rest'll be dry by first
+light."
+
+---
+
+Mira was in the side hangar, sitting on the Valk's open ramp under the work lamps, with a
+tin of Ollin's stew going cold beside her and the flight log on her knee. The Valk's white
+flank was pocked grey down the river side where the stub rounds had hit and skipped.
+Nothing had gone through. Two of the multi-laser's charge packs lay dead on the deck, and
+the third was on the charger, its light blinking amber.
+
+Mira looked up.
+
+"Boss." She tapped the log with her stylus. "Bird's fine. Paint's not. Couple of pocks
+down the river side, nothing through. Two packs flat, one charging; she'll fly in an hour
+if you need her." She went back to the log, and then didn't. "And if somebody's fetching
+Varga and the boy off the Hearthgate road in the morning, it's me. Teo'll want it. He's
+not getting it."
+
+"Sounds good to me. You can go and get 'em."
+
+Mira grinned for the first time that night, and wrote it straight into the log.
+
+"Logged." She did the sums on the back of the page without looking up. "Convoy does forty
+an hour if the farm boys don't ditch one. Gannet Cross is a hundred and ten down, where
+the river road meets the high road; they're there about quarter to five, and that's where
+Varga turns back. Wheels up half four, I'm sat at the Cross before the haulers are, home
+by half five." She picked up the cold stew at last. "I'll raise her on the Valk's vox when
+I'm close. The bead won't reach." A mouthful; and then, very pleased: "Teo's going to
+sulk."
+
+---
+
+Nessa was alone in the galley under the one lamp left burning. Her bad leg was up along
+the bench with Sallow's fresh dressing white on the thigh, and a mug of recaf was going
+cold at her elbow. The Sisters were laid out on a cloth in a neat row, and she was oiling
+them one at a time, with the boy's service pistol stripped beside them.
+
+She did not look up.
+
+"Boss." She ran the rag down a blade and held it to the lamp. "Sallow says the leg stays
+up for a day. I told her an hour. We settled on her not finding out." She laid the knife
+down and picked up the next. "Two of us against a whole village, and the only one who got
+shot was me. Lovely." Then she did look up, flat and dry. "What do you need?"
+
+"I'm not proud of tonight. I should've just went straight for Dunn. And then everything
+would have solved itself then."
+
+Nessa set the knife down on the cloth, and did not pick up the next one.
+
+"No. You shouldn't have." Flat. "But not Dunn. We did go for Dunn. Tower first was right;
+that lookout had a horn, and if he'd blown it with us in the lane we'd have had the whole
+village on the Dunns' step before we got the door open." She turned the mug a half-turn on
+the table. "Where it went wrong was after. Ten to seven we had him cuffed and gagged on
+his own floor, his minder dead and nobody the wiser. We could've walked him out the back
+to the willows and been gone. You wanted the ones who came for him." A shrug. "So we
+stayed. And they came. And then they kept coming."
+
+She picked the rag back up, but did not use it.
+
+"I said nothing. I wanted it too." Quieter: "So don't go carrying it on your own. It was
+two of us in that house." A beat, and the old dry note came back. "And for the record,
+boss, the bit where you went out a window with a village behind you? Ugly. Really ugly.
+We're doing that one again."
+
+"But I had to take innocent lives... people who don't even want to fight, and now they
+will never fight again. And women who didn't deserve it but... it had... it had to be
+done."
+
+Nessa was quiet a long moment. The rag stopped.
+
+"The one in the back room was my dart." She said it to the knife, not to him. "I put her
+down, you wedged the door, and their own fire did the rest. Nobody in that house meant it.
+She's still dead." She set the Sister down very carefully, square with the others. "The
+wife at the supper table, I don't know. Maybe she screams, maybe she doesn't. You had
+about a second to find out, and if you'd guessed wrong it's us on the cobbles and old Dunn
+walks down to his punts in the morning." A breath. "That's not the same as it being right.
+It's just what it was."
+
+She pushed the cold recaf across the table to him.
+
+"Here's what else it was. Thirty-four of them rolling down to Hearthgate with fifteen
+hundred of our Thrones and a headwoman. Fourteen men you let walk off your ramp tonight. A
+punt-boy in the hold who'd be dead in the reeds if you hadn't stopped and asked his uncle
+a question. And a city that isn't going to bloom." She picked the rag back up. "I ran guns
+for Thask for two years, boss. I know what the other kind looks like. The other kind
+sleeps fine." Flat. "If this sat easy with you, I'd be off this ship."
+
+"It's just... seeing these people hurting, and war and death... fighting for a cause you
+don't know anything about. It reminds me of where I came from... my past."
+
+Nessa said nothing for a while. She turned one of the Sisters over in her fingers, and the
+lamp ran along the edge.
+
+"Cadia," she said at last. It was not a question. She laid the blade down. "I grew up on a
+hauler, boss. Nine years running guns through the dock rings. Lasguns in crates, stubbers
+in the grain, whatever paid. Wars on worlds I never set foot on, for causes I never asked
+about." A short, humourless breath. "Never once asked who they'd be pointed at. Those
+people in the reeds tonight with their pitchforks and their old stubbers? Somebody like me
+sold them those."
+
+She looked at him then, properly, without the dry edge for once.
+
+"You've never told me. Not really." A pause. "You don't have to. But I'm sat here with my
+leg up for a day, apparently, and I'm not going anywhere."
+
+"Before Cadia, before everything."
+
+Then he told her.
+
+"Told them I was gonna be something, that broke shit made me sick, ain't had nowhere to
+run, I was in those streets running... we had nothing when I was younger. And I remember
+my parents working day and night for a few Thrones that made me everything, I was in the
+under decks every day, grinding for them... stealing what I could and buying and selling
+whatever I could get my hands on. Then one day, I got caught, but the man who caught me
+was an officer... a man of the Militarum. He told me I should look for something else in
+life and to go for it... if I did it I could make a change in the world. I thought about
+it and forgot about him and kept grinding... then one day, one day my ma and da got caught
+up and owed some money. They didn't have enough, so the men killed them for it... I was
+there alone and was lost... so I joined up and told myself I was going to be something."
+
+Nessa listened without moving. When he got to his ma and da, her hand went still on the
+cloth.
+
+"Debt men." Very quiet. She knew the type. "I ran guns for one, two years. Thask had a
+dozen like that on his books. Walk in, count the money, and if it's short..."
+
+She did not finish. She was quiet a moment.
+
+"So you joined up to be something." She almost smiled. "Corporal Rook." A beat. "And the
+officer? The one who caught you. Ever see him again?"
+
+"Never. I was seventeen, eighteen at the time, I don't remember who he was." A pause. "But
+I'll always remember. Be something... make an impact, stand for what's right, stand and
+become the Emperor's light. So I did."
+
+Nessa looked at him a long moment.
+
+"The Emperor's light." She said it slowly. "So that's where it comes from. The ship. The
+Light. All of us in grey with the white trim." She picked up the next Sister and started
+oiling it again, slow. "You know what you did, boss? You went and found a ship full of
+people like you were at seventeen. A gun-runner, a pair of traitors, a commissar who shot
+his own teacher, and a punt-boy with a pitchfork. And you told every one of us the same
+thing that officer told you." She did not look up. "Be something." A beat. "Works better
+than you'd think. Don't let it go to your head."
+
+"Never once let it go... I still remember that promise to my parents... to be something.
+It's just, happy I did it. Nobody ever gave me nothing. I remember my dad, he was a
+sharpshooter once with a stub pistol, he was with the men and enforcers, then we got
+kicked out and had to work. He always said to them, only thing that matters is family, and
+your gun... 'Thirty in the mag, you get body-bagged, I'm just gon' keep dumpin'.'"
+
+Nessa's rag stopped halfway down the blade.
+
+"Family, and your gun." She said it like she was reading it off a wall. Then she actually
+looked at the galley wall, where the Light's creed had been chalked up since the Rest and
+nobody had ever wiped it: *know your weapon, make it yours; family looks after family.*
+"Throne, boss. Your da wrote half the rules in here and never set foot on the ship."
+
+She shook her head slowly and went back to the knife.
+
+"Explains why you shoot a stub pistol like it owes you money." A beat, quieter. "He'd be
+proud. Don't make me say that twice either."
+
+"Just hope I can reach everyone else too."
+
+Nessa set the last Sister down in the row and wiped her hands on the rag.
+
+"You won't." Flat, honest. "Not all of them. That smiling thing in the hold isn't coming
+round, whatever you say to him. Some of them sleep fine." She folded the cloth over the
+knives. "But you took a collar off my neck on day thirteen, and I'm still here oiling
+knives at two in the morning. So." A shrug. She tipped her head at the door. "Kesh's
+answer's due, boss. Go on. I've got a leg to keep up."
+
+---
+
+Kell was at the top of the ramp, on watch, sitting on an ammo crate with Officer across
+his knees and his Scion helmet on the deck beside him. Below, the meadow was dark and wet
+with dew. Across the water the village was black too, all but the Dunns' house, still
+glowing red in its shell, and the long smudge of smoke from the grain shed lying flat
+along the river.
+
+Kell did not turn his head.
+
+"Brother." He moved over on the crate to make room. "Hold's quiet. Morcant and Dace have
+the rings. Sorel's out on the meadow edge with the low-light. Nothing moving over there
+but dogs." A pause. "Convoy got off clean. Varga checked in at quarter past. They're on
+the river road."
+
+Tamsin sat down beside him.
+
+"Known me that long... did you really think I was going to?"
+
+He meant the churchyard, at about twenty past ten, when Kell had taken him aside with a
+quiet *Brother. A word.*
+
+Kell let out a short breath through his nose, almost a laugh.
+
+"In the churchyard?" He did not dress it up. "For about three seconds. Yes." He turned
+Officer a little on his knees. "You'd told us at the table: no more prisoners. Then you
+stood in front of thirty of them and said you'd no use for any of them and you couldn't
+let them go back to living here." A dry beat. "Out of context, brother, that's a sentence
+with a bad ending."
+
+He looked across the water at the glow.
+
+"I've known you long enough to know where you'd land. I didn't know who else did. Sorel
+didn't. Those thirty didn't. That girl didn't." A pause. "So I said it out loud, once.
+That's my job."
+
+Then the grin he had been fighting got a little way out.
+
+"Next time, start with 'I'm not a monster.' Saves us both the walk to the gravestones."
+
+"Hurting my heart over here, Kell." Tamsin laughed. "I'll specify... no more prisoners for
+the enemies... but as you can see these prisoners mean something to Kesh... I just didn't
+want a hundred men in shackles that we don't have the room for."
+
+Kell's grin won this time: short, quiet, but there.
+
+"Your heart'll live." He nodded slowly. "Enemies, no. Kesh's, yes. I can work with that."
+A beat. "Tell Sorel. He took the table hard."
+
+Then, flatter, the sergeant again:
+
+"And you're not wrong about the room. Hold's built for twenty-two. We've got forty-odd on
+the rings and the commissar in the medicae, and Morcant's sleeping sitting up against the
+hatch." He looked out at the dark river. "Kesh's answer had better have a ship in it."
+
+"Forty? How do we have forty? Did you guys bring prisoners?"
+
+Kell shook his head.
+
+"Saltbend, nobody. Hollis brought Fenn. Varga brought Garrow." He started counting on his
+fingers, the way he counted ammunition. "It's not tonight, brother. It's the whole day.
+Hearthgate's round-up, seven: Quint, three loaders off Quay Four, three of the Sixth from
+the choir-house. The windbreak, three: Drayle, the dog man, the driver. The Ninth,
+seventeen. Fourteen, seventeen, with the Major. Tonight, nine." He held up his hands, out
+of fingers. "Fifty-three. Seven in the cells, your commissar in the medicae, forty-five on
+the rings." A dry beat. "We've been busy."
+
+"We can't have that many on. We gotta get rid of them, or cut 'em loose."
+
+Kell turned his head slowly.
+
+"'Get rid of.'" Flat. "Brother. We just talked about this."
+
+The grin, briefly. Then the sergeant again.
+
+"Cut loose's no good for the Sixth. That's forty-odd traitor soldiers with the garden in
+their blood. Turn them out in a meadow and they're back at the Lamps by the week's end, or
+they bloom where they stand." He nodded back toward the hold. "Tonight's lot are
+different. Mott, Haskin, Gil, Renn: Kesh's witnesses. Keep those." He looked up at the
+sky, where the astropath's answer would come from. "Kesh answers in twenty minutes. Ask
+her for a hulk or a prison barge before you ask me to open the ramp."
+
+"I mean get rid of them, as in that, or put them in a cell until we can get a Kesh ship."
+
+Kell nodded once.
+
+"Better." Dry. Then he thought about it, looking up at the black line of the plateau
+against the stars. "Fourteen. The vaults. Stone, cut into the rock, three iron doors that
+lock from the outside, and Kreel's keys are in Ollin's cage. We burned them out ourselves,
+so they're clean as anything on this world." He turned Officer over on his knees. "Put the
+Sixth's forty-odd in there with water and rations. Leave two of ours on the gate with a
+vox and the Valk an hour off. Cells and tonight's lot stay aboard." A pause. "Costs us two
+rifles while we're on the Silo. Or Kesh tells us a ship's coming and we sit tight." He
+glanced at Tamsin. "Twenty minutes, brother."
+
+"Alright, let's get to it then."
+
+Kell stood, and picked his helmet up off the deck.
+
+"Then we go now. Teo can have us on the plateau in twenty; the doors'll be locked before
+Kesh finishes talking." He settled Officer on its sling. "Two on the gate. I'd leave Joren
+and Dannel: they're not on the Silo anyway, and they can hold a door. Your call."
+
+"Joren and Dannel are fine."
+
+Kell put his helmet on and keyed the bead, flat and quick.
+
+"Teo. Plateau. Fourteen's vault yard, soft as you like." A click. "Morcant, Dace: the
+Sixth off the rings, hoods on, in fours. Cells and tonight's lot stay put." Another.
+"Joren, Dannel: kit up for a gate. You're staying a while. Ollin's got a long-range set
+for you."
+
+Teo came back on the bead, sleepy and cheerful.
+
+"Plateau. Copy, Sarge. Twenty minutes."
+
+Under them the deck shivered and the engines climbed, and the meadow fell away. The red
+shell of the Dunns' house slid under the ramp's lip, and was gone.
+
+The flight was quiet. Morcant and Dace brought the Sixth off the rings in fours, hooded,
+and lined them up at the ramp. Ollin issued Joren and Dannel the long-range mast set from
+IX, two las packs each, and the rations and water for the vaults.
+
+
+## Chapter 147: Bakers Alive
+
+At about 0250, with the plateau still ahead of them in the dark, Kesh's answer came.
+
+It came through Seraphine Wenlock, the eldest of the five astropaths they had freed from
+the choir-house, and Brenner took it down. It was clear.
+
+*KESH TO ROOK. Received all. Good work.*
+
+*ORDERS: The address must not be given. Corrow lives: a dead governor is a war I cannot
+hide. Take him before the Lamps, or take the horns. No bodies on the steps.*
+
+*SILO ROW: stop the bake. Bakers alive. Every dose kept, none burned.*
+
+*CURE: none known.*
+
+*Nothing on any open channel about the seed.*
+
+*The Aldwyn sails today with a Magos Biologis and a prison hold. Six days. Hold every
+prisoner till she comes.*
+
+*Kesh.*
+
+Teo called the plateau two minutes out.
+
+"Let's get them in cells then talk mission objectives."
+
+Teo set the *Bright Light* down in Fourteen's vault yard, soft as Kell had asked, in front
+of the rock face and its three great iron doors. The yard was black and quiet, and it
+still smelled of burning. The Sixth's forty-five walked down the ramp hooded, in fours,
+and went in fifteen to a vault, the left, the middle and the right, each with a water drum
+and ration bricks. Kell locked all three doors with Kreel's keys, and kept the keys.
+Nobody would open a door now but Kell or the boss. Joren and Dannel set up in the
+gatehouse with the long-range set, and Brenner's radio check came back clear.
+
+At about 0318 the Light gathered in the briefing room, with the ship sitting in the yard
+and her engines warm.
+
+"Alright, that address cannot be given, so we need to take the governor and the horns,
+just to be safe, that job is an infiltration and full stealth, we can reason with the
+governor, he is clean and an inquisitive team should be more than enough proof. No bodies
+no death. You need to walk in to him and walk out with him. Make him cooperate. The horns
+need to be taken as well just to be sure nothing else can happen. Then another team needs
+to get into the bakers and take them alive with the evidence as well. I'm sure it's going
+to be a fight so I'll prepare for that. Then Ferro you can attempt to make a cure that
+will solidify their defeat here. We'll take the bakers first, then get the governor, all
+through that. Nessa you stay on the ship until you get sorted out, Dace you have bench
+work for a while, those schematics will turn some fights around fast if we can do it, and
+Ferro works on a cure, everyone else stay here we'll plan out attacks and time and
+positions."
+
+They answered him in turn.
+
+Brenner put what Renn and Garrow had given them up on the hololith. The weigh-house under
+Silo Row 3, and the stone vault under its weighing floor, and the cold room in it where
+Renn had seen forty jars two nights ago. Two ways in: the iron door at the top of the
+grain stairs from the river, where you knocked three and then two and answered *Thorn*
+with *Bloom*; and the trapdoor behind the big scales in the office. Halloran's six
+weigh-guards, and the Row's own besides, a dozen, more on the eve. Halloran slept in the
+weigh-house, and Corlis lodged in the room above it. And the eve itself, the way Garrow
+had told it: at midnight the jars on a handcart through the water-gate, Master Baker
+Hemmet's thirty bakers sent out into the yard, and Halloran's men going down the forty
+troughs.
+
+Kell was on the clock. Quint had been missing since two in the morning yesterday, and the
+port cells had been hit at seven last night. The Row might be nervous already. Hit the
+vault before the eve, he said, while the jars sat in one cold room and the eve's crowd was
+not there. And bakers alive meant Halloran's men and Hemmet, not thirty men with flour on
+their arms.
+
+Sorel said Gil Marsh, in the hold, could point Halloran out, on Renn's word, and that he
+would take the stairs himself. Isk wanted the river side, for overwatch.
+
+Ferro would need a jar from the vault for the cure, and the three green vials, and Sallow,
+and a sealed room.
+
+"I can learn what it is. Whether it can be undone, I cannot promise."
+
+Sallow said the vials would be opened in her medicae and nowhere else, sealed, with nobody
+else in the room. Nessa had one objection, which was that she was fine; and then she took
+it. Dace would start on Sallow's carbine and Sorel's hellgun at the bench while Ferro was
+on the cure. Morcant asked to bring Doorknocker. Mira reminded them that she was wheels up
+at half past four for Varga and Pim.
+
+Then Kell put it back to Tamsin: when, and who.
+
+"From the info we got it's not heavy guarded, but I can't seem to believe that. Whether
+they have been reinforced from knowing what we've done or them being close to finish is a
+reasonable call. So we bring everything we can. We only need the bakers alive. And they're
+not fighters. Everyone else can be dealt with accordingly."
+
+That was who. Then the when.
+
+"A tired team makes mistakes, a dug in team needs some essential teamwork and
+coordination. Right now we all have no sleep and wounds."
+
+Kell said it back to him: tonight, then. Sleep first, and hit the weigh-house after dark
+with everything they had. The ship would sit in Fourteen's yard. The watches would go two
+at a time, two hours each, on the bridge and the ramp, Kell and Isk first, and everyone
+else would sleep. They would eat at noon, and at about 1400 there would be a full brief,
+with Varga and Mira in the room, to plan the positions and the times fresh. Ferro was to
+read the vials in his workshop, sealed. Sallow's condition was that he read them and did
+not open them, not till she had slept. Dace would go to the forge, and Mira to the hangar.
+
+At about 0335 Tamsin went to his cabin and slept.
+
+---
+
+The watches were quiet on the ship, and quiet at the gate, where Joren checked in on the
+hour and the vaults made no sound.
+
+At half past four Mira lifted the Valk out of the yard for Gannet Cross, and at about 0535
+she brought her home with Varga and Pim aboard.
+
+Ferro read the vials without opening them. They were Mechanicus cryo-vials, sealed with a
+Mechanicus pattern he did not know, and against the light the green fluid inside moved
+like something swimming. He could get nothing more out of them without breaking a seal.
+
+Sallow had her own sums. Corvane would be fit again in three days, by day fifty-one; Pim
+the same; and Dag Holloway in four.
+
+At noon the Light got up. There was Ollin's stew in the galley, since there was no cook,
+and then kit checks, and the brief at two.
+
+Over the stew Varga told them about Gannet Cross, and while she told it she rubbed at the
+old scar around her shooting eye.
+
+There had been a PDF quarantine checkpoint where the river road met the high road: the
+Governor's grain quarantine, two Chimeras and a sandbag line across the Hearthgate road,
+turning haulers back for blight checks. Mira had set the Valk down on the verge, and Varga
+had walked up with Tithe-Reeve Varrow's name and his pass, and the papers for Bet Fell's
+thirty-four. The lieutenant there was Abra Solle, of the 3rd Hearthgate Rifles, tired and
+decent, and she had let the convoy through toward Varrow's gate. And she had let something
+slip. Varga gave it to them the way the lieutenant had said it.
+
+"Governor's pulled the household guard in from every outer post. For the Lamps, they say.
+Palace has never been so full."
+
+---
+
+At about 1400 the Light gathered again in the briefing room.
+
+"Map, then I'll see what we can do."
+
+Brenner put Silo Row 3 up on the hololith in full: the port's survey chart, and the ship's
+approach auspex, and what Renn and Garrow had said, all laid one over the other.
+
+Hearthgate's river docks lay on the Gallow, just above where it met the Varn, and the
+river ran about ninety metres wide there, slow and brown, with barges moored along the
+quay at night. Silo Row was seven grain silos in a line along the east quay, thirty-five
+metres tall, rockcrete and iron bands, joined at the top by covered conveyor gantries.
+Silo 3 was the third from upstream. The weigh-house stood at its foot on the quay: a squat
+two-storey stone building. On the ground floor was the weighing floor, with two big
+platform scales for the carts and the cart doors on the landward side, double, barred at
+night; and at its north end the office, with its own street door, the big scales, and the
+trapdoor behind them down to the vault. Upstairs were the clerks' rooms, Halloran's, and
+the upper room where Corlis lodged, with a stair inside, two windows on the river side,
+and a roof hatch onto the flat leaded roof. Under it all, cut into the quay wall, was the
+vault, stone, with the cold room and its Mechanicus cooler.
+
+The grain stairs climbed the quay wall from a barge landing at the waterline, five metres
+below the quay, to the iron door into the vault on the weigh-house's river flank. Landward
+of the silos the Row's yard lay cobbled, fifty metres across, with the tithe-cart sheds
+along its south side. Across the yard, sixty metres from the weigh-house, stood the oven
+halls, three long brick bakehouses with tall chimneys, and the forty kneading troughs
+inside them; the night shift baked the ordinary loaves there until about two in the
+morning. Forty metres downstream of the weigh-house an arched water-gate in the quay wall
+let a short canal into the yard for the flour barges, with a winch-house over it. Silo Row
+lane ran along the landward side, with lumen posts every thirty metres, and the quay
+itself was lit by the dock lumens. Across the river, ninety to a hundred and thirty metres
+off on the west bank, stood warehouses and the roofless shell of an old river chapel with
+a bell tower about twenty metres high, in a straight line on the grain stairs and the
+river windows. Six hundred metres upstream were the main grain port and Varrow's tithe
+office. And the silo gantries ran from Silo 2 and Silo 4 to Silo 3's head-house: a way
+onto the weigh-house roof from above.
+
+Dusk was at about seven, and full dark by half past eight. How many were inside, and
+where, the hololith did not show.
+
+"Got it." He looked at it a while longer. "Hot drop on the roof, breach in and clear...
+spreading out forces to control the building and take the bakers alive, the rest can go to
+a cell or they die."
+
+Kell said who the bakers were: Halloran and Corlis upstairs, and Master Baker Hemmet over
+in the oven halls. The night shift was there until about two, and if they went in before
+that there would be thirty bakers in the yard in the line of fire; so after two, he said,
+when the oven halls were dark. And to make the roof drop work he would split them four
+ways. The roof, from the Valk: breach the hatch and clear top-down, Halloran and Corlis
+first. The river stair: block the iron door, so that nobody ran out through the vault, or
+carried a jar out. The lane: the cart doors and the office door, so that nobody got out
+landward. And overwatch from the chapel tower across the river, with the ship over the
+river and Teo on the guns.
+
+Tavi said no charges anywhere near the vault; the cold room was under the weighing floor,
+and Kesh wanted every dose kept. The roof hatch would take a small one. Sallow wanted
+masks on in the vault, and rebreathers on anyone going down. Hollis said Six Bells was for
+outside only. Brenner would listen to the Row's vox from the ship and kill it at H-hour.
+
+Kell asked for H-hour, and who went where.
+
+"Dark is good. Isk on the tower, Tey, Dace on the river, Brenner on the lane, he can see
+anyone running on the auspex and call it out, rest of us on the roof."
+
+Kell read *dark* as after the oven halls went out, and said it back: H-hour 0230. The
+roof, off the Valk: Tamsin, Kell, Varga, Sorel, Morcant, Tavi, Hollis and Sallow. Isk on
+the tower. Tey and Dace on the river stair. Brenner on the lane. Mira flying the Valk, and
+Teo the ship over the river. Nessa, Ferro, Corvane, Pim and Ollin would stay aboard, and
+Joren and Dannel on the gate.
+
+Then the snags. Dace had been benched only that morning, Kell said: bench work for a
+while. Pull him off the forge for tonight, or put somebody else on the river with Tey?
+Hollis offered to take the lane with Brenner. Six Bells could not go inside anyway, and
+one man alone on the lane was thin against whoever came out of the cart doors. Brenner
+said he could kill the Row's vox from the lane with his own set.
+
+"Fine, Hollis can go with Brenner, and Sorel instead of Dace, so if they get out and try
+and hide Sorel can track them."
+
+So it stood. The roof, off the Valk: Tamsin, Kell, Varga, Morcant, Tavi and Sallow. The
+tower: Isk. The river stair: Tey and Sorel, with Sorel to track anyone who ran. The lane:
+Brenner and Hollis, and Brenner would kill the Row's vox at H-hour from his own set. Mira
+in the Valk, Teo with the ship over the river. Dace would stay at the forge.
+
+Kell laid out the insertion for the boss to approve. Wheels up from Fourteen at about half
+past midnight, and the ship holding high and dark over the Varn. At about 0130 Mira would
+drop Isk on the west bank behind the old chapel, and he would be up the tower by a quarter
+to two. At a quarter to two Tey and Sorel would set down upstream on the east bank and
+walk the quay under the wall to the barge landing. At two, Brenner and Hollis would walk
+Silo Row lane from the grain port end in dockers' coats. At half past two Brenner would
+kill the vox, the Valk would drop the roof team, and the ship would come over the river
+with the guns. Kit check at 2330.
+
+Tamsin did not change any of it.
+
+"Kit up and be ready and fresh. I hope everyone enjoyed their break. Now back to it."
+
+
+## Chapter 148: A Special Task Force
+
+The brief broke up, and everyone went to kit. Tamsin went to the armoury, where Ollin had
+his ledger out.
+
+Everything that had come aboard since the meadow was charged and filled again: Vigil's
+hot-shot packs full off the station, Last Word's pack full, Stinger's two sticks of forty
+topped up from the stores. Tamsin had no frags left. Both of the ones he had carried at
+Kettle Ford had gone in the lanes.
+
+He took Vigil, and the Dunns' sawn-off, and Shameholder, and the combat knife, and three
+frags from the stores. Then he looked at Ollin.
+
+Ollin logged it all, and handed over the three frags, and Vigil's two spare packs, and the
+sawn-off's six shells. Then he tapped the ledger. Last Word, and Stinger: were they
+staying in the cage?
+
+"Need a close gun for when I get too close, what shells do we have? And can you turn these
+frags into impacts? My old quartermaster used to say all you had to do is mess with the
+fuze."
+
+The sawn-off was the close gun, Ollin said, so Last Word and Stinger stayed in the cage.
+As for shells, there was only standard aboard, about three hundred and twenty of them: no
+man-stoppers, no dragon's breath, no hellfire. The fuzes were not his trade. He called
+Tavi over from the armoury bench.
+
+Tavi did it there at the bench, Ottrick's conversion, one frag at a time, and painted two
+red bands round each cap when it was done. All three took, and one of them came out neater
+than the other two. They would burst on whatever they hit first, he told Tamsin as he
+handed them over: no cooking them off, and nobody throwing them back.
+
+"I know, that's why I use them." Then, to Ollin: "Thirty buckshot, Ollin. That's all I
+need left."
+
+Ollin counted thirty shells into a shell belt, and the Dunns' six went back into the tin.
+
+---
+
+At about 1420 Tamsin went to the weights corner beside the mat, by the shrine: a bar and
+iron plates, a bench welded out of crate frame, and a pull-up bar bolted across a deck
+beam, Dace's work from the refit. Morcant was there already, curling a drum of stubber
+belts for something to do, and he set it down and offered to spot.
+
+"Haven't got some iron on in a few, let's fix that."
+
+He trained until it was time. He was under the bar for six hours, with breaks to eat and
+stretch and breathe. For the first three Morcant spotted him and coached him; after that
+Morcant lifted his own.
+
+The afternoon and the evening were quiet on the plateau, and quiet at the gate, where
+Joren checked in on the hour. Ollin put supper out at seven.
+
+---
+
+At about 2330 the Light came down to the hold for the kit check, and Ollin had made
+coffee, the good coffee from the Rest.
+
+"Everyone ready? Roof team, do we have CQC kits?"
+
+The roof team answered one by one with their close kit. Kell had Officer, and Tessaly's
+plasma pistol, and his chain axe and Schola knife. Varga had Mercy, her sawn-off and the
+power knife, and her lift pack on. Morcant's stubber was too long for the halls of the
+weigh-house, so he would take Doorknocker inside, with a spare drum and the shock maul; he
+asked to leave the stubber in the Valk's door for Mira. Tavi had Tiny and his Rashad axe,
+the charge for the hatch and a breaching charge, and four kraks that would stay in the bag
+anywhere near the vault. Sallow had her lascarbine, and her needle-blade, filled now with
+her own sedative, for taking Halloran and Corlis alive.
+
+Tavi had one suggestion. There was a photon flash in the crate, and Hollis had his two
+spec flashes; they would do for the upstairs rooms, if the bakers were to come out alive.
+
+"We should be good, these are light arms, hired guns, not a special team. Should be a
+piece of cake... I mean. We are a special task force."
+
+The photon flash stayed in its crate, and Hollis kept his two.
+
+At about 2340 they all went up to the hangar and the ramp. Teo was warming the engines for
+wheels up at half past midnight, and H-hour was 0230.
+
 # Appendix: Session notes
 
 ### Session 8 (Season Two, mission 1: Ustrennos)
