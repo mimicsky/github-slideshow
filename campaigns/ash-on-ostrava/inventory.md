@@ -98,7 +98,7 @@ them.
 
 | Load | On board | Notes |
 | --- | --- | --- |
-| Standard | ~320 | |
+| Standard | ~296 | (30 to Tamsin's shell belt, day 48 ~1418; the Dunns' 6 back in) |
 | Man-stopper / dragon's breath / hellfire | 0 each | |
 
 **Heavy belt stubber belts**

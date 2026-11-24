@@ -119,4 +119,5 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~1410: Tamsin: "Kit up and be ready and fresh. I hope everyone enjoyed their break. Now back to it." The brief broke; everyone to kit. Tamsin went to the armoury, where Ollin had his ledger out.
 - ~1414: Tamsin took Vigil, the sawn-off, Shameholder, the combat knife and 3 frags from the stores, then looked at Ollin. Ollin logged it, handed over Vigil's two spare packs and the sawn-off's six shells, and asked about Last Word.
 - ~1416: Tamsin: "Need a close gun for when I get too close, what shells do we have? And can you turn these frags into impacts? My old quartermaster used to say all you had to do is mess with the fuze." Ollin: standard shells only, ~320; Last Word and Stinger stay in the cage. Tavi reworked all three frags into impact frags at the bench, two red bands on each cap.
+- ~1418: Tamsin: "I know, that's why I use them. 30 buckshot, Ollin. That's all I need left." Ollin counted thirty shells into a shell belt (the Dunns' six went back in the tin).
 
