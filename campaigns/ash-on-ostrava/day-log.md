@@ -125,4 +125,5 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~2330: Kit check in the hold; Ollin's coffee from the Rest.
 - ~2332: Tamsin: "Everyone ready? Roof team, do we have CQC kits?" The roof team answered with their close kit: Kell (Officer, the plasma pistol, the chain axe), Varga (Mercy, her sawn-off, the power knife), Morcant (Doorknocker inside; the stubber left in the Valk's door for Mira), Tavi (Tiny and his axe; kraks stay bagged near the vault), Sallow (lascarbine and the sedative needle-blade for taking the bakers alive). Tavi suggested the crate's photon flash and Hollis's two spec flashes for the upstairs rooms.
 - ~2334: Tamsin: "We should be good, these are light arms, hired guns, not a special team. Should be a piece of cake... I mean. We are a special task force." No flashes taken. ~2340: everyone to the hangar; Teo warming the engines for wheels up at 0030.
+- ~2345: Tamsin boarded the Valk with the roof team to wait out the run in.
 
