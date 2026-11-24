@@ -1107,7 +1107,7 @@ ladder a hit moves you.
 | 1 | Flak | glancing hits, stub and autogun at range | las, hellguns, shotguns up close, chain, frags |
 | 2 | **Reinforced flak** | **stub, autogun and glancing las, fully** | clean las hits, hellguns, shotguns up close, chain, frags |
 | 3 | **Carapace inplate** (new: flak with carapace plates slotted in; a carapace chest plate) | all of the above, **plus las unless the hit is solid, and shotguns at range** | las on a solid hit, hellguns, shotguns up close, blades, chain, frags |
-| 4 | **Carapace / plasteel** | lasguns, autoguns, stub, shotguns at range, most blades, frags (unless the throw was a solid hit) | hellguns, hot-shot, bolters, heavy belt stubbers, chain, power weapons, plasma, krak |
+| 4 | **Carapace / plasteel** | lasguns, autoguns, stub (**standard stub can't touch it at all, crits included**: Too weak to matter, below), shotguns at range, most blades, frags (unless the throw was a solid hit) | hellguns, hot-shot, bolters, heavy belt stubbers, chain, power weapons, plasma, krak |
 | 5 | **Heavy carapace / heavy plasteel** (Skitarii war plate is heavy plasteel) | all of the above, **plus hellguns and heavy belt stubbers at range** | hellguns and heavy belt stubbers up close (inside ~15 m), bolters, chain on a solid hit, power weapons, plasma, melta, krak |
 | 6 | **Ceramite** (new: plain ceramite plate) | all of the above, **plus hellguns and heavy belt stubbers up close unless the hit is solid** | hellguns and heavy belt stubbers up close on a solid hit, bolters, chain on a solid hit, power weapons, plasma, melta, krak |
 | 7 | **Ceramite-forged** | all of the above, **plus hellguns and heavy belt stubbers completely** | bolters, chain on a solid hit, power weapons, plasma, melta, krak |
@@ -1170,12 +1170,13 @@ ladder a hit moves you.
 
   | Armour | Can't be touched by |
   | --- | --- |
-  | **Ceramite-forged, adamantium plate** | stub and autogun rounds, standard shotgun shells, needle darts, plain blades, frags |
+  | **Carapace / plasteel, heavy carapace / heavy plasteel, ceramite** | **standard stub rounds** (the Ironside guns: stub pistols, revolvers, stub automatics, autopistols, SMGs, stub rifles; **not** heavy stub, the heavy belt stubber or AP loads) (**moved down to carapace by the player, Ash on Ostrava day 49**: a pistol-calibre crit through plate was too generous) |
+  | **Ceramite-forged, adamantium plate** | all of the above, **plus** autogun rounds, standard shotgun shells, needle darts, plain blades, frags |
   | **Heavy adamantium, semi power armour, Space Marine armour** | all of the above, **plus las** (lasguns, lascarbines, laspistols) |
 
   **Still wear it down** at its own rate (6, 8 or 10): hellguns, hot-shot, heavy belt stubbers, chain
   weapons. **Armour-piercing loads** (AP, CAP, man-stopper shells, shard darts) count like hellguns here: they can
-  wear down ceramite-forged and adamantium plate, nothing heavier. Bolters, plasma, melta, power weapons and kraks already get through.
+  wear down ceramite-forged and adamantium plate, nothing heavier. **Stub's own loads (day 49):** AP follows its own line (through carapace on a solid hit inside ~15 m); **flat-tip still wears down carapace, heavy carapace and ceramite** (its whole point), and nothing heavier; HP and HV are standard stub here. Bolters, plasma, melta, power weapons and kraks already get through.
 - **Shotguns: close blast (set by the player, Ash on Ostrava day 48:** shotguns were 'regular guns but worse'**).** Every
   shotgun (scrap, pump, combat, the shotlas, the Kasr Hailstorm, the Kasr Flicker pistol and the Breach Magistrate revolver (to ~10 m), the Breach Longshot and the Breach Breakwater (to ~20 m), the hell shotgun, Ogryn ripper guns): **inside ~15 m, against armour it
   gets through cleanly (on any hit: no solid hit or crit needed), a hit drops one extra step (2 in all).** Where it

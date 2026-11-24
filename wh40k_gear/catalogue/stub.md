@@ -57,7 +57,7 @@ market, Free Traders). Two stub barrels stacked under one slide, fed from a **40
 firing **twice as fast as an autopistol**, with an **ergonomic moulded grip**. Both barrels eject through **one
 port**, which is its weak point.
 - **Twice the rate:** strings of up to **16**, no hit bonuses in the string (misses still -1); **recoil 1.**
-- **Stub rounds:** good on flesh; **through flak on a solid hit**; carapace stops them.
+- **Stub rounds:** good on flesh; **through flak on a solid hit**; carapace stops them, **crits included** (too weak to matter from carapace up: codex, Armour, day 49).
 - **Ergonomic grip:** **+1 on the quick-draw.**
 - **Runs hot:** **heat 1 per 8 shots** in a fight. At **3 heat** it must cool for a beat; firing anyway, d20 **1-5**
   the slide seizes and the grip scalds (the shooter drops a step, the pistol is out of the fight). Heat clears
@@ -90,7 +90,7 @@ where-it-goes d20 once for every 10 rounds left (at least once).
 **Submachine gun, 'Ironside Locust' pattern** (player design, Ash on Ostrava day 45; uncommon, ~3 TV; Munitorum,
 black market, Free Traders). The Hornet's bigger sister (named for a swarm): a compact stub SMG with a **30-round curved
 magazine**, a **select-fire switch**, a front grip and a **folding stock**. Stub rounds: good on flesh,
-**through flak on a solid hit**, carapace stops them.
+**through flak on a solid hit**, carapace stops them, **crits included** (too weak to matter from carapace up: codex, Armour, day 49).
 - **Full auto:** strings of up to **8**, no hit bonuses in the string (misses still -1); **recoil 1.**
 - **Burst:** strings of up to **4 bursts**; each burst that hits **lands as two rounds** (through flak on any
   hit, carapace on a solid hit); recoil 1.
@@ -109,7 +109,7 @@ a **skeletal grip** that looks like scaffolding with the panels left off. It loo
 your hands, and it does, on purpose.
 - **Safe and auto, nothing else:** strings of up to **8**, no hit bonuses in the string (misses still -1);
   **recoil 1.** No aimed single shots (a single short pull is just a string of one).
-- **Stub rounds:** good on flesh; **through flak on a solid hit**; carapace stops them.
+- **Stub rounds:** good on flesh; **through flak on a solid hit**; carapace stops them, **crits included** (too weak to matter from carapace up: codex, Armour, day 49).
 - **Wire stock:** folded, it draws like a big pistol (-1 quick-draw) and takes **-1 past ~15 m**; out, it
   shoulders fine.
 - **Threaded muzzle:** takes any muzzle attachment (a silencer, a flash hider).
@@ -790,7 +790,7 @@ roll, AP and CAP count as rare** (only there; the shop rarity below stands: the 
 | **HP** (hollow point) | stub, auto | uncommon, 1 TV a box | Opens up in flesh. **Flak doesn't shrug it, even at range; against no armour or flak, a solid hit drops two steps.** Reinforced flak and heavier shrug it |
 | **AP** (armour-piercing) | stub, auto | uncommon, 1.5 TV a box | Hardened steel core. **Flak and reinforced flak don't shrug it; through carapace on a solid hit inside ~15 m.** Heavy carapace and heavier shrug it (changed with the player, day 36 cleanup). Punches straight through flesh: **against no armour, a crit drops just one step** (no extra) |
 | **HV** (high velocity) | stub, auto | uncommon, 1 TV a box | Hot load, light bullet. **+1 on aimed shots past 30 m; flak doesn't shrug it at range.** The hot powder fouls the gun: **each HV shot counts as 2 toward Dirty**; in a never-jam gun (the Ironside Frontier) **the string takes -1 after 20 HV rounds until the gun is cleaned** (changed with the player, day 36 cleanup) |
-| **Flat-tip** (the player's design) | stub | uncommon, 0.75 TV a box | A regular round, except against armour it can't get through: **a shrugged flat-tip hit counts as 2 shrugged hits toward wear-down** (Armour, wear-down: every 6 drop a step). **Ceramite-forged and power armour: no wear-down at all** (stub is too weak to matter: codex, Armour) |
+| **Flat-tip** (the player's design) | stub | uncommon, 0.75 TV a box | A regular round, except against armour it can't get through: **a shrugged flat-tip hit counts as 2 shrugged hits toward wear-down** (Armour, wear-down: every 6 drop a step). **It still wears down carapace, heavy carapace and ceramite**, where plain stub can't touch (day 49). **Ceramite-forged and power armour: no wear-down at all** (codex, Armour) |
 | **CAP** (ceramite-tipped armour-piercing) | auto | uncommon, 2 TV a box | A ceramite tip on a steel core (changed by the player, day 36: tipped, not cored, so it's cheap enough to use; a hot-shot pack does the same for free). **Flak and reinforced flak don't shrug it; through carapace on a solid hit at any range.** Heavy carapace and heavier shrug it (changed with the player, day 36 cleanup). Punches through flesh like AP (**against no armour, a crit drops just one step**) |
 
 ## Breach shotguns (day 48)
