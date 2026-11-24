@@ -130,7 +130,7 @@ them.
 
 | Stock | On board | Notes |
 | --- | --- | --- |
-| Frag grenades | ~22 (3 to Tamsin, day 48 ~1414) | crate ~12 + IX 7 + Fourteen 2 + the dormitories 3 + 1 |
+| Frag grenades | ~18 (3 to Tamsin, day 48 ~1414; 4 to fill Six Bells' drum ~1417) | crate ~12 + IX 7 + Fourteen 2 + the dormitories 3 + 1 |
 | Krak grenades | ~12 | 4 in stock + IX 7 + Fourteen 1 (Tavi's 4 are on him) |
 | Smoke / photon flash / choke gas / spec flash | 3 / 1 / 1 / 2 | the 2 spec flashes are Hollis's, back in the crate |
 | Stimms (beyond Sallow's Bag) | ~28 | ~6 + ~17 from the Mart haul + IX 3 + Fourteen 2 |
