@@ -872,7 +872,7 @@ it sprints ~30 m and grabs: the target makes a **DEX dodge against its STR roll*
 the charger drags them ~10 m away from their friends, toward its own side, slams them down (a step) and holds
 them. **Grabbed:** can't act except to break free (STR against its STR) until the charger goes Down or takes a
 solid hit. **Two extra health steps** (like a brute: **it starts at 7.0**). **Skin armour: flak** (as a brute; the
-player, day 48). No guns.
+player, day 48). No guns. **Never surrenders or runs** (half its brain is gone: the player, day 49); it fights to the death.
 
 ## Mortar team
 

@@ -883,7 +883,7 @@ What the DM has always done, written down so anyone can run it.
   League shades it: **cultists** rarely surrender, so for them only **1-5 surrenders** (6-16 fight on), unless
   their **leader** has just fallen, when the normal 1-10 applies (bestiary roles, Leader: 'more likely to
   surrender, even fanatics'). Pirates and traitors fall back to better ground rather than give up early. **Commoners are brittle:** they check at **a third Down** (or their leader's fall) and **break on 1-10** (run or surrender; **while their preacher, a zealot, stands they don't break at all**: bestiary commoners.md; roles.md, Zealot). **A role's ability beats a league's rule where the two clash** (the player, day 48).
-  (An enforcer still stops breaking while it stands: bestiary roles.) A group that keeps fighting can be
+  (An enforcer still stops breaking while it stands: bestiary roles.) **Mutants never surrender or run** (set by the player, Ash on Ostrava day 49: 'they don't have half their brains'): mutant chargers and every other mutant fight on whatever the group rolls, to the death. A group that keeps fighting can be
   checked again the next time its losses jump (another quarter Down).
 - **Brave and Jumpy on a break check (settled by the player, day 48): one roll for the whole group, then the +1 or -1
   applies to that person only.** A **Brave** member reads the roll **one closer to fighting on**: his fight-on band is one
