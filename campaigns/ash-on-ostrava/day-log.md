@@ -48,4 +48,5 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~0251: Tamsin finished the watchman and waved Tey and Sorel up. Sorel came like a ghost; Tey's boot found a puddle. The grenadier at the chute rose behind his scrap shield, staring at Tey, a hand going into his satchel of frags.
 - ~0251: Tamsin rushed the grenadier at the chute. Two strokes went in, the second across his throat so he couldn't cry out; then the scrap shield slammed the third aside in a spray of sparks, and the man drove its dying power cell at Tamsin, who turned it into the air. Over the roofs, Isk: Hemmet was coming out to the cart with a box under his arm.
 - ~0252: Tamsin finished the grenadier: the hand, the leg, the chest, and caught the satchel of frags before it hit the stones. Nobody heard. The water-gate yard was theirs. Over the roofs, Hemmet was climbing up onto the cart.
+- ~0253: Tamsin: "No, stay quiet... I have no idea how many are here." He slung the grenadier's frag satchel. "Come, let's move." They ran the dark gap between the halls for the Row, and the running boots carried: at the cart, heads came round toward the gap.
 
