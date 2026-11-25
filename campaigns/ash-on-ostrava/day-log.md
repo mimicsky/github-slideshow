@@ -83,4 +83,5 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~0432: Tamsin went to Brenner: the shoulder stable, the hip the bad one, two holes below his plate's skirt. He couldn't read how deep through the swelling; Sallow, over her shoulder: "Both out. I dug them." He repacked and strapped it anyway, and it held: Brenner up to Grazed.
 - ~0433: "At least I didn't have to drag you out from under a jumper on top of you... I would've been more pissed if I had to." Brenner: "Next time I'll get shot somewhere more convenient." Then, quieter: he was glad Tamsin had ordered him out; he'd have kept calling contacts till he bled out.
 - ~0436: Tamsin picked the flak fibres out of Hollis's cut with tweezers, cleaned it and closed it. Hollis was Fine. Of the night's wounded, only Brenner was still Grazed.
+- ~0438: "You two are both fine, so you're out of the medicae. Don't get shot again, you hear?" Then Tamsin went down to the hold, crowded now with the night's prisoners, to Dag Holloway on his ring by container 2.
 
