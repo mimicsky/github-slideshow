@@ -334,3 +334,5 @@ The Ustrennos library books went back on day 31; unfinished ones keep only the h
 - **Grenades and kit:** **4 frags** (the grenadier's satchel, on Tamsin) + an old PDF frag; 2 cracker bundles (flashbangs); a fire bottle; **a command vox**; a militia vox-bead; field dressings; **stimms x4**; a prayer book.
 - **Left:** the dead horse and the cart; the eleven flour sacks; the prayer card and the raider's jacket in Hemmet's rooms.
 - **Kept by Tamsin:** **Oswin Vale's scoring knife** (Aldo's; horn handle, 'O.V.').
+
+**Noted day 49:** **Nessa's old penitent collar** (krak charge, still live; the lock's key on Tamsin's chain; the brass rune-trigger with Tamsin) on the desk in Tamsin's cabin by the safe since before Vhal Korrin.
