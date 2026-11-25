@@ -87,4 +87,5 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~0440: Tamsin unlocked Dag Holloway from his ring and walked him, still in irons, up to the medicae, Dace a step behind. At the door Dag stopped: "Why." Sallow: "Another one? End bunk. Irons stay on."
 - ~0441: "Sit." Dag sat on the end bunk. "What do you mean, why?" "Dunn never fixed a man he was finished with. Never fixed one he wasn't going to use, either. So which am I. You've got thirty more down there. You didn't fetch them."
 - ~0442: "Number one, I'm not Dunn. Number two, I already told you you'll be coming in with us... or did you already forget? You said prove it to you? So I'll show you on the field, then you'll understand." Dag looked at him a long time. "No. You're not." He held the irons up between them. "On the field, then. I'll carry what you give me."
+- ~0445: Tamsin pulled Dag's day-old dressing, cleaned the hot wound through his thigh, disinfected it and packed it fresh. Dag watched every step. "Dunn would've let it rot."
 
