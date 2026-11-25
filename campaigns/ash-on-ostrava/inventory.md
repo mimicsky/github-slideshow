@@ -323,3 +323,14 @@ The Ustrennos library books went back on day 31; unfinished ones keep only the h
 - **Grenades and charges:** frags x7 (one old PDF stock); choke gas x3; **mining charges x2** (the demo man's last, the brute's); fire bottles x2; a cracker bundle (flashbang); **cult gas bottles x2 (gas of their god: hazard; evidence)**.
 - **Kit:** **an auspex that sees through walls** (the vox man's); **a command vox** (the commander's); a militia vox-bead; **a scrap jump pack** (homemade; sputters on a 1); a Frenzon dose; a field dressing; a family aquila charm.
 - **Alive:** **Halloran's 3 farm hounds** (Down, wounded). **Left:** the cult amulets, candles and chalk, the prayer-book.
+
+## Haul, day 49 (2): the oven halls, Silo Row (taken ~0322-0412; heretic trappings left, per the standing order)
+
+- **Evidence (for Kesh):** **the G-IX COOLER** (Mechanicus cold-box, 40 cradles, empty; unbolted by Ferro, aboard, cold on its own cell); **the copper DIPPER** (the green stain: a dried sample of the culture); the handcart's **canvas cover**; **one sack of the clean Lamps flour** ('LAMPS. DUNN'S MILL. CLEAN.', a control sample; eleven left in the cellar); **the eve's sheet** in Hemmet's hand; the oven rota; **six years of Sallis & Daughters receipts** 'for the Lamps bake'; **Hemmet's halls ledgers** (ten years of the Silo's payments).
+- **Coin:** **Hemmet's strongbox: 1,000 Thrones**; **338 Thrones** off the bodies, prisoners and bakers (the watch 83, the Sallis men and the silo pair 128, Hemmet 50, the bakers 77, returned to them or kept: Tamsin's call).
+- **Guns:** **an old PDF heavy belt stubber + 1 belt** (off the cart); **a heavy stub pistol, 'Magnum Centurion'**; **hunting rifles, 'Solid Stag', x3** (one with a heavy shotgun stock and grenade loops); a pocket revolver ('Trinity'); a stub revolver; a pipe rifle (scrap).
+- **Melee:** **a chainsword with a counterweight pommel** (the watch leader's); **an old militia officer's chainsword**; a scrap axe; a sledgehammer; a billhook with a leather-wrap grip; a sickle; a pry-bar; a kitchen steak knife (counterweight pommel, leather wrap).
+- **Armour:** **a carapace chest plate** (a family heirloom; the Sallis man's); **a cogitator shield (scrap)**; padded work jackets.
+- **Grenades and kit:** **4 frags** (the grenadier's satchel, on Tamsin) + an old PDF frag; 2 cracker bundles (flashbangs); a fire bottle; **a command vox**; a militia vox-bead; field dressings; **stimms x4**; a prayer book.
+- **Left:** the dead horse and the cart; the eleven flour sacks; the prayer card and the raider's jacket in Hemmet's rooms.
+- **Kept by Tamsin:** **Oswin Vale's scoring knife** (Aldo's; horn handle, 'O.V.').
