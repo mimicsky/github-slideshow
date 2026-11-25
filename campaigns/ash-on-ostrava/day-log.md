@@ -72,4 +72,5 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~0314: Tamsin on the vox: "Tey, Hem has a key on him, I need it." Tey cut the ring off Hemmet's belt and brought it up: seven keys, among them a small brass one and a big iron one, cold to the touch.
 - ~0316: "You walk first." Aldo led them down through the halls, cuffed, Tamsin at his back: through the arches into the third hall and behind its last oven, down a narrow stone stair to an iron door with frost on its hinges and a cooler humming on the far side. "That's it, sir."
 - ~0317: "Stand back, farther." Aldo went back up to the top of the stair. "Masks." Tamsin sealed his rebreather; Tey and Sorel pulled on their gas masks.
+- ~0319: Tamsin turned the iron key and eased the cellar door open a hand's width. Frost rolled out over his boots. In his light: a low brick vault furred white, a Mechanicus cooler against the back wall with an amber rune glowing on its face, the flour chute's hatch barred in the ceiling, and on a hook by the door a long-handled copper dipper over a folded canvas cover.
 
