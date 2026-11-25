@@ -51238,6 +51238,2142 @@ The photon flash stayed in its crate, and Hollis kept his two.
 At about 2340 they all went up to the hangar and the ramp. Teo was warming the engines for
 wheels up at half past midnight, and H-hour was 0230.
 
+
+## Chapter 149: Time to Go Loud
+
+At half past midnight the *Bright Light* lifted out of Fourteen's vault yard, with the
+Valk in her hangar and the roof team aboard it, and Teo took her down off the plateau in
+the dark. The flight was quiet. Over the Varn she climbed, and held there, high and dark,
+with her running lights out and the lamps of Hearthgate strung out below her along the
+water.
+
+At about 0130 Mira took the Valk down to the west bank, behind the roofless shell of the
+old river chapel, and set Isk down in its shadow, clean and quiet, and lifted again. By a
+quarter to two he was up in the bell tower with Patience laid across the sill, looking
+across ninety metres of slow brown river at Silo Row. The barge landing at the foot of the
+grain stairs lay in deep shadow under the quay wall, and he could not see into it. Along
+the lane the lumen posts burned every thirty metres, and at the weigh-house's cart doors
+two guards stood with a lamp between them.
+
+At a quarter to two Tey and Sorel were set down upstream on the east bank, and they walked
+the quay under the wall toward the landing, out of the light, the way Kell had laid it
+out. At about 0150, almost there, a stone went off the quay wall under Sorel's boot and
+dropped into the river with a splash.
+
+Down on the landing a lamp moved. A man of the garden stood at the foot of the grain
+stairs, and he called out, low.
+
+"Thorn."
+
+Tey answered him.
+
+"Bloom."
+
+The man half believed it.
+
+"Bloom. Who sent you? Halloran said nobody comes by water tonight."
+
+He came down the steps toward them with his lamp held up, and behind him came a
+weigh-guard in the Silo's livery with a scoped rifle. There was no alarm yet. Tey put it
+on the bead in a whisper.
+
+---
+
+At two o'clock Brenner and Hollis came walking down Silo Row lane from the grain port end
+in dockers' coats, like two men going on to the night shift, with the silos going up into
+the dark beside them and Six Bells slung under Hollis's coat. They got as far as the cart
+doors. The two guards there stopped them.
+
+Brenner gave them the line he had brought.
+
+"Tithe count, for Reeve Varrow's office."
+
+The guard with the lamp looked him up and down, and did not believe a word of it.
+
+"Varrow's men don't walk the Row at two in the morning."
+
+He was a hired man, not one of the faithful, and he did not want trouble on his door.
+
+"Clear off before I fetch the Row's boys."
+
+Brenner and Hollis walked on toward the yard end of the lane, unhurried. Behind them one
+of the two guards went in at the office door.
+
+Brenner had his auspex running under his coat sleeve as they walked, and at about 0206 he
+gave Kell the count. There were thirty-three to thirty-five warm bodies on the Row. About
+nineteen were in the weigh-house: a knot of ten on the ground floor; one in the office;
+four upstairs, two of them barely moving, asleep; two under the floor, in the vault; and
+two at the cart doors. There were four in the yard, two by the water-gate and two by the
+cart sheds, and about twelve lying in a row in the cart sheds, asleep. Two were at the
+river landing. It was twice what Renn and Garrow had given them.
+
+Kell put it to the boss on the bead. One guard had gone inside to tell someone, and the
+landing pair were half awake to Tey and Sorel. It was 0206, and H-hour was 0230. Go early,
+or hold?
+
+"Go go go, move in take them out, it's time to go loud."
+
+---
+
+Tey went first.
+
+The man with the lamp had not come all the way down the steps. Both of Tey's hellpistols
+came up together, and he put the lamp man down with five shots, and the lamp fell and
+rolled on the stones, and he swung onto the weigh-guard behind him and hit him too, and
+hurt him. Sorel's hellgun cracked twice beside him, and the weigh-guard went down on the
+grain stairs.
+
+Across the river Patience spoke. Isk had found a mortar on the flat roof of the water-gate
+winch-house, forty metres downstream of the weigh-house, with a two-man crew beside it.
+His first round hit the gunner, and his second was a perfect shot, and his third put the
+gunner down behind his tube.
+
+Brenner thumbed his set, and the Row's vox went to static, every channel of it.
+
+Hollis shrugged his docker's coat off Six Bells and put a frag onto the cart doors from
+forty metres. It burst right on the spot. The guard there threw himself flat, and it
+grazed him anyway. He came up firing with a submachine gun, long rattling strings of it at
+Hollis behind a tithe cart, and one round smacked into Hollis's carapace and did nothing.
+
+The office door banged open, and the guard who had been inside came out behind a riot
+shield, shouting. The one who had gone in had run on through to the weighing floor, to
+shake the Row's boys awake, and his vox-bead gave him nothing but static.
+
+Mira, in the Valk over the river with the roof team, called it two minutes out.
+
+It was 0207.
+
+---
+
+"Isk take out that mortar before it causes trouble."
+
+"Hollis bells on guard."
+
+"Mira push it will you."
+
+Isk shot the loader. Three rounds hit him, and the loader sagged against the mortar's
+bipod, badly hurt. Hollis's second frag dropped ten metres short of the door guard and
+burst harmless in the lane. Brenner fired three times at the shield man and missed with
+all three.
+
+Mira pushed the Valk as hard as she would go, and it was not enough to shave the time.
+They would be on the roof in a minute, as planned. Behind her Teo brought the *Bright
+Light* down over the river with her guns waking.
+
+The door guard's submachine gun and the shield man's stub pistol raked the lane and hit
+nothing. Then two autoguns opened up through the gap in the cart doors. One round came off
+Brenner's plate. The other gun stopped dead, jammed.
+
+Up on the first floor a man leaned out of one of the river windows, a veteran by the way
+he held his autogun, and fired down at the landing. Both rounds that found Tey came off
+his plate. Tey shot back as the man ducked, twice, and hit him twice, and the veteran went
+back inside, hurt.
+
+From the vault, behind the iron door at the top of the grain stairs, Sorel heard iron
+scrape: somebody in there had barred it from the inside. In the yard somebody was
+shouting, and the cart sheds were waking. Somebody loosed hounds, three of them, and they
+came up the lane at Hollis and Brenner at a dead run. And from upstairs in the weigh-house
+a voice roared out of a window.
+
+"Halloran! The jars! Get to the jars!"
+
+The ship came down over the river, and the Valk was a minute from the roof.
+
+It was 0208.
+
+---
+
+"Tavi blow it fast."
+
+"Isk take out the mortar before it gets bad then, help the others."
+
+The Valk came over the weigh-house low and loud, and the roof team dropped onto the flat
+leaded roof: Tamsin, Kell, Varga, Morcant, Tavi and Sallow. Tavi was at the hatch before
+the others had found their feet. He slapped the charge down and stepped back, and it blew
+the hatch in clean and small, a thud and a puff of dust, and a hole opened onto the
+upstairs corridor.
+
+Across the river Isk put the loader down beside his gunner. Then he found a man from the
+cart sheds in the gap past the water-gate, and hit him, and hurt him.
+
+Hollis put a frag from Six Bells into the hound pack in the lane, and it caught all three,
+and Varga, at the lane edge of the roof, finished all three with Mercy before they reached
+the lane team.
+
+The men from the cart sheds were coming out into the yard now, half dressed, into the
+glare of the Valk. Kell from the roof edge, Mira with the Valk's nose multi-laser, and Teo
+with the ship's turret hit four of them between them.
+
+Brenner shot the door guard twice more, and he was badly hurt. But the door guard's
+submachine gun kept chattering, and one round found the gap at Brenner's left shoulder,
+under the edge of his pauldron, and went in. He was grazed.
+
+The yard fired at the roof edge. A revolver round came off Varga's plate, and two stub
+rounds off Kell's.
+
+Out in the yard a man lit a scrap jump pack, and it sputtered and caught, and carried him
+up onto Silo 3's lower gantry, beside the weigh-house roof.
+
+Inside, men were coming up the inner stair toward the hatch, and someone under it roared
+at them.
+
+"HOLD THE STAIR!"
+
+And on the lane Brenner, watching his auspex, called a warm body dropping through the
+floor into the vault.
+
+Tamsin stood at the edge of the blown hatch and looked down. Three metres below him in the
+corridor, in the torchlight, stood a man with a chainsword and a command vox on his chest,
+roaring at the stair. Tamsin fired down through the hole. The first bolt hit him, and the
+second was a perfect shot, and the third put him down on the boards under the hatch. He
+was the Row's commander. Vigil's coils were warming. The fourth bolt went past him and out
+across the gantry, at the pack man on Silo 3, and hit him.
+
+The Row's commander was down. The garden fought on.
+
+It was 0209.
+
+
+## Chapter 150: The Others Die
+
+"EVERYONE SPREAD OUT, GET THEM."
+
+"OUTSIDE TEAM SECURE THE PERIMETER."
+
+"KELL ON THE SHIELD."
+
+"MORCANT LET IT FLY."
+
+At the top of the inner stair, four metres below the hatch, a man was coming up behind an
+Arbites suppression shield with a combat shotgun over its rim. The shield covered him from
+the front. It did not cover him from above. Kell leaned over the edge of the hatch and
+shot straight down past it, three times, and all three hit, and the shield man reeled,
+badly hurt.
+
+Morcant planted himself over the hatch with Doorknocker and let it fly. His first shell
+took the man behind the shield, who had a torch-thrower, and wrecked its tank; the burner
+died without a flame. The second shell put the man down on the stair. The third went into
+the man behind him, a big man with a saw-axe and a sawn-off, and hurt him.
+
+Then Tamsin jumped.
+
+He dropped three metres through the hatch into the corridor, landed, and fired. The shield
+man was the first in front of him, and the first bolt put him down behind his shield. The
+saw-axe man was next on the stair, and two bolts put him down beside the shield man. The
+last went into the man coming up behind them with a scrap thunder hammer, and hit him.
+
+On the gantry outside, the pack man was climbing for the roof edge, and Varga put Mercy on
+him. The first round was a perfect shot. The second put him down on the gantry, and he
+stayed there.
+
+Tavi dropped through the hatch after Tamsin with a frag already in his hand, and threw it
+down the stairwell past him. It burst on the landing below, and it caught the hammer man
+and the man behind him, a man with a railroad-spike knife and a stub automatic. Tamsin was
+round the stair head, six metres off, and clear.
+
+Kell dropped in after Tavi. Sallow dropped in after Kell. Morcant stayed on the roof, over
+the hatch.
+
+Out in the yard Isk dropped a man by the sheds. Mira's nose gun dropped another and
+wounded a third, and Teo's turret hit one more.
+
+Then two shapes came out of the yard and up the lane at a run, abnormally fast: men with
+claws, and limbs where no man had limbs, mutants, charging for Hollis and Brenner. Hollis
+hit the first with his hellgun. Brenner's hot-shot went through a carapace plate the
+second one wore, and hit it.
+
+The house fought back. The hammer man came up to the stair top with a stub revolver and
+fired at Tamsin, and the spike man fired his stub automatic, three rounds, and four light
+hits struck at Tamsin together. His refractor field took three of them in a shimmer of
+light, and the fourth slapped off his heavy front. From the south corner of the corridor,
+six metres away, the veteran from the river window fired his autogun into Tamsin's chest
+plate twice, and both rounds came off.
+
+On the lane, the door guard was badly hurt and still shooting. Two rounds from his
+submachine gun went through Brenner's plate, low on the left, below the skirt, into his
+hip. Brenner went down behind the tithe cart, badly hurt, and he was bleeding.
+
+The shield guard at the office door fired at Hollis, and it came off his plate. From the
+yard, two rounds struck Morcant at the hatch, and came off.
+
+The two mutants were fifteen metres from Hollis and Brenner and closing. And a man with a
+bag of mining charges had reached the cart doors.
+
+It was 0210.
+
+---
+
+"BRENNER GET IN FULL COVER AND STOP FIGHTING YOU'RE DONE."
+
+"ISK COVER BRENNER."
+
+"VARGA ROTATE TO BRENNER."
+
+"ANYONE CLOSE TO BRENNER AND HOLLIS ROTATE OVER."
+
+Brenner did as he was told. He dragged himself across the lane into the deep recess of a
+loading door opposite and put the wall between him and everything, and stopped fighting.
+He was still bleeding.
+
+Isk, across the river, came on the bead.
+
+"Can't see the lane from here, boss."
+
+And he could not get there. A burst on the jump pack carried a man ten or fifteen metres,
+not ninety, and the river was ninety. So he stayed in the tower and spent his shots on
+what he could see, the yard, through the gap at the water-gate, and dropped a man there.
+
+Tamsin ran for the nearest cover, the doorway of a clerk's room off the corridor, and
+fired from it. The hammer man was hurt at the stair top, and two bolts put him down. Then
+he swung onto the spike man, and the first bolt hit him, and the second was a perfect
+shot, and the spike man went down beside the hammer man. Vigil's coils were glowing now,
+and the heat was building in the stock.
+
+"VARGA AFTER YOU GET DOWN TEND TO HIM."
+
+"SALLOW WHERE ARE YOU?"
+
+"Behind you, boss! Going for Brenner. Morcant, up!"
+
+Kell had the veteran in the south corner of the corridor, and he shot him twice, and the
+veteran went down for good. Tavi covered the stair head. Up through the hatch Morcant
+reached down and hauled Sallow onto the roof.
+
+Varga stepped off the edge of the roof on her pack and came down soft in the lane beside
+Brenner's recess. She knelt over him with a field dressing, and packed the hip, and the
+bleeding stopped.
+
+On the river side Tey went up a quay ladder toward the lane. Sorel held the iron door.
+
+Hollis put a frag from Six Bells into the two mutants as they came. It caught the first.
+The second threw itself clear. Mira's multi-laser came down the lane after them, and
+knocked the first one flat on the cobbles, and hit the second. Teo's turret swung onto the
+cart doors and hit the man with the mining charges four times, and left him badly hurt.
+
+The second mutant reached Hollis, and its claws came at him, and he turned them aside.
+
+The man with the mining charges, badly hurt in the cart doors, threw one at Hollis's tithe
+cart. It went way off. It blew a hole in the wall of a warehouse fifteen metres short, and
+caught nobody.
+
+From the cart doors, which stood open now, the men inside fired at Varga, and the rounds
+came off her plate; another autogun jammed. An autogun round from the gap punched through
+Hollis's carapace chest plate, low on the right, and he was grazed.
+
+And then the garden gave up.
+
+Half of them were down. In the yard, in the cart doors, on the weighing floor, they began
+to throw down their guns, and Halloran's hired guards threw theirs down with them: the
+shield man at the office door, the door guard, the one who had gone in to wake the floor,
+the man in the yard with the dead hounds. Not the man with the mining charges in the cart
+doors. Not the vault, barred in stone under the floor, where nobody could hear. And not
+Corlis, wherever he was.
+
+It was 0211.
+
+---
+
+"Head tap the ones who won't surrender, that will show the others we mean business."
+
+Tamsin pushed past Tavi and went deeper: down the inner stair, past the bodies on it, and
+across the weighing floor between the big platform scales, where men were going down on
+their faces all round him, for the office at its north end and the trapdoor behind the big
+scales. It was the inside way down to the vault.
+
+"GET THE SURRENDERED ONES ON THE GROUND AND IN CUFFS, THE OTHERS DIE."
+
+The man with the mining charges had not dropped his. He was down in the cart doors,
+thirty-five metres from the lane, with a charge in his fist. Varga's first round put him
+flat. Her second went through his head. The charge fell out of his hand and thudded onto
+the flagstones, and lay there, inert.
+
+The surrendered saw it.
+
+Kell stood at the roof edge with Officer on the yard.
+
+"ON YOUR FACES! HANDS ON YOUR HEADS!"
+
+They went down.
+
+But the mutants did not surrender. The one Mira had knocked flat in the lane was tougher
+than it had looked, and it was getting up. Teo's turret found it in the open. Two bursts
+hit, and it went down again, and the third went through its head. The other was still on
+Hollis, clawing. Varga's last round was a perfect shot, and it staggered, and Hollis
+brought his hand flamer up at point-blank range and put the fire into it. It went up
+burning, flak and skin and all. It grabbed for him, burning, and he slipped the grab.
+
+Tavi came down the stair three metres behind Tamsin with a breaching charge on him for the
+vault. Sallow came down off the roof and made for the lane and Brenner under Varga's
+cover. Morcant dropped through the hatch and held the upstairs corridor. Tey came up the
+quay ladder into the yard and began to put the yard men down and cuff them. Isk watched
+the yard and the grain stairs from his tower. Mira turned the Valk's searchlight on, and
+flooded the yard and the lane with white light.
+
+At the iron door Sorel listened. The scraping had stopped. Footsteps were going away from
+the door, deeper in. Brenner, from his recess, had the auspex up: three moving under the
+floor, toward the office end.
+
+In the office's street doorway, on the lane side, the shield guard knelt with his riot
+shield on the floor in front of him and his hands on his head.
+
+Tamsin reached the office door. And behind the big scales, the trapdoor began to lift.
+
+A big man was shouldering it up from below, a brute of a man with a sledgehammer, and
+behind him, in the hole, Tamsin could see the corner of a crate. On the ladder under him
+was a man with a butcher's cleaver, and below that, at the bottom of the hole, a lamp.
+They had not seen him. He was six metres away.
+
+It was 0212.
+
+
+## Chapter 151: I Weigh Grain
+
+"TAVI ON ME SHOOT WITH ME."
+
+"SALLOW PATCH UP BRENNER DON'T LET HIM DOWN."
+
+"Kell status report? How is the situation over there."
+
+Out in the lane the burning mutant fell, and lay burning on the cobbles.
+
+Tavi stepped up beside Tamsin in the office doorway with Tiny, and they opened up together
+on the brute, half out of the trapdoor with the crate behind him. The men in the hole
+never saw them coming. Tavi's first round hit, and his second went wide, and his third
+hit. Then Tamsin put four into him. Every one hit, and the last was a perfect shot. The
+brute slumped forward across the lip of the trapdoor, dead, half blocking it, with a
+mining charge still in his belt that he had never armed.
+
+Vigil's coils had gone white. The stock was hot through Tamsin's gloves, and the gun was
+whining. He would have to vent it.
+
+Sallow ran the lane for Brenner with her bag, the whole length of the searchlight, and was
+still ten metres short of him at the end of it. Hollis stood over the mutant he had burned
+and put a round through its head.
+
+Kell gave the boss his report from the roof. The yard was locked down, and sixteen were on
+their faces. Tey had eight of them cuffed. Both mutants were dead. The cart sheds were
+quiet. Brenner was stable, and Hollis was grazed.
+
+And Brenner, from his recess, had the vault on his auspex. Two were left down there: one
+on the ladder, under the brute's body, and one at the bottom with the lamp.
+
+It was 0213.
+
+---
+
+"Clear and search, we need these bakers now."
+
+He pushed up to the hatch with Tavi at his shoulder, and Vigil vented in his hands with a
+long hiss of hot air.
+
+"Kell search around."
+
+"Morcant can you make space up there? If not hold position."
+
+Brenner called the last contact upstairs: the end room, in the back corner. Kell was
+already dropping in through the hatch behind him, so Morcant went. The end room's door was
+wedged on the inside with a chair. Morcant kicked it once, and it banged open, and he went
+in with Doorknocker up.
+
+Kell came in behind him and searched the room, and in the wardrobe he found a man with his
+hands up. He was unarmed, and unhurt, and he gave his name: Corlis. Kell bound his wrists.
+
+Out in the lane Brenner limped five metres out of his recess to meet Sallow, and she
+patched him there under the searchlight, and it took. He was only hurt now.
+
+Tey had fourteen of the sixteen cuffed in the yard, and Hollis was cuffing at the cart
+doors.
+
+In the vault, the man on the ladder under the brute's body let go of his butcher's
+cleaver, and it clattered down the hole.
+
+"I'm done! I'm done!"
+
+Down at the bottom of the hole, the lamp went away from the ladder, toward the river end
+of the vault. And at the iron door, Sorel heard the bar scrape, and scrape again, and not
+move.
+
+It was 0214.
+
+---
+
+"Someone rotate to Sorel."
+
+Tey was the nearest, and he sprinted from the yard for the grain stairs.
+
+"DOWN ON THE GROUND."
+
+"Tavi cuff em."
+
+Tavi reached into the hatch and hauled the cleaver man up over the lip by his collar, and
+put him face down on the office boards, and cuffed him.
+
+Tamsin put his boot to the brute's body and shoved it off the trapdoor, and went down the
+ladder into the vault.
+
+Upstairs Kell held Corlis in the end room, and Morcant went through the other rooms one by
+one. They were empty. Sallow stayed with Brenner in the lane, Hollis cuffed at the cart
+doors, Varga covered the lane, Isk watched the grain stairs, and Mira and Teo held the
+yard in their light and their guns.
+
+Brenner came on the bead.
+
+"Last one's at the river door, boss. Alone."
+
+The vault was stone, and cold, and full of the low hum of a Mechanicus cooler. The door of
+the cold room stood ajar, with frost breathing out of it, and inside it were racks of
+jars, with empty slots in them. A passage ran twelve metres from the foot of the ladder to
+the iron door at the river end, and at the end of it was the lamp.
+
+The man at the door heaved at the bar once more, and this time it lifted. He hauled the
+iron door open, and looked straight down the muzzle of Sorel's hellgun, with Tey coming up
+the grain stairs below. He froze in the doorway with the lamp in his hand. Tamsin was
+twelve metres behind him.
+
+It was 0215.
+
+---
+
+"ON THE GROUND NOW."
+
+He was a man of about fifty-five, with a fur collar on his coat. He bent and set the lamp
+down on the stone, carefully, and knelt, and went flat on his face in the doorway.
+
+"I'm down, I'm down. I weigh grain. I *weigh grain*."
+
+Sorel cuffed him, and Tey covered him from the stairs. It was Halloran.
+
+The fight at the weigh-house was over. Nothing was standing. Twenty-two were down,
+nineteen men and three hounds, and they had nineteen prisoners: the sixteen who had given
+up, the cleaver man, Corlis and Halloran. Both bakers had been taken alive. Brenner was
+hurt, and patched. Hollis was grazed. The rest of the Light was whole.
+
+---
+
+Tamsin walked up the passage and stood over Halloran with Vigil in his hand.
+
+"Where are the jars, where did they go!!?"
+
+"Here! They're all here! The crate, your man's got it, in the office. The rest are on the
+racks. Forty. Count them, forty. I count everything."
+
+Tamsin looked into the cold room. Sixteen jars stood frosted in the racks, and the other
+twenty-four slots were empty. Tavi came on the vox from the office: twenty-four jars in
+the crate, all of them sealed.
+
+"Who was trying to get them out?"
+
+"Me. Brask and the garden's man carried; I told them to. Nobody else knew we were moving
+them."
+
+The brute, and the man with the cleaver. Tamsin leaned down over him.
+
+"We are Inquisition. I will rip it out of you. Who and where were you taking them?"
+
+Halloran had not known. He had heard a gunship and a fight; he had not known it was the
+Ordo. The word broke him, and he talked.
+
+The weigh-house kept a skiff, moored under the barge landing. If the vault ever had to be
+emptied, the jars went down the grain stairs into it, and along the quay under the wall to
+the water-gate, and in through the flour chute, into a cellar under the third oven hall.
+There was a cold-box down there like the one in the vault, kept for the eve. It was Master
+Baker Hemmet's. Hemmet kept it, and he would have taken them without a question.
+
+"He takes everything the Silo gives him."
+
+What was in the jars, Halloran did not know. It was the Silo's blessing. And Hemmet did
+not expect anything tonight.
+
+"Grab the other one."
+
+Tey put it on the vox to Kell, and Kell started down with Corlis.
+
+"The other bakers' names, and anyone else important. Names."
+
+Halloran gave them all, face down on the stone.
+
+Master Baker Hemmet, of the Row's oven halls, was the only baker in it. He kept the
+cold-box under the third hall, and sent his thirty bakers out into the yard on the eve.
+The rest were only bakers.
+
+Corlis was the Spire man. He had come off-world with the satchel, and he brought the word:
+letters off the *Hesk Tender*. From whom, Halloran had never known.
+
+Under-Secretary Jarel Quint, in the Governor's office, signed the Silo's passes through
+the quarantine, and had put the words in the Governor's address. Halloran did not know
+Quint was taken.
+
+The widow Hanne Sallis, of Sallis & Daughters on the Quay of Weights, was the purse. She
+paid the triple tithe, and Halloran's wages, and the garden's coin.
+
+Dray was a lighterman. He brought the jars down from the *Hesk Tender* on his lighter to
+the grain stairs, at night. And the *Tender* was coming again, at the Lamps, for two
+crates and a passenger. Who the passenger was, Halloran did not know.
+
+And there was the Brother at Kettle Ford, and Fenn at Varn Quay. He knew them both by
+name.
+
+He did not know who was above Corlis off-world. He did not know what was in the jars.
+
+Kell came down the ladder with Corlis.
+
+---
+
+At about 0220 the Light went over the downed.
+
+Fifteen of Halloran's and the garden's men were dead. The Row's commander was among them,
+and the veteran from the river window, the brute, the man with the mining charges, the
+lamp man from the landing, and both mutants. Four lived, down and helpless, and Sallow
+would have them to see to: the weigh-guard from the landing, the mortar gunner, the
+jump-pack man on the gantry and a man in the yard. All three of Halloran's farm hounds
+were alive, wounded, in the lane.
+
+There were twenty-three prisoners now.
+
+Tamsin put it out on the vox to all of them.
+
+"Everyone search the area, find everything, no matter the time."
+
+Sorel led it. Tamsin went down the passage to Corlis.
+
+
+## Chapter 152: One City's Bread
+
+Kell stood Corlis against the wall by the cold room, with the frost breathing out of the
+door beside him and the cooler humming. His wrists were bound in front of him. He was
+unhurt, and he did not look afraid. Above them the search had started, boots on the boards
+and crates dragged over the weighing floor, and Sorel calling it.
+
+Tamsin began with a plain question.
+
+"Who hired the militia?"
+
+Corlis answered it as if it cost him nothing.
+
+"The weigh-guards? Halloran hired them. Silo livery, the widow's coin. The others weren't
+hired." A small movement of his bound hands, up at the ceiling, where the garden lay
+cuffed on its face. "Nobody pays the garden. It grows."
+
+"I know who you are and what you've done... the Inquisition tried to get you at the Mart
+and you escaped... to do what? Come here and flee and cower?"
+
+That reached him. He had not known they knew him, or his run. But he took it with
+something like pride.
+
+He had hidden in a wardrobe tonight, he said, and he had never claimed to be braver than
+that. He was not a soldier. He had come to carry the word.
+
+"And it's delivered."
+
+"And your satchel. What will I find in that?"
+
+His eyes went to the satchel for the first time.
+
+"Letters you can't read. A speech you've already heard. And a token for a boat you'll
+never catch."
+
+Tamsin stepped in closer.
+
+"A speech that won't get its word out; men spoke of what would happen... would happen. The
+Inquisition is here to stop that. We've already halted your plan. Now how did you know to
+reinforce your position?"
+
+That one got in under his calm. The jars were in a crate in the office, and the bakers
+were in cuffs. He told it plainly, the way a clerk tells an account.
+
+Quint had missed his hour on day forty-seven. Quint was a man who never in his life missed
+his hour. And the same night the port cells had gone up at seven bells. So Corlis had told
+Halloran to bring the garden in off the Row, all of it, into the cart sheds, and not a
+dozen of them: as many as would come.
+
+"Never enough. You can't win this war. Your governor will never get that speech out, those
+vox masts will not speak throughout Gallow. And my team already has an antidote; having
+jars on jars confiscated makes it easy."
+
+Corlis looked at him for a long moment.
+
+"If you had a cure, you wouldn't be asking me questions."
+
+Then, softly, as if he were sorry to say it:
+
+"Forty jars is one city's bread, Interrogator. Gallow has more than one city."
+
+Tamsin did not give him an inch.
+
+"I know... this is only stop one, the rest are undergoing infiltration soon, I just like
+to see you crumble when I tell you. And plus who doesn't like more information? People
+tell me the same story and it adds up, people tell me different things and it doesn't...
+like your bluff of more places, only one that supplies the bread for this festival, ready
+to see it crumble?"
+
+But that one ran off him. Some of his footing came back, and he almost smiled.
+
+"You said 'the rest' and 'only one' in the same breath, Interrogator. Pick one. I wasn't
+bluffing. You'll find that out without my help."
+
+"All the silos are mine... infiltrated. The cells mine... infiltrated... this mine.
+Infiltration... and the governor is getting infiltrated soon. I didn't contradict myself,
+you rotting fools just don't use sense. I stand by what I said, you're trying to buy time,
+time is the only thing you have left, ain't that right?"
+
+It was true, and Corlis knew it was, and he gave it to him, because it cost him nothing.
+
+"Five days, Interrogator. I only have to be quiet for five days."
+
+Five days was the eve of the Lamps.
+
+Then, about the Governor, and a little too pleasantly:
+
+"Go and see the Governor. Please. Tell him everything you told me."
+
+Tamsin looked at him.
+
+"If it takes me a bullet to stop the governor I don't care, but a single word scares men
+like that. The word that means you know what your fate is after this, just like you. It
+will be fun."
+
+Corlis did not flinch at all.
+
+"Enjoy it, then."
+
+Tamsin turned his back on him and walked away down the passage toward the iron door, where
+Sorel stood with his hellgun over Halloran, face down on the stone at his feet. Kell kept
+Corlis by the cold room, with the frost and the hum of the cooler, and the empty slots in
+the racks.
+
+
+## Chapter 153: We Go Quiet
+
+"Tell everyone to grab everything and load up, fast, we need to move."
+
+Sorel put it on the vox. But the search was only ten minutes into its hour, and Tamsin let
+them finish it first. They would take the weigh-house apart, load it all, and lift by half
+past three.
+
+Tamsin went up the ladder to find Brenner.
+
+Brenner was in the office. Sallow had patched him in the lane, and he had not gone back to
+his recess; he had limped in to the search, pale and sweating, with the auspex on his
+wrist, and he was kneeling now by the big scales. Under the platform of the scales, the
+auspex had found an iron box.
+
+Tamsin got down beside him, and between them they hauled it out from under the scales. It
+was iron, and locked, and heavy.
+
+"So this is ours now, what's the next one?"
+
+Brenner gave him the board.
+
+Hemmet was next, in the oven halls, in the cellar under the third hall. He was the
+closest, two hundred metres down the Row, and the whole Row had just heard a Valkyrie and
+a firefight. Then the Governor and the horns, the way Kesh wanted it, the bakers first and
+then the Governor. And Brenner still had not found where the horns broadcast from.
+
+He had one objection, and he gave it. Hemmet was tonight or never. The Governor was not
+tonight: two of them hurt, twenty-three prisoners, and forty jars of plague aboard.
+
+Tamsin thought about it.
+
+"Hmm, I will take 3 and we will head over on foot, should take us 15-20 minutes... we will
+scout and infiltrate in... you guys hurry and once you're done come to us and start the
+assault."
+
+He already knew which three.
+
+"Tey, Sorel, Isk. I'll fetch them... stay sharp, Brenner."
+
+"Sharp, boss."
+
+He pulled them out of the search one at a time. Tey was in the yard with the cuffed men.
+Sorel was in the vault; Kell took Halloran and Corlis off his hands. Isk was in the cart
+sheds, going through the bunks; Mira had fetched him over the river in the Valk when the
+shooting stopped. Tamsin brought the three of them together on the weighing floor by the
+cart doors.
+
+He dropped Vigil's half-empty pack and slapped a fresh one in.
+
+"Us four are going to go ahead and rotate over to the third hall, we go quiet, I expect
+patrols and people around the area so we sneak there. Check your kits, load up and we go."
+
+They checked their kits.
+
+"Both packs fresh," said Tey.
+
+Isk capped his lens and put Patience's scope over to low light. Sorel took point. He was
+the tracker, and the dark way was his call: not up the lit Row, but down the quay ladder
+and along the quay under the wall, out of the lamplight, the way he and Tey had come in to
+the landing. It would bring them to the oven halls from the river side, into the
+water-gate yard.
+
+---
+
+They went down the ladder one at a time, and along the foot of the quay wall in the dark,
+with the river slapping at the stones beside them and the moored barges creaking. Nobody
+slipped. Above them on the Row nothing moved, and nobody saw them.
+
+At about 0248 they crouched in the shadow under the wall of the water-gate yard.
+
+Two men of the halls' night watch were in the yard. One paced with a pocket revolver in
+his hand and a sickle on his belt. The other crouched by the flour chute, behind a scrap
+cogitator shield, with a satchel at his hip. Isk put his scope up over the wall, onto the
+flat roof of the flour store between the halls and the Row: two men up there with long
+rifles, facing the other way, up the Row toward the weigh-house. One of the rifles had a
+low-light optic on it that glowed faintly. The third hall stood dark beyond the yard, and
+the chute's hatch was shut.
+
+Then, from the Row side of the halls, over the roofs, came the sound of a cart: wheels, a
+horse, a lantern swinging at the door of the bakers' house over the first hall. Somebody
+hammered on that door.
+
+"Master Hemmet! The widow sent us. Now, sir!"
+
+A man's voice answered from inside, hoarse and hurried.
+
+"The ledgers, the box, give me two minutes!"
+
+Hemmet was leaving.
+
+"Isk, find overwatch. Tey, Sorel, up with me."
+
+Tamsin drew his knife.
+
+Isk did not use his pack; it was loud. He went up a stack of flour barrels against the
+third hall's lean-to instead, and onto its roof, where he could see the yard and the
+flour-store roof both, and nobody saw him go. Tey came over the wall behind Tamsin like a
+shadow.
+
+Then Sorel's boot turned a loose cobble at the yard's edge, and it knocked.
+
+The man pacing the yard stopped. He turned toward the wall, and the pocket revolver came
+up toward the dark, and he peered into it, six metres from where Tamsin crouched.
+
+"Who's that? Jory?"
+
+---
+
+Tamsin let him come.
+
+The watchman came on toward the wall to look, peering, and saw nothing in the shadow until
+it was too late. Then Tamsin came out of the dark at him with the knife. A hand went over
+his mouth, and the knife went in four times, quick, and the man folded. Tamsin caught the
+revolver before it hit the stones.
+
+Nobody heard. The man by the chute never looked up. On the flour-store roof the two rifles
+still faced up the Row.
+
+Tamsin finished the watchman where he lay, and waved Tey and Sorel up after him.
+
+Sorel came like a ghost. Tey's boot found a puddle in the yard's gutter, and splashed.
+
+The man at the chute came up off his heels behind his scrap shield, staring straight at
+Tey, eight metres off, and one hand went into the satchel at his hip.
+
+Sorel fired his silenced stub pistol at him as he rose. It made a soft *phut*, and the
+round went into the wall.
+
+Tamsin went for him across ten metres of yard with the knife. The first stroke went in.
+The second was perfect, across the throat, so that the man could not cry out. But the
+third stroke met the scrap shield, and the shield slammed it aside in a spray of sparks in
+Tamsin's face. The man had his chance then, and took it: he drove the shield at Tamsin
+with its dying power cell crackling, to stun him. Tamsin turned it, and the cell
+discharged into the air, spent.
+
+Nobody heard that either. Tey closed in beside Tamsin with both hellpistols on the man's
+head, and held his fire; it would have been loud.
+
+From the lean-to roof, over the halls, Isk came on the bead, low.
+
+"Cart's at the first hall's door. He's coming out, a box under his arm. Two men helping
+him up. Driver's got the reins."
+
+Tamsin went in again. The hand first, opened to the bone, and the satchel caught as it
+fell; then the leg; then the chest, to finish him. The man went down without a sound.
+Nobody heard. The water-gate yard was theirs, and nobody on the Row knew it.
+
+Isk again:
+
+"He's up on the cart. Hired men climbing on. It'll move any second. Want the horse? It'd
+be loud."
+
+"No, stay quiet... I have no idea how many are here."
+
+Tamsin slung the dead man's satchel over his shoulder. There were four frags in it.
+
+"Come, let's move."
+
+Sorel had found the way: the gap between the second and third halls ran straight through
+to the Row, thirty metres, and the cart stood at the other end of it. They ran it, Tamsin
+and Tey and Sorel, through the dark between the brick walls, and they ran it too fast. The
+running boots carried. The horse and the cart covered a little of it, but not enough.
+
+At the cart, heads came round toward the gap. On the flour-store roof above it, the rifles
+turned.
+
+
+## Chapter 154: Shoot the Horses
+
+The cart stood eight metres from the mouth of the gap, under its own lantern at the door
+of the first hall: a canvas-hooded flatbed with one horse in the traces. Master Baker
+Hemmet sat up on the bench with a strongbox on his knees. The driver had the reins. On the
+bed behind them a man crouched behind sandbags at an old heavy belt stubber, propped up
+and pointing down the Row. Another man was climbing up over the tailboard. In the doorway
+of the first hall stood the watch's leader, with a chainsword on his hip and a command
+vox, and beside him a man with a big heavy stub pistol, seeing Hemmet off; two more of the
+watch stood by the door with a machete and a pry-bar. Above them all, on the flour-store
+roof, were the two rifles.
+
+They had heard the boots, and they were turning.
+
+"ISK FIRE."
+
+"SOREL FIRE."
+
+"TEY NON-LETHAL ON THE MASTER BAKER."
+
+Tamsin went into half cover at the corner of the flour store and brought Vigil up on the
+stubber. The gunner was crouched in the lantern light behind his sandbags, and he had no
+armour. The first bolt hit him. The second was a perfect shot, and so was the third, and
+the gunner was dead behind his gun before it came round. Tamsin swung onto the watch
+leader in the doorway, and the fourth bolt was perfect too, and the leader reeled back
+against the doorframe, hurt. Three perfect shots in four: Vigil's coils were glowing
+white, and the gun was whining for a vent.
+
+On the lean-to roof Isk had the low-light rifleman leaning out over the flour store's
+parapet, twenty-five metres off, and he hit him three times. The rifleman dropped behind
+the parapet, badly hurt.
+
+Sorel stepped to the mouth of the gap and swung his hellgun onto the big pistol man in the
+doorway. His first shot was a perfect one, and the next two hit, and the pistol man went
+down in the doorway.
+
+Tey took one shot, aimed, at the Master Baker's legs, and it went through Hemmet's calf.
+Hemmet cried out on the bench.
+
+The leader grabbed his command vox, hurt as he was.
+
+"Armed men at the ovens! Help, at the ovens!"
+
+And he bellowed at the driver:
+
+"GO!"
+
+On the roof the other rifleman fired down into the gap at Sorel, and missed. The man on
+the tailboard had a stub revolver and a carapace chest plate, and he fanned the revolver
+at the flashes, at Tamsin, three times. Two of them would have hit, and Tamsin's refractor
+field took both in a shimmer.
+
+The driver laid the whip on the horse, and the cart bolted down the Row, away from the
+gap, with the man in the chest plate hanging off the tailboard, the dead gunner and his
+stubber rolling on the bed, and Hemmet down in the bed among them, clutching his
+strongbox. The machete man and the pry-bar man got back into the first hall's doorway.
+
+The quiet was over. The whole Row could hear the guns now.
+
+It was 0254.
+
+---
+
+"ISK SHOOT THE HORSES."
+
+"SOREL SHOOT THE CART."
+
+"TEY SHOOT THE VOX MAN."
+
+From the lean-to Isk could see the cart over the roofs, forty metres off and going fast.
+He put Patience on the horse. Two rounds hit it, and the third was a perfect shot, and the
+horse folded in the traces. The cart slewed broadside across the Row and slammed to a
+stop, twenty-five metres down from the mouth of the gap.
+
+Sorel had the driver. The hood and the man on the tailboard were in the way, but he hit
+the driver twice, and hurt him.
+
+Tamsin pulled an impact frag off his belt.
+
+"SURRENDER NOW."
+
+He threw it at the first hall's doorway, eight metres, and it burst right on the spot. The
+watch leader, the machete man and the pry-bar man were all caught in it, and the big
+pistol man, down in the doorway, was killed where he lay.
+
+Vigil vented with a long hiss.
+
+Tey put his hellpistols on the doorway through the frag dust, and the first shot dropped
+the watch leader. Then he swung up at the other rifleman on the flour-store roof, ten
+metres off behind the parapet, and walked four shots onto him, and the rifleman went down.
+The last shot went into the machete man in the doorway, and hurt him.
+
+The machete man and the pry-bar man fell back inside the first hall, out of the lantern
+light. The low-light rifleman stayed down behind the parapet.
+
+From behind the stopped cart, the man in the chest plate fired his revolver up the Row at
+Tey in the mouth of the gap. Two went wide. The third was a perfect shot, and it went in
+under Tey's arm, and grazed him.
+
+That was enough for the driver. Hurt, with his horse dead in front of him, he put his
+hands up from behind it and gave himself up. The man in the chest plate did not. He ran,
+down the Row into the dark. And Hemmet, shot through the calf, rolled out of the cart bed
+and crawled in behind a wheel with the strongbox in his arms.
+
+Down at the silo end of the Row two more men came running, answering the leader's call on
+the vox: one with a hunting rifle, and one with nothing in his hands at all.
+
+Kell came on the vox from the weigh-house.
+
+"Boss, we hear shooting down the Row. Want us now, or do we finish?"
+
+It was 0255.
+
+---
+
+"Cuff them and get them on the ground and search them."
+
+Tamsin ran down the Row for the cart, twenty-five metres, out in the lantern light, and on
+the run he answered Kell, dry.
+
+"Finishing up here, don't worry, take your time."
+
+Kell read him.
+
+"Read you, boss. Coming now."
+
+Sorel ran after Tamsin, for the driver. Tey held the mouth of the gap, with his
+hellpistols on the first hall's doorway, where the two were inside.
+
+Isk had the rifleman running down from the silos. His first shot hit him, and the next two
+missed. The rifleman threw himself behind a bollard and fired at Tamsin running in the
+lantern light, and missed. The man with nothing in his hands ran on past him for the first
+hall's doorway, where the watch leader lay.
+
+Tamsin came round the wheel of the cart. And Hemmet came up off the cobbles to meet him,
+swinging the strongbox two-handed, and smashed it into Tamsin's chest. The heavy front
+took it, and Tamsin did not even rock.
+
+It was 0256.
+
+---
+
+"Kill the useless ones."
+
+Sorel, over the driver with his hands up, looked to the boss: this one?
+
+"No, the one that shot at me mostly... just get him."
+
+The rifleman behind the bollard. Isk had him already. Three rounds hit, and he went down
+behind the bollard.
+
+Tamsin went into Hemmet with his fists. The first blow rocked him. The second rocked him
+again, and the strongbox dropped. The third put him down, and the Master Baker of Silo Row
+lay in the gutter beside his strongbox, out cold.
+
+Sorel cuffed the driver and went through his pockets. In the first hall's doorway the man
+with nothing in his hands was on his knees over the watch leader, trying to patch him, and
+it was not taking.
+
+And overhead, the Valkyrie came in low over the Row, and her searchlight came sweeping
+down it, and found them.
+
+It was 0257.
+
+---
+
+Tamsin cuffed the unconscious Master Baker himself.
+
+"You both stay here, I'll push the first hall. Get out here sorted first, then come to
+me."
+
+He started up the Row for the first hall's door.
+
+Behind him the Valkyrie came down to a low hover, and Kell, Varga and Morcant dropped off
+her onto the Row, ten metres back. Mira held her over the Row with the searchlight on the
+first hall. Sorel and Tey held the cart, with Hemmet cuffed and out, and the driver
+cuffed, and the strongbox. Sorel went to search the downed rifleman. Isk watched the yard
+and the river side and the flour-store roof.
+
+Under the gunship and the searchlight the watch broke. The machete man and the pry-bar man
+went out the back of the first hall, running for the quay.
+
+Isk called it.
+
+"Two out the back of the first hall, running for the quay!"
+
+It was 0258.
+
+
+## Chapter 155: Just a Baker
+
+Tamsin drew Vigil and put his back to the wall beside the first hall's door. Kell, Varga
+and Morcant stacked on the wall behind him, Morcant with Doorknocker up. He did not know
+who was left inside, or how many.
+
+"I KNOW YOU'RE IN THERE, MY SHIP'S BROUGHT MORE OF MY MEN... SURRENDER OR GET A BARRAGE OF
+GRENADES."
+
+Only one man answered. The man with nothing in his hands was still on his knees in the
+doorway over the watch leader, and he put his hands up in the white glare of the
+searchlight.
+
+"I'm a healer! I've got no gun! He's bleeding out, let me work!"
+
+Nobody else answered. The two runners had gone down the quay steps and along the quay
+downstream into the dark. And on the flour-store roof, the low-light rifleman, badly hurt,
+had got to the back ladder and slipped down it out of sight.
+
+It was 0259.
+
+---
+
+"VARGA, IN THE AIR, FIND THOSE ONES WHO RAN."
+
+"KELL, RUN DOWN THE ROW, FIND THE PLATE MAN."
+
+Then, to the healer in the doorway:
+
+"HE CAN HAVE MEDICAL OUT HERE. DRAG HIM OUT OR I WILL DRAG YOU OUT DEAD."
+
+The healer took the watch leader under the arms and dragged him out of the doorway into
+the searchlight, and knelt over him again.
+
+Varga went up on her pack, two bursts down the quay, looking. She found the pry-bar man
+crouched on the quay steps and came down on the step above him with Mercy in his face, and
+he threw his pry-bar in the river and gave up. The machete man she did not find. He had
+gone somewhere among the barges moored along the quay, and the dark had him.
+
+Kell sprinted down the Row, looking in every doorway. Sixty metres down he found the man
+in the chest plate pressed into an alley doorway, and the man put his revolver down on the
+cobbles and his hands on the door.
+
+It was 0300.
+
+---
+
+"VARGA, KELL, TAKE THEM AND BRING THEM HERE."
+
+Then, to Morcant:
+
+"Grab the medic and the commander, let him work, but disarm both of them first. If either
+of them moves, kill them both."
+
+And into the dark hall:
+
+"JUST BECAUSE ONE RAN OUT DOESN'T MEAN IT'S SAFE. SPEAK NOW OR HAVE A GRENADE LIGHT UP
+YOUR ROOM."
+
+Varga marched the pry-bar man up the quay steps, and Kell brought the chest-plate man back
+up the Row. Morcant took the watch leader's chainsword and his command vox and his pipe
+rifle off him, and patted the healer down: a prayer book, dressings, two stimms, and no
+weapon. Then he stood over both of them with Doorknocker while the healer worked. The
+third time the healer tried, it took, and the watch leader came back to himself on the
+cobbles, awake and hurt, under Morcant's gun.
+
+The hall gave back nothing but silence.
+
+It was 0301.
+
+---
+
+"Anyone in there? Don't lie to me, you decide their fate now. They die from a frag or they
+live."
+
+The healer did not know. He was not from the halls. He had come down from the silo end
+with the vox call, and he had seen two men run out the back, and that was all he knew.
+
+The watch leader got it out first, flat on the cobbles.
+
+"The loft! Bakers in the loft, over the first hall, three lads, they're nothing to do with
+it! Don't throw!"
+
+"Cuff both of them."
+
+Morcant cuffed the healer and the watch leader.
+
+Tamsin put his helm lumen on and went into the first hall.
+
+It was a long brick hall, with thirteen kneading troughs in two rows down the middle,
+their lids down, and the ovens cold along the left wall. Flour lay over everything. Stools
+were knocked over by the back door, which stood open on the river side, and in the flour
+on the floor two sets of prints ran out through it: the two who had run. In the far right
+corner a back stair went up to Hemmet's rooms and the loft. There were prints on that too.
+Hemmet's heavy ones came down it. Three smaller sets went up it, hours old, and one set
+came down to the landing and went back up, just now.
+
+Above him the boards creaked.
+
+Varga and Kell came in at the door with their two prisoners.
+
+---
+
+"Morcant, Sorel, get in here."
+
+Morcant came in at his shoulder. Sorel came up from the cart; Tey stayed with Hemmet.
+
+Tamsin stood still at the foot of the back stair and listened. There were three people at
+the top of it, in the loft, behind a wall of flour sacks. One of them was whispering a
+prayer. There was nothing metal up there, and no weapon. And the door to Hemmet's rooms,
+on the landing, stood open, with papers scattered all over the floor inside.
+
+He went up.
+
+"Come out... now. Behind the wall of flour."
+
+Three young bakers came out from behind the sacks with their hands up, in their
+nightshirts, with flour to the elbows.
+
+"Don't shoot! We're bakers! We heard the shooting and hid!"
+
+Morcant and Sorel put them on their knees on the landing.
+
+Tamsin walked into Hemmet's rooms. There was a narrow bed. A desk stood with its drawers
+pulled out, and a cupboard in the wall stood open and empty, where the strongbox had
+lived. An old raider's leather jacket hung on a hook, with its crew patches cut off. Over
+the bed was a prayer card of the Emperor. And papers lay all over the floor: flour
+tallies, oven rotas, and on top of them, in Hemmet's square hand, a sheet he had dropped.
+
+*40 troughs. Bakers to the yard at midnight. The Silo's blessing. Doors barred a quarter
+hour. H's men by the water-gate.*
+
+It was the eve.
+
+He gathered up what mattered off the floor: the eve's sheet; the oven rota for the eve;
+and a bundle of receipts, stamped *Sallis & Daughters, Quay of Weights*, six years of
+them, the triple payments, every one of them *for the Lamps bake*. He looked in the
+grenadier's satchel on his back. There were the four frags, and a twist of lho-sticks. He
+tossed the lho-sticks, and the papers went in with the frags.
+
+---
+
+He went out onto the landing. Sorel had cuffed the three bakers, as the standing order
+was. One was lanky, about nineteen, and was the one whispering the prayer. One was stocky,
+the oldest, about twenty-two, with old burn scars up his forearms, and he was watching
+Tamsin. The third was small, about seventeen, and crying without a sound.
+
+"Who went through the old man's stuff?"
+
+The small one blurted it out. The master had done it himself, throwing things into the box
+and shouting for the lantern.
+
+The stocky one said that he had come down to the landing when the cart came, and looked
+in, and seen the master gone and the door open, and gone straight back up. He had not
+touched a thing. His name was Aldo. The prints on the stair said the same.
+
+"Search them."
+
+Sorel searched them. Between them they had seventy-seven Thrones, a working purse each.
+The lanky one had a tin aquila on a cord, the small one a folded letter from home, and the
+stocky one a paring knife. There was nothing of the Silo's.
+
+"Where's the rest of you bakers at?"
+
+Gone home, they said. The night shift, thirty of them, went home when it ended at two. The
+three of them slept over in the loft because they started the bread at five. At five the
+morning shift came in, and the foreman, Garran.
+
+Tamsin took Aldo's paring knife from Sorel and turned it over in his lumen. It was a
+baker's scoring knife, with a horn handle gone dark with age. The blade had been sharpened
+for so many years that it was worn thin as a leaf. Two letters were cut into the horn:
+*O.V.*
+
+"An heirloom? What's up with this? You special or something?"
+
+It was his grandad's, Aldo said. Oswin Vale. He had been master baker of these ovens
+before Hemmet, before the Silo bought the halls.
+
+"I'm nobody special, sir. Just a baker. It's for scoring the loaves."
+
+Tamsin kept looking at the knife.
+
+"You hold onto this, so obviously it and this place mean something to you. In your hour of
+attack this is what you grab to go with you. So that's not just all it does."
+
+Aldo broke open.
+
+The halls had been his family's for three generations. Ten years ago the Silo had bought
+them, through the widow's house, when his grandad's debts came due, and put Hemmet in.
+Oswin died two winters after. Aldo had stayed on as a journeyman under the man who took
+them. And every Lamps eve the bakers were sent out into the yard at midnight for a quarter
+of an hour, and the doors were barred, and men from the weigh-house came in through the
+water-gate with a covered handcart. His grandad had never sent a man out of his own halls
+in his life. Aldo had watched it four years and said nothing.
+
+"So you knew?"
+
+He had known something. Never what. Two years ago he had hidden in the flour store on the
+eve, and watched through a crack: Halloran's men going trough to trough with a dipper from
+a covered jar, a dip into each, and Hemmet in the door with a lamp, watching the yard,
+sweating. They called it the Silo's blessing, like holy water. Aldo had told himself it
+was. And who would he tell? The Silo owned the reeve's grain, and Hemmet had the garden's
+men behind him, and his mother and his sisters ate on his wage.
+
+"So I don't have to make you cooperate, then? You be smart and take it easy and you'll get
+off with a slap on the wrist; make any more trouble out of yourself and you'll see the
+inside of a cell for as long as time."
+
+"No trouble, sir. Whatever you need. I'll say it to anyone you put in front of me."
+
+The other two nodded hard. Tamsin still had Oswin Vale's knife in his hand. Aldo's eyes
+kept going to it, but he did not ask.
+
+"Who else is here in the halls? The cellar under the third hall? Or what else?"
+
+Nobody else lived in the halls, Aldo said. The watch bunked in the gatehouse by the flour
+store, and it was empty now. The cellar under the third hall was locked: an iron door at
+the foot of a stair behind the third hall's last oven. Only Hemmet had the key, on the
+ring on his belt. A Mechanicus cooler had hummed down there for four years, and no baker
+was allowed down. And the flour chute from the water-gate yard dropped into that cellar
+too, barred from below.
+
+Tamsin put it on the vox.
+
+"Tey, Hem has a key on him, I need it."
+
+Kell took the cart and its prisoners off Tey's hands, and Tey cut the key ring off
+Hemmet's belt and brought it up the back stair. There were seven keys on it: the halls'
+street door and back door, the gatehouse, the flour store, Hemmet's rooms, a small brass
+one, and a big iron one, cold to the touch.
+
+"He's stirring, boss. Groaning. Kell's got him."
+
+---
+
+Tamsin hauled Aldo up off his knees, cuffed.
+
+"You walk first."
+
+Aldo led them. Sorel and Tey came behind Tamsin, and Morcant held the other two on the
+landing. Down the back stair they went, across the first hall, through the arched passage
+into the second, and on into the third: the same troughs, the same cold ovens, the same
+flour over everything. Behind the third hall's last oven a narrow stone stair went down
+into the floor. At the foot of it was an iron door, with frost on its hinges, and through
+it the low hum of a cooler.
+
+Aldo stopped two steps above it.
+
+"That's it, sir."
+
+"Stand back, farther."
+
+Aldo backed up the stair to the top, by the last oven.
+
+"Masks."
+
+Tamsin sealed his rebreather. Tey and Sorel pulled their gas masks on.
+
+"Shhh, nobody make a noise."
+
+He put his head to the iron door and listened. There was only the machine: the cooler's
+hum and its cycle ticking over, coolant gurgling in a pipe, water dripping onto stone, and
+a thin draught whistling somewhere, down the flour chute. Nothing breathed in there, and
+nothing moved.
+
+He turned the big iron key, and eased the door open a hand's width, and put his lumen in.
+
+A breath of frost rolled out over his boots. It was a low brick vault, eight metres by
+six, with frost furring every surface white. Against the back wall stood a Mechanicus
+cooler, iron and brass, with the cog-skull on it and an amber rune glowing on its face,
+its double door shut and its pipes running into the wall. In the far corner of the ceiling
+was the flour chute's iron hatch, barred from below. Flour sacks were stacked along one
+wall. And on a hook by the door hung a long-handled copper dipper, and folded beneath it a
+canvas cover with drawstrings, the size of a handcart.
+
+There was no one there, and nothing moved.
+
+He swung the door wide and stepped in. The cold bit through his carapace. Up close, the
+cooler's brass plate was stencilled *G-IX*. The frost lay thick on its door seals: nobody
+had opened it in days. The dipper's copper bowl was stained faintly green inside. The
+canvas cover smelled of the river and old flour.
+
+He opened the cooler. Frost cracked off the seals. Inside were wire racks, with forty
+padded cradles in them, every one empty and frosted, and a brass plate on the inside of
+the door: *HOLD AT MINUS FOUR. BY ORDER.* The flour sacks along the wall, a dozen of them,
+were stamped *LAMPS. DUNN'S MILL. CLEAN.* It was the clean flour Dunn's mill had ground
+for the eve.
+
+Sorel said the stain in the dipper was a sample, for Ferro. Tey looked the cooler over and
+said it was bolted to the floor and plumbed into the wall; it was a tech-priest's job, not
+four men's. But the Light had forty jars, and one cooler, aboard.
+
+"We need Ferro here first; until then everything sits."
+
+He went out of the cellar and locked it behind him, and kept the iron key.
+
+---
+
+He went up to the Row and helped load at the cart while they waited for the rest. Of the
+halls' watch and the widow's men, five were dead: the two in the yard, the big pistol man
+in the doorway, the stubber gunner on the cart and the rifleman on the flour-store roof.
+The horse was dead in its traces. Hemmet was awake, cuffed and shot through the calf. They
+had the watch leader, hurt, and the pry-bar man, the man in the chest plate, the driver,
+the healer, and the rifleman from the silos, who was down behind his bollard and would
+need Sallow. Two of the watch had got away into the dark: the machete man among the
+barges, and the low-light rifleman off the back of the flour store, badly hurt.
+
+At about half past three the *Bright Light* lifted from the weigh-house, and at about 0335
+Teo brought her down on the quay by the water-gate yard, with the weigh-house team aboard,
+and the twenty-three prisoners, and the forty jars.
+
+The weigh-house team had taken the place apart in an hour, the way the boss had told them
+to, and found it all. There were the forty jars, twenty-four in Halloran's crate and
+sixteen off the cold-room racks, and the vault's cooler. There was Halloran's vault
+ledger, and Corlis's satchel from his room, full of sealed letters. There was the iron box
+from under the scales, which was the Silo's pay chest, with three thousand Thrones in it,
+and a thousand more off the bodies and the prisoners. There was a phosphex canister in the
+stores, and a crate of armour-piercing rounds, and the garden's guns and blades, and its
+armour, by the heap. There was the vox man's auspex, which saw through walls, and the
+commander's vox, and the scrap jump pack off the gantry, and two mining charges that had
+never gone off.
+
+Ferro came down off the ramp with his tools and went down to the cellar. He unbolted the
+G-IX cooler and unplumbed it from the wall, and kept it cold on its own cell, and Morcant
+and Tavi carried it up the narrow stair between them. The dipper went into a sample bag.
+
+"The stain is the culture, dried."
+
+The canvas cover went with it, and one sack of the clean Lamps flour, which Ferro wanted
+to test against. The other eleven sacks stayed where they were.
+
+Hemmet's strongbox opened with the small brass key. There were a thousand Thrones in it,
+and Hemmet's halls ledgers: ten years of the Silo's payments, through Sallis & Daughters.
+There were two hundred and sixty-one Thrones off the dead and the prisoners. The three
+bakers' seventy-seven were Tamsin's call.
+
+The three bakers came aboard as witnesses, not in the cells.
+
+By about 0412 they were all aboard. In less than an hour the morning shift would come to
+the halls, to a locked and empty set of ovens, and a dead horse in the Row.
+
+
+## Chapter 156: The Out-of-Position Bullet
+
+At about 0420, with the *Bright Light* holding over the river and the first grey of the
+dawn coming into her ports, Tamsin went to the medicae.
+
+Sallow was working through the night's wounded, Brenner and Hollis and Tey, with the
+rifleman from the silos down on the floor under guard, waiting his turn. Every bunk was
+full. Vosk lay strapped to the treatment couch on the second day of his purge, grey and
+sweating and shaking, and lucid. Corvane was propped up in his bunk with his dressing on,
+bored. Pim, the Light's trainee, was groggy, with Nessa's dart still wearing off in him,
+and embarrassed about it. Behind a curtain the three from the Ninth's third silo were
+asleep. And Nessa sat cross-legged on her bunk, awake, as if she had been waiting.
+
+"You seem to be fine, Nessa, ready to head back in? The medicae will be full soon."
+
+She swung her legs off the bunk. She had been ready, she said, since the first guns on the
+Row.
+
+"You told me to rest; I rested."
+
+She gave the bunk up to the wounded, and gave him a long dry look on her way past.
+
+"You've been up all night twice. You look worse than Corvane."
+
+She was back on duty.
+
+---
+
+Tamsin went to Corvane's bunk.
+
+"Open up, Corv, let's see what happened."
+
+Corvane pulled the dressing back. There was a hole the size of a thumb under his left
+ribs, where the slug had gone in under the edge of his chest plate at Kettle Ford, and
+Sallow's stitches were neat across it. The bruise ran from his armpit to his hip, black
+and purple and going yellow at the edges. It was clean, and there was no heat in it. He
+was only grazed now; Sallow reckoned he would be fit by tonight. He held up the slug,
+flattened, which Sallow had dug out of him with pliers. He had kept it.
+
+"By the time you're back, maybe. Wound don't look too bad. Gonna keep a stub round? I'll
+call that the out-of-position mistake bullet."
+
+He tapped it.
+
+"It reminds your ass to stay in cover."
+
+"I was flanking."
+
+A pause.
+
+"Badly."
+
+Corvane threaded the slug onto a cord with the spare pin from his ghost-ring sights, and
+hung it round his neck.
+
+"The out-of-position bullet. Fine. When I'm old I'll tell people a commissar shot me."
+
+---
+
+Then Pim.
+
+"Wound, let's see."
+
+Pim scrambled to sit up straight.
+
+"It's nothing, sir! I can fight, I swear, I can hold a gun!"
+
+It was Nessa's dart, high on the left side of his neck: a puncture, and a hard purple
+bruise round it the size of a palm, with thin dark lines in the skin round that, fading
+toward yellow, where the toxin was going out of him. He was slow and heavy in the limbs,
+and his speech was a little thick. Sallow had him hurt for another day and more, and fit
+by the evening of day fifty-one.
+
+"Hmm, looks like it went into a nerve, or a vessel, no wonder it looks like that. You'll
+be here for a while, Pim; I suppose that's your punishment for whatever, and now you know
+not to mess with Nessa."
+
+Pim went red to the ears.
+
+"Yes, sir. Never, sir."
+
+Nessa, from the door, dry:
+
+"He came down the reeds with a pitchfork and a lamp, hunting us. He's lucky it was a
+dart."
+
+Then, gentler, to Pim:
+
+"Drink your water."
+
+---
+
+Sallow said the grazed ones were his, and Tamsin patched Tey himself.
+
+"Under the arm, in the seam," said Tey.
+
+The stub round from behind the cart had gone in where the plates met under his left arm,
+and raked along his ribs, and left a furrow as long as a finger. Tamsin looked it over
+properly first. Tey's grip was good and his feeling was good: no nerve damage. The muscle
+over the rib was torn, and it was bleeding shallow, and the rib under it was bruised,
+maybe cracked. Tamsin cleaned it, and put counterseptic in it, and closed it. It held. Tey
+would be sore in the ribs for a few days, and that was all.
+
+"You'll be fine tomorrow or after that... soon, but you'll be fine. First wound? Or you
+had one like this before on Ustrennos?"
+
+It was the first one that had shot him, Tey said. On Ustrennos, on ring four, he had taken
+a knife in the right forearm, breaking up a dock brawl when he was on Merrick's watch.
+There was a white scar.
+
+"Hope you're happy with the Light, kid; joined not too long ago and you're always hurt."
+
+"Happiest I've been, boss. Ask me again when it stops hurting to laugh."
+
+---
+
+Brenner was next, pale and sweating, with the auspex still on his wrist. Three rounds from
+the door guard's submachine gun had found the gaps in his plate: one through the gap at
+the left shoulder, under the edge of the pauldron, and two in the left hip below the
+skirt, the ones that had bled. Sallow's dressings were on all three, and the hip was
+packed and strapped.
+
+Tamsin felt the shoulder first. Brenner had full movement in it, and a good grip, and
+Sallow's dressing was dry. It was stable. The hip was the bad one. He could not read it:
+it was too swollen and too packed to tell how deep the rounds had gone, or whether both
+were out.
+
+Sallow said it over her shoulder without looking round.
+
+"Both out. I dug them. Don't pull the packing too hard."
+
+He repacked it anyway, and strapped it again. A little fresh blood came, and then it held.
+Brenner was only grazed now.
+
+"At least I didn't have to drag you out from under a jumper on top of you... I would've
+been more pissed if I had to."
+
+"Next time I'll get shot somewhere more convenient."
+
+Then, quieter:
+
+"You told me to get out of the fight. I'm glad you did. I'd have kept calling contacts
+till I bled out."
+
+---
+
+Hollis sat on the end of a bunk with his chest plate off beside him.
+
+"Armour got a hole in it?"
+
+It had. The autogun round at the cart doors had punched a hole low on the right side of
+his carapace chest plate, and the edges of it were curled in. The round had spent itself
+in the flak under the plate and mushroomed there. Under that was a shallow cut and a
+bruise the size of a fist over his lowest ribs. The plate would want Dace's bench.
+
+"Gunner's luck, boss. His good, my bad."
+
+Tamsin took the tweezers to the flak fibres first, and picked every one out of the cut,
+and then cleaned it and closed it. Hollis was fine.
+
+That was all of the Light's wounded seen to. Tey and Hollis were fine; Brenner was grazed;
+Corvane would be fit tonight, and Pim in two days. Sallow finished the rifleman on the
+floor, and got him from down to hurt, and started on Hemmet's calf.
+
+"You two are both fine, so you're out of the medicae. Don't get shot again, you hear?"
+
+"No promises, boss," said Tey.
+
+"Aye, aye," said Hollis.
+
+They went out.
+
+
+## Chapter 157: Not Dunn
+
+Tamsin went aft to the hold.
+
+It was crowded now with the night's prisoners, chained along the cargo rings, and
+Halloran, Corlis and Hemmet had been put apart from the rest, under guard. Dag Holloway
+sat against container 2, apart from all of them, with his wrists in irons and a chain to
+his ring, and Dace's watch on him. He was hurt, and unshaven, and silent, and he was
+watching the new ones come in.
+
+Tamsin held out his hand, and Dace gave him the key, and came after him. Dag's watch was
+Dace's. Tamsin unlocked Dag from his ring and pulled him up, and walked him, still in
+irons, along to the medicae.
+
+Dag went without a word. He was limping, and his eyes moved over everything as he went. At
+the medicae door he stopped, and looked at Tamsin.
+
+"Why."
+
+It was not quite a question.
+
+Sallow was washing her hands from Hemmet's calf.
+
+"Another one? Put him on the end bunk. Irons stay on."
+
+"Sit."
+
+Dag sat on the end bunk.
+
+"What do you mean, why?"
+
+"Dunn never fixed a man he was finished with. Never fixed one he wasn't going to use,
+either. So which am I."
+
+He looked away, toward the hold, and the noise of the prisoners in it.
+
+"You've got thirty more back there. You didn't fetch them."
+
+"Number one, I'm not Dunn. Number two, I already told you you'll be coming in with us...
+or did you already forget? You said prove it to you? So I'll show you on the field, then
+you'll understand."
+
+Dag looked at him for a long time.
+
+"No. You're not."
+
+He held the irons up between them.
+
+"On the field, then. I'll carry what you give me."
+
+---
+
+Tamsin looked at the leg.
+
+It was his own round, from the landing at Kettle Ford: in through the outside of Dag's
+left thigh at the front, and out at the back. The dressing on it was a day and a half old,
+and nobody had changed it since the line. The edges of the wound were red and hot. It was
+not festering, not yet.
+
+Tamsin pulled the old dressing, and cleaned the wound, and disinfected it, and packed it
+fresh. Dag watched every step of it. When it was done he was only grazed, and the heat
+would go down with clean dressings.
+
+Dag said it quietly.
+
+"Dunn would've let it rot."
+
+"Change it again tonight," said Sallow. "I'll check it."
+
+"Not Dunn, and Dunn is dead. So stop thinking about him; you're a different man than a
+while ago. Think about that instead."
+
+Dag let out a long breath.
+
+"Twenty years I've been his. Don't know who the other one is yet."
+
+A pause.
+
+"I'll find out."
+
+Then he asked for something, and it was the first thing he had ever asked for. His
+brother, Mattias, was the Hales' hired man at Kettle Ford. If the Light ever passed that
+way again, would someone tell Mattias that he was alive.
+
+Dace spoke up from the door.
+
+"Wait. There's one, boss: Nessa's. On your desk by the safe. Been there since Vhal
+Korrin."
+
+Nessa's old penitent collar. Tamsin had unlocked it from her before Vhal Korrin, and
+dropped it on his desk next to the safe, and it had been there ever since.
+
+"Go ahead, Dace, grab it for now."
+
+Then, to Dag:
+
+"I'll have you tested and reborn anew; once that's done you can be sure and good. The man
+behind me was a penitent too. And now he fights for us."
+
+Dag looked past him at Dace. Dace, before he went, reached back and tapped the boss of the
+breaching shield slung on his back.
+
+"Mine's in here. Took it off in front of everyone and he let me pour it into this."
+
+He went, and came back with the collar: Nessa's, steel, its lock standing open, and the
+brass rune-trigger from Tamsin's safe.
+
+Dag looked at it.
+
+"Then I'll wear it till you say."
+
+Tamsin locked Nessa's old collar round Dag Holloway's throat, and put the key back on his
+chain, and kept the rune-trigger. Then he unlocked the irons.
+
+"Go see my quartermaster, he'll have some words for you."
+
+Dag rubbed his wrists. He nodded once, and went, and Dace walked him.
+
+Ollin Brake was at the cage. He looked at the collar, and then at Dag.
+
+"Another one of those. Right."
+
+He had the kit held ready: a lasgun and two packs, a full set of carapace in the Light's
+grey with the white trim, and a helm.
+
+"Sign for it. Clean it every night. You lose it, it comes out of your hide, not your pay.
+You haven't got pay."
+
+Dag Holloway signed for it. He was a penitent now, with the Light.
+
+
+## Chapter 158: I See You
+
+At about 0452 Tamsin went to his cabin and slept, and he slept for eight hours.
+
+The ship held high over the river while he slept, and Kell ran the watch in shifts. From
+about ten past six the reeve's watch and a PDF Chimera cordoned off Silo Row, and went up
+and down it asking about a gunship and gunfire in the night. The bodies were taken away,
+and the dead horse. The morning shift came to the oven halls and was sent home. Brenner
+heard all of it on the city vox from his bunk.
+
+Ferro moved the forty jars into the two coolers, twenty-four in one and sixteen in the
+other, and set the dipper aside. He wanted Sallow and a sealed room before he started on
+any cure; that was his rule and hers, that nothing would be opened except in her medicae,
+sealed, with nobody else in the room.
+
+Nobody called Kesh.
+
+---
+
+At about 1305 Tamsin went up to the bridge. Teo had the helm, holding the ship at two
+thousand metres over the Gallow, upriver of Hearthgate and out of the city's sight. Mira
+sat in the second seat with the Valk's log and a mug of coffee. Hearthgate's port tower
+had hailed them twice in the morning for an ident, and Teo had answered with the Ordo's
+code, Kesh's, and at about eight they had stopped asking. The fuel was fine, and so was
+the ship. The Valk was docked in the side hangar, with two of her multi-laser's charge
+packs flat from the night, recharging.
+
+"Joren and the other one, talked to them? We need to go there and drop some more off."
+
+Joren had checked in with Brenner every hour on the mast set, all night and all morning,
+and the last had been at twelve. It was quiet at the vaults. The Sixth's forty-five were
+fed and watered, and there had been no trouble.
+
+Fourteen was an hour inland. Teo laid in the course.
+
+Mira asked him the one thing that was his to decide. The night's prisoners were going down
+into the vaults. But the bakers: Halloran, Corlis and Hemmet, too, or did they stay aboard
+for Kesh? And the three young bakers?
+
+"The bakers stay aboard for Kesh, rest go down."
+
+So all six stayed. Halloran, Corlis and Hemmet stayed in the ship's cells for Kesh, and
+Aldo and the two young bakers stayed aboard as witnesses, not in cells.
+
+The flight was quiet. At about 1410 Teo set the *Bright Light* down in Fourteen's vault
+yard, and twenty-seven of the night's prisoners went down the ramp hooded, in fours, with
+Morcant, Dace, Hollis and Tavi walking them: twenty-one from the weigh-house, and six from
+the oven halls, the watch leader, the pry-bar man, the man in the chest plate, the driver,
+the healer and the rifleman from the silos. Sallow checked the three who were still hurt.
+Kell put them in the vaults. The vaults held seventy-two now.
+
+Joren and Dannel had been on the gate thirty-six hours, since three in the morning the day
+before. They were fit, and they were tired.
+
+"Any chance of a relief, boss?" said Joren. "We're seeing things in the grain."
+
+---
+
+At about 1450 Tamsin picked the Governor team.
+
+"Nessa and Varga; we'll go now. I don't think we'll need stealth, I think we'll be able to
+walk right in."
+
+It would be Tamsin, Kell, Nessa and Varga, in the Valk, with Mira flying. The *Bright
+Light* would stay at Fourteen on the vaults with Teo.
+
+Nessa had one objection, and she said it.
+
+"If he's dirty, we're walking into his house with sixty of his guns. Fine. Just so we've
+said it."
+
+The flight was an hour, and quiet. At about 1555 the Valk came in over Hearthgate toward
+the Governor's house on the high ground above the river. It was an old fortified manse of
+grey stone behind a curtain wall. On the east terrace was a landing pad with the
+Governor's own shuttle sitting on it, and there were household guards on the walls and at
+the gate, in blue and bronze.
+
+Mira asked: land on his pad, bold, or set down outside the wall and walk up to the gate?
+
+"Land on his pad, let him know we're here. He's not dirty; I've had the dirty tell me he's
+not. If he resists he gets it worse."
+
+Mira put the Valk down on the east terrace pad beside the Governor's shuttle, with the
+rotors winding down and the door open. Ten household guards came at the run in their blue
+and bronze with lasguns, and fanned out round the pad, their guns up but not aimed. They
+were honest soldiers, and they looked it. Their officer walked out alone to the foot of
+the ramp. He was about fifty, with a grey moustache and a duelling pistol on his hip, and
+a correct way of standing. He was Captain Idris Fell, of the household guard.
+
+"This is the Governor's house. You've landed without clearance. State your names and your
+business."
+
+Tamsin came down the ramp with his rosette up.
+
+"Inquisition, Task Force Light. I need to speak with the Governor. It's urgent."
+
+Fell came to attention and saluted.
+
+"My lord Interrogator."
+
+He put his men's guns down, and voxed the chamberlain, and walked the four of them in
+himself. He said nothing about their weapons; he would not have dared. The house was cool
+stone halls, hung with paper Lamps half-strung for the festival, and servants up ladders
+stringing the rest. Fell took them up a broad stair to the Governor's study.
+
+At about 1603 they came into it. Governor Aurel Corrow rose from his desk, unhurried, and
+dismissed his secretary with a look. He was about sixty, tall and silver-haired, with a
+gold aquila at his collar and a speaker's voice. On the desk, under a paperweight, lay the
+drafts of his Lamps address.
+
+"Interrogator. You've had a busy night, I hear. Half my city heard it. Sit, please. How
+can my house help the Holy Ordos?"
+
+Kell put his back to the shut door. Nessa went to the window, and Varga stood by her.
+
+"You know what's going on?"
+
+The Governor gave him what a governor would know. There was the blight, and the grain
+quarantine he had ordered against it. There was a gunship on Silo Row in the night. There
+was his under-secretary, Quint, who had not been seen in two days, a man who had never
+missed a morning in eleven years.
+
+"So, no, I don't know what's going on; I was hoping you'd tell me."
+
+Tamsin watched him say it. Something was being held back. The Governor's hands, clasped
+behind his back, were too still, and the *So, no* had come out as if he had said it
+before, to himself. But whether it was guilt, or only a governor's caution with the
+Inquisition standing in his study, Tamsin could not tell.
+
+"You're one of them, aren't you..."
+
+"One of whom, Interrogator?"
+
+Tamsin drew the Dunns' sawn-off and put both barrels on him.
+
+"I've seen and killed a million of you... you all act the same. You can't fool me. I
+seeeee you..."
+
+Corrow's mask went all at once. He sat down hard in the chair behind him, staring into the
+barrels, and his own mouth said it before he could stop it, in a whisper.
+
+"...the garden blooms in the belly..."
+
+The Brother's words, the way Renn had given them.
+
+Then he heard what he had said, and went white.
+
+Nessa, at the window, did not raise her voice.
+
+"There it is."
+
+Nobody outside had heard. The door was shut, and Kell was on it, and Captain Fell was
+waiting in the corridor beyond it.
+
+---
+
+Tamsin cuffed the Governor of Hearthgate in his own chair, and gagged him.
+
+"I'll deal with you later."
+
+Corrow did not fight it. He sat in his chair in shock, and as the gag went in his eyes
+stayed on the drafts of his address.
+
+Nessa said what they were all thinking.
+
+"Now we walk him out past sixty of his own guards."
+
+Varga, at the window, measured it: the east terrace and the Valk were one storey down and
+about thirty metres along. Her pack could make the drop with a passenger, in one burst.
+
+"Let me try something."
+
+Tamsin stepped aside, opened the door, waved Captain Fell into the study, and followed him
+in. Kell shut the door behind them.
+
+Fell saw his Governor cuffed and gagged in his chair, and stopped dead. His hand went to
+the grip of his duelling pistol, and stayed there. He did not draw it. There were four of
+the Ordo in the room, and he was a correct man, not a reckless one. Over the gag, Corrow's
+eyes went to him, begging.
+
+Fell spoke very quietly.
+
+"My lord Interrogator. I'll need you to explain this. Now."
+
+"Enough, Fell. Don't be a fool. You know the Inquisition and you know what we do... so why
+do you think we're here for the Governor? Use your brain; don't be a dead man, be a smart
+man."
+
+Fell's hand came off the pistol. He asked one thing, for his men's sake: was it true?
+
+Nessa answered him.
+
+"He said their creed. Out loud, on his own, a minute ago."
+
+Fell shut his eyes.
+
+"...Throne."
+
+Then he opened them, and he was a soldier again.
+
+"What do you need from me, my lord?"
+
+"I'm walking this heretic to my ship and leaving; that's what I need. Make that happen and
+you'll be more than commended in my report."
+
+Fell put his hand to his vox-bead.
+
+"All stations, Captain Fell. The Holy Ordos are taking the Governor into custody. No one
+interferes. No one fires. That is my order."
+
+He took the Governor's own cloak from its hook and hung it over the cuffs.
+
+"For the servants, my lord. Let them keep that much."
+
+Then he walked ahead of them down the broad stair and through the Lamp-hung halls, with
+the servants frozen on their ladders, and out onto the east terrace. Nobody interfered,
+and nobody fired. On the way out Nessa picked the drafts of the address up off the desk,
+and pocketed them.
+
+On the stair, Kell asked Fell the one thing the board still lacked: where did the address
+go out from? Fell told him. The Governor spoke from the study's balcony. The feed ran by
+cable to the relay in the old Lamplighters' Tower on Chapel Square, and from there out on
+every horn in the city. A PDF section of six held it.
+
+At about 1615 the Valk lifted off the terrace with Governor Corrow aboard, cuffed and
+gagged under his own cloak. No shot had been fired, and there were no bodies. The flight
+back was quiet, and at about 1715 Mira set the Valk down in Fourteen's yard beside the
+*Bright Light*.
+
+
+## Chapter 159: Rest Your People
+
+At about 1720 Tamsin put Governor Corrow in the cells, beside Halloran, Corlis and Hemmet,
+in a cell of his own, with the gag out and the cuffs on. Then he went to Brenner for a
+report to Kesh.
+
+Brenner drafted it, to go through Seraphine Wenlock as before, and gave it to him to read.
+
+*ROOK TO KESH. Silo Row stopped: weigh-house and oven halls taken. Bakers alive in our
+cells: HALLORAN; CORLIS (the Spire scribe); HEMMET. All forty doses kept, cold.*
+
+*CORROW TAKEN ALIVE, no bodies. CORRECTION: NOT A DUPE. A BELIEVER: spoke their creed.
+Address drafts held. Horn relay found: Lamplighters' Tower, Chapel Square.*
+
+*Seventy-two held at Fourteen. Purse: Sallis and Daughters. A ship, the Hesk Tender, due
+at the Lamps. Ferro begins on a cure. Orders.*
+
+"Send it like that."
+
+Seraphine sent it, and it went out clear. After it she lay down with a headache.
+
+---
+
+At about 1725 Tamsin took Kell and Nessa in Mira's Valk for the horns. Varga stayed. The
+flight was quiet, and at about 1830, at dusk, they came in over Hearthgate to Chapel
+Square.
+
+It was a cobbled square round an old chapel, with paper Lamps strung across it for the
+festival and townsfolk out in the dusk under them. Beside the chapel stood the
+Lamplighters' Tower, a narrow grey stone tower about twenty-five metres high, with a
+cluster of brass vox-horns on its crown. A fat cable came in to it on poles from the
+palace hill. A PDF Chimera was parked at its door.
+
+Mira asked: the square, or a roof nearby?
+
+"Land in the square."
+
+Mira put the Valk down on the cobbles under the Lamps, and the townsfolk scattered, and
+the pigeons went up everywhere. Six PDF came off the Chimera and formed a line at the
+tower door, lasguns up but not aimed, and the Chimera's turret swung round onto the Valk.
+Their sergeant walked forward. He was about thirty-five, and steady, and his name was
+Okonjo.
+
+"This square's under PDF guard by the Governor's order. Who are you and what do you want
+with the tower?"
+
+Tamsin walked down the ramp with his rosette up.
+
+"Stand aside."
+
+Sergeant Okonjo stared at the rosette. He was a correct man under the Governor's order,
+and he asked for one minute, and voxed the palace. Captain Fell answered him.
+
+"Sergeant, the Holy Ordos have the Governor. Whatever they ask, give it."
+
+Okonjo saluted, and ordered his six to stand aside, and the Chimera's turret swung away.
+The tower door stood open.
+
+---
+
+Tamsin, Kell and Nessa climbed the tower's spiral stair to the relay room at the top. It
+was a round room under the crown of horns, with slit windows on the square. A long
+brass-and-valve relay console hummed along one wall. The palace cable came up through the
+floor into a junction box with a heavy throw-switch on it, marked *PALACE FEED*. There was
+a switchboard with forty brass toggles, one for each horn cluster in the city, all of them
+down, and a cogitator ticking. Pinned above the console was the duty sheet.
+
+*LAMPS ADDRESS. FIRST LAMP, DAY 55. FEED OPEN 1900. ALL HORNS.*
+
+The vox-tech on duty stood up from his stool as they came in. Okonjo had warned him. He
+was Corporal Hesse, about twenty-five.
+
+"This place is to be pulled and the forces here relocated. Shut down now."
+
+Hesse threw the palace feed to off. Then he killed the console, bank by bank, until the
+hum died and the valves faded. Then he told them the truth.
+
+"That's off, my lord. But anyone who knows a relay board can turn it back on in ten
+minutes. If you want it to stay dead, take the three master valves, there, or the feed
+coupling."
+
+Kell put the relocation order down to Okonjo on the vox: pack up the section, and back to
+barracks.
+
+"Take out the valves."
+
+Hesse eased the three master valves out of their cradles one by one. Each was the size of
+a forearm, and still warm. He packed them in a padded crate from under the console, and
+Kell carried it.
+
+"That's it, my lord. No horn in Hearthgate's saying anything now."
+
+"Valves stay with me until this situation is resolved. Get with your team to be
+relocated."
+
+Hesse saluted and went down to Okonjo's Chimera. The three of them followed him down with
+the crate. At the foot of the tower Okonjo was up in the Chimera's hatch, and Tamsin
+stopped by it.
+
+"Thank you for your cooperation. Fell can explain the situation. To an extent..."
+
+Okonjo saluted from the hatch.
+
+"My lord."
+
+The Chimera ground off toward the barracks.
+
+"Take me to Fell, I have to speak to him."
+
+---
+
+At about 1850 Mira set the Valk down on the palace's east terrace again, a five-minute hop
+over the city in the dark. Captain Fell was already on the terrace, alone, with his collar
+open, a man who had had a long afternoon. Two guards stood at the terrace doors.
+
+"My lord Interrogator. I didn't think you'd be back."
+
+"Who is in charge now? You?"
+
+In this house tonight, Fell said, he was. In the city, nobody yet. By Hearthgate's
+charter, with the Governor gone the Council of Hearthgate governed until a new governor
+was confirmed. Lord Steward Emeric Vance presided, the Governor's steward, old and
+careful. The PDF's Colonel commanded the troops. The Ministorum's prelate and the
+Administratum's prefect sat with them. The Council did not know yet. Only the household
+knew, and Okonjo's section, and the rumour on the Row. When it got out they would meet at
+dawn.
+
+"What do I tell them, my lord? You said I could explain. To an extent."
+
+"Convicted of heresy. Intent to plague. Cult-associated. Don't tell them who took him."
+
+Fell said it back.
+
+"Heresy, plague, the cult. Taken by the Ordo; I didn't see their faces."
+
+He would hold to it.
+
+"Now, you have cells in this palace, yes?"
+
+There were four, Fell said, under the guardroom in the old undercroft: stone, with iron
+doors and a well for water, for thieves and drunk guardsmen. Twelve at a squeeze. They
+were empty tonight, and his men could guard them and feed them. There were no bigger cells
+in the palace. The PDF stockade at the barracks on the north road held about a hundred,
+and it was the Colonel's. The city gaol by the reeve's hall on the Quay held about sixty,
+and it was the watch's, and it leaked.
+
+Kell said it quietly at Tamsin's shoulder: Kesh had said nobody was to hear about the
+Sixth, and a city stockade was a great many eyes.
+
+The prisoners stayed where they were.
+
+"Thank you, Fell. Your help is appreciated. I apologise for your inconvenience, and your
+frustration with your government."
+
+"Better you found it than the plague did, my lord."
+
+Fell saluted. Then, quieter:
+
+"Thirty years I've stood outside his door."
+
+He went in.
+
+"Back to the Light. We'll take a rest for now."
+
+---
+
+On the way home a PDF Valkyrie patrol out of Hearthgate came up on them in the dark and
+hailed Mira.
+
+"Unidentified Valkyrie, state your ident."
+
+Mira gave them the Ordo's code. The patrol peeled off and went home, and nothing more came
+of it.
+
+At about 2010 they came down in Fourteen's yard beside the *Bright Light*, and everyone
+rested. Kell kept the shifts going on the vaults' water and the watch.
+
+At about 2225 Kesh's answer came through Seraphine, and it was clear. Brenner took it down
+and knocked on Tamsin's door.
+
+*KESH TO ROOK. Received all. Well done, Light.*
+
+*CORROW: hold him alive. He is mine. The Council: I write to the Steward under seal.*
+
+*The address is dead. Good.*
+
+*HOLD every prisoner and every dose for ALDWYN, day 54. Her Magos Biologis takes the cure;
+Ferro assists and opens nothing before she comes.*
+
+*SALLIS: take her quietly before the Lamps.*
+
+*THE TENDER: take it at the Lamps. Nothing leaves.*
+
+*LOWMERE, SALTBEND: Aldwyn's people, after.*
+
+*Rest your people.*
+
+*Kesh.*
+
 # Appendix: Session notes
 
 ### Session 8 (Season Two, mission 1: Ustrennos)
