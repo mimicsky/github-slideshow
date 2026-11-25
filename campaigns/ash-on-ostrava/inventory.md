@@ -336,3 +336,5 @@ The Ustrennos library books went back on day 31; unfinished ones keep only the h
 - **Kept by Tamsin:** **Oswin Vale's scoring knife** (Aldo's; horn handle, 'O.V.').
 
 **Noted day 49:** **Nessa's old penitent collar** (krak charge, still live; the lock's key on Tamsin's chain; the brass rune-trigger with Tamsin) on the desk in Tamsin's cabin by the safe since before Vhal Korrin.
+
+**Noted day 49 (~1842):** **the three master valves of Hearthgate's horn relay** (the Lamplighters' Tower, Chapel Square), in a padded crate: **with Tamsin until the situation is resolved** (the relay is dead without them).
