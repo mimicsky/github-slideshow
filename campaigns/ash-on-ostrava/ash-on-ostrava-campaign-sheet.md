@@ -290,7 +290,7 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 | **Teo** | 18.1 | 47.0 | 18 | 29.1 | 20.0 | 28.2 | 5.0 (Fine). |
 | **Ferro-Ashe** | 19 | 27.2 | 20 | 49.9 | 19.7 | 12 | 5.0 (Fine). |
 | **Ollin Brake** | 18 | 17.5 | 25 | 24.6 | 18 | 17.7 | 5.0 (Fine). Haggles d20 + CHA bonus (+1); cleans handed-in guns. |
-| **Pim** (grunt; day 48) | 22 | 21 | 20 | 12 | 18 | 14 | 3.0 (Hurt) (Nessa's dart in the reeds, day 47; wearing off). Age 17. STR/DEX rolled with Kettle Ford's cell (commoner #1); CON-CHA set by the DM from his past. Grunt: no role, no specialty yet. |
+| **Pim** (grunt; day 48) | 22 | 21 | 20 | 12 | 18 | 14 | 3.0 (Hurt) (Nessa's dart in the reeds, day 47; wearing off; healing 2d4 5 days - Sallow's care day = 4: **4.0 ~2000 day 50, Fine ~2000 day 51**). Age 17. STR/DEX rolled with Kettle Ford's cell (commoner #1); CON-CHA set by the DM from his past. Grunt: no role, no specialty yet. |
 | **Dag Holloway** (grunt; day 48; not yet joined: in irons) | 10 | 13 | 28 | 14 | 22 | 16 | 3.0 (Hurt). STR d21 1 + 9, DEX d16 4 + 9 (civilian); CON-CHA set by the DM (a hard man; reads men; menace). Grunt: no role, no specialty yet. |
 
 ## Hidden notes
