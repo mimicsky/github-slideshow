@@ -1264,6 +1264,8 @@ Who counts as **poor, middle or rich**: poor = cultists, raiders, poor militia; 
 
 **4. Every big fight has a complication:** at least one of reinforcements (a d6 each beat), a second force arriving, a flank, or a fallback plan already in place.
 
+**5. Mission twists are budgeted and set at the start (set by the player, Ash on Ostrava day 49: missions kept growing a new twist every scene).** When a mission starts, the DM sizes it and **writes its twists and add-ons down then, hidden, in the DM notes**: **short 0-2, mid 3-5, big 6-8** (an arc that spans several missions, like a whole world's plot, is sized the same way as one big mission). A twist is anything that changes or widens the job: a new player in the plot, a reveal that turns it, a second place or target, an ambush already set, a reinforcement or deadline that wasn't on the board. **Once the list is written, nothing new gets added.** The written twists come out in play when the story reaches them; the reinforcement d6s, a fight's complication and the enemy's own reactions are not twists. If the player skips the thing a twist hangs on, it may never come out at all.
+
 ### Loot
 
 **Place loot (set by the player, Ash on Ostrava day 49; taken as a yes on his silence).** Searching a place (not the bodies:

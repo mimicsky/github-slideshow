@@ -17,6 +17,8 @@ have and know, and do what they'd really do, including things this list never me
 
 ## 1. Before the fight: the enemy's plan
 
+- **First, the mission's twist budget (codex Part 8, 5):** short 0-2, mid 3-5, big 6-8, written down hidden before the mission starts. Then nothing new: the story uses what's on the list.
+
 - **What do they want?** Hold the ground, kill the commander, get the cargo or the prisoner out, buy time, escape.
 - **What do they know?** Only what they've seen, heard or been told: sentries, vox traffic, noise, word of the Light's
   last fight. Never the DM's knowledge.
