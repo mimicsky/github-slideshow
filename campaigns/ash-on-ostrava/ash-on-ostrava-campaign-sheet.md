@@ -72,7 +72,7 @@ Moved to `world.md` (day 36 cleanup), under the same heading.
 | Rank | **Interrogator** of Inquisitor Kesh's Ordo (rosette, warp day 20, session 7). Leads the Light; takes his orders from Kesh (Varsaine stayed with the Lantern). (Interrogator-designate from session 5.) |
 | Class | Fighter 11, **Champion** (crits on 19-20). Action Surge, **Extra Attack (2)**, **Remarkable Athlete** (half proficiency on untrained STR/DEX/CON checks) |
 | Health | **5.0 (Fine)** (healed day 20; numbers from day 48: 5.0 Fine, 4.0 Grazed, 3.0 Hurt, 2.0 Badly hurt, 1.0 Down; codex house rule 4) |
-| Stats (levels 1-100) | STR **35.7** (**+3**), DEX **93.8** (**+9**, crossed 90 day 47), CON **24.7** (+2), INT **14.3** (+1), WIS **58.8** (**+5**, crossed 50 day 45), CHA **32.9** (**+3**, crossed 30 day 47) (tally day 48). **WIS +5 from day 46: Perception d20 + 9, Insight d20 + 5, WIS saves + 5.** **CHA +3 from day 48: Persuasion/Deception +3 off will checks, +4 on will checks (CHA 3 + manual 1); Intimidation +8 on will checks (CHA 3 + proficiency 4 + manual 1).** **DEX +9 from day 48** (knife bouts +13). |
+| Stats (levels 1-100) | STR **36.0** (**+3**), DEX **95.1** (**+9**, crossed 90 day 47), CON **25.0** (+2), INT **14.3** (+1), WIS **61.5** (**+6**, crossed 60 day 49), CHA **34.2** (**+3**, crossed 30 day 47) (tally day 49). **WIS +6 from day 50: Perception d20 + 10, Insight d20 + 6, WIS saves + 6.** **CHA +3 from day 48: Persuasion/Deception +3 off will checks, +4 on will checks (CHA 3 + manual 1); Intimidation +8 on will checks (CHA 3 + proficiency 4 + manual 1).** **DEX +9 from day 48** (knife bouts +13). |
 | Renown | **Regional (+6)** (raised day 48, the DM's call; overdue since the Gardener, day 33: then the Mart taken from the 6th, and the 6th broken on Gallowmere) (codex, Renown). **+5 more where a deed happened:** **Ustrennos** (the Spindle, the Kestrel, the pirate ship: the station knows his face), **the Mart** (taken days 31-36; Voke and the berths know his face), **Gallowmere** (Kettle Ford, Fourteen, the vaults). **Thask's network knows exactly who he is.** **Walking into the Mart: d20 + 6 + 5 = d20 + 11 vs 15: recognised on a 4 or better.** Next step (Sector, +10): something sector-wide and public. |
 | Proficiency | **+4** (levels 9-12). Skills: Perception, Athletics, Survival, Intimidation. **+1 on will checks** (house rule 8; the provost's manual, finished day 19) |
 | Flaw | Doesn't trust officers, and says so |
@@ -117,7 +117,7 @@ Moved to `world.md` (day 36 cleanup), under the same heading.
 | **Ollin Brake** (Light's Quartermaster) · he/him | none | none | Coat | slate; stays aboard; rebreather |
 | **Pim** (Light Trainee, grunt) · he/him (day 48; **a Light Trainee, as Tey and Sorel were before day 34: the player, day 49**) | **a hellgun** (Fourteen's haul; not the Major's Ryza) + **2 hot-shot packs** | **a bayonet** | **Carapace** (a full set), **cleaned and painted in the Light's grey, white trim**; **helm** (from the crate) | **rebreather: none aboard (on the buy list)** |
 | **Vosk** (Commissar, enforcer) · he/him (**only if Kesh allows**; in the medicae, the purge) | **a hellpistol** (Fourteen's, found; the only one aboard) + **2 hot-shot packs** | **his own chainsword** (from the IX crates) | **his own looted storm trooper carapace** (from the IX crates; Tamsin ~0215), **cleaned, any marks ground off, painted in the Light's grey, white trim**; **helm** (from the crate); Dross's greatcoat (on the hook in the medicae) | **rebreather: none aboard (on the buy list)** |
-| **Dag Holloway** (penitent, grunt) · he/him (**WON OVER ~0442 day 49: wants in (Will broken, recruiting)**; traits: Brawler, Heretic Destroyer, Iron gut; **COLLARED ~0451 day 49 (Nessa's old collar; the key on Tamsin's chain, the rune-trigger with Tamsin); irons off; kit issued by Ollin**) | **a lasgun** + **2 las packs** | none | **Carapace** (a full set), **cleaned and painted in the Light's grey, white trim**; **helm** (from the crate) | **rebreather: none aboard (on the buy list)** |
+| **Dag Holloway** (penitent, grunt) · he/him (**WON OVER ~0442 day 49: wants in (Will broken, recruiting)**; **COLLARED ~0451 day 49 (Nessa's old collar; the key on Tamsin's chain, the rune-trigger with Tamsin); irons off; kit issued by Ollin**) | **a lasgun** + **2 las packs** | none | **Carapace** (a full set), **cleaned and painted in the Light's grey, white trim**; **helm** (from the crate) | **rebreather: none aboard (on the buy list)** |
 
 **†** = detail (ammo history, condition, provenance) in inventory.md, 'Ammo and condition log', one bullet per person; items issued on Tamsin's note (~2310 day 34; Ollin hands it out in the morning) are named there.
 **Guns:** all **Clean** (cleaned aboard, mostly by Ollin when they're handed in). In the field a gun goes **Dirty after about 30 shots** without cleaning. Exceptions: none (Ollin cleaned everything on the ship, ~1730 day 33; the Light cleaned their guns again aboard on the afternoon of day 34, after the night's fights). **Pack sizes (set day 33): hot-shot packs 30 shots, regular las packs 45.** Everyone's packs fresh as of ~1730 day 33.
@@ -224,7 +224,7 @@ Moved to `world.md` (day 36 cleanup), under the same heading.
 | Ferro-Ashe | **Cool under fire** (suppression on him is -1 instead of -2), **Inconspicuous** (+1 on stealth and blending in; nobody notices the tech-priest in the corner), **Runner** (+1 on sprints and chases). Rolls (d30): good 17, good 14, good 24 |
 | Ollin | **Eagle-eyed** (+1 on Perception to spot things: a short crate, a light-fingered hauler), **Strong back** (+1 on STR rolls to haul, carry, climb or breach), **Jumpy** (-1 against fear and break checks; startles at loud noises). Rolls (d30): good 3 and good 4 (combat traits; the player: reroll into things he'd use), rerolled down the list in order to the first quartermaster-useful results: 1, 5; bad 7 |
 | Pim (day 48) | **Hard to kill** (+1 when a medic patches them up from Down), **Fast healer** (recovers from a wound in less time; patches on them +1), **Lucky** (once a mission, reroll a natural 1). Rolls (75/25, d36): good 22, good 7, good 10 |
-| Dag Holloway (day 48; not yet joined: in irons) | **Runner** (+1 on sprints and chases), **Sure-footed** (no penalty on bad footing; +1 against being knocked down), **Iron grip** (can't be disarmed by a solid hit; +1 on STR to hold on, grapple or keep hold of a weapon). Rolls (75/25, d36): good 24, good 25, good 25 (duplicate, rerolled 21) |
+| Dag Holloway (day 48; **joined day 49 as a penitent, collared**) | **Runner** (+1 on sprints and chases), **Sure-footed** (no penalty on bad footing; +1 against being knocked down), **Iron grip** (can't be disarmed by a solid hit; +1 on STR to hold on, grapple or keep hold of a weapon). Rolls (75/25, d36): good 24, good 25, good 25 (duplicate, rerolled 21) |
 | Joren (penitent) | **Hard to kill** (+1 when a medic patches him up from Down), **Cool under fire** (suppression on him is -1 instead of -2), **Void-sick** (-1 in the open void, on EVA, or in zero gravity). Rolls (d30): good 22, good 22 (duplicate, rerolled 17), bad 17 |
 | Dannel (penitent) | **Lucky** (once a mission, reroll a natural 1), **Sharp memory** (+1 on INT to recall faces, routes, codes and plans), **Glass jaw** (wear-down two hits sooner: every 4 instead of 6; scaled day 47). Rolls (d30): good 10, bad 18, good 23 |
 
@@ -273,25 +273,25 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 
 | | STR | DEX | CON | INT | WIS | CHA | Health (number and state; codex house rule 4) and notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Kell** | 45.2 | 43.3 | 30.2 | 10 | 30.6 | 10 | 5.0 (Fine) (day 36 morning; Hurt from the mast, day 33, to then). |
-| **Varga** | 26.2 | 54.6 | 25.1 | 10 | 28.4 | 5.2 | 5.0 (Fine). |
-| **Dace** | 28.7 | 23.5 | 20.1 | 33.8 | 6.3 | 5.2 | 5.0 (Fine) (hip healed by day 33). |
-| **Sorel** | 41.7 | 36.8 | 29.1 | 18 | 33.3 | 14.1 | 5.0 (Fine). Tracker; hive clearance +2. |
-| **Tey** | 18.7 | 55.2 | 28.3 | 14.1 | 10.3 | 14.1 | 5.0 (Fine). **Pistol focus (gunslinger) +3** (day 45 = drill day 30: up from +2, nightly drill confirmed by the player; next +1 at drill day 40; day 36 = drill day 21; +1 per 10 drill days to +5). Pistol drill nightly; 5 for 5 under Varga at dawn on day 32. His flinch came from a long trigger pull (a hair trigger would beat it; not fitted). **At Tamsin's side from day 16: goes everywhere with him, into the action.** |
-| **Hollis** | 29.4 | 53.0 | 32.1 | 17 | 26.7 | 12 | 5.0 (Fine). |
-| **Brenner** | 21.2 | 32.1 | 26 | 47.8 | 19.5 | 10 | 5.0 (Fine). |
-| **Isk** | 20.1 | 58.9 | 28.2 | 13.5 | 34.8 | 10 | 5.0 (Fine). |
-| **Tavi** | 20.6 | 44.8 | 23.2 | 36.2 | 18.0 | 17.1 | 5.0 (Fine) (a hand-cannon crit at Crane Yard 6's gate ~0435; Dace patched him). |
-| **Morcant** (STR 50+: Strength behind the blow, codex Part 8 Armour) | 51.3 | 35.2 | 33.5 | 15 | 20.1 | 17 | 5.0 (Fine). |
-| **Sallow** | 20 | 34.4 | 22 | 25 | 49.3 | 20 | 5.0 (Fine). |
+| **Kell** | 45.2 | 43.4 | 30.4 | 10 | 31.1 | 10 | 5.0 (Fine) (day 36 morning; Hurt from the mast, day 33, to then). |
+| **Varga** | 26.2 | 55.1 | 25.4 | 10 | 28.5 | 5.2 | 5.0 (Fine). |
+| **Dace** | 28.7 | 23.5 | 20.1 | 34.4 | 6.3 | 5.2 | 5.0 (Fine) (hip healed by day 33). |
+| **Sorel** | 41.7 | 37.2 | 29.1 | 18 | 33.4 | 14.1 | 5.0 (Fine). Tracker; hive clearance +2. |
+| **Tey** | 18.7 | 55.7 | 28.6 | 14.1 | 10.3 | 14.1 | 5.0 (Fine). **Pistol focus (gunslinger) +3** (day 45 = drill day 30: up from +2, nightly drill confirmed by the player; next +1 at drill day 40; day 36 = drill day 21; +1 per 10 drill days to +5). Pistol drill nightly; 5 for 5 under Varga at dawn on day 32. His flinch came from a long trigger pull (a hair trigger would beat it; not fitted). **At Tamsin's side from day 16: goes everywhere with him, into the action.** |
+| **Hollis** | 29.4 | 53.3 | 32.5 | 17 | 26.7 | 12 | 5.0 (Fine). |
+| **Brenner** | 21.2 | 32.1 | 26.4 | 48.0 | 19.5 | 10 | 4.0 (Grazed): three SMG crits through his carapace's gaps, day 49 (left shoulder, left hip x2); Sallow, then Tamsin; healing d4 1 - Sallow's care day: **Fine on waking, day 50**. |
+| **Isk** | 20.1 | 59.7 | 28.2 | 13.5 | 34.8 | 10 | 5.0 (Fine). |
+| **Tavi** | 20.6 | 44.8 | 23.2 | 36.3 | 18.0 | 17.1 | 5.0 (Fine) (a hand-cannon crit at Crane Yard 6's gate ~0435; Dace patched him). |
+| **Morcant** (STR 50+: Strength behind the blow, codex Part 8 Armour) | 51.4 | 35.3 | 33.7 | 15 | 20.1 | 17 | 5.0 (Fine). |
+| **Sallow** | 20 | 34.4 | 22 | 25 | 49.6 | 20 | 5.0 (Fine). |
 | **Corvane** | 32.7 | 50.7 | 31.8 | 21.5 | 21.0 | 22.2 | 4.0 (Grazed) since ~2118 day 48: the slug under his chest plate, day 47; Sallow patched him from Badly hurt ~2118 day 47; healing 2d4 3 days - Sallow's care day = **Fine ~2118 day 49**. |
 | **Nessa** | 18.9 | 60.1 | 18.2 | 21.2 | 30.1 | 27.5 | 5.0 (Fine). |
-| **Mira** | 14.8 | 51.6 | 20 | 35.0 | 32.6 | 15 | 5.0 (Fine). |
-| **Teo** | 18.1 | 47.0 | 18 | 29.1 | 20.0 | 28.2 | 5.0 (Fine). |
-| **Ferro-Ashe** | 19 | 27.2 | 20 | 49.9 | 19.7 | 12 | 5.0 (Fine). |
+| **Mira** | 14.8 | 51.8 | 20 | 35.0 | 32.6 | 15 | 5.0 (Fine). |
+| **Teo** | 18.1 | 47.1 | 18 | 29.1 | 20.0 | 28.2 | 5.0 (Fine). |
+| **Ferro-Ashe** | 19 | 27.2 | 20 | 50.0 | 19.7 | 12 | 5.0 (Fine). |
 | **Ollin Brake** | 18 | 17.5 | 25 | 24.6 | 18 | 17.7 | 5.0 (Fine). Haggles d20 + CHA bonus (+1); cleans handed-in guns. |
 | **Pim** (Light Trainee, grunt; day 48) | 22 | 21 | 20 | 12 | 18 | 14 | 3.0 (Hurt) (Nessa's dart in the reeds, day 47; wearing off; healing 2d4 5 days - Sallow's care day = 4: **4.0 ~2000 day 50, Fine ~2000 day 51**). Age 17. STR/DEX rolled with Kettle Ford's cell (commoner #1); CON-CHA set by the DM from his past. Grunt: no role, no specialty yet. |
-| **Dag Holloway** (grunt; day 48; not yet joined: in irons) | 10 | 13 | 28 | 14 | 22 | 16 | 3.0 (Hurt). STR d21 1 + 9, DEX d16 4 + 9 (civilian); CON-CHA set by the DM (a hard man; reads men; menace). Grunt: no role, no specialty yet. |
+| **Dag Holloway** (penitent, grunt; day 48; joined day 49, collared) | 10 | 13 | 28 | 14 | 22 | 16 | 4.0 (Grazed) (Tamsin's patch ~0445 day 49; healing d4 3 - Sallow's care day = 2: **Fine ~day 51**). STR d21 1 + 9, DEX d16 4 + 9 (civilian); CON-CHA set by the DM (a hard man; reads men; menace). Grunt: no role, no specialty yet. |
 
 ## Hidden notes
 
