@@ -25,4 +25,5 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 - ~2316: Tamsin signed for it, strapped the shoulder rig over his carapace under his coat and loaded AP. "We got any more mags we found? No way this guy had one round in the gun." Two spares had been in the same cupboard, and the Crane Yard pistols took the same pattern: three spare magazines, all loaded AP.
 - ~2328: Tamsin went to Dace, still at his bench under one lamp with Sorel's hellgun stripped in front of him.
 - ~2332: "A spare hellgun, of course." Sorel would carry a compact Accatran from Fourteen's haul; his own stayed on the bench. "And when you get a minute, go see Ollin; he has something for you." Dace put down his file at once.
+- ~2340: For the widow, if it's the crowd: "I'll have to wear the mesh." The spare mesh from the customs house, the refractor under a coat, no helm; the silenced pistol and the kukri.
 
