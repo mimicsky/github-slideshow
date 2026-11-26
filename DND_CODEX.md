@@ -944,6 +944,8 @@ and Down), cover (Cover), conditions (Roll checklist, line 9) and leveling (by X
 
 ## Part 7 — How I Run the Game
 
+**⚠️ First rule of the table (set by the player, Ash on Ostrava day 49: 'a big thing for me'): nobody in the world talks like a game.** No character's speech or thoughts mention crits, dice, d20s, rolls, numbers, health states as game terms, beats, bonuses or any mechanic; they say what a person would ('a round went through his plate', 'lucky shot'). **And every character says only what they could plausibly know** (seen, heard, told, or reasonably worked out), never the DM's hidden facts. The math lines stay outside the speech, in the DM's voice.
+
 My own procedures as DM. Written down so I stay consistent across sessions
 instead of drifting.
 

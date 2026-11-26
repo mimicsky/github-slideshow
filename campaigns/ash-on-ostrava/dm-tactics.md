@@ -86,6 +86,7 @@ have and know, and do what they'd really do, including things this list never me
 
 ## 5. Keep it honest
 
+- **Nobody in the world talks like a game, and nobody knows what they couldn't** (README, the big one): no crits, dice, rolls, numbers or game states in anyone's mouth or head; each person says only what they saw, heard, were told or would work out.
 - **The Light's shots face the real numbers:** cover (+1 / +2 / +4), moving targets, darkness, smoke, peek and duck
   (only 2 shots at them). An enemy who uses cover well is hard to hit; that's the point.
 - **Mistakes fit the type.** Poor cultists bunch up, rush and forget cover; drilled troops don't. A conscript can
