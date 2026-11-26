@@ -284,7 +284,7 @@ suppression (-2 to targets), Hollis's near-miss grenades (half effect on a miss 
 | **Tavi** | 20.6 | 44.8 | 23.2 | 36.3 | 18.0 | 17.1 | 5.0 (Fine) (a hand-cannon crit at Crane Yard 6's gate ~0435; Dace patched him). |
 | **Morcant** (STR 50+: Strength behind the blow, codex Part 8 Armour) | 51.4 | 35.3 | 33.7 | 15 | 20.1 | 17 | 5.0 (Fine). |
 | **Sallow** | 20 | 34.4 | 22 | 25 | 49.6 | 20 | 5.0 (Fine). |
-| **Corvane** | 32.7 | 50.7 | 31.8 | 21.5 | 21.0 | 22.2 | 4.0 (Grazed) since ~2118 day 48: the slug under his chest plate, day 47; Sallow patched him from Badly hurt ~2118 day 47; healing 2d4 3 days - Sallow's care day = **Fine ~2118 day 49**. |
+| **Corvane** | 32.7 | 50.7 | 31.8 | 21.5 | 21.0 | 22.2 | **5.0 (Fine) from ~2118 day 49.** Was 4.0 (Grazed) since ~2118 day 48: the slug under his chest plate, day 47; Sallow patched him from Badly hurt ~2118 day 47; healing 2d4 3 days - Sallow's care day = **Fine ~2118 day 49**. |
 | **Nessa** | 18.9 | 60.1 | 18.2 | 21.2 | 30.1 | 27.5 | 5.0 (Fine). |
 | **Mira** | 14.8 | 51.8 | 20 | 35.0 | 32.6 | 15 | 5.0 (Fine). |
 | **Teo** | 18.1 | 47.1 | 18 | 29.1 | 20.0 | 28.2 | 5.0 (Fine). |
