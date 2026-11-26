@@ -121,6 +121,14 @@ People, places, the ship, Kesh's targets and mission briefs. **Not read on resum
   **Personality:** **newer, still developing in play.** Ashamed and scared, trying to be better. Everything is about Pell ("...And Pell?"). Quietly brave (fought at the mast, went Down for the Light). Wants in but won't ask; holds back and watches. **Proud when he does good work, in disbelief at it** (hitting a man with a gun: stunned, then proud).
   **How he talks:** calls Tamsin "sir" or "Interrogator". Shaky and halting; words that won't come the first time ("I... cast out the garden."). Barely audible when he wants something ("...And Pell?"). Swears when it hurts ("It *stings*. Throne, it stings.").
   **Traits (rolled day 35):** Lucky, Sharp memory, Glass jaw.
+- **Pim** (Light Trainee, grunt; he/him; joined day 48; age 17). **Pim Tolly** of Kettle Ford: Abe Tolly's nephew, his mam Nell Tolly. Came down the reeds with a pitchfork and a lamp in the search party on day 47 and took Nessa's dart in the neck; taken, then asked in. A Light Trainee, as Tey and Sorel were before day 34. Hellgun, bayonet, carapace in the Light's grey.
+  **Personality:** **newer, still developing in play.** Eager, earnest, blushes to the ears; badly wants to prove he can hold a gun; embarrassed about the dart; a farm boy's manners.
+  **How he talks:** "sir", every time. Quick, too loud when nervous ("It's *nothing*, sir! I can fight!"). Short promises ("Yes, sir. *Never*, sir.").
+  **Traits (rolled day 48):** Hard to kill, Fast healer, Lucky.
+- **Dag Holloway** (penitent, grunt; he/him; joined day 49, collared; ~45). Dunn's debt-collector and fist at Kettle Ford for twenty years: beat men who crossed Dunn, never went to the chapel nights (a fist for pay, not a believer). Took Tamsin's Frontier round through the thigh at the landing (day 47); Dace and Corvane talked to him on the line; won over on day 49 when Tamsin fetched him up from the hold to be mended ('Dunn would've let it rot'). Wears **Nessa's old collar** (the key and the trigger with Tamsin). Brother: **Mattias Holloway**, the Hales' hired man at Kettle Ford (he asked that Mattias be told he's alive). Lasgun, carapace in the Light's grey.
+  **Personality:** **newer, still developing in play.** Cold, patient, watches everything; no fear shown; distrusts kindness because Dunn only fixed what he meant to use; trying to find out who he is without Dunn.
+  **How he talks:** very few words, flat, statements not questions ("Why." "So which am I."). Reports pain like weather ("Stiff. Walks fine."). 'I'll carry what you give me.'
+  **Traits (rolled day 48):** Runner, Sure-footed, Iron grip.
 
 ## NPCs
 
@@ -183,12 +191,22 @@ People, places, the ship, Kesh's targets and mission briefs. **Not read on resum
 | Who | What | Status |
 | --- | --- | --- |
 | **Seraphine Wenlock** | The eldest of the five astropaths freed from Gallowmere's choir-house (day 47); aboard the *Bright Light* | Sends and receives for Tamsin (Kesh's reply, ~0250 day 48); drained by each sending (nosebleeds; Sallow watches her). Voice: thin, very formal, speaks the message flat as it came, then is herself again: tired, polite, grateful |
-| **Governor Ansel Corrow** | Planetary governor; ordered the outbound grain quarantine (day 38) | **A dupe:** his Harvest Lamps address carries the cells' trigger phrase, 'the seed is good'. Tamsin's word to Quint: kept safe |
+| **Governor Ansel Corrow** | Planetary governor (~60, tall, silver-haired, a gold aquila at his collar, a speaker's voice; calm, careful, buys time) | **NOT a dupe: a believer** (day 49: he whispered the creed, 'the garden blooms in the belly', with Tamsin's sawn-off in his face). **Taken from his study day 49, no shot fired; in the *Bright Light*'s cells; Kesh's.** Tamsin's word to Quint (kept safe) is kept: alive |
 | **Under-Secretary Quint** | Corrow's under-secretary and brother-in-law; the garden's man in the governor's house ('Q') | **Taken and broken, day 47**; Cell 1. Tamsin's word: Elin and the children kept safe |
 | **Major Ulric Mordane** | Major of the Moebian 6th; under Wolfer since the turning; shot Colonel Haskane | **Taken at XIV and broken, day 47**; Cell 1 |
 | **Commissar Vosk** | The 6th's commissar at IX | **Taken and broken, day 47**; wants in; **his fate left to Kesh**; in the medicae, restrained |
 | **Tithe-Reeve Osk Varrow** | Kesh's man at the main grain port; honest | Met day 46; stayed at the ground port |
 | **Vael** | Hearthgate port official | Gave the official quarantine story; **not fooled** by the 'Gardener Going'; wardens expected at berth 7 |
+| **Odric Halloran** | Weigh-clerk of Silo Row 3; ran the vault for the Silo (~55, heavy, fur collar, rings, brass chain of office) | **Taken day 49 at the iron door, broken** ('I weigh grain'); gave the names; in the cells for Kesh. Voice: fast, wet, pleading; 'I count everything' |
+| **Corlis** | The Spire's runaway scribe (Voke), the Silo's courier ('the one who brings the word'); thin, ~40, inky fingers | **Taken day 49** (in a wardrobe, in his nightshirt); unbroken; his satchel (four ciphered letters, the address lines, a *Tender* token) held. Voice: quiet, precise, proud; reads lines back like a clerk; 'Nobody pays the garden. It grows.' |
+| **Master Baker Hemmet** | Master of the Row's oven halls since the Silo bought them (~10 years); grey-bearded, old raider's tattoos, Pious | **Taken day 49** (shot in the calf by Tey, knocked out by Tamsin's fists); in the cells for Kesh; not yet questioned |
+| **Aldo Vale** | Journeyman baker (~22), grandson of Oswin Vale, master of 'Vale's Halls' before the Silo; oven burns on both forearms | **A willing witness** to four years of Lamps eves (the yard, the barred doors, the handcart); aboard with two young bakers. Voice: steady, plain, looks you in the eye. Tamsin holds his grandfather's scoring knife |
+| **Captain Idris Fell** | Captain of the Governor's household guard (~50, grey moustache, duelling pistol); thirty years outside Corrow's door | **Stood his men down for the Ordo** (day 49); tells the Council: heresy, plague, the cult, taken by the Ordo, faces unseen. Correct to the last button; 'Better you found it than the plague did' |
+| **Sergeant Bram Okonjo** | PDF sergeant, the horn relay's section (~35, steady) | Stood aside on Fell's word (day 49); his section back to barracks |
+| **Corporal Hesse** | PDF vox-tech at the Lamplighters' Tower (~25, nervous, honest) | Shut the relay down and pulled the three master valves for Tamsin (day 49) |
+| **Lord Steward Emeric Vance** | Corrow's steward of thirty years; presides over the Council of Hearthgate until a new governor | Not met; the Council meets at dawn, day 50; Kesh writes to him under seal |
+| **Hanne Sallis** | The widow of Sallis & Daughters, No. 7 the Quay of Weights: the Silo's purse | Not met; sent the cart for Hemmet (day 49); Kesh: take her quietly before the Lamps |
+| **Abner Coyle, Rudd Kemp** | Sallis house men: Coyle the cart's driver and medic (older, short-sighted, coughs), Kemp the plate man (an heirloom chest plate; cool) | Taken day 49; in the east vault at Fourteen |
 
 ### New crew, Season Two (session 8, rolled openly)
 

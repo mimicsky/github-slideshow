@@ -53050,7 +53050,7 @@ himself. He said nothing about their weapons; he would not have dared. The house
 stone halls, hung with paper Lamps half-strung for the festival, and servants up ladders
 stringing the rest. Fell took them up a broad stair to the Governor's study.
 
-At about 1603 they came into it. Governor Aurel Corrow rose from his desk, unhurried, and
+At about 1603 they came into it. Governor Ansel Corrow rose from his desk, unhurried, and
 dismissed his secretary with a look. He was about sixty, tall and silver-haired, with a
 gold aquila at his collar and a speaker's voice. On the desk, under a paperweight, lay the
 drafts of his Lamps address.

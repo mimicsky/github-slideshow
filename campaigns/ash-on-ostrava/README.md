@@ -176,6 +176,11 @@ Like the gear catalogue: don't read these up front. When the trigger happens, op
 - **Don't read pools, hidden notes or nemeses out to the player.**
 - **Questioning a captive or trying to win someone over = the Will system (codex house rule 8), never a plain check against a hidden number.** Before the first question, look up (or set) their Will and breaking point in `dm-notes.md`. **No checks by the clock (the player, day 37): the player talks, line by line; the DM decides whether each line gets in, by who the subject is; a line that gets in = one will check (new leverage gets in most easily; the same card twice usually doesn't); each check takes 1-10% Will (9 or less 1-2, 10-14 3-5, 15-19 6-8, 20+ 9-10; a natural 20 doubles)**, rolled openly **by the DM for the player** (Intimidation, Persuasion or a pairing, by the approach), Will lost by the table; hard methods +5% and their risk roll. They answer truthfully only once broken, and only what they know. Say "(will check)" on the roll line, and save the new Will (hidden) to `dm-notes.md`. **Tamsin adds +1 on every will check (the provost's manual).**
 
+## People (the player, day 49)
+
+- **New named people get built as they're met:** a row in `world.md` (who, look, voice in a line or two, what the Light knows of their background, status), and anyone who joins the Light gets a full bio with personality, how they talk and traits. **Existing people get added to** when play shows something new about them (a backstory told, a change of heart). Only what the Light knows goes in `world.md`; anything hidden stays in `dm-notes.md`.
+- **Trait watch (DM, `dm-notes.md`):** for the Light and other important characters, note play that could earn, lose or turn a trait (codex house rule 9: important characters' traits can change over time, at the DM's call). When a pattern holds over a few scenes, make the change and tell the player in a line.
+
 ## End of every in-game day
 
 1. Show the **tally sheet** (Tamsin's stats before and after, then the Light's). **Anyone whose STR crosses 50: flag 'STR 50+: Strength behind the blow' on their sheet row** (codex Part 8, Armour; the paper trail).

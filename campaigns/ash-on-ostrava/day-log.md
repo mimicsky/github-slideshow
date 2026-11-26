@@ -9,5 +9,5 @@ Safety-net notes, one line per big scene, deleted once the day's chapter is writ
 ## Day 50 (from ~2228 day 49)
 
 - ~2228 day 49: Tamsin went to Brenner at his station off the bridge, the city vox murmuring low.
-- ~2230: "We have a location?" Number 7, the Quay of Weights, a kilometre downriver: four storeys on the quay front, the counting-house below and the family above, a private river landing out back, a walled cart yard. "Which two are the ones I need to chat to?" Ansel Coyle, the driver, and Rudd Kemp, the plate man, both in the east vault. "I remember what they look like." Tamsin went to the bunks: Corvane up and restless, healed; Nessa oiling her knives; Dag sitting up in his collar at the end.
+- ~2230: "We have a location?" Number 7, the Quay of Weights, a kilometre downriver: four storeys on the quay front, the counting-house below and the family above, a private river landing out back, a walled cart yard. "Which two are the ones I need to chat to?" Abner Coyle, the driver, and Rudd Kemp, the plate man, both in the east vault. "I remember what they look like." Tamsin went to the bunks: Corvane up and restless, healed; Nessa oiling her knives; Dag sitting up in his collar at the end.
 
